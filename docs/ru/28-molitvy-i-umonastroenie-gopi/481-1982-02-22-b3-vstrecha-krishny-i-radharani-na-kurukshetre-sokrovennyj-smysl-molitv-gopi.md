@@ -1,8 +1,13 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1982.02"
-  - Онтология прекрасной реальности
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3

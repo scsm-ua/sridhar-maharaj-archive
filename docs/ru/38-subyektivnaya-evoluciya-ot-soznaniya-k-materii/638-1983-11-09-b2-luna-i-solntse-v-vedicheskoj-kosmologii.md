@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3

@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 372-1983-03-30-b3-1-strategiya-propovedi
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.03"
-  - Проповедь
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.mp3

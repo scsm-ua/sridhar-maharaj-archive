@@ -1,8 +1,13 @@
 ---
-category: (14. Ведическая культура)
+slug: 186-sva-dharma-i-bhagavata-dharma-1982-02-15-a1
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1982.02"
-  - Дхарма
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/186_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3

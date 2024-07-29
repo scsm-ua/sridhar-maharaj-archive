@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.06"
-  - Святое Имя
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3

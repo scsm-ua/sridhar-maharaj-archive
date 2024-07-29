@@ -1,7 +1,11 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/369_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3

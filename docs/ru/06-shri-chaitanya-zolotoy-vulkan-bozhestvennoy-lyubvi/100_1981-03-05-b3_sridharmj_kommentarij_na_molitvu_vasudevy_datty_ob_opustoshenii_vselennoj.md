@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 100_1981-03-05-b3_sridharmj_kommentarij_na_molitvu_vasudevy_datty_ob_opustoshenii_vselennoj
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1981.03"
-  - история о просьбе Васудевы Датты освободить всех
+  - title: "1981.03"
+    slug: 1981-03
+  - title: история о просьбе Васудевы Датты освободить всех
+    slug: istoriya-o-prosbe-vasudevy-datty-osvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/100_1981.03.05.B3_SridharMj_Kommentarij_na_molitvu_Vasudevy_Datty_ob_opustoshenii_vselennoj.mp3

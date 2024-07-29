@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3

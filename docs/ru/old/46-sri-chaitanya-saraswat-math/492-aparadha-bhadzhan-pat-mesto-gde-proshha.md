@@ -1,9 +1,15 @@
 ---
-category: (46. Шри Чайтанья Сарасват Матх)
+slug: 492-aparadha-bhadzhan-pat-mesto-gde-proshha
+category:
+  title: (46. Шри Чайтанья Сарасват Матх)
+  slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - Апарадха-бхаджан-пат
-  - Грех
-  - Мгновения прекрасной реальности
+  - title: Апарадха-бхаджан-пат
+    slug: aparadha-bhadzhan-pat
+  - title: Грех
+    slug: greh
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/492_MgnoveniyaPR_2.4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3

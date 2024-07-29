@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 930-1983-01-05-b1-1-zhizn-bilvanmangala-duhovnyj-put-i-materialnye-privyazannosti
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/930_1983.01.05.B1.1_SridharMj_Zhizn_Bilvanmangala_Duhovnyj_put_i_materialnye_privjazannosti.mp3

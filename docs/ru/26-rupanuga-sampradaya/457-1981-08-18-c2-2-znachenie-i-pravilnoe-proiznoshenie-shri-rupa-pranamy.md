@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3

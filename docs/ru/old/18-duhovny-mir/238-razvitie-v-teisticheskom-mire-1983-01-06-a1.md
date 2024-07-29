@@ -1,11 +1,19 @@
 ---
-category: (18. Духовный мир)
+slug: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1983.01"
-  - Духовный мир
-  - Кришна
-  - Любовь
-  - Рупа Госвами
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Кришна
+    slug: krishna
+  - title: Любовь
+    slug: lyubov
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/238_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3

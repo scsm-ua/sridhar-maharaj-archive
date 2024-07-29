@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.11"
-  - Гуру
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3

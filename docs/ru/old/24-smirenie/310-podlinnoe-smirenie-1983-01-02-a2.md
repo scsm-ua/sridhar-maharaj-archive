@@ -1,10 +1,17 @@
 ---
-category: (24. Смирение)
+slug: 310-podlinnoe-smirenie-1983-01-02-a2
+category:
+  title: (24. Смирение)
+  slug: 24-smirenie
 tags:
-  - "1983.01"
-  - Сарасвати Тхакур
-  - Смирение
-  - Терпение
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/310_1983.01.02.A2_SridharMj_Podlinnoe_smirenie.mp3

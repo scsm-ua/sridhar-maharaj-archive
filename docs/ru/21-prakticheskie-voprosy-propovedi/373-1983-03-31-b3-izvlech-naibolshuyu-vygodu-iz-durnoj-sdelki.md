@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 373-1983-03-31-b3-izvlech-naibolshuyu-vygodu-iz-durnoj-sdelki
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.03"
-  - Проповедь
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3

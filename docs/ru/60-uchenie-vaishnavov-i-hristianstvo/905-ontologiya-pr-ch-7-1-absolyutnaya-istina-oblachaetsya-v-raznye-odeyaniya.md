@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 905-ontologiya-pr-ch-7-1-absolyutnaya-istina-oblachaetsya-v-raznye-odeyaniya
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3

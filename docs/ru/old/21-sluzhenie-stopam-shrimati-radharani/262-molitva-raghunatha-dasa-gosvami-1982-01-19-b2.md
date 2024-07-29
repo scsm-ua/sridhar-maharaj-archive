@@ -1,17 +1,31 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1982.01"
-  - Бхакти
-  - Кришнадас Кавирадж Госвами
-  - Лалита Деви
-  - Махапрабху
-  - Молитва
-  - Навадвип
-  - Нитьянанда Прабху
-  - Рагхунатх Дас Госвами
-  - Рупа Госвами
-  - Санатана Госвами
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Бхакти
+    slug: bhakti
+  - title: Кришнадас Кавирадж Госвами
+    slug: krishnadas-kaviradzh-gosvami
+  - title: Лалита Деви
+    slug: lalita-devi
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Молитва
+    slug: molitva
+  - title: Навадвип
+    slug: navadvip
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Рагхунатх Дас Госвами
+    slug: raghunath-das-gosvami
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/262_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3

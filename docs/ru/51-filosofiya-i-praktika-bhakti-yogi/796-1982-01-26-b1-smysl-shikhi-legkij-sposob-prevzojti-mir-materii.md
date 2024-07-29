@@ -1,7 +1,11 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3

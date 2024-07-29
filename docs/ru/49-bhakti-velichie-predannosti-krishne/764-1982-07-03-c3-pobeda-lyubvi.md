@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 764-1982-07-03-c3-pobeda-lyubvi
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.07"
-  - Бхакти
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/764_1982.07.03.C3_SridharMj_Pobeda_ljubvi.mp3

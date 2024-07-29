@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.05"
-  - Проповедь
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.mp3

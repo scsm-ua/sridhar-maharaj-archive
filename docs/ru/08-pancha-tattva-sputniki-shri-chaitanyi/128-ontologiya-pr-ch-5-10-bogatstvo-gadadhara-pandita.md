@@ -1,8 +1,13 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Гададхар Пандит
-  - Онтология прекрасной реальности
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.mp3

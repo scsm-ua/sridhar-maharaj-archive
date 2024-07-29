@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3

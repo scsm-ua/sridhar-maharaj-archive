@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3

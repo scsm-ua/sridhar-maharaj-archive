@@ -1,8 +1,13 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 87-krishna-dzhiva-dharma
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - Душа
-  - Дхарма
+  - title: Душа
+    slug: dusha
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/087_2012.07.25.18_ShridharMj_Krishna_djiva_dharma.mp3

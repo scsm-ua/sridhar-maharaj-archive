@@ -1,9 +1,15 @@
 ---
-category: (13. О проповеди)
+slug: 169-nadmirnaya-priroda-vajshnava-beseda-s
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1981.03"
-  - Вера
-  - Материальный мир
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Вера
+    slug: vera
+  - title: Материальный мир
+    slug: materialnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/169_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3

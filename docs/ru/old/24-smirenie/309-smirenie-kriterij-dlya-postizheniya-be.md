@@ -1,9 +1,15 @@
 ---
-category: (24. Смирение)
+slug: 309-smirenie-kriterij-dlya-postizheniya-be
+category:
+  title: (24. Смирение)
+  slug: 24-smirenie
 tags:
-  - "1985.05"
-  - Смирение
-  - Терпение
+  - title: "1985.05"
+    slug: 1985-05
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/309_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3

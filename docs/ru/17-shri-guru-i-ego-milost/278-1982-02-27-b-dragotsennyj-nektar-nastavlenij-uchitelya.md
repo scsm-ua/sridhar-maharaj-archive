@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3

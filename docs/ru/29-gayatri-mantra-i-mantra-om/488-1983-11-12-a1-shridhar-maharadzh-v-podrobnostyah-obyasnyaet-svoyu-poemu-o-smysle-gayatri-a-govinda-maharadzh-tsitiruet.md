@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1983.11"
-  - Гаятри-мантра
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3

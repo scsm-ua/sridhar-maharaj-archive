@@ -1,10 +1,17 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.08"
-  - Вайкунтха
-  - Гуру
-  - Качества ученика
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/121_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3

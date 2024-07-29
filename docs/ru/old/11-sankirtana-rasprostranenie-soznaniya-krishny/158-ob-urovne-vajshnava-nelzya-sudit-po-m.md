@@ -1,11 +1,19 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 158-ob-urovne-vajshnava-nelzya-sudit-po-m
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - Гададхар Пандит
-  - Махапрабху
-  - Мукунда
-  - Онтология прекрасной реальности
-  - Пундарик Видьянидхи
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Мукунда
+    slug: mukunda
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Пундарик Видьянидхи
+    slug: pundarik-vidyanidhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/158_OntologiyaPR_5.1_SridharMj_Ob_urovne_vaishnava_nelzya_sudit_po_masshtabu_ego_propovedi.mp3

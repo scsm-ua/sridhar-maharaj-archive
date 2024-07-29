@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3

@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1982.05"
-  - Ведическая цивилизация
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3

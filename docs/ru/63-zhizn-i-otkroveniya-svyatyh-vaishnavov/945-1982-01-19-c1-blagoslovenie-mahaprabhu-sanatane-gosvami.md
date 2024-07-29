@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 945-1982-01-19-c1-blagoslovenie-mahaprabhu-sanatane-gosvami
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/945_1982.01.19.C1_SridharMj_Blagoslovenie_Mahaprabhu_Sanatane_Gosvami.mp3

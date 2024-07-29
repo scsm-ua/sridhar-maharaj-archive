@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3

@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 9-penie-tanets-i-pochitanie-prasada-kak-d
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1981.08"
-  - Махапрабху
-  - Навадвип
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Навадвип
+    slug: navadvip
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/009_1981.08.31.C3_SridharMj_Penie_tanec_i_pochitaniye_prasada_kak_duhovnaya_praktika_yavlennaya_Mahaprabhu.mp3

@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 390-1982-06-10-b2-istinnyj-propovednik-ne-stremitsya-skontsentrirovat-lyudej-na-sebe-no-na-obitatelyah-vysshego-mira
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.06"
-  - Проповедь
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.mp3

@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1981.03"
-  - Гаятри-мантра
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3

@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - Махапрабху
-  - Санньяса
-  - пратьякша-парокша-апарокша-адхокшаджа-апракрита
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Санньяса
+    slug: sannyasa
+  - title: пратьякша-парокша-апарокша-адхокшаджа-апракрита
+    slug: pratyaksha-paroksha-aparoksha-adhokshad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3

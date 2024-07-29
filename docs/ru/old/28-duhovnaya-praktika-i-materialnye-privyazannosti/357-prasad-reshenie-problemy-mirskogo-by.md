@@ -1,8 +1,13 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 357-prasad-reshenie-problemy-mirskogo-by
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1982.09"
-  - Прасад
+  - title: "1982.09"
+    slug: 1982-09
+  - title: Прасад
+    slug: prasad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/357_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3

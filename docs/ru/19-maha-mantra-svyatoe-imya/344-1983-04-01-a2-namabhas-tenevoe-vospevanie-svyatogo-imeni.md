@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.04"
-  - Святое Имя
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/344_1983.04.01.A2_SridharMj_Namabhas_tenevoe_vospevanie_Svjatogo_Imeni.mp3

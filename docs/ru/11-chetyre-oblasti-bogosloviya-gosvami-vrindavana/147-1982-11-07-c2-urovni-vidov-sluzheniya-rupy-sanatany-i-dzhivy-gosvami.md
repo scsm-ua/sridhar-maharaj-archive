@@ -1,10 +1,17 @@
 ---
-category: 11. Четыре области богословия Госвами Вриндавана
+slug: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami
+category:
+  title: 11. Четыре области богословия Госвами Вриндавана
+  slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - "1982.11"
-  - Джива Госвами
-  - Рупа Госвами
-  - Санатана Госвами
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Джива Госвами
+    slug: dzhiva-gosvami
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.mp3

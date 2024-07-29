@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 559-1983-06-27-realnost-very-za-predelami-mira-smerti
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/559_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti.mp3

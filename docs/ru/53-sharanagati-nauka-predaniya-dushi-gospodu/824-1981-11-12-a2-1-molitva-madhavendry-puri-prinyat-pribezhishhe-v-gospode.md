@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1981.11"
-  - Шаранагати
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3

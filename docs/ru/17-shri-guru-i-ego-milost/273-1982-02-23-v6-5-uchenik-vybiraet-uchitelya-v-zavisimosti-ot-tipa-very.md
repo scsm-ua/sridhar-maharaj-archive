@@ -1,9 +1,15 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
-  - Гуру-парампара
-  - Мгновения прекрасной реальности
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Гуру-парампара
+    slug: guru-parampara
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3

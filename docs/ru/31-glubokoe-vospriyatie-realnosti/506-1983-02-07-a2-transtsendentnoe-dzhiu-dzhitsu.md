@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3

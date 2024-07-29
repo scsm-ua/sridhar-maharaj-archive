@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3

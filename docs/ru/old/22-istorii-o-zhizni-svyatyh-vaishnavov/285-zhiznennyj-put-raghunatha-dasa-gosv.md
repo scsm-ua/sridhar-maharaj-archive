@@ -1,10 +1,17 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 285-zhiznennyj-put-raghunatha-dasa-gosv
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.05"
-  - Истории о вайшнавах
-  - Кришнадас Кавирадж Госвами
-  - Рагхунатх Дас Госвами
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Кришнадас Кавирадж Госвами
+    slug: krishnadas-kaviradzh-gosvami
+  - title: Рагхунатх Дас Госвами
+    slug: raghunath-das-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/285_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3

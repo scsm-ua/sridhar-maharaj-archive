@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 103-o-prinyatii-duhovnym-uchitelem-karmy-u
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
-  - Карма
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
+  - title: Карма
+    slug: karma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/103_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3

@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 236-1985-10-05-a5-vajshnavy-nashi-hraniteli-na-duhovnom-puti
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1985.10"
+  - title: "1985.10"
+    slug: 1985-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3

@@ -1,8 +1,13 @@
 ---
-category: (30. Садху-санга - духовное общение)
+slug: 374-obshhestvo-sadhu-i-svyashhennye-pisaniya-o
+category:
+  title: (30. Садху-санга - духовное общение)
+  slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - Онтология прекрасной реальности
-  - Садху-санга
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/374_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3

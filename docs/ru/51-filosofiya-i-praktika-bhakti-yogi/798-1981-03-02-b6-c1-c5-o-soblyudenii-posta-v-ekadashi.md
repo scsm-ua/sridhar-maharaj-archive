@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1981.03"
-  - Экадаши
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Экадаши
+    slug: ekadashi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3

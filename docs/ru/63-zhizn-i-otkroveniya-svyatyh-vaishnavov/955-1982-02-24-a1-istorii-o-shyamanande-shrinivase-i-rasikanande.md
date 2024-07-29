@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3

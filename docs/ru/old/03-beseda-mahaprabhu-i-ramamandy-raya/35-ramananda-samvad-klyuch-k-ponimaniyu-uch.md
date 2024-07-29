@@ -1,11 +1,19 @@
 ---
-category: (03. Беседа Махапрабху и Рамананды Рая)
+slug: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch
+category:
+  title: (03. Беседа Махапрабху и Рамананды Рая)
+  slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - "1982.01"
-  - Биография Шридхара Махараджа
-  - Махапрабху
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/035_1982.01.12.C2_SridharMj_Ramananda-samvad-klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3

@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_%E2%80%93_volny_sladostnogo_okeana_lily.mp3

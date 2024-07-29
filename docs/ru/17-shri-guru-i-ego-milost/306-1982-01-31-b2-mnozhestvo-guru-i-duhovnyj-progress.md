@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/306_1982.01.31.B2_SridharMj_Mnozhestvo_guru_i_duhovnyj_progress.mp3

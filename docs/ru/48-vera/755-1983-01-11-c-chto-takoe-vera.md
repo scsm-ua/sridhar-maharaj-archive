@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 755-1983-01-11-c-chto-takoe-vera
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1983.01"
-  - Вера
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/755_1983.01.11.C_SridharMj_Chto_takoe_vera.mp3

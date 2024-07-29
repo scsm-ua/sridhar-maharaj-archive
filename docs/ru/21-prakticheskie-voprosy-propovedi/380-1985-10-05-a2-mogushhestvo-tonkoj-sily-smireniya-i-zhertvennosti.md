@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1985.10"
-  - Проповедь
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3

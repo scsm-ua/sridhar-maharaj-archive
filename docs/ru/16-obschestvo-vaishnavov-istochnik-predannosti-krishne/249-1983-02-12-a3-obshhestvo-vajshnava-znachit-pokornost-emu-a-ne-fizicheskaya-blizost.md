@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.02"
-  - Садху-санга
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.mp3

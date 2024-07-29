@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3

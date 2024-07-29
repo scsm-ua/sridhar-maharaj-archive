@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3

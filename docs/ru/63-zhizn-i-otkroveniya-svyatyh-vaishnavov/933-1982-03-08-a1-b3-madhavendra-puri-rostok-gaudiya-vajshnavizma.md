@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3

@@ -1,7 +1,11 @@
 ---
-category: 54. Смирение и терпение
+slug: 836-1982-06-08-b3-kak-razvit-smirenie-obretenie-istinnogo-ego
+category:
+  title: 54. Смирение и терпение
+  slug: 54-smirenie-i-terpenie
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/836_1982.06.08.B3_SridharMj_Kak_razvit_smirenie__Obretenie_istinnogo_jego.mp3

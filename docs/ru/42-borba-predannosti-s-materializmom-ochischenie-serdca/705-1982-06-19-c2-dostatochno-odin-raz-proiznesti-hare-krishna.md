@@ -1,7 +1,11 @@
 ---
-category: 42. Борьба преданности с материализмом — очищение сердца
+slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
+category:
+  title: 42. Борьба преданности с материализмом — очищение сердца
+  slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.mp3

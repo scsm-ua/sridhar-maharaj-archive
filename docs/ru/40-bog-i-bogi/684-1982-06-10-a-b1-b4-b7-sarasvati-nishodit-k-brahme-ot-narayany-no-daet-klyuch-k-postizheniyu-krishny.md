@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3

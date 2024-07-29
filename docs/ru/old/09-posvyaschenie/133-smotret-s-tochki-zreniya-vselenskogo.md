@@ -1,8 +1,13 @@
 ---
-category: (09. Посвящение)
+slug: 133-smotret-s-tochki-zreniya-vselenskogo
+category:
+  title: (09. Посвящение)
+  slug: 09-posvyaschenie
 tags:
-  - "1983.01"
-  - Посвящение
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/133_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3

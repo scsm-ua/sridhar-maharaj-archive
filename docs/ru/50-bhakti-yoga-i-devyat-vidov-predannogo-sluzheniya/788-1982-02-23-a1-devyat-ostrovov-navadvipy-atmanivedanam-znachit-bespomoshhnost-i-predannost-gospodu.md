@@ -1,9 +1,15 @@
 ---
-category: 50. Бхакти-йога и девять видов преданного служения
+slug: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu
+category:
+  title: 50. Бхакти-йога и девять видов преданного служения
+  slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
 tags:
-  - "1982.02"
-  - Атманиведанам
-  - Бхакти-йога
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Атманиведанам
+    slug: atmanivedanam
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.mp3

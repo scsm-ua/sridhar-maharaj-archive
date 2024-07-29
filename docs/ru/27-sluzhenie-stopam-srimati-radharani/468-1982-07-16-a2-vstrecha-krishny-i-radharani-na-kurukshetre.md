@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3

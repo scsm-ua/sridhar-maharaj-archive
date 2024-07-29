@@ -1,5 +1,8 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 57-lish-po-vole-krishny-my-mozhem-poznat-e
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/057_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3

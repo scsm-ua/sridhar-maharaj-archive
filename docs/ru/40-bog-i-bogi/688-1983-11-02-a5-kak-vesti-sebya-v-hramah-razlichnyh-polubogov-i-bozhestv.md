@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 688-1983-11-02-a5-kak-vesti-sebya-v-hramah-razlichnyh-polubogov-i-bozhestv
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3

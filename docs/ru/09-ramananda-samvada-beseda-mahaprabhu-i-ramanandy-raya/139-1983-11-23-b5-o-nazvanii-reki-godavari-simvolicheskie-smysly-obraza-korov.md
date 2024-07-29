@@ -1,9 +1,15 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1983.11"
-  - Годавари
-  - Рамананда-самвад
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Годавари
+    slug: godavari
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3

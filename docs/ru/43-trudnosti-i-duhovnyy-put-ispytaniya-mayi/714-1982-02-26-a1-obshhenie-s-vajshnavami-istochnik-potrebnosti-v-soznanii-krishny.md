@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3

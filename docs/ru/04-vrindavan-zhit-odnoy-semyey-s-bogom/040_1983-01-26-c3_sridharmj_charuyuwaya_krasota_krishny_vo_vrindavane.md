@@ -1,9 +1,15 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1983.01"
-  - Брахма
-  - Кришна
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Брахма
+    slug: brahma
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3

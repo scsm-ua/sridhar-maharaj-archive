@@ -1,9 +1,15 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 496-o-ponyatii-shaktyavesha-avatara-i-bhakt
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1981.02"
-  - Бхактиведанта Свами Прабхупада
-  - Шактьявеша-аватара
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Шактьявеша-аватара
+    slug: shaktyavesha-avatara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/496_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3

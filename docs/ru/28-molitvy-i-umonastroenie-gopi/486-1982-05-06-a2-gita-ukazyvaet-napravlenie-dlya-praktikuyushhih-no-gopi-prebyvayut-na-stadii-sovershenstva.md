@@ -1,7 +1,11 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 486-1982-05-06-a2-gita-ukazyvaet-napravlenie-dlya-praktikuyushhih-no-gopi-prebyvayut-na-stadii-sovershenstva
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3

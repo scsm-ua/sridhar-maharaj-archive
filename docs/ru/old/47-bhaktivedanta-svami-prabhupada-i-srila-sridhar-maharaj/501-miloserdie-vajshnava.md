@@ -1,7 +1,11 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 501-miloserdie-vajshnava
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - Бхактиведанта Свами Прабхупада
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/501_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.mp3

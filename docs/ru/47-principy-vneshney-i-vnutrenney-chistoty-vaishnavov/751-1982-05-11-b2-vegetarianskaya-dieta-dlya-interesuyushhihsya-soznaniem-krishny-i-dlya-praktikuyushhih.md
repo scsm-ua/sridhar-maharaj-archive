@@ -1,7 +1,11 @@
 ---
-category: 47. Принципы внешней и внутренней чистоты вайшнавов
+slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
+category:
+  title: 47. Принципы внешней и внутренней чистоты вайшнавов
+  slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3

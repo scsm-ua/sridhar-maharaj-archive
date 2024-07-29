@@ -1,10 +1,17 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 307-protivorechiya-v-opisaniyah-chajtanya-ch
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1982.01"
-  - Священные писания
-  - Чайтанья-бхагавата
-  - Чайтанья-чаритамрита
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
+  - title: Чайтанья-бхагавата
+    slug: chajtanya-bhagavata
+  - title: Чайтанья-чаритамрита
+    slug: chajtanya-charitamrita
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/307_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3

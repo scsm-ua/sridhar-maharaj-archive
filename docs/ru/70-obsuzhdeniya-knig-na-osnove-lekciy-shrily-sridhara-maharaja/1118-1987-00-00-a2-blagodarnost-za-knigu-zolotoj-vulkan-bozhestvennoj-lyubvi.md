@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1987.00"
+  - title: "1987.00"
+    slug: 1987-00
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3

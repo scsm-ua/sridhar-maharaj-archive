@@ -1,9 +1,15 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 253-dusha-chastitsa-absolyuta-1981-08-18-b2
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1981.08"
-  - Душа
-  - Сварупа-шакти
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Душа
+    slug: dusha
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/253_1981.08.18.B2_SridharMj_Dusha-chastica_Absoluta.mp3

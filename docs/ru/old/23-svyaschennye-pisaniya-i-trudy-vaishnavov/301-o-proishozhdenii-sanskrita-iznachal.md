@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 301-o-proishozhdenii-sanskrita-iznachal
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1981.08"
-  - Санскрит
-  - Священные писания
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Санскрит
+    slug: sanskrit
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/301_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3

@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.04"
-  - сат-чит-ананда
-  - сатьям-шивам-сундарам
+  - title: "1982.04"
+    slug: 1982-04
+  - title: сат-чит-ананда
+    slug: sat-chit-ananda
+  - title: сатьям-шивам-сундарам
+    slug: satyam-shivam-sundaram
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.mp3

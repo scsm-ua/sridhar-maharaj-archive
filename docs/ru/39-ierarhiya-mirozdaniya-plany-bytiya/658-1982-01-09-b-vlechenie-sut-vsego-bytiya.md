@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/658_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3

@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 477-gruppa-sarasvati-thakura-v-gaudiya-ma
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - Гаудия-матх
-  - Онтология прекрасной реальности
-  - Сарасвати Тхакур
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/477_OntologiyaPR_6.3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3

@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3

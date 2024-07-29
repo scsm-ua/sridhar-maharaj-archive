@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 271-1981-08-28-a1-shiksha-guru-parampara
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.08"
-  - Гуру-парампара
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3

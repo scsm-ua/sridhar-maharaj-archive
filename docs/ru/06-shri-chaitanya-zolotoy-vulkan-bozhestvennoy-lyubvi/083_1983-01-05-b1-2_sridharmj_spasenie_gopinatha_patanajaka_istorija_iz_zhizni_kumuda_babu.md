@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 083_1983-01-05-b1-2_sridharmj_spasenie_gopinatha_patanajaka_istorija_iz_zhizni_kumuda_babu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - история
-  - история о Кумуде Бабу
-  - история о спасении Гопинатха Паттанаяка
+  - title: "1983.01"
+    slug: 1983-01
+  - title: история
+    slug: istoriya
+  - title: история о Кумуде Бабу
+    slug: istoriya-o-kumude-babu
+  - title: история о спасении Гопинатха Паттанаяка
+    slug: istoriya-o-spasenii-gopinatha-pattana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/083_1983.01.05.B1.2_SridharMj_Spasenie_Gopinatha_Patanajaka_Istorija_iz_zhizni_Kumuda_Babu.mp3

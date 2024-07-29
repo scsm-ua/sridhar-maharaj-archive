@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 367-1982-01-27-c1-duhovnaya-vibratsiya-osvobozhdaet-vse-formy-zhizni
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.01"
-  - Санкиртана
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3

@@ -1,10 +1,17 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 119-guru-v-linii-rupanuga-1983-06-21-a1
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.06"
-  - Гуру
-  - Качества ученика
-  - Рупа Госвами
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/119_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3

@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 196-1982-07-16-a1-vseblagaya-priroda-chid-vilasa
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.mp3

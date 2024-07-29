@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1049_1983.11.14.B4_SridharMj_Smotret_skvoz_prizmu_Bezgranichnogo_Istorija_o_dengah_professora_Sannjala.mp3

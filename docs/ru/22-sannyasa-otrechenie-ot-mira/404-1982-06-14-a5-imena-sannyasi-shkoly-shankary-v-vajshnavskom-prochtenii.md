@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1982.06"
-  - Санньяса
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.mp3

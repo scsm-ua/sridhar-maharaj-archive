@@ -1,15 +1,27 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 283-odin-svyatoj-den-1982-01-30-a-b
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1982.01"
-  - Вишванатх Тхакур
-  - Вишнуприя Деви
-  - Истории о вайшнавах
-  - Пундарик Видьянитхи
-  - Рагхунандан
-  - Рагхунатх Дас Госвами
-  - Сарасвати Деви
-  - Сварупа Дамодар
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вишванатх Тхакур
+    slug: vishvanath-thakur
+  - title: Вишнуприя Деви
+    slug: vishnupriya-devi
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Пундарик Видьянитхи
+    slug: pundarik-vidyanithi
+  - title: Рагхунандан
+    slug: raghunandan
+  - title: Рагхунатх Дас Госвами
+    slug: raghunath-das-gosvami
+  - title: Сарасвати Деви
+    slug: sarasvati-devi
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/283_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_1982.mp3

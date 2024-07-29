@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - Онтология прекрасной реальности
-  - дата неизвестна
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: дата неизвестна
+    slug: data-neizvestna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3

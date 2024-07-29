@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 673-1982-01-05-b-polozhenie-gospoda-shivy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3

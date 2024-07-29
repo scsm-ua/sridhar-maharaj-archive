@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 461-budte-muzhestvennymi-i-bezzabotnym
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - Онтология прекрасной реальности
-  - Сарасвати Тхакур
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/461_OntologiyaPR_2.4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3

@@ -1,10 +1,17 @@
 ---
-category: (27. Духовный путь)
+slug: 337-smirenie-i-terpenie-pomogut-vystoyat
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1982.02"
-  - with English text
-  - Смирение
-  - Терпение
+  - title: "1982.02"
+    slug: 1982-02
+  - title: with English text
+    slug: with-english-text
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
 ---
 

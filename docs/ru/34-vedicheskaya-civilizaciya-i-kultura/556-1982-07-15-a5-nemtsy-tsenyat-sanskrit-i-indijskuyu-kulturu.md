@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 556-1982-07-15-a5-nemtsy-tsenyat-sanskrit-i-indijskuyu-kulturu
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1982.07"
-  - Ведическая цивилизация
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.mp3

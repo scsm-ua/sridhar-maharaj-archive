@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3

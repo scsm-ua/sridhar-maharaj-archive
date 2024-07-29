@@ -1,11 +1,19 @@
 ---
-category: (24. Смирение)
+slug: 311-obyasnenie-smysla-stiha-trinad-api
+category:
+  title: (24. Смирение)
+  slug: 24-smirenie
 tags:
-  - "1983.05"
-  - Гармония
-  - Рагхунатх Дас Госвами
-  - Смирение
-  - Терпение
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Гармония
+    slug: garmoniya
+  - title: Рагхунатх Дас Госвами
+    slug: raghunath-das-gosvami
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/311_1983.05.09.B2_SridharMj_Obyasnenie_smysla_stiha_Trinad-api-sunichena1.mp3

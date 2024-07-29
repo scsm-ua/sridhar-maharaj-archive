@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - 1983.07.19
-  - Проповедь
+  - title: 1983.07.19
+    slug: 1983-07-19
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3

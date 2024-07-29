@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 305-o-poezii-prabodhanandy-sarasvati-1982-01-09-c1
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1982.01"
-  - Прабодхананда
-  - Священные писания
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Прабодхананда
+    slug: prabodhananda
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/305_1982.01.09.C1_SridharMj_O_poezii_Prabjdhanandy_Sarasvati.mp3

@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 64-bozhestvennoe-nevedenie-chast-krishn
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1983.01"
-  - Кришна-лила
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/064_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_krishna-lily.mp3

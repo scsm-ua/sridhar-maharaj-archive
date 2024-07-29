@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
-  - Гуру-таттва
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3

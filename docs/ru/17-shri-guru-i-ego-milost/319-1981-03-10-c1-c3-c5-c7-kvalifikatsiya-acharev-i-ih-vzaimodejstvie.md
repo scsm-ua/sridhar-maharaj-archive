@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру-таттва
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3

@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3

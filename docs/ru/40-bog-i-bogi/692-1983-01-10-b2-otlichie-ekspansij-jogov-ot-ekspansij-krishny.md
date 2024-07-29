@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 692-1983-01-10-b2-otlichie-ekspansij-jogov-ot-ekspansij-krishny
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3

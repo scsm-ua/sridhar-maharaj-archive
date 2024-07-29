@@ -1,7 +1,11 @@
 ---
-category: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+slug: 1074-segodnya-evropa-byla-pobezhdena-aziej
+category:
+  title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+  slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.mp3

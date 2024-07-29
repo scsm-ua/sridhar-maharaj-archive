@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.mp3

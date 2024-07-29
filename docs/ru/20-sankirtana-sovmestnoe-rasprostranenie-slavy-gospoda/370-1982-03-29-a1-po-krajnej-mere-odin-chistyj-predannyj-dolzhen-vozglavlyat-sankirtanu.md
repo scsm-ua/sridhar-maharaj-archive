@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 370-1982-03-29-a1-po-krajnej-mere-odin-chistyj-predannyj-dolzhen-vozglavlyat-sankirtanu
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.03"
-  - Санкиртана
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/370_1982.03.29.A1_SridharMj_Po_krajnej_mere_odin_chistyj_predannyj_dolzhen_vozglavljat_sankirtanu.mp3

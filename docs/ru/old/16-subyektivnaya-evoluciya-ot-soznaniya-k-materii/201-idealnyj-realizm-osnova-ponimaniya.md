@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 201-idealnyj-realizm-osnova-ponimaniya
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.04"
-  - Душа
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/201_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3

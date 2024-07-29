@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 114-mnozhestvo-guru-i-duhovnyj-progress-1982-01-3
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1982.01"
-  - Гуру
-  - Качества ученика
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/114_1982.01.31.B_SridharMj_Mnojestvo_guru_i_dovniy_progress.mp3

@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3

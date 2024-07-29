@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/195_1982.06.10.B9.C1_SridharMj_V_raznye_kalpy_javlenie_Shukadeva_proishodit_po-raznomu.mp3

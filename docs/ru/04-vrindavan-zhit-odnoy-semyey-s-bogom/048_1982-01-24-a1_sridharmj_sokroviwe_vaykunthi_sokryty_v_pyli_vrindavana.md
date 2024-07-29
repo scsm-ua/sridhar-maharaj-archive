@@ -1,9 +1,15 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 048_1982-01-24-a1_sridharmj_sokroviwe_vaykunthi_sokryty_v_pyli_vrindavana
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1982.01"
-  - Вриндаван
-  - Духовный мир
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вриндаван
+    slug: vrindavan
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3

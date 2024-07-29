@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 98-uchenik-vybiraet-uchitelya-v-zavisimost
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Гуру
-  - Качества ученика
-  - Мгновения прекрасной реальности
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/098_MgnoveniyaPR_6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3

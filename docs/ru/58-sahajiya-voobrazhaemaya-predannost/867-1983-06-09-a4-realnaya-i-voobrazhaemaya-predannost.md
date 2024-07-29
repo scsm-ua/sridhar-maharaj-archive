@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3

@@ -1,9 +1,15 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 434-o-razlichii-vzglyadov-bhaktisiddhanty
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - Онтология прекрасной реальности
-  - Сарасвати Тхакур
-  - Сахаджия
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/434_OntologiyaPR_6.5_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3

@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 358-poklonenie-bogam-i-razvitie-predann
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/358_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3

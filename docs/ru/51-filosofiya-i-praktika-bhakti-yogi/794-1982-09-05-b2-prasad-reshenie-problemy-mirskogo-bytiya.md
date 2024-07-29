@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.09"
-  - Прасад
+  - title: "1982.09"
+    slug: 1982-09
+  - title: Прасад
+    slug: prasad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3

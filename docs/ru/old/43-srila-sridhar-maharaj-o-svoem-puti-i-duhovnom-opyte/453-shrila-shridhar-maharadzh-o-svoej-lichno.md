@@ -1,8 +1,13 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 453-shrila-shridhar-maharadzh-o-svoej-lichno
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1982.01"
-  - Биография Шридхара Махараджа
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/453_1982.01.02.A_SridharMj_O_svoey_lichnosti_i_goroskope1.mp3

@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3

@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
-  - Гуру-парампара
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3

@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3

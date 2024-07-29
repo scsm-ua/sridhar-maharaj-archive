@@ -1,9 +1,15 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 367-kogda-sovershaemaya-deyatelnost-yavlya
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - Бхакти
-  - Карма
-  - Мгновения прекрасной реальности
+  - title: Бхакти
+    slug: bhakti
+  - title: Карма
+    slug: karma
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/367_MgnoveniyaPR_1.2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3

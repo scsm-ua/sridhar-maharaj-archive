@@ -1,7 +1,11 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 203-uchenie-vajshnavov-i-zapadnaya-filosof
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/203_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3

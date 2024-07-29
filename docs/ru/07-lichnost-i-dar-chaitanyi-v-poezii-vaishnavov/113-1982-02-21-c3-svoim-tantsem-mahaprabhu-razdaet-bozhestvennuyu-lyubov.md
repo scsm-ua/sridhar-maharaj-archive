@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.02"
-  - Махапрабху
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.mp3

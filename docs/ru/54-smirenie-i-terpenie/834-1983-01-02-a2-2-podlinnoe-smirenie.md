@@ -1,7 +1,11 @@
 ---
-category: 54. Смирение и терпение
+slug: 834-1983-01-02-a2-2-podlinnoe-smirenie
+category:
+  title: 54. Смирение и терпение
+  slug: 54-smirenie-i-terpenie
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3

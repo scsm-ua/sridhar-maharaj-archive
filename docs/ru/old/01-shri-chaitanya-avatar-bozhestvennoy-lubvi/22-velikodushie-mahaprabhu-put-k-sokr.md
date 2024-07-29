@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 22-velikodushie-mahaprabhu-put-k-sokr
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Махапрабху
-  - Мгновения прекрасной реальности
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/022_MgnoveniyaPR_3.2_SridharMj_Velikodushiye_Mahaprabhu–put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3

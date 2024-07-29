@@ -1,10 +1,17 @@
 ---
-category: (18. Духовный мир)
+slug: 237-chuvstva-dushi-kotoraya-vstupaet-v-duho
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1981.03"
-  - Гопа Кумар
-  - Духовный мир
-  - Душа
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гопа Кумар
+    slug: gopa-kumar
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/237_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3

@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 584-1984-01-08-b6-chuvstva-um-razum-i-dusha
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1984.01"
-  - Душа
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3

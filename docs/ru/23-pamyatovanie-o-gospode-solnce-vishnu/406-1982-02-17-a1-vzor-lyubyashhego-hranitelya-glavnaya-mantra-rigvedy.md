@@ -1,8 +1,13 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - "1982.02"
-  - Риг-веда
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3

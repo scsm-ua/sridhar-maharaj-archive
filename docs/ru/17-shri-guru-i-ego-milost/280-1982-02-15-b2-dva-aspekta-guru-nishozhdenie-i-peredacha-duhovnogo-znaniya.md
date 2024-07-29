@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3

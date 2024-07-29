@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 46-agressiya-krishny-eto-ego-sluzhenie-pre
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.06"
-  - Кришна
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/046_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3

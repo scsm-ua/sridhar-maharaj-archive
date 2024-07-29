@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3

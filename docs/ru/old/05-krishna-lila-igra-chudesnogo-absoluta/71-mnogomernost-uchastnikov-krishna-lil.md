@@ -1,9 +1,15 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 71-mnogomernost-uchastnikov-krishna-lil
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
-  - Кришна-лила
-  - Рупа Госвами
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/071_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3

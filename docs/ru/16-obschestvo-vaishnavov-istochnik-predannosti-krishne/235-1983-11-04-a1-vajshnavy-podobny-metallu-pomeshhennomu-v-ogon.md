@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3

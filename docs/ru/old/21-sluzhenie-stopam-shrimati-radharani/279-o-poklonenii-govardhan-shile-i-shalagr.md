@@ -1,10 +1,17 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 279-o-poklonenii-govardhan-shile-i-shalagr
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1982.01"
-  - Биография Шридхара Махараджа
-  - Божество
-  - Бхакти
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Божество
+    slug: bozhestvo
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/279_1982.01.09.C6.D_SridharMj_O_poklonenii_Govardhan-shile_i_Shalagram-shile.mp3

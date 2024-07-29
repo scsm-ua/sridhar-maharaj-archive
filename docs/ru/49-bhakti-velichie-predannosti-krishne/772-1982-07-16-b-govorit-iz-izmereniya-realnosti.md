@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.07"
-  - Бхакти
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3

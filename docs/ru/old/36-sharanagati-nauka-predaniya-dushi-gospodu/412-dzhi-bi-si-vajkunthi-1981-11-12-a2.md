@@ -1,10 +1,17 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 412-dzhi-bi-si-vajkunthi-1981-11-12-a2
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1981.11"
-  - Биография Шридхара Махараджа
-  - Самопредание
-  - Шаранагати
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/412_1981.11.12.A2_SridharMj_GBC_Vaykunthi.mp3

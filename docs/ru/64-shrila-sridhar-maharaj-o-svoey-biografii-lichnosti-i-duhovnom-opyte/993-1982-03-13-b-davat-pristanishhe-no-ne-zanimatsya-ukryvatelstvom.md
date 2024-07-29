@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 993-1982-03-13-b-davat-pristanishhe-no-ne-zanimatsya-ukryvatelstvom
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3

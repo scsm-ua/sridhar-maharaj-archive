@@ -1,7 +1,11 @@
 ---
-category: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+slug: 862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42
+category:
+  title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+  slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/862_1982.02.20.C4_SridharMj_Izgnanie_ili_nakazanie_ne_pomogut_Shrimad_Bhagavatam_11.5.42.mp3

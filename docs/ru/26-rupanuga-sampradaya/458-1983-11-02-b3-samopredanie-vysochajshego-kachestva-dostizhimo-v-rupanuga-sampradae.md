@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3

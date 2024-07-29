@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 243-chuvstva-um-razum-i-dusha-1984-01-08-b6
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1984.01"
-  - Душа
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/243_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3

@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 324-1982-02-15-a2-neobhodimost-i-tri-raznovidnosti-dikshi
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.02"
-  - Посвящение
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/324_1982.02.15.A2_SridharMj_Neobhodimost_i_tri_raznovidnosti_dikshi.mp3

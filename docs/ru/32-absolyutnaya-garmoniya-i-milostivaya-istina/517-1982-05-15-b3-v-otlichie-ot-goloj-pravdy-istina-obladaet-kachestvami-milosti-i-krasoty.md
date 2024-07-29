@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3

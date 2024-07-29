@@ -1,8 +1,13 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1983.01"
-  - Сахаджия
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/431_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3

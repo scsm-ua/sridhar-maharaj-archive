@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 667-1982-05-14-a-b1-gospod-dzhagannath-vstrecha-dvaraki-i-vrindavana
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/667_1982.05.14.A.B1_SridharMj_Gospod_Dzhagannath--vstrecha_Dvaraki_i_Vrindavana.mp3

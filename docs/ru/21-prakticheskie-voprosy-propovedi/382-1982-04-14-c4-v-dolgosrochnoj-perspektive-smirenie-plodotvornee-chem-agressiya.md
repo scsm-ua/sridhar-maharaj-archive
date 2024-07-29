@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.04"
-  - Проповедь
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3

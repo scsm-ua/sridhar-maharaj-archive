@@ -1,7 +1,11 @@
 ---
-category: 41. Стремление к идеалу — истинное богатство
+slug: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago
+category:
+  title: 41. Стремление к идеалу — истинное богатство
+  slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3

@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 506-o-kvalifikatsii-dlya-chteniya-i-napisani
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Книги Шридхара Махараджа
-  - Шри Шри Прапанна-дживанамритам
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/506_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3

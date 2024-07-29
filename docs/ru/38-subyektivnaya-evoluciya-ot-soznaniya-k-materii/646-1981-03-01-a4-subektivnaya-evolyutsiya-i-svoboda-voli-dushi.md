@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3

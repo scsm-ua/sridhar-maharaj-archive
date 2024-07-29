@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1981.03"
-  - Душа
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/600_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3

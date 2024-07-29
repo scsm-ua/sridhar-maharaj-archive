@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1985.05"
+  - title: "1985.05"
+    slug: 1985-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3

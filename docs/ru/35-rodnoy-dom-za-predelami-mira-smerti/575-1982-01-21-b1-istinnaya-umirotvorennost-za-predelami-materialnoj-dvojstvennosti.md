@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3

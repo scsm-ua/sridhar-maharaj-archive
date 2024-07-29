@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 360-1982-02-17-a3-golod-na-hari-kathu
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.02"
-  - Санкиртана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3

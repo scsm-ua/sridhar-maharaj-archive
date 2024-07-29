@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.mp3

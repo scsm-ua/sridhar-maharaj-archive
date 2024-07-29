@@ -1,7 +1,11 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 90-ramachandra-primer-bezropotnogo-sle
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - Рамачандра
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/090_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3

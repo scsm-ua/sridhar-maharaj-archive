@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/351_1982.01.18.C_SridharMj_Slujenie_i_rejim_dnya.mp3

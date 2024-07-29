@@ -1,7 +1,11 @@
 ---
-category: (14. Ведическая культура)
+slug: 177-arii-nositeli-bozhestvennoj-kultur
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3

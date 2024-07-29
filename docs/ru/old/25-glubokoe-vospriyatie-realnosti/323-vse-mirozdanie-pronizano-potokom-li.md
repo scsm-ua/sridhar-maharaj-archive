@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 323-vse-mirozdanie-pronizano-potokom-li
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - Гармония
-  - Мгновения прекрасной реальности
+  - title: Гармония
+    slug: garmoniya
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/323_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3

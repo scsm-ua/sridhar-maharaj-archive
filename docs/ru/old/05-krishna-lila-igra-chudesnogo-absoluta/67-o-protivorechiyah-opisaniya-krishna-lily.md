@@ -1,9 +1,15 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 67-o-protivorechiyah-opisaniya-krishna-lily
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1987"
-  - Книги Госвами
-  - Кришна-лила
+  - title: "1987"
+    slug: "1987"
+  - title: Книги Госвами
+    slug: knigi-gosvami
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/067_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3

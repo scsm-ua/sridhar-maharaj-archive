@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3

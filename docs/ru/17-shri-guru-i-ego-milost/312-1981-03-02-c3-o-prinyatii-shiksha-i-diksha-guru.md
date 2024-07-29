@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 312-1981-03-02-c3-o-prinyatii-shiksha-i-diksha-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру-таттва
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.mp3

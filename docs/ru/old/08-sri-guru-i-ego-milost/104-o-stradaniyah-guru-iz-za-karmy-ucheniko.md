@@ -1,10 +1,17 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 104-o-stradaniyah-guru-iz-za-karmy-ucheniko
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.04"
-  - Гуру
-  - Карма
-  - Качества ученика
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Гуру
+    slug: guru
+  - title: Карма
+    slug: karma
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/104_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3

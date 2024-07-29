@@ -1,9 +1,15 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 224-polozhenie-ganesha-mgnoveniya-prekras
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - Ганеш
-  - Мгновения прекрасной реальности
-  - Сварупа-шакти
+  - title: Ганеш
+    slug: ganesh
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/224_MgnoveniyaPR_8.3_SridharMj_Polojeniye_Ganesha.mp3

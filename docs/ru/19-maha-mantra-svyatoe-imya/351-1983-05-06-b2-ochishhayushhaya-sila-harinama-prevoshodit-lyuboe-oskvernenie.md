@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 351-1983-05-06-b2-ochishhayushhaya-sila-harinama-prevoshodit-lyuboe-oskvernenie
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.05"
-  - Святое Имя
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3

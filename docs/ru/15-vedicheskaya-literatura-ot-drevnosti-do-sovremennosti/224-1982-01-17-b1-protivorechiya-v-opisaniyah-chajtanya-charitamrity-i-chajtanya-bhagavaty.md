@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3

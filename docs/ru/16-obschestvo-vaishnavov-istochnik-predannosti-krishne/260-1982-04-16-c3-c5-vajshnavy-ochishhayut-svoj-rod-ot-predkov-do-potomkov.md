@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3

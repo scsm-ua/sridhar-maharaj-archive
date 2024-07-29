@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1982.01"
-  - Санньяса
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3

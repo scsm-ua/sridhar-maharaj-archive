@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3

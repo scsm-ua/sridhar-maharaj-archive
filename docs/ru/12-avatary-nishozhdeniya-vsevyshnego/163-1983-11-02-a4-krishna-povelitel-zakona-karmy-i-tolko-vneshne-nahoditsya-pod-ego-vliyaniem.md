@@ -1,7 +1,11 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.mp3

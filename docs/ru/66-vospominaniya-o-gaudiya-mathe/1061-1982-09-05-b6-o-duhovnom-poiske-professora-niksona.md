@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.09"
+  - title: "1982.09"
+    slug: 1982-09
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1061_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3

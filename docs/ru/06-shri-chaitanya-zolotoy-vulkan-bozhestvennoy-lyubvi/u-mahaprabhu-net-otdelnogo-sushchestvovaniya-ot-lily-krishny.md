@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.05"
-  - Махапрабху
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3

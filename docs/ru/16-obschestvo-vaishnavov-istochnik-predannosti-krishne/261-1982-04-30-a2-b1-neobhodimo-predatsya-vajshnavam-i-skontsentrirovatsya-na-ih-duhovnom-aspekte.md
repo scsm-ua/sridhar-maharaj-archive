@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3

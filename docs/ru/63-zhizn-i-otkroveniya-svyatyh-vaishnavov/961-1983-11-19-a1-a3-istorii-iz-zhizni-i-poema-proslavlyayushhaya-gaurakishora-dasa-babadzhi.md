@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3

@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3

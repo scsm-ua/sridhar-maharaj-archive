@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3

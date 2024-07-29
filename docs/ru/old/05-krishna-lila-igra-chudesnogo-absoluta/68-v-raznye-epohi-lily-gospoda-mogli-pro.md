@@ -1,7 +1,11 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 68-v-raznye-epohi-lily-gospoda-mogli-pro
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3

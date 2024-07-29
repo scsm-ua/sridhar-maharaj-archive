@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 473-analiticheskij-i-sinteticheskij-metod
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1983.01"
-  - Сарасвати Тхакур
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/473_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3

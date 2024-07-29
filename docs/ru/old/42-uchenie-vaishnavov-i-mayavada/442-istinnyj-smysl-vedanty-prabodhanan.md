@@ -1,9 +1,15 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 442-istinnyj-smysl-vedanty-prabodhanan
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1981.03"
-  - Майавада
-  - Прабодхананда
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Майавада
+    slug: majavada
+  - title: Прабодхананда
+    slug: prabodhananda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/442_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3

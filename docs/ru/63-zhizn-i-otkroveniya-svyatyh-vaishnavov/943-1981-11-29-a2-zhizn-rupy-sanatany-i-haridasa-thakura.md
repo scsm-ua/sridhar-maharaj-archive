@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1981.11"
+  - title: "1981.11"
+    slug: 1981-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3

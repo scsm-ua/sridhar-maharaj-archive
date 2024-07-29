@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/872_1982.02.19.C5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3

@@ -1,7 +1,11 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.mp3

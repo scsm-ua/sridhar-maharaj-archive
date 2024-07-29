@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1984.01"
-  - Проповедь
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/

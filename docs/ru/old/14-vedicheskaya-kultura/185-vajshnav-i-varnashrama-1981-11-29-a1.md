@@ -1,10 +1,17 @@
 ---
-category: (14. Ведическая культура)
+slug: 185-vajshnav-i-varnashrama-1981-11-29-a1
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1981.11"
-  - Бхакти
-  - Варнашрама-дхарма
-  - Дхарма
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Бхакти
+    slug: bhakti
+  - title: Варнашрама-дхарма
+    slug: varnashrama-dharma
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/185_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3

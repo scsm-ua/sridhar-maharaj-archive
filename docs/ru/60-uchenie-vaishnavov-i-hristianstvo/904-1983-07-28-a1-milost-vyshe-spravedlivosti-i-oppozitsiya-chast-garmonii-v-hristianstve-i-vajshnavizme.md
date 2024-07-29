@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3

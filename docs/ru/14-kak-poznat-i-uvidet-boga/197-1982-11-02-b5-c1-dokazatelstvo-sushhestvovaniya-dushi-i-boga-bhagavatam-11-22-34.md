@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 197-1982-11-02-b5-c1-dokazatelstvo-sushhestvovaniya-dushi-i-boga-bhagavatam-11-22-34
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/197_1982.11.02.B5.C1_SridharMj_Dokazatelstvo_sushhestvovanija_dushi_i_Boga__Bhagavatam_11.22.34.mp3

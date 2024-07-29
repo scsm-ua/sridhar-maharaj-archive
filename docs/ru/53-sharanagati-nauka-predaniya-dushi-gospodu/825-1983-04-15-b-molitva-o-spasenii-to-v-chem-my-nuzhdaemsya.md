@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.04"
-  - Шаранагати
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3

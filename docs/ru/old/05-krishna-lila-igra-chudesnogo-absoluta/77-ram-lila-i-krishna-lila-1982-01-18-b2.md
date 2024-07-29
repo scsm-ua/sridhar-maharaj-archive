@@ -1,12 +1,21 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 77-ram-lila-i-krishna-lila-1982-01-18-b2
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
-  - Кришна-лила
-  - Майавада
-  - Махапрабху
-  - Рамачандра
-  - Шива
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Майавада
+    slug: majavada
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамачандра
+    slug: ramachandra
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/077_1982.01.18.B1_SridharMj_Ram-lila_i_krishna-lila.mp3

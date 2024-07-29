@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3

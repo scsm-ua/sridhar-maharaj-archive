@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3

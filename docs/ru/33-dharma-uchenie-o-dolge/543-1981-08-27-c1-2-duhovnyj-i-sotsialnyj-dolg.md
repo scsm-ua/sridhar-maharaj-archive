@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1981.08"
-  - Дхарма
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3

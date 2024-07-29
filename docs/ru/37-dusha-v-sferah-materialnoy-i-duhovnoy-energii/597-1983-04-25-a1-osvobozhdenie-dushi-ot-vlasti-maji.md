@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1983.04"
-  - Душа
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3

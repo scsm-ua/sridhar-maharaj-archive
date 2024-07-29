@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.03"
-  - Проповедь
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.mp3

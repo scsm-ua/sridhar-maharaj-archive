@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 855-1983-11-02-a1-plach-eto-takzhe-bhadzhan
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/855_1983.11.02.A1_SridharMj_Plach--jeto_takzhe_bhadzhan.mp3

@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1983.11"
-  - Дух служения
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3

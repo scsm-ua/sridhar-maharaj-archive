@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 276-sut-i-forma-v-semejnoj-zhizni-gopi-1983-04-16-a4
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.04"
-  - Бхакти
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/276_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3

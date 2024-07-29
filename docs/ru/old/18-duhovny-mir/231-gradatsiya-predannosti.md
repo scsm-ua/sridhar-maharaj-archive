@@ -1,17 +1,31 @@
 ---
-category: (18. Духовный мир)
+slug: 231-gradatsiya-predannosti
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - Арджуна
-  - Брахма
-  - Духовный мир
-  - Йога-майа
-  - Мгновения прекрасной реальности
-  - Прахлада
-  - Самопредание
-  - Санатана Госвами
-  - Сварупа-шакти
-  - Хануман
-  - Шива
+  - title: Арджуна
+    slug: ardzhuna
+  - title: Брахма
+    slug: brahma
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Йога-майа
+    slug: joga-maja
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Прахлада
+    slug: prahlada
+  - title: Самопредание
+    slug: samopredanie
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
+  - title: Хануман
+    slug: hanuman
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/231_MgnoveniyaPR_7.2_SridharMj_Gradaciya_predannosti.mp3

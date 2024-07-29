@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3

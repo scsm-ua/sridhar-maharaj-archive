@@ -1,8 +1,13 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 327-oppozitsiya-chast-vysshej-garmonii-1983-07-28-a1
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1983.07"
-  - Гармония
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/327_1983.07.28.A1_SridharMj_Oppoziciya_chast_vysshey_garmonii.mp3

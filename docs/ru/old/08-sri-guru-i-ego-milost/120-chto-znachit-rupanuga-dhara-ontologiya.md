@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 120-chto-znachit-rupanuga-dhara-ontologiya
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Онтология прекрасной реальности
-  - Рупа Госвами
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/120_OntologiyaPR_1.9_SridharMj_-Chto_znachit_rupanuga-dhara.mp3

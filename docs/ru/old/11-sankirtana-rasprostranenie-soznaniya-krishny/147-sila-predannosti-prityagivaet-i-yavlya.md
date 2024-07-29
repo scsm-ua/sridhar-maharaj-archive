@@ -1,7 +1,11 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 147-sila-predannosti-prityagivaet-i-yavlya
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3

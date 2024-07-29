@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 214-povtorenie-oshhushheniya-ne-yavlyaetsya-opy
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.04"
-  - Бхакти
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/214_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3

@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.mp3

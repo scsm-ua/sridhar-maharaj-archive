@@ -1,9 +1,15 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 191-rozhdenie-chelovekom-klyuch-k-resheniyu-v
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - Вера
-  - Материальный мир
-  - Мгновения прекрасной реальности
+  - title: Вера
+    slug: vera
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/191_MgnoveniyaPR_3.4_SridharMj_Rojdeniye_chelovekom–klyuch_k_resheniyu_vseh_problem.mp3

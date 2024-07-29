@@ -1,10 +1,17 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 28-ontologiya-pancha-tattvy
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Адвайта Ачарья
-  - Гададхар Пандит
-  - Махапрабху
-  - Нитьянанда Прабху
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/028_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3

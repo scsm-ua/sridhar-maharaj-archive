@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/949_1982.04.18.A3_SridharMj_Princip_parakii_v_nastavlenii_Raghunathu_Dasu_Gosvami.mp3

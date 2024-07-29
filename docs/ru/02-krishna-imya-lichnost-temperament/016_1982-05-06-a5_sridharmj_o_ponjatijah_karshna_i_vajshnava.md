@@ -1,7 +1,11 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 016_1982-05-06-a5_sridharmj_o_ponjatijah_karshna_i_vajshnava
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/016_1982.05.06.A5_SridharMj_O_ponjatijah_karshna_i_vajshnava.mp3

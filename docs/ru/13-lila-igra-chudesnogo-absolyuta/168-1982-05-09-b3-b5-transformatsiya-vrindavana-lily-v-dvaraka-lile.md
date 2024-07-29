@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/168_1982.05.09.B3.B5_SridharMj_Transformacija_Vrindavana_lily_v_Dvaraka-lile.mp3

@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.mp3

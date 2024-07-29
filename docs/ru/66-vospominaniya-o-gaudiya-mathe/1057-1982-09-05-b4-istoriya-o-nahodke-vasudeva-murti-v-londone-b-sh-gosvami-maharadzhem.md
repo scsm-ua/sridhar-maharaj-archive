@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1057-1982-09-05-b4-istoriya-o-nahodke-vasudeva-murti-v-londone-b-sh-gosvami-maharadzhem
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.09"
+  - title: "1982.09"
+    slug: 1982-09
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3

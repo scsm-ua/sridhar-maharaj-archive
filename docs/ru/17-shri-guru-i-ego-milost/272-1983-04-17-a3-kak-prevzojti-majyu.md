@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 272-1983-04-17-a3-kak-prevzojti-majyu
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.04"
-  - Гуру-парампара
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3

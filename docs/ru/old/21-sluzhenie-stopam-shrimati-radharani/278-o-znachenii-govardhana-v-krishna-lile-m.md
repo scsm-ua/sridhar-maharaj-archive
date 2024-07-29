@@ -1,10 +1,17 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 278-o-znachenii-govardhana-v-krishna-lile-m
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - Бхакти
-  - Говардхан
-  - Кришна-лила
-  - Мгновения прекрасной реальности
+  - title: Бхакти
+    slug: bhakti
+  - title: Говардхан
+    slug: govardhan
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/278_MgnoveniyaPR_4.4_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3

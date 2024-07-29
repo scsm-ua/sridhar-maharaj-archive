@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 166-kultura-propovedi-1983-04-02
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/166_1983.04.02_SridharMj_Kultura_propovedi.mp3

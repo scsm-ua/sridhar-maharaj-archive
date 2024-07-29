@@ -1,15 +1,27 @@
 ---
-category: (20. Гаятри-мантра и мантра "ОМ")
+slug: 260-flejta-krishny-1982-01-03-b
+category:
+  title: (20. Гаятри-мантра и мантра "ОМ")
+  slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - "1982.01"
-  - Божество
-  - Вишнуприя Деви
-  - Гауридас Пандит
-  - Гаятри-мантра
-  - Джива Госвами
-  - Махапрабху
-  - Нитьянанда Прабху
-  - Субал Сакха
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Божество
+    slug: bozhestvo
+  - title: Вишнуприя Деви
+    slug: vishnupriya-devi
+  - title: Гауридас Пандит
+    slug: gauridas-pandit
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
+  - title: Джива Госвами
+    slug: dzhiva-gosvami
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Субал Сакха
+    slug: subal-sakha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/260_1982.01.03.B_SridharMj_Fleyta_Krishny.mp3

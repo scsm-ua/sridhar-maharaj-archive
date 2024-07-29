@@ -1,7 +1,11 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 160-1982-01-18-a1-nauka-ob-avatarah-v-pisaniyah-vajshnavov
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3

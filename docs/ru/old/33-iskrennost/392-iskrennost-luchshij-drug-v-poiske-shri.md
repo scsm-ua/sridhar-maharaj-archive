@@ -1,8 +1,13 @@
 ---
-category: (33. Искренность)
+slug: 392-iskrennost-luchshij-drug-v-poiske-shri
+category:
+  title: (33. Искренность)
+  slug: 33-iskrennost
 tags:
-  - Искренность
-  - Онтология прекрасной реальности
+  - title: Искренность
+    slug: iskrennost
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/392_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3

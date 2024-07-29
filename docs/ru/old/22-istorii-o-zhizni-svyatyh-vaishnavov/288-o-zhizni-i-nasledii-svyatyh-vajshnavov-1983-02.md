@@ -1,12 +1,21 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 288-o-zhizni-i-nasledii-svyatyh-vajshnavov-1983-02
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.02"
-  - Вриндаван Дас Тхакур
-  - Истории о вайшнавах
-  - Книги Шридхара Махараджа
-  - Пракашананда
-  - Священные писания
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Вриндаван Дас Тхакур
+    slug: vrindavan-das-thakur
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
+  - title: Пракашананда
+    slug: prakashananda
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/288_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3

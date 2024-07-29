@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1981.08"
-  - Мадхура-раса
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Мадхура-раса
+    slug: madhura-rasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3

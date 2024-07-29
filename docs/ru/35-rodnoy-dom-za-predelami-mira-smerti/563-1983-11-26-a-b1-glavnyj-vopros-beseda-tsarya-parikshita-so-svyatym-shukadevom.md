@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.mp3

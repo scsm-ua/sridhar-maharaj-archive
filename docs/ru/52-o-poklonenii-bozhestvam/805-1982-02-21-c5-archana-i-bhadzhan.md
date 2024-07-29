@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 805-1982-02-21-c5-archana-i-bhadzhan
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Арчана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.mp3

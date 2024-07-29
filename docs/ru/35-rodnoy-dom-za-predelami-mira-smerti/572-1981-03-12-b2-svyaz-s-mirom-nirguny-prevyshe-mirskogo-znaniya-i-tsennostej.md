@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3

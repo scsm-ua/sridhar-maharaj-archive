@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 128-milost-guru-i-vajshnavov-osnova-duho
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Гуру
-  - Качества ученика
-  - Садху-санга
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/128_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3

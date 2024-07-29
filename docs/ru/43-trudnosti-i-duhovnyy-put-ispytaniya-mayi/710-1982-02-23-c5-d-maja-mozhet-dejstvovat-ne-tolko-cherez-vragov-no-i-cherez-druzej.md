@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/710_1982.02.23.C5.D_SridharMj_Maja_mozhet_dejstvovat_ne_tolko_cherez_vragov_no_i_cherez_druzej.mp3

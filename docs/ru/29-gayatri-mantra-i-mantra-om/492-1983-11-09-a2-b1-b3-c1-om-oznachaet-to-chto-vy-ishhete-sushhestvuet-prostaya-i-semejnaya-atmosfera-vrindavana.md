@@ -1,9 +1,15 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1983.11"
-  - Гаятри-мантра
-  - Мантра ОМ
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
+  - title: Мантра ОМ
+    slug: mantra-om
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3

@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.03"
-  - Санкиртана
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.mp3

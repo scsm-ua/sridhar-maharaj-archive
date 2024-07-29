@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.01"
-  - Махапрабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3

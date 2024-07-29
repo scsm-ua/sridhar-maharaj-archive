@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 334-ob-ispytaniyah-i-boleznyah-na-duhovnom
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/334_1982.01.31.A2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3

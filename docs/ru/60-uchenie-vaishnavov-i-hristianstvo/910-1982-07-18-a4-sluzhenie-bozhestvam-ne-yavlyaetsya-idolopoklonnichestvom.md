@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3

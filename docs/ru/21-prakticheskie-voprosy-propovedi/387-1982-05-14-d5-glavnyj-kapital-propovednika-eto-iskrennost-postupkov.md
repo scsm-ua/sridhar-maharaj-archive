@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.05"
-  - Проповедь
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.mp3

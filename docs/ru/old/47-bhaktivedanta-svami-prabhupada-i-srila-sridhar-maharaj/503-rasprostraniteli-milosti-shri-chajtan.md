@@ -1,8 +1,13 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 503-rasprostraniteli-milosti-shri-chajtan
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1981.08"
-  - Бхактиведанта Свами Прабхупада
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/503_1981.08.18.C2_SridharMj_Rasprostraniteli_milosti_Sri_Chaitanyi.mp3

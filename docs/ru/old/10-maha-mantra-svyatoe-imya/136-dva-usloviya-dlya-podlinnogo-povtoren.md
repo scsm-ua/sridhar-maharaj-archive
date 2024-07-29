@@ -1,5 +1,8 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 136-dva-usloviya-dlya-podlinnogo-povtoren
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/136_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3

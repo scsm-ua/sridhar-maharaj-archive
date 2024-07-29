@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/978_1982.06.19.B4_SridharMj_Kto_javljaetsja_vysochajshimi_predannymi_Krishny_v_Shrimad-Bhagavatam.mp3

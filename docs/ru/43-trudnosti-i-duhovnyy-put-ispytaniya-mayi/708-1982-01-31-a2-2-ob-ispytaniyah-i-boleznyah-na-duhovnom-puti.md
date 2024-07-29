@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3

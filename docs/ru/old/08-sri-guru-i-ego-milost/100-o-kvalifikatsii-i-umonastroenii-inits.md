@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 100-o-kvalifikatsii-i-umonastroenii-inits
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/100_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3

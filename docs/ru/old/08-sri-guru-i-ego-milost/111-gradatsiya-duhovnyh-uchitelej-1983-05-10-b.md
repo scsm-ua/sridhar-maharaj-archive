@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 111-gradatsiya-duhovnyh-uchitelej-1983-05-10-b
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.05"
-  - Гуру
-  - Качества ученика
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/111_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3

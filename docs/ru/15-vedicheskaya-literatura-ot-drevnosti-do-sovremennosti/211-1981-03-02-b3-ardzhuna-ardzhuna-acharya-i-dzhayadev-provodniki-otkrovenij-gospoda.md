@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/211_1981.03.02.B3_SridharMj_Ardzhuna_Ardzhuna_Acharja_i_Dzhajadev--provodniki_otkrovenij_Gospoda.mp3

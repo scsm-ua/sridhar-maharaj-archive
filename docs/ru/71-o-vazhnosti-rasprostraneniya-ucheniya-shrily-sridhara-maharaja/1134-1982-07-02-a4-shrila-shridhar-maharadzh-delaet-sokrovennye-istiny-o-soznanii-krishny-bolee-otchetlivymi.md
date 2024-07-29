@@ -1,7 +1,11 @@
 ---
-category: 71. О важности распространения учения Шрилы Шридхара Махараджа
+slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
+category:
+  title: 71. О важности распространения учения Шрилы Шридхара Махараджа
+  slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3

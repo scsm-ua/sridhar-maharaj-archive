@@ -1,8 +1,13 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 194-obratno-k-bogu-1981-11-12-a1
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - "1981.11"
-  - Душа
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/194_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3

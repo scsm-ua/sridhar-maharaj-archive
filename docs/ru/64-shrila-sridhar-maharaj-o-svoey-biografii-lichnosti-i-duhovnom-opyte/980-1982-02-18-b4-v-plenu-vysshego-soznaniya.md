@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/

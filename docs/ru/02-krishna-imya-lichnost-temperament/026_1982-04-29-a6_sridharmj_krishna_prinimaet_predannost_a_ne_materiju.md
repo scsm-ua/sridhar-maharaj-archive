@@ -1,10 +1,17 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.04"
-  - Видура
-  - Истории о вайшнавах
-  - Нарада
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Видура
+    slug: vidura
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Нарада
+    slug: narada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.mp3

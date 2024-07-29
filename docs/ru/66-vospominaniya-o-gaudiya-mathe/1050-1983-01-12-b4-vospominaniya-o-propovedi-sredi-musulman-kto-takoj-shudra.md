@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1050-1983-01-12-b4-vospominaniya-o-propovedi-sredi-musulman-kto-takoj-shudra
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1050_1983.01.12.B4_SridharMj_Vospominanija_o_propovedi_sredi_musulman__Kto_takoj_shudra.mp3

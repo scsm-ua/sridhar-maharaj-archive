@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.mp3

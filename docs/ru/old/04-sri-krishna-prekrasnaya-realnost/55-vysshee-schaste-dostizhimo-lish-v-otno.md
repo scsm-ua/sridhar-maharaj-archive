@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 55-vysshee-schaste-dostizhimo-lish-v-otno
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.07"
-  - Кришна
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/055_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3

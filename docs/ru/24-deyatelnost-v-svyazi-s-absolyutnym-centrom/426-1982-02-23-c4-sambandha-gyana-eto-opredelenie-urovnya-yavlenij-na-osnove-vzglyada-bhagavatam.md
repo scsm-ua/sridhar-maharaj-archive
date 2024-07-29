@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3

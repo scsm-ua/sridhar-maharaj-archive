@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.05"
-  - Шаранагати
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3

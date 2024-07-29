@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3

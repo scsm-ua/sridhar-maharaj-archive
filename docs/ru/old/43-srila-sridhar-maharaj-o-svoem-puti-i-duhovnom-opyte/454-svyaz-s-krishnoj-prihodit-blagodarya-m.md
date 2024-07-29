@@ -1,8 +1,13 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 454-svyaz-s-krishnoj-prihodit-blagodarya-m
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1982.01"
-  - Биография Шридхара Махараджа
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/454_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3

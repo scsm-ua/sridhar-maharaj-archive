@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 315-v-mire-materii-stradaniya-i-schaste-ot
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.03"
-  - Гармония
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/315_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3

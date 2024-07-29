@@ -1,10 +1,17 @@
 ---
-category: (03. Беседа Махапрабху и Рамананды Рая)
+slug: 37-vysochajshie-otkroveniya-ramanda-samva
+category:
+  title: (03. Беседа Махапрабху и Рамананды Рая)
+  slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - "1982.01"
-  - Махапрабху
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/037_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvada.mp3

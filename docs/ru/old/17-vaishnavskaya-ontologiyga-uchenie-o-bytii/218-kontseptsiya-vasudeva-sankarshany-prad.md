@@ -1,7 +1,11 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 218-kontseptsiya-vasudeva-sankarshany-prad
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/218_1982.01.04.A1_SridharMj_Koncepciya_Chaturvyuhi.mp3

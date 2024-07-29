@@ -1,7 +1,11 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 25-gde-nahoditsya-gupta-radha-kunda-v-nav
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1981.11"
+  - title: "1981.11"
+    slug: 1981-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/025_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3

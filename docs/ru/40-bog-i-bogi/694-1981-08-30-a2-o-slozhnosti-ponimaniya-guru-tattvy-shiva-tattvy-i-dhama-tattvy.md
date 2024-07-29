@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3

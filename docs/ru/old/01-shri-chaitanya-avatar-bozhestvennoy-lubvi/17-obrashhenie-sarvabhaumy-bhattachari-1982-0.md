@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 17-obrashhenie-sarvabhaumy-bhattachari-1982-0
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1982.09"
-  - Махапрабху
+  - title: "1982.09"
+    slug: 1982-09
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/017_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3

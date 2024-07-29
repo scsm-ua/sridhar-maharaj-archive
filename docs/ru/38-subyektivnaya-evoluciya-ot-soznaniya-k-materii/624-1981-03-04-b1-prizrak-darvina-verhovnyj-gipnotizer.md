@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3

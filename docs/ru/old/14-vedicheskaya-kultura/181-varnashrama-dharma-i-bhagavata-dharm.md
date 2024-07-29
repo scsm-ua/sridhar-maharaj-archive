@@ -1,12 +1,21 @@
 ---
-category: (14. Ведическая культура)
+slug: 181-varnashrama-dharma-i-bhagavata-dharm
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - Бхакти
-  - Варнашрама-дхарма
-  - Дхарма
-  - Самопредание
-  - Смирение
-  - Терпение
+  - title: Бхакти
+    slug: bhakti
+  - title: Варнашрама-дхарма
+    slug: varnashrama-dharma
+  - title: Дхарма
+    slug: dharma
+  - title: Самопредание
+    slug: samopredanie
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/181_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3

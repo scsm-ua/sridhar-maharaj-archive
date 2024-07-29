@@ -1,8 +1,13 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 354-o-vazhnosti-pokloneniya-tulasi-devi-1981-08-31-b3
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1981.08"
-  - Туласи
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Туласи
+    slug: tulasi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/354_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3

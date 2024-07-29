@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 333-trudnosti-i-duhovnyj-put-1983-02-12-a
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/333_1983.02.12_SridharMj_Trudnosti_i_duhovniy_put.mp3

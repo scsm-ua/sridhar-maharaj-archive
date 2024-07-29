@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 397-1983-02-13-b-raznovidnosti-i-filosofskie-aspekty-sannyasy
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1983.02"
-  - Санньяса
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/397_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3

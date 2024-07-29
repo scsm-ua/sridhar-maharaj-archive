@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.05"
-  - Гуру-таттва
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3

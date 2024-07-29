@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3

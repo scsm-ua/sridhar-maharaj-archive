@@ -1,8 +1,13 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 488-o-duhovnom-poiske-professora-nikson
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.09"
-  - Гаудия-матх
+  - title: "1982.09"
+    slug: 1982-09
+  - title: Гаудия-матх
+    slug: gaudiya-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/488_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3

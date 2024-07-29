@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.05"
-  - Проповедь
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3

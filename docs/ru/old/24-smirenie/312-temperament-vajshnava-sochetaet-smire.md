@@ -1,10 +1,17 @@
 ---
-category: (24. Смирение)
+slug: 312-temperament-vajshnava-sochetaet-smire
+category:
+  title: (24. Смирение)
+  slug: 24-smirenie
 tags:
-  - "1982.01"
-  - Гармония
-  - Смирение
-  - Терпение
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гармония
+    slug: garmoniya
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/312_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3

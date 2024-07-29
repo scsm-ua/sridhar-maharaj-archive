@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 262-2012-07-25-11-net-daty-milost-guru-i-vajshnavov-osnova-duhovnogo-progressa
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - Милость
+  - title: Милость
+    slug: milost
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/262_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3

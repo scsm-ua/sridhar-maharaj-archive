@@ -1,8 +1,13 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 94-vopros-o-rebenke-ot-shivy-u-mohini-murt
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - Мгновения прекрасной реальности
-  - Шива
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/094_MgnoveniyaPR_7.4_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3

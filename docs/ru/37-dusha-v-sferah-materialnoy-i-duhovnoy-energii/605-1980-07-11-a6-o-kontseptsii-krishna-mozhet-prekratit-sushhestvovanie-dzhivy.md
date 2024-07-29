@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 605-1980-07-11-a6-o-kontseptsii-krishna-mozhet-prekratit-sushhestvovanie-dzhivy
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1980.07"
-  - Душа
+  - title: "1980.07"
+    slug: 1980-07
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/605_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3

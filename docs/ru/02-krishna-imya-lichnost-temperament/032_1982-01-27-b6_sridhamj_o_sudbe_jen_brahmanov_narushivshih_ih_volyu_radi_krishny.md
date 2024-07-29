@@ -1,7 +1,11 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3

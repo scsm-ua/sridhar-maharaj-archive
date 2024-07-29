@@ -1,7 +1,11 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1981.02"
+  - title: "1981.02"
+    slug: 1981-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/018_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3

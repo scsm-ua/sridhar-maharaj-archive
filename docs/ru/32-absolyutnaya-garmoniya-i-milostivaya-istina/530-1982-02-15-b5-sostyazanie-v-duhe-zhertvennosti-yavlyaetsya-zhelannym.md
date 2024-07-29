@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3

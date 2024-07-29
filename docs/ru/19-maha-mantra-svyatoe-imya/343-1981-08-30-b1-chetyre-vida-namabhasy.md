@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 343-1981-08-30-b1-chetyre-vida-namabhasy
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1981.08"
-  - Святое Имя
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3

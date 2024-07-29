@@ -1,8 +1,13 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.05"
-  - Радхарани
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3

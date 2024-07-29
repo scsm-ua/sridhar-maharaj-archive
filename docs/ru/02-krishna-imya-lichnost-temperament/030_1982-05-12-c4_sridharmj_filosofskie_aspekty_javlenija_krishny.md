@@ -1,9 +1,15 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.05"
-  - Кришна
-  - Явление Кришны
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Кришна
+    slug: krishna
+  - title: Явление Кришны
+    slug: yavlenie-krishny
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.mp3

@@ -1,10 +1,17 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 46_2012-07-27-4_sridharmj_mir_gde_pravit_krasota
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - гьяна-шунья бхакти
-  - дата неизвестна
-  - сат-чит-ананда
-  - три гуны
+  - title: гьяна-шунья бхакти
+    slug: gyana-shunya-bhakti
+  - title: дата неизвестна
+    slug: data-neizvestna
+  - title: сат-чит-ананда
+    slug: sat-chit-ananda
+  - title: три гуны
+    slug: tri-guny
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3

@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3

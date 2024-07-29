@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 378-1981-03-10-b2-sokrovennye-temy-ne-dolzhny-byt-predmetom-vseobshhego-obsuzhdeniya
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1981.03"
-  - Проповедь
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3

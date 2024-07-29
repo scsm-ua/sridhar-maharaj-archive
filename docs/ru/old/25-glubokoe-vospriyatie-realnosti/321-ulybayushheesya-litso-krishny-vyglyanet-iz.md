@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 321-ulybayushheesya-litso-krishny-vyglyanet-iz
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - Гармония
-  - Онтология прекрасной реальности
+  - title: Гармония
+    slug: garmoniya
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/321_OntologiyaPR_3.4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3

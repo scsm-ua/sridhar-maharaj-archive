@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3

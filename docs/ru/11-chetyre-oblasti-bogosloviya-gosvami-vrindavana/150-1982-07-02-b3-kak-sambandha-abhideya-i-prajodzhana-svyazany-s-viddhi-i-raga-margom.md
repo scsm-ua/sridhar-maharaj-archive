@@ -1,9 +1,15 @@
 ---
-category: 11. Четыре области богословия Госвами Вриндавана
+slug: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom
+category:
+  title: 11. Четыре области богословия Госвами Вриндавана
+  slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - Абхидея
-  - Прайоджана
-  - Самбандха
+  - title: Абхидея
+    slug: abhideya
+  - title: Прайоджана
+    slug: prajodzhana
+  - title: Самбандха
+    slug: sambandha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.mp3

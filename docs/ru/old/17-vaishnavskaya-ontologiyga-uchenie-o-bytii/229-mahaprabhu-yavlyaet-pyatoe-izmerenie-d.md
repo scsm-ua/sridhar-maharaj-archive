@@ -1,11 +1,19 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1983.07"
-  - Будда
-  - Гармония
-  - Махапрабху
-  - Шанкара
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Будда
+    slug: budda
+  - title: Гармония
+    slug: garmoniya
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/229_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3

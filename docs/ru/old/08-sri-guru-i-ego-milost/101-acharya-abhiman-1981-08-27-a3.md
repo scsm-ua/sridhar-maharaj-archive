@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 101-acharya-abhiman-1981-08-27-a3
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.08"
-  - Гуру
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/101_1981.08.27.A3_SridharMj_Acharya-abhiman.mp3

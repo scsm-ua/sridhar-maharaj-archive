@@ -1,15 +1,27 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 118-uglublennoe-vospriyatie-guru-tattvy-1983
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.06"
-  - Бхактивинод Тхакур
-  - Гададхар Пандит
-  - Гауракишор Бабаджи
-  - Гуру
-  - Навадвип
-  - Рамананда-самвад
-  - Сарасвати Тхакур
-  - Сварупа Дамодар
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Гауракишор Бабаджи
+    slug: gaurakishor-babadzhi
+  - title: Гуру
+    slug: guru
+  - title: Навадвип
+    slug: navadvip
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/118_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3

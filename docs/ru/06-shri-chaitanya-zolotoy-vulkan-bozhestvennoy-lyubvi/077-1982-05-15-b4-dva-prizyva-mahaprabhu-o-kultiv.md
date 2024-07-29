@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.05"
-  - история
-  - история о знании Тамильского языка
+  - title: "1982.05"
+    slug: 1982-05
+  - title: история
+    slug: istoriya
+  - title: история о знании Тамильского языка
+    slug: istoriya-o-znanii-tamilskogo-yazyka
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3

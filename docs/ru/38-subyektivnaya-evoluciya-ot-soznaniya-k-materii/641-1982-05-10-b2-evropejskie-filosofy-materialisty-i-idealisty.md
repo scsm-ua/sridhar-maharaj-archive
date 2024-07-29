@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3

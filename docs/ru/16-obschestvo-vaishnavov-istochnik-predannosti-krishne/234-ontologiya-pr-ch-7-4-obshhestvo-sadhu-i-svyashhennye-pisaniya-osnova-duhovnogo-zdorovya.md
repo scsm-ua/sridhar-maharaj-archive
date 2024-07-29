@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3

@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 58-gospoda-mozhno-postich-tolko-po-ego-m
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1985.07"
+  - title: "1985.07"
+    slug: 1985-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/058_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3

@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.11"
-  - Святое Имя
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.mp3

@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3

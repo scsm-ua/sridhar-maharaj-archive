@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 246-kratkoe-obyasnenie-proishozhdeniya-du
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1982.01"
-  - Душа
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/246_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3

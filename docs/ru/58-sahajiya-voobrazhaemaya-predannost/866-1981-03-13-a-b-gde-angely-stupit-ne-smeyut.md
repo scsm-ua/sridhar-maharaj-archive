@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3

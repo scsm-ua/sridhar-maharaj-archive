@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/225_1982.02.23.A4.B1_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3

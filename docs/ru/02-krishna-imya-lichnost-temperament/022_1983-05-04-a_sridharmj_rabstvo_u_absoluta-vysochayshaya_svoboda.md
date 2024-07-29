@@ -1,12 +1,21 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.05"
-  - Бхагаватам
-  - Ганди
-  - Рабство
-  - Свобода
-  - Шукадев Госвами
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Бхагаватам
+    slug: bhagavatam
+  - title: Ганди
+    slug: gandi
+  - title: Рабство
+    slug: rabstvo
+  - title: Свобода
+    slug: svoboda
+  - title: Шукадев Госвами
+    slug: shukadev-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.mp3

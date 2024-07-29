@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 170-propovedniki-riskuyut-soboj-pod-ruko
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/170_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3

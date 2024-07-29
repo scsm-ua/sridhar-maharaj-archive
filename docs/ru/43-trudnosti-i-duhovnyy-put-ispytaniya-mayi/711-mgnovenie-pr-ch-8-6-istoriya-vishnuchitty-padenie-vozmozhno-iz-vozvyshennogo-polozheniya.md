@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3

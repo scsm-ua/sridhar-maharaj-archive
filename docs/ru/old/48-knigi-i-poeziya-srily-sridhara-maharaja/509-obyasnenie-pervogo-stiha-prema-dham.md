@@ -1,5 +1,8 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 509-obyasnenie-pervogo-stiha-prema-dham
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/509_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3

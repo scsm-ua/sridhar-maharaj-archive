@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3

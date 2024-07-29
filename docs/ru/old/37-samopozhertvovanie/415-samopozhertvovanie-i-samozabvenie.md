@@ -1,7 +1,11 @@
 ---
-category: (37. Самопожертвование)
+slug: 415-samopozhertvovanie-i-samozabvenie
+category:
+  title: (37. Самопожертвование)
+  slug: 37-samopozhertvovanie
 tags:
-  - Самопожертвование
+  - title: Самопожертвование
+    slug: samopozhertvovanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/415_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3

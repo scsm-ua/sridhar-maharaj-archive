@@ -1,8 +1,13 @@
 ---
-category: (33. Искренность)
+slug: 394-podlinnaya-iskrennost-oznachaet-pri
+category:
+  title: (33. Искренность)
+  slug: 33-iskrennost
 tags:
-  - Искренность
-  - Мгновения прекрасной реальности
+  - title: Искренность
+    slug: iskrennost
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/394_MgnoveniyaPR_6.6_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3

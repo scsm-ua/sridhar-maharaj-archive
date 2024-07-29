@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3

@@ -1,7 +1,11 @@
 ---
-category: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+slug: 865-1982-04-16-b7-konflikty-duhovnyh-lyudej-dolzhny-razreshatsya-v-duhe-vzaimouvazheniya
+category:
+  title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+  slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.mp3

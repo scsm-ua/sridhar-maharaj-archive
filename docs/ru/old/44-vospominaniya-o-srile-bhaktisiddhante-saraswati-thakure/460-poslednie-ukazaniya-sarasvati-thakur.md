@@ -1,9 +1,15 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 460-poslednie-ukazaniya-sarasvati-thakur
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
-  - Гаудия-матх
-  - Сарасвати Тхакур
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/460_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3

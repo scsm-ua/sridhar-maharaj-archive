@@ -1,10 +1,17 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 221-tri-aspekta-gospoda-shivy-1983-01-02-a3
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1983.01"
-  - Адвайта Ачарья
-  - Вишну
-  - Шива
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Вишну
+    slug: vishnu
+  - title: Шива
+    slug: shiva
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
 ---
 

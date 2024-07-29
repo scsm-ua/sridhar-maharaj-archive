@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy%20_proslavljajut_Krishnu_i_Radharani.mp3

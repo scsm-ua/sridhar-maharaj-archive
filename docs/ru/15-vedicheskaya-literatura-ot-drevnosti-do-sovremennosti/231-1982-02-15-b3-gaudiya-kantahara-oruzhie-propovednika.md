@@ -1,8 +1,13 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 231-1982-02-15-b3-gaudiya-kantahara-oruzhie-propovednika
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.02"
-  - Гаудия-Кантахара
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Гаудия-Кантахара
+    slug: gaudiya-kantahara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.mp3

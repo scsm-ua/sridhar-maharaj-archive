@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 322-vselennaya-polna-schastya-1981-03-04-b2
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1981.03"
-  - Гармония
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/322_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3

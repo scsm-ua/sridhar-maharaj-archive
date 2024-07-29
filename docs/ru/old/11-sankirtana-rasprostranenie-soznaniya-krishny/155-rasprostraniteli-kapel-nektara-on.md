@@ -1,9 +1,15 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 155-rasprostraniteli-kapel-nektara-on
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - Биография Шридхара Махараджа
-  - Бхактиведанта Свами Прабхупада
-  - Онтология прекрасной реальности
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/155_OntologiyaPR_2.2_SridharMj_Rasprostraniteli_kapel_nektara.mp3

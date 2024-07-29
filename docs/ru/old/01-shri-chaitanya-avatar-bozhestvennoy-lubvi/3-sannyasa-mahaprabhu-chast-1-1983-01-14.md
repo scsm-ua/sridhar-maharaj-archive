@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 3-sannyasa-mahaprabhu-chast-1-1983-01-14
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.01"
-  - Махапрабху
-  - Санньяса
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/003_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3

@@ -1,11 +1,19 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 250-probuzhdenie-vnutrennej-sklonnosti-d
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1982.01"
-  - Брихад-бхагаватамритам
-  - Гопа Кумар
-  - Душа
-  - Санатана Госвами
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Брихад-бхагаватамритам
+    slug: brihad-bhagavatamritam
+  - title: Гопа Кумар
+    slug: gopa-kumar
+  - title: Душа
+    slug: dusha
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/250_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3

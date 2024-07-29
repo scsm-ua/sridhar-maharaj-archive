@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 817-1983-05-06-b1-dzhagannathu-ne-predlagayut-to-chto-bylo-privezeno-v-indiyu-izvne
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1983.05"
-  - Арчана
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/817_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3

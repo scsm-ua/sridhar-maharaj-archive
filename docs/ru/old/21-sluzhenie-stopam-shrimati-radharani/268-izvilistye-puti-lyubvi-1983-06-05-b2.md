@@ -1,11 +1,19 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 268-izvilistye-puti-lyubvi-1983-06-05-b2
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.06"
-  - Бхакти
-  - Йога-майа
-  - Любовь
-  - Шримад Бхагаватам
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Бхакти
+    slug: bhakti
+  - title: Йога-майа
+    slug: joga-maja
+  - title: Любовь
+    slug: lyubov
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/268_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3

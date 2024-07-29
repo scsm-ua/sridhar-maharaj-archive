@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.05"
-  - Святое Имя
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3

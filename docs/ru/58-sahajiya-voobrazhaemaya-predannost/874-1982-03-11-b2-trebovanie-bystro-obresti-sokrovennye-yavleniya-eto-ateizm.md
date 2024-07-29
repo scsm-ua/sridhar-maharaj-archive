@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.mp3

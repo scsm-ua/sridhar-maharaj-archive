@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 693-1981-03-01-b4-filosofskie-aspekty-lichnosti-brahmy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3

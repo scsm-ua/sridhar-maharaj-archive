@@ -1,8 +1,12 @@
 ---
-category: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С.
-  Говинды Махараджа
+slug: 1148-shri-dajita-dasa-pranati-panchakam
+category:
+  title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
+    Махараджа
+  slug: 75-poeziya-shrily-b-r-sridhara-maharaja-v-ispolnenii-shrily-b-s-govindy-maharaja
 tags:
-  - Поэзия Шридхара Махараджа
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.mp3

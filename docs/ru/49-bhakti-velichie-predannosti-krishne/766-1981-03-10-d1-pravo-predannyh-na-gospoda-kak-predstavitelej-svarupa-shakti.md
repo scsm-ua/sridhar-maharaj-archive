@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1981.03"
-  - Бхакти
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3

@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.mp3

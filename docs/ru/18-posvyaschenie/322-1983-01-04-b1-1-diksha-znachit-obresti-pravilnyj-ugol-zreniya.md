@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 322-1983-01-04-b1-1-diksha-znachit-obresti-pravilnyj-ugol-zreniya
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1983.01"
-  - Посвящение
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.mp3

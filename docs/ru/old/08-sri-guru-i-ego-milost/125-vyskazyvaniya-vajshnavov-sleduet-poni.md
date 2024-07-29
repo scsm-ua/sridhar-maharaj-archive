@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 125-vyskazyvaniya-vajshnavov-sleduet-poni
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Знание
-  - Мгновения прекрасной реальности
+  - title: Знание
+    slug: znanie
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/125_MgnoveniyaPR_6.8_SridharMj_Vyskazyvaniya_vaishnavov_sleduyet_ponimat_v_pravilnom_kontekste.mp3

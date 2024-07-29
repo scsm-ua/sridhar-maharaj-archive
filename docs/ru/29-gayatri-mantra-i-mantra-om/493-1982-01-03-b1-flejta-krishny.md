@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 493-1982-01-03-b1-flejta-krishny
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1982.01"
-  - Гаятри-мантра
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.mp3

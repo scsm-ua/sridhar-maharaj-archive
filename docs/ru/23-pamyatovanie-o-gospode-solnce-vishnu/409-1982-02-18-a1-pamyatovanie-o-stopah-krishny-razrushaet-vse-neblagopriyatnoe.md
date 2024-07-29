@@ -1,9 +1,15 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - "1982.02"
-  - Онтология прекрасной реальности
-  - Риг-веда
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3

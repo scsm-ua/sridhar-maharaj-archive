@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3

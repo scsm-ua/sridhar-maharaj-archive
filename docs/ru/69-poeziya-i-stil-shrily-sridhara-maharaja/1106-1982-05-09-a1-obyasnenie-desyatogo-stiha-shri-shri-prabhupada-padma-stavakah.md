@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3

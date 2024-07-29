@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/619_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3

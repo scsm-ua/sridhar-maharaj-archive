@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 352-1981-02-28-c3-sila-bozhestvennogo-zvuka
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1981.02"
-  - Святое Имя
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/352_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3

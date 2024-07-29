@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3

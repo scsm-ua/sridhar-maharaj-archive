@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.08"
-  - Санкиртана
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3

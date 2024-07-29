@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 467-ponimanie-duhovnyh-istin-obretaetsya
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1983.02"
-  - Сарасвати Тхакур
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/467_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3

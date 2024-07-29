@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 362-uchenoe-nevezhestvo-1984-01-23-b2-b4
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/362_1984.01.23.B2.B4_SridharMJ_Uchenoe_nevejestvo.mp3

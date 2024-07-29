@@ -1,10 +1,17 @@
 ---
-category: (18. Духовный мир)
+slug: 234-sokrovishha-vajkunthi-sokryty-v-pyli-v
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1982.01"
-  - Вайкунтха
-  - Вриндаван
-  - Духовный мир
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Вриндаван
+    slug: vrindavan
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/234_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3

@@ -1,7 +1,11 @@
 ---
-category: 47. Принципы внешней и внутренней чистоты вайшнавов
+slug: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote
+category:
+  title: 47. Принципы внешней и внутренней чистоты вайшнавов
+  slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.mp3

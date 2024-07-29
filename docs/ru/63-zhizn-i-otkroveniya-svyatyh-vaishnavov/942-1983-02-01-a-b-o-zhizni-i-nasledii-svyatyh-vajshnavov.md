@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3

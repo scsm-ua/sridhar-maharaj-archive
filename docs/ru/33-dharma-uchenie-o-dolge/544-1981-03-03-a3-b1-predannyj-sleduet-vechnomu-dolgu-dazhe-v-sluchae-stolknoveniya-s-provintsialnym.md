@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1981.03"
-  - Дхарма
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3

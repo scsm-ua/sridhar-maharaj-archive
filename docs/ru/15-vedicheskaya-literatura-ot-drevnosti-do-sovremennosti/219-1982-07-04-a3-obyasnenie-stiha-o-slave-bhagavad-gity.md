@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3

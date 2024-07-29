@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 293-1982-07-27-b3-kogda-duhovnyj-uchitel-podlinnyj-vse-chto-ugodno-mozhet-byt-ispolzovano-v-sluzhenii-gospodu
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.07"
-  - Гуру-таттва
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.mp3

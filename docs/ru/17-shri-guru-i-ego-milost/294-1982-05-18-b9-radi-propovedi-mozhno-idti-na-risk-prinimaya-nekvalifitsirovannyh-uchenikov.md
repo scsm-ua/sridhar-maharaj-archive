@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3

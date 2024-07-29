@@ -1,8 +1,13 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.02"
-  - Кришна-лила
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3

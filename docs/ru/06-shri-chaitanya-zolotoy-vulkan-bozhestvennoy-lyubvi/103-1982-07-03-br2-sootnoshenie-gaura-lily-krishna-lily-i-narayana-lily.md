@@ -1,11 +1,19 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 103-1982-07-03-br2-sootnoshenie-gaura-lily-krishna-lily-i-narayana-lily
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.07"
-  - Гаура-лила
-  - Кришна-лила
-  - Махапрабху
-  - Нараяна
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Гаура-лила
+    slug: gaura-lila
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нараяна
+    slug: narayana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/103_1982.07.03.Br2_SridharMj_Sootnoshenie_Gaura-lily_Krishna-lily_i_Narajana-lily.mp3

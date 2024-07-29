@@ -1,8 +1,13 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 81-ontologiya-lyubvi-1983-02-06-b
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1983.02"
-  - Любовь
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Любовь
+    slug: lyubov
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/081_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3

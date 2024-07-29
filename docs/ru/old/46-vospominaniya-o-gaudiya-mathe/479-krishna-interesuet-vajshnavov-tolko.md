@@ -1,8 +1,13 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 479-krishna-interesuet-vajshnavov-tolko
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - Гаудия-матх
-  - Мгновения прекрасной реальности
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/479_MgnoveniyaPR_6.7_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3

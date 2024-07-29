@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 361-narkotik-nikogda-ne-dast-duhovnoj-re
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/361_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3

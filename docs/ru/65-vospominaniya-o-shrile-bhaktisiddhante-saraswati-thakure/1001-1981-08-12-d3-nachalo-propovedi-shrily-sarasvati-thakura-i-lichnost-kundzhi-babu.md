@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.mp3

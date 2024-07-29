@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 056_1982-05-14-c1_sridharmj_svajam_bhagavan_i_krishna_v_smeshannyh_rasah
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/056_1982.05.14.C1_SridharMj_Svajam_Bhagavan_i_Krishna_v_smeshannyh_rasah.mp3

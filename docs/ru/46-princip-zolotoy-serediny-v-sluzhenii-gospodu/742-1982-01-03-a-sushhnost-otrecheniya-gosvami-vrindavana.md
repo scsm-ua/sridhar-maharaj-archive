@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3

@@ -1,8 +1,13 @@
 ---
-category: (18. Духовный мир)
+slug: 241-mir-gde-pravit-krasota
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - Гармония
-  - Красота
+  - title: Гармония
+    slug: garmoniya
+  - title: Красота
+    slug: krasota
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/241_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3

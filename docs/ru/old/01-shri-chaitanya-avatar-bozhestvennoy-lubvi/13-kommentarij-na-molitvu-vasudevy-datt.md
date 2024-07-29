@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 13-kommentarij-na-molitvu-vasudevy-datt
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1981.03"
-  - Махапрабху
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/013_1981.03.05.B3_SridharMj_Kommentariy_na_molitvu_Vasudevy_Datty.mp3

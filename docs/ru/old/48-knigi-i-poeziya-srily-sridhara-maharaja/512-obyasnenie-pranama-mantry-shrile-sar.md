@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 512-obyasnenie-pranama-mantry-shrile-sar
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Поэзия Шридхара Махараджа
-  - Пранама-мантра Сарасвати Тхакуру
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Пранама-мантра Сарасвати Тхакуру
+    slug: pranama-mantra-sarasvati-thakuru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/512_1983.02.20.A1_SridharMj_Obyasnenie_pranama-mantry_Shrile_Saraswati_Thakuru.mp3

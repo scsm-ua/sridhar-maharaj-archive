@@ -1,9 +1,15 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 138-1982-05-03-a-b1-uchenie-o-rasah-v-ramananda-samvade
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.05"
-  - Рамананда-самвад
-  - Хануман
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
+  - title: Хануман
+    slug: hanuman
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/138_1982.05.03.A.B1_SridharMj_Uchenie_o_rasah_v_ramananda_samvade.mp3

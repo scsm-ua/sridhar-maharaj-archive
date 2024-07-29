@@ -1,8 +1,13 @@
 ---
-category: (37. Самопожертвование)
+slug: 413-umeret-chtoby-zhit-1983-03-29
+category:
+  title: (37. Самопожертвование)
+  slug: 37-samopozhertvovanie
 tags:
-  - "1983.03"
-  - Самопожертвование
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Самопожертвование
+    slug: samopozhertvovanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/413_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3

@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3

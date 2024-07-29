@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 484-vospominaniya-o-propovedi-sredi-musu
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.01"
-  - Гаудия-матх
-  - Проповедь
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/484_1983.01.12.B4_SridharMj_Vospominaniya_o_propovedi_sredi_musulman.mp3

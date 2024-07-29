@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.01"
-  - Шаранагати
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3

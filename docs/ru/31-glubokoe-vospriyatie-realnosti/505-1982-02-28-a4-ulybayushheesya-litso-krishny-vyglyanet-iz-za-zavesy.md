@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/505_1982.02.28.A4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3

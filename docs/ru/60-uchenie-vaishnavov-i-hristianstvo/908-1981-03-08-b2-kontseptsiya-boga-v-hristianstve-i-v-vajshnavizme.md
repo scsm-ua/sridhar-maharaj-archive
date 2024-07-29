@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 908-1981-03-08-b2-kontseptsiya-boga-v-hristianstve-i-v-vajshnavizme
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3

@@ -1,10 +1,17 @@
 ---
-category: 11. Четыре области богословия Госвами Вриндавана
+slug: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana
+category:
+  title: 11. Четыре области богословия Госвами Вриндавана
+  slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - "1982.05"
-  - Джива Госвами
-  - Рупа Госвами
-  - Санатана Госвами
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Джива Госвами
+    slug: dzhiva-gosvami
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.mp3

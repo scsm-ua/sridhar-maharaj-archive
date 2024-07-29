@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 208-pyat-urovnej-znaniya-1983-01-15
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.01"
-  - Знание
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Знание
+    slug: znanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/208_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3

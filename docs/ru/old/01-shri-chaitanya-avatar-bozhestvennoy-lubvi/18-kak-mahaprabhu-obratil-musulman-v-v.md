@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 18-kak-mahaprabhu-obratil-musulman-v-v
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.01"
-  - Махапрабху
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/018_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3

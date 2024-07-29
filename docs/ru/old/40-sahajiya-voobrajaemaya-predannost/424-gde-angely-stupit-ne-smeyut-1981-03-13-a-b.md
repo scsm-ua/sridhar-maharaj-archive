@@ -1,9 +1,15 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 424-gde-angely-stupit-ne-smeyut-1981-03-13-a-b
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1981.03"
-  - Сарасвати Тхакур
-  - Сахаджия
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/424_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3

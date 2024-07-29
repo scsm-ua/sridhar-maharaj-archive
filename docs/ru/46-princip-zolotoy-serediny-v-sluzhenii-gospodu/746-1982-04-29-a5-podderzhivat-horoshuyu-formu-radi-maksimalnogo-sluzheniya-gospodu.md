@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3

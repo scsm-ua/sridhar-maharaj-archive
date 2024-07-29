@@ -1,8 +1,13 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.05"
-  - Рамананда-самвад
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3

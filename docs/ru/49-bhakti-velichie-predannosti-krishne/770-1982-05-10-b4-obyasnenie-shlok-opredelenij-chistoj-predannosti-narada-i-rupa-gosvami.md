@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.05"
-  - Бхакти
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3

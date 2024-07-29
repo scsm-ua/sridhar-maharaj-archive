@@ -1,9 +1,15 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 212-bodrstvovanie-son-i-glubokij-son-v-shr
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - Душа
-  - Онтология прекрасной реальности
-  - Сознание
+  - title: Душа
+    slug: dusha
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/212_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3

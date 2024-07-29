@@ -1,9 +1,15 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 159-sarasvati-thakur-hotel-sdelat-kazhd
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1981.03"
-  - Санкиртана
-  - Сарасвати Тхакур
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санкиртана
+    slug: sankirtana
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/159_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3

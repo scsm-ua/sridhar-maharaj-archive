@@ -1,7 +1,11 @@
 ---
-category: (38. Самоотрицание)
+slug: 418-samootritsanie-ne-taktika-a-iskrenne
+category:
+  title: (38. Самоотрицание)
+  slug: 38-samootricanie
 tags:
-  - Самоотрицание
+  - title: Самоотрицание
+    slug: samootritsanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/418_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3

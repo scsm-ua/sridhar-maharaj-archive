@@ -1,8 +1,13 @@
 ---
-category: (34. Вера)
+slug: 400-poznav-odno-poznaesh-vse-mgnoveniya
+category:
+  title: (34. Вера)
+  slug: 34-vera
 tags:
-  - Вера
-  - Мгновения прекрасной реальности
+  - title: Вера
+    slug: vera
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/400_MgnoveniyaPR_6.1_SridharMj_Poznav_Odno–poznayesh_vse.mp3

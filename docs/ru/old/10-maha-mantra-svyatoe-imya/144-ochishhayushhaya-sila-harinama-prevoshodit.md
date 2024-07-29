@@ -1,9 +1,15 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 144-ochishhayushhaya-sila-harinama-prevoshodit
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - "1983.05"
-  - Маха-мантра
-  - Святое Имя
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/144_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3

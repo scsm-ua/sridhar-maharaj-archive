@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 65-tsiklichnyj-harakter-krishna-lily-1983-01-30-a2
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1983.01"
-  - Кришна-лила
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/065_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3

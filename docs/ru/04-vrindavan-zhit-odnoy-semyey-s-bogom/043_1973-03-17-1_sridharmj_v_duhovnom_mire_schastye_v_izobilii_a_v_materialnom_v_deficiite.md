@@ -1,11 +1,19 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1973.03"
-  - Бхактиведанта Свами Прабхупада
-  - Вриндаван
-  - Ганга
-  - Духовный мир
+  - title: "1973.03"
+    slug: 1973-03
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Вриндаван
+    slug: vrindavan
+  - title: Ганга
+    slug: ganga
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3

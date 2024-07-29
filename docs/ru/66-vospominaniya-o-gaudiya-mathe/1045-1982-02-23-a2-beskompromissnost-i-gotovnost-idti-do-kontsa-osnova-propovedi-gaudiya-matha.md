@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3

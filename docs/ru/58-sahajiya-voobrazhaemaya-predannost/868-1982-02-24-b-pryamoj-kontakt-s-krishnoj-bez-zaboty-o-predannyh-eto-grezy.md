@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3

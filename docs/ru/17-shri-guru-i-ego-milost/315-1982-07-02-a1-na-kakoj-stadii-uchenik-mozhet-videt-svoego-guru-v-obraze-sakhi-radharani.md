@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.07"
-  - Гуру-таттва
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3

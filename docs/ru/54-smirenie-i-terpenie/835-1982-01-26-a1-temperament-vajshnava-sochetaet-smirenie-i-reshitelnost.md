@@ -1,7 +1,11 @@
 ---
-category: 54. Смирение и терпение
+slug: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost
+category:
+  title: 54. Смирение и терпение
+  slug: 54-smirenie-i-terpenie
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3

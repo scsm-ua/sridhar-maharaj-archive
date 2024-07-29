@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - Махапрабху
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3

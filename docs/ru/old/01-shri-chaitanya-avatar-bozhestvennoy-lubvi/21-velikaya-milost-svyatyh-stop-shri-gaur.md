@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 21-velikaya-milost-svyatyh-stop-shri-gaur
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1982.01"
-  - Махапрабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/021_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3

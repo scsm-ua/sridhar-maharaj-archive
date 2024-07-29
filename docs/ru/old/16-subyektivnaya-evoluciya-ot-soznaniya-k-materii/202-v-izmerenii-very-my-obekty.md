@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 202-v-izmerenii-very-my-obekty
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1984.01"
-  - Вера
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/202_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3

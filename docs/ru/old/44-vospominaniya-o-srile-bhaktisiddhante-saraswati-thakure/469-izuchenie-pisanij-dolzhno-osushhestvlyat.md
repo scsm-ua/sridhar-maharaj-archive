@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 469-izuchenie-pisanij-dolzhno-osushhestvlyat
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
-  - Сарасвати Тхакур
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/469_1981.08.22.C2_SridharMj_Izuchenie_pisaniy_doljno_osuwestvlyatsya_pod_rukovodstvom_vaishnava.mp3

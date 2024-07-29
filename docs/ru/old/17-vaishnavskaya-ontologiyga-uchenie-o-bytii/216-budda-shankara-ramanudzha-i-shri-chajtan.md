@@ -1,22 +1,41 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 216-budda-shankara-ramanudzha-i-shri-chajtan
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1983.07"
-  - Брахма
-  - Будда
-  - Буддизм
-  - Бхагавад-гита
-  - Вайкунтха
-  - Душа
-  - Карма
-  - Любовь
-  - Майавада
-  - Махапрабху
-  - Рамануджа
-  - Рамануджа Ачарья
-  - Рупа Госвами
-  - Шанкара
-  - Шива
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Брахма
+    slug: brahma
+  - title: Будда
+    slug: budda
+  - title: Буддизм
+    slug: buddizm
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Душа
+    slug: dusha
+  - title: Карма
+    slug: karma
+  - title: Любовь
+    slug: lyubov
+  - title: Майавада
+    slug: majavada
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамануджа
+    slug: ramanudzha
+  - title: Рамануджа Ачарья
+    slug: ramanudzha-acharya
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Шанкара
+    slug: shankara
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/216_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3

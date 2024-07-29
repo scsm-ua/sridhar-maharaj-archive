@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 356-smysl-shikhi-legkij-sposob-prevzojti
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/356_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3

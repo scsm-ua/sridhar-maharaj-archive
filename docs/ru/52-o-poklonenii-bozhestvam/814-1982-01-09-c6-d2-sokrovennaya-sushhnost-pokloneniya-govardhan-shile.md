@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.01"
-  - Арчана
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3

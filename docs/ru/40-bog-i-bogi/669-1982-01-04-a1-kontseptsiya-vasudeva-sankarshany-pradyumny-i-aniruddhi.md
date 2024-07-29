@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 669-1982-01-04-a1-kontseptsiya-vasudeva-sankarshany-pradyumny-i-aniruddhi
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/669_1982.01.04.A1_SridharMj_Koncepcija_Vasudeva_Sankarshany_Pradjumny_i_Aniruddhi.mp3

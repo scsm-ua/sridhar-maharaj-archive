@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 154-1983-05-24-b1-gospod-narasimhadev
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1983.05"
-  - Нарасимха
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3

@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3

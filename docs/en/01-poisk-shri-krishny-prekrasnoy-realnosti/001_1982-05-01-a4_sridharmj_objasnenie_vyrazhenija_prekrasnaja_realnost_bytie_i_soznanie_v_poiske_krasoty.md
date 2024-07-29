@@ -1,10 +1,17 @@
 ---
-category: Избранные
+slug: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.05"
-  - with English audio
-  - with English text
-  - ШБ 7.5.31
+  - title: "1982.05"
+    slug: 1982-05
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
+  - title: ШБ 7.5.31
+    slug: shb-7-5-31
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4

@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Арчана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.mp3

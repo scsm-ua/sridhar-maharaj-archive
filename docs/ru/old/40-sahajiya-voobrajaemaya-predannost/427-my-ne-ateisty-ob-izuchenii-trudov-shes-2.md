@@ -1,10 +1,17 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 427-my-ne-ateisty-ob-izuchenii-trudov-shes-2
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - Книги Госвами
-  - Онтология прекрасной реальности
-  - Сахаджия
-  - Шри-Рупа-Манджари-пада
+  - title: Книги Госвами
+    slug: knigi-gosvami
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сахаджия
+    slug: sahadzhiya
+  - title: Шри-Рупа-Манджари-пада
+    slug: shri-rupa-mandzhari-pada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/427_OntologiyaPR_1.7_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami1.mp3

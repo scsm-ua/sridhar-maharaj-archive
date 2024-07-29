@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1981.08"
-  - Душа
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.mp3

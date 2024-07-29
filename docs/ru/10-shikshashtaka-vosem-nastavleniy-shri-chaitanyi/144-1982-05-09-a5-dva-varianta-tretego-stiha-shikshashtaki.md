@@ -1,8 +1,13 @@
 ---
-category: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+slug: 144-1982-05-09-a5-dva-varianta-tretego-stiha-shikshashtaki
+category:
+  title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+  slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
 tags:
-  - "1982.05"
-  - Шикшаштакам
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Шикшаштакам
+    slug: shikshashtakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/144_1982.05.09.A5_SridharMj_Dva_varianta_tretego_stiha_Shikshashtaki.mp3

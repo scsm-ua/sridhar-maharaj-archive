@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.02"
-  - Нарасимха
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev--ustranitel_prepjatstvij_na_puti_predannosti.mp3

@@ -1,7 +1,11 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3

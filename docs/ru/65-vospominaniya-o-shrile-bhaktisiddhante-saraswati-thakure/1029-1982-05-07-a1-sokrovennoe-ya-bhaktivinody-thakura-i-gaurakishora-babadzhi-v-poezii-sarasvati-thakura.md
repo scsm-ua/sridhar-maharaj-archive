@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1029-1982-05-07-a1-sokrovennoe-ya-bhaktivinody-thakura-i-gaurakishora-babadzhi-v-poezii-sarasvati-thakura
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3

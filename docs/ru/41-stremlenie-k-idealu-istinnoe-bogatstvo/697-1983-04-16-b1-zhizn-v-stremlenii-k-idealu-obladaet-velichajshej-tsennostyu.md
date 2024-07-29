@@ -1,7 +1,11 @@
 ---
-category: 41. Стремление к идеалу — истинное богатство
+slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
+category:
+  title: 41. Стремление к идеалу — истинное богатство
+  slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3

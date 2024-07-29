@@ -1,11 +1,19 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 254-svarupa-siddhi-i-vastu-siddhi-1981-03-05-a3
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1981.03"
-  - Васту-сиддхи
-  - Душа
-  - Кришна-лила
-  - Сварупа-сиддхи
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Васту-сиддхи
+    slug: vastu-siddhi
+  - title: Душа
+    slug: dusha
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/254_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3

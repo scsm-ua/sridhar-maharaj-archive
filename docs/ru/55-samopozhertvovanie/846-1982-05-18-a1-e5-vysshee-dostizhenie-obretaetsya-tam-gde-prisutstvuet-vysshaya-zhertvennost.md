@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 846-1982-05-18-a1-e5-vysshee-dostizhenie-obretaetsya-tam-gde-prisutstvuet-vysshaya-zhertvennost
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.05"
-  - Самопредание
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.mp3

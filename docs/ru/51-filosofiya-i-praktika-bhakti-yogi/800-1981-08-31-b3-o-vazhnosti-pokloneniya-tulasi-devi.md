@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 800-1981-08-31-b3-o-vazhnosti-pokloneniya-tulasi-devi
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1981.08"
-  - Туласи
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Туласи
+    slug: tulasi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3

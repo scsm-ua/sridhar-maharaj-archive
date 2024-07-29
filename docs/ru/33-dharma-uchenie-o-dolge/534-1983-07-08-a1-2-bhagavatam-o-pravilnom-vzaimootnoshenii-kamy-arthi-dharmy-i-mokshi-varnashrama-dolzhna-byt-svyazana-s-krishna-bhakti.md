@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1983.07"
-  - Варнашрама-дхарма
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Варнашрама-дхарма
+    slug: varnashrama-dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3

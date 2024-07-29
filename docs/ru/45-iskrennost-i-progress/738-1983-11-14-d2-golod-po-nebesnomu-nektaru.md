@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3

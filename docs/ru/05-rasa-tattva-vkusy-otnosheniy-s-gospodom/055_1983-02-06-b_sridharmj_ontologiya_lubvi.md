@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 055_1983-02-06-b_sridharmj_ontologiya_lubvi
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3

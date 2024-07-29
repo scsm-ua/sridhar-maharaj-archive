@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1981.11"
+  - title: "1981.11"
+    slug: 1981-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3

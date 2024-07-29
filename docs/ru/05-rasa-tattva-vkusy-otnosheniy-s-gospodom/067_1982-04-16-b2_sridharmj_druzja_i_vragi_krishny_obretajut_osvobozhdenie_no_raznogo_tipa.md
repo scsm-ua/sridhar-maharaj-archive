@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.04"
-  - освобождение
+  - title: "1982.04"
+    slug: 1982-04
+  - title: освобождение
+    slug: osvobozhdenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3

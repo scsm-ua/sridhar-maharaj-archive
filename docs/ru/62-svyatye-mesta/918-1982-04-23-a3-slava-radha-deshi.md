@@ -1,7 +1,11 @@
 ---
-category: 62. Святые места
+slug: 918-1982-04-23-a3-slava-radha-deshi
+category:
+  title: 62. Святые места
+  slug: 62-svyatye-mesta
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3

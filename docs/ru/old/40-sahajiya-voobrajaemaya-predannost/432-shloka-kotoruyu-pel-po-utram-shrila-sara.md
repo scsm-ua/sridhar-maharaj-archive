@@ -1,9 +1,15 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 432-shloka-kotoruyu-pel-po-utram-shrila-sara
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1981.11"
-  - Сарасвати Тхакур
-  - Сахаджия
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/432_1981.11.12.C1_SridharMj_Shloka_kotoruyu_pel_po_utram_Shrila_Sarasvati_Thakur.mp3

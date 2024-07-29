@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.07"
-  - Бхакти-йога
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3

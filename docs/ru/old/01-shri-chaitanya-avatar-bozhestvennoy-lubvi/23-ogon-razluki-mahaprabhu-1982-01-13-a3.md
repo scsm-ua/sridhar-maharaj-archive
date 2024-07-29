@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 23-ogon-razluki-mahaprabhu-1982-01-13-a3
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1982.01"
-  - Махапрабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/023_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3

@@ -1,7 +1,11 @@
 ---
-category: (31. Памятование о Господе)
+slug: 378-pamyatovanie-o-stopah-krishny-razrusha
+category:
+  title: (31. Памятование о Господе)
+  slug: 31-pamyatovanie-o-gospode
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/378_OntologiyaPR_1.1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3

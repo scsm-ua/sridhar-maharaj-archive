@@ -1,11 +1,18 @@
 ---
-category: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С.
-  Говинды Махараджа)
+slug: 520-shri-shri-dajita-dasa-dashakam-3
+category:
+  title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
+    Махараджа)
+  slug: 50-poeziya-srily-b-r-sridhara-maharaja-v-ispolnenii-srily-b-s-govindy-maharaja
 tags:
-  - Говинда Махарадж
-  - Молитва
-  - Поэзия Шридхара Махараджа
-  - Сарасвати Тхакур
+  - title: Говинда Махарадж
+    slug: govinda-maharadzh
+  - title: Молитва
+    slug: molitva
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/520_Sri_Dayita_Das_Dasakam1.mp3

@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.02"
-  - Вера
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.mp3

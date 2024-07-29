@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1983.02"
-  - Санньяса
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3

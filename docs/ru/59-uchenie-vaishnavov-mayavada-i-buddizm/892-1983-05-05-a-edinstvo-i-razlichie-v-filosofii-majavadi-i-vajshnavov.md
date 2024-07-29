@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3

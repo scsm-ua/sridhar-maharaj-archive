@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 215-nebo-soznaniya-1982-01-04-b1
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.01"
-  - Сознание
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/215_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3

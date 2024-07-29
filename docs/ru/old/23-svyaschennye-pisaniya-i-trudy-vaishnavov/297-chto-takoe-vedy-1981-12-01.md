@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 297-chto-takoe-vedy-1981-12-01
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1981.12"
-  - Веды
-  - Священные писания
+  - title: "1981.12"
+    slug: 1981-12
+  - title: Веды
+    slug: vedy
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/297_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3

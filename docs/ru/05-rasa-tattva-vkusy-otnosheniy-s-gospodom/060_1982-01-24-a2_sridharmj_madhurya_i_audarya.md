@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3

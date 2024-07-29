@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1982.04"
-  - Шаранагати
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3

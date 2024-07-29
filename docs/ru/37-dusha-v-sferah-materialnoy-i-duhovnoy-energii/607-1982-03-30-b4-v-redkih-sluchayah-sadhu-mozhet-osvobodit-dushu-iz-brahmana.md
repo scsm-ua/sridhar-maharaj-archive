@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.03"
-  - Душа
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3

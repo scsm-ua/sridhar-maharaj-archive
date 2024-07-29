@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 355-o-vazhnosti-soblyudeniya-reguliruyushhih
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/355_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3

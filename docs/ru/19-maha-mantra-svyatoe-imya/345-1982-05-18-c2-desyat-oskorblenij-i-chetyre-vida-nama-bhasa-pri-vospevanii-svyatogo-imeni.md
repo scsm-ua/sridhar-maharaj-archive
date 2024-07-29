@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.05"
-  - Святое Имя
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.mp3

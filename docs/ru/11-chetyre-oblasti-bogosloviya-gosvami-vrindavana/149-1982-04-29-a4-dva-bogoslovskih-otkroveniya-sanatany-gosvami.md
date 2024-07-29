@@ -1,8 +1,13 @@
 ---
-category: 11. Четыре области богословия Госвами Вриндавана
+slug: 149-1982-04-29-a4-dva-bogoslovskih-otkroveniya-sanatany-gosvami
+category:
+  title: 11. Четыре области богословия Госвами Вриндавана
+  slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - "1982.04"
-  - Санатана Госвами
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3

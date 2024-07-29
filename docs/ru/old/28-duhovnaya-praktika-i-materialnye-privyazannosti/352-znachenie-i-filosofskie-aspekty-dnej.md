@@ -1,8 +1,13 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 352-znachenie-i-filosofskie-aspekty-dnej
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - Мгновения прекрасной реальности
-  - Экадаши
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Экадаши
+    slug: ekadashi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/352_MgnoveniyaPR_7.5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3

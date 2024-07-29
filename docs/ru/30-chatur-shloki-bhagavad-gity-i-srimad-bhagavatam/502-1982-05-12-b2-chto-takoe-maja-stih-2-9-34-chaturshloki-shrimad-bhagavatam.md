@@ -1,8 +1,13 @@
 ---
-category: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
+category:
+  title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+  slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
 tags:
-  - "1982.05"
-  - Чатур-шлока
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Чатур-шлока
+    slug: chatur-shloka
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3

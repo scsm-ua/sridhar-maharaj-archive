@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.04"
-  - Кришна
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/045_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3

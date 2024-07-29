@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 513-1983-03-30-b4-o-razrushenii-bozhestv
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3

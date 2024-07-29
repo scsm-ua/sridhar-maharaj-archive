@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3

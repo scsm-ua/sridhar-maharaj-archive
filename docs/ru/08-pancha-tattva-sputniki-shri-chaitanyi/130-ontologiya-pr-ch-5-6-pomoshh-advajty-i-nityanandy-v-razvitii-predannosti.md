@@ -1,9 +1,15 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Адвайта Ачарья
-  - Нитьянанда Прабху
-  - Онтология прекрасной реальности
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/130_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3

@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3

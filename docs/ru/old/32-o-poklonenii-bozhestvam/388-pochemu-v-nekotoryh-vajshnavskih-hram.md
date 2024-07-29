@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 388-pochemu-v-nekotoryh-vajshnavskih-hram
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - Божество
-  - Мгновения прекрасной реальности
+  - title: Божество
+    slug: bozhestvo
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/388_MgnoveniyaPR_4.3_SridharMj_Pochemu_v_nekotoryh_vaishnavskih_hramah_poklonyayutsya_shalagram-shile.mp3

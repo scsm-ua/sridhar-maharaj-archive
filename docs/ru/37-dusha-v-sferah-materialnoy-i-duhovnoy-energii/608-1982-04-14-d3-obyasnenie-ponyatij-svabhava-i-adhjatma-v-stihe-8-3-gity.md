@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.04"
-  - Душа
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3

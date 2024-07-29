@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/743_1982.07.09.A1_SridharMj_Asketizm_neobhodim_v_toj_stepeni_v_kotoroj_on_sposobstvuet_sluzheniju_Krishne.mp3

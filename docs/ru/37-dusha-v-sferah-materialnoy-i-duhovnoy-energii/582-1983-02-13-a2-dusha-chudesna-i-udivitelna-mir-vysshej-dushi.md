@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1983.02"
-  - Душа
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.mp3

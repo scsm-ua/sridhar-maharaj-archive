@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3

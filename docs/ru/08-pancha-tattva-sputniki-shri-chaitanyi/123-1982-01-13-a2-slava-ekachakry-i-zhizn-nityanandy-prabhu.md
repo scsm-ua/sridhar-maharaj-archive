@@ -1,9 +1,15 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 123-1982-01-13-a2-slava-ekachakry-i-zhizn-nityanandy-prabhu
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1982.01"
-  - Нитьянанда Прабху
-  - Экачакра
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Экачакра
+    slug: ekachakra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3

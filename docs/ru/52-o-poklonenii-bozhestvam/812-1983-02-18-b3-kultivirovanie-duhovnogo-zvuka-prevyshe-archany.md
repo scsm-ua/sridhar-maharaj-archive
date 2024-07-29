@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1983.02"
-  - Арчана
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/812_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3

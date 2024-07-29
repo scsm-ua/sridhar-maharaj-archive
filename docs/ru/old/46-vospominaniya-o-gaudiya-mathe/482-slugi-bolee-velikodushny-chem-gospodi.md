@@ -1,8 +1,13 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 482-slugi-bolee-velikodushny-chem-gospodi
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - Гаудия-матх
-  - Сарасвати Тхакур
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/482_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3

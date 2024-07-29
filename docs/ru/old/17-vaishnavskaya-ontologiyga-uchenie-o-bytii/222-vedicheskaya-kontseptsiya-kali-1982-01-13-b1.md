@@ -1,8 +1,13 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1982.01"
-  - Кали
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кали
+    slug: kali
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/222_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3

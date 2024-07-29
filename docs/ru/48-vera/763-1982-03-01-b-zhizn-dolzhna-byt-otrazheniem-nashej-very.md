@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 763-1982-03-01-b-zhizn-dolzhna-byt-otrazheniem-nashej-very
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.03"
-  - Вера
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/763_1982.03.01.B_SridharMj_Zhizn_dolzhna_byt_otrazheniem_nashej_very.mp3

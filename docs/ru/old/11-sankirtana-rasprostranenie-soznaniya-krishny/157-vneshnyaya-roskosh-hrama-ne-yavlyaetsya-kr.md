@@ -1,7 +1,11 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 157-vneshnyaya-roskosh-hrama-ne-yavlyaetsya-kr
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - Джаганнатх
+  - title: Джаганнатх
+    slug: dzhagannath
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/157_2012.07.25.2_SridharMj_Vneshnyaya_roskosh_hrama_ne_yavlyayetsya_kriteriyem_duhovnosti.mp3

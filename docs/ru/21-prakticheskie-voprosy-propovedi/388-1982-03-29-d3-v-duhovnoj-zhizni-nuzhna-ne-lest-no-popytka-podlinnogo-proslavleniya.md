@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.03"
-  - Проповедь
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3

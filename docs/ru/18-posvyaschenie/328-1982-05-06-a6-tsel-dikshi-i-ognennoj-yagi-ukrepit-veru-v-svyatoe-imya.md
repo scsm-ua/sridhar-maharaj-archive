@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.mp3

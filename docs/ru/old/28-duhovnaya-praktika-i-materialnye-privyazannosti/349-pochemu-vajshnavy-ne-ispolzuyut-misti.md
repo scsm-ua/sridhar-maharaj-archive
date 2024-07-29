@@ -1,8 +1,13 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 349-pochemu-vajshnavy-ne-ispolzuyut-misti
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1983.01"
-  - Йога
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Йога
+    slug: joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/349_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3

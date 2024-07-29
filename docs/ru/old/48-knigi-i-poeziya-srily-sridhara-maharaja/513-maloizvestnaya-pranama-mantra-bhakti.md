@@ -1,9 +1,15 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 513-maloizvestnaya-pranama-mantra-bhakti
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Онтология прекрасной реальности
-  - Поэзия Шридхара Махараджа
-  - Пранама-мантра Сарасвати Тхакуру
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Пранама-мантра Сарасвати Тхакуру
+    slug: pranama-mantra-sarasvati-thakuru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/513_OntologiyaPR_1.10_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3

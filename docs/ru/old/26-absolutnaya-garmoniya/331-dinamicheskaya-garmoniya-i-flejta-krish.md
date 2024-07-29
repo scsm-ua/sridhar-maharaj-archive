@@ -1,9 +1,15 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 331-dinamicheskaya-garmoniya-i-flejta-krish
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - Гармония
-  - Онтология прекрасной реальности
-  - Флейта Кришны
+  - title: Гармония
+    slug: garmoniya
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Флейта Кришны
+    slug: flejta-krishny
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/331_OntologiyaPR_2.5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3

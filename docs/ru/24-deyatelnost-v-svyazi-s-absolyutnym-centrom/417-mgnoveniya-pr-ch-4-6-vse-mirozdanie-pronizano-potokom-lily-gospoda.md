@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3

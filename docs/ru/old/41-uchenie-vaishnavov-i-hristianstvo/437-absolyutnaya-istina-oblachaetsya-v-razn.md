@@ -1,8 +1,13 @@
 ---
-category: (41. Учение вайшнавов и Христианство)
+slug: 437-absolyutnaya-istina-oblachaetsya-v-razn
+category:
+  title: (41. Учение вайшнавов и Христианство)
+  slug: 41-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - Онтология прекрасной реальности
-  - Христианство
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Христианство
+    slug: hristianstvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/437_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3

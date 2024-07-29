@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1981.03"
-  - Нарасимха
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.mp3

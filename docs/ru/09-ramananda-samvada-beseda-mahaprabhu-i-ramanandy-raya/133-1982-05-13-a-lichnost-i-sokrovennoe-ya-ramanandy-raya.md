@@ -1,8 +1,13 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.05"
-  - Рамананда Рай
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Рамананда Рай
+    slug: ramananda-raj
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/133_1982.05.13.A_SridharMj_Lichnost_i_sokrovennoe_ja_Ramanandy_Raja.mp3

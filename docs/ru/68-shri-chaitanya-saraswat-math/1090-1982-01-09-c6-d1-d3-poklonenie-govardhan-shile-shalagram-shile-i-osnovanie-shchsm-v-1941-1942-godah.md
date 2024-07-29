@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3

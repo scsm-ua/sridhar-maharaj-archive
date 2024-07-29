@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3

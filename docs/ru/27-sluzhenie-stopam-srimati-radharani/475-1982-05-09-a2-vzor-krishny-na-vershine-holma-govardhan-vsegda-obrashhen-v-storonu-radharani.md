@@ -1,8 +1,13 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.05"
-  - Радхарани
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3

@@ -1,9 +1,15 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 134-velichie-svyatogo-imeni-1982-01-07-a
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - "1982.01"
-  - Маха-мантра
-  - Святое Имя
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/134_1982.01.07.A_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3

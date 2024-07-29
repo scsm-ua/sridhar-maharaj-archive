@@ -1,8 +1,13 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.01"
-  - Майавада
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Майавада
+    slug: majavada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3

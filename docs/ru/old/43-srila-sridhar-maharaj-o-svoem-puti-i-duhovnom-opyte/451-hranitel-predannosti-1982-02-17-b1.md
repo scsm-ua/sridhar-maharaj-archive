@@ -1,8 +1,13 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 451-hranitel-predannosti-1982-02-17-b1
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1982.02"
-  - Биография Шридхара Махараджа
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/451_1982.02.17.B1_SridharMj_Hranitel_predannosti.mp3

@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.mp3

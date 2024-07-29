@@ -1,7 +1,11 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 83-madhurya-i-audarya-1982-01-24-a2
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/083_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3

@@ -1,9 +1,15 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 245-dusha-chastitsa-soznaniya-1981-03-01-a3
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1981.03"
-  - Душа
-  - Сознание
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/245_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3

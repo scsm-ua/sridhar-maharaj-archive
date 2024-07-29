@@ -1,8 +1,13 @@
 ---
-category: 50. Бхакти-йога и девять видов преданного служения
+slug: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti
+category:
+  title: 50. Бхакти-йога и девять видов преданного служения
+  slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
 tags:
-  - "1983.11"
-  - Бхакти-йога
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.mp3

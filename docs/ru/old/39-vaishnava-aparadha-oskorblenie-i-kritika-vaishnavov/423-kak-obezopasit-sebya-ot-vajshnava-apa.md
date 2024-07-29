@@ -1,8 +1,13 @@
 ---
-category: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+slug: 423-kak-obezopasit-sebya-ot-vajshnava-apa
+category:
+  title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+  slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - "1985.10"
-  - Вайшнава-апарадха
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Вайшнава-апарадха
+    slug: vajshnava-aparadha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/423_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3

@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1983.07"
-  - Санкиртана
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3

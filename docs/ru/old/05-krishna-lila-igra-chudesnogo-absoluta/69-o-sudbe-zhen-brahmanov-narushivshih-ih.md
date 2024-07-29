@@ -1,5 +1,8 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 69-o-sudbe-zhen-brahmanov-narushivshih-ih
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/069_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3

@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 840-samopozhertvovanie-i-samozabvenie
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - Самопредание
-  - без даты
+  - title: Самопредание
+    slug: samopredanie
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3

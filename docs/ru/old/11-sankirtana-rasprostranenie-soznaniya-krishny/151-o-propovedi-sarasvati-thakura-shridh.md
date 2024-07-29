@@ -1,10 +1,17 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 151-o-propovedi-sarasvati-thakura-shridh
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - Биография Шридхара Махараджа
-  - Бхактиведанта Свами Прабхупада
-  - Онтология прекрасной реальности
-  - Сарасвати Тхакур
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/151_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3

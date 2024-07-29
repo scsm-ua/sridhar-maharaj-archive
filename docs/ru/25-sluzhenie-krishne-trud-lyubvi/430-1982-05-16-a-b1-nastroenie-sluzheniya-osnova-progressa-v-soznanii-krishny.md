@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3

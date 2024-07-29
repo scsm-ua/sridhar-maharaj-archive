@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1987.00"
+  - title: "1987.00"
+    slug: 1987-00
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3

@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1062-1983-07-08-a1-1-v-poiskah-boga-istoriya-madana-gopala-sardana
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3

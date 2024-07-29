@@ -1,7 +1,11 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 803-1983-11-13-a5-o-prazdnike-gopashtami
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/803_1983.11.13.A5_SridharMj_O_prazdnike_gopashtami.mp3

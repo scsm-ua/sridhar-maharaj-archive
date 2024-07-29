@@ -1,9 +1,15 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 407-atmanivedanam-znachit-bespomoshhnost
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - Мгновения прекрасной реальности
-  - Самопредание
-  - Шаранагати
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/407_MgnoveniyaPR_5.1_SridharMj_Atmanivedanam_znachit_bespomownost_i_predannost_Gospodu.mp3

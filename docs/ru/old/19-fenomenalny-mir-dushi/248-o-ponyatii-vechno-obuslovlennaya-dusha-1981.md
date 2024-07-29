@@ -1,11 +1,19 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 248-o-ponyatii-vechno-obuslovlennaya-dusha-1981
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1981.08"
-  - Васту-сиддхи
-  - Душа
-  - Сварупа-сиддхи
-  - Сварупа-шакти
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Васту-сиддхи
+    slug: vastu-siddhi
+  - title: Душа
+    slug: dusha
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/248_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3

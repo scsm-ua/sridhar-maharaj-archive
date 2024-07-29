@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.01"
-  - Гуру-парампара
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.mp3

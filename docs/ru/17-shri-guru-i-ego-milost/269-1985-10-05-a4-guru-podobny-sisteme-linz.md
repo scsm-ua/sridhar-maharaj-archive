@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 269-1985-10-05-a4-guru-podobny-sisteme-linz
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1985.10"
-  - Гуру-парампара
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3

@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 964-1982-06-19-d2-zhizni-vozvyshennyh-vajshnavov-do-momenta-ih-raskrytiya-ne-sleduet-pridavat-osoboe-znachenie
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/964_1982.06.19.D2_SridharMj_Zhizni_vozvyshennyh_vajshnavov_do_momenta_ih_raskrytija_ne_sleduet_pridavat_osoboe_znachenie.mp3

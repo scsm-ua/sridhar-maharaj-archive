@@ -1,9 +1,15 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 511-priroda-tantsa-mahaprabhu-v-stihe-66-pr
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Махапрабху
-  - Поэзия Шридхара Махараджа
-  - Према-дхама-дева-стотрам
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Према-дхама-дева-стотрам
+    slug: prema-dhama-deva-stotram
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/511_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_stihe_66_Prema-dhama-deva-stotram.mp3

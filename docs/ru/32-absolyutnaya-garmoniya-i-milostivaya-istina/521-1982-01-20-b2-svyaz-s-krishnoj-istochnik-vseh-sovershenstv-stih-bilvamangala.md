@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/521_1982.01.20.B2_SridharMj_Svjaz_s_Krishnoj_istochnik_vseh_sovershenstv_Stih_Bilvamangala.mp3

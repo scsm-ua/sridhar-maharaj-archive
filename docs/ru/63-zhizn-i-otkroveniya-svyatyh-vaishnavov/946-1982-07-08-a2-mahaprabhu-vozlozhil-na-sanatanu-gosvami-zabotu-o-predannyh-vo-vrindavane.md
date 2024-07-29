@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3

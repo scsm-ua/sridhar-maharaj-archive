@@ -1,11 +1,19 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1983.11"
-  - Пудж
-  - Пӯджала ра̄га-патха гаурава-бхан̇ге
-  - Упадешамрита 9
-  - ШБ 9.4.63
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Пудж
+    slug: pudzh
+  - title: Пӯджала ра̄га-патха гаурава-бхан̇ге
+    slug: p-dzhala-raga-patha-gaurava-bhan-ge
+  - title: Упадешамрита 9
+    slug: upadeshamrita-9
+  - title: ШБ 9.4.63
+    slug: shb-9-4-63
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3

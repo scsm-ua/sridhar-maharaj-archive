@@ -1,8 +1,13 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 206-proishozhdenie-ahankary-iz-mahat-tat
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.03"
-  - Душа
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/206_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahaе-tattvy.mp3

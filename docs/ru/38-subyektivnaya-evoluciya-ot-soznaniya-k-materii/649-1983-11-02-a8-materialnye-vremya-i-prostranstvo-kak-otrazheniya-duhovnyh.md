@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.mp3

@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3

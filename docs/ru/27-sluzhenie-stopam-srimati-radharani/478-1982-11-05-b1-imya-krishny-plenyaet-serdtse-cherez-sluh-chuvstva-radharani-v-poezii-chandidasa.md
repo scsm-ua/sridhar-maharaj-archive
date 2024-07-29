@@ -1,8 +1,13 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.11"
-  - Радхарани
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3

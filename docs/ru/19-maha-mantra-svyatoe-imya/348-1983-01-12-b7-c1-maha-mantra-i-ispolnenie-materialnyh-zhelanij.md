@@ -1,9 +1,15 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.01"
-  - Маха-мантра
-  - Святое Имя
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/348_1983.01.12.B7.C1_SridharMj_Maha-mantra_i_ispolnenie_materialnyh_jelaniy.mp3

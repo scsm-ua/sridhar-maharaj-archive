@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.06"
-  - Бхакти
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3

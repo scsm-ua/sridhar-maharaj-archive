@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3

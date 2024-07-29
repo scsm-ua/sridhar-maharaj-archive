@@ -1,7 +1,11 @@
 ---
-category: 4. Жизнь и откровения святых вайшнавов (вариации)
+slug: 1140-1982-07-07-b2-zhizn-shrinivasa-achari-1982
+category:
+  title: 4. Жизнь и откровения святых вайшнавов (вариации)
+  slug: 4-_jizn_i_otkroveniya_svyatyh_vaishnavov_variacii
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/4._Jizn_i_otkroveniya_svyatyh_vaishnavov_(variacii)/1140_1982.07.07.B2_SridharMj_Zhizn_Shrinivasa_Achari_1982.mp3

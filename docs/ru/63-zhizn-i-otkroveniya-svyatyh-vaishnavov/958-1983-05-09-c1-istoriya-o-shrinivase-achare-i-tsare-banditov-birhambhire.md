@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3

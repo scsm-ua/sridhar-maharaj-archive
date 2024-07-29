@@ -1,7 +1,11 @@
 ---
-category: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+slug: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity
+category:
+  title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+  slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.mp3

@@ -1,9 +1,15 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 30-obyasnenie-shloki-posvyashhennoj-gadadh
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Гададхар Пандит
-  - Махапрабху
-  - Поэзия Шридхара Махараджа
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/030_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3

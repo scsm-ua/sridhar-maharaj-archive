@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1985.07"
+  - title: "1985.07"
+    slug: 1985-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3

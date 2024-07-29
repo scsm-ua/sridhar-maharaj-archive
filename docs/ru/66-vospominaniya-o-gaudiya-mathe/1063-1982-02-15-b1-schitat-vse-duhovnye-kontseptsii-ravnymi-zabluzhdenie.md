@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3

@@ -1,8 +1,13 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 436-pochemu-vo-vrindavane-sarasvati-thak
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - Мгновения прекрасной реальности
-  - Сахаджия
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/436_MgnoveniyaPR_8.5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3

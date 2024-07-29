@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3

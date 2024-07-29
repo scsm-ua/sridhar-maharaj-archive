@@ -1,7 +1,11 @@
 ---
-category: (31. Памятование о Господе)
+slug: 376-vzor-lyubyashhego-hranitelya-glavnaya-ma
+category:
+  title: (31. Памятование о Господе)
+  slug: 31-pamyatovanie-o-gospode
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/376_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3

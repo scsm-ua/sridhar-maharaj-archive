@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.mp3

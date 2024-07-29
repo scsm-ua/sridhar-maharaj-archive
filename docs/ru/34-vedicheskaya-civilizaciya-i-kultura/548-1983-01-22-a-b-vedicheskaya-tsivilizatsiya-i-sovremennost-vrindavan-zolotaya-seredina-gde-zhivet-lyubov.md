@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1983.01"
-  - Ведическая цивилизация
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3

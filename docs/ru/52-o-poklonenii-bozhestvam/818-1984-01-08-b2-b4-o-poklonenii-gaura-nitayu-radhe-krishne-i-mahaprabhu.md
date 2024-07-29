@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1984.01"
-  - Арчана
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3

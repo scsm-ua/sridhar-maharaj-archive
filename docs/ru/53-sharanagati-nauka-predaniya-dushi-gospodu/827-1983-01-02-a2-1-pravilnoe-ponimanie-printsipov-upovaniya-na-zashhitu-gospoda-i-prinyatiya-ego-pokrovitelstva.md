@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.01"
-  - Шаранагати
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3

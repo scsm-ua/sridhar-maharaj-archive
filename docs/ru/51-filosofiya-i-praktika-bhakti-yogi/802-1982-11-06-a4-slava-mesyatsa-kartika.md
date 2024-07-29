@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 802-1982-11-06-a4-slava-mesyatsa-kartika
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.11"
-  - Бхакти-йога
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/802_1982.11.06.A4_SridharMj_Slava_mesjaca_Kartika.mp3

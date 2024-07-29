@@ -1,9 +1,15 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 263-pribezhishhe-daruyut-vajshnavy-a-ne-krishn
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.05"
-  - Бхакти
-  - Сварупа-шакти
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Бхакти
+    slug: bhakti
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/263_1983.05.11.A_SridharMj_Pribejiwe_dayut_vaishnavy_a_ne_Krishna.mp3

@@ -1,7 +1,11 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 189-religiya-oznachaet-pravilnoe-samoop
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/189_MgnoveniyaPR_2.2_SridharMj_-Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3

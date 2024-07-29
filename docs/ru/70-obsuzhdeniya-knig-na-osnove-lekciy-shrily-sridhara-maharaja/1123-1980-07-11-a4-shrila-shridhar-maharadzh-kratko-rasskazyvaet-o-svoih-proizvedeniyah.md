@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1980.07"
+  - title: "1980.07"
+    slug: 1980-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3

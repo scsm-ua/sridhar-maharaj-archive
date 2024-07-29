@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 288-1983-11-28-a3-guru-kak-sluga-uchenikov
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.11"
-  - Гуру-таттва
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/288_1983.11.28.A3_SridharMj_Guru_kak_sluga_uchenikov.mp3

@@ -1,10 +1,17 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 195-materiya-eto-ajsberg-v-okeane-soznan
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - Биография Шридхара Махараджа
-  - Душа
-  - Материальный мир
-  - Сознание
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Душа
+    slug: dusha
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/195_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3

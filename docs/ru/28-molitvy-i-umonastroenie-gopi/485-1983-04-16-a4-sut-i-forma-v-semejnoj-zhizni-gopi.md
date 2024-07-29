@@ -1,7 +1,11 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3

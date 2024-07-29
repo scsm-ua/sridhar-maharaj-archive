@@ -1,8 +1,13 @@
 ---
-category: (33. Искренность)
+slug: 391-iskrennost-i-golos-sovesti-na-duhov
+category:
+  title: (33. Искренность)
+  slug: 33-iskrennost
 tags:
-  - "1981.03"
-  - Искренность
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Искренность
+    slug: iskrennost
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/391_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3

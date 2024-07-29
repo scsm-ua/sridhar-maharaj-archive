@@ -1,9 +1,15 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 498-gospod-nityananda-i-semya-bhaktive
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1982.01"
-  - Бхактиведанта Свами Прабхупада
-  - Нитьянанда Прабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/498_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3

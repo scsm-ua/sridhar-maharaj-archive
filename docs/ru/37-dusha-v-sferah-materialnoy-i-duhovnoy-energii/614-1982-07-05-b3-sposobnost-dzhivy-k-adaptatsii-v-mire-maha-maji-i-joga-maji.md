@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.07"
-  - Душа
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.mp3

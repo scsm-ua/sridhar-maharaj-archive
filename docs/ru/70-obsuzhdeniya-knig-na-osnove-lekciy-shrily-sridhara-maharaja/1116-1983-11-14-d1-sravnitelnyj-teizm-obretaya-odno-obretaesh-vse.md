@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3

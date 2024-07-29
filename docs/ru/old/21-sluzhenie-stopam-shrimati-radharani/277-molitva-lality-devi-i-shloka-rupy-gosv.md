@@ -1,11 +1,19 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 277-molitva-lality-devi-i-shloka-rupy-gosv
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.01"
-  - Бхакти
-  - Лолита Деви
-  - Молитва
-  - Рупа Госвами
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Бхакти
+    slug: bhakti
+  - title: Лолита Деви
+    slug: lolita-devi
+  - title: Молитва
+    slug: molitva
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/277_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3

@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3

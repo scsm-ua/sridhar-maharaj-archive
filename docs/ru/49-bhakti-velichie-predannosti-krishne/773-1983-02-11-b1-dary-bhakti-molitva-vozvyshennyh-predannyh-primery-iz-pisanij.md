@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1983.02"
-  - Бхакти
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3

@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 48-krishna-ozhidaet-polnogo-samoposvyashhen
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/048_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3

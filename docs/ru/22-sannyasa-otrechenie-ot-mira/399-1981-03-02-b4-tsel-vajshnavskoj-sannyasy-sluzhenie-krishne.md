@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 399-1981-03-02-b4-tsel-vajshnavskoj-sannyasy-sluzhenie-krishne
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1981.03"
-  - Санньяса
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3

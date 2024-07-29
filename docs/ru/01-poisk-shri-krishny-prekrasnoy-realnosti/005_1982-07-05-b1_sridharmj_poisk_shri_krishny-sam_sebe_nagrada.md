@@ -1,9 +1,15 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.07"
-  - with English audio
-  - with English text
+  - title: "1982.07"
+    slug: 1982-07
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
@@ -12,15 +18,6 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.pdf
     title: транскрипцию в PDF (151 КБ)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
-      Exclusive search for Krishna Is reward of Its own.mp3
-    title: MP3 (11:03, 10 MB)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
-      Exclusive search for Krishna Is reward of Its own.rtf
-    title: RTF transcript
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
-      Exclusive search for Krishna Is reward of Its own.pdf
-    title: PDF transcript
 ---
 
 # 005. 1982.07.05.B1 Поиск Шри Кришны — сам себе награда

@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.01"
-  - Проповедь
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3

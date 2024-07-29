@@ -1,7 +1,11 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3

@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 666-krishna-ili-kali
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3

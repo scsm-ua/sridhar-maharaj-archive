@@ -1,9 +1,15 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 220-polozhenie-gospoda-shivy-1982-01-05-b
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1982.01"
-  - Брахма
-  - Шива
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Брахма
+    slug: brahma
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/220_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3

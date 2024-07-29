@@ -1,8 +1,13 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 443-strana-lyubvi-prevoshodit-mir-otreche
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1983.06"
-  - Майавада
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Майавада
+    slug: majavada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/443_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3

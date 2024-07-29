@@ -1,10 +1,17 @@
 ---
-category: 03. Сознание Кришны — превосходство Любви и Красоты
+slug: 033_1983-01-12-a2_sridharmj_soznanie_krishny-koncepciya_lubvi_i_krasoty
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1983.01"
-  - Книги Шридхара Махараджа
-  - Поиск Шри Кришны Прекрасной Реальности
-  - Шри Шри Прапанна-дживанамритам
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
+  - title: Поиск Шри Кришны Прекрасной Реальности
+    slug: poisk-shri-krishny-prekrasnoj-realnos
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/033_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3

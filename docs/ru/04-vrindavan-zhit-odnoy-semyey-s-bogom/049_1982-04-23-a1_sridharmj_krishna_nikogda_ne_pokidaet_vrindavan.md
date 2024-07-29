@@ -1,7 +1,11 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.mp3

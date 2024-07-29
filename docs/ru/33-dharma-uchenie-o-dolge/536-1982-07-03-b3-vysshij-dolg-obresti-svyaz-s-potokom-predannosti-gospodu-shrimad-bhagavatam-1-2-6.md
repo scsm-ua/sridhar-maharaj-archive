@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1982.07"
-  - Дхарма
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3

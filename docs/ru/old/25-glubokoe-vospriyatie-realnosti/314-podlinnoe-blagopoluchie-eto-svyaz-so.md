@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 314-podlinnoe-blagopoluchie-eto-svyaz-so
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.03"
-  - Гармония
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/314_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3

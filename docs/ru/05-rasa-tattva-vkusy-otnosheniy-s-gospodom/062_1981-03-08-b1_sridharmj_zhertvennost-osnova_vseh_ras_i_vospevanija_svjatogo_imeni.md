@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1981.03"
-  - Святое Имя
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.mp3

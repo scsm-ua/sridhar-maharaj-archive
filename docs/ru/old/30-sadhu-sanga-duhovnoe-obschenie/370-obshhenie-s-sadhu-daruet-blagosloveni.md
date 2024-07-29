@@ -1,8 +1,13 @@
 ---
-category: (30. Садху-санга - духовное общение)
+slug: 370-obshhenie-s-sadhu-daruet-blagosloveni
+category:
+  title: (30. Садху-санга - духовное общение)
+  slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - "1981.11"
-  - Садху-санга
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/370_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3

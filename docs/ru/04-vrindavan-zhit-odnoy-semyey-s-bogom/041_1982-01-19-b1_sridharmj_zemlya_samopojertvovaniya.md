@@ -1,9 +1,15 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 041_1982-01-19-b1_sridharmj_zemlya_samopojertvovaniya
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1982.01"
-  - Милость
-  - Эксплуатация
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Милость
+    slug: milost
+  - title: Эксплуатация
+    slug: ekspluatatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3

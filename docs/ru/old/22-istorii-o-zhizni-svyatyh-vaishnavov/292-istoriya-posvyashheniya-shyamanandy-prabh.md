@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 292-istoriya-posvyashheniya-shyamanandy-prabh
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1985.05"
-  - Истории о вайшнавах
-  - Шьямананда Прабху
+  - title: "1985.05"
+    slug: 1985-05
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Шьямананда Прабху
+    slug: shyamananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/292_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3

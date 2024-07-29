@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 246-1982-02-23-b2-duhovnoe-obshhenie-put-k-chistomu-vospevaniyu-imeni
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
-  - Садху-санга
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/246_1982.02.23.B2_SridharMj_Duhovnoye_obweniye--put_k_chistomu_vospevaniyu_Imeni.mp3

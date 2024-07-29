@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 470-potok-nishodyashhij-vajshnavu-zavisit-o
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
-  - Сарасвати Тхакур
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/470_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3

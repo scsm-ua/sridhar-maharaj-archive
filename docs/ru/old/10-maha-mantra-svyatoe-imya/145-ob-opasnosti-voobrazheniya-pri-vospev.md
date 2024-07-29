@@ -1,9 +1,15 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 145-ob-opasnosti-voobrazheniya-pri-vospev
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - Маха-мантра
-  - Онтология прекрасной реальности
-  - Святое Имя
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/145_OntologiyaPR_6.6_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3

@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/421_1982.04.14.C6.D1_SridharMj_Nekotorye_polozhenija_karma-jogi_v_Gite.mp3

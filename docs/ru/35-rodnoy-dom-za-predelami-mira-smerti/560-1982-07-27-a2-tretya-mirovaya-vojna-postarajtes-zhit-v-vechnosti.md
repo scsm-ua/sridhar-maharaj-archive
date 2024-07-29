@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3

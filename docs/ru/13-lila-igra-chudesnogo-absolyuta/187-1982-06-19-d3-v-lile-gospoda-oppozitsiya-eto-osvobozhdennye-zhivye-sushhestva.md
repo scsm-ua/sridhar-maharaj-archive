@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3

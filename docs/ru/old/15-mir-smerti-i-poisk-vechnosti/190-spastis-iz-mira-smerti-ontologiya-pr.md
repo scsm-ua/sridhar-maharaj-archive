@@ -1,10 +1,17 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 190-spastis-iz-mira-smerti-ontologiya-pr
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - Душа
-  - Материальный мир
-  - Онтология прекрасной реальности
-  - Сознание
+  - title: Душа
+    slug: dusha
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/190_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3

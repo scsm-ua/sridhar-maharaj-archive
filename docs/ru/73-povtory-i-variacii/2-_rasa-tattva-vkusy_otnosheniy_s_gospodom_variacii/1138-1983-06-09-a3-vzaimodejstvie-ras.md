@@ -1,7 +1,11 @@
 ---
-category: 2. Раса-таттва — вкусы отношений с Господом (вариации)
+slug: 1138-1983-06-09-a3-vzaimodejstvie-ras
+category:
+  title: 2. Раса-таттва — вкусы отношений с Господом (вариации)
+  slug: 2-_rasa-tattva-vkusy_otnosheniy_s_gospodom_variacii
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3

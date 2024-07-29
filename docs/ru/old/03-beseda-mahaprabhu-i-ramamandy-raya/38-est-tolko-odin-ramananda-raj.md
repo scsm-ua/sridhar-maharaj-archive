@@ -1,9 +1,15 @@
 ---
-category: (03. Беседа Махапрабху и Рамананды Рая)
+slug: 38-est-tolko-odin-ramananda-raj
+category:
+  title: (03. Беседа Махапрабху и Рамананды Рая)
+  slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - Махапрабху
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/038_2012.07.25.3_SridharMj_Est_tolko_odin_Ramananda_Ray.mp3

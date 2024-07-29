@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3

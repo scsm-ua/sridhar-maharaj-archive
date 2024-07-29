@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1091-1981-03-07-b5-moj-mahaprabhu-svyazan-s-amerikoj
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3

@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 264-nomer-5-v-otnosheniyah-s-krishnoj-1981-08-27-c3
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1981.08"
-  - Бхакти
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/264_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3

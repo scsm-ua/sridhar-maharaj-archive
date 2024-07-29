@@ -1,8 +1,13 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 457-metod-izlozheniya-duhovnyh-istin-shril
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1981.03"
-  - Биография Шридхара Махараджа
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/457_1981.03.03.C1_SridharMj_Metod_izlozheniya_duhovnyh_istin_Shriloy_Sridharom_Maharajem.mp3

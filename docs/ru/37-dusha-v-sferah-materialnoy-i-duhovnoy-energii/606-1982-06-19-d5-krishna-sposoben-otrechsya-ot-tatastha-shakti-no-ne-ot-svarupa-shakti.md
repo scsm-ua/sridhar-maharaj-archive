@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 606-1982-06-19-d5-krishna-sposoben-otrechsya-ot-tatastha-shakti-no-ne-ot-svarupa-shakti
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.06"
-  - Душа
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/606_1982.06.19.D5_SridharMj_Krishna_sposoben_otrechsja_ot_tatastha-shakti_no_ne_ot_svarupa-shakti.mp3

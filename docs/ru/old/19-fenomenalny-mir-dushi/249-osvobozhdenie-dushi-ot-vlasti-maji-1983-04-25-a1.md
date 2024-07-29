@@ -1,10 +1,17 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 249-osvobozhdenie-dushi-ot-vlasti-maji-1983-04-25-a1
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1983.04"
-  - Васту-сиддхи
-  - Душа
-  - Сварупа-сиддхи
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Васту-сиддхи
+    slug: vastu-siddhi
+  - title: Душа
+    slug: dusha
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/249_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3

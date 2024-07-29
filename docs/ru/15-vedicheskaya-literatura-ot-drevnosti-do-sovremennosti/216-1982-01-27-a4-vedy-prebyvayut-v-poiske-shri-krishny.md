@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3

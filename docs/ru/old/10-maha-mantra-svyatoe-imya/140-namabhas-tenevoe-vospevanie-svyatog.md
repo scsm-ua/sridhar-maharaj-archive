@@ -1,10 +1,17 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 140-namabhas-tenevoe-vospevanie-svyatog
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - "1983.04"
-  - Маха-мантра
-  - Намабхас
-  - Святое Имя
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Намабхас
+    slug: namabhas
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/140_1983.04.01.A2_SridharMj_Namabhas.mp3

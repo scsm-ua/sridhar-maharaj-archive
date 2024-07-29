@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 5-sgovor-nityanandy-prabhu-s-pastuhami
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1982.01"
-  - Махапрабху
-  - Нитьянанда Прабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/005_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3

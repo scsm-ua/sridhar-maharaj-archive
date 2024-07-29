@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.02"
-  - Святое Имя
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3

@@ -1,9 +1,15 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.01"
-  - Махапрабху
-  - Прабодхананда Сарасвати
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Прабодхананда Сарасвати
+    slug: prabodhananda-sarasvati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.mp3

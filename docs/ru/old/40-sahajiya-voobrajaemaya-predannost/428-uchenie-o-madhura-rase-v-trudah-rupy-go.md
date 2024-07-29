@@ -1,10 +1,17 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 428-uchenie-o-madhura-rase-v-trudah-rupy-go
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - Мадхура-раса
-  - Онтология прекрасной реальности
-  - Рупа Госвами
-  - Сахаджия
+  - title: Мадхура-раса
+    slug: madhura-rasa
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/428_OntologiyaPR_1.6_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3

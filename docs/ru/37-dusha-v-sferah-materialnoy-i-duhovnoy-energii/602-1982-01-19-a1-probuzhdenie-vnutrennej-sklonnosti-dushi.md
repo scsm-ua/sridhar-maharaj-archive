@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.01"
-  - Душа
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3

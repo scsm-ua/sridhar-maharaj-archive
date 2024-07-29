@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3

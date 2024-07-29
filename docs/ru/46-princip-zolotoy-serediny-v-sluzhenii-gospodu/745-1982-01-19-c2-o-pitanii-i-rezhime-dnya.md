@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3

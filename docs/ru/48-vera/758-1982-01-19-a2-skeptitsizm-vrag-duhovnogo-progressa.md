@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 758-1982-01-19-a2-skeptitsizm-vrag-duhovnogo-progressa
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.01"
-  - Вера
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/758_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3

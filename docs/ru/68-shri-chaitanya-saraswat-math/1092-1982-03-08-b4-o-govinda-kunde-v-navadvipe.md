@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3

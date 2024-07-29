@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.04"
-  - Святое Имя
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3

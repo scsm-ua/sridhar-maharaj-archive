@@ -1,7 +1,11 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 015_1983-03-29-a2_sridharmj_obyasnenie_imeni_krish-na
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/015_1983.03.29.A2_SridharMj_Obyasnenie_imeni_Krish-na.mp3

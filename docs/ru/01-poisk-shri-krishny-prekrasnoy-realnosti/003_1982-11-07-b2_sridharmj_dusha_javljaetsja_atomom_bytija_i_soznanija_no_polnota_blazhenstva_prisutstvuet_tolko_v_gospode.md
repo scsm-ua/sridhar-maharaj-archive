@@ -1,9 +1,15 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.11"
-  - with English audio
-  - with English text
+  - title: "1982.11"
+    slug: 1982-11
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/003_1982.11.07.B2_SridharMj_Dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_Gospode.mp3

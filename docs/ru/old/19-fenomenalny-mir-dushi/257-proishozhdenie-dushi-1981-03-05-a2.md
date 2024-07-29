@@ -1,9 +1,15 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 257-proishozhdenie-dushi-1981-03-05-a2
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1981.03"
-  - Душа
-  - Сознание
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/257_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3

@@ -1,7 +1,11 @@
 ---
-category: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+slug: 864-ontologiya-pr-ch-5-1-2-prinyatie-posvyashheniya-kak-vozmozhnost-obresti-proshhenie-ot-vajshnava-aparadhi-gadadhar-i-pundarik-vidyanidhi
+category:
+  title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+  slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.mp3

@@ -1,11 +1,19 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 199-mirozdanie-razvivaetsya-ot-soznaniya
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.02"
-  - Душа
-  - Знание
-  - Материальный мир
-  - Сознание
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Душа
+    slug: dusha
+  - title: Знание
+    slug: znanie
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/199_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3

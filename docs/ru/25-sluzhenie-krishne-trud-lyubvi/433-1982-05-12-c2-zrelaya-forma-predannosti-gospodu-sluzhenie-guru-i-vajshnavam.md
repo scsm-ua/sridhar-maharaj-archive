@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3

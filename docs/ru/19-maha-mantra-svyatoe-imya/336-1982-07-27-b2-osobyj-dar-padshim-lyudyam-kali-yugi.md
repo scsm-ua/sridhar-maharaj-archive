@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.07"
-  - Святое Имя
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3

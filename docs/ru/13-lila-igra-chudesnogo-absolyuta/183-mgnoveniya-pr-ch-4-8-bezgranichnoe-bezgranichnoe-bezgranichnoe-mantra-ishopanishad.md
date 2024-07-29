@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3

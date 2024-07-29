@@ -1,9 +1,15 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 74-odnovremennoe-prisutstvie-obitatel
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1981.03"
-  - Рамананда Рай
-  - Сварупа Дамодар
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/074_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3

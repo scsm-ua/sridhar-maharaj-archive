@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3

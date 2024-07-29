@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3

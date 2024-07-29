@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 102-kak-guru-sleduet-vosprinimat-svoih
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/102_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3

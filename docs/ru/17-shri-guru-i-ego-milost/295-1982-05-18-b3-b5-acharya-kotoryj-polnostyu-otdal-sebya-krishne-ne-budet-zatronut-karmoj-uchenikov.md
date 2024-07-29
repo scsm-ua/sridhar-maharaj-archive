@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3

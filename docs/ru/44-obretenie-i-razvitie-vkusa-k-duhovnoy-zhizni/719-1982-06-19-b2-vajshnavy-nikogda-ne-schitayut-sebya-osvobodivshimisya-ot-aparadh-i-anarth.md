@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3

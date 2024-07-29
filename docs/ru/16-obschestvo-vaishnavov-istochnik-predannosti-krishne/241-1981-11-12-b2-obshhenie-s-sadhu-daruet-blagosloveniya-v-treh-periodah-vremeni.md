@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1981.11"
+  - title: "1981.11"
+    slug: 1981-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3

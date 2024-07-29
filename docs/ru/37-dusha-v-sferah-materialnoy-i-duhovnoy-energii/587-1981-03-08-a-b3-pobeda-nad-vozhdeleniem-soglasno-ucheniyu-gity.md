@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1981.03"
-  - Душа
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3

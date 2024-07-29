@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 596-1982-04-16-c8-d1-shiva-rudra-i-sada-shiva-kak-urovni-osvobozhdeniya-dushi
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.04"
-  - Душа
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.mp3

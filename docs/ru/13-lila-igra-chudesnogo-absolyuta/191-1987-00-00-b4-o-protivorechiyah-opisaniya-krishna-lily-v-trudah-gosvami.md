@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1987.00"
+  - title: "1987.00"
+    slug: 1987-00
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3

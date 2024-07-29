@@ -1,7 +1,11 @@
 ---
-category: (31. Памятование о Господе)
+slug: 377-zabvenie-gospoda-edinstvennaya-opas
+category:
+  title: (31. Памятование о Господе)
+  slug: 31-pamyatovanie-o-gospode
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/377_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3

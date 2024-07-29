@@ -1,8 +1,13 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1983.01"
-  - Майавада
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Майавада
+    slug: majavada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/440_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3

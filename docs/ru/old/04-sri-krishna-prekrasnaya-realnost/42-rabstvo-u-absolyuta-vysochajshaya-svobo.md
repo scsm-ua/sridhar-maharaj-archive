@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 42-rabstvo-u-absolyuta-vysochajshaya-svobo
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/042_1983.05.04.A_SridharMj_Rabstvo_u_absoluta_-_vysochayshaya_svoboda.mp3

@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.mp3

@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3

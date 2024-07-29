@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 076_1982-01-17-a1_sridharmj_sgovor_nityanandy_prabhu_s_pastuhami
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.01"
-  - Нитьянанда Прабху
-  - Санньяса
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3

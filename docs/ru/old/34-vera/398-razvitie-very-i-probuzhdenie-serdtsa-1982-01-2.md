@@ -1,8 +1,13 @@
 ---
-category: (34. Вера)
+slug: 398-razvitie-very-i-probuzhdenie-serdtsa-1982-01-2
+category:
+  title: (34. Вера)
+  slug: 34-vera
 tags:
-  - "1982.01"
-  - Вера
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/398_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3

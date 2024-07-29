@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3

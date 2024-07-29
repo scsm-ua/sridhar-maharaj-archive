@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1985.05"
+  - title: "1985.05"
+    slug: 1985-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3

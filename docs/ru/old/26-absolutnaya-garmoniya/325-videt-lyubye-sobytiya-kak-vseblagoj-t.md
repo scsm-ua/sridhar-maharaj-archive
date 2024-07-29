@@ -1,8 +1,13 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 325-videt-lyubye-sobytiya-kak-vseblagoj-t
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1982.01"
-  - Гармония
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/325_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3

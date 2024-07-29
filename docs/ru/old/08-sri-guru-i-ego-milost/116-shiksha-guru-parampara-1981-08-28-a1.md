@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 116-shiksha-guru-parampara-1981-08-28-a1
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.08"
-  - Гопа Кумар
-  - Гуру
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гопа Кумар
+    slug: gopa-kumar
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/116_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3

@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.mp3

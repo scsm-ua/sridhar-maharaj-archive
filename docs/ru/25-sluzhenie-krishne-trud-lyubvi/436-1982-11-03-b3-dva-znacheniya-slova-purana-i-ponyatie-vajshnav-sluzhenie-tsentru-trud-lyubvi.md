@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.11"
-  - Дух служения
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.mp3

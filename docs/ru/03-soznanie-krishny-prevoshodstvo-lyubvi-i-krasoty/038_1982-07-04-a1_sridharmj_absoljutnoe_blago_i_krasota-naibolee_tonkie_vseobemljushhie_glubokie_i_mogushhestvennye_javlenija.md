@@ -1,8 +1,13 @@
 ---
-category: Избранные
+slug: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1982.07"
-  - Красота
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Красота
+    slug: krasota
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.mp3

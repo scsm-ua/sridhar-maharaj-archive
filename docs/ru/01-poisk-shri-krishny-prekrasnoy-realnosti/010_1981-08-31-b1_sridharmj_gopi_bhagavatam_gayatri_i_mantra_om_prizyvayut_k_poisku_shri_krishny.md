@@ -1,7 +1,11 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3

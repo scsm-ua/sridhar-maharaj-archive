@@ -1,10 +1,17 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 409-vajshnavy-vsegda-veryat-chto-krishna-zashh
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.03"
-  - Бхактиведанта Свами Прабхупада
-  - Самопредание
-  - Шаранагати
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/409_1983.03.30.A3_SridharMj_Vayshnavy_vsegda_veryat_chto_Krishna_zawitit_ih.mp3

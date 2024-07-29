@@ -1,9 +1,15 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.02"
-  - Онтология прекрасной реальности
-  - Санкиртана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3

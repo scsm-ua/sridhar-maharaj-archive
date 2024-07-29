@@ -1,8 +1,13 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1981.03"
-  - Экадаши
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Экадаши
+    slug: ekadashi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/353_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3

@@ -1,8 +1,13 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - Онтология прекрасной реальности
-  - Риг-веда
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3

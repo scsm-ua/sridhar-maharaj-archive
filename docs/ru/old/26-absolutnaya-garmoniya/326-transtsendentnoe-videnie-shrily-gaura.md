@@ -1,9 +1,15 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 326-transtsendentnoe-videnie-shrily-gaura
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1981.08"
-  - Гармония
-  - Гауракишор Бабаджи
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гармония
+    slug: garmoniya
+  - title: Гауракишор Бабаджи
+    slug: gaurakishor-babadzhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/326_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3

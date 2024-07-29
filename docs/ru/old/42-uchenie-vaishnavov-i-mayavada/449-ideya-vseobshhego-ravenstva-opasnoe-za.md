@@ -1,9 +1,15 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 449-ideya-vseobshhego-ravenstva-opasnoe-za
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - Майавада
-  - Рупа Госвами
-  - Шанкара
+  - title: Майавада
+    slug: majavada
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/449_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3

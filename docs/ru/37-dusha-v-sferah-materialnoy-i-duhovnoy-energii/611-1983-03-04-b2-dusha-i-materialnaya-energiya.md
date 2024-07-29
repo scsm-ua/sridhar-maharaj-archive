@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 611-1983-03-04-b2-dusha-i-materialnaya-energiya
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1983.03"
-  - Душа
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/611_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3

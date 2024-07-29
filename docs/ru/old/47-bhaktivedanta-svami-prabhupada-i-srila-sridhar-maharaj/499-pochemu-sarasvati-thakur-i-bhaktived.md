@@ -1,9 +1,15 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 499-pochemu-sarasvati-thakur-i-bhaktived
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - Бхактиведанта Свами Прабхупада
-  - Мгновения прекрасной реальности
-  - Сарасвати Тхакур
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/499_MgnoveniyaPR_7.6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3

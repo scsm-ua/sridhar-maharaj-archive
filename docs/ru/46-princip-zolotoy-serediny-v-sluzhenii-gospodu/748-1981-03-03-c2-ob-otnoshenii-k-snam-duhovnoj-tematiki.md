@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 748-1981-03-03-c2-ob-otnoshenii-k-snam-duhovnoj-tematiki
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3

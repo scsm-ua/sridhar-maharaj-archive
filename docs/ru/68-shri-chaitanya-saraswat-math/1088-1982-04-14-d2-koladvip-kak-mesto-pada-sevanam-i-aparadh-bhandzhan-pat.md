@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3

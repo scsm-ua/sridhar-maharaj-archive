@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.07"
-  - with English audio
+  - title: "1982.07"
+    slug: 1982-07
+  - title: with English audio
+    slug: with-english-audio
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.mp3

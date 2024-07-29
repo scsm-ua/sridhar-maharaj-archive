@@ -1,7 +1,11 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 72-bezgranichnoe-bezgranichnoe-bezgr
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/072_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_-_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3

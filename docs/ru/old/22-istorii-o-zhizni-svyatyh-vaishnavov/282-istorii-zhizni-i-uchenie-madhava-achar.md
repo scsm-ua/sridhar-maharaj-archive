@@ -1,13 +1,23 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 282-istorii-zhizni-i-uchenie-madhava-achar
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.02"
-  - Истории о вайшнавах
-  - Мадхава Ачарья
-  - Мадхавенда Пури
-  - Рамануджа Ачарья
-  - Шанкара
-  - Ямуна Ачарья
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Мадхава Ачарья
+    slug: madhava-acharya
+  - title: Мадхавенда Пури
+    slug: madhavenda-puri
+  - title: Рамануджа Ачарья
+    slug: ramanudzha-acharya
+  - title: Шанкара
+    slug: shankara
+  - title: Ямуна Ачарья
+    slug: yamuna-acharya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/282_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3

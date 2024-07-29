@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.mp3

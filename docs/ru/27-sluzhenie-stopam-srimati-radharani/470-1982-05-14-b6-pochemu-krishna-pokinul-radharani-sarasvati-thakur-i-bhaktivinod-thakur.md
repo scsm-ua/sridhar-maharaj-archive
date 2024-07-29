@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3

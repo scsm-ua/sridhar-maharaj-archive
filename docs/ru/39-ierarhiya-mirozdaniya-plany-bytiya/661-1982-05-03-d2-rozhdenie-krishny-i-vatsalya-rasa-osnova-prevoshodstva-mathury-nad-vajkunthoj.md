@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3

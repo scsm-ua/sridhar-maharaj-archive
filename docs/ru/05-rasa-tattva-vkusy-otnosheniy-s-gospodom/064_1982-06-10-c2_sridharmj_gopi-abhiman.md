@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 064_1982-06-10-c2_sridharmj_gopi-abhiman
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.06"
-  - Брахма
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Брахма
+    slug: brahma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3

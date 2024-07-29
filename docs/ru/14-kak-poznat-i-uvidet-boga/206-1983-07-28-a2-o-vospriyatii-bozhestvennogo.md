@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3

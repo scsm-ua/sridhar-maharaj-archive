@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3

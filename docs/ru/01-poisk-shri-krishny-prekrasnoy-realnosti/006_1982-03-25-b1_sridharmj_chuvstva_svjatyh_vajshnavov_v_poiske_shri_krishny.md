@@ -1,9 +1,15 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.03"
-  - with English audio
-  - with English text
+  - title: "1982.03"
+    slug: 1982-03
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3

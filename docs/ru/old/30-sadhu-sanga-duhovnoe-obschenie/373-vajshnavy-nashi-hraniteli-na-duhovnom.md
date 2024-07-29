@@ -1,8 +1,13 @@
 ---
-category: (30. Садху-санга - духовное общение)
+slug: 373-vajshnavy-nashi-hraniteli-na-duhovnom
+category:
+  title: (30. Садху-санга - духовное общение)
+  slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - "1985.10"
-  - Садху-санга
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/373_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3

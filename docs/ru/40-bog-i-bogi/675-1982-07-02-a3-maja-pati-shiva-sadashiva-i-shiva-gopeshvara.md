@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 675-1982-07-02-a3-maja-pati-shiva-sadashiva-i-shiva-gopeshvara
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.mp3

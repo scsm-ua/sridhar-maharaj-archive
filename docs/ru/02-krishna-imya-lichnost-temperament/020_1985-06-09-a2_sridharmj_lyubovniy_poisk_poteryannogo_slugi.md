@@ -1,8 +1,13 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1985.06"
-  - Джаганнатх
+  - title: "1985.06"
+    slug: 1985-06
+  - title: Джаганнатх
+    slug: dzhagannath
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3

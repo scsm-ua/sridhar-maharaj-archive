@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.05"
-  - Бхакти
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3

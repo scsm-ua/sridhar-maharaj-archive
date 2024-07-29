@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.01"
-  - Махапрабху
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/024_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy1.mp3

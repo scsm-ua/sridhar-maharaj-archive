@@ -1,7 +1,11 @@
 ---
-category: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+slug: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade
+category:
+  title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+  slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3

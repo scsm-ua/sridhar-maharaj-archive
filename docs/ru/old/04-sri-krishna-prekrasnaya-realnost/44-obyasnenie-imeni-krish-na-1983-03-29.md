@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 44-obyasnenie-imeni-krish-na-1983-03-29
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.03"
-  - Кришна
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/044_1983.03.29_SridharMj_Obyasnenie_imeni_Krish-na.mp3

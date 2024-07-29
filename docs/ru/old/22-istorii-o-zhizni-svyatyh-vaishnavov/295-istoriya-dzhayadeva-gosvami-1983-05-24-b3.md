@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 295-istoriya-dzhayadeva-gosvami-1983-05-24-b3
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.05"
-  - Джаядев Госвами
-  - Истории о вайшнавах
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Джаядев Госвами
+    slug: dzhayadev-gosvami
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/295_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3

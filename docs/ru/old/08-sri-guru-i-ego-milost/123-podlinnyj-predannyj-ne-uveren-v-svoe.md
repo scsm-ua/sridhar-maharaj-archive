@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 123-podlinnyj-predannyj-ne-uveren-v-svoe
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
-  - Качества ученика
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/123_1981.03.02.B3_SridharMj_Podlinnyy_predannyy_ne_uveren_v_svoyem_ponimanii_duhovnyh_istin.mp3

@@ -1,11 +1,19 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 256-tsarstvovat-v-adu-ili-sluzhit-na-nebe
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1982.01"
-  - Душа
-  - Мадхава Ачарья
-  - Рамануджа Ачарья
-  - Шанкара
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Душа
+    slug: dusha
+  - title: Мадхава Ачарья
+    slug: madhava-acharya
+  - title: Рамануджа Ачарья
+    slug: ramanudzha-acharya
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/256_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3

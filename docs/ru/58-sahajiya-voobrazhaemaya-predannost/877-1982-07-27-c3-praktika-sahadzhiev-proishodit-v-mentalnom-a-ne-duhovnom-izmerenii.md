@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3

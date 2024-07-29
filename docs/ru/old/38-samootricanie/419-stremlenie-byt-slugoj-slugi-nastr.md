@@ -1,8 +1,13 @@
 ---
-category: (38. Самоотрицание)
+slug: 419-stremlenie-byt-slugoj-slugi-nastr
+category:
+  title: (38. Самоотрицание)
+  slug: 38-samootricanie
 tags:
-  - "1981.08"
-  - Самоотрицание
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Самоотрицание
+    slug: samootritsanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/419_1981.08.19.B_SridharMj_Stremlenie_byt_slugoy_slugi.mp3

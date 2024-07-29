@@ -1,7 +1,11 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 151-2012-07-25-23-net-daty-ramachandra-primer-bezropotnogo-sledovaniya-dolgu
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - Рамачандра
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3

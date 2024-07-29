@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 335-1981-11-12-b4-1-o-vazhnosti-duha-sluzheniya-pri-vospevanii-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1981.11"
-  - Святое Имя
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/335_1981.11.12.B4.1_SridharMj_O_vazhnosti_duha_sluzhenija_pri_vospevanii_Svjatogo_Imeni.mp3

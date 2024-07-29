@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 7-guara-krishna-i-gaura-narayana-ontolog
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Махапрабху
-  - Онтология прекрасной реальности
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/007_OntologiyaPR_5.3_SridharMj_Guara_Krishna_i_Gaura_Narayana1.mp3

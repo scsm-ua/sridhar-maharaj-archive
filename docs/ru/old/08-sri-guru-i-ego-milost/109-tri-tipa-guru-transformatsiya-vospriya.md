@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 109-tri-tipa-guru-transformatsiya-vospriya
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
-  - Качества ученика
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/109_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3

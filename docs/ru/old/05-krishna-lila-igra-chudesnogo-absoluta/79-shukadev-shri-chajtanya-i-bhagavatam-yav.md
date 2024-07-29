@@ -1,10 +1,17 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 79-shukadev-shri-chajtanya-i-bhagavatam-yav
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
-  - Кришна-лила
-  - Махапрабху
-  - Шримад Бхагаватам
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/079_1982.01.28.A_SridharMj_Shukadev_Shri_Chaytanya_i_Bhagavatam_yavlyayut_chistotu_krishna-lily.mp3

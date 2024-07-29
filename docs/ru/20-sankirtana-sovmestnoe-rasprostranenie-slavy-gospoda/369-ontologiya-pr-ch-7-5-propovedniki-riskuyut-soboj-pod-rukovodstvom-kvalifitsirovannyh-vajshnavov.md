@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - Онтология прекрасной реальности
-  - Санкиртана
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3

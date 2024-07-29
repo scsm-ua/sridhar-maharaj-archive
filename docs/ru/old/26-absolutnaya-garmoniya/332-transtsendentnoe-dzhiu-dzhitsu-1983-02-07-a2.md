@@ -1,9 +1,15 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 332-transtsendentnoe-dzhiu-dzhitsu-1983-02-07-a2
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1983.02"
-  - Гармония
-  - Шива
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Гармония
+    slug: garmoniya
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/332_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3

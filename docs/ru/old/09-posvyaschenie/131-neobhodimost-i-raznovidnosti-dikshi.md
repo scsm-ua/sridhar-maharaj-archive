@@ -1,10 +1,17 @@
 ---
-category: (09. Посвящение)
+slug: 131-neobhodimost-i-raznovidnosti-dikshi
+category:
+  title: (09. Посвящение)
+  slug: 09-posvyaschenie
 tags:
-  - "1982.02"
-  - Маха-мантра
-  - Посвящение
-  - Святое Имя
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Посвящение
+    slug: posvyashhenie
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/131_1982.02.15.A2_SridharMj_Neobhodimost_i_raznovidnosti_dikshi.mp3

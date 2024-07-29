@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.02"
-  - Бхакти
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3

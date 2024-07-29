@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3

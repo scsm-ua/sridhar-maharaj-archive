@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.02"
-  - Бхакти
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3

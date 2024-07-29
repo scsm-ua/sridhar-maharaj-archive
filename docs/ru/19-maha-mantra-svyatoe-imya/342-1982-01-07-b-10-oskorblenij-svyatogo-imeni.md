@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.01"
-  - Святое Имя
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3

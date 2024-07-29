@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 204-1982-03-30-b2-krishnu-mozhet-prinyat-lish-tot-kto-svoboden-ot-zavisti
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/204_1982.03.30.B2_SridharMj_Krishnu_mozhet_prinjat_lish_tot_kto_svoboden_ot_zavisti.mp3

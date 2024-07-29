@@ -1,7 +1,11 @@
 ---
-category: 71. О важности распространения учения Шрилы Шридхара Махараджа
+slug: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha
+category:
+  title: 71. О важности распространения учения Шрилы Шридхара Махараджа
+  slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
-  - без даты
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3

@@ -1,7 +1,11 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 324-soznanie-krishny-tsentr-vysochajshej-g
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - Гармония
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/324_2012.07.23.1_SridharMj_Soznanie_Krishny–сentr_vysochayshey_garmonii.mp3

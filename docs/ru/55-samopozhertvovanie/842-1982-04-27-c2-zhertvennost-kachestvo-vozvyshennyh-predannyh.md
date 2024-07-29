@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.04"
-  - Самопредание
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3

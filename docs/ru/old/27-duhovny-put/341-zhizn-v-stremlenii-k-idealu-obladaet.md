@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 341-zhizn-v-stremlenii-k-idealu-obladaet
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/341_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3

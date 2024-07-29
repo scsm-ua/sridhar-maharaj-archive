@@ -1,5 +1,8 @@
 ---
-category: (09. Посвящение)
+slug: 130-smysl-i-sushhnost-posvyashheniya-1983-01-31
+category:
+  title: (09. Посвящение)
+  slug: 09-posvyaschenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/130_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3

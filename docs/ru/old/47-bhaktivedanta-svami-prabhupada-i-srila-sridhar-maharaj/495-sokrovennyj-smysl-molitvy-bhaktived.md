@@ -1,8 +1,13 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 495-sokrovennyj-smysl-molitvy-bhaktived
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1983.02"
-  - Бхактиведанта Свами Прабхупада
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/495_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3

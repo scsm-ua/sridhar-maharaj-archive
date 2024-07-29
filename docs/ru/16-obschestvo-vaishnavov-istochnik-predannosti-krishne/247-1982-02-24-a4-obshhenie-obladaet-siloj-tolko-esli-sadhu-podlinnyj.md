@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 247-1982-02-24-a4-obshhenie-obladaet-siloj-tolko-esli-sadhu-podlinnyj
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
-  - Садху-санга
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/247_1982.02.24.A4_SridharMj_Obshhenie_obladaet_siloj_tolko_esli_sadhu_podlinnyj.mp3

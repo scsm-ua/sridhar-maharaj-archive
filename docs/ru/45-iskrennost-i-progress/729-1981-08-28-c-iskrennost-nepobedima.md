@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 729-1981-08-28-c-iskrennost-nepobedima
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3

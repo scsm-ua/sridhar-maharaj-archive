@@ -1,8 +1,13 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.01"
-  - Рамананда-самвад
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3

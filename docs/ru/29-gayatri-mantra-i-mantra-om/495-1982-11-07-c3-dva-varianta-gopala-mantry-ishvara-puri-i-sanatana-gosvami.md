@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1982.11"
-  - Гаятри-мантра
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.mp3

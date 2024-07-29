@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 346-1982-06-15-a2-kak-uvelichit-veru-v-vospevanie-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.06"
-  - Святое Имя
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/346_1982.06.15.A2_SridharMj_Kak_uvelichit_veru_v_vospevanie_Svjatogo_Imeni.mp3

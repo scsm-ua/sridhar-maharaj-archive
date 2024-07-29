@@ -1,10 +1,17 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 196-subektivnaya-evolyutsiya
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - Вера
-  - Материальный мир
-  - Самопожертвование
-  - Сознание
+  - title: Вера
+    slug: vera
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Самопожертвование
+    slug: samopozhertvovanie
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/196_1981.03.04.B1_SridharMj_Subyektivnaya_Evoluciya.mp3

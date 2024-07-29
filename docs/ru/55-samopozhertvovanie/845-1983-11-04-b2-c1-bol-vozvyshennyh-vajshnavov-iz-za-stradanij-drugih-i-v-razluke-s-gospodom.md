@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3

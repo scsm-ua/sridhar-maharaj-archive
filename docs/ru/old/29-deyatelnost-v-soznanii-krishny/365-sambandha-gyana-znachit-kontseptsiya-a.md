@@ -1,8 +1,13 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 365-sambandha-gyana-znachit-kontseptsiya-a
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - "1983.04"
-  - Сварупа-шакти
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/365_1983.04.25.A3_SridharMj_Sambandha-gyana.mp3

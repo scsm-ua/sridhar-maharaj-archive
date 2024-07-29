@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 15-obyasnenie-shloki-krishna-lila-amrita
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1987"
-  - Махапрабху
+  - title: "1987"
+    slug: "1987"
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/015_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3

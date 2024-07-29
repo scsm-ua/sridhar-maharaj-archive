@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3

@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3

@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.01"
-  - Вера
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/757_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3

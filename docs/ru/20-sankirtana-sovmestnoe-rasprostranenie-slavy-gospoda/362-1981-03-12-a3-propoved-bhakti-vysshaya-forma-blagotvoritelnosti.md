@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.03"
-  - Санкиртана
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.mp3

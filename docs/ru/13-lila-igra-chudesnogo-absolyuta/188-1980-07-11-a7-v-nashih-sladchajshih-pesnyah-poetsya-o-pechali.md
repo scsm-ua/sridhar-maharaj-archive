@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1980.07"
+  - title: "1980.07"
+    slug: 1980-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3

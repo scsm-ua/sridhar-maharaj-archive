@@ -1,8 +1,13 @@
 ---
-category: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+slug: 421-ob-opasnosti-poiska-nedostatkov-v-pr
+category:
+  title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+  slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - "1981.08"
-  - Вайшнава-апарадха
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Вайшнава-апарадха
+    slug: vajshnava-aparadha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/421_1981.08.30.С1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3

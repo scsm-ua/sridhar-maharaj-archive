@@ -1,8 +1,13 @@
 ---
-category: (49. Шрила Б.Р. Шридхар Махарадж. Молитва)
+slug: 519-shri-rupa-mandzhari-pada
+category:
+  title: (49. Шрила Б.Р. Шридхар Махарадж. Молитва)
+  slug: 49-srila-b-r-sridhar-maharaj-molitva
 tags:
-  - Говинда Махарадж
-  - Рупа Госвами
+  - title: Говинда Махарадж
+    slug: govinda-maharadzh
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/519_Sri-rupa-manjari-pada.mp3

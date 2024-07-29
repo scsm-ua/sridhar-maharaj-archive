@@ -1,9 +1,15 @@
 ---
-category: (14. Ведическая культура)
+slug: 182-kto-takoj-shudra-obyasnenie-epizodov
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - Гуру
-  - Карма
-  - Рамаяна
+  - title: Гуру
+    slug: guru
+  - title: Карма
+    slug: karma
+  - title: Рамаяна
+    slug: ramayana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/182_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3

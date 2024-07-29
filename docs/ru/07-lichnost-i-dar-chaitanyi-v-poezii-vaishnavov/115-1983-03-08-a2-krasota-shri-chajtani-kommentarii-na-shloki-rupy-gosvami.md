@@ -1,9 +1,15 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1983.03"
-  - Махапрабху
-  - Рупа Госвами
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3

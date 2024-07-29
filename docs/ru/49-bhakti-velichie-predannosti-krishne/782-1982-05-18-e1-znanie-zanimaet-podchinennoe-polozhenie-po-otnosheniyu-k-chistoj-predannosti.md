@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.05"
-  - Бхакти
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.mp3

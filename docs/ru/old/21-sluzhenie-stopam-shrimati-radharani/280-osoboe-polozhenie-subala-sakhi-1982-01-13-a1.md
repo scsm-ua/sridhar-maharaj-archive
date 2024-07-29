@@ -1,9 +1,15 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 280-osoboe-polozhenie-subala-sakhi-1982-01-13-a1
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1982.01"
-  - Кришна-лила
-  - Субал Сакха
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Субал Сакха
+    slug: subal-sakha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/280_1982.01.13.A1_SridharMj_Osoboye-polozheniye-Subala-Sakkhi.mp3

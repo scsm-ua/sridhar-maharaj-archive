@@ -1,10 +1,17 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 404-molitva-vozvyshennyh-predannyh-1983-02-11-b1
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.02"
-  - Молитва
-  - Самопредание
-  - Шаранагати
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Молитва
+    slug: molitva
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/404_1983.02.11.B1_SridharMj_Molitva_vozvyshennyh_predannyh.mp3

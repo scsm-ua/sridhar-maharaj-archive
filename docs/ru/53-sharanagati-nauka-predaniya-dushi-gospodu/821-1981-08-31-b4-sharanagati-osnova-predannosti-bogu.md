@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1981.08"
-  - Шаранагати
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3

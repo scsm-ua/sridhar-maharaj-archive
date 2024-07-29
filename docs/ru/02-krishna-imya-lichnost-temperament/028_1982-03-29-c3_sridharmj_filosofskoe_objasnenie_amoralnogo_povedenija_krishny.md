@@ -1,10 +1,17 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.03"
-  - Йога-майа
-  - Мораль
-  - Паракийа
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Йога-майа
+    slug: joga-maja
+  - title: Мораль
+    slug: moral
+  - title: Паракийа
+    slug: parakija
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.mp3

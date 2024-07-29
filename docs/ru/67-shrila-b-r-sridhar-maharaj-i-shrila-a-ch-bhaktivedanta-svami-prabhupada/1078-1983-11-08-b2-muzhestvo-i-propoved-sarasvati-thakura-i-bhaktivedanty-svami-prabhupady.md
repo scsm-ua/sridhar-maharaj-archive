@@ -1,7 +1,11 @@
 ---
-category: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+slug: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady
+category:
+  title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
+  slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3

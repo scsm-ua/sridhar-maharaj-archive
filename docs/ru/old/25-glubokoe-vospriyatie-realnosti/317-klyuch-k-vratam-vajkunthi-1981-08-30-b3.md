@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1981.08"
-  - Гармония
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/317_1981.08.30.B3_SridharMj_Klyuch_k_vratam_Vaykunthi.mp3

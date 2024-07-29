@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 383-1983-05-09-c3-o-napisanii-i-rasprostranenii-knig
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.05"
-  - Проповедь
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.mp3

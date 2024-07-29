@@ -1,13 +1,23 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 204-podlinnyj-progress-dvizhenie-ot-smer
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.02"
-  - Вайкунтха
-  - Душа
-  - Красота
-  - Любовь
-  - Материальный мир
-  - Отречение
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Душа
+    slug: dusha
+  - title: Красота
+    slug: krasota
+  - title: Любовь
+    slug: lyubov
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Отречение
+    slug: otrechenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/204_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3

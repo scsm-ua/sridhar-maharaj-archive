@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1983.11"
-  - Дхарма
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3

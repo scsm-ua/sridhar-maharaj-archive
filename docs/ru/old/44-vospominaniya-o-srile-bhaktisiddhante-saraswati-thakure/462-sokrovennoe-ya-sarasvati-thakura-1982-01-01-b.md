@@ -1,10 +1,17 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.01"
-  - Поэзия Шридхара Махараджа
-  - Сарасвати Тхакур
-  - Шри Дайита Даса Дашакам
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Шри Дайита Даса Дашакам
+    slug: shri-dajita-dasa-dashakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/462_1982.01.01.B_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3

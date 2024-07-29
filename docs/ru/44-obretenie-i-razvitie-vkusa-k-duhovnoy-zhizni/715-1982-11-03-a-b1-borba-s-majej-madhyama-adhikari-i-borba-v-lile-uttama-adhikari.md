@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.mp3

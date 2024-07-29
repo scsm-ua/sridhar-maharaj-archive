@@ -1,9 +1,15 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 59-subektivnoe-vospriyatie-krishny-i-bh
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1985.05"
-  - Бхагавад-гита
-  - Кришна
+  - title: "1985.05"
+    slug: 1985-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/059_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3

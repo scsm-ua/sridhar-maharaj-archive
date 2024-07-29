@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3

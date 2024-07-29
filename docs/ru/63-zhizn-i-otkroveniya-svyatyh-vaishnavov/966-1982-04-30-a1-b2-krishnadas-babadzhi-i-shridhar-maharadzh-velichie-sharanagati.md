@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3

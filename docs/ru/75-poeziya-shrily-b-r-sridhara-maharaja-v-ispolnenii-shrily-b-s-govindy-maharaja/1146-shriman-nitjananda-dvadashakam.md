@@ -1,8 +1,12 @@
 ---
-category: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С.
-  Говинды Махараджа
+slug: 1146-shriman-nitjananda-dvadashakam
+category:
+  title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
+    Махараджа
+  slug: 75-poeziya-shrily-b-r-sridhara-maharaja-v-ispolnenii-shrily-b-s-govindy-maharaja
 tags:
-  - Поэзия Шридхара Махараджа
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.mp3

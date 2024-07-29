@@ -1,8 +1,13 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 91-gospod-nrisimhadev-1983-05-24-b1
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - "1983.05"
-  - Нарасимха
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/091_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3

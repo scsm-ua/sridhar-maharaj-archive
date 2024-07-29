@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.mp3

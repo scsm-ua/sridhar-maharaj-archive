@@ -1,9 +1,15 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 152-filosofskie-aspekty-sankirtany
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - Садху-санга
-  - Священные писания
-  - Шримад Бхагаватам
+  - title: Садху-санга
+    slug: sadhu-sanga
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/152_1981.08.30.С2_SridharMj_Filosovskie_aspekty_sankirtany.mp3

@@ -1,8 +1,13 @@
 ---
-category: 11. Четыре области богословия Госвами Вриндавана
+slug: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany
+category:
+  title: 11. Четыре области богословия Госвами Вриндавана
+  slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - "1981.08"
-  - Шикшаштакам
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Шикшаштакам
+    slug: shikshashtakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3

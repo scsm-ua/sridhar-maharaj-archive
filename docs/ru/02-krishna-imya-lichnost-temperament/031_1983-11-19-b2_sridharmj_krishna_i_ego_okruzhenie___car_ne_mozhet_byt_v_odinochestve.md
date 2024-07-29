@@ -1,8 +1,13 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.11"
-  - Спутники
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Спутники
+    slug: sputniki
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3

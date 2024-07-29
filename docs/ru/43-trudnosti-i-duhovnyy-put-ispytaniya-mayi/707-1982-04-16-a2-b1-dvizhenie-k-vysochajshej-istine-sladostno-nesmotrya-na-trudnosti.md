@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3

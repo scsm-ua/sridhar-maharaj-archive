@@ -1,9 +1,15 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 200-chto-znachit-vyrazhenie-subektivnaya-e
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.02"
-  - Материальный мир
-  - Сознание
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/200_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3

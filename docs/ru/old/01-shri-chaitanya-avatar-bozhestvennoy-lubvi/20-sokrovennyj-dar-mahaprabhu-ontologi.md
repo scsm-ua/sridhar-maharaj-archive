@@ -1,7 +1,11 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 20-sokrovennyj-dar-mahaprabhu-ontologi
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/020_OntologiyaPR_1.5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3

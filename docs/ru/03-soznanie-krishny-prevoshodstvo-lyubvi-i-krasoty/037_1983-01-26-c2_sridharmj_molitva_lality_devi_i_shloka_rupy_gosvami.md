@@ -1,10 +1,17 @@
 ---
-category: 03. Сознание Кришны — превосходство Любви и Красоты
+slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1983.01"
-  - Лалита Деви
-  - Самопожертвование
-  - Святое Имя
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Лалита Деви
+    slug: lalita-devi
+  - title: Самопожертвование
+    slug: samopozhertvovanie
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3

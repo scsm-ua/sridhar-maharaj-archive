@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.06"
-  - Бхакти
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3

@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 300-vedy-prebyvayut-v-poiske-shri-krishny-1982-01-27-a4
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1982.01"
-  - Веды
-  - Священные писания
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Веды
+    slug: vedy
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/300_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3

@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3

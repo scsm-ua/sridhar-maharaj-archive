@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 40-poisk-shri-krishny-prekrasnoj-realno
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - Кришна
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/040_2012.07.25.15_ShridharMj_Poisk_Shri_Krishny_Prekrasnoy_Realnosti-.mp3

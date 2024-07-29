@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 19-pochemu-shri-chajtanya-mnogo-puteshestvo
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1980.07"
-  - Махапрабху
+  - title: "1980.07"
+    slug: 1980-07
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/019_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3

@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 221-1982-11-02-a4-v-bhagavad-gite-i-shrimad-bhagavatam-pokazano-kak-raznoobraznye-yavleniya-svyazany-s-predannostyu
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/221_1982.11.02.A4_SridharMj_V_Bhagavad-gite_i_Shrimad_Bhagavatam_pokazano_kak_raznoobraznye_javlenija_svjazany_s_predannostju.mp3

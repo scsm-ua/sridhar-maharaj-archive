@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3

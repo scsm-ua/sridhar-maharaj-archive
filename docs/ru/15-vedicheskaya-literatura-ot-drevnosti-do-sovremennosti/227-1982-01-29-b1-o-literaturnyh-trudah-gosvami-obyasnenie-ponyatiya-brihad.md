@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.mp3

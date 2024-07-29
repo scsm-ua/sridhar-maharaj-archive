@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3

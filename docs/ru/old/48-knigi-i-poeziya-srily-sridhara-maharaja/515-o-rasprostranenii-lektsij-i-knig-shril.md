@@ -1,7 +1,11 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 515-o-rasprostranenii-lektsij-i-knig-shril
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Книги Шридхара Махараджа
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/515_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3

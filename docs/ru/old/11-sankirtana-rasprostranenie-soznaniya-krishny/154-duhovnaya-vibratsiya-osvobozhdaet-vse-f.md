@@ -1,7 +1,11 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 154-duhovnaya-vibratsiya-osvobozhdaet-vse-f
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/154_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3

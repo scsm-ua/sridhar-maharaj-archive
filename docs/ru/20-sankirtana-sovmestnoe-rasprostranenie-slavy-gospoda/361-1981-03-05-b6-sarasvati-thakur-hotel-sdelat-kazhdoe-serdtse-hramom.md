@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.03"
-  - Санкиртана
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3

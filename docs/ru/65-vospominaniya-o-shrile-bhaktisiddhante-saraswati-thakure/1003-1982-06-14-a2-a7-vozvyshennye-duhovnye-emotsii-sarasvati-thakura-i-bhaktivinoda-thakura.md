@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.mp3

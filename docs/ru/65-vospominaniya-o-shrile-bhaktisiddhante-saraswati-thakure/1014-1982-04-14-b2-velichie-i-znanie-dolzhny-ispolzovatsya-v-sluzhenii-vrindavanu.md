@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3

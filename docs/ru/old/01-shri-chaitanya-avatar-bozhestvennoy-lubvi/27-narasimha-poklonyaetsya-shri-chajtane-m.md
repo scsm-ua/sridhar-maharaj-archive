@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 27-narasimha-poklonyaetsya-shri-chajtane-m
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Махапрабху
-  - Нарасимха
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/027_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3

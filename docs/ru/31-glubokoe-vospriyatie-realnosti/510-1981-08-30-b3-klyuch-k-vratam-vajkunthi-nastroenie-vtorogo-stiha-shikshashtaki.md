@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.mp3

@@ -1,8 +1,13 @@
 ---
-category: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
+category:
+  title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+  slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
 tags:
-  - "1982.04"
-  - Чатур-шлока
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Чатур-шлока
+    slug: chatur-shloka
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3

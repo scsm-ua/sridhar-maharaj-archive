@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1982.03"
-  - Дхарма
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3

@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 255-svoboda-voli-dushi-2012-07-25-16
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - Душа
-  - Свобода
+  - title: Душа
+    slug: dusha
+  - title: Свобода
+    slug: svoboda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/255_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3

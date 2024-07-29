@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 081_1982-09-05-b1_sridharmj_obrawenie_sarvabhaumy_bhattacharyi
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.09"
-  - Сарвабхаума
-  - история
-  - история о беседе Махапрабху и Сарвабхаумы (атмарама-шлока)
+  - title: "1982.09"
+    slug: 1982-09
+  - title: Сарвабхаума
+    slug: sarvabhauma
+  - title: история
+    slug: istoriya
+  - title: история о беседе Махапрабху и Сарвабхаумы (атмарама-шлока)
+    slug: istoriya-o-besede-mahaprabhu-i-sarvabh
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3

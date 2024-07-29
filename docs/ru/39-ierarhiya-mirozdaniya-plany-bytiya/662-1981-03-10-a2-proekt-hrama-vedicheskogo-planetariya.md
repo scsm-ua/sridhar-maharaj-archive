@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.mp3

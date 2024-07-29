@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 414-1983-07-08-a3-b1-rasshirennyj-egoizm-ili-bogotsentrizm
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3

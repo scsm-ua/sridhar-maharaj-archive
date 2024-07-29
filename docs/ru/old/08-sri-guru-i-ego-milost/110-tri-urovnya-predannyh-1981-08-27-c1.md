@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 110-tri-urovnya-predannyh-1981-08-27-c1
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.08"
-  - Гуру
-  - Качества ученика
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/110_1981.08.27.C1_SridharMj_Tri_urovnya_predannyh.mp3

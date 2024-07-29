@@ -1,7 +1,11 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C

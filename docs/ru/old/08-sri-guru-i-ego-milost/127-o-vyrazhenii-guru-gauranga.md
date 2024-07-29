@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 127-o-vyrazhenii-guru-gauranga
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Гуру
-  - Махапрабху
-  - Мгновения прекрасной реальности
+  - title: Гуру
+    slug: guru
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/127_MgnoveniyaPR_2.7_SridharMj_O_vyrajenii_Guru-Gauranga.mp3

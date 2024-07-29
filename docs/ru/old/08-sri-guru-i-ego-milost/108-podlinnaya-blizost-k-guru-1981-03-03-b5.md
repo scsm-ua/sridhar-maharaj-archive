@@ -1,10 +1,17 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 108-podlinnaya-blizost-k-guru-1981-03-03-b5
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру
-  - Качества ученика
-  - Рупа Госвами
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/108_1981.03.03.B5_SridharMj_Podlinnaya-blizost-k_guru.mp3

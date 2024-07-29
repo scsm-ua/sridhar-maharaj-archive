@@ -1,11 +1,19 @@
 ---
-category: (18. Духовный мир)
+slug: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1984.01"
-  - Гаура-лила
-  - Духовный мир
-  - Кришна-лила
-  - Навадвип
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Гаура-лила
+    slug: gaura-lila
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Навадвип
+    slug: navadvip
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/235_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3

@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3

@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3

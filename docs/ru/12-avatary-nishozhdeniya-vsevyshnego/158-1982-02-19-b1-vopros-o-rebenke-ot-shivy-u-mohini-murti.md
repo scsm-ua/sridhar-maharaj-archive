@@ -1,9 +1,15 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.02"
-  - Мохини-мурти
-  - Шива
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Мохини-мурти
+    slug: mohini-murti
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3

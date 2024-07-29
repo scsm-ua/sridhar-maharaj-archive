@@ -1,8 +1,13 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 368-otlichie-mezhdu-obuslovennoj-i-duhovn
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - "1981.03"
-  - Харидас Тхакур
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Харидас Тхакур
+    slug: haridas-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/368_1981.03.03.A3.B1_SridharMj_Otlichie_mejdu_duhovnoy_i_obuslovlennoy_deyatelnostyu.mp3

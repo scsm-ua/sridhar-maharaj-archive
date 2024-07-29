@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1981.03"
-  - Чандравали
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Чандравали
+    slug: chandravali
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.mp3

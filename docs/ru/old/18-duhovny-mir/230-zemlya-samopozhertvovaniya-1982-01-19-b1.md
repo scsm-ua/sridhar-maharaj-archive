@@ -1,11 +1,19 @@
 ---
-category: (18. Духовный мир)
+slug: 230-zemlya-samopozhertvovaniya-1982-01-19-b1
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1982.01"
-  - Духовный мир
-  - Знание
-  - Самопожертвование
-  - Самопредание
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Знание
+    slug: znanie
+  - title: Самопожертвование
+    slug: samopozhertvovanie
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/230_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3

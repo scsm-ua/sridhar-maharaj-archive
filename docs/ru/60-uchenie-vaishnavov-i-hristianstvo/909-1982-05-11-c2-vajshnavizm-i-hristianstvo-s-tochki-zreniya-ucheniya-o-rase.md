@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3

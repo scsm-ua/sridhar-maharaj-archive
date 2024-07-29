@@ -1,7 +1,11 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Панча-таттва
+  - title: Панча-таттва
+    slug: pancha-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3

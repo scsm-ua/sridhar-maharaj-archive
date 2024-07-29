@@ -1,7 +1,11 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3

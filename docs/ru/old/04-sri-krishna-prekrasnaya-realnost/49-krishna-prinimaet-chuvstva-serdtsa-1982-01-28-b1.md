@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/049_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3

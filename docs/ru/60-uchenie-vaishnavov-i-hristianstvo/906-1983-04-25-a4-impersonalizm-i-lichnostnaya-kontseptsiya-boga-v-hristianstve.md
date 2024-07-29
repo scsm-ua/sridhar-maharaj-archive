@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 906-1983-04-25-a4-impersonalizm-i-lichnostnaya-kontseptsiya-boga-v-hristianstve
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3

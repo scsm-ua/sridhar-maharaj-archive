@@ -1,7 +1,11 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 50-krishna-rasplachivaetsya-bozhestvennoj
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1980.07"
+  - title: "1980.07"
+    slug: 1980-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/050_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3

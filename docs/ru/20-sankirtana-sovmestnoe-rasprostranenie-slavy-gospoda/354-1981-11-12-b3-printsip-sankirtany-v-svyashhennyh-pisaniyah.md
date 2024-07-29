@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.11"
-  - Санкиртана
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3

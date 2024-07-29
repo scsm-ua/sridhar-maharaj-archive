@@ -1,10 +1,17 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 456-o-pervom-stihe-bhagavatam-i-poezii-r
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1983.06"
-  - Бхактивинод Тхакур
-  - Рупа Госвами
-  - Шримад Бхагаватам
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/456_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3

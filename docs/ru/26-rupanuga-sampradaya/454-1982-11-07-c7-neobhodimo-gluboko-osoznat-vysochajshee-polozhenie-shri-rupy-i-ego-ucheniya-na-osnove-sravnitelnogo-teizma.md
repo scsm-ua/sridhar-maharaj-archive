@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3

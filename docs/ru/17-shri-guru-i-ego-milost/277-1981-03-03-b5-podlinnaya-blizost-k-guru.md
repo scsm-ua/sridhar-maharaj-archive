@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 277-1981-03-03-b5-podlinnaya-blizost-k-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/277_1981.03.03.B5_SridharMj_Podlinnaya_blizost_k_guru.mp3

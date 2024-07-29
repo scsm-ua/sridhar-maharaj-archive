@@ -1,11 +1,19 @@
 ---
-category: (13. О проповеди)
+slug: 171-duhovnye-organizatsii-konkuriruyut-s
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1983.07"
-  - Будда
-  - Бхакти
-  - Гармония
-  - Шанкара
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Будда
+    slug: budda
+  - title: Бхакти
+    slug: bhakti
+  - title: Гармония
+    slug: garmoniya
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/171_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3

@@ -1,10 +1,17 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.06"
-  - Кришна
-  - Махапрабху
-  - Рамачандра
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Кришна
+    slug: krishna
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3

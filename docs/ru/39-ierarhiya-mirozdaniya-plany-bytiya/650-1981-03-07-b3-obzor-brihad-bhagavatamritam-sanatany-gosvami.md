@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3

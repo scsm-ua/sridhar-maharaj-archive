@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.02"
-  - Самопредание
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.mp3

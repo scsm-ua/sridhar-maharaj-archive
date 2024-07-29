@@ -1,7 +1,11 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3

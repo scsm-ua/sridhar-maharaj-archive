@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3

@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.06"
-  - Гуру-таттва
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/314_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3

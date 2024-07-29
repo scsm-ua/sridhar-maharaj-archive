@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1987.00"
-  - Вайшнава-апарадха
+  - title: "1987.00"
+    slug: 1987-00
+  - title: Вайшнава-апарадха
+    slug: vajshnava-aparadha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3

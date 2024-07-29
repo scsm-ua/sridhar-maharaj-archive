@@ -1,8 +1,13 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 146-predskazanie-shrily-bhaktivinoda-tha
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1982.01"
-  - Бхактивинод Тхакур
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/146_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3

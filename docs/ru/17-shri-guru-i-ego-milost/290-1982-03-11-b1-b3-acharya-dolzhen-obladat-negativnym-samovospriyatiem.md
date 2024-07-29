@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 290-1982-03-11-b1-b3-acharya-dolzhen-obladat-negativnym-samovospriyatiem
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.03"
-  - Гуру-таттва
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3

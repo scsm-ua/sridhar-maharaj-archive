@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 291-1982-05-18-a3-b1-edinstvennym-zhelaniem-achari-dolzhno-byt-sluzhenie-svoej-duhovnoj-preemstvennosti
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
-  - Гуру-таттва
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/291_1982.05.18.A3.B1_SridharMj_Edinstvennym_zhelaniem_achari_dolzhno_byt_sluzhenie_svoej_duhovnoj_preemstvennosti.mp3

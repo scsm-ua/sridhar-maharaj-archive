@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3

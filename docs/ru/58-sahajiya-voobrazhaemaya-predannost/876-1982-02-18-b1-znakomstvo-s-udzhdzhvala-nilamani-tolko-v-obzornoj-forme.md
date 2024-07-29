@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3

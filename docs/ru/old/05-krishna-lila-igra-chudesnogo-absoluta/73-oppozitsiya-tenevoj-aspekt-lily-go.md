@@ -1,7 +1,11 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 73-oppozitsiya-tenevoj-aspekt-lily-go
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/073_1981.03.01.A5.B1_SridharMj_Oppozitsiya-tenevoy_aspekt_lily_Gospoda.mp3

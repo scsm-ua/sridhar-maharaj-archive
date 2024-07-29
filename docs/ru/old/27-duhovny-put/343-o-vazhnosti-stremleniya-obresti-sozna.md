@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 343-o-vazhnosti-stremleniya-obresti-sozna
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3

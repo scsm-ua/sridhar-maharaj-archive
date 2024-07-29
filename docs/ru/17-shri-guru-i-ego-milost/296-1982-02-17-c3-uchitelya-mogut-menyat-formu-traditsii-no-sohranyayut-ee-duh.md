@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3

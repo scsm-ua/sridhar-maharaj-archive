@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 198-1982-07-05-b2-etapy-cherez-kotorye-nuzhno-projti-chtoby-uvidet-krishnu
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.mp3

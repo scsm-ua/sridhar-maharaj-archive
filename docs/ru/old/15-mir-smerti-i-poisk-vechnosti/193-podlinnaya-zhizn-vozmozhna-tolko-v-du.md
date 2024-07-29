@@ -1,8 +1,13 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 193-podlinnaya-zhizn-vozmozhna-tolko-v-du
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - Любовь
-  - Самопожертвование
+  - title: Любовь
+    slug: lyubov
+  - title: Самопожертвование
+    slug: samopozhertvovanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/193_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3

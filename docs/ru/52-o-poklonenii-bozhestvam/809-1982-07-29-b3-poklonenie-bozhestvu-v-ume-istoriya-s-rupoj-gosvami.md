@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.07"
-  - Арчана
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3

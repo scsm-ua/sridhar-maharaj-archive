@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 294-o-predannosti-i-neobychajnoj-sile-abh
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.05"
-  - Абхирам Тхакур
-  - Истории о вайшнавах
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Абхирам Тхакур
+    slug: abhiram-thakur
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/294_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3

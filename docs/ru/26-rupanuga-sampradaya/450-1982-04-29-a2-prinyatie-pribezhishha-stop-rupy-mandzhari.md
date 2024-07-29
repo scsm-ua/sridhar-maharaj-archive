@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3

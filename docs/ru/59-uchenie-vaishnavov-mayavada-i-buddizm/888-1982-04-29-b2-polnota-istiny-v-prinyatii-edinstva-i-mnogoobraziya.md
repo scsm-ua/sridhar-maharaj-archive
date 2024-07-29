@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.mp3

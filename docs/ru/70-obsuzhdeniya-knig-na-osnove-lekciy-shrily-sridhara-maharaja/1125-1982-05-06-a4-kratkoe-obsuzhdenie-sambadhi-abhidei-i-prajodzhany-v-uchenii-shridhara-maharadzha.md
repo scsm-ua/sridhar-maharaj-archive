@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.mp3

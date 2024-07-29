@@ -1,9 +1,15 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1983.04"
-  - Маха-мантра
-  - Святое Имя
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3

@@ -1,10 +1,17 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.02"
-  - Кришна-лила
-  - Махапрабху
-  - Чайтанья-лила
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Чайтанья-лила
+    slug: chajtanya-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3

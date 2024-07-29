@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 394-1982-03-01-a3-stremitsya-k-obshhej-tseli-sleduet-v-duhe-sotrudnichestva
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.03"
-  - Проповедь
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.mp3

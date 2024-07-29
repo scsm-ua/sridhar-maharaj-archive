@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.04"
-  - Махапрабху
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3

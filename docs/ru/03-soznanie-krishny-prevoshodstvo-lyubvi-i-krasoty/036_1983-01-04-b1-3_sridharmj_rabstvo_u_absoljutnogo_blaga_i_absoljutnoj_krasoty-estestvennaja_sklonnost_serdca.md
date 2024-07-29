@@ -1,10 +1,17 @@
 ---
-category: 03. Сознание Кришны — превосходство Любви и Красоты
+slug: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1983.01"
-  - Красота
-  - Кришна-лила
-  - Према-дхама-дева-стотрам
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Красота
+    slug: krasota
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Према-дхама-дева-стотрам
+    slug: prema-dhama-deva-stotram
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3

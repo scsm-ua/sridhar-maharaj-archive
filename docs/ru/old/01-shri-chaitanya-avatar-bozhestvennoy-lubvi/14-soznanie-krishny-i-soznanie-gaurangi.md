@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 14-soznanie-krishny-i-soznanie-gaurangi
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Кришна-лила
-  - Мгновения прекрасной реальности
-  - Чайтанья-чаритамрита
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Чайтанья-чаритамрита
+    slug: chajtanya-charitamrita
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/014_MgnoveniyaPR_5.3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi.mp3

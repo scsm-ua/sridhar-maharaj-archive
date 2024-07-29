@@ -1,7 +1,11 @@
 ---
-category: 36. Происхождение души
+slug: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi
+category:
+  title: 36. Происхождение души
+  slug: 36-proishozhdenie-dushi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3

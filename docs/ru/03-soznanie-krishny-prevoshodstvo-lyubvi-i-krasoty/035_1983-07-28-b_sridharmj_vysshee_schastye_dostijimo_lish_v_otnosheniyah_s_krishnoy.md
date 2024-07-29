@@ -1,7 +1,11 @@
 ---
-category: 03. Сознание Кришны — превосходство Любви и Красоты
+slug: 035_1983-07-28-b_sridharmj_vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_krishnoy
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3

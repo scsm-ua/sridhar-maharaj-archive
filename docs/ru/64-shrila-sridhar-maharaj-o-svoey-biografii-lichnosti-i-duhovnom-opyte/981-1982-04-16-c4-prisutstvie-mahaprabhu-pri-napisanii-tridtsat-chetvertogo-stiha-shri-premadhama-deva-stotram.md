@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3

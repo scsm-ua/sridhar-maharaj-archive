@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1981.03"
-  - Санкиртана
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3

@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 279-1981-08-30-a4-klyuch-k-sokrovishhu-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/279_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3

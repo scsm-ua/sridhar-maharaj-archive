@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.06"
-  - Проповедь
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.mp3

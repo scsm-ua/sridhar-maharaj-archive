@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1982.02"
-  - Дхарма
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3

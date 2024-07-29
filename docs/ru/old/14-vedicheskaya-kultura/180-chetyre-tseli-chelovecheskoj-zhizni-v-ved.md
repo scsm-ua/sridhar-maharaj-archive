@@ -1,8 +1,13 @@
 ---
-category: (14. Ведическая культура)
+slug: 180-chetyre-tseli-chelovecheskoj-zhizni-v-ved
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1983.07"
-  - Веды
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Веды
+    slug: vedy
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/180_1983.07.08.A1_SridharMj_Chetyre_celi_chelovecheskoy_jizni_v_vedah.mp3

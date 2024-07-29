@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.02"
-  - Махапрабху
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3

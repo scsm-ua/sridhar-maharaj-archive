@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 119-1982-05-09-b2-dlya-mahaprabhu-kazhdyj-holm-byl-govardhanom-a-kazhdyj-les-vrindavanom
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.05"
-  - Махапрабху
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/119_1982.05.09.B2_SridharMj_Dlja_Mahaprabhu_kazhdyj_holm_byl_Govardhanom_a_kazhdyj_les--Vrindavanom.mp3

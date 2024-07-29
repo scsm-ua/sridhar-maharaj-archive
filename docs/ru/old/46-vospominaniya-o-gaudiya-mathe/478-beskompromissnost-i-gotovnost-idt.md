@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 478-beskompromissnost-i-gotovnost-idt
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - Гаудия-матх
-  - Мгновения прекрасной реальности
-  - Проповедь
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/478_MgnoveniyaPR_5.2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca–osnova_propovedi_Gaudiya-matha.mp3

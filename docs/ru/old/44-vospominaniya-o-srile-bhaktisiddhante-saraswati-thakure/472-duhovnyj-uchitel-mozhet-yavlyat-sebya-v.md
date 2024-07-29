@@ -1,9 +1,15 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 472-duhovnyj-uchitel-mozhet-yavlyat-sebya-v
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - Бхактивинод Тхакур
-  - Мгновения прекрасной реальности
-  - Сарасвати Тхакур
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/472_MgnoveniyaPR_6.3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3

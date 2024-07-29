@@ -1,13 +1,23 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1983.02"
-  - Проповедь
-  - Рамакришна
-  - атом бесконечен
-  - паспорт и виза духовного мира
-  - пратьякша-парокша-апарокша-адхокшаджа-апракрита
-  - ступать по земле духовного мира
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Проповедь
+    slug: propoved
+  - title: Рамакришна
+    slug: ramakrishna
+  - title: атом бесконечен
+    slug: atom-beskonechen
+  - title: паспорт и виза духовного мира
+    slug: pasport-i-viza-duhovnogo-mira
+  - title: пратьякша-парокша-апарокша-адхокшаджа-апракрита
+    slug: pratyaksha-paroksha-aparoksha-adhokshad
+  - title: ступать по земле духовного мира
+    slug: stupat-po-zemle-duhovnogo-mira
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3

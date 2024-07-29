@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3

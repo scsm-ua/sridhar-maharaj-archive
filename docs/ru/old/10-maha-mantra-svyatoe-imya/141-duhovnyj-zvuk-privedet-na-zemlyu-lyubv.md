@@ -1,7 +1,11 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 141-duhovnyj-zvuk-privedet-na-zemlyu-lyubv
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/141_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3

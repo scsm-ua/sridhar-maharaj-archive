@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.mp3

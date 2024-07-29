@@ -1,11 +1,19 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 269-svyaz-joga-maji-i-maha-maji-mgnoveniya
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - Бхакти
-  - Дурга
-  - Йога-майа
-  - Маха-майа
-  - Мгновения прекрасной реальности
+  - title: Бхакти
+    slug: bhakti
+  - title: Дурга
+    slug: durga
+  - title: Йога-майа
+    slug: joga-maja
+  - title: Маха-майа
+    slug: maha-maja
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/269_MgnoveniyaPR_2.1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3

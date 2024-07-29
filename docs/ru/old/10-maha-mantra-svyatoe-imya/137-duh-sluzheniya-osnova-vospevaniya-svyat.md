@@ -1,8 +1,13 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 137-duh-sluzheniya-osnova-vospevaniya-svyat
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - Маха-мантра
-  - Святое Имя
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/137_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3

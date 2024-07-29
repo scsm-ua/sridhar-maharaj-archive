@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3

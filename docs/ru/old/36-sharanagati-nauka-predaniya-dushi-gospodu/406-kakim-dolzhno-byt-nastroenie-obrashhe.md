@@ -1,9 +1,15 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 406-kakim-dolzhno-byt-nastroenie-obrashhe
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.05"
-  - Самопредание
-  - Шаранагати
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/406_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3

@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 165-izvlech-naibolshuyu-vygodu-iz-durnoj
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/165_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3

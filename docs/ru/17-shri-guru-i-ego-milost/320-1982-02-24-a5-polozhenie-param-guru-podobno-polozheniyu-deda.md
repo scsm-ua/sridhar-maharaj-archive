@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
-  - Гуру-таттва
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.mp3

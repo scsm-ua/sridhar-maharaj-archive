@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.05"
-  - Святое Имя
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.mp3

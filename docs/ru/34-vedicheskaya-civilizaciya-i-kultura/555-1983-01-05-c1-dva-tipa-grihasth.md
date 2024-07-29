@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 555-1983-01-05-c1-dva-tipa-grihasth
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1983.01"
-  - Ведическая цивилизация
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3

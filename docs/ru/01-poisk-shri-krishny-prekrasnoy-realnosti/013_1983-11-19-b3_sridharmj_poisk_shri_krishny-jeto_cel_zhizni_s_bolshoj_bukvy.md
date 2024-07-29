@@ -1,7 +1,11 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3

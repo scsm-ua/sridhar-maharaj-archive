@@ -1,8 +1,13 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 487-o-duhovnom-polozhenii-krishnadasa-bab
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1983.04"
-  - Кришнадас Бабаджи
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Кришнадас Бабаджи
+    slug: krishnadas-babadzhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/487_1983.04.16.A5_SridharMj_O_duhovnom_polozhenii_Krishnadasa_Babaji.mp3

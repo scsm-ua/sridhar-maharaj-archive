@@ -1,10 +1,17 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 287-istoriya-achyutanandy-o-synovyah-adva
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1982.01"
-  - Адвайта Ачарья
-  - Ачьютананда
-  - Истории о вайшнавах
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Ачьютананда
+    slug: achyutananda
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/287_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3

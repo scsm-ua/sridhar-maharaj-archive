@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 852-samootritsanie-ne-taktika-a-iskrennee-chuvstvo
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - Самопредание
-  - без даты
+  - title: Самопредание
+    slug: samopredanie
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3

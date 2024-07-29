@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3

@@ -1,9 +1,15 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 84-otnosheniya-s-krishnoj-prisutstvuyut-v-d
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1981.03"
-  - Душа
-  - Кришна-лила
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Душа
+    slug: dusha
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/084_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3

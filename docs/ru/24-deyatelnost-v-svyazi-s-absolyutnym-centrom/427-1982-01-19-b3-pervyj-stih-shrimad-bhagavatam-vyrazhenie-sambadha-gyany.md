@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.mp3

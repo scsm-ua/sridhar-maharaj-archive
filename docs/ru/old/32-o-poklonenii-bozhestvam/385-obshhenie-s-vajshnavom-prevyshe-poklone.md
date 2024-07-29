@@ -1,11 +1,19 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 385-obshhenie-s-vajshnavom-prevyshe-poklone
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1983.01"
-  - Арчана
-  - Биография Шридхара Махараджа
-  - Божество
-  - Гаудия-матх
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Арчана
+    slug: archana
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Божество
+    slug: bozhestvo
+  - title: Гаудия-матх
+    slug: gaudiya-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/385_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3

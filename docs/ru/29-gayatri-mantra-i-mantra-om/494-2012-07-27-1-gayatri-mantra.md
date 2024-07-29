@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 494-2012-07-27-1-gayatri-mantra
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - Гаятри-мантра
-  - без даты
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3

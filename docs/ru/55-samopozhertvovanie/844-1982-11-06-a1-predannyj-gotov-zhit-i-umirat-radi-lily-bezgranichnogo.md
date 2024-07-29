@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 844-1982-11-06-a1-predannyj-gotov-zhit-i-umirat-radi-lily-bezgranichnogo
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.11"
-  - Самопредание
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3

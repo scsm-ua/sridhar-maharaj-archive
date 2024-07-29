@@ -1,8 +1,13 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 190-1982-01-22-a1-nesovershenstva-usilivayut-krasotu-krishna-lily
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.01"
-  - Кришна-лила
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3

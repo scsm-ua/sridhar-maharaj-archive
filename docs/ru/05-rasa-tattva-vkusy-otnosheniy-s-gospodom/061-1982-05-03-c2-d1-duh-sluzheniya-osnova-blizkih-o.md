@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.mp3

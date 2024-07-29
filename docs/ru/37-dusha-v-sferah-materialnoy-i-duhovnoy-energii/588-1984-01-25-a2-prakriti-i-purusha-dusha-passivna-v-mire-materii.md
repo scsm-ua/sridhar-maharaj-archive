@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1984.01"
-  - Душа
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3

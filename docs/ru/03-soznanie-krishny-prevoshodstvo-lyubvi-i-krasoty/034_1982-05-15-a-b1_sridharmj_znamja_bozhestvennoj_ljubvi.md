@@ -1,11 +1,19 @@
 ---
-category: 03. Сознание Кришны — превосходство Любви и Красоты
+slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
+category:
+  title: 03. Сознание Кришны — превосходство Любви и Красоты
+  slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - "1982.05"
-  - Б.С. Госвами Махарадж
-  - Книги Шридхара Махараджа
-  - Поиск Шри Кришны Прекрасной Реальности
-  - Проповедь
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Б.С. Госвами Махарадж
+    slug: b-s-gosvami-maharadzh
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
+  - title: Поиск Шри Кришны Прекрасной Реальности
+    slug: poisk-shri-krishny-prekrasnoj-realnos
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.mp3

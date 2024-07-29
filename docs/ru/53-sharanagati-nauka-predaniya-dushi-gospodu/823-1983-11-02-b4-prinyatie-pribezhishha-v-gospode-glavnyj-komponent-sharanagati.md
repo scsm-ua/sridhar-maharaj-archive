@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.11"
-  - Шаранагати
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3

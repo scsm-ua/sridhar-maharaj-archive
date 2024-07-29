@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3

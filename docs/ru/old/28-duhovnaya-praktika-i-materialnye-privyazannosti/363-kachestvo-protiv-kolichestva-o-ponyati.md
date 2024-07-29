@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 363-kachestvo-protiv-kolichestva-o-ponyati
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1985.10"
+  - title: "1985.10"
+    slug: 1985-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/363_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3

@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 265-obitateli-duhovnogo-mira-ne-stremyat
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1982.01"
-  - Бхакти
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/265_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3

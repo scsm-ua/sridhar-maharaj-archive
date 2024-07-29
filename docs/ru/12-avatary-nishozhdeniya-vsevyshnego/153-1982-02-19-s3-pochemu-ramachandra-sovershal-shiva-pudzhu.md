@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.02"
-  - Рамачандра
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3

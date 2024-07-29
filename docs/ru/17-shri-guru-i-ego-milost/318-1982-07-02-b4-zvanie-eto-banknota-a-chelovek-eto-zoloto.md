@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 318-1982-07-02-b4-zvanie-eto-banknota-a-chelovek-eto-zoloto
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.mp3

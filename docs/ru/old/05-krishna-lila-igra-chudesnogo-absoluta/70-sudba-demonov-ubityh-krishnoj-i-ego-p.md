@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 70-sudba-demonov-ubityh-krishnoj-i-ego-p
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1981.03"
-  - Рупа Госвами
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/070_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh1.mp3

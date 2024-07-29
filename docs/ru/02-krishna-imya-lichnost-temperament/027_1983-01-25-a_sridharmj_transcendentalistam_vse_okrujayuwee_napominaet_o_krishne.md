@@ -1,7 +1,11 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 027_1983-01-25-a_sridharmj_transcendentalistam_vse_okrujayuwee_napominaet_o_krishne
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/027_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3

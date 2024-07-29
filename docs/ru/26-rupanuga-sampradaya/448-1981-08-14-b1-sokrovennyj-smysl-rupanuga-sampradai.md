@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3

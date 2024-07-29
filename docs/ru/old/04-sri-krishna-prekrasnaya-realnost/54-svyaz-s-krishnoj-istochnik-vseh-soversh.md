@@ -1,5 +1,8 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 54-svyaz-s-krishnoj-istochnik-vseh-soversh
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/054_1982.01.20.B2_SridharMj_Svyaz_s_Krishnoy_istochnik_vseh_sovershenstv.mp3

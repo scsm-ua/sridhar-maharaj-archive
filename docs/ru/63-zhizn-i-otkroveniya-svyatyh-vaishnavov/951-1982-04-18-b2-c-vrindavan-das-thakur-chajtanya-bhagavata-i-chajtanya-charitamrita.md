@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.mp3

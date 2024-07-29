@@ -1,8 +1,13 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 223-filosofskie-aspekty-lichnosti-brahmy
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1981.03"
-  - Брахма
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Брахма
+    slug: brahma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/223_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3

@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1981.08"
-  - Махапрабху
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3

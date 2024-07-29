@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3

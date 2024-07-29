@@ -1,14 +1,25 @@
 ---
-category: (33. Искренность)
+slug: 393-iskrennost-nepobedima-1981-08-28-c
+category:
+  title: (33. Искренность)
+  slug: 33-iskrennost
 tags:
-  - "1981.08"
-  - Искренность
-  - Махапрабху
-  - Рагхунатх Дас Госвами
-  - Рупа Госвами
-  - Санатана Госвами
-  - Сварупа Дамодар
-  - Сварупа-шакти
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Искренность
+    slug: iskrennost
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рагхунатх Дас Госвами
+    slug: raghunath-das-gosvami
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/393_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3

@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1101_1983.06.05.C3_SridharMj_Obyasnenie_devyatogo_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3

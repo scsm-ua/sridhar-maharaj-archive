@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 976-1982-11-02-b3-shri-chajtanya-ne-prizyval-k-izucheniyu-razlichnyh-urovnej-teizma-no-sovetoval-napryamuyu-obratitsya-k-vysshemu-urovnyu-teizma
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/976_1982.11.02.B3_SridharMj_Shri_Chajtanja_sovetoval_naprjamuju_obratitsja_k_vysshemu_urovnyu_teizma.mp3

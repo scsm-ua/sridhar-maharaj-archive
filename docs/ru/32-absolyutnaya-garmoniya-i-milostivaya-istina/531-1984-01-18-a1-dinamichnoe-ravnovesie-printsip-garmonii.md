@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 531-1984-01-18-a1-dinamichnoe-ravnovesie-printsip-garmonii
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3

@@ -1,9 +1,15 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 99-kachestva-duhovnogo-uchitelya-i-uchenika
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1981.02"
-  - Гуру
-  - Качества ученика
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/099_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3

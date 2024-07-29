@@ -1,8 +1,13 @@
 ---
-category: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+slug: 143-1983-01-25-b2-glubokoe-vospriyatie-realnosti-kommentarij-k-vosmomu-i-tretemu-stihu-shikshashtaki
+category:
+  title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+  slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
 tags:
-  - "1983.01"
-  - Шикшаштакам
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Шикшаштакам
+    slug: shikshashtakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3

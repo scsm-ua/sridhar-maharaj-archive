@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.05"
-  - Душа
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.mp3

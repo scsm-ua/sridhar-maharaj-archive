@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.mp3

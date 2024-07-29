@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 390-o-poklonenii-gaura-nitayu-radhe-krishn
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1984.01"
-  - Божество
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Божество
+    slug: bozhestvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/390_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3

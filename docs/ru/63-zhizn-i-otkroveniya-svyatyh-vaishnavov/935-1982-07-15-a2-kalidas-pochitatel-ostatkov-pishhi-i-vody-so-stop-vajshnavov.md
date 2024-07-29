@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.mp3

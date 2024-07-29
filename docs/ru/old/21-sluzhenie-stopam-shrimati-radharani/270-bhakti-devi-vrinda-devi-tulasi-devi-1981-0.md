@@ -1,9 +1,15 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 270-bhakti-devi-vrinda-devi-tulasi-devi-1981-0
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1981.03"
-  - Бхакти
-  - Туласи
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Бхакти
+    slug: bhakti
+  - title: Туласи
+    slug: tulasi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/270_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3

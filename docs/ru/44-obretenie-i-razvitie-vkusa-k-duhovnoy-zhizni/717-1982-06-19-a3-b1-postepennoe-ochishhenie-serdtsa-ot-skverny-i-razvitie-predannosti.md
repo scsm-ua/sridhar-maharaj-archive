@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3

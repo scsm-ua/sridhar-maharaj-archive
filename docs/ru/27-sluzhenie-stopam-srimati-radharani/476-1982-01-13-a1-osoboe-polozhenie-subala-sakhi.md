@@ -1,9 +1,15 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 476-1982-01-13-a1-osoboe-polozhenie-subala-sakhi
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.01"
-  - Радхарани
-  - Субал Сакха
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Радхарани
+    slug: radharani
+  - title: Субал Сакха
+    slug: subal-sakha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.mp3

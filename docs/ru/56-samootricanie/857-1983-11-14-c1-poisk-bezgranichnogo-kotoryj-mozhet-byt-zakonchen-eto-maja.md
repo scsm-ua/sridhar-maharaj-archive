@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.mp3

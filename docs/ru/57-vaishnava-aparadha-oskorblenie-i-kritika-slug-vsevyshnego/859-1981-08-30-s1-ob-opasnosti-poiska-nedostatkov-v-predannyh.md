@@ -1,7 +1,11 @@
 ---
-category: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+slug: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh
+category:
+  title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
+  slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3

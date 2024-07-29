@@ -1,8 +1,13 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 473-1982-11-08-b2-vrindavan-eto-to-mesto-kotoroe-hranit-na-sebe-sledy-stop-shrimati-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.11"
-  - Радхарани
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3

@@ -1,10 +1,17 @@
 ---
-category: (27. Духовный путь)
+slug: 335-padenie-vozmozhno-dazhe-iz-samogo-vozv-2
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - Васту-сиддхи
-  - Мгновения прекрасной реальности
-  - Сварупа-сиддхи
-  - Сварупа-шакти
+  - title: Васту-сиддхи
+    slug: vastu-siddhi
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/335_MgnoveniyaPR_8.6_SridharMj_Padeniye_vozmojno_daje_iz_samogo_vozvyshennogo_polojeniya1.mp3

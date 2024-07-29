@@ -1,8 +1,13 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 009_ontologiyapr_4-2_sridharmj_iskrennost-luchshiy_drug_v_poiske_shri_krishny
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - Онтология прекрасной реальности
-  - дата неизвестна
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: дата неизвестна
+    slug: data-neizvestna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/009_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3

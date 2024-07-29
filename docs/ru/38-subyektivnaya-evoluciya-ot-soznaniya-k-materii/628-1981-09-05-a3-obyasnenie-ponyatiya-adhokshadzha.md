@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.09"
+  - title: "1981.09"
+    slug: 1981-09
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3

@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3

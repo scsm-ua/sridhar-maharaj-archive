@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1983.01"
-  - Дух служения
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.mp3

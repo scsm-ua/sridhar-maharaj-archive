@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 485-vojny-i-stihijnye-bedstviya-kak-mater
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
-  - Гаудия-матх
-  - Проповедь
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/485_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3

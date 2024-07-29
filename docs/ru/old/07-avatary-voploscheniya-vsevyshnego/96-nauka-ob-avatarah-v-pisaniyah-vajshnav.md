@@ -1,9 +1,15 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 96-nauka-ob-avatarah-v-pisaniyah-vajshnav
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - "1982.01"
-  - Книги Госвами
-  - Священные писания
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Книги Госвами
+    slug: knigi-gosvami
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/096_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3

@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 313-1983-06-21-a1-guru-v-linii-rupanuga
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.06"
-  - Гуру-таттва
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3

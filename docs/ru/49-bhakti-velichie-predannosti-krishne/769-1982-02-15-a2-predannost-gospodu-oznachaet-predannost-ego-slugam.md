@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.02"
-  - Бхакти
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3

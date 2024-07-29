@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3

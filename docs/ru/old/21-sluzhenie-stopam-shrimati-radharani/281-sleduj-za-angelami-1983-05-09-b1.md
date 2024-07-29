@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 281-sleduj-za-angelami-1983-05-09-b1
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.05"
-  - Бхакти
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/281_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3

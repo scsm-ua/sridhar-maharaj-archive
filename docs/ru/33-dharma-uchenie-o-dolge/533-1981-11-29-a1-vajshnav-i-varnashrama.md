@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 533-1981-11-29-a1-vajshnav-i-varnashrama
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1981.11"
-  - Варнашрама-дхарма
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Варнашрама-дхарма
+    slug: varnashrama-dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3

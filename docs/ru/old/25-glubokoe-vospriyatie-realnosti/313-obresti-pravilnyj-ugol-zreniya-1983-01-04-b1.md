@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.01"
-  - Гармония
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/313_1983.01.04.B1_SridharMj_Obresti_pravilniy_ugol_zreniya.mp3

@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3

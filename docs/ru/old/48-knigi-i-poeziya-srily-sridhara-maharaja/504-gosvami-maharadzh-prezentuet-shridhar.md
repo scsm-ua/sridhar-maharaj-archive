@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 504-gosvami-maharadzh-prezentuet-shridhar
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Б.С. Госвами Махарадж
-  - Книги Шридхара Махараджа
+  - title: Б.С. Госвами Махарадж
+    slug: b-s-gosvami-maharadzh
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/504_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3

@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.mp3

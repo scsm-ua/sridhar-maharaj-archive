@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3

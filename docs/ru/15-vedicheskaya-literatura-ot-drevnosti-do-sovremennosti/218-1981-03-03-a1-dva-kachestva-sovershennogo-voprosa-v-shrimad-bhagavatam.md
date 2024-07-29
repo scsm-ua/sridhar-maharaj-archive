@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.mp3

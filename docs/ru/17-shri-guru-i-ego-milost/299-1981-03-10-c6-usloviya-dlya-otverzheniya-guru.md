@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3

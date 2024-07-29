@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 347-pozvolit-krishne-vysadit-desant-v-s
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/347_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce.mp3

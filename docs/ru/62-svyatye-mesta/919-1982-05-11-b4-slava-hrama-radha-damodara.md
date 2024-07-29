@@ -1,7 +1,11 @@
 ---
-category: 62. Святые места
+slug: 919-1982-05-11-b4-slava-hrama-radha-damodara
+category:
+  title: 62. Святые места
+  slug: 62-svyatye-mesta
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3

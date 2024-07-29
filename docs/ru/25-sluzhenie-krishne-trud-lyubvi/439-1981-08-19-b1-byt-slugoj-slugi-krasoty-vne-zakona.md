@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1981.08"
-  - Дух служения
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3

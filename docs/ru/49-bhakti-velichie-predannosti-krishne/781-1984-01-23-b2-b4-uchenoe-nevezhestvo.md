@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1984.01"
-  - Бхакти
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3

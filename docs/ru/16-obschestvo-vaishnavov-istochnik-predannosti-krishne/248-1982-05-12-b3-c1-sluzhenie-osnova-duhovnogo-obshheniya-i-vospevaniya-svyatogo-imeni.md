@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.05"
-  - Садху-санга
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3

@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 306-dasha-mula-tattva-simvol-very-vajshna
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1985.06"
-  - Сварупа-шакти
-  - Священные писания
+  - title: "1985.06"
+    slug: 1985-06
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/306_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3

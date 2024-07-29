@@ -1,5 +1,8 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 210-o-vospriyatii-bozhestvennogo-1983-07-28-a2
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/210_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3

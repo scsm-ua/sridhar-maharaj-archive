@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 281-1981-08-27-c1-1-tri-urovnya-guru-bhadzhanandi-i-goshthanandi
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/281_1981.08.27.C1.1_SridharMj_Tri_urovnja_guru__Bhadzhanandi_i_goshthanandi.mp3

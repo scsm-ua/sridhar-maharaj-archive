@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1981.08"
-  - Дух служения
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.mp3

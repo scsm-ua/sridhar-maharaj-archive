@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.02"
-  - Махапрабху
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3

@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1982.05"
-  - Самопредание
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3

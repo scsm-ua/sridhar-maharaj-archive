@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1982.05"
-  - Шаранагати
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3

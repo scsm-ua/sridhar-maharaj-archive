@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1983.03"
-  - Шаранагати
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.mp3

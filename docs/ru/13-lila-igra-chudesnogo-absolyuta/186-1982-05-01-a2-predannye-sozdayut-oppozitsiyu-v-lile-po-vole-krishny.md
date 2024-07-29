@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 186-1982-05-01-a2-predannye-sozdayut-oppozitsiyu-v-lile-po-vole-krishny
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/186_1982.05.01.A2_SridharMj_Predannye_sozdajut_oppoziciju_v_lile_po_vole_Krishny.mp3

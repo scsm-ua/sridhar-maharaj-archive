@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 459-vospominaniya-ob-uhode-shrily-sarasva
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1983.01"
-  - Сарасвати Тхакур
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/459_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Srily_Saraswati_Thakura.mp3

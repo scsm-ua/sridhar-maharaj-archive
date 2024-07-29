@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.02"
-  - Гуру-таттва
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.mp3

@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.mp3

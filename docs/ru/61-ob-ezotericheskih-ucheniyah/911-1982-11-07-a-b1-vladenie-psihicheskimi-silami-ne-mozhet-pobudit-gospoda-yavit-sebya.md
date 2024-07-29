@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3

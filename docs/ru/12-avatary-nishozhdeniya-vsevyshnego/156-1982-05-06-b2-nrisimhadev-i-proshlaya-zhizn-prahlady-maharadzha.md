@@ -1,9 +1,15 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 156-1982-05-06-b2-nrisimhadev-i-proshlaya-zhizn-prahlady-maharadzha
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.05"
-  - Нарасимха
-  - Прахлада
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Нарасимха
+    slug: narasimha
+  - title: Прахлада
+    slug: prahlada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/156_1982.05.06.B2_SridharMj_Nrisimhadev_i_proshlaja_zhizn_Prahlady_Maharadzha.mp3

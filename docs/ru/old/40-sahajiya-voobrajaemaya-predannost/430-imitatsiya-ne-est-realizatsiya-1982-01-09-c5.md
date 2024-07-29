@@ -1,8 +1,13 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 430-imitatsiya-ne-est-realizatsiya-1982-01-09-c5
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1982.01"
-  - Сахаджия
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/430_1982.01.09.C5_SridharMj_Imitaciya_ne_est_realizaciya.mp3

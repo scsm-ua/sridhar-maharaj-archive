@@ -1,7 +1,11 @@
 ---
-category: 47. Принципы внешней и внутренней чистоты вайшнавов
+slug: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii
+category:
+  title: 47. Принципы внешней и внутренней чистоты вайшнавов
+  slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3

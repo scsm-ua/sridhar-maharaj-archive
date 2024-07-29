@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 371-1982-07-03-br1-sankirtana-put-k-obreteniyu-premy-i-dostupa-vo-vrindavan
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.07"
-  - Санкиртана
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3

@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.11"
-  - Гуру-парампара
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3

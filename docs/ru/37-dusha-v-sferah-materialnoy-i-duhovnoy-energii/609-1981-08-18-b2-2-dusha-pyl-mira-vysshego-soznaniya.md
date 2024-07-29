@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1981.08"
-  - Душа
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/609_1981.08.18.B2.2_SridharMj_Dusha_pyl_mira_Vysshego_Soznanija.mp3

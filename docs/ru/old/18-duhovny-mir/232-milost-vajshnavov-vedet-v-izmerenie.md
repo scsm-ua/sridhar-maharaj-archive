@@ -1,8 +1,13 @@
 ---
-category: (18. Духовный мир)
+slug: 232-milost-vajshnavov-vedet-v-izmerenie
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1983.02"
-  - Духовный мир
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/232_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3

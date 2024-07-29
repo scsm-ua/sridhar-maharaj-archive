@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 383-kirtan-prevoshodit-poklonenie-bozhes
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - Киртан
-  - Мгновения прекрасной реальности
+  - title: Киртан
+    slug: kirtan
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/383_MgnoveniyaPR_1.1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3

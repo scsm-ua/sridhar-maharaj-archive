@@ -1,8 +1,13 @@
 ---
-category: (46. Шри Чайтанья Сарасват Матх)
+slug: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya
+category:
+  title: (46. Шри Чайтанья Сарасват Матх)
+  slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - "1982.01"
-  - Шри Чайтанья Сарасват Матх
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Шри Чайтанья Сарасват Матх
+    slug: shri-chajtanya-sarasvat-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/490_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3

@@ -1,9 +1,15 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 63-razvitie-i-novizna-dve-harakterist
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - Мгновения прекрасной реальности
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/063_MgnoveniyaPR_2.5_SridharMj_Razvitiye_i_novizna–dve_harakteristiki_lily_Gospoda.mp3

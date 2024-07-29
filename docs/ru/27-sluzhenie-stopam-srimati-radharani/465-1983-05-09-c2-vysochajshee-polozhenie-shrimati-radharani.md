@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 465-1983-05-09-c2-vysochajshee-polozhenie-shrimati-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/465_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3

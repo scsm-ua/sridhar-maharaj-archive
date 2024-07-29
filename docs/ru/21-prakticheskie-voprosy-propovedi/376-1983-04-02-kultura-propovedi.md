@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 376-1983-04-02-kultura-propovedi
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.04"
-  - Проповедь
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3

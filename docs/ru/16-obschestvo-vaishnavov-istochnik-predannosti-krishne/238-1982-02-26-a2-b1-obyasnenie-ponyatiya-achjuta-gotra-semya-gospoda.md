@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3

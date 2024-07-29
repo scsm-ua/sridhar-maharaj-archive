@@ -1,10 +1,17 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 446-missiya-shankary-1983-06-05-b1
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1983.06"
-  - Буддизм
-  - Майавада
-  - Шанкара
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Буддизм
+    slug: buddizm
+  - title: Майавада
+    slug: majavada
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/446_1983.06.05.B1_SridharMj_Missita_Shankary.mp3

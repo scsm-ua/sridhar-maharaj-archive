@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 275-sluzhenie-gopi-ideal-predannosti-kri
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.06"
-  - Бхакти
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/275_1983.06.05.C2_SridharMj_Slujenie_gopi-ideal_predannosti_Krishne.mp3

@@ -1,8 +1,13 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 366-slava-prinadlezhit-guru-dengi-naraya
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - "1984.01"
-  - Сварупа-шакти
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/366_1984.01.25.A_SridharMj_Slava_prinadlejit_Guru_dengi-Narayane_a_zhenwiny-Krishne.mp3

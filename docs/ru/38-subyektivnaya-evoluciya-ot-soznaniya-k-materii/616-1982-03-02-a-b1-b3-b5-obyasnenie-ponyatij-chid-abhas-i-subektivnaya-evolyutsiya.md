@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3

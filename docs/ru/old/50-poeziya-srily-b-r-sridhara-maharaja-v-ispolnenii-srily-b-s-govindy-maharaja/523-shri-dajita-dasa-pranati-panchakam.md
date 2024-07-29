@@ -1,10 +1,16 @@
 ---
-category: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С.
-  Говинды Махараджа)
+slug: 523-shri-dajita-dasa-pranati-panchakam
+category:
+  title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
+    Махараджа)
+  slug: 50-poeziya-srily-b-r-sridhara-maharaja-v-ispolnenii-srily-b-s-govindy-maharaja
 tags:
-  - Говинда Махарадж
-  - Поэзия Шридхара Махараджа
-  - Сарасвати Тхакур
+  - title: Говинда Махарадж
+    slug: govinda-maharadzh
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/523_Sri_Dayita_Das_Pranati_Panchakam.mp3

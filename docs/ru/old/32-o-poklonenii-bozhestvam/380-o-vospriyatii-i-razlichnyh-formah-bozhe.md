@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 380-o-vospriyatii-i-razlichnyh-formah-bozhe
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Божество
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Божество
+    slug: bozhestvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/380_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3

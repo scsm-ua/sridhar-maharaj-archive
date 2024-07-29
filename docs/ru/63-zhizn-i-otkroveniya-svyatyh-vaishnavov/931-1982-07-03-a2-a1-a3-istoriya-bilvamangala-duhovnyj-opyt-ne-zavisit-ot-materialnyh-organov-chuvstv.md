@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3

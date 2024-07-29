@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 813-1982-02-22-a1-smysl-pokloneniya-govardhan-shile
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Арчана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/813_1982.02.22.A1_SridharMj_Smysl_poklonenija_Govardhan-shile.mp3

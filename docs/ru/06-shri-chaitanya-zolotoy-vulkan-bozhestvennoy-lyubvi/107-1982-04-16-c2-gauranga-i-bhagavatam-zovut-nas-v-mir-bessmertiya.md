@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.04"
-  - Шримад Бхагаватам
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3

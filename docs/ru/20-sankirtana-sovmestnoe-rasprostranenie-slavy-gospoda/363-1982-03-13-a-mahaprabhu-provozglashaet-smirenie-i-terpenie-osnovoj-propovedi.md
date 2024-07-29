@@ -1,8 +1,13 @@
 ---
-category: 20. Санкиртана — совместное распространение славы Господа
+slug: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi
+category:
+  title: 20. Санкиртана — совместное распространение славы Господа
+  slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - "1982.03"
-  - Санкиртана
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3

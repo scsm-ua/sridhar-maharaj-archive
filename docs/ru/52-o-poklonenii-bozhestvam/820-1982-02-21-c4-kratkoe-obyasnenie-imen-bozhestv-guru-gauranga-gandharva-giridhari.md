@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 820-1982-02-21-c4-kratkoe-obyasnenie-imen-bozhestv-guru-gauranga-gandharva-giridhari
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Арчана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/820_1982.02.21.C4_SridharMj_Kratkoe_objasnenie_imen_Bozhestv_Guru-Gauranga-Gandharva-Giridhari.mp3

@@ -1,8 +1,13 @@
 ---
-category: 53. Шаранагати - наука предания души Господу
+slug: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj
+category:
+  title: 53. Шаранагати - наука предания души Господу
+  slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - "1982.02"
-  - Шаранагати
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3

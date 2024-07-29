@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - with English audio
-  - Имя Радхарани
-  - Радха-кунда
+  - title: "1983.01"
+    slug: 1983-01
+  - title: with English audio
+    slug: with-english-audio
+  - title: Имя Радхарани
+    slug: imya-radharani
+  - title: Радха-кунда
+    slug: radha-kunda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.mp3

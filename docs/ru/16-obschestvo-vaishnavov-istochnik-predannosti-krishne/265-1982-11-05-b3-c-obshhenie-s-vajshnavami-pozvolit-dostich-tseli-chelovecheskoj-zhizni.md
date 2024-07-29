@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.11"
-  - Садху-санга
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3

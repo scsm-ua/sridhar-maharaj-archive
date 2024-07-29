@@ -1,8 +1,13 @@
 ---
-category: (18. Духовный мир)
+slug: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1983.01"
-  - Духовный мир
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/233_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi-s_vysshim_mirom.mp3

@@ -1,7 +1,11 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 88-mozhno-li-sravnit-razluku-sity-s-ramo
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - Рамачандра
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/088_2012.07.23.2_SridharMj_Mojno_li_sravnit_razluku_Sity_s_Ramoy_i_Radhi_s_Krishnoy.mp3

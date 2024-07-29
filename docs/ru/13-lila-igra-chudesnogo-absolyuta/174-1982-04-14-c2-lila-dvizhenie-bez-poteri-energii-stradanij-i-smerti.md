@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 174-1982-04-14-c2-lila-dvizhenie-bez-poteri-energii-stradanij-i-smerti
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila_%E2%80%93_dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.mp3

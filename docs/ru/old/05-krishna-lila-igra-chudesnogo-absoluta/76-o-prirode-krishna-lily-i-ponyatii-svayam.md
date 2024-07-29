@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 76-o-prirode-krishna-lily-i-ponyatii-svayam
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
-  - Кришна-лила
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/076_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3

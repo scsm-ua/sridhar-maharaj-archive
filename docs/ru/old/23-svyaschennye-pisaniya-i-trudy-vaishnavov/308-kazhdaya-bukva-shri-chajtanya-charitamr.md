@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 308-kazhdaya-bukva-shri-chajtanya-charitamr
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - Мгновения прекрасной реальности
-  - Священные писания
-  - Чайтанья-чаритамрита
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
+  - title: Чайтанья-чаритамрита
+    slug: chajtanya-charitamrita
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/308_MgnoveniyaPR_5.4_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3

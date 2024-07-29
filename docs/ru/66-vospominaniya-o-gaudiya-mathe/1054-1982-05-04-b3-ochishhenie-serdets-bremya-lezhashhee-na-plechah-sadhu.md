@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3

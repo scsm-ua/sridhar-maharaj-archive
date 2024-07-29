@@ -1,8 +1,13 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.07"
-  - Радхарани
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3

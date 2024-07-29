@@ -1,5 +1,8 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 507-shrila-shridhar-maharadzh-kratko-rassk
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/507_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3

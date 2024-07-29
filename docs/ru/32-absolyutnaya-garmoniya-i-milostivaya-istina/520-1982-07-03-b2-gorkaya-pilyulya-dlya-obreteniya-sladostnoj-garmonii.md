@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3

@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.mp3

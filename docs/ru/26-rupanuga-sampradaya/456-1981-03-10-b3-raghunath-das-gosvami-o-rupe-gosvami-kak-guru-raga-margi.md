@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3

@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 072_1984-01-15-b1_sridharmj_smysl_sannyasy_mahaprabhu-vernut_domoy_zabludshiye_dushi
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1984.01"
-  - Махапрабху
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/072_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3

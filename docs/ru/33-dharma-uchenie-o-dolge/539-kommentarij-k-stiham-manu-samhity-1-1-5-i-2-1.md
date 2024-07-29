@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - Дхарма
-  - без даты
+  - title: Дхарма
+    slug: dharma
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/539_2012.07.25.18_ShridharMj_Kommentarij_k_stiham_Manu-samhity_1.1.5_i_2.1.mp3

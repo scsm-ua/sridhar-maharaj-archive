@@ -1,8 +1,13 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 229-1985-06-09-a1-dasha-mula-tattva-simvol-very-vajshnavov
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1985.06"
-  - Даша-мула-таттва
+  - title: "1985.06"
+    slug: 1985-06
+  - title: Даша-мула-таттва
+    slug: dasha-mula-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/229_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3

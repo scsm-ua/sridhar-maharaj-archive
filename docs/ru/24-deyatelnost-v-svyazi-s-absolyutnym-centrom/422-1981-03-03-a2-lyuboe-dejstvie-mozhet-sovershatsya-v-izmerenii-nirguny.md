@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3

@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.mp3

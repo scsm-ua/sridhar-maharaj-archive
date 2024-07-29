@@ -1,8 +1,13 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - "1982.01"
-  - Риг-веда
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3

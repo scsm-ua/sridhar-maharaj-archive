@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 522-1981-03-02-b2-krishna-lila-privodit-v-garmoniyu-dazhe-negativnye-yavleniya
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3

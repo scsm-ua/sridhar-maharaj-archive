@@ -1,9 +1,15 @@
 ---
-category: (20. Гаятри-мантра и мантра "ОМ")
+slug: 259-o-poluchenii-gayatri-mantry-1981-08-14-a1
+category:
+  title: (20. Гаятри-мантра и мантра "ОМ")
+  slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - "1981.08"
-  - Бхактиведанта Свами Прабхупада
-  - Гаятри-мантра
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/259_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3

@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3

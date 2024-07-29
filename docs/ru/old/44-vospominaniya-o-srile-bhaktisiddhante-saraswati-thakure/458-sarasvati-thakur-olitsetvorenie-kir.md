@@ -1,9 +1,15 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 458-sarasvati-thakur-olitsetvorenie-kir
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.01"
-  - Киртан
-  - Сарасвати Тхакур
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Киртан
+    slug: kirtan
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/458_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3

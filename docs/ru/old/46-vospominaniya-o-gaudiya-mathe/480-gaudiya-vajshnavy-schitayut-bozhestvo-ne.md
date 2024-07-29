@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
-  - Божество
-  - Гаудия-матх
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Божество
+    slug: bozhestvo
+  - title: Гаудия-матх
+    slug: gaudiya-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/480_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3

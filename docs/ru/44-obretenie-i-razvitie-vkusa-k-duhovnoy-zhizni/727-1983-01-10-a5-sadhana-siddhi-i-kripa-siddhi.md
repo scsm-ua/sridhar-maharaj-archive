@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 727-1983-01-10-a5-sadhana-siddhi-i-kripa-siddhi
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/727_1983.01.10.A5_SridharMj_Sadhana-siddhi_i_kripa-siddhi.mp3

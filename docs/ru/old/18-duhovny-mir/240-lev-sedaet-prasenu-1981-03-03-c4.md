@@ -1,10 +1,17 @@
 ---
-category: (18. Духовный мир)
+slug: 240-lev-sedaet-prasenu-1981-03-03-c4
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1981.03"
-  - Гармония
-  - Кришна-лила
-  - Прасена
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гармония
+    slug: garmoniya
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Прасена
+    slug: prasena
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/240_1981.03.03.C4_SridharMj_Lev_syedayet_Prasenu.mp3

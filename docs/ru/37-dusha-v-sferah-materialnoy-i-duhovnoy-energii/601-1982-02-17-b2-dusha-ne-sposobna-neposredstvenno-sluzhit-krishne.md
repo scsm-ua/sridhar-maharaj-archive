@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 601-1982-02-17-b2-dusha-ne-sposobna-neposredstvenno-sluzhit-krishne
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.02"
-  - Душа
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/601_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3

@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.04"
-  - Дух служения
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3

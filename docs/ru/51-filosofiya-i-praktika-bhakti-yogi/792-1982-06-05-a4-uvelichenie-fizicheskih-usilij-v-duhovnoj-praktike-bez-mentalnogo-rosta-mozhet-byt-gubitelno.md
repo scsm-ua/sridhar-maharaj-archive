@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.06"
-  - Бхакти-йога
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3

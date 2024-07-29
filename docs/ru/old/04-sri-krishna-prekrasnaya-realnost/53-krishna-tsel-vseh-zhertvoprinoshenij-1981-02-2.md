@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 53-krishna-tsel-vseh-zhertvoprinoshenij-1981-02-2
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1981.02"
-  - Кришна
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/053_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3

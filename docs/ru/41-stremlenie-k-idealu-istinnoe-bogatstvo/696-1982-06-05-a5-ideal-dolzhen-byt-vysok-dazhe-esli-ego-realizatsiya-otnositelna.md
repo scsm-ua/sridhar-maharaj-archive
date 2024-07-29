@@ -1,7 +1,11 @@
 ---
-category: 41. Стремление к идеалу — истинное богатство
+slug: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna
+category:
+  title: 41. Стремление к идеалу — истинное богатство
+  slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3

@@ -1,10 +1,17 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 284-zhizn-rupy-sanatany-i-haridasa-thaku
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1981.11"
-  - Рупа Госвами
-  - Санатана Госвами
-  - Харидас Тхакур
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Рупа Госвами
+    slug: rupa-gosvami
+  - title: Санатана Госвами
+    slug: sanatana-gosvami
+  - title: Харидас Тхакур
+    slug: haridas-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/284_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3

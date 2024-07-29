@@ -1,8 +1,13 @@
 ---
-category: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+slug: 422-o-vajshnava-aparadhe-i-opasnosti-krit
+category:
+  title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+  slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - "1983.03"
-  - Вайшнава-апарадха
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Вайшнава-апарадха
+    slug: vajshnava-aparadha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/422_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3

@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.mp3

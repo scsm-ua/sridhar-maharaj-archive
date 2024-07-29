@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - история
-  - история о патхана-вайшнавах
+  - title: "1983.01"
+    slug: 1983-01
+  - title: история
+    slug: istoriya
+  - title: история о патхана-вайшнавах
+    slug: istoriya-o-pathana-vajshnavah
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3

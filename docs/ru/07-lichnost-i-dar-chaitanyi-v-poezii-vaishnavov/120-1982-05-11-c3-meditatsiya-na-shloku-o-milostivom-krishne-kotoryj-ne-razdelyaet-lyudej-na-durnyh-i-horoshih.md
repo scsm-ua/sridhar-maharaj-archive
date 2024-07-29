@@ -1,7 +1,11 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3

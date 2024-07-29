@@ -1,7 +1,11 @@
 ---
-category: 42. Борьба преданности с материализмом — очищение сердца
+slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
+category:
+  title: 42. Борьба преданности с материализмом — очищение сердца
+  slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3

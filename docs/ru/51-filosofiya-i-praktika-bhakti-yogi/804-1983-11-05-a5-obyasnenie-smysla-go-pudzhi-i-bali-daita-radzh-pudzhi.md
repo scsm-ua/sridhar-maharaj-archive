@@ -1,7 +1,11 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.mp3

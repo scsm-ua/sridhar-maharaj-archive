@@ -1,7 +1,11 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.mp3

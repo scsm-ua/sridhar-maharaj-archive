@@ -1,8 +1,13 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - "1983.11"
-  - Риг-веда
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.mp3

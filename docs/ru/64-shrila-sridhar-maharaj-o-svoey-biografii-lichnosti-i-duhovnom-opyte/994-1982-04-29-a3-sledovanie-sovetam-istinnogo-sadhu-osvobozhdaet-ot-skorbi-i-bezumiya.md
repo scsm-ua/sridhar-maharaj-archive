@@ -1,7 +1,11 @@
 ---
-category: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+slug: 994-1982-04-29-a3-sledovanie-sovetam-istinnogo-sadhu-osvobozhdaet-ot-skorbi-i-bezumiya
+category:
+  title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
+  slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/994_1982.04.29.A3_SridharMj_Sledovanie_sovetam_istinnogo_sadhu_osvobozhdaet_ot_skorbi_i_bezumija.mp3

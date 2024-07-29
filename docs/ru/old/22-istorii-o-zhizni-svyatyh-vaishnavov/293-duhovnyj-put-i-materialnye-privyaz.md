@@ -1,11 +1,19 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 293-duhovnyj-put-i-materialnye-privyaz
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.01"
-  - Билвамангал Тхакур
-  - Васту-сиддхи
-  - Истории о вайшнавах
-  - Сварупа-сиддхи
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Билвамангал Тхакур
+    slug: bilvamangal-thakur
+  - title: Васту-сиддхи
+    slug: vastu-siddhi
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/293_1983.01.05.B1_SridharMj_Duhovniy_put_i_materialnye_privyazannosti.mp3

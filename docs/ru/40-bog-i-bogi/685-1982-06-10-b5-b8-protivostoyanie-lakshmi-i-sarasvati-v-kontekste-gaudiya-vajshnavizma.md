@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3

@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.03"
-  - Гуру-таттва
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/284_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3

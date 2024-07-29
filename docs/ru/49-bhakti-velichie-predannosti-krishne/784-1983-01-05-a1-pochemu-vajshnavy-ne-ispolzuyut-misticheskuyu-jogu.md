@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1983.01"
-  - Бхакти
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3

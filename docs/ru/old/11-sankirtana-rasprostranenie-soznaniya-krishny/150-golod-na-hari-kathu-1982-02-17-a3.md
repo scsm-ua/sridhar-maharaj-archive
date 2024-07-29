@@ -1,7 +1,11 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 150-golod-na-hari-kathu-1982-02-17-a3
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/150_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3

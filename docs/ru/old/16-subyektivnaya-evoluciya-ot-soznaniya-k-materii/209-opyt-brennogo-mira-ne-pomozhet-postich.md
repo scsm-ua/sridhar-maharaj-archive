@@ -1,9 +1,15 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 209-opyt-brennogo-mira-ne-pomozhet-postich
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1983.01"
-  - Материальный мир
-  - Сознание
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Материальный мир
+    slug: materialnyj-mir
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/209_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3

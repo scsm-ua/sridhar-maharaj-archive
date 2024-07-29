@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3

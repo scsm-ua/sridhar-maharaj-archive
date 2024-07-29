@@ -1,8 +1,13 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 433-vysshee-otkrovenie-yavit-sebya-avtomat
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - Онтология прекрасной реальности
-  - Сахаджия
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/433_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3

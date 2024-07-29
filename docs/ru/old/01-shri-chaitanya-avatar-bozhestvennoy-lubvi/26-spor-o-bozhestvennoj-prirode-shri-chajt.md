@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 26-spor-o-bozhestvennoj-prirode-shri-chajt
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.01"
-  - Махапрабху
-  - Сарасвати Тхакур
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/026_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3

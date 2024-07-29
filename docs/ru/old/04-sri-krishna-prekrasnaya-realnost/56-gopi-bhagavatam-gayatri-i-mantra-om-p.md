@@ -1,9 +1,15 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 56-gopi-bhagavatam-gayatri-i-mantra-om-p
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1981.08"
-  - Кришна-лила
-  - Шримад Бхагаватам
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/056_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3

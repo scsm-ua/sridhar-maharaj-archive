@@ -1,7 +1,11 @@
 ---
-category: Избранные
+slug: 014_1983-04-25-a5_sridharmj_nauchnoe_opredelenie_krishny
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/014_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3

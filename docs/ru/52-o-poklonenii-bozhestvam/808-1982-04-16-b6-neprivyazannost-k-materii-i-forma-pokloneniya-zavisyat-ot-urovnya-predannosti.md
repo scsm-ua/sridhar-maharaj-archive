@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.04"
-  - Арчана
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.mp3

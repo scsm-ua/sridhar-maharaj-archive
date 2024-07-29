@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3

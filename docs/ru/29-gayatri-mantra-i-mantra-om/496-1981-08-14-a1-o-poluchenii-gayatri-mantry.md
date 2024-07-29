@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1981.08"
-  - Гаятри-мантра
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/496_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3

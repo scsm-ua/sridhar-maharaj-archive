@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.11"
-  - Проповедь
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3

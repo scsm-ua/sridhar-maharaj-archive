@@ -1,9 +1,15 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 31-velikodushie-priroda-gadadhara-pand
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Гададхар Пандит
-  - Махапрабху
-  - Онтология прекрасной реальности
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/031_OntologiyaPR_5.10_SridharMj_Velikodushiye-priroda_Gadadhara_Pandita.mp3

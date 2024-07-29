@@ -1,8 +1,13 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 89-pochemu-ramachandra-sovershal-shiva-pudzh
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - Мгновения прекрасной реальности
-  - Рамачандра
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/089_MgnoveniyaPR_8.2_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3

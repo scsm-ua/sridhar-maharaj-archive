@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3

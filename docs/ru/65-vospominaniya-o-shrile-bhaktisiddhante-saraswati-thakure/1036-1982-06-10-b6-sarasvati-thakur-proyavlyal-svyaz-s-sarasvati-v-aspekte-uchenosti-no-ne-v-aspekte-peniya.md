@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3

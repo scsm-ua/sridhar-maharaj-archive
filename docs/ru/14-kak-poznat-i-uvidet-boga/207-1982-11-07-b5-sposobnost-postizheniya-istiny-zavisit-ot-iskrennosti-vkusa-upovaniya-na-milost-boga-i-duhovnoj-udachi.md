@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3

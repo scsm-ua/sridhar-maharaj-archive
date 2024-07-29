@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 508-o-neobhodimosti-kommentariev-k-prem
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Мадхава Ачарья
-  - Према-дхама-дева-стотрам
+  - title: Мадхава Ачарья
+    slug: madhava-acharya
+  - title: Према-дхама-дева-стотрам
+    slug: prema-dhama-deva-stotram
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/508_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3

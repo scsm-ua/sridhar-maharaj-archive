@@ -1,7 +1,11 @@
 ---
-category: 47. Принципы внешней и внутренней чистоты вайшнавов
+slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
+category:
+  title: 47. Принципы внешней и внутренней чистоты вайшнавов
+  slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3

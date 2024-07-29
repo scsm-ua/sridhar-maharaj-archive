@@ -1,8 +1,13 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 274-sokrovennyj-smysl-molitv-gopi-mgnov
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - Бхакти
-  - Мгновения прекрасной реальности
+  - title: Бхакти
+    slug: bhakti
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/274_MgnoveniyaPR_3.3_SridharMj_Sokrovenniy_smysl_molitv_gopi.mp3

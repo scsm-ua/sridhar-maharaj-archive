@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.06"
-  - Гуру-таттва
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3

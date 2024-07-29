@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3

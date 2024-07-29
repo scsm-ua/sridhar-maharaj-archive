@@ -1,7 +1,11 @@
 ---
-category: 59. Учение вайшнавов, майавада и буддизм
+slug: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada
+category:
+  title: 59. Учение вайшнавов, майавада и буддизм
+  slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3

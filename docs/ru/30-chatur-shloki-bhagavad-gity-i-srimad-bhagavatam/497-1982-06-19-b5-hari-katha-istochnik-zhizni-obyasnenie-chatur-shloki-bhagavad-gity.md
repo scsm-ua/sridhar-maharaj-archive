@@ -1,8 +1,13 @@
 ---
-category: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
+category:
+  title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
+  slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
 tags:
-  - "1982.06"
-  - Чатур-шлока
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Чатур-шлока
+    slug: chatur-shloka
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3

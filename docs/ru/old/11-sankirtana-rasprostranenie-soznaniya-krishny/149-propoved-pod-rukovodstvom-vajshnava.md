@@ -1,9 +1,15 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 149-propoved-pod-rukovodstvom-vajshnava
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1981.03"
-  - Гаудия-матх
-  - Сарасвати Тхакур
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/149_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3

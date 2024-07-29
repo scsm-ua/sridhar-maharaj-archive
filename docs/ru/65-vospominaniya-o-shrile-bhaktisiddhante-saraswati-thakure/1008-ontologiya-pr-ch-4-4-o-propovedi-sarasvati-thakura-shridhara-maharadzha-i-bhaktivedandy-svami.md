@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3

@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3

@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 275-1982-05-14-d4-pravilnoe-ponimanie-utverzhdeniya-o-godichnom-ispytanii-guru-i-uchenika-v-hari-bhakti-vilase
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/275_1982.05.14.D4_SridharMj_Pravilnoe_ponimanie_utverzhdenija_o_godichnom_ispytanii_guru_i_uchenika_v_Hari-bhakti-vilase.mp3

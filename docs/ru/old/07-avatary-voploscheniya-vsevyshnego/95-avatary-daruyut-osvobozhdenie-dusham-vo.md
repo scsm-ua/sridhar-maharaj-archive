@@ -1,7 +1,11 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 95-avatary-daruyut-osvobozhdenie-dusham-vo
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/095_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy1.mp3

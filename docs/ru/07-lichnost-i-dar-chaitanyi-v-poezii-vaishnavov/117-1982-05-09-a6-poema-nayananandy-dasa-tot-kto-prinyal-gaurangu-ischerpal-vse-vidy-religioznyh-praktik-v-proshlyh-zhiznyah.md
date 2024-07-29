@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.05"
-  - Махапрабху
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.mp3

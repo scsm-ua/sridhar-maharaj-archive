@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/516_1982.02.25.A-B1.C3.B3-C1.C4_SridharMj_Uchenie_Shridhara_Maharadzha_o_garmonii_i_istine.mp3

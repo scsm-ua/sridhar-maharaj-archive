@@ -1,7 +1,11 @@
 ---
-category: 41. Стремление к идеалу — истинное богатство
+slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
+category:
+  title: 41. Стремление к идеалу — истинное богатство
+  slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3

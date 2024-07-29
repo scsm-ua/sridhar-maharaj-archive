@@ -1,9 +1,15 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 464-vysshaya-realnost-ne-mozhet-byt-pred
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
-  - Сарасвати Тхакур
-  - Сварупа-шакти
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/464_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3

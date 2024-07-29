@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 242-dusha-chudesna-i-udivitelna-1983-02-13-a2
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1983.02"
-  - Душа
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/242_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna.mp3

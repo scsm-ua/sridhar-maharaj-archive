@@ -1,7 +1,11 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 86-shanta-rasa-i-parakiya-bhava-vo-vrindav
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/086_1982.01.25.A3_SridharMj_Shanta-rasa_i_parakiya-bhava_vo_Vrindavane.mp3

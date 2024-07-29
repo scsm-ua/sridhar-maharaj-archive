@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 856-1983-11-04-c2-skorb-o-nesposobnosti-predatsya-krishne
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/856_1983.11.04.C2_SridharMj_Skorb_o_nesposobnosti_predatsja_Krishne.mp3

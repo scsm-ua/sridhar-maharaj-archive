@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1983.11"
-  - Бхакти
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3

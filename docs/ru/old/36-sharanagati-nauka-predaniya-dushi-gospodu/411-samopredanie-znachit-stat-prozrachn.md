@@ -1,9 +1,15 @@
 ---
-category: (36. Шаранагати - наука предания души Господу)
+slug: 411-samopredanie-znachit-stat-prozrachn
+category:
+  title: (36. Шаранагати - наука предания души Господу)
+  slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - Мгновения прекрасной реальности
-  - Самопредание
-  - Шаранагати
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Самопредание
+    slug: samopredanie
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/411_MgnoveniyaPR_7.3_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3

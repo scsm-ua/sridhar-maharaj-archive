@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 336-pomoshh-vajshnavov-pomozhet-preodolet
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/336_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3

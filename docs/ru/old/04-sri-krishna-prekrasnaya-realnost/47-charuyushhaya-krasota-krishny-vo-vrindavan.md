@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 47-charuyushhaya-krasota-krishny-vo-vrindavan
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.01"
-  - Кришна
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/047_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3

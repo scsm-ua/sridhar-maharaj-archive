@@ -1,12 +1,21 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1981.11"
-  - Вайкунтха
-  - Вриндаван
-  - Духовный мир
-  - Отречение
-  - Эксплуатация
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Вриндаван
+    slug: vrindavan
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Отречение
+    slug: otrechenie
+  - title: Эксплуатация
+    slug: ekspluatatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3

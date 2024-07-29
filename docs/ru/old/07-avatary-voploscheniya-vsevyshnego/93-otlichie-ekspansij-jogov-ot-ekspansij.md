@@ -1,9 +1,15 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 93-otlichie-ekspansij-jogov-ot-ekspansij
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - "1983.01"
-  - Йога
-  - Кришна-лила
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Йога
+    slug: joga
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/093_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3

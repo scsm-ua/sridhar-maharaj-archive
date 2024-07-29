@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 61-aprakrita-lila-krishny-zanimaet-naivy
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1981.11"
-  - Сварупа Дамодар
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/061_1981.11.12.B4_SridharMj_Aprakrita-lila_Krishny_zanimayet_naivyssheye_polojeniye1.mp3

@@ -1,10 +1,17 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 476-pranama-mantra-shrile-sarasvati-thak
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.01"
-  - Поэзия Шридхара Махараджа
-  - Пранама-мантра Сарасвати Тхакуру
-  - Сарасвати Тхакур
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Пранама-мантра Сарасвати Тхакуру
+    slug: pranama-mantra-sarasvati-thakuru
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/476_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3

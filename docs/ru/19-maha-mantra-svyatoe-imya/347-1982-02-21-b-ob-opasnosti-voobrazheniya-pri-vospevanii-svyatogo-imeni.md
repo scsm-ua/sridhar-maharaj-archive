@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.02"
-  - Святое Имя
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3

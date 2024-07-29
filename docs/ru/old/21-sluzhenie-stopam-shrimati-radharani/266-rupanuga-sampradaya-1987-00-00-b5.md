@@ -1,11 +1,19 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 266-rupanuga-sampradaya-1987-00-00-b5
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1987"
-  - Гададхар Пандит
-  - Мукунда
-  - Пундарик Видьянитхи
-  - Рупа Госвами
+  - title: "1987"
+    slug: "1987"
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Мукунда
+    slug: mukunda
+  - title: Пундарик Видьянитхи
+    slug: pundarik-vidyanithi
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/266_1987.00.00.B5_SridharMj_Rupanuga-sampradaya.mp3

@@ -1,8 +1,13 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.07"
-  - Кришна-лила
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3

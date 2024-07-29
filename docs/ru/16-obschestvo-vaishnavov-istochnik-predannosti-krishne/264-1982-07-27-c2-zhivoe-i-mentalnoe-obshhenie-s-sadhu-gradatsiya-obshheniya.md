@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.07"
-  - Садху-санга
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3

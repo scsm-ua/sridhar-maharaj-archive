@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.mp3

@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3

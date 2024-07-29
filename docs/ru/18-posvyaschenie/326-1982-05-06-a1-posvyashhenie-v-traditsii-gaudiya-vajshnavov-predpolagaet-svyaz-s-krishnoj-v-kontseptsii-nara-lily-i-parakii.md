@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3

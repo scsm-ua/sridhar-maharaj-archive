@@ -1,7 +1,11 @@
 ---
-category: (14. Ведическая культура)
+slug: 184-dva-tipa-grihasth-1983-01-05-c1
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/184_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3

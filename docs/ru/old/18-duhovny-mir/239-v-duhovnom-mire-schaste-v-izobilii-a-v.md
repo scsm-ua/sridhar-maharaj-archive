@@ -1,9 +1,15 @@
 ---
-category: (18. Духовный мир)
+slug: 239-v-duhovnom-mire-schaste-v-izobilii-a-v
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1973.03"
-  - Духовный мир
-  - Материальный мир
+  - title: "1973.03"
+    slug: 1973-03
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Материальный мир
+    slug: materialnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/239_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom–v_deficiite.mp3

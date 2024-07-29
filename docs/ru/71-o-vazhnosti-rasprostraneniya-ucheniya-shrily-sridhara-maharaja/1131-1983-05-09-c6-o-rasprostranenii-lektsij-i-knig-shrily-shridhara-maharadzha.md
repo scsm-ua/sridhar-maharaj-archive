@@ -1,7 +1,11 @@
 ---
-category: 71. О важности распространения учения Шрилы Шридхара Махараджа
+slug: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha
+category:
+  title: 71. О важности распространения учения Шрилы Шридхара Махараджа
+  slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3

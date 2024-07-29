@@ -1,10 +1,17 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 219-ontologiya-chatur-vyuhi-i-polozhenie-du
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - Вишну
-  - Дурга
-  - Йога-майа
-  - Мгновения прекрасной реальности
+  - title: Вишну
+    slug: vishnu
+  - title: Дурга
+    slug: durga
+  - title: Йога-майа
+    slug: joga-maja
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/219_MgnoveniyaPR_1.6_SridharMj_Ontologiya_chatur-vyuhi_i_poloоeniye_Durgi-devi.mp3

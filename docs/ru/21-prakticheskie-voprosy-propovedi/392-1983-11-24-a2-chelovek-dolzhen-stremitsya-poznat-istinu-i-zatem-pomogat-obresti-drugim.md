@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.11"
-  - Проповедь
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3

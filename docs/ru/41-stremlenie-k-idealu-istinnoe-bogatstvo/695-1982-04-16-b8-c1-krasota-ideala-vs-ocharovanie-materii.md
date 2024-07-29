@@ -1,7 +1,11 @@
 ---
-category: 41. Стремление к идеалу — истинное богатство
+slug: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii
+category:
+  title: 41. Стремление к идеалу — истинное богатство
+  slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3

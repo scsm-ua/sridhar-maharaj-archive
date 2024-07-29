@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3

@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 618-1981-02-28-c2-mirozdanie-razvivaetsya-ot-soznaniya-k-materii
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1981.02"
+  - title: "1981.02"
+    slug: 1981-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/618_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3

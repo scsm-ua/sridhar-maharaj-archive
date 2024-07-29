@@ -1,8 +1,13 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 426-o-chtenii-sokrovennyh-pisanij-1983-04-25-a2
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1983.04"
-  - Сахаджия
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/426_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3

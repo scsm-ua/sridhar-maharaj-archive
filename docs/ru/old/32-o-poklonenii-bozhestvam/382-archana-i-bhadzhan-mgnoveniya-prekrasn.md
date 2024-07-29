@@ -1,10 +1,17 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 382-archana-i-bhadzhan-mgnoveniya-prekrasn
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - Арчана
-  - Божество
-  - Бхаджан
-  - Мгновения прекрасной реальности
+  - title: Арчана
+    slug: archana
+  - title: Божество
+    slug: bozhestvo
+  - title: Бхаджан
+    slug: bhadzhan
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/382_MgnoveniyaPR_2.8_SridharMj_Archana_i_bhadjan.mp3

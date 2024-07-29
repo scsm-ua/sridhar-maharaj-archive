@@ -1,7 +1,11 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 80-vzaimodejstvie-ras-1983-06-09-a3
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/080_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3

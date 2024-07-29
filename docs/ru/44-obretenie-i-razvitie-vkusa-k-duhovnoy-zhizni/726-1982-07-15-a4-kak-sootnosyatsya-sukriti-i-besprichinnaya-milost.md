@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.mp3

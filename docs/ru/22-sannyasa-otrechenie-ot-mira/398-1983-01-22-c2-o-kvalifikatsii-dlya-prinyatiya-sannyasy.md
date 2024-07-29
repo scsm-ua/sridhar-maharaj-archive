@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 398-1983-01-22-c2-o-kvalifikatsii-dlya-prinyatiya-sannyasy
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1983.01"
-  - Санньяса
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/398_1983.01.22.C2_SridharMj_O_kvalifikacii_dlya_prinyatiya_sannyasy.mp3

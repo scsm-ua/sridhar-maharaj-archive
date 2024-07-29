@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3

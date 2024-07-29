@@ -1,9 +1,15 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 441-pochemu-shri-chajtanya-otverg-uchenie-bu
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1982.01"
-  - Майавада
-  - Шанкара
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Майавада
+    slug: majavada
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/441_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary-.mp3

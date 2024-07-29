@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.05"
-  - Самопредание
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3

@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3

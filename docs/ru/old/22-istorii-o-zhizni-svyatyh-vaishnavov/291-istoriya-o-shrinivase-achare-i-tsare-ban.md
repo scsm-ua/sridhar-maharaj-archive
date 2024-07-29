@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 291-istoriya-o-shrinivase-achare-i-tsare-ban
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.05"
-  - Истории о вайшнавах
-  - Шринивас Ачарья
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Шринивас Ачарья
+    slug: shrinivas-acharya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/291_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3

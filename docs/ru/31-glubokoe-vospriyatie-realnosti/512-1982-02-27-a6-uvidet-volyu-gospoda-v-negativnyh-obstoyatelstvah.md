@@ -1,7 +1,11 @@
 ---
-category: 31. Глубокое восприятие реальности
+slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
+category:
+  title: 31. Глубокое восприятие реальности
+  slug: 31-glubokoe-vospriyatie-realnosti
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3

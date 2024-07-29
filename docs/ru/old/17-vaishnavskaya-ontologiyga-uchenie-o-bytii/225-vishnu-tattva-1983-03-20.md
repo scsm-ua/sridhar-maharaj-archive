@@ -1,7 +1,11 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 225-vishnu-tattva-1983-03-20
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/225_1983.03.20_SridharMj_Vishnu_tattva.mp3

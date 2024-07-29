@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1983.11"
-  - Посвящение
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3

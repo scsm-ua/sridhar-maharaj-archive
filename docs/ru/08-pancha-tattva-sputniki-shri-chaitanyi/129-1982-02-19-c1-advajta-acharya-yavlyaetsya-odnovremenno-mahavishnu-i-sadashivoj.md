@@ -1,10 +1,17 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1982.02"
-  - Адвайта Ачарья
-  - Маха-Вишну
-  - Садашива
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Маха-Вишну
+    slug: maha-vishnu
+  - title: Садашива
+    slug: sadashiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3

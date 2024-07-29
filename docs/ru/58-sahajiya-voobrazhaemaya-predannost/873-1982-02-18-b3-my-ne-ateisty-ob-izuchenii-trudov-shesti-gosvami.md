@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3

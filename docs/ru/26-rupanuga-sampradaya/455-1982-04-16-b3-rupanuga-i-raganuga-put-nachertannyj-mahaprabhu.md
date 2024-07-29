@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3

@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.02"
-  - история
-  - история о шлоке Рупы Госвами на крыше хижины
+  - title: "1982.02"
+    slug: 1982-02
+  - title: история
+    slug: istoriya
+  - title: история о шлоке Рупы Госвами на крыше хижины
+    slug: istoriya-o-shloke-rupy-gosvami-na-kryshe-h
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3

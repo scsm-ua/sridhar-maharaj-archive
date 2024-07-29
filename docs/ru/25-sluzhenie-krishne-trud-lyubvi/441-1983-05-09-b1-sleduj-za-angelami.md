@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 441-1983-05-09-b1-sleduj-za-angelami
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1983.05"
-  - Дух служения
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3

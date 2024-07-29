@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.02"
-  - Рамачандра
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Рамачандра
+    slug: ramachandra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.mp3

@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.07"
-  - Дух служения
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3

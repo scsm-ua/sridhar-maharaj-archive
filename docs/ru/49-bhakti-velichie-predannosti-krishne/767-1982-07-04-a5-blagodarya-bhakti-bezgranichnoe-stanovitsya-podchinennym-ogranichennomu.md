@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.07"
-  - Бхакти
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3

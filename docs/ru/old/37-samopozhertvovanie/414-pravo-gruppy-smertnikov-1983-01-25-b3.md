@@ -1,8 +1,13 @@
 ---
-category: (37. Самопожертвование)
+slug: 414-pravo-gruppy-smertnikov-1983-01-25-b3
+category:
+  title: (37. Самопожертвование)
+  slug: 37-samopozhertvovanie
 tags:
-  - "1983.01"
-  - Самопожертвование
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Самопожертвование
+    slug: samopozhertvovanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/414_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3

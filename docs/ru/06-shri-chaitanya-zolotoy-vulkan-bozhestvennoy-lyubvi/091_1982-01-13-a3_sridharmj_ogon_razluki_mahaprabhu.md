@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 091_1982-01-13-a3_sridharmj_ogon_razluki_mahaprabhu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.01"
-  - Санньяса
-  - история
-  - история о санньясе Махапрабху
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Санньяса
+    slug: sannyasa
+  - title: история
+    slug: istoriya
+  - title: история о санньясе Махапрабху
+    slug: istoriya-o-sannyase-mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3

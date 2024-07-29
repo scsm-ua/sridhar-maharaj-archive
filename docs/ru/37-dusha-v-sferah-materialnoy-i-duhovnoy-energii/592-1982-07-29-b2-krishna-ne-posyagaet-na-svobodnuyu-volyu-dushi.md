@@ -1,8 +1,13 @@
 ---
-category: 37. Душа в сферах материальной и духовной энергии
+slug: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi
+category:
+  title: 37. Душа в сферах материальной и духовной энергии
+  slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - "1982.07"
-  - Душа
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3

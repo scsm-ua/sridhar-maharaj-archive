@@ -1,10 +1,17 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 450-shrila-shridhar-maharadzh-o-svoej-biogr
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1983.07"
-  - Биография Шридхара Махараджа
-  - Гаудия-матх
-  - Сарасвати Тхакур
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/450_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe.mp3

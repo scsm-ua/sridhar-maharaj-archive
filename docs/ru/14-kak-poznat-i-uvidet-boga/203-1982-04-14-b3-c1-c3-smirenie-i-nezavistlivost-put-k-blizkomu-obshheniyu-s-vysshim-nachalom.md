@@ -1,7 +1,11 @@
 ---
-category: 14. Как познать и увидеть Бога
+slug: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom
+category:
+  title: 14. Как познать и увидеть Бога
+  slug: 14-kak-poznat-i-uvidet-boga
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost--put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.mp3

@@ -1,8 +1,13 @@
 ---
-category: 19. Маха-мантра — Святое Имя
+slug: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki
+category:
+  title: 19. Маха-мантра — Святое Имя
+  slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - "1982.07"
-  - Святое Имя
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3

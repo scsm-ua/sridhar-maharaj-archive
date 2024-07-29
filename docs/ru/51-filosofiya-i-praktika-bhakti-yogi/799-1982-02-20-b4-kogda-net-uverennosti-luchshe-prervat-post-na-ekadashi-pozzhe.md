@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.02"
-  - Экадаши
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Экадаши
+    slug: ekadashi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.mp3

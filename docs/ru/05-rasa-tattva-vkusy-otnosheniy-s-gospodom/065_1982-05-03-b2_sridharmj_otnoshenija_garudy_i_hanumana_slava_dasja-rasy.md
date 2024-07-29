@@ -1,10 +1,17 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 065_1982-05-03-b2_sridharmj_otnoshenija_garudy_i_hanumana_slava_dasja-rasy
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.05"
-  - Гаруда
-  - Хануман
-  - история
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Гаруда
+    slug: garuda
+  - title: Хануман
+    slug: hanuman
+  - title: история
+    slug: istoriya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/065_1982.05.03.B2_SridharMj_Otnoshenija_Garudy_i_Hanumana_Slava_dasja-rasy.mp3

@@ -1,7 +1,11 @@
 ---
-category: 39. Иерархия мироздания — планы бытия
+slug: 656-1982-04-24-a2-poisk-rasy-i-tri-plana-bytiya-v-bhagavad-gite
+category:
+  title: 39. Иерархия мироздания — планы бытия
+  slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/656_1982.04.24.A2_SridharMj_Poisk_rasy_i_tri_plana_bytija_v_Bhagavad-gite.mp3

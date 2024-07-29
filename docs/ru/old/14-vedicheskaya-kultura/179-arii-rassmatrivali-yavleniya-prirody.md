@@ -1,8 +1,13 @@
 ---
-category: (14. Ведическая культура)
+slug: 179-arii-rassmatrivali-yavleniya-prirody
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1982.01"
-  - Рамаяна
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Рамаяна
+    slug: ramayana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/179_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3

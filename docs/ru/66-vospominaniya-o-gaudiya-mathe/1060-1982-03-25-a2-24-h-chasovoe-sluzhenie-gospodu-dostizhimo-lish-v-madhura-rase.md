@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1060-1982-03-25-a2-24-h-chasovoe-sluzhenie-gospodu-dostizhimo-lish-v-madhura-rase
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.mp3

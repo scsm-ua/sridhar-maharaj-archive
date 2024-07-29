@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1983.11"
-  - Гаятри-мантра
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.mp3

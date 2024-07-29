@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3

@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 345-svyaz-s-duhovnym-mirom-pobezhdaet-mat
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/345_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3

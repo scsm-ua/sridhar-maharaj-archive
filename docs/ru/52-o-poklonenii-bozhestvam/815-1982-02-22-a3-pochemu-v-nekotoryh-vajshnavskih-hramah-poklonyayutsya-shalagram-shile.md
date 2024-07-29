@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1982.02"
-  - Арчана
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3

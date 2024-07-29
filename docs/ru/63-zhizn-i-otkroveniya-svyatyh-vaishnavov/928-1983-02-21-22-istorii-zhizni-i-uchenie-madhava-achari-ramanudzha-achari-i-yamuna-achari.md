@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 928-1983-02-21-22-istorii-zhizni-i-uchenie-madhava-achari-ramanudzha-achari-i-yamuna-achari
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3

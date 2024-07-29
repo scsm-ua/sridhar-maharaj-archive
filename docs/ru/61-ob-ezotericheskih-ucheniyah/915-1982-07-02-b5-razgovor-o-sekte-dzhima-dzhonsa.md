@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3

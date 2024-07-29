@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.mp3

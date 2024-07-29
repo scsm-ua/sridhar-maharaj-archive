@@ -1,9 +1,15 @@
 ---
-category: (10. Маха-мантра - Святое Имя)
+slug: 135-znachenie-imeni-rama-v-maha-mantre-m
+category:
+  title: (10. Маха-мантра - Святое Имя)
+  slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - Маха-мантра
-  - Мгновения прекрасной реальности
-  - Святое Имя
+  - title: Маха-мантра
+    slug: maha-mantra
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Святое Имя
+    slug: svyatoe-imya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/135_MgnoveniyaPR_1.5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3

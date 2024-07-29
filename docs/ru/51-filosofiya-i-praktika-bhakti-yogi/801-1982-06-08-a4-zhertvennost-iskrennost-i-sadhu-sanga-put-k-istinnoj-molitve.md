@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.06"
-  - Бхакти-йога
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3

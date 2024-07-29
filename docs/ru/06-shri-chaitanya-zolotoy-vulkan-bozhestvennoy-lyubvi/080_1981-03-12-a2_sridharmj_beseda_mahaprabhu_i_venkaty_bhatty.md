@@ -1,11 +1,19 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1981.03"
-  - Видура
-  - Сарвабхаума
-  - история
-  - история о беседе с Венкатой Бхаттой
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Видура
+    slug: vidura
+  - title: Сарвабхаума
+    slug: sarvabhauma
+  - title: история
+    slug: istoriya
+  - title: история о беседе с Венкатой Бхаттой
+    slug: istoriya-o-besede-s-venkatoj-bhattoj
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3

@@ -1,10 +1,17 @@
 ---
-category: (30. Садху-санга - духовное общение)
+slug: 371-obshhenie-s-vajshnavami-daruet-podlinn
+category:
+  title: (30. Садху-санга - духовное общение)
+  slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - "1982.01"
-  - Божество
-  - Садху-санга
-  - Сварупа-шакти
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Божество
+    slug: bozhestvo
+  - title: Садху-санга
+    slug: sadhu-sanga
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/371_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3

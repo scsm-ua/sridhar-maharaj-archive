@@ -1,8 +1,13 @@
 ---
-category: (34. Вера)
+slug: 397-doverie-vysshemu-miru-osnova-duhovn
+category:
+  title: (34. Вера)
+  slug: 34-vera
 tags:
-  - "1983.01"
-  - Вера
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/397_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3

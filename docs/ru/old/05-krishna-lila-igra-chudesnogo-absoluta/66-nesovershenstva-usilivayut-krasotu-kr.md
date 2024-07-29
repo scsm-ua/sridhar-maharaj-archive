@@ -1,9 +1,15 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 66-nesovershenstva-usilivayut-krasotu-kr
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
-  - Гармония
-  - Кришна-лила
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гармония
+    slug: garmoniya
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/066_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3

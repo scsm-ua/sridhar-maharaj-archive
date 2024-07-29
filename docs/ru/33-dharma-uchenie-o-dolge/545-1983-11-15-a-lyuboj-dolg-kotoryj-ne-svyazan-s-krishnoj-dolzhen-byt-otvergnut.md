@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1983.11"
-  - Дхарма
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3

@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.01"
-  - Гармония
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/316_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3

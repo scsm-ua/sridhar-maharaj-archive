@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - Онтология прекрасной реальности
-  - Посвящение
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3

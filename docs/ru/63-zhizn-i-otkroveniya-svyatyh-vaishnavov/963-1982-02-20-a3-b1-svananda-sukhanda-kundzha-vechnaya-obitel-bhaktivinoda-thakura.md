@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 963-1982-02-20-a3-b1-svananda-sukhanda-kundzha-vechnaya-obitel-bhaktivinoda-thakura
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/963_1982.02.20.A3.B1_SridharMj_Svananda_sukhanda_kundzha--vechnaja_obitel_Bhaktivinoda_Thakura.mp3

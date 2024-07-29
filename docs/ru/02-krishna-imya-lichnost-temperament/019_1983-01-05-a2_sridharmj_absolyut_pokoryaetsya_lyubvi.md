@@ -1,9 +1,15 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1983.01"
-  - Вера
-  - Любовь
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Вера
+    slug: vera
+  - title: Любовь
+    slug: lyubov
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3

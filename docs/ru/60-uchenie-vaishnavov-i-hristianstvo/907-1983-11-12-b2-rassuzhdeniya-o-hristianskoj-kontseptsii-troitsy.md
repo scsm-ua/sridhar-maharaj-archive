@@ -1,7 +1,11 @@
 ---
-category: 60. Учение вайшнавов и Христианство
+slug: 907-1983-11-12-b2-rassuzhdeniya-o-hristianskoj-kontseptsii-troitsy
+category:
+  title: 60. Учение вайшнавов и Христианство
+  slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/907_1983.11.12.B2_SridharMj_Rassuzhdenija_o_hristianskoj_koncepcii_Troicy.mp3

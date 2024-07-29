@@ -1,9 +1,15 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 187-realnost-very-za-predelami-mira-sm
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - Вера
-  - Душа
-  - Материальный мир
+  - title: Вера
+    slug: vera
+  - title: Душа
+    slug: dusha
+  - title: Материальный мир
+    slug: materialnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/187_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti1.mp3

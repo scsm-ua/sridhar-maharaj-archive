@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.11"
-  - Махапрабху
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.mp3

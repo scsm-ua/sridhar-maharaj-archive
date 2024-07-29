@@ -1,7 +1,11 @@
 ---
-category: 43. Трудности и духовный путь — испытания майи
+slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
+category:
+  title: 43. Трудности и духовный путь — испытания майи
+  slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3

@@ -1,7 +1,11 @@
 ---
-category: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)
+slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+category:
+  title: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)
+  slug: 1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3

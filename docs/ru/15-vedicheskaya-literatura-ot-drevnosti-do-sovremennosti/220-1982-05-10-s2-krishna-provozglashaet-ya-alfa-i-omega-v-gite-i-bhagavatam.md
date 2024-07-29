@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 220-1982-05-10-s2-krishna-provozglashaet-ya-alfa-i-omega-v-gite-i-bhagavatam
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/220_1982.05.10.C2_SridharMj_Krishna_provozglashaet_Ja--Alfa_i_Omega_v_Gite_i_Bhagavatam.mp3

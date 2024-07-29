@@ -1,8 +1,13 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.03"
-  - Рамананда Рай
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Рамананда Рай
+    slug: ramananda-raj
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3

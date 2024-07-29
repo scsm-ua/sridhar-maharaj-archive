@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 549-1983-11-24-a3-b-vysshaya-shkola-teizma
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1983.11"
-  - Ведическая цивилизация
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3

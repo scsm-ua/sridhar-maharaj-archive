@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3

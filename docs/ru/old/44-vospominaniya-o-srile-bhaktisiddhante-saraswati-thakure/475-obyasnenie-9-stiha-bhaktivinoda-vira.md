@@ -1,10 +1,17 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 475-obyasnenie-9-stiha-bhaktivinoda-vira
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1983.06"
-  - Бхактивинода-вираха-дашакам
-  - Гуру-парампара
-  - Поэзия Шридхара Махараджа
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Бхактивинода-вираха-дашакам
+    slug: bhaktivinoda-viraha-dashakam
+  - title: Гуру-парампара
+    slug: guru-parampara
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/475_1983.06.05.C3_SridharMj_Obyasnenie_9go_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3

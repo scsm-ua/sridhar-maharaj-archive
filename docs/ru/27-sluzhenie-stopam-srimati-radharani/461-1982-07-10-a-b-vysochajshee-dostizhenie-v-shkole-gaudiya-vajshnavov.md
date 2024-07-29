@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.mp3

@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 1-predskazaniya-o-prihode-mahaprabhu-1983-04-16-b-2
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.04"
-  - Махапрабху
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/09/001_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prirode_Mahaprabhu.mp3

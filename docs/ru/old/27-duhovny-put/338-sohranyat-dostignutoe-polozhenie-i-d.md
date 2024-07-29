@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 338-sohranyat-dostignutoe-polozhenie-i-d
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/338_MgnoveniyaPR_6.9_SridharMj_Sohranyat_dostignutoye_polojeniye-i_dvigatsya_vpered.mp3

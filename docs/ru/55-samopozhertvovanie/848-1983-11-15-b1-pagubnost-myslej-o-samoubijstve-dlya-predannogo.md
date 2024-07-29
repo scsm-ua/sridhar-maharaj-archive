@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 848-1983-11-15-b1-pagubnost-myslej-o-samoubijstve-dlya-predannogo
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.mp3

@@ -1,8 +1,13 @@
 ---
-category: (46. Шри Чайтанья Сарасват Матх)
+slug: 491-obyasnenie-simvolicheskogo-smysla-lo
+category:
+  title: (46. Шри Чайтанья Сарасват Матх)
+  slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - "1981.08"
-  - Шри Чайтанья Сарасват Матх
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Шри Чайтанья Сарасват Матх
+    slug: shri-chajtanya-sarasvat-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/491_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3

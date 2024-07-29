@@ -1,7 +1,11 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 228-adhokshadzha-aprakrita-transtsendent
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - Мгновения прекрасной реальности
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/228_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3

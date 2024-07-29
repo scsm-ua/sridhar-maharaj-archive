@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3

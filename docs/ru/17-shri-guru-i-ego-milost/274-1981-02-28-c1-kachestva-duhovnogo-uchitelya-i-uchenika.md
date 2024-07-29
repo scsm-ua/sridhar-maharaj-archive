@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1981.02"
-  - Гуру-парампара
+  - title: "1981.02"
+    slug: 1981-02
+  - title: Гуру-парампара
+    slug: guru-parampara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/274_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3

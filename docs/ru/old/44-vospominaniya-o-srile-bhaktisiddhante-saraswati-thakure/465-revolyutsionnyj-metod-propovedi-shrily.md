@@ -1,9 +1,15 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 465-revolyutsionnyj-metod-propovedi-shrily
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1984.01"
-  - Нитьянанда Прабху
-  - Сарасвати Тхакур
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/465_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3

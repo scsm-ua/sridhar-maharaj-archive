@@ -1,8 +1,13 @@
 ---
-category: 23. Памятование о Господе — солнце Вишну
+slug: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy
+category:
+  title: 23. Памятование о Господе — солнце Вишну
+  slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - "1982.11"
-  - Риг-веда
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Риг-веда
+    slug: rig-veda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3

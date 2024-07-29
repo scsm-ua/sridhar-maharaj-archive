@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1983.04"
+  - title: "1983.04"
+    slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3

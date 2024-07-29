@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.07"
-  - Вера
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3

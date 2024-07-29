@@ -1,7 +1,11 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 226-o-slozhnosti-ponimaniya-guru-tattvy-shi
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3

@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1981.11"
+  - title: "1981.11"
+    slug: 1981-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3

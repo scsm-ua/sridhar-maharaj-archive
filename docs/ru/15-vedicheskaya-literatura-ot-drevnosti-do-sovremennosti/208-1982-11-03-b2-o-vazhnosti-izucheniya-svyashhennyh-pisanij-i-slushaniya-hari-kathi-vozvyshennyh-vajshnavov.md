@@ -1,7 +1,11 @@
 ---
-category: 15. Ведическая литература - от древности до современности
+slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
+category:
+  title: 15. Ведическая литература - от древности до современности
+  slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3

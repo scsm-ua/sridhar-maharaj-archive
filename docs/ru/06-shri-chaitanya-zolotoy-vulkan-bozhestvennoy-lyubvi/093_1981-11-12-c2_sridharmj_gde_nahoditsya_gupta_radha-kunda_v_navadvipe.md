@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1981.11"
-  - Навадвип
-  - Радха-кунда
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Навадвип
+    slug: navadvip
+  - title: Радха-кунда
+    slug: radha-kunda
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3

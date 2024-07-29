@@ -1,11 +1,19 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 381-razlichie-bhadzhana-i-archany-1982-01-12-c4
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1982.01"
-  - Арчана
-  - Божество
-  - Бхаджан
-  - Сварупа-сиддхи
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Арчана
+    slug: archana
+  - title: Божество
+    slug: bozhestvo
+  - title: Бхаджан
+    slug: bhadzhan
+  - title: Сварупа-сиддхи
+    slug: svarupa-siddhi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/381_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.mp3

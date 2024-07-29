@@ -1,8 +1,13 @@
 ---
-category: (27. Духовный путь)
+slug: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1982.01"
-  - Шива
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/339_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3

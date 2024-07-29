@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 296-o-dzhagannathe-dase-babadzhi-ontologi
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - Джаганнатх Дас Бабаджи
-  - Истории о вайшнавах
-  - Онтология прекрасной реальности
+  - title: Джаганнатх Дас Бабаджи
+    slug: dzhagannath-das-babadzhi
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/296_OntologiyaPR_6.2_SridharMj_O_Jagannathe_Dase_Babaji.mp3

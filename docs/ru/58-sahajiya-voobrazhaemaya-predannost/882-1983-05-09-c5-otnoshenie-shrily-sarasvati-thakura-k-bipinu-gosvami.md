@@ -1,7 +1,11 @@
 ---
-category: 58. Сахаджия - воображаемая преданность
+slug: 882-1983-05-09-c5-otnoshenie-shrily-sarasvati-thakura-k-bipinu-gosvami
+category:
+  title: 58. Сахаджия - воображаемая преданность
+  slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3

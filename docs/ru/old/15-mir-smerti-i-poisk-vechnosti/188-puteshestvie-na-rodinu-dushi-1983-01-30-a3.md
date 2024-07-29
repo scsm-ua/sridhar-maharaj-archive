@@ -1,5 +1,8 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 188-puteshestvie-na-rodinu-dushi-1983-01-30-a3
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/188_1983.01.30.A3_SridharMj_Puteshestviye_na-_rodinu_dushi.mp3

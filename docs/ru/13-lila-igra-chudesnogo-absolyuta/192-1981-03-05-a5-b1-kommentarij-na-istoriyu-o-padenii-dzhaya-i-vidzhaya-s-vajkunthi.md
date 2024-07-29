@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/192_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3

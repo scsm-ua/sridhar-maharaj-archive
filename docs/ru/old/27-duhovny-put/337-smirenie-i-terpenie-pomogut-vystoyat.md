@@ -1,10 +1,17 @@
 ---
-category: (27. Духовный путь)
+slug: 337-smirenie-i-terpenie-pomogut-vystoyat
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - "1982.02"
-  - with English text
-  - Смирение
-  - Терпение
+  - title: "1982.02"
+    slug: 1982-02
+  - title: with English text
+    slug: with-english-text
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/337_1982.02.17.A5_SridharMj_Smirenie_i_terpenie_pomogut_vystoyat_na_duhovnom_puti.mp3

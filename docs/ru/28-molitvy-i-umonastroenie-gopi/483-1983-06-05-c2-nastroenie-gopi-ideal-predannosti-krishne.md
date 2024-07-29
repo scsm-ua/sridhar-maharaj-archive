@@ -1,7 +1,11 @@
 ---
-category: 28. Молитвы и умонастроение гопи
+slug: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne
+category:
+  title: 28. Молитвы и умонастроение гопи
+  slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - "1983.06"
+  - title: "1983.06"
+    slug: 1983-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3

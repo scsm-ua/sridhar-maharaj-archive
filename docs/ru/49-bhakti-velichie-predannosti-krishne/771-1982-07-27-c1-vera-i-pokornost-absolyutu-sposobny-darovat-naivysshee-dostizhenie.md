@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.07"
-  - Бхакти
+  - title: "1982.07"
+    slug: 1982-07
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3

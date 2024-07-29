@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 541-1982-02-25-d-dva-puti-progressa
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1982.02"
-  - Дхарма
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/541_1982.02.25.D_SridharMj_Dva_puti_progressa.mp3

@@ -1,8 +1,13 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 045_1983-11-23-a1_sridharmj_mir_gde_zhestokost_i_ljubov_ravno_zhelanny
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1983.11"
-  - Духовный мир
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Духовный мир
+    slug: duhovnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3

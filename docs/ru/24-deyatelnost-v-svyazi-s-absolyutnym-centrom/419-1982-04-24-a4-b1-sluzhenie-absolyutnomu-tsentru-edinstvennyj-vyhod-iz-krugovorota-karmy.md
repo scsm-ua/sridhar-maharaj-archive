@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3

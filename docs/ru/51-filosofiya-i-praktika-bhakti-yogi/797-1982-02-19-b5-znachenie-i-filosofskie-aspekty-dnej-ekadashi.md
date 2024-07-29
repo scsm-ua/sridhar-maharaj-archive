@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1982.02"
-  - Экадаши
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Экадаши
+    slug: ekadashi
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3

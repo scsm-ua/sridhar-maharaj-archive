@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1981.02"
+  - title: "1981.02"
+    slug: 1981-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3

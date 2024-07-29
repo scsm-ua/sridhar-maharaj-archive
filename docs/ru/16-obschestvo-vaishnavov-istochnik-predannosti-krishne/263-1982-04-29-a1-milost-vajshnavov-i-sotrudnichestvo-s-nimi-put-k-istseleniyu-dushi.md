@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/263_1982.04.29.A1_SridharMj_Milost_vajshnavov_i_sotrudnichestvo_s_nimi--put_k_isceleniju_dushi.mp3

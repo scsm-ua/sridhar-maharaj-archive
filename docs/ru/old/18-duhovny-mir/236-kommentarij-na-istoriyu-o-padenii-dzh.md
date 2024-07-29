@@ -1,12 +1,21 @@
 ---
-category: (18. Духовный мир)
+slug: 236-kommentarij-na-istoriyu-o-padenii-dzh
+category:
+  title: (18. Духовный мир)
+  slug: 18-duhovny-mir
 tags:
-  - "1981.03"
-  - Вайкунтха
-  - Гармония
-  - Духовный мир
-  - Любовь
-  - Рупа Госвами
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Вайкунтха
+    slug: vajkuntha
+  - title: Гармония
+    slug: garmoniya
+  - title: Духовный мир
+    slug: duhovnyj-mir
+  - title: Любовь
+    slug: lyubov
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/236_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3

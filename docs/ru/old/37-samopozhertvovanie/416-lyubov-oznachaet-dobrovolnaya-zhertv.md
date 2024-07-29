@@ -1,9 +1,15 @@
 ---
-category: (37. Самопожертвование)
+slug: 416-lyubov-oznachaet-dobrovolnaya-zhertv
+category:
+  title: (37. Самопожертвование)
+  slug: 37-samopozhertvovanie
 tags:
-  - "1982.01"
-  - Любовь
-  - Самопожертвование
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Любовь
+    slug: lyubov
+  - title: Самопожертвование
+    slug: samopozhertvovanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/416_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3

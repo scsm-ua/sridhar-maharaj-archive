@@ -1,9 +1,15 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 125-1982-04-23-a2-b2-radharani-i-rukmini-lichnost-gadahara-pandita
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1982.04"
-  - Гададхар Пандит
-  - Радхарани
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Радхарани
+    slug: radharani
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/125_1982.04.23.A2.B2_SridharMj_Radharani_i_Rukmini___Lichnost_Gadahara_Pandita.mp3

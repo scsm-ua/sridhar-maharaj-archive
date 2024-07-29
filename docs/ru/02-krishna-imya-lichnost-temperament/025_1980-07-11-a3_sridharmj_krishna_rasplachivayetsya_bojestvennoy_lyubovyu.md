@@ -1,8 +1,13 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1980.07"
-  - Кришна
+  - title: "1980.07"
+    slug: 1980-07
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3

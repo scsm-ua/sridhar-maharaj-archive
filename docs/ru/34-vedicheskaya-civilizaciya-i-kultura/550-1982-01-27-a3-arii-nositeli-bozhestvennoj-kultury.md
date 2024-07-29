@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1982.01"
-  - Ведическая цивилизация
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3

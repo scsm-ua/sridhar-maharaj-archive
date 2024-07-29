@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3

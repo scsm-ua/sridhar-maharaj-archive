@@ -1,8 +1,13 @@
 ---
-category: 29. Гаятри-мантра и мантра ОМ
+slug: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri
+category:
+  title: 29. Гаятри-мантра и мантра ОМ
+  slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - "1983.11"
-  - Гаятри-мантра
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.mp3

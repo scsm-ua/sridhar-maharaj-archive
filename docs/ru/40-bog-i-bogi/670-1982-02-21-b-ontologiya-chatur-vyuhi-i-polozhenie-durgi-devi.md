@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 670-1982-02-21-b-ontologiya-chatur-vyuhi-i-polozhenie-durgi-devi
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3

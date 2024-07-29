@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.05"
-  - Бхакти
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3

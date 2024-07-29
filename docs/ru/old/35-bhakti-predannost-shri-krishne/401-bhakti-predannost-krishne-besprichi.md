@@ -1,8 +1,13 @@
 ---
-category: (35. Бхакти - преданность Шри Кришне)
+slug: 401-bhakti-predannost-krishne-besprichi
+category:
+  title: (35. Бхакти - преданность Шри Кришне)
+  slug: 35-bhakti-predannost-shri-krishne
 tags:
-  - Бхакти
-  - Онтология прекрасной реальности
+  - title: Бхакти
+    slug: bhakti
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/401_OntologiyaPR_1.2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3

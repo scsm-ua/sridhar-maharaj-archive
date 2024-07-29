@@ -1,10 +1,17 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 34-slava-ekachakry-mesta-yavleniya-shri-nit
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1982.01"
-  - Махапрабху
-  - Нитьянанда Прабху
-  - Харидас Тхакур
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Харидас Тхакур
+    slug: haridas-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/034_1982.01.13.A2_SridharMj_Slava_Ekochakry_mesta_yavleniya_Shri_Nityanandy.mp3

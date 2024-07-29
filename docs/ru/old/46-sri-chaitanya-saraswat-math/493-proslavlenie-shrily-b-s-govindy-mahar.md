@@ -1,9 +1,15 @@
 ---
-category: (46. Шри Чайтанья Сарасват Матх)
+slug: 493-proslavlenie-shrily-b-s-govindy-mahar
+category:
+  title: (46. Шри Чайтанья Сарасват Матх)
+  slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - "1985.11"
-  - Говинда Махарадж
-  - Шри Чайтанья Сарасват Матх
+  - title: "1985.11"
+    slug: 1985-11
+  - title: Говинда Махарадж
+    slug: govinda-maharadzh
+  - title: Шри Чайтанья Сарасват Матх
+    slug: shri-chajtanya-sarasvat-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/493_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3

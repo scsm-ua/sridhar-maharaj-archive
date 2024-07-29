@@ -1,7 +1,11 @@
 ---
-category: 36. Происхождение души
+slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
+category:
+  title: 36. Происхождение души
+  slug: 36-proishozhdenie-dushi
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3

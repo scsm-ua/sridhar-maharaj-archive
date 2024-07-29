@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.01"
-  - Гуру-таттва
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3

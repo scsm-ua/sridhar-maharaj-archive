@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3

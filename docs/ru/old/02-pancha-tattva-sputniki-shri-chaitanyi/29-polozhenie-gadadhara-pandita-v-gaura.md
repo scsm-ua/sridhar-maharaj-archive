@@ -1,13 +1,23 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 29-polozhenie-gadadhara-pandita-v-gaura
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1983.05"
-  - Бхактивинод Тхакур
-  - Гададхар Пандит
-  - Гауракишор Бабаджи
-  - Махапрабху
-  - Сарасвати Тхакур
-  - Сварупа Дамодар
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
+  - title: Гауракишор Бабаджи
+    slug: gaurakishor-babadzhi
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сварупа Дамодар
+    slug: svarupa-damodar
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/029_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3

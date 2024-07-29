@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 319-uvidet-volyu-gospoda-v-negativnyh-ob
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - Гармония
-  - Онтология прекрасной реальности
+  - title: Гармония
+    slug: garmoniya
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/319_OntologiyaPR_2.6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3

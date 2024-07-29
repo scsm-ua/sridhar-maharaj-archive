@@ -1,7 +1,11 @@
 ---
-category: 42. Борьба преданности с материализмом — очищение сердца
+slug: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29
+category:
+  title: 42. Борьба преданности с материализмом — очищение сердца
+  slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/702_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom_Shrimad-Bhagavatam_11.20.27-29.mp3

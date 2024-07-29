@@ -1,8 +1,13 @@
 ---
-category: 08. Панча-таттва — спутники Шри Чайтаньи
+slug: 124-1983-05-12-c1-polozhenie-gadadhara-pandita-v-gaura-lile
+category:
+  title: 08. Панча-таттва — спутники Шри Чайтаньи
+  slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - "1983.05"
-  - Гададхар Пандит
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Гададхар Пандит
+    slug: gadadhar-pandit
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3

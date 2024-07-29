@@ -1,8 +1,13 @@
 ---
-category: (20. Гаятри-мантра и мантра "ОМ")
+slug: 258-gayatri-mantra
+category:
+  title: (20. Гаятри-мантра и мантра "ОМ")
+  slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - Гаятри-мантра
-  - Сварупа-шакти
+  - title: Гаятри-мантра
+    slug: gayatri-mantra
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/258_2012.07.27.1_SridharMj_Gayatri-mantra.mp3

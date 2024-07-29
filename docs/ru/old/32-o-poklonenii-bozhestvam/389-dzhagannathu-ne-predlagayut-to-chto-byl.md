@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 389-dzhagannathu-ne-predlagayut-to-chto-byl
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1983.05"
-  - Божество
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Божество
+    slug: bozhestvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/389_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3

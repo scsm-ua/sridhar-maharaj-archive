@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1983.07"
-  - Бхакти
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3

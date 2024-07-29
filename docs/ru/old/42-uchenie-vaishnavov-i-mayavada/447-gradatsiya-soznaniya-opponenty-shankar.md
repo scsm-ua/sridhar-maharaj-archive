@@ -1,10 +1,17 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 447-gradatsiya-soznaniya-opponenty-shankar
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1982.01"
-  - Майавада
-  - Сварупа-шакти
-  - Шанкара
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Майавада
+    slug: majavada
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
+  - title: Шанкара
+    slug: shankara
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/447_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3

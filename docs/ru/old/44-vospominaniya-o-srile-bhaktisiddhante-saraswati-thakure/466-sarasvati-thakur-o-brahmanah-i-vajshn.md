@@ -1,8 +1,13 @@
 ---
-category: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+slug: 466-sarasvati-thakur-o-brahmanah-i-vajshn
+category:
+  title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
+  slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1981.08"
-  - Сарасвати Тхакур
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/466_1981.08.12.D_SridharMj_Saraswati_Thakur_o_brahmanah_i_vayshnavah.mp3

@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1980.07"
-  - with English audio
-  - with English text
-  - школы (сампрадайи) Вайшнавизма
+  - title: "1980.07"
+    slug: 1980-07
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
+  - title: школы (сампрадайи) Вайшнавизма
+    slug: shkoly-sampradaji-vajshnavizma
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2-en.mp3

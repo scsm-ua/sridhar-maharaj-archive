@@ -1,9 +1,15 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 425-realnaya-i-voobrazhaemaya-predannost
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1983.06"
-  - Сахаджия
-  - Сварупа-шакти
+  - title: "1983.06"
+    slug: 1983-06
+  - title: Сахаджия
+    slug: sahadzhiya
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/425_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3

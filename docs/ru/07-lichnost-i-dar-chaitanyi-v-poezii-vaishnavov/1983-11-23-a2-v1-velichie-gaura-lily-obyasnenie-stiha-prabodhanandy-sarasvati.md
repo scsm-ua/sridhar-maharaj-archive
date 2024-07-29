@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1983.11"
-  - Прабходананда Сарасвати
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Прабходананда Сарасвати
+    slug: prabhodananda-sarasvati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3

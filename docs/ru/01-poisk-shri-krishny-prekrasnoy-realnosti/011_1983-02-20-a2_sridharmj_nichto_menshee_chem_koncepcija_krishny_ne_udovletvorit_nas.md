@@ -1,7 +1,11 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3

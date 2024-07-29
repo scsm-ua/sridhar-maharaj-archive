@@ -1,9 +1,15 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1982.05"
-  - Махапрабху
-  - Нитьянанда Прабху
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3

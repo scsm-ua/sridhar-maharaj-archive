@@ -1,11 +1,19 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1982.03"
-  - БГ 18.55
-  - Семья преданных Кришны
-  - ШБ 10.21.5
-  - ШБ 11.29.34
+  - title: "1982.03"
+    slug: 1982-03
+  - title: БГ 18.55
+    slug: bg-18-55
+  - title: Семья преданных Кришны
+    slug: semya-predannyh-krishny
+  - title: ШБ 10.21.5
+    slug: shb-10-21-5
+  - title: ШБ 11.29.34
+    slug: shb-11-29-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3

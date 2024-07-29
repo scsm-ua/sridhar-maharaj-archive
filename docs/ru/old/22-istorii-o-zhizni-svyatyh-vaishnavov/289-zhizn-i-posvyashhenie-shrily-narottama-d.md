@@ -1,9 +1,15 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 289-zhizn-i-posvyashhenie-shrily-narottama-d
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - "1983.04"
-  - Истории о вайшнавах
-  - Нароттам Дас Тхакур
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Нароттам Дас Тхакур
+    slug: narottam-das-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/289_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Srily_Narottama_Dasa_Thakura.mp3

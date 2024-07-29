@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.mp3

@@ -1,9 +1,15 @@
 ---
-category: (03. Беседа Махапрабху и Рамананды Рая)
+slug: 36-kratkij-obzor-ramananda-samvada-1983-07-08-a2
+category:
+  title: (03. Беседа Махапрабху и Рамананды Рая)
+  slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - "1983.07"
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/036_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvada.mp3

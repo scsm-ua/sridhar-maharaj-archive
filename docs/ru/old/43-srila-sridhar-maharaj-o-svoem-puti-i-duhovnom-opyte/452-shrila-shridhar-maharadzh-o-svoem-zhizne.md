@@ -1,9 +1,15 @@
 ---
-category: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+slug: 452-shrila-shridhar-maharadzh-o-svoem-zhizne
+category:
+  title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
+  slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - "1983.01"
-  - Биография Шридхара Махараджа
-  - Гаудия-матх
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Биография Шридхара Махараджа
+    slug: biografiya-shridhara-maharadzha
+  - title: Гаудия-матх
+    slug: gaudiya-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/452_1983.01.07.B2_SridharMj_O_svoyom_jiznennom_puti.mp3

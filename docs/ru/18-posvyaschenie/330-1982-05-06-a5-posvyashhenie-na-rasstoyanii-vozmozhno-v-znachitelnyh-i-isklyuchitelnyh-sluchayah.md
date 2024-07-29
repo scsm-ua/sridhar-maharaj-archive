@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.mp3

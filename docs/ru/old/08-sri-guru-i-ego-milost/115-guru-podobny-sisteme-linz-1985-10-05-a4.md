@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 115-guru-podobny-sisteme-linz-1985-10-05-a4
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1985.10"
-  - Гуру
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/115_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3

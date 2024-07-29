@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3

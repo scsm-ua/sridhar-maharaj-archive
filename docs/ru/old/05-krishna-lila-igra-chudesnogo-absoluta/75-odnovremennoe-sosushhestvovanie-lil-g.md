@@ -1,7 +1,11 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 75-odnovremennoe-sosushhestvovanie-lil-g
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3

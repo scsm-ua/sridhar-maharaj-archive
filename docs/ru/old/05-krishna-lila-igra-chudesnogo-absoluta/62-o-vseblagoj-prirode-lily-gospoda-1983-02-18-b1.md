@@ -1,8 +1,13 @@
 ---
-category: (05. Кришна-лила, игра чудесного Абсолюта)
+slug: 62-o-vseblagoj-prirode-lily-gospoda-1983-02-18-b1
+category:
+  title: (05. Кришна-лила, игра чудесного Абсолюта)
+  slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - "1983.02"
-  - Кришна-лила
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/062_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3

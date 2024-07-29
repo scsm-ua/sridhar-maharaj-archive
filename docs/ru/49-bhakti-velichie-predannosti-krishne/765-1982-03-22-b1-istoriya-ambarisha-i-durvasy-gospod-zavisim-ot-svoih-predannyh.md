@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 765-1982-03-22-b1-istoriya-ambarisha-i-durvasy-gospod-zavisim-ot-svoih-predannyh
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.03"
-  - Бхакти
+  - title: "1982.03"
+    slug: 1982-03
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3

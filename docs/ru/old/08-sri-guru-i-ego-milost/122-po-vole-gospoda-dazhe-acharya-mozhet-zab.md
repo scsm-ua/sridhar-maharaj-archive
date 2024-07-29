@@ -1,11 +1,19 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 122-po-vole-gospoda-dazhe-acharya-mozhet-zab
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - Брахма
-  - Гуру
-  - Махапрабху
-  - Мгновения прекрасной реальности
-  - Шива
+  - title: Брахма
+    slug: brahma
+  - title: Гуру
+    slug: guru
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/122_MgnoveniyaPR_3.1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3

@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3

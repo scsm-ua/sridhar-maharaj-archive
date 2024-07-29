@@ -1,7 +1,11 @@
 ---
-category: 61. Об эзотерических учениях
+slug: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij
+category:
+  title: 61. Об эзотерических учениях
+  slug: 61-ob-ezotericheskih-ucheniyah
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3

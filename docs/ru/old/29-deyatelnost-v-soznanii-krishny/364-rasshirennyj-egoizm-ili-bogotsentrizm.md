@@ -1,7 +1,11 @@
 ---
-category: (29. Деятельность в Сознании Кришны)
+slug: 364-rasshirennyj-egoizm-ili-bogotsentrizm
+category:
+  title: (29. Деятельность в Сознании Кришны)
+  slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - "1983.07"
+  - title: "1983.07"
+    slug: 1983-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/364_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3

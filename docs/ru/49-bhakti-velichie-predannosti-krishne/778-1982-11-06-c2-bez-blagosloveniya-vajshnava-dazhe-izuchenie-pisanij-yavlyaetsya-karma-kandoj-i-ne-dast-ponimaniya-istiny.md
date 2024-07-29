@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - "1982.11"
-  - Бхакти
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Бхакти
+    slug: bhakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3

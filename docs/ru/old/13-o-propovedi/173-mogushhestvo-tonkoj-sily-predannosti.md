@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 173-mogushhestvo-tonkoj-sily-predannosti
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1985.10"
+  - title: "1985.10"
+    slug: 1985-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/173_1985.10.05.A2_SridharMj_Moguwestvo_tonkoy_sily_predannosti_Krishne.mp3

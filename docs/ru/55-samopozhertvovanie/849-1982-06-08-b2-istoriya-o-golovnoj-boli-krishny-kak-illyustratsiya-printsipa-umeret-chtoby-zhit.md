@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.06"
-  - Самопредание
+  - title: "1982.06"
+    slug: 1982-06
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.mp3

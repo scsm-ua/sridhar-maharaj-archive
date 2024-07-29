@@ -1,10 +1,17 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 252-o-kontseptsii-krishna-mozhet-prekratit
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1980.07"
-  - Бхактивинод Тхакур
-  - Душа
-  - Сварупа-шакти
+  - title: "1980.07"
+    slug: 1980-07
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Душа
+    slug: dusha
+  - title: Сварупа-шакти
+    slug: svarupa-shakti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/252_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3

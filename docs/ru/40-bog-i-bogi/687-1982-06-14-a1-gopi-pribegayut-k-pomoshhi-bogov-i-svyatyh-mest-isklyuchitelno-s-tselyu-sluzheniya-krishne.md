@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3

@@ -1,7 +1,11 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3

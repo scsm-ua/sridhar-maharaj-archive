@@ -1,7 +1,11 @@
 ---
-category: 62. Святые места
+slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
+category:
+  title: 62. Святые места
+  slug: 62-svyatye-mesta
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3

@@ -1,7 +1,11 @@
 ---
-category: (14. Ведическая культура)
+slug: 176-vedicheskaya-tsivilizatsiya-i-sovremenno
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/176_1983.01.22.A.B_SridharMj_Vedicheskaya_civilizaciya_i_sovremennost.mp3

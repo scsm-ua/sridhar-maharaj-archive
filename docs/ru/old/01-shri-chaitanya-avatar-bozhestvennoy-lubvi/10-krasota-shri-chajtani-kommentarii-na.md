@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 10-krasota-shri-chajtani-kommentarii-na
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.03"
-  - Махапрабху
-  - Рупа Госвами
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Рупа Госвами
+    slug: rupa-gosvami
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/010_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi_Kommentarii_na_shloki_Rupy_Gosvami.mp3

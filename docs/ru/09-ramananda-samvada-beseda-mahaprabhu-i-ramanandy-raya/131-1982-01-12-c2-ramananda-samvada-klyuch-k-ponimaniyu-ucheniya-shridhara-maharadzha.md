@@ -1,9 +1,15 @@
 ---
-category: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+slug: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha
+category:
+  title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
+  slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - "1982.01"
-  - Рамананда Рай
-  - Рамананда-самвад
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Рамананда Рай
+    slug: ramananda-raj
+  - title: Рамананда-самвад
+    slug: ramananda-samvad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3

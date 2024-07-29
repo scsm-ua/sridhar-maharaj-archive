@@ -1,8 +1,13 @@
 ---
-category: 22. Санньяса — отречение от мира
+slug: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat
+category:
+  title: 22. Санньяса — отречение от мира
+  slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - "1982.02"
-  - Санньяса
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.mp3

@@ -1,9 +1,15 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 272-umonastroenie-radharani-i-istoriya-i
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - Бхакти
-  - Онтология прекрасной реальности
-  - Чайтанья-чаритамрита
+  - title: Бхакти
+    slug: bhakti
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Чайтанья-чаритамрита
+    slug: chajtanya-charitamrita
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/272_OntologiyaPR_3.3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3

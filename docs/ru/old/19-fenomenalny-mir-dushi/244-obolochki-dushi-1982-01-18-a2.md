@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 244-obolochki-dushi-1982-01-18-a2
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1982.01"
-  - Душа
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/244_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3

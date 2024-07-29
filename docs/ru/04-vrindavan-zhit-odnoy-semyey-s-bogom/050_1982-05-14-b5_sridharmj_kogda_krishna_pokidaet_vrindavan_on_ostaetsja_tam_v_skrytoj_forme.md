@@ -1,9 +1,15 @@
 ---
-category: 04. Вриндаван — жить одной семьей с Богом
+slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
+category:
+  title: 04. Вриндаван — жить одной семьей с Богом
+  slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - "1982.05"
-  - Вриндаван
-  - Кришна
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Вриндаван
+    slug: vrindavan
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3

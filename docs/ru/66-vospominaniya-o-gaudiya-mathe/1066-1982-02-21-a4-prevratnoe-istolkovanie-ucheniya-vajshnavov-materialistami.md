@@ -1,7 +1,11 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3

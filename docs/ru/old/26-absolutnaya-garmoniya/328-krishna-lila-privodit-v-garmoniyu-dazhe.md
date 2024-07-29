@@ -1,9 +1,15 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 328-krishna-lila-privodit-v-garmoniyu-dazhe
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1981.03"
-  - Гармония
-  - Кришна-лила
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Гармония
+    slug: garmoniya
+  - title: Кришна-лила
+    slug: krishna-lila
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/328_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3

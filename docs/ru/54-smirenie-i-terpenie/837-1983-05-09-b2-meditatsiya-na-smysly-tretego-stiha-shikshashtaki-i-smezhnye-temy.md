@@ -1,7 +1,11 @@
 ---
-category: 54. Смирение и терпение
+slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
+category:
+  title: 54. Смирение и терпение
+  slug: 54-smirenie-i-terpenie
 tags:
-  - "1983.05"
+  - title: "1983.05"
+    slug: 1983-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3

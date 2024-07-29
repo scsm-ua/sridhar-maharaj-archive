@@ -1,8 +1,13 @@
 ---
-category: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+slug: 420-oskorblenie-vajshnava-i-duhovnoe-raz
+category:
+  title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
+  slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - "1983.05"
-  - Вайшнава-апарадха
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Вайшнава-апарадха
+    slug: vajshnava-aparadha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/420_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3

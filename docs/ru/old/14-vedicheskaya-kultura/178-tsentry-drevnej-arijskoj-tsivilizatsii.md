@@ -1,5 +1,8 @@
 ---
-category: (14. Ведическая культура)
+slug: 178-tsentry-drevnej-arijskoj-tsivilizatsii
+category:
+  title: (14. Ведическая культура)
+  slug: 14-vedicheskaya-kultura
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/178_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3

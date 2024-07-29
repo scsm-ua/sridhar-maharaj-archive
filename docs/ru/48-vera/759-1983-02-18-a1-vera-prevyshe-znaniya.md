@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 759-1983-02-18-a1-vera-prevyshe-znaniya
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1983.02"
-  - Вера
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/759_1983.02.18.A1_SridharMj_Vera_prevyshe_znaniya.mp3

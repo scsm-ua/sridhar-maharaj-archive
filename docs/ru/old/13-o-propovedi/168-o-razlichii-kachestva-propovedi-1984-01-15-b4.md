@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 168-o-razlichii-kachestva-propovedi-1984-01-15-b4
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1984.01"
+  - title: "1984.01"
+    slug: 1984-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/168_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3

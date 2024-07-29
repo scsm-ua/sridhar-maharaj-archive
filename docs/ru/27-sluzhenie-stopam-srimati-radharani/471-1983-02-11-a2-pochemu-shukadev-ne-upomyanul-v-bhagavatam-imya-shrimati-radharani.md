@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 471-1983-02-11-a2-pochemu-shukadev-ne-upomyanul-v-bhagavatam-imya-shrimati-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/471_1983.02.11.A2_SridharMj_Pochemu_Sukadev_ne_upomyanul_v_Bhagavatam_imya_Srimati_Radharani.mp3

@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3

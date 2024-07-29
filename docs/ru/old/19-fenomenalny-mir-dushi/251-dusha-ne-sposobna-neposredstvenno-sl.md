@@ -1,8 +1,13 @@
 ---
-category: (19. Феноменальный мир души)
+slug: 251-dusha-ne-sposobna-neposredstvenno-sl
+category:
+  title: (19. Феноменальный мир души)
+  slug: 19-fenomenalny-mir-dushi
 tags:
-  - "1982.02"
-  - Душа
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Душа
+    slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/251_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3

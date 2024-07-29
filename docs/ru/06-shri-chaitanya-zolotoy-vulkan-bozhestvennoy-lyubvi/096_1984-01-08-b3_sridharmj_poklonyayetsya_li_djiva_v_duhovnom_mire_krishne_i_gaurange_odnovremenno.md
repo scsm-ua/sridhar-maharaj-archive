@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1984.01"
-  - with English audio
+  - title: "1984.01"
+    slug: 1984-01
+  - title: with English audio
+    slug: with-english-audio
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/096_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3

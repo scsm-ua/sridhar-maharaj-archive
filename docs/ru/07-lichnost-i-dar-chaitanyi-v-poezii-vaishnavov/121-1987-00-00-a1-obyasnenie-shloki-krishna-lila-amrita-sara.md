@@ -1,8 +1,13 @@
 ---
-category: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+slug: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara
+category:
+  title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
+  slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - "1987.00"
-  - Махапрабху
+  - title: "1987.00"
+    slug: 1987-00
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3

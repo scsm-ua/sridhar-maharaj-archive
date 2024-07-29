@@ -1,8 +1,13 @@
 ---
-category: (17. Вайшнавская онтология - учение о бытии)
+slug: 227-mnogomernyj-vnutrennij-mir-duhovnyh
+category:
+  title: (17. Вайшнавская онтология - учение о бытии)
+  slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - "1983.01"
-  - Юдхиштхира
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Юдхиштхира
+    slug: yudhishthira
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/227_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3

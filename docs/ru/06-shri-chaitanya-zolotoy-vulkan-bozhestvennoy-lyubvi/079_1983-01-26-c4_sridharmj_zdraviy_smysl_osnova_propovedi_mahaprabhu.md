@@ -1,9 +1,15 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 079_1983-01-26-c4_sridharmj_zdraviy_smysl_osnova_propovedi_mahaprabhu
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1983.01"
-  - история
-  - история о проповеди у Бадри Нараяны
+  - title: "1983.01"
+    slug: 1983-01
+  - title: история
+    slug: istoriya
+  - title: история о проповеди у Бадри Нараяны
+    slug: istoriya-o-propovedi-u-badri-narayany
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3

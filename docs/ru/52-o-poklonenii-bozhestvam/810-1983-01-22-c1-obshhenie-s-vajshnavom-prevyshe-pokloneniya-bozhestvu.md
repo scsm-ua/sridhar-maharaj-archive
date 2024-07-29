@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1983.01"
-  - Арчана
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3

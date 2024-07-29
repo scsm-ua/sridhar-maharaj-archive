@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3

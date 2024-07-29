@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.mp3

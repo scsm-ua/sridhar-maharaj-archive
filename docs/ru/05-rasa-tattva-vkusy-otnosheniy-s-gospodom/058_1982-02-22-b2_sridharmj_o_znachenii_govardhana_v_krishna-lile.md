@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.02"
-  - Говардхан
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Говардхан
+    slug: govardhan
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3

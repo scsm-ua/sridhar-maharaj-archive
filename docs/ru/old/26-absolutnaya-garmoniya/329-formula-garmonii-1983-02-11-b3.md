@@ -1,8 +1,13 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 329-formula-garmonii-1983-02-11-b3
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1983.02"
-  - Гармония
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/329_1983.02.11.B3_SridharMj_Formula_garmonii.mp3

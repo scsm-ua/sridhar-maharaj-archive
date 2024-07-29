@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 387-dlya-pokloneniya-shalagramu-neobhodima
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1983.05"
-  - Божество
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Божество
+    slug: bozhestvo
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/387_1983.05.06.B3_SridharMj_Dlya_pokloneniya_Shalagramu_neobhodima_osobaya_kvalifikaciya-.mp3

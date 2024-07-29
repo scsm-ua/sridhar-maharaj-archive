@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1982.05"
-  - Дух служения
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3

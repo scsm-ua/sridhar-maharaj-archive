@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3

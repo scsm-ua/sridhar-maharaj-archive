@@ -1,8 +1,13 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 502-kommentarij-na-otzyv-a-ch-bhaktivedan
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1981.03"
-  - Бхактиведанта Свами Прабхупада
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/502_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3

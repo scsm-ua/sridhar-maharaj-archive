@@ -1,7 +1,11 @@
 ---
-category: 71. О важности распространения учения Шрилы Шридхара Махараджа
+slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
+category:
+  title: 71. О важности распространения учения Шрилы Шридхара Махараджа
+  slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3

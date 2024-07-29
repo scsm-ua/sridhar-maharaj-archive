@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3

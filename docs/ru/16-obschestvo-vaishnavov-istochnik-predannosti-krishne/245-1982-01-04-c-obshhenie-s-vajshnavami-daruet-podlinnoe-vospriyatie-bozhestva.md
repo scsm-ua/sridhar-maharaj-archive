@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 245-1982-01-04-c-obshhenie-s-vajshnavami-daruet-podlinnoe-vospriyatie-bozhestva
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.01"
-  - Садху-санга
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3

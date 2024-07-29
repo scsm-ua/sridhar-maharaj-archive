@@ -1,9 +1,15 @@
 ---
-category: (15. Мир смерти и поиск вечности)
+slug: 192-istinnaya-umirotvorennost-za-prede
+category:
+  title: (15. Мир смерти и поиск вечности)
+  slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - "1982.01"
-  - Карма
-  - Материальный мир
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Карма
+    slug: karma
+  - title: Материальный мир
+    slug: materialnyj-mir
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/192_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3

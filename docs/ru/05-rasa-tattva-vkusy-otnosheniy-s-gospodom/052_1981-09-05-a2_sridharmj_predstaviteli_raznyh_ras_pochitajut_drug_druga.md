@@ -1,9 +1,15 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 052_1981-09-05-a2_sridharmj_predstaviteli_raznyh_ras_pochitajut_drug_druga
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1981.09"
-  - Мурари Гупта
-  - Нарада
+  - title: "1981.09"
+    slug: 1981-09
+  - title: Мурари Гупта
+    slug: murari-gupta
+  - title: Нарада
+    slug: narada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3

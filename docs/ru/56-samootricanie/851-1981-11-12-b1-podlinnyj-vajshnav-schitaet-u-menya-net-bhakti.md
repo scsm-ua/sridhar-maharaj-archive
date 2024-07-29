@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1981.11"
-  - Самопредание
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/851_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3

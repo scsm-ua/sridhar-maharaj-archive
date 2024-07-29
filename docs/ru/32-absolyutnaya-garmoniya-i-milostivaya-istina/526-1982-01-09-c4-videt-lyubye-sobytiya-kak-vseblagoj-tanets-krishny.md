@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3

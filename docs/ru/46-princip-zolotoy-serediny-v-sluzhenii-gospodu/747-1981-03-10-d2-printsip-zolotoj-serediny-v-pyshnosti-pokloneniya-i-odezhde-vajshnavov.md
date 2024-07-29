@@ -1,7 +1,11 @@
 ---
-category: 46. Принцип «золотой середины» в служении Господу
+slug: 747-1981-03-10-d2-printsip-zolotoj-serediny-v-pyshnosti-pokloneniya-i-odezhde-vajshnavov
+category:
+  title: 46. Принцип «золотой середины» в служении Господу
+  slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
-  - "1981.03"
+  - title: "1981.03"
+    slug: 1981-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3

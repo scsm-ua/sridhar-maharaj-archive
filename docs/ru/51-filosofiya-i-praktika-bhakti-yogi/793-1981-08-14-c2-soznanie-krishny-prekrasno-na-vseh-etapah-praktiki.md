@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1981.08"
-  - Бхакти-йога
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Бхакти-йога
+    slug: bhakti-joga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3

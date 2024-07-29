@@ -1,8 +1,13 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 2-smysl-sannyasy-mahaprabhu-vernut-d
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1984.01"
-  - Махапрабху
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/002_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3

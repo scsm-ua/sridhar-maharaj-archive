@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 510-dar-mahaprabhu-v-poeme-bhaktivinoda
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Бхактивинод Тхакур
-  - Поэзия Шридхара Махараджа
+  - title: Бхактивинод Тхакур
+    slug: bhaktivinod-thakur
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/510_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3

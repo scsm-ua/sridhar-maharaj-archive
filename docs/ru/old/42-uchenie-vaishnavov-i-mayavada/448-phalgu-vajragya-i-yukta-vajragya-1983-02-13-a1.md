@@ -1,8 +1,13 @@
 ---
-category: (42. Учение вайшнавов и майавада)
+slug: 448-phalgu-vajragya-i-yukta-vajragya-1983-02-13-a1
+category:
+  title: (42. Учение вайшнавов и майавада)
+  slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - "1983.02"
-  - Майавада
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Майавада
+    slug: majavada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/448_1983.02.13.A1_SridharMj_Phalgu-vayragya_i_yukta-vayragya.mp3

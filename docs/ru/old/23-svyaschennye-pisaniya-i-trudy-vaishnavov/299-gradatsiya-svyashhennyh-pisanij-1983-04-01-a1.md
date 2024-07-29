@@ -1,8 +1,13 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 299-gradatsiya-svyashhennyh-pisanij-1983-04-01-a1
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1983.04"
-  - Священные писания
+  - title: "1983.04"
+    slug: 1983-04
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/299_1983.04.01.A1_SridharMj_Gradaciya_svyawennyh_pisaniy.mp3

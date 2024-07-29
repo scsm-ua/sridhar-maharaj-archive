@@ -1,7 +1,11 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3

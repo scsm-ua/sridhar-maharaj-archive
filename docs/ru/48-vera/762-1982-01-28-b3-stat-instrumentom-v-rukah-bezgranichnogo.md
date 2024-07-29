@@ -1,8 +1,13 @@
 ---
-category: 48. Вера
+slug: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo
+category:
+  title: 48. Вера
+  slug: 48-vera
 tags:
-  - "1982.01"
-  - Вера
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Вера
+    slug: vera
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/762_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3

@@ -1,10 +1,17 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 384-kultivirovanie-duhovnogo-zvuka-pre
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - "1983.02"
-  - Арчана
-  - Божество
-  - Прасад
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Арчана
+    slug: archana
+  - title: Божество
+    slug: bozhestvo
+  - title: Прасад
+    slug: prasad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/384_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3

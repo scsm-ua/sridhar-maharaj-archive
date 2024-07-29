@@ -1,8 +1,13 @@
 ---
-category: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
+category:
+  title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
+  slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
 tags:
-  - "1982.04"
-  - Шикшаштакам
+  - title: "1982.04"
+    slug: 1982-04
+  - title: Шикшаштакам
+    slug: shikshashtakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/140_1982.04.25.A2.B_SridharMj_Kommentarij_k_pervomu_stihu_Shikshashtaki.mp3

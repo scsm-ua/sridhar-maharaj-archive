@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 668-1983-03-20-vishnu-tattva
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3

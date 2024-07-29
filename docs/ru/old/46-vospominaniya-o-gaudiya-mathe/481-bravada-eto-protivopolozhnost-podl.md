@@ -1,9 +1,15 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 481-bravada-eto-protivopolozhnost-podl
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.01"
-  - Гаудия-матх
-  - Шаранагати
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Шаранагати
+    slug: sharanagati
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/481_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3

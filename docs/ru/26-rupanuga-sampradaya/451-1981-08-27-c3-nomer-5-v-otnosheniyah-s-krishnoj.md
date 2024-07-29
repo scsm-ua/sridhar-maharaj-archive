@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 451-1981-08-27-c3-nomer-5-v-otnosheniyah-s-krishnoj
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1981.08"
+  - title: "1981.08"
+    slug: 1981-08
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3

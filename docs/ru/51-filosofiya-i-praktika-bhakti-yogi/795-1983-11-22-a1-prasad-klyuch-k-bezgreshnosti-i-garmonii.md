@@ -1,8 +1,13 @@
 ---
-category: 51. Философия и практика бхакти-йоги
+slug: 795-1983-11-22-a1-prasad-klyuch-k-bezgreshnosti-i-garmonii
+category:
+  title: 51. Философия и практика бхакти-йоги
+  slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - "1983.11"
-  - Прасад
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Прасад
+    slug: prasad
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3

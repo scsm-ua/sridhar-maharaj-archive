@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.02"
-  - Проповедь
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.mp3

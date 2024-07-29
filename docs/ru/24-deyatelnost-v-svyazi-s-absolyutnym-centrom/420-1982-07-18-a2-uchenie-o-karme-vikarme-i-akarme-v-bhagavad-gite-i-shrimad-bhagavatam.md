@@ -1,7 +1,11 @@
 ---
-category: 24. Деятельность в связи с Абсолютным Центром
+slug: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam
+category:
+  title: 24. Деятельность в связи с Абсолютным Центром
+  slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3

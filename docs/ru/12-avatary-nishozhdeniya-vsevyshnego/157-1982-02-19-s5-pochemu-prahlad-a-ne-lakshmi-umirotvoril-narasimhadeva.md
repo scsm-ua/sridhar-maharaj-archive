@@ -1,9 +1,15 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1982.02"
-  - Нарасимха
-  - Прахлада
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Нарасимха
+    slug: narasimha
+  - title: Прахлада
+    slug: prahlada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3

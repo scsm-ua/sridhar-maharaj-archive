@@ -1,8 +1,13 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1982.11"
-  - Дхарма
+  - title: "1982.11"
+    slug: 1982-11
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.mp3

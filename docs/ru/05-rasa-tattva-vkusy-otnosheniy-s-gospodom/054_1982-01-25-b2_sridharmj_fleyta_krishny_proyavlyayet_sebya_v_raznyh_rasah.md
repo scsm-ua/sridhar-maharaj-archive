@@ -1,8 +1,13 @@
 ---
-category: 05. Раса-таттва - вкусы отношений с Господом
+slug: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah
+category:
+  title: 05. Раса-таттва - вкусы отношений с Господом
+  slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - "1982.01"
-  - Флейта Кришны
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Флейта Кришны
+    slug: flejta-krishny
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3

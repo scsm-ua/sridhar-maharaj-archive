@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.11"
-  - Садху-санга
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3

@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.mp3

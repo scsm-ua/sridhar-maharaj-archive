@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 51-lyubovnyj-poisk-poteryannogo-slugi-1985-06-09-a2
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1985.06"
-  - Книги Шридхара Махараджа
+  - title: "1985.06"
+    slug: 1985-06
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/051_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3

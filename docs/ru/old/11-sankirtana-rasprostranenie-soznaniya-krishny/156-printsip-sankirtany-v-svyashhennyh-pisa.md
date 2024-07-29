@@ -1,8 +1,13 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 156-printsip-sankirtany-v-svyashhennyh-pisa
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1981.11"
-  - Санкиртана
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Санкиртана
+    slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/156_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3

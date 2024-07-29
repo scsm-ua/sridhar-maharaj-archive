@@ -1,7 +1,11 @@
 ---
-category: 38. Субъективная эволюция — от сознания к материи
+slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
+category:
+  title: 38. Субъективная эволюция — от сознания к материи
+  slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3

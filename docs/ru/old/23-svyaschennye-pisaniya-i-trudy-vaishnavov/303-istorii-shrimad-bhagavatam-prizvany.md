@@ -1,9 +1,15 @@
 ---
-category: (23. Священные писания и труды вайшнавов)
+slug: 303-istorii-shrimad-bhagavatam-prizvany
+category:
+  title: (23. Священные писания и труды вайшнавов)
+  slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - "1981.03"
-  - Священные писания
-  - Шримад Бхагаватам
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Священные писания
+    slug: svyashhennye-pisaniya
+  - title: Шримад Бхагаватам
+    slug: shrimad-bhagavatam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/303_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3

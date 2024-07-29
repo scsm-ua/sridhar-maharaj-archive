@@ -1,7 +1,11 @@
 ---
-category: 45. Искренность и прогресс
+slug: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi
+category:
+  title: 45. Искренность и прогресс
+  slug: 45-iskrennost-i-progress
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/732_1983.11.09.C5_SridharMj_Iskrennost_i_svoboda_ot_predrassudkov_pozvoljat_po_dostoinstvu_ocenit_uchenie_Shri_Gaurangi.mp3

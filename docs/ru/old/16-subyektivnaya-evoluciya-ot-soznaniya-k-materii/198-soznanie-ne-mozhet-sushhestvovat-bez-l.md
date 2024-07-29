@@ -1,10 +1,17 @@
 ---
-category: "(16. Субъективная эволюция: от сознания к материи)"
+slug: 198-soznanie-ne-mozhet-sushhestvovat-bez-l
+category:
+  title: "(16. Субъективная эволюция: от сознания к материи)"
+  slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - Душа
-  - Онтология прекрасной реальности
-  - Параматма
-  - Сознание
+  - title: Душа
+    slug: dusha
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Параматма
+    slug: paramatma
+  - title: Сознание
+    slug: soznanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/198_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3

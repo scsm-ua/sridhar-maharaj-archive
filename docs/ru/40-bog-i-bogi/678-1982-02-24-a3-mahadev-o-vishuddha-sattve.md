@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3

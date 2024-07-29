@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3

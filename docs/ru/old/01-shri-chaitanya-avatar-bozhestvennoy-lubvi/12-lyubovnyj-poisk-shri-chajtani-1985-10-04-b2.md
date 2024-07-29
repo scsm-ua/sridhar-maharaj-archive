@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 12-lyubovnyj-poisk-shri-chajtani-1985-10-04-b2
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1985.10"
-  - Махапрабху
-  - Нитьянанда Прабху
+  - title: "1985.10"
+    slug: 1985-10
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/012_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3

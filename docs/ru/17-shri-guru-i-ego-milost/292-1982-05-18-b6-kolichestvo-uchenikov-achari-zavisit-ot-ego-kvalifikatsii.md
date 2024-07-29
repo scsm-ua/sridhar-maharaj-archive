@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.mp3

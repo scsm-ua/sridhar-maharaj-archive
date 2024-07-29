@@ -1,7 +1,11 @@
 ---
-category: 13. Лила — игра чудесного Абсолюта
+slug: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda
+category:
+  title: 13. Лила — игра чудесного Абсолюта
+  slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3

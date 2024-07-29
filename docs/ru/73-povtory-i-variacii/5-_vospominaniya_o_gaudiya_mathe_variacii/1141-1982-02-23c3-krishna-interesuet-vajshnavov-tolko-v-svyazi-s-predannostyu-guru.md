@@ -1,7 +1,11 @@
 ---
-category: 5. Воспоминания о Гаудия Матхе (вариации)
+slug: 1141-1982-02-23c3-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
+category:
+  title: 5. Воспоминания о Гаудия Матхе (вариации)
+  slug: 5-_vospominaniya_o_gaudiya_mathe_variacii
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/5._Vospominaniya_o_Gaudiya_Mathe_(variacii)/1141_1982.02.23.C3_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3

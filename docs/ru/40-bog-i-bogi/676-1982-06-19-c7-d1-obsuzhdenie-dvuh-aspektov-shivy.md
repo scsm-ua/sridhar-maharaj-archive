@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.06"
+  - title: "1982.06"
+    slug: 1982-06
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.mp3

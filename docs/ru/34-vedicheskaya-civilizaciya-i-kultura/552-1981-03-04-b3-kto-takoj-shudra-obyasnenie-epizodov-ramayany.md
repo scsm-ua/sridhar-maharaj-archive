@@ -1,8 +1,13 @@
 ---
-category: 34. Ведическая цивилизация и культура
+slug: 552-1981-03-04-b3-kto-takoj-shudra-obyasnenie-epizodov-ramayany
+category:
+  title: 34. Ведическая цивилизация и культура
+  slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - "1981.03"
-  - Ведическая цивилизация
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Ведическая цивилизация
+    slug: vedicheskaya-tsivilizatsiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3

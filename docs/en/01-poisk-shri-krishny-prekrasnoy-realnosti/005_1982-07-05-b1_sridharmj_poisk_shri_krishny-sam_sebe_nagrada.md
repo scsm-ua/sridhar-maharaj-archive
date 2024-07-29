@@ -1,10 +1,26 @@
 ---
-category: 01. Поиск Шри Кришны, Прекрасной Реальности
+slug: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada
+category:
+  title: 01. Поиск Шри Кришны, Прекрасной Реальности
+  slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
-  - "1982.07"
-  - with English audio
-  - with English text
+  - title: "1982.07"
+    slug: 1982-07
+  - title: with English audio
+    slug: with-english-audio
+  - title: with English text
+    slug: with-english-text
 author: Srila Bhakti Rakshak Sridhar Dev-Goswami Maharaj
+links:
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
+      Exclusive search for Krishna Is reward of Its own.mp3
+    title: MP3 (11:03, 10 MB)
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
+      Exclusive search for Krishna Is reward of Its own.rtf
+    title: RTF transcript
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1
+      Exclusive search for Krishna Is reward of Its own.pdf
+    title: PDF transcript
 ---
 
 # 1982.07.05.B1 Exclusive Search for Krishna Is Reward of Its Own

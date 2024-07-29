@@ -1,8 +1,13 @@
 ---
-category: 55. Самопожертвование
+slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
+category:
+  title: 55. Самопожертвование
+  slug: 55-samopozhertvovanie
 tags:
-  - "1982.01"
-  - Самопредание
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3

@@ -1,7 +1,11 @@
 ---
-category: 36. Происхождение души
+slug: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya
+category:
+  title: 36. Происхождение души
+  slug: 36-proishozhdenie-dushi
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.mp3

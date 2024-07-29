@@ -1,7 +1,11 @@
 ---
-category: 62. Святые места
+slug: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya
+category:
+  title: 62. Святые места
+  slug: 62-svyatye-mesta
 tags:
-  - "1982.03"
+  - title: "1982.03"
+    slug: 1982-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.mp3

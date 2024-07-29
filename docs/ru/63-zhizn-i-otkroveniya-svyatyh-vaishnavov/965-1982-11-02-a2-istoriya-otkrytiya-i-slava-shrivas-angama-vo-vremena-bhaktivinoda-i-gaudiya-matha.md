@@ -1,7 +1,11 @@
 ---
-category: 63. Жизнь и откровения святых вайшнавов
+slug: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha
+category:
+  title: 63. Жизнь и откровения святых вайшнавов
+  slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
-  - "1982.11"
+  - title: "1982.11"
+    slug: 1982-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.mp3

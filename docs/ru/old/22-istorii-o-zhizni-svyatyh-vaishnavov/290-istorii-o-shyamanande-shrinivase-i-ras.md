@@ -1,10 +1,17 @@
 ---
-category: (22. Истории о жизни святых вайшнавов)
+slug: 290-istorii-o-shyamanande-shrinivase-i-ras
+category:
+  title: (22. Истории о жизни святых вайшнавов)
+  slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - Истории о вайшнавах
-  - Онтология прекрасной реальности
-  - Шринивас Ачарья
-  - Шьямананда Прабху
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
+  - title: Шринивас Ачарья
+    slug: shrinivas-acharya
+  - title: Шьямананда Прабху
+    slug: shyamananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/290_OntologiyaPR_6.1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3

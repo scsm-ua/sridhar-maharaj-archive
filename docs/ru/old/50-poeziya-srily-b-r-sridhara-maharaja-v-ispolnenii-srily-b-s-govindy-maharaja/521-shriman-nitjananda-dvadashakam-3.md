@@ -1,11 +1,18 @@
 ---
-category: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С.
-  Говинды Махараджа)
+slug: 521-shriman-nitjananda-dvadashakam-3
+category:
+  title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
+    Махараджа)
+  slug: 50-poeziya-srily-b-r-sridhara-maharaja-v-ispolnenii-srily-b-s-govindy-maharaja
 tags:
-  - Говинда Махарадж
-  - Молитва
-  - Нитьянанда Прабху
-  - Поэзия Шридхара Махараджа
+  - title: Говинда Махарадж
+    slug: govinda-maharadzh
+  - title: Молитва
+    slug: molitva
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/521_Sriman_Nityananda_Dvadasakam2.mp3

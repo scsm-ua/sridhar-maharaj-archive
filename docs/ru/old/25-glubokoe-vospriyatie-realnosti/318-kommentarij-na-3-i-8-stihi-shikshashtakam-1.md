@@ -1,11 +1,19 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 318-kommentarij-na-3-i-8-stihi-shikshashtakam-1
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.01"
-  - Гармония
-  - Смирение
-  - Терпение
-  - Шикшаштакам
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Гармония
+    slug: garmoniya
+  - title: Смирение
+    slug: smirenie
+  - title: Терпение
+    slug: terpenie
+  - title: Шикшаштакам
+    slug: shikshashtakam
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/318_1983.01.25.B2_SridharMj_Kommentariy_na_3_i_8_stihi_Siksastakam.mp3

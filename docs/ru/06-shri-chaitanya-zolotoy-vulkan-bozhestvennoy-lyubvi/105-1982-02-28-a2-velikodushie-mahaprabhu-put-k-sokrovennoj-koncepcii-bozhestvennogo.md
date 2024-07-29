@@ -1,8 +1,13 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.02"
-  - Махапрабху
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3

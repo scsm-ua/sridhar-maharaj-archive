@@ -1,7 +1,11 @@
 ---
-category: 40. Бог и боги
+slug: 686-1982-01-31-b3-istoriya-i-polozhenie-vishvy
+category:
+  title: 40. Бог и боги
+  slug: 40-bog-i-bogi
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/686_1982.01.31.B3_SridharMj_Istorija_i_polozhenie_Vishvy.mp3

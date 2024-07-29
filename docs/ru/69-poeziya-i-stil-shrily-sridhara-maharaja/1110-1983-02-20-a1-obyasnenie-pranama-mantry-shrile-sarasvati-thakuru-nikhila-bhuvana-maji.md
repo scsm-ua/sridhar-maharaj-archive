@@ -1,7 +1,11 @@
 ---
-category: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+slug: 1110-1983-02-20-a1-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-nikhila-bhuvana-maji
+category:
+  title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
+  slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
-  - "1983.02"
+  - title: "1983.02"
+    slug: 1983-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1110_1983.02.20.A1_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(nikhila-bhuvana-maji).mp3

@@ -1,8 +1,13 @@
 ---
-category: (11. Санкиртана - распространение Сознания Кришны)
+slug: 148-kirtan-znachit-srazhenie-protiv-zablu
+category:
+  title: (11. Санкиртана - распространение Сознания Кришны)
+  slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - "1983.07"
-  - Киртан
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Киртан
+    slug: kirtan
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/148_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3

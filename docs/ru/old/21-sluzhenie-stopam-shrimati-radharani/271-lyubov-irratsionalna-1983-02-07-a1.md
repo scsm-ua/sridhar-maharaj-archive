@@ -1,9 +1,15 @@
 ---
-category: (21. Служение стопам Шримати Радхарани)
+slug: 271-lyubov-irratsionalna-1983-02-07-a1
+category:
+  title: (21. Служение стопам Шримати Радхарани)
+  slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - "1983.02"
-  - Бхакти
-  - Любовь
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Бхакти
+    slug: bhakti
+  - title: Любовь
+    slug: lyubov
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/271_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3

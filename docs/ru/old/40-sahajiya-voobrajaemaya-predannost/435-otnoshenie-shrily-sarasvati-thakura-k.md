@@ -1,9 +1,15 @@
 ---
-category: (40. Сахаджия - воображаемая преданность)
+slug: 435-otnoshenie-shrily-sarasvati-thakura-k
+category:
+  title: (40. Сахаджия - воображаемая преданность)
+  slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - "1983.05"
-  - Сарасвати Тхакур
-  - Сахаджия
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Сахаджия
+    slug: sahadzhiya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/435_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3

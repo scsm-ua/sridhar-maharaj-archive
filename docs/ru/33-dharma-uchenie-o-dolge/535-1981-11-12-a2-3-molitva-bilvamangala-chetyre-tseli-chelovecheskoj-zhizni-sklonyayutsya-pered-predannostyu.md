@@ -1,9 +1,15 @@
 ---
-category: 33. Дхарма — учение о долге
+slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
+category:
+  title: 33. Дхарма — учение о долге
+  slug: 33-dharma-uchenie-o-dolge
 tags:
-  - "1981.11"
-  - Варнашрама-дхарма
-  - Дхарма
+  - title: "1981.11"
+    slug: 1981-11
+  - title: Варнашрама-дхарма
+    slug: varnashrama-dharma
+  - title: Дхарма
+    slug: dharma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3

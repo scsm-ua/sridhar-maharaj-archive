@@ -1,10 +1,17 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 129-hari-katha-na-den-yavleniya-shrily-sara
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.03"
-  - Гуру
-  - Качества ученика
-  - Сарасвати Тхакур
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/129_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3

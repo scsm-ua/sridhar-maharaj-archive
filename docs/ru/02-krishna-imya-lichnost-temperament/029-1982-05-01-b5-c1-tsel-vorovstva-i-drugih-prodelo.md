@@ -1,9 +1,15 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 029-1982-05-01-b5-c1-tsel-vorovstva-i-drugih-prodelo
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.05"
-  - Джаганнатх
-  - Истории о вайшнавах
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Джаганнатх
+    slug: dzhagannath
+  - title: Истории о вайшнавах
+    slug: istorii-o-vajshnavah
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.mp3

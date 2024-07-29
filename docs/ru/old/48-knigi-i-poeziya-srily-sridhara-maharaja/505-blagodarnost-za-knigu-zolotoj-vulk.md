@@ -1,8 +1,13 @@
 ---
-category: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+slug: 505-blagodarnost-za-knigu-zolotoj-vulk
+category:
+  title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
+  slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
-  - Золотой вулкан божественной любви
-  - Книги Шридхара Махараджа
+  - title: Золотой вулкан божественной любви
+    slug: zolotoj-vulkan-bozhestvennoj-lyubvi
+  - title: Книги Шридхара Махараджа
+    slug: knigi-shridhara-maharadzha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/505_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3

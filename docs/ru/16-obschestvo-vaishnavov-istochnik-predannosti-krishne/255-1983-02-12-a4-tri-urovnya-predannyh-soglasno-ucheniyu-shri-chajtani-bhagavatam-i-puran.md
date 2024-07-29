@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1983.02"
-  - 1983.02.12
+  - title: "1983.02"
+    slug: 1983-02
+  - title: 1983.02.12
+    slug: 1983-02-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3

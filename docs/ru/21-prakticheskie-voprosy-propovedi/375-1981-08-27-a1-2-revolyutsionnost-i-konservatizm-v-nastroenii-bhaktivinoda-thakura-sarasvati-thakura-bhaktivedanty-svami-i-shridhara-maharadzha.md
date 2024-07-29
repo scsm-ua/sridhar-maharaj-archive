@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1981.08"
-  - Проповедь
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3

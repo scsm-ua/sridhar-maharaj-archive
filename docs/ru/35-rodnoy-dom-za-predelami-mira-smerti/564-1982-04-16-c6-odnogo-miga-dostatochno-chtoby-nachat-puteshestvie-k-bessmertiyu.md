@@ -1,7 +1,11 @@
 ---
-category: 35. Родной дом за пределами мира смерти
+slug: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu
+category:
+  title: 35. Родной дом за пределами мира смерти
+  slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3

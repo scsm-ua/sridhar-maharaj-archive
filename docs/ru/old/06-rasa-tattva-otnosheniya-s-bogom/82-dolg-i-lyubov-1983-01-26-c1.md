@@ -1,8 +1,13 @@
 ---
-category: (06. Раса-таттва - отношения с Богом)
+slug: 82-dolg-i-lyubov-1983-01-26-c1
+category:
+  title: (06. Раса-таттва - отношения с Богом)
+  slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - "1983.01"
-  - Любовь
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Любовь
+    slug: lyubov
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/082_1983.01.26.C1_SridharMj_Dolg_i_lyubov.mp3

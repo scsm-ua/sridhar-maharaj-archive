@@ -1,7 +1,11 @@
 ---
-category: 44. Обретение и развитие вкуса к духовной жизни
+slug: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu
+category:
+  title: 44. Обретение и развитие вкуса к духовной жизни
+  slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
-  - "1982.07"
+  - title: "1982.07"
+    slug: 1982-07
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.mp3

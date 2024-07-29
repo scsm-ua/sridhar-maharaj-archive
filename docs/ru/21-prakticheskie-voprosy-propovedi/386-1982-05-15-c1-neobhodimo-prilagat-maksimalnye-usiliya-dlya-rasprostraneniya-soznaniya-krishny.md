@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1982.05"
-  - Проповедь
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.mp3

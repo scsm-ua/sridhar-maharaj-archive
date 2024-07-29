@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1985.05"
-  - Проповедь
+  - title: "1985.05"
+    slug: 1985-05
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3

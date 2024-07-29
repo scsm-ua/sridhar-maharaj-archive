@@ -1,7 +1,11 @@
 ---
-category: (27. Духовный путь)
+slug: 346-borba-predannosti-s-materializmom
+category:
+  title: (27. Духовный путь)
+  slug: 27-duhovny-put
 tags:
-  - Онтология прекрасной реальности
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/346_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom.mp3

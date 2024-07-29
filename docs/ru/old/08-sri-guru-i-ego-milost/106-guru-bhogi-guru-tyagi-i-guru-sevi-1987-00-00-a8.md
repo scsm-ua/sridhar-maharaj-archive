@@ -1,8 +1,13 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 106-guru-bhogi-guru-tyagi-i-guru-sevi-1987-00-00-a8
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1987"
-  - Гуру
+  - title: "1987"
+    slug: "1987"
+  - title: Гуру
+    slug: guru
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/106_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3

@@ -1,12 +1,21 @@
 ---
-category: (08. Шри Гуру и его милость)
+slug: 113-mayaki-v-bezgranichnom-1983-07-30-a-b
+category:
+  title: (08. Шри Гуру и его милость)
+  slug: 08-sri-guru-i-ego-milost
 tags:
-  - "1983.07"
-  - Гаудия-матх
-  - Гуру
-  - Качества ученика
-  - Сарасвати Тхакур
-  - Шьямананда Прабху
+  - title: "1983.07"
+    slug: 1983-07
+  - title: Гаудия-матх
+    slug: gaudiya-math
+  - title: Гуру
+    slug: guru
+  - title: Качества ученика
+    slug: kachestva-uchenika
+  - title: Сарасвати Тхакур
+    slug: sarasvati-thakur
+  - title: Шьямананда Прабху
+    slug: shyamananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/113_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3

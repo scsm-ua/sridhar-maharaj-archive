@@ -1,7 +1,11 @@
 ---
-category: 3. Иерархия мироздания - планы бытия (вариации)
+slug: 1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya
+category:
+  title: 3. Иерархия мироздания - планы бытия (вариации)
+  slug: 3-_ierarhiya_mirozdaniya-plany_bytiya_variacii
 tags:
-  - "1982.01"
+  - title: "1982.01"
+    slug: 1982-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/3._Ierarhiya_mirozdaniya--plany_bytiya_(variacii)/1139_1982.01.25.B3_SridharMj_Shrila_Sridhar_Maharaj_ob_ustroystve_vedicheskogo_planetariya.mp3

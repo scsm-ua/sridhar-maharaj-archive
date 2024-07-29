@@ -1,8 +1,13 @@
 ---
-category: 21. Практические вопросы проповеди
+slug: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy
+category:
+  title: 21. Практические вопросы проповеди
+  slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - "1983.11"
-  - Проповедь
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Проповедь
+    slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.mp3

@@ -1,8 +1,13 @@
 ---
-category: 12. Аватары — нисхождения Всевышнего
+slug: 159-1981-03-05-b4-avatary-daruyut-osvobozhdenie-dusham-vo-vsej-vselennoj
+category:
+  title: 12. Аватары — нисхождения Всевышнего
+  slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - "1981.03"
-  - Махапрабху
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Махапрабху
+    slug: mahaprabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.mp3

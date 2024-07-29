@@ -1,8 +1,13 @@
 ---
-category: (32. О поклонении Божествам)
+slug: 386-smysl-pokloneniya-govardhan-shile-mgn
+category:
+  title: (32. О поклонении Божествам)
+  slug: 32-o-poklonenii-bozhestvam
 tags:
-  - Божество
-  - Мгновения прекрасной реальности
+  - title: Божество
+    slug: bozhestvo
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/386_MgnoveniyaPR_4.1_SridharMj_Smysl_pokloneniya_Govardhan-shile.mp3

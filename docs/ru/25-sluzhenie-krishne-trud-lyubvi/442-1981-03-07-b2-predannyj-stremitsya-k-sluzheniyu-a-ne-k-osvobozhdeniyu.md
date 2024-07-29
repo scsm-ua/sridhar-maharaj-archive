@@ -1,8 +1,13 @@
 ---
-category: 25. Служение Кришне — труд любви
+slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
+category:
+  title: 25. Служение Кришне — труд любви
+  slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - "1981.03"
-  - Дух служения
+  - title: "1981.03"
+    slug: 1981-03
+  - title: Дух служения
+    slug: duh-sluzheniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3

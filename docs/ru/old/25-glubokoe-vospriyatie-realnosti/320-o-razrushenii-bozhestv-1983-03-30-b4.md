@@ -1,8 +1,13 @@
 ---
-category: (25. Глубокое восприятие реальности)
+slug: 320-o-razrushenii-bozhestv-1983-03-30-b4
+category:
+  title: (25. Глубокое восприятие реальности)
+  slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - "1983.03"
-  - Гармония
+  - title: "1983.03"
+    slug: 1983-03
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/320_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3

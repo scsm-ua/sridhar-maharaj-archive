@@ -1,5 +1,8 @@
 ---
-category: (38. Самоотрицание)
+slug: 417-podlinnyj-vajshnav-schitaet-u-menya-net
+category:
+  title: (38. Самоотрицание)
+  slug: 38-samootricanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/417_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3

@@ -1,8 +1,13 @@
 ---
-category: 49. Бхакти — величие преданности Кришне
+slug: 776-tolko-bhakti-mozhet-porodit-bhakti
+category:
+  title: 49. Бхакти — величие преданности Кришне
+  slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - Бхакти
-  - без даты
+  - title: Бхакти
+    slug: bhakti
+  - title: без даты
+    slug: bez-daty
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3

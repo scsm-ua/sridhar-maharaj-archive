@@ -1,9 +1,15 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 6-smysl-tridandy-mahaprabhu-1983-02-20-a3
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - "1983.02"
-  - Махапрабху
-  - Санньяса
+  - title: "1983.02"
+    slug: 1983-02
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Санньяса
+    slug: sannyasa
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/006_1983.02.20.A3_SridharMj_Smysl_tridandy_Mahaprabhu.mp3

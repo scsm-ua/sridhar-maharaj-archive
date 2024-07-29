@@ -1,8 +1,13 @@
 ---
-category: 18. Посвящение
+slug: 331-1982-05-18-b10-skolko-initsiirovannyh-uchenikov-bylo-u-mahaprabhu-i-razlichnyh-svyatyh-v-nashej-sampradaje
+category:
+  title: 18. Посвящение
+  slug: 18-posvyaschenie
 tags:
-  - "1982.05"
-  - Посвящение
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Посвящение
+    slug: posvyashhenie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/331_1982.05.18.B10_SridharMj_Skolko_iniciirovannyh_uchenikov_bylo_u_Mahaprabhu_i_razlichnyh_svjatyh_v_nashej_sampradaje.mp3

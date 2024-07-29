@@ -1,8 +1,13 @@
 ---
-category: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+slug: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara
+category:
+  title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
+  slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - "1873.03"
-  - Бхактиведанта Свами Прабхупада
+  - title: "1873.03"
+    slug: 1873-03
+  - title: Бхактиведанта Свами Прабхупада
+    slug: bhaktivedanta-svami-prabhupada
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/494_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch_._Bhaktivedanty_Svami.mp3

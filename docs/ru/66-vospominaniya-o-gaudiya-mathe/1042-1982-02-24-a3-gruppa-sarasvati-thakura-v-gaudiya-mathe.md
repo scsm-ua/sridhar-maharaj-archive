@@ -1,8 +1,13 @@
 ---
-category: 66. Воспоминания о Гаудия Матхе
+slug: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe
+category:
+  title: 66. Воспоминания о Гаудия Матхе
+  slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1982.02"
-  - Онтология прекрасной реальности
+  - title: "1982.02"
+    slug: 1982-02
+  - title: Онтология прекрасной реальности
+    slug: ontologiya-prekrasnoj-realnosti
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3

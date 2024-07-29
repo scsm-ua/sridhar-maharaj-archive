@@ -1,7 +1,11 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3

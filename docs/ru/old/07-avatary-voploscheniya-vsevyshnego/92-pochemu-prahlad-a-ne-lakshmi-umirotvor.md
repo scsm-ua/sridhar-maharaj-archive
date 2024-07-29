@@ -1,8 +1,13 @@
 ---
-category: (07. Аватары - воплощения Всевышнего)
+slug: 92-pochemu-prahlad-a-ne-lakshmi-umirotvor
+category:
+  title: (07. Аватары - воплощения Всевышнего)
+  slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - Мгновения прекрасной реальности
-  - Нарасимха
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Нарасимха
+    slug: narasimha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/092_MgnoveniyaPR_8.4_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3

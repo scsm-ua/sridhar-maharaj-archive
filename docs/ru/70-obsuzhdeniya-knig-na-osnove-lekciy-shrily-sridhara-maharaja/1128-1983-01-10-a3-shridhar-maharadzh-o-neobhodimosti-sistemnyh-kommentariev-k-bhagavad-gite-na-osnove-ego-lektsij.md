@@ -1,7 +1,11 @@
 ---
-category: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+slug: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij
+category:
+  title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
+  slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
-  - "1983.01"
+  - title: "1983.01"
+    slug: 1983-01
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3

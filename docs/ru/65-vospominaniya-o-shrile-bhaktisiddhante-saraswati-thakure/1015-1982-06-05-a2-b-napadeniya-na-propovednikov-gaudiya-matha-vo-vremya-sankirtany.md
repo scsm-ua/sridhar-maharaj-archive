@@ -1,5 +1,8 @@
 ---
-category: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+slug: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany
+category:
+  title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
+  slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.mp3

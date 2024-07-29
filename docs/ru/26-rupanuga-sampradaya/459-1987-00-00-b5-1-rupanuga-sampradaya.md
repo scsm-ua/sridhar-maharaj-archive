@@ -1,7 +1,11 @@
 ---
-category: 26. Рупануга-сампрадая
+slug: 459-1987-00-00-b5-1-rupanuga-sampradaya
+category:
+  title: 26. Рупануга-сампрадая
+  slug: 26-rupanuga-sampradaya
 tags:
-  - "1987.00"
+  - title: "1987.00"
+    slug: 1987-00
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3

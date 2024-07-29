@@ -1,8 +1,13 @@
 ---
-category: (26. Абсолютная Гармония)
+slug: 330-dinamichnoe-ravnovesie-printsip-gar
+category:
+  title: (26. Абсолютная Гармония)
+  slug: 26-absolutnaya-garmoniya
 tags:
-  - "1984.01"
-  - Гармония
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Гармония
+    slug: garmoniya
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/330_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3

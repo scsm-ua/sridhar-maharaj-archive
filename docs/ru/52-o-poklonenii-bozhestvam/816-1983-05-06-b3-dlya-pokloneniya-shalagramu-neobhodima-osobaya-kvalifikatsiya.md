@@ -1,8 +1,13 @@
 ---
-category: 52. О поклонении Божествам
+slug: 816-1983-05-06-b3-dlya-pokloneniya-shalagramu-neobhodima-osobaya-kvalifikatsiya
+category:
+  title: 52. О поклонении Божествам
+  slug: 52-o-poklonenii-bozhestvam
 tags:
-  - "1983.05"
-  - Арчана
+  - title: "1983.05"
+    slug: 1983-05
+  - title: Арчана
+    slug: archana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/816_1983.05.06.B3_SridharMj_Dlya_pokloneniya_Shalagramu_neobhodima_osobaya_kvalifikaciya.mp3

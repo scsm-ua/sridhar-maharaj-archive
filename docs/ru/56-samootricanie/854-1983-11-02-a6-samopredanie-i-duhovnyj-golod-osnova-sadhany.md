@@ -1,8 +1,13 @@
 ---
-category: 56. Самоотрицание
+slug: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany
+category:
+  title: 56. Самоотрицание
+  slug: 56-samootricanie
 tags:
-  - "1983.11"
-  - Самопредание
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Самопредание
+    slug: samopredanie
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3

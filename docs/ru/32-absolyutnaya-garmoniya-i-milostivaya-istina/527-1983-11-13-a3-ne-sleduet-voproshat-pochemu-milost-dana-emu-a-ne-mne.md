@@ -1,7 +1,11 @@
 ---
-category: 32. Абсолютная гармония и милостивая истина
+slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
+category:
+  title: 32. Абсолютная гармония и милостивая истина
+  slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
-  - "1983.11"
+  - title: "1983.11"
+    slug: 1983-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3

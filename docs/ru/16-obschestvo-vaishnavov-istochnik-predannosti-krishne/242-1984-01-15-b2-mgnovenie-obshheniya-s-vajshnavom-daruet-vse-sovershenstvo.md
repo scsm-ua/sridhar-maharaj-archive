@@ -1,8 +1,13 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1984.01"
-  - Садху-санга
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3

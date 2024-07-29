@@ -1,7 +1,11 @@
 ---
-category: (28. Духовная практика и материальные привязанности)
+slug: 360-obshhenie-s-duhami-privodit-k-rozhdeniyu
+category:
+  title: (28. Духовная практика и материальные привязанности)
+  slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - "1985.05"
+  - title: "1985.05"
+    slug: 1985-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/360_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3

@@ -1,8 +1,13 @@
 ---
-category: (45. Воспоминания о Гаудия-матхе)
+slug: 486-o-titulah-prabhupad-vishnupad-i-bha
+category:
+  title: (45. Воспоминания о Гаудия-матхе)
+  slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - "1981.08"
-  - Гаудия-матх
+  - title: "1981.08"
+    slug: 1981-08
+  - title: Гаудия-матх
+    slug: gaudiya-math
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/486_1981.08.27.A1_SridharMj_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3

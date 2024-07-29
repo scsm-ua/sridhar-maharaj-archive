@@ -1,10 +1,17 @@
 ---
-category: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+slug: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny
+category:
+  title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
+  slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - "1982.05"
-  - Гаура-лила
-  - Кришна-лила
-  - Нитьянанда Прабху
+  - title: "1982.05"
+    slug: 1982-05
+  - title: Гаура-лила
+    slug: gaura-lila
+  - title: Кришна-лила
+    slug: krishna-lila
+  - title: Нитьянанда Прабху
+    slug: nityananda-prabhu
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3

@@ -1,7 +1,11 @@
 ---
-category: 27. Служение стопам Шримати Радхарани
+slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
+category:
+  title: 27. Служение стопам Шримати Радхарани
+  slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - "1982.05"
+  - title: "1982.05"
+    slug: 1982-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3

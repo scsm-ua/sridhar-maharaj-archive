@@ -1,10 +1,17 @@
 ---
-category: (01. Шри Чайтанья, аватар божественной любви)
+slug: 8-svoim-tantsem-mahaprabhu-razdaet-bozhe
+category:
+  title: (01. Шри Чайтанья, аватар божественной любви)
+  slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - Махапрабху
-  - Мгновения прекрасной реальности
-  - Поэзия Шридхара Махараджа
-  - Према-дхама-дева-стотрам
+  - title: Махапрабху
+    slug: mahaprabhu
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Поэзия Шридхара Махараджа
+    slug: poeziya-shridhara-maharadzha
+  - title: Према-дхама-дева-стотрам
+    slug: prema-dhama-deva-stotram
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/008_MgnoveniyaPR_2.6_SridharMj_Svoim_tancem_Mahaprabhu_razdayet_bojestvennuyu_lyubov.mp3

@@ -1,8 +1,13 @@
 ---
-category: (04. Шри Кришна, Прекрасная Реальность)
+slug: 39-soznanie-krishny-kontseptsiya-lyubvi-i-kr
+category:
+  title: (04. Шри Кришна, Прекрасная Реальность)
+  slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - "1983.01"
-  - Кришна
+  - title: "1983.01"
+    slug: 1983-01
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/039_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3

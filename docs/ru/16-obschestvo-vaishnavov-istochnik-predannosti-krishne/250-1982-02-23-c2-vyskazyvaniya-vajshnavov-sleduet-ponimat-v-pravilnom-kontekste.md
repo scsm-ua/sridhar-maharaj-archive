@@ -1,7 +1,11 @@
 ---
-category: 16. Общество вайшнавов - источник преданности Кришне
+slug: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste
+category:
+  title: 16. Общество вайшнавов - источник преданности Кришне
+  slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - "1982.02"
+  - title: "1982.02"
+    slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3

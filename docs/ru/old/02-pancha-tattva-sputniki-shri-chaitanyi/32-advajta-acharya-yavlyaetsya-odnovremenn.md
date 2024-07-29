@@ -1,10 +1,17 @@
 ---
-category: (02. Панча-таттва, спутники Шри Чайтаньи)
+slug: 32-advajta-acharya-yavlyaetsya-odnovremenn
+category:
+  title: (02. Панча-таттва, спутники Шри Чайтаньи)
+  slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - Адвайта Ачарья
-  - Вишну
-  - Мгновения прекрасной реальности
-  - Шива
+  - title: Адвайта Ачарья
+    slug: advajta-acharya
+  - title: Вишну
+    slug: vishnu
+  - title: Мгновения прекрасной реальности
+    slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Шива
+    slug: shiva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/032_MgnoveniyaPR_8.1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3

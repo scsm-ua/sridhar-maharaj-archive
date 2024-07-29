@@ -1,7 +1,11 @@
 ---
-category: 54. Смирение и терпение
+slug: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo
+category:
+  title: 54. Смирение и терпение
+  slug: 54-smirenie-i-terpenie
 tags:
-  - "1985.05"
+  - title: "1985.05"
+    slug: 1985-05
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3

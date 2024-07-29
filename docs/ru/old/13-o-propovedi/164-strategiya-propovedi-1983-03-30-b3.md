@@ -1,7 +1,11 @@
 ---
-category: (13. О проповеди)
+slug: 164-strategiya-propovedi-1983-03-30-b3
+category:
+  title: (13. О проповеди)
+  slug: 13-o-propovedi
 tags:
-  - "1983.03"
+  - title: "1983.03"
+    slug: 1983-03
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/164_1983.03.30.B3_SridharMj_Strategiya_propovedi.mp3

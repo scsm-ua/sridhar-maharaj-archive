@@ -1,9 +1,15 @@
 ---
-category: 02. Кришна — Имя, Личность, темперамент
+slug: 024_1982-01-12-c3_sridharmj_krishna_ojidaet_polnogo_samoposvyaweniya
+category:
+  title: 02. Кришна — Имя, Личность, темперамент
+  slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - "1982.01"
-  - Коннотация и денотация
-  - Кришна
+  - title: "1982.01"
+    slug: 1982-01
+  - title: Коннотация и денотация
+    slug: konnotatsiya-i-denotatsiya
+  - title: Кришна
+    slug: krishna
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3

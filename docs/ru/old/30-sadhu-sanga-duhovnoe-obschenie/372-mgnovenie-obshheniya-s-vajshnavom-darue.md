@@ -1,8 +1,13 @@
 ---
-category: (30. Садху-санга - духовное общение)
+slug: 372-mgnovenie-obshheniya-s-vajshnavom-darue
+category:
+  title: (30. Садху-санга - духовное общение)
+  slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - "1984.01"
-  - Садху-санга
+  - title: "1984.01"
+    slug: 1984-01
+  - title: Садху-санга
+    slug: sadhu-sanga
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/372_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3

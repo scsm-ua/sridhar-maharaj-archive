@@ -1,8 +1,13 @@
 ---
-category: 17. Шри Гуру и его милость
+slug: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru
+category:
+  title: 17. Шри Гуру и его милость
+  slug: 17-shri-guru-i-ego-milost
 tags:
-  - "1983.11"
-  - Гуру-таттва
+  - title: "1983.11"
+    slug: 1983-11
+  - title: Гуру-таттва
+    slug: guru-tattva
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3

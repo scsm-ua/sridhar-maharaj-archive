@@ -1,7 +1,11 @@
 ---
-category: 68. Шри Чайтанья Сарасват Матх
+slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
+category:
+  title: 68. Шри Чайтанья Сарасват Матх
+  slug: 68-shri-chaitanya-saraswat-math
 tags:
-  - "1982.04"
+  - title: "1982.04"
+    slug: 1982-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3
