@@ -13,9 +13,7 @@ tags:
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
-    title: аудиозапись в MP3 (5 мин. 58
-  - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
-    title:  сек., 128 кбит/сек, 6.1 МБ)
+    title: аудиозапись в MP3 (5 мин. 58 сек., 128 кбит/сек, 6.1 МБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.rtf
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.pdf

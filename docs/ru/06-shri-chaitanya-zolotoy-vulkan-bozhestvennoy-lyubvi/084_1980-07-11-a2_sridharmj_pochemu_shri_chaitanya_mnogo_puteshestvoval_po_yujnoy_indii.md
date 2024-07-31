@@ -13,6 +13,13 @@ tags:
   - title: школы (сампрадайи) Вайшнавизма
     slug: shkoly-sampradaji-vajshnavizma
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+links:
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
+    title: аудиозапись в MP3 (01 мин. 51 сек., 1.9 МБ)
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.rtf
+    title: транскрипцию в RTF (48 КБ)
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.pdf
+    title: транскрипцию в PDF (135 КБ)
 ---
 
 # 084. 1980.07.11.A2 Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной?

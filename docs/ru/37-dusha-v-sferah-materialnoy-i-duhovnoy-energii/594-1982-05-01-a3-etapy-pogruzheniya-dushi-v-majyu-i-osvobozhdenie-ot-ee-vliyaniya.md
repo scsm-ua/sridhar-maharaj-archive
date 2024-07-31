@@ -10,11 +10,11 @@ tags:
     slug: dusha
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
-  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/
+  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.mp3
     title: аудиозапись в MP3 (8 мин. 32 сек., 9,4 МБ)
-  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/.rtf
+  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.rtf
     title: транскрипцию в RTF (100 КБ)
-  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/.pdf
+  - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.pdf
     title: транскрипцию в PDF (151 КБ)
 ---
 

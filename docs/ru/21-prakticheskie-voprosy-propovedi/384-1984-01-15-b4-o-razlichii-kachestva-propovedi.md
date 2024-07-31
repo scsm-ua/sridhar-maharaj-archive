@@ -10,11 +10,11 @@ tags:
     slug: propoved
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
-  - href: /dl/21._Prakticheskie_voprosy_propovedi/
+  - href: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
     title: аудиозапись в MP3 (1 мин. 15 сек., 1,4 МБ)
-  - href: /dl/21._Prakticheskie_voprosy_propovedi/.rtf
+  - href: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.rtf
     title: транскрипцию в RTF (37 КБ)
-  - href: /dl/21._Prakticheskie_voprosy_propovedi/.pdf
+  - href: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.pdf
     title: транскрипцию в PDF (80 КБ)
 ---
 

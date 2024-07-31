@@ -8,7 +8,7 @@ tags:
     slug: 1983-04
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3
     title: аудиозапись в MP3 (8 мин. 13 сек., 4,6 МБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.rtf
     title: транскрипцию в RTF (88 КБ)

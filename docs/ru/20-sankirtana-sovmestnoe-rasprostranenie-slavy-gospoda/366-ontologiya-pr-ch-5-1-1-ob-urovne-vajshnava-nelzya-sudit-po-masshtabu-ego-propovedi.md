@@ -10,11 +10,11 @@ tags:
     slug: sankirtana
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
-  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/
+  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3
     title: аудиозапись в MP3 (6 мин. 51 сек., 3,4 МБ)
-  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/.rtf
+  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.rtf
     title: транскрипцию в RTF (75 КБ)
-  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/.pdf
+  - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.pdf
     title: транскрипцию в PDF (142 КБ)
 ---
 

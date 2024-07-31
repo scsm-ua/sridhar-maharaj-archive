@@ -8,11 +8,11 @@ tags:
     slug: 1982-02
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
     title: аудиозапись в MP3 (13 мин. 06 сек., 6,9 МБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/.rtf
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.rtf
     title: транскрипцию в RTF (109 КБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/.pdf
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.pdf
     title: транскрипцию в PDF (152 КБ)
 ---
 
