@@ -1,3 +1,83 @@
+// const { transliterate } = require("./transliterator");
+
+const { Footnote } = require("./Footnote");
+
+const yml_re = /^---(.|\n)+---(\s|\n)+/m;
+
+class DocumentFile {
+
+    constructor(filename, content) {
+        this.filename = filename;
+        this.content = content;
+        this.footnotes = [];
+
+        this.parse();
+    }
+
+    parse() {
+        var yml_match = this.content.match(yml_re);
+        var content = this.content;
+        if (yml_match) {
+            this.yml_part = yml_match[0];
+            content = content.replace(yml_re, '');
+        }
+        
+        var lines = content.split('\n');
+        this.nodes = getLevel1Nodes(lines);
+        
+        var footnotes_nodes = getFootnotesNodes(this.nodes);
+        footnotes_nodes.forEach(nodes => {
+            this.footnotes.push(new Footnote(this, nodes));
+        });
+    }
+
+    renderFootnotes() {
+        var result = '';
+        if (this.footnotes.length) {
+            result += '---\n';
+            result += this.filename;
+            result += '\n---\n\n';
+            this.footnotes.forEach(footnote => {
+                result += footnote.renderDebug();
+            });
+        }
+        return result;
+    }
+}
+
+function getFootnotesNodes(nodes) {
+    var footnotes = [];
+    var current_footnote;
+    nodes.forEach(node => {
+        if (node.type === 'footnote') {
+            current_footnote = [];
+            current_footnote.push(node);
+            footnotes.push(current_footnote);
+        } else if (current_footnote) {
+
+            if (node.type === 'br') {
+
+                current_footnote.push(node);
+
+            } else if (node.type === 'footnote_tab') {
+
+                node = Object.assign({}, node, {type: 'code'});
+                current_footnote.push(node);
+
+            } else if (node.type === 'code') {
+
+                node = Object.assign({}, node, {type: 'p'});
+                current_footnote.push(node);
+
+            } else {
+                console.error('Unsupported in footnote', node);
+            }
+
+        }
+    });
+    return footnotes;
+}
+
 /**
 
 {
@@ -17,7 +97,6 @@
 }
 */
 
-var yml_match = /^---(.|\n)+---(\s|\n)+/m;
 
 function getLevel1Nodes(lines) {
 
@@ -75,84 +154,6 @@ function getLevel1Nodes(lines) {
     return nodes;
 }
 
-function getFootnotesNodes(nodes) {
-    var footnotes = [];
-    var current_footnote;
-    nodes.forEach(node => {
-        if (node.type === 'footnote') {
-            current_footnote = [];
-            current_footnote.push(node);
-            footnotes.push(current_footnote);
-        } else if (current_footnote) {
-
-            if (node.type === 'br') {
-
-                current_footnote.push(node);
-
-            } else if (node.type === 'footnote_tab') {
-
-                node = Object.assign({}, node, {type: 'code'});
-                current_footnote.push(node);
-
-            } else if (node.type === 'code') {
-
-                node = Object.assign({}, node, {type: 'p'});
-                current_footnote.push(node);
-
-            } else {
-                console.error('Unsupported in footnote', node);
-            }
-
-        }
-    });
-    return footnotes;
-}
-
-function renderFootnote(nodes) {
-    var md = '# ' + nodes[0].id + '\n\n';
-
-    nodes.forEach(node => {
-        switch(node.type) {
-            case "footnote":
-            case "p":
-                md += node.text  + '\n';
-                break;
-            case "code":
-                md += '    ' + node.text  + '\n';
-                break;
-            case "br":
-                md += '\n';
-                break;
-        }
-    });
-
-    return md;
-}
-
-exports.analyzeFootnotes = function(filename, content) {
-    content = content.replace(yml_match, '');
-    var lines = content.split('\n');
-    var nodes = getLevel1Nodes(lines);
-    // console.log(JSON.stringify(nodes, null, 4));
-    var footnotes_nodes = getFootnotesNodes(nodes);
-
-    var result = '';
-
-    if (footnotes_nodes.length) {
-        result += '---\n';
-        result += filename;
-        result += '\n---\n\n';
-        
-        footnotes_nodes.forEach(footnote => {
-            // console.log(JSON.stringify(footnote, null, 4));
-            var md = renderFootnote(footnote);
-            result += md;
-        });
-    }
-
-    return result;
-};
-
 var lines = {
     h1: /^# (.+)$/,
     tab: /^    (\S.+)$/,
@@ -179,3 +180,7 @@ function detectLine(line) {
         };
     }
 }
+
+module.exports = {
+    DocumentFile
+};
