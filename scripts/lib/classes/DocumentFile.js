@@ -6,7 +6,8 @@ const yml_re = /^---(.|\n)+---(\s|\n)+/m;
 
 class DocumentFile {
 
-    constructor(filename, content) {
+    constructor(factory, filename, content) {
+        this.factory = factory;
         this.filename = filename;
         this.content = content;
         this.footnotes = [];
