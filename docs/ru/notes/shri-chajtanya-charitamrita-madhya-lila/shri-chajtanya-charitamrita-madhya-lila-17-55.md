@@ -1,7 +1,6 @@
 ---
 slug: shri-chajtanya-charitamrita-madhya-lila-17-55
 refs:
-  - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/119-1982-05-09-b2-dlya-mahaprabhu-kazhdyj-holm-byl-govardhanom-a-kazhdyj-les-vrindavanom.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
   - ../../52-o-poklonenii-bozhestvam/810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu.md
@@ -15,9 +14,6 @@ tags:
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55
-
-«Шри Чайтанья-чаритамрита», Мадхья-лила, 17.55-56).
-
 
 «Идя по джунглям Джхарикханды, Шри Чайтанья Махапрабху был уверен, что это Вриндаван. А когда Он проходил мимо гор, Он принимал их за Говардхану» («Шри Чайтанья-чаритамрита», Мадхья-лила, 17.55).
 

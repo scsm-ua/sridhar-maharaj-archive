@@ -2,6 +2,7 @@
 slug: bhagavad-gita-4-34
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
+  - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/209-1981-12-01-chto-takoe-vedy.md
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty.md
   - ../../17-shri-guru-i-ego-milost/274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika.md
@@ -30,6 +31,8 @@ tags:
 # Бхагавад-гита 4.34
 
 *тад виддхи пран̣ипа̄тена, парипраш́нена севайа̄ / упадекш̣йанти те джн̃а̄нам̇, джн̃а̄нинас таттва-дарш́инах̣* — «Ты будешь способен обрести это знание, удовлетворив истинного духовного наставника. Со смирением обратись к нему и чистосердечно вопрошай, искренне служа ему. Лишь тот, кто обладает подлинным духовным опытом, способен передать его другим» («Бхагавад-гита», 4.34).
+
+Ссылка на стих Бхагавад-гиты (4.34): *тад виддхи пран̣ипа̄тена, парипраш́нена севайа̄ / упадекш̣йанти те джн̃а̄нам̇, джн̃а̄нинас таттва-дарш́инах̣* — «Ты сможешь обрести сознание Кришны, удовлетворив духовного учителя, со смирением вопрошая и искренне служа ему».
 
 «Ты сможешь постичь это знание по милости духовного учителя. Со смирением обратись к нему и чистосердечно вопрошай, искренне служа ему. Лишь тот, кто обладает подлинным духовным опытом, способен передать его другим» (Бхагавад-гита, 4.34).
 

@@ -1,6 +1,7 @@
 ---
 slug: bhagavad-gita-9-27
 refs:
+  - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu.md
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
   - ../../23-pamyatovanie-o-gospode-solnce-vishnu/410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
@@ -18,6 +19,8 @@ tags:
 ---
 
 # Бхагавад-гита 9.27
+
+[Далее Рамананда Рай в беседе с Махапрабху приводит стих из Бхагавад-гиты (9.27), в котором Господь Кришна, обращаясь к Арджуне, говорит:] «Каунтея, чем бы ты ни занимался: вкушаешь ли ты пищу, жертвуешь чем-либо или приносишь что-либо в дар, принимаешь ли обеты — совершай всю деятельность как подношение Мне» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.60).
 
 «Каунтея, чем бы ты ни занимался: вкушаешь ли ты пищу, жертвуешь чем-либо или приносишь что-либо в дар, совершаешь ли аскезы — совершай всю деятельность как подношение Мне» (Бхагавад-гита, 9.27).
 

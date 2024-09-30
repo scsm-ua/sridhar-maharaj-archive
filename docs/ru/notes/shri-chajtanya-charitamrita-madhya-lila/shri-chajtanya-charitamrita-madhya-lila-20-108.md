@@ -1,6 +1,7 @@
 ---
 slug: shri-chajtanya-charitamrita-madhya-lila-20-108
 refs:
+  - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
   - ../../11-chetyre-oblasti-bogosloviya-gosvami-vrindavana/146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany.md
   - ../../18-posvyaschenie/321-1983-01-31-smysl-i-sushhnost-posvyashheniya.md
   - ../../25-sluzhenie-krishne-trud-lyubvi/444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom.md
@@ -19,6 +20,8 @@ tags:
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+
+*джӣвера ’сварӯпа’ хайа — кр̣ш̣н̣ера ’нитйа-да̄са’ / кр̣ш̣н̣ера ’тат̣астха̄-ш́акти’ ’бхеда̄бхеда прака̄ш́а’* — «Естественное предназначение живого существа — вечно служить Кришне, ибо живое существо относится к пограничной энергии Кришны», «Шри Чайтанья-чаритамрита», Мадхья-лила, 20.108).
 
 *джӣвера ’сварӯпа’ хайа — кр̣ш̣н̣ера ’нитйа-да̄са’ / кр̣ш̣н̣ера ’тат̣астха̄-ш́акти’ ’бхеда̄бхеда прака̄ш́а’* — «Естественное предназначение живого существа — вечно служить Кришне, ибо живое существо относится к пограничной энергии Кришны» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.108).
 

@@ -5,6 +5,7 @@ refs:
   - ../../01-poisk-shri-krishny-prekrasnoy-realnosti/011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas.md
   - ../../02-krishna-imya-lichnost-temperament/023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie.md
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
+  - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu.md
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/132-1983-07-08-a2-kratkij-obzor-ramananda-samvady.md
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
   - ../../13-lila-igra-chudesnogo-absolyuta/165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny.md
@@ -66,6 +67,8 @@ tags:
 
 
 «Бхагавад-гита», 18.66.
+
+[Господь Кришна заключает в Бхагавад-гите (18.66):] «Оставь все виды долга и полностью вручи себя Мне. Я освобожу тебя от всех грехов. Не скорби ни о чем» (эту *шлоку* также цитирует Рамананда Рай в беседе с Махапрабху («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.63)).
 
 [Шри Кришна сказал Арджуне:] «Оставь все виды долга и прими прибежище лишь во Мне» (Бхагавад-гита, 18.66; цитируется в «Шри Чайтанья-чаритамрите», Мадхья-лила, 8.63).
 
