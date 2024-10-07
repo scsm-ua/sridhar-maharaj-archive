@@ -5,10 +5,16 @@ refs:
   - ../../19-maha-mantra-svyatoe-imya/337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre.md
   - ../../45-iskrennost-i-progress/741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti.md
 tags:
+  - title: «Махабхараты», Вана-парва
+    slug: mahabharaty-vana-parva
+  - title: «Махабхараты», Вана-парва 313.117
+    slug: mahabharaty-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-57
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186

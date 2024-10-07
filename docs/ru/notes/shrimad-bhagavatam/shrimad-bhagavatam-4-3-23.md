@@ -7,6 +7,10 @@ refs:
   - ../../40-bog-i-bogi/678-1982-02-24-a3-mahadev-o-vishuddha-sattve.md
   - ../../60-uchenie-vaishnavov-i-hristianstvo/906-1983-04-25-a4-impersonalizm-i-lichnostnaya-kontseptsiya-boga-v-hristianstve.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.3.23

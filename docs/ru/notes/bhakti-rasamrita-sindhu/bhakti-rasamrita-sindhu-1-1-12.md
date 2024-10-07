@@ -10,6 +10,10 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12

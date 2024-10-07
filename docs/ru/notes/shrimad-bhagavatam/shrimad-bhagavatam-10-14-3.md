@@ -25,6 +25,10 @@ refs:
   - ../../55-samopozhertvovanie/841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3

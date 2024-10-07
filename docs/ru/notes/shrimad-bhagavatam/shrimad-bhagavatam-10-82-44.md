@@ -5,6 +5,16 @@ refs:
   - ../../28-molitvy-i-umonastroenie-gopi/481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
   - ../../28-molitvy-i-umonastroenie-gopi/484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
+    slug: shri-chajtanya-charitamrita-adi-lila-4-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-160
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.89
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-89
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.44

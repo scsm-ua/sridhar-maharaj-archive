@@ -18,6 +18,10 @@ refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.54

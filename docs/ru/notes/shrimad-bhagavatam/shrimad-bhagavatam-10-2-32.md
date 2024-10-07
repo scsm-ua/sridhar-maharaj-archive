@@ -15,6 +15,16 @@ refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32

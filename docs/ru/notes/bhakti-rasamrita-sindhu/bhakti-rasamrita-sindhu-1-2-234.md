@@ -20,6 +20,10 @@ refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/869-1983-05-23-a2-voobrazhaemyj-gauranga.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234

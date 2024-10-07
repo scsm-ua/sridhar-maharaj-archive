@@ -8,6 +8,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-264
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62

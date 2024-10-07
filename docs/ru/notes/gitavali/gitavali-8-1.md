@@ -7,6 +7,8 @@ refs:
 tags:
   - title: Гитавали
     slug: gitavali
+  - title: Гитавали 2
+    slug: gitavali-2
   - title: Гитавали 8-1
     slug: gitavali-8-1
 ---

@@ -6,8 +6,12 @@ refs:
 tags:
   - title: Атма-самарпане
     slug: atma-samarpane
+  - title: Атма-самарпане 10
+    slug: atma-samarpane-10
   - title: Атма-самарпане 5
     slug: atma-samarpane-5
+  - title: Атма-самарпане 6
+    slug: atma-samarpane-6
 ---
 
 # Атма-самарпане 5

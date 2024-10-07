@@ -8,6 +8,12 @@ refs:
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-264
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.32

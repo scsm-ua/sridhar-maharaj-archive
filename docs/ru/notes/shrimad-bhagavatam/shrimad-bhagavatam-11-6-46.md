@@ -6,6 +6,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-237
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.6.46

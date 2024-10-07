@@ -12,6 +12,8 @@ refs:
 tags:
   - title: «Падма-пурана», Уттара-кханда
     slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 22
+    slug: padma-purana-uttara-khanda-22
   - title: «Падма-пурана», Уттара-кханда 92.21
     slug: padma-purana-uttara-khanda-92-21
 ---

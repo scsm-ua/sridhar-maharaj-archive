@@ -15,6 +15,10 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura.md
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27

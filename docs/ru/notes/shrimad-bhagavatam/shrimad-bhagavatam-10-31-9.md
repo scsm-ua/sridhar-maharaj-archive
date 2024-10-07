@@ -9,6 +9,10 @@ refs:
   - ../../56-samootricanie/857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9

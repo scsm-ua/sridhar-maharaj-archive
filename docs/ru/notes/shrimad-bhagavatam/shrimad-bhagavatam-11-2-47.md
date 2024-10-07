@@ -8,6 +8,10 @@ refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam.md
   - ../../52-o-poklonenii-bozhestvam/810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-74
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.47

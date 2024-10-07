@@ -3,6 +3,10 @@ slug: shrimad-bhagavatam-11-2-30
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.85
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-85
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.30

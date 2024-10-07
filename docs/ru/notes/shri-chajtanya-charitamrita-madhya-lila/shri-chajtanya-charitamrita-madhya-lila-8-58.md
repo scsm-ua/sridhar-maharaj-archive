@@ -7,6 +7,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
     slug: shri-chajtanya-charitamrita-madhya-lila-8-58
+  - title: Вишну-пурана
+    slug: vishnu-purana
+  - title: Вишну-пурана 3.8.9
+    slug: vishnu-purana-3-8-9
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58

@@ -4,15 +4,22 @@ const { relative } = require('path');
 
 class FootnoteFile {
 
-    constructor(text, tag, dir) {
-        this.text = text;
-        this.tag = tag;
+    constructor(group, title, dir) {
+        this.group = group;
+        this.title = title;
+        this.tags = [];
         this.footnotes = [];
         this.dir = dir;
     }
 
     addFootnote(footnote) {
         this.footnotes.push(footnote);
+
+        [...footnote.getUsedScripturesNamesWithNubmers(), ...footnote.getUsedScripturesNames()].forEach(tag => {
+            if (this.tags.indexOf(tag) === -1) {
+                this.tags.push(tag);
+            }
+        });
     }
 
     renderFootnotes() {
@@ -32,33 +39,33 @@ class FootnoteFile {
     }
 
     getFileSlug() {
-        return transliterate(this.text);
+        return transliterate(this.title);
     }
 
-    getTagSlug() {
-        return transliterate(this.tag);
+    getGroupSlug() {
+        return transliterate(this.group);
     }
 
     getDir() {
-        return this.dir + '/' + this.getTagSlug() + '/';
+        return this.dir + '/' + this.getGroupSlug() + '/';
     }
 
     renderFile() {
         if (this.footnotes.length) {
+            this.tags.sort();
             var meta = {
                 slug: this.getFileSlug(),
                 refs: this.footnotes.map(f => relative(this.getDir(), f.documentFile.filename)),
-                tags: [{
-                    title: this.tag,
-                    slug: this.getTagSlug()
-                }, {
-                    title: this.text,
-                    slug: this.getFileSlug()
-                }]
+                tags: this.tags.map(tag => {
+                    return {
+                        title: tag,
+                        slug: transliterate(tag)
+                    }
+                })
             };
 
             var meta_str = stringify(meta);
-            return `---\n${ meta_str }---\n\n` + `# ${ this.text }\n\n` + this.renderFootnotes();
+            return `---\n${ meta_str }---\n\n` + `# ${ this.title }\n\n` + this.renderFootnotes();
         }
     }
 }

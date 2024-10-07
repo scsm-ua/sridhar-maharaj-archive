@@ -4,6 +4,10 @@ refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
 tags:
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 25.7
+    slug: padma-purana-uttara-khanda-25-7
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.182

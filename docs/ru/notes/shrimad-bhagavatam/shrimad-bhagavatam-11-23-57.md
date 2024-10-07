@@ -6,6 +6,10 @@ refs:
   - ../../22-sannyasa-otrechenie-ot-mira/401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava.md
   - ../../73-povtory-i-variacii/1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii/1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.57

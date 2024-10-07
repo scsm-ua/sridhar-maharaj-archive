@@ -15,6 +15,12 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5

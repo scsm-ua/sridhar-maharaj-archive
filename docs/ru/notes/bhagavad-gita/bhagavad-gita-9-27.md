@@ -12,6 +12,10 @@ refs:
   - ../../40-bog-i-bogi/690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 9.27

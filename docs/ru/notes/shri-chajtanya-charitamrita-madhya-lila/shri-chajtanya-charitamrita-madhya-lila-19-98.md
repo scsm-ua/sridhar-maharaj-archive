@@ -9,6 +9,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
     slug: shri-chajtanya-charitamrita-madhya-lila-19-98
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 99
+    slug: padyavali-99
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98

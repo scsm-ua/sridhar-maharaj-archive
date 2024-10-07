@@ -7,6 +7,14 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam.md
   - ../../61-ob-ezotericheskih-ucheniyah/911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.4

@@ -11,6 +11,10 @@ refs:
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.39

@@ -3,6 +3,10 @@ slug: shrimad-bhagavatam-11-28-1
 refs:
   - ../../17-shri-guru-i-ego-milost/308-1983-07-30-a-b-mayaki-v-bezgranichnom.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.78
+    slug: shri-chajtanya-charitamrita-antya-lila-8-78
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.28.1

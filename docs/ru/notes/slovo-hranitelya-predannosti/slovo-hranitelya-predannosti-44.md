@@ -5,6 +5,8 @@ refs:
 tags:
   - title: Слово Хранителя Преданности
     slug: slovo-hranitelya-predannosti
+  - title: Слово Хранителя Преданности 438
+    slug: slovo-hranitelya-predannosti-438
   - title: Слово Хранителя Преданности 44
     slug: slovo-hranitelya-predannosti-44
 ---

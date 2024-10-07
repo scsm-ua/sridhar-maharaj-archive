@@ -6,6 +6,10 @@ refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh.md
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
+    slug: shri-chajtanya-charitamrita-adi-lila-5-36
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.278

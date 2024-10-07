@@ -6,6 +6,10 @@ refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode.md
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-16
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35

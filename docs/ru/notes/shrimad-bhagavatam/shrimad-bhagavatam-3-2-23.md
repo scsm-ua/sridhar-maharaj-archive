@@ -5,6 +5,10 @@ refs:
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/934-1982-01-30-a-b-odin-svyatoj-den-1982.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.98
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-98
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 3.2.23

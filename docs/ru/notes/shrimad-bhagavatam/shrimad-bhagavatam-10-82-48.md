@@ -4,6 +4,16 @@ refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom.md
   - ../../28-molitvy-i-umonastroenie-gopi/481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.81
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-81
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-136
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 8.26
+    slug: shri-shri-prapanna-dzhivanamritam-8-26
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.48

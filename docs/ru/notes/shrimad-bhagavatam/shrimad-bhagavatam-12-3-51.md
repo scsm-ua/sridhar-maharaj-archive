@@ -5,6 +5,10 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah.md
   - ../../21-prakticheskie-voprosy-propovedi/381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-344
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.3.51

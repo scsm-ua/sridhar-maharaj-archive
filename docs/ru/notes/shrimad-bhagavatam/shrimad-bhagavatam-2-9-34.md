@@ -6,6 +6,14 @@ refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
+    slug: shri-chajtanya-charitamrita-adi-lila-1-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-119
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.34

@@ -12,6 +12,14 @@ refs:
   - ../../60-uchenie-vaishnavov-i-hristianstvo/904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45

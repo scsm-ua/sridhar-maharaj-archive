@@ -7,6 +7,14 @@ refs:
   - ../../41-stremlenie-k-idealu-istinnoe-bogatstvo/699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
   - ../../49-bhakti-velichie-predannosti-krishne/764-1982-07-03-c3-pobeda-lyubvi.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.29.34

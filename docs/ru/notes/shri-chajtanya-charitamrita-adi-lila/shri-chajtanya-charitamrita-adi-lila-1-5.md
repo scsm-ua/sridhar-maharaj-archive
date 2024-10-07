@@ -18,6 +18,8 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
 ---
 
 # «Шри Чайтанья-чаритамрита», Ади-лила 1.5

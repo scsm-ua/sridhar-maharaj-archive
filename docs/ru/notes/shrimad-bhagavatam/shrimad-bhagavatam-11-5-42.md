@@ -5,6 +5,10 @@ refs:
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.42

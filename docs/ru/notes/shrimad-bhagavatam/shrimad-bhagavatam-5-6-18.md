@@ -4,6 +4,10 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.19
+    slug: shri-chajtanya-charitamrita-adi-lila-8-19
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.6.18

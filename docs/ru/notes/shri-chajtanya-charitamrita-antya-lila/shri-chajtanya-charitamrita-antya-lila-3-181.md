@@ -7,6 +7,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.181
     slug: shri-chajtanya-charitamrita-antya-lila-3-181
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 16
+    slug: padyavali-16
 ---
 
 # «Шри Чайтанья-чаритамрита», Антья-лила 3.181

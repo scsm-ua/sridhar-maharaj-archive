@@ -2,6 +2,15 @@ var fs = require('fs');
 const { DocumentFile } = require('./DocumentFile');
 const { FootnoteFile } = require('./FootnoteFile');
 
+var scripturesUsageFix = {
+    'Бхагавад-гита': 2000,
+    'Шримад-Бхагаватам': 1000
+};
+
+function fixScripturePriority(name, usageCount) {
+    return usageCount + (scripturesUsageFix[name] || 0);
+}
+
 class FilesFactory {
 
     constructor(root, filename_re) {
@@ -9,6 +18,9 @@ class FilesFactory {
         this.filename_re = filename_re;
         this.documents = [];
         this.footnotes = [];
+        this.scripturesUsage = {};
+        this.scripturesVersesUsage = {};
+        this.scripturesUsageByVerses = {};
         this.footnotesFiles = {};
         this.footnotesDir = this.root + '/notes/';
     }
@@ -19,20 +31,77 @@ class FilesFactory {
             var doc = new DocumentFile(this, filename, content);
             this.documents.push(doc);
         });
+
+        this.createFootnoteFiles();
+    }
+
+    createFootnoteFiles() {
+
+        // TOOD: render stats
+
+        var sortedScripturesUsage = Object.entries(this.scripturesUsage);
+        sortedScripturesUsage.sort((a, b) => b[1] - a[1]);
+        console.log(sortedScripturesUsage)
+
+        var sortedScripturesVersesUsage = Object.entries(this.scripturesVersesUsage);
+        sortedScripturesVersesUsage.sort((a, b) => b[1] - a[1]);
+        // console.log(sortedScripturesVersesUsage)
+
+        var scripturesByUniqueVerses = Object.entries(this.scripturesUsageByVerses).map(([scripture, verses]) => {
+            return [
+                scripture,
+                Object.keys(verses).length
+            ];
+        });
+        scripturesByUniqueVerses.sort((a, b) => b[1] - a[1]);
+        // console.log(scripturesByUniqueVerses)
+        // console.log(this.scripturesUsageByVerses)
+
+        this.footnotes.forEach(footnote => {
+
+            var usedScriptures = [];
+
+            (footnote.getUsedScripturesWithNamesItems() || []).forEach(item => {
+                // TODO: test variatons by verses count.
+                usedScriptures.push([item.name, item.number, fixScripturePriority(this.scripturesUsage[item.name])]);
+            });
+            if (usedScriptures.length > 0) {
+                // Sort by usage.
+                usedScriptures.sort((a, b) => b[2] - a[2]);
+                var scriptureName = usedScriptures[0][0];
+                var scriptureVerse = usedScriptures[0][1];
+
+                var scriptureNameWithNumber = `${scriptureName} ${scriptureVerse}`;
+    
+                if (!this.footnotesFiles[scriptureNameWithNumber]) {
+                    this.footnotesFiles[scriptureNameWithNumber] = new FootnoteFile(
+                        scriptureName, 
+                        scriptureNameWithNumber, 
+                        this.footnotesDir
+                    );
+                }
+                var footnoteFile = this.footnotesFiles[scriptureNameWithNumber];
+                footnoteFile.addFootnote(footnote);
+            }
+        })
     }
 
     addFootnote(footnote) {
         this.footnotes.push(footnote);
 
-        var scriptureName = footnote.getScriptureName();
-        var scriptureNameWithNumber = footnote.getScriptureNameWithNumber();
-        if (scriptureNameWithNumber) {
-            if (!this.footnotesFiles[scriptureNameWithNumber]) {
-                this.footnotesFiles[scriptureNameWithNumber] = new FootnoteFile(scriptureNameWithNumber, scriptureName, this.footnotesDir);
-            }
-            var footnoteFile = this.footnotesFiles[scriptureNameWithNumber];
-            footnoteFile.addFootnote(footnote);
-        }
+        (footnote.getUsedScripturesNames() || []).forEach(name => {
+            this.scripturesUsage[name] = (this.scripturesUsage[name] || 0) + 1;
+        });
+
+        (footnote.getUsedScripturesNamesWithNubmers() || []).forEach(name => {
+            this.scripturesVersesUsage[name] = (this.scripturesVersesUsage[name] || 0) + 1;
+        });
+
+        (footnote.getUsedScripturesWithNamesItems() || []).forEach(item => {
+            var group = this.scripturesUsageByVerses[item.name] = this.scripturesUsageByVerses[item.name] || {};
+            group[item.number] = (group[item.number] || 0) + 1;
+        });
+        
     }
 
     renderFootnoteFiles() {

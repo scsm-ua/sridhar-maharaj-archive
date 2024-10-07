@@ -11,6 +11,14 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti.md
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-119
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-137
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-138
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37

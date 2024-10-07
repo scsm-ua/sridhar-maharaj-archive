@@ -28,6 +28,10 @@ refs:
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61

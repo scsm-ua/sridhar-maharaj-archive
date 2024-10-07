@@ -9,6 +9,8 @@ tags:
     slug: kalyana-kalpataru
   - title: Кальяна-калпатару 1.18.6
     slug: kalyana-kalpataru-1-18-6
+  - title: Кальяна-калпатару 1.19.1
+    slug: kalyana-kalpataru-1-19-1
 ---
 
 # Кальяна-калпатару 1.18.6

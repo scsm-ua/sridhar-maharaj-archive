@@ -5,6 +5,10 @@ refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.56

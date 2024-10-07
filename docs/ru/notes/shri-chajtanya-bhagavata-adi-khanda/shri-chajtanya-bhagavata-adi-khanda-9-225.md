@@ -6,6 +6,8 @@ refs:
 tags:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 17.158
+    slug: shri-chajtanya-bhagavata-adi-khanda-17-158
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 9.225
     slug: shri-chajtanya-bhagavata-adi-khanda-9-225
 ---

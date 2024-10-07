@@ -7,6 +7,10 @@ refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
   - ../../42-borba-predannosti-s-materializmom-ochischenie-serdca/705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
+    slug: shri-chajtanya-charitamrita-adi-lila-5-35
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.1.30

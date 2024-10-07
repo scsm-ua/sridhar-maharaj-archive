@@ -7,6 +7,12 @@ tags:
     slug: shri-radha-bhadzhana-mahima
   - title: Шри Радха-бхаджана махима 1
     slug: shri-radha-bhadzhana-mahima-1
+  - title: Шри Радха-бхаджана махима 2
+    slug: shri-radha-bhadzhana-mahima-2
+  - title: Шри Радха-бхаджана махима 7
+    slug: shri-radha-bhadzhana-mahima-7
+  - title: Шри Радха-бхаджана махима 8
+    slug: shri-radha-bhadzhana-mahima-8
 ---
 
 # Шри Радха-бхаджана махима 1

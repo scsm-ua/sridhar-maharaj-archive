@@ -53,6 +53,14 @@ refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1075-miloserdie-vajshnava.md
   - ../../68-shri-chaitanya-saraswat-math/1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.66

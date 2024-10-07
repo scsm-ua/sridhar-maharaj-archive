@@ -7,6 +7,8 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.33
     slug: shrimad-bhagavatam-11-5-33
+  - title: Шримад-Бхагаватам 34
+    slug: shrimad-bhagavatam-34
 ---
 
 # Шримад-Бхагаватам 11.5.33

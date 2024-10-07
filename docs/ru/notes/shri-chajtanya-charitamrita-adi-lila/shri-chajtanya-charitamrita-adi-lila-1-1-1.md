@@ -7,6 +7,8 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1
     slug: shri-chajtanya-charitamrita-adi-lila-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.34
+    slug: shri-chajtanya-charitamrita-adi-lila-1-1-34
 ---
 
 # «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1

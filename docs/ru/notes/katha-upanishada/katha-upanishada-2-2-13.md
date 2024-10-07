@@ -9,6 +9,14 @@ tags:
     slug: katha-upanishada
   - title: Катха-Упанишада 2.2.13
     slug: katha-upanishada-2-2-13
+  - title: Чхандогья-упанишада
+    slug: chhandogya-upanishada
+  - title: Чхандогья-упанишада 6.2.3
+    slug: chhandogya-upanishada-6-2-3
+  - title: Шветашватара-упанишада
+    slug: shvetashvatara-upanishada
+  - title: Шветашватара-упанишада 6.13
+    slug: shvetashvatara-upanishada-6-13
 ---
 
 # Катха-Упанишада 2.2.13

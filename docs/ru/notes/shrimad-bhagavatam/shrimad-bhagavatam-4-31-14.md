@@ -8,6 +8,10 @@ refs:
   - ../../48-vera/755-1983-01-11-c-chto-takoe-vera.md
   - ../../55-samopozhertvovanie/843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-63
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.31.14

@@ -8,6 +8,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
     slug: shri-chajtanya-charitamrita-madhya-lila-3-28
+  - title: Шри Чайтанья-чандродая-натака
+    slug: shri-chajtanya-chandrodaya-nataka
+  - title: Шри Чайтанья-чандродая-натака 5.13
+    slug: shri-chajtanya-chandrodaya-nataka-5-13
 ---
 
 # «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28

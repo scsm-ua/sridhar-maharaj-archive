@@ -7,6 +7,10 @@ refs:
   - ../../17-shri-guru-i-ego-milost/282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru.md
   - ../../21-prakticheskie-voprosy-propovedi/382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.46

@@ -37,10 +37,16 @@ refs:
   - ../../61-ob-ezotericheskih-ucheniyah/912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: Бхакти-расамрита-синдху 12
+    slug: bhakti-rasamrita-sindhu-12
 ---
 
 # Бхакти-расамрита-синдху 1.1.11

@@ -3,10 +3,16 @@ slug: shrimad-bhagavatam-10
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10
     slug: shrimad-bhagavatam-10
+  - title: Шримад-Бхагаватам 14.3
+    slug: shrimad-bhagavatam-14-3
 ---
 
 # Шримад-Бхагаватам 10

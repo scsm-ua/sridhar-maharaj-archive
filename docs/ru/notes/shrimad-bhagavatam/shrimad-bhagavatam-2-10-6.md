@@ -9,6 +9,10 @@ refs:
   - ../../40-bog-i-bogi/685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-135
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.10.6
