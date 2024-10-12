@@ -1,15 +1,14 @@
 ---
-slug: sharanagati-4-7
+slug: bhakti-anukula-matra-4-7
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny.md
 tags:
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 4.7
-    slug: sharanagati-4-7
+  - title: Бхакти-анукула-матра
+    slug: bhakti-anukula-matra
+  - title: Бхакти-анукула-матра 4.7
+    slug: bhakti-anukula-matra-4-7
 ---
 
-# Шаранагати 4.7
+# Бхакти-анукула-матра 4.7
 
 *е саба чхорато канхи нахи джау / е саба чхорато парана харау* — «Я отказываюсь быть там, где нет этих трансцендентных атрибутов преданного служения, ибо не иметь их значит не иметь самой жизни» (Шрила Бхактивинод Тхакур, «Шаранагати», «Бхакти-анукула-матра, (принятие действий, развивающих чистую преданность)», 4.7).
-

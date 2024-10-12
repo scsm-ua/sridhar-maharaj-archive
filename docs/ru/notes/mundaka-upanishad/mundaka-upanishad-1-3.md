@@ -3,6 +3,7 @@ slug: mundaka-upanishad-1-3
 refs:
   - ../../01-poisk-shri-krishny-prekrasnoy-realnosti/004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md
   - ../../02-krishna-imya-lichnost-temperament/017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved.md
+  - ../../02-krishna-imya-lichnost-temperament/019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi.md
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni.md
   - ../../17-shri-guru-i-ego-milost/270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
@@ -24,8 +25,8 @@ tags:
 
 # Мундака Упанишад 1.3
 
-«Познав То [сферу духовного], познаешь все; достигнув Того [Всевышнего], достигаешь всего» («Мундака Упанишад», 1.3).
-
-
 *йасмин виджн̃а̄те сарвам эвам виджн̃а̄там бхавати / йасмин пра̄пте сарвам идам̇ пра̄птам̇ бхавати* — «Познав То [сферу духовного], познаешь все; достигнув Того [Всевышнего], достигаешь всего» («Мундака Упанишад», 1.3).
 
+---
+
+«Познав То [сферу духовного], познаешь все; достигнув Того [Всевышнего], достигаешь всего» («Мундака Упанишад», 1.3).
