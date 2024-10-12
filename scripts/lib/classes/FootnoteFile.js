@@ -4,9 +4,10 @@ const { relative } = require('path');
 
 class FootnoteFile {
 
-    constructor(group, title, dir) {
+    constructor(group, title, slug, dir) {
         this.group = group;
         this.title = title;
+        this.slug = slug;
         this.tags = [];
         this.footnotes = [];
         this.dir = dir;
@@ -15,7 +16,9 @@ class FootnoteFile {
     addFootnote(footnote) {
         this.footnotes.push(footnote);
 
-        [...footnote.getUsedScripturesNamesWithNubmers(), ...footnote.getUsedScripturesNames()].forEach(tag => {
+        footnote.file = this;
+
+        [...footnote.getUsedScripturesNamesWithNubmers() || [], ...footnote.getUsedScripturesNames() || []].forEach(tag => {
             if (this.tags.indexOf(tag) === -1) {
                 this.tags.push(tag);
             }
@@ -23,23 +26,29 @@ class FootnoteFile {
     }
 
     renderFootnotes() {
-        var result = '';
+        var itemsStr = [];
         var uniqueTexts = {};
         if (this.footnotes.length) {
             this.footnotes.forEach(footnote => {
-                var md = footnote.getMD();
-                var md_trim = md.trim().replace(/\u00A0/g, ' ');
+                var md = footnote.getMD().trim();
+                var md_trim = md.replace(/\u00A0/g, ' ');
                 if (!uniqueTexts[md_trim]) {
                     uniqueTexts[md_trim] = 1;
-                    result += md;
+                    itemsStr.push(md);
+                    
                 }
             });
         }
-        return result;
+
+        itemsStr.sort((a, b) => {
+            return b.length - a.length;
+        });
+
+        return itemsStr.join('\n\n---\n\n') + '\n';
     }
 
     getFileSlug() {
-        return transliterate(this.title);
+        return transliterate(this.slug);
     }
 
     getGroupSlug() {
@@ -65,7 +74,14 @@ class FootnoteFile {
             };
 
             var meta_str = stringify(meta);
-            return `---\n${ meta_str }---\n\n` + `# ${ this.title }\n\n` + this.renderFootnotes();
+
+            var result = `---\n${ meta_str }---\n\n`;
+            if (this.title) {
+                result += `# ${ this.title }\n\n`;
+            }
+            result += this.renderFootnotes();
+
+            return result;
         }
     }
 }

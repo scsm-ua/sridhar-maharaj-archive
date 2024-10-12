@@ -11,6 +11,8 @@ function fixScripturePriority(name, usageCount) {
     return usageCount + (scripturesUsageFix[name] || 0);
 }
 
+var debugCount = 1;
+
 class FilesFactory {
 
     constructor(root, filename_re) {
@@ -33,6 +35,8 @@ class FilesFactory {
         });
 
         this.createFootnoteFiles();
+
+        analyzeFootnotes2(this.footnotes);
     }
 
     createFootnoteFiles() {
@@ -41,7 +45,7 @@ class FilesFactory {
 
         var sortedScripturesUsage = Object.entries(this.scripturesUsage);
         sortedScripturesUsage.sort((a, b) => b[1] - a[1]);
-        console.log(sortedScripturesUsage)
+        // console.log(sortedScripturesUsage)
 
         var sortedScripturesVersesUsage = Object.entries(this.scripturesVersesUsage);
         sortedScripturesVersesUsage.sort((a, b) => b[1] - a[1]);
@@ -77,13 +81,27 @@ class FilesFactory {
                     this.footnotesFiles[scriptureNameWithNumber] = new FootnoteFile(
                         scriptureName, 
                         scriptureNameWithNumber, 
+                        scriptureNameWithNumber, 
                         this.footnotesDir
                     );
                 }
                 var footnoteFile = this.footnotesFiles[scriptureNameWithNumber];
                 footnoteFile.addFootnote(footnote);
+
+            } else if (footnote.shloka) {
+                
+                if (!this.footnotesFiles[footnote.shloka]) {
+                    this.footnotesFiles[footnote.shloka] = new FootnoteFile(
+                        'shloka', 
+                        null, 
+                        footnote.shloka.split(/\s/).slice(0, 5).join(' '), 
+                        this.footnotesDir
+                    );
+                }
+                var footnoteFile = this.footnotesFiles[footnote.shloka];
+                footnoteFile.addFootnote(footnote);
             }
-        })
+        });
     }
 
     addFootnote(footnote) {
@@ -182,6 +200,59 @@ class FilesFactory {
         processDir(dir);
     }
 }
+
+var quotes_dict = {};
+
+function extractStartQuote(text) {
+    var m = text.match(/^\*[^\*]+\*/);
+    if (m) {
+        return m[0].toLowerCase();
+    }
+}
+
+function analyzeFootnotes2(all_footnotes)  {
+    for(var i = 0; i < all_footnotes.length; i++) {
+        var f1 = all_footnotes[i];
+        if (f1.file) {
+            continue;
+        }
+
+        for(var j = i + 1; j < all_footnotes.length; j++) {
+            var f2 = all_footnotes[j];
+            if (f2.file || f2.similar) {
+                continue;
+            }
+
+            var ins = f1.words_set.intersection(f2.words_set);
+            var f1p = ins.size / f1.words_set.size;
+            var f2p = ins.size / f2.words_set.size;
+
+            if (f1p > 0.5 && f2p > 0.5 && f1.words_set.size > 2 && f2.words_set.size > 2) {
+
+                // console.log('i', debugCount++, i, j, all_footnotes.length);
+                // console.log('=================', f1.words_set.size, f2.words_set.size, ins.size, f1p, f2p);
+                // // console.log('=================', f1.words_set, f2.words_set, ins);
+                // console.log(f1.md)
+                // console.log('----');
+                // console.log(f2.md);
+
+                var q1 = extractStartQuote(f1.md);
+                var q2 = extractStartQuote(f2.md);
+
+                quotes_dict[q1] = (quotes_dict[q1] || 0) + 1;
+                quotes_dict[q2] = (quotes_dict[q2] || 0) + 1;
+
+                if (!q1 && !q2) {
+                    console.log('i', debugCount++, i, j, all_footnotes.length);
+                    console.log(f2.md);
+                }
+
+                f2.similar = true;
+            }
+        }
+    }
+    // console.log(Object.keys(quotes_dict).length, quotes_dict)
+};
 
 module.exports = {
     FilesFactory

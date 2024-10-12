@@ -1,5 +1,7 @@
 // const { transliterate } = require("./transliterator");
 
+/// TODO: – use short between 1-2 => 1–2 
+
 const { Footnote } = require("./Footnote");
 
 const yml_re = /^---(.|\n)+---(\s|\n)+/m;
