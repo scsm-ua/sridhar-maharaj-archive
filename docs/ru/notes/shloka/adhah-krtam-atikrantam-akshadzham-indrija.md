@@ -1,5 +1,5 @@
 ---
-slug: adhah-krtam-atikrantam-akshadzham-indrija-dzham
+slug: adhah-krtam-atikrantam-akshadzham-indrija
 refs:
   - ../../14-kak-poznat-i-uvidet-boga/206-1983-07-28-a2-o-vospriyatii-bozhestvennogo.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem.md

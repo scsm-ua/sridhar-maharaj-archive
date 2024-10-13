@@ -1,5 +1,5 @@
 ---
-slug: namno-balad-jasja-hi-papa-buddhir
+slug: namno-balad-jasja-hi-papa
 refs:
   - ../../19-maha-mantra-svyatoe-imya/342-1982-01-07-b-10-oskorblenij-svyatogo-imeni.md
   - ../../19-maha-mantra-svyatoe-imya/345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni.md

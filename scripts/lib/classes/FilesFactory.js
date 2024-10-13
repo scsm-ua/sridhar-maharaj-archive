@@ -63,6 +63,14 @@ class FilesFactory {
 
         this.footnotes.forEach(footnote => {
 
+            // console.log('---');
+            // console.log(footnote.md);
+            // console.log(Array.from(footnote.words_set).join(' '));
+            
+            // console.log(footnote.scriptureNumbers);
+            // console.log(footnote.scriptureNames);
+            // console.log(footnote.shloka);
+
             var usedScriptures = [];
 
             (footnote.getUsedScripturesWithNamesItems() || []).forEach(item => {
@@ -94,7 +102,7 @@ class FilesFactory {
                     this.footnotesFiles[footnote.shloka] = new FootnoteFile(
                         'shloka', 
                         null, 
-                        footnote.shloka.split(/\s/).slice(0, 5).join(' '), 
+                        footnote.shloka.split(/[\s‑—–-]/).slice(0, 5).join(' '), 
                         this.footnotesDir
                     );
                 }
@@ -213,9 +221,9 @@ function extractStartQuote(text) {
 function analyzeFootnotes2(all_footnotes)  {
     for(var i = 0; i < all_footnotes.length; i++) {
         var f1 = all_footnotes[i];
-        if (f1.file) {
-            continue;
-        }
+        // if (f1.file) {
+        //     continue;
+        // }
 
         for(var j = i + 1; j < all_footnotes.length; j++) {
             var f2 = all_footnotes[j];
@@ -227,27 +235,28 @@ function analyzeFootnotes2(all_footnotes)  {
             var f1p = ins.size / f1.words_set.size;
             var f2p = ins.size / f2.words_set.size;
 
-            if (f1p > 0.5 && f2p > 0.5 && f1.words_set.size > 2 && f2.words_set.size > 2) {
+            if (f1p > 0.5 && f2p > 0.5 && f1.words_set.size > 2 && f2.words_set.size > 2 && (!f1.file || !f2.file)) {
 
-                // console.log('i', debugCount++, i, j, all_footnotes.length);
-                // console.log('=================', f1.words_set.size, f2.words_set.size, ins.size, f1p, f2p);
-                // // console.log('=================', f1.words_set, f2.words_set, ins);
-                // console.log(f1.md)
-                // console.log('----');
-                // console.log(f2.md);
+                console.log('i', debugCount++, i, j, all_footnotes.length);
+                console.log('=================', f1.words_set.size, f2.words_set.size, ins.size, f1p, f2p);
+                // console.log('=================', f1.words_set, f2.words_set, ins);
+                console.log(f1.md)
+                console.log('----');
+                console.log(f2.md);
 
-                var q1 = extractStartQuote(f1.md);
-                var q2 = extractStartQuote(f2.md);
+                // var q1 = extractStartQuote(f1.md);
+                // var q2 = extractStartQuote(f2.md);
 
-                quotes_dict[q1] = (quotes_dict[q1] || 0) + 1;
-                quotes_dict[q2] = (quotes_dict[q2] || 0) + 1;
+                // quotes_dict[q1] = (quotes_dict[q1] || 0) + 1;
+                // quotes_dict[q2] = (quotes_dict[q2] || 0) + 1;
 
-                if (!q1 && !q2) {
-                    console.log('i', debugCount++, i, j, all_footnotes.length);
-                    console.log(f2.md);
-                }
+                // if (!q1 && !q2) {
+                //     console.log('i', debugCount++, i, j, all_footnotes.length);
+                //     console.log(f2.md);
+                //     console.log(f2.md);
+                // }
 
-                f2.similar = true;
+                // f2.similar = true;
             }
         }
     }

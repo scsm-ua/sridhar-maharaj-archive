@@ -1,5 +1,5 @@
 ---
-slug: shrjo-siddhanta-sarasvatjoti-vidito-gaudjoja-gurv-anvaje-bhato-bhanuriva
+slug: shrjo-siddhanta-sarasvatjoti-vidito-gaudjoja
 refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/896-1983-06-05-b1-missiya-shankary.md

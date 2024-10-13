@@ -1,5 +1,5 @@
 ---
-slug: gaura-prabhoh-prema-vilasa-bhumau-nishkinchano-bhakti-vinoda-nama
+slug: gaura-prabhoh-prema-vilasa-bhumau
 refs:
   - ../../04-vrindavan-zhit-odnoy-semyey-s-bogom/041_1982-01-19-b1_sridharmj_zemlya_samopojertvovaniya.md
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi.md

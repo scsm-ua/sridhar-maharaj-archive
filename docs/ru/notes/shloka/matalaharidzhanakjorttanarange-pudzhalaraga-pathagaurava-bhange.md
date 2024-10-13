@@ -3,6 +3,7 @@ slug: matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja.md
   - ../../13-lila-igra-chudesnogo-absolyuta/178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
+  - ../../17-shri-guru-i-ego-milost/279-1981-08-30-a4-klyuch-k-sokrovishhu-guru.md
   - ../../21-prakticheskie-voprosy-propovedi/378-1981-03-10-b2-sokrovennye-temy-ne-dolzhny-byt-predmetom-vseobshhego-obsuzhdeniya.md
   - ../../21-prakticheskie-voprosy-propovedi/379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy.md
   - ../../25-sluzhenie-krishne-trud-lyubvi/441-1983-05-09-b1-sleduj-za-angelami.md
@@ -40,3 +41,7 @@ tags: []
 ---
 
 *ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге* — «Мы будем поклоняться рага-марге, безраздельной и самоотверженной преданности Богу, как идеалу, с глубочайшим почтением, всегда совершая киртан в обществе истинных преданных» (Шрила Прабхупада Сарасвати Тхакур).
+
+---
+
+*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге* - «Мы будем поклоняться *рага-марге*, безраздельной и самоотверженной преданности Богу, как идеалу» (Шрила Бхактисиддханта Сарасвати Тхакур).

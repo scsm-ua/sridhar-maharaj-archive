@@ -1,10 +1,12 @@
 ---
-slug: asadhu-sange-bhaj-krishna-nama-nahi-haja
+slug: asadhu-sange-bhaj-krishna-nama
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni.md
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha.md
   - ../../19-maha-mantra-svyatoe-imya/334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni.md
   - ../../19-maha-mantra-svyatoe-imya/338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni.md
+  - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany.md
+  - ../../50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya/786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
 tags: []
 ---
 
@@ -17,3 +19,11 @@ tags: []
 ---
 
 *асадху-санге бхай, кришна-нама нахи хайа / намакшара бахирайа бату нама кабху найа* — «О брат, кришна-нам никогда не придет к человеку, который общается с непреданным. Не святое имя будет на его устах, но лишь буквы; он не сможет произнести шуддха-нам» («Према-виварта», Шрила Джагадананда Пандит, упоминается в «Шри Джайва-дхарме» Шрилы Бхактивинода Тхакура»).
+
+---
+
+*асадху-санге бхаи «кршна нама» нахи хайа / «намакшара» бахирайа бате нама кабху найа* — «О братья, святое Имя Кришны невозможно произносить, находясь в общении в теми, кто лишен святых качеств. Внешний звук такого имени никогда не будет настоящим святым Именем» («Према-виварта»).
+
+---
+
+*асадху-санге бхаи «кршна нама» нахи хайа / «намакшара» бахирайа бате нама кабху найа* — «О братья, Святое Имя Кришны невозможно произносить, находясь в общении в теми, кто лишен святых качеств. Внешний звук такого имени никогда не будет настоящим Святым Именем» («Према-виварта»).

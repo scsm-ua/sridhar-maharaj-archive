@@ -1,5 +1,5 @@
 ---
-slug: nikhila-bhuvana-maja-chhinna-vichchhinna-kartrjo-vibudha-bahula-mrgja-mukti-mohanta-datrjo-shithilita-vidhi-ragaradhja-radhesha-dhanjo-vilasatu
+slug: nikhila-bhuvana-maja-chhinna-vichchhinna
 refs:
   - ../../29-gayatri-mantra-i-mantra-om/488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
