@@ -1,9 +1,8 @@
 ---
-slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+slug: shri-chajtanya-charitamrita-madhya-lila-8-111
 refs:
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca.md
   - ../../13-lila-igra-chudesnogo-absolyuta/165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny.md
-  - ../../13-lila-igra-chudesnogo-absolyuta/167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani.md
   - ../../13-lila-igra-chudesnogo-absolyuta/189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily.md
   - ../../13-lila-igra-chudesnogo-absolyuta/192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi.md
   - ../../21-prakticheskie-voprosy-propovedi/395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu.md
@@ -25,11 +24,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
 ---
 
-# «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
-
-*ахер ива гатих̣ премн̣ах̣, свабха̄ва-кут̣ила̄ бхавет / ато хетор ахетош́ ча, йӯнор ма̄на удан̃чати* — «Любовные отношения между юношей и девушкой похожи на движения змеи. Поэтому юноша и девушка то и дело сердятся друг на друга; иногда их гнев имеет под собой причину, а иногда — нет» Это цитата из «Уджвала-ниламани» Шрилы Рупы Госвами (Шрингара-бхеда-пракарана, 102). Так же приводится в «Шри Чайтанья-чаритамрите», (Мадхья-лила, 14.163).
-
----
+# «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
 
 *ахер ива гатих̣ премн̣ах̣ свабха̄ва-кут̣ила̄ бхавет / ато хетор ахетош́ ча йӯнор ма̄на удан̃чати* — «Извилисты пути любви, как след змеи. Поэтому любящие порой гневаются друг на друга; иногда тому есть причина, а иногда — нет.» Это цитата из «Уджвала-ниламани» Шрилы Рупы Госвами (Шрингара-бхеда-пракарана, 102). Так же приводится в «Шри Чайтанья-чаритамрите» (Мадхья-лила, 8.111 и 14.163).
 

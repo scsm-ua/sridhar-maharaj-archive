@@ -1,5 +1,5 @@
 ---
-slug: padyavali-126
+slug: shri-chajtanya-charitamrita-madhya-lila-19-96
 refs:
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/035_1983-07-28-b_sridharmj_vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_krishnoy.md
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu.md
@@ -19,7 +19,7 @@ tags:
     slug: padyavali-126
 ---
 
-# Падьявали 126
+# «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
 
 *ш́рутим апаре смр̣тим итаре, бха̄ратам анйе бхаджанту бхава-бхӣта̄х̣ / ахам иха нандам̇ ванде, йасйа̄линде парам̇ брахма* — «Те, кто страшится материального существования, поклоняются изначальным Ведам, шрути. Некоторые поклоняются смрити, а другие — “Махабхарате”. Я же всегда буду поклоняться отцу Кришны, Нанде Махарадже, во дворе дома которого играет сама Абсолютная Истина, Личность Бога» («Падьявали», 126; стих цитируется в «Шри Чайтанья-чаритамрите», Мадхья-лила, 19.96).
 

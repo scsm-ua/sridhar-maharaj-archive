@@ -1,5 +1,5 @@
 ---
-slug: bhakti-rasamrita-sindhu-1-2-59
+slug: shri-chajtanya-charitamrita-madhya-lila-9-117
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/052_1981-09-05-a2_sridharmj_predstaviteli_raznyh_ras_pochitajut_drug_druga.md
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty.md
@@ -16,7 +16,7 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-2-59
 ---
 
-# Бхакти-расамрита-синдху 1.2.59
+# «Шри Чайтанья-чаритамрита», Мадхья-лила 9.117
 
 «Духовная наука гласит, что между Нараяной и Кришной нет разницы. И все же *раса* супружеской любви придает Кришне особую привлекательность. Поэтому Он превосходит Нараяну. Такой вывод можно сделать, изучив науку о духовных отношениях» («Бхакти-расамрита-синдху», 1.2.59; Цитируется в Мадхья-лиле «Шри Чайтанья-чаритамриты» (9.117; 9.146)).
 

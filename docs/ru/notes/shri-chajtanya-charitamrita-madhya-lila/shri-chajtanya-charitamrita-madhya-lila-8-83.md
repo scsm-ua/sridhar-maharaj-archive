@@ -8,7 +8,12 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily.md
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth.md
+  - ../../61-ob-ezotericheskih-ucheniyah/914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
@@ -45,3 +50,7 @@ tags:
 ---
 
 «Это правда, что те отношения, которые связывают с Господом того или иного преданного, являются для него самыми лучшими. Тем не менее изучив все методы беспристрастно, можно выделить высшие и низшие уровни любви» («Чайтанья-чаритамрита», Мадхья, 8.83).
+
+---
+
+Названия сект приведены Шрилой Бхактиведантой Свами в комментариях к стихам «Шри Чайтанья-чаритамриты», Ади-лила, 7.48 и Мадхья-лила, 8.83.

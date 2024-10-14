@@ -1,5 +1,5 @@
 ---
-slug: shri-chajtanya-charitamrita-adi-lila-1-15
+slug: shri-chajtanya-charitamrita-madhya-lila-1-3
 refs:
   - ../../26-rupanuga-sampradaya/449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti.md
 tags:
@@ -17,6 +17,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-1-3
 ---
 
-# «Шри Чайтанья-чаритамрита», Ади-лила 1.15
+# «Шри Чайтанья-чаритамрита», Мадхья-лила 1.3
 
 «Слава всемилостивым Радхе и Мадана-мохану! Я хром и неразумен, но Они указывают мне путь, и потому Их лотосные стопы для меня — это все («Шри Чайтанья-чаритамрита», Ади-лила, 1.15; Мадхья-лила, 1.3; Антья-лила, 1.5).
