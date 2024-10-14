@@ -32,5 +32,4 @@ links:
 
 
 
-[^_ftn1]: См. «Бхагавад-гита», 13.9.
-
+[^_ftn1]: [Бхагавад-гита 13.9](../notes/bhagavad-gita/bhagavad-gita-13-9.md)

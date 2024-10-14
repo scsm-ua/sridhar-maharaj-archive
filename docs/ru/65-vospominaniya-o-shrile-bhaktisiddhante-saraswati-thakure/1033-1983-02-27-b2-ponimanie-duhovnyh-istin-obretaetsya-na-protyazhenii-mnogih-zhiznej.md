@@ -43,5 +43,4 @@ links:
 
 
 
-[^_ftn1]: Шрила Бхактивинод Тхакур, «Гитамала», Ямуна-бхававали, 19.
-
+[^_ftn1]: [«Гитамала», Ямуна-бхававали 19](../notes/gitamala-yamuna-bhavavali/gitamala-yamuna-bhavavali-19.md)

@@ -64,5 +64,4 @@ links:
 
 
 
-[^_ftn1]: См. Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 1.
-
+[^_ftn1]: [Шри Шикшаштакам 1](../notes/shri-shikshashtakam/shri-shikshashtakam-1.md)

@@ -40,5 +40,4 @@ links:
 
 
 
-[^_ftn1]: «Падма-пурана», Уттара-кханда, 92.21-22.
-
+[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

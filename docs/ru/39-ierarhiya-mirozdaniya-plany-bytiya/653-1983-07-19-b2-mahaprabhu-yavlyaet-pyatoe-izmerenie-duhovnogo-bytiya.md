@@ -56,7 +56,6 @@ links:
 
 
 
-[^_ftn1]: «Многообразия не существует» (Катха-упанишад, 2.1.11).
+[^_ftn1]: [Катха-упанишад 2.1.11](../notes/katha-upanishad/katha-upanishad-2-1-11.md)
 
-[^_ftn2]: «Все есть Брахман» (Чхандогья-упанишад, 3.14.1).
-
+[^_ftn2]: [Чхандогья-упанишад 3.14.1](../notes/chhandogya-upanishad/chhandogya-upanishad-3-14-1.md)

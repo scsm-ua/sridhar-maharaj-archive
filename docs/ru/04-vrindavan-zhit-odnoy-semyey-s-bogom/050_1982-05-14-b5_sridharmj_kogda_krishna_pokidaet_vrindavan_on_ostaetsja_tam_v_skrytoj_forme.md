@@ -73,5 +73,4 @@ links:
 
 [^_ftn1]: «Шри-Нама-Махатмья» Шрилы Бхактивиноды Тхакура.
 
-[^_ftn2]: «Шри Чайтанья-чаритамрита», Антья-лила, 1.67.
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 1.67](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-1-67.md)

@@ -41,7 +41,7 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 1.1.1.
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
 [^_ftn2]: Шрила Шридхар Махарадж, видимо, ссылается на известное изречение Исаака Ньютона: “I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me”, что можно перевести как: «Я не знаю, кем кажусь миру, но я смотрю на себя, как на ребенка, который, играя на морском берегу, нашел несколько камешков поглаже и раковин попестрее, чем удавалось другим, в то время как неизмеримый океан истины расстилается перед моим взором неисследованным».
 

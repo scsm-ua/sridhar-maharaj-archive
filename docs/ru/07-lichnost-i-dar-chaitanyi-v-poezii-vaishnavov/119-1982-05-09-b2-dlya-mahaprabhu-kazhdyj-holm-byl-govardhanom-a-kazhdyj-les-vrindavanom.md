@@ -31,5 +31,4 @@ links:
 
 
 
-[^_ftn1]: «Шри Чайтанья-чаритамрита», Мадхья-лила, 17.55-56).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.55-56](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-55-56.md)

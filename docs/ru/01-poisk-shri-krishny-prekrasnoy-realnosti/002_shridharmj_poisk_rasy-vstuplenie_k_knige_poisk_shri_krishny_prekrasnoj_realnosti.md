@@ -59,7 +59,6 @@ links:
 
 
 
-[^ftnref1]: Поиск расы. Чистая раса, чистое блаженство («Тайттирия-упанишад», 2.7.1).
+[^ftnref1]: [Тайттирия-упанишад 2.7.1](../notes/tajttiriya-upanishad/tajttiriya-upanishad-2-7-1.md)
 
-[^ftnref2]: Шветашватара-упанишад, 2.5.
-
+[^ftnref2]: [Шветашватара-упанишад 2.5](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-2-5.md)

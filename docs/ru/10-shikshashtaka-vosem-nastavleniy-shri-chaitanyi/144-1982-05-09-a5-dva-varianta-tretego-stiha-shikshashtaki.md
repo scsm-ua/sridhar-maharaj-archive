@@ -26,5 +26,4 @@ links:
 
 
 
-[^_ftn1]: См. Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 3.
-
+[^_ftn1]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)

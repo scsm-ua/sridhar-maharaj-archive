@@ -42,5 +42,4 @@ links:
 
 
 
-[^_ftn1]: Бхагавад-гита, 11.8.
-
+[^_ftn1]: [Бхагавад-гита 11.8](../notes/bhagavad-gita/bhagavad-gita-11-8.md)

@@ -111,5 +111,4 @@ links:
 
 
 
-[^_ftn1]: См. «Шри Шад Госвами Аштакам», 2. 
-
+[^_ftn1]: [Шри Шад Госвами Аштакам 2](../notes/shri-shad-gosvami-ashtakam/shri-shad-gosvami-ashtakam-2.md)

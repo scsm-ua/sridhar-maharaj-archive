@@ -50,5 +50,4 @@ links:
 
 
 
-[^_ftn1]: «Бхакти-сандарбха», 256.
-
+[^_ftn1]: [Бхакти-сандарбха 256](../notes/bhakti-sandarbha/bhakti-sandarbha-256.md)

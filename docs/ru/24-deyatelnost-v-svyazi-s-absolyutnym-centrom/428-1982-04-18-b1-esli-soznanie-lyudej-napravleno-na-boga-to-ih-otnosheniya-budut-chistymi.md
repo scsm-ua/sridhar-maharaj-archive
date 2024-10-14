@@ -52,5 +52,4 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 1.1.1.
-
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)

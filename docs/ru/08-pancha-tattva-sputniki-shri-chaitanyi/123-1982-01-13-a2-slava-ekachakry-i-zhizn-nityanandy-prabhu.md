@@ -147,5 +147,4 @@ links:
 
 
 
-[^_ftn1]: «Кого бы ты ни встретил, говори ему о величии Кришны» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.128).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)

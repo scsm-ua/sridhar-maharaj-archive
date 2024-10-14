@@ -28,5 +28,4 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 9.4.18-20.
-
+[^_ftn1]: [Шримад-Бхагаватам 9.4.18-20](../notes/shrimad-bhagavatam/shrimad-bhagavatam-9-4-18-20.md)

@@ -72,7 +72,6 @@ links:
 
 
 
-[^_ftn1]: «Веданта-сутра», 1.1.1.
+[^_ftn1]: [Веданта-сутра 1.1.1](../notes/vedanta-sutra/vedanta-sutra-1-1-1.md)
 
-[^_ftn2]: См. «Шримад-Бхагаватам», 1.1.3.
-
+[^_ftn2]: [Шримад-Бхагаватам 1.1.3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-3.md)

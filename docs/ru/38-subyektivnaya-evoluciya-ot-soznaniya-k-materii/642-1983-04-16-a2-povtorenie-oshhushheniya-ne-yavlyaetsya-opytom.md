@@ -37,5 +37,4 @@ links:
 
 
 
-[^_ftn1]: «Шримад-Бхагаватам», 11.3.31.
-
+[^_ftn1]: [Шримад-Бхагаватам 11.3.31](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-3-31.md)
