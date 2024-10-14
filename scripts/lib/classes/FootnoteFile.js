@@ -59,6 +59,10 @@ class FootnoteFile {
         return this.dir + '/' + this.getGroupSlug() + '/';
     }
 
+    getFullFilename() {
+        return this.getDir() + this.getFileSlug() + '.md';
+    }
+
     renderFile() {
         if (this.footnotes.length) {
             this.tags.sort();

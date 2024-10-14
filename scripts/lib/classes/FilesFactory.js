@@ -1,6 +1,7 @@
 var fs = require('fs');
 const { DocumentFile } = require('./DocumentFile');
 const { FootnoteFile } = require('./FootnoteFile');
+const { dirname } = require('path');
 
 var scripturesUsageFix = {
     'Бхагавад-гита': 2000,
@@ -24,7 +25,7 @@ class FilesFactory {
         this.scripturesVersesUsage = {};
         this.scripturesUsageByVerses = {};
         this.footnotesFiles = {};
-        this.footnotesDir = this.root + '/notes/';
+        this.footnotesDir = this.root + '/notes';
     }
 
     start() {
@@ -36,7 +37,7 @@ class FilesFactory {
 
         this.createFootnoteFiles();
 
-        analyzeFootnotes2(this.footnotes);
+        // analyzeFootnotes2(this.footnotes);
     }
 
     createFootnoteFiles() {
@@ -45,7 +46,7 @@ class FilesFactory {
 
         var sortedScripturesUsage = Object.entries(this.scripturesUsage);
         sortedScripturesUsage.sort((a, b) => b[1] - a[1]);
-        // console.log(sortedScripturesUsage)
+        // console.log(this.scripturesUsage)
 
         var sortedScripturesVersesUsage = Object.entries(this.scripturesVersesUsage);
         sortedScripturesVersesUsage.sort((a, b) => b[1] - a[1]);
@@ -75,7 +76,7 @@ class FilesFactory {
 
             (footnote.getUsedScripturesWithNamesItems() || []).forEach(item => {
                 // TODO: test variatons by verses count.
-                usedScriptures.push([item.name, item.number, fixScripturePriority(this.scripturesUsage[item.name])]);
+                usedScriptures.push([item.name, item.number, fixScripturePriority(item.name, this.scripturesUsage[item.name])]);
             });
             if (usedScriptures.length > 0) {
                 // Sort by usage.
@@ -151,7 +152,7 @@ class FilesFactory {
             if (!fs.existsSync(dir)) {
                 fs.mkdirSync(dir, { recursive: true });
             }
-            fs.writeFileSync(dir + footnoteFile.getFileSlug() + '.md', md);
+            fs.writeFileSync(footnoteFile.getFullFilename(), md);
         }
     }
 
@@ -206,6 +207,18 @@ class FilesFactory {
         
         processDir(dir, true);
         processDir(dir);
+    }
+
+    writeDocFiles() {
+        this.documents.forEach(doc => {
+            var md = doc.renderFile();
+            // var filename = doc.filename.replace('/ru/', '/ru-2/');
+            // var dir = dirname(filename);
+            // if (!fs.existsSync(dir)) {
+            //     fs.mkdirSync(dir, { recursive: true });
+            // }
+            // fs.writeFileSync(doc.filename, md);
+        });
     }
 }
 

@@ -1,3 +1,5 @@
+const { relative, dirname } = require('path');
+
 var SCRIPTURES = [
     {"шветашватара упанишад": "Шветашватара-упанишад"},
     {"бхакти расамрита синдху": "Бхакти-расамрита-синдху"},
@@ -292,6 +294,8 @@ class Footnote {
         this.documentFile = documentFile;
         this.nodes = nodes;
 
+        // console.log(nodes)
+
         this.md = this.getMD();
 
         // Lower case without punctuation to search matches position.
@@ -533,6 +537,55 @@ class Footnote {
     renderDebug() {
         return '# ' + this.nodes[0].id + '\n\n' + this.md;
     }
+
+    renderWithLink() {
+        var md = `[^${ this.nodes[0].id }]:`;
+        var first_line = true;
+
+        // console.log(this.nodes)  
+
+        if (this.file) {
+            var base = dirname(this.documentFile.filename);
+            // console.log(base)
+            // console.log(this.file.getFullFilename())
+            // console.log(relative(base, this.file.getFullFilename()))
+            // console.log('----')
+            var url = relative(base, this.file.getFullFilename());
+            var title = this.file.title;
+            md += ` [${ title }](${ url })\n\n`;
+        } else {
+
+            this.nodes.forEach(node => {
+                switch(node.type) {
+                    case "footnote":
+                    case "p":
+                        if (first_line) {
+                            if (node.text) {
+                                md += ' ' + node.text + '\n';
+                            } else {
+                                md += '\n';
+                            }
+                            first_line = false;
+                        } else {
+                            md += '    ' + node.text  + '\n';
+                        }
+                        break;
+                    case "code":
+                        md += '        ' + node.text  + '\n';
+                        break;
+                    case "br":
+                        md += '\n';
+                        break;
+                }
+            });
+        }
+
+        // console.log('------')
+        // console.log(md)
+        // console.log('------')
+
+        return md;
+    }
 }
 
 function getIndicesOf(str, searchStr) {
@@ -550,6 +603,5 @@ function getIndicesOf(str, searchStr) {
 
 
 module.exports = {
-    Footnote,
-    debug_dict: debug_not_found_dict
+    Footnote
 };

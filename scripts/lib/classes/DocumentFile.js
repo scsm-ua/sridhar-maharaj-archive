@@ -46,6 +46,38 @@ class DocumentFile {
         }
         return result;
     }
+
+    renderFile() {
+        var result = this.yml_part || '';
+
+        this.nodes.forEach(n => {
+
+            if (n.footnote_flag) return;
+
+            switch(n.type) {
+                case 'h1':
+                    result += '# ' + n.text + '\n';
+                    break;
+                case 'code':
+                    result += '    ' + n.text + '\n';
+                    break;
+                case 'p':
+                    result += n.text + '\n';
+                    break;
+                case 'br':
+                    result += '\n';
+                    break;
+            }
+        });
+
+        this.footnotes.forEach(f => {
+            result += f.renderWithLink();
+        });
+
+        result = result.replace(/\n$/, '');
+
+        return result;
+    }
 }
 
 function getFootnotesNodes(nodes) {
@@ -56,21 +88,28 @@ function getFootnotesNodes(nodes) {
             current_footnote = [];
             current_footnote.push(node);
             footnotes.push(current_footnote);
+
+            node.footnote_flag = true;
+
         } else if (current_footnote) {
 
             if (node.type === 'br') {
 
                 current_footnote.push(node);
 
+                node.footnote_flag = true;
+
             } else if (node.type === 'footnote_tab') {
 
-                node = Object.assign({}, node, {type: 'code'});
-                current_footnote.push(node);
+                current_footnote.push(Object.assign({}, node, {type: 'code'}));
+
+                node.footnote_flag = true;
 
             } else if (node.type === 'code') {
 
-                node = Object.assign({}, node, {type: 'p'});
-                current_footnote.push(node);
+                current_footnote.push(Object.assign({}, node, {type: 'p'}));
+
+                node.footnote_flag = true;
 
             } else {
                 console.error('Unsupported in footnote', node);
@@ -102,7 +141,6 @@ function getFootnotesNodes(nodes) {
 
 
 function getLevel1Nodes(lines) {
-
     var nodes = [];
 
     lines.forEach(line => {
