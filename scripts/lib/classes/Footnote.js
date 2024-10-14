@@ -551,7 +551,7 @@ class Footnote {
             // console.log(relative(base, this.file.getFullFilename()))
             // console.log('----')
             var url = relative(base, this.file.getFullFilename());
-            var title = this.file.title;
+            var title = this.file.title || this.shloka;
             md += ` [${ title }](${ url })\n\n`;
         } else {
 
