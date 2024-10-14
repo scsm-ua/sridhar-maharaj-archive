@@ -217,7 +217,7 @@ class FilesFactory {
             // if (!fs.existsSync(dir)) {
             //     fs.mkdirSync(dir, { recursive: true });
             // }
-            // fs.writeFileSync(doc.filename, md);
+            fs.writeFileSync(doc.filename, md);
         });
     }
 }
