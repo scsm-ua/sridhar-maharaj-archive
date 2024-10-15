@@ -6,6 +6,32 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.1
+    slug: bhagavad-gita-4-1
+  - title: Бхагавад-гита 4.2
+    slug: bhagavad-gita-4-2
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита 2.47
+    slug: bhagavad-gita-2-47
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: Бхагавад-гита 5.2
+    slug: bhagavad-gita-5-2
+  - title: Бхагавад-гита 3.8
+    slug: bhagavad-gita-3-8
+  - title: Бхагавад-гита 9.24
+    slug: bhagavad-gita-9-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/421_1982.04.14.C6.D1_SridharMj_Nekotorye_polozhenija_karma-jogi_v_Gite.mp3

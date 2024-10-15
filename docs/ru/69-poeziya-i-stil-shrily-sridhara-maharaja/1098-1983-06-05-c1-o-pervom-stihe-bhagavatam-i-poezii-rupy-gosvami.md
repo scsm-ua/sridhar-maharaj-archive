@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1983.06"
     slug: 1983-06
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 1.3.31
+    slug: shrimad-bhagavatam-1-3-31
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-163
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-111
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3

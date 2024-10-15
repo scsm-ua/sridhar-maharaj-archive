@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3

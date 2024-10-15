@@ -8,6 +8,28 @@ tags:
     slug: 1982-04
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-98
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 99
+    slug: padyavali-99
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-96
+  - title: Падьявали 126
+    slug: padyavali-126
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-77
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.8.46
+    slug: shrimad-bhagavatam-10-8-46
+  - title: Шримад-Бхагаватам 1.19.10
+    slug: shrimad-bhagavatam-1-19-10
+  - title: Шримад-Бхагаватам 1.1.3
+    slug: shrimad-bhagavatam-1-1-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3

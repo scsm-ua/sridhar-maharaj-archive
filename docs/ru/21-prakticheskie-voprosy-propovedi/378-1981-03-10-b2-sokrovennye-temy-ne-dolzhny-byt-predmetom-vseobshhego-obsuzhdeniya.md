@@ -8,6 +8,14 @@ tags:
     slug: 1981-03
   - title: Проповедь
     slug: propoved
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3

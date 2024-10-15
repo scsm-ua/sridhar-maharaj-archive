@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.5.17
+    slug: shrimad-bhagavatam-1-5-17
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3

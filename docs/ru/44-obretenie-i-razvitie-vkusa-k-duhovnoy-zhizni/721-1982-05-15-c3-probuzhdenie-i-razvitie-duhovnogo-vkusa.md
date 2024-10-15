@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.2
+    slug: bhagavad-gita-9-2
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 7
+    slug: shri-upadeshamrita-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
@@ -53,4 +69,4 @@ links:
 
 [^_ftn2]: [Шри Упадешамрита 7](../notes/shri-upadeshamrita/shri-upadeshamrita-7.md)
 
-[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18-19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)

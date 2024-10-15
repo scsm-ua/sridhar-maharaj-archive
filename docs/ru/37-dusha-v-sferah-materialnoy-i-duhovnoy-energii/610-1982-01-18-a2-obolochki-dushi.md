@@ -8,6 +8,14 @@ tags:
     slug: 1982-01
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.45
+    slug: bhagavad-gita-2-45
+  - title: Бхагавад-гита 6.5
+    slug: bhagavad-gita-6-5
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/610_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3

@@ -6,6 +6,32 @@ category:
 tags:
   - title: "1983.03"
     slug: 1983-03
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-80
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 74
+    slug: padyavali-74
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.52
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-52
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 5.12.12
+    slug: shrimad-bhagavatam-5-12-12
+  - title: Шримад-Бхагаватам 7.5.30
+    slug: shrimad-bhagavatam-7-5-30
+  - title: Шримад-Бхагаватам 7.5.32
+    slug: shrimad-bhagavatam-7-5-32
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3

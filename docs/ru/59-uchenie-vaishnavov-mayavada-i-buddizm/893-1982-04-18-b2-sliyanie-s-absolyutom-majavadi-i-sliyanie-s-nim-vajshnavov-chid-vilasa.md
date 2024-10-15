@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-142
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
+    slug: shri-chajtanya-charitamrita-adi-lila-6-102
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.14.15
+    slug: shrimad-bhagavatam-11-14-15
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3

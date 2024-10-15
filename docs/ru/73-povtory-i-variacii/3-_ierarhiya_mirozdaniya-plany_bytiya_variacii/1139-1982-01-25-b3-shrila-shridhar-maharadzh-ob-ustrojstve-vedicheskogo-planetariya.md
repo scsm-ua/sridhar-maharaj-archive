@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.16
+    slug: shrimad-bhagavatam-12-13-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/3._Ierarhiya_mirozdaniya--plany_bytiya_(variacii)/1139_1982.01.25.B3_SridharMj_Shrila_Sridhar_Maharaj_ob_ustroystve_vedicheskogo_planetariya.mp3

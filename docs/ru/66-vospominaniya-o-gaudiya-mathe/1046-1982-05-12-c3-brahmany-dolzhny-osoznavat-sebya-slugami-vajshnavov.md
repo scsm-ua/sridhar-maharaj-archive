@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 4.13
+    slug: shri-shri-prapanna-dzhivanamritam-4-13
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.84.13
+    slug: shrimad-bhagavatam-10-84-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.mp3

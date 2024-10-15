@@ -8,6 +8,18 @@ tags:
     slug: 1982-03
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3

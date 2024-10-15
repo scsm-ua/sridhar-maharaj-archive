@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.29
+    slug: bhagavad-gita-2-29
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.1
+    slug: shrimad-bhagavatam-10-14-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3

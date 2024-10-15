@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: Шри Шад Госвами Аштакам
+    slug: shri-shad-gosvami-ashtakam
+  - title: Шри Шад Госвами Аштакам 2
+    slug: shri-shad-gosvami-ashtakam-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3

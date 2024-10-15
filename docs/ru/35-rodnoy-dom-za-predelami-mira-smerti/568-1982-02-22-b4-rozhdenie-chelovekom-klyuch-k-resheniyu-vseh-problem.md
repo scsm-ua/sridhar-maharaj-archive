@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.9.29
+    slug: shrimad-bhagavatam-11-9-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3

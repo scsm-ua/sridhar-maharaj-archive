@@ -8,6 +8,10 @@ tags:
     slug: 1982-11
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.mp3

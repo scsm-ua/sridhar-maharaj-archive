@@ -12,6 +12,16 @@ tags:
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.165
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-165
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3

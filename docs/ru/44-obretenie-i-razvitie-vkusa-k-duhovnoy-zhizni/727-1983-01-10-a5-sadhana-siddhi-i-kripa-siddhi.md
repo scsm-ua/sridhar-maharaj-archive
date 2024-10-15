@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 14
+    slug: padyavali-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/727_1983.01.10.A5_SridharMj_Sadhana-siddhi_i_kripa-siddhi.mp3

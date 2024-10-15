@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-172
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3

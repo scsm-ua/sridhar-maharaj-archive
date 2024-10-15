@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.mp3
@@ -47,4 +51,4 @@ links:
 
 
 
-[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)

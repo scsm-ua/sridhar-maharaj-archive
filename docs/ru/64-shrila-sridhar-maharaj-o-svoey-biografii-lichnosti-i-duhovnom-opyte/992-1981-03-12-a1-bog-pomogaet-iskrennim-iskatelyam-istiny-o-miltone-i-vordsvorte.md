@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.mp3

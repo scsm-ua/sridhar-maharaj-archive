@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.34
+    slug: shri-chajtanya-charitamrita-antya-lila-8-34
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 4.197
+    slug: shri-chajtanya-charitamrita-madhya-lila-4-197
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-172
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
+    slug: shri-chajtanya-charitamrita-antya-lila-8-28
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.3.28
+    slug: shrimad-bhagavatam-1-3-28
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3

@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Арчана
     slug: archana
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
+    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3

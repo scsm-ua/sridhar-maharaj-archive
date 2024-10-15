@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 14
+    slug: padyavali-14
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.42
+    slug: shrimad-bhagavatam-11-2-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3

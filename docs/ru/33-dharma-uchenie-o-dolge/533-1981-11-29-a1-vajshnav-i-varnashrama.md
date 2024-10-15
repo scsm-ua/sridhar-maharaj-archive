@@ -8,6 +8,28 @@ tags:
     slug: 1981-11
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-17
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.18
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-18
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 3.9
+    slug: bhagavad-gita-3-9
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.26
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-26
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3

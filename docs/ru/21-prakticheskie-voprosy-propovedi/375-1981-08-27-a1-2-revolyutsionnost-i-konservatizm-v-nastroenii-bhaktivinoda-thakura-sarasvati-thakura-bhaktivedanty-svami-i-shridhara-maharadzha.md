@@ -8,6 +8,22 @@ tags:
     slug: 1981-08
   - title: Проповедь
     slug: propoved
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.35
+    slug: bhagavad-gita-3-35
+  - title: Бхагавад-гита 18.46
+    slug: bhagavad-gita-18-46
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3

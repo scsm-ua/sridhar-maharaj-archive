@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.44
+    slug: shri-brahma-samhita-5-44
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3

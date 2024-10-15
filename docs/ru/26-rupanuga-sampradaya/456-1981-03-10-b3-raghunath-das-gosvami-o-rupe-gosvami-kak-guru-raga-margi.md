@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 1
+    slug: shri-vilapa-kusumandzhali-1
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-96
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 126
+    slug: padyavali-126
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3

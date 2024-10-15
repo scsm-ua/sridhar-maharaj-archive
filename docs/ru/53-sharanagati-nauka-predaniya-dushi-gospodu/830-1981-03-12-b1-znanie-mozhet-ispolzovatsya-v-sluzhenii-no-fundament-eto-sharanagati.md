@@ -8,6 +8,32 @@ tags:
     slug: 1981-03
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-17
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.7
+    slug: shrimad-bhagavatam-1-2-7
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.117
+    slug: shri-chajtanya-charitamrita-adi-lila-2-117
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.8
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-8
+  - title: Шри Чайтанья-чандродая-натака
+    slug: shri-chajtanya-chandrodaya-nataka
+  - title: Шри Чайтанья-чандродая-натака 8.23
+    slug: shri-chajtanya-chandrodaya-nataka-8-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.mp3
@@ -112,6 +138,6 @@ links:
 
 [^_ftn5]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)
 
-[^_ftn6]: [Шаранагати 3-4](../notes/sharanagati/sharanagati-3-4.md)
+[^_ftn6]: [Шаранагати 3–4](../notes/sharanagati/sharanagati-3-4.md)
 
 [^_ftn7]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 11.8](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-11-8.md)

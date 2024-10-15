@@ -10,6 +10,16 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.13.27
+    slug: shrimad-bhagavatam-1-13-27
+  - title: Шримад-Бхагаватам 10.47.18
+    slug: shrimad-bhagavatam-10-47-18
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 5.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-5-167
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/732_1983.11.09.C5_SridharMj_Iskrennost_i_svoboda_ot_predrassudkov_pozvoljat_po_dostoinstvu_ocenit_uchenie_Shri_Gaurangi.mp3

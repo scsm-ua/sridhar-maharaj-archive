@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.3
+    slug: bhagavad-gita-7-3
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 6.46
+    slug: bhagavad-gita-6-46
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3

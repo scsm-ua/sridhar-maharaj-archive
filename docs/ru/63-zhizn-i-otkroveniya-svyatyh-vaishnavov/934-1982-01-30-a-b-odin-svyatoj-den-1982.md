@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 5.5
+    slug: sharanagati-5-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.98
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-98
+  - title: Шримад-Бхагаватам 3.2.23
+    slug: shrimad-bhagavatam-3-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.86
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-86
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.116
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-116
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236–237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.248
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-248
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
@@ -322,6 +346,6 @@ links:
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 15.116](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-15-116.md)
 
-[^_ftn7]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.236-237](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-236-237.md)
+[^_ftn7]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.236–237](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-236-237.md)
 
 [^_ftn8]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.248](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-248.md)

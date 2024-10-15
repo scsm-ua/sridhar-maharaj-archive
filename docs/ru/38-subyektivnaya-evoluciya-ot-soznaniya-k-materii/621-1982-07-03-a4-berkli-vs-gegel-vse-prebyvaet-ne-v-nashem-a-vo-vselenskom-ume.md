@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.2
+    slug: bhagavad-gita-15-2
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 1.52
+    slug: manu-samhita-1-52
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3

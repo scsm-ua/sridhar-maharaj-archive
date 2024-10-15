@@ -8,6 +8,22 @@ tags:
     slug: 1982-01
   - title: Рамананда-самвад
     slug: ramananda-samvad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.134–190
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-134-190
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.191
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-191
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 300
+    slug: shrimad-bhagavatam-300
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3
@@ -86,7 +102,7 @@ links:
 
 [^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.194](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-194.md)
 
-[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.134-190](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-134-190.md)
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.134–190](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-134-190.md)
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.282](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-282.md)
 

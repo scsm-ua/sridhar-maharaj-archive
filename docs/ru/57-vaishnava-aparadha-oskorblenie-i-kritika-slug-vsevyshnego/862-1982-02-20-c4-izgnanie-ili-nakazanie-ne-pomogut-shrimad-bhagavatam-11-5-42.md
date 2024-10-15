@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.42
+    slug: shrimad-bhagavatam-11-5-42
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/862_1982.02.20.C4_SridharMj_Izgnanie_ili_nakazanie_ne_pomogut_Shrimad_Bhagavatam_11.5.42.mp3

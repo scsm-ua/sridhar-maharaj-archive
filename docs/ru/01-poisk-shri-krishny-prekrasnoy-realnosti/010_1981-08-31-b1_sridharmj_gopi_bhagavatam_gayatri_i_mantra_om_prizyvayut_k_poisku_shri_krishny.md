@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-141
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.120
+    slug: shri-chajtanya-charitamrita-adi-lila-2-120
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.3
+    slug: shrimad-bhagavatam-1-1-3
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3

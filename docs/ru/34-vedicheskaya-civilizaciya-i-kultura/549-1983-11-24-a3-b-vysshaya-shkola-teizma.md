@@ -8,6 +8,18 @@ tags:
     slug: 1983-11
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.15
+    slug: bhagavad-gita-15-15
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.1
+    slug: bhakti-rasamrita-sindhu-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3

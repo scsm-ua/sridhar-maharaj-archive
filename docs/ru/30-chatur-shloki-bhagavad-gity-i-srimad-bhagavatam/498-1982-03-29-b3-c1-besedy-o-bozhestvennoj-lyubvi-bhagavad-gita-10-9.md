@@ -8,6 +8,14 @@ tags:
     slug: 1982-03
   - title: Чатур-шлока
     slug: chatur-shloka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.9
+    slug: bhagavad-gita-10-9
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.36
+    slug: shrimad-bhagavatam-11-2-36
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).mp3

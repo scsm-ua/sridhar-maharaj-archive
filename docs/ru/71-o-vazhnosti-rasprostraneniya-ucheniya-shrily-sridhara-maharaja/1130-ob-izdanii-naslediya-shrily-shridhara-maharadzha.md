@@ -6,6 +6,10 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3

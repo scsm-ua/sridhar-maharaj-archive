@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.17.39
+    slug: shrimad-bhagavatam-1-17-39
+  - title: Шримад-Бхагаватам 1.17.38
+    slug: shrimad-bhagavatam-1-17-38
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3

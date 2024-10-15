@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Самопредание
     slug: samopredanie
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.20
+    slug: bhagavad-gita-13-20
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3

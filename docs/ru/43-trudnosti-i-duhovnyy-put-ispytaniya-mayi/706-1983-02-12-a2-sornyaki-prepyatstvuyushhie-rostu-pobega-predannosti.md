@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-159
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3

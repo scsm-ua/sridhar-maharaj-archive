@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3

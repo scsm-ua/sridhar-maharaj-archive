@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 15.28–30
+    slug: shri-chajtanya-bhagavata-adi-khanda-15-28-30
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
@@ -256,6 +264,6 @@ links:
 
 
 
-[^_ftn1]: [«Шри Чайтанья Бхагавата», Ади-кханда 15.28-30](../notes/shri-chajtanya-bhagavata-adi-khanda/shri-chajtanya-bhagavata-adi-khanda-15-28-30.md)
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Ади-кханда 15.28–30](../notes/shri-chajtanya-bhagavata-adi-khanda/shri-chajtanya-bhagavata-adi-khanda-15-28-30.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)

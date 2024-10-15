@@ -8,6 +8,20 @@ tags:
     slug: 1982-04
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 8.3
+    slug: bhagavad-gita-8-3
+  - title: Бхагавад-гита 8.4
+    slug: bhagavad-gita-8-4
+  - title: Бхагавад-гита 3.27
+    slug: bhagavad-gita-3-27
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: Бхагавад-гита 8.1–2
+    slug: bhagavad-gita-8-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
@@ -96,6 +110,6 @@ links:
 
 [^_ftn4]: [Бхакти-сандарбха 117](../notes/bhakti-sandarbha/bhakti-sandarbha-117.md)
 
-[^_ftn5]: [Бхагавад-гита 8.1-2](../notes/bhagavad-gita/bhagavad-gita-8-1-2.md)
+[^_ftn5]: [Бхагавад-гита 8.1–2](../notes/bhagavad-gita/bhagavad-gita-8-1-2.md)
 
 [^_ftn6]: [Бхагавад-гита 8.4](../notes/bhagavad-gita/bhagavad-gita-8-4.md)

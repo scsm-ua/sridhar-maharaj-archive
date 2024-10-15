@@ -8,6 +8,10 @@ tags:
     slug: 1985-06
   - title: Даша-мула-таттва
     slug: dasha-mula-tattva
+  - title: Джайва-дхарма
+    slug: dzhajva-dharma
+  - title: Джайва-дхарма 13
+    slug: dzhajva-dharma-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/229_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3

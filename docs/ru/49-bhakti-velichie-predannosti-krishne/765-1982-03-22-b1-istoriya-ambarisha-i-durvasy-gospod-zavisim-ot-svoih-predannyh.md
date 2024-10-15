@@ -8,6 +8,18 @@ tags:
     slug: 1982-03
   - title: Бхакти
     slug: bhakti
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: Шримад-Бхагаватам 9.4.68
+    slug: shrimad-bhagavatam-9-4-68
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: Шримад-Бхагаватам 9.4.65
+    slug: shrimad-bhagavatam-9-4-65
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3

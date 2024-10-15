@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.23
+    slug: bhagavad-gita-13-23
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.93
+    slug: shri-chajtanya-charitamrita-adi-lila-1-93
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3

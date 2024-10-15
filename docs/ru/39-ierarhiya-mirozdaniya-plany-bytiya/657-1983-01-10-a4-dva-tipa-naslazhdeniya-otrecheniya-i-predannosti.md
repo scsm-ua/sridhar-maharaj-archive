@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3

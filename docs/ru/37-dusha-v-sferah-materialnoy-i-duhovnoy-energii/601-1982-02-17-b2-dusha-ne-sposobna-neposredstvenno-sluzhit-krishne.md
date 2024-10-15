@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Душа
     slug: dusha
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/601_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3

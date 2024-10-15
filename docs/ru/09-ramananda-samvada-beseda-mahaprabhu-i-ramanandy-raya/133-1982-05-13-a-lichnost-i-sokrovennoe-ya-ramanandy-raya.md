@@ -8,6 +8,24 @@ tags:
     slug: 1982-05
   - title: Рамананда Рай
     slug: ramananda-raj
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.39
+    slug: shrimad-bhagavatam-10-33-39
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.353
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-353
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.85
+    slug: shri-chajtanya-charitamrita-antya-lila-3-85
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.203
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-203
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/133_1982.05.13.A_SridharMj_Lichnost_i_sokrovennoe_ja_Ramanandy_Raja.mp3

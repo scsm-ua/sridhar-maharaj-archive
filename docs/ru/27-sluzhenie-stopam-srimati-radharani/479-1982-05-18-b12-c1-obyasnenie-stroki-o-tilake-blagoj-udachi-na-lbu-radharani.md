@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.176
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-176
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.mp3

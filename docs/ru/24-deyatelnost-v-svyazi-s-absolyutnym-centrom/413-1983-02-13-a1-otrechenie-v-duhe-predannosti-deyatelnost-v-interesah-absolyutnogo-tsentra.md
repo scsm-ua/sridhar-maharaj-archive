@@ -6,6 +6,34 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.256
+    slug: bhakti-rasamrita-sindhu-1-2-256
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.2.32
+    slug: shrimad-bhagavatam-10-2-32
+  - title: Бхакти-расамрита-синдху 1.2.255
+    slug: bhakti-rasamrita-sindhu-1-2-255
+  - title: Шримад-Бхагаватам 1.3.28
+    slug: shrimad-bhagavatam-1-3-28
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3

@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-237
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
+    slug: shri-chajtanya-charitamrita-adi-lila-8-78
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3

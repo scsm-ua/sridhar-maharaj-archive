@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 2.4.1
+    slug: taittiriya-upanishad-2-4-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3

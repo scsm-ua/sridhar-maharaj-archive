@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
+    slug: shri-chajtanya-charitamrita-adi-lila-17-21
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.76
+    slug: shri-chajtanya-charitamrita-adi-lila-7-76
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-242
+  - title: Брихан-нарадия-пурана
+    slug: brihan-naradiya-purana
+  - title: Брихан-нарадия-пурана 38.126
+    slug: brihan-naradiya-purana-38-126
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3

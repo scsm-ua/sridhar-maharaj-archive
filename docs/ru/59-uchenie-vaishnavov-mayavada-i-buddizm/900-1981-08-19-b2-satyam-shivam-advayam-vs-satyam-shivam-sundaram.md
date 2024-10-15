@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.13.47
+    slug: shrimad-bhagavatam-1-13-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/900_1981.08.19.B2_SridharMj_Satjam_shivam_advajam_VS_Satjam_Shivam_Sundaram.mp3

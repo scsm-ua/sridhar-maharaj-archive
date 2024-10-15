@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/291_1982.05.18.A3.B1_SridharMj_Edinstvennym_zhelaniem_achari_dolzhno_byt_sluzhenie_svoej_duhovnoj_preemstvennosti.mp3

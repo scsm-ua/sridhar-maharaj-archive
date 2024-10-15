@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.11
+    slug: shrimad-bhagavatam-11-5-11
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.157
+    slug: shri-chajtanya-charitamrita-adi-lila-17-157
+  - title: Шримад-Бхагаватам 11.3.44
+    slug: shrimad-bhagavatam-11-3-44
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.9
+    slug: bhagavad-gita-3-9
+  - title: Шримад-Бхагаватам 1.13.47
+    slug: shrimad-bhagavatam-1-13-47
+  - title: Шримад-Бхагаватам 11.14.8
+    slug: shrimad-bhagavatam-11-14-8
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.mp3

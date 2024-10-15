@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.2.32
+    slug: shrimad-bhagavatam-10-2-32
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3

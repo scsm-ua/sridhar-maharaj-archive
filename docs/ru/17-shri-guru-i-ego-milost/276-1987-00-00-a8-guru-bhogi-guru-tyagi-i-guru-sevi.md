@@ -8,6 +8,10 @@ tags:
     slug: 1987-00
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3

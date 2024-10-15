@@ -8,6 +8,26 @@ tags:
     slug: 1983-11
   - title: Самопредание
     slug: samopredanie
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.19
+    slug: shri-chajtanya-charitamrita-antya-lila-20-19
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 2
+    slug: shri-shikshashtakam-2
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.24
+    slug: bhagavad-gita-9-24
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
+  - title: Бхагавад-гита 4.4
+    slug: bhagavad-gita-4-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/856_1983.11.04.C2_SridharMj_Skorb_o_nesposobnosti_predatsja_Krishne.mp3

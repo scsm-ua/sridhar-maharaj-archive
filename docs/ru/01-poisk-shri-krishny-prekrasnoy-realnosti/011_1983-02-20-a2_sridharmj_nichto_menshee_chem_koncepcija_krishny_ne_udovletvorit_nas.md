@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
+  - title: Бхагавад-гита 6.30
+    slug: bhagavad-gita-6-30
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-194
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.mp3

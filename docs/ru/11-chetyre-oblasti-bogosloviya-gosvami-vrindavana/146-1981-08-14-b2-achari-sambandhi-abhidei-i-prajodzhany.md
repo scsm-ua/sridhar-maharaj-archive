@@ -8,6 +8,26 @@ tags:
     slug: 1981-08
   - title: Шикшаштакам
     slug: shikshashtakam
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.107
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-107
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 102
+    slug: shri-vilapa-kusumandzhali-102
+  - title: Рагхувамша
+    slug: raghuvamsha
+  - title: Рагхувамша 1.4
+    slug: raghuvamsha-1-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3
@@ -179,7 +199,7 @@ links:
 
 [^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.108](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-108.md)
 
-[^_ftn4]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn4]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn5]: Высшее благо (*лат.)*
 

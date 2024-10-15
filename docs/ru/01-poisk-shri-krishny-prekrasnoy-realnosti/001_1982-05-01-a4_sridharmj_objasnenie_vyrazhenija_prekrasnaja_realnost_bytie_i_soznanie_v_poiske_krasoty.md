@@ -12,6 +12,10 @@ tags:
     slug: with-english-text
   - title: ШБ 7.5.31
     slug: shb-7-5-31
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.mp3

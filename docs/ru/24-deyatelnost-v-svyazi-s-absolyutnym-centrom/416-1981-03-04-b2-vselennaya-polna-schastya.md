@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.255–256
+    slug: bhakti-rasamrita-sindhu-1-2-255-256
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
@@ -38,4 +42,4 @@ links:
 
 
 
-[^_ftn1]: [Бхакти-расамрита-синдху 1.2.255-256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.255–256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)

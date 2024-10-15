@@ -8,6 +8,30 @@ tags:
     slug: 1983-11
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.39
+    slug: shrimad-bhagavatam-10-33-39
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.176
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-176
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.22
+    slug: bhakti-rasamrita-sindhu-1-2-22
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.mp3

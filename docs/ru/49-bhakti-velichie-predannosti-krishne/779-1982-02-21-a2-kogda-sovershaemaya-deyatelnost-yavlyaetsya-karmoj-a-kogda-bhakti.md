@@ -8,6 +8,22 @@ tags:
     slug: 1982-02
   - title: Бхакти
     slug: bhakti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-119
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-137
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-138
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.37
+    slug: shrimad-bhagavatam-11-2-37
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3

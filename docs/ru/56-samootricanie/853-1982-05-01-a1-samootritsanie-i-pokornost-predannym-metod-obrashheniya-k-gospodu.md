@@ -8,6 +8,20 @@ tags:
     slug: 1982-05
   - title: Самопредание
     slug: samopredanie
+  - title: «Гитамала», Ямуна-бхававали
+    slug: gitamala-yamuna-bhavavali
+  - title: «Гитамала», Ямуна-бхававали 19
+    slug: gitamala-yamuna-bhavavali-19
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3

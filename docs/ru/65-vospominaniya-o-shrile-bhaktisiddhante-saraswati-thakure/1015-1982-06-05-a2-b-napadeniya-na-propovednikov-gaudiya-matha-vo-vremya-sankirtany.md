@@ -11,6 +11,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.pdf
     title: транскрипцию в PDF (149 КБ)
+tags:
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 ---
 
 # 1015. 1982.06.05.A2.B. Нападения на проповедников Гаудия Матха во время санкиртаны

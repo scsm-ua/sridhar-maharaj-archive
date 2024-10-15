@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.22.4
+    slug: shrimad-bhagavatam-10-22-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3

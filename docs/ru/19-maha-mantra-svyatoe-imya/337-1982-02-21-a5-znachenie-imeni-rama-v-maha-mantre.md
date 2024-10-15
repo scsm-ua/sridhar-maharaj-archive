@@ -8,6 +8,50 @@ tags:
     slug: 1982-02
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-32
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.3.19
+    slug: shrimad-bhagavatam-6-3-19
+  - title: «Махабхараты», Вана-парва
+    slug: mahabharaty-vana-parva
+  - title: «Махабхараты», Вана-парва 313.117
+    slug: mahabharaty-vana-parva-313-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-186
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-57
+  - title: Шримад-Бхагаватам 1.19.9–10
+    slug: shrimad-bhagavatam-1-19-9-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-264
+  - title: Шримад-Бхагаватам 11.11.32
+    slug: shrimad-bhagavatam-11-11-32
+  - title: Шримад-Бхагаватам 3.9.10
+    slug: shrimad-bhagavatam-3-9-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
+    slug: shri-chajtanya-charitamrita-adi-lila-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
+    slug: shri-chajtanya-charitamrita-adi-lila-3-4
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
+    slug: shri-chajtanya-charitamrita-antya-lila-1-132
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.2
+    slug: vidagdha-madhava-1-2
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
@@ -147,7 +191,7 @@ links:
 
 [^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.186](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-186.md)
 
-[^_ftn4]: [Шримад-Бхагаватам 1.19.9-10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-19-9-10.md)
+[^_ftn4]: [Шримад-Бхагаватам 1.19.9–10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-19-9-10.md)
 
 [^_ftn5]: [Шримад-Бхагаватам 11.11.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-11-32.md)
 

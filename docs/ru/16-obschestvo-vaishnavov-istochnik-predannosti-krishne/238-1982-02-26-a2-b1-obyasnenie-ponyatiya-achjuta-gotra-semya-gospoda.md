@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3

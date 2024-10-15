@@ -8,6 +8,50 @@ tags:
     slug: 1983-07
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-128
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-129
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
+    slug: shri-chajtanya-charitamrita-antya-lila-4-71
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.38–40
+    slug: shrimad-bhagavatam-11-5-38-40
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.81
+    slug: shri-chajtanya-charitamrita-adi-lila-3-81
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
+    slug: shri-chajtanya-charitamrita-adi-lila-3-52
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.10
+    slug: shri-chajtanya-charitamrita-antya-lila-20-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-100
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.342
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-342
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-103
+  - title: Шримад-Бхагаватам 11.5.32
+    slug: shrimad-bhagavatam-11-5-32
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-237
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
@@ -203,7 +247,7 @@ links:
 
 [^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.136](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-136.md)
 
-[^_ftn5]: [Шримад-Бхагаватам 11.5.38-40](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-38-40.md)
+[^_ftn5]: [Шримад-Бхагаватам 11.5.38–40](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-38-40.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Ади-лила 3.81](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-3-81.md)
 

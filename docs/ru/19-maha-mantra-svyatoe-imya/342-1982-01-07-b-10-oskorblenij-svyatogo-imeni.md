@@ -8,6 +8,14 @@ tags:
     slug: 1982-01
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.42
+    slug: shrimad-bhagavatam-11-2-42
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.85
+    slug: shri-chajtanya-charitamrita-antya-lila-7-85
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3

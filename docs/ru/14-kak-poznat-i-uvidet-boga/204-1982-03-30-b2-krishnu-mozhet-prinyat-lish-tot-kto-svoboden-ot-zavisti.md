@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/204_1982.03.30.B2_SridharMj_Krishnu_mozhet_prinjat_lish_tot_kto_svoboden_ot_zavisti.mp3

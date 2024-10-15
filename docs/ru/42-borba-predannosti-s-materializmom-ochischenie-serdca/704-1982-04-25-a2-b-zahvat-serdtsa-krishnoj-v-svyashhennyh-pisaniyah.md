@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.8.5
+    slug: shrimad-bhagavatam-2-8-5
+  - title: Шримад-Бхагаватам 1.2.17
+    slug: shrimad-bhagavatam-1-2-17
+  - title: Шримад-Бхагаватам 2.8.4
+    slug: shrimad-bhagavatam-2-8-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/704_1982.04.25.A2.B_SridharMj_Zahvat_serdca_Krishnoj_v_Svjashhennyh_Pisanijah.mp3

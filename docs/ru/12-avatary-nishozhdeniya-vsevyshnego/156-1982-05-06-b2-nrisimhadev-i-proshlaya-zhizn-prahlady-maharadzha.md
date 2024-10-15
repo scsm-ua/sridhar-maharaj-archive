@@ -10,6 +10,12 @@ tags:
     slug: narasimha
   - title: Прахлада
     slug: prahlada
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.32
+    slug: bhagavad-gita-9-32
+  - title: Бхагавад-гита 9.33
+    slug: bhagavad-gita-9-33
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/156_1982.05.06.B2_SridharMj_Nrisimhadev_i_proshlaja_zhizn_Prahlady_Maharadzha.mp3

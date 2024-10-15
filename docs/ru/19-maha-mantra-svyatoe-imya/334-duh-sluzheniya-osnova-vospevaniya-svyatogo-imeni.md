@@ -6,6 +6,16 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3

@@ -10,6 +10,18 @@ tags:
     slug: guru-parampara
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3

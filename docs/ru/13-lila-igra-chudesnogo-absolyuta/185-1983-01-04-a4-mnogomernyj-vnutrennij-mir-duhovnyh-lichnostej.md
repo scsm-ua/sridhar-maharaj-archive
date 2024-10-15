@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Шри Шад Госвами Аштакам
+    slug: shri-shad-gosvami-ashtakam
+  - title: Шри Шад Госвами Аштакам 2
+    slug: shri-shad-gosvami-ashtakam-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3

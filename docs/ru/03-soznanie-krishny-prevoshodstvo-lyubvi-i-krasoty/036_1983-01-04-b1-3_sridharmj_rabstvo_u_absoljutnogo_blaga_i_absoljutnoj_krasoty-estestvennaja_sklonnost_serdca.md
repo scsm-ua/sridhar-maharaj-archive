@@ -12,6 +12,16 @@ tags:
     slug: krishna-lila
   - title: Према-дхама-дева-стотрам
     slug: prema-dhama-deva-stotram
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-163
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-111
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3

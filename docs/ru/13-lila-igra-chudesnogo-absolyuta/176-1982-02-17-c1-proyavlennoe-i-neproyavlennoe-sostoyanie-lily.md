@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Кришна-лила
     slug: krishna-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3

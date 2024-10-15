@@ -8,6 +8,10 @@ tags:
     slug: 1982-03
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.mp3

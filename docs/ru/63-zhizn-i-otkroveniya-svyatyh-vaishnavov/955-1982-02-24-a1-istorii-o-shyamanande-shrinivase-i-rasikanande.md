@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 107
+    slug: krishna-karnamrita-107
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3

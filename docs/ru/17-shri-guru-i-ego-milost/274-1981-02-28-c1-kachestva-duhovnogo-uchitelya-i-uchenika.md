@@ -8,6 +8,20 @@ tags:
     slug: 1981-02
   - title: Гуру-парампара
     slug: guru-parampara
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.33
+    slug: bhagavad-gita-4-33
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.21
+    slug: shrimad-bhagavatam-11-3-21
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.2.12
+    slug: mundaka-upanishad-1-2-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/274_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3

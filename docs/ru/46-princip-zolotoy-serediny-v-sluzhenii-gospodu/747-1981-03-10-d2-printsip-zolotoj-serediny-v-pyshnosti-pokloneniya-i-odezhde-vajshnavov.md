@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
+    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3

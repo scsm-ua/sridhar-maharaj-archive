@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.192
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-192
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.39
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-39
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3

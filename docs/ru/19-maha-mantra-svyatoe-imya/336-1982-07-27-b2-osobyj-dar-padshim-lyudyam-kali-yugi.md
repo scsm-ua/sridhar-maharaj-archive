@@ -8,6 +8,26 @@ tags:
     slug: 1982-07
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-344
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.3.51
+    slug: shrimad-bhagavatam-12-3-51
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
+    slug: shri-chajtanya-charitamrita-adi-lila-17-21
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.76
+    slug: shri-chajtanya-charitamrita-adi-lila-7-76
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-242
+  - title: Брихан-нарадия-пурана
+    slug: brihan-naradiya-purana
+  - title: Брихан-нарадия-пурана 38.126
+    slug: brihan-naradiya-purana-38-126
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3

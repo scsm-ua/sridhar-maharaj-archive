@@ -8,6 +8,10 @@ tags:
     slug: 1985-10
   - title: Проповедь
     slug: propoved
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3

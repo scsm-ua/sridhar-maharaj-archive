@@ -8,6 +8,10 @@ tags:
     slug: 1982-06
   - title: Шикшаштакам
     slug: shikshashtakam
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.mp3

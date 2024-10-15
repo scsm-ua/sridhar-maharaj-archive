@@ -8,6 +8,16 @@ tags:
     slug: 1983-05
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: Бхагавад-гита 4.2
+    slug: bhagavad-gita-4-2
+  - title: Враджа-виласа-става
+    slug: vradzha-vilasa-stava
+  - title: Враджа-виласа-става 102
+    slug: vradzha-vilasa-stava-102
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3

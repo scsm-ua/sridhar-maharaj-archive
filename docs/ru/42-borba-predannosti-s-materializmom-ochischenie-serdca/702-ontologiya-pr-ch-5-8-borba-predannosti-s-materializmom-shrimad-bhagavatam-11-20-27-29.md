@@ -6,6 +6,12 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.27–28
+    slug: shrimad-bhagavatam-11-20-27-28
+  - title: Шримад-Бхагаватам 11.20.29
+    slug: shrimad-bhagavatam-11-20-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/702_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom_Shrimad-Bhagavatam_11.20.27-29.mp3
@@ -16,7 +22,7 @@ links:
     title: транскрипцию в PDF (146 КБ)
 ---
 
-# 702. Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад Бхагаватам» 11.20.27-29
+# 702. Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад Бхагаватам» 11.20.27–29
 
 *Онтология Прекрасной Реальности (часть 5.8)*
 
@@ -58,6 +64,6 @@ links:
 
 
 
-[^_ftn1]: [Шримад-Бхагаватам 11.20.27-28](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-20-27-28.md)
+[^_ftn1]: [Шримад-Бхагаватам 11.20.27–28](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-20-27-28.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 11.20.29](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-20-29.md)

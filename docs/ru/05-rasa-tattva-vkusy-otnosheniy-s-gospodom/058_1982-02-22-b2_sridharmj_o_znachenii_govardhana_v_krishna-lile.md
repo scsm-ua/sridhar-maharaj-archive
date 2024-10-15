@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Говардхан
     slug: govardhan
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 9
+    slug: shri-upadeshamrita-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3

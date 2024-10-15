@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.114
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-114
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/228_1982.11.02.A1_SridharMj_Prema-vivarta_podderzhivaet_filosofiju_Gaudija-matha.mp3

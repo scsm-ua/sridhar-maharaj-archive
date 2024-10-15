@@ -6,6 +6,40 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: Бхагавад-гита 9.32
+    slug: bhagavad-gita-9-32
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: Бхагавад-гита 9.31
+    slug: bhagavad-gita-9-31
+  - title: Бхагавад-гита 7.14
+    slug: bhagavad-gita-7-14
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
+  - title: Шримад-Бхагаватам 10.2.32
+    slug: shrimad-bhagavatam-10-2-32
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.mp3

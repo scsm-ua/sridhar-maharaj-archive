@@ -8,6 +8,42 @@ tags:
     slug: 1982-06
   - title: Чатур-шлока
     slug: chatur-shloka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.31.9
+    slug: shrimad-bhagavatam-10-31-9
+  - title: Бхагавад-гита 10.9
+    slug: bhagavad-gita-10-9
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
+  - title: Бхагавад-гита 10.10
+    slug: bhagavad-gita-10-10
+  - title: Бхагавад-гита 10.11
+    slug: bhagavad-gita-10-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.56
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-56
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3
@@ -199,7 +235,7 @@ links:
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.49](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-49.md)
 
-[^_ftn6]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
+[^_ftn6]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
 
 [^_ftn7]: [Бхагавад-гита 10.10](../notes/bhagavad-gita/bhagavad-gita-10-10.md)
 

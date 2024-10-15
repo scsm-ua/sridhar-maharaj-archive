@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3

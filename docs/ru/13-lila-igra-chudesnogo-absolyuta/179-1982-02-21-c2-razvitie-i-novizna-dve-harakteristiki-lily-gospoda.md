@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-291
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3

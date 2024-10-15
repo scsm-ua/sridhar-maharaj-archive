@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.3.23
+    slug: shrimad-bhagavatam-4-3-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3

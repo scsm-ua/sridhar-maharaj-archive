@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.18
+    slug: shrimad-bhagavatam-1-2-18
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15
+    slug: bhakti-rasamrita-sindhu-1-4-15
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.20
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-20
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.24
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-24
+  - title: Бхакти-расамрита-синдху 1.4.16
+    slug: bhakti-rasamrita-sindhu-1-4-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/716_1982.05.10.B5.C1_SridharMj_Jetapy_razvitija_predannosti_Kachestva_vajshnava_dostigshego_urovnja_bhava-bhakti.mp3
@@ -106,7 +130,7 @@ links:
 
 [^_ftn2]: [Бхакти-расамрита-синдху 1.4.15](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15.md)
 
-[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18-19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
 
 [^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.20](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-20.md)
 

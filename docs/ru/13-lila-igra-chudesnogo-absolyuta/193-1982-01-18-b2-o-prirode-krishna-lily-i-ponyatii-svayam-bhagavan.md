@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Нама-санкиртан
+    slug: nama-sankirtan
+  - title: Нама-санкиртан 8
+    slug: nama-sankirtan-8
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.461
+    slug: laghu-bhagavatamrita-1-5-461
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3

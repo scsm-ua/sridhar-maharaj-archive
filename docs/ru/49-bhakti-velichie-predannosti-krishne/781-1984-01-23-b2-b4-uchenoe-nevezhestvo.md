@@ -8,6 +8,10 @@ tags:
     slug: 1984-01
   - title: Бхакти
     slug: bhakti
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 11
+    slug: shri-ishopanishad-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3

@@ -8,6 +8,22 @@ tags:
     slug: 1983-11
   - title: Гаятри-мантра
     slug: gayatri-mantra
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-143
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-135
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.10.6
+    slug: shrimad-bhagavatam-2-10-6
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3

@@ -8,6 +8,18 @@ tags:
     slug: 1982-11
   - title: Проповедь
     slug: propoved
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.25
+    slug: bhagavad-gita-3-25
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.17.38
+    slug: shrimad-bhagavatam-1-17-38
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3

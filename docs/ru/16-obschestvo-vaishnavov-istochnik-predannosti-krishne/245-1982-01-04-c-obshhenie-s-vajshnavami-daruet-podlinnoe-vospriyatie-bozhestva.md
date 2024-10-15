@@ -8,6 +8,28 @@ tags:
     slug: 1982-01
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.21
+    slug: bhagavad-gita-6-21
+  - title: Анйа-абхилаша чхади
+    slug: anja-abhilasha-chhadi
+  - title: Анйа-абхилаша чхади 5
+    slug: anja-abhilasha-chhadi-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-74
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.47
+    slug: shrimad-bhagavatam-11-2-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3

@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.110
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-110
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 29
+    slug: padyavali-29
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали 14
+    slug: padyavali-14
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
+  - title: Бхагавад-гита 6.13–14
+    slug: bhagavad-gita-6-13-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3
@@ -83,4 +105,4 @@ links:
 
 [^_ftn4]: [Бхагавад-гита 2.59](../notes/bhagavad-gita/bhagavad-gita-2-59.md)
 
-[^_ftn5]: [Бхагавад-гита 6.13-14](../notes/bhagavad-gita/bhagavad-gita-6-13-14.md)
+[^_ftn5]: [Бхагавад-гита 6.13–14](../notes/bhagavad-gita/bhagavad-gita-6-13-14.md)

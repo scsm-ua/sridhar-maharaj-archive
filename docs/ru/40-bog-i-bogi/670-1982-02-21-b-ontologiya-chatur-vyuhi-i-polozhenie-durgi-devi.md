@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.18
+    slug: bhagavad-gita-15-18
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3

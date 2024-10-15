@@ -6,6 +6,10 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3

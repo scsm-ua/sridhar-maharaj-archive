@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.17
+    slug: shri-chajtanya-charitamrita-adi-lila-1-17
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.7
+    slug: shri-chajtanya-charitamrita-antya-lila-1-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3

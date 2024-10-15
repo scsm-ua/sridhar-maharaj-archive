@@ -8,6 +8,18 @@ tags:
     slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.21
+    slug: shrimad-bhagavatam-11-3-21
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.2.12
+    slug: mundaka-upanishad-1-2-12
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3

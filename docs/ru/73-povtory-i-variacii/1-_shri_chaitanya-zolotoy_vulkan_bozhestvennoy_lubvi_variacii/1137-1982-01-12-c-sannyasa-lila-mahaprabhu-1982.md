@@ -6,6 +6,36 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: Бхагавад-гита 10.8
+    slug: bhagavad-gita-10-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.23.57
+    slug: shrimad-bhagavatam-11-23-57
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25–26
+    slug: shri-chajtanya-bhagavata-madhya-khanda-28-25-26
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.202
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-202
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.74
+    slug: shri-chajtanya-charitamrita-adi-lila-7-74
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
@@ -209,7 +239,7 @@ links:
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.15](../../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-15.md)
 
-[^_ftn6]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 28.25-26](../../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-28-25-26.md)
+[^_ftn6]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 28.25–26](../../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-28-25-26.md)
 
 [^_ftn7]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 1.202](../../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-1-202.md)
 

@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 16
+    slug: shri-vilapa-kusumandzhali-16
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.7
+    slug: shrimad-bhagavatam-2-1-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-159
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-186
+  - title: Шримад-Бхагаватам 1.7.10
+    slug: shrimad-bhagavatam-1-7-10
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.mp3

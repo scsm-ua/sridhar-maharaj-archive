@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3

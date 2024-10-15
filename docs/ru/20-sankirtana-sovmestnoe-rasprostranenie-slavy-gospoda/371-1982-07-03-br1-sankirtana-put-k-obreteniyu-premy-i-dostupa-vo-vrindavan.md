@@ -8,6 +8,16 @@ tags:
     slug: 1982-07
   - title: Санкиртана
     slug: sankirtana
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: Бхагавад-гита 2.47
+    slug: bhagavad-gita-2-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3

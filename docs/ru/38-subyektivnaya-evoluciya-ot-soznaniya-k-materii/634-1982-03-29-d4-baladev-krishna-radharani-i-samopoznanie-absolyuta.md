@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-158
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 6.7–8
+    slug: shvetashvatara-upanishad-6-7-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
@@ -64,4 +72,4 @@ links:
 
 [^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.158](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-158.md)
 
-[^_ftn2]: [Шветашватара-упанишад 6.7-8](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-6-7-8.md)
+[^_ftn2]: [Шветашватара-упанишад 6.7–8](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-6-7-8.md)

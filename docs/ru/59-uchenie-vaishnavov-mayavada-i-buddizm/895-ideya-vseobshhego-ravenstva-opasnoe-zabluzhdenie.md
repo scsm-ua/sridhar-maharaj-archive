@@ -6,6 +6,24 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-38
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.39
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-39
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.19
+    slug: shri-chajtanya-charitamrita-adi-lila-8-19
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 5.6.18
+    slug: shrimad-bhagavatam-5-6-18
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/895_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3

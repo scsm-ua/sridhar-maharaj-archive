@@ -8,6 +8,24 @@ tags:
     slug: 1982-07
   - title: Бхакти
     slug: bhakti
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
+  - title: Шримад-Бхагаватам 11.29.34
+    slug: shrimad-bhagavatam-11-29-34
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.55
+    slug: bhagavad-gita-18-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/764_1982.07.03.C3_SridharMj_Pobeda_ljubvi.mp3

@@ -8,6 +8,18 @@ tags:
     slug: 1983-11
   - title: Самопредание
     slug: samopredanie
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-50
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3

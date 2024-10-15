@@ -8,6 +8,14 @@ tags:
     slug: 1982-02
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-137
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.mp3

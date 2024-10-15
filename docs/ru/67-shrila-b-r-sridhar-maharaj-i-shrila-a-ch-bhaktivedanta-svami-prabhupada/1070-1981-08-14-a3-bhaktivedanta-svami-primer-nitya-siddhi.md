@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.6
+    slug: bhagavad-gita-4-6
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-128
+  - title: Шри Гурваштака
+    slug: shri-gurvashtaka
+  - title: Шри Гурваштака 7
+    slug: shri-gurvashtaka-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3

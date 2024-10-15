@@ -8,6 +8,18 @@ tags:
     slug: 1981-08
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.296
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-296
+  - title: Гитавали
+    slug: gitavali
+  - title: Гитавали 3.1
+    slug: gitavali-3-1
+  - title: Гитавали 3.2
+    slug: gitavali-3-2
+  - title: Гитавали 3.3
+    slug: gitavali-3-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3

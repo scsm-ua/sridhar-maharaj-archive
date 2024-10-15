@@ -8,6 +8,12 @@ tags:
     slug: 1982-02
   - title: Рамачандра
     slug: ramachandra
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.21
+    slug: bhagavad-gita-3-21
+  - title: Бхагавад-гита 3.24
+    slug: bhagavad-gita-3-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3

@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-135
+  - title: Шримад-Бхагаватам 2.10.6
+    slug: shrimad-bhagavatam-2-10-6
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
+    slug: shri-chajtanya-charitamrita-adi-lila-4-171
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3

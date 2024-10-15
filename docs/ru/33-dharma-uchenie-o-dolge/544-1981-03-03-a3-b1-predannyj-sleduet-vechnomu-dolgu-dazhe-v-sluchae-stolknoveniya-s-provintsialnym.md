@@ -8,6 +8,14 @@ tags:
     slug: 1981-03
   - title: Дхарма
     slug: dharma
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3

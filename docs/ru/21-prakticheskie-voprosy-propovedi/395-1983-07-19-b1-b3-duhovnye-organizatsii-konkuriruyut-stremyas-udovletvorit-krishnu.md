@@ -8,6 +8,44 @@ tags:
     slug: 1983-07-19
   - title: Проповедь
     slug: propoved
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.35
+    slug: bhagavad-gita-3-35
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-163
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-111
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-153
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-154
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3

@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3

@@ -10,6 +10,28 @@ tags:
     slug: mahaprabhu
   - title: Рупа Госвами
     slug: rupa-gosvami
+  - title: Бхаджана-лаласа
+    slug: bhadzhana-lalasa
+  - title: Бхаджана-лаласа 8.1
+    slug: bhadzhana-lalasa-8-1
+  - title: Шри Чайтаньяштака
+    slug: shri-chajtanyashtaka
+  - title: Шри Чайтаньяштака 1
+    slug: shri-chajtanyashtaka-1
+  - title: Шри Чайтаньяштака 2
+    slug: shri-chajtanyashtaka-2
+  - title: Шри Чайтаньяштака 3
+    slug: shri-chajtanyashtaka-3
+  - title: Шри Чайтаньяштака 4
+    slug: shri-chajtanyashtaka-4
+  - title: Шри Чайтаньяштака 5
+    slug: shri-chajtanyashtaka-5
+  - title: Шри Чайтаньяштака 7
+    slug: shri-chajtanyashtaka-7
+  - title: Шри Чайтаньяштака 6
+    slug: shri-chajtanyashtaka-6
+  - title: Шри Чайтаньяштака 8
+    slug: shri-chajtanyashtaka-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3

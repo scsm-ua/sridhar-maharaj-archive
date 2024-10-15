@@ -8,6 +8,12 @@ tags:
     slug: 1983-11
   - title: Спутники
     slug: sputniki
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3

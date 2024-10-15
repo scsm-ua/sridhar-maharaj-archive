@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
+    slug: shri-chajtanya-charitamrita-antya-lila-4-71
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 410
+    slug: padyavali-410
+  - title: Падьявали 386
+    slug: padyavali-386
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-55
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 6.123
+    slug: shri-chajtanya-bhagavata-antya-khanda-6-123
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3

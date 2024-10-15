@@ -10,6 +10,10 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Риг-веда
     slug: rig-veda
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.18–20
+    slug: shrimad-bhagavatam-9-4-18-20
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
@@ -28,4 +32,4 @@ links:
 
 
 
-[^_ftn1]: [Шримад-Бхагаватам 9.4.18-20](../notes/shrimad-bhagavatam/shrimad-bhagavatam-9-4-18-20.md)
+[^_ftn1]: [Шримад-Бхагаватам 9.4.18–20](../notes/shrimad-bhagavatam/shrimad-bhagavatam-9-4-18-20.md)

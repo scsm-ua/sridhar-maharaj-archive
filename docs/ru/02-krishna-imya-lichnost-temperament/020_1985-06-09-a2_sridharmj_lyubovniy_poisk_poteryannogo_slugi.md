@@ -8,6 +8,22 @@ tags:
     slug: 1985-06
   - title: Джаганнатх
     slug: dzhagannath
+  - title: Атма-самарпане
+    slug: atma-samarpane
+  - title: Атма-самарпане 10
+    slug: atma-samarpane-10
+  - title: Атма-самарпане 5
+    slug: atma-samarpane-5
+  - title: Атма-самарпане 6
+    slug: atma-samarpane-6
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
+  - title: Ш́рӣ Кр̣ш̣н̣ера Вим̇соттара-ш́ата-на̄ма
+    slug: shri-krshnera-vimsottara-shata-nama
+  - title: Ш́рӣ Кр̣ш̣н̣ера Вим̇соттара-ш́ата-на̄ма 24
+    slug: shri-krshnera-vimsottara-shata-nama-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3

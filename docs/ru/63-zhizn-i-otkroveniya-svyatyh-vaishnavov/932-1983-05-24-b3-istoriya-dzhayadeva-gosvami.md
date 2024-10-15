@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.17
+    slug: bhakti-rasamrita-sindhu-1-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/932_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3

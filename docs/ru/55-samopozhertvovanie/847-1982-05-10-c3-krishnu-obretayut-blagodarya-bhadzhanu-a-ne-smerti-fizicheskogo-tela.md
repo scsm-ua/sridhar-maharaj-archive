@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Самопредание
     slug: samopredanie
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
+    slug: shri-chajtanya-charitamrita-antya-lila-4-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3

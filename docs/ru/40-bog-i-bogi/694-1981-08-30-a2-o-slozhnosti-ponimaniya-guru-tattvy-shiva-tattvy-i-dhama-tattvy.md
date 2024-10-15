@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шри Гурваштака
+    slug: shri-gurvashtaka
+  - title: Шри Гурваштака 7
+    slug: shri-gurvashtaka-7
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3

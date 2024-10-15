@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3

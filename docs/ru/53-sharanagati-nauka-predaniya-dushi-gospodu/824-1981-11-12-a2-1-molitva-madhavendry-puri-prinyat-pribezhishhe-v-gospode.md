@@ -8,6 +8,18 @@ tags:
     slug: 1981-11
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-16
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.2.35
+    slug: bhakti-rasamrita-sindhu-3-2-35
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3

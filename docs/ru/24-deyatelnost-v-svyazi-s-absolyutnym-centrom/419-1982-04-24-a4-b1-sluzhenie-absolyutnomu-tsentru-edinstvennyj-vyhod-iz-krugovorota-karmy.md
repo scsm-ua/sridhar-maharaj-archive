@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.13.47
+    slug: shrimad-bhagavatam-1-13-47
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.9
+    slug: bhagavad-gita-3-9
+  - title: Бхагавад-гита 3.5
+    slug: bhagavad-gita-3-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3

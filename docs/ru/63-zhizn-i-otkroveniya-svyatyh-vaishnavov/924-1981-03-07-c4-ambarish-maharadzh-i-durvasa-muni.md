@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.5.14
+    slug: shrimad-bhagavatam-9-5-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3

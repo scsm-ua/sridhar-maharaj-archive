@@ -8,6 +8,22 @@ tags:
     slug: 1982-07
   - title: Вера
     slug: vera
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 3.57
+    slug: shri-shri-prapanna-dzhivanamritam-3-57
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-155
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3
@@ -116,4 +132,4 @@ links:
 
 [^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.155](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-155.md)
 
-[^_ftn4]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8-1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn4]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)

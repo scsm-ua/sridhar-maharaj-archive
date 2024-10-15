@@ -8,6 +8,12 @@ tags:
     slug: 1982-02
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1
+    slug: shri-chajtanya-charitamrita-adi-lila-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.34
+    slug: shri-chajtanya-charitamrita-adi-lila-1-1-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3

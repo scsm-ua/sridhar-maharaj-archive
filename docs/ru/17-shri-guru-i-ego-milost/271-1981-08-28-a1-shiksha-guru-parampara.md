@@ -8,6 +8,34 @@ tags:
     slug: 1981-08
   - title: Гуру-парампара
     slug: guru-parampara
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.7
+    slug: bhagavad-gita-4-7
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.14.8
+    slug: shrimad-bhagavatam-11-14-8
+  - title: Бхагавад-гита 4.4
+    slug: bhagavad-gita-4-4
+  - title: Бхагавад-гита 4.2
+    slug: bhagavad-gita-4-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 9
+    slug: shri-upadeshamrita-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3

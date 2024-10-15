@@ -10,6 +10,18 @@ tags:
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: Шри Нама
+    slug: shri-nama
+  - title: Шри Нама 3.5
+    slug: shri-nama-3-5
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.20
+    slug: bhagavad-gita-7-20
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-38
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/348_1983.01.12.B7.C1_SridharMj_Maha-mantra_i_ispolnenie_materialnyh_jelaniy.mp3

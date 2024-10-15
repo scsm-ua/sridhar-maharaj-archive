@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.3
+    slug: bhagavad-gita-7-3
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 3.13
+    slug: bhagavad-gita-3-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3

@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.120
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-120
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3

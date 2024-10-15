@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3

@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-119
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-137
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-138
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.37
+    slug: shrimad-bhagavatam-11-2-37
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3

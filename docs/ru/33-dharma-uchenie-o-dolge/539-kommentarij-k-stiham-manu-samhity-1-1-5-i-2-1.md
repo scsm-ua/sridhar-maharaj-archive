@@ -8,6 +8,36 @@ tags:
     slug: dharma
   - title: без даты
     slug: bez-daty
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
+  - title: Ману-самхита 1.5
+    slug: manu-samhita-1-5
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 10
+    slug: shri-upadeshamrita-10
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
+    slug: shri-chajtanya-charitamrita-adi-lila-6-102
+  - title: Шримад-Бхагаватам 11.14.15
+    slug: shrimad-bhagavatam-11-14-15
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/539_2012.07.25.18_ShridharMj_Kommentarij_k_stiham_Manu-samhity_1.1.5_i_2.1.mp3

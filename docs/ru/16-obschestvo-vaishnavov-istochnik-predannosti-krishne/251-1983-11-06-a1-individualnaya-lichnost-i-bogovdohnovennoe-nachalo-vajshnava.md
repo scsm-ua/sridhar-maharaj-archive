@@ -8,6 +8,16 @@ tags:
     slug: 1983-11
   - title: Гуру
     slug: guru
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
+  - title: Слово Хранителя Преданности
+    slug: slovo-hranitelya-predannosti
+  - title: Слово Хранителя Преданности 438
+    slug: slovo-hranitelya-predannosti-438
+  - title: Слово Хранителя Преданности 44
+    slug: slovo-hranitelya-predannosti-44
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3

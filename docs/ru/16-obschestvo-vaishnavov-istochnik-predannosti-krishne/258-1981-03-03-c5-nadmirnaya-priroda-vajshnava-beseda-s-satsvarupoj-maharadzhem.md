@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.1
+    slug: shrimad-bhagavatam-2-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-172
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.194
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-194
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3

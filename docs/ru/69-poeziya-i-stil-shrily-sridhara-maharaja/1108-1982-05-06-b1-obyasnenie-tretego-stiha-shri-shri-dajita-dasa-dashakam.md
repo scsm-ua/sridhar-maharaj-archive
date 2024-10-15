@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шри Шри Дайита Дас Дашакам
+    slug: shri-shri-dajita-das-dashakam
+  - title: Шри Шри Дайита Дас Дашакам 3
+    slug: shri-shri-dajita-das-dashakam-3
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 5.5.18
+    slug: shrimad-bhagavatam-5-5-18
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1108_1982.05.06.B1_SridharMj_Objasnenie_tretego_stiha_Shri_Shri_Dajita_Dasa_dashakam.mp3

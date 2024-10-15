@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55–56
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-55-56
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/119_1982.05.09.B2_SridharMj_Dlja_Mahaprabhu_kazhdyj_holm_byl_Govardhanom_a_kazhdyj_les--Vrindavanom.mp3
@@ -31,4 +35,4 @@ links:
 
 
 
-[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.55-56](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-55-56.md)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.55–56](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-55-56.md)

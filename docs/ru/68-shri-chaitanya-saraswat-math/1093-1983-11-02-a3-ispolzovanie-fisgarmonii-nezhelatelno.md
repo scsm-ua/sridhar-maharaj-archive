@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шри Прартхана
+    slug: shri-prarthana
+  - title: Шри Прартхана 4.2
+    slug: shri-prarthana-4-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.mp3

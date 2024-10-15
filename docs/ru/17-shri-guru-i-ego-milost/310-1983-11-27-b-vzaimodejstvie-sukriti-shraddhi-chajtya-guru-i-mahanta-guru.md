@@ -8,6 +8,16 @@ tags:
     slug: 1983-11
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
+  - title: Шримад-Бхагаватам 3.25.25
+    slug: shrimad-bhagavatam-3-25-25
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3

@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.14
+    slug: bhagavad-gita-13-14
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: Риг-веда
+    slug: rig-veda
+  - title: Риг-веда 1.22.20
+    slug: rig-veda-1-22-20
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3

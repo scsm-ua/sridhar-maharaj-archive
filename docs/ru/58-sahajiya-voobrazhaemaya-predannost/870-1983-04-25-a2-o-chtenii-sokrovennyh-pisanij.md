@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.39
+    slug: shrimad-bhagavatam-10-33-39
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-62
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3

@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.19
+    slug: shri-chajtanya-charitamrita-antya-lila-20-19
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3

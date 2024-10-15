@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3

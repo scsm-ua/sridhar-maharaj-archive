@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3

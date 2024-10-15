@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхакти-анукула-матра
+    slug: bhakti-anukula-matra
+  - title: Бхакти-анукула-матра 3.6
+    slug: bhakti-anukula-matra-3-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3

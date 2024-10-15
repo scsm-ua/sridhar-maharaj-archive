@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3

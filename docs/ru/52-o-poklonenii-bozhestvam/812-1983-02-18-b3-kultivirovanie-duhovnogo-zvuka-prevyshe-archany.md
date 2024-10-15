@@ -8,6 +8,14 @@ tags:
     slug: 1983-02
   - title: Арчана
     slug: archana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-237
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.6.46
+    slug: shrimad-bhagavatam-11-6-46
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/812_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3

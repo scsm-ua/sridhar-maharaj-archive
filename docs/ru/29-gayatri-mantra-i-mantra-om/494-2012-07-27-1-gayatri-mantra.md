@@ -8,6 +8,26 @@ tags:
     slug: gayatri-mantra
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-135
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.10.6
+    slug: shrimad-bhagavatam-2-10-6
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.34
+    slug: bhagavad-gita-13-34
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
+    slug: shri-chajtanya-charitamrita-antya-lila-20-37
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3

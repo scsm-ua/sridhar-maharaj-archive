@@ -8,6 +8,18 @@ tags:
     slug: 1983-04
   - title: Проповедь
     slug: propoved
+  - title: Кабе муи вайшнава чинибо
+    slug: kabe-mui-vajshnava-chinibo
+  - title: Кабе муи вайшнава чинибо 6
+    slug: kabe-mui-vajshnava-chinibo-6
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3

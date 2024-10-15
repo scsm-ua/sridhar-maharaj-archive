@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.42
+    slug: shrimad-bhagavatam-11-5-42
+  - title: Шримад-Бхагаватам 11.5.41
+    slug: shrimad-bhagavatam-11-5-41
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Шримад-Бхагаватам 5.5.18
+    slug: shrimad-bhagavatam-5-5-18
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.mp3

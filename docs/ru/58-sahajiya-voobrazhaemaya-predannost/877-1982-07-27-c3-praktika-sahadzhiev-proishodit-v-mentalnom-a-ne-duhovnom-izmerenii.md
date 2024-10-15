@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Брихад Бхагаватамрита
+    slug: brihad-bhagavatamrita
+  - title: Брихад Бхагаватамрита 1.1.9
+    slug: brihad-bhagavatamrita-1-1-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3

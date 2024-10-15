@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1981.11"
     slug: 1981-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.30
+    slug: shrimad-bhagavatam-10-33-30
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
+  - title: Шримад-Бхагаватам 10.33.39
+    slug: shrimad-bhagavatam-10-33-39
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3

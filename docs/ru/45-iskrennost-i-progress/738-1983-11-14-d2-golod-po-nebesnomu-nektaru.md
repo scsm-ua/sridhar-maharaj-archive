@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 7.21
+    slug: shri-shri-prapanna-dzhivanamritam-7-21
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.31.9
+    slug: shrimad-bhagavatam-10-31-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3

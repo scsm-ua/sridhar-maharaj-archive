@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 2.49
+    slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3

@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Катха-Упанишада
+    slug: katha-upanishada
+  - title: Катха-Упанишада 2.2.13
+    slug: katha-upanishada-2-2-13
+  - title: Чхандогья-упанишада
+    slug: chhandogya-upanishada
+  - title: Чхандогья-упанишада 6.2.3
+    slug: chhandogya-upanishada-6-2-3
+  - title: Шветашватара-упанишада
+    slug: shvetashvatara-upanishada
+  - title: Шветашватара-упанишада 6.13
+    slug: shvetashvatara-upanishada-6-13
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.20
+    slug: bhagavad-gita-2-20
+  - title: Бхагавад-гита 15.7
+    slug: bhagavad-gita-15-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3

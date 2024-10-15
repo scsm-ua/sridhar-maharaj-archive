@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1983.07"
     slug: 1983-07
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-137
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
+    slug: shri-chajtanya-charitamrita-adi-lila-2-86
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
+    slug: shri-chajtanya-charitamrita-adi-lila-7-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
+    slug: shri-chajtanya-charitamrita-adi-lila-7-107
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3

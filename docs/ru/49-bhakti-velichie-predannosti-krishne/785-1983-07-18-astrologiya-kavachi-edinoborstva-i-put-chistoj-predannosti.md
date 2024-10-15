@@ -8,6 +8,30 @@ tags:
     slug: 1983-07
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.73
+    slug: shri-chajtanya-charitamrita-adi-lila-7-73
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.145
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-145
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-146
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.31
+    slug: shrimad-bhagavatam-11-20-31
+  - title: Шримад-Бхагаватам 3.32.23
+    slug: shrimad-bhagavatam-3-32-23
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3

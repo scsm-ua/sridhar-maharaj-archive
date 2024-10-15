@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.255–256
+    slug: bhakti-rasamrita-sindhu-1-2-255-256
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
@@ -115,6 +125,6 @@ links:
 
 
 
-[^_ftn1]: [Бхакти-расамрита-синдху 1.2.255-256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.255–256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.170](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-170.md)

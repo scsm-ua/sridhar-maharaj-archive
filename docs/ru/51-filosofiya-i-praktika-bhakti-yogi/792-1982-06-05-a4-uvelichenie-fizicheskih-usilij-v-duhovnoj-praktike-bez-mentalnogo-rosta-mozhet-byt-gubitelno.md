@@ -8,6 +8,14 @@ tags:
     slug: 1982-06
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3

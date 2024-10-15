@@ -8,6 +8,18 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3

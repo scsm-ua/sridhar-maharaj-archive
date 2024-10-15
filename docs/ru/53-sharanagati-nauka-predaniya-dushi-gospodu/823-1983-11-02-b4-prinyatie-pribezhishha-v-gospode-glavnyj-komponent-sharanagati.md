@@ -8,6 +8,14 @@ tags:
     slug: 1983-11
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Гоптритве варана
+    slug: goptritve-varana
+  - title: Гоптритве варана 4
+    slug: goptritve-varana-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3

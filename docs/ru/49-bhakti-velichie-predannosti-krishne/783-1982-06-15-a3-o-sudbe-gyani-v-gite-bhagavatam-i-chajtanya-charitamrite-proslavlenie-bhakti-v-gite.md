@@ -8,6 +8,36 @@ tags:
     slug: 1982-06
   - title: Бхакти
     slug: bhakti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 12.2
+    slug: bhagavad-gita-12-2
+  - title: Бхагавад-гита 12.5
+    slug: bhagavad-gita-12-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.2.32
+    slug: shrimad-bhagavatam-10-2-32
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-257
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
+  - title: Бхагавад-гита 9.2
+    slug: bhagavad-gita-9-2
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: Бхагавад-гита 10.8
+    slug: bhagavad-gita-10-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3

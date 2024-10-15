@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3

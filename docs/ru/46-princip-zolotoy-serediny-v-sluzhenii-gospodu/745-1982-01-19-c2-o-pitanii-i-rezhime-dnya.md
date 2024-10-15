@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 12.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-12-167
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3

@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.39
+    slug: shri-chajtanya-charitamrita-antya-lila-13-39
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
+    slug: shri-chajtanya-charitamrita-madhya-lila-10-178
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-133
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.1.44
+    slug: bhakti-rasamrita-sindhu-3-1-44
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3
@@ -138,6 +160,6 @@ links:
 
 [^_ftn4]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)
 
-[^_ftn5]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8-1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn5]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 10.178](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-10-178.md)

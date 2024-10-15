@@ -6,6 +6,36 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 3.26.23–24
+    slug: shrimad-bhagavatam-3-26-23-24
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.10
+    slug: bhagavad-gita-9-10
+  - title: Бхагавад-гита 14.4
+    slug: bhagavad-gita-14-4
+  - title: Катха-Упанишада
+    slug: katha-upanishada
+  - title: Катха-Упанишада 2.2.13
+    slug: katha-upanishada-2-2-13
+  - title: Чхандогья-упанишада
+    slug: chhandogya-upanishada
+  - title: Чхандогья-упанишада 6.2.3
+    slug: chhandogya-upanishada-6-2-3
+  - title: Шветашватара-упанишада
+    slug: shvetashvatara-upanishada
+  - title: Шветашватара-упанишада 6.13
+    slug: shvetashvatara-upanishada-6-13
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.1.11
+    slug: katha-upanishad-2-1-11
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.mp3
@@ -146,7 +176,7 @@ links:
 
 
 
-[^_ftn1]: [Шримад-Бхагаватам 3.26.23-24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-3-26-23-24.md)
+[^_ftn1]: [Шримад-Бхагаватам 3.26.23–24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-3-26-23-24.md)
 
 [^_ftn2]: [Бхагавад-гита 9.10](../notes/bhagavad-gita/bhagavad-gita-9-10.md)
 

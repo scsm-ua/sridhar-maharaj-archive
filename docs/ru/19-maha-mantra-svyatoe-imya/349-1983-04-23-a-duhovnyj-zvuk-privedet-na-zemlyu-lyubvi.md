@@ -8,6 +8,26 @@ tags:
     slug: 1983-04
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.21.5
+    slug: shrimad-bhagavatam-10-21-5
+  - title: Шримад-Бхагаватам 1.13.47
+    slug: shrimad-bhagavatam-1-13-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3

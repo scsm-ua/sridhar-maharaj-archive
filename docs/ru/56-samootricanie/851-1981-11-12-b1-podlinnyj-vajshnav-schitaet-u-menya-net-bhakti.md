@@ -8,6 +8,10 @@ tags:
     slug: 1981-11
   - title: Самопредание
     slug: samopredanie
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/851_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3

@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.9
+    slug: shrimad-bhagavatam-2-1-9
+  - title: Шримад-Бхагаватам 1.19.9–10
+    slug: shrimad-bhagavatam-1-19-9-10
+  - title: Шримад-Бхагаватам 2.1.10
+    slug: shrimad-bhagavatam-2-1-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.165
+    slug: shri-chajtanya-charitamrita-adi-lila-4-165
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
+    slug: shri-chajtanya-charitamrita-adi-lila-4-171
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-62
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3
@@ -148,7 +170,7 @@ links:
 
 [^_ftn1]: [Шримад-Бхагаватам 2.1.9](../notes/shrimad-bhagavatam/shrimad-bhagavatam-2-1-9.md)
 
-[^_ftn2]: [Шримад-Бхагаватам 1.19.9-10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-19-9-10.md)
+[^_ftn2]: [Шримад-Бхагаватам 1.19.9–10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-19-9-10.md)
 
 [^_ftn3]: [Шримад-Бхагаватам 2.1.9](../notes/shrimad-bhagavatam/shrimad-bhagavatam-2-1-9.md)
 

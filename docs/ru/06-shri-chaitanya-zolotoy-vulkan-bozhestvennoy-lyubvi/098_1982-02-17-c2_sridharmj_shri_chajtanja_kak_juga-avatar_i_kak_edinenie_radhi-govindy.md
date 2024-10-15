@@ -8,6 +8,18 @@ tags:
     slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
+    slug: shri-chajtanya-charitamrita-antya-lila-20-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-154
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
+    slug: shri-chajtanya-charitamrita-adi-lila-3-52
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3

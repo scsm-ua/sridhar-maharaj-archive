@@ -12,6 +12,14 @@ tags:
     slug: with-english-text
   - title: дата неизвестна
     slug: data-neizvestna
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/002_2012.07.25.15_ShridharMj_Poisk_rasy--vstuplenie_k_knige_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3

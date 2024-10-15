@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 6.14.2
+    slug: chhandogya-upanishad-6-14-2
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита 4.7
+    slug: bhagavad-gita-4-7
+  - title: Бхагавад-гита 4.1–2
+    slug: bhagavad-gita-4-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
@@ -106,4 +126,4 @@ links:
 
 [^_ftn6]: [Бхагавад-гита 4.7](../notes/bhagavad-gita/bhagavad-gita-4-7.md)
 
-[^_ftn7]: [Бхагавад-гита 4.1-2](../notes/bhagavad-gita/bhagavad-gita-4-1-2.md)
+[^_ftn7]: [Бхагавад-гита 4.1–2](../notes/bhagavad-gita/bhagavad-gita-4-1-2.md)

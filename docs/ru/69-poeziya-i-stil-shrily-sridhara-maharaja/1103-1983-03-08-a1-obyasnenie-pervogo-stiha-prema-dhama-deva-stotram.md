@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.03"
     slug: 1983-03
+  - title: Према-Дхама-Дева-стотрам
+    slug: prema-dhama-deva-stotram
+  - title: Према-Дхама-Дева-стотрам 1
+    slug: prema-dhama-deva-stotram-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1103_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3

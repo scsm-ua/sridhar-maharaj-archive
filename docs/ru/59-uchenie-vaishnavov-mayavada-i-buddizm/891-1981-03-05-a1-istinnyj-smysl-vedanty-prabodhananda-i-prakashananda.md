@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шад-Госвами-аштака
+    slug: shad-gosvami-ashtaka
+  - title: Шад-Госвами-аштака 2
+    slug: shad-gosvami-ashtaka-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.72
+    slug: shri-chajtanya-charitamrita-adi-lila-7-72
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.40
+    slug: shrimad-bhagavatam-11-2-40
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1–2
+    slug: vedanta-sutra-1-1-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
@@ -78,4 +94,4 @@ links:
 
 [^_ftn5]: [Шримад-Бхагаватам 11.2.40](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-40.md)
 
-[^_ftn6]: [Веданта-сутра 1.1.1-2](../notes/vedanta-sutra/vedanta-sutra-1-1-1-2.md)
+[^_ftn6]: [Веданта-сутра 1.1.1–2](../notes/vedanta-sutra/vedanta-sutra-1-1-1-2.md)

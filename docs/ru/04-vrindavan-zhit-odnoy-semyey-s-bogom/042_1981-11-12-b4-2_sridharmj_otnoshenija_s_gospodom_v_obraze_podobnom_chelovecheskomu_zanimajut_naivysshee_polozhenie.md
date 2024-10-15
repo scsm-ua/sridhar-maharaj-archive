@@ -16,6 +16,18 @@ tags:
     slug: otrechenie
   - title: Эксплуатация
     slug: ekspluatatsiya
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.52
+    slug: shri-chajtanya-charitamrita-adi-lila-2-52
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 107
+    slug: krishna-karnamrita-107
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3

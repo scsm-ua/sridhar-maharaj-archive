@@ -8,6 +8,30 @@ tags:
     slug: 1983-01
   - title: Самопредание
     slug: samopredanie
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.19
+    slug: shri-chajtanya-charitamrita-antya-lila-20-19
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3.3
+    slug: sharanagati-3-3
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/839_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3

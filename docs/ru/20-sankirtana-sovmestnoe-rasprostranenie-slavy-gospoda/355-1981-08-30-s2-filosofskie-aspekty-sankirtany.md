@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3

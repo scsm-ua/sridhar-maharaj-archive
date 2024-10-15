@@ -8,6 +8,18 @@ tags:
     slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.61
+    slug: shri-chajtanya-charitamrita-antya-lila-4-61
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-146
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3

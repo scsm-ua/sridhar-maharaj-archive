@@ -6,6 +6,32 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.33
+    slug: bhagavad-gita-4-33
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
+  - title: Шримад-Бхагаватам 4.3.23
+    slug: shrimad-bhagavatam-4-3-23
+  - title: Бхагавад-гита 6.46
+    slug: bhagavad-gita-6-46
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/658_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3

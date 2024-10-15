@@ -8,6 +8,28 @@ tags:
     slug: 1981-11
   - title: Санкиртана
     slug: sankirtana
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.14
+    slug: bhagavad-gita-9-14
+  - title: Бхагавад-гита 10.9
+    slug: bhagavad-gita-10-9
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
+    slug: shri-chajtanya-charitamrita-antya-lila-20-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-344
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.3.51
+    slug: shrimad-bhagavatam-12-3-51
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
@@ -104,4 +126,4 @@ links:
 
 [^_ftn4]: [Шримад-Бхагаватам 12.3.51](../notes/shrimad-bhagavatam/shrimad-bhagavatam-12-3-51.md)
 
-[^_ftn5]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
+[^_ftn5]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

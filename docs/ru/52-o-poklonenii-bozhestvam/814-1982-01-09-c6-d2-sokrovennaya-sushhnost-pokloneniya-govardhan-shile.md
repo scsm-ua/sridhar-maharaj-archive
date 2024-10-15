@@ -8,6 +8,10 @@ tags:
     slug: 1982-01
   - title: Арчана
     slug: archana
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 102
+    slug: shri-vilapa-kusumandzhali-102
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3

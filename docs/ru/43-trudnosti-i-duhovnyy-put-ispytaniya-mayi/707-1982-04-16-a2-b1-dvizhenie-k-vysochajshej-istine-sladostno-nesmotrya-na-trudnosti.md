@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 7.21
+    slug: shri-shri-prapanna-dzhivanamritam-7-21
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3

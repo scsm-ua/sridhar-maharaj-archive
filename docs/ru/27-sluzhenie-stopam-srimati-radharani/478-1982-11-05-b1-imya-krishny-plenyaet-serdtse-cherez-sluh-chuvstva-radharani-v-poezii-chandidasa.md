@@ -8,6 +8,16 @@ tags:
     slug: 1982-11
   - title: Радхарани
     slug: radharani
+  - title: Саи, Кева Сунаило Шйама-нама
+    slug: sai-keva-sunailo-shjama-nama
+  - title: Саи, Кева Сунаило Шйама-нама 1
+    slug: sai-keva-sunailo-shjama-nama-1
+  - title: Саи, Кева Сунаило Шйама-нама 2
+    slug: sai-keva-sunailo-shjama-nama-2
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.30
+    slug: bhagavad-gita-6-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3

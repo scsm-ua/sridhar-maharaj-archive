@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3

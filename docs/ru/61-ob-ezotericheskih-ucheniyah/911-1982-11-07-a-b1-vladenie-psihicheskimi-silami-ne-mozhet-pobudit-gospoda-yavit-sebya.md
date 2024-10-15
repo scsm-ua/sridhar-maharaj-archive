@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 2.1.11
+    slug: vedanta-sutra-2-1-11
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3

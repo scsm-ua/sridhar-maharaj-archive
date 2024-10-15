@@ -8,6 +8,24 @@ tags:
     slug: 1982-04
   - title: Чатур-шлока
     slug: chatur-shloka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.11
+    slug: bhagavad-gita-10-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.57
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-57
+  - title: Бхагавад-гита 10.9
+    slug: bhagavad-gita-10-9
+  - title: Бхагавад-гита 10.10
+    slug: bhagavad-gita-10-10
+  - title: Бхагавад-гита 10.12–13
+    slug: bhagavad-gita-10-12-13
+  - title: Шри Чаураграганья-пуруша-аштака
+    slug: shri-chauragraganya-purusha-ashtaka
+  - title: Шри Чаураграганья-пуруша-аштака 1
+    slug: shri-chauragraganya-purusha-ashtaka-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3
@@ -113,6 +131,6 @@ links:
 
 [^_ftn4]: [Бхагавад-гита 10.10](../notes/bhagavad-gita/bhagavad-gita-10-10.md)
 
-[^_ftn5]: [Бхагавад-гита 10.12-13](../notes/bhagavad-gita/bhagavad-gita-10-12-13.md)
+[^_ftn5]: [Бхагавад-гита 10.12–13](../notes/bhagavad-gita/bhagavad-gita-10-12-13.md)
 
 [^_ftn6]: [Шри Чаураграганья-пуруша-аштака 1](../notes/shri-chauragraganya-purusha-ashtaka/shri-chauragraganya-purusha-ashtaka-1.md)

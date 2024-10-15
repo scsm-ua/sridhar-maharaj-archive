@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шри Гуру-парампара
+    slug: shri-guru-parampara
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
+  - title: Шри Гуру-парампара 7
+    slug: shri-guru-parampara-7
+  - title: Шри Гуру-парампара 9
+    slug: shri-guru-parampara-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 14
+    slug: padyavali-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3

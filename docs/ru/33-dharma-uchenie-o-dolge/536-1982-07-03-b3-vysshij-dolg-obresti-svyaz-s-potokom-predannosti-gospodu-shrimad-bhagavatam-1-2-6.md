@@ -8,6 +8,16 @@ tags:
     slug: 1982-07
   - title: Дхарма
     slug: dharma
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.12
+    slug: shrimad-bhagavatam-12-13-12
+  - title: Шримад-Бхагаватам 1.2.6
+    slug: shrimad-bhagavatam-1-2-6
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3

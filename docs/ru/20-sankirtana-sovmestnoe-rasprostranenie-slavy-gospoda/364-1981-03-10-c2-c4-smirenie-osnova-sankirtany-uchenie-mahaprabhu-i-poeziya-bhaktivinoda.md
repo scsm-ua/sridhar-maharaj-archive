@@ -8,6 +8,14 @@ tags:
     slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 3"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3

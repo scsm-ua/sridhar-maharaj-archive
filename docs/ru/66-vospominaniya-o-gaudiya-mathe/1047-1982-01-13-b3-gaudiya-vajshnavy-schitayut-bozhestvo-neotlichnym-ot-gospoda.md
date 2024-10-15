@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.12
+    slug: shrimad-bhagavatam-12-13-12
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 283
+    slug: bhakti-sandarbha-283
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3

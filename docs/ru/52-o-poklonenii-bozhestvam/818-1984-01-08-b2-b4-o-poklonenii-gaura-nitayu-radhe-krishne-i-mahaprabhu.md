@@ -8,6 +8,14 @@ tags:
     slug: 1984-01
   - title: Арчана
     slug: archana
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 3
+    slug: manah-shiksha-3
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3

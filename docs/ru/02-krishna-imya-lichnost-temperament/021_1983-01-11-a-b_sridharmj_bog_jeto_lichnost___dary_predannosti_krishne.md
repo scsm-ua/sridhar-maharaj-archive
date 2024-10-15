@@ -8,6 +8,26 @@ tags:
     slug: 1983-01
   - title: Майавада
     slug: majavada
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.17
+    slug: bhakti-rasamrita-sindhu-1-17
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 410
+    slug: padyavali-410
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
+  - title: Бхагавад-гита 15.18
+    slug: bhagavad-gita-15-18
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3

@@ -8,6 +8,18 @@ tags:
     slug: 1982-04
   - title: Проповедь
     slug: propoved
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.46
+    slug: shrimad-bhagavatam-11-2-46
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3

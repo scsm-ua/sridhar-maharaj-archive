@@ -10,6 +10,12 @@ tags:
     slug: brahma
   - title: Кришна
     slug: krishna
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.21.5
+    slug: shrimad-bhagavatam-10-21-5
+  - title: Шримад-Бхагаватам 10.14.14
+    slug: shrimad-bhagavatam-10-14-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3

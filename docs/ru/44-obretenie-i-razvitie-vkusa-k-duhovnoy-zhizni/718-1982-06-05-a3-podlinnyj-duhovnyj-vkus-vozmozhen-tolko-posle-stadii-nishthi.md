@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.mp3
@@ -70,6 +92,6 @@ links:
 
 [^_ftn2]: [Бхагавад-гита 18.54](../notes/bhagavad-gita/bhagavad-gita-18-54.md)
 
-[^_ftn3]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn3]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.42](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-42.md)

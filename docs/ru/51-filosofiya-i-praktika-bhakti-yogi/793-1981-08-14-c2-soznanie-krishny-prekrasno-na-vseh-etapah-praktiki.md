@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.3.28
+    slug: shrimad-bhagavatam-1-3-28
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3

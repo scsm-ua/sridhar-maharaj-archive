@@ -6,6 +6,56 @@ category:
 tags:
   - title: "1983.07"
     slug: 1983-07
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
+    slug: shri-chajtanya-charitamrita-adi-lila-1-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-119
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.34
+    slug: shrimad-bhagavatam-2-9-34
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-96
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 126
+    slug: padyavali-126
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-77
+  - title: Шримад-Бхагаватам 10.8.46
+    slug: shrimad-bhagavatam-10-8-46
+  - title: Бхагавад-гита 2.29
+    slug: bhagavad-gita-2-29
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
+  - title: Шримад-Бхагаватам 2.1.7
+    slug: shrimad-bhagavatam-2-1-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-159
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-186
+  - title: Шримад-Бхагаватам 1.7.10
+    slug: shrimad-bhagavatam-1-7-10
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 9
+    slug: shri-upadeshamrita-9
+  - title: Шри Упадешамрита 10
+    slug: shri-upadeshamrita-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3

@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.5
+    slug: bhagavad-gita-3-5
+  - title: Бхагавад-гита 6.6
+    slug: bhagavad-gita-6-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3

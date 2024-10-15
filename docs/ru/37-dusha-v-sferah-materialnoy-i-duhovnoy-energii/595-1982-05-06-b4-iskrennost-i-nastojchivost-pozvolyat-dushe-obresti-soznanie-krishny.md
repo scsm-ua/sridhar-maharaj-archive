@@ -8,6 +8,28 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-117
+  - title: Гита-мала
+    slug: gita-mala
+  - title: Гита-мала 1.3.3
+    slug: gita-mala-1-3-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-102
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: Бхагавад-гита 6.5
+    slug: bhagavad-gita-6-5
+  - title: Бхагавад-гита 6.6
+    slug: bhagavad-gita-6-6
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.mp3

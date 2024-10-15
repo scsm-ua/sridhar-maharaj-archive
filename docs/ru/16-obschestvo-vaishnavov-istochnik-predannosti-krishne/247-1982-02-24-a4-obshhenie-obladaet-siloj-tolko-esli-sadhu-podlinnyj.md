@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/247_1982.02.24.A4_SridharMj_Obshhenie_obladaet_siloj_tolko_esli_sadhu_podlinnyj.mp3

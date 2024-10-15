@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 9.5
+    slug: bhagavad-gita-9-5
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3

@@ -8,6 +8,16 @@ tags:
     slug: 1982-11
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.35
+    slug: bhagavad-gita-10-35
+  - title: Бхагавад-гита 10.37
+    slug: bhagavad-gita-10-37
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.22.4
+    slug: shrimad-bhagavatam-10-22-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/802_1982.11.06.A4_SridharMj_Slava_mesjaca_Kartika.mp3

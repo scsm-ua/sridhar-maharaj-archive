@@ -8,6 +8,22 @@ tags:
     slug: 1982-01
   - title: Проповедь
     slug: propoved
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
+    slug: shri-chajtanya-charitamrita-adi-lila-10-120
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-344
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.3.51
+    slug: shrimad-bhagavatam-12-3-51
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3

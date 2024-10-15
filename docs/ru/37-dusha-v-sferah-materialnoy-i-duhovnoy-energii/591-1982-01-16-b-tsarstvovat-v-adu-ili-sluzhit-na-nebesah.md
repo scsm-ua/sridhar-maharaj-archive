@@ -8,6 +8,14 @@ tags:
     slug: 1982-01
   - title: Душа
     slug: dusha
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.20
+    slug: shrimad-bhagavatam-11-3-20
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.56
+    slug: shri-brahma-samhita-5-56
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3

@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.5.2
+    slug: shrimad-bhagavatam-12-5-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
+  - title: Шри Чайтанья-чандродая-натака
+    slug: shri-chajtanya-chandrodaya-nataka
+  - title: Шри Чайтанья-чандродая-натака 5.13
+    slug: shri-chajtanya-chandrodaya-nataka-5-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-136
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3

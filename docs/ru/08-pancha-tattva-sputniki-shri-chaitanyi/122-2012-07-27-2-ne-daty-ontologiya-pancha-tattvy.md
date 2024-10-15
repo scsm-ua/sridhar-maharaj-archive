@@ -6,6 +6,24 @@ category:
 tags:
   - title: Панча-таттва
     slug: pancha-tattva
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3

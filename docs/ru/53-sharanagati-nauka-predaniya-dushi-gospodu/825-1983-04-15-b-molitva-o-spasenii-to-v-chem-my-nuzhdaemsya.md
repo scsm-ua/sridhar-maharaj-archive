@@ -8,6 +8,18 @@ tags:
     slug: 1983-04
   - title: Шаранагати
     slug: sharanagati
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 6.1"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-6-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-16
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.2.35
+    slug: bhakti-rasamrita-sindhu-3-2-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3

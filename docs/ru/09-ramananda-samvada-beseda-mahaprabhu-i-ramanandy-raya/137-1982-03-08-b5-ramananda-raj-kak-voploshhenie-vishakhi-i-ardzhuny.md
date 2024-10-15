@@ -8,6 +8,10 @@ tags:
     slug: 1982-03
   - title: Рамананда Рай
     slug: ramananda-raj
+  - title: Шри Гуру-парампара
+    slug: shri-guru-parampara
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/619_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3

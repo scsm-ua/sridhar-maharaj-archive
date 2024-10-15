@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.85
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-85
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.30
+    slug: shrimad-bhagavatam-11-2-30
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.mp3
@@ -60,4 +72,4 @@ links:
 
 [^_ftn1]: [Шримад-Бхагаватам 11.2.30](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-30.md)
 
-[^_ftn2]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
+[^_ftn2]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

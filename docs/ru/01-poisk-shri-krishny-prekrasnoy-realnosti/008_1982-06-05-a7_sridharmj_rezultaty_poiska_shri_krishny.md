@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.37–38
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-37-38
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
+    slug: shri-chajtanya-charitamrita-antya-lila-17-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
@@ -84,6 +98,6 @@ links:
 
 [^_ftn2]: [Веданта-сутра 1.1.1](../notes/vedanta-sutra/vedanta-sutra-1-1-1.md)
 
-[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.37-38](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-37-38.md)
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.37–38](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-37-38.md)
 
 [^_ftn4]: [«Шри Чайтанья-чаритамрита», Антья-лила 17.27](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-17-27.md)

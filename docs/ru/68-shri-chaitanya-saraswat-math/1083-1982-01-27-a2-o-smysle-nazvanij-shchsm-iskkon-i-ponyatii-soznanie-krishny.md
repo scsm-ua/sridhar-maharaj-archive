@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3

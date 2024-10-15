@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 11
+    slug: shri-shri-prabhupada-padma-stavakah-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3

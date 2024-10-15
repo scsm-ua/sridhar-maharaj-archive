@@ -8,6 +8,24 @@ tags:
     slug: 1982-01
   - title: Риг-веда
     slug: rig-veda
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.2
+    slug: shrimad-bhagavatam-11-2-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: Бхагавад-гита 4.16
+    slug: bhagavad-gita-4-16
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 7.15.25
+    slug: shrimad-bhagavatam-7-15-25
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3

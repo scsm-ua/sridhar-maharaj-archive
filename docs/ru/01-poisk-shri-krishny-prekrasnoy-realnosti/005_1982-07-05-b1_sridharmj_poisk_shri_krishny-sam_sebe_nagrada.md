@@ -10,6 +10,14 @@ tags:
     slug: with-english-audio
   - title: with English text
     slug: with-english-text
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3

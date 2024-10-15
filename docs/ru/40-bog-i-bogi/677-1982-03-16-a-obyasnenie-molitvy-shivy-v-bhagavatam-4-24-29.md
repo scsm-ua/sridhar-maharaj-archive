@@ -6,6 +6,32 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.24.29
+    slug: shrimad-bhagavatam-4-24-29
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 1.5
+    slug: manu-samhita-1-5
+  - title: Вишну-пурана
+    slug: vishnu-purana
+  - title: Вишну-пурана 6.7.61
+    slug: vishnu-purana-6-7-61
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.4
+    slug: bhagavad-gita-7-4
+  - title: Бхагавад-гита 7.5
+    slug: bhagavad-gita-7-5
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.99
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-99
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3

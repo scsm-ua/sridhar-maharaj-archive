@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.44
+    slug: bhagavad-gita-6-44
+  - title: Бхагавад-гита 6.43
+    slug: bhagavad-gita-6-43
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.156
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-156
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-157
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3

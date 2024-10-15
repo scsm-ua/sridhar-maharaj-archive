@@ -8,6 +8,14 @@ tags:
     slug: 1982-11
   - title: Радхарани
     slug: radharani
+  - title: Шри Радхаштака
+    slug: shri-radhashtaka
+  - title: Шри Радхаштака 1
+    slug: shri-radhashtaka-1
+  - title: Шри Прартхана
+    slug: shri-prarthana
+  - title: Шри Прартхана 7.3
+    slug: shri-prarthana-7-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3

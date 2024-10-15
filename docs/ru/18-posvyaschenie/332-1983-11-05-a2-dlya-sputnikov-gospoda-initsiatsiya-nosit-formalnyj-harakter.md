@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Посвящение
     slug: posvyashhenie
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.7
+    slug: bhagavad-gita-4-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3

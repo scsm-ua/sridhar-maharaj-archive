@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 2.1.11
+    slug: vedanta-sutra-2-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3

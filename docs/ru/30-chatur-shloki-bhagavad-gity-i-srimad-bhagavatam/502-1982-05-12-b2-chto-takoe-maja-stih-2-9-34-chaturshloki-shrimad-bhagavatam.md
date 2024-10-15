@@ -8,6 +8,44 @@ tags:
     slug: 1982-05
   - title: Чатур-шлока
     slug: chatur-shloka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.18
+    slug: bhagavad-gita-3-18
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
+    slug: shri-chajtanya-charitamrita-adi-lila-1-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-119
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.34
+    slug: shrimad-bhagavatam-2-9-34
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Таттва-сандарбха
+    slug: tattva-sandarbha
+  - title: Таттва-сандарбха 52.1
+    slug: tattva-sandarbha-52-1
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
+  - title: Шримад-Бхагаватам 2.9.33
+    slug: shrimad-bhagavatam-2-9-33
+  - title: Шримад-Бхагаватам 2.9.36
+    slug: shrimad-bhagavatam-2-9-36
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3

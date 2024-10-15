@@ -8,6 +8,14 @@ tags:
     slug: 1982-01
   - title: Вера
     slug: vera
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/758_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3

@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.14.21
+    slug: shrimad-bhagavatam-11-14-21
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.53
+    slug: bhagavad-gita-11-53
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3

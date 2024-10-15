@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
+    slug: shri-chajtanya-charitamrita-antya-lila-13-61
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3

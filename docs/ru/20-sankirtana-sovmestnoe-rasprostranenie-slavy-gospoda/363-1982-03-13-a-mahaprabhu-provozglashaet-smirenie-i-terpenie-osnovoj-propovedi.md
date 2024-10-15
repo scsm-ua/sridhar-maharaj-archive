@@ -8,6 +8,18 @@ tags:
     slug: 1982-03
   - title: Санкиртана
     slug: sankirtana
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.47
+    slug: bhagavad-gita-2-47
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
+  - title: Бхагавад-гита 3.26
+    slug: bhagavad-gita-3-26
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 10
+    slug: shri-shri-prabhupada-padma-stavakah-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3

@@ -8,6 +8,14 @@ tags:
     slug: 1982-02
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 2.6
+    slug: laghu-bhagavatamrita-2-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3

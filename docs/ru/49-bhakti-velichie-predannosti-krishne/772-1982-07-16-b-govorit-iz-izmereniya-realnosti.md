@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Бхакти
     slug: bhakti
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3

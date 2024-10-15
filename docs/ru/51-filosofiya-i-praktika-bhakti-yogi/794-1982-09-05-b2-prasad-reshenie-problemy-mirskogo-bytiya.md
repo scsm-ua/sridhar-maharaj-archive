@@ -8,6 +8,12 @@ tags:
     slug: 1982-09
   - title: Прасад
     slug: prasad
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.9
+    slug: bhagavad-gita-3-9
+  - title: Бхагавад-гита 3.13
+    slug: bhagavad-gita-3-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3

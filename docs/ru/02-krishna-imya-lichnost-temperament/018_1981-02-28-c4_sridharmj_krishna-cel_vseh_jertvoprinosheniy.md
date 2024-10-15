@@ -6,6 +6,36 @@ category:
 tags:
   - title: "1981.02"
     slug: 1981-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.9
+    slug: bhagavad-gita-3-9
+  - title: Бхагавад-гита 9.24
+    slug: bhagavad-gita-9-24
+  - title: Бхагавад-гита 7.23
+    slug: bhagavad-gita-7-23
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: Бхагавад-гита 4.33
+    slug: bhagavad-gita-4-33
+  - title: Бхагавад-гита 4.29
+    slug: bhagavad-gita-4-29
+  - title: Бхагавад-гита 6.30
+    slug: bhagavad-gita-6-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.45
+    slug: shrimad-bhagavatam-11-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/018_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3

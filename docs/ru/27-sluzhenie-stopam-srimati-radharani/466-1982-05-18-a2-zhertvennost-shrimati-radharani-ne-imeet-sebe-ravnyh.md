@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.110
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-110
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
+    slug: shri-chajtanya-charitamrita-adi-lila-4-219
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
+  - title: Шри Гита-Говинда
+    slug: shri-gita-govinda
+  - title: Шри Гита-Говинда 3.1
+    slug: shri-gita-govinda-3-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3

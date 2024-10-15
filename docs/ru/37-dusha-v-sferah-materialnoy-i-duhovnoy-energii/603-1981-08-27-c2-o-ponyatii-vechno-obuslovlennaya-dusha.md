@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Душа
     slug: dusha
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.3.20
+    slug: katha-upanishad-2-3-20
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3

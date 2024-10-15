@@ -8,6 +8,10 @@ tags:
     slug: 1982-03
   - title: Дхарма
     slug: dharma
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3

@@ -8,6 +8,20 @@ tags:
     slug: 1981-03
   - title: Гаятри-мантра
     slug: gayatri-mantra
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-135
+  - title: Шримад-Бхагаватам 2.10.6
+    slug: shrimad-bhagavatam-2-10-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3

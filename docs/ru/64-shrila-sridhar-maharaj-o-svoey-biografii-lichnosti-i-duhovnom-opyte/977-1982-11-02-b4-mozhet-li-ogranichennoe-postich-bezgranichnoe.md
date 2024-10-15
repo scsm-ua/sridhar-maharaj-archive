@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/977_1982.11.02.B4_SridharMj_Mozhet_li_ogranichennoe_postich_Bezgranichnoe.mp3
@@ -46,4 +54,4 @@ links:
 
 [^_ftn1]: [Катха-упанишад 1.2.23](../notes/katha-upanishad/katha-upanishad-1-2-23.md)
 
-[^_ftn2]: [Шаранагати 3-4](../notes/sharanagati/sharanagati-3-4.md)
+[^_ftn2]: [Шаранагати 3–4](../notes/sharanagati/sharanagati-3-4.md)

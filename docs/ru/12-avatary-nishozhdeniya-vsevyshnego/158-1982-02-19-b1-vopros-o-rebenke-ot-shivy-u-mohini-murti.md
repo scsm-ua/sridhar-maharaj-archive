@@ -10,6 +10,16 @@ tags:
     slug: mohini-murti
   - title: Шива
     slug: shiva
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 25.7
+    slug: padma-purana-uttara-khanda-25-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.182
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-182
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.117–118
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-117-118
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
@@ -112,4 +122,4 @@ links:
 
 [^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 6.182](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-6-182.md)
 
-[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.117-118](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-117-118.md)
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.117–118](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-117-118.md)

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Акродха парамананда
+    slug: akrodha-paramananda
+  - title: Акродха парамананда 4
+    slug: akrodha-paramananda-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3

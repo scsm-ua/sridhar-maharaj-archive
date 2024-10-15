@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.29.46
+    slug: shrimad-bhagavatam-4-29-46
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: Шримад-Бхагаватам 11.5.11
+    slug: shrimad-bhagavatam-11-5-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.15
+    slug: bhagavad-gita-15-15
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3

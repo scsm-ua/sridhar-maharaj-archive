@@ -8,6 +8,40 @@ tags:
     slug: 1982-03
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.42
+    slug: shrimad-bhagavatam-11-2-42
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: Шримад-Бхагаватам 6.2.14
+    slug: shrimad-bhagavatam-6-2-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.mp3
@@ -165,7 +199,7 @@ links:
 
 
 
-[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.62](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-62.md)
 

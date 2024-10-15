@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 7
+    slug: shri-shri-prabhupada-padma-stavakah-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3

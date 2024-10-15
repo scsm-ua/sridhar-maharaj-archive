@@ -8,6 +8,14 @@ tags:
     slug: 1982-07
   - title: Кришна-лила
     slug: krishna-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.461
+    slug: laghu-bhagavatamrita-1-5-461
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3

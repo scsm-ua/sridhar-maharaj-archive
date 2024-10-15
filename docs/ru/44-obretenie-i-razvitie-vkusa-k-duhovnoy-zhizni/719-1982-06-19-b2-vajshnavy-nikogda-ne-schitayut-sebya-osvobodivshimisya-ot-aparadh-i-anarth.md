@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
+    slug: shri-chajtanya-charitamrita-adi-lila-8-78
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3
@@ -88,7 +106,7 @@ links:
 
 
 
-[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn1]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.205](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-205.md)
 

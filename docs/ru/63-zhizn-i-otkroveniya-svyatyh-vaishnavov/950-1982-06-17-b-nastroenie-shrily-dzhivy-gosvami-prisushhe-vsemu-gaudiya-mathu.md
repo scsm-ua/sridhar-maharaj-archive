@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 7
+    slug: shri-shri-prabhupada-padma-stavakah-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/950_1982.06.17.B_SridharMj_Nastroenie_Shrily_Dzhivy_Gosvami_prisushhe_vsemu_Gaudija_Mathu.mp3

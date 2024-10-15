@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-237
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.6.46
+    slug: shrimad-bhagavatam-11-6-46
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
+  - title: Шримад-Бхагаватам 12.12.55
+    slug: shrimad-bhagavatam-12-12-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3

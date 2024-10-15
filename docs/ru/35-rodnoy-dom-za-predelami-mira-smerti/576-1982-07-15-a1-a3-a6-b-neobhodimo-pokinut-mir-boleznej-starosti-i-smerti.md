@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.27
+    slug: bhagavad-gita-2-27
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3

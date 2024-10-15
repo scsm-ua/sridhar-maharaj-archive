@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.57
+    slug: shri-chajtanya-charitamrita-adi-lila-1-57
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3

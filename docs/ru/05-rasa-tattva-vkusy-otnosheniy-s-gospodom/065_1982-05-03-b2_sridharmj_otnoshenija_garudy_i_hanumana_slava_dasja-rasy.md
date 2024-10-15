@@ -12,6 +12,10 @@ tags:
     slug: hanuman
   - title: история
     slug: istoriya
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.23
+    slug: shrimad-bhagavatam-7-5-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/065_1982.05.03.B2_SridharMj_Otnoshenija_Garudy_i_Hanumana_Slava_dasja-rasy.mp3

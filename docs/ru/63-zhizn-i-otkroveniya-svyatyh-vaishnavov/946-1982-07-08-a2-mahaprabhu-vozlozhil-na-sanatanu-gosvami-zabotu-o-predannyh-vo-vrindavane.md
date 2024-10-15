@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.183
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-183
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3

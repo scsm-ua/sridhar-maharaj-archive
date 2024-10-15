@@ -10,6 +10,18 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
+  - title: Гауранга каруна коро
+    slug: gauranga-karuna-koro
+  - title: Гауранга каруна коро 3
+    slug: gauranga-karuna-koro-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3

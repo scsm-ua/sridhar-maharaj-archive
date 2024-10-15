@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-119
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-137
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-138
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.37
+    slug: shrimad-bhagavatam-11-2-37
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
+  - title: Бхагавад-гита 15.18
+    slug: bhagavad-gita-15-18
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: Бхагавад-гита 4.7
+    slug: bhagavad-gita-4-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3

@@ -14,6 +14,18 @@ tags:
     slug: upadeshamrita-9
   - title: ШБ 9.4.63
     slug: shb-9-4-63
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 9
+    slug: shri-upadeshamrita-9
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3
@@ -130,7 +142,7 @@ links:
 
 
 
-[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8-1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
 
 [^_ftn2]: [Шри Упадешамрита 9](../notes/shri-upadeshamrita/shri-upadeshamrita-9.md)
 

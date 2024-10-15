@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: Бхагавад-гита 15.7
+    slug: bhagavad-gita-15-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3

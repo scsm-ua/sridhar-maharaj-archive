@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 5
+    slug: shri-upadeshamrita-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3

@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Шикшаштакам
     slug: shikshashtakam
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/144_1982.05.09.A5_SridharMj_Dva_varianta_tretego_stiha_Shikshashtaki.mp3

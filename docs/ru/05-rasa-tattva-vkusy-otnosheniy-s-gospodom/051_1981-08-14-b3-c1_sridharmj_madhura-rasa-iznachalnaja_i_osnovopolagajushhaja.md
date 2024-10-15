@@ -8,6 +8,38 @@ tags:
     slug: 1981-08
   - title: Мадхура-раса
     slug: madhura-rasa
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
+    slug: shri-chajtanya-charitamrita-adi-lila-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
+    slug: shri-chajtanya-charitamrita-adi-lila-3-4
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
+    slug: shri-chajtanya-charitamrita-antya-lila-1-132
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.2
+    slug: vidagdha-madhava-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
+  - title: Манах-шикша 3
+    slug: manah-shiksha-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-137
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3

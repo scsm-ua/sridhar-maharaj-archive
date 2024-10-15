@@ -14,6 +14,24 @@ tags:
     slug: shb-10-21-5
   - title: ШБ 11.29.34
     slug: shb-11-29-34
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.29.34
+    slug: shrimad-bhagavatam-11-29-34
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.55
+    slug: bhagavad-gita-18-55
+  - title: Шримад-Бхагаватам 10.21.5
+    slug: shrimad-bhagavatam-10-21-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3

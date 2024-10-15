@@ -10,6 +10,10 @@ tags:
     slug: godavari
   - title: Рамананда-самвад
     slug: ramananda-samvad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3

@@ -10,6 +10,34 @@ tags:
     slug: istoriya
   - title: история о шлоке Рупы Госвами на крыше хижины
     slug: istoriya-o-shloke-rupy-gosvami-na-kryshe-h
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-59
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
+    slug: shri-chajtanya-charitamrita-antya-lila-1-114
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
+    slug: shri-chajtanya-charitamrita-antya-lila-1-79
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-76
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 387
+    slug: padyavali-387
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
+    slug: shri-chajtanya-charitamrita-adi-lila-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
+    slug: shri-chajtanya-charitamrita-adi-lila-3-4
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
+    slug: shri-chajtanya-charitamrita-antya-lila-1-132
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.2
+    slug: vidagdha-madhava-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3

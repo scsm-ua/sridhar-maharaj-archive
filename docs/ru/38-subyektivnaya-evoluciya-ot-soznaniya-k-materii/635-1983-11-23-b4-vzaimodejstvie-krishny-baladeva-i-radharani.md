@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.252
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-252
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 6.8
+    slug: shvetashvatara-upanishad-6-8
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3

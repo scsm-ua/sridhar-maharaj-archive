@@ -8,6 +8,18 @@ tags:
     slug: 1981-03
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
+  - title: Бхагавад-гита 3.43
+    slug: bhagavad-gita-3-43
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.20.19
+    slug: shrimad-bhagavatam-10-20-19
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3

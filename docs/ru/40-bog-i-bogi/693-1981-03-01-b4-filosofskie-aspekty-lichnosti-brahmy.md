@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.302
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-302
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.303
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-303
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3

@@ -8,6 +8,24 @@ tags:
     slug: 1982-05
   - title: Шаранагати
     slug: sharanagati
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Шримад-Бхагаватам 7.5.23–24
+    slug: shrimad-bhagavatam-7-5-23-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3
@@ -77,4 +95,4 @@ links:
 
 [^_ftn5]: Вера в Кришну как защитника. См. «Шаранагати» Шрилы Бхактивинода Тхакура.
 
-[^_ftn6]: [Шримад-Бхагаватам 7.5.23-24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)
+[^_ftn6]: [Шримад-Бхагаватам 7.5.23–24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)

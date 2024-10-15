@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 10.8
+    slug: bhagavad-gita-10-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.111–112
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-111-112
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.220
+    slug: shri-chajtanya-charitamrita-antya-lila-6-220
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/743_1982.07.09.A1_SridharMj_Asketizm_neobhodim_v_toj_stepeni_v_kotoroj_on_sposobstvuet_sluzheniju_Krishne.mp3
@@ -171,6 +185,6 @@ links:
 
 [^_ftn3]: [Бхагавад-гита 10.8](../notes/bhagavad-gita/bhagavad-gita-10-8.md)
 
-[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.111-112](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-111-112.md)
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.111–112](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-111-112.md)
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.220](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-220.md)

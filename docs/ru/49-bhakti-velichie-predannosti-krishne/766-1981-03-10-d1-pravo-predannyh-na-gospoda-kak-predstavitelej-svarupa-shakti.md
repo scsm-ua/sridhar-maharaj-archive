@@ -8,6 +8,42 @@ tags:
     slug: 1981-03
   - title: Бхакти
     slug: bhakti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.29
+    slug: bhagavad-gita-9-29
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 9.5
+    slug: bhagavad-gita-9-5
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.68
+    slug: shrimad-bhagavatam-9-4-68
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: Шримад-Бхагаватам 9.4.65
+    slug: shrimad-bhagavatam-9-4-65
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.19
+    slug: shri-chajtanya-charitamrita-adi-lila-8-19
+  - title: Шримад-Бхагаватам 5.6.18
+    slug: shrimad-bhagavatam-5-6-18
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-38
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.39
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-39
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.42
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.219
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-219
+  - title: Хари-бхакти-судходая
+    slug: hari-bhakti-sudhodaya
+  - title: Хари-бхакти-судходая 7.28
+    slug: hari-bhakti-sudhodaya-7-28
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3

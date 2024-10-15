@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
+    slug: shri-chajtanya-charitamrita-adi-lila-5-36
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.278
+    slug: bhakti-rasamrita-sindhu-1-2-278
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 5.41
+    slug: laghu-bhagavatamrita-5-41
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
+    slug: shri-chajtanya-charitamrita-adi-lila-5-35
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.1.30
+    slug: shrimad-bhagavatam-7-1-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3

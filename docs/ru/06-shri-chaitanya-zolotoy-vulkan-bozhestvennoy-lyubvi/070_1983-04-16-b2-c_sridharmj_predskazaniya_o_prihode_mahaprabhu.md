@@ -8,6 +8,28 @@ tags:
     slug: 1983-04
   - title: Махапрабху
     slug: mahaprabhu
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.33–34
+    slug: shrimad-bhagavatam-11-5-33-34
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
+    slug: shri-chajtanya-charitamrita-adi-lila-3-52
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.10
+    slug: shri-chajtanya-charitamrita-antya-lila-20-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-100
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.342
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-342
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-103
+  - title: Шримад-Бхагаватам 11.5.32
+    slug: shrimad-bhagavatam-11-5-32
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.mp3
@@ -95,6 +117,6 @@ links:
 
 
 
-[^_ftn1]: [Шримад-Бхагаватам 11.5.33-34](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-33-34.md)
+[^_ftn1]: [Шримад-Бхагаватам 11.5.33–34](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-33-34.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 11.5.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-32.md)

@@ -8,6 +8,10 @@ tags:
     slug: 1982-04
   - title: Санатана Госвами
     slug: sanatana-gosvami
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3

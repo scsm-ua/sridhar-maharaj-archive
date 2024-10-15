@@ -8,6 +8,34 @@ tags:
     slug: 1981-08
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-80
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 74
+    slug: padyavali-74
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 3.13
+    slug: shri-shri-prapanna-dzhivanamritam-3-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Нитай-Пада-Камала
+    slug: nitaj-pada-kamala
+  - title: Нитай-Пада-Камала 3
+    slug: nitaj-pada-kamala-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-143
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3

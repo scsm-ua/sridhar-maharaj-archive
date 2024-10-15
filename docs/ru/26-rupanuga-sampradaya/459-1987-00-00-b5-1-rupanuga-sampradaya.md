@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1987.00"
     slug: 1987-00
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3

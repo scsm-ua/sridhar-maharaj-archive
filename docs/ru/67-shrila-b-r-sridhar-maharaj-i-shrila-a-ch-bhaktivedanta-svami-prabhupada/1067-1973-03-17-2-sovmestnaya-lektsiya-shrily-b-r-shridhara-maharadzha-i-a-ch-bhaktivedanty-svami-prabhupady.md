@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1973.03"
     slug: 1973-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.88.8
+    slug: shrimad-bhagavatam-10-88-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.218
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-218
+  - title: Шримад-Бхагаватам 11.25.25
+    slug: shrimad-bhagavatam-11-25-25
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.mp3
@@ -304,4 +328,4 @@ links:
 
 [^_ftn7]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)
 
-[^_ftn8]: [Шаранагати 3-4](../notes/sharanagati/sharanagati-3-4.md)
+[^_ftn8]: [Шаранагати 3–4](../notes/sharanagati/sharanagati-3-4.md)

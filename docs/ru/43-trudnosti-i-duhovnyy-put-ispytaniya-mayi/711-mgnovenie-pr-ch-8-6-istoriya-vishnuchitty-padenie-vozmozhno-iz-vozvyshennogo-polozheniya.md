@@ -6,6 +6,12 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.9
+    slug: bhagavad-gita-4-9
+  - title: Бхагавад-гита 18.55
+    slug: bhagavad-gita-18-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3

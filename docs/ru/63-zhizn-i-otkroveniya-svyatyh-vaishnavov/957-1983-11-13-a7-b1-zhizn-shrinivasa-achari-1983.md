@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шри Шад Госвами Аштакам
+    slug: shri-shad-gosvami-ashtakam
+  - title: Шри Шад Госвами Аштакам 2
+    slug: shri-shad-gosvami-ashtakam-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/957_1983.11.13.A7.B1_SridharMj_Zhizn_Shrinivasa_Achari_1983.mp3

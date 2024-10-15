@@ -8,6 +8,16 @@ tags:
     slug: 1982-01
   - title: Флейта Кришны
     slug: flejta-krishny
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
+  - title: Шримад-Бхагаватам 10.21.5
+    slug: shrimad-bhagavatam-10-21-5
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3

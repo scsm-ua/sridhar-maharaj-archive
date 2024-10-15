@@ -10,6 +10,10 @@ tags:
     slug: gadadhar-pandit
   - title: Радхарани
     slug: radharani
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/125_1982.04.23.A2.B2_SridharMj_Radharani_i_Rukmini___Lichnost_Gadahara_Pandita.mp3
@@ -88,4 +92,4 @@ links:
 
 
 
-[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
+[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

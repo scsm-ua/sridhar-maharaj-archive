@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхакти-анукула-матра
+    slug: bhakti-anukula-matra
+  - title: Бхакти-анукула-матра 4.7
+    slug: bhakti-anukula-matra-4-7
+  - title: Бхакти-анукула-матра 4.1
+    slug: bhakti-anukula-matra-4-1
+  - title: Бхакти-анукула-матра 4.2
+    slug: bhakti-anukula-matra-4-2
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3

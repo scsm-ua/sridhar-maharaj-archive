@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
+  - title: Брихад Бхагаватамрита
+    slug: brihad-bhagavatamrita
+  - title: Брихад Бхагаватамрита 1.1.9
+    slug: brihad-bhagavatamrita-1-1-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3

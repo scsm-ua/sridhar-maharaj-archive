@@ -8,6 +8,20 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
+    slug: shri-chajtanya-charitamrita-madhya-lila-10-178
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-133
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.1.44
+    slug: bhakti-rasamrita-sindhu-3-1-44
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3

@@ -8,6 +8,34 @@ tags:
     slug: 1982-04
   - title: освобождение
     slug: osvobozhdenie
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 4
+    slug: shri-shikshashtakam-4
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.29
+    slug: bhagavad-gita-9-29
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
+    slug: shri-chajtanya-charitamrita-adi-lila-5-35
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.1.30
+    slug: shrimad-bhagavatam-7-1-30
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
+    slug: shri-chajtanya-charitamrita-adi-lila-5-36
+  - title: Бхакти-расамрита-синдху 1.2.278
+    slug: bhakti-rasamrita-sindhu-1-2-278
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 5.41
+    slug: laghu-bhagavatamrita-5-41
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3

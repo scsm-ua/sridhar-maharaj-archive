@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 4.27
+    slug: shri-shri-prapanna-dzhivanamritam-4-27
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.414–418
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-414-418
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 113
+    slug: chajtanya-chandramrita-113
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3

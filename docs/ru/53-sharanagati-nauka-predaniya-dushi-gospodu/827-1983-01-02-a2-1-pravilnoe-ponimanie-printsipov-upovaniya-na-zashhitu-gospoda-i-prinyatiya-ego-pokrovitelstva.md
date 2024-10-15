@@ -8,6 +8,10 @@ tags:
     slug: 1983-01
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3

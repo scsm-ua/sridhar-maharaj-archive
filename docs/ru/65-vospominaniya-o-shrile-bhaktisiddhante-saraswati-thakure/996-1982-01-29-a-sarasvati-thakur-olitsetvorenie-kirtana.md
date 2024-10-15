@@ -6,6 +6,52 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 8
+    slug: shri-shri-prabhupada-padma-stavakah-8
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.23–24
+    slug: shrimad-bhagavatam-7-5-23-24
+  - title: Шримад-Бхагаватам 11.5.38–40
+    slug: shrimad-bhagavatam-11-5-38-40
+  - title: Шри Нама-Махатмья
+    slug: shri-nama-mahatmya
+  - title: Шри Нама-Махатмья 2
+    slug: shri-nama-mahatmya-2
+  - title: Шримад-Бхагаватам 9.4.68
+    slug: shrimad-bhagavatam-9-4-68
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.6
+    slug: bhagavad-gita-4-6
+  - title: Бхагавад-гита 9.11
+    slug: bhagavad-gita-9-11
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 1
+    slug: vajshnava-ke-1
+  - title: Вайшнава ке 17
+    slug: vajshnava-ke-17
+  - title: Вайшнава ке 19
+    slug: vajshnava-ke-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
+  - title: Шримад-Бхагаватам 2.4.17
+    slug: shrimad-bhagavatam-2-4-17
+  - title: Шримад-Бхагаватам 2.4.18
+    slug: shrimad-bhagavatam-2-4-18
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
@@ -265,9 +311,9 @@ links:
 
 [^_ftn1]: [Шри Шри Прабхупада-падма Ставаках 8](../notes/shri-shri-prabhupada-padma-stavakah/shri-shri-prabhupada-padma-stavakah-8.md)
 
-[^_ftn2]: [Шримад-Бхагаватам 7.5.23-24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)
+[^_ftn2]: [Шримад-Бхагаватам 7.5.23–24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)
 
-[^_ftn3]: [Шримад-Бхагаватам 11.5.38-40](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-38-40.md)
+[^_ftn3]: [Шримад-Бхагаватам 11.5.38–40](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-38-40.md)
 
 [^_ftn4]: [Шри Нама-Махатмья 2](../notes/shri-nama-mahatmya/shri-nama-mahatmya-2.md)
 

@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
+  - title: Радха-раса-судха-нидхи
+    slug: radha-rasa-sudha-nidhi
+  - title: Радха-раса-судха-нидхи 1
+    slug: radha-rasa-sudha-nidhi-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3

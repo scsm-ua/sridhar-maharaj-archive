@@ -8,6 +8,12 @@ tags:
     slug: 1983-03
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.4
+    slug: bhagavad-gita-7-4
+  - title: Бхагавад-гита 7.5
+    slug: bhagavad-gita-7-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/611_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3

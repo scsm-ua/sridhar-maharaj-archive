@@ -8,6 +8,20 @@ tags:
     slug: 1982-02
   - title: Посвящение
     slug: posvyashhenie
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 283
+    slug: bhakti-sandarbha-283
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.42
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.219
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-219
+  - title: Хари-бхакти-судходая
+    slug: hari-bhakti-sudhodaya
+  - title: Хари-бхакти-судходая 7.28
+    slug: hari-bhakti-sudhodaya-7-28
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/324_1982.02.15.A2_SridharMj_Neobhodimost_i_tri_raznovidnosti_dikshi.mp3

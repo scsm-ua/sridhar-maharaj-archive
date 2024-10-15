@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 3
+    slug: vajshnava-ke-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3

@@ -8,6 +8,10 @@ tags:
     slug: 1982-01
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3

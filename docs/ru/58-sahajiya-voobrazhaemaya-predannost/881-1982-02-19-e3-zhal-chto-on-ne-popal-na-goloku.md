@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.3
+    slug: shrimad-bhagavatam-1-1-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.mp3

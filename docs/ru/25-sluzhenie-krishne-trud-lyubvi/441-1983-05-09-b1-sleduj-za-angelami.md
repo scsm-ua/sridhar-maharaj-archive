@@ -8,6 +8,14 @@ tags:
     slug: 1983-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.185
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-185
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 16
+    slug: shri-vilapa-kusumandzhali-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3

@@ -10,6 +10,20 @@ tags:
     slug: istoriya
   - title: история о знании Тамильского языка
     slug: istoriya-o-znanii-tamilskogo-yazyka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.38
+    slug: bhagavad-gita-2-38
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 26
+    slug: shri-chajtanya-bhagavata-madhya-khanda-26
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25
+    slug: shri-chajtanya-bhagavata-madhya-khanda-28-25
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3

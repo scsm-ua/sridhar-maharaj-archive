@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1983.03"
     slug: 1983-03
+  - title: Шримад Бхактивинода-вираха Дашакам
+    slug: shrimad-bhaktivinoda-viraha-dashakam
+  - title: Шримад Бхактивинода-вираха Дашакам 9
+    slug: shrimad-bhaktivinoda-viraha-dashakam-9
+  - title: Шримад Бхактивинода-вираха Дашакам 10
+    slug: shrimad-bhaktivinoda-viraha-dashakam-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3

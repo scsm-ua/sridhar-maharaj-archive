@@ -12,6 +12,14 @@ tags:
     slug: mahaprabhu
   - title: Чайтанья-лила
     slug: chajtanya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.272
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-272
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.276
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-276
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.07"
     slug: 1983-07
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.1.11
+    slug: katha-upanishad-2-1-11
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/653_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3

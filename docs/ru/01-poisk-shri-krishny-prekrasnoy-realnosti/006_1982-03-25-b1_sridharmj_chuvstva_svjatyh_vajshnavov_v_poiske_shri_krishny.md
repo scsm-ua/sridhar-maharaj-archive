@@ -10,6 +10,20 @@ tags:
     slug: with-english-audio
   - title: with English text
     slug: with-english-text
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.18
+    slug: shrimad-bhagavatam-10-47-18
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.255–256
+    slug: bhakti-rasamrita-sindhu-1-2-255-256
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3
@@ -91,4 +105,4 @@ links:
 
 [^ftnref4]: [Шримад-Бхагаватам 7.5.31](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-31.md)
 
-[^ftnref5]: [Бхакти-расамрита-синдху 1.2.255-256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
+[^ftnref5]: [Бхакти-расамрита-синдху 1.2.255–256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)

@@ -8,6 +8,28 @@ tags:
     slug: 1982-02
   - title: Бхакти
     slug: bhakti
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.12.55
+    slug: shrimad-bhagavatam-12-12-55
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-83
+  - title: Шримад-Бхагаватам 1.2.6
+    slug: shrimad-bhagavatam-1-2-6
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3

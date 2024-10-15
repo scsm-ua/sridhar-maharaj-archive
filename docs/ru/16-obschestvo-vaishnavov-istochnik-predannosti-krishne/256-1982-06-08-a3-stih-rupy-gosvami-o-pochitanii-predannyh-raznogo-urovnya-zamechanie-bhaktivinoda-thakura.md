@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 5
+    slug: shri-upadeshamrita-5
+  - title: Бхаджана-лаласа
+    slug: bhadzhana-lalasa
+  - title: Бхаджана-лаласа 5.1
+    slug: bhadzhana-lalasa-5-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3

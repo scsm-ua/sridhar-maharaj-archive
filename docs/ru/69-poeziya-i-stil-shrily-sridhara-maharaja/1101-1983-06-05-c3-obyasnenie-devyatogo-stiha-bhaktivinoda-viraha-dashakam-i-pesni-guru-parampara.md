@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1983.06"
     slug: 1983-06
+  - title: Шримад Бхактивинода-вираха Дашакам
+    slug: shrimad-bhaktivinoda-viraha-dashakam
+  - title: Шримад Бхактивинода-вираха Дашакам 9
+    slug: shrimad-bhaktivinoda-viraha-dashakam-9
+  - title: Шри Гуру-парампара
+    slug: shri-guru-parampara
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
+  - title: Шри Гуру-парампара 7
+    slug: shri-guru-parampara-7
+  - title: Шри Гуру-парампара 8
+    slug: shri-guru-parampara-8
+  - title: Шри Гуру-парампара 9
+    slug: shri-guru-parampara-9
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1101_1983.06.05.C3_SridharMj_Obyasnenie_devyatogo_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3

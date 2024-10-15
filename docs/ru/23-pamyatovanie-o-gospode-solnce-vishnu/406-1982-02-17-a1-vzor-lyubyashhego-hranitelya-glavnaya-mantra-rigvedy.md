@@ -8,6 +8,12 @@ tags:
     slug: 1982-02
   - title: Риг-веда
     slug: rig-veda
+  - title: Риг-веда 1.22.20
+    slug: rig-veda-1-22-20
+  - title: Таиттирийа-упанишад
+    slug: taittirija-upanishad
+  - title: Таиттирийа-упанишад 2.4.1
+    slug: taittirija-upanishad-2-4-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3

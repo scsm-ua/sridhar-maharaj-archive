@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
+  - title: Шри Чайтанья-чандродая-натака
+    slug: shri-chajtanya-chandrodaya-nataka
+  - title: Шри Чайтанья-чандродая-натака 5.13
+    slug: shri-chajtanya-chandrodaya-nataka-5-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.114
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-114
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.125
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-125
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.126
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-126
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 2
+    slug: manah-shiksha-2
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3

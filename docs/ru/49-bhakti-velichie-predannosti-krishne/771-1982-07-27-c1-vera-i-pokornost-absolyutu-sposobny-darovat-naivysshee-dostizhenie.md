@@ -8,6 +8,18 @@ tags:
     slug: 1982-07
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3

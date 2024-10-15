@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Радха-раса-судха-нидхи
+    slug: radha-rasa-sudha-nidhi
+  - title: Радха-раса-судха-нидхи 1
+    slug: radha-rasa-sudha-nidhi-1
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3

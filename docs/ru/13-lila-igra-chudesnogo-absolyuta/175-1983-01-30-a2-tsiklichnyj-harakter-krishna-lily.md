@@ -8,6 +8,12 @@ tags:
     slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.385
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-385
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3

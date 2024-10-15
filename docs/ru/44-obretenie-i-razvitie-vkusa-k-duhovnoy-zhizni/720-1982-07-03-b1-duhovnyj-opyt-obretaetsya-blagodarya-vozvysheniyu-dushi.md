@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 256
+    slug: bhakti-sandarbha-256
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.mp3

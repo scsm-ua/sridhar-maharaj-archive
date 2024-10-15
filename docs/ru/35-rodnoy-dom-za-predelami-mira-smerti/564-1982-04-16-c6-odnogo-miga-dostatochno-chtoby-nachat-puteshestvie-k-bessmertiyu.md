@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.20
+    slug: bhagavad-gita-2-20
+  - title: Бхагавад-гита 2.23
+    slug: bhagavad-gita-2-23
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.12
+    slug: shrimad-bhagavatam-2-1-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3

@@ -8,6 +8,10 @@ tags:
     slug: 1982-06
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3

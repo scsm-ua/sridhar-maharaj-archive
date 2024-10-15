@@ -8,6 +8,20 @@ tags:
     slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.268
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-268
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.269
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-269
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: Таттва-сандарбха
+    slug: tattva-sandarbha
+  - title: Таттва-сандарбха 63.6
+    slug: tattva-sandarbha-63-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3

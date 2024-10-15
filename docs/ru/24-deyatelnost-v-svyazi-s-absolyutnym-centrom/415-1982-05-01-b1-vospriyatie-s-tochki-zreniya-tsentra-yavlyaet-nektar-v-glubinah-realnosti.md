@@ -6,6 +6,32 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.64
+    slug: bhagavad-gita-2-64
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.45
+    slug: shrimad-bhagavatam-11-2-45
+  - title: Бхагавад-гита 6.30
+    slug: bhagavad-gita-6-30
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.mp3

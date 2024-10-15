@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1985.05"
     slug: 1985-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3

@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.09"
     slug: 1981-09
+  - title: Шри Лалита-аштака
+    slug: shri-lalita-ashtaka
+  - title: Шри Лалита-аштака 1
+    slug: shri-lalita-ashtaka-1
+  - title: Шри Лалита-аштакам
+    slug: shri-lalita-ashtakam
+  - title: Шри Лалита-аштакам 7
+    slug: shri-lalita-ashtakam-7
+  - title: Шри Гуру-парампара
+    slug: shri-guru-parampara
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.mp3

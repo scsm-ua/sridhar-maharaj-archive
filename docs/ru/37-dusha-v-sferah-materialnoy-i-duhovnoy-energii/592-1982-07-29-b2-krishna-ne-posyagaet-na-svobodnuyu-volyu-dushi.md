@@ -8,6 +8,12 @@ tags:
     slug: 1982-07
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3

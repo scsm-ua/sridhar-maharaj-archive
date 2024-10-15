@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.13
+    slug: bhagavad-gita-4-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-80
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 74
+    slug: padyavali-74
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3

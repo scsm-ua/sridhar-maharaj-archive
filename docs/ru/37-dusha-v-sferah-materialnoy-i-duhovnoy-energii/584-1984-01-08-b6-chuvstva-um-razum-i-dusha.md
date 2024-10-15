@@ -8,6 +8,12 @@ tags:
     slug: 1984-01
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.23
+    slug: bhagavad-gita-2-23
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3

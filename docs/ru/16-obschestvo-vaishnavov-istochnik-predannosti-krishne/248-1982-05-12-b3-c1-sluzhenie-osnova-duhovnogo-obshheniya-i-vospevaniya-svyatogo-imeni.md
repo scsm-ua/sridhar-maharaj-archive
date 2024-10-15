@@ -8,6 +8,36 @@ tags:
     slug: 1982-05
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.117
+    slug: shri-chajtanya-charitamrita-adi-lila-2-117
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
+    slug: shri-chajtanya-charitamrita-antya-lila-4-71
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-128
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 4
+    slug: shri-upadeshamrita-4
+  - title: Бхаджана-лаласа
+    slug: bhadzhana-lalasa
+  - title: Бхаджана-лаласа 4.1
+    slug: bhadzhana-lalasa-4-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.25
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-25
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-83
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3

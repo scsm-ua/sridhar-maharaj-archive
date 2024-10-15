@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.03"
     slug: 1983-03
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56
+    slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
@@ -47,6 +55,6 @@ links:
 
 
 
-[^_ftn1]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 22.55-56](../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-22-55-56.md)
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56](../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-22-55-56.md)
 
 [^_ftn2]: [Бхагавад-гита 9.30](../notes/bhagavad-gita/bhagavad-gita-9-30.md)

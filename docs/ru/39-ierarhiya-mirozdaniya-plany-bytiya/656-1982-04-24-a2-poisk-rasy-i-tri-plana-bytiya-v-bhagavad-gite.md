@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.20–23
+    slug: bhagavad-gita-6-20-23
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.2.13
+    slug: katha-upanishad-2-2-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 14.27
+    slug: bhagavad-gita-14-27
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/656_1982.04.24.A2_SridharMj_Poisk_rasy_i_tri_plana_bytija_v_Bhagavad-gite.mp3
@@ -88,7 +108,7 @@ links:
 
 
 
-[^_ftn1]: [Бхагавад-гита 6.20-23](../notes/bhagavad-gita/bhagavad-gita-6-20-23.md)
+[^_ftn1]: [Бхагавад-гита 6.20–23](../notes/bhagavad-gita/bhagavad-gita-6-20-23.md)
 
 [^_ftn2]: [Катха-упанишад 2.2.13](../notes/katha-upanishad/katha-upanishad-2-2-13.md)
 

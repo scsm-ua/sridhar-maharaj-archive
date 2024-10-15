@@ -8,6 +8,12 @@ tags:
     slug: 1982-05
   - title: Чатур-шлока
     slug: chatur-shloka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.10
+    slug: bhagavad-gita-10-10
+  - title: Бхагавад-гита 10.11
+    slug: bhagavad-gita-10-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.mp3

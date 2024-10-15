@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.39
+    slug: shri-chajtanya-charitamrita-antya-lila-13-39
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.37
+    slug: shri-chajtanya-charitamrita-antya-lila-13-37
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1079_1981.08.27.A1.1_SridharMj_Predannost_Dzhagadanandy_Pandita_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3

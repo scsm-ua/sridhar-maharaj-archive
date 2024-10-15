@@ -12,6 +12,10 @@ tags:
     slug: radharani
   - title: Рукмини
     slug: rukmini
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.289
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-289
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3

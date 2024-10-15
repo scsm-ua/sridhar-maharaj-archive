@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Шримад Бхактивинода-вираха Дашакам
+    slug: shrimad-bhaktivinoda-viraha-dashakam
+  - title: Шримад Бхактивинода-вираха Дашакам 9
+    slug: shrimad-bhaktivinoda-viraha-dashakam-9
+  - title: Шримад Бхактивинода-вираха Дашакам 10
+    slug: shrimad-bhaktivinoda-viraha-dashakam-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.mp3

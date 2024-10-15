@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.111
+    slug: shri-chajtanya-charitamrita-madhya-lila-10-111
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236–237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
+  - title: Шри Дана-кели Чинтамани
+    slug: shri-dana-keli-chintamani
+  - title: Шри Дана-кели Чинтамани 175
+    slug: shri-dana-keli-chintamani-175
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 4.27
+    slug: shri-shri-prapanna-dzhivanamritam-4-27
+  - title: Кали-гхора тимире
+    slug: kali-ghora-timire
+  - title: Кали-гхора тимире 1
+    slug: kali-ghora-timire-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3
@@ -161,7 +185,7 @@ links:
 
 [^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 10.111](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-10-111.md)
 
-[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.236-237](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-236-237.md)
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.236–237](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-236-237.md)
 
 [^_ftn3]: [Шри Дана-кели Чинтамани 175](../notes/shri-dana-keli-chintamani/shri-dana-keli-chintamani-175.md)
 

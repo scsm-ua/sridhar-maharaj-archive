@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.8.48–50
+    slug: shrimad-bhagavatam-10-8-48-50
+  - title: Шримад-Бхагаватам 10.3.32–46
+    slug: shrimad-bhagavatam-10-3-32-46
+  - title: Шримад-Бхагаватам 11.2.8
+    slug: shrimad-bhagavatam-11-2-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.166
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-166
+  - title: Шримад-Бхагаватам 10.8.47
+    slug: shrimad-bhagavatam-10-8-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
@@ -128,9 +142,9 @@ links:
 
 
 
-[^_ftn1]: [Шримад-Бхагаватам 10.8.48-50](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-8-48-50.md)
+[^_ftn1]: [Шримад-Бхагаватам 10.8.48–50](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-8-48-50.md)
 
-[^_ftn2]: [Шримад-Бхагаватам 10.3.32-46](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-3-32-46.md)
+[^_ftn2]: [Шримад-Бхагаватам 10.3.32–46](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-3-32-46.md)
 
 [^_ftn3]: Десятая песнь «Шримад-Бхагаватам».
 

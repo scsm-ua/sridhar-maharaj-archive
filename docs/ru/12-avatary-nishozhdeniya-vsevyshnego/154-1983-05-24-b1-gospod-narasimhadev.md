@@ -8,6 +8,24 @@ tags:
     slug: 1983-05
   - title: Нарасимха
     slug: narasimha
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-5
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.87.1
+    slug: shrimad-bhagavatam-10-87-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-6
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: Бхагавад-гита 9.33
+    slug: bhagavad-gita-9-33
+  - title: Бхагавад-гита 9.32
+    slug: bhagavad-gita-9-32
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3

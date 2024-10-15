@@ -10,6 +10,46 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-58
+  - title: Вишну-пурана
+    slug: vishnu-purana
+  - title: Вишну-пурана 3.8.9
+    slug: vishnu-purana-3-8-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-264
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.11.32
+    slug: shrimad-bhagavatam-11-11-32
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.64
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-64
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.66
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-66
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.mp3

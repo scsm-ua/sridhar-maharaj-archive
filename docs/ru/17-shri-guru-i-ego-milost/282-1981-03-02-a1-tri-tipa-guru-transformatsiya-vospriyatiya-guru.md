@@ -8,6 +8,38 @@ tags:
     slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-74
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.47
+    slug: shrimad-bhagavatam-11-2-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
+  - title: Шримад-Бхагаватам 11.2.46
+    slug: shrimad-bhagavatam-11-2-46
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
+  - title: Шримад-Бхагаватам 11.2.45
+    slug: shrimad-bhagavatam-11-2-45
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-16-74
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.200
+    slug: bhakti-rasamrita-sindhu-1-2-200
+  - title: Бхакти-расамрита-синдху 1.2.187
+    slug: bhakti-rasamrita-sindhu-1-2-187
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.3
+    slug: bhagavad-gita-4-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/282_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3

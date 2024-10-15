@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 3
+    slug: vajshnava-ke-3
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3

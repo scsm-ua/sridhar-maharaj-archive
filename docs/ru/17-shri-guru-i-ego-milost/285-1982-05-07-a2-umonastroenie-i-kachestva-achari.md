@@ -8,6 +8,20 @@ tags:
     slug: 1982-05
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.21
+    slug: shrimad-bhagavatam-11-3-21
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.2.12
+    slug: mundaka-upanishad-1-2-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3

@@ -8,6 +8,10 @@ tags:
     slug: 1982-11
   - title: Самопредание
     slug: samopredanie
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.6"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3

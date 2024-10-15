@@ -8,6 +8,16 @@ tags:
     slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
+  - title: Бхагавад-гита 8.26
+    slug: bhagavad-gita-8-26
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3

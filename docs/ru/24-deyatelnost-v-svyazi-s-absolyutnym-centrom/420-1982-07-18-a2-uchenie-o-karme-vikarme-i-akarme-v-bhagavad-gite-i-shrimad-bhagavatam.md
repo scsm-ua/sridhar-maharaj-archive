@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.17
+    slug: bhagavad-gita-4-17
+  - title: Бхагавад-гита 4.16
+    slug: bhagavad-gita-4-16
+  - title: Бхагавад-гита 4.18
+    slug: bhagavad-gita-4-18
+  - title: Бхагавад-гита 2.48
+    slug: bhagavad-gita-2-48
+  - title: Бхагавад-гита 3.5
+    slug: bhagavad-gita-3-5
+  - title: Бхагавад-гита 3.8
+    slug: bhagavad-gita-3-8
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.18
+    slug: shrimad-bhagavatam-12-13-18
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3

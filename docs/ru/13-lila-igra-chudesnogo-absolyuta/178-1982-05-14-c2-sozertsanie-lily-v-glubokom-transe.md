@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 130
+    slug: chajtanya-chandramrita-130
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
+    slug: shri-chajtanya-charitamrita-antya-lila-17-27
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3

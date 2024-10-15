@@ -10,6 +10,10 @@ tags:
     slug: vrindavan
   - title: Духовный мир
     slug: duhovnyj-mir
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 107
+    slug: krishna-karnamrita-107
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3

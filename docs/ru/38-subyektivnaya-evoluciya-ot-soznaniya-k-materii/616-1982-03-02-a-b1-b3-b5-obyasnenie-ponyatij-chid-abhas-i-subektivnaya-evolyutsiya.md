@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-49
+  - title: Наваграха стотра
+    slug: navagraha-stotra
+  - title: Наваграха стотра 7
+    slug: navagraha-stotra-7
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
+  - title: Бхагавад-гита 15.15
+    slug: bhagavad-gita-15-15
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3

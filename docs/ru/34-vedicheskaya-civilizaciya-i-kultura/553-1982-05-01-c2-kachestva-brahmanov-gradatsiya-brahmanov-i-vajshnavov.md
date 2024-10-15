@@ -8,6 +8,18 @@ tags:
     slug: 1982-05
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
+  - title: «Махабхарата», Ади-парва
+    slug: mahabharata-adi-parva
+  - title: «Махабхарата», Ади-парва 174
+    slug: mahabharata-adi-parva-174
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 10
+    slug: shri-upadeshamrita-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3

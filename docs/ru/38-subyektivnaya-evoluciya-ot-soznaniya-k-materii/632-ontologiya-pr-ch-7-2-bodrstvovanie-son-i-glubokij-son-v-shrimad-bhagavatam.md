@@ -6,6 +6,18 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
+  - title: Бхагавад-гита 13.3
+    slug: bhagavad-gita-13-3
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.42
+    slug: shrimad-bhagavatam-11-2-42
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3

@@ -8,6 +8,42 @@ tags:
     slug: 1982-11
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.36
+    slug: shrimad-bhagavatam-2-9-36
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
+  - title: Шримад-Бхагаватам 10.31.9
+    slug: shrimad-bhagavatam-10-31-9
+  - title: Бхаджана-лаласа
+    slug: bhadzhana-lalasa
+  - title: Бхаджана-лаласа 7.4
+    slug: bhadzhana-lalasa-7-4
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 1.49
+    slug: manu-samhita-1-49
+  - title: Шримад-Бхагаватам 11.9.29
+    slug: shrimad-bhagavatam-11-9-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3

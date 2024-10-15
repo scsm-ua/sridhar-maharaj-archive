@@ -8,6 +8,16 @@ tags:
     slug: 1982-03
   - title: Душа
     slug: dusha
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-153
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-154
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3

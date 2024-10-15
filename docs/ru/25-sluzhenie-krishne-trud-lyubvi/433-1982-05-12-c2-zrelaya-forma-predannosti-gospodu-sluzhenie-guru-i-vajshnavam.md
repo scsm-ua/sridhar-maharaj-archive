@@ -8,6 +8,20 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
+    slug: shri-chajtanya-charitamrita-antya-lila-8-28
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-74
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.47
+    slug: shrimad-bhagavatam-11-2-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3

@@ -10,6 +10,16 @@ tags:
     slug: varnashrama-dharma
   - title: Дхарма
     slug: dharma
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 107
+    slug: krishna-karnamrita-107
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.31
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-31
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-117
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3

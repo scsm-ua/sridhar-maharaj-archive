@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/571_1983.01.30.A3_SridharMj_Puteshestviye_na__rodinu_dushi.mp3

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
+  - title: Бхагавад-гита 11.52
+    slug: bhagavad-gita-11-52
+  - title: Бхагавад-гита 11.51
+    slug: bhagavad-gita-11-51
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3

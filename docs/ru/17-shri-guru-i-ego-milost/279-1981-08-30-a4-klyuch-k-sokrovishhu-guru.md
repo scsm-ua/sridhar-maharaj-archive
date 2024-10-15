@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 16
+    slug: shri-vilapa-kusumandzhali-16
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/279_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3

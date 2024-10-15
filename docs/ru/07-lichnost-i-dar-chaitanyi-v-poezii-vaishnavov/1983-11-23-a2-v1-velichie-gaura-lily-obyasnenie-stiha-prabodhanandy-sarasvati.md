@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Прабходананда Сарасвати
     slug: prabhodananda-sarasvati
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 95
+    slug: chajtanya-chandramrita-95
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
+    slug: shri-chajtanya-charitamrita-adi-lila-10-120
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3

@@ -8,6 +8,32 @@ tags:
     slug: 1985-05
   - title: Проповедь
     slug: propoved
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-159
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-186
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.7.10
+    slug: shrimad-bhagavatam-1-7-10
+  - title: Шримад-Бхагаватам 2.1.9
+    slug: shrimad-bhagavatam-2-1-9
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
@@ -120,7 +146,7 @@ links:
 
 
 
-[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21-22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
+[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 1.7.10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-7-10.md)
 

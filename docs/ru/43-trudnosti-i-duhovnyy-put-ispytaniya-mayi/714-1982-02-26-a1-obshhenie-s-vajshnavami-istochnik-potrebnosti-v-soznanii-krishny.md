@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-131
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.9.29
+    slug: shrimad-bhagavatam-11-9-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3

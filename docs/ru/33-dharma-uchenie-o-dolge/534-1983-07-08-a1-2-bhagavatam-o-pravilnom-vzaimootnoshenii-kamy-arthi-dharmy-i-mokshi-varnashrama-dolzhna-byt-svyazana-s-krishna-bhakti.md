@@ -8,6 +8,26 @@ tags:
     slug: 1983-07
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.9
+    slug: shrimad-bhagavatam-1-2-9
+  - title: Шримад-Бхагаватам 1.2.10
+    slug: shrimad-bhagavatam-1-2-10
+  - title: Шримад-Бхагаватам 1.2.8
+    slug: shrimad-bhagavatam-1-2-8
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.46
+    slug: bhagavad-gita-18-46
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3

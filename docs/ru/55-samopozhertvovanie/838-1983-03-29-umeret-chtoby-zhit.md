@@ -8,6 +8,36 @@ tags:
     slug: 1983-03
   - title: Самопредание
     slug: samopredanie
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.414–418
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-414-418
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 113
+    slug: chajtanya-chandramrita-113
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1–2
+    slug: vedanta-sutra-1-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/838_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
@@ -181,7 +211,7 @@ links:
 
 [^_ftn4]: [Чайтанья-чандрамрита 113](../notes/chajtanya-chandramrita/chajtanya-chandramrita-113.md)
 
-[^_ftn5]: [Веданта-сутра 1.1.1-2](../notes/vedanta-sutra/vedanta-sutra-1-1-1-2.md)
+[^_ftn5]: [Веданта-сутра 1.1.1–2](../notes/vedanta-sutra/vedanta-sutra-1-1-1-2.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.151](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-151.md)
 

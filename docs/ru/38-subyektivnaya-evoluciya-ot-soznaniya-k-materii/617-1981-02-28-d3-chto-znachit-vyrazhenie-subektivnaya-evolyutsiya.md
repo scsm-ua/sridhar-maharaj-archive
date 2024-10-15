@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1981.02"
     slug: 1981-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.2
+    slug: bhagavad-gita-15-2
+  - title: Бхагавад-гита 9.10
+    slug: bhagavad-gita-9-10
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3

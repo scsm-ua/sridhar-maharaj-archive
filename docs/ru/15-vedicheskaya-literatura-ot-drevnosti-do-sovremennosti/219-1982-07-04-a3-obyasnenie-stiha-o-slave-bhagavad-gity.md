@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Гитамахатмйам
+    slug: gitamahatmjam
+  - title: Гитамахатмйам 6
+    slug: gitamahatmjam-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3

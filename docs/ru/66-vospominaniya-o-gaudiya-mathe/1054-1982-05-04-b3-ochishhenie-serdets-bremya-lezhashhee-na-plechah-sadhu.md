@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.5"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3

@@ -8,6 +8,12 @@ tags:
     slug: 1983-11
   - title: Гададхар Пандит
     slug: gadadhar-pandit
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/127_1983.11.13.A6_SridharMj_Gadadhar_Das_i_Gadadhar_Pandit_sijanie_i_serdce.mp3

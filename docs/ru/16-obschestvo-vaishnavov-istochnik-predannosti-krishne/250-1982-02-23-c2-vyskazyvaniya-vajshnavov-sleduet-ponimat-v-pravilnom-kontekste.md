@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
@@ -40,4 +44,4 @@ links:
 
 
 
-[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18-19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-23-18-19.md)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-23-18-19.md)

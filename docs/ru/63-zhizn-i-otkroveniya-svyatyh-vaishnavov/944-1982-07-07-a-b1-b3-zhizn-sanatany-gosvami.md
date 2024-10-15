@@ -6,6 +6,44 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.211
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-211
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.3
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.50
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-50
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.56
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-56
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-62
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-264
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.11.32
+    slug: shrimad-bhagavatam-11-11-32
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
+  - title: Шри Шад Госвами Аштакам
+    slug: shri-shad-gosvami-ashtakam
+  - title: Шри Шад Госвами Аштакам 2
+    slug: shri-shad-gosvami-ashtakam-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.mp3

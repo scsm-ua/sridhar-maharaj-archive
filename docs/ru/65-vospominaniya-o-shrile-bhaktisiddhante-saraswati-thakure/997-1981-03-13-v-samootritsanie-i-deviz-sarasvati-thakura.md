@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-80
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 74
+    slug: padyavali-74
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.mp3

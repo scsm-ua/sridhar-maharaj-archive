@@ -8,6 +8,16 @@ tags:
     slug: 1982-11
   - title: Риг-веда
     slug: rig-veda
+  - title: Риг-веда 1.22.20
+    slug: rig-veda-1-22-20
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
+    slug: shri-chajtanya-charitamrita-antya-lila-5-123
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.342
+    slug: laghu-bhagavatamrita-1-5-342
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3

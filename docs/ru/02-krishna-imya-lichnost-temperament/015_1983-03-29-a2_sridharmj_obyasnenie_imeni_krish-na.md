@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.03"
     slug: 1983-03
+  - title: «Махабхарата», Удьога-парва
+    slug: mahabharata-udoga-parva
+  - title: «Махабхарата», Удьога-парва 71.4
+    slug: mahabharata-udoga-parva-71-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/015_1983.03.29.A2_SridharMj_Obyasnenie_imeni_Krish-na.mp3

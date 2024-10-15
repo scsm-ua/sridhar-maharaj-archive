@@ -14,6 +14,18 @@ tags:
     slug: ganga
   - title: Духовный мир
     slug: duhovnyj-mir
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.56
+    slug: shri-brahma-samhita-5-56
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 2.5
+    slug: shri-shri-prapanna-dzhivanamritam-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3

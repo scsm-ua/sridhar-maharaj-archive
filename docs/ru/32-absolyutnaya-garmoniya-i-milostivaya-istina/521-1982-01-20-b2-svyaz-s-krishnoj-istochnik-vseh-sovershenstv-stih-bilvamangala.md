@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-136
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.35
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-35
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 92
+    slug: krishna-karnamrita-92
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/521_1982.01.20.B2_SridharMj_Svjaz_s_Krishnoj_istochnik_vseh_sovershenstv_Stih_Bilvamangala.mp3

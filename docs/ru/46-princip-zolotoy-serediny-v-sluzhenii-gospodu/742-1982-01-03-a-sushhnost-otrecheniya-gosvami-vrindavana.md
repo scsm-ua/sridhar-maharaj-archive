@@ -6,6 +6,36 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.9
+    slug: shrimad-bhagavatam-2-1-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 12.18–19
+    slug: bhagavad-gita-12-18-19
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-237
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
+    slug: shri-chajtanya-charitamrita-madhya-lila-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
+    slug: shri-chajtanya-charitamrita-madhya-lila-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
@@ -196,7 +226,7 @@ links:
 
 [^_ftn3]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.236](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-236.md)
 
-[^_ftn4]: [Бхагавад-гита 12.18-19](../notes/bhagavad-gita/bhagavad-gita-12-18-19.md)
+[^_ftn4]: [Бхагавад-гита 12.18–19](../notes/bhagavad-gita/bhagavad-gita-12-18-19.md)
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Антья-лила 6.237](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-6-237.md)
 

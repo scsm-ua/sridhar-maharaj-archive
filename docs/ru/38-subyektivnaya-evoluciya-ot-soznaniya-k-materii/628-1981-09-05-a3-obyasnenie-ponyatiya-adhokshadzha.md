@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1981.09"
     slug: 1981-09
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.6
+    slug: shrimad-bhagavatam-1-2-6
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-137
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 1.1.5–6
+    slug: manu-samhita-1-1-5-6
+  - title: Шримад-Бхагаватам 1.13.47
+    slug: shrimad-bhagavatam-1-13-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-63
+  - title: Шримад-Бхагаватам 4.31.14
+    slug: shrimad-bhagavatam-4-31-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
@@ -94,7 +118,7 @@ links:
 
 [^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.49](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-49.md)
 
-[^_ftn5]: [Ману-самхита 1.1.5-6](../notes/manu-samhita/manu-samhita-1-1-5-6.md)
+[^_ftn5]: [Ману-самхита 1.1.5–6](../notes/manu-samhita/manu-samhita-1-1-5-6.md)
 
 [^_ftn6]: [Шримад-Бхагаватам 1.13.47](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-13-47.md)
 

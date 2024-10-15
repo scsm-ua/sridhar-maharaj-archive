@@ -8,6 +8,14 @@ tags:
     slug: 1983-02
   - title: Санньяса
     slug: sannyasa
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.23.57
+    slug: shrimad-bhagavatam-11-23-57
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3

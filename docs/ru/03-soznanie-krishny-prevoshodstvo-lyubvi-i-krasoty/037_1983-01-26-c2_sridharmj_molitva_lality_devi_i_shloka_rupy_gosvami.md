@@ -12,6 +12,18 @@ tags:
     slug: samopozhertvovanie
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: Шри Лалита-аштака
+    slug: shri-lalita-ashtaka
+  - title: Шри Лалита-аштака 1
+    slug: shri-lalita-ashtaka-1
+  - title: Шри Нама-Махатмья
+    slug: shri-nama-mahatmya
+  - title: Шри Нама-Махатмья 7
+    slug: shri-nama-mahatmya-7
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
+    slug: shri-chajtanya-charitamrita-antya-lila-1-99
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3

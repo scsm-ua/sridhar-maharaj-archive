@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.32
+    slug: shrimad-bhagavatam-7-5-32
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
+  - title: Шримад-Бхагаватам 11.29.34
+    slug: shrimad-bhagavatam-11-29-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3

@@ -8,6 +8,92 @@ tags:
     slug: 1982-05
   - title: Рамананда-самвад
     slug: ramananda-samvad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.57
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-57
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-159
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-186
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.7.10
+    slug: shrimad-bhagavatam-1-7-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 9
+    slug: shri-upadeshamrita-9
+  - title: Шри Гита-Говинда
+    slug: shri-gita-govinda
+  - title: Шри Гита-Говинда 3.1.2
+    slug: shri-gita-govinda-3-1-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.268–269
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-268-269
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.273
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-273
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.278
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-278
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.38
+    slug: shri-brahma-samhita-5-38
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.283
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-283
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.284
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-284
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-62
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
+  - title: Таттва-сандарбха
+    slug: tattva-sandarbha
+  - title: Таттва-сандарбха 63.6
+    slug: tattva-sandarbha-63-6
+  - title: Према-Дхама-Дева-стотрам
+    slug: prema-dhama-deva-stotram
+  - title: Према-Дхама-Дева-стотрам 66
+    slug: prema-dhama-deva-stotram-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3
@@ -440,7 +526,7 @@ links:
 
 [^_ftn12]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.282](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-282.md)
 
-[^_ftn13]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.268-269](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-268-269.md)
+[^_ftn13]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.268–269](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-268-269.md)
 
 [^_ftn14]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.273](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-273.md)
 

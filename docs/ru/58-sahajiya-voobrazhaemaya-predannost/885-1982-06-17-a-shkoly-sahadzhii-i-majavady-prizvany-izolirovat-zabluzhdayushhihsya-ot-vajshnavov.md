@@ -6,6 +6,72 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
+    slug: shri-chajtanya-charitamrita-adi-lila-6-102
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.14.15
+    slug: shrimad-bhagavatam-11-14-15
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 62.31
+    slug: padma-purana-uttara-khanda-62-31
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.181
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-181
+  - title: «Падма-пурана», Уттара-кханда 25.7
+    slug: padma-purana-uttara-khanda-25-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.182
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-182
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
+    slug: shri-chajtanya-charitamrita-adi-lila-4-171
+  - title: Кальяна-калпатару
+    slug: kalyana-kalpataru
+  - title: Кальяна-калпатару 1.18.6
+    slug: kalyana-kalpataru-1-18-6
+  - title: Кальяна-калпатару 1.19.1
+    slug: kalyana-kalpataru-1-19-1
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 2.163
+    slug: shri-chajtanya-charitamrita-antya-lila-2-163
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
+  - title: Шримад-Бхагаватам 1.3.28
+    slug: shrimad-bhagavatam-1-3-28
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
@@ -245,6 +311,6 @@ links:
 
 [^_ftn13]: [Бхагавад-гита 18.54](../notes/bhagavad-gita/bhagavad-gita-18-54.md)
 
-[^_ftn14]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn14]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
-[^_ftn15]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18-19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
+[^_ftn15]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)

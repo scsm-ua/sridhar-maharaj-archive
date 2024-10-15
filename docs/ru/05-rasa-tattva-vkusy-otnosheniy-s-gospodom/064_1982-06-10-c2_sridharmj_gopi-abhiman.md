@@ -8,6 +8,10 @@ tags:
     slug: 1982-06
   - title: Брахма
     slug: brahma
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.24.29
+    slug: shrimad-bhagavatam-4-24-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3

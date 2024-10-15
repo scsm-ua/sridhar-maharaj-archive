@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1984.01"
     slug: 1984-01
+  - title: «Гитамала», Ямуна-бхававали
+    slug: gitamala-yamuna-bhavavali
+  - title: «Гитамала», Ямуна-бхававали 19
+    slug: gitamala-yamuna-bhavavali-19
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3

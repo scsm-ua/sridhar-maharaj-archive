@@ -8,6 +8,50 @@ tags:
     slug: 1982-04
   - title: Шаранагати
     slug: sharanagati
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.6.35
+    slug: shrimad-bhagavatam-1-6-35
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.53
+    slug: bhagavad-gita-11-53
+  - title: Бхагавад-гита 6.46
+    slug: bhagavad-gita-6-46
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
+    slug: shri-chajtanya-charitamrita-madhya-lila-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
+    slug: shri-chajtanya-charitamrita-madhya-lila-8
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: Бхакти-расамрита-синдху 1.1.9
+    slug: bhakti-rasamrita-sindhu-1-1-9
+  - title: Бхакти-расамрита-синдху 1.1.11–12
+    slug: bhakti-rasamrita-sindhu-1-1-11-12
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.192
+    slug: shri-chajtanya-charitamrita-antya-lila-4-192
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.193
+    slug: shri-chajtanya-charitamrita-antya-lila-4-193
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3
@@ -185,7 +229,7 @@ links:
 
 [^_ftn4]: [Бхагавад-гита 6.47](../notes/bhagavad-gita/bhagavad-gita-6-47.md)
 
-[^_ftn5]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn5]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8.md)
 
@@ -197,7 +241,7 @@ links:
 
 [^_ftn10]: [Бхакти-расамрита-синдху 1.1.9](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-9.md)
 
-[^_ftn11]: [Бхакти-расамрита-синдху 1.1.11-12](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11-12.md)
+[^_ftn11]: [Бхакти-расамрита-синдху 1.1.11–12](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11-12.md)
 
 [^_ftn12]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.100](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-100.md)
 

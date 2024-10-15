@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.88.8
+    slug: shrimad-bhagavatam-10-88-8
+  - title: Анйа-абхилаша чхади
+    slug: anja-abhilasha-chhadi
+  - title: Анйа-абхилаша чхади 11
+    slug: anja-abhilasha-chhadi-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.37
+    slug: bhagavad-gita-3-37
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.255–256
+    slug: bhakti-rasamrita-sindhu-1-2-255-256
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
+  - title: Бхагавад-гита 7.14
+    slug: bhagavad-gita-7-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3
@@ -94,7 +116,7 @@ links:
 
 [^_ftn3]: [Бхагавад-гита 3.37](../notes/bhagavad-gita/bhagavad-gita-3-37.md)
 
-[^_ftn4]: [Бхакти-расамрита-синдху 1.2.255-256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
+[^_ftn4]: [Бхакти-расамрита-синдху 1.2.255–256](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-255-256.md)
 
 [^_ftn5]: [Шри Ишопанишад 1](../notes/shri-ishopanishad/shri-ishopanishad-1.md)
 

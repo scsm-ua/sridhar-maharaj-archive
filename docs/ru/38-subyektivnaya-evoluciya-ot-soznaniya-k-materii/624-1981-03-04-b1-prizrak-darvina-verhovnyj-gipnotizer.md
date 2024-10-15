@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
+  - title: Бхагавад-гита 15.1
+    slug: bhagavad-gita-15-1
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3

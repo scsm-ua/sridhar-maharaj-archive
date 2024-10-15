@@ -8,6 +8,22 @@ tags:
     slug: 1982-04
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3

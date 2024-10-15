@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
+    slug: shri-chajtanya-charitamrita-antya-lila-1-99
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3

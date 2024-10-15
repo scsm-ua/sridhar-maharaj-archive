@@ -6,6 +6,34 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-83
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 14
+    slug: padyavali-14
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.209
+    slug: shri-chajtanya-charitamrita-adi-lila-5-209
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 5.5
+    slug: sharanagati-5-5
+  - title: Кальяна-калпатару
+    slug: kalyana-kalpataru
+  - title: Кальяна-калпатару 2.7
+    slug: kalyana-kalpataru-2-7
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: Шримад-Бхагаватам 1.2.6
+    slug: shrimad-bhagavatam-1-2-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3

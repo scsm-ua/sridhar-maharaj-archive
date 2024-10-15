@@ -6,6 +6,40 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.19.18
+    slug: shrimad-bhagavatam-11-19-18
+  - title: Шримад-Бхагаватам 1.1.1–3
+    slug: shrimad-bhagavatam-1-1-1-3
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
+    slug: shri-chajtanya-charitamrita-antya-lila-4-55
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.57
+    slug: shri-chajtanya-charitamrita-antya-lila-20-57
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.165
+    slug: shri-chajtanya-charitamrita-adi-lila-4-165
+  - title: Шримад-Бхагаватам 6.11.25
+    slug: shrimad-bhagavatam-6-11-25
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
@@ -237,7 +271,7 @@ links:
 
 [^_ftn2]: [Шримад-Бхагаватам 11.19.18](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-19-18.md)
 
-[^_ftn3]: [Шримад-Бхагаватам 1.1.1-3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1-3.md)
+[^_ftn3]: [Шримад-Бхагаватам 1.1.1–3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1-3.md)
 
 [^_ftn4]: [Шримад-Бхагаватам 1.1.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-2.md)
 

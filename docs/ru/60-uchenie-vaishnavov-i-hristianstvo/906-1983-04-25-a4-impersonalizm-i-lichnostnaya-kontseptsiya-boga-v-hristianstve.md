@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.3.23
+    slug: shrimad-bhagavatam-4-3-23
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 14.27
+    slug: bhagavad-gita-14-27
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3

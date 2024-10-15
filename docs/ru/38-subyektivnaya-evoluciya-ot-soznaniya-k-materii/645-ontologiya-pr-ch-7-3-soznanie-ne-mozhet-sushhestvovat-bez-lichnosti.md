@@ -6,6 +6,10 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 3.19
+    slug: shvetashvatara-upanishad-3-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3

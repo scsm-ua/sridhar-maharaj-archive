@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1987.00"
     slug: 1987-00
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3

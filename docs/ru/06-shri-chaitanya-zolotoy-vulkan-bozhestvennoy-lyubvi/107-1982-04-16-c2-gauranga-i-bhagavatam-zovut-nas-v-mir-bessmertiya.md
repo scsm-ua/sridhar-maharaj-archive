@@ -8,6 +8,12 @@ tags:
     slug: 1982-04
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
+    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
+  - title: Шримад-Бхагаватам 12.5.2
+    slug: shrimad-bhagavatam-12-5-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3

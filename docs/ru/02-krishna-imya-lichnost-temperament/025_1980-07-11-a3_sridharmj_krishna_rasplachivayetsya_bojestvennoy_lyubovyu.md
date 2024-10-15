@@ -8,6 +8,10 @@ tags:
     slug: 1980-07
   - title: Кришна
     slug: krishna
+  - title: Джанама сапхала тара
+    slug: dzhanama-saphala-tara
+  - title: Джанама сапхала тара 1
+    slug: dzhanama-saphala-tara-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3

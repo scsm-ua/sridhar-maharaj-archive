@@ -8,6 +8,10 @@ tags:
     slug: 1983-04
   - title: Гуру-парампара
     slug: guru-parampara
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.14
+    slug: bhagavad-gita-7-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3

@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
+  - title: Враджа-виласа-става
+    slug: vradzha-vilasa-stava
+  - title: Враджа-виласа-става 102
+    slug: vradzha-vilasa-stava-102
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Кали-гхора тимире
+    slug: kali-ghora-timire
+  - title: Кали-гхора тимире 1
+    slug: kali-ghora-timire-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.mp3

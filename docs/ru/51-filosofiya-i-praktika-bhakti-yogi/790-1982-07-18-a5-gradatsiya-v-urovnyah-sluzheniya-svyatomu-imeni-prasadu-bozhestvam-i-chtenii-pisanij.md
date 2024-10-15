@@ -8,6 +8,18 @@ tags:
     slug: 1982-07
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.2.14
+    slug: shrimad-bhagavatam-6-2-14
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 283
+    slug: bhakti-sandarbha-283
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3

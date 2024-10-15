@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.6.35
+    slug: shrimad-bhagavatam-1-6-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/749_1982.07.26.A_SridharMj_Otkaz_ot_deneg_zhenshhin_i_slavy__Regulirujushhie_principy_v_Shrimad_Bhagavatam.mp3

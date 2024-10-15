@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 6
+    slug: shri-upadeshamrita-6
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.191
+    slug: shri-chajtanya-charitamrita-antya-lila-4-191
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3

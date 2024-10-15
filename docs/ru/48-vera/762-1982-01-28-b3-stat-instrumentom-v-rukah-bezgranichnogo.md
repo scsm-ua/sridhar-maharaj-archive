@@ -8,6 +8,10 @@ tags:
     slug: 1982-01
   - title: Вера
     slug: vera
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/762_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3

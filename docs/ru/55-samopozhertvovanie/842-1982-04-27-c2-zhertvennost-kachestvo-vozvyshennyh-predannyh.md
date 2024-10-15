@@ -8,6 +8,14 @@ tags:
     slug: 1982-04
   - title: Самопредание
     slug: samopredanie
+  - title: Шри Нама-Махатмья
+    slug: shri-nama-mahatmya
+  - title: Шри Нама-Махатмья 8
+    slug: shri-nama-mahatmya-8
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3

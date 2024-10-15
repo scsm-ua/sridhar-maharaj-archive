@@ -6,6 +6,38 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шри Шри Дайита Дас Дашакам
+    slug: shri-shri-dajita-das-dashakam
+  - title: Шри Шри Дайита Дас Дашакам 1
+    slug: shri-shri-dajita-das-dashakam-1
+  - title: Шри Шри Дайита Дас Дашакам 5
+    slug: shri-shri-dajita-das-dashakam-5
+  - title: Шри Шри Дайита Дас Дашакам 4
+    slug: shri-shri-dajita-das-dashakam-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.56
+    slug: shri-brahma-samhita-5-56
+  - title: Мукта Чаритра
+    slug: mukta-charitra
+  - title: Мукта Чаритра 4
+    slug: mukta-charitra-4
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.17
+    slug: shrimad-bhagavatam-11-20-17
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3

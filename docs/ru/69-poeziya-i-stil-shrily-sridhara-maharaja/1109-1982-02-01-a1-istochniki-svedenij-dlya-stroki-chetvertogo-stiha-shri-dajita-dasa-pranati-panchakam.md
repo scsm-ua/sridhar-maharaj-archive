@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шри Дайита Даса Пранати Панчакам
+    slug: shri-dajita-dasa-pranati-panchakam
+  - title: Шри Дайита Даса Пранати Панчакам 4
+    slug: shri-dajita-dasa-pranati-panchakam-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.mp3

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3

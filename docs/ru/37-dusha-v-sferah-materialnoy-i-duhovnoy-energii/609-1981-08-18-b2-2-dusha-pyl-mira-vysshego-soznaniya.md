@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Душа
     slug: dusha
+  - title: Бхагавад-сандарбха
+    slug: bhagavad-sandarbha
+  - title: Бхагавад-сандарбха 16
+    slug: bhagavad-sandarbha-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/609_1981.08.18.B2.2_SridharMj_Dusha_pyl_mira_Vysshego_Soznanija.mp3

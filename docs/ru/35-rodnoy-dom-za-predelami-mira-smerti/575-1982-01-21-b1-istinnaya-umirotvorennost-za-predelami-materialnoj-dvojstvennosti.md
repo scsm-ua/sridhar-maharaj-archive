@@ -6,6 +6,40 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.64
+    slug: bhagavad-gita-2-64
+  - title: Бхагавад-гита 2.38
+    slug: bhagavad-gita-2-38
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.5.18
+    slug: shrimad-bhagavatam-1-5-18
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-158
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3

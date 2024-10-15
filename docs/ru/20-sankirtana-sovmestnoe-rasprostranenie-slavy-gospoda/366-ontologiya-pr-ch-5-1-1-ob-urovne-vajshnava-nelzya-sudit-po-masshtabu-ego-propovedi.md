@@ -8,6 +8,10 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.142
+    slug: shri-chajtanya-charitamrita-adi-lila-5-142
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3

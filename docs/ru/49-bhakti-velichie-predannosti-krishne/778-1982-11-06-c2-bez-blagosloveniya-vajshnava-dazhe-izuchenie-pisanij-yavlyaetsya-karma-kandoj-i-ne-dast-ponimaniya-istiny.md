@@ -8,6 +8,24 @@ tags:
     slug: 1982-11
   - title: Бхакти
     slug: bhakti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.14.8
+    slug: shrimad-bhagavatam-11-14-8
+  - title: Бхагавад-гита 4.1
+    slug: bhagavad-gita-4-1
+  - title: Бхагавад-гита 4.2
+    slug: bhagavad-gita-4-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3

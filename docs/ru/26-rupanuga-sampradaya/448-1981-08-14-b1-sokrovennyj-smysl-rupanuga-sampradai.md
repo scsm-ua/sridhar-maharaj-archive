@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Даинйа Прартхана Гити
+    slug: dainja-prarthana-giti
+  - title: Даинйа Прартхана Гити 1
+    slug: dainja-prarthana-giti-1
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 1
+    slug: shri-vilapa-kusumandzhali-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3

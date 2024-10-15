@@ -6,6 +6,44 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 6.46
+    slug: bhagavad-gita-6-46
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
+  - title: «Гитамала», Ямуна-бхававали
+    slug: gitamala-yamuna-bhavavali
+  - title: «Гитамала», Ямуна-бхававали 19
+    slug: gitamala-yamuna-bhavavali-19
+  - title: Пратхама-йама садхана - Шраддха
+    slug: prathama-jama-sadhana-shraddha
+  - title: Пратхама-йама садхана - Шраддха 4
+    slug: prathama-jama-sadhana-shraddha-4
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 3.13
+    slug: shri-shri-prapanna-dzhivanamritam-3-13
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 4
+    slug: vajshnava-ke-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3

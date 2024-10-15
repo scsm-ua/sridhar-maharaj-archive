@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-16
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.2.35
+    slug: bhakti-rasamrita-sindhu-3-2-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3

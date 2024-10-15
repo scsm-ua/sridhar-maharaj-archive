@@ -6,6 +6,54 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.42
+    slug: shrimad-bhagavatam-11-5-42
+  - title: Шримад-Бхагаватам 2.8.5
+    slug: shrimad-bhagavatam-2-8-5
+  - title: Шримад-Бхагаватам 1.2.18
+    slug: shrimad-bhagavatam-1-2-18
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
+  - title: Бхагавад-гита 9.31
+    slug: bhagavad-gita-9-31
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 117
+    slug: bhakti-sandarbha-117
+  - title: Гитавали
+    slug: gitavali
+  - title: Гитавали 12.4.5
+    slug: gitavali-12-4-5
+  - title: Шримад-Бхагаватам 11.2.36
+    slug: shrimad-bhagavatam-11-2-36
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 410
+    slug: padyavali-410
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-96
+  - title: Падьявали 126
+    slug: padyavali-126
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-77
+  - title: Шримад-Бхагаватам 10.8.46
+    slug: shrimad-bhagavatam-10-8-46
+  - title: Бхагавад-гита 9.24
+    slug: bhagavad-gita-9-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3
@@ -197,7 +245,7 @@ links:
 
 [^_ftn3]: [Шримад-Бхагаватам 1.2.18](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-18.md)
 
-[^_ftn4]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn4]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn5]: *апра̄рабдха-пхалам̇ па̄пам̇, кӯт̣ам̇ бӣджам̇ пхалонмукхам / крамен̣аива пралӣйета, вишн̣у-бхакти-рата̄тмана̄м* — «Те, кто занимается преданным служением Верховной Личности Бога, постепенно избавляются от всех последствий совершенных ими грехов: уже созревших, только накопленных, а также дремлющих в форме семени» («Падма-пурана»).
 

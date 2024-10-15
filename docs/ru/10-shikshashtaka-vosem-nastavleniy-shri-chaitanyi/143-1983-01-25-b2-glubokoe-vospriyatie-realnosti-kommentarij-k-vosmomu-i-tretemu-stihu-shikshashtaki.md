@@ -8,6 +8,12 @@ tags:
     slug: 1983-01
   - title: Шикшаштакам
     slug: shikshashtakam
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3

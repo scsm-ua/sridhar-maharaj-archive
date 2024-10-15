@@ -10,6 +10,32 @@ tags:
     slug: murari-gupta
   - title: Нарада
     slug: narada
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-146
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.59
+    slug: bhakti-rasamrita-sindhu-1-2-59
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 16
+    slug: shri-vilapa-kusumandzhali-16
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.21
+    slug: bhagavad-gita-6-21
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.7.26
+    slug: shrimad-bhagavatam-2-7-26
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3

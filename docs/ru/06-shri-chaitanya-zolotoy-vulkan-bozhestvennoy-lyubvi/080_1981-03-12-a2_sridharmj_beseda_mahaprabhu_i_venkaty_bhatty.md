@@ -14,6 +14,24 @@ tags:
     slug: istoriya
   - title: история о беседе с Венкатой Бхаттой
     slug: istoriya-o-besede-s-venkatoj-bhattoj
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-146
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.59
+    slug: bhakti-rasamrita-sindhu-1-2-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
+  - title: Бхакти-расамрита-синдху 1.1.1
+    slug: bhakti-rasamrita-sindhu-1-1-1
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3

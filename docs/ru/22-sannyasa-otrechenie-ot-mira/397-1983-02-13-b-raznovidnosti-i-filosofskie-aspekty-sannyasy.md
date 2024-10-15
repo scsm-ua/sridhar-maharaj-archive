@@ -8,6 +8,42 @@ tags:
     slug: 1983-02
   - title: Санньяса
     slug: sannyasa
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.13.27
+    slug: shrimad-bhagavatam-1-13-27
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.14
+    slug: bhagavad-gita-9-14
+  - title: Бхагавад-гита 10.9
+    slug: bhagavad-gita-10-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-257
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-80
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 74
+    slug: padyavali-74
+  - title: Брихан-нарадия-пурана
+    slug: brihan-naradiya-purana
+  - title: Брихан-нарадия-пурана 4.33
+    slug: brihan-naradiya-purana-4-33
+  - title: Джайва-дхарма
+    slug: dzhajva-dharma
+  - title: Джайва-дхарма 3
+    slug: dzhajva-dharma-3
+  - title: Джайва-дхарма 6
+    slug: dzhajva-dharma-6
+  - title: Хари-бхакти-виласа
+    slug: hari-bhakti-vilasa
+  - title: Хари-бхакти-виласа 10.279
+    slug: hari-bhakti-vilasa-10-279
+  - title: Бхагавад-гита 2.47
+    slug: bhagavad-gita-2-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/397_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3

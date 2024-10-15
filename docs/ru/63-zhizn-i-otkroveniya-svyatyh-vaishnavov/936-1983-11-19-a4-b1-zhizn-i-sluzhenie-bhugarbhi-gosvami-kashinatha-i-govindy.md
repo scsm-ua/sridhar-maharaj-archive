@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-10-144
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.49
+    slug: shri-chajtanya-charitamrita-antya-lila-8-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3

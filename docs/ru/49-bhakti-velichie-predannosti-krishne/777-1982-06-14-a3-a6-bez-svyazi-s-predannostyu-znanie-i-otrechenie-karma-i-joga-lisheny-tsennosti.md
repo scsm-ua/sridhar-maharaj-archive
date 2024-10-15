@@ -8,6 +8,24 @@ tags:
     slug: 1982-06
   - title: Бхакти
     slug: bhakti
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-17
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.18
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-18
+  - title: Шримад-Бхагаватам 1.2.7
+    slug: shrimad-bhagavatam-1-2-7
+  - title: Шримад-Бхагаватам 1.2.8
+    slug: shrimad-bhagavatam-1-2-8
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3

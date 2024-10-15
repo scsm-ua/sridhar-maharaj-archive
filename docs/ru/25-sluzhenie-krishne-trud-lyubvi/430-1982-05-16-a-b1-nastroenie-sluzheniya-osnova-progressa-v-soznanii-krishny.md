@@ -8,6 +8,26 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Гоптритве варана
+    slug: goptritve-varana
+  - title: Гоптритве варана 1–5
+    slug: goptritve-varana-1-5
+  - title: Шримад-Бхагаватам 2.1.2
+    slug: shrimad-bhagavatam-2-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
@@ -95,6 +115,6 @@ links:
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.136](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-136.md)
 
-[^_ftn3]: [Гоптритве варана 1-5](../notes/goptritve-varana/goptritve-varana-1-5.md)
+[^_ftn3]: [Гоптритве варана 1–5](../notes/goptritve-varana/goptritve-varana-1-5.md)
 
 [^_ftn4]: [Шримад-Бхагаватам 2.1.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-2-1-2.md)

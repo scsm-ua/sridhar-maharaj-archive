@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.17.38
+    slug: shrimad-bhagavatam-1-17-38
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3

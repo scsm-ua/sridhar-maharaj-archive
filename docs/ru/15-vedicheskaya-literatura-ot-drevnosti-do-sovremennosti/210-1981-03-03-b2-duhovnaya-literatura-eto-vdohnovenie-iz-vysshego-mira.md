@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Шримад-Бхагаватам 11.14.8
+    slug: shrimad-bhagavatam-11-14-8
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.1
+    slug: bhagavad-gita-4-1
+  - title: Бхагавад-гита 4.2
+    slug: bhagavad-gita-4-2
+  - title: Бхагавад-гита 4.4
+    slug: bhagavad-gita-4-4
+  - title: Бхагавад-гита 4.5
+    slug: bhagavad-gita-4-5
+  - title: Бхагавад-гита 4.8
+    slug: bhagavad-gita-4-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3

@@ -8,6 +8,24 @@ tags:
     slug: 1983-11
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: Ачарья вандана
+    slug: acharya-vandana
+  - title: Ачарья вандана 18
+    slug: acharya-vandana-18
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.32
+    slug: shrimad-bhagavatam-7-5-32
+  - title: Шримад-Бхагаватам 7.5.23–24
+    slug: shrimad-bhagavatam-7-5-23-24
+  - title: Шримад-Бхагаватам 7.5.5
+    slug: shrimad-bhagavatam-7-5-5
+  - title: Шримад-Бхагаватам 7.5.30
+    slug: shrimad-bhagavatam-7-5-30
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 7
+    slug: shri-upadeshamrita-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
@@ -101,7 +119,7 @@ links:
 
 [^_ftn2]: [Шримад-Бхагаватам 7.5.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-32.md)
 
-[^_ftn3]: [Шримад-Бхагаватам 7.5.23-24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)
+[^_ftn3]: [Шримад-Бхагаватам 7.5.23–24](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-23-24.md)
 
 [^_ftn4]: [Шримад-Бхагаватам 7.5.5](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-5.md)
 

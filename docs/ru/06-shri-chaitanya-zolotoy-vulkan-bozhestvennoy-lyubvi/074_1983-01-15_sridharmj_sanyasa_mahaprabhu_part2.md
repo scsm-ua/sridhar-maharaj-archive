@@ -12,6 +12,26 @@ tags:
     slug: sannyasa
   - title: пратьякша-парокша-апарокша-адхокшаджа-апракрита
     slug: pratyaksha-paroksha-aparoksha-adhokshad
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.23.57
+    slug: shrimad-bhagavatam-11-23-57
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.7
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.8
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.9
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-9
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
+  - title: Шримад-Бхагаватам 4.3.23
+    slug: shrimad-bhagavatam-4-3-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3

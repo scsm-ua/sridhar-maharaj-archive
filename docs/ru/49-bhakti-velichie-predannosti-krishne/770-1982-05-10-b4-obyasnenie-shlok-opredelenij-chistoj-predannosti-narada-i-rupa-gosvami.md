@@ -8,6 +8,34 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-128
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.5.24
+    slug: shrimad-bhagavatam-7-5-24
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
+    slug: shri-chajtanya-charitamrita-adi-lila-5-35
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
+    slug: shri-chajtanya-charitamrita-adi-lila-5-36
+  - title: Бхакти-расамрита-синдху 1.2.278
+    slug: bhakti-rasamrita-sindhu-1-2-278
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 5.41
+    slug: laghu-bhagavatamrita-5-41
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3

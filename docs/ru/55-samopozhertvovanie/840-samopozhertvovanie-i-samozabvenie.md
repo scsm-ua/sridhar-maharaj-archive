@@ -8,6 +8,10 @@ tags:
     slug: samopredanie
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-142
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3

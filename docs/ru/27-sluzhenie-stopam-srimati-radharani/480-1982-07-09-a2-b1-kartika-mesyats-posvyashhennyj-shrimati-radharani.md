@@ -8,6 +8,14 @@ tags:
     slug: 1982-07
   - title: Радхарани
     slug: radharani
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.35
+    slug: bhagavad-gita-10-35
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.22.4
+    slug: shrimad-bhagavatam-10-22-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3

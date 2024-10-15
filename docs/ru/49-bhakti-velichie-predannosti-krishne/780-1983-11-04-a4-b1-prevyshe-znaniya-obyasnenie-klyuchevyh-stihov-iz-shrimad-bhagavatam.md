@@ -8,6 +8,40 @@ tags:
     slug: 1983-11
   - title: Бхакти
     slug: bhakti
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.19
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-19
+  - title: Шримад-Бхагаватам 1.5.12
+    slug: shrimad-bhagavatam-1-5-12
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3

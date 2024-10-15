@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Према-Дхама-Дева-стотрам
+    slug: prema-dhama-deva-stotram
+  - title: Према-Дхама-Дева-стотрам 66
+    slug: prema-dhama-deva-stotram-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3

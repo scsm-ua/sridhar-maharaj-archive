@@ -12,6 +12,10 @@ tags:
     slug: istoriya
   - title: история о санньясе Махапрабху
     slug: istoriya-o-sannyase-mahaprabhu
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 13
+    slug: padyavali-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3

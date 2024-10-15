@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.53
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-53
+  - title: Таттва-сандарбха
+    slug: tattva-sandarbha
+  - title: Таттва-сандарбха 63.6
+    slug: tattva-sandarbha-63-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3

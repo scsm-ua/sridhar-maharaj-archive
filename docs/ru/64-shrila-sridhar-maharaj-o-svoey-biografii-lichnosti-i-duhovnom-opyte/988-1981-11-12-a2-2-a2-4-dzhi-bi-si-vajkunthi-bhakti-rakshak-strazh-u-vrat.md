@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.11"
     slug: 1981-11
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 5
+    slug: shri-shikshashtakam-5
+  - title: Сарвасва томара
+    slug: sarvasva-tomara
+  - title: Сарвасва томара 2
+    slug: sarvasva-tomara-2
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3
+    slug: sharanagati-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3

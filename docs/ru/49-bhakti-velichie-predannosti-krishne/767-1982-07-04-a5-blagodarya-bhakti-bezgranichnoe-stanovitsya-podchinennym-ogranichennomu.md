@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Бхакти
     slug: bhakti
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.17
+    slug: bhakti-rasamrita-sindhu-1-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3

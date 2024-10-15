@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1984.01"
     slug: 1984-01
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 1
+    slug: vajshnava-ke-1
+  - title: Вайшнава ке 3
+    slug: vajshnava-ke-3
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.24
+    slug: bhagavad-gita-9-24
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3

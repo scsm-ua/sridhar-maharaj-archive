@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
+    slug: shri-chajtanya-charitamrita-madhya-lila-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
+    slug: shri-chajtanya-charitamrita-madhya-lila-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.283
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-283
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3

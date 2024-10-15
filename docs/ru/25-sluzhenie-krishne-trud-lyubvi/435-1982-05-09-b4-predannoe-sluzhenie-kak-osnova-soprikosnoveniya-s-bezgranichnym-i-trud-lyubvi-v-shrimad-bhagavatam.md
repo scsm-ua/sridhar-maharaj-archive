@@ -8,6 +8,50 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Махабхараты», Бхишма-парва
+    slug: mahabharaty-bhishma-parva
+  - title: «Махабхараты», Бхишма-парва 5.22
+    slug: mahabharaty-bhishma-parva-5-22
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
+    slug: shri-chajtanya-charitamrita-adi-lila-17-308
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 2.5.93
+    slug: bhakti-rasamrita-sindhu-2-5-93
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.19
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-19
+  - title: Шримад-Бхагаватам 1.5.12
+    slug: shrimad-bhagavatam-1-5-12
+  - title: Шримад-Бхагаватам 12.13.18
+    slug: shrimad-bhagavatam-12-13-18
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.49
+    slug: bhagavad-gita-18-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3

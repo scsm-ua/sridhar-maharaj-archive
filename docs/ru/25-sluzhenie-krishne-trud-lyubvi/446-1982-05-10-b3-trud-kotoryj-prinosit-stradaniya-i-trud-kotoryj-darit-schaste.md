@@ -8,6 +8,16 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.18
+    slug: shrimad-bhagavatam-11-3-18
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3

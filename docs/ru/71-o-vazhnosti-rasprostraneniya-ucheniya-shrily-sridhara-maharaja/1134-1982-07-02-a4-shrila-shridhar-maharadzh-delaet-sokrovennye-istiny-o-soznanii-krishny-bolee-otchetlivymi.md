@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.44
+    slug: shrimad-bhagavatam-11-3-44
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.26
+    slug: bhagavad-gita-3-26
+  - title: Бхагавад-гита 3.8
+    slug: bhagavad-gita-3-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3

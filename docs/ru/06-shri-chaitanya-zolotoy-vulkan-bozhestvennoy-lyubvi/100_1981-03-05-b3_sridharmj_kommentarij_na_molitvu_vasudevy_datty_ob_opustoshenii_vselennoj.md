@@ -8,6 +8,10 @@ tags:
     slug: 1981-03
   - title: история о просьбе Васудевы Датты освободить всех
     slug: istoriya-o-prosbe-vasudevy-datty-osvo
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/100_1981.03.05.B3_SridharMj_Kommentarij_na_molitvu_Vasudevy_Datty_ob_opustoshenii_vselennoj.mp3

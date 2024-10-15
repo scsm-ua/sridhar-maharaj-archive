@@ -10,6 +10,14 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
+  - title: Акродха парамананда
+    slug: akrodha-paramananda
+  - title: Акродха парамананда 4
+    slug: akrodha-paramananda-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3

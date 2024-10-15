@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 12
+    slug: vajshnava-ke-12
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.256
+    slug: bhakti-rasamrita-sindhu-1-2-256
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3

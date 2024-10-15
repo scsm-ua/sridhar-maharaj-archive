@@ -8,6 +8,22 @@ tags:
     slug: 1983-01
   - title: Вера
     slug: vera
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.78–79
+    slug: shri-chajtanya-charitamrita-antya-lila-3-78-79
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-67
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.3
+    slug: shrimad-bhagavatam-10-14-3
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
@@ -66,7 +82,7 @@ links:
 
 
 
-[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 3.78-79](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-3-78-79.md)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 3.78–79](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-3-78-79.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 10.14.3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-14-3.md)
 

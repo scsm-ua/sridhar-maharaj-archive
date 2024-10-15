@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Ману-смрити
+    slug: manu-smriti
+  - title: Ману-смрити 4.138
+    slug: manu-smriti-4-138
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3

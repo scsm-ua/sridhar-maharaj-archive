@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.3.28
+    slug: shrimad-bhagavatam-1-3-28
+  - title: Шри Брахма-самхита
+    slug: shri-brahma-samhita
+  - title: Шри Брахма-самхита 5.1
+    slug: shri-brahma-samhita-5-1
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1–1
+    slug: sharanagati-1-1
+  - title: Шаранагати 1–2
+    slug: sharanagati-1-2
+  - title: Шаранагати 1–3
+    slug: sharanagati-1-3
+  - title: Шаранагати 1–4
+    slug: sharanagati-1-4
+  - title: Шримад-Бхагаватам 7.5.32
+    slug: shrimad-bhagavatam-7-5-32
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3
@@ -95,13 +119,13 @@ links:
 
 [^_ftn2]: [Шри Брахма-самхита 5.1](../notes/shri-brahma-samhita/shri-brahma-samhita-5-1.md)
 
-[^_ftn3]: [Шаранагати 1-1](../notes/sharanagati/sharanagati-1-1.md)
+[^_ftn3]: [Шаранагати 1–1](../notes/sharanagati/sharanagati-1-1.md)
 
-[^_ftn4]: [Шаранагати 1-2](../notes/sharanagati/sharanagati-1-2.md)
+[^_ftn4]: [Шаранагати 1–2](../notes/sharanagati/sharanagati-1-2.md)
 
-[^_ftn5]: [Шаранагати 1-3](../notes/sharanagati/sharanagati-1-3.md)
+[^_ftn5]: [Шаранагати 1–3](../notes/sharanagati/sharanagati-1-3.md)
 
-[^_ftn6]: [Шаранагати 1-4](../notes/sharanagati/sharanagati-1-4.md)
+[^_ftn6]: [Шаранагати 1–4](../notes/sharanagati/sharanagati-1-4.md)
 
 [^_ftn7]: [Шримад-Бхагаватам 7.5.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-7-5-32.md)
 

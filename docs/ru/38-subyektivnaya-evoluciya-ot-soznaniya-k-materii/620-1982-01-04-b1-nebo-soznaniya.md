@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.5.2
+    slug: shrimad-bhagavatam-12-5-2
+  - title: Шримад-Бхагаватам 1.3.31
+    slug: shrimad-bhagavatam-1-3-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3

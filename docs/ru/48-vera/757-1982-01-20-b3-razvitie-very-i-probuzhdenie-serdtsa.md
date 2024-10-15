@@ -8,6 +8,24 @@ tags:
     slug: 1982-01
   - title: Вера
     slug: vera
+  - title: «Махабхараты», Бхишма-парва
+    slug: mahabharaty-bhishma-parva
+  - title: «Махабхараты», Бхишма-парва 5.22
+    slug: mahabharaty-bhishma-parva-5-22
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
+    slug: shri-chajtanya-charitamrita-adi-lila-17-308
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 2.5.93
+    slug: bhakti-rasamrita-sindhu-2-5-93
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/757_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3
@@ -62,6 +80,6 @@ links:
 
 [^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 17.308](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-17-308.md)
 
-[^_ftn2]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn2]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
 [^_ftn3]: [Ману-самхита 2.1](../notes/manu-samhita/manu-samhita-2-1.md)

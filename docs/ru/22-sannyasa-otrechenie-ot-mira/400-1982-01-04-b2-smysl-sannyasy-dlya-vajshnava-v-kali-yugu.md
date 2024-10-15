@@ -8,6 +8,10 @@ tags:
     slug: 1982-01
   - title: Санньяса
     slug: sannyasa
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.13.27
+    slug: shrimad-bhagavatam-1-13-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3

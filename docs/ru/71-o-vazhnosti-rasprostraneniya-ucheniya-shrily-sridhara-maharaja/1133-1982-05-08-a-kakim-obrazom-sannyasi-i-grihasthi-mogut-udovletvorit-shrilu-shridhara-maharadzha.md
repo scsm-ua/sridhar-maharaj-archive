@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: Шри Лалита-аштака
+    slug: shri-lalita-ashtaka
+  - title: Шри Лалита-аштака 7
+    slug: shri-lalita-ashtaka-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3

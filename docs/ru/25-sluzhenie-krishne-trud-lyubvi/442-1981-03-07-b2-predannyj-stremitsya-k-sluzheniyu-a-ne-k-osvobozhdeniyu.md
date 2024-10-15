@@ -8,6 +8,14 @@ tags:
     slug: 1981-03
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 4
+    slug: shri-shikshashtakam-4
+  - title: Манаса дехо гехо
+    slug: manasa-deho-geho
+  - title: Манаса дехо гехо 5
+    slug: manasa-deho-geho-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3

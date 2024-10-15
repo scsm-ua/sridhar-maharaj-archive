@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Проповедь
     slug: propoved
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
+    slug: shri-chajtanya-charitamrita-adi-lila-9-41
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3

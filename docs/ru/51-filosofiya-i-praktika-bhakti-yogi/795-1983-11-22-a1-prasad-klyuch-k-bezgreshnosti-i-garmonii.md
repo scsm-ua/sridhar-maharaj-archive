@@ -8,6 +8,14 @@ tags:
     slug: 1983-11
   - title: Прасад
     slug: prasad
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.13
+    slug: bhagavad-gita-3-13
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3

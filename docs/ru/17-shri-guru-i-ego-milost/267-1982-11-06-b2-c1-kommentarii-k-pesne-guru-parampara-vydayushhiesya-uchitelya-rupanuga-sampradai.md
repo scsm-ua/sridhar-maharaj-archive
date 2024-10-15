@@ -8,6 +8,16 @@ tags:
     slug: 1982-11
   - title: Гуру-парампара
     slug: guru-parampara
+  - title: Шри Гуру-парампара
+    slug: shri-guru-parampara
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
+  - title: Шри Гуру-парампара 7
+    slug: shri-guru-parampara-7
+  - title: Шри Прартхана
+    slug: shri-prarthana
+  - title: Шри Прартхана 3.3
+    slug: shri-prarthana-3-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3

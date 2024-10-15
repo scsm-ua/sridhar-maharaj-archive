@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.06"
     slug: 1983-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.168
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-168
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/896_1983.06.05.B1_SridharMj_Missita_Shankary.mp3

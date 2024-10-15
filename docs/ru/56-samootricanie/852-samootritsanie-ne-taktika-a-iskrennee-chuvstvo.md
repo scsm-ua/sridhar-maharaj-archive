@@ -8,6 +8,18 @@ tags:
     slug: samopredanie
   - title: без даты
     slug: bez-daty
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Гитамала», Ямуна-бхававали
+    slug: gitamala-yamuna-bhavavali
+  - title: «Гитамала», Ямуна-бхававали 19
+    slug: gitamala-yamuna-bhavavali-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
@@ -48,7 +60,7 @@ links:
 
 
 
-[^_ftn1]: [Шаранагати 3-4](../notes/sharanagati/sharanagati-3-4.md)
+[^_ftn1]: [Шаранагати 3–4](../notes/sharanagati/sharanagati-3-4.md)
 
 [^_ftn2]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)
 

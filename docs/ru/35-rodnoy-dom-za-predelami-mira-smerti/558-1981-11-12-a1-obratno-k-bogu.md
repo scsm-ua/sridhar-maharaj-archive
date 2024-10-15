@@ -6,6 +6,30 @@ category:
 tags:
   - title: "1981.11"
     slug: 1981-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
+  - title: Бхагавад-гита 8.16
+    slug: bhagavad-gita-8-16
+  - title: Бхагавад-гита 6.5
+    slug: bhagavad-gita-6-5
+  - title: Бхагавад-гита 6.6
+    slug: bhagavad-gita-6-6
+  - title: Бхагавад-гита 15.6
+    slug: bhagavad-gita-15-6
+  - title: Бхагавад-гита 7.23
+    slug: bhagavad-gita-7-23
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-16
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 3.2.35
+    slug: bhakti-rasamrita-sindhu-3-2-35
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3

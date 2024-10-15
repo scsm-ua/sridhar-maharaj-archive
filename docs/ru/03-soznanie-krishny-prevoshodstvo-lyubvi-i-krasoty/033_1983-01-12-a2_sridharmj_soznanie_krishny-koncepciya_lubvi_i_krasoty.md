@@ -12,6 +12,10 @@ tags:
     slug: poisk-shri-krishny-prekrasnoj-realnos
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.21
+    slug: bhagavad-gita-13-21
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/033_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3

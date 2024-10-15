@@ -8,6 +8,28 @@ tags:
     slug: 1983-02
   - title: Бхакти
     slug: bhakti
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.17
+    slug: bhakti-rasamrita-sindhu-1-17
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
+  - title: Мукунда-мала-стотра
+    slug: mukunda-mala-stotra
+  - title: Мукунда-мала-стотра 5
+    slug: mukunda-mala-stotra-5
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 4.3
+    slug: shri-shri-prapanna-dzhivanamritam-4-3
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 4
+    slug: shri-shikshashtakam-4
+  - title: Шри Шикшаштакам 5
+    slug: shri-shikshashtakam-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3

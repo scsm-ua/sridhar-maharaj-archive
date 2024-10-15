@@ -8,6 +8,24 @@ tags:
     slug: 1982-07
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Шри Гурваштака
+    slug: shri-gurvashtaka
+  - title: Шри Гурваштака 6
+    slug: shri-gurvashtaka-6
+  - title: Шри Гурваштака 1
+    slug: shri-gurvashtaka-1
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15–16
+    slug: bhakti-rasamrita-sindhu-1-4-15-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3
@@ -122,8 +140,8 @@ links:
 
 [^_ftn2]: [Шри Гурваштака 1](../notes/shri-gurvashtaka/shri-gurvashtaka-1.md)
 
-[^_ftn3]: [Бхакти-расамрита-синдху 1.4.15-16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
+[^_ftn3]: [Бхакти-расамрита-синдху 1.4.15–16](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-4-15-16.md)
 
-[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18-19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)
 
 [^_ftn5]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.45](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-45.md)

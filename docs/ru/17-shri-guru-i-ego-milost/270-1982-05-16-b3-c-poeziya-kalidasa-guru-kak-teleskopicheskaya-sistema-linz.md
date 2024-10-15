@@ -8,6 +8,24 @@ tags:
     slug: 1982-05
   - title: Гуру-парампара
     slug: guru-parampara
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 7.4
+    slug: sharanagati-7-4
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.29
+    slug: bhagavad-gita-9-29
+  - title: Бхагавад-гита 11.53
+    slug: bhagavad-gita-11-53
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3

@@ -6,6 +6,42 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
+  - title: Шримад Бхактивинода-вираха Дашакам
+    slug: shrimad-bhaktivinoda-viraha-dashakam
+  - title: Шримад Бхактивинода-вираха Дашакам 7
+    slug: shrimad-bhaktivinoda-viraha-dashakam-7
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-153-19-154
+  - title: Шримад Бхактивинода-вираха Дашакам 9
+    slug: shrimad-bhaktivinoda-viraha-dashakam-9
+  - title: Шри Дайита Даса Пранати Панчакам
+    slug: shri-dajita-dasa-pranati-panchakam
+  - title: Шри Дайита Даса Пранати Панчакам 4
+    slug: shri-dajita-dasa-pranati-panchakam-4
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 5
+    slug: shri-shri-prabhupada-padma-stavakah-5
+  - title: Шри Шри Прабхупада-падма Ставаках 6
+    slug: shri-shri-prabhupada-padma-stavakah-6
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
+    slug: shri-chajtanya-charitamrita-adi-lila-8-78
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: Шри Шри Прапанна-дживанамритам
+    slug: shri-shri-prapanna-dzhivanamritam
+  - title: Шри Шри Прапанна-дживанамритам 4.4
+    slug: shri-shri-prapanna-dzhivanamritam-4-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.mp3
@@ -236,7 +272,7 @@ links:
 
 [^_ftn2]: [Шримад Бхактивинода-вираха Дашакам 7](../notes/shrimad-bhaktivinoda-viraha-dashakam/shrimad-bhaktivinoda-viraha-dashakam-7.md)
 
-[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.153-19.154](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-153-19-154.md)
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-153-19-154.md)
 
 [^_ftn4]: [Шримад Бхактивинода-вираха Дашакам 9](../notes/shrimad-bhaktivinoda-viraha-dashakam/shrimad-bhaktivinoda-viraha-dashakam-9.md)
 

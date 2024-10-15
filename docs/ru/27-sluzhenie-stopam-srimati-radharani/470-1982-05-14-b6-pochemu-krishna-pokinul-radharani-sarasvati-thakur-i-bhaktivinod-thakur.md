@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.30.38
+    slug: shrimad-bhagavatam-10-30-38
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 4.5
+    slug: sharanagati-4-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
