@@ -76,8 +76,6 @@ class DocumentFile {
             }
         });
 
-        
-
         this.footnotes.forEach(f => {
             result += f.renderWithLink();
 

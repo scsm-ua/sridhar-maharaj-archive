@@ -78,8 +78,11 @@ class FootnoteFile {
             var meta = {
                 slug: this.getFileSlug(),
                 refs: this.footnotes.map(f => relative(this.getDir(), f.documentFile.filename)),
-                tags: this.getTags()
             };
+            var tags = this.getTags();
+            if (tags.length) {
+                meta.tags = tags;
+            }
 
             var meta_str = stringify(meta);
 

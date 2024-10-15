@@ -212,6 +212,9 @@ class FilesFactory {
     }
 
     writeDocFiles() {
+
+        this.tags = {};
+
         this.documents.forEach(doc => {
             var md = doc.renderFile();
             // var filename = doc.filename.replace('/ru/', '/ru-2/');
@@ -220,6 +223,10 @@ class FilesFactory {
             //     fs.mkdirSync(dir, { recursive: true });
             // }
             fs.writeFileSync(doc.filename, md);
+
+            (doc.meta.tags || []).forEach(t => {
+                this.tags[t.slug] = t.title;
+            });
         });
     }
 }

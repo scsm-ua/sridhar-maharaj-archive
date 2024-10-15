@@ -11,3 +11,13 @@ fs.writeFileSync('./footnotes.md', result);
 factory.writeFootnoteFiles();
 
 factory.writeDocFiles();
+
+const tags = Object.keys(factory.tags).sort().reduce(
+    (obj, key) => { 
+      obj[key] = factory.tags[key]; 
+      return obj;
+    }, 
+    {}
+);
+
+fs.writeFileSync('../docs/tags.json', JSON.stringify(tags, null, 4));
