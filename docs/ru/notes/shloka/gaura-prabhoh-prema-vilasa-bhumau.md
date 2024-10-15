@@ -7,7 +7,6 @@ refs:
   - ../../51-filosofiya-i-praktika-bhakti-yogi/796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii.md
   - ../../54-smirenie-i-terpenie/835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
-tags: []
 ---
 
 *гаура-прабхох према-виласа-бхумау / нишкинчано бхакти-винода-нама* - «На этой земле Господь Гауранга наслаждался играми, полными *премы.* У маленького *садху* по имени Бхактивинода, который находится в крошечной комнате *бхакти-кутира*, только одно желание: постоянно помнить имя и качества своего Господа Мурари в течение всей ночи». (Шрила Бхактивинод Тхакур).

@@ -7,7 +7,6 @@ refs:
   - ../../19-maha-mantra-svyatoe-imya/338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni.md
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany.md
   - ../../50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya/786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
-tags: []
 ---
 
 *асадху-санге бхай, кришна-нама нахи хайа / намакшара бахирайа бату нама кабху найа* — «О брат, *кришна-нам* никогда не придет к человеку, который общается с непреданным. Не Святое Имя будет на его устах, но лишь буквы; он не сможет произнести *шуддха-нам*» (Шрила Джагадананда Пандит, «Према-виварта»; упоминается в «Шри Джайва-дхарме» Шрилы Бхактивинода Тхакура»).

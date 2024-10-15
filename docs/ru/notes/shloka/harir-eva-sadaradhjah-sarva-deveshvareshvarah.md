@@ -3,7 +3,6 @@ slug: harir-eva-sadaradhjah-sarva-deveshvareshvarah
 refs:
   - ../../14-kak-poznat-i-uvidet-boga/203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom.md
   - ../../40-bog-i-bogi/691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
-tags: []
 ---
 
 *харир эва сада̄ра̄дхйах̣ сарва-девеш́вареш́варах̣ / итаре брахма-рудра̄дйа̄ на̄ваджн̃ейа̄х̣ када̄чана* — «Кришна или Хари является господином всех полубогов, и поэтому Он всегда является объектом поклонения. Но это не означает, что человек не должен выказывать уважения полубогам, возглавляемым Брахмой и Шивой» («Падма-пурана»).

@@ -3,7 +3,6 @@ slug: gadadhara-mitra-vara-shri-svarupa
 refs:
   - ../../08-pancha-tattva-sputniki-shri-chaitanyi/124-1983-05-12-c1-polozhenie-gadadhara-pandita-v-gaura-lile.md
   - ../../17-shri-guru-i-ego-milost/314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy.md
-tags: []
 ---
 
 *гададхара митра-вара, шри сварупа дамодара, сада кала гаура-кришна ядже*\

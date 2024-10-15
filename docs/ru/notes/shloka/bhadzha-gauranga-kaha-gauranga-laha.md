@@ -10,7 +10,6 @@ refs:
   - ../../29-gayatri-mantra-i-mantra-om/492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
-tags: []
 ---
 
 *бхаджа гаура̄н̇га каха гаура̄н̇га / лаха гаура̄н̇гера на̄ма / йе джана гаура̄н̇га бхадже / сеи хайа а̄ма̄р пра̄н̣а* - Призыв Нитьянанды Прабху к падшим душам Кали-юги таков: «Поклоняйся Гауранге! Говори о Гауранге! Воспевай имя Гауранги! Тот, кто поклоняется Гауранге, — Моя жизнь и душа!»

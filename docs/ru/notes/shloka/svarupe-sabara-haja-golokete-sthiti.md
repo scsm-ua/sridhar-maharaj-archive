@@ -9,7 +9,6 @@ refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah.md
-tags: []
 ---
 
 *сварӯпе саба̄ра хайа, голокете стхити* - «Подлинное место *дживы* — в мире *чит*, на Голоке» («Шри Шри Кришнера аштоттара-шата-нама»).

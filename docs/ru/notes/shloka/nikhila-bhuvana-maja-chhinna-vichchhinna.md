@@ -4,7 +4,6 @@ refs:
   - ../../29-gayatri-mantra-i-mantra-om/488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1110-1983-02-20-a1-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-nikhila-bhuvana-maji.md
-tags: []
 ---
 
 *никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ, вибудха-бахула-мр̣гйа̄-мукти-моха̄нта-да̄трӣ / ш́итхилита-видхи-ра̄га̄ра̄дхйа-ра̄дхеш́а-дха̄нӣ, виласату хр̣ди нитйам̇ бхакти-сиддха̄нта-ва̄н̣ӣ* — «Своим первым шагом он разрушил мир эксплуатации, а вторым — сокрушил спекулятивные рассуждения философов и идею безличного освобождения. Третий его шаг смягчил виддхи-бхакти прикосновением божественной любви (рага-марги). Возвысив нас над Вайкунтхой, он подвел нас к наивысшему поклонению Шри Радхе и Шри Говинде» (Шрила Шридхар Махарадж, пранама-мантра Сарасвати Тхакуру).

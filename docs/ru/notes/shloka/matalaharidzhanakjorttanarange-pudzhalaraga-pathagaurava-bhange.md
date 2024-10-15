@@ -29,7 +29,6 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura.md
   - ../../71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja/1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
-tags: []
 ---
 
 *ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге* — «Мы будем поклоняться рага-марге, безраздельной и самоотверженной преданности Богу, как идеалу, с глубочайшим почтением, всегда совершая киртан в обществе истинных преданных» (Шрила Прабхупада Бхактисиддханта Сарасвати Тхакур).

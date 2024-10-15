@@ -4,7 +4,6 @@ refs:
   - ../../01-poisk-shri-krishny-prekrasnoy-realnosti/011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas.md
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni.md
-tags: []
 ---
 
 *ом аджнанад йади ва мохат прачйаветадхарешу йат, смаранадева тад-вишнох сампурнах сйадити шрутих / ом прийатам пундари-какшах сарва-йаджнешварохарих, тасминстуште джагат-туштам прините принитам джагат* — «Если в жертвоприношении были изъяны, по неведению или по недостатку внимания, по словам *шрути*, оно станет успешным благодаря имени Вишну. Будь удовлетворен, лотосоглазый Господь Хари, правящий всеми святыми местами! Радуемое Им, счастливо творение, когда Он удовлетворен — мир ощущает счастье».
