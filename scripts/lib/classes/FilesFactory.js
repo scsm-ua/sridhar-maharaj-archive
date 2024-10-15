@@ -16,8 +16,9 @@ var debugCount = 1;
 
 class FilesFactory {
 
-    constructor(root, filename_re) {
-        this.root = root;
+    constructor(source_root, target_root, filename_re) {
+        this.source_root = source_root;
+        this.target_root = target_root;
         this.filename_re = filename_re;
         this.documents = [];
         this.footnotes = [];
@@ -25,12 +26,13 @@ class FilesFactory {
         this.scripturesVersesUsage = {};
         this.scripturesUsageByVerses = {};
         this.footnotesFiles = {};
-        this.footnotesDir = this.root + '/notes';
+        this.footnotesDir = this.target_root + '/notes';
     }
 
     start() {
-        this.iterateFiles(this.root, this.filename_re, file => {     
+        this.iterateFiles(this.source_root, this.filename_re, file => {     
             var { filename, content } = file;
+            filename = filename.replace(this.source_root, this.target_root);
             var doc = new DocumentFile(this, filename, content);
             this.documents.push(doc);
         });

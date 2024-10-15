@@ -63,18 +63,22 @@ class FootnoteFile {
         return this.getDir() + this.getFileSlug() + '.md';
     }
 
+    getTags() {
+        return this.tags.map(tag => {
+            return {
+                title: tag,
+                slug: transliterate(tag)
+            }
+        })
+    }
+
     renderFile() {
         if (this.footnotes.length) {
             this.tags.sort();
             var meta = {
                 slug: this.getFileSlug(),
                 refs: this.footnotes.map(f => relative(this.getDir(), f.documentFile.filename)),
-                tags: this.tags.map(tag => {
-                    return {
-                        title: tag,
-                        slug: transliterate(tag)
-                    }
-                })
+                tags: this.getTags()
             };
 
             var meta_str = stringify(meta);

@@ -3,6 +3,7 @@
 /// TODO: – use short between 1-2 => 1–2 
 
 const { Footnote } = require("./Footnote");
+const { stringify, parse } = require('yaml');
 
 const yml_re = /^---(.|\n)+---(\s|\n)+/m;
 
@@ -21,10 +22,15 @@ class DocumentFile {
         var yml_match = this.content.match(yml_re);
         var content = this.content;
         if (yml_match) {
-            this.yml_part = yml_match[0];
+            var yml_part = yml_match[0].replace(/^---\n*/m, '').replace(/\n*---\n*$/m, '');
+            this.meta = parse(yml_part);
+            // console.log(JSON.stringify(yml_part), this.meta)
             content = content.replace(yml_re, '');
         }
-        
+
+        // Replace symbols after yml.
+        content = content.replace(/(\d)-(\d)/g, '$1–$2');        
+
         var lines = content.split('\n');
         this.nodes = getLevel1Nodes(lines);
         
@@ -48,7 +54,7 @@ class DocumentFile {
     }
 
     renderFile() {
-        var result = this.yml_part || '';
+        var result = '';
 
         this.nodes.forEach(n => {
 
@@ -70,13 +76,27 @@ class DocumentFile {
             }
         });
 
+        
+
         this.footnotes.forEach(f => {
             result += f.renderWithLink();
+
+            if (f.file) {
+                this.meta.tags = this.meta.tags || [];
+                var tags = f.file.getTags();
+                tags.forEach(tag => {
+                    if (!this.meta.tags.find(t => t.slug === tag.slug)) {
+                        this.meta.tags.push(tag);
+                    }
+                });
+            }
         });
 
         result = result.replace(/\n$/, '');
 
-        return result;
+        var yml = '---\n' + stringify(this.meta) + '---\n\n';
+
+        return yml + result;
     }
 }
 
