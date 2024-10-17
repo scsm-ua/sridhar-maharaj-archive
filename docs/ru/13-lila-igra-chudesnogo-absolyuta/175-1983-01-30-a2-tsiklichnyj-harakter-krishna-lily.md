@@ -8,6 +8,12 @@ tags:
     slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.385
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-385
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
@@ -82,9 +88,9 @@ links:
 
 
 
-[^_ftn1]: «[Игры Кришны] распространяются по всей Вселенной, повторяясь снова и снова» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.391).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.391](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-391.md)
 
-[^_ftn2]: «Невозможно понять, как они [игры Кришны] продолжаются вечно» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.385).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.385](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-385.md)
 
 [^_ftn3]: Строго говоря, в одном дне Брахмы 994 *чатур-юги*. День Брахмы включает в себя четырнадцать *манвантар*, эпох правления Ману, по семьдесят одной *чатур-юге* в каждой *манвантаре*.
 

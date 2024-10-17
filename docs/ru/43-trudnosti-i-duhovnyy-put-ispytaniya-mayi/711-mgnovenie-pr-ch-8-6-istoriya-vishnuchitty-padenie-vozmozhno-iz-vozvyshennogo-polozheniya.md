@@ -6,6 +6,12 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.9
+    slug: bhagavad-gita-4-9
+  - title: Бхагавад-гита 18.55
+    slug: bhagavad-gita-18-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3
@@ -111,7 +117,6 @@ links:
 
 
 
-[^_ftn1]: «Тот, кто знает божественную природу Моего явления и деяний, никогда больше не рождается в материальном мире. Покинув тело, он достигает Моей вечной обители, о Арджуна» (Бхагавад-гита, 4.9).
+[^_ftn1]: [Бхагавад-гита 4.9](../notes/bhagavad-gita/bhagavad-gita-4-9.md)
 
-[^_ftn2]: «Лишь благодаря любви ко Мне душа может познать Мое величие и Мой сокровенный личностный образ. Постигнув эти истины обо Мне, она входит в Мою семью» (Бхагавад-гита, 18.55).
-
+[^_ftn2]: [Бхагавад-гита 18.55](../notes/bhagavad-gita/bhagavad-gita-18-55.md)

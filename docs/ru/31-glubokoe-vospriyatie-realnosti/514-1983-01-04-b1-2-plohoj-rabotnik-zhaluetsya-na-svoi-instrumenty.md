@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
@@ -53,5 +65,4 @@ links:
 
 
 
-[^_ftn1]: *тат те ’нукампа̄м̇ су-самӣкшама̄н̣о, бхун̃джа̄на эва̄тма-кр̣там̇ випа̄кам / хр̣д-ва̄г-вапурбхир видадхан намас те, джӣвета йо мукти-паде са да̄йа-бха̄к* — «Мой дорогой Господь, тот, кто смиренно ждет, когда Ты прольешь на него Свою беспричинную милость, терпеливо снося все последствия своих прошлых ошибок и почитая Тебя в сердце, словами и телом, несомненно, достоин освобождения, которое становится его законным правом» («Шримад-Бхагаватам», 10.14.8; цитируется в «Шри Чайтанья-чаритамрите», (Мадхья-лила, 6.261; Антья-лила, 9.77)).
-
+[^_ftn1]: [Шримад-Бхагаватам 10.14.8](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-14-8.md)

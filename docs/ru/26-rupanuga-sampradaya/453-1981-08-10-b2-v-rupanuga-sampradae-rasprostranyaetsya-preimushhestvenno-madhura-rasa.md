@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
+    slug: shri-chajtanya-charitamrita-adi-lila-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
+    slug: shri-chajtanya-charitamrita-adi-lila-3-4
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
+    slug: shri-chajtanya-charitamrita-antya-lila-1-132
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.2
+    slug: vidagdha-madhava-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
@@ -46,5 +60,4 @@ links:
 
 
 
-[^_ftn1]: *анарпита-чарӣм̇ чира̄т карун̣айа̄ватӣрн̣ах̣ калау, самарпайитум уннатоджжвала-раса̄м̇ сва-бхакти-ш́рийам / харих̣ пурат̣а-сундара-дйути-кадамба-сандӣпитах̣, сада̄ хр̣дайа-кандаре спхурату вах̣ ш́ачӣ-нанданах̣* — «Да проникнет Верховный Господь, божественный сын Шримати Шачи-деви, в самую глубину вашего сердца. Сияя, как расплавленное золото, Он по Своей беспричинной милости низошел на землю в эпоху Кали, чтобы даровать миру то, чего не давало ни одно из воплощений Господа: высочайшую, лучезарную расу преданного служения — расу супружеской любви» (Рупа Госвами, «Видагдха-мадхава», 1.2; «Шри Чайтанья-чаритамрита», Ади-лила, 1.4; 3.4; Антья-лила, 1.132).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.4](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-4.md)

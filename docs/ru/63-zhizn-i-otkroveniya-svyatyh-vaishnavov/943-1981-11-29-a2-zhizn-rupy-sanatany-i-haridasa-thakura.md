@@ -6,6 +6,28 @@ category:
 tags:
   - title: "1981.11"
     slug: 1981-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.211
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-211
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 11.65
+    slug: shri-chajtanya-charitamrita-antya-lila-11-65
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
@@ -122,11 +144,10 @@ links:
 
 
 
-[^_ftn1]: «Замужняя женщина, любящая другого мужчину, обычно делает вид, что поглощена домашними делами, но в сердце своем она все время лелеет мысли о встрече со своим возлюбленным» («Шри Чайтанья-чаритамрита», Мадхья-лила, 1.211).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 1.211](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-1-211.md)
 
-[^_ftn2]: *харида̄сера па̄додака пийе бхакта-ган̣а / харида̄сера ан̇ге дила̄ праса̄да-чандана* — «Все испили воды, которой коснулись лотосные стопы Харидасы Тхакура, а потом умастили его тело остатками сандаловой пасты, предложенной Господу Джаганнатхе» («Шри Чайтанья-чаритамрита», Антья-лила, 11.65).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 11.65](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-11-65.md)
 
-[^_ftn3]: «Каунтея, чем бы ты ни занимался: вкушаешь ли ты пищу, жертвуешь чем-либо или приносишь что-либо в дар, совершаешь ли аскезы — совершай всю деятельность как подношение Мне» (Бхагавад-гита, 9.27).
+[^_ftn3]: [Бхагавад-гита 9.27](../notes/bhagavad-gita/bhagavad-gita-9-27.md)
 
-[^_ftn4]: *сарва-дхарма̄н паритйаджйа, ма̄м экам̇ ш́аран̣ам̇ враджа / ахам̇ тва̄м̇ сарва-па̄пебхйо, мокшайишйа̄ми ма̄ ш́учах̣* — «Оставь все виды долга и полностью предайся Мне. Я освобожу тебя от всех грехов. Не скорби ни о чем» (Бхагавад-гита, 18.66).
-
+[^_ftn4]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)

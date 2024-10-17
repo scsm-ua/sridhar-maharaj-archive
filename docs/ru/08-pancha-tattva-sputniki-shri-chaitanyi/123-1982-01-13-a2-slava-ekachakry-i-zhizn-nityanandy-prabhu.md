@@ -10,6 +10,10 @@ tags:
     slug: nityananda-prabhu
   - title: Экачакра
     slug: ekachakra
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3
@@ -147,5 +151,4 @@ links:
 
 
 
-[^_ftn1]: «Кого бы ты ни встретил, говори ему о величии Кришны» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.128).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)

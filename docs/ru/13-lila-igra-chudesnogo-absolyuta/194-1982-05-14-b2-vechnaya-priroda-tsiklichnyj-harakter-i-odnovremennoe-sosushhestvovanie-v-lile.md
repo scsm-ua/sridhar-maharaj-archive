@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3
@@ -38,7 +42,7 @@ links:
 
 
 
-[^_ftn1]: *аичхе кр̣ш̣н̣ера лӣла̄-ман̣д̣ала чаудда-манвантаре / брахма̄н̣д̣а-ман̣д̣ала вйа̄пи’ краме краме пхире* — «Подобно тому как у Солнца есть орбита, у игр Кришны, которые разворачиваются одна за другой, тоже есть орбита. За время правления четырнадцати Ману эти игры проходят по своей орбите сквозь все вселенные и потом возвращаются в прежние места. Так Кришна одну за другой проходит все вселенные со Своими играми» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.391).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.391](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-391.md)
 
 [^_ftn2]: Детские игры.
 

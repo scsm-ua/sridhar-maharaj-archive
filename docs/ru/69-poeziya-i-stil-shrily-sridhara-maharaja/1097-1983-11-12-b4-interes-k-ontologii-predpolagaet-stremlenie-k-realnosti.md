@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
@@ -34,5 +38,4 @@ links:
 
 
 
-[^_ftn1]: *вичакшана кори’, декхите чахиле, хойа анкхи-агочара / пунах нахи декхи’, кандайе парана, духкхера нахи тхаке ора* — «Стоит мне пожелать увидеть Его ближе, как вдруг Он становится невидимым! Не видя Его, моя душа плачет, и моему горю нет ни конца, ни края» (Шрила Бхактивинод Тхакур, «Шри Шикшаштакам» (цикл песен), 8-1.2).
-
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)

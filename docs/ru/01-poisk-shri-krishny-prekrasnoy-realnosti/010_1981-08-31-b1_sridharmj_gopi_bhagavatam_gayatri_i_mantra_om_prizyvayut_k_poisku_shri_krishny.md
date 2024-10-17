@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-141
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.120
+    slug: shri-chajtanya-charitamrita-adi-lila-2-120
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.3
+    slug: shrimad-bhagavatam-1-1-3
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
@@ -130,17 +150,16 @@ links:
 
 
 
-[^_ftn1]: «Гопи — не йоги-мистики. Они никогда не смогут удовольствоваться медитацией на Твои лотосоподобные стопы по примеру так называемых йогов» («Шри Чайтанья-чаритамрита», Мадхья-лила, 13.141).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 13.141](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-13-141.md)
 
-[^_ftn2]: «Господь Кришна — Верховная Личность Бога, сын царя Враджи» («Шри Чайтанья-чаритамрита», Ади-лила, 2.120).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 2.120](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-2-120.md)
 
 [^_ftn3]: «Знающий блаженство этого Брахмана, никогда не испытывает страха» («Таиттирия-упанишада»).
 
-[^_ftn4]: Шри Кришна — «чистая раса, блаженство» («Тайттирия-упанишад», 2.7.1).
+[^_ftn4]: [Тайттирия-упанишад 2.7.1](../notes/tajttiriya-upanishad/tajttiriya-upanishad-2-7-1.md)
 
-[^_ftn5]: «Шримад-Бхагаватам» — «зрелый плод древа желаний Вед» («Шримад-Бхагаватам», 1.1.3).
+[^_ftn5]: [Шримад-Бхагаватам 1.1.3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-3.md)
 
-[^_ftn6]: «Нектарный сок “Шримад-Бхагаватам” и прежде приносил наслаждение всем, включая и освобожденные души» («Шримад-Бхагаватам», 1.1.3).
+[^_ftn6]: [Шримад-Бхагаватам 1.1.3](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-3.md)
 
-[^_ftn7]: Шветашватара-упанишад, 2.5.
-
+[^_ftn7]: [Шветашватара-упанишад 2.5](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-2-5.md)

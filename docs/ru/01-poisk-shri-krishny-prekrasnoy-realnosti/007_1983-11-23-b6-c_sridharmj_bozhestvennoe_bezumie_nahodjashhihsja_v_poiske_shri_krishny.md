@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-291
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.18
+    slug: shrimad-bhagavatam-10-47-18
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.16
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.mp3
@@ -81,13 +97,12 @@ links:
 
 
 
-[^ftnref1]: «Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291.
+[^ftnref1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.291](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-291.md)
 
-[^ftnref2]: «Рассказы о непрекращающихся развлечениях Кришны — нектар для слуха. Тот, кто хотя бы однажды попробовал на вкус каплю этого нектара, теряет всякую привязанность к двойственности материального мира. Многие из таких людей внезапно оставили свои дома и семьи и превратились в нищих бродяг, скитающихся по Вриндавану, подобно птицам, и живущих на подаяние» («Шримад-Бхагаватам», 10.47.18).
+[^ftnref2]: [Шримад-Бхагаватам 10.47.18](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-47-18.md)
 
-[^ftnref3]: «Шри Чайтанья-чаритамрита», Мадхья-лила, 2.15.
+[^ftnref3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.15](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-15.md)
 
-[^ftnref4]: «Веданта-сутра», 1.1.1.
+[^ftnref4]: [Веданта-сутра 1.1.1](../notes/vedanta-sutra/vedanta-sutra-1-1-1.md)
 
-[^ftnref5]: «Кому Мне поведать о Своих душевных муках? Кто поймет Меня? Когда сына Махараджи Нанды нет рядом, сердце Мое разрывается на части!» («Шри Чайтанья-чаритамрита», Мадхья-лила, 2.16).
-
+[^ftnref5]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.16](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-16.md)

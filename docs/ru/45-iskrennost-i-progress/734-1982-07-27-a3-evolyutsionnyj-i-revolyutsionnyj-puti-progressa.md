@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.21.2
+    slug: shrimad-bhagavatam-11-21-2
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.35
+    slug: bhagavad-gita-3-35
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
@@ -55,9 +73,8 @@ links:
 
 
 
-[^_ftn1]: *све све ‘дхика̄ре йа̄ ниш̣т̣ха са гун̣ах̣ парикӣртитах̣ / випарйайас ту дош̣ах̣ сйа̄д убхайор эш̣а ниш́чайах̣* — «Не подлежит сомнению, что неукоснительное выполнение человеком обязанностей, соответствующих его положению, считается истинной добродетелью, тогда как уклонение от них является грехом» («Шримад-Бхагаватам», 11.21.2).
+[^_ftn1]: [Шримад-Бхагаватам 11.21.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-21-2.md)
 
-[^_ftn2]: «Лучше следовать своему предназначению — пусть даже несовершенно, нежели идеально исполнять чужой долг. Даже смерть может быть благом при исполнении своего предназначения, тогда как следовать по чужому пути опасно» (Бхагавад-гита, 3.35).
+[^_ftn2]: [Бхагавад-гита 3.35](../notes/bhagavad-gita/bhagavad-gita-3-35.md)
 
-[^_ftn3]: «Бхагавад-гита», 18.66.
-
+[^_ftn3]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)

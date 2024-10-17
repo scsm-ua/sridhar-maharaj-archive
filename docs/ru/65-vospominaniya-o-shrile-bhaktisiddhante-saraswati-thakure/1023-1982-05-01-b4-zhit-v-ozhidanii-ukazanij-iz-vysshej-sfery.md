@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.3"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
@@ -40,5 +44,4 @@ links:
 
 
 
-[^_ftn1]: «Святое Имя — это чинтамани, божественный философский камень, оно неотлично от Тебя! По Своей милости ко всем душам Ты распространил Свое Святое Имя по всему мирозданию!» (Шрила Бхактивинод Тхакур, «Шри Шикшаштакам» (цикл песен), 2.3).
-
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.3](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-3.md)

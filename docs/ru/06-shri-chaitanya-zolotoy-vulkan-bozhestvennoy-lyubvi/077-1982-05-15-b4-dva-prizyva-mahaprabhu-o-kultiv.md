@@ -10,6 +10,20 @@ tags:
     slug: istoriya
   - title: история о знании Тамильского языка
     slug: istoriya-o-znanii-tamilskogo-yazyka
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.38
+    slug: bhagavad-gita-2-38
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 26
+    slug: shri-chajtanya-bhagavata-madhya-khanda-26
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25
+    slug: shri-chajtanya-bhagavata-madhya-khanda-28-25
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3
@@ -81,9 +95,8 @@ links:
 
 
 
-[^_ftn1]: *сукха-духкхе саме кр̣тва̄, ла̄бха̄ла̄бхау джайа̄джайау / тато йуддха̄йа йуджйасва, наивам̇ па̄пам ава̄псйаси* — «Сражайся, рассматривая равно счастье и страдание, приобретение и потерю, победу и поражение! И грех не затронет тебя!» («Бхагавад-гита», 2.38).
+[^_ftn1]: [Бхагавад-гита 2.38](../notes/bhagavad-gita/bhagavad-gita-2-38.md)
 
-[^_ftn2]: «Друзья мои, вместе с этой гирляндой Я дарю каждому из вас совет: призывайте Имя Кришны! Когда вы едите, когда отдыхаете, когда бодрствуете, всегда призывайте Имя Кришны. Это Мой последний совет, Мое искреннее обращение ко всем вам: призывайте Имя Кришны. Чем бы вы ни были заняты, всегда думайте о Кришне и громко призывайте Его Имя. Это Мой последний призыв к вам: просто посвящайте все свое время призыванию Имени Кришны. Любыми средствами, изо всех сил пытайтесь прийти к Кришне. Не существует иной необходимости. Это призыв Моего сердца, обращенный к вам, о, друзья Мои». («Чайтанья Бхагавата», Мадхья, 28.25. 26)?
+[^_ftn2]: [«Шри Чайтанья Бхагавата», Мадхья-кханда 28.25](../notes/shri-chajtanya-bhagavata-madhya-khanda/shri-chajtanya-bhagavata-madhya-khanda-28-25.md)
 
-[^_ftn3]: «Чайтанья-чаритамрита», Мадхья-лила, 7.128.
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)

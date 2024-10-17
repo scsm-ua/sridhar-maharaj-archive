@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.31
+    slug: bhagavad-gita-9-31
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.mp3
@@ -126,11 +134,10 @@ links:
 
 
 
-[^_ftn1]: *ом̇ аджн̃а̄на-тимира̄ндхасйа джн̃а̄на̄н̃джана-ш́ала̄кайа̄ / чакш̣ур унмилитам̇ йена тасмаи ш́рӣ-гураве намах̣* — «Умастив мои глаза целительным бальзамом самбандха-гьяны, правильного восприятия окружающего мира, духовный учитель пробудил мое внутреннее видение и вывел меня из тьмы невежества, подарив надежду. В глубоком почтении я склоняюсь перед Шри Гурудевом».
+[^_ftn1]: [*ом̇ аджн̃а̄на-тимира̄ндхасйа джн̃а̄на̄н̃джана-ш́ала̄кайа̄ / чакш̣ур унмилитам̇ йена тасмаи ш́рӣ-гураве намах̣*](../notes/shloka/om-adzhnana-timirandhasja-dzhnanandzhana-shalakaja.md)
 
 [^_ftn2]: Шри Чайтанья Махапрабху.
 
-[^_ftn3]: См. «Шримад-Бхагаватам», 1.1.1
+[^_ftn3]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
-[^_ftn4]: См. Бхагавад-гита, 9.31.
-
+[^_ftn4]: [Бхагавад-гита 9.31](../notes/bhagavad-gita/bhagavad-gita-9-31.md)

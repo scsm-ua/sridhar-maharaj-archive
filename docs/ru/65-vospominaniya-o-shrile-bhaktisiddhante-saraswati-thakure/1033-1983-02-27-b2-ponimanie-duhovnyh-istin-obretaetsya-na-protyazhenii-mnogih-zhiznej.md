@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: «Гитамала», Ямуна-бхававали
+    slug: gitamala-yamuna-bhavavali
+  - title: «Гитамала», Ямуна-бхававали 19
+    slug: gitamala-yamuna-bhavavali-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
@@ -43,5 +47,4 @@ links:
 
 
 
-[^_ftn1]: Шрила Бхактивинод Тхакур, «Гитамала», Ямуна-бхававали, 19.
-
+[^_ftn1]: [«Гитамала», Ямуна-бхававали 19](../notes/gitamala-yamuna-bhavavali/gitamala-yamuna-bhavavali-19.md)

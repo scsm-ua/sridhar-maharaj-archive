@@ -12,6 +12,14 @@ tags:
     slug: mahaprabhu
   - title: Чайтанья-лила
     slug: chajtanya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.272
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-272
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.276
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-276
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3
@@ -124,9 +132,8 @@ links:
 
 
 
-[^_ftn1]: «Деяния Господа Кришны — квинтэссенция всего нектара, что струится в сотнях рек во всех направлениях. Деяния же Шри Чайтаньи Махапрабху — вечное озеро. Нашему уму дается такой совет: позволить ему плавать, словно лебедю, по водам этого трансцендентного озера» («Шри Чайтанья-чаритамрита», Мадхья-лила, 25.271).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.271](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-271.md)
 
-[^_ftn2]: Шри Чайтанья-чаритамрита, Мадхья-лила, 25.272.
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.272](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-272.md)
 
-[^_ftn3]: Шри Чайтанья-чаритамрита, Мадхья-лила, 25.276.
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.276](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-276.md)

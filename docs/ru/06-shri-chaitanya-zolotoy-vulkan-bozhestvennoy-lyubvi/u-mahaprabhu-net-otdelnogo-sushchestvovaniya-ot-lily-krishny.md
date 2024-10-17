@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3
@@ -40,5 +44,4 @@ links:
 
 
 
-[^_ftn1]: «Игры Господа Кришны — квинтэссенция духовного блаженства, и этот нектар течет в виде сотен рек по всем сторонам света. Игры Шри Чайтаньи Махапрабху — это вечное вместилище нектара, так пусть же ум мой всегда плавает, словно лебедь, в этом божественном озере» («Шри Чайтанья-чаритамрита», Мадхья-лила, 25.271).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.271](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-271.md)

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
@@ -49,5 +53,4 @@ links:
 
 
 
-[^_ftn1]: *джӣвера ’сварӯпа’ хайа — кр̣ш̣н̣ера ’нитйа-да̄са’ / кр̣ш̣н̣ера ’тат̣астха̄-ш́акти’ ’бхеда̄бхеда прака̄ш́а’* — «Естественное предназначение живого существа — вечно служить Кришне, ибо живое существо относится к пограничной энергии Кришны» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.108).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.108](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-108.md)

@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 410
+    slug: padyavali-410
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.116
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-116
+  - title: Шри Гита-Говинда
+    slug: shri-gita-govinda
+  - title: Шри Гита-Говинда 3.1.2
+    slug: shri-gita-govinda-3-1-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
@@ -48,11 +60,10 @@ links:
 
 
 
-[^_ftn1]: Из «Падьявали» (410) Шрилы Рупы Госвами.
+[^_ftn1]: [Падьявали 410](../notes/padyavali/padyavali-410.md)
 
-[^_ftn2]: «Страсть Кришны не могли утолить даже сотни тысяч *гопи*, поэтому Он принялся разыскивать Шримати Радхарани. Из этого можно понять, насколько исключительны Ее духовные добродетели» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.116).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.116](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-116.md)
 
-[^_ftn3]: «Шри Гита-Говинда», (3.1.2).
+[^_ftn3]: [Шри Гита-Говинда 3.1.2](../notes/shri-gita-govinda/shri-gita-govinda-3-1-2.md)
 
-[^_ftn4]: *ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге* — «Мы будем поклоняться рага-марге, безраздельной и самоотверженной преданности Богу, как идеалу, с глубочайшим почтением, всегда совершая киртан в обществе истинных преданных» (Шрила Прабхупада Сарасвати Тхакур).
-
+[^_ftn4]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)

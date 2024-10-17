@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
@@ -51,7 +67,6 @@ links:
 
 [^_ftn1]: Беспричинная и необратимая природа *бхакти*.
 
-[^_ftn2]: «О мой друг, тот, кто занят благой деятельностью, никогда не попадает в беду» (Бхагавад-гита, 6.40).
+[^_ftn2]: [Бхагавад-гита 6.40](../notes/bhagavad-gita/bhagavad-gita-6-40.md)
 
-[^_ftn3]: «Искренне надеяться на Твою милость», («Шримад-Бхагаватам», 10.14.8).
-
+[^_ftn3]: [Шримад-Бхагаватам 10.14.8](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-14-8.md)

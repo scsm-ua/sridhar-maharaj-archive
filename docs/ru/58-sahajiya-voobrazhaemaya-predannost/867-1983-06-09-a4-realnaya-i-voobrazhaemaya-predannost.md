@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.06"
     slug: 1983-06
+  - title: Даинйа Прартхана Гити
+    slug: dainja-prarthana-giti
+  - title: Даинйа Прартхана Гити 1
+    slug: dainja-prarthana-giti-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
@@ -62,5 +66,4 @@ links:
 
 
 
-[^_ftn1]: «Когда же, наконец, Шри Чайтанья одарит меня Своей милостью? Когда же обрету я приют в тени святых стоп вайшнавов?» (Шрила Бхактивинод Тхакур, «Даинйа Прартхана Гити», 1).
-
+[^_ftn1]: [Даинйа Прартхана Гити 1](../notes/dainja-prarthana-giti/dainja-prarthana-giti-1.md)

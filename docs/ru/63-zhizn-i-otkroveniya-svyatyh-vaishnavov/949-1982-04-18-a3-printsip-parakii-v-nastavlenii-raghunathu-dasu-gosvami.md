@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.238
+    slug: shri-chajtanya-charitamrita-madhya-lila-16-238
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/949_1982.04.18.A3_SridharMj_Princip_parakii_v_nastavlenii_Raghunathu_Dasu_Gosvami.mp3
@@ -54,5 +58,4 @@ links:
 
 
 
-[^_ftn1]: «Не выставляй напоказ свою преданность Богу. Показное отречение от мира никому не нужно. Пока не пришел твой срок, наслаждайся материальным миром, как полагается, но не привязывайся к нему» («Шри Чайтанья-чаритамрита», Мадхья-лила, 16.238).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 16.238](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-16-238.md)

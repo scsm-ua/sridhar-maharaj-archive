@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3
@@ -40,7 +48,6 @@ links:
 
 
 
-[^_ftn1]: *майа̄ татам идам̇ сарвам̇, джагад авйакта-мӯртина̄ / мат-стха̄ни сарва-бхӯта̄ни, на ча̄хам̇ теш̣в авастхитах̣* — «Знай, что Я в Своей непроявленной форме пронизываю все творение. Все живые существа пребывают во Мне, но Я — вне всего» (Бхагавад-гита, 9.4).
+[^_ftn1]: [Бхагавад-гита 9.4](../notes/bhagavad-gita/bhagavad-gita-9-4.md)
 
-[^_ftn2]: «Если обладатель миллионов коров, исполняющих любые желания, потеряет одну козу, он едва ли заметит это. Кришна в полной мере обладает шестью достояниями. Поэтому, даже если вся материальная энергия будет уничтожена, что Он потеряет?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 15.179).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 15.179](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-15-179.md)

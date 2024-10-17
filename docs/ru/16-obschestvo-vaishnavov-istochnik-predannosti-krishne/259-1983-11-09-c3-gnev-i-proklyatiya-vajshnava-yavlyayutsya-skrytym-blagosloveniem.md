@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.30
+    slug: shri-chajtanya-charitamrita-adi-lila-1-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3
@@ -82,9 +90,8 @@ links:
 
 
 
-[^_ftn1]: «Шримад-Бхагаватам», 1.1.2
+[^_ftn1]: [Шримад-Бхагаватам 1.1.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-2.md)
 
 [^_ftn2]: Вам повезло родиться людьми, но вы заживо хороните себя (бенгали).
 
-[^_ftn3]: *саба ш́рота̄-ваиш̣н̣авере кари’ намаска̄ра, эи саба ш́локера кари артха-вича̄ра* — [Кришнадас Кавирадж Госвами:] «Я в почтении склоняюсь перед моими читателями-вайшнавами и приступаю к толкованию этих стихов» («Шри Чайтанья-чаритамрита», Ади-лила, 1.30).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.30](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-30.md)

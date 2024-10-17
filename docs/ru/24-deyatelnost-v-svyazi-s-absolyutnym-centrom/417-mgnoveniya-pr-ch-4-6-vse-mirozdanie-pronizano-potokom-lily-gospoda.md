@@ -6,6 +6,10 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.61
+    slug: bhagavad-gita-18-61
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
@@ -36,5 +40,4 @@ links:
 
 
 
-[^_ftn1]: «Арджуна! Всевышний пребывает в сердцах всех живых существ. По Его воле они перемещаются по кругу в механизме материального мира, сотворенном Его энергией иллюзии, *майей*». (Бхагавад-гита, 18.61).
-
+[^_ftn1]: [Бхагавад-гита 18.61](../notes/bhagavad-gita/bhagavad-gita-18-61.md)

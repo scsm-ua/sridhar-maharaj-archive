@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-291
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3
@@ -58,9 +72,8 @@ links:
 
 [^_ftn1]: Состоящий из игр.
 
-[^_ftn2]: *ш́уддха-према-сукха-синдху, па̄и та̄ра эка бинду, сеи бинду джагат д̣уба̄йа / кахиба̄ра йогйа найа, татха̄пи ба̄уле кайа, кахиле ва̄ кеба̄ па̄тийа̄йа* — «Бескорыстная любовь к Кришне подобна океану счастья. Даже одной капли из этого океана достаточно, чтобы затопить весь мир. Говорить вслух о такой любви к Богу не подобает, однако безумец не может молчать. В то же время, когда он говорит, никто ему не верит» («Чайтанья-чаритамрита», Мадхья, 2.49).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.49](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-49.md)
 
-[^_ftn3]: «Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291.
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.291](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-291.md)
 
-[^_ftn4]: «То, что день для йога, владеющего собой, то — ночь для живых существ, пребывающих в иллюзии. То, что день для людей, склонных к мирским удовольствиям, то — ночь для мудреца, обладающего духовным восприятием реальности» (Бхагавад-гита, 2.69).
-
+[^_ftn4]: [Бхагавад-гита 2.69](../notes/bhagavad-gita/bhagavad-gita-2-69.md)

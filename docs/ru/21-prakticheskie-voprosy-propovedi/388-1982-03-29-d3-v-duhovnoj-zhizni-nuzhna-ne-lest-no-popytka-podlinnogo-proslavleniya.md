@@ -8,6 +8,10 @@ tags:
     slug: 1982-03
   - title: Проповедь
     slug: propoved
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.71
+    slug: shri-chajtanya-bhagavata-adi-khanda-1-71
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3
@@ -65,5 +69,4 @@ links:
 
 
 
-[^_ftn1]: *ла̄г бали’ чали’ йа̄йа синдху тариба̄ре / йаш́ера синдху на̄ дейа кӯла, адхика адхика ба̄д̣е* — «Шри Ананта вечно стремится достичь берега океана славы Кришны, но не достигает желаемого, посокльку этот океан постоянно расширяется» («Шри Чайтанья Бхагавата», Ади-кханда, 1.71).
-
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Ади-кханда 1.71](../notes/shri-chajtanya-bhagavata-adi-khanda/shri-chajtanya-bhagavata-adi-khanda-1-71.md)

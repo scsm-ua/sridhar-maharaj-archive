@@ -8,6 +8,12 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.14
+    slug: bhagavad-gita-13-14
+  - title: Бхагавад-гита 9.29
+    slug: bhagavad-gita-9-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3
@@ -75,7 +81,6 @@ links:
 
 
 
-[^_ftn1]: «Руками, стопами, глазами, головой, ртом и ушами, пребывающими везде, Он пронизывает всю Вселенную» (Бхагавад-гита, 13.14).
+[^_ftn1]: [Бхагавад-гита 13.14](../notes/bhagavad-gita/bhagavad-gita-13-14.md)
 
-[^_ftn2]: *само ’хам̇ сарва-бхӯтеш̣у на ме двеш̣йо ’сти на прийах̣ / йе бхаджанти ту ма̄м̇ бхактйа̄ майи те теш̣у ча̄пй ахам* — «Я равно беспристрастен ко всем — к друзьям и к врагам. Но тем, кто с любовью посвящает себя Мне, Я отвечаю взаимностью» («Бхагавад-гита», 9.29).
-
+[^_ftn2]: [Бхагавад-гита 9.29](../notes/bhagavad-gita/bhagavad-gita-9-29.md)

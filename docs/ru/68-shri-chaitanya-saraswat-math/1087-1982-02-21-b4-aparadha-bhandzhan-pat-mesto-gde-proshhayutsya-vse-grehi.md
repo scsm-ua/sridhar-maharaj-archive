@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
@@ -83,5 +87,4 @@ links:
 
 
 
-[^_ftn1]: «Так благодаря Шри Чайтанье Махапрабху обрели освобождение и покрыли себя славой все жители Кулии: и грешники, и обычные люди, и святые» («Шри Чайтанья-Бхагавата», Антья-кханда, 3.541).
-
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Антья-кханда 3.541](../notes/shri-chajtanya-bhagavata-antya-khanda/shri-chajtanya-bhagavata-antya-khanda-3-541.md)

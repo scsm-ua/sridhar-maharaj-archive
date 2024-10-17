@@ -8,6 +8,20 @@ tags:
     slug: 1987-00
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
@@ -75,9 +89,8 @@ links:
 
 
 
-[^_ftn1]: «Деяния Господа Кришны — квинтэссенция всего нектара, что струится в сотнях рек во всех направлениях. Деяния же Шри Чайтаньи Махапрабху — вечное озеро. Нашему уму дается такой совет: позволить ему плавать, словно лебедю, по водам этого трансцендентного озера» («Шри Чайтанья-чаритамрита», Мадхья-лила, 25.271).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.271](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-271.md)
 
-[^_ftn2]: «Любовные отношения Шри Радхи и Шри Кришны абсолютно духовны и представляют собой проявление внутренней энергии Господа — энергии наслаждения. Хотя Радха и Кришна по Своей сути одно целое, Они навечно предстали в двух образах. Теперь эти божественные Личности воссоединились в образе Шри Кришны Чайтаньи. Я склоняюсь перед Ним, ибо Он — Сам Кришна, который проникся настроением Шримати Радхарани и обрел цвет Ее тела» («Шри Чайтанья-чаритамрита», Ади-лила, 1.5).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.5](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-5.md)
 
-[^_ftn3]: «Как в прохладных лунных лучах расцветает красный лотос…» (Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 1).
-
+[^_ftn3]: [Шри Шикшаштакам 1](../notes/shri-shikshashtakam/shri-shikshashtakam-1.md)

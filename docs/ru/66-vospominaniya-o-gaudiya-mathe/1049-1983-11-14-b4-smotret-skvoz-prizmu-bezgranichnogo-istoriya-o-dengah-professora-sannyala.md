@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.30
+    slug: bhagavad-gita-6-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.45
+    slug: shrimad-bhagavatam-11-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1049_1983.11.14.B4_SridharMj_Smotret_skvoz_prizmu_Bezgranichnogo_Istorija_o_dengah_professora_Sannjala.mp3
@@ -87,7 +103,6 @@ links:
 
 
 
-[^_ftn1]: «Кто видит Меня во всем, а все сущее — во Мне, тот всегда помнит обо Мне, и Я никогда не забываю о нем» (Бхагавад-гита, 6.30).
+[^_ftn1]: [Бхагавад-гита 6.30](../notes/bhagavad-gita/bhagavad-gita-6-30.md)
 
-[^_ftn2]: «Возвышенный преданный видит во всем сущем Душу всех душ, Верховную Личность Бога, Шри Кришну. Следовательно, он видит все связанным со Всевышним и понимает, что все сущее вечно пребывает в Господе» («Шримад-Бхагаватам», 11.2.45).
-
+[^_ftn2]: [Шримад-Бхагаватам 11.2.45](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-45.md)

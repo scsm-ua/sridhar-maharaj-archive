@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
+    slug: shri-chajtanya-charitamrita-adi-lila-17-21
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.76
+    slug: shri-chajtanya-charitamrita-adi-lila-7-76
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-242
+  - title: Брихан-нарадия-пурана
+    slug: brihan-naradiya-purana
+  - title: Брихан-нарадия-пурана 38.126
+    slug: brihan-naradiya-purana-38-126
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
@@ -33,7 +51,6 @@ links:
 
 
 
-[^_ftn1]: *харер на̄ма харер на̄ма харер на̄маива кевалам / калау на̄стй эва на̄стй эва на̄стй эва гатир анйатха* — «Только Имя Хари, Имя Хари, Имя Хари. Воистину в эпоху Кали нет, нет, нет иного пути» («Брихан-Нарадия-пурана», 38.126, «Шри Чайтанья-чаритамрита»,Ади-лила, 7.76; 17.21; Мадхья-лила, 6.242)).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 6.242](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-6-242.md)
 
-[^_ftn2]: *ш́рӣ-кр̣ш̣н̣а-чаитанйа прабху джӣве дойа̄ кори’ / свапа̄рш̣ада свӣйа дха̄ма саха аватари* — «Господь Шри Кришна Чайтанья, милостивый к душам, вместе со Своими спутниками и обителью Ты снизошел в этот мир» (Шрила Бхактивинод Тхакур, «Шаранагати», Благоприятное посвящение, 1).
-
+[^_ftn2]: [Шаранагати 1](../notes/sharanagati/sharanagati-1.md)

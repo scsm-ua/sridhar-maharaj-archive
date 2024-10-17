@@ -10,6 +10,12 @@ tags:
     slug: narasimha
   - title: Прахлада
     slug: prahlada
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.32
+    slug: bhagavad-gita-9-32
+  - title: Бхагавад-гита 9.33
+    slug: bhagavad-gita-9-33
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/156_1982.05.06.B2_SridharMj_Nrisimhadev_i_proshlaja_zhizn_Prahlady_Maharadzha.mp3
@@ -88,7 +94,6 @@ links:
 
 
 
-[^_ftn1]: «Сын Притхи, даже люди невысокого происхождения — женщины, торговцы и простые труженики — достигают высшей цели жизни, принимая прибежище во Мне» (Бхагавад-гита, 9.32).
+[^_ftn1]: [Бхагавад-гита 9.32](../notes/bhagavad-gita/bhagavad-gita-9-32.md)
 
-[^_ftn2]: «Когда после долгих скитаний в мире иллюзий душа получает человеческое тело, у нее появляется возможность сознательно служить Мне» (Бхагавад-гита, 9.33).
-
+[^_ftn2]: [Бхагавад-гита 9.33](../notes/bhagavad-gita/bhagavad-gita-9-33.md)

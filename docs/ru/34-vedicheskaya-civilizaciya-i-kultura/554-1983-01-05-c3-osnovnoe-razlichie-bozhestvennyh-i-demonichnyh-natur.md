@@ -8,6 +8,18 @@ tags:
     slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
@@ -64,5 +76,4 @@ links:
 
 
 
-[^_ftn1]: *сарва-дхарма̄н паритйаджйа, ма̄м экам̇ ш́аран̣ам̇ враджа / ахам̇ тва̄м̇ сарва-па̄пебхйо, мокшайишйа̄ми ма̄ ш́учах̣* — «Оставь все виды долга и полностью предайся Мне. Я освобожу тебя от всех грехов. Не скорби ни о чем» (Бхагавад-гита, 18.66).
-
+[^_ftn1]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)

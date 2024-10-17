@@ -10,6 +10,16 @@ tags:
     slug: varnashrama-dharma
   - title: Дхарма
     slug: dharma
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+  - title: Кришна-карнамрита 107
+    slug: krishna-karnamrita-107
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.31
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-31
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-117
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3
@@ -56,9 +66,8 @@ links:
 
 
 
-[^_ftn1]: «О всеведущий Господь! Если бхакти к Тебе будет устойчивой, я беспрепятственно достигну этого благородного юного образа. Олицетворенное освобождение служит мне со сложенными ладонями, а цели дхарма, артха и кама терпеливо ждут, чтобы служить мне» («Кришна-карнамрита», 107).
+[^_ftn1]: [Кришна-карнамрита 107](../notes/krishna-karnamrita/krishna-karnamrita-107.md)
 
-[^_ftn2]: «Кришна сравнивается с солнечным светом, а майя — с тьмой. Там, где светит солнце, нет тьмы. Как только человек обращается к сознанию Кришны, тьма иллюзии [влияние внешней энергии] мгновенно рассеивается» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.31).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.31](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-31.md)
 
-[^_ftn3]: «Порой вместо солнца можно видеть его отражение, однако этот свет солнца не существует независимо от солнца» («Шри Чайтанья-чаритамрита», Мадхья-лила, 25.117).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.117](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-117.md)

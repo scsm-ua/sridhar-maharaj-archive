@@ -8,6 +8,10 @@ tags:
     slug: 1983-01
   - title: Посвящение
     slug: posvyashhenie
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 283
+    slug: bhakti-sandarbha-283
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/323_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3
@@ -44,5 +48,4 @@ links:
 
 
 
-[^_ftn1]: «Благодаря *дикше* в человеке постепенно исчезает тяга к материальным наслаждениям и просыпается интерес к духовной жизни» (Шрила Джива Госвами, «Бхакти-сандарбха», 283).
-
+[^_ftn1]: [Бхакти-сандарбха 283](../notes/bhakti-sandarbha/bhakti-sandarbha-283.md)

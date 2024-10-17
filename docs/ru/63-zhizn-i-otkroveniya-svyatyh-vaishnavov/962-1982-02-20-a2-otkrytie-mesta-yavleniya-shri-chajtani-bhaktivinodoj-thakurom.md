@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 14.89
+    slug: shri-chajtanya-charitamrita-adi-lila-14-89
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
@@ -71,5 +75,4 @@ links:
 
 [^_ftn1]: Обман безбожников.
 
-[^_ftn2]: Джаганнатха Мишра ответил: «Даже если мой сын — не обычный человек, а Сам Нараяна, все равно обязанность отца — наставлять своего сына» («Шри Чайтанья-чаритамрита», Ади-лила, 14.89).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 14.89](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-14-89.md)

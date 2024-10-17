@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.6
+    slug: shrimad-bhagavatam-1-2-6
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-163
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
@@ -94,11 +108,10 @@ links:
 
 
 
-[^_ftn1]: *Ахаитукӣ* — «беспричинное»; *апратихата̄* — «непрерывное» (см. «Шримад-Бхагаватам», 1.2.6).
+[^_ftn1]: [Шримад-Бхагаватам 1.2.6](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-6.md)
 
-[^_ftn2]: «Любовные взаимоотношения подобны движениям змеи» («Шри Чайтанья-чаритамрита», Мадхья-лила, 14.163).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 14.163](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-14-163.md)
 
-[^_ftn3]: *Свара̄т̣* — «полностью независимый» (см. «Шримад-Бхагаватам», 1.1.1).
+[^_ftn3]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
-[^_ftn4]: «…Великие мудрецы и боги введены Господом в заблуждение, подобно тому, как человека сбивает с толку обманчивый образ воды в огне или суши на воде. Лишь благодаря Ему материальные вселенные, временно проявленные взаимодействием трех *гун* природы, кажутся истинными, хотя в действительности они нереальны» («Шримад-Бхагаватам», 1.1.1).
-
+[^_ftn4]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)

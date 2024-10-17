@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 2.49
+    slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
@@ -71,5 +75,4 @@ links:
 
 
 
-[^_ftn1]: *кулам̇ павитрам̇ джананӣ кр̣та̄ртха̄, васундхара̄ ва̄ васатиш́ ча дханйа̄ / нр̣тйанти сварге питаро ’пи теш́а̄м̇, йеш̣а̄м̇ куле ваиш̣н̣ава-на̄мадхейам* — «Где бы ни родился вайшнав, его семья, мать, город и дом, где он появился на свет, очищаются от греха, а его предки радостно танцуют в раю» (Упоминается в комментарии к стиху «Шри Чайтанья Бхагаваты», Ади-кханда, 2.49).
-
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Ади-кханда 2.49](../notes/shri-chajtanya-bhagavata-adi-khanda/shri-chajtanya-bhagavata-adi-khanda-2-49.md)

@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.37–38
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-37-38
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
+    slug: shri-chajtanya-charitamrita-antya-lila-17-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
@@ -80,11 +94,10 @@ links:
 
 
 
-[^_ftn1]: *ка̄ха̄н̇ мора пра̄н̣а-на̄тха муралӣ-вадана / ка̄ха̄н̇ карон̇ ка̄ха̄н̇ па̄н̇ враджендра-нандана* — Шри Чайтанья Махапрабху говорил: «Куда исчез владыка Моей жизни, играющий на флейте? Что Мне теперь делать и где искать сына Махараджи Нанды?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 2.15).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.15](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-15.md)
 
-[^_ftn2]: «Настало время вопрошать о Всевышнем» («Веданта-сутра», 1.1.1).
+[^_ftn2]: [Веданта-сутра 1.1.1](../notes/vedanta-sutra/vedanta-sutra-1-1-1.md)
 
-[^_ftn3]: «Стоит Мне взглянуть на лицо Кришны и Его флейту, даже во сне, как Меня пленяют два врага: блаженство и бог любви. Они полностью завладевают Мной, и Я не могу вдоволь насмотреться на Кришну. Если Мне посчастливится снова увидеть Кришну, я стану поклоняться этим секундам, минутам и часам, поднося им цветочные гирлянды, сандаловую пасту и убирая их драгоценными камнями и украшениями» («Шри Чайтанья-чаритамрита», Мадхья-лила, 2.37-38).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.37–38](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-37-38.md)
 
-[^_ftn4]: «Шри Чайтанья-чаритамрита», Антья-лила, 17.27.
-
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Антья-лила 17.27](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-17-27.md)

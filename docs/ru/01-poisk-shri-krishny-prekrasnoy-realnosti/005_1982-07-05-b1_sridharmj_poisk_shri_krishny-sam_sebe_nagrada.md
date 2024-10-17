@@ -10,6 +10,14 @@ tags:
     slug: with-english-audio
   - title: with English text
     slug: with-english-text
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 8
+    slug: shri-shikshashtakam-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
@@ -102,7 +110,6 @@ links:
 
 
 
-[^ftnref1]: См. «Бхакти-расамрита-синдху», 1.1.11.
+[^ftnref1]: [Бхакти-расамрита-синдху 1.1.11](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11.md)
 
-[^ftnref2]: «Сожмет ли Меня Кришна, Мой возлюбленный, в Своих сладостных объятиях или растопчет Меня Своими стопами, или же будет терзать Меня, держась от Меня на расстоянии, при этом радуя Своих возлюбленных, как Он сам того пожелает, все равно лишь Он и никто другой — Господь Моей жизни» (Всевышний Господь Шри Чайтаньячандра, Шри Шикшаштакам, 8).
-
+[^ftnref2]: [Шри Шикшаштакам 8](../notes/shri-shikshashtakam/shri-shikshashtakam-8.md)

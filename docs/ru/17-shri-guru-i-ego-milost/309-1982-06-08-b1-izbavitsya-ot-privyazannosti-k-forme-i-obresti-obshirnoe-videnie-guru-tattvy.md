@@ -8,6 +8,10 @@ tags:
     slug: 1982-06
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Враджа-виласа-става
+    slug: vradzha-vilasa-stava
+  - title: Враджа-виласа-става 102
+    slug: vradzha-vilasa-stava-102
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3
@@ -48,5 +52,4 @@ links:
 
 
 
-[^_ftn1]: «Я горячо поклоняюсь всем живым существам Враджи, включая траву, кусты, насекомых и птиц, которые исполнены трансцендентного блаженства. Они очень дороги Шри Мукунде и участвуют в Его играх» (Шрила Рагхунатх Дас Госвами «Стававали» («Враджа-виласа-става», 102)).
-
+[^_ftn1]: [Враджа-виласа-става 102](../notes/vradzha-vilasa-stava/vradzha-vilasa-stava-102.md)

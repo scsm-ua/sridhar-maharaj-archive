@@ -8,6 +8,18 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3
@@ -42,7 +54,6 @@ links:
 
 
 
-[^_ftn1]: «Земля, вода, огонь, воздух, эфир — все на Вайкунтхе духовно. Там нет материальных стихий» («Шри Чайтанья-чаритамрита», Ади-лила, 5.53).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.53](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-53.md)
 
-[^_ftn2]: *анйа̄бхила̄шита̄ ш́ӯнйам̇, джн̃а̄на-карма̄дй ана̄вр̣там / а̄нукӯлйена кр̣ш̣н̣ану-шӣланам̇, бхактир уттама̄* — «Наивысшая преданность удовлетворяет трансцендентные желания Господа Кришны и свободна от внешних покровов каких бы то ни было устремлений, основанных на деятельности или знании» («Бхакти-расамрита-синдху», 1.1.11; цитируется в «Шри Чайтанья-чаритамрите» (Мадхья-лила, 19.167)).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.167](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-167.md)

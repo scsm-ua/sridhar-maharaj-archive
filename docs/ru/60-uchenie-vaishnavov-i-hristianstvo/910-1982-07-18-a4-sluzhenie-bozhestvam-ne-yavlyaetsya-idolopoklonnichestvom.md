@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 410
+    slug: padyavali-410
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
@@ -62,5 +66,4 @@ links:
 
 
 
-[^_ftn1]: Из «Падьявали» (410) Шрилы Рупы Госвами.
-
+[^_ftn1]: [Падьявали 410](../notes/padyavali/padyavali-410.md)

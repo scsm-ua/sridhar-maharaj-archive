@@ -8,6 +8,10 @@ tags:
     slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/287_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3
@@ -86,5 +90,4 @@ links:
 
 
 
-[^_ftn1]: *Ӣш́а̄ва̄сйам идам̇ сарвам̇* — «Все находится во власти Господа» («Шри Ишопанишад», 1).
-
+[^_ftn1]: [Шри Ишопанишад 1](../notes/shri-ishopanishad/shri-ishopanishad-1.md)

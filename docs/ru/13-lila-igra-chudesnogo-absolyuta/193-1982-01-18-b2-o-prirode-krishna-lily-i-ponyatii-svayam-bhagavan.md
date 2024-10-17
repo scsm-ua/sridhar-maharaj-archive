@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Нама-санкиртан
+    slug: nama-sankirtan
+  - title: Нама-санкиртан 8
+    slug: nama-sankirtan-8
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.461
+    slug: laghu-bhagavatamrita-1-5-461
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
@@ -99,9 +115,8 @@ links:
 
 
 
-[^_ftn1]: Госвами Вриндавана объяснили «…вечные игры Шри Радхи и Шри Кришны» (Шрила Нароттам Дас Тхакур. «Нама-санкиртан», стих 8).
+[^_ftn1]: [Нама-санкиртан 8](../notes/nama-sankirtan/nama-sankirtan-8.md)
 
-[^_ftn2]: Шри Кришна Чайтанья Махапрабху, «вместе со Своими спутниками и обителью Ты снизошел в этот мир» (Шрила Бхактивинод Тхакур. «Шаранагати. Благоприятное посвящение», стих 1).
+[^_ftn2]: [Шаранагати 1](../notes/sharanagati/sharanagati-1.md)
 
-[^_ftn3]: «[Кришна, сын Нанды Махараджа] никогда не покидает Вриндавана» («Лагху-бхагаватамрита», 1.5.461; стих также цитируется в «Шри Чайтанья-чаритамрите», Антья-лила, 1.67).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Антья-лила 1.67](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-1-67.md)

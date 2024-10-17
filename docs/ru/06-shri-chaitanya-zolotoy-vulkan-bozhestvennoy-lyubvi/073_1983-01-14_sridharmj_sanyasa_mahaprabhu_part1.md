@@ -12,6 +12,16 @@ tags:
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.165
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-165
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
@@ -191,9 +201,8 @@ links:
 
 
 
-[^_ftn1]: «Стоило Господу сделать шаг, как люди бросались собирать землю, которой коснулись Его лотосные стопы. Они собирали ее столько, что вся дорога покрылась ямами» («Шри Чайтанья-чаритамрита», Мадхья-лила, 1.165).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 1.165](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-1-165.md)
 
-[^_ftn2]: «Я склоняюсь перед Ним [Шри Чайтаньей Махапрабху], ибо Он — сам Кришна, который проникся настроением Шримати Радхарани и обрел цвет Ее тела» («Шри Чайтанья-чаритамрита», Ади-лила, 1.5).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.5](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-5.md)
 
-[^_ftn3]: «Любовные отношения Шри Радхи и Шри Кришны абсолютно духовны и представляют собой проявление внутренней энергии Господа — энергии наслаждения» («Шри Чайтанья-чаритамрита», Ади-лила, 1.5).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.5](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-5.md)

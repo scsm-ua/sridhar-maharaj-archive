@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
@@ -92,5 +104,4 @@ links:
 
 
 
-[^_ftn1]: «Мой дорогой Господь, тот, кто смиренно ждет, когда Ты прольешь на него Свою беспричинную милость, терпеливо снося все последствия своих прошлых ошибок и почитая Тебя в сердце, словами и телом, несомненно, достоин освобождения, которое становится его законным правом» («Шримад-Бхагаватам», 10.14.8; цитируется в «Шри Чайтанья-чаритамрите», (Мадхья-лила, 6.261; Антья-лила, 9.77)).
-
+[^_ftn1]: [Шримад-Бхагаватам 10.14.8](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-14-8.md)

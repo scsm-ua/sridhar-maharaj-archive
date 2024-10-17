@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Ачарья вандана
+    slug: acharya-vandana
+  - title: Ачарья вандана 18
+    slug: acharya-vandana-18
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
@@ -55,9 +67,8 @@ links:
 
 
 
-[^_ftn1]: *ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а, ш́унийа̄чхи са̄дху гуру мукхе / крш̣н̣а бхакти-самудой джанама сапхала хой, э бхава-са̄гара торе сукхе* — «Я слышал от великих святых и Гуру, что, внимая о качествах вайшнавских святых, достигнешь освобождения. Благодаря этому преданность Кришне растет, делая жизнь души совершенной, и душа пересекает пучину мирской иллюзии радостно и легко!» (Гопал Говинда Маханта, «А̄ча̄рйа вандана», 18).
+[^_ftn1]: [Ачарья вандана 18](../notes/acharya-vandana/acharya-vandana-18.md)
 
-[^_ftn2]: См. «Шримад-Бхагаватам», 1.1.2.
+[^_ftn2]: [Шримад-Бхагаватам 1.1.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-2.md)
 
-[^_ftn3]: *джага̄и ма̄дха̄и хаите мун̃и се па̄пиш̣т̣ха / пурӣш̣ера кӣт̣а хаите мун̃и се лагхишт̣ха* — «Я более грешен, чем Джагай и Мадхай, я хуже червей в испражнениях» («Шри Чайтанья-чаритамрита», Ади-лила, 5.205).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.205](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-205.md)

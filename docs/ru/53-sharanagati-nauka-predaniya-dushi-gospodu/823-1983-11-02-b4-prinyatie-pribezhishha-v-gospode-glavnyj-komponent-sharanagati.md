@@ -8,6 +8,14 @@ tags:
     slug: 1983-11
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Гоптритве варана
+    slug: goptritve-varana
+  - title: Гоптритве варана 4
+    slug: goptritve-varana-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
@@ -70,7 +78,6 @@ links:
 
 
 
-[^_ftn1]: «Шесть составляющих самопредания таковы: принятие того, что благоприятно для преданного служения, и отвержение того, что неблагоприятно; твердая вера в то, что Кришна непременно защитит; принятие Господа собственным хранителем и повелителем; полное самопредание и смирение» («Хари-бхакти-виласа», приводится также в «Шри Чайтанья-чаритамрите», Мадхья-лила, 22.100).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.100](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-100.md)
 
-[^_ftn2]: См. «Гоптритве варана», 4 Шрилы Бхактивинода Тхакура.
-
+[^_ftn2]: [Гоптритве варана 4](../notes/goptritve-varana/goptritve-varana-4.md)

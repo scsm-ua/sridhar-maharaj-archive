@@ -8,6 +8,10 @@ tags:
     slug: 1982-03
   - title: Дхарма
     slug: dharma
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3
@@ -47,5 +51,4 @@ links:
 
 
 
-[^_ftn1]: *видвадбхих̣ севитах̣ садбхир нитйам адвеш̣а ра̄гибхих̣ / хр̣дайена̄бхйану джн̃а̄то йо дхармас там̇ нибодхата* — «Узнайте ту *дхарму*, которая одобрена сердцем, которой следуют ученые, добродетельные, свободные от ненависти и страстей» (Ману-самхита, 2.1).
-
+[^_ftn1]: [Ману-самхита 2.1](../notes/manu-samhita/manu-samhita-2-1.md)

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.176
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-176
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.22
+    slug: bhakti-rasamrita-sindhu-1-2-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1005_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
@@ -74,5 +82,4 @@ links:
 
 
 
-[^_ftn1]: «Материальное желание наслаждаться этим миром и желание освободиться от материального рабства сравнивают с двумя ведьмами. Они преследуют человека, подобно злым духам. Пока эти две ведьмы находятся в его сердце, о каком трансцендентном блаженстве можно говорить? Пока в сердце есть эти ведьмы, трансцендентное блаженство преданного служения познать невозможно» («Бхакти-расамрита-синдху», 1.2.22; цитируется в Мадхья-лиле «Шри Чайтанья-чаритамриты» (19.176)).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.176](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-176.md)

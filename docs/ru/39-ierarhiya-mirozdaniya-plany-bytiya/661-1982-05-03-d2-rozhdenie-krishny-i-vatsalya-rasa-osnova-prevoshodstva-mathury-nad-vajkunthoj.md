@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-96
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 126
+    slug: padyavali-126
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3
@@ -42,5 +50,4 @@ links:
 
 
 
-[^_ftn1]: *ш́рутим апаре смр̣тим итаре, бха̄ратам анйе бхаджанту бхава-бхӣта̄х̣ / ахам иха нандам̇ ванде, йасйа̄линде парам̇ брахма* — «Те, кто страшится материального существования, поклоняются изначальным Ведам, шрути. Некоторые поклоняются смрити, а другие — “Махабхарате”. Я же всегда буду поклоняться отцу Кришны, Нанде Махарадже, во дворе дома которого играет сама Абсолютная Истина, Личность Бога» («Падьявали», 126; цитируется в «Шри Чайтанья-чаритамрите», Мадхья-лила, 19.96).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.96](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-96.md)

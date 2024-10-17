@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3
@@ -72,5 +76,4 @@ links:
 
 
 
-[^_ftn1]: *йасйа на̄хан̇кр̣то бха̄во буддхир йасйа на липйате / хатва̄пи са има̄н лока̄н на ханти на нибадхйате* — «Кто не руководствуется ложным эго и чей разум свободен, тот, даже убивая людей в этом мире, не убивает, и поступки его не имеют для него последствий» (Бхагавад-гита, 18.17).
-
+[^_ftn1]: [Бхагавад-гита 18.17](../notes/bhagavad-gita/bhagavad-gita-18-17.md)

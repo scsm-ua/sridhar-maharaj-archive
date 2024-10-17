@@ -8,6 +8,10 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
+    slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3
@@ -76,5 +80,4 @@ links:
 
 
 
-[^_ftn1]: *кр̣ш̣н̣ера йатека кхела̄, сарвоттама нара-лӣла̄, нара-вапу та̄ха̄ра сварӯпа, / гопа-веш́а, вен̣у-кара, нава-киш́ора, нат̣а-вара, нара-лӣла̄ра хайа анурӯпа* — «Из многочисленных игр Господа Кришны лучше всех Его игры в образе человека. Его человеческая форма — высшая трансцендентная форма. Он одет как пастушок, в руке у Него флейта, и юность Его не увядает. Кроме того, Он непревзойденный танцор. Все это как нельзя лучше подходит Его играм в образе человека» («Чайтанья-чаритамрита», Мадхья, 21.101).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 21.101](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-21-101.md)

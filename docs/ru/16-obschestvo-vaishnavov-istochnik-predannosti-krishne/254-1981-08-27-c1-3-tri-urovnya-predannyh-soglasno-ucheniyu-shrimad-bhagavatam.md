@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.46
+    slug: shrimad-bhagavatam-11-2-46
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-72
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-275
+  - title: Шримад-Бхагаватам 11.2.45
+    slug: shrimad-bhagavatam-11-2-45
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
@@ -142,7 +158,6 @@ links:
 
 
 
-[^_ftn1]: «*Мадхьяма-адхикари* — это преданный, который поклоняется Верховной Личности Бога как высшему объекту своей любви, поддерживает дружеские отношения с преданными Господа, милостив к невежественным и избегает общения с теми, кто по природе завистлив» («Шримад-Бхагаватам», 11.2.46).
+[^_ftn1]: [Шримад-Бхагаватам 11.2.46](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-46.md)
 
-[^_ftn2]: «Возвышенный преданный видит во всем сущем Душу всех душ, Верховную Личность Бога, Шри Кришну. Следовательно, он видит все связанным со Всевышним и понимает, что все сущее вечно пребывает в Господе» («Шримад-Бхагаватам», 11.2.45).
-
+[^_ftn2]: [Шримад-Бхагаватам 11.2.45](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-45.md)

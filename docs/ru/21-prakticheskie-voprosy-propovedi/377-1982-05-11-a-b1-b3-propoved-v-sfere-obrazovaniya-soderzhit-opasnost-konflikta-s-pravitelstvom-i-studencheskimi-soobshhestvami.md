@@ -8,6 +8,16 @@ tags:
     slug: 1982-05
   - title: Проповедь
     slug: propoved
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
@@ -132,5 +142,4 @@ links:
 
 
 
-[^_ftn1]: *мукта̄на̄м апи сиддха̄на̄м̇, на̄ра̄йан̣а-пара̄йан̣ах̣ / судурлабхах̣ праш́а̄нта̄тма̄, кот̣иш̣в апи маха̄-муне* — «О великий мудрец, среди мириад душ, обретших освобождение и в совершенстве постигших его высшую суть, едва ли один становится преданным Господа Нараяны (Кришны). Таких обретших умиротворение преданных очень и очень мало» («Шримад-Бхагаватам», 6.14.5).
-
+[^_ftn1]: [Шримад-Бхагаватам 6.14.5](../notes/shrimad-bhagavatam/shrimad-bhagavatam-6-14-5.md)

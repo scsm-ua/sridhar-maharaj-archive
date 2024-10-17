@@ -6,6 +6,26 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
+    slug: shri-chajtanya-charitamrita-adi-lila-2-86
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
+    slug: shri-chajtanya-charitamrita-adi-lila-7-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
+    slug: shri-chajtanya-charitamrita-adi-lila-7-107
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
@@ -93,11 +113,10 @@ links:
 
 
 
-[^_ftn1]: «Каунтея, чем бы ты ни занимался: вкушаешь ли ты пищу, жертвуешь чем-либо или приносишь что-либо в дар, совершаешь ли аскезы — совершай всю деятельность как подношение Мне» (Бхагавад-гита, 9.27).
+[^_ftn1]: [Бхагавад-гита 9.27](../notes/bhagavad-gita/bhagavad-gita-9-27.md)
 
 [^_ftn2]: Три фазы существования (глубокий сон, сновидение и бодрствование).
 
-[^_ftn3]: *бхрама, прама̄да, випралипса̄, каран̣а̄па̄т̣ава / а̄рш̣а-виджн̃а-ва̄кйе на̄хи дош̣а эи саба* — «Однако в речах великих мудрецов не может быть ошибок, заблуждений, лжи или несовершенства, вызванного ограниченностью восприятия» («Шри Чайтанья-чаритамрита», Ади-лила, 2.86; 7.107).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Ади-лила 2.86](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-2-86.md)
 
-[^_ftn4]: *ваданти тат таттва-видас таттвам̇ йадж джн̃а̄нам адвайам / брахмети парама̄тмети бхагава̄н ити ш́абдйате* — «Сведущие трансценденталисты, познавшие Абсолютную Истину, называют эту недвойственную субстанцию Брахманом, Параматмой или Бхагаваном» («Шримад-Бхагаватам», 1.2.11).
-
+[^_ftn4]: [Шримад-Бхагаватам 1.2.11](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-11.md)

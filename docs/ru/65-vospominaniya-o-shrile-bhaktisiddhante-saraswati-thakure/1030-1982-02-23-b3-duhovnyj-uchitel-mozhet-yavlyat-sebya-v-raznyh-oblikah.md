@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
@@ -56,5 +60,4 @@ links:
 
 
 
-[^_ftn1]: *ш́рӣ-бхагава̄н ува̄ча: па̄ртха наивеха на̄мутра, вина̄ш́ас тасйа видйате / на хи калйа̄н̣а-кр̣т каш́чид, дургатим̇ та̄та гаччхати* — «Всевышний ответил: Партха! Не достигший совершенства йог ничего не теряет ни в материальном, ни в духовном мире. Того, кто искренен в поиске Истины, никогда не постигнет злой удел» (Бхагавад-гита, 6.40).
-
+[^_ftn1]: [Бхагавад-гита 6.40](../notes/bhagavad-gita/bhagavad-gita-6-40.md)

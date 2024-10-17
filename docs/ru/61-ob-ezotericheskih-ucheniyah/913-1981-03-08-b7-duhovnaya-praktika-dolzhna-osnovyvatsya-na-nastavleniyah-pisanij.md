@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.101
+    slug: bhakti-rasamrita-sindhu-1-2-101
+  - title: Манах-шикша
+    slug: manah-shiksha
+  - title: Манах-шикша 7
+    slug: manah-shiksha-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3
@@ -86,9 +94,8 @@ links:
 
 
 
-[^_ftn1]: «Если служение Богу идет вразрез с ведическими писаниями (Упанишадами, Пуранами и Нарада-панчаратрой), то оно просто создает ненужные беспокойства в обществе» («Бхакти-расамрита синдху» 1.2.101).
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.101](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-101.md)
 
 [^_ftn2]: «В век Кали, когда настанет срок начать движение *санкиртаны*, Я приду как сын Шачи-деви» («Ваю-пурана»).
 
-[^_ftn3]: «Если ты не будешь подпускать лживость и обман к вратам города твоей вечной любви, счастье и блаженство наверняка будут пребывать в твоем сердце» («Шри Манах-Шикша», Бхаджан 7)
-
+[^_ftn3]: [Манах-шикша 7](../notes/manah-shiksha/manah-shiksha-7.md)

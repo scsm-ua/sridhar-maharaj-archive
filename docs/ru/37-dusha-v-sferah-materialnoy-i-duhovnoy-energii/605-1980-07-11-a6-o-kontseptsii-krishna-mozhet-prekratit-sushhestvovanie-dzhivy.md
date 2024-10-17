@@ -8,6 +8,14 @@ tags:
     slug: 1980-07
   - title: Душа
     slug: dusha
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-179
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/605_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3
@@ -39,7 +47,6 @@ links:
 
 
 
-[^_ftn1]: «Если обладатель миллионов коров, исполняющих любые желания, потеряет одну козу, он едва ли заметит это. Кришна в полной мере обладает шестью достояниями. Поэтому, даже если вся материальная энергия будет уничтожена, что Он потеряет?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 15.179).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 15.179](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-15-179.md)
 
-[^_ftn2]: «Все есть Брахман» (Чхандогья-упанишад, 3.14.1).
-
+[^_ftn2]: [Чхандогья-упанишад 3.14.1](../notes/chhandogya-upanishad/chhandogya-upanishad-3-14-1.md)

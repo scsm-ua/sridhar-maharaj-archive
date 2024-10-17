@@ -10,6 +10,28 @@ tags:
     slug: konnotatsiya-i-denotatsiya
   - title: Кришна
     slug: krishna
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-150
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-83
+  - title: Шримад-Бхагаватам 6.14.5
+    slug: shrimad-bhagavatam-6-14-5
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.46
+    slug: bhagavad-gita-6-46
+  - title: Бхагавад-гита 6.47
+    slug: bhagavad-gita-6-47
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
@@ -110,13 +132,13 @@ links:
 
 
 
-[^_ftn1]: «[*Гопи* Вриндавана отреклись от общества…] членов семей, от чего очень трудно отказаться, тем самым сойдя с пути целомудрия, чтобы укрыться у лотосоподобных стоп Мукунды, Кришны, единственной цели ведического знания» («Шримад-Бхагаватам», 10.47.61).
+[^_ftn1]: [Шримад-Бхагаватам 10.47.61](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-47-61.md)
 
-[^_ftn2]: «Среди мириад душ, обретших освобождение и в совершенстве постигших его высшую суть, едва ли один становится преданным Господа Нараяны (Кришны)» («Шримад-Бхагаватам», 6.14.5).
+[^_ftn2]: [Шримад-Бхагаватам 6.14.5](../notes/shrimad-bhagavatam/shrimad-bhagavatam-6-14-5.md)
 
-[^_ftn3]: *Тапасвибхйо ’дхико йогӣ, джн̃а̄нибхйо ’пи мато ’дхиках̣ / кармибхйаш́ ча̄дхико йогӣ, тасма̄д йогӣ бхава̄рджуна* — «Йог превосходит и подвижника, и того, кто поклоняется Брахману, и того, кто идет путем *кармы*. Так стань же йогом, Арджуна» (Бхагавад-гита, 6.46).
+[^_ftn3]: [Бхагавад-гита 6.46](../notes/bhagavad-gita/bhagavad-gita-6-46.md)
 
-[^_ftn4]: «Из всех йогов лучшим Я считаю того, кто безраздельно предан Мне…» (Бхагавад-гита, 6.47).
+[^_ftn4]: [Бхагавад-гита 6.47](../notes/bhagavad-gita/bhagavad-gita-6-47.md)
 
 [^_ftn5]: *Маха-прастхана* (буквально — «великое путешествие», «великое отбытие») — смерть.
 

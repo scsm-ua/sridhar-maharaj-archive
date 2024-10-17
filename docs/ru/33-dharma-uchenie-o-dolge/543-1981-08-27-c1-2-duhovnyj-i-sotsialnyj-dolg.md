@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Дхарма
     slug: dharma
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.200
+    slug: bhakti-rasamrita-sindhu-1-2-200
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3
@@ -32,5 +36,4 @@ links:
 
 
 
-[^_ftn1]: «Тот, кто избрал своей высочайшей целью любовную преданность Богу, совершает все свои мирские, а также предписанные Ведами обязанности лишь как помощь в служении Шри Хари — высшему объекту своего поклонения» («Бхакти-расамрита-синдху», 1.2.200).
-
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.200](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-200.md)

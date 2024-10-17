@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.5.10
+    slug: shrimad-bhagavatam-1-5-10
+  - title: Шримад-Бхагаватам 1.5.11
+    slug: shrimad-bhagavatam-1-5-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3
@@ -87,9 +105,8 @@ links:
 
 
 
-[^_ftn1]: «Слова, не описывающие величие Господа, который один способен освятить атмосферу целой вселенной, по мнению святых людей, подобны месту паломничества ворон. Совершенные личности не находят в них никакого удовольствия, ибо всегда пребывают в трансцендентном царстве» («Шримад-Бхагаватам», 1.5.10).
+[^_ftn1]: [Шримад-Бхагаватам 1.5.10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-5-10.md)
 
-[^_ftn2]: «Но сочинение, состоящее из описаний трансцендентного величия имени, славы, форм, игр безграничного Верховного Господа, резко отличается от них. Оно составлено из трансцендентных слов, назначение которых — совершить переворот в неправедной жизни сбившейся с пути цивилизации. Такие трансцендентные произведения, даже если они несовершенны по форме, слушают, поют и принимают чистые люди, которые безукоризненно честны» («Шримад-Бхагаватам», 1.5.11).
+[^_ftn2]: [Шримад-Бхагаватам 1.5.11](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-5-11.md)
 
-[^_ftn3]: «Бхагавад-гита», 18.66.
-
+[^_ftn3]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)

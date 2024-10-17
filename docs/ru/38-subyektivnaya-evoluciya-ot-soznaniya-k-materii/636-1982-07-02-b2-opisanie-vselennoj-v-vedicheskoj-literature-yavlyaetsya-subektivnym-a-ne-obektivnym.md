@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3
@@ -70,5 +74,4 @@ links:
 
 
 
-[^_ftn1]: *на ту ма̄м̇ ш́акйасе драш̣т̣ум аненаива сва-чакш̣уш̣а̄ / дивйам̇ дада̄ми те чакш̣ух̣ паш́йа ме йогам аиш́варам* — «То, что тебе предстоит увидеть, недоступно для обычных глаз. Я наделю тебя сверхъестественным зрением. Ты ощутишь Мое величие и по-новому увидишь Меня» (Бхагавад-гита, 11.8).
-
+[^_ftn1]: [Бхагавад-гита 11.8](../notes/bhagavad-gita/bhagavad-gita-11-8.md)

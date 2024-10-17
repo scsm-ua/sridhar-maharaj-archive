@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Духовный мир
     slug: duhovnyj-mir
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.26
+    slug: shri-chajtanya-charitamrita-adi-lila-4-26
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3
@@ -56,5 +60,4 @@ links:
 
 
 
-[^_ftn1]: «Когда Моя возлюбленная бросает Мне сердитые упреки, ее слова отвлекают Мой ум от благоговейных звуков ведических гимнов» («Шри Чайтанья-чаритамрита», Ади-лила, 4.26).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 4.26](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-4-26.md)

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3
@@ -34,5 +38,4 @@ links:
 
 
 
-[^_ftn1]: *прабху локанатха кабе санге лойа джабе / шри-рупера пада-падме море самарпибе* — Шрила Нароттама Дас Тхакур, «Шри рупануга-махатмья» (Слава рупануга-вайшнавов) «Прартхана», Лаласа, песня 17.4.
-
+[^_ftn1]: [«Прартхана», Лаласа 17.4](../notes/prarthana-lalasa/prarthana-lalasa-17-4.md)

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1016_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3
@@ -80,5 +84,4 @@ links:
 
 
 
-[^_ftn1]: *ш́рӣ-кр̣ш̣н̣а-чаитанйа прабху джӣве дойа̄ кори’ / свапа̄рш̣ада свӣйа дха̄ма саха аватари* — «Господь Шри Кришна Чайтанья, милостивый к душам, вместе со Своими спутниками и обителью Ты снизошел в этот мир» (Шрила Бхактивинод Тхакур, «Шаранагати», Благоприятное посвящение, 1).
-
+[^_ftn1]: [Шаранагати 1](../notes/sharanagati/sharanagati-1.md)

@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 11.8
+    slug: bhagavad-gita-11-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
@@ -42,5 +46,4 @@ links:
 
 
 
-[^_ftn1]: Бхагавад-гита, 11.8.
-
+[^_ftn1]: [Бхагавад-гита 11.8](../notes/bhagavad-gita/bhagavad-gita-11-8.md)

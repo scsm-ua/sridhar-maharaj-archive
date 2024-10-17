@@ -8,6 +8,14 @@ tags:
     slug: 1982-01
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
+    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.2
+    slug: shrimad-bhagavatam-11-2-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
@@ -84,7 +92,6 @@ links:
 
 
 
-[^_ftn1]: Господь Чайтанья сказал: «Мое Имя будут воспевать во всех городах и селениях» («Шри Чайтанья Бхагавата», Антья-кханда, 4.126).
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Антья-кханда 4.126](../notes/shri-chajtanya-bhagavata-antya-khanda/shri-chajtanya-bhagavata-antya-khanda-4-126.md)
 
-[^_ftn2]: «О Царь, в материальном мире обусловленные души смотрят в глаза смерти на каждом шагу своей жизни, поэтому кто из них откажется совершать служение лотосным стопам Мукунды, которого почитают даже величайшие из освобожденных душ?» («Шримад-Бхагаватам», 11.2.2).
-
+[^_ftn2]: [Шримад-Бхагаватам 11.2.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-2.md)

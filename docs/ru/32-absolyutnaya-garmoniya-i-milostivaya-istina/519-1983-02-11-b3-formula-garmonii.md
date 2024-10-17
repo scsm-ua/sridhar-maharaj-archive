@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.02"
     slug: 1983-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
@@ -44,5 +48,4 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 1.1.1.
-
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)

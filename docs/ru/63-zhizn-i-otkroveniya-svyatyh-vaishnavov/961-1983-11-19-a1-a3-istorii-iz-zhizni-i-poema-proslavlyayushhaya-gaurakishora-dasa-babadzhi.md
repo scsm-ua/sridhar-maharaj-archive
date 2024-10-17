@@ -6,6 +6,54 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.1
+    slug: bhakti-rasamrita-sindhu-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
+  - title: Шримад-Бхагаватам 1.2.21
+    slug: shrimad-bhagavatam-1-2-21
+  - title: Шри Шримад Гауракишора-намаскара Дашакам
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 1
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-1
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 3
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-3
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 4
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-4
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 5
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-5
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 7
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-7
+  - title: Шри Шримад Гауракишора-намаскара Дашакам 9
+    slug: shri-shrimad-gaurakishora-namaskara-dashakam-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
@@ -151,13 +199,12 @@ links:
 
 
 
-[^_ftn1]: *тат те ’нукампа̄м̇ су-самӣкшама̄н̣о, бхун̃джа̄на эва̄тма-кр̣там̇ випа̄кам / хр̣д-ва̄г-вапурбхир видадхан намас те, джӣвета йо мукти-паде са да̄йа-бха̄к* — «Мой дорогой Господь, тот, кто смиренно ждет, когда Ты прольешь на него Свою беспричинную милость, терпеливо снося все последствия своих прошлых ошибок и почитая Тебя в сердце, словами и телом, несомненно, достоин освобождения, которое становится его законным правом» («Шримад-Бхагаватам», 10.14.8; цитируется в «Шри Чайтанья-чаритамрите», (Мадхья-лила, 6.261; Антья-лила, 9.77)).
+[^_ftn1]: [Шримад-Бхагаватам 10.14.8](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-14-8.md)
 
-[^_ftn2]: «Источник всего наслаждения, вмещающий в Себя все расы преданного служения» (См. «Шри Чайтанья-чаритамрита», Мадхья-лила, 18.142; Бхакти-расамрита-синдху 1.1.1).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 18.142](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-18-142.md)
 
-[^_ftn3]: *сарва-дхарма̄н паритйаджйа, ма̄м экам̇ ш́аран̣ам̇ враджа / ахам̇ тва̄м̇ сарва-па̄пебхйо, мокшайишйа̄ми ма̄ ш́учах̣* — «Оставь все виды долга и полностью предайся Мне. Я освобожу тебя от всех грехов. Не скорби ни о чем» (Бхагавад-гита, 18.66).
+[^_ftn3]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)
 
-[^_ftn4]: «Так разрубается узел в сердце, и вдребезги разбиваются все сомнения. Цепь кармической деятельности обрывается, когда человек видит, что господином является душа» («Мундака-упанишад», 2.2.9; «Шримад-Бхагаватам», 1.2.21).
+[^_ftn4]: [Шримад-Бхагаватам 1.2.21](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-21.md)
 
-[^_ftn5]: *Шлоки* из «Шри Шримад Гауракишора-намаскара Дашакам» (выражение почтения Шримад Гауракишору Дасу Бабаджи Махараджу), написанные Шрилой Шридхаром Махараджем, прочитанные в последовательности 1, 7, 3, 4, 5, 9.
-
+[^_ftn5]: [Шри Шримад Гауракишора-намаскара Дашакам 1](../notes/shri-shrimad-gaurakishora-namaskara-dashakam/shri-shrimad-gaurakishora-namaskara-dashakam-1.md)

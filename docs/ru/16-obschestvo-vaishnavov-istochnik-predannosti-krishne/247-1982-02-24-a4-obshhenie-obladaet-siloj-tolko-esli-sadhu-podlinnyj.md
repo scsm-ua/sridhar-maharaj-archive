@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Садху-санга
     slug: sadhu-sanga
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/247_1982.02.24.A4_SridharMj_Obshhenie_obladaet_siloj_tolko_esli_sadhu_podlinnyj.mp3
@@ -42,5 +46,4 @@ links:
 
 
 
-[^_ftn1]: «Как гласят все священные писания, даже мимолетного общения с чистым преданным может оказаться достаточным для достижения полного успеха» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.54).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.54](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-54.md)

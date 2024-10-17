@@ -6,6 +6,10 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
+  - title: Нитай гунамани амара
+    slug: nitaj-gunamani-amara
+  - title: Нитай гунамани амара 3
+    slug: nitaj-gunamani-amara-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
@@ -43,5 +47,4 @@ links:
 
 
 
-[^_ftn1]: *дӣнахӣна патита па̄мара на̄хи ба̄чхе / брахма̄ра дурлабха према саба̄ка̄ре джа̄че* — «Грешные, низкие, падшие и несчастные не желали этой божественной любви, но мой Господь Нитай умолял их принять эту высшую форму божественной любви, обрести которую очень трудно даже Брахме» (Шрила Лочан Дас Тхакур, «Нитай гунамани амара», 3).
-
+[^_ftn1]: [Нитай гунамани амара 3](../notes/nitaj-gunamani-amara/nitaj-gunamani-amara-3.md)

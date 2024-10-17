@@ -8,6 +8,10 @@ tags:
     slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3
@@ -156,5 +160,4 @@ links:
 
 
 
-[^_ftn1]: *на̄хам̇ тиш́т̣ха̄ми ваикун̣т̣хе, йогина̄м хр̣дайе на ча / мад-бхакта̄х̣ йатра га̄йанти, татра тишт̣ха̄ми на̄рада* — «На самом деле, дорогой Нарада, Я живу не на Вайкунтхе и не в сердцах йогов, а там, где Мои чистые преданные поют Мое Святое Имя и слушают повествования о Моем образе, играх и качествах» («Падма-пурана», Уттара-кханда, 92.21-22).
-
+[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

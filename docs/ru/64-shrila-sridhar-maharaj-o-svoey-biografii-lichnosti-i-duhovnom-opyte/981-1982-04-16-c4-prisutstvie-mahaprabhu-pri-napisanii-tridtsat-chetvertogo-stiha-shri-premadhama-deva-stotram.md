@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
+  - title: Према-Дхама-Дева-стотрам
+    slug: prema-dhama-deva-stotram
+  - title: Према-Дхама-Дева-стотрам 34
+    slug: prema-dhama-deva-stotram-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3
@@ -55,7 +63,6 @@ links:
 
 
 
-[^_ftn1]: «Так благодаря Шри Чайтанье Махапрабху обрели освобождение и покрыли себя славой все жители Кулии: и грешники, и обычные люди, и святые» («Шри Чайтанья-Бхагавата», Антья-кханда, 3.541).
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Антья-кханда 3.541](../notes/shri-chajtanya-bhagavata-antya-khanda/shri-chajtanya-bhagavata-antya-khanda-3-541.md)
 
-[^_ftn2]: «Вернувшегося в место Своего рождения после пяти долгих лет Верховного Господа встречали тысячи старых и молодых людей. Их глаза жаждали увидеть Господа, пленившего самые сокровенные глубины их душ. Присутствие Господа вдохновляло людей постоянно прославлять имена Господа Хари, и возникший от этого рокот распространялся во всех направлениях, далеко за пределы неба. Я склоняюсь в почтении перед прекрасным Золотым Господом, Гауранга Сундаром, божественным воплощением кришна-премы!» (Шрила Шридхар Махарадж, «Шри Према-дхама-дева-стотрам, 34»).
-
+[^_ftn2]: [Према-Дхама-Дева-стотрам 34](../notes/prema-dhama-deva-stotram/prema-dhama-deva-stotram-34.md)

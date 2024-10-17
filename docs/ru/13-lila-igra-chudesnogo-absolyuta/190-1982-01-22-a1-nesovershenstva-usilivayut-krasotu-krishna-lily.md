@@ -8,6 +8,10 @@ tags:
     slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
@@ -58,5 +62,4 @@ links:
 
 
 
-[^_ftn1]: «Если человек, обладающий миллионами коров, исполняющих желания (*камадхену*), теряет одну козу, то он не считает это потерей. Кришна владеет всеми шестью достояниями в полном объеме. Если вся материальная энергия разрушается, то что Он теряет?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 15.179).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 15.179](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-15-179.md)

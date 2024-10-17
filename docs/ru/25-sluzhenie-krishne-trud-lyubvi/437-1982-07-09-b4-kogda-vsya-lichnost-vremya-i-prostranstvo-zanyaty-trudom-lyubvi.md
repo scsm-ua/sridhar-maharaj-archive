@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3
@@ -54,7 +58,7 @@ links:
 
 
 
-[^_ftn1]: «Наивысшая преданность удовлетворяет трансцендентные желания Господа Кришны и свободна от внешних покровов каких бы то ни было устремлений, основанных на деятельности или знании» («Бхакти-расамрита-синдху», 1.1.11).
+[^_ftn1]: [Бхакти-расамрита-синдху 1.1.11](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11.md)
 
 [^_ftn2]: Все, что мешает преданному служению.
 

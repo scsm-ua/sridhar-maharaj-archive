@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.12"
     slug: 1981-12
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
@@ -54,5 +58,4 @@ links:
 
 
 
-[^_ftn1]: «Ты сможешь постичь это знание по милости духовного учителя. Со смирением обратись к нему и чистосердечно вопрошай, искренне служа ему. Лишь тот, кто обладает подлинным духовным опытом, способен передать его другим» (Бхагавад-гита, 4.34).
-
+[^_ftn1]: [Бхагавад-гита 4.34](../notes/bhagavad-gita/bhagavad-gita-4-34.md)

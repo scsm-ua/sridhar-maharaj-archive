@@ -8,6 +8,14 @@ tags:
     slug: 1982-02
   - title: Бхакти
     slug: bhakti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 2.6
+    slug: laghu-bhagavatamrita-2-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3
@@ -82,5 +90,4 @@ links:
 
 
 
-[^_ftn1]: «О Партха, называющие себя Моими преданными в действительности Мне не преданны, но преданные Моим преданным на самом деле преданны Мне» («Ади-пурана». Этот стих также приводится в «Лагху-бхагаватамрите» (2.6) и «Шри Чайтанья-чаритамрите» (Мадхья-лила, 11.28)).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 11.28](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-11-28.md)

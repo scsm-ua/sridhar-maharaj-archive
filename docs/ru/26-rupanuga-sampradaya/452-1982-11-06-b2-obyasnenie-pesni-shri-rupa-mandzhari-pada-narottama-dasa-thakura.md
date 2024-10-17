@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.11"
     slug: 1982-11
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3
@@ -90,5 +94,4 @@ links:
 
 
 
-[^_ftn1]: «Когда же мой святой учитель Локанатха Госвами (который является учителем всего мира) возьмет меня с собой и приведет к лотосным стопам Шри Рупы Манджари?» (Шрила Нароттама Дас Тхакур, «Шри рупануга-махатмья» (Слава рупануга-вайшнавов) «Прартхана», Лаласа, песня 17.4).
-
+[^_ftn1]: [«Прартхана», Лаласа 17.4](../notes/prarthana-lalasa/prarthana-lalasa-17-4.md)

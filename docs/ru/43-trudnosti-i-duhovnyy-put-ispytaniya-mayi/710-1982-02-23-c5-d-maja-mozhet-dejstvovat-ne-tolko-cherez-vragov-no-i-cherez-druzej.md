@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.63
+    slug: bhagavad-gita-18-63
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/710_1982.02.23.C5.D_SridharMj_Maja_mozhet_dejstvovat_ne_tolko_cherez_vragov_no_i_cherez_druzej.mp3
@@ -47,5 +51,4 @@ links:
 
 
 
-[^_ftn1]: *ити те джн̃а̄нам а̄кхйа̄там̇ гухйа̄д гухйатарам̇ майа̄ / вимр̣ш́йаитад аш́еш̣ен̣а йатхеччхси татха̄ куру* — «Итак, Я раскрыл тебе самые сокровенные истины. Теперь хорошо обдумай Мои слова и поступай, как пожелаешь» (Бхагавад-гита, 18.63).
-
+[^_ftn1]: [Бхагавад-гита 18.63](../notes/bhagavad-gita/bhagavad-gita-18-63.md)

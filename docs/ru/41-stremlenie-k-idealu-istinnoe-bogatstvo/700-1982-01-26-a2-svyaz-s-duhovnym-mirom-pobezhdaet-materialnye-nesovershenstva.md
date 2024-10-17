@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
@@ -87,9 +97,8 @@ links:
 
 
 
-[^_ftn1]: «Даже если человек, занимающийся преданным служением, совершит самый отвратительный поступок, его все равно следует считать святым, ибо он исполнен решимости идти по верному пути» (Бхагавад-гита, 9.30).
+[^_ftn1]: [Бхагавад-гита 9.30](../notes/bhagavad-gita/bhagavad-gita-9-30.md)
 
-[^_ftn2]: *неха̄бхикрама-на̄ш́о ’сти, пратйава̄йо на видйате / св-алпам апй асйа дхармасйа, тра̄йате махато бхайа̄т* — «Те, кто идет по этому пути, не знают потерь, ни одно их усилие не пропадает даром! Даже незначительное продвижение по нему спасает от всепоглощающего страха материального существования» (Бхагавад-гита, 2.40).
+[^_ftn2]: [Бхагавад-гита 2.40](../notes/bhagavad-gita/bhagavad-gita-2-40.md)
 
-[^_ftn3]: *Кр̣ш̣н̣е карма̄рпан̣а* — посвящать все плоды своего труда Кришне. См. «Шри Чайтанья-чаритамрита», Мадхья-лила, 8.59.
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.59](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-59.md)

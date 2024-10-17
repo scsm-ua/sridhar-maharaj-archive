@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-73
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
@@ -54,5 +58,4 @@ links:
 
 
 
-[^_ftn1]: *ваджра̄д апи кат̣хора̄н̣и, мр̣дӯни кусума̄д апи / локоттара̄н̣а̄м̇ чета̄м̇си, ко ну виджн̃а̄тум ӣш́варах̣* — «Сердца тех, кто возвысился над обыденной деятельностью, порой суровее удара молнии, а порой нежнее цветка. Разве можно понять, как в великих уживаются такие противоположности?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.73).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.73](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-73.md)

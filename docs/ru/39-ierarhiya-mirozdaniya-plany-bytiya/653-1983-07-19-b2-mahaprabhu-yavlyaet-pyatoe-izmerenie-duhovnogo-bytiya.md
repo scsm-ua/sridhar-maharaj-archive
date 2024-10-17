@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.07"
     slug: 1983-07
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.1.11
+    slug: katha-upanishad-2-1-11
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/653_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
@@ -56,7 +64,6 @@ links:
 
 
 
-[^_ftn1]: «Многообразия не существует» (Катха-упанишад, 2.1.11).
+[^_ftn1]: [Катха-упанишад 2.1.11](../notes/katha-upanishad/katha-upanishad-2-1-11.md)
 
-[^_ftn2]: «Все есть Брахман» (Чхандогья-упанишад, 3.14.1).
-
+[^_ftn2]: [Чхандогья-упанишад 3.14.1](../notes/chhandogya-upanishad/chhandogya-upanishad-3-14-1.md)
