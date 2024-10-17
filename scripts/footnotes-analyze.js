@@ -21,3 +21,4 @@ const tags = Object.keys(factory.tags).sort().reduce(
 );
 
 fs.writeFileSync('../docs/tags.json', JSON.stringify(tags, null, 4));
+fs.writeFileSync('../docs/stats.json', JSON.stringify(factory.scripturesStats, null, 4));

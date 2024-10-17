@@ -27,6 +27,7 @@ class FilesFactory {
         this.scripturesUsageByVerses = {};
         this.footnotesFiles = {};
         this.footnotesDir = this.target_root + '/notes';
+        this.scripturesStats = {};
     }
 
     start() {
@@ -48,11 +49,13 @@ class FilesFactory {
 
         var sortedScripturesUsage = Object.entries(this.scripturesUsage);
         sortedScripturesUsage.sort((a, b) => b[1] - a[1]);
-        // console.log(this.scripturesUsage)
+        this.scripturesStats['usageByName'] = Object.fromEntries(sortedScripturesUsage);
+        // console.log(this.scripturesStats['usageByName']);
 
         var sortedScripturesVersesUsage = Object.entries(this.scripturesVersesUsage);
         sortedScripturesVersesUsage.sort((a, b) => b[1] - a[1]);
-        // console.log(sortedScripturesVersesUsage)
+        this.scripturesStats['usageByVerse'] = Object.fromEntries(sortedScripturesVersesUsage);
+        // console.log(this.scripturesStats['usageByVerse'])
 
         var scripturesByUniqueVerses = Object.entries(this.scripturesUsageByVerses).map(([scripture, verses]) => {
             return [
@@ -61,8 +64,9 @@ class FilesFactory {
             ];
         });
         scripturesByUniqueVerses.sort((a, b) => b[1] - a[1]);
-        // console.log(scripturesByUniqueVerses)
-        // console.log(this.scripturesUsageByVerses)
+        this.scripturesStats['quotedVerses'] = Object.fromEntries(scripturesByUniqueVerses);
+        // console.log(this.scripturesStats['quotedVerses'])
+
 
         this.footnotes.forEach(footnote => {
 
