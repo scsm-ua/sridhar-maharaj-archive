@@ -8,6 +8,24 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: дата неизвестна
     slug: data-neizvestna
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/009_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
@@ -81,15 +99,14 @@ links:
 
 
 
-[^_ftn1]: *кр̣ш̣н̣а-анусандха̄на* - Поиск Шри Кришны.
+[^_ftn1]: [*кр̣ш̣н̣а-анусандха̄на*](../notes/shloka/krshna-anusandhana.md)
 
 [^_ftn2]: Вопрошание о Всевышнем.
 
-[^_ftn3]: Шри Чайтанья Махапрабху говорил: «Куда исчез владыка Моей жизни, играющий на флейте? Что Мне теперь делать и где искать сына Махараджи Нанды?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 2.15).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.15](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-15.md)
 
-[^_ftn4]: *сарва-дхарма̄н паритйаджйа, ма̄м экам̇ ш́аран̣ам̇ враджа / ахам̇ тва̄м̇ сарва-па̄пебхйо, мокшайишйа̄ми ма̄ ш́учах̣* — «Оставь все виды долга и полностью предайся Мне. Я освобожу тебя от всех грехов. Не скорби ни о чем» (Бхагавад-гита, 18.66).
+[^_ftn4]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)
 
-[^_ftn5]: *вишайа̄ винивартанте нира̄ха̄расйа дехинах̣ / раса-варджам̇ расо ’пй асйа парам̇ др̣шт̣ва̄ нивартате* — «Воплощенная в теле душа может воздерживаться от чувственных удовольствий, следуя практике самообуздания, но вкус к ним сохраняется. Однако познав возвышенные духовные переживания, она избавляется от самой склонности к наслаждению материей» (Бхагавад-гита, 2.59).
+[^_ftn5]: [Бхагавад-гита 2.59](../notes/bhagavad-gita/bhagavad-gita-2-59.md)
 
-[^_ftn6]: «Проси всех исполнять наставления Господа Шри Кришны, изложенные в Бхагавад-гите и «Шримад-Бхагаватам». Таким образом стань духовным учителем и постарайся спасти всех в этих краях» («Чайтанья-чаритамрита», Мадхья-лила, 7.128).
-
+[^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)

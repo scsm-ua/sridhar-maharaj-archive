@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
@@ -86,5 +90,4 @@ links:
 
 
 
-[^_ftn1]: «Когда благочестивый человек обретает преданность лотосным стопам Господа Гауры, океан нектара, берущий начало у лотосных стоп Шримати Радхарани, неожиданно заполняет его сердце» (Прабодхананда Сарасвати, «Чайтанья-чандрамрита», 88).
-
+[^_ftn1]: [Чайтанья-чандрамрита 88](../notes/chajtanya-chandramrita/chajtanya-chandramrita-88.md)

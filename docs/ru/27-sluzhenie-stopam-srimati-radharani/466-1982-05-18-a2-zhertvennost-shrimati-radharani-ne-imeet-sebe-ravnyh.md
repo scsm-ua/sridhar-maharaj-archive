@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.110
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-110
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
+    slug: shri-chajtanya-charitamrita-adi-lila-4-219
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
+  - title: Шри Гита-Говинда
+    slug: shri-gita-govinda
+  - title: Шри Гита-Говинда 3.1
+    slug: shri-gita-govinda-3-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
@@ -88,9 +104,8 @@ links:
 
 
 
-[^_ftn1]: *гаура ан̇га нахе мора* — *ра̄дха̄н̇га-спарш́ана / гопендра-сута вина̄ тен̇хо на̄ спарш́е анйа-джана* — «В действительности у Меня не светлая кожа. Она лишь кажется такой из-за прикосновения к телу Шримати Радхарани. Однако Шримати Радхарани не прикасается ни к кому, кроме сына Махараджи Нанды» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.287).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.287](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-287.md)
 
-[^_ftn2]: «Обычно Господь Кришна одинаково относится ко всем, но Шримати Радхарани из-за противоречивой природы Своей экстатической любви к Кришне иногда бывает недовольна Им» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.110).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.110](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-110.md)
 
-[^_ftn3]: *кам̇са̄рир апи сам̇са̄ра- ва̄сана̄-баддха-ш́р̣н̇кхала̄м / ра̄дха̄м а̄дха̄йа хр̣дайе татйа̄джа враджа-сундарӣх* — «Шри Радха завладела сердцем Кришны, врагом Камсы, и Он, желая наслаждаться танцем Раса лишь с Радхикой, покинул всех других красавиц Враджа» («Гита-Говинда», 3.1. Приводится в «Шри Чайтанья-чаритамрите», (Ади-лила, 4.219 и Мадхья-лила, 8.106)).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.106](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-106.md)

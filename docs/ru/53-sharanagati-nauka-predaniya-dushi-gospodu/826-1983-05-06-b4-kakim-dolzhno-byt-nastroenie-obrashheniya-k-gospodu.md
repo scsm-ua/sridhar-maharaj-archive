@@ -8,6 +8,14 @@ tags:
     slug: 1983-05
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.190
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-190
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.154
+    slug: bhakti-rasamrita-sindhu-1-2-154
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
@@ -61,5 +69,4 @@ links:
 
 
 
-[^_ftn1]: «Дорогой Господь, да будет Тебе известно, что нет больших грешников и богохульников, чем мы. Нам стыдно даже признаться в своих грехах. Нам трудно даже назвать свои грехи вслух, не говоря уже о том, чтобы отказаться от них!» («Бхакти-расамрита-синдху» (1.2.154) Шрилы Рупы Госвами. Цитируется в «Шри Чайтанья-чаритамрите», Мадхья-лиле, 1.190).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 1.190](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-1-190.md)

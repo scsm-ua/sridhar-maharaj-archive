@@ -8,6 +8,20 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
+    slug: shri-chajtanya-charitamrita-antya-lila-8-28
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-74
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.2.47
+    slug: shrimad-bhagavatam-11-2-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3
@@ -191,11 +205,10 @@ links:
 
 
 
-[^_ftn1]: *ӣш́вара-пурӣ госа̄н̃и каре ш́рӣпа̄да-севана / свахасте карена мала-мӯтра̄ди ма̄рджана* — «Госани Ишвара Пури [духовный учитель Шри Чайтаньи Махапрабху] служил Мадхавендре Пури. Он лично омывал его тело от кала и мочи и ухаживал за ним» («Шри Чайтанья-чаритамрита», Антья-лила, 8.28).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 8.28](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-8-28.md)
 
-[^_ftn2]: «Преданный, который с верой поклоняется Божеству в храме, но не знает, как правильно вести себя с другими преданными или обычными людьми, называется *пракрита-бхактой* (материалистичным преданным) и находится на самом низшем духовном уровне» («Шримад-Бхагаватам», 11.2.47; стих цитируется в «Шри Чайтанья-чаритамрите», Мадхья-лиле (22.74)).
+[^_ftn2]: [Шримад-Бхагаватам 11.2.47](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-2-47.md)
 
 [^_ftn3]: «Священные сердца Вайшнавов всегда служат местопребыванием Говинды. Сам Шри Говинда говорит: «Вайшнав — Моя жизнь». Поэтому Он не потерпит никаких оскорблений в их адрес».
 
-[^_ftn4]: «Шри Чайтанья-чаритамрита», Мадхья-лила, 22.73.
-
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.73](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-73.md)

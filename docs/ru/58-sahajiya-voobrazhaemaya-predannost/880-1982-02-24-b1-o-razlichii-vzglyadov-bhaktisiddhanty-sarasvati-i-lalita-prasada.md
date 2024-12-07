@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.20
+    slug: bhagavad-gita-7-20
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3
@@ -62,7 +70,6 @@ links:
 
 
 
-[^_ftn1]: *ка̄маис таис таир хр̣та-джн̃а̄на̄х̣, прападйанте ’нйа-девата̄х̣ / там̇ там̇ нийамам а̄стха̄йа, пракр̣тйа̄ нийата̄х̣ свайа̄* — «Но люди, разум которых похищен вожделением, поклоняются различным богам материального мира. Они избирают практику поклонения и почитаемое божество в соответствии со своими мирскими желаниями» (Бхагавад-гита, 7.20).
+[^_ftn1]: [Бхагавад-гита 7.20](../notes/bhagavad-gita/bhagavad-gita-7-20.md)
 
-[^_ftn2]: См. «Бхакти-расамрита-синдху», 1.1.11.
-
+[^_ftn2]: [Бхакти-расамрита-синдху 1.1.11](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11.md)

@@ -18,6 +18,14 @@ tags:
     slug: pratyaksha-paroksha-aparoksha-adhokshad
   - title: ступать по земле духовного мира
     slug: stupat-po-zemle-duhovnogo-mira
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.1.4
+    slug: shrimad-bhagavatam-10-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
@@ -162,7 +170,6 @@ links:
 
 
 
-[^_ftn1]: «Верховную Личность Бога прославляют по парампаре, то есть учитель повествует о славе Господа своему ученику. Таким прославлением наслаждаются те, кого больше не привлекает ложное, временное прославление материального мироздания. Описания Господа — это единственное лекарство для обусловленной души, которая вынуждена снова и снова рождаться и умирать. Кто же перестанет слушать прославление Господа, кроме мясника или убийцы собственной души?» («Шримад-Бхагаватам», 10.1.4).
+[^_ftn1]: [Шримад-Бхагаватам 10.1.4](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-1-4.md)
 
-[^_ftn2]: *вайкун̣т̣хера пр̣тхивй-а̄ди сакала-чинмайа / ма̄йика бхӯтера татхи джанма на̄хи хайа* — «Земля, вода, огонь, воздух и пространство Вайкунтхи духовны. Там нет материальных стихий» («Чайтанья-чаритамрита», Ади-лила, 5.53).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.53](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-53.md)

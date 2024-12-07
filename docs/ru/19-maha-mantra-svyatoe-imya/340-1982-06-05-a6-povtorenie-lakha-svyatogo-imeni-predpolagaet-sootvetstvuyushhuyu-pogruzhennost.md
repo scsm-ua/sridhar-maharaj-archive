@@ -8,6 +8,14 @@ tags:
     slug: 1982-06
   - title: Святое Имя
     slug: svyatoe-imya
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3
@@ -46,5 +54,4 @@ links:
 
 
 
-[^_ftn1]: *атах̣ ш́рӣ-кр̣ш̣н̣а-на̄ма̄ди на бхавед гра̄хйам индрийаих̣ / севонмукхе хи джихва̄дау свайам эва спхуратй адах̣* — «Поэтому материальными чувствами невозможно постичь святое имя Кришны, Его облик, качества и развлечения. Когда обусловленная душа пробуждает в себе сознание Кришны и посвящает себя служению Господу, повторяя языком Его Святое Имя и вкушая остатки Его трапезы, язык обусловленной души очищается, и ей со временем открывается истинное положение Кришны» («Шри Чайтанья-чаритамрита», Мадхья-лила, 17.136).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 17.136](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-17-136.md)

@@ -6,6 +6,20 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.192
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-192
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.39
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-39
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.17
+    slug: bhagavad-gita-18-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3
@@ -129,11 +143,10 @@ links:
 
 
 
-[^_ftn1]: *спарш́иба̄ра ка̄рйа а̄чхука, на̄ па̄йа дарш́ана / сӣта̄ра а̄кр̣ти-ма̄йа̄ харила ра̄ван̣а* — «Тот, кто наделен материальными чувствами, не в состоянии даже увидеть Ситу, не говоря уже о том, чтобы коснуться ее. Когда Равана похитил Ситу, он забрал лишь материальный, иллюзорный образ» («Шри Чайтанья-чаритамрита», Мадхья-лила, 9.192).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 9.192](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-9-192.md)
 
-[^_ftn2]: *йа̄н̇ра читте кр̣ш̣н̣а-према̄ карайе удайа / та̄н̇ра ва̄кйа, крийа̄, мудра̄ виджн̃еха на̄ буджхайа* — «Слова, дела и отличительные черты того, кто обрел любовь к Богу, непостижимы даже для самого ученого человека» («Шри Чайтанья-чаритамрита», Мадхья-лила, 23.39).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.39](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-39.md)
 
-[^_ftn3]: «Шримад-Бхагаватам», 1.1.1.
+[^_ftn3]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
-[^_ftn4]: *йасйа на̄хан̇кр̣то бха̄во, буддхир йасйа на липйате / хатва̄пи са има̄н лока̄н, на ханти на нибадхйате* — «Кто не руководствуется ложным эго и чей разум свободен, тот, даже убивая людей в этом мире, не убивает, и поступки его не имеют для него последствий» (Бхагавад-гита, 18.17).
-
+[^_ftn4]: [Бхагавад-гита 18.17](../notes/bhagavad-gita/bhagavad-gita-18-17.md)

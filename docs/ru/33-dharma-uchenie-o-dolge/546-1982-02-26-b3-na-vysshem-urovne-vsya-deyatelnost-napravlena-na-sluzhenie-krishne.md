@@ -8,6 +8,10 @@ tags:
     slug: 1982-02
   - title: Дхарма
     slug: dharma
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3
@@ -40,5 +44,4 @@ links:
 
 
 
-[^_ftn1]: «Тот же, кто соблюдает режим приема пищи, сна, работы и отдыха, тот практикой йоги побеждает страдания» (Бхагавад-гита, 6.17).
-
+[^_ftn1]: [Бхагавад-гита 6.17](../notes/bhagavad-gita/bhagavad-gita-6-17.md)

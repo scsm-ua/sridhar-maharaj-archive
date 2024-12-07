@@ -6,6 +6,10 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3
@@ -49,5 +53,4 @@ links:
 
 
 
-[^_ftn1]: *йа̄ре декха, та̄ре каха ‘кр̣шн̣а’-упадеш́а / а̄ма̄ра а̄джн̃айа гуру хан̃а тара’ еи деш́а* — «Проси всех исполнять наставления Господа Шри Кришны, изложенные в Бхагавад-гите и «Шримад-Бхагаватам». Таким образом стань духовным учителем и постарайся спасти всех в этих краях» («Чайтанья-чаритамрита», Мадхья-лила, 7.128).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)

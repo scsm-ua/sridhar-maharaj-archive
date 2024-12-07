@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
@@ -105,5 +109,4 @@ links:
 
 
 
-[^_ftn1]: *ка̄ха̄н̇ мора пра̄н̣а-на̄тха муралӣ-вадана / ка̄ха̄н̇ карон̇ ка̄ха̄н̇ па̄н̇ враджендра-нандана* — Шри Чайтанья Махапрабху говорил: «Куда исчез владыка Моей жизни, играющий на флейте? Что Мне теперь делать и где искать сына Махараджи Нанды?» («Шри Чайтанья-чаритамрита», Мадхья-лила, 2.15).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.15](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-15.md)

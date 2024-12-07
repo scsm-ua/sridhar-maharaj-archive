@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.06"
     slug: 1982-06
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 11.11
+    slug: shri-chajtanya-charitamrita-adi-lila-11-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/941_1982.06.14.A4_SridharMj_Lichnost_i_miloserdie_Virachandry--syna_Nitjanandy.mp3
@@ -50,5 +54,4 @@ links:
 
 
 
-[^_ftn1]: «Благодаря безграничной милости Шри Вирабхадры Госани люди всего мира имеют теперь возможность петь имена Чайтаньи и Нитьянанды» («Шри Чайтанья-чаритамрита», Ади-лила, 11.11).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 11.11](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-11-11.md)

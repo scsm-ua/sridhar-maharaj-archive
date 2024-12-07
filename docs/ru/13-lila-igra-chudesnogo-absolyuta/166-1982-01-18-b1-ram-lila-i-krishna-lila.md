@@ -10,6 +10,10 @@ tags:
     slug: krishna-lila
   - title: Рамачандра
     slug: ramachandra
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.16
+    slug: shrimad-bhagavatam-12-13-16
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.mp3
@@ -96,5 +100,4 @@ links:
 
 
 
-[^_ftn1]: «Господь Шамбху (Шива) — величайший из вайшнавов» («Шримад-Бхагаватам», 12.13.16).
-
+[^_ftn1]: [Шримад-Бхагаватам 12.13.16](../notes/shrimad-bhagavatam/shrimad-bhagavatam-12-13-16.md)

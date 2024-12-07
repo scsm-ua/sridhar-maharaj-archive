@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.302
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-302
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.303
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-303
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
@@ -46,7 +52,6 @@ links:
 
 
 
-[^_ftn1]: «Совершив в прошлом хорошие поступки с оттенком преданного служения, самая возвышенная из всех обусловленных душ испытывает влияние гуны страсти на свой ум» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.302)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.302](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-302.md)
 
-[^_ftn2]: «Такая преданная душа получает особые полномочия от Гарбходакашайи Вишну. Так Кришна воплощается в образе Брахмы и создает все сущее во вселенной» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.303)
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.303](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-303.md)

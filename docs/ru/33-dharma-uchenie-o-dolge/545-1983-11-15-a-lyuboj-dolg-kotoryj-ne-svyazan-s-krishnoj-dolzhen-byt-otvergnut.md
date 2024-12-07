@@ -8,6 +8,18 @@ tags:
     slug: 1983-11
   - title: Дхарма
     slug: dharma
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-94
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-63
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-265
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.66
+    slug: bhagavad-gita-18-66
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3
@@ -97,5 +109,4 @@ links:
 
 
 
-[^_ftn1]: *сарва-дхарма̄н паритйаджйа, ма̄м экам̇ ш́аран̣ам̇ враджа / ахам̇ тва̄м̇ сарва-па̄пебхйо мокшайишйа̄ми ма̄ ш́учах̣* — «Забудь о всяком долге и любых представлениях о нравственности. Доверься Мне, поступай, как Я велю, и обещаю: ты будешь свободен от ответственности за свои поступки. Не бойся ничего» («Бхагавад-гита, 18.66; стих также приводится в «Шри Чайтанья-чаритамрите», Мадхья-лила, 8.63).
-
+[^_ftn1]: [Бхагавад-гита 18.66](../notes/bhagavad-gita/bhagavad-gita-18-66.md)

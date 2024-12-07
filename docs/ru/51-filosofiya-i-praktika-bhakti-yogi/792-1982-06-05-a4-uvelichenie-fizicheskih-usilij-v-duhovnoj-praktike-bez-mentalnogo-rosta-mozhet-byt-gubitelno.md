@@ -8,6 +8,14 @@ tags:
     slug: 1982-06
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3
@@ -34,7 +42,6 @@ links:
 
 
 
-[^_ftn1]: См. «Бхакти-Расамрита-Синдху», 1.2.234.
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.234](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-234.md)
 
-[^_ftn2]: *тад виддхи пран̣ипа̄тена, парипраш́нена севайа̄ / упадекш̣йанти те джн̃а̄нам̇, джн̃а̄нинас таттва-дарш́инах̣* — «Ты сможешь постичь это знание по милости духовного учителя. Со смирением обратись к нему и чистосердечно вопрошай, искренне служа ему. Лишь тот, кто обладает подлинным духовным опытом, способен передать его другим» (Бхагавад-гита, 4.34).
-
+[^_ftn2]: [Бхагавад-гита 4.34](../notes/bhagavad-gita/bhagavad-gita-4-34.md)

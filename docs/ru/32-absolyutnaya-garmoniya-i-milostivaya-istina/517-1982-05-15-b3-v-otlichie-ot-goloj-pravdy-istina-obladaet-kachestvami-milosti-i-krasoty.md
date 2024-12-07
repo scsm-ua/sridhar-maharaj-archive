@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Ману-смрити
+    slug: manu-smriti
+  - title: Ману-смрити 4.138
+    slug: manu-smriti-4-138
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3
@@ -63,7 +71,6 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 1.1.1.
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
-[^_ftn2]: «Следует говорить правду, приятную правду. Не следует говорить неприятную правду, не следует говорить приятную ложь — такова вечная дхарма» (Ману-смрити, 4.138).
-
+[^_ftn2]: [Ману-смрити 4.138](../notes/manu-smriti/manu-smriti-4-138.md)

@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
+    slug: shri-chajtanya-charitamrita-adi-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
+    slug: shri-chajtanya-charitamrita-adi-lila-4-55
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/963_1982.02.20.A3.B1_SridharMj_Svananda_sukhanda_kundzha--vechnaja_obitel_Bhaktivinoda_Thakura.mp3
@@ -58,5 +64,4 @@ links:
 
 
 
-[^_ftn1]: «Любовные отношения Шри Радхи и Шри Кришны абсолютно духовны и представляют собой проявление внутренней энергии Господа — энергии наслаждения. Хотя Радха и Кришна по Своей сути одно целое, Они навечно предстали в двух образах. Теперь эти божественные Личности воссоединились в образе Шри Кришны Чайтаньи. Я склоняюсь перед Ним, ибо Он — Сам Кришна, который проникся настроением Шримати Радхарани и обрел цвет Ее тела» («Чайтанья-чаритамрита», Ади-лила, 1.5).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.5](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-5.md)

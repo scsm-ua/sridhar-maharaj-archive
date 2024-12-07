@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.252
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-252
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 6.8
+    slug: shvetashvatara-upanishad-6-8
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3
@@ -64,9 +76,8 @@ links:
 
 
 
-[^_ftn1]: *ананта-ш́акти-мадхйе кр̣ш̣н̣ера тина ш́акти прадха̄на / ‘иччха̄-ш́акти’, ‘джн̃а̄на-ш́акти’, ‘крийа̄-ш́акти’ на̄ма* — «Кришна обладает безграничными энергиями, главными из которых являются три: энергия желания [иччха-шакти], энергия знания [гьяна-шакти] и созидательная энергия [крия-шакти]» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.252).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.252](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-252.md)
 
-[^_ftn2]: См. «Шветашватара-упанишад», 6.8.
+[^_ftn2]: [Шветашватара-упанишад 6.8](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-6-8.md)
 
-[^_ftn3]: «Арджуна, тебе нет нужды знать все Мои достоинства. Достаточно того, что одной крошечной частицей Себя Я поддерживаю целое мироздание со всеми движущимися и неподвижными существами» (Бхагавад-гита, 10.42).
-
+[^_ftn3]: [Бхагавад-гита 10.42](../notes/bhagavad-gita/bhagavad-gita-10-42.md)

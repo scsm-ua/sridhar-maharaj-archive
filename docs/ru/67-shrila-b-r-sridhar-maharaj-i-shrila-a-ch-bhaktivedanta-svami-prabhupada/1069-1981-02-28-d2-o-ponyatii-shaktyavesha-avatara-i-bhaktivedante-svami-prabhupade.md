@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1981.02"
     slug: 1981-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.208
+    slug: shri-chajtanya-charitamrita-adi-lila-5-208
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
+    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
@@ -82,9 +94,8 @@ links:
 
 
 
-[^_ftn1]: «Шримад-Бхагаватам», 1.1.1.
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
-[^_ftn2]: «Опьяненный экстатической любовью, Господь Нитьянанда являет Собой воплощение милости и потому не делает различий между хорошими и плохими». («Шри Чайтанья-чаритамрита», Ади-лила, 5.208).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.208](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-208.md)
 
-[^_ftn3]: Господь Чайтанья сказал: «Мое Имя будут воспевать во всех городах и селениях» («Шри Чайтанья Бхагавата», Антья-кханда, 4.126).
-
+[^_ftn3]: [«Шри Чайтанья Бхагавата», Антья-кханда 4.126](../notes/shri-chajtanya-bhagavata-antya-khanda/shri-chajtanya-bhagavata-antya-khanda-4-126.md)

@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Дух служения
     slug: duh-sluzheniya
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
+    slug: shri-chajtanya-charitamrita-antya-lila-20-37
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.mp3
@@ -53,5 +57,4 @@ links:
 
 
 
-[^_ftn1]: *“према-дхана вина̄ вйартха даридра джӣвана / ’да̄са’ кари’ ветана море деха према-дхана”* — «Без любви к Богу моя жизнь не имеет смысла. Поэтому я прошу принять меня в качестве раба Твоего и дать мне в качестве вознаграждения экстатическую любовь к Богу» («Шри Чайтанья-чаритамрита», Антья-лила, 20.37).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 20.37](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-20-37.md)

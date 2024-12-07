@@ -6,6 +6,24 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-159
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-186
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.7.10
+    slug: shrimad-bhagavatam-1-7-10
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
@@ -73,7 +91,6 @@ links:
 
 
 
-[^_ftn1]: *а̄тма̄ра̄ма̄ш́ ча мунайо, ниргрантха̄ апй урукраме / курвантй ахаитукӣм̇ бхактим, иттхам-бхӯта-гун̣о харих̣* — «Даже те мудрецы, что погрузились в блаженство духовной души и полностью свободны от оков умственных определений, также отдают себя без каких-либо условий служению Шри Кришне, чьи деяния чудесны и величественны. И это лишь одно из качеств Всевышнего, Господа Хари, который очаровывает все мироздание» («Шримад-Бхагаватам», 1.7.10; приводится в «Шри Чайтанья-чаритамрите» (Мадхья-лила, 6.186; 17.140; 24.5; 25.159)).
+[^_ftn1]: [Шримад-Бхагаватам 1.7.10](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-7-10.md)
 
-[^_ftn2]: «Знай, что чувства выше материи, ум превыше чувств, разум выше ума, но душа, занимающая высшее положение, превосходит даже разум» (Бхагавад-гита, 3.42).
-
+[^_ftn2]: [Бхагавад-гита 3.42](../notes/bhagavad-gita/bhagavad-gita-3-42.md)

@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
@@ -201,7 +209,6 @@ links:
 
 
 
-[^_ftn1]: «Шримад-Бхагаватам», 11.3.31.
+[^_ftn1]: [Шримад-Бхагаватам 11.3.31](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-3-31.md)
 
-[^_ftn2]: *на̄йам а̄тма̄ правачанена лабхйо, на медхайа̄ на бахуна̄ ш́рутена / йам эваиш̣а вр̣н̣уте тена лабхйас, тасйаиш̣а а̄тма̄ вивр̣н̣уте танӯм̇ сва̄м* — «Верховного Господа не обрести благодаря глубочайшим разъяснениям, проницательному интеллекту или длительному слушанию. Он открывается лишь тому, кого выберет Сам. Такой удачливой душе Господь являет Свой божественный облик» («Катха-упанишад», 1.2.23).
-
+[^_ftn2]: [Катха-упанишад 1.2.23](../notes/katha-upanishad/katha-upanishad-1-2-23.md)

@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.05"
     slug: 1983-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
+  - title: Хитопадеша
+    slug: hitopadesha
+  - title: Хитопадеша 149
+    slug: hitopadesha-149
+  - title: Бхакти-сандарбха
+    slug: bhakti-sandarbha
+  - title: Бхакти-сандарбха 283
+    slug: bhakti-sandarbha-283
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
@@ -125,9 +137,8 @@ links:
 
 
 
-[^_ftn1]: *бхидйате хр̣дайа-грантхиш́, чхидйанте сарва-сам̇ш́айа̄х̣ / кшӣйанте ча̄сйа карма̄н̣и, майи др̣ш̣т̣е ’кхила̄тмани* — «Так разрубается узел в сердце, и вдребезги разбиваются все сомнения. Цепь кармической деятельности обрывается, когда человек видит, что только Я смогу удовлетворить тебя сполна» («Шримад-Бхагаватам», 11.20.30).
+[^_ftn1]: [Шримад-Бхагаватам 11.20.30](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-20-30.md)
 
-[^_ftn2]: «Хитопадеша», 149.
+[^_ftn2]: [Хитопадеша 149](../notes/hitopadesha/hitopadesha-149.md)
 
-[^_ftn3]: «Благодаря *дикше* в человеке постепенно исчезает тяга к материальным наслаждениям и просыпается интерес к духовной жизни» (Шрила Джива Госвами, «Бхакти-сандарбха», 283).
-
+[^_ftn3]: [Бхакти-сандарбха 283](../notes/bhakti-sandarbha/bhakti-sandarbha-283.md)

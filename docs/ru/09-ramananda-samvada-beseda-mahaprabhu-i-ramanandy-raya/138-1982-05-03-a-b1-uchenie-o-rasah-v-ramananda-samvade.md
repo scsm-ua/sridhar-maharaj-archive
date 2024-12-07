@@ -10,6 +10,14 @@ tags:
     slug: ramananda-samvad
   - title: Хануман
     slug: hanuman
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/138_1982.05.03.A.B1_SridharMj_Uchenie_o_rasah_v_ramananda_samvade.mp3
@@ -77,5 +85,4 @@ links:
 
 
 
-[^_ftn1]: *йа̄н̣ра раса хои, сеи сарвоттама / тат̣а-стха хан̃а̄ вича̄риле, а̄чхе тара-тама* — «Это правда, что те отношения, которые связывают с Господом того или иного преданного, являются для него самыми лучшими. Тем не менее, изучив все методы беспристрастно, можно выделить высшие и низшие уровни любви» («Чайтанья-чаритамрита», Мадхья, 8.83).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.83](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-83.md)

@@ -8,6 +8,16 @@ tags:
     slug: 1982-11
   - title: Риг-веда
     slug: rig-veda
+  - title: Риг-веда 1.22.20
+    slug: rig-veda-1-22-20
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
+    slug: shri-chajtanya-charitamrita-antya-lila-5-123
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.342
+    slug: laghu-bhagavatamrita-1-5-342
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3
@@ -61,7 +71,6 @@ links:
 
 
 
-[^_ftn1]: *ом̇ тад вишн̣ох̣ парамам̇ падам̇, сада̄ пашйанти сурайах̣, дивива̄ чакшур а̄татам / тад випрасо випанйаво, джагрвам сах саминдхате, вишн̣ор йат парамам̇ падам* — «Его бдительное око подобно солнцу видит все, Он всеведущ. Его око хранителя всегда пребывает над нашей головой, взирая на нас» («Риг-веда», 1.22.20).
+[^_ftn1]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
 
-[^_ftn2]: «Нет и никогда не было различия между телом и душой Верховной Личности Бога» («Шри Чайтанья-чаритамрита», Антья-лила, 5.123).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 5.123](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-5-123.md)

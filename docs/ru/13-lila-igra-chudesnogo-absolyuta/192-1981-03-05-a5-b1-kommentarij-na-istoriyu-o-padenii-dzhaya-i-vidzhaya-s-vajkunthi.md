@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-163
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-111
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/192_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3
@@ -66,5 +76,4 @@ links:
 
 
 
-[^_ftn1]: «Извилисты пути любви, как след змеи. Поэтому любящие порой гневаются друг на друга; иногда тому есть причина, а иногда — нет». Это цитата из «Уджвала-ниламани» Шрилы Рупы Госвами (Шрингара-бхеда-пракарана, 102). Приводится в «Шри Чайтанья-чаритамрите» (Мадхья-лила, 8.111 и 14.163).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.111](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-111.md)

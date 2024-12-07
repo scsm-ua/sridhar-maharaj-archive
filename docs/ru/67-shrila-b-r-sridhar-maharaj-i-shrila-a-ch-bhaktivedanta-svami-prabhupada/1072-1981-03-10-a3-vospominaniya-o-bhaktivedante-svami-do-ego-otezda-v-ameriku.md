@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.88.8
+    slug: shrimad-bhagavatam-10-88-8
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
@@ -68,5 +72,4 @@ links:
 
 
 
-[^_ftn1]: *йасйа̄хам анугр̣хн̣а̄ми, хариш̣йе тад-дханам̇ ш́анаих̣ / тато ’дханам̇ тйаджантй асйа, сваджана̄ дух̣кха-дух̣кхитам* — «Если Я особенно благоволю к кому-либо, Я постепенно лишаю его богатства. Затем родственники и друзья этого нищего отвергают его. Таким образом, бедствия настигают его одно за другим» («Шримад-Бхагаватам», 10.88.8).
-
+[^_ftn1]: [Шримад-Бхагаватам 10.88.8](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-88-8.md)

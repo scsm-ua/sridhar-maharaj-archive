@@ -8,6 +8,14 @@ tags:
     slug: 1982-11
   - title: Радхарани
     slug: radharani
+  - title: Шри Радхаштака
+    slug: shri-radhashtaka
+  - title: Шри Радхаштака 1
+    slug: shri-radhashtaka-1
+  - title: Шри Прартхана
+    slug: shri-prarthana
+  - title: Шри Прартхана 7.3
+    slug: shri-prarthana-7-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3
@@ -48,7 +56,6 @@ links:
 
 
 
-[^_ftn1]: «Святая Дхама под названием Вриндаван, украшенная лотосоокой Радхой» (Шрила Бхактивинод Тхакур, «Шри Радхаштака», песнь 1, стих 1).
+[^_ftn1]: [Шри Радхаштака 1](../notes/shri-radhashtaka/shri-radhashtaka-1.md)
 
-[^_ftn2]: «Божественной страна, где земля состоит из философских камней» (Шрила Нароттам Дас Тхакур, «Шри Прартхана», песня 7.3).
-
+[^_ftn2]: [Шри Прартхана 7.3](../notes/shri-prarthana/shri-prarthana-7-3.md)

@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.5"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3
@@ -46,7 +52,6 @@ links:
 
 
 
-[^_ftn1]: *туйа дойа аичхана парама удара / атишойа манда натха! бхага хамара* — «Таково Твое милосердие, о Господь! Ты бесконечно добр! Но, Господь, я в высшей степени жалок и несчастен!» (Шрила Бхактивинод Тхакур, «Шри Шикшаштакам» (цикл песен) 2.4).
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4.md)
 
-[^_ftn2]: *нахи джанамало наме анурага мора / бхактивинода-читта духкхе бибхора* — «У меня никогда не было никакой привязанности к Святым Именам! Поэтому сердце Бхактивинода полно скорби!» (Шрила Бхактивинод Тхакур, «Шри Шикшаштакам» (цикл песен) 2.5).
-
+[^_ftn2]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.5](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5.md)

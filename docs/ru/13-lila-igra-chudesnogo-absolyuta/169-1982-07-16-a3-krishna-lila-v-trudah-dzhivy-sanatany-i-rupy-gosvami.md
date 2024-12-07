@@ -8,6 +8,14 @@ tags:
     slug: 1982-07
   - title: Кришна-лила
     slug: krishna-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
+  - title: Лагху-бхагаватамрита
+    slug: laghu-bhagavatamrita
+  - title: Лагху-бхагаватамрита 1.5.461
+    slug: laghu-bhagavatamrita-1-5-461
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3
@@ -60,5 +68,4 @@ links:
 
 
 
-[^_ftn1]: *кр̣ш̣н̣о ‘нйо йаду-самбхӯто йах̣ пӯрн̣ах̣ со ‘стй атах̣ парах̣ / вр̣нда̄ванам̇ паритйаджйа са квачин наива гаччхати* — «Кришна, известный как Яду-кумар — это Васудева-Кришна. Он отличен от Кришны, сына Махараджа Нанды. Яду-кумар Кришна являет Свои игры в Матхуре и Двараке, но Кришна, сын Махараджа Нанды, никогда, ни на мгновение не покидает Вриндаван» («Лагху-бхагаватамрита», 1.5.461; стих также цитируется в «Шри Чайтанья-чаритамрите», Антья-лила, 1.67).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 1.67](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-1-67.md)

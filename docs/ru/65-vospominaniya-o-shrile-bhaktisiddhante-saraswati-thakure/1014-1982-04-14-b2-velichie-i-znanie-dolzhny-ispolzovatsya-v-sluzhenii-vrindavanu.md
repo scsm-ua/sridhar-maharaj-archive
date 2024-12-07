@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.04"
     slug: 1982-04
+  - title: Шри Шри Прабхупада-падма Ставаках
+    slug: shri-shri-prabhupada-padma-stavakah
+  - title: Шри Шри Прабхупада-падма Ставаках 7
+    slug: shri-shri-prabhupada-padma-stavakah-7
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3
@@ -58,7 +62,6 @@ links:
 
 
 
-[^_ftn1]: *ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге* — «Мы будем поклоняться рага-марге, безраздельной и самоотверженной преданности Богу, как идеалу, с глубочайшим почтением, всегда совершая киртан в обществе истинных преданных» (Шрила Прабхупада Бхактисиддханта Сарасвати Тхакур).
+[^_ftn1]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
 
-[^_ftn2]: «Он известен тем, что поднял знамя славы Шри Рупы, Шри Санатаны и Шри Рагхунатха. По всему миру прославляют его, как неотличного от могущественного и ученейшего Шрилы Дживы» («Шри Шри Прабхупада-падма Ставаках», 7)
-
+[^_ftn2]: [Шри Шри Прабхупада-падма Ставаках 7](../notes/shri-shri-prabhupada-padma-stavakah/shri-shri-prabhupada-padma-stavakah-7.md)

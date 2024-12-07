@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.07"
     slug: 1982-07
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.9
+    slug: bhagavad-gita-13-9
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.mp3
@@ -32,5 +36,4 @@ links:
 
 
 
-[^_ftn1]: См. «Бхагавад-гита», 13.9.
-
+[^_ftn1]: [Бхагавад-гита 13.9](../notes/bhagavad-gita/bhagavad-gita-13-9.md)

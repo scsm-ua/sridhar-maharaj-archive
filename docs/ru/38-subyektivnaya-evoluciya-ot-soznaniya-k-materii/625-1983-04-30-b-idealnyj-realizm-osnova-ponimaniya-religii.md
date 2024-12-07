@@ -6,6 +6,18 @@ category:
 tags:
   - title: "1983.04"
     slug: 1983-04
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
+    slug: shri-chajtanya-charitamrita-adi-lila-2-86
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
+    slug: shri-chajtanya-charitamrita-adi-lila-7-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
+    slug: shri-chajtanya-charitamrita-adi-lila-7-107
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
@@ -107,7 +119,6 @@ links:
 
 
 
-[^_ftn1]: Ошибки, заблуждения, несовершенства, ложь. См. «Шри Чайтанья-чаритамрита», Ади-лила, 2.86; 7.107.
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 2.86](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-2-86.md)
 
-[^_ftn2]: *индрийа̄н̣и пара̄н̣й а̄хур, индрийебхйах̣ парам́ манах̣ / манасас ту пара̄ буддхир, йо буддхех̣ паратас ту сах̣* — «Знай, что чувства выше материи, ум превыше чувств, разум выше ума, но душа, занимающая высшее положение, превосходит даже разум» (Бхагавад-гита, 3.42).
-
+[^_ftn2]: [Бхагавад-гита 3.42](../notes/bhagavad-gita/bhagavad-gita-3-42.md)

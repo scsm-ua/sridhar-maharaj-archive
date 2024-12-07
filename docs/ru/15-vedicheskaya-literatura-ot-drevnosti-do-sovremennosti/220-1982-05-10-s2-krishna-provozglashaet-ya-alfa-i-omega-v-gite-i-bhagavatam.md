@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/220_1982.05.10.C2_SridharMj_Krishna_provozglashaet_Ja--Alfa_i_Omega_v_Gite_i_Bhagavatam.mp3
@@ -40,5 +44,4 @@ links:
 
 
 
-[^_ftn1]: «Думай обо Мне, служи Мне, уповай на Меня, и ты непременно придешь ко Мне. Я обещаю тебе это» («Бхагавад-гита», 18.65).
-
+[^_ftn1]: [Бхагавад-гита 18.65](../notes/bhagavad-gita/bhagavad-gita-18-65.md)

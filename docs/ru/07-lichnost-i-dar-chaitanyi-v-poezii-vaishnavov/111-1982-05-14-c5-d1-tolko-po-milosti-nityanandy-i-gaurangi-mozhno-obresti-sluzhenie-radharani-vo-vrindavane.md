@@ -10,6 +10,14 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
+  - title: Акродха парамананда
+    slug: akrodha-paramananda
+  - title: Акродха парамананда 4
+    slug: akrodha-paramananda-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3
@@ -75,9 +83,8 @@ links:
 
 
 
-[^_ftn1]: «Когда благочестивый человек обретает преданность лотосным стопам Господа Гауры, океан нектара, берущий начало у лотосных стоп Шримати Радхарани, неожиданно заполняет его сердце» (Прабходананда Сарасвати, «Чайтанья-чандрамрита», 88).
+[^_ftn1]: [Чайтанья-чандрамрита 88](../notes/chajtanya-chandramrita/chajtanya-chandramrita-88.md)
 
-[^_ftn2]: *бхаджа гаура̄н̇га каха гаура̄н̇га, лаха гаура̄н̇гера на̄ма / йен джана гаура̄н̇га бхадже, сеи хайа а̄ма̄р пра̄н̣а* - «Поклоняйся Гауранге! Говори о Гауранге! Воспевай имя Гауранги! Тот, кто поклоняется Гауранге, — Моя жизнь и душа!» (Нитьянанда Прабху).
+[^_ftn2]: [*бхаджа гаура̄н̇га каха гаура̄н̇га, лаха гаура̄н̇гера на̄ма / йен джана гаура̄н̇га бхадже, сеи хайа а̄ма̄р пра̄н̣а*](../notes/shloka/bhadzha-gauranga-kaha-gauranga-laha.md)
 
-[^_ftn3]: «Произнеся эти слова, Он [Нитьянанда Прабху] падает на землю, и кажется, будто огромный золотой валун перекатывается в пыли» (Шрила Лочан Дас Тхакур, «Акродха парамананда», 4).
-
+[^_ftn3]: [Акродха парамананда 4](../notes/akrodha-paramananda/akrodha-paramananda-4.md)

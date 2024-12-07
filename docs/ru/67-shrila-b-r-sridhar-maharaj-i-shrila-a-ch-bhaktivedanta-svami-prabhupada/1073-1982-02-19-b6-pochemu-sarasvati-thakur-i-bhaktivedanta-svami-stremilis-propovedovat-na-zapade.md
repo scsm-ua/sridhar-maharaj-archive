@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.5.36
+    slug: shrimad-bhagavatam-11-5-36
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
@@ -74,5 +78,4 @@ links:
 
 
 
-[^_ftn1]: «Люди, наделенные истинным знанием, знают преимущество этого века Кали. Эти просветленные души прославляют Кали-югу, поскольку в этот порочный век человек может легко достичь высшего совершенства, совершая *санкиртану*» («Шримад-Бхагаватам», 11.5.36).
-
+[^_ftn1]: [Шримад-Бхагаватам 11.5.36](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-5-36.md)

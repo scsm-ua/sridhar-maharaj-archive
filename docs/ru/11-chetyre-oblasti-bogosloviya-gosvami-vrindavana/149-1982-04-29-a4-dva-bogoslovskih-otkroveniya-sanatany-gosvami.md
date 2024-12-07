@@ -8,6 +8,10 @@ tags:
     slug: 1982-04
   - title: Санатана Госвами
     slug: sanatana-gosvami
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3
@@ -43,5 +47,4 @@ links:
 
 
 
-[^_ftn1]: *ӣш́а̄ва̄сйам идам̐ сарвам̇, йат кин̃ча джагатйа̄м̇ джагат / тена тйактена бхун̃джӣтха̄, ма̄ гр̣дхах̣ касйа свид дханам* — Все живое и неживое во вселенной находится во власти Господа и принадлежит Ему. Поэтому каждый должен пользоваться только тем, что ему необходимо и выделено ему как его доля, и не посягать ни на что другое, хорошо понимая, кому все принадлежит («Шри Ишопанишад», 1).
-
+[^_ftn1]: [Шри Ишопанишад 1](../notes/shri-ishopanishad/shri-ishopanishad-1.md)

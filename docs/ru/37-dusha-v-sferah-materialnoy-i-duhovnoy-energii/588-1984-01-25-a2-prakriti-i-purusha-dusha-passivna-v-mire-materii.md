@@ -8,6 +8,10 @@ tags:
     slug: 1984-01
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.21
+    slug: bhagavad-gita-13-21
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3
@@ -65,5 +69,4 @@ links:
 
 
 
-[^_ftn1]: «Говорится, что материальная энергия — источник любых причин и следствий в бренном мире, тогда как живое существо, стремящееся наслаждаться материей, становится источником мирских печалей и радостей» (Бхагавад-гита, 13.21).
-
+[^_ftn1]: [Бхагавад-гита 13.21](../notes/bhagavad-gita/bhagavad-gita-13-21.md)

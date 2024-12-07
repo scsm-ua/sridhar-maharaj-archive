@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
+    slug: shri-chajtanya-charitamrita-antya-lila-13-61
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3
@@ -129,5 +133,4 @@ links:
 
 
 
-[^_ftn1]: *ракта-вастра ‘ваиш̣н̣авера’ парите на̄ йуйа̄йа / кона права̄сӣре диму, ки ка̄йа уха̄йа?* — «Вайшнавы не носят такую шафрановую ткань, поэтому я подарю ее кому-нибудь другому» («Шри Чайтанья-чаритамрита», Антья-лила, 13.61).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 13.61](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-13-61.md)

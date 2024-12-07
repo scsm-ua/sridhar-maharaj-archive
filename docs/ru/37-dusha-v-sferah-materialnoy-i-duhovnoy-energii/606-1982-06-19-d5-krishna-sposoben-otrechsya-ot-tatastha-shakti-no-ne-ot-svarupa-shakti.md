@@ -8,6 +8,10 @@ tags:
     slug: 1982-06
   - title: Душа
     slug: dusha
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.29
+    slug: bhagavad-gita-9-29
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/606_1982.06.19.D5_SridharMj_Krishna_sposoben_otrechsja_ot_tatastha-shakti_no_ne_ot_svarupa-shakti.mp3
@@ -28,5 +32,4 @@ links:
 
 
 
-[^_ftn1]: *само ’хам̇ сарва-бхӯтеш̣у на ме двеш̣йо ’сти на прийах̣ / йе бхаджанти ту ма̄м̇ бхактйа̄ майи те теш̣у ча̄пй ахам* — «Я равно беспристрастен ко всем — к друзьям и к врагам. Но тем, кто с любовью посвящает себя Мне, Я отвечаю взаимностью» (Бхагавад-гита, 9.29).
-
+[^_ftn1]: [Бхагавад-гита 9.29](../notes/bhagavad-gita/bhagavad-gita-9-29.md)

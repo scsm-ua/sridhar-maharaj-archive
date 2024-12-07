@@ -8,6 +8,10 @@ tags:
     slug: 1981-08
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-128
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
@@ -54,7 +58,6 @@ links:
 
 
 
-[^_ftn1]: «Человек должен общаться с преданными, петь Святое Имя Господа, слушать „Шримад-Бхагаватам“, жить в Матхуре и поклоняться Божеству с верой и благоговением» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.128).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-128.md)
 
-[^_ftn2]: *бахубхир милитва йат киртанам тад эва санкиртанам* - «Когда много людей собираются вместе и славят Всевышнего Господа Кришну, это называется *санкиртаной*» (Джива Госвами).
-
+[^_ftn2]: [*бахубхир милитва йат киртанам тад эва санкиртанам*](../notes/shloka/bahubhir-militva-jat-kirtanam-tad.md)

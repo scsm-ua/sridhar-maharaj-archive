@@ -6,6 +6,16 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-58
+  - title: Вишну-пурана
+    slug: vishnu-purana
+  - title: Вишну-пурана 3.8.9
+    slug: vishnu-purana-3-8-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-59
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.A1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.mp3
@@ -50,7 +60,6 @@ links:
 
 
 
-[^_ftn1]: «Поклоняться Верховной Личности Бога, Господу Вишну, — значит должным образом исполнять обязанности, соответствующие *варне* и *ашраму*. Всевышнего нельзя удовлетворить ничем иным. Человек должен знать свое место в системе четырех *варн* и *ашрамов*» (стих из «Вишну-пураны», 3.8.9; приводится также в «Шри Чайтанья-чаритамрите», Мадхья-лила, 8.58).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.58](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-58.md)
 
-[^_ftn2]: См. «Шри Чайтанья-чаритамрита», Мадхья-лила, 8.59.
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.59](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-59.md)

@@ -8,6 +8,20 @@ tags:
     slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.268
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-268
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.269
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-269
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: Таттва-сандарбха
+    slug: tattva-sandarbha
+  - title: Таттва-сандарбха 63.6
+    slug: tattva-sandarbha-63-6
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3
@@ -57,13 +71,12 @@ links:
 
 
 
-[^_ftn1]: Рамананда Рай сказал Господу Шри Чайтанье Махапрабху: «Сначала я видел Тебя в образе *санньяси*, а сейчас вижу Тебя как Шьямасундару, мальчика-пастушка» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.268).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.268](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-268.md)
 
-[^_ftn2]: «Ты похож на золотую куклу, и все Твое тело окутано золотистым сиянием» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.269).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.269](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-269.md)
 
-[^_ftn3]: «В действительности у Меня не светлая кожа. Она лишь кажется такой из-за прикосновения к телу Шримати Радхарани. Однако Шримати Радхарани не прикасается ни к кому, кроме сына Махараджи Нанды» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.287).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.287](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-287.md)
 
-[^_ftn4]: *табе ха̄си’ та̄н̇ре прабху декха̄ила сварӯпа / ‘раса-ра̄джа’, маха̄бха̄ва’ — дуи эка рӯпа* — «Господь Шри Кришна — источник всей радости, а Шримати Радхарани — олицетворение упоительной любви к Богу. Оба Они объединяются в одной Личности [Шри Чайтанье Махапрабху]» («Чайтанья-чаритамрита», Мадхья-лила, 8.282).
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.282](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-282.md)
 
-[^_ftn5]: Раздающий благословения на преданное служение Себе самому («Шри Таттва-сандарбха» Шрилы Дживы Госвами, текст 63.6).
-
+[^_ftn5]: [Таттва-сандарбха 63.6](../notes/tattva-sandarbha/tattva-sandarbha-63-6.md)

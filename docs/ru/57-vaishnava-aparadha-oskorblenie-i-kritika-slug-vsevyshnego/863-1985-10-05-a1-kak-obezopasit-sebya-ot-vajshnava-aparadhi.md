@@ -6,6 +6,24 @@ category:
 tags:
   - title: "1985.10"
     slug: 1985-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-131
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-141
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-32
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.2.32
+    slug: shrimad-bhagavatam-10-2-32
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
@@ -34,7 +52,6 @@ links:
 
 
 
-[^_ftn1]: «О лотосоокий, нечист разум тех, кто не служит Тебе, но при этом полагает, что уже получил освобождение. Хотя такие люди благодаря суровой аскезе восходят на духовный уровень, на уровень осознания безличного *Брахмана*, они падают вновь, поскольку отказываются поклоняться Твоим лотосным стопам» («Шримад-Бхагаватам», 10.2.32).
+[^_ftn1]: [Шримад-Бхагаватам 10.2.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-2-32.md)
 
-[^_ftn2]: *тр̣на̄д апи сунӣчена, тарор апи сахиш̣н̣уна̄ / ама̄нина̄ ма̄надена, кӣрттанӣйах̣ сада̄ харих̣* — «Тот, кто смиреннее травинки, более терпелив, чем дерево, и почитает других, но не желает какого-либо почтения к себе, всегда достоин воспевать Святое Имя» (Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 3).
-
+[^_ftn2]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)

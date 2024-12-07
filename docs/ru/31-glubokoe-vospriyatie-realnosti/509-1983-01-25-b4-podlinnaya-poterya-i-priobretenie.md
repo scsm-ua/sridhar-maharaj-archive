@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
@@ -41,5 +49,4 @@ links:
 
 
 
-[^_ftn1]: «Тот, кто находится в этом трансцендентном состоянии, сразу постигает Верховный Брахман и исполняется радости. Он никогда не скорбит и ничего не желает. Он одинаково расположен ко всем живым существам. Достигнув этого состояния, человек обретает чистое преданное служение Мне» (Бхагавад-гита, 18.54).
-
+[^_ftn1]: [Бхагавад-гита 18.54](../notes/bhagavad-gita/bhagavad-gita-18-54.md)

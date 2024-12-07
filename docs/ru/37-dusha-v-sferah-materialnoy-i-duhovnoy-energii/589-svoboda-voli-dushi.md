@@ -8,6 +8,10 @@ tags:
     slug: dusha
   - title: без даты
     slug: bez-daty
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
@@ -47,5 +51,4 @@ links:
 
 
 
-[^_ftn1]: «Господь не создает ни желание действовать, ни сами поступки людей, ни последствия этих поступков. Все это совершается самими душами, отождествившими свои интересы с миром материи» (Бхагавад-гита, 5.14).
-
+[^_ftn1]: [Бхагавад-гита 5.14](../notes/bhagavad-gita/bhagavad-gita-5-14.md)

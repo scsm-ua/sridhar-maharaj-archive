@@ -8,6 +8,10 @@ tags:
     slug: 1983-11
   - title: Бхакти-йога
     slug: bhakti-joga
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.20.30
+    slug: shrimad-bhagavatam-11-20-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.mp3
@@ -67,5 +71,4 @@ links:
 
 
 
-[^_ftn1]: *бхидйате хр̣дайа-грантхиш́, чхидйанте сарва-сам̇ш́айа̄х̣ / кшӣйанте ча̄сйа карма̄н̣и, майи др̣ш̣т̣е ’кхила̄тмани* — «Так разрубается узел в сердце, и вдребезги разбиваются все сомнения. Цепь кармической деятельности обрывается, когда человек видит, что только Я смогу удовлетворить тебя сполна» («Шримад-Бхагаватам», 11.20.30).
-
+[^_ftn1]: [Шримад-Бхагаватам 11.20.30](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-20-30.md)

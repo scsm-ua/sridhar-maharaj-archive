@@ -8,6 +8,14 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.19
+    slug: shri-chajtanya-charitamrita-antya-lila-20-19
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3
@@ -52,7 +60,6 @@ links:
 
 
 
-[^_ftn1]: *сарва-ш́акти на̄ме дила̄ карийа̄ вибха̄га / а̄ма̄ра дурдайва, — на̄ме на̄хи анура̄га* — «О Говинда, Ты вложил все Свои энергии в каждое святое имя, но я настолько неудачлив, что не чувствую привязанности к воспеванию Твоих святых имен» («Чайтанья-чаритамрита», Антья-лила, 20.19).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 20.19](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-20-19.md)
 
-[^_ftn2]: *туйа дойа аичхана парама удара / атишойа манда натха! бхага хамара* — «Таково Твое милосердие, о Господь! Ты бесконечно добр! Но, Господь, я в высшей степени жалок и несчастен!» (Шрила Бхактивинод Тхакур, «Шри Шикшаштакам» (цикл песен) 2.4)
-
+[^_ftn2]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4.md)

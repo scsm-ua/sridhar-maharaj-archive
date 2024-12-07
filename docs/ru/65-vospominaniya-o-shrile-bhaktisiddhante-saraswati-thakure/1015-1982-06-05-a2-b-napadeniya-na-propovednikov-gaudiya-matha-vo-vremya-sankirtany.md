@@ -11,6 +11,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.pdf
     title: транскрипцию в PDF (149 КБ)
+tags:
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 ---
 
 # 1015. 1982.06.05.A2.B. Нападения на проповедников Гаудия Матха во время санкиртаны
@@ -77,5 +82,4 @@ links:
 
 
 
-[^_ftn1]: *тр̣на̄д апи сунӣчена, тарор апи сахиш̣н̣уна̄ / ама̄нина̄ ма̄надена, кӣрттанӣйах̣ сада̄ харих̣* — «Тот, кто смиреннее травинки, более терпелив, чем дерево, и почитает других, но не желает какого-либо почтения к себе, всегда достоин воспевать Святое Имя» (Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 3).
-
+[^_ftn1]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)

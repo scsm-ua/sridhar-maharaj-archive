@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
@@ -86,5 +90,4 @@ links:
 
 
 
-[^_ftn1]: *йа̄ха, бха̄гавата пад̣а вайш̣н̣авера стха̄не / эка̄нта а̄ш́райа кара чаитанйа-чаран̣е* — «Если ты хочешь понять «Шримад-Бхагаватам», обратись к осознавшему себя вайшнаву и слушай «Бхагаватам» в его изложении. Ты сможешь делать это после того, как полностью укроешься под защитой лотосных стоп Шри Чайтаньи Махапрабху» («Шри Чайтанья-чаритамрита», Антья-лила, 5.131).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 5.131](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-5-131.md)

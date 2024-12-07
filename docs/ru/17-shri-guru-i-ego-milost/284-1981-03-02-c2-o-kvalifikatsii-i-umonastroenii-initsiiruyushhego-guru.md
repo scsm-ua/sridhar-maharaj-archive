@@ -8,6 +8,14 @@ tags:
     slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/284_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
@@ -110,7 +118,6 @@ links:
 
 
 
-[^_ftn1]: Стих полностью: *йа̄ре декха, та̄ре каха ‘кр̣ш̣н̣а’-упадеш́а / а̄ма̄ра а̄джн̃а̄йа гуру хан̃а̄ та̄ра’ эи деш́а* — «Кого бы ты ни встретил, говори ему о величии Кришны. Я наказываю тебе — стань Гуру и освободи эту землю» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.128).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)
 
-[^_ftn2]: Стих полностью: *джага̄и ма̄дха̄и хаите мун̃и се па̄пишт̣ха / пурӣш̣ера кӣт̣а хаите мун̃и се лагхишт̣ха* — «Я более грешен, чем Джагай и Мадхай, я хуже червей в испражнениях» («Шри Чайтанья-чаритамрита», Ади-лила, 5.205).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.205](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-205.md)

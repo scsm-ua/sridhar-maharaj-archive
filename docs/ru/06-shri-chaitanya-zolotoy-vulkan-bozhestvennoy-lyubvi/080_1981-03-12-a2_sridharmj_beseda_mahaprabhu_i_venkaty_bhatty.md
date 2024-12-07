@@ -14,6 +14,24 @@ tags:
     slug: istoriya
   - title: история о беседе с Венкатой Бхаттой
     slug: istoriya-o-besede-s-venkatoj-bhattoj
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-146
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.59
+    slug: bhakti-rasamrita-sindhu-1-2-59
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
+  - title: Бхакти-расамрита-синдху 1.1.1
+    slug: bhakti-rasamrita-sindhu-1-1-1
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3
@@ -80,9 +98,8 @@ links:
 
 
 
-[^_ftn1]: «Духовная наука гласит, что между Нараяной и Кришной нет разницы. И все же *раса* супружеской любви придает Кришне особую привлекательность. Поэтому Он превосходит Нараяну. Такой вывод можно сделать, изучив науку о духовных отношениях» («Бхакти-расамрита-синдху», 1.2.59; Цитируется в Мадхья-лиле «Шри Чайтанья-чаритамриты» (9.117; 9.146)).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 9.117](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-9-117.md)
 
-[^_ftn2]: Неиссякаемый источник наслаждения для преданных во всех трансцендентных *расах*. См. «Бхакти-расамрита-синдху, 1.1.1 и «Шри Чайтанья-чаритамрита», Мадхья-лила, 18.142.
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 18.142](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-18-142.md)
 
-[^_ftn3]: Чистая *раса*, блаженство. См. «Тайттирия-упанишад», 2.7.1.
-
+[^_ftn3]: [Тайттирия-упанишад 2.7.1](../notes/tajttiriya-upanishad/tajttiriya-upanishad-2-7-1.md)

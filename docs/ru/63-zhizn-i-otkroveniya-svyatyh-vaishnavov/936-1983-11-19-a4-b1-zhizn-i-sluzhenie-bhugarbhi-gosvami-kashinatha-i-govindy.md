@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-10-144
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.49
+    slug: shri-chajtanya-charitamrita-antya-lila-8-49
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3
@@ -72,7 +80,6 @@ links:
 
 
 
-[^_ftn1]: *бхат̣т̣а кахе, — гурура а̄джн̃а̄ хайа балава̄н / гуру-а̄джн̃а̄ на̄ лан̇гхийе, ш́а̄стра — прама̄н̣а* — Сарвабхаума Бхаттачарья сказал: «Воля духовного учителя нерушима, ею нельзя пренебрегать. Так гласят шастры, богооткровенные писания» («Шри Чайтанья-чаритамрита», Мадхья-лила, 10.144).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 10.144](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-10-144.md)
 
-[^_ftn2]: «„Вчера вечером здесь был леденец, — сказал он. — Поэтому муравьи и ползают в этом месте. Увы, этот отреченный *санньяси* столь привязан к чувственному наслаждению!“ После слов, сказанных в таком духе, он встал и ушел» («Шри Чайтанья-чаритамрита», Антья-лила, 8.49).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 8.49](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-8-49.md)

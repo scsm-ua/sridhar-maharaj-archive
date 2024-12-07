@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали
+    slug: padyavali
+  - title: Падьявали 14
+    slug: padyavali-14
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3
@@ -32,5 +40,4 @@ links:
 
 
 
-[^_ftn1]: *кр̣ш̣н̣а-бхакти-раса-бха̄вита̄ матих̣, крӣйата̄м̇ йади куто ’пи лабхйате / татра лаулйам апи мӯлйам экалам̇, джанма-кот̣и-сукр̣таир на лабхйате* — «Чистое преданное служение в сознании Кришны не может быть достигнуто даже совершением благочестивой деятельности за сотни и тысячи жизней. Его можно обрести, заплатив лишь одну цену, — горячее стремление его получить. Если это где-то есть, нужно приобрести его без промедления» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.70).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.70](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-70.md)

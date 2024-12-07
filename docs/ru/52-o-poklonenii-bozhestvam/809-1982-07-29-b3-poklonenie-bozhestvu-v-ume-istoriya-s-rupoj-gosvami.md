@@ -8,6 +8,10 @@ tags:
     slug: 1982-07
   - title: Арчана
     slug: archana
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.27.12
+    slug: shrimad-bhagavatam-11-27-12
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3
@@ -80,5 +84,4 @@ links:
 
 
 
-[^_ftn1]: *ш́аилӣ да̄ру-майӣ лаухӣ лепйа̄ лекхйа̄ ча саикатӣ / мано-майӣ ман̣и-майӣ пратима̄ш̣т̣а-видха̄ смр̣та̄* — «Говорится, что форма Божества проявляется в восьми разновидностях: в камне, дереве, металле, земле, рисунке, песке, уме и драгоценных камнях» («Шримад-Бхагаватам», 11.27.12).
-
+[^_ftn1]: [Шримад-Бхагаватам 11.27.12](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-27-12.md)

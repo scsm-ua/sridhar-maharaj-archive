@@ -8,6 +8,12 @@ tags:
     slug: 1983-11
   - title: Дхарма
     slug: dharma
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 1.5
+    slug: manu-samhita-1-5
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3
@@ -44,7 +50,6 @@ links:
 
 
 
-[^_ftn1]: «Этот [мир] неведомый, неопределимый, недоступный для разума, непознаваемый, как бы совершенно погруженный в сон, был тьмой» (Ману-самхита, 1.5).
+[^_ftn1]: [Ману-самхита 1.5](../notes/manu-samhita/manu-samhita-1-5.md)
 
-[^_ftn2]: «Узнайте ту дхарму, которая одобрена сердцем, которой следуют ученые, добродетельные, свободные от ненависти и страстей» (Ману-самхита, 2.1).
-
+[^_ftn2]: [Ману-самхита 2.1](../notes/manu-samhita/manu-samhita-2-1.md)

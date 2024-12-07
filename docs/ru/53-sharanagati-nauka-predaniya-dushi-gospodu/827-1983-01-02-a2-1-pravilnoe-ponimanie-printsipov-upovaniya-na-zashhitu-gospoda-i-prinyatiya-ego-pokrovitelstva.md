@@ -8,6 +8,10 @@ tags:
     slug: 1983-01
   - title: Шаранагати
     slug: sharanagati
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3
@@ -61,5 +65,4 @@ links:
 
 
 
-[^_ftn1]: *а̄нукӯлйасйа сан̇калпах̣, пра̄тикӯлйасйа варджанам, ракш̣иш̣йатӣти виш́ва̄со / гоптр̣тве варан̣ам̇ татха̄, а̄тма-никш̣епа-ка̄рпан̣йе, ш̣ад̣-видха̄ ш́аран̣а̄гатих̣* — «Шесть составляющих самопредания таковы: принятие того, что благоприятно для преданного служения, и отвержение того, что неблагоприятно; твердая вера в то, что Кришна непременно защитит; принятие Господа собственным хранителем и повелителем; полное самопредание и смирение» («Хари-бхакти-виласа», приводится в «Шри Чайтанья-чаритамрите», Мадхья-лила, 22.100).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.100](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-100.md)

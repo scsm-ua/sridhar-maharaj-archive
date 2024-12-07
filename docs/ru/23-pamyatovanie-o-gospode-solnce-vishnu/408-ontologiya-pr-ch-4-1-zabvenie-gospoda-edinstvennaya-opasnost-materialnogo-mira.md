@@ -8,6 +8,10 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Риг-веда
     slug: rig-veda
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.8.25
+    slug: shrimad-bhagavatam-1-8-25
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
@@ -52,5 +56,4 @@ links:
 
 
 
-[^_ftn1]: «Пусть эти беды повторяются вновь и вновь, чтобы мы могли вновь и вновь видеть Тебя, ибо видеть Тебя — значит не видеть больше круговорота рождения и смерти» («Шримад-Бхагаватам», 1.8.25).
-
+[^_ftn1]: [Шримад-Бхагаватам 1.8.25](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-8-25.md)

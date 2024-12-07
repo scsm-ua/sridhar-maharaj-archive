@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3
@@ -80,5 +88,4 @@ links:
 
 
 
-[^_ftn1]: Стих полностью: *а̄ча̄рйам̇ ма̄м̇ вӣджа̄нӣйа̄н на̄ванманйета кархичит / на мартйа-буддхйа̄сӯйета сарва-дева-майо гурух̣* — Господь Кришна говорит: «Следует знать, что *ачарья* — это Я. Никогда не следует проявлять к нему какую-либо непочтительность. Не следует ему завидовать, считать его обычным человеком, ибо он представитель всех богов» («Шримад-Бхагаватам», 11.17.27).
-
+[^_ftn1]: [Шримад-Бхагаватам 11.17.27](../notes/shrimad-bhagavatam/shrimad-bhagavatam-11-17-27.md)

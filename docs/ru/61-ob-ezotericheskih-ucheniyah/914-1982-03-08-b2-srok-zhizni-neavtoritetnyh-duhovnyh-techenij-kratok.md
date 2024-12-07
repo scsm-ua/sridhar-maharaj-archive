@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.03"
     slug: 1982-03
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.101
+    slug: bhakti-rasamrita-sindhu-1-2-101
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
@@ -43,9 +59,8 @@ links:
 
 
 
-[^_ftn1]: «Если служение Богу идет вразрез с ведическими писаниями (Упанишадами, Пуранами и Нарада-панчаратрой), то оно просто создает ненужные беспокойства в обществе» («Бхакти-расамрита синдху» 1.2.101).
+[^_ftn1]: [Бхакти-расамрита-синдху 1.2.101](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-2-101.md)
 
-[^_ftn2]: *саттва̄нурӯпа̄ сарвасйа ш́раддха̄ бхавати бха̄рата / ш́раддха̄майо ’йам̇ пуруш̣о йо йач чхраддхах̣ са эва сах̣* — «Бхарата! Глубина постижения истины человеком определяет его тип веры. Вера — основа бытия каждого, какова вера — таков и человек» (Бхагавад-гита, 17.3).
+[^_ftn2]: [Бхагавад-гита 17.3](../notes/bhagavad-gita/bhagavad-gita-17-3.md)
 
-[^_ftn3]: Названия сект приведены Шрилой Бхактиведантой Свами в комментариях к стихам «Шри Чайтанья-чаритамриты», Ади-лила, 7.48 и Мадхья-лила, 8.83.
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.83](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-83.md)

@@ -6,6 +6,12 @@ category:
 tags:
   - title: "1981.08"
     slug: 1981-08
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.39
+    slug: shri-chajtanya-charitamrita-antya-lila-13-39
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.37
+    slug: shri-chajtanya-charitamrita-antya-lila-13-37
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1079_1981.08.27.A1.1_SridharMj_Predannost_Dzhagadanandy_Pandita_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3
@@ -72,7 +78,6 @@ links:
 
 
 
-[^_ftn1]: «Не затягивай свое пребывание во Вриндаване и возвращайся как можно скорее. Кроме этого, не взбирайся на холм Говардхана, чтобы увидеть Божество Гопалы» («Шри Чайтанья-чаритамрита», Антья-лила, 13.39).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 13.39](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-13-39.md)
 
-[^_ftn2]: *дӯре рахи’ бхакти кариха сан̇ге на̄ рахиба̄ / та̄н̇-саба̄ра а̄ча̄ра-чеш̣т̣а̄ ла-ите на̄риба̄* — «Не старайся сильно сблизиться с жителями Матхуры, оказывай им уважение, но соблюдай дистанцию, потому что ты находишься на другом уровне преданного служения, а их образ жизни и привычки для тебя неприемлемы» («Шри Чайтанья-чаритамрита», Антья-лила, 13.37).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 13.37](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-13-37.md)

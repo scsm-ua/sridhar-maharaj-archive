@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.02"
     slug: 1982-02
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.52
+    slug: shri-chajtanya-charitamrita-antya-lila-20-52
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
@@ -52,5 +56,4 @@ links:
 
 
 
-[^_ftn1]: *на̄ ган̣и а̄пана-дух̣кха, сабе ва̣н̃чхи та̄н́ра сукха, та̄н́ра сукха — а̄ма̄ра та̄тпарйа / море йади дийа̄ дух̣кха, та̄н́ра хайла маха̄-сукха, сей дух̣кха* — мора сукха-варйа — «Меня не беспокоят мои личные несчастья. Я лишь хочу счастья для Кришны — это единственная цель моего существования. И если мои страдания доставляют Ему радость, они превращаются для меня в праздник» («Шри Чайтанья-чаритамрита», Антья-лила, 20.52).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 20.52](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-20-52.md)

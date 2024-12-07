@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3
@@ -24,5 +28,4 @@ links:
 
 
 
-[^_ftn1]: *ман-мана̄ бхава мад-бхакто, мад-йа̄джӣ ма̄м̇ намаскуру / ма̄м эваишйаси сатйам̇ те, пратиджа̄не прийо ’си ме* — «Думай обо Мне, служи Мне, уповай на Меня, и ты непременно придешь ко Мне. Я обещаю тебе это» («Бхагавад-гита», 18.65).
-
+[^_ftn1]: [Бхагавад-гита 18.65](../notes/bhagavad-gita/bhagavad-gita-18-65.md)

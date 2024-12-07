@@ -6,6 +6,10 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 3.19
+    slug: shvetashvatara-upanishad-3-19
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
@@ -81,5 +85,4 @@ links:
 
 
 
-[^_ftn1]: «У Верховного Господа нет рук и ног, однако Он принимает все приносимые Ему жертвы. У Него нет глаз, но Он все видит. У Него нет ушей, но Он все слышит» («Шветашватара-упанишад», 3.19).
-
+[^_ftn1]: [Шветашватара-упанишад 3.19](../notes/shvetashvatara-upanishad/shvetashvatara-upanishad-3-19.md)

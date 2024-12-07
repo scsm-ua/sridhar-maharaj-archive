@@ -10,6 +10,22 @@ tags:
     slug: vera
   - title: Любовь
     slug: lyubov
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-62
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
@@ -135,11 +151,10 @@ links:
 
 
 
-[^_ftn1]: «*Шраддха* — это твердая, глубокая убежденность в том, что трансцендентное любовное служение Кришне уже включает в себя всю остальную деятельность. Такая вера необходима для того, чтобы человек мог преданно служить Господу» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.62).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 22.62](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-22-62.md)
 
-[^_ftn2]: «Познав То [сферу духовного], познаешь все; достигнув Того [Всевышнего], достигаешь всего» («Мундака Упанишад», 1.3).
+[^_ftn2]: [Мундака Упанишад 1.3](../notes/mundaka-upanishad/mundaka-upanishad-1-3.md)
 
-[^_ftn3]: [Господь Кришна сказал Дурвасе Муни:] «Я полностью подчинен Своим преданным. Воистину, Я вовсе не независим. Поскольку Мои преданные полностью лишены мирских желаний, Я живу лишь в глубине их сердец. Что говорить о Моих преданных, даже преданные Моих преданных очень дороги Мне» («Шримад-Бхагаватам», 9.4.63).
+[^_ftn3]: [Шримад-Бхагаватам 9.4.63](../notes/shrimad-bhagavatam/shrimad-bhagavatam-9-4-63.md)
 
-[^_ftn4]: «Будь смиреннее травинки и терпеливее дерева» (Всевышний Господь Шри Чайтаньячандра, «Шри Шикшаштакам», 3).
-
+[^_ftn4]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)

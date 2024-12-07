@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.11"
     slug: 1983-11
+  - title: «Падма-пурана», Уттара-кханда
+    slug: padma-purana-uttara-khanda
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
@@ -40,5 +44,4 @@ links:
 
 
 
-[^_ftn1]: «Падма-пурана», Уттара-кханда, 92.21-22.
-
+[^_ftn1]: [«Падма-пурана», Уттара-кханда 92.21–22](../notes/padma-purana-uttara-khanda/padma-purana-uttara-khanda-92-21-22.md)

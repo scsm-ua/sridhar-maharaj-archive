@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1982.05"
     slug: 1982-05
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.30.38
+    slug: shrimad-bhagavatam-10-30-38
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 4.5
+    slug: sharanagati-4-5
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
@@ -55,7 +63,6 @@ links:
 
 
 
-[^_ftn1]: *эвам уктах̣ прийа̄м а̄ха, скандха а̄рухйата̄м ити / аташ́ ча̄нтардадхе кр̣шн̣ах̣, са̄ вадхӯр анватапйата* — «Выслушав Ее, Господь Кришна ответил: «Залезай ко Мне на плечи». Но, едва сказав это, Он исчез. Когда это произошло, Его возлюбленная стала корить Себя» («Шримад-Бхагаватам», 10.30.38).
+[^_ftn1]: [Шримад-Бхагаватам 10.30.38](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-30-38.md)
 
-[^_ftn2]: «Чандравали хочет забрать у Радхи Господа Хари, окутав Ее рощу темной пеленой тоски и печали» — (Шрила Бхактивинод Тхакур, «Шаранагати», песнь 4.5).
-
+[^_ftn2]: [Шаранагати 4.5](../notes/sharanagati/sharanagati-4-5.md)

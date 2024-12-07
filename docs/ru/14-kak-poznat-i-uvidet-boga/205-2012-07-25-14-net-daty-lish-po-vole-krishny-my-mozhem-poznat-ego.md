@@ -6,6 +6,10 @@ category:
 tags:
   - title: "2012.07"
     slug: 2012-07
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
@@ -41,7 +45,7 @@ links:
 
 
 
-[^_ftn1]: См. «Шримад-Бхагаватам», 1.1.1.
+[^_ftn1]: [Шримад-Бхагаватам 1.1.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-1-1.md)
 
 [^_ftn2]: Шрила Шридхар Махарадж, видимо, ссылается на известное изречение Исаака Ньютона: “I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me”, что можно перевести как: «Я не знаю, кем кажусь миру, но я смотрю на себя, как на ребенка, который, играя на морском берегу, нашел несколько камешков поглаже и раковин попестрее, чем удавалось другим, в то время как неизмеримый океан истины расстилается перед моим взором неисследованным».
 

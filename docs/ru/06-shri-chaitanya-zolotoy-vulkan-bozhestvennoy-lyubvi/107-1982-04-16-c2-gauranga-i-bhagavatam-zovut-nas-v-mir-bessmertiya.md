@@ -8,6 +8,12 @@ tags:
     slug: 1982-04
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
+    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
+  - title: Шримад-Бхагаватам 12.5.2
+    slug: shrimad-bhagavatam-12-5-2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3
@@ -68,7 +74,6 @@ links:
 
 
 
-[^_ftn1]: *пр̣тхивӣте а̄чхе йата нагара̄ди гра̄ма / сарватра прача̄ра хаибе мора на̄ма* — Господь Чайтанья сказал: «Мое Имя будут воспевать во всех городах и селениях» («Шри Чайтанья Бхагавата», Антья-кханда, 4.126).
+[^_ftn1]: [«Шри Чайтанья Бхагавата», Антья-кханда 4.126](../notes/shri-chajtanya-bhagavata-antya-khanda/shri-chajtanya-bhagavata-antya-khanda-4-126.md)
 
-[^_ftn2]: *твам̇ ту ра̄джан мариш̣йети паш́у-буддхим има̄м̇ джахи / на йа̄тах̣ пра̄г абхӯто ’дйа деха-ват твам̇ на нан̇кш̣йаси* — **Перевод с помощью Гугла** «О Царь, откажись от животного менталитета: «я собираюсь умереть». В отличие от тела ты не был рожден, не было времени в прошлом, когда ты не существовал, и ты не будешь уничтожен» («Шримад-Бхагаватам», 12.5.2).
-
+[^_ftn2]: [Шримад-Бхагаватам 12.5.2](../notes/shrimad-bhagavatam/shrimad-bhagavatam-12-5-2.md)

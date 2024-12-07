@@ -8,6 +8,18 @@ tags:
     slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-129
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.61
+    slug: shri-chajtanya-charitamrita-antya-lila-4-61
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-146
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
@@ -136,11 +148,10 @@ links:
 
 
 
-[^_ftn1]: Шри Чайтанья Махапрабху далее сказал брахману Курме: «Если ты поступишь, как Я сказал, твоя мирская жизнь в семье не помешает твоему духовному развитию. Более того, если ты будешь следовать этим предписаниям, мы снова встретимся здесь, точнее, ты никогда не расстанешься со Мной» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.129).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.129](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-129.md)
 
-[^_ftn2]: «Проси всех исполнять наставления Господа Шри Кришны, изложенные в Бхагавад-гите и «Шримад-Бхагаватам». Таким образом стань духовным учителем и постарайся спасти всех в этих краях» («Чайтанья-чаритамрита», Мадхья-лила, 7.128).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)
 
-[^_ftn3]: «Чувство разлуки с Кришной может стать причиной появления у преданного мысли о смерти. Хотя такая экстатическая любовь и приводит к Кришне, но в то же время человек не имеет права расстаться с телом» («Шри Чайтанья-чаритамрита», Антья-лила, 4.61).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Антья-лила 4.61](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-4-61.md)
 
-[^_ftn4]: «И косвенный, и буквальный смысл Вед один: в конечном счете они, прямо или иносказаниями, указывают только на Господа Кришну» («Шри Чайтанья-чаритамрита», Мадхья-лила, 20.146).
-
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 20.146](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-20-146.md)

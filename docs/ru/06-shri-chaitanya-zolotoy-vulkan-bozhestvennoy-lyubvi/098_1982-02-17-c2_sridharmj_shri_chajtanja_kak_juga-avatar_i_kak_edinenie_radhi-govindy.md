@@ -8,6 +8,18 @@ tags:
     slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
+    slug: shri-chajtanya-charitamrita-antya-lila-20-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-154
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
+    slug: shri-chajtanya-charitamrita-adi-lila-3-52
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3
@@ -76,9 +88,8 @@ links:
 
 
 
-[^_ftn1]: «Шри Чайтанья-чаритамрита», Антья-лила, 20.8.
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Антья-лила 20.8](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-20-8.md)
 
-[^_ftn2]: гопӣ-два̄ре лакшмӣ каре кр̣ш̣н̣а-сан̇га̄сва̄да / ӣш́варатве бхеда ма̄ниле хайа апара̄дха — «Богиня процветания наслаждается обществом Кришны через гопи. Не следует проводить различие между разными образами Господа, ибо такое умонастроение оскорбительно» («Шри Чайтанья-чаритамрита», Мадхья-лила, 9.154).
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 9.154](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-9-154.md)
 
-[^_ftn3]: «В век Кали разумные люди, собираясь вместе, славят Господа и поклоняются Его воплощению, непрестанно поющему имя Кришны. Хотя цвет Его тела не темный, это Сам Кришна. С Ним всегда Его личные спутники, слуги, оружие и приближенные» («Шри Чайтанья-чаритамрита», Ади-лила, 3.52).
-
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Ади-лила 3.52](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-3-52.md)

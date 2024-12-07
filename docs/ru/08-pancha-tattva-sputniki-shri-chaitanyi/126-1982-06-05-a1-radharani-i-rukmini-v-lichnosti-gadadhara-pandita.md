@@ -12,6 +12,10 @@ tags:
     slug: radharani
   - title: Рукмини
     slug: rukmini
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.289
+    slug: shri-chajtanya-charitamrita-madhya-lila-9-289
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
@@ -54,5 +58,4 @@ links:
 
 
 
-[^_ftn1]: Имеется в виду шлока «Шри Чайтанья-чаритамриты *«ш́рӣпа̄да, дхара мора госа̄н̃ира самбандха / та̄ха̄ вина̄ анйатра на̄хи эи према̄ра гандха»* — «Несомненно, Вы как-то связаны со Шри Мадхавендрой Пури, ибо без него невозможно ощутить аромат экстатической любви» (Мадхья-лила, 9.289).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 9.289](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-9-289.md)

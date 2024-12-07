@@ -6,6 +6,10 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.30
+    slug: shrimad-bhagavatam-10-33-30
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/879_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
@@ -36,5 +40,4 @@ links:
 
 
 
-[^_ftn1]: «Даже в мыслях нельзя имитировать деяния Верховного Господа. Если же какой-то глупец делает это, то непременно погибнет, в точности как гибнет тот, кто подражает Шиве, выпившему яд из океана» («Шримад-Бхагаватам», 10.33.30).
-
+[^_ftn1]: [Шримад-Бхагаватам 10.33.30](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-33-30.md)

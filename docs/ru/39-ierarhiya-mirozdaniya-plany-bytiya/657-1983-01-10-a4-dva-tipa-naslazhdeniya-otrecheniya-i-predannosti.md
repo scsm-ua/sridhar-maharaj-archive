@@ -6,6 +6,14 @@ category:
 tags:
   - title: "1983.01"
     slug: 1983-01
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-167
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3
@@ -76,5 +84,4 @@ links:
 
 
 
-[^_ftn1]: *анйа̄бхила̄шита̄ ш́ӯнйам̇, джн̃а̄на-карма̄дй ана̄вр̣там / а̄нукӯлйена кр̣ш̣н̣ану-шӣланам̇, бхактир уттама̄* — «Наивысшая преданность удовлетворяет трансцендентные желания Господа Кришны и свободна от внешних покровов каких бы то ни было устремлений, основанных на деятельности или знании» («Бхакти-расамрита-синдху», 1.1.11; цитируется в «Шри Чайтанья-чаритамрите» (Мадхья-лила, 19.167)).
-
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.167](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-167.md)

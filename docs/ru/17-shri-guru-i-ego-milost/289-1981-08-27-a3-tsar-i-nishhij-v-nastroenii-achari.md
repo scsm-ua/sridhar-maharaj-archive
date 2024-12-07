@@ -8,6 +8,12 @@ tags:
     slug: 1981-08
   - title: Гуру-таттва
     slug: guru-tattva
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.129
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-129
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.mp3
@@ -56,7 +62,6 @@ links:
 
 
 
-[^_ftn1]: «Проси всех исполнять наставления Господа Шри Кришны, изложенные в Бхагавад-гите и «Шримад-Бхагаватам». Таким образом стань духовным учителем и постарайся спасти всех в этих краях» («Чайтанья-чаритамрита», Мадхья-лила, 7.128).
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.128](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-128.md)
 
-[^_ftn2]: Шри Чайтанья Махапрабху далее сказал брахману Курме: «Если ты поступишь, как Я сказал, твоя мирская жизнь в семье не помешает твоему духовному развитию. Более того, если ты будешь следовать этим предписаниям, мы снова встретимся здесь, точнее, ты никогда не расстанешься со Мной» («Шри Чайтанья-чаритамрита», Мадхья-лила, 7.129).
-
+[^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 7.129](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-7-129.md)

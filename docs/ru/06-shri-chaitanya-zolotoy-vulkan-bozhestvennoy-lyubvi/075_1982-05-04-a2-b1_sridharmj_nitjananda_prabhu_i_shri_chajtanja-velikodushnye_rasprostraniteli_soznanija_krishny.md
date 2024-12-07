@@ -12,6 +12,22 @@ tags:
     slug: krishna-lila
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
+  - title: Акродха парамананда
+    slug: akrodha-paramananda
+  - title: Акродха парамананда 4
+    slug: akrodha-paramananda-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-271
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.206
+    slug: shri-chajtanya-charitamrita-adi-lila-17-206
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.69
+    slug: bhagavad-gita-2-69
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3
@@ -148,13 +164,12 @@ links:
 
 
 
-[^_ftn1]: *бхаджа гаура̄н̇га каха гаура̄н̇га, лаха гаура̄н̇гера на̄ма / йен джана гаура̄н̇га бхадже, сеи хайа а̄ма̄р пра̄н̣а* — «Поклоняйся Гауранге! Говори о Гауранге! Воспевай имя Гауранги! Тот, кто поклоняется Гауранге, — Моя жизнь и душа!» (Нитьянанда Прабху).
+[^_ftn1]: [*бхаджа гаура̄н̇га каха гаура̄н̇га, лаха гаура̄н̇гера на̄ма / йен джана гаура̄н̇га бхадже, сеи хайа а̄ма̄р пра̄н̣а*](../notes/shloka/bhadzha-gauranga-kaha-gauranga-laha.md)
 
-[^_ftn2]: «Произнеся эти слова, Он [Нитьянанда Прабху] падает на землю, и кажется, будто огромный золотой валун перекатывается в пыли» (Шрила Лочан Дас Тхакур, «Акродха парамананда», 4).
+[^_ftn2]: [Акродха парамананда 4](../notes/akrodha-paramananda/akrodha-paramananda-4.md)
 
-[^_ftn3]: «Игры Господа Кришны — квинтэссенция духовного блаженства, и этот нектар течет в виде сотен рек по всем сторонам света. Игры Шри Чайтаньи Махапрабху — это вечное вместилище нектара, так пусть же ум мой всегда плавает, словно лебедь, в этом божественном озере» («Шри Чайтанья-чаритамрита», Мадхья-лила, 25.271).
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 25.271](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-25-271.md)
 
-[^_ftn4]: «Шри Чайтанья-чаритамрита», Ади-лила, 17.206.
+[^_ftn4]: [«Шри Чайтанья-чаритамрита», Ади-лила 17.206](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-17-206.md)
 
-[^_ftn5]: «Бхагавад-гита», 2.69.
-
+[^_ftn5]: [Бхагавад-гита 2.69](../notes/bhagavad-gita/bhagavad-gita-2-69.md)

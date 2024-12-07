@@ -6,6 +6,22 @@ category:
 tags:
   - title: "1982.01"
     slug: 1982-01
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.1.11
+    slug: katha-upanishad-2-1-11
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
+  - title: Таиттирия-упанишад
+    slug: taittiriya-upanishad
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
+  - title: Веданта-сутра
+    slug: vedanta-sutra
+  - title: Веданта-сутра 2.1.11
+    slug: vedanta-sutra-2-1-11
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/887_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary_.mp3
@@ -122,11 +138,10 @@ links:
 
 [^_ftn2]: «Я — то».
 
-[^_ftn3]: «Многообразия не существует» (Катха-упанишад, 2.1.11).
+[^_ftn3]: [Катха-упанишад 2.1.11](../notes/katha-upanishad/katha-upanishad-2-1-11.md)
 
-[^_ftn4]: «Все есть Брахман» (Чхандогья-упанишад, 3.14.1).
+[^_ftn4]: [Чхандогья-упанишад 3.14.1](../notes/chhandogya-upanishad/chhandogya-upanishad-3-14-1.md)
 
-[^_ftn5]: «Вопрошай о Том, из Кого исходит все сущее, в Ком пребывает все сущее и в Ком оно находит свой конец. Вопрошай о Нем — Он есть *Брахма* (Абсолют)» («Таиттирия-упанишад», 3.1.1).
+[^_ftn5]: [Таиттирия-упанишад 3.1.1](../notes/taittiriya-upanishad/taittiriya-upanishad-3-1-1.md)
 
-[^_ftn6]: Логические предположения никогда не приводят к окончательному выводу (Веданта-сутра, 2.1.11).
-
+[^_ftn6]: [Веданта-сутра 2.1.11](../notes/vedanta-sutra/vedanta-sutra-2-1-11.md)
