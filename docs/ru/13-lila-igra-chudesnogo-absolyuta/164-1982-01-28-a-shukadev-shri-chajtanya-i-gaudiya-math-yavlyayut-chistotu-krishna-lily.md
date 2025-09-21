@@ -440,7 +440,7 @@ links:
 
 [^_ftn12]: [Шримад-Бхагаватам 10.33.39](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-33-39.md)
 
-[^_ftn13]: *Даинйа* — смирение, *атманиведана* — самопредание.
+[^_ftn13]: [*даинйа*](../notes/term/dainja.md)
 
 [^_ftn14]: [Шаранагати 3](../notes/sharanagati/sharanagati-3.md)
 
