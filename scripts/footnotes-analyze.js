@@ -8,6 +8,9 @@ factory.start();
 var result = factory.renderAllFootnotes();
 fs.writeFileSync('./footnotes.md', result);
 
+var result2 = factory.renderAllFootnotesJson();
+fs.writeFileSync('./footnotes.json', JSON.stringify(result2, null, 2));
+
 factory.writeFootnoteFiles();
 
 factory.writeDocFiles();
