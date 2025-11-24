@@ -53,6 +53,19 @@ class DocumentFile {
         return result;
     }
 
+    renderFootnotesJson() {
+        if (this.footnotes.length) {
+            var result = {
+                path: this.filename,
+                items: []
+            };
+            this.footnotes.forEach(footnote => {
+                result.items.push(footnote.renderDebugJson());
+            });
+            return result;
+        }
+    }
+
     renderFile() {
         var result = '';
 

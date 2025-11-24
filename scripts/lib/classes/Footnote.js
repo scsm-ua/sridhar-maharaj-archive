@@ -311,6 +311,20 @@ var SCRIPTURES_MAP = SCRIPTURES.map(obj => {
 var debug_counter = 1;
 var debug_not_found_dict = {};
 
+// Helper function for Set intersection (for compatibility)
+function setIntersection(setA, setB) {
+    if (setA.intersection) {
+        return setA.intersection(setB);
+    }
+    const intersection = new Set();
+    for (const elem of setB) {
+        if (setA.has(elem)) {
+            intersection.add(elem);
+        }
+    }
+    return intersection;
+}
+
 class Footnote {
 
     constructor(documentFile, nodes) {
@@ -348,6 +362,8 @@ class Footnote {
                 } else if (item_type === 'term') {
                     this.term = text;
                 }
+            } else {
+                
             }
         }
 
@@ -447,7 +463,7 @@ class Footnote {
     getScripturesNames() {
         var match_scriptures_lists = SCRIPTURES_MAP.map(scriptures_list => {
             return scriptures_list.filter(sm => { 
-                return sm.set.intersection(this.words_set).size === sm.set.size 
+                return setIntersection(sm.set, this.words_set).size === sm.set.size 
             });
         }).filter(i => i.length);
 
@@ -524,6 +540,8 @@ class Footnote {
                     console.log('Not found shloka:', shloka)
                 }
             }
+        } else {
+
         }
     }
 
@@ -582,6 +600,14 @@ class Footnote {
         return '# ' + this.nodes[0].id + '\n\n' + this.md;
     }
 
+    renderDebugJson() {
+        return {
+            name: this.nodes[0].id,
+            title: this.file?.title,
+            text: this.md
+        };
+    }
+
     renderWithLink() {
         var md = `[^${ this.nodes[0].id }]:`;
         var first_line = true;
@@ -599,29 +625,36 @@ class Footnote {
             md += ` [${ title }](${ url })\n\n`;
         } else {
 
+            var note_md = '';
+
             this.nodes.forEach(node => {
                 switch(node.type) {
                     case "footnote":
                     case "p":
                         if (first_line) {
                             if (node.text) {
-                                md += ' ' + node.text + '\n';
+                                note_md += ' ' + node.text + '\n';
                             } else {
-                                md += '\n';
+                                note_md += '\n';
                             }
                             first_line = false;
                         } else {
-                            md += '    ' + node.text  + '\n';
+                            note_md += '    ' + node.text  + '\n';
                         }
                         break;
                     case "code":
-                        md += '        ' + node.text  + '\n';
+                        note_md += '        ' + node.text  + '\n';
                         break;
                     case "br":
-                        md += '\n';
+                        note_md += '\n';
                         break;
                 }
             });
+
+            // console.log('Rendering footnote without file link:');
+            // console.log(this.documentFile.filename);
+            // console.log(note_md);
+            md += note_md;
         }
 
         // console.log('------')

@@ -174,6 +174,17 @@ class FilesFactory {
         return r;
     }
 
+    renderAllFootnotesJson() {
+        var items = [];
+        this.documents.forEach(d => {
+            var item = d.renderFootnotesJson();
+            if (item) {
+                items.push(item);
+            }
+        });
+        return items;
+    }
+
     iterateFiles(dir, filename_re, cb) {
 
         var count = 0;
