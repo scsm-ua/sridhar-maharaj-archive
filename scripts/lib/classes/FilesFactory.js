@@ -103,18 +103,22 @@ class FilesFactory {
                 var footnoteFile = this.footnotesFiles[scriptureNameWithNumber];
                 footnoteFile.addFootnote(footnote);
 
-            } else if (footnote.shloka) {
+            } else if (footnote.shloka || footnote.term) {
+
+                var value = footnote.shloka || footnote.term;
                 
-                if (!this.footnotesFiles[footnote.shloka]) {
-                    this.footnotesFiles[footnote.shloka] = new FootnoteFile(
-                        'shloka', 
+                if (!this.footnotesFiles[value]) {
+                    this.footnotesFiles[value] = new FootnoteFile(
+                        footnote.shloka ? 'shloka' : 'term',
                         null, 
-                        footnote.shloka.split(/[\s‑—–-]/).slice(0, 5).join(' '), 
+                        value.split(/[\s‑—–-]/).slice(0, 5).join(' '), 
                         this.footnotesDir
                     );
                 }
-                var footnoteFile = this.footnotesFiles[footnote.shloka];
+                var footnoteFile = this.footnotesFiles[value];
                 footnoteFile.addFootnote(footnote);
+            } else {
+                // console.log('-f', footnote.getMD())
             }
         });
     }
@@ -168,6 +172,17 @@ class FilesFactory {
             r += d.renderFootnotes();
         });
         return r;
+    }
+
+    renderAllFootnotesJson() {
+        var items = [];
+        this.documents.forEach(d => {
+            var item = d.renderFootnotesJson();
+            if (item) {
+                items.push(item);
+            }
+        });
+        return items;
     }
 
     iterateFiles(dir, filename_re, cb) {

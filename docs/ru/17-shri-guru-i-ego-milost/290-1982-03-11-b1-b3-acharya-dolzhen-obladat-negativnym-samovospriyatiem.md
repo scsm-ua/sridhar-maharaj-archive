@@ -94,5 +94,4 @@ links:
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.45](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-45.md)
 
-[^_ftn3]: *Каланка* — позор, скандал, дурная слава.
-
+[^_ftn3]: [*каланка*](../notes/term/kalanka.md)

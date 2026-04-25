@@ -237,7 +237,7 @@ links:
 
 [^_ftn5]: [Шри Шикшаштакам 1](../notes/shri-shikshashtakam/shri-shikshashtakam-1.md)
 
-[^_ftn6]: *Панды* — служители Господа Джаганнатха в Пури.
+[^_ftn6]: [*панды*](../notes/term/pandy.md)
 
 [^_ftn7]: Спаситель падших.
 

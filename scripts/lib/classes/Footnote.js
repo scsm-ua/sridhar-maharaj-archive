@@ -270,6 +270,29 @@ var SHLOKAS = [
     '*гададхара митра-вара, шри сварупа дамодара, сада кала гаура-кришна ядже*',
     '*ананда-тиртха нама сукха-майа-дхама йатир-джийат / самсарарнава-тараним йам иха джанах киртайанти будхах*',
     '*ва̄н̃чха̄-калпатарубхйаш́’ ча кр̣па̄-синдхубхйа эва ча / патита̄на̄м̇ па̄ванебхйо ваиш̣н̣авебхйо намо намах̣*',
+
+    '*джогйата-вичаре, кичху нахи паи, томара каруна — сара / каруна на хоиле, кандийа кандийа, прана на ракхибо ара*',
+    '*гауде ганга-тате нава-враджа-навадвипа ту майапуре, шри чаитанйа-матха-пракаша-каваро дживаика-калйанадхих / шри сиддханта-сарасватити-видито гаудийа-гурванвайе, бхато бханурива прабхатагагане рупанугаих пуджитах*',
+    '*девам̇ дивйа-танум̇ сучанда-ваданам̇-ба̄ла̄рка-чела̄н̃читам̇, са̄ндра̄нанда-пурам̇ сад-эка-варанам̇ ваира̄гйа-видйа̄мбудхим / ш́рӣ-сиддха̄нта-нидхим̇ субхакти-ласитам̇ са̄расвата̄на̄м варам̇, ванде там̇ ш́убхадам̇ мад-эка-ш́аран̣ам̇ нйа̄сӣш́варам̇ ш́рӣдхарам*',
+    '*дживе-дойа наме-ручи вайшнава-севана / иха чхара дхарма нахи шуна санатана*',
+    '*нарахари-ади кори’ чамара дхулайа / санджайа-мукунда-васу-гхоша-ади гайа*',
+    '*гхриштам гхриштам пунарапи пунах чанданам чаругандхам, чиннам чиннам пунарапи пунах сваду чаивекшу-кандам / дагдхам дагдхам пунарапи пунах канчанам канта варнам, прананте’пи пракрити-викритир джайате ноттаманам*',
+    '*ваишнавера-пада-дхули тахе мора снана, келитарпана мора ваишнавера нама / ваишнавера уччхишта тахе мора маноништха, ваишнавера намете улласа*',
+    '*ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-пада-камалам̇ ш́рӣ-гурӯн ваиш̣н̣ава̄м̇ш́ ча, ш́рӣ-рӯпам̇ са̄граджа̄там̇ саха-ган̣а-рагхуна̄тха̄нвитам̇ там̇ са-джӣвам / са̄дваитам̇ са̄вадхӯтам̇ париджана-сахитам̇ кр̣ш̣н̣а-чаитанйа-девам̇, ш́рӣ-ра̄дха̄-кр̣ш̣н̣а-па̄да̄н саха-ган̣а-лалита̄-ш́рӣ-виш́а̄кха̄нвита̄м̇ш́ ча*',
+    '*апра̄рабдха-пхалам̇ па̄пам̇, кӯт̣ам̇ бӣджам̇ пхалонмукхам / крамен̣аива пралӣйета, вишн̣у-бхакти-рата̄тмана̄м*',
+    '*джаладжа̄ навалакш̣а̄н̣и стха̄вара̄ лакш̣а-вим̇ш́атих̣ / кр̣тайо рудра-сан̇кхьяка̄х̣ пакш̣ин̣а̄м̇ даш́а-лакш̣акам / трим̇ш́ал-лакш̣а̄н̣и паш́авах̣ чатур лакш̣а̄н̣и ма̄нуш̣а̄х̣*',
+    '*твам гопика вришаравес танайантике ’си, сева-адхикарини гуро ниджа-пада-падме / дасйам прадайа куру мам враджа-канане шри, радха-ангхри-севана-расе сукхиним сукхабдхау*',
+    '*а̄рджавам̇ бра̄хман̣е са̄кш̣а̄т ш́ӯдро ’на̄рджава-лакш̣ан̣ах̣ / гаутамас тв ити виджн̃а̄йа сатйака̄мам упа̄найат*',
+    '*aндхи бхута чакшу йара вишайа дхулите кемане се пара-таттва паибе декхите*',
+    [
+        '*гаятри-мантра: ом бхур бхувах свах тат савитур вареньям / бхарго девасья дхимахи дхийо йо нах прачодаят.*',
+        '*ом бхур бхувах сваха*'
+    ],
+    '*да̄модара-рати-вардхана-веш́е / хари-ниш̣кут̣а-вр̣инда̄-випинеш́е*',
+    '*бхагаван бхаджанийа-сарва-сад-гуна вишишта*',
+    '*андхи бхута чакшу йара вишайа дхулите кемане се пара-таттва паибе декхите*',
+    '*смара-гарала-кханданам, мама шираси манданам, дехи пада-паллавам ударам*',
+    '*никхила-бхувана-ма̄йа̄-чинна̄виччинна-картрӣ / вибудха-бахула-мр̣гйа̄-мукти-моханта-дха̄три*'
 ];
 
 // Шри Нама
@@ -287,6 +310,20 @@ var SCRIPTURES_MAP = SCRIPTURES.map(obj => {
 
 var debug_counter = 1;
 var debug_not_found_dict = {};
+
+// Helper function for Set intersection (for compatibility)
+function setIntersection(setA, setB) {
+    if (setA.intersection) {
+        return setA.intersection(setB);
+    }
+    const intersection = new Set();
+    for (const elem of setB) {
+        if (setA.has(elem)) {
+            intersection.add(elem);
+        }
+    }
+    return intersection;
+}
 
 class Footnote {
 
@@ -317,7 +354,17 @@ class Footnote {
         this.scripture_names_with_numbers = this.getScripturesNameWithNumber();
 
         if (!this.scripture_names_with_numbers || this.scripture_names_with_numbers.length === 0) {
-            this.shloka = this.getScriptureShloka();
+            var shloka_result = this.getScriptureShloka();
+            if (shloka_result) {
+                var { item_type, text } = shloka_result;
+                if (item_type === 'shloka') {
+                    this.shloka = text;
+                } else if (item_type === 'term') {
+                    this.term = text;
+                }
+            } else {
+                
+            }
         }
 
         documentFile.factory.addFootnote(this);
@@ -416,7 +463,7 @@ class Footnote {
     getScripturesNames() {
         var match_scriptures_lists = SCRIPTURES_MAP.map(scriptures_list => {
             return scriptures_list.filter(sm => { 
-                return sm.set.intersection(this.words_set).size === sm.set.size 
+                return setIntersection(sm.set, this.words_set).size === sm.set.size 
             });
         }).filter(i => i.length);
 
@@ -473,13 +520,28 @@ class Footnote {
             });
             if (found) {
                 if (Array.isArray(found)) {
-                    return found[0];
+                    return {
+                        item_type: 'shloka',
+                        text: found[0]
+                    };
                 } else {
-                    return found;
+                    return {
+                        item_type: 'shloka',
+                        text: found
+                    };
                 }
             } else {
-                // console.log('Not found shloka:', shloka)
+                if (shloka.split(' ').length === 1) {
+                    return {
+                        item_type: 'term',
+                        text: shloka
+                    };
+                } else {
+                    console.log('Not found shloka:', shloka)
+                }
             }
+        } else {
+
         }
     }
 
@@ -538,6 +600,14 @@ class Footnote {
         return '# ' + this.nodes[0].id + '\n\n' + this.md;
     }
 
+    renderDebugJson() {
+        return {
+            name: this.nodes[0].id,
+            title: this.file?.title,
+            text: this.md
+        };
+    }
+
     renderWithLink() {
         var md = `[^${ this.nodes[0].id }]:`;
         var first_line = true;
@@ -551,9 +621,11 @@ class Footnote {
             // console.log(relative(base, this.file.getFullFilename()))
             // console.log('----')
             var url = relative(base, this.file.getFullFilename());
-            var title = this.file.title || this.shloka;
+            var title = this.file.title || this.shloka || this.term;
             md += ` [${ title }](${ url })\n\n`;
         } else {
+
+            var note_md = '';
 
             this.nodes.forEach(node => {
                 switch(node.type) {
@@ -561,23 +633,28 @@ class Footnote {
                     case "p":
                         if (first_line) {
                             if (node.text) {
-                                md += ' ' + node.text + '\n';
+                                note_md += ' ' + node.text + '\n';
                             } else {
-                                md += '\n';
+                                note_md += '\n';
                             }
                             first_line = false;
                         } else {
-                            md += '    ' + node.text  + '\n';
+                            note_md += '    ' + node.text  + '\n';
                         }
                         break;
                     case "code":
-                        md += '        ' + node.text  + '\n';
+                        note_md += '        ' + node.text  + '\n';
                         break;
                     case "br":
-                        md += '\n';
+                        note_md += '\n';
                         break;
                 }
             });
+
+            // console.log('Rendering footnote without file link:');
+            // console.log(this.documentFile.filename);
+            // console.log(note_md);
+            md += note_md;
         }
 
         // console.log('------')

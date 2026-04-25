@@ -214,7 +214,7 @@ links:
 
 [^_ftn1]: [Шримад-Бхагаватам 4.24.29](../notes/shrimad-bhagavatam/shrimad-bhagavatam-4-24-29.md)
 
-[^_ftn2]: *Бхагаван бхаджанийа-сарва-сад-гуна вишишта* (Джива Госвами «Бхакти-Сандарбха»).
+[^_ftn2]: [*бхагаван бхаджанийа-сарва-сад-гуна вишишта*](../notes/shloka/bhagavan-bhadzhanija-sarva-sad-guna.md)
 
 [^_ftn3]: [Ману-самхита 1.5](../notes/manu-samhita/manu-samhita-1-5.md)
 

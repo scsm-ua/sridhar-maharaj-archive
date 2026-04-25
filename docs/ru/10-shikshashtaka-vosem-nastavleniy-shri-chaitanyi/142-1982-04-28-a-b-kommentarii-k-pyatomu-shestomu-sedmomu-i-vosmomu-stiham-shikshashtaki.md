@@ -667,7 +667,7 @@ links:
 
 [^_ftn20]: [Бхакти-расамрита-синдху 1.1.11](../notes/bhakti-rasamrita-sindhu/bhakti-rasamrita-sindhu-1-1-11.md)
 
-[^_ftn21]: *расо-вайсах* - Вместилище всех *рас.*
+[^_ftn21]: [*расо-вайсах*](../notes/term/raso-vajsah.md)
 
 [^_ftn22]: [Бхагавад-гита 6.22](../notes/bhagavad-gita/bhagavad-gita-6-22.md)
 

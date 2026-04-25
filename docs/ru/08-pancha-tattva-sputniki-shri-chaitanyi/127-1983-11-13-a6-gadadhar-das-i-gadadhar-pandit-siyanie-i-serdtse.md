@@ -87,6 +87,6 @@ links:
 
 
 
-[^_ftn1]: *Тиробхава* — уход вайшнава, *авирбхава* — явление.
+[^_ftn1]: [*тиробхава*](../notes/term/tirobhava.md)
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.5](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-5.md)
