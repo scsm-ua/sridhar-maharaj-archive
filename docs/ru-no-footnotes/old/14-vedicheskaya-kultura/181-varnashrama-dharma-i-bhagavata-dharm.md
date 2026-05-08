@@ -1,5 +1,14 @@
 ---
 slug: 181-varnashrama-dharma-i-bhagavata-dharm
+record_id: 1983.01.07.A1
+title: Варнашрама-дхарма и бхагавата-дхарма.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15519431
+  duration: 00:30:49
+  mp3: /wp-content/uploads/2012/08/181_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
+date: 1983-01-07
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
@@ -16,13 +25,14 @@ tags:
     slug: smirenie
   - title: Терпение
     slug: terpenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/181_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
     title: Скачать аудиозапись в mp3 (30 мин 49 сек, размер 15 Мб)
+legacy:
+  title: 181. Варнашрама-дхарма и бхагавата-дхарма. 1983.01.07.A1
+  index: "181"
+  filename: 181-varnashrama-dharma-i-bhagavata-dharm.md
 ---
-
-# 181. Варнашрама-дхарма и бхагавата-дхарма. 1983.01.07.A1
 
 *#00:00:00#*
 

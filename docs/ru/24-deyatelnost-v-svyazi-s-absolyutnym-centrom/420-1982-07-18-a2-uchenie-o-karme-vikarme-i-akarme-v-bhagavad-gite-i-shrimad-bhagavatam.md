@@ -1,5 +1,14 @@
 ---
 slug: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam
+record_id: 1982.07.18.A2
+title: Учение о карме, викарме и акарме в «Бхагавад-гите» и «Шримад Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13167898
+  duration: 00:12:53
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3
+date: 1982-07-18
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -24,7 +33,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.18
     slug: shrimad-bhagavatam-12-13-18
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (12 мин. 53 сек., 12,6 МБ)
@@ -32,9 +40,12 @@ links:
     title: транскрипцию в RTF (173 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 420. 1982.07.18.A2. Учение о карме, викарме и акарме в «Бхагавад-гите» и
+    «Шримад Бхагаватам»
+  index: "420"
+  filename: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam.md
 ---
-
-# 420. 1982.07.18.A2. Учение о карме, викарме и акарме в «Бхагавад-гите» и «Шримад Бхагаватам»
 
 **Преданный:** Стих Бхагавад-гиты:
 

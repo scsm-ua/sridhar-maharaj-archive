@@ -1,5 +1,14 @@
 ---
 slug: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom
+record_id: 1982.01.11.A1
+title: Объяснение поэмы Рамананды Рая и песни Махапрабху перед Джаганнатхом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17644093
+  duration: 00:18:08
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/136_1982.01.11.A1_SridharMj_Objasnenie_pojemy_Ramanandy_Raja_i_pesni_Mahaprabhu_pered_Dzhagannathom.mp3
+date: 1982-01-11
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -72,7 +81,6 @@ tags:
     slug: bhagavad-gita-2-59
   - title: Падьявали 386
     slug: padyavali-386
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/136_1982.01.11.A1_SridharMj_Objasnenie_pojemy_Ramanandy_Raja_i_pesni_Mahaprabhu_pered_Dzhagannathom.mp3
     title: аудиозапись в MP3 (18 мин. 7 сек., 16,9 МБ)
@@ -80,9 +88,12 @@ links:
     title: транскрипцию в RTF (228 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/136_1982.01.11.A1_SridharMj_Objasnenie_pojemy_Ramanandy_Raja_i_pesni_Mahaprabhu_pered_Dzhagannathom.pdf
     title: транскрипцию в PDF (298 КБ)
+legacy:
+  title: 136. 1982.01.11.A1. Объяснение поэмы Рамананды Рая и песни Махапрабху
+    перед Джаганнатхом
+  index: "136"
+  filename: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom.md
 ---
-
-# 136. 1982.01.11.A1. Объяснение поэмы Рамананды Рая и песни Махапрабху перед Джаганнатхом
 
 Эта максима была видоизменена Нитьянандой Прабху в Бенгалии: *йа̄ре декха, та̄ре каха ‘гаура’-упадеш́а*[^_ftn1], трансформирована.
 

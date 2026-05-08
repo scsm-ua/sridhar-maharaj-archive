@@ -1,5 +1,14 @@
 ---
 slug: 079_1983-01-26-c4_sridharmj_zdraviy_smysl_osnova_propovedi_mahaprabhu
+record_id: 1983.01.26.C4
+title: Здравый смысл — основа проповеди Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4427534
+  duration: 00:07:00
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
+date: 1983-01-26
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -10,7 +19,6 @@ tags:
     slug: istoriya
   - title: история о проповеди у Бадри Нараяны
     slug: istoriya-o-propovedi-u-badri-narayany
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
     title: аудиозапись в MP3 (06 мин. 59 сек., 4.2 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 079. 1983.01.26.C4 Здравый смысл — основа проповеди Махапрабху
+  index: "079"
+  filename: 079_1983-01-26-c4_sridharmj_zdraviy_smysl_osnova_propovedi_mahaprabhu.md
 ---
-
-# 079. 1983.01.26.C4 Здравый смысл — основа проповеди Махапрабху
 
 Метод аргументации Махапрабху был очень прост, прямолинеен и всеобъемлющ. «Кришна выше Нараяны». Чтобы доказать это утверждение, в разговоре с отцом Гопалы Бхатты, Шри Рангами, Махапрабху привел в качестве примера Лакшми Деви. Хотя Лакшми Деви — супруга Нараяны, она не удовлетворена этим и стремится к Кришне. С другой стороны, *гопи* не желают никакой связи с Нараяной. Когда они случайно встречаются с Нараяной, то просят: «О Господь, благослови нас на то, чтобы мы обрели близость с Кришной». Лакшми Деви стремится принять участие в *раса-лиле*, но не может, и это самое удивительное обстоятельство — то, что она не может принять участие в ней.
 

@@ -1,18 +1,28 @@
 ---
 slug: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c
+record_id: 1982.01.18.C
+title: Служение и режим дня.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6535711
+  duration: 00:11:17
+  mp3: /wp-content/uploads/2012/08/351_1982.01.18.C_SridharMj_Slujenie_i_rejim_dnya.mp3
+date: 1982-01-18
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/351_1982.01.18.C_SridharMj_Slujenie_i_rejim_dnya.mp3
     title: Скачать аудиозапись в mp3 (11 мин 17 сек, размер 6 Мб)
+legacy:
+  title: 351. Служение и режим дня. 1982.01.18.C
+  index: "351"
+  filename: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c.md
 ---
-
-# 351. Служение и режим дня. 1982.01.18.C
 
 *#00:00:04#*
 

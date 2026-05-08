@@ -1,5 +1,14 @@
 ---
 slug: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya
+record_id: 1982.03.29.C2
+title: Происхождение души и три плана бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 29473154
+  duration: 00:29:21
+  mp3: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.mp3
+date: 1982-03-29
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
@@ -48,7 +57,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.mp3
     title: аудиозапись в MP3 (29 мин. 20 сек., 28,2 МБ)
@@ -56,9 +64,11 @@ links:
     title: транскрипцию в DOCX (40 КБ)
   - href: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.pdf
     title: транскрипцию в PDF (185 КБ)
+legacy:
+  title: 580. 1982.03.29.C2. Происхождение души и три плана бытия
+  index: "580"
+  filename: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya.md
 ---
-
-# 580. 1982.03.29.C2. Происхождение души и три плана бытия
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол… Нет вопросов. В таком случае наш Бхарати Махарадж может выступить.
 

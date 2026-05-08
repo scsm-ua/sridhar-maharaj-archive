@@ -1,5 +1,15 @@
 ---
 slug: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi
+record_id: 1982.05.14.D2
+title: Личность и поэзия Прабодхананды Сарасвати. Объяснение первого стиха из
+  «Радха-раса-судха-нидхи»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12543363
+  duration: 00:12:40
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3
+date: 1982-05-14
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -8,7 +18,6 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3
     title: аудиозапись в MP3 (12 мин. 39 сек., 12,0 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 474. 1982.05.14.D2. Личность и поэзия Прабодхананды Сарасвати. Объяснение
+    первого стиха из «Радха-раса-судха-нидхи»
+  index: "474"
+  filename: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi.md
 ---
-
-# 474. 1982.05.14.D2. Личность и поэзия Прабодхананды Сарасвати. Объяснение первого стиха из «Радха-раса-судха-нидхи»
 
     йатха̄ йатха̄ гаура-пада̄равинде
     виндета бхактим̇ кр̣та-пун̣йа-ра̄сих̣

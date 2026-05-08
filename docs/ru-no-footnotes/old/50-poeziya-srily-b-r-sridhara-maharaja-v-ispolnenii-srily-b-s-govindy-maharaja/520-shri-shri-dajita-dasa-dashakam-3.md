@@ -1,5 +1,13 @@
 ---
 slug: 520-shri-shri-dajita-dasa-dashakam-3
+record_id: null
+title: Шри Шри Дайита Даса Дашакам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10590834
+  duration: 00:05:13
+  mp3: /wp-content/uploads/2012/08/520_Sri_Dayita_Das_Dasakam1.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)
@@ -13,13 +21,14 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/520_Sri_Dayita_Das_Dasakam1.mp3
     title: Скачать аудиозапись в mp3 (5 мин 13 сек, размер 10 Мб)
+legacy:
+  title: 520. Шри Шри Дайита Даса Дашакам
+  index: "520"
+  filename: 520-shri-shri-dajita-dasa-dashakam-3.md
 ---
-
-# 520. Шри Шри Дайита Даса Дашакам
 
 *(молитва [Шриле Бхактисиддханте Сарасвати Тхакуру](http://harekrishna.ru/mission/teachers/sarasvati-tkr/)*, *составленная после завершения его проявленных игр [Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем](http://harekrishna.ru/mission/teachers/sridhar-mj/))*
 

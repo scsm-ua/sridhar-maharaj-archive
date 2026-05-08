@@ -1,5 +1,14 @@
 ---
 slug: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai
+record_id: 1982.11.06.B2.C1
+title: Комментарии к песне «Гуру-парампара». Выдающиеся учителя рупануга-сампрадаи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18463210
+  duration: 00:17:51
+  mp3: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3
+date: 1982-11-06
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -18,7 +27,6 @@ tags:
     slug: shri-prarthana
   - title: Шри Прартхана 3.3
     slug: shri-prarthana-3-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3
     title: аудиозапись в MP3 (17 мин. 50 сек., 17,7 МБ)
@@ -26,9 +34,12 @@ links:
     title: транскрипцию в DOCX (26 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 267. 1982.11.06.B2.C1. Комментарии к песне «Гуру-парампара». Выдающиеся
+    учителя рупануга-сампрадаи
+  index: "267"
+  filename: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai.md
 ---
-
-# 267. 1982.11.06.B2.C1. Комментарии к песне «Гуру-парампара». Выдающиеся учителя рупануга-сампрадаи
 
 В нашей *гуру*—*парампаре* мы находим:
 

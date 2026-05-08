@@ -1,5 +1,14 @@
 ---
 slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
+record_id: 1983.11.13.A3
+title: Не следует вопрошать «Почему милость дана ему, а не мне?»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9775386
+  duration: 00:07:46
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3
+date: 1983-11-13
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
@@ -34,7 +43,6 @@ tags:
     slug: shrimad-bhagavatam-1-1-2
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3
     title: аудиозапись в MP3 (7 мин. 45 сек., 9,4 МБ)
@@ -42,11 +50,13 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 527. 1983.11.13.A3. Не следует вопрошать «Почему милость дана ему, а не мне?»
+  index: "527"
+  filename: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne.md
 ---
 
-# 527. 1983.11.13.A3. Не следует вопрошать «Почему милость дана ему, а не мне?»
-
-    кр̣ш̣н̣а-бхакти-джанма-мӯла хайа ‘са̄дху-сан̇га’
+кр̣ш̣н̣а-бхакти-джанма-мӯла хайа ‘са̄дху-сан̇га’
 [^_ftn1]
 
 Так или иначе, посредники странствуют и совершают работу по избавлению живых существ от страданий. И когда они соприкасаются с кем-то, то пытаются использовать энергию этого человека. Хотя сам человек не сознает, каким образом его энергия используется в служении Господу, но он получает *сукрити*. И затем, когда это *сукрити* порождает *лаульям*, *лобху*, — *джанма-кот̣и-сукр̣таир на лабхйате*[^_ftn2].

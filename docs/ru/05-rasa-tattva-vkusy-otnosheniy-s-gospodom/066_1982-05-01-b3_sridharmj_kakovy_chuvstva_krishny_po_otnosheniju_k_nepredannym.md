@@ -1,12 +1,20 @@
 ---
 slug: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym
+record_id: 1982.05.01.B3
+title: Каковы чувства Кришны по отношению к непреданным?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7668747
+  duration: 00:05:20
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.mp3
+date: 1982-05-01
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.mp3
     title: аудиозапись в MP3 (5 мин. 19 сек., 128 кбит/сек, 7.3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 066. 1982.05.01.B3 Каковы чувства Кришны по отношению к непреданным?
+  index: "066"
+  filename: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym.md
 ---
-
-# 066. 1982.05.01.B3 Каковы чувства Кришны по отношению к непреданным?
 
 Каков его вопрос? Кто может перевести? Акхаянанда Махарадж!
 

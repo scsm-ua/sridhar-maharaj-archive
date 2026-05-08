@@ -1,12 +1,20 @@
 ---
 slug: 451-1981-08-27-c3-nomer-5-v-otnosheniyah-s-krishnoj
+record_id: 1981.08.27.C3
+title: «Номер 5» в отношениях с Кришной
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4228765
+  duration: 00:07:33
+  mp3: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
+date: 1981-08-27
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
     title: аудиозапись в MP3 (7 мин. 33 сек., 4,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.pdf
     title: транскрипцию в PDF (131 КБ)
+legacy:
+  title: 451. 1981.08.27.C3. «Номер 5» в отношениях с Кришной
+  index: "451"
+  filename: 451-1981-08-27-c3-nomer-5-v-otnosheniyah-s-krishnoj.md
 ---
-
-# 451. 1981.08.27.C3. «Номер 5» в отношениях с Кришной
 
 **Госвами Махарадж:** На Джанмаштами я читал «Шримад-Бхагаватам», Десятую Песнь нашего Гуру Махараджа, Шрилы Свами Махараджа. В одном месте он описывает явление Дурги, *Йога-майи*. *Йога-майя* в образе Дурги Деви, когда она является в качестве дочери Деваки. Вы знаете эту часть?
 

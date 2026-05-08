@@ -1,12 +1,20 @@
 ---
 slug: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny
+record_id: 1983.11.23.B6.C
+title: Божественное безумие находящихся в поиске Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8458386
+  duration: 00:08:39
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.mp3
+date: 1983-11-23
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.mp3
     title: аудиозапись в MP3 (08 мин 39 сек, 8.1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (122 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.pdf
     title: транскрипцию в PDF (184 КБ)
+legacy:
+  title: 007. 1983.11.23.В6.С Божественное безумие находящихся в поиске Шри Кришны
+  index: "007"
+  filename: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny.md
 ---
-
-# 007. 1983.11.23.В6.С Божественное безумие находящихся в поиске Шри Кришны
 
     а̄ми — эка ба̄тула, туми — двитӣйа ба̄тула
     атаева тома̄йа а̄ма̄йа ха-и сама-тула

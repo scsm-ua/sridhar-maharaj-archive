@@ -1,5 +1,14 @@
 ---
 slug: 551-1983-01-12-b6-tsentry-drevnej-arijskoj-tsivilizatsii
+record_id: 1983.01.12.B6
+title: Центры древней арийской цивилизации
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2544667
+  duration: 00:03:55
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/551_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
+date: 1983-01-12
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/551_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
     title: аудиозапись в MP3 (3 мин. 54 сек., 2,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/551_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 551. 1983.01.12.B6. Центры древней арийской цивилизации
+  index: "551"
+  filename: 551-1983-01-12-b6-tsentry-drevnej-arijskoj-tsivilizatsii.md
 ---
-
-# 551. 1983.01.12.B6. Центры древней арийской цивилизации
 
 **Преданный:** Махарадж, некоторые ученые считают, что арии вышли из Индии и вернулись в Индию две с лишним тысячи лет тому назад, но не пять тысяч лет.
 

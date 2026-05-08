@@ -1,5 +1,14 @@
 ---
 slug: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj
+record_id: 1982.02.19.B1
+title: «Самопредание» значит «стать прозрачной средой»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2942208
+  duration: 00:04:56
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
+date: 1982-02-19
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
     title: аудиозапись в MP3 (4 мин. 55 сек., 2,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 831. 1982.02.19.B1. «Самопредание» значит «стать прозрачной средой»
+  index: "831"
+  filename: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj.md
 ---
-
-# 831. 1982.02.19.B1. «Самопредание» значит «стать прозрачной средой»
 
 *Мгновения Прекрасной Реальности (часть 7.3)*
 

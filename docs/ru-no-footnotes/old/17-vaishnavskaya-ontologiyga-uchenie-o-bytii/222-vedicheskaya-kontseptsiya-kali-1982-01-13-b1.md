@@ -1,5 +1,14 @@
 ---
 slug: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1
+record_id: 1982.01.13.B1
+title: Ведическая концепция Кали.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10557940
+  duration: 00:21:32
+  mp3: /wp-content/uploads/2012/08/222_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
+date: 1982-01-13
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Кали
     slug: kali
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/222_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
     title: Скачать аудиозапись в mp3 (21 мин 32 сек, размер 10 Мб)
+legacy:
+  title: 222. Ведическая концепция Кали. 1982.01.13.B1
+  index: "222"
+  filename: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1.md
 ---
-
-# 222. Ведическая концепция Кали. 1982.01.13.B1
 
 *#00:00:00#*
 

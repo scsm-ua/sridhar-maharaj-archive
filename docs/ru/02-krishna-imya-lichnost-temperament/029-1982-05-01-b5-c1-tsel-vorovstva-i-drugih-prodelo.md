@@ -1,5 +1,14 @@
 ---
 slug: 029-1982-05-01-b5-c1-tsel-vorovstva-i-drugih-prodelo
+record_id: 1982.05.01.B5.C1
+title: Цель воровства и других проделок Кришны в отношениях с преданными
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4923641
+  duration: 00:05:02
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.mp3
+date: 1982-05-01
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -10,7 +19,6 @@ tags:
     slug: dzhagannath
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.mp3
     title: аудиозапись в MP3 (05 мин. 01 сек., 4.7 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 029. 1982.05.01.B5.C1 Цель воровства и других проделок Кришны
+    в отношениях с преданными
+  index: "029"
+  filename: 029-1982-05-01-b5-c1-tsel-vorovstva-i-drugih-prodelo.md
 ---
-
-# 029. 1982.05.01.B5.C1 Цель воровства и других проделок Кришны в отношениях с преданными
 
 Без Его воли ничто не может произойти. И почему? Чтобы увеличить жажду служения в наших сердцах. Такова Его цель. Вновь, более интенсивным образом займи себя в служении. Для этого Он отнимает. *Махабхагавата*-преданный видит, таким образом, какова цель, какой смысл Его воровства: занять нас более интенсивным образом в служении. Так нам говорил Гуру Махарадж.
 

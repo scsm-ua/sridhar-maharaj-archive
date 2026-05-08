@@ -1,12 +1,20 @@
 ---
 slug: 982-1982-07-08-a5-blagodarya-glubokoj-meditatsii-vliyanie-vneshnej-sredy-oslabevaet
+record_id: 1982.07.08.A5
+title: Благодаря глубокой медитации влияние внешней среды ослабевает
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4022094
+  duration: 00:03:18
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/982_1982.07.08.A5_SridharMj_Blagodarja_glubokoj_meditacii_vlijanie_vneshnej_sredy_oslabevaet.mp3
+date: 1982-07-08
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/982_1982.07.08.A5_SridharMj_Blagodarja_glubokoj_meditacii_vlijanie_vneshnej_sredy_oslabevaet.mp3
     title: аудиозапись в MP3 (3 мин. 18 сек., 3,9 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/982_1982.07.08.A5_SridharMj_Blagodarja_glubokoj_meditacii_vlijanie_vneshnej_sredy_oslabevaet.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 982. 1982.07.08.A5. Благодаря глубокой медитации влияние внешней среды
+    ослабевает
+  index: "982"
+  filename: 982-1982-07-08-a5-blagodarya-glubokoj-meditatsii-vliyanie-vneshnej-sredy-oslabevaet.md
 ---
-
-# 982. 1982.07.08.A5. Благодаря глубокой медитации влияние внешней среды ослабевает
 
 **Шрила Шридхар Махарадж:** Внутри — *према-раса.* Оно будет умащать тело, все существо, и что тогда способны сделать горячие солнечные лучи? У меня есть такой опыт. Иногда под лучами жаркого солнца я ходил босиком, повторял Имя, и медитировал на то, как Махапрабху идет на юг Индии, чтобы распространять Имя Кришны: «Кришна, Кришна, Кришна, Кришна, Кришна, Кришна, Кришна…» — таким образом Он идет, танцуя. Распространяя, раздавая Имя, Он блуждает, странствует, идет на юг. Эта идея очень привлекала меня.
 

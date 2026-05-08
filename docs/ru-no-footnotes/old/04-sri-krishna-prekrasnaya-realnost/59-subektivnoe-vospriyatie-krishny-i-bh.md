@@ -1,5 +1,14 @@
 ---
 slug: 59-subektivnoe-vospriyatie-krishny-i-bh
+record_id: 1985.05.01.B4
+title: Субъективное восприятие Кришны и «Бхагавад-гиты».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2783128
+  duration: 00:03:08
+  mp3: /wp-content/uploads/2012/08/059_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
+date: 1985-05-01
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
@@ -10,13 +19,14 @@ tags:
     slug: bhagavad-gita
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/059_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
     title: Скачать аудиозапись в mp3 (3 мин 8 сек, размер 2 Мб)
+legacy:
+  title: 59. Субъективное восприятие Кришны и «Бхагавад-гиты». 1985.05.01.B4
+  index: "59"
+  filename: 59-subektivnoe-vospriyatie-krishny-i-bh.md
 ---
-
-# 59. Субъективное восприятие Кришны и «Бхагавад-гиты». 1985.05.01.B4
 
 **Шридхар Махарадж:** Отвергая все впечатления прошлой жизни, прошлого, все виды практики, они должны быть также отвергнуты, и только сознание Кришны и оно представлено Махапраьху Шри Чайтанья-девом. Оно также представлено многими, даже анархисты уважают, уважают Кришну, Бхагават-гиту. Они черпают вдохновение в Бхагавад-гите.
 

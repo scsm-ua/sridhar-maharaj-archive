@@ -1,12 +1,20 @@
 ---
 slug: 655-1982-04-07-a3-ot-brahmana-k-radha-dasyam
+record_id: 1982.04.07.A3
+title: От Брахмана к Радха-дасьям
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13644580
+  duration: 00:12:59
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/655_1982.04.07.A3_SridharMj_Ot_Brahmana_k_Radha-dasjam.mp3
+date: 1982-04-07
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/655_1982.04.07.A3_SridharMj_Ot_Brahmana_k_Radha-dasjam.mp3
     title: аудиозапись в MP3 (12 мин. 59 сек., 13,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (164 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/655_1982.04.07.A3_SridharMj_Ot_Brahmana_k_Radha-dasjam.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 655. 1982.04.07.A3. От Брахмана к Радха-дасьям
+  index: "655"
+  filename: 655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
 ---
-
-# 655. 1982.04.07.A3. От Брахмана к Радха-дасьям
 
     …дарпане андхе киба кадже
 [^_ftn1]

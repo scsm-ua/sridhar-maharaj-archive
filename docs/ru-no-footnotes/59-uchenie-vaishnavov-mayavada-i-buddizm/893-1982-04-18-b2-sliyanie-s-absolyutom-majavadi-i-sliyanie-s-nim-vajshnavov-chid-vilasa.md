@@ -1,12 +1,20 @@
 ---
 slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
+record_id: 1982.04.18.B2
+title: Слияние с Абсолютом майавади и слияние с Ним вайшнавов (чид-виласа)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3400945
+  duration: 00:03:26
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3
+date: 1982-04-18
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3
     title: аудиозапись в MP3 (3 мин. 25 сек., 3,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 893. 1982.04.18.B2. Слияние с Абсолютом майавади и слияние с Ним
+    вайшнавов (чид-виласа)
+  index: "893"
+  filename: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa.md
 ---
-
-# 893. 1982.04.18.B2. Слияние с Абсолютом майавади и слияние с Ним вайшнавов (чид-виласа)
 
     деха-смр̣ти на̄хи йа̄ра, сам̇са̄ра-кӯпа ка̄ха̄н̇ та̄ра
     та̄ха̄ хаите на̄ ча̄хе уддха̄ра

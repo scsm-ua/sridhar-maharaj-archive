@@ -1,5 +1,14 @@
 ---
 slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
+record_id: 1982.11.02.A5.B1
+title: Бхагавата-дхарма основана на влечении к Абсолютному Центру — Красоте и Любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27084517
+  duration: 00:27:57
+  mp3: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.mp3
+date: 1982-11-02
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.mp3
     title: аудиозапись в MP3 (27 мин. 56 сек., 25,9 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (319 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.pdf
     title: транскрипцию в PDF (200 КБ)
+legacy:
+  title: 547. 1982.11.02.A5.B1. Бхагавата-дхарма основана на влечении к
+    Абсолютному Центру — Красоте и Любви
+  index: "547"
+  filename: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
 ---
-
-# 547. 1982.11.02.A5.B1. Бхагавата-дхарма основана на влечении к Абсолютному Центру — Красоте и Любви
 
     бхидйате хр̣дайа-грантхиш́
     чхидйанте сарва-сам̇ш́айа̄х̣

@@ -1,5 +1,14 @@
 ---
 slug: 114-mnozhestvo-guru-i-duhovnyj-progress-1982-01-3
+record_id: 1982.01.31.B
+title: Множество гуру и духовный прогресс.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19984112
+  duration: 00:39:10
+  mp3: /wp-content/uploads/2012/08/114_1982.01.31.B_SridharMj_Mnojestvo_guru_i_dovniy_progress.mp3
+date: 1982-01-31
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +19,14 @@ tags:
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/114_1982.01.31.B_SridharMj_Mnojestvo_guru_i_dovniy_progress.mp3
     title: Скачать аудиозапись в mp3 (39 мин 10 сек, размер 20 Мб)
+legacy:
+  title: 114. Множество гуру и духовный прогресс. 1982.01.31.B
+  index: "114"
+  filename: 114-mnozhestvo-guru-i-duhovnyj-progress-1982-01-3.md
 ---
-
-# 114. Множество гуру и духовный прогресс. 1982.01.31.B
 
 **Ученик:** были периоды когда, будто бы не было гуру. Если посмотреть на список *гуру* в нашей «Бхагавад-гите», то создаётся такое впечатление, что были периоды, когда отсутствовали *шикша-гуру*. Как нам понять эти исторические бреши, пробелы?
 

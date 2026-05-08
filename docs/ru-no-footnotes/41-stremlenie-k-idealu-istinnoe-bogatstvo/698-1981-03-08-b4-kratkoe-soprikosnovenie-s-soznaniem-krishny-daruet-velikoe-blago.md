@@ -1,12 +1,20 @@
 ---
 slug: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago
+record_id: 1981.03.08.B4
+title: Краткое соприкосновение с Сознанием Кришны дарует великое благо
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6896462
+  duration: 00:09:07
+  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3
+date: 1981-03-08
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3
     title: аудиозапись в MP3 (9 мин. 07 сек., 6,6 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (26 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 698. 1981.03.08.B4. Краткое соприкосновение с Сознанием Кришны дарует
+    великое благо
+  index: "698"
+  filename: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago.md
 ---
-
-# 698. 1981.03.08.B4. Краткое соприкосновение с Сознанием Кришны дарует великое благо
 
 **Преданный:** У меня есть один вопрос, Махарадж. Многие преданные уходят, и я не понимаю, как карма в случае преданных работает? Наш Прабхупад пишет (в Пятой песне [«Шримад-Бхагаватам»], кажется): «Трудно для обычного материалиста…
 

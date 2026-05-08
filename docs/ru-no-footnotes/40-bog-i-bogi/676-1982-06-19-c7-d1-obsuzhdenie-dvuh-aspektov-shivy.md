@@ -1,12 +1,20 @@
 ---
 slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
+record_id: 1982.06.19.C7.D1
+title: Обсуждение двух аспектов Шивы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7933221
+  duration: 00:07:28
+  mp3: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.mp3
+date: 1982-06-19
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.mp3
     title: аудиозапись в MP3 (7 мин. 27 сек., 7,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 676. 1982.06.19.C7.D1. Обсуждение двух аспектов Шивы
+  index: "676"
+  filename: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy.md
 ---
-
-# 676. 1982.06.19.C7.D1. Обсуждение двух аспектов Шивы
 
 **Преданный:** А *шивата* — эта платформа [буквально] — это нечто более высокое, чем состояние порабощенности *майей*?
 

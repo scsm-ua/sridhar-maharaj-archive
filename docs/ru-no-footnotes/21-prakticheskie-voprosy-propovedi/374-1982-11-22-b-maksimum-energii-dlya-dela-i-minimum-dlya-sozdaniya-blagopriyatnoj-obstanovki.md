@@ -1,5 +1,14 @@
 ---
 slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
+record_id: 1982.11.22.B
+title: Максимум энергии для дела – и минимум для создания благоприятной обстановки
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17145678
+  duration: 00:16:59
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3
+date: 1982-11-22
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3
     title: аудиозапись в MP3 (16 мин. 58 сек., 16,4 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (142 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 374. 1982.11.22.B. Максимум энергии для дела – и минимум для создания
+    благоприятной обстановки
+  index: "374"
+  filename: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki.md
 ---
-
-# 374. 1982.11.22.B. Максимум энергии для дела – и минимум для создания благоприятной обстановки
 
 **Джагадиш Прабху:** Махарадж, могу я задать вопрос? Я недавно был инициирован — два года тому назад, но у меня есть некоторый опыт.
 

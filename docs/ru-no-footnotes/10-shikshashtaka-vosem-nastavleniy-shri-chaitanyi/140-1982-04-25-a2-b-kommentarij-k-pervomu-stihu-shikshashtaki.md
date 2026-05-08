@@ -1,5 +1,14 @@
 ---
 slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
+record_id: 1982.04.25.A2.B
+title: Комментарий к первому стиху «Шикшаштаки»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 43672481
+  duration: 00:45:12
+  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/140_1982.04.25.A2.B_SridharMj_Kommentarij_k_pervomu_stihu_Shikshashtaki.mp3
+date: 1982-04-25
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Шикшаштакам
     slug: shikshashtakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/140_1982.04.25.A2.B_SridharMj_Kommentarij_k_pervomu_stihu_Shikshashtaki.mp3
     title: аудиозапись в MP3 (45 мин. 12 сек., 67,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (371 КБ)
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/140_1982.04.25.A2.B_SridharMj_Kommentarij_k_pervomu_stihu_Shikshashtaki.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 140. 1982.04.25.A2.B. Комментарий к первому стиху «Шикшаштаки»
+  index: "140"
+  filename: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki.md
 ---
-
-# 140. 1982.04.25.A2.B. Комментарий к первому стиху «Шикшаштаки»
 
 **Джаятиртха Махарадж:** Шридхардев Госвами!
 

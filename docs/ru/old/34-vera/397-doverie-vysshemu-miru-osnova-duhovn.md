@@ -1,5 +1,14 @@
 ---
 slug: 397-doverie-vysshemu-miru-osnova-duhovn
+record_id: 1983.01.02.A1
+title: Доверие высшему миру — основа духовной жизни.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6692551
+  duration: 00:12:56
+  mp3: /wp-content/uploads/2012/08/397_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
+date: 1983-01-02
 category:
   title: (34. Вера)
   slug: 34-vera
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Вера
     slug: vera
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/397_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
     title: Скачать аудиозапись в mp3 (12 мин 56 сек, размер 6 Мб)
+legacy:
+  title: 397. Доверие высшему миру  — основа духовной жизни. 1983.01.02.A1
+  index: "397"
+  filename: 397-doverie-vysshemu-miru-osnova-duhovn.md
 ---
-
-# 397. Доверие высшему миру  — основа духовной жизни. 1983.01.02.A1
 
 *#00:00:00#*
 

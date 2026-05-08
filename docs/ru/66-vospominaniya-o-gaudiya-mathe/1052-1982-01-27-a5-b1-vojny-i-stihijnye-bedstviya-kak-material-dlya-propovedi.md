@@ -1,12 +1,20 @@
 ---
 slug: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi
+record_id: 1982.01.27.A5.B1
+title: Войны и стихийные бедствия как материал для проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9645892
+  duration: 00:19:02
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
+date: 1982-01-27
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
     title: аудиозапись в MP3 (19 мин. 01 сек., 9,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 1052. 1982.01.27.A5.B1. Войны и стихийные бедствия как материал для проповеди
+  index: "1052"
+  filename: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi.md
 ---
-
-# 1052. 1982.01.27.A5.B1. Войны и стихийные бедствия как материал для проповеди
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари.
 

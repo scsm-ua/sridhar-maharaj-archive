@@ -1,5 +1,14 @@
 ---
 slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
+record_id: 1982.05.13.B.C1.C3
+title: Рамананда-самвада. Беседа Махапрабху и Раманады Рая
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 70997002
+  duration: 01:13:42
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3
+date: 1982-05-13
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3
     title: аудиозапись в MP3 (1 час 13 мин. 42 сек., 67,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (68 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.pdf
     title: транскрипцию в PDF (273 КБ)
+legacy:
+  title: 134. 1982.05.13.B.C1.C3. Рамананда-самвада. Беседа Махапрабху и Раманады Рая
+  index: "134"
+  filename: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
 ---
-
-# 134. 1982.05.13.B.C1.C3. Рамананда-самвада. Беседа Махапрабху и Раманады Рая
 
 Харе Кришна, Харе Кришна.
 

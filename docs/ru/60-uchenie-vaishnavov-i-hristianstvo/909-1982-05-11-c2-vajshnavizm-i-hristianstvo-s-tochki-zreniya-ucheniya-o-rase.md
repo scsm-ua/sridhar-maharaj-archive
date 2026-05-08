@@ -1,5 +1,14 @@
 ---
 slug: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase
+record_id: 1982.05.11.C2
+title: Вайшнавизм и христианство с точки зрения учения о расе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8384397
+  duration: 00:06:58
+  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3
+date: 1982-05-11
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
@@ -10,7 +19,6 @@ tags:
     slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 2.4.1
     slug: taittiriya-upanishad-2-4-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3
     title: аудиозапись в MP3 (6 мин. 57 сек., 8,0 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 909. 1982.05.11.C2. Вайшнавизм и христианство с точки зрения учения о расе
+  index: "909"
+  filename: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase.md
 ---
-
-# 909. 1982.05.11.C2. Вайшнавизм и христианство с точки зрения учения о расе
 
 **Госвами Махарадж:** А вот христиане? У них есть представление о ревнивом Боге, мстительном.
 

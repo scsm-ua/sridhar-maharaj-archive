@@ -1,12 +1,20 @@
 ---
 slug: 918-1982-04-23-a3-slava-radha-deshi
+record_id: 1982.04.23.A3
+title: Слава Радха-деши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4651321
+  duration: 00:04:39
+  mp3: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3
+date: 1982-04-23
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 4,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 918. 1982.04.23.A3. Слава Радха-деши
+  index: "918"
+  filename: 918-1982-04-23-a3-slava-radha-deshi.md
 ---
-
-# 918. 1982.04.23.A3. Слава Радха-деши
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

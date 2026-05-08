@@ -1,5 +1,14 @@
 ---
 slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
+record_id: 1982.01.17.A4
+title: История Ачьютананды. О сыновьях Адвайты Ачарьи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7198616
+  duration: 00:09:00
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
+date: 1982-01-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -26,7 +35,6 @@ tags:
     slug: manah-shiksha-2
   - title: Манах-шикша 1
     slug: manah-shiksha-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 6,9 МБ)
@@ -34,11 +42,13 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
+  index: "940"
+  filename: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
 ---
 
-# 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
-
-    [чид-а̄нанда-бха̄нох̣ сада̄ нанда-сӯнох̣
+[чид-а̄нанда-бха̄нох̣ сада̄ нанда-сӯнох̣
     пара-према-па̄трӣ драва-брахма-га̄трӣ]
     агха̄на̄м̇ лавитрӣ джагат-кш̣ема-дха̄трӣ
     павитрӣ-крийа̄н но вапур митра-путрӣ

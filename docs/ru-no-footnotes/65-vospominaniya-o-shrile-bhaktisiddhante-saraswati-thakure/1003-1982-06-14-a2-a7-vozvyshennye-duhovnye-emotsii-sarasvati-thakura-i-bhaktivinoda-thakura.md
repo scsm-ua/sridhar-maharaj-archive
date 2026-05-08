@@ -1,12 +1,20 @@
 ---
 slug: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura
+record_id: 1982.06.14.A2.A7
+title: Возвышенные духовные эмоции Сарасвати Тхакура и Бхактивинода Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7465784
+  duration: 00:07:09
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.mp3
+date: 1982-06-14
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.mp3
     title: аудиозапись в MP3 (7 мин. 09 сек., 7,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1003. 1982.06.14.A2.A7. Возвышенные духовные эмоции Сарасвати Тхакура и
+    Бхактивинода Тхакура
+  index: "1003"
+  filename: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura.md
 ---
-
-# 1003. 1982.06.14.A2.A7. Возвышенные духовные эмоции Сарасвати Тхакура и Бхактивинода Тхакура
 
 **Шрила Шридхар Махарадж:** Он публиковал «Чайтанья-чаритамриту» и другие книги в одиночку, независимо, с помощью печатного станка. Он не мог жить без печатного станка, Бхактисиддханта Сарасвати. Типографский станок служит ему оружием.
 

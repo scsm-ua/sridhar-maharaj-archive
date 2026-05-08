@@ -1,5 +1,14 @@
 ---
 slug: 372-1983-03-30-b3-1-strategiya-propovedi
+record_id: 1983.03.30.B3.1
+title: Стратегия проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5803322
+  duration: 00:09:55
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.mp3
+date: 1983-03-30
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-03
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 372. 1983.03.30.B3.1. Стратегия проповеди
+  index: "372"
+  filename: 372-1983-03-30-b3-1-strategiya-propovedi.md
 ---
-
-# 372. 1983.03.30.B3.1. Стратегия проповеди
 
 **Преданный:** У меня было несколько смущающих меня мыслей. Я пытаюсь служить Абсолютному Благу в Малайзии. Много хорошего происходит, но в то же время сопротивление очень велико.
 

@@ -1,12 +1,20 @@
 ---
 slug: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha
+record_id: 1982.11.07.C5
+title: Шрила Шридхар Махарадж как духовный наставник Гаудия Матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2930635
+  duration: 00:02:31
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3
+date: 1982-11-07
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3
     title: аудиозапись в MP3 (2 мин. 31 сек., 2,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 1044. 1982.11.07.C5. Шрила Шридхар Махарадж как духовный наставник Гаудия
+    Матха
+  index: "1044"
+  filename: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha.md
 ---
-
-# 1044. 1982.11.07.C5. Шрила Шридхар Махарадж как духовный наставник Гаудия Матха
 
 **Преданный:** Гуру Махарадж, я слышал, что многие *санньяси* в Гаудия Матхе, называют вас «*шикша-гуру*». Они принимают вас в качестве авторитета, это правда? Я видел время от времени, как члены Гаудия Матха приходят иногда, задают вам вопросы.
 

@@ -1,5 +1,13 @@
 ---
 slug: 33-pomoshh-advajty-i-nityanandy-v-razvit
+title: Помощь Адвайты и Нитьянанды в развитии преданности. Онтология прекрасной
+  реальности, часть 5.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3271296
+  duration: 00:06:35
+  mp3: /wp-content/uploads/2012/08/033_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -14,13 +22,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/033_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
     title: Скачать аудиозапись в mp3 (6 мин 35 сек, размер 3 Мб)
+legacy:
+  title: 33. Помощь Адвайты и Нитьянанды в развитии преданности. Онтология
+    прекрасной реальности, часть 5.6
+  index: "33"
+  filename: 33-pomoshh-advajty-i-nityanandy-v-razvit.md
 ---
-
-# 33. Помощь Адвайты и Нитьянанды в развитии преданности. Онтология прекрасной реальности, часть 5.6
 
 **Ученик:** Махарадж, Вы часто говорите, как Нитьянанда Прабху помогает нам в практике преданного служения.
 

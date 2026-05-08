@@ -1,5 +1,12 @@
 ---
 slug: 1148-shri-dajita-dasa-pranati-panchakam
+title: Шри Дайита Даса Пранати Панчакам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18873499
+  duration: 00:07:51
+  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа
@@ -7,7 +14,6 @@ category:
 tags:
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.mp3
     title: аудиозапись в MP3 (7 мин. 50 сек., 18,0 МБ)
@@ -15,9 +21,11 @@ links:
     title: транскрипцию в RTF (17 КБ)
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 1148. Шри Дайита Даса Пранати Панчакам
+  index: "1148"
+  filename: 1148-shri-dajita-dasa-pranati-panchakam.md
 ---
-
-# 1148. Шри Дайита Даса Пранати Панчакам
 
 **(выражение почтения Ш́рӣле Бхактисиддха̄нте Сарасвати Т̣ха̄куру Ш́рӣлой Бхакти Ракш̣аком Ш́рӣдхаром Дев-Госва̄мӣ Маха̄ра̄джем)**
 

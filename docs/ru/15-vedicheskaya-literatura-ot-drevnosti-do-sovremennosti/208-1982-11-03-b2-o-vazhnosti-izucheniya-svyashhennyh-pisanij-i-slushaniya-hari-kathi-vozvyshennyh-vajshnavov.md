@@ -1,5 +1,15 @@
 ---
 slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
+record_id: 1982.11.03.B2
+title: О важности изучения Священных Писаний и слушания хари-катхи возвышенных
+  вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10781017
+  duration: 00:10:32
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3
+date: 1982-11-03
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -28,7 +38,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3
     title: аудиозапись в MP3 (10 мин. 31 сек., 10,3 МБ)
@@ -36,9 +45,12 @@ links:
     title: транскрипцию в RTF (150 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 208. 1982.11.03.B2. О важности изучения Священных Писаний и слушания
+    хари-катхи возвышенных вайшнавов
+  index: "208"
+  filename: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov.md
 ---
-
-# 208. 1982.11.03.B2. О важности изучения Священных Писаний и слушания хари-катхи возвышенных вайшнавов
 
 **Шрила Джаджавар Махарадж:**
 

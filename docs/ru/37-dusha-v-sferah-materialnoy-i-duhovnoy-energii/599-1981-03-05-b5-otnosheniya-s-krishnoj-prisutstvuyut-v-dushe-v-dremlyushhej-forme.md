@@ -1,5 +1,14 @@
 ---
 slug: 599-1981-03-05-b5-otnosheniya-s-krishnoj-prisutstvuyut-v-dushe-v-dremlyushhej-forme
+record_id: 1981.03.05.B5
+title: Отношения с Кришной присутствуют в душе в дремлющей форме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4320214
+  duration: 00:05:36
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/599_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
+date: 1981-03-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/599_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
     title: аудиозапись в MP3 (5 мин. 36 сек., 4,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/599_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 599. 1981.03.05.B5. Отношения с Кришной присутствуют в душе в дремлющей форме
+  index: "599"
+  filename: 599-1981-03-05-b5-otnosheniya-s-krishnoj-prisutstvuyut-v-dushe-v-dremlyushhej-forme.md
 ---
-
-# 599. 1981.03.05.B5. Отношения с Кришной присутствуют в душе в дремлющей форме
 
 **Преданный:** У нас была здесь дискуссия в храме. кто-то сказал, что живое существо исходит из *Брахмаджйоти*, а другие говорили, что живое существо изначально находилось с Кришной, в мире сознания Кришны.
 

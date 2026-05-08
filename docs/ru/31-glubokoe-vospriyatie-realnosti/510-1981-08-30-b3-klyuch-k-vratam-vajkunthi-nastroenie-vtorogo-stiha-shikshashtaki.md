@@ -1,5 +1,14 @@
 ---
 slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
+record_id: 1981.08.30.B3
+title: Ключ к вратам Вайкунтхи. Настроение второго стиха Шикшаштаки
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5023837
+  duration: 00:09:06
+  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.mp3
+date: 1981-08-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
@@ -26,7 +35,6 @@ tags:
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.mp3
     title: аудиозапись в MP3 (9 мин. 06 сек., 4,8 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 510. 1981.08.30.B3. Ключ к вратам Вайкунтхи. Настроение второго стиха
+    Шикшаштаки
+  index: "510"
+  filename: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki.md
 ---
-
-# 510. 1981.08.30.B3. Ключ к вратам Вайкунтхи. Настроение второго стиха Шикшаштаки
 
 **Акхаянанда Махарадж:** Махарадж, Господь Чайтанья молится:
 

@@ -1,5 +1,14 @@
 ---
 slug: 1030-1982-02-23-b3-duhovnyj-uchitel-mozhet-yavlyat-sebya-v-raznyh-oblikah
+record_id: 1982.02.23.B3
+title: Духовный учитель может являть себя в разных обликах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3532704
+  duration: 00:07:49
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
+date: 1982-02-23
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 3,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 1030. 1982.02.23.B3. Духовный учитель может являть себя в разных обликах
+  index: "1030"
+  filename: 1030-1982-02-23-b3-duhovnyj-uchitel-mozhet-yavlyat-sebya-v-raznyh-oblikah.md
 ---
-
-# 1030. 1982.02.23.B3. Духовный учитель может являть себя в разных обликах
 
 *Мгновения Прекрасной Реальности (часть 6.3)*
 

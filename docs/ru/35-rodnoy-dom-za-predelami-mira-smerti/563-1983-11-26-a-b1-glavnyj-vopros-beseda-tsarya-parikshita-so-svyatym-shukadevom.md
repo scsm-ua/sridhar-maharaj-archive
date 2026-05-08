@@ -1,5 +1,14 @@
 ---
 slug: 563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom
+record_id: 1983.11.26.A.B1
+title: Главный вопрос. Беседа царя Парикшита со святым Шукадевом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 44855660
+  duration: 00:43:43
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.mp3
+date: 1983-11-26
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -80,7 +89,6 @@ tags:
     slug: dainya-o-prapatti-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.mp3
     title: аудиозапись в MP3 (43 мин. 43 сек., 42,8 МБ)
@@ -88,9 +96,12 @@ links:
     title: транскрипцию в RTF (388 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.pdf
     title: транскрипцию в PDF (212 КБ)
+legacy:
+  title: 563. 1983.11.26.A.B1. Главный вопрос. Беседа царя Парикшита со святым
+    Шукадевом
+  index: "563"
+  filename: 563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
 ---
-
-# 563. 1983.11.26.A.B1. Главный вопрос. Беседа царя Парикшита со святым Шукадевом
 
 Через семь дней он [Парикшит Махарадж] должен был умереть от укуса змея. Он [*брахман*, которому Парикшит Махарадж набросил мертвую змею на шею] вышел из *самадхи* и сказал сыну: «Этот человек очень религиозен, он не совершил ничего дурного, его намерения были благими, поэтому устрани свое проклятие». Он пытался, но не мог устранить, отозвать проклятие. Тогда что делать? Он послал своих учеников к Парикшиту Махараджу и сообщил им о том, что случилось подобное, и царь должен быть готов. Мальчик сказал: несомненно, проклятие возымеет силу.
 

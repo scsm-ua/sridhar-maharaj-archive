@@ -1,5 +1,14 @@
 ---
 slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
+record_id: 1983.11.23.B5
+title: О названии реки «Годавари». Символические смыслы образа коров
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10624470
+  duration: 00:10:49
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3
+date: 1983-11-23
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3
     title: аудиозапись в MP3 (10 мин. 48 сек., 10,2 МБ)
@@ -22,11 +30,14 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 139. 1983.11.23.B5. О названии реки «Годавари». Символические смыслы
+    образа коров
+  index: "139"
+  filename: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov.md
 ---
 
-# 139. 1983.11.23.B5. О названии реки «Годавари». Символические смыслы образа коров
-
-    бхаджа гаура̄н̇га каха гаура̄н̇га,
+бхаджа гаура̄н̇га каха гаура̄н̇га,
     лаха гаура̄н̇гера на̄ма
     йен джана гаура̄н̇га бхадже,
     сеи хайа а̄ма̄р пра̄н̣а

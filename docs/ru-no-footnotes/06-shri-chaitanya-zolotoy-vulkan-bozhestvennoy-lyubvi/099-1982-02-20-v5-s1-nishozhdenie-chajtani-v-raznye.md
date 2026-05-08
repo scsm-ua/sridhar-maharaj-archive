@@ -1,5 +1,14 @@
 ---
 slug: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye
+record_id: 1982.02.20.B5.C1
+title: Нисхождение Чайтаньи в разные эпохи. Опустошение вселенной
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10872821
+  duration: 00:10:25
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3
+date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3
     title: аудиозапись в MP3 (10 мин. 24 сек., 10 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 099. 1982.02.20.В5.С1 Нисхождение Чайтаньи в разные эпохи. Опустошение
+    вселенной
+  index: "099"
+  filename: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye.md
 ---
-
-# 099. 1982.02.20.В5.С1 Нисхождение Чайтаньи в разные эпохи. Опустошение вселенной
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

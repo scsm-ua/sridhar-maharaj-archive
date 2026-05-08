@@ -1,12 +1,20 @@
 ---
 slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
+record_id: 1982.01.13.B1
+title: Ведическая концепция Кали
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11107828
+  duration: 00:21:32
+  mp3: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
+date: 1982-01-13
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
     title: аудиозапись в MP3 (21 мин. 32 сек., 10,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (204 КБ)
   - href: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.pdf
     title: транскрипцию в PDF (174КБ)
+legacy:
+  title: 680. 1982.01.13.B1. Ведическая концепция Кали
+  index: "680"
+  filename: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali.md
 ---
-
-# 680. 1982.01.13.B1. Ведическая концепция Кали
 
 **Преданный:** Махарадж, каким образом концепция добра и зла явилась, возникла? Концепция добра и зла — как она появилась, эта концепция?
 

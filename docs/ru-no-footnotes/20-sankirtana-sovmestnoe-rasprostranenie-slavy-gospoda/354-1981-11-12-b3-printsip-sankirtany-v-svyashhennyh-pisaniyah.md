@@ -1,5 +1,14 @@
 ---
 slug: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah
+record_id: 1981.11.12.B3
+title: Принцип санкиртаны в Священных Писаниях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7198772
+  duration: 00:14:34
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
+date: 1981-11-12
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1981-11
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
     title: аудиозапись в MP3 (14 мин. 33 сек., 6,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 354. 1981.11.12.B3. Принцип санкиртаны в Священных Писаниях
+  index: "354"
+  filename: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah.md
 ---
-
-# 354. 1981.11.12.B3. Принцип санкиртаны в Священных Писаниях
 
 В «Чайтанья Бхагавате» Вриндаван Дас Тхакур говорит: «Один человек кормит самого себя. Другой человек не только самого себя кормит, но и сотню людей вокруг. Кто из них лучше, первый или второй?» Когда совершается *санкиртан*, благо получают много людей, а когда человек совершает *джапу* (повторяет Святые Имена для самого себя), то он приносит благо только самому себе. *Санкиртана* означает «проповедь», истинное значение *санкиртаны* — это не только громко петь под музыку, под инструменты, нет, это означает проповедовать, более широкий смысл. *Санкиртана* — это проповедь, отдавать всего себя, все свои способности совершению *киртана*, проповеди *киртана*, утверждения *киртана*.
 

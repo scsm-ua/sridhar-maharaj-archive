@@ -1,5 +1,14 @@
 ---
 slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
+record_id: 1981.03.08.A.B3
+title: Победа над вожделением согласно учению «Гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7694397
+  duration: 00:12:38
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
+date: 1981-03-08
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
     title: аудиозапись в MP3 (12 мин. 38 сек., 7,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 587. 1981.03.08.A.B3. Победа над вожделением согласно учению «Гиты»
+  index: "587"
+  filename: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity.md
 ---
-
-# 587. 1981.03.08.A.B3. Победа над вожделением согласно учению «Гиты»
 
 **Преданный:** У меня есть один вопрос.
 

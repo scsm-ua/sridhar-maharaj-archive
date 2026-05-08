@@ -1,5 +1,14 @@
 ---
 slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
+record_id: 1983.03.28
+title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15416499
+  duration: 00:31:03
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
+date: 1983-03-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
@@ -66,7 +75,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
     title: аудиозапись в MP3 (31 мин. 03 сек., 14,8 МБ)
@@ -74,9 +82,12 @@ links:
     title: транскрипцию в RTF (342 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.pdf
     title: транскрипцию в PDF (202 КБ)
+legacy:
+  title: 1114. 1983.03.28. Госвами Махарадж презентует Шридхару Махараджу книгу
+    «Поиск Шри Кришны»
+  index: "1114"
+  filename: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
 ---
-
-# 1114. 1983.03.28. Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
 
 **Госвами Махарадж:** Она начинается с предисловия Шрилы Бхактивиноды Тхакура, его речь, посвященная «Бхагаватам», о принципе нового откровения. Затем после Бхактивинода Тхакура идет его изображение и его предисловие. Затемч — предисловие, написанное нашим Гуру Махараджем [А.Ч. Бхактиведантой Свами Прабхупадой], он говорит в нем о вас. Далее — изображение нашего Гуру Махараджа и вас, вы сидите на *вьясасане*. Это Шрила Бхактисиддханта Сарасвати. Это изображение Вашей Божественной Милости, это — список ваших книг: «Амброзия в жизни предавшихся душ», «Поиск Шри Кришны, Прекрасной Реальности», «Шри Гуру и его милость», «Шикшаштака», «Према-дхама-дева-стотрам», «Прапанна-дживанамритам», Бхагавад-гита, «Бхакти-расамрита-синдху». Синдхукирта Манджуша(?) и основатель журнала «Гаудия-даршан» указаны здесь. Это вступление, в котором речь идет о *расе*: каждый ищет *расу*, *кришна-анусандхан*. Далее вы говорите о *кришна-анусандхане*, поиске Шри Кришны.
 

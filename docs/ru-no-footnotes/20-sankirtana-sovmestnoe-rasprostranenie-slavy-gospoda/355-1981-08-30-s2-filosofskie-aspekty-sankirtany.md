@@ -1,5 +1,14 @@
 ---
 slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
+record_id: 1981.08.30.C2
+title: Философские аспекты санкиртаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2520555
+  duration: 00:04:49
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
+date: 1981-08-30
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1981-08
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
     title: аудиозапись в MP3 (4 мин. 49 сек., 2,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 355. 1981.08.30.С2. Философские аспекты санкиртаны
+  index: "355"
+  filename: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany.md
 ---
-
-# 355. 1981.08.30.С2. Философские аспекты санкиртаны
 
 **Преданный:** Махарадж?
 

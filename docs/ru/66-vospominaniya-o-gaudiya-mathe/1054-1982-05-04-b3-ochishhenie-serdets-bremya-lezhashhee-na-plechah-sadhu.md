@@ -1,5 +1,14 @@
 ---
 slug: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu
+record_id: 1982.05.04.B3
+title: Очищение сердец – бремя, лежащее на плечах садху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5112287
+  duration: 00:04:48
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3
+date: 1982-05-04
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
@@ -12,7 +21,6 @@ tags:
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.5"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3
     title: аудиозапись в MP3 (4 мин. 47 сек., 4,9 МБ)
@@ -20,11 +28,13 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1054. 1982.05.04.B3. Очищение сердец – бремя, лежащее на плечах садху
+  index: "1054"
+  filename: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu.md
 ---
 
-# 1054. 1982.05.04.B3. Очищение сердец – бремя, лежащее на плечах садху
-
-    …манда натха! бхага хамара
+…манда натха! бхага хамара
 [^_ftn1]
 
 [Каким образом?]

@@ -1,5 +1,14 @@
 ---
 slug: 273-vysochajshee-polozhenie-shrimati-radhar
+record_id: 1983.05.09.C2
+title: Высочайшее положение Шримати Радхарани.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1221653
+  duration: 00:01:54
+  mp3: /wp-content/uploads/2012/08/273_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3
+date: 1983-05-09
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -8,13 +17,14 @@ tags:
     slug: 1983-05
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/273_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3
     title: Скачать аудиозапись в mp3 (1 мин 54 сек, размер 1 Мб)
+legacy:
+  title: 273. Высочайшее положение Шримати Радхарани. 1983.05.09.C2
+  index: "273"
+  filename: 273-vysochajshee-polozhenie-shrimati-radhar.md
 ---
-
-# 273. Высочайшее положение Шримати Радхарани. 1983.05.09.C2
 
 **Преданный:** Гуру Махарадж, Вы говорили, что Шримати Радхарани занимает высочайшее положение, потому что она распространяет славу Кришны.
 

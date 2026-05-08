@@ -1,5 +1,14 @@
 ---
 slug: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda
+record_id: 1982.01.07.A1
+title: Величие Святого Имени Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18132877
+  duration: 00:37:07
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/333_1982.01.07.A1_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
+date: 1982-01-07
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -50,7 +59,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/333_1982.01.07.A1_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
     title: аудиозапись в MP3 (37 мин. 07 сек., 17,3 МБ)
@@ -58,9 +66,11 @@ links:
     title: транскрипцию в RTF (365 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/333_1982.01.07.A1_SridharMj_Velichie_svyatogo_imeni_Gospoda.pdf
     title: транскрипцию в PDF (200 КБ)
+legacy:
+  title: 333. 1982.01.07.A1. Величие Святого Имени Господа
+  index: "333"
+  filename: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
 ---
-
-# 333. 1982.01.07.A1. Величие Святого Имени Господа
 
 Сарасвати Тхакур практически всегда говорил о Махапрабху, настолько, что я написал о нем:
 

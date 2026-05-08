@@ -1,12 +1,20 @@
 ---
 slug: 633-1982-05-15-b2-bala-gyana-kriya-volya-myshlenie-i-chuvstva
+record_id: 1982.05.15.B2
+title: Бала, гьяна, крия – воля, мышление и чувства
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6835335
+  duration: 00:06:09
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.mp3
+date: 1982-05-15
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.mp3
     title: аудиозапись в MP3 (6 мин. 08 сек., 6,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 633. 1982.05.15.B2. Бала, гьяна, крия – воля, мышление и чувства
+  index: "633"
+  filename: 633-1982-05-15-b2-bala-gyana-kriya-volya-myshlenie-i-chuvstva.md
 ---
-
-# 633. 1982.05.15.B2. Бала, гьяна, крия – воля, мышление и чувства
 
 **Шрила Шридхар Махарадж:** Махарадж явился в этом мире в день Джанмаштами (День Явления Кришны), Нандотсав. А его уход…
 

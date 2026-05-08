@@ -1,5 +1,14 @@
 ---
 slug: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv
+record_id: 1982.05.15.B4
+title: Два призыва Махапрабху о культивировании и проповеди Сознания Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8804760
+  duration: 00:08:16
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3
+date: 1982-05-15
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -10,7 +19,6 @@ tags:
     slug: istoriya
   - title: история о знании Тамильского языка
     slug: istoriya-o-znanii-tamilskogo-yazyka
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3
     title: аудиозапись в MP3 (08 мин. 15 сек., 8.4 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 077. 1982.05.15.B4. Два призыва Махапрабху о культивировании и проповеди
+    Сознания Кришны
+  index: "077"
+  filename: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv.md
 ---
-
-# 077. 1982.05.15.B4. Два призыва Махапрабху о культивировании и проповеди Сознания Кришны
 
 Когда Свами Махарадж находился в Америке, он написал, выразил опасение, что скоро покинет мир. Он написал (так я слышал): «Если я умру, то не падайте духом. Думайте о вашем дедушке [имеется в виду Шрила Бхактисиддханта Сарасвати]. Ваш дед жив. Не падайте духом, продолжайте. Продолжайте бесстрашно. Мужественно продолжайте пропаганду, ваш дед позаботится о вас». Милость, благодать присутствует в различных формах.
 

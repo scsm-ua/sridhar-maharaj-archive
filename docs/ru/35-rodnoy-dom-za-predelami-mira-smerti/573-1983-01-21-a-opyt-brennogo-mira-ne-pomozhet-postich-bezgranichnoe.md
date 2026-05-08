@@ -1,5 +1,14 @@
 ---
 slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
+record_id: 1983.01.21.A
+title: Опыт бренного мира не поможет постичь Безграничное
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19995772
+  duration: 00:35:38
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
+date: 1983-01-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -64,7 +73,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
     title: аудиозапись в MP3 (35 мин. 38 сек., 19,1 МБ)
@@ -72,9 +80,11 @@ links:
     title: транскрипцию в RTF (289 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
+  index: "573"
+  filename: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe.md
 ---
-
-# 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
 
 **Научное знание — это деградация духовности**
 

@@ -1,5 +1,14 @@
 ---
 slug: 441-1983-05-09-b1-sleduj-za-angelami
+record_id: 1983.05.09.B1
+title: Следуй за ангелами!
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7520957
+  duration: 00:14:21
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
+date: 1983-05-09
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-05
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
     title: аудиозапись в MP3 (14 мин. 21 сек., 7,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 441. 1983.05.09.B1. Следуй за ангелами!
+  index: "441"
+  filename: 441-1983-05-09-b1-sleduj-za-angelami.md
 ---
-
-# 441. 1983.05.09.B1. Следуй за ангелами!
 
 [Говорит на бенгали.]
 

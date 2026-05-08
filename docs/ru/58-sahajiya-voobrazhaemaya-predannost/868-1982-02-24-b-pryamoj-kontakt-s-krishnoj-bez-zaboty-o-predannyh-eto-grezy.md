@@ -1,12 +1,20 @@
 ---
 slug: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy
+record_id: 1982.02.24.B
+title: Прямой контакт с Кришной без заботы о преданных – это грезы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7536900
+  duration: 00:05:35
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3
+date: 1982-02-24
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 7,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 868. 1982.02.24.B. Прямой контакт с Кришной без заботы о преданных – это
+    грезы
+  index: "868"
+  filename: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy.md
 ---
-
-# 868. 1982.02.24.B. Прямой контакт с Кришной без заботы о преданных – это грезы
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол]
 

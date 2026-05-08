@@ -1,5 +1,14 @@
 ---
 slug: 146-predskazanie-shrily-bhaktivinoda-tha
+record_id: 1982.01.21.B2
+title: Предсказание Шрилы Бхактивинода Тхакура.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7902177
+  duration: 00:12:06
+  mp3: /wp-content/uploads/2012/08/146_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
+date: 1982-01-21
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/146_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
     title: Скачать аудиозапись в mp3 (7 мин 6 сек, размер 7 Мб)
+legacy:
+  title: 146. Предсказание Шрилы Бхактивинода Тхакура. 1982.01.21.B2
+  index: "146"
+  filename: 146-predskazanie-shrily-bhaktivinoda-tha.md
 ---
-
-# 146. Предсказание Шрилы Бхактивинода Тхакура. 1982.01.21.B2
 
 **Ученик:** Кто та личность, которая вдохновила Бхактивинода проповедовать на Западе?
 

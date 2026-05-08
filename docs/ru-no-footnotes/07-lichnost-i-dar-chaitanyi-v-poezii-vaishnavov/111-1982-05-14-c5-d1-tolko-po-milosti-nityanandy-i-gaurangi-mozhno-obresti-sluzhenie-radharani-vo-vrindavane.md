@@ -1,5 +1,15 @@
 ---
 slug: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane
+record_id: 1982.05.14.C5.D1
+title: Только по милости Нитьянанды и Гауранги можно обрести служение Радхарани
+  во Вриндаване
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7640596
+  duration: 00:06:26
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3
+date: 1982-05-14
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -10,7 +20,6 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (6 мин. 25 сек., 7,3 МБ)
@@ -18,9 +27,12 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 111. 1982.05.14.C5.D1. Только по милости Нитьянанды и Гауранги можно
+    обрести служение Радхарани во Вриндаване
+  index: "111"
+  filename: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane.md
 ---
-
-# 111. 1982.05.14.C5.D1. Только по милости Нитьянанды и Гауранги можно обрести служение Радхарани во Вриндаване
 
     йатха̄ йатха̄ гаура-пада̄равинде
     виндета бхактим̇ кр̣та-пун̣йа-ра̄сих̣

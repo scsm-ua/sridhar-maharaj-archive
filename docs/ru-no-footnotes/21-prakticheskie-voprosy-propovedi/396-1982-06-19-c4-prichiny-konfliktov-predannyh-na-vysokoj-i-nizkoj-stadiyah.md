@@ -1,5 +1,14 @@
 ---
 slug: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah
+record_id: 1982.06.19.C4
+title: Причины конфликтов преданных на высокой и низкой стадиях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4673776
+  duration: 00:03:59
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.mp3
+date: 1982-06-19
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.mp3
     title: аудиозапись в MP3 (3 мин. 59 сек., 4,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 396. 1982.06.19.C4. Причины конфликтов преданных на высокой и низкой стадиях
+  index: "396"
+  filename: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah.md
 ---
-
-# 396. 1982.06.19.C4. Причины конфликтов преданных на высокой и низкой стадиях
 
 **Преданный:** Махарадж, когда возникают несогласия или конфликты в среде преданных, что служит их причиной? Почему это происходит?
 

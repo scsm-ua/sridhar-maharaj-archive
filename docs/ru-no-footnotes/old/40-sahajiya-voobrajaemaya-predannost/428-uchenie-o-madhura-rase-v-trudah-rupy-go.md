@@ -1,5 +1,12 @@
 ---
 slug: 428-uchenie-o-madhura-rase-v-trudah-rupy-go
+title: Учение о мадхура-расе в трудах Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9343744
+  duration: 00:13:25
+  mp3: /wp-content/uploads/2012/08/428_OntologiyaPR_1.6_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -12,13 +19,14 @@ tags:
     slug: rupa-gosvami
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/428_OntologiyaPR_1.6_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
     title: Скачать аудиозапись в mp3 (13 мин 25 сек, размер 9 Мб)
+legacy:
+  title: 428. Учение о мадхура-расе в трудах Рупы Госвами
+  index: "428"
+  filename: 428-uchenie-o-madhura-rase-v-trudah-rupy-go.md
 ---
-
-# 428. Учение о мадхура-расе в трудах Рупы Госвами
 
 Счастье, *раса,* качества *рассы*, высочайшая *расса* достижимы только благодаря отданию себя, жертвенности, благодаря самопожертвованию мы можем достичь высочайшей *рассы*. И джентльмены высшего типа будут вашими близкими спутниками. Мы можем обрести подобное общество благодаря самопожертвованию. Это преданность. И преданность качественно и количественно, два явления. Преданность: количественная и качественная.
 

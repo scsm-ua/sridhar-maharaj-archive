@@ -1,5 +1,14 @@
 ---
 slug: 257-proishozhdenie-dushi-1981-03-05-a2
+record_id: 1981.03.05.A2
+title: Происхождение души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7873181
+  duration: 00:12:01
+  mp3: /wp-content/uploads/2012/08/257_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
+date: 1981-03-05
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -10,13 +19,14 @@ tags:
     slug: dusha
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/257_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
     title: Скачать аудиозапись в mp3 (12 мин 1 сек, размер 7 Мб)
+legacy:
+  title: 257. Происхождение души. 1981.03.05.A2
+  index: "257"
+  filename: 257-proishozhdenie-dushi-1981-03-05-a2.md
 ---
-
-# 257. Происхождение души. 1981.03.05.A2
 
 **Госвами Махарадж:** На днях вы говорили о потенциальном состоянии *джив* в брахмаджьоти в Брахмалоке. И также вы говорили о том, как кто-то вступает в духовный мир и пробуждает свою идентичность. Его сознание было словно рассеянно, разбросано.
 

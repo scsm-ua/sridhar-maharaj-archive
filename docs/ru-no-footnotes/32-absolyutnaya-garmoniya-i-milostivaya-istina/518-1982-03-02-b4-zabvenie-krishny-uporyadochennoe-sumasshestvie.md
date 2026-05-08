@@ -1,12 +1,20 @@
 ---
 slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
+record_id: 1982.03.02.B4
+title: Забвение Кришны – упорядоченное сумасшествие
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13189694
+  duration: 00:11:19
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3
+date: 1982-03-02
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3
     title: аудиозапись в MP3 (11 мин. 19 сек., 12,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 518. 1982.03.02.B4. Забвение Кришны – упорядоченное сумасшествие
+  index: "518"
+  filename: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie.md
 ---
-
-# 518. 1982.03.02.B4. Забвение Кришны – упорядоченное сумасшествие
 
 Безумец, сумасшедший — его мозг расстроен. В состоянии безумия он лишен друзей, но когда он возвращается в нормальное состояние, то он видит тех же самых людей и понимает, что они друзья. Необходимо избавиться лишь от заблуждения, от болезни. С реалиями окружающего мира все в порядке, а болезнь — это…
 

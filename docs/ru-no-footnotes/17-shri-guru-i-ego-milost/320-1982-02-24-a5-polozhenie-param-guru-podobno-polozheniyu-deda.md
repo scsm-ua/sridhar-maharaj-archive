@@ -1,5 +1,14 @@
 ---
 slug: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda
+record_id: 1982.02.24.A5
+title: Положение парам-гуру подобно положению деда
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2353809
+  duration: 00:01:04
+  mp3: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.mp3
+date: 1982-02-24
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.mp3
     title: аудиозапись в MP3 (1 мин. 03 сек., 2,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (38 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.pdf
     title: транскрипцию в PDF (110 КБ)
+legacy:
+  title: 320. 1982.02.24.А5. Положение парам-гуру подобно положению деда
+  index: "320"
+  filename: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda.md
 ---
-
-# 320. 1982.02.24.А5. Положение парам-гуру подобно положению деда
 
 **Госвами Махарадж:** Также, Махарадж, в «Джайва-дхарме» Бхактивинода Тхакура в одном разделе мы видим: Гуру приводит своих учеников к своему Гуру.
 

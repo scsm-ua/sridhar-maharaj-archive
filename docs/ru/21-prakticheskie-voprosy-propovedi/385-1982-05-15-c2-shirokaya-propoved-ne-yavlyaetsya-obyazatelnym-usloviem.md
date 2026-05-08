@@ -1,5 +1,14 @@
 ---
 slug: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem
+record_id: 1982.05.15.C2
+title: Широкая проповедь не является обязательным условием
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4136279
+  duration: 00:03:26
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.mp3
+date: 1982-05-15
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.mp3
     title: аудиозапись в MP3 (3 мин. 25 сек., 4,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 385. 1982.05.15.C2. Широкая проповедь не является обязательным условием
+  index: "385"
+  filename: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem.md
 ---
-
-# 385. 1982.05.15.C2. Широкая проповедь не является обязательным условием
 
 **Преданный:** Существует два типа *санньяси*, *санньяси* двух типов. Одни интровертны, не склонны к широкомасштабной деятельности. А немногие более экстравертны, стремятся к широкомасштабной пропаганде.
 

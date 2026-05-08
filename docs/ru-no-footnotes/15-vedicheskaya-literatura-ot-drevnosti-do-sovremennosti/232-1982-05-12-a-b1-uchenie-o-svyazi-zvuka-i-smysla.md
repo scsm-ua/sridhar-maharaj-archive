@@ -1,12 +1,20 @@
 ---
 slug: 232-1982-05-12-a-b1-uchenie-o-svyazi-zvuka-i-smysla
+record_id: 1982.05.12.A.B1
+title: Учение о связи звука и смысла
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7518844
+  duration: 00:07:08
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/232_1982.05.12.A.B1_SridharMj_Uchenie_o_svjazi_zvuka_i_smysla.mp3
+date: 1982-05-12
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/232_1982.05.12.A.B1_SridharMj_Uchenie_o_svjazi_zvuka_i_smysla.mp3
     title: аудиозапись в MP3 (7 мин. 07 сек., 7,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/232_1982.05.12.A.B1_SridharMj_Uchenie_o_svjazi_zvuka_i_smysla.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 232. 1982.05.12.A.B1. Учение о связи звука и смысла
+  index: "232"
+  filename: 232-1982-05-12-a-b1-uchenie-o-svyazi-zvuka-i-smysla.md
 ---
-
-# 232. 1982.05.12.A.B1. Учение о связи звука и смысла
 
 **Преданный:** Как бы вы могли передать на английский термин *шраута-вади*?
 

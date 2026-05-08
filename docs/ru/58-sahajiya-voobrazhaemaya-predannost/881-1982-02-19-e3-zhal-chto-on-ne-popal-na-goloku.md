@@ -1,5 +1,14 @@
 ---
 slug: 881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku
+record_id: 1982.02.19.E3
+title: «Жаль, что он не попал на Голоку…»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14300316
+  duration: 00:12:37
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.mp3
+date: 1982-02-19
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
@@ -14,7 +23,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.mp3
     title: аудиозапись в MP3 (12 мин. 37 сек., 13,7 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (23 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 881. 1982.02.19.E3. «Жаль, что он не попал на Голоку…»
+  index: "881"
+  filename: 881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku.md
 ---
-
-# 881. 1982.02.19.E3. «Жаль, что он не попал на Голоку…»
 
 **Шрила Шридхар Махарадж:** Хиранья Гарбхе следует показать две статьи, посвященные Лалита Прасаду, написанных самим Прабхупадой. Одна — «Баба-бадха-радха» — так называлась эта статья, в другой статье Лалита Прасад описывался как тот, кто занят поклонением Улачанди — главенствующее божество города, богиня города. Улачанди, *шакти, кали-пуджа*.
 

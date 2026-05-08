@@ -1,5 +1,14 @@
 ---
 slug: 321-1983-01-31-smysl-i-sushhnost-posvyashheniya
+record_id: 1983.01.31
+title: Смысл и сущность посвящения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11816917
+  duration: 00:24:05
+  mp3: /dl/18._Posvyaschenie/321_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
+date: 1983-01-31
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -32,7 +41,6 @@ tags:
     slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 6.14.2
     slug: chhandogya-upanishad-6-14-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/321_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
     title: аудиозапись в MP3 (24 мин. 05 сек., 11,3 МБ)
@@ -40,11 +48,13 @@ links:
     title: транскрипцию в RTF (212 КБ)
   - href: /dl/18._Posvyaschenie/321_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.pdf
     title: транскрипцию в PDF (166 КБ)
+legacy:
+  title: 321. 1983.01.31. Смысл и сущность посвящения
+  index: "321"
+  filename: 321-1983-01-31-smysl-i-sushhnost-posvyashheniya.md
 ---
 
-# 321. 1983.01.31. Смысл и сущность посвящения
-
-    дивйам̇ джн̃а̄нам̇ йато дадйа̄т
+дивйам̇ джн̃а̄нам̇ йато дадйа̄т
     курйа̄т па̄пасйа сан̇кшайам
     тасма̄д дӣкшeти са̄ прокта̄
     дeш́икаис таттва-ковидаих̣

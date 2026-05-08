@@ -1,5 +1,14 @@
 ---
 slug: 595-1982-05-06-b4-iskrennost-i-nastojchivost-pozvolyat-dushe-obresti-soznanie-krishny
+record_id: 1982.05.06.B4
+title: Искренность и настойчивость позволят душе обрести Сознание Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12425581
+  duration: 00:11:15
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.mp3
+date: 1982-05-06
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.mp3
     title: аудиозапись в MP3 (11 мин. 14 сек., 11,9 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (164 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 595. 1982.05.06.B4. Искренность и настойчивость позволят душе обрести
+    Сознание Кришны
+  index: "595"
+  filename: 595-1982-05-06-b4-iskrennost-i-nastojchivost-pozvolyat-dushe-obresti-soznanie-krishny.md
 ---
-
-# 595. 1982.05.06.B4. Искренность и настойчивость позволят душе обрести Сознание Кришны
 
 Речь идет о другом мире, в который мы можем войти, если мы захотим, если мы питаем искреннее почтение, если мы искренне молим, тогда нам могут позволить туда войти. Такой мир есть, это не есть некая ненаучная выдумка. Но в настоящее время это естественное достижение очень далеко для нас.
 

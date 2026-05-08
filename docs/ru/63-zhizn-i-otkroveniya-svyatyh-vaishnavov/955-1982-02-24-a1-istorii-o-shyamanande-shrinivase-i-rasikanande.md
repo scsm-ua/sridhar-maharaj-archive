@@ -1,5 +1,14 @@
 ---
 slug: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande
+record_id: 1982.02.24.A1
+title: Истории о Шьямананде, Шринивасе и Расикананде
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22426331
+  duration: 00:20:21
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
+date: 1982-02-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -10,7 +19,6 @@ tags:
     slug: krishna-karnamrita
   - title: Кришна-карнамрита 107
     slug: krishna-karnamrita-107
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
     title: аудиозапись в MP3 (20 мин. 21 сек., 21,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (136 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 955. 1982.02.24.A1. Истории о Шьямананде, Шринивасе и Расикананде
+  index: "955"
+  filename: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande.md
 ---
-
-# 955. 1982.02.24.A1. Истории о Шьямананде, Шринивасе и Расикананде
 
 *«Онтология Прекрасной Реальности» (часть 6.1)*
 

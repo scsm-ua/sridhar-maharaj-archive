@@ -1,5 +1,14 @@
 ---
 slug: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu
+record_id: 1983.01.05.A1
+title: Почему вайшнавы не используют мистическую йогу?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8286617
+  duration: 00:16:08
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
+date: 1983-01-05
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -36,7 +45,6 @@ tags:
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
   - title: Бхагавад-гита 9.26
     slug: bhagavad-gita-9-26
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
     title: аудиозапись в MP3 (16 мин. 07 сек., 8,0 МБ)
@@ -44,9 +52,11 @@ links:
     title: транскрипцию в RTF (170 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 784. 1983.01.05.A1. Почему вайшнавы не используют мистическую йогу?
+  index: "784"
+  filename: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu.md
 ---
-
-# 784. 1983.01.05.A1. Почему вайшнавы не используют мистическую йогу?
 
 **Преданный:** Мне хотелось бы знать, почему *гаудия-вайшнавы* не используют в своей практике йогу (*асаны*) в своем служении Кришне? Скажем, в Рамануджа-линии, в *Рамануджа-сампрадайе*, в некоторых сектах используются йогические упражнения и тому подобное: *асаны*, *пранаяма*.
 

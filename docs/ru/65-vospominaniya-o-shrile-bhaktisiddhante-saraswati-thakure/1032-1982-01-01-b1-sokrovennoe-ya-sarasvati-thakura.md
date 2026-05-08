@@ -1,5 +1,14 @@
 ---
 slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
+record_id: 1982.01.01.B1
+title: Сокровенное «Я» Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17381564
+  duration: 00:34:58
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
+date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -38,7 +47,6 @@ tags:
     slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (34 мин. 57 сек., 16,6 МБ)
@@ -46,9 +54,11 @@ links:
     title: транскрипцию в RTF (279 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (192 КБ)
+legacy:
+  title: 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
+  index: "1032"
+  filename: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
 ---
-
-# 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол,
 

@@ -1,12 +1,20 @@
 ---
 slug: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1
+record_id: 1983.07.25.C.D
+title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 1)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 38821399
+  duration: 01:06:07
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
+date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1983.07"
     slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
     title: аудиозапись в MP3 (1 час 12 мин. 30 сек., 37,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (410 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.pdf
     title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 971. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в
+    Гаудия-матхе (часть 1)
+  index: "971"
+  filename: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1.md
 ---
-
-# 971. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 1)
 
 Во-первых, Гуру Махарадж происходил из *каястха-касты*, это *шудра*, я происходил из *браминской* семьи. *Брамин* — Гуру должен быть подходящим. Таким образом, некие сомнения оставались. Затем, когда я приехал в Маяпур, там также я видел много трогательного. Когда Прабхупад увидел меня там в день рождения Махапрабху, он давал лекцию многим джентльменам, приехавшим из Кришна-нагара, образованным людям. Тиртха Махарадж проповедовал в другом месте, в третьем месте Парват Махарадж собирал пожертвования. Во многих местах происходили разные события, и чувствовалась счастливая, трансцендентная атмосфера.
 

@@ -1,5 +1,14 @@
 ---
 slug: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi
+record_id: 1983.04.16.A4
+title: Суть и форма в семейной жизни гопи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6655603
+  duration: 00:13:21
+  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
+date: 1983-04-16
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.283
     slug: shri-chajtanya-charitamrita-madhya-lila-8-283
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
     title: аудиозапись в MP3 (13 мин. 21 сек., 6,4 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 485. 1983.04.16.A4. Суть и форма в семейной жизни гопи
+  index: "485"
+  filename: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi.md
 ---
-
-# 485. 1983.04.16.A4. Суть и форма в семейной жизни гопи
 
 **Преданный:** Махарадж, кто-то может спросить, в «Шримад-Бхагаватам» мы видим: *гопи* Вриндавана в определенном моменте очень хотели обрести *даршан* Кришны, но не могли, поскольку их мужья препятствовали им, и в это время некоторые их них оставили свои тела. Кто-то может спросить: «Они — вечные спутницы Кришны, как же возможно, что они оставили как будто бы тела?»
 

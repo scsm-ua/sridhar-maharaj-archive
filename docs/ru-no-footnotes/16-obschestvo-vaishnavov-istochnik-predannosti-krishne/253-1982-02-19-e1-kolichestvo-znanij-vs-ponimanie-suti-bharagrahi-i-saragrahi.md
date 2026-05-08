@@ -1,12 +1,20 @@
 ---
 slug: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi
+record_id: 1982.02.19.E1
+title: Количество знаний VS понимание сути (бхараграхи и сараграхи)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5956763
+  duration: 00:05:02
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3
+date: 1982-02-19
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3
     title: аудиозапись в MP3 (5 мин. 01 сек., 5,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 253. 1982.02.19.E1. Количество знаний VS понимание сути (бхараграхи и
+    сараграхи)
+  index: "253"
+  filename: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi.md
 ---
-
-# 253. 1982.02.19.E1. Количество знаний VS понимание сути (бхараграхи и сараграхи)
 
 **Шрила Шридхар Махарадж:** В своей «Шри Кришна-самхите» Бхактивинод Тхакур дал следующую идею: на высочайшей стадии можно увидеть, что внешне человек может быть царем, правителем, политиком, полностью поглощенным мирской жизнью, но в сердце он может быть мягкосердечной женщиной — *гопи*. Он может быть ею, занятый в служении Кришне. Это возможно. Внешне он может быть занят во внешнем мире, но внутренне может быть совершенно иным. В «Шри Кришна-самхите» описаны различия между двумя этими группами: *бхараграхи* и *сараграхи*. «Существуют многие, которые несут на себе, — сказано там, — бремя знания *шастры* и высказываний *садху*, святых, но не могут понять истинный смысл этого. Их память содержит груз многих цитат и концепций, но они не в состоянии уловить самую суть». Это один класс, одна категория.
 

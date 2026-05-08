@@ -1,5 +1,14 @@
 ---
 slug: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity
+record_id: 1983.11.13.A1
+title: Что есть дхарма? Объяснение стиха 2.1 «Ману-самхиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2793566
+  duration: 00:02:39
+  mp3: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3
+date: 1983-11-13
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -14,7 +23,6 @@ tags:
     slug: manu-samhita-1-5
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3
     title: аудиозапись в MP3 (2 мин. 38 сек., 2,7 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 537. 1983.11.13.A1. Что есть дхарма? Объяснение стиха 2.1 «Ману-самхиты»
+  index: "537"
+  filename: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity.md
 ---
-
-# 537. 1983.11.13.A1. Что есть дхарма? Объяснение стиха 2.1 «Ману-самхиты»
 
 **Госвами Махарадж:** Стих «*хридайена…*» — то, что содержится в твоем сердце…
 

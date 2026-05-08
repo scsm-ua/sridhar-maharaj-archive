@@ -1,5 +1,14 @@
 ---
 slug: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily
+record_id: 1982.02.17.C1
+title: Проявленное и непроявленное состояние лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5946805
+  duration: 00:05:48
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3
+date: 1982-02-17
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3
     title: аудиозапись в MP3 (5 мин. 47 сек., 5,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 176. 1982.02.17.C1. Проявленное и непроявленное состояние лилы
+  index: "176"
+  filename: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily.md
 ---
-
-# 176. 1982.02.17.C1. Проявленное и непроявленное состояние лилы
 
 «Чаритамрита» — полноценный полноразвитый теизм. И также упоминается: за пределами этого сотворенного мира вечно пребывает танцующий мир, вечный танец происходит. Здесь — сжатие и расширение, там — вечный танец. И он также бывает низшего и высшего типов, соответственно природе *расы, анандам*, экстаза, который является желанным объектом каждой частицы сознания.
 

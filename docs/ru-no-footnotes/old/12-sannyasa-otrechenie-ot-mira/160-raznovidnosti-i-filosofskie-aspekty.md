@@ -1,5 +1,14 @@
 ---
 slug: 160-raznovidnosti-i-filosofskie-aspekty
+record_id: 1983.02.13.B
+title: Разновидности и философские аспекты санньяса-ашрама.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22881686
+  duration: 00:46:09
+  mp3: /wp-content/uploads/2012/08/160_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3
+date: 1983-02-13
 category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
@@ -10,13 +19,14 @@ tags:
     slug: otrechenie
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/160_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3
     title: Скачать аудиозапись в mp3 (46 мин 9 сек, размер 22 Мб)
+legacy:
+  title: 160. Разновидности и философские аспекты санньяса-ашрама. 1983.02.13.B
+  index: "160"
+  filename: 160-raznovidnosti-i-filosofskie-aspekty.md
 ---
-
-# 160. Разновидности и философские аспекты санньяса-ашрама. 1983.02.13.B
 
 *#00:00:00#*
 

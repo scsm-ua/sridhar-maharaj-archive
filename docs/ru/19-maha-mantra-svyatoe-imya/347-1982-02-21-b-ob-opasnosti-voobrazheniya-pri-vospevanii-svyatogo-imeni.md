@@ -1,5 +1,14 @@
 ---
 slug: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni
+record_id: 1982.02.21.B
+title: Об опасности воображения при воспевании Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7084335
+  duration: 00:07:03
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
+date: 1982-02-21
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -16,7 +25,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
     title: аудиозапись в MP3 (7 мин. 03 сек., 6,8 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 347. 1982.02.21.B. Об опасности воображения при воспевании Святого Имени
+  index: "347"
+  filename: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni.md
 ---
-
-# 347. 1982.02.21.B. Об опасности воображения при воспевании Святого Имени
 
 *«Онтология Прекрасной Реальности» (часть 6.6)*
 

@@ -1,5 +1,15 @@
 ---
 slug: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem
+record_id: 1983.11.12.B3
+title: Объяснение стиха Ригведы 1.22.20, дополненного и расширенного Шридхаром
+  Махаджем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11863364
+  duration: 00:11:04
+  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.mp3
+date: 1983-11-12
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
@@ -24,7 +34,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.mp3
     title: аудиозапись в MP3 (11 мин. 04 сек., 11,4 МБ)
@@ -32,9 +41,12 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.pdf
     title: транскрипцию в PDF (185 КБ)
+legacy:
+  title: 407. 1983.11.12.B3. Объяснение стиха Ригведы 1.22.20, дополненного и
+    расширенного Шридхаром Махаджем
+  index: "407"
+  filename: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem.md
 ---
-
-# 407. 1983.11.12.B3. Объяснение стиха Ригведы 1.22.20, дополненного и расширенного Шридхаром Махаджем
 
 **Преданный:** Махарадж?
 

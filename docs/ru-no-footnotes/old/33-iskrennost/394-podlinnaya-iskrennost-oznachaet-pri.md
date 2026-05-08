@@ -1,5 +1,13 @@
 ---
 slug: 394-podlinnaya-iskrennost-oznachaet-pri
+title: Подлинная искренность означает «принять Сознание Кришны». Мгновения
+  прекрасной реальности, часть 6.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3609976
+  duration: 00:06:22
+  mp3: /wp-content/uploads/2012/08/394_MgnoveniyaPR_6.6_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
 category:
   title: (33. Искренность)
   slug: 33-iskrennost
@@ -8,13 +16,15 @@ tags:
     slug: iskrennost
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/394_MgnoveniyaPR_6.6_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
     title: Скачать аудиозапись в mp3 (6 мин 22 сек, размер 3 Мб)
+legacy:
+  title: 394. Подлинная искренность означает «принять Сознание Кришны». Мгновения
+    прекрасной реальности, часть 6.6
+  index: "394"
+  filename: 394-podlinnaya-iskrennost-oznachaet-pri.md
 ---
-
-# 394. Подлинная искренность означает «принять Сознание Кришны». Мгновения прекрасной реальности, часть 6.6
 
 **Ученик:** Махарадж, каково значение верности для подлинного ученика, истинного ученика?
 

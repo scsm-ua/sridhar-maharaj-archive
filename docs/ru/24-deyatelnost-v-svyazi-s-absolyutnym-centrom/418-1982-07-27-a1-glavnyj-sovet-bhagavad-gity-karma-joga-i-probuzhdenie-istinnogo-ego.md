@@ -1,5 +1,14 @@
 ---
 slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+record_id: 1982.07.27.A1
+title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21146738
+  duration: 00:21:12
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
+date: 1982-07-27
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -26,7 +35,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
     title: аудиозапись в MP3 (21 мин. 11 сек., 20,2 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и
+    пробуждение истинного эго
+  index: "418"
+  filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
 ---
-
-# 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго
 
 **Шрила Шридхар Махарадж:** Эти двое?
 

@@ -1,18 +1,28 @@
 ---
 slug: 68-v-raznye-epohi-lily-gospoda-mogli-pro
+record_id: 1981.03.03.C3
+title: В разные эпохи лилы Господа могли происходить по-разному.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2911929
+  duration: 00:04:15
+  mp3: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
+date: 1981-03-03
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
     title: Скачать аудиозапись в mp3 (4 мин 15 сек, размер 2 Мб)
+legacy:
+  title: 68. В разные эпохи лилы Господа могли происходить по-разному. 1981.03.03.C3
+  index: "68"
+  filename: 68-v-raznye-epohi-lily-gospoda-mogli-pro.md
 ---
-
-# 68. В разные эпохи лилы Господа могли происходить по-разному. 1981.03.03.C3
 
 **Ученик:** Хираньякашипу захватил планету Индры.
 

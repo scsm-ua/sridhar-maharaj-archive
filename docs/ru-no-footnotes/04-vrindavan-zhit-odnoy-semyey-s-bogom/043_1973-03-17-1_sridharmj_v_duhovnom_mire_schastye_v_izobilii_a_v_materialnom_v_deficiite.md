@@ -1,5 +1,14 @@
 ---
 slug: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite
+record_id: 1973.03.17.1
+title: В духовном мире счастье в изобилии, а в материальном — в дефиците
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4556036
+  duration: 00:08:11
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3
+date: 1973-03-17
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -14,7 +23,6 @@ tags:
     slug: ganga
   - title: Духовный мир
     slug: duhovnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3
     title: аудиозапись в MP3 (08 мин. 11 сек., 4.3 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 043. 1973.03.17.1 В духовном мире счастье в изобилии, а в материальном —
+    в дефиците
+  index: "043"
+  filename: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.md
 ---
-
-# 043. 1973.03.17.1 В духовном мире счастье в изобилии, а в материальном — в дефиците
 
 *Часть совместной со Шрилой Бхактиведантой Свами лекции, прочитанной на открытии храма «Чандродая-мандир».*
 

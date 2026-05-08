@@ -1,12 +1,20 @@
 ---
 slug: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha
+record_id: 1982.05.06.A4
+title: Краткое обсуждение самбадхи, абхидеи и прайоджаны в учении Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3064383
+  duration: 00:02:40
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.mp3
+date: 1982-05-06
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (2 мин. 39 сек., 3,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 1125. 1982.05.06.A4. Краткое обсуждение самбадхи, абхидеи и прайоджаны в
+    учении Шридхара Махараджа
+  index: "1125"
+  filename: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha.md
 ---
-
-# 1125. 1982.05.06.A4. Краткое обсуждение самбадхи, абхидеи и прайоджаны в учении Шридхара Махараджа
 
 **Госвами Махарадж:** Махарадж? Мы сейчас готовим публикацию этой книги, и вы сказали однажды, что мы можем сделать три раздела в этой книге: *самбандха, абхидея, прайоджана*. Я думаю, что я способен понять *самбандха-гьяну*. Вы говорите о мире эксплуатации, затрагиваете подобные темы. Но, *абхидея*—*гьяна*: я не понимаю, как различить…
 

@@ -1,12 +1,20 @@
 ---
 slug: 720-1982-07-03-b1-duhovnyj-opyt-obretaetsya-blagodarya-vozvysheniyu-dushi
+record_id: 1982.07.03.B1
+title: Духовный опыт обретается благодаря возвышению души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5930747
+  duration: 00:05:20
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.mp3
+date: 1982-07-03
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.mp3
     title: аудиозапись в MP3 (5 мин. 19 сек., 5,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 720. 1982.07.03.B1. Духовный опыт обретается благодаря возвышению души
+  index: "720"
+  filename: 720-1982-07-03-b1-duhovnyj-opyt-obretaetsya-blagodarya-vozvysheniyu-dushi.md
 ---
-
-# 720. 1982.07.03.B1. Духовный опыт обретается благодаря возвышению души
 
 **Преданный:** Махарадж, мы можем развить привязанность к тем реалиям, опыт которых у нас есть, поскольку есть некое чувственное впечатление, и мы развиваем привязанность к этим реалиям. Но как мы можем развить аналогичную привязанность к Кришне, опыта которого у нас нет?
 

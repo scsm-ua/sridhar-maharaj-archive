@@ -1,5 +1,14 @@
 ---
 slug: 064_1982-06-10-c2_sridharmj_gopi-abhiman
+record_id: 1982.06.10.C2
+title: Гопи-абхиман
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6335455
+  duration: 00:03:56
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3
+date: 1982-06-10
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Брахма
     slug: brahma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3
     title: аудиозапись в MP3 (3 мин. 56 сек., 128 кбит/сек, 6.0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 064. 1982.06.10.C2 Гопи-абхиман
+  index: "064"
+  filename: 064_1982-06-10-c2_sridharmj_gopi-abhiman.md
 ---
-
-# 064. 1982.06.10.C2 Гопи-абхиман
 
 **Акхаянанда Махарадж:** Махарадж, а в «Брахма-самхите», в английском переводе Шрилы Бхактисиддханты Сарасвати Тхакура, в его комментарии сказано: Брахма думал про себя: «Когда я медитирую на *кама-гаятри*, то мне кажется, что я — вечная служанка Кришны», то есть, таково осознание Господа Брахмы себя в качестве служанки. Но мы не находим нигде особых упоминаний этого.
 

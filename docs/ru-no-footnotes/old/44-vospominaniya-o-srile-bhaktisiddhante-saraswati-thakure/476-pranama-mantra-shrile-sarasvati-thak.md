@@ -1,5 +1,14 @@
 ---
 slug: 476-pranama-mantra-shrile-sarasvati-thak
+record_id: 1982.01.26.B2
+title: Пранама-мантра Шриле Сарасвати Тхакуру.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5938166
+  duration: 00:11:54
+  mp3: /wp-content/uploads/2012/08/476_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
+date: 1982-01-26
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -12,13 +21,14 @@ tags:
     slug: pranama-mantra-sarasvati-thakuru
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/476_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
     title: Скачать аудиозапись в mp3 (11 мин 54 сек, размер 5 Мб)
+legacy:
+  title: 476. Пранама-мантра Шриле Сарасвати Тхакуру. 1982.01.26.B2
+  index: "476"
+  filename: 476-pranama-mantra-shrile-sarasvati-thak.md
 ---
-
-# 476. Пранама-мантра Шриле Сарасвати Тхакуру. 1982.01.26.B2
 
 Я не пригоден к роскошной жизни. Простая и бесхитростная, скромная жизнь подходит мне. Я любитель комфорта. Или Мадхав Махарадж сказал мне, его темперамент был таков, что он всегда совершал 5-6 дел одновременно. Такой была его природа. Он был занят не одним делом, но 5-6 дел одновременно, множество консультантов, помощников и он руководил ими. Такой была его природа. Но моя природа прямо противоположна.
 

@@ -1,12 +1,20 @@
 ---
 slug: 673-1982-01-05-b-polozhenie-gospoda-shivy
+record_id: 1982.01.05.B
+title: Положение Господа Шивы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2655440
+  duration: 00:03:56
+  mp3: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3
+date: 1982-01-05
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3
     title: аудиозапись в MP3 (3 мин. 55 сек., 2,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 673. 1982.01.05.B. Положение Господа Шивы
+  index: "673"
+  filename: 673-1982-01-05-b-polozhenie-gospoda-shivy.md
 ---
-
-# 673. 1982.01.05.B. Положение Господа Шивы
 
     …пума̄н
     вирин̃чата̄м эти татах̣ парам̇ хи ма̄м

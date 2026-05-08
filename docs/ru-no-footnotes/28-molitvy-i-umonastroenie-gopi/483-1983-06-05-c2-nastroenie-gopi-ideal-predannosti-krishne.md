@@ -1,12 +1,20 @@
 ---
 slug: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne
+record_id: 1983.06.05.C2
+title: Настроение гопи — идеал преданности Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4065090
+  duration: 00:07:58
+  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3
+date: 1983-06-05
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
 tags:
   - title: "1983.06"
     slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3
     title: аудиозапись в MP3 (7 мин. 57 сек., 3,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (149 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 483. 1983.06.05.C2. Настроение гопи — идеал преданности Кришне
+  index: "483"
+  filename: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne.md
 ---
-
-# 483. 1983.06.05.C2. Настроение гопи — идеал преданности Кришне
 
 *#00:57:00#*
 

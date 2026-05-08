@@ -1,5 +1,14 @@
 ---
 slug: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny
+record_id: 1982.05.14.B4
+title: У Махапрабху нет отдельного существования от лилы Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4132812
+  duration: 00:03:24
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3
+date: 1982-05-14
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -12,7 +21,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3
     title: аудиозапись в MP3 (3 мин. 23 сек., 3.9 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.pdf
     title: транскрипцию в PDF (746 КБ)
+legacy:
+  title: 101. 1982.05.14.B4 У Махапрабху нет отдельного существования от лилы Кришны
+  index: "101"
+  filename: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny.md
 ---
-
-# 101. 1982.05.14.B4 У Махапрабху нет отдельного существования от лилы Кришны
 
 **Преданный:** Махарадж, иногда говорится, что *кришна-лилы* растекаются во всех десяти направлениях.
 

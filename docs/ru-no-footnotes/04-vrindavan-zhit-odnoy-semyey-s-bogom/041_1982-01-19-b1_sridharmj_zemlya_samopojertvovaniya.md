@@ -1,5 +1,14 @@
 ---
 slug: 041_1982-01-19-b1_sridharmj_zemlya_samopojertvovaniya
+record_id: 1982.01.19.B1
+title: Земля самопожертвования
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8691953
+  duration: 00:16:48
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
+date: 1982-01-19
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -10,7 +19,6 @@ tags:
     slug: milost
   - title: Эксплуатация
     slug: ekspluatatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
     title: аудиозапись в MP3 (16 мин. 48 сек., 8.3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (130 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 041. 1982.01.19.B1 Земля самопожертвования
+  index: "041"
+  filename: 041_1982-01-19-b1_sridharmj_zemlya_samopojertvovaniya.md
 ---
-
-# 041. 1982.01.19.B1 Земля самопожертвования
 
 Следует всегда быть оптимистом, всегда видеть светлую сторону. Знание предусматривает наличие темной стороны, знание призвано рассеять тьму, знание стремится к свету. Но если свет достаточно яркий, ни о какой тьме не может быть и речи. Если же вы находитесь в состоянии мании, видите темную сторону, вы не сможете получить подлинного вкуса той земли. Это самоубийство.
 

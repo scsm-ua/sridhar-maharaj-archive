@@ -1,5 +1,14 @@
 ---
 slug: 765-1982-03-22-b1-istoriya-ambarisha-i-durvasy-gospod-zavisim-ot-svoih-predannyh
+record_id: 1982.03.22.B1
+title: История Амбариша и Дурвасы — Господь зависим от своих преданных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10589392
+  duration: 00:10:28
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3
+date: 1982-03-22
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-03
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3
     title: аудиозапись в MP3 (10 мин. 27 сек., 10,1 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 765. 1982.03.22.B1. История Амбариша и Дурвасы — Господь зависим от своих
+    преданных
+  index: "765"
+  filename: 765-1982-03-22-b1-istoriya-ambarisha-i-durvasy-gospod-zavisim-ot-svoih-predannyh.md
 ---
-
-# 765. 1982.03.22.B1. История Амбариша и Дурвасы — Господь зависим от своих преданных
 
 [Господь говорит Дурвасе Муни:] «Затем ты утверждаешь, что ты *брамин*, но его склонность, тенденция совершать Мою *врату* была гораздо более искренней. А ты не видишь в этом никакого превосходства, но он видит превосходство [*враты* имеется в виду — *переводчик*], и он консультировался с *брамином*, с министром также. *Брамин*, министр советовался с ним до того как выпить каплю воды, он не в силах был терпеть. И другое обстоятельство: ты утверждаешь, что ты *санньяси*. Ты говоришь, что ты — *санньяси*, он — *грихастха*, ты — *брамин*, он — *кшатрий*, но он не отступил, когда ты захотел его уничтожить. Но в твоем случае ты бежал, опасаясь за свою жизнь, по всему миру ты бегал, убегал.
 

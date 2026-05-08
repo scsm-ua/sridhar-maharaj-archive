@@ -1,12 +1,21 @@
 ---
 slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
+record_id: 1982.05.14.D3
+title: Поэзия Шридхара Махараджа стала реальностью благодаря проповеди
+  Бхактиведанты Свами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3050318
+  duration: 00:02:58
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3
+date: 1982-05-14
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (2 мин. 57 сек., 3,0 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 1107. 1982.05.14.D3. Поэзия Шридхара Махараджа стала реальностью
+    благодаря проповеди Бхактиведанты Свами
+  index: "1107"
+  filename: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami.md
 ---
-
-# 1107. 1982.05.14.D3. Поэзия Шридхара Махараджа стала реальностью благодаря проповеди Бхактиведанты Свами
 
 Я не могу не вспоминать то обстоятельство, что Прабхупад хотел отправить проповедовать меня на запад. То было искреннее желание, возможно, очень искреннее, сердечное. Но как это возможно? Как возможно, что вы все пришли? Через Свами Махараджа. И Прабхупад также ценил, высоко ценил мою *сиддханту*. Конечно, она была дана им. Так или иначе, он давал высокую оценку. Харе Кришна.
 

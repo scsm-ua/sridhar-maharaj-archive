@@ -1,5 +1,14 @@
 ---
 slug: 404-molitva-vozvyshennyh-predannyh-1983-02-11-b1
+record_id: 1983.02.11.B1
+title: Молитва возвышенных преданных.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11679650
+  duration: 00:23:17
+  mp3: /wp-content/uploads/2012/08/404_1983.02.11.B1_SridharMj_Molitva_vozvyshennyh_predannyh.mp3
+date: 1983-02-11
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
@@ -12,13 +21,14 @@ tags:
     slug: samopredanie
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/404_1983.02.11.B1_SridharMj_Molitva_vozvyshennyh_predannyh.mp3
     title: Скачать аудиозапись в mp3 (23 мин 17 сек, размер 11 Мб)
+legacy:
+  title: 404. Молитва возвышенных преданных. 1983.02.11.B1
+  index: "404"
+  filename: 404-molitva-vozvyshennyh-predannyh-1983-02-11-b1.md
 ---
-
-# 404. Молитва возвышенных преданных. 1983.02.11.B1
 
 Если мы обретем бхакти, тогда автоматически все неблагоприятное уходит, устраняется. В целом, преданность подразумевает клеша агни. Прогрессируя в преданности, в целом, когда мы прогрессируем, все стадии, которые мы проходим. Первый шаг таков: все беды уходят, негативное уходит; второе — все хорошие симптомы пробуждаются, проявляются.
 

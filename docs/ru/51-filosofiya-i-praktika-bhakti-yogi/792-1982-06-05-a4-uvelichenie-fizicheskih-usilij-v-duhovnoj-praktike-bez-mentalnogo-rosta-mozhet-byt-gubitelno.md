@@ -1,5 +1,15 @@
 ---
 slug: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno
+record_id: 1982.06.05.A4
+title: Увеличение физических усилий в духовной практике без ментального роста
+  может быть губительно
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3633862
+  duration: 00:02:51
+  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3
+date: 1982-06-05
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
@@ -16,7 +26,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3
     title: аудиозапись в MP3 (2 мин. 51 сек., 3,5 МБ)
@@ -24,9 +33,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 792. 1982.06.05.A4. Увеличение физических усилий в духовной практике без
+    ментального роста может быть губительно
+  index: "792"
+  filename: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno.md
 ---
-
-# 792. 1982.06.05.A4. Увеличение физических усилий в духовной практике без ментального роста может быть губительно
 
 **Акхаянанда Махарадж:** Махарадж, в прошлом вы говорили о том, что *эка-лакха-нама* значит… *лакха* — тот, у кого есть одна цель.
 

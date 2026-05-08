@@ -1,12 +1,21 @@
 ---
 slug: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade
+record_id: 1982.02.19.B6
+title: Почему Сарасвати Тхакур и Бхактиведанта Свами стремились проповедовать на
+  западе?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7742016
+  duration: 00:12:51
+  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
+date: 1982-02-19
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
     title: аудиозапись в MP3 (12 мин. 51 сек., 7,4 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (122 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 1073. 1982.02.19.B6. Почему Сарасвати Тхакур и Бхактиведанта Свами
+    стремились проповедовать на западе?
+  index: "1073"
+  filename: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade.md
 ---
-
-# 1073. 1982.02.19.B6. Почему Сарасвати Тхакур и Бхактиведанта Свами стремились проповедовать на западе?
 
 *«Мгновения Прекрасной Реальности» (часть 7.6)*
 

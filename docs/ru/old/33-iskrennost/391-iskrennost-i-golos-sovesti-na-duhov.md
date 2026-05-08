@@ -1,5 +1,14 @@
 ---
 slug: 391-iskrennost-i-golos-sovesti-na-duhov
+record_id: 1981.03.02.A3.B1
+title: Искренность и голос совести на духовном пути.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9222384
+  duration: 00:16:05
+  mp3: /wp-content/uploads/2012/08/391_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
+date: 1981-03-02
 category:
   title: (33. Искренность)
   slug: 33-iskrennost
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Искренность
     slug: iskrennost
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/391_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
     title: Скачать аудиозапись в mp3 (16 мин 5 сек, размер 9 Мб)
+legacy:
+  title: 391. Искренность и голос совести на духовном пути. 1981.03.02.A3.B1
+  index: "391"
+  filename: 391-iskrennost-i-golos-sovesti-na-duhov.md
 ---
-
-# 391. Искренность и голос совести на духовном пути. 1981.03.02.A3.B1
 
 **Шридхар Махарадж:** Искренность – лучшая квалификация. Искренность, чистота. Внутренняя чистота есть искренность. *Шраддха*.
 

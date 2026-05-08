@@ -1,5 +1,14 @@
 ---
 slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
+record_id: 1982.02.27.A2
+title: Распространители капель нектара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5184192
+  duration: 00:10:22
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
+date: 1982-02-27
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -20,7 +29,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 5.167
     slug: shri-chajtanya-charitamrita-madhya-lila-5-167
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
     title: аудиозапись в MP3 (10 мин. 22 сек., 5,0 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 368. 1982.02.27.A2. Распространители капель нектара
+  index: "368"
+  filename: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara.md
 ---
-
-# 368. 1982.02.27.A2. Распространители капель нектара
 
 *«Онтология Прекрасной Реальности» (Часть 2.2)*
 

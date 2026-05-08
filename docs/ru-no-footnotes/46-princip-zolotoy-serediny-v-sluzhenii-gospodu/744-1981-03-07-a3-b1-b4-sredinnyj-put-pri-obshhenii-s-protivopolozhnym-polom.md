@@ -1,12 +1,20 @@
 ---
 slug: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom
+record_id: 1981.03.07.A3.B1.B4
+title: Срединный путь при общении с противоположным полом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10756931
+  duration: 00:19:10
+  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.mp3
+date: 1981-03-07
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.mp3
     title: аудиозапись в MP3 (5 мин. 03 сек., 10,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (34 КБ)
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.pdf
     title: транскрипцию в PDF (170 КБ)
+legacy:
+  title: 744. 1981.03.07.A3.B1.B4. Срединный путь при общении с противоположным полом
+  index: "744"
+  filename: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom.md
 ---
-
-# 744. 1981.03.07.A3.B1.B4. Срединный путь при общении с противоположным полом
 
 **Преданный:** У нас есть еще один вопрос. Женщины такие же хорошие проповедницы, как их братья, проповедники. И многие *санньяси* в ИСККОН консультируют женщин, иногда даже по таким вопросам как брак, семейная жизнь. Но когда они совершают это служение, временами этот контакт с женщинами создает определенные впечатления, но мы не можем полностью избежать общества женщин.
 

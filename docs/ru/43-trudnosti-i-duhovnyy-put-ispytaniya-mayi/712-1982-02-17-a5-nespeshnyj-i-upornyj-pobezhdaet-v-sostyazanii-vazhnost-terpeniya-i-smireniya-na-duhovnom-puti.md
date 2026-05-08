@@ -1,5 +1,15 @@
 ---
 slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
+record_id: 1982.02.17.A5
+title: Неспешный и упорный побеждает в состязании. Важность терпения и смирения
+  на духовном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4558733
+  duration: 00:08:51
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
+date: 1982-02-17
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
@@ -10,7 +20,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (8 мин. 51 сек., 4,4 МБ)
@@ -18,11 +27,14 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 712. 1982.02.17.A5. Неспешный и упорный побеждает в состязании. Важность
+    терпения и смирения на духовном пути
+  index: "712"
+  filename: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti.md
 ---
 
-# 712. 1982.02.17.A5. Неспешный и упорный побеждает в состязании. Важность терпения и смирения на духовном пути
-
-    [тр̣на̄д апи сунӣчена
+[тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄]
     ама̄нина̄ ма̄надена
     кӣрттанӣйах̣ сада̄ харих̣

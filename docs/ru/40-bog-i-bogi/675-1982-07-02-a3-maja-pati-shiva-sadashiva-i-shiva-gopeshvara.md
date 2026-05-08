@@ -1,12 +1,20 @@
 ---
 slug: 675-1982-07-02-a3-maja-pati-shiva-sadashiva-i-shiva-gopeshvara
+record_id: 1982.07.02.A3
+title: Майа-пати Шива, Садашива и Шива-Гопешвара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3419679
+  duration: 00:02:46
+  mp3: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.mp3
+date: 1982-07-02
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.mp3
     title: аудиозапись в MP3 (2 мин. 45 сек., 3,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 675. 1982.07.02.A3. Майа-пати Шива, Садашива и Шива-Гопешвара
+  index: "675"
+  filename: 675-1982-07-02-a3-maja-pati-shiva-sadashiva-i-shiva-gopeshvara.md
 ---
-
-# 675. 1982.07.02.A3. Майа-пати Шива, Садашива и Шива-Гопешвара
 
 **Преданный:** Махарадж, есть один вопрос: иногда мы слышим о том, что Господь Шива находится за пределами *Брахмалоки*…
 

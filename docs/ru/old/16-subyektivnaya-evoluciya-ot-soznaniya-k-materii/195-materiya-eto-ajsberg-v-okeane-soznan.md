@@ -1,5 +1,12 @@
 ---
 slug: 195-materiya-eto-ajsberg-v-okeane-soznan
+title: Материя – это айсберг в океане сознания.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4416940
+  duration: 00:09:03
+  mp3: /wp-content/uploads/2012/08/195_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -12,13 +19,14 @@ tags:
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/195_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
     title: Скачать аудиозапись в mp3 (9 мин 3 сек, размер 4 Мб)
+legacy:
+  title: 195. Материя – это айсберг в океане сознания.
+  index: "195"
+  filename: 195-materiya-eto-ajsberg-v-okeane-soznan.md
 ---
-
-# 195. Материя – это айсберг в океане сознания.
 
 Один немецкий ученый Стивенс во время Первой Мировой войны принял сторону индийских националистов. Я видел его в университете, когда изучал юриспруденцию в университете. Его язык был очень прост, и в то же время он приводил замечательные аргументы. В его подаче я изучал философию, онтологию.
 

@@ -1,12 +1,20 @@
 ---
 slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
+record_id: 1983.04.16.B1
+title: Жизнь в стремлении к идеалу обладает величайшей ценностью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15870976
+  duration: 00:27:49
+  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
+date: 1983-04-16
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
   - title: "1983.04"
     slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
     title: аудиозапись в MP3 (27 мин. 49 сек., 15,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (203 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
+  index: "697"
+  filename: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu.md
 ---
-
-# 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
 
     [шлока]
 

@@ -1,5 +1,14 @@
 ---
 slug: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada
+record_id: 1982.02.24.B1
+title: О различии взглядов Бхактисиддханты Сарасвати и Лалита Прасада
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11571461
+  duration: 00:09:47
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3
+date: 1982-02-24
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
@@ -14,7 +23,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3
     title: аудиозапись в MP3 (9 мин. 46 сек., 11,1 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (111 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 880. 1982.02.24.B1. О различии взглядов Бхактисиддханты Сарасвати и
+    Лалита Прасада
+  index: "880"
+  filename: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada.md
 ---
-
-# 880. 1982.02.24.B1. О различии взглядов Бхактисиддханты Сарасвати и Лалита Прасада
 
 **«Онтология Прекрасной Реальности» (часть 6.5)**
 

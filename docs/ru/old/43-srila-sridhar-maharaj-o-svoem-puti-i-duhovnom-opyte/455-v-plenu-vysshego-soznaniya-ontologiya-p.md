@@ -1,5 +1,12 @@
 ---
 slug: 455-v-plenu-vysshego-soznaniya-ontologiya-p
+title: В плену Высшего Сознания. Онтология прекрасной реальности, часть 1.8
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6854016
+  duration: 00:13:06
+  mp3: /wp-content/uploads/2012/08/455_OntologiyaPR_1.8_SridharMj_V_plenu_vysshego_soznaniya.mp3
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
@@ -8,13 +15,14 @@ tags:
     slug: biografiya-shridhara-maharadzha
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/455_OntologiyaPR_1.8_SridharMj_V_plenu_vysshego_soznaniya.mp3
     title: Скачать аудиозапись в mp3 (13 мин 6 сек, размер 6 Мб)
+legacy:
+  title: 455. В плену Высшего Сознания. Онтология прекрасной реальности, часть 1.8
+  index: "455"
+  filename: 455-v-plenu-vysshego-soznaniya-ontologiya-p.md
 ---
-
-# 455. В плену Высшего Сознания. Онтология прекрасной реальности, часть 1.8
 
 Он *адхокшаджа*. Это явления не следует преуменьшать и недооценивать в этом состоит опасность. Опасность заключается в возможности недооценить это явление. Это явление следует охранять со всей нашей мощью всеми силами. И это явления самосветящиеся, лучезарное, когда оно явится и проснется в сердце человека [неразборчиво] непреодолимым образом.
 

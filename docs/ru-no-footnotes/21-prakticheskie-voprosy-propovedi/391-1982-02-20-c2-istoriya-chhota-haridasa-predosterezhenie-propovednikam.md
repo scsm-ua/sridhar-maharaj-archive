@@ -1,5 +1,14 @@
 ---
 slug: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam
+record_id: 1982.02.20.C2
+title: История Чхота Харидаса — предостережение проповедникам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9508727
+  duration: 00:09:01
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.mp3
+date: 1982-02-20
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.mp3
     title: аудиозапись в MP3 (9 мин. 01 сек., 9,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 391. 1982.02.20.C2. История Чхота Харидаса — предостережение проповедникам
+  index: "391"
+  filename: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam.md
 ---
-
-# 391. 1982.02.20.C2. История Чхота Харидаса — предостережение проповедникам
 
 **Преданный:** Махарадж, а как возможно, что Мадхави Деви была близкой спутницей Махапрабху?
 

@@ -1,5 +1,14 @@
 ---
 slug: 101-acharya-abhiman-1981-08-27-a3
+record_id: 1981.08.27.A3
+title: Ачарья-абхиман.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2865340
+  duration: 00:03:30
+  mp3: /wp-content/uploads/2012/08/101_1981.08.27.A3_SridharMj_Acharya-abhiman.mp3
+date: 1981-08-27
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -8,13 +17,14 @@ tags:
     slug: 1981-08
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/101_1981.08.27.A3_SridharMj_Acharya-abhiman.mp3
     title: Скачать аудиозапись в mp3 (3 мин 30 сек, размер 2 Мб)
+legacy:
+  title: 101. Ачарья-абхиман. 1981.08.27.A3
+  index: "101"
+  filename: 101-acharya-abhiman-1981-08-27-a3.md
 ---
-
-# 101. Ачарья-абхиман. 1981.08.27.A3
 
 **Преданный:** Махарадж, когда речь идет… такой преданный как Бхактивинод Тхакур утверждает подобное, что мы должны думать?
 

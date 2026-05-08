@@ -1,12 +1,19 @@
 ---
 slug: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya
+title: Онтология ПР. Ч. 7.4. Общество садху и священные писания — основа
+  духовного здоровья
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5130878
+  duration: 00:04:10
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
     title: аудиозапись в MP3 (4 мин. 09 сек., 4,9 МБ)
@@ -14,9 +21,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 234. Онтология ПР. Ч. 7.4. Общество садху и священные писания — основа
+    духовного здоровья
+  index: "234"
+  filename: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya.md
 ---
-
-# 234. Онтология ПР. Ч. 7.4. Общество садху и священные писания — основа духовного здоровья
 
 **Преданный:** Мы происходим из низкой, очень деградированной среды, иногда нас вновь привлекают эти низменные реалии, грязные, низкие вещи. Как мы можем быстро очиститься, обрубить связь с этими низменными реалиями и достичь платформы чистоты?
 

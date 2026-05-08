@@ -1,5 +1,14 @@
 ---
 slug: 506-o-kvalifikatsii-dlya-chteniya-i-napisani
+record_id: 1981.08.20.A2
+title: О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11311146
+  duration: 00:22:59
+  mp3: /wp-content/uploads/2012/08/506_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
+date: 1981-08-20
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
@@ -8,13 +17,15 @@ tags:
     slug: knigi-shridhara-maharadzha
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/506_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
     title: Скачать аудиозапись в mp3 (22 мин 59 сек, размер 11 Мб)
+legacy:
+  title: 506. О квалификации для чтения и написании «Шри Шри
+    Прапанна-дживанамритам». 1981.08.20.A2
+  index: "506"
+  filename: 506-o-kvalifikatsii-dlya-chteniya-i-napisani.md
 ---
-
-# 506. О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам». 1981.08.20.A2
 
 Безоговорочно и совершено спонтанно, нектар самопредания… Что? Нектар самопредания, преданности, или нектар предавшихся? Нектар самопредания. Нектар жизни предавшихся душ или преданных личностей. Прапанна-дживанамритам, или прапанна-дживаен-амритам – те, кто пришли, чтобы принять пристанище, прибежище нектара их жизни. Такой была моя концепция, мое представление, моя идея, стоящая за этим названием.
 

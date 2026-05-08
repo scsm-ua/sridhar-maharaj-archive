@@ -1,5 +1,12 @@
 ---
 slug: 269-svyaz-joga-maji-i-maha-maji-mgnoveniya
+title: Связь йога-майи и маха-майи. Мгновения прекрасной реальности, часть ч 2.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2523928
+  duration: 00:06:29
+  mp3: /wp-content/uploads/2012/08/269_MgnoveniyaPR_2.1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -14,13 +21,15 @@ tags:
     slug: maha-maja
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/269_MgnoveniyaPR_2.1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
     title: Скачать аудиозапись в mp3 (6 мин 29 сек, размер 2 Мб)
+legacy:
+  title: 269. Связь йога-майи и маха-майи. Мгновения прекрасной реальности, часть
+    ч 2.1
+  index: "269"
+  filename: 269-svyaz-joga-maji-i-maha-maji-mgnoveniya.md
 ---
-
-# 269. Связь йога-майи и маха-майи. Мгновения прекрасной реальности, часть ч 2.1
 
 *#00:00:19#*
 

@@ -1,5 +1,13 @@
 ---
 slug: 128-milost-guru-i-vajshnavov-osnova-duho
+record_id: null
+title: Милость гуру и вайшнавов — основа духовного прогресса.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2386523
+  duration: 00:03:34
+  mp3: /wp-content/uploads/2012/08/128_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +18,14 @@ tags:
     slug: kachestva-uchenika
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/128_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
     title: Скачать аудиозапись в mp3 (3 мин 34 сек, размер 2 Мб)
+legacy:
+  title: 128. Милость гуру и вайшнавов — основа духовного прогресса.
+  index: "128"
+  filename: 128-milost-guru-i-vajshnavov-osnova-duho.md
 ---
-
-# 128. Милость гуру и вайшнавов — основа духовного прогресса.
 
 По указу, следуя указанию гурудева. Следуя указанию гуру, ниргуна, такая позиция. Мы получаем мантрам, их смысл. Я предназначен для чего? Формулы. Мое будущее. Каким должна быть моя цель, мое стремление — все это заключено в мантрам. Обычно мы начинаем с гуру пуджы, связь с посредником. Мы обретаем счастливые взаимоотношения с ним.
 

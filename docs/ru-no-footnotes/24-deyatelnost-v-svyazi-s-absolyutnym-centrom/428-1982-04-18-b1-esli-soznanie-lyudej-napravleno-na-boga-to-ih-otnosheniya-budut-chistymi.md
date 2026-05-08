@@ -1,12 +1,20 @@
 ---
 slug: 428-1982-04-18-b1-esli-soznanie-lyudej-napravleno-na-boga-to-ih-otnosheniya-budut-chistymi
+record_id: 1982.04.18.B1
+title: Если сознание людей направлено на Бога, то их отношения будут чистыми
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5953923
+  duration: 00:05:22
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/428_1982.04.18.B1_SridharMj_Esli_soznanie_ljudej_napravleno_na_Boga_to_ih_otnoshenija_budut_chistymi.mp3
+date: 1982-04-18
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/428_1982.04.18.B1_SridharMj_Esli_soznanie_ljudej_napravleno_na_Boga_to_ih_otnoshenija_budut_chistymi.mp3
     title: аудиозапись в MP3 (5 мин. 22 сек., 5,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/428_1982.04.18.B1_SridharMj_Esli_soznanie_ljudej_napravleno_na_Boga_to_ih_otnoshenija_budut_chistymi.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 428. 1982.04.18.B1. Если сознание людей направлено на Бога, то их
+    отношения будут чистыми
+  index: "428"
+  filename: 428-1982-04-18-b1-esli-soznanie-lyudej-napravleno-na-boga-to-ih-otnosheniya-budut-chistymi.md
 ---
-
-# 428. 1982.04.18.B1. Если сознание людей направлено на Бога, то их отношения будут чистыми
 
 **Шрила Шридхар Махарадж:** Кто еще здесь?
 

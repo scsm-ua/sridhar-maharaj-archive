@@ -1,12 +1,20 @@
 ---
 slug: 954-1983-04-17-a2-zhizn-i-posvyashhenie-shrily-narottama-dasa-thakura
+record_id: 1983.04.17.A2
+title: Жизнь и посвящение Шрилы Нароттама Даса Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7741544
+  duration: 00:10:07
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/954_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Shrily_Narottama_Dasa_Thakura.mp3
+date: 1983-04-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1983.04"
     slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/954_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Shrily_Narottama_Dasa_Thakura.mp3
     title: аудиозапись в MP3 (10 мин. 07 сек., 7,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/954_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Shrily_Narottama_Dasa_Thakura.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 954. 1983.04.17.A2. Жизнь и посвящение Шрилы Нароттама Даса Тхакура
+  index: "954"
+  filename: 954-1983-04-17-a2-zhizn-i-posvyashhenie-shrily-narottama-dasa-thakura.md
 ---
-
-# 954. 1983.04.17.A2. Жизнь и посвящение Шрилы Нароттама Даса Тхакура
 
 **Преданный:** Не могли бы рассказать нам о жизни Нароттама Даса Тхакура.
 

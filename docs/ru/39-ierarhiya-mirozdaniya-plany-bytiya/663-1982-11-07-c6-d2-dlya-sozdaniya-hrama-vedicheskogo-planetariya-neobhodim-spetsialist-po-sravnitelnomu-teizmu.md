@@ -1,12 +1,21 @@
 ---
 slug: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu
+record_id: 1982.11.07.C6.D2
+title: «Для создания Храма ведического планетария необходим специалист по
+  сравнительному теизму»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8718932
+  duration: 00:07:51
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.mp3
+date: 1982-11-07
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.mp3
     title: аудиозапись в MP3 (7 мин. 51 сек., 8,4 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (98 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 663. 1982.11.07.C6.D2. «Для создания Храма ведического планетария
+    необходим специалист по сравнительному теизму»
+  index: "663"
+  filename: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu.md
 ---
-
-# 663. 1982.11.07.C6.D2. «Для создания Храма ведического планетария необходим специалист по сравнительному теизму»
 
 **Преданный:** Наш Гурудев [Шрила Бхактиведанта Свами Махарадж] сказал, что концепцию, понимание храма следует разработать под вашим руководством, следуя вашим философским наставлениям. И я прошу у вас позволения задать вам некоторые вопросы, относящиеся к различным уровням, которые описаны в «Брихад-Бхагаватамритам». Если бы вы могли описать нам картины (или диорамы), которые должны присутствовать в этом храме (*Джанар-лока*, *Махар-лока* и так далее: различные *локи*, *Вираджа*, Шива-лока, Вайкунтха, различные измерения бытия).
 

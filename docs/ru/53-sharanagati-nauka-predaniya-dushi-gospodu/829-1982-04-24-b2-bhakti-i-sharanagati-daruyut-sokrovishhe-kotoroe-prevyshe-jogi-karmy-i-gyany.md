@@ -1,5 +1,14 @@
 ---
 slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
+record_id: 1982.04.24.B2
+title: Бхакти и шаранагати даруют сокровище, которое превыше йоги, кармы и гьяны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15922761
+  duration: 00:15:59
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3
+date: 1982-04-24
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -52,7 +61,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-4-193
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
     slug: shri-chajtanya-charitamrita-antya-lila-4-194
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3
     title: аудиозапись в MP3 (15 мин. 59 сек., 15,2 МБ)
@@ -60,9 +68,12 @@ links:
     title: транскрипцию в RTF (243 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.pdf
     title: транскрипцию в PDF (187 КБ)
+legacy:
+  title: 829. 1982.04.24.B2. Бхакти и шаранагати даруют сокровище, которое превыше
+    йоги, кармы и гьяны
+  index: "829"
+  filename: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany.md
 ---
-
-# 829. 1982.04.24.B2. Бхакти и шаранагати даруют сокровище, которое превыше йоги, кармы и гьяны
 
 **Преданный:** Махарадж, а проявление психических сил — это плохо для духовной жизни?
 

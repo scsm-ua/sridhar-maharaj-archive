@@ -1,5 +1,14 @@
 ---
 slug: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti
+record_id: 1982.02.19.B1
+title: Вопрос о ребенке от Шивы у Мохини-мурти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11837846
+  duration: 00:11:39
+  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
+date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
@@ -10,7 +19,6 @@ tags:
     slug: mohini-murti
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
     title: аудиозапись в MP3 (11 мин. 39 сек., 11,3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (129 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 158. 1982.02.19.B1. Вопрос о ребенке от Шивы у Мохини-мурти
+  index: "158"
+  filename: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti.md
 ---
-
-# 158. 1982.02.19.B1. Вопрос о ребенке от Шивы у Мохини-мурти
 
 **Преданный:** Харе Кришна. В «Шримад-Бхагаватам» говорится: когда Вишну принял Мохини-*аватар*, Шива следовал за ним. В Южной Индии поклоняются сыну, рожденному Вишну от Шивы — Хари-Хара-путра. Это достоверно?
 

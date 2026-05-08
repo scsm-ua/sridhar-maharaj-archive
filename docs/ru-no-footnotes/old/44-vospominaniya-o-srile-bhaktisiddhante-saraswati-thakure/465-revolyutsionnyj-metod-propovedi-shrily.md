@@ -1,5 +1,14 @@
 ---
 slug: 465-revolyutsionnyj-metod-propovedi-shrily
+record_id: 1984.01.08.B5
+title: Революционный метод проповеди Шрилы Сарасвати Тхакура.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5458976
+  duration: 00:10:54
+  mp3: /wp-content/uploads/2012/08/465_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
+date: 1984-01-08
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -10,13 +19,14 @@ tags:
     slug: nityananda-prabhu
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/465_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
     title: Скачать аудиозапись в mp3 (10 мин 54 сек, размер 5 Мб)
+legacy:
+  title: 465. Революционный метод проповеди Шрилы Сарасвати Тхакура. 1984.01.08.B5
+  index: "465"
+  filename: 465-revolyutsionnyj-metod-propovedi-shrily.md
 ---
-
-# 465. Революционный метод проповеди Шрилы Сарасвати Тхакура. 1984.01.08.B5
 
 **Ученик:** Мы должны служить вайшнаву, который служит Нитьянанде и Господу Чайтанье?
 

@@ -1,12 +1,20 @@
 ---
 slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
+record_id: 1981.03.10.B3
+title: Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5783155
+  duration: 00:10:48
+  mp3: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
+date: 1981-03-10
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
     title: аудиозапись в MP3 (10 мин. 47 сек., 5,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 456. 1981.03.10.B3. Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
+  index: "456"
+  filename: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi.md
 ---
-
-# 456. 1981.03.10.B3. Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
 
 Однажды наш Гуру Махарадж сказал в этой связи: «Эти люди не хотят понять благородное, возвышенное положение, о котором говорит Рупа Госвами». Положение Рупы Госвами выше всех религиозных сантиментов настолько, что Гуру Махарадж привел следующий пример:
 

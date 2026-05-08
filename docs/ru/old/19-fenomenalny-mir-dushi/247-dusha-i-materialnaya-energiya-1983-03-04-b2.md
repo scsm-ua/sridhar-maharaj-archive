@@ -1,5 +1,14 @@
 ---
 slug: 247-dusha-i-materialnaya-energiya-1983-03-04-b2
+record_id: 1983.03.04.B2
+title: Душа и материальная энергия.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7035382
+  duration: 00:10:16
+  mp3: /wp-content/uploads/2012/08/247_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
+date: 1983-03-04
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -8,13 +17,14 @@ tags:
     slug: 1983-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/247_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
     title: Скачать аудиозапись в mp3 (10 мин 16 сек, размер 7 Мб)
+legacy:
+  title: 247. Душа и материальная энергия. 1983.03.04.B2
+  index: "247"
+  filename: 247-dusha-i-materialnaya-energiya-1983-03-04-b2.md
 ---
-
-# 247. Душа и материальная энергия. 1983.03.04.B2
 
 Вриндаван находится в составе Мадхуры-вандалы, затем есть Дварака. Мадхура Кришна иногда находится в Мадхуре и заключительная часть игр происходит в Двараке. Мадхура делится на… Мадхура, Вриндаван и Дварака. Подобная концепция. Что-то еще?
 

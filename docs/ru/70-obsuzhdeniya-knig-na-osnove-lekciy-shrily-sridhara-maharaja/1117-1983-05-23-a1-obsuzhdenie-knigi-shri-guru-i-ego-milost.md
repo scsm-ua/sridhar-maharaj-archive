@@ -1,5 +1,14 @@
 ---
 slug: 1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost
+record_id: 1983.05.23.A1
+title: Обсуждение книги «Шри Гуру и его милость»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9355296
+  duration: 00:18:25
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
+date: 1983-05-23
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
@@ -18,7 +27,6 @@ tags:
     slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 283
     slug: bhakti-sandarbha-283
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
     title: аудиозапись в MP3 (18 мин. 25 сек., 9,0 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 1117. 1983.05.23.A1. Обсуждение книги «Шри Гуру и его милость»
+  index: "1117"
+  filename: 1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost.md
 ---
-
-# 1117. 1983.05.23.A1. Обсуждение книги «Шри Гуру и его милость»
 
 **Преданный:** Не могли бы вы объяснить это на английском?
 

@@ -1,5 +1,14 @@
 ---
 slug: 322-1983-01-04-b1-1-diksha-znachit-obresti-pravilnyj-ugol-zreniya
+record_id: 1983.01.04.B1.1
+title: «Дикша» значит «Обрести правильный угол зрения»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3168483
+  duration: 00:05:39
+  mp3: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.mp3
+date: 1983-01-04
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.mp3
     title: аудиозапись в MP3 (5 мин. 39 сек., 3,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 322. 1983.01.04.B1.1. «Дикша» значит «Обрести правильный угол зрения»
+  index: "322"
+  filename: 322-1983-01-04-b1-1-diksha-znachit-obresti-pravilnyj-ugol-zreniya.md
 ---
-
-# 322. 1983.01.04.B1.1. «Дикша» значит «Обрести правильный угол зрения»
 
 **Преданный:** С тех пор, как я приехал в Навадвип, я хочу спросить: какое служение необходимо совершать и какое служение особенно важно, когда ты находишься здесь, в Навадвипе?
 

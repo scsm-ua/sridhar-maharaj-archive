@@ -1,5 +1,14 @@
 ---
 slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
+record_id: 1982.03.25.A1
+title: Искренняя вера позволит преодолеть трудности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9478780
+  duration: 00:08:58
+  mp3: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
+date: 1982-03-25
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
@@ -34,7 +43,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
     title: аудиозапись в MP3 (8 мин. 58 сек., 9,1 МБ)
@@ -42,9 +50,11 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 741. 1982.03.25.A1. Искренняя вера позволит преодолеть трудности
+  index: "741"
+  filename: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti.md
 ---
-
-# 741. 1982.03.25.A1. Искренняя вера позволит преодолеть трудности
 
 В то же время мы должны сознавать, что Кришна вездесущ, Он всезнающ, Он присутствует повсюду, и Он знает наше нынешнее положение. Он всевидящ, поэтому существует некая специфическая цель, которая стоит за данными обстоятельствами. Ничто не лишено смысла, происходящее также имеет смысл, глубокий смысл. Мы не должны быть обескуражены, разочарованы, мы должны пытаться сохранять нашу искренность в отношении нашей веры.
 

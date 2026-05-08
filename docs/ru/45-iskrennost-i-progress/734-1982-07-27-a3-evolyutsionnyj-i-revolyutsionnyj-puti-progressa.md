@@ -1,5 +1,14 @@
 ---
 slug: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa
+record_id: 1982.07.27.A3
+title: Эволюционный и революционный пути прогресса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4363795
+  duration: 00:03:38
+  mp3: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
+date: 1982-07-27
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
@@ -24,7 +33,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
     title: аудиозапись в MP3 (3 мин. 38 сек., 4,2 МБ)
@@ -32,11 +40,13 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 734. 1982.07.27.A3. Эволюционный и революционный пути прогресса
+  index: "734"
+  filename: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa.md
 ---
 
-# 734. 1982.07.27.A3. Эволюционный и революционный пути прогресса
-
-    све све ‘дхика̄ре йа̄ ниш̣т̣ха
+све све ‘дхика̄ре йа̄ ниш̣т̣ха
 [^_ftn1]
 
 Конечно, *карми* скажет, что карма — это высшее явление, ни *гьяна*, ни преданность, а именно карма. А *гьяни* скажет, что *гьяна* — высшее явление, а карма — это плохо, преданность — тоже плохо. Для того чтобы сформировать ментальность той или иной личности, существуют разные разделы священных писаний, и эти разделы говорят: следуй этому пути с верой, не отклоняйся в ту сторону, в эту сторону, потому что иначе ты не сумеешь дойти до конца твоего пути. Будь внимателен к этому своему долгу — это высочайший долг, высочайший путь.

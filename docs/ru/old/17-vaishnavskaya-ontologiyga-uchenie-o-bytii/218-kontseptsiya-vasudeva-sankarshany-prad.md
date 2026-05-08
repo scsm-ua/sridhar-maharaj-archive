@@ -1,18 +1,28 @@
 ---
 slug: 218-kontseptsiya-vasudeva-sankarshany-prad
+record_id: 1982.01.04.A1
+title: Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2923708
+  duration: 00:05:38
+  mp3: /wp-content/uploads/2012/08/218_1982.01.04.A1_SridharMj_Koncepciya_Chaturvyuhi.mp3
+date: 1982-01-04
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/218_1982.01.04.A1_SridharMj_Koncepciya_Chaturvyuhi.mp3
     title: Скачать аудиозапись в mp3 (5 мин 38 сек, размер 42 Мб)
+legacy:
+  title: 218. Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи. 1982.01.04.A1
+  index: "218"
+  filename: 218-kontseptsiya-vasudeva-sankarshany-prad.md
 ---
-
-# 218. Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи. 1982.01.04.A1
 
 *#00:00:00#*
 

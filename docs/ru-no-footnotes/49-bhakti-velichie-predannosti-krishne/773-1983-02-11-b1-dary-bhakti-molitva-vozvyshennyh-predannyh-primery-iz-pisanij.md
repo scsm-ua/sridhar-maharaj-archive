@@ -1,5 +1,14 @@
 ---
 slug: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij
+record_id: 1983.02.11.B1
+title: Дары бхакти. Молитва возвышенных преданных – примеры из Писаний
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11718050
+  duration: 00:23:17
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3
+date: 1983-02-11
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1983-02
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3
     title: аудиозапись в MP3 (23 мин. 16 сек., 11,2 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (214 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 773. 1983.02.11.B1. Дары бхакти. Молитва возвышенных преданных – примеры
+    из Писаний
+  index: "773"
+  filename: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
 ---
-
-# 773. 1983.02.11.B1. Дары бхакти. Молитва возвышенных преданных – примеры из Писаний
 
 Если мы обретем *бхакти*, тогда автоматически все неблагоприятное уходит, устраняется. В целом преданность подразумевает:
 

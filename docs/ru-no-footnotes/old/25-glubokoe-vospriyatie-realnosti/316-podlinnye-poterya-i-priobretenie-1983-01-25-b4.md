@@ -1,5 +1,14 @@
 ---
 slug: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4
+record_id: 1983.01.25.B4
+title: Подлинные потеря и приобретение.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1951212
+  duration: 00:03:40
+  mp3: /wp-content/uploads/2012/08/316_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
+date: 1983-01-25
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/316_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
     title: Скачать аудиозапись в mp3 (3 мин 40 сек, размер 2 Мб)
+legacy:
+  title: 316. Подлинные потеря и приобретение. 1983.01.25.B4
+  index: "316"
+  filename: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4.md
 ---
-
-# 316. Подлинные потеря и приобретение. 1983.01.25.B4
 
 **Преданный:** Временами мы говорим: «Нет риска — нет выигрыша».
 

@@ -1,5 +1,13 @@
 ---
 slug: 375-duhovnoe-obshhenie-put-k-chistomu-vos
+title: Духовное общение – путь к чистому воспеванию Имени. Мгновения прекрасной
+  реальности, часть 6.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4346072
+  duration: 00:04:02
+  mp3: /wp-content/uploads/2012/08/375_MgnoveniyaPR_6.2_SridharMj_Duhovnoye_obweniye–put_k_chistomu_vospevaniyu_Imeni.mp3
 category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
@@ -8,13 +16,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/375_MgnoveniyaPR_6.2_SridharMj_Duhovnoye_obweniye–put_k_chistomu_vospevaniyu_Imeni.mp3
     title: Скачать аудиозапись в mp3 (4 мин 2 сек, размер 4 Мб)
+legacy:
+  title: 375. Духовное общение – путь к чистому воспеванию Имени. Мгновения
+    прекрасной реальности, часть 6.2
+  index: "375"
+  filename: 375-duhovnoe-obshhenie-put-k-chistomu-vos.md
 ---
-
-# 375. Духовное общение – путь к чистому воспеванию Имени. Мгновения прекрасной реальности, часть 6.2
 
 **Ученик:** Вопрос о *Шуддха-наме*.
 

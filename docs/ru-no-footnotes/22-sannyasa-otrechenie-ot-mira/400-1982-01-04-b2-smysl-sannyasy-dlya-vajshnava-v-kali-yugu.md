@@ -1,5 +1,14 @@
 ---
 slug: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu
+record_id: 1982.01.04.B2
+title: Смысл санньясы для вайшнава в Кали-югу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8046268
+  duration: 00:14:34
+  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
+date: 1982-01-04
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
@@ -8,7 +17,6 @@ tags:
     slug: 1982-01
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
     title: аудиозапись в MP3 (14 мин. 34 сек., 7,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 400. 1982.01.04.B2. Смысл санньясы для вайшнава в Кали-югу
+  index: "400"
+  filename: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu.md
 ---
-
-# 400. 1982.01.04.B2. Смысл санньясы для вайшнава в Кали-югу
 
 **Шрила Шридхар Махарадж:** Есть ли еще вопросы?
 

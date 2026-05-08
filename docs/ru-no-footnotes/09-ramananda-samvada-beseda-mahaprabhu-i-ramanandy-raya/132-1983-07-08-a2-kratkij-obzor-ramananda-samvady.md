@@ -1,5 +1,14 @@
 ---
 slug: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady
+record_id: 1983.07.08.A2
+title: Краткий обзор Рамананда-самвады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6530978
+  duration: 00:13:06
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.mp3
+date: 1983-07-08
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -10,7 +19,6 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.mp3
     title: аудиозапись в MP3 (13 мин. 05 сек., 6.3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 132. 1983.07.08.A2. Краткий обзор Рамананда-самвады
+  index: "132"
+  filename: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady.md
 ---
-
-# 132. 1983.07.08.A2. Краткий обзор Рамананда-самвады
 
 Махапрабху спрашивает в «Чайтанья-чаритамрите» Рая Рамананду: «Каково наше место назначения, и как достичь нашей цели?» Рамананда начинает с концепции *варнашрамы*.
 

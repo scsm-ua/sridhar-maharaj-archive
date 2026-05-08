@@ -1,5 +1,12 @@
 ---
 slug: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda
+title: Мгновения ПР. Ч. 4.6. Все мироздание пронизано потоком лилы Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1715768
+  duration: 00:02:36
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -10,7 +17,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.61
     slug: bhagavad-gita-18-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
     title: аудиозапись в MP3 (2 мин. 35 сек., 1,7 МБ)
@@ -18,9 +24,11 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 417. Мгновения ПР. Ч. 4.6. Все мироздание пронизано потоком лилы Господа
+  index: "417"
+  filename: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda.md
 ---
-
-# 417. Мгновения ПР. Ч. 4.6. Все мироздание пронизано потоком лилы Господа
 
 **Преданный:** Махарадж, вы сказали, что мы все стремимся к этому.
 

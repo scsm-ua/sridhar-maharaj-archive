@@ -1,5 +1,14 @@
 ---
 slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
+record_id: 1982.04.16.B2
+title: Друзья и враги Кришны обретают освобождение, но разного типа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16834592
+  duration: 00:14:53
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3
+date: 1982-04-16
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -36,7 +45,6 @@ tags:
     slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 5.41
     slug: laghu-bhagavatamrita-5-41
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3
     title: аудиозапись в MP3 (14 мин. 52 сек., 16 МБ)
@@ -44,11 +52,14 @@ links:
     title: транскрипцию в RTF (153 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 067. 1982.04.16.B2 Друзья и враги Кришны обретают освобождение,
+    но разного типа
+  index: "067"
+  filename: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa.md
 ---
 
-# 067. 1982.04.16.B2 Друзья и враги Кришны обретают освобождение, но разного типа
-
-    на дханам̇ на джанам̇ на сундарӣм̇
+на дханам̇ на джанам̇ на сундарӣм̇
     кавита̄м̇ ва̄ джагад-ӣш́а ка̄майе
     мама джанмани джанманӣш́варе
     бхавата̄д бхактир ахаитукӣ твайи

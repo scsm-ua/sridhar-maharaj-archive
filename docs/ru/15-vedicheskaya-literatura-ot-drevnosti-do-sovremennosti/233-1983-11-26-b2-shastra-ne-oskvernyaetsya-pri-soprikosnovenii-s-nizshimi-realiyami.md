@@ -1,5 +1,14 @@
 ---
 slug: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami
+record_id: 1983.11.26.B2
+title: Шастра не оскверняется при соприкосновении с низшими реалиями
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2738645
+  duration: 00:02:09
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3
+date: 1983-11-26
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -10,7 +19,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.17.38
     slug: shrimad-bhagavatam-1-17-38
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3
     title: аудиозапись в MP3 (2 мин. 09 сек., 2,7 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 233. 1983.11.26.B2. Шастра не оскверняется при соприкосновении с низшими
+    реалиями
+  index: "233"
+  filename: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami.md
 ---
-
-# 233. 1983.11.26.B2. Шастра не оскверняется при соприкосновении с низшими реалиями
 
 **Преданный:** Гуру Махарадж, если некий том [буквально], экземпляр *шастры* был использован с целью колдовства или совершения *сахаджия-*ритуалов, должны ли мы считать этот конкретный экземпляр оскверненным?
 

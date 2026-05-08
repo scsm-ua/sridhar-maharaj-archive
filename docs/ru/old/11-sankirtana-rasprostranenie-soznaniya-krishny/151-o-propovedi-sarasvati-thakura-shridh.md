@@ -1,5 +1,13 @@
 ---
 slug: 151-o-propovedi-sarasvati-thakura-shridh
+title: О проповеди Сарасвати Тхакура, Шридхара Махараджа и Бхактиведанды Свами.
+  Онтология прекрасной реальности, часть 4.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7241728
+  duration: 00:10:40
+  mp3: /wp-content/uploads/2012/08/151_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -12,13 +20,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/151_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
     title: Скачать аудиозапись в mp3 (10 мин 40 сек, размер 7 Мб)
+legacy:
+  title: 151. О проповеди Сарасвати Тхакура, Шридхара Махараджа и Бхактиведанды
+    Свами. Онтология прекрасной реальности, часть 4.4
+  index: "151"
+  filename: 151-o-propovedi-sarasvati-thakura-shridh.md
 ---
-
-# 151. О проповеди Сарасвати Тхакура, Шридхара Махараджа и Бхактиведанды Свами. Онтология прекрасной реальности, часть 4.4
 
 Министр образования Мадраса cказал… Я сказал ему в своё время: « Я хочу посетить вашу землю, проповедовать. Мне необходимо рекомендательное письмо от вас».
 

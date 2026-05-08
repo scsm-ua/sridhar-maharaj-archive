@@ -1,5 +1,14 @@
 ---
 slug: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi
+record_id: 1982.06.05.A3
+title: Подлинный духовный вкус возможен только после стадии ништхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7820340
+  duration: 00:07:18
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.mp3
+date: 1982-06-05
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
@@ -28,7 +37,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
     slug: shri-chajtanya-charitamrita-madhya-lila-23-42
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.mp3
     title: аудиозапись в MP3 (7 мин. 17 сек., 7,5 МБ)
@@ -36,9 +44,12 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 718. 1982.06.05.A3. Подлинный духовный вкус возможен только после стадии
+    ништхи
+  index: "718"
+  filename: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi.md
 ---
-
-# 718. 1982.06.05.A3. Подлинный духовный вкус возможен только после стадии ништхи
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
 

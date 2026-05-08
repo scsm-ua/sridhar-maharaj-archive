@@ -1,5 +1,15 @@
 ---
 slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
+record_id: 1983.11.07.A.B1
+title: Извилистая и непостижимая природа лилы. Молитвы Брахмы прославляют Кришну
+  и Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 48234663
+  duration: 00:49:51
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy%20_proslavljajut_Krishnu_i_Radharani.mp3
+date: 1983-11-07
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -28,7 +38,6 @@ tags:
     slug: shrimad-bhagavatam-10-47-61
   - title: Шримад-Бхагаватам 10.14.1
     slug: shrimad-bhagavatam-10-14-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy%20_proslavljajut_Krishnu_i_Radharani.mp3
     title: аудиозапись в MP3 (49 мин. 50 сек., 43 МБ)
@@ -38,9 +47,12 @@ links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy
       _proslavljajut_Krishnu_i_Radharani.pdf
     title: транскрипцию в PDF (206 КБ)
+legacy:
+  title: 167. 1983.11.07.A.B1. Извилистая и непостижимая природа лилы. Молитвы
+    Брахмы прославляют Кришну и Радхарани
+  index: "167"
+  filename: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani.md
 ---
-
-# 167. 1983.11.07.A.B1. Извилистая и непостижимая природа лилы. Молитвы Брахмы прославляют Кришну и Радхарани
 
 **Шрила Госвами Махарадж:** Махарадж, *Брахма*—*вимохана-лила*: после того, как Господь Брахма начинает возносить молитвы Кришне — *джн̃а̄не прайа̄сам удапа̄сйа наманта эва*[^_ftn1] — прославлять Кришну, он молится о том, чтобы находиться во Вриндаване в качестве кустика, растения. Эта молитва аналогична молитве Уддхавы? После того, как он начинает прославлять Кришну?
 

@@ -1,5 +1,14 @@
 ---
 slug: 604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo
+record_id: 1982.05.14.B3
+title: Бог может прекратить существование дживы или совершить самоубийство
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4223969
+  duration: 00:02:42
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3
+date: 1982-05-14
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
     slug: shri-chajtanya-charitamrita-madhya-lila-15-179
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3
     title: аудиозапись в MP3 (2 мин. 42 сек., 4,1 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 604. 1982.05.14.B3. Бог может прекратить существование дживы или
+    совершить самоубийство
+  index: "604"
+  filename: 604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo.md
 ---
-
-# 604. 1982.05.14.B3. Бог может прекратить существование дживы или совершить самоубийство
 
 **Шрила Шридхар Махарадж:** Харе Кришна.
 

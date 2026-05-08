@@ -1,5 +1,14 @@
 ---
 slug: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany
+record_id: 1981.08.14.B2
+title: Ачарьи самбандхи, абхидеи и прайоджаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11648020
+  duration: 00:20:40
+  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3
+date: 1981-08-14
 category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
@@ -8,7 +17,6 @@ tags:
     slug: 1981-08
   - title: Шикшаштакам
     slug: shikshashtakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3
     title: аудиозапись в MP3 (20 мин. 40 сек., 11,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (36 КБ)
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.pdf
     title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 146. 1981.08.14.B2. Ачарьи самбандхи, абхидеи и прайоджаны
+  index: "146"
+  filename: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany.md
 ---
-
-# 146. 1981.08.14.B2. Ачарьи самбандхи, абхидеи и прайоджаны
 
 **Преданный:** Махарадж, а кто *ачарьи самбандха-* и *абхидея-таттв*?
 

@@ -1,12 +1,21 @@
 ---
 slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
+record_id: 1983.07.28.A1
+title: «Милость выше справедливости» и «оппозиция – часть гармонии» в
+  христианстве и вайшнавизме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14520456
+  duration: 00:26:43
+  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
+date: 1983-07-28
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
   - title: "1983.07"
     slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
     title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (196 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.pdf
     title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть
+    гармонии» в христианстве и вайшнавизме
+  index: "904"
+  filename: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
 ---
-
-# 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть гармонии» в христианстве и вайшнавизме
 
 Насколько глубокой может быть наша реализация?
 

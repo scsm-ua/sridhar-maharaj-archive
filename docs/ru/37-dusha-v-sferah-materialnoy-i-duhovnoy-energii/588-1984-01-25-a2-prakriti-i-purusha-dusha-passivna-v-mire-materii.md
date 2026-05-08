@@ -1,5 +1,14 @@
 ---
 slug: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii
+record_id: 1984.01.25.A2
+title: Пракрити и пуруша. Душа пассивна в мире материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6017377
+  duration: 00:07:19
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3
+date: 1984-01-25
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -12,7 +21,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 13.21
     slug: bhagavad-gita-13-21
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3
     title: аудиозапись в MP3 (7 мин. 19 сек., 5,8 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 588. 1984.01.25.A2. Пракрити и пуруша. Душа пассивна в мире материи
+  index: "588"
+  filename: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii.md
 ---
-
-# 588. 1984.01.25.A2. Пракрити и пуруша. Душа пассивна в мире материи
 
 Один наш духовный брат, Васудев Прабху, имел обыкновение говорить саркастически: «Давайте жить в гармонии: вы будете работать, а я буду брать; вы будете готовить, а я буду есть; вы будете служить, а я буду принимать служение. Давайте работать сообща! Вы будете работать, а я буду наслаждаться». *Пракрити-Пуруша* подобно этому. Один — Наслаждающийся, а Другая — Поставщик наслаждения.
 

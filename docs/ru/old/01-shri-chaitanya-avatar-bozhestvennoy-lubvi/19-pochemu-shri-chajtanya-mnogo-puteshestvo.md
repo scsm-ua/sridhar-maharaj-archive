@@ -1,5 +1,14 @@
 ---
 slug: 19-pochemu-shri-chajtanya-mnogo-puteshestvo
+record_id: 1980.07.11.A2
+title: Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1259667
+  duration: 00:01:52
+  mp3: /wp-content/uploads/2012/08/019_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
+date: 1980-07-11
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +17,15 @@ tags:
     slug: 1980-07
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/019_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
     title: Скачать аудиозапись в mp3 (1 мин 52 сек, размер 1 Мб)
+legacy:
+  title: 19. Почему Шри Чайтанья много путешествовал по Южной Индии, а не по
+    северной? 1980.07.11.A2
+  index: "19"
+  filename: 19-pochemu-shri-chajtanya-mnogo-puteshestvo.md
 ---
-
-# 19. Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной? 1980.07.11.A2
 
 **Преданный:** Почему Чайтанья Махапрабху много путешествовал по Южной Индии, а не по Северной Индии?
 

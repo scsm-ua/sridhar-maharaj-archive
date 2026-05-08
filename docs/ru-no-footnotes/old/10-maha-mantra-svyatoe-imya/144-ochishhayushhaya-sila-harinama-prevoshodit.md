@@ -1,5 +1,14 @@
 ---
 slug: 144-ochishhayushhaya-sila-harinama-prevoshodit
+record_id: 1983.05.06.B2
+title: Очищающая сила Харинама превосходит любое осквернение.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2232686
+  duration: 00:03:48
+  mp3: /wp-content/uploads/2012/08/144_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
+date: 1983-05-06
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
@@ -10,13 +19,14 @@ tags:
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/144_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
     title: Скачать аудиозапись в mp3 (3 мин 48 сек, размер 2 Мб)
+legacy:
+  title: 144. Очищающая сила Харинама превосходит любое осквернение. 1983.05.06.B2
+  index: "144"
+  filename: 144-ochishhayushhaya-sila-harinama-prevoshodit.md
 ---
-
-# 144. Очищающая сила Харинама превосходит любое осквернение. 1983.05.06.B2
 
 **Преданный:** Также, Гуру Махарадж, когда я был во Вриндаване, я посещал многие храмы, и только в одном храме они не позволили мне войти. Большой мраморный храм во Вриндаване. Я пытался поговорить с Махараджем там. Он вышел ко мне, и я спросил: «А можно я войду на несколько минут получу даршан?»
 

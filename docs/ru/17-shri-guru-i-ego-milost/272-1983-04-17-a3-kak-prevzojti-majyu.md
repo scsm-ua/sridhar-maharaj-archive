@@ -1,5 +1,14 @@
 ---
 slug: 272-1983-04-17-a3-kak-prevzojti-majyu
+record_id: 1983.04.17.A3
+title: Как превзойти майю?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4042689
+  duration: 00:05:39
+  mp3: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
+date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -12,7 +21,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
     title: аудиозапись в MP3 (5 мин. 38 сек., 3,9 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 272. 1983.04.17.A3. Как превзойти майю?
+  index: "272"
+  filename: 272-1983-04-17-a3-kak-prevzojti-majyu.md
 ---
-
-# 272. 1983.04.17.A3. Как превзойти майю?
 
 **Преданный:** Я хочу понять. Скажем, когда *мадхьяма-адхикари*, может быть, даже *каништха-адхикари*, принимает учеников (*шишья*), до какой степени он берет на себя *карму* *шишьи* (учеников)?
 

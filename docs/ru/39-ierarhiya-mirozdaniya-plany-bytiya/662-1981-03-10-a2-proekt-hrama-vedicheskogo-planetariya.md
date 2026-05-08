@@ -1,5 +1,14 @@
 ---
 slug: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya
+record_id: 1981.03.10.A2
+title: Проект Храма ведического планетария
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5797395
+  duration: 00:09:37
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.mp3
+date: 1981-03-10
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
@@ -32,7 +41,6 @@ tags:
     slug: bhagavad-gita-6-46
   - title: Бхагавад-гита 6.47
     slug: bhagavad-gita-6-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.mp3
     title: аудиозапись в MP3 (9 мин. 37 сек., 5,6 МБ)
@@ -40,9 +48,11 @@ links:
     title: транскрипцию в RTF (29 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 662. 1981.03.10.A2. Проект Храма ведического планетария
+  index: "662"
+  filename: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya.md
 ---
-
-# 662. 1981.03.10.A2. Проект Храма ведического планетария
 
 Все, представляющее высшую ценность, должно предлагаться стопам Господа и Гурудева, поскольку наш ум пленен очарованием красоты этого мира, то вся эта красота должна предлагаться стопам Гуру и Господа, и тогда мы освободимся от мирского очарования, от очарования великих, прекрасных реалий этого мира. Все, что можно рассматривать в качестве благого, хорошего, прекрасного, должно предлагаться Высшему началу.
 

@@ -1,12 +1,20 @@
 ---
 slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
+record_id: 1982.01.26.A2
+title: Связь с духовным миром побеждает материальные несовершенства
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7932260
+  duration: 00:11:17
+  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
+date: 1982-01-26
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
     title: аудиозапись в MP3 (11 мин. 16 сек., 7,6 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (122 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 700. 1982.01.26.A2. Связь с духовным миром побеждает материальные
+    несовершенства
+  index: "700"
+  filename: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva.md
 ---
-
-# 700. 1982.01.26.A2. Связь с духовным миром побеждает материальные несовершенства
 
 **Преданный:** Если человек чувствует себя очень неквалифицированным, то каково его положение? Он желает принять большую ответственность в служение своему Гуру…
 

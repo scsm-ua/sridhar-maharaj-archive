@@ -1,12 +1,21 @@
 ---
 slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
+record_id: 1982.11.07.C4
+title: Отвержение посредника между преданным и Господом возможно лишь на внешнем
+  уровне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7039551
+  duration: 00:05:57
+  mp3: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
+date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
     title: аудиозапись в MP3 (5 мин. 56 сек., 6,8 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 300. 1982.11.07.C4. Отвержение посредника между преданным и Господом
+    возможно лишь на внешнем уровне
+  index: "300"
+  filename: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne.md
 ---
-
-# 300. 1982.11.07.C4. Отвержение посредника между преданным и Господом возможно лишь на внешнем уровне
 
 **Преданный:** Гуру Махарадж, на какой стадии преданный может отказаться от авторитета, когда речь идет о его прогрессе в сознании Кришны?
 

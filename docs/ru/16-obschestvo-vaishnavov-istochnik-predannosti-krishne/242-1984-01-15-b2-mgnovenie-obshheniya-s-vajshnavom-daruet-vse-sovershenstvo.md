@@ -1,5 +1,14 @@
 ---
 slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
+record_id: 1984.01.15.B2
+title: «Мгновение общения с вайшнавом дарует все совершенство»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5853440
+  duration: 00:09:50
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
+date: 1984-01-15
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -24,7 +33,6 @@ tags:
     slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
     title: аудиозапись в MP3 (9 мин. 53 сек., 5,6 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 242. 1984.01.15.B2. «Мгновение общения с вайшнавом дарует все совершенство»
+  index: "242"
+  filename: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo.md
 ---
-
-# 242. 1984.01.15.B2. «Мгновение общения с вайшнавом дарует все совершенство»
 
 **Преданный:** Махарадж, в *шастре* сказано, что одного мгновения общения с чистым преданным достаточно, чтобы достичь высочайшей стадии.
 

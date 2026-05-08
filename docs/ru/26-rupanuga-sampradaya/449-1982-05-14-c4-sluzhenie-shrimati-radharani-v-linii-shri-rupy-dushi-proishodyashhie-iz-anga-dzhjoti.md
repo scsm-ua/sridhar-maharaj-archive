@@ -1,5 +1,14 @@
 ---
 slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+record_id: 1982.05.14.C4
+title: Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16471417
+  duration: 00:16:32
+  mp3: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
+date: 1982-05-14
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
@@ -30,7 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.3
     slug: shri-chajtanya-charitamrita-madhya-lila-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
     title: аудиозапись в MP3 (16 мин. 31 сек., 15,8 МБ)
@@ -38,9 +46,12 @@ links:
     title: транскрипцию в RTF (165 КБ)
   - href: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 449. 1982.05.14.C4. Служение Шримати Радхарани в линии Шри Рупы. Души,
+    происходящие из анга-джйоти
+  index: "449"
+  filename: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti.md
 ---
-
-# 449. 1982.05.14.C4. Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти
 
 **Преданный:** Махарадж, а Джаядев жил до Билвамангала?
 

@@ -1,5 +1,14 @@
 ---
 slug: 98-uchenik-vybiraet-uchitelya-v-zavisimost
+record_id: null
+title: Ученик выбирает учителя в зависимости от типа веры. Мгновения прекрасной
+  реальности, часть 6.5
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5404504
+  duration: 00:11:21
+  mp3: /wp-content/uploads/2012/08/098_MgnoveniyaPR_6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +19,15 @@ tags:
     slug: kachestva-uchenika
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/098_MgnoveniyaPR_6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
     title: Скачать аудиозапись в mp3 (11 мин 21 сек, размер 5 Мб)
+legacy:
+  title: 98. Ученик выбирает учителя в зависимости от типа веры. Мгновения
+    прекрасной реальности, часть 6.5
+  index: "98"
+  filename: 98-uchenik-vybiraet-uchitelya-v-zavisimost.md
 ---
-
-# 98. Ученик выбирает учителя в зависимости от типа веры. Мгновения прекрасной реальности, часть 6.5
 
 **Ученик:** Махарадж, похоже, это признак Кали-юги, что кроме Гаудиа Матха в других религиозных сообществах они ограничивают своего гуру *вапу* и *вани*, они имеют ограниченное представление о природе Гуру.
 

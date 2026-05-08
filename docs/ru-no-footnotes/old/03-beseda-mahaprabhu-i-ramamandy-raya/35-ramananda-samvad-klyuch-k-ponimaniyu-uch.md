@@ -1,5 +1,14 @@
 ---
 slug: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch
+record_id: 1982.01.12.C2
+title: Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5975887
+  duration: 00:11:10
+  mp3: /wp-content/uploads/2012/08/035_1982.01.12.C2_SridharMj_Ramananda-samvad-klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
+date: 1982-01-12
 category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
@@ -14,13 +23,15 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/035_1982.01.12.C2_SridharMj_Ramananda-samvad-klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
     title: Скачать аудиозапись в mp3 (11 мин 10 сек, размер 6 Мб)
+legacy:
+  title: 35. Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа.
+    1982.01.12.C2
+  index: "35"
+  filename: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch.md
 ---
-
-# 35. Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа. 1982.01.12.C2
 
 Рамананда Рай, Махапрабху и Рамананда Рай. Мое сердце следует за этой беседой, пристально следует [буквально говорит Шрила Шридхар Махарадж] это мое возлюбленное явление, sweet heart, возлюбленное. Рамананда Рай и Махапрабху, их беседа, развитие теистической концепции, гаудиа-вайшнавизма, школы Бхагавата.
 

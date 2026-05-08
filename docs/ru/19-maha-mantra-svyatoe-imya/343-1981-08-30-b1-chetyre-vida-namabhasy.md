@@ -1,5 +1,14 @@
 ---
 slug: 343-1981-08-30-b1-chetyre-vida-namabhasy
+record_id: 1981.08.30.B1
+title: Четыре вида намабхасы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15088670
+  duration: 00:30:47
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
+date: 1981-08-30
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -42,7 +51,6 @@ tags:
     slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
     title: аудиозапись в MP3 (30 мин. 46 сек., 14,4 МБ)
@@ -50,9 +58,11 @@ links:
     title: транскрипцию в RTF (303 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.pdf
     title: транскрипцию в PDF (183 КБ)
+legacy:
+  title: 343. 1981.08.30.B1. Четыре вида намабхасы
+  index: "343"
+  filename: 343-1981-08-30-b1-chetyre-vida-namabhasy.md
 ---
-
-# 343. 1981.08.30.B1. Четыре вида намабхасы
 
 **Преданный:** Вы говорили о четырех типах *намабхасы*…
 

@@ -1,12 +1,20 @@
 ---
 slug: 416-1981-03-04-b2-vselennaya-polna-schastya
+record_id: 1981.03.04.B2
+title: Вселенная полна счастья
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3304385
+  duration: 00:05:13
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
+date: 1981-03-04
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
     title: аудиозапись в MP3 (5 мин. 13 сек., 3,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 416. 1981.03.04.B2. Вселенная полна счастья
+  index: "416"
+  filename: 416-1981-03-04-b2-vselennaya-polna-schastya.md
 ---
-
-# 416. 1981.03.04.B2. Вселенная полна счастья
 
 Эксплуатация ненавистна. Когда мы свободны от эксплуатации, когда мы помещены в измерение служения, жертвенности, тогда ненависть и все остальное уходит. Только дух жертвенности может делать возможным принятие всего, а возможность эксплуатации мы ненавидим. Ненависть, порождаемая эксплуатацией, а жертвенность делает каждого другом. Я не хочу ничего в ответ, поэтому все приходит ко мне. Я не хочу эксплуатировать, преследовать мои эгоистические желания или как угодно, брать что-то у окружающей среды.
 

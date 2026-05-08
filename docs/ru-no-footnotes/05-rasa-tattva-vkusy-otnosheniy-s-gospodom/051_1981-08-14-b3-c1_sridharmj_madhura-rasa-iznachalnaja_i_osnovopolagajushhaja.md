@@ -1,5 +1,14 @@
 ---
 slug: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja
+record_id: 1981.08.14.C1
+title: Мадхура-раса — изначальная и основополагающая
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15394752
+  duration: 00:27:17
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3
+date: 1981-08-14
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -8,7 +17,6 @@ tags:
     slug: 1981-08
   - title: Мадхура-раса
     slug: madhura-rasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3
     title: аудиозапись в MP3 (27 мин. 16 сек., 64 кбит/сек, 15 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (45 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 051. 1981.08.14.C1 Мадхура-раса — изначальная и основополагающая
+  index: "051"
+  filename: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja.md
 ---
-
-# 051. 1981.08.14.C1 Мадхура-раса — изначальная и основополагающая
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай, Нитай, Нитай, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол.
 

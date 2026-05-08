@@ -1,5 +1,14 @@
 ---
 slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
+record_id: 1982.01.24.B1
+title: Великая милость святых стоп Шри Гауранги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17708543
+  duration: 00:41:15
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
+date: 1982-01-24
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
     title: аудиозапись в MP3 (35 мин. 4 сек., 16,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (159 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 104. 1982.01.24.B1 Великая милость святых стоп Шри Гауранги
+  index: "104"
+  filename: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi.md
 ---
-
-# 104. 1982.01.24.B1 Великая милость святых стоп Шри Гауранги
 
 Гурудев Гопала Бхатты Госвами, брат Венкаты Бхатты[^_ftn1], имел обыкновение жить в Шри Кундже Камьяване[^_ftn2]. Он был носителем возвышенного поэтического языка. Его поэзия была горячей, пламенной и впечатляющей, очень сладостной. Его идеи были всеобъемлющими.
 

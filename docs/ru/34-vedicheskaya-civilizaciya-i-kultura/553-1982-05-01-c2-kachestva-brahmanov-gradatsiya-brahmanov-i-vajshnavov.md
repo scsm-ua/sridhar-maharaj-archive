@@ -1,5 +1,14 @@
 ---
 slug: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov
+record_id: 1982.05.01.C2
+title: Качества брахманов. Градация брахманов и вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8504517
+  duration: 00:08:10
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3
+date: 1982-05-01
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -20,7 +29,6 @@ tags:
     slug: shri-upadeshamrita
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3
     title: аудиозапись в MP3 (8 мин. 09 сек., 8,2 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (133 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 553. 1982.05.01.C2. Качества брахманов. Градация брахманов и вайшнавов
+  index: "553"
+  filename: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov.md
 ---
-
-# 553. 1982.05.01.C2. Качества брахманов. Градация брахманов и вайшнавов
 
 *Брахманический* подход к Истине — явление более высокого порядка. Доллары и дипломатия могут быть использованы для достижения цели, но более высоким фундаментом должен быть *брахманизм*. Необходимо полагаться на характер, на реализацию, осознание, на полноту — на все эти явления, и тогда это явление сумеет утвердиться над остальными теологическими концепциями. Существуют в этом мире многочисленные теологические представления, и мы должны иметь с ними дело. Подобная пропаганда не может быть куплена лишь деньгами и внешней пышностью, роскошью.
 

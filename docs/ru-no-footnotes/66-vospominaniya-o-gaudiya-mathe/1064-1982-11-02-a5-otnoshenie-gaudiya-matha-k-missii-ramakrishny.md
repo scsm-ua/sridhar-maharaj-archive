@@ -1,12 +1,20 @@
 ---
 slug: 1064-1982-11-02-a5-otnoshenie-gaudiya-matha-k-missii-ramakrishny
+record_id: 1982.11.02.A5
+title: Отношение Гаудия Матха к миссии Рамакришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3896446
+  duration: 00:03:32
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1064_1982.11.02.A5_SridharMj_Otnoshenie_Gaudija_Matha_k_missii_Ramakrishny.mp3
+date: 1982-11-02
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1064_1982.11.02.A5_SridharMj_Otnoshenie_Gaudija_Matha_k_missii_Ramakrishny.mp3
     title: аудиозапись в MP3 (3 мин. 31 сек., 3,8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1064_1982.11.02.A5_SridharMj_Otnoshenie_Gaudija_Matha_k_missii_Ramakrishny.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 1064. 1982.11.02.A5. Отношение Гаудия Матха к миссии Рамакришны
+  index: "1064"
+  filename: 1064-1982-11-02-a5-otnoshenie-gaudiya-matha-k-missii-ramakrishny.md
 ---
-
-# 1064. 1982.11.02.A5. Отношение Гаудия Матха к миссии Рамакришны
 
 Многие, многие явления присутствуют в религиозном мире, но все концепции не могут быть равноценными и равнозначными, как это пытается ошибочно утвердить (или заявить) миссия Рамакришны и навязать эту идею широким массам. Это чистой воды заблуждение.
 

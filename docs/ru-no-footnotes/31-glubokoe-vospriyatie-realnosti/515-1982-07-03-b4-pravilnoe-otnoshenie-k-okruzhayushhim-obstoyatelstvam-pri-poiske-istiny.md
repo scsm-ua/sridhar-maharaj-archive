@@ -1,12 +1,20 @@
 ---
 slug: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny
+record_id: 1982.07.03.B4
+title: Правильное отношение к окружающим обстоятельствам при поиске Истины
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7831061
+  duration: 00:07:29
+  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.mp3
+date: 1982-07-03
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.mp3
     title: аудиозапись в MP3 (7 мин. 28 сек., 7,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 515. 1982.07.03.B4. Правильное отношение к окружающим обстоятельствам при
+    поиске Истины
+  index: "515"
+  filename: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny.md
 ---
-
-# 515. 1982.07.03.B4. Правильное отношение к окружающим обстоятельствам при поиске Истины
 
 **Видагдха Мадхава Прабху:** Шрила Шридхар Махарадж, материальная энергия, *пракрити* — низшая энергия, она каким-либо образом когда-либо отражает высшее намерение или духовную энергию?
 

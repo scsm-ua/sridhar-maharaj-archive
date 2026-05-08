@@ -1,12 +1,20 @@
 ---
 slug: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math
+record_id: 1982.02.20.C8
+title: Стихотворение, прославляющее «Шри Чайтанья Сарасват Матх»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3057862
+  duration: 00:01:22
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.mp3
+date: 1982-02-20
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.mp3
     title: аудиозапись в MP3 (1 мин. 21 сек., 3,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 1084. 1982.02.20.C8. Стихотворение, прославляющее «Шри Чайтанья Сарасват
+    Матх»
+  index: "1084"
+  filename: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math.md
 ---
-
-# 1084. 1982.02.20.C8. Стихотворение, прославляющее «Шри Чайтанья Сарасват Матх»
 
 Это Гупта-Говардхан-Гиридхари в Навадвипе.
 

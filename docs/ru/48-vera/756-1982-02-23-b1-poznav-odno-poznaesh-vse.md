@@ -1,5 +1,14 @@
 ---
 slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
+record_id: 1982.02.23.B1
+title: Познав Одно – познаешь все
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4487104
+  duration: 00:09:03
+  mp3: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.mp3
+date: 1982-02-23
 category:
   title: 48. Вера
   slug: 48-vera
@@ -26,7 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.mp3
     title: аудиозапись в MP3 (9 мин. 03 сек., 4,3 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 756. 1982.02.23.B1. Познав Одно – познаешь все
+  index: "756"
+  filename: 756-1982-02-23-b1-poznav-odno-poznaesh-vse.md
 ---
-
-# 756. 1982.02.23.B1. Познав Одно – познаешь все
 
 *«Мгновения Прекрасной Реальности» (часть 6.1)*
 

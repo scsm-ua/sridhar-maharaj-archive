@@ -1,12 +1,20 @@
 ---
 slug: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad
+record_id: 1982.01.29.B1
+title: О литературных трудах Госвами. Объяснение понятия «Брихад»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2932161
+  duration: 00:04:42
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.mp3
+date: 1982-01-29
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.mp3
     title: аудиозапись в MP3 (4 мин. 42 сек., 2,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (72 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 227. 1982.01.29.B1. О литературных трудах Госвами. Объяснение понятия
+    «Брихад»
+  index: "227"
+  filename: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad.md
 ---
-
-# 227. 1982.01.29.B1. О литературных трудах Госвами. Объяснение понятия «Брихад»
 
 **Преданный:** Джива Госвами написал комментарий на десятую песню «Бхагаватам» — «Крама-сандарбха».
 

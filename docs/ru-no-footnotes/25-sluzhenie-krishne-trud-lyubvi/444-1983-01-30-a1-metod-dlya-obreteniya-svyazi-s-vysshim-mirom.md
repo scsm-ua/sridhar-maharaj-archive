@@ -1,5 +1,14 @@
 ---
 slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
+record_id: 1983.01.30.A1
+title: Метод для обретения связи с высшим миром
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7021286
+  duration: 00:13:19
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.mp3
+date: 1983-01-30
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.mp3
     title: аудиозапись в MP3 (13 мин. 18 сек., 6,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 444. 1983.01.30.A1. Метод для обретения связи с высшим миром
+  index: "444"
+  filename: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom.md
 ---
-
-# 444. 1983.01.30.A1. Метод для обретения связи с высшим миром
 
 **Преданный:** Гуру Махарадж, существует ли какая-то интересная история о том, как Божества Вриндавана — Радха-Говиндаджи, Радха-Гопинатх, Радха-Дамодар — все были перевезены в Джайпур?
 

@@ -1,12 +1,20 @@
 ---
 slug: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika
+record_id: 1982.05.18.B11
+title: Когда гуру может отвергнуть ученика?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2585777
+  duration: 00:01:18
+  mp3: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3
+date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (37 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.pdf
     title: транскрипцию в PDF (110КБ)
+legacy:
+  title: 302. 1982.05.18.B11. Когда гуру может отвергнуть ученика?
+  index: "302"
+  filename: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika.md
 ---
-
-# 302. 1982.05.18.B11. Когда гуру может отвергнуть ученика?
 
 Который час?
 

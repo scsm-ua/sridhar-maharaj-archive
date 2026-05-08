@@ -1,18 +1,28 @@
 ---
 slug: 377-zabvenie-gospoda-edinstvennaya-opas
+title: Забвение Господа — единственная опасность материального мира. Онтология
+  прекрасной реальности, часть 4.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2860288
+  duration: 00:05:35
+  mp3: /wp-content/uploads/2012/08/377_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/377_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
     title: Скачать аудиозапись в mp3 (5 мин 35 сек, размер 2 Мб)
+legacy:
+  title: 377. Забвение Господа — единственная опасность материального мира.
+    Онтология прекрасной реальности, часть 4.1
+  index: "377"
+  filename: 377-zabvenie-gospoda-edinstvennaya-opas.md
 ---
-
-# 377. Забвение Господа — единственная опасность материального мира. Онтология прекрасной реальности, часть 4.1
 
 Мы должны погрузиться глубоко в наше сердце, чтобы спросить : «Какова моя внутренняя потребность? В этом случае, в подобных обстоятельствах, что должно быть моим долгом? Я хочу узнать, каков мой долг. Возможно для этого, чтобы я узнал, каков мой долг. Подобные негативные обстоятельства иногда окружают нас. Вера поможет нам выйти с честью, преодолеть испытания.
 

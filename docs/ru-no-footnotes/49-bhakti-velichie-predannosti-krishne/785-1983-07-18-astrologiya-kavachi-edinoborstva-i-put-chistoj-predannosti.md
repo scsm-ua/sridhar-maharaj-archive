@@ -1,5 +1,14 @@
 ---
 slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
+record_id: 1983.07.18
+title: Астрология, кавачи, единоборства и путь чистой преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14810273
+  duration: 00:24:10
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
+date: 1983-07-18
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1983-07
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
     title: аудиозапись в MP3 (24 мин. 09 сек., 14,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (198 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 785. 1983.07.18. Астрология, кавачи, единоборства и путь чистой преданности
+  index: "785"
+  filename: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
 ---
-
-# 785. 1983.07.18. Астрология, кавачи, единоборства и путь чистой преданности
 
 **Преданный:** В «Брахма-вайварта-пуране» (в «Ганеша-кханде») одна *кавача* была дана Господом Шивой Парашураме, *кришна-кавача*. И также он слышал, что в Кали-югу только *нрисимха-кавача* действенна, поэтому практически может ли он принимать это? Это правильно или нет? Нужно ли, практично ли использовать *кавачи*?
 

@@ -1,18 +1,28 @@
 ---
 slug: 42-rabstvo-u-absolyuta-vysochajshaya-svobo
+record_id: 1983.05.04.A
+title: Рабство у Абсолюта — высочайшая свобода.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15167467
+  duration: 00:28:56
+  mp3: /wp-content/uploads/2012/08/042_1983.05.04.A_SridharMj_Rabstvo_u_absoluta_-_vysochayshaya_svoboda.mp3
+date: 1983-05-04
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
   - title: "1983.05"
     slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/042_1983.05.04.A_SridharMj_Rabstvo_u_absoluta_-_vysochayshaya_svoboda.mp3
     title: Скачать аудиозапись в mp3 (28 мин 56 сек, размер 15 Мб)
+legacy:
+  title: 42. Рабство у Абсолюта — высочайшая свобода. 1983.05.04.A
+  index: "42"
+  filename: 42-rabstvo-u-absolyuta-vysochajshaya-svobo.md
 ---
-
-# 42. Рабство у Абсолюта — высочайшая свобода. 1983.05.04.A
 
 *#00:00:00#*
 

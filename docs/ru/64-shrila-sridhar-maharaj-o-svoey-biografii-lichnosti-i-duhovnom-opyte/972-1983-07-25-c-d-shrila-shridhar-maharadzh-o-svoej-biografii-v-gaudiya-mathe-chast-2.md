@@ -1,5 +1,14 @@
 ---
 slug: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2
+record_id: 1983.07.25.C.D
+title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 2)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10045775
+  duration: 00:16:01
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.mp3
+date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
@@ -18,7 +27,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.mp3
     title: аудиозапись в MP3 (16 мин. 26 сек., 9,6 МБ)
@@ -26,9 +34,12 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 972. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в
+    Гаудия-матхе (часть 2)
+  index: "972"
+  filename: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2.md
 ---
-
-# 972. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 2)
 
 **Преданный:** Васудев считал, что «Ананта-самхита» не есть настоящая *шастра*, подлинная, древняя?
 

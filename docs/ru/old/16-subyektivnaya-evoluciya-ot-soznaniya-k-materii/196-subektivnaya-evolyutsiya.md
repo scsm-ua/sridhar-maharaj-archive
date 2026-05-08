@@ -1,5 +1,12 @@
 ---
 slug: 196-subektivnaya-evolyutsiya
+title: Субъективная эволюция
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8471981
+  duration: 00:17:30
+  mp3: /wp-content/uploads/2012/08/196_1981.03.04.B1_SridharMj_Subyektivnaya_Evoluciya.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -12,13 +19,14 @@ tags:
     slug: samopozhertvovanie
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/196_1981.03.04.B1_SridharMj_Subyektivnaya_Evoluciya.mp3
     title: Скачать аудиозапись в mp3 (17 мин 30 сек, размер 8 Мб)
+legacy:
+  title: 196. Субъективная эволюция
+  index: "196"
+  filename: 196-subektivnaya-evolyutsiya.md
 ---
-
-# 196. Субъективная эволюция
 
 *#00:00:00#*
 

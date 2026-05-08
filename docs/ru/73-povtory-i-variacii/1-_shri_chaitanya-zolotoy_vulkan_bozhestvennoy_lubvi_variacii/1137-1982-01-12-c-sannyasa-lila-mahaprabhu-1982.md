@@ -1,5 +1,14 @@
 ---
 slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+record_id: 1982.01.12.C
+title: Санньяса-лила Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18922672
+  duration: 00:34:15
+  mp3: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
+date: 1982-01-12
 category:
   title: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)
   slug: 1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii
@@ -36,7 +45,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-7-74
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34
     slug: shri-chajtanya-charitamrita-madhya-lila-3-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
     title: аудиозапись в MP3 (34 мин. 14 сек., 18,1 МБ)
@@ -44,9 +52,11 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.pdf
     title: транскрипцию в PDF (182 КБ)
+legacy:
+  title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
+  index: "1137"
+  filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
 ---
-
-# 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
 
 «Я вечно остаюсь обязанным вам, у Меня нет ничего, чем Я мог бы отплатить вам». Кришна побежден.
 

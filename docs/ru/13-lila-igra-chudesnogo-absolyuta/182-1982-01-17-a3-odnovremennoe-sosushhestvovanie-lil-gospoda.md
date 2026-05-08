@@ -1,12 +1,20 @@
 ---
 slug: 182-1982-01-17-a3-odnovremennoe-sosushhestvovanie-lil-gospoda
+record_id: 1982.01.17.A3
+title: Одновременное сосуществование лил Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1214255
+  duration: 00:01:44
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/182_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
+date: 1982-01-17
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/182_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
     title: аудиозапись в MP3 (1 мин. 43 сек., 1,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (41 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/182_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 182. 1982.01.17.A3. Одновременное сосуществование лил Господа
+  index: "182"
+  filename: 182-1982-01-17-a3-odnovremennoe-sosushhestvovanie-lil-gospoda.md
 ---
-
-# 182. 1982.01.17.A3. Одновременное сосуществование лил Господа
 
 Все игры Господа вечны, сосуществуют во времени и пространстве. Это не только сосуществование, одновременное существование. Когда я изучал философию, мне сказали, что сосуществование — критерий, благодаря которому мы можем почувствовать, понять идею пространства. Пространство подразумевает сосуществование, одновременное существование. Пространство — это образ мысли, включающий в себя сосуществование. Время же подразумевает последовательность. Во времени невозможно сосуществование.
 

@@ -1,5 +1,14 @@
 ---
 slug: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti
+record_id: 1983.11.02.B2
+title: Служение и самопредание – две стороны бхакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3177681
+  duration: 00:01:51
+  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.mp3
+date: 1983-11-02
 category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Бхакти-йога
     slug: bhakti-joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.mp3
     title: аудиозапись в MP3 (1 мин. 50 сек., 3,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 789. 1983.11.02.B2. Служение и самопредание – две стороны бхакти
+  index: "789"
+  filename: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti.md
 ---
-
-# 789. 1983.11.02.B2. Служение и самопредание – две стороны бхакти
 
 **Преданный:** Гуру Махарадж, вы пишите в книге «Нектар бессмертия предавшейся души», что есть две колеи *бхакти*: служение и самопредание.
 

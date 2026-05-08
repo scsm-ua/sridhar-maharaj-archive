@@ -1,12 +1,20 @@
 ---
 slug: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii
+record_id: 1981.08.10.A2.B1
+title: Шридхар Махарадж о стиле своей проповеди и поэзии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 26525831
+  duration: 00:27:25
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.mp3
+date: 1981-08-10
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.mp3
     title: аудиозапись в MP3 (27 мин. 24 сек., 25,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (46 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.pdf
     title: транскрипцию в PDF (192 КБ)
+legacy:
+  title: 1095. 1981.08.10.A2.B1. Шридхар Махарадж о стиле своей проповеди и поэзии
+  index: "1095"
+  filename: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
 ---
-
-# 1095. 1981.08.10.A2.B1. Шридхар Махарадж о стиле своей проповеди и поэзии
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай-Чайтанья]
 

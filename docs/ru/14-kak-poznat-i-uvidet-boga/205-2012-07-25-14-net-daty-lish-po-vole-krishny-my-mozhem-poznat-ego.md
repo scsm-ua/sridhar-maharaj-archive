@@ -1,16 +1,15 @@
 ---
 slug: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego
+title: Лишь по воле Кришны мы можем познать Его
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1781650
+  duration: 00:03:01
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "2012.07"
-    slug: 2012-07
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 1,7 МБ)
@@ -18,11 +17,19 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 205. 2012.07.25.14. (нет даты). Лишь по воле Кришны мы можем познать Его
+  index: "205"
+  comment: (нет даты)
+  filename: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 ---
 
-# 205. 2012.07.25.14. (нет даты). Лишь по воле Кришны мы можем познать Его
-
-    йатха̄ винимайо йатра три-сарго ’мр̣ша̄
+йатха̄ винимайо йатра три-сарго ’мр̣ша̄
 [^_ftn1]
 
 По воле Господа, по Его милости, благодаря свету, исходящему от Него, мы можем познать Его. По Его воле, благодаря тому, что Он принимает нас, благодаря Его внутреннему желанию, этот свет может ясно открыть нам, что есть что. Только по Его милости мы можем понять, что есть что. Наше ограниченное, провинциальное положение нам не поможет, однако универсальная воля дарует нам свет знания, и он может помочь нам знать, что есть что. Чтобы знать это, необходим свет, исходящий из того [высшего] измерения.

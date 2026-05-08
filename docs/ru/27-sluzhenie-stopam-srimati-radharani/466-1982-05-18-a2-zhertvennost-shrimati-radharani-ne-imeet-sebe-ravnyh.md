@@ -1,5 +1,14 @@
 ---
 slug: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh
+record_id: 1982.05.18.A2
+title: Жертвенность Шримати Радхарани не имеет себе равных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8326155
+  duration: 00:08:16
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
+date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -22,7 +31,6 @@ tags:
     slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1
     slug: shri-gita-govinda-3-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
     title: аудиозапись в MP3 (8 мин. 16 сек., 8,0 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
+  index: "466"
+  filename: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
 ---
-
-# 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
 
 **Преданный:** *Амта-никшепа*?
 

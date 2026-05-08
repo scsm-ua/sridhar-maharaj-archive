@@ -1,12 +1,20 @@
 ---
 slug: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii
+record_id: 1983.04.30.B
+title: Идеальный реализм — основа понимания религии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14917413
+  duration: 00:29:08
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
+date: 1983-04-30
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1983.04"
     slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
     title: аудиозапись в MP3 (29 мин. 07 сек., 14,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (188 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 625. 1983.04.30.B. Идеальный реализм — основа понимания религии
+  index: "625"
+  filename: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii.md
 ---
-
-# 625. 1983.04.30.B. Идеальный реализм — основа понимания религии
 
 **Преданный:** Иногда, проповедуя, мы встречаем людей, которые читали книгу о Кришне «Источник вечного наслаждения» (Десятую Песню «Шримад-Бхагаватам»). И этим людям трудно принять этих фантастических демонов, которые появляются во Вриндаване, они считают это всего лишь сказками, поскольку нет следов такого рода мистики в современном мире. Это фантастические описания: Путана стала длиной в двенадцать миль, когда упала на землю. Это фантастические описания.
 

@@ -1,5 +1,14 @@
 ---
 slug: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva
+record_id: 1982.06.19.D3
+title: В лиле Господа оппозиция – это освобожденные живые существа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2871045
+  duration: 00:02:35
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
+date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
     slug: shri-chajtanya-charitamrita-adi-lila-10-120
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
     title: аудиозапись в MP3 (2 мин. 35 сек., 2,8 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_-_jeto_osvobozhdennye_zhivye_sushhestva.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 187. 1982.06.19.D3. В лиле Господа оппозиция – это освобожденные живые
+    существа
+  index: "187"
+  filename: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva.md
 ---
-
-# 187. 1982.06.19.D3. В лиле Господа оппозиция – это освобожденные живые существа
 
 **Шрила Шридхар Махарадж:** Харе Кришна.
 

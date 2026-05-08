@@ -1,5 +1,14 @@
 ---
 slug: 79-shukadev-shri-chajtanya-i-bhagavatam-yav
+record_id: 1982.01.28.A
+title: Шукадев, Шри Чайтанья и Бхагаватам являют чистоту Кришна-лилы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 31162943
+  duration: 01:03:31
+  mp3: /wp-content/uploads/2012/08/079_1982.01.28.A_SridharMj_Shukadev_Shri_Chaytanya_i_Bhagavatam_yavlyayut_chistotu_krishna-lily.mp3
+date: 1982-01-28
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -12,13 +21,15 @@ tags:
     slug: mahaprabhu
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/079_1982.01.28.A_SridharMj_Shukadev_Shri_Chaytanya_i_Bhagavatam_yavlyayut_chistotu_krishna-lily.mp3
     title: Скачать аудиозапись в mp3 (1 ч 1 мин 31 сек, размер 31 Мб)
+legacy:
+  title: 79. Шукадев, Шри Чайтанья и Бхагаватам являют чистоту Кришна-лилы.
+    1982.01.28.A
+  index: "79"
+  filename: 79-shukadev-shri-chajtanya-i-bhagavatam-yav.md
 ---
-
-# 79. Шукадев, Шри Чайтанья и Бхагаватам являют чистоту Кришна-лилы. 1982.01.28.A
 
 *#00:00:11#*
 

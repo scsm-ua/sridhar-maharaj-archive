@@ -1,12 +1,20 @@
 ---
 slug: 467-1982-02-28-a3-umonastroenie-radharani-i-istoriya-iz-chajtanya-charitamrity
+record_id: 1982.02.28.A3
+title: Умонастроение Радхарани и история из Чайтанья-Чаритамриты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6977280
+  duration: 00:13:44
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/467_1982.02.28.A3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
+date: 1982-02-28
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/467_1982.02.28.A3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
     title: аудиозапись в MP3 (13 мин. 44 сек., 6,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/467_1982.02.28.A3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 467. 1982.02.28.A3. Умонастроение Радхарани и история из Чайтанья-Чаритамриты
+  index: "467"
+  filename: 467-1982-02-28-a3-umonastroenie-radharani-i-istoriya-iz-chajtanya-charitamrity.md
 ---
-
-# 467. 1982.02.28.A3. Умонастроение Радхарани и история из Чайтанья-Чаритамриты
 
 Онтология Прекрасной Реальности (часть 3.3)
 

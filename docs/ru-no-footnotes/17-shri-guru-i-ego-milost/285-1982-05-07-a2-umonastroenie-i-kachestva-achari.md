@@ -1,5 +1,14 @@
 ---
 slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
+record_id: 1982.05.07.A2
+title: Умонастроение и качества ачарьи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10271629
+  duration: 00:09:19
+  mp3: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3
+date: 1982-05-07
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3
     title: аудиозапись в MP3 (9 мин. 18 сек., 9,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 285. 1982.05.07.A2. Умонастроение и качества ачарьи
+  index: "285"
+  filename: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari.md
 ---
-
-# 285. 1982.05.07.A2. Умонастроение и качества ачарьи
 
 **Преданный:** Однажды вы сказали, что если доступно семя высокого качества, особое семя, его следует сажать первым.
 

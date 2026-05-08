@@ -1,5 +1,14 @@
 ---
 slug: 287-istoriya-achyutanandy-o-synovyah-adva
+record_id: 1982.01.17.A4
+title: История Ачьютананды. О сыновьях Адвайты Ачарьи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4475800
+  duration: 00:09:00
+  mp3: /wp-content/uploads/2012/08/287_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
+date: 1982-01-17
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -12,13 +21,14 @@ tags:
     slug: achyutananda
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/287_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
     title: Скачать аудиозапись в mp3 (9 мин 0 сек, размер 4 Мб)
+legacy:
+  title: 287. История Ачьютананды. О сыновьях Адвайты Ачарьи. 1982.01.17.A4
+  index: "287"
+  filename: 287-istoriya-achyutanandy-o-synovyah-adva.md
 ---
-
-# 287. История Ачьютананды. О сыновьях Адвайты Ачарьи. 1982.01.17.A4
 
 Что я хотел сказать? Очисть меня. Затем и сегодня также мы можем думать о том, как Махапрабху… что делал Махапрабху после санньясы. После полудня Он достиг Ганги. До этого они пересекли Гангу в районе Шантипура. После обеда достигли Шантипура, Адвайта Бхавана.
 

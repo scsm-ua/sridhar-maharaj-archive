@@ -1,5 +1,14 @@
 ---
 slug: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu
+record_id: 1983.04.16.B2.C
+title: Предсказания о приходе Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8559000
+  duration: 00:16:01
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.mp3
+date: 1983-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-04
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.mp3
     title: аудиозапись в MP3 (16 мин. 00 сек., 64 кбит/сек, 8.2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 070. 1983.04.16.B2.С Предсказания о приходе Махапрабху
+  index: "070"
+  filename: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu.md
 ---
-
-# 070. 1983.04.16.B2.С Предсказания о приходе Махапрабху
 
 Кто является инкарнацией, *аватарой* Кали-юги? «Бхагаватам» неожиданно начинает прославлять этого великого *юга-аватара*, утвердив прежде, кто Он, каковы характеристики этого *юга-аватара*.
 

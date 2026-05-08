@@ -1,5 +1,14 @@
 ---
 slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
+record_id: 1985.05.01.B1
+title: Мыслящие люди оценят дар Сознания Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7161678
+  duration: 00:13:09
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
+date: 1985-05-01
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1985-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
     title: аудиозапись в MP3 (13 мин. 09 сек., 6,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 393. 1985.05.01.B1. Мыслящие люди оценят дар Сознания Кришны
+  index: "393"
+  filename: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny.md
 ---
-
-# 393. 1985.05.01.B1. Мыслящие люди оценят дар Сознания Кришны
 
 …Они говорили в темноте, они не видели друг друга, но один из них сказал в конце концов: «Не чувствуете ли вы присутствие четвертого человека здесь?» И его собеседники подтвердили: «Да, Четвертый присутствует — Тот, о ком мы говорим, Сам Господь».
 

@@ -1,5 +1,14 @@
 ---
 slug: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste
+record_id: 1982.02.23.C2
+title: Высказывания вайшнавов следует понимать в правильном контексте
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2632526
+  duration: 00:03:08
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
+date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,6 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (72 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 250. 1982.02.23.C2. Высказывания вайшнавов следует понимать в правильном
+    контексте
+  index: "250"
+  filename: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste.md
 ---
-
-# 250. 1982.02.23.C2. Высказывания вайшнавов следует понимать в правильном контексте
 
 Всякий раз, когда мы имеем приблизительное представление о том, что нечто есть Истина, мы не можем понять во всей полноте это явление. Но если мы следуем этой линии, то постепенно понимание, реализация приходят к нам. Многие вещи, явления мы по-прежнему находим в *шастре*. В процессе реализации подобные явления станут ясны нам. *Бхава-бхакти*.
 

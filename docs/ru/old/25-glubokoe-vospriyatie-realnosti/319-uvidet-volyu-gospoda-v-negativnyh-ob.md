@@ -1,5 +1,13 @@
 ---
 slug: 319-uvidet-volyu-gospoda-v-negativnyh-ob
+title: Увидеть волю Господа в негативных обстоятельствах. Онтология прекрасной
+  реальности, часть 2.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7257472
+  duration: 00:14:43
+  mp3: /wp-content/uploads/2012/08/319_OntologiyaPR_2.6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
@@ -8,13 +16,15 @@ tags:
     slug: garmoniya
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/319_OntologiyaPR_2.6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
     title: Скачать аудиозапись в mp3 (14 мин 43 сек, размер 7 Мб)
+legacy:
+  title: 319. Увидеть волю Господа в негативных обстоятельствах. Онтология
+    прекрасной реальности, часть 2.6
+  index: "319"
+  filename: 319-uvidet-volyu-gospoda-v-negativnyh-ob.md
 ---
-
-# 319. Увидеть волю Господа в негативных обстоятельствах. Онтология прекрасной реальности, часть 2.6
 
 **Ученик:** Бакти Сиддханта Сарасвати Тхакур оставил ли он какие – то конкретные указания относительно посвящения о том как будет происходить посвящения после его ухода и прежде того времени, как ачарья проявиться.
 

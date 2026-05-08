@@ -1,5 +1,14 @@
 ---
 slug: 432-1983-11-11-a-b1-guru-poslannik-mira-sluzheniya
+record_id: 1983.11.11.A.B1
+title: Гуру – посланник мира служения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24340677
+  duration: 00:24:42
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.mp3
+date: 1983-11-11
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -32,7 +41,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-2-22
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.mp3
     title: аудиозапись в MP3 (24 мин. 41 сек., 23,3 МБ)
@@ -40,9 +48,11 @@ links:
     title: транскрипцию в RTF (215 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.pdf
     title: транскрипцию в PDF (193 КБ)
+legacy:
+  title: 432. 1983.11.11.A.B1. Гуру – посланник мира служения
+  index: "432"
+  filename: 432-1983-11-11-a-b1-guru-poslannik-mira-sluzheniya.md
 ---
-
-# 432. 1983.11.11.A.B1. Гуру – посланник мира служения
 
 Вечером, накануне, он [Иисус] омыл стопы своих учеников. Нет? Было так?
 

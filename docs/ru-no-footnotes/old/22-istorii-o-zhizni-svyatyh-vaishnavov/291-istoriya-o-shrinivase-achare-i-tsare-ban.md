@@ -1,5 +1,14 @@
 ---
 slug: 291-istoriya-o-shrinivase-achare-i-tsare-ban
+record_id: 1983.05.09.C1
+title: История о Шринивасе Ачарье и царе бандитов Бирхамбхире.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5285919
+  duration: 00:10:41
+  mp3: /wp-content/uploads/2012/08/291_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
+date: 1983-05-09
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: istorii-o-vajshnavah
   - title: Шринивас Ачарья
     slug: shrinivas-acharya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/291_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
     title: Скачать аудиозапись в mp3 (10 мин 41 сек, размер 5 Мб)
+legacy:
+  title: 291. История о Шринивасе Ачарье и царе бандитов Бирхамбхире. 1983.05.09.C1
+  index: "291"
+  filename: 291-istoriya-o-shrinivase-achare-i-tsare-ban.md
 ---
-
-# 291. История о Шринивасе Ачарье и царе бандитов Бирхамбхире. 1983.05.09.C1
 
 **Преданный:** Гуру Махарадж, Кришна уполномочивает некоторые души писать вайшнавскую литературу. Другим даёт уполномочия распространять эту литературу. Не могли бы вы объяснить, Шринивас Ачарья занимает очень возвышенное положение, поскольку он является великим распространителем вайшнавской литературы?
 

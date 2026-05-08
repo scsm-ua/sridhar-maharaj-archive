@@ -1,12 +1,20 @@
 ---
 slug: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti
+record_id: 1982.07.15.A1.A3.A6.B
+title: Необходимо покинуть мир болезней, старости и смерти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15022478
+  duration: 00:12:38
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3
+date: 1982-07-15
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3
     title: аудиозапись в MP3 (12 мин. 38 сек., 14,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 576. 1982.07.15.A1.A3.A6.B. Необходимо покинуть мир болезней, старости и
+    смерти
+  index: "576"
+  filename: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti.md
 ---
-
-# 576. 1982.07.15.A1.A3.A6.B. Необходимо покинуть мир болезней, старости и смерти
 
 **Преданный:** Махарадж, у меня есть вопрос о человеке на улице: как он может жить? Я имею в виду: если я с кем-то говорю на улице о сознании Кришны или о сознании Бога, то эти люди мне говорят: «Мы должны работать: у нас есть семьи, для нас это нечто более важное». Как мне отвечать таким людям?
 

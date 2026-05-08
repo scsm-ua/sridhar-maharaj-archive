@@ -1,5 +1,12 @@
 ---
 slug: 1149-shri-shri-prabhupada-padma-stavakah
+title: Шри Шри Прабхупада-падма Ставаках
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21171230
+  duration: 00:08:48
+  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1149_Shri_Shri_Prabhupada-padma_Stavakah.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа
@@ -7,7 +14,6 @@ category:
 tags:
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1149_Shri_Shri_Prabhupada-padma_Stavakah.mp3
     title: аудиозапись в MP3 (8 мин. 48 сек., 20,1 МБ)
@@ -15,9 +21,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1149_Shri_Shri_Prabhupada-padma_Stavakah.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 1149. Шри Шри Прабхупада-падма Ставаках
+  index: "1149"
+  filename: 1149-shri-shri-prabhupada-padma-stavakah.md
 ---
-
-# 1149. Шри Шри Прабхупада-падма Ставаках
 
 **(Молитва лотосоподобным стопам моего господина и учителя Шрилы Бхактисиддханты Сарасвати Тхакура Прабхупады)**
 

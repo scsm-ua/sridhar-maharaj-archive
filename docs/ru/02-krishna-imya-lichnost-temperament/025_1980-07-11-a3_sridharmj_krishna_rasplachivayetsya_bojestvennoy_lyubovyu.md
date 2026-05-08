@@ -1,5 +1,14 @@
 ---
 slug: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu
+record_id: 1980.07.11.A3
+title: Кришна расплачивается божественной любовью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2842197
+  duration: 00:04:34
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
+date: 1980-07-11
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -12,7 +21,6 @@ tags:
     slug: dzhanama-saphala-tara
   - title: Джанама сапхала тара 1
     slug: dzhanama-saphala-tara-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
     title: аудиозапись в MP3 (04 мин. 34 сек., 2.7 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 025. 1980.07.11.A3 Кришна расплачивается божественной любовью
+  index: "025"
+  filename: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu.md
 ---
-
-# 025. 1980.07.11.A3 Кришна расплачивается божественной любовью
 
 **Преданный (о другом преданном):** Он возлюбленный слуга, возлюбленный ученик Хамсадуты Махараджа. Радха Говинда Дас — особое имя.
 

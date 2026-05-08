@@ -1,5 +1,14 @@
 ---
 slug: 454-svyaz-s-krishnoj-prihodit-blagodarya-m
+record_id: 1982.01.08.C2
+title: Связь с Кришной приходит благодаря Махапрабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7951214
+  duration: 00:15:23
+  mp3: /wp-content/uploads/2012/08/454_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
+date: 1982-01-08
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/454_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (15 мин 23 сек, размер 8 Мб)
+legacy:
+  title: 454. Связь с Кришной приходит благодаря Махапрабху. 1982.01.08.C2
+  index: "454"
+  filename: 454-svyaz-s-krishnoj-prihodit-blagodarya-m.md
 ---
-
-# 454. Связь с Кришной приходит благодаря Махапрабху. 1982.01.08.C2
 
 **Преданный:** Махарадж, вы одариваете нас такой великий милостью. Мы испытываем великое влечение к вам. Влечение, подобное тому, что мы чувствуем в отношении нашего Гуру Махараджа.
 

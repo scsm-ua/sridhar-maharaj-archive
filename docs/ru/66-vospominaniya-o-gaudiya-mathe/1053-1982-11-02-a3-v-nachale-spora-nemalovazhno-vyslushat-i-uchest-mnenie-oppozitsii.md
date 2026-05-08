@@ -1,12 +1,20 @@
 ---
 slug: 1053-1982-11-02-a3-v-nachale-spora-nemalovazhno-vyslushat-i-uchest-mnenie-oppozitsii
+record_id: 1982.11.02.A3
+title: В начале спора немаловажно выслушать и учесть мнение оппозиции
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2842028
+  duration: 00:02:26
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1053_1982.11.02.A3_SridharMj_V_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozicii.mp3
+date: 1982-11-02
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1053_1982.11.02.A3_SridharMj_V_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozicii.mp3
     title: аудиозапись в MP3 (2 мин. 25 сек., 2,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1053_1982.11.02.A3_SridharMj_V_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozicii.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 1053. 1982.11.02.A3. В начале спора немаловажно выслушать и учесть мнение
+    оппозиции
+  index: "1053"
+  filename: 1053-1982-11-02-a3-v-nachale-spora-nemalovazhno-vyslushat-i-uchest-mnenie-oppozitsii.md
 ---
-
-# 1053. 1982.11.02.A3. В начале спора немаловажно выслушать и учесть мнение оппозиции
 
 [Звучит голос **Шрипад Бхакти Вичара Джаджавара Махараджа** — *переводчик*]
 

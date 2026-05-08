@@ -1,5 +1,12 @@
 ---
 slug: 645-ontologiya-pr-ch-7-3-soznanie-ne-mozhet-sushhestvovat-bez-lichnosti
+title: Онтология ПР. Ч. 7.3. Сознание не может существовать без личности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13098872
+  duration: 00:12:40
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -10,7 +17,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 3.19
     slug: shvetashvatara-upanishad-3-19
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
     title: аудиозапись в MP3 (12 мин. 40 сек., 12,5 МБ)
@@ -18,9 +24,11 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 645. Онтология ПР. Ч. 7.3. Сознание не может существовать без личности
+  index: "645"
+  filename: 645-ontologiya-pr-ch-7-3-soznanie-ne-mozhet-sushhestvovat-bez-lichnosti.md
 ---
-
-# 645. Онтология ПР. Ч. 7.3. Сознание не может существовать без личности
 
 Онтология Прекрасной Реальности (Часть 7.3)
 

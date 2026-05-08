@@ -1,5 +1,14 @@
 ---
 slug: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha
+record_id: 1983.05.09.C6
+title: О распространении лекций и книг Шрилы Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2455301
+  duration: 00:03:00
+  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
+date: 1983-05-09
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
     title: аудиозапись в MP3 (3 мин. 00 сек., 2,4 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 1131. 1983.05.09.C6. О распространении лекций и книг Шрилы Шридхара Махараджа
+  index: "1131"
+  filename: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha.md
 ---
-
-# 1131. 1983.05.09.C6. О распространении лекций и книг Шрилы Шридхара Махараджа
 
 **Преданный:** Я читал ваши беседы, слушал вашу проповедь. Как вы хотите, каково ваше желание: чтобы ваша проповедь бы доходила до широких масс или была обращена к некоему узкому кругу, поскольку вряд ли массы могут понять, оценить по достоинству.
 

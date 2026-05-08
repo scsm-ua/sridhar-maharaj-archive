@@ -1,5 +1,14 @@
 ---
 slug: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej
+record_id: 1982.03.22.B2
+title: «Сознание Кришны во Вриндаване» значит «Жить с Богом одной семьей»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10667226
+  duration: 00:10:28
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3
+date: 1982-03-22
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -32,7 +41,6 @@ tags:
     slug: bhagavad-gita-18-55
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3
     title: аудиозапись в MP3 (10 мин. 27 сек., 10 МБ)
@@ -40,9 +48,12 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 039. 1982.03.22.B2 «Сознание Кришны во Вриндаване» значит «Жить с Богом
+    одной семьей»
+  index: "039"
+  filename: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej.md
 ---
-
-# 039. 1982.03.22.B2 «Сознание Кришны во Вриндаване» значит «Жить с Богом одной семьей»
 
 Я помню, во времена Свами Махараджа, при его жизни, одна женщина давала лекцию в этом *нат-мандире.* Она сказала: «Мы приехали издалека, из столь далеких земель, стран. Мы стали под знамена Свами Махараджа. Что касается меня, — сказала она, — то я хотела бы сказать, что его зов впечатлил меня в высшей степени, главным образом по той причине, что он сообщил, рассказал о том, что мы можем жить в качестве родных Верховного Господа. Мы можем жить с Ним в одной семье, мы можем служить Ему как члену нашей семьи, и Он также рассматривает нас как Своих родных».
 

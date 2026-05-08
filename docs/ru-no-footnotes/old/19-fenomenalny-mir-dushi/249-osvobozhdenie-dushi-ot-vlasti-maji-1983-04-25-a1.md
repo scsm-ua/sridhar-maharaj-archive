@@ -1,5 +1,14 @@
 ---
 slug: 249-osvobozhdenie-dushi-ot-vlasti-maji-1983-04-25-a1
+record_id: 1983.04.25.A1
+title: Освобождение души от власти майи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7593566
+  duration: 00:11:26
+  mp3: /wp-content/uploads/2012/08/249_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
+date: 1983-04-25
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -12,13 +21,14 @@ tags:
     slug: dusha
   - title: Сварупа-сиддхи
     slug: svarupa-siddhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/249_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
     title: Скачать аудиозапись в mp3 (11 мин 26 сек, размер 7 Мб)
+legacy:
+  title: 249. Освобождение души от власти майи. 1983.04.25.A1
+  index: "249"
+  filename: 249-osvobozhdenie-dushi-ot-vlasti-maji-1983-04-25-a1.md
 ---
-
-# 249. Освобождение души от власти майи. 1983.04.25.A1
 
 На каком уровне для преданного не существует возможности падения? На уровне васту-сиддхи, это даже не сварупа-сиддхи, когда человек полностью избавился от связи с этим материальным миром и когда он полностью погружен.
 

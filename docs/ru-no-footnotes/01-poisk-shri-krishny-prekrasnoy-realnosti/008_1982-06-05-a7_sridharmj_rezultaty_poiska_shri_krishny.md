@@ -1,12 +1,20 @@
 ---
 slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
+record_id: 1982.06.05.A7
+title: Результаты поиска Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7731973
+  duration: 00:07:54
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
+date: 1982-06-05
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
     title: аудиозапись в MP3 (07 мин. 54 сек., 7.4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.pdf
     title: транскрипцию в PDF (278 КБ)
+legacy:
+  title: 008. 1982.06.05.A7 Результаты поиска Шри Кришны
+  index: "008"
+  filename: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny.md
 ---
-
-# 008. 1982.06.05.A7 Результаты поиска Шри Кришны
 
 **Видагдха Мадхава Прабху:** Махарадж, а каков дух воспевания?
 

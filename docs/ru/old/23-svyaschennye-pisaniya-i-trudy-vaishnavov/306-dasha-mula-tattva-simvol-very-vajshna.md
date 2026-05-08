@@ -1,5 +1,14 @@
 ---
 slug: 306-dasha-mula-tattva-simvol-very-vajshna
+record_id: 1985.06.09.A1
+title: «Даша-мула-таттва» — символ веры вайшнавов.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3369180
+  duration: 00:05:48
+  mp3: /wp-content/uploads/2012/08/306_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
+date: 1985-06-09
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: svarupa-shakti
   - title: Священные писания
     slug: svyashhennye-pisaniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/306_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
     title: Скачать аудиозапись в mp3 (5 мин 48 сек, размер 3 Мб)
+legacy:
+  title: 306. «Даша-мула-таттва» — символ веры вайшнавов. 1985.06.09.A1
+  index: "306"
+  filename: 306-dasha-mula-tattva-simvol-very-vajshna.md
 ---
-
-# 306. «Даша-мула-таттва» — символ веры вайшнавов. 1985.06.09.A1
 
 Нет ценности в любом другом мнении помимо амнаи. «Амная» означает… «амная» означает… мы должны понять, что это. Это истина откровения или писание, приходящее из надежного источника – амная. Гуру-парампара, амная. «Амная» означает «истина откровения, которую мы получаем в подлинной преемственность Гуру», амная.
 

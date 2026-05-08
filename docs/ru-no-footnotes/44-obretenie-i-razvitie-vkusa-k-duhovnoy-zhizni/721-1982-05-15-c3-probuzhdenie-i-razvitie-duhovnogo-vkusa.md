@@ -1,12 +1,20 @@
 ---
 slug: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa
+record_id: 1982.05.15.C3
+title: Пробуждение и развитие духовного вкуса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3716398
+  duration: 00:03:01
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
+date: 1982-05-15
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 3,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 721. 1982.05.15.C3. Пробуждение и развитие духовного вкуса
+  index: "721"
+  filename: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa.md
 ---
-
-# 721. 1982.05.15.C3. Пробуждение и развитие духовного вкуса
 
     ра̄джа-видйа̄ ра̄джа-гухйам̇ павитрам идам уттамам
     пратйакш̣а̄вагамам̇ дхармйам̇ су-сукхам̇ картум авйайам

@@ -1,12 +1,20 @@
 ---
 slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
+record_id: 1982.01.29.B3
+title: Ради служения Гуру можно подниматься на превосходящий нас уровень
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10631200
+  duration: 00:20:54
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3
+date: 1982-01-29
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3
     title: аудиозапись в MP3 (20 мин. 53 сек., 10,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (177 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 1024. 1982.01.29.B3. Ради служения Гуру можно подниматься на
+    превосходящий нас уровень
+  index: "1024"
+  filename: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven.md
 ---
-
-# 1024. 1982.01.29.B3. Ради служения Гуру можно подниматься на превосходящий нас уровень
 
     пӯджала ра̄га-патха гаурава-бхан̇ге
 [^_ftn1]

@@ -1,12 +1,20 @@
 ---
 slug: 992-1981-03-12-a1-bog-pomogaet-iskrennim-iskatelyam-istiny-o-miltone-i-vordsvorte
+record_id: 1981.03.12.A1
+title: Бог помогает искренним искателям истины. О Милтоне и Вордсворте
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4626253
+  duration: 00:07:52
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.mp3
+date: 1981-03-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.mp3
     title: аудиозапись в MP3 (7 мин. 51 сек., 4,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (58 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 992. 1981.03.12.A1. Бог помогает искренним искателям истины. О Милтоне и
+    Вордсворте
+  index: "992"
+  filename: 992-1981-03-12-a1-bog-pomogaet-iskrennim-iskatelyam-istiny-o-miltone-i-vordsvorte.md
 ---
-
-# 992. 1981.03.12.A1. Бог помогает искренним искателям истины. О Милтоне и Вордсворте
 
 Место Свами Махараджа — Нава-Вриндаван. Если есть Нью-Дели, Ньюкасл, почему бы не быть Новому Вриндавану? Каждым преимуществом я должен воспользоваться, извлечь его из этого мира, использовать любое преимущество в служении Кришне. То был его великий, обширный взгляд: все должно быть обращено с тем, чтобы помогать сознанию Кришны. Ни одна реалия не должна быть оставлена в стороне и защищать *майю*. Никакая реалия не должна служить *майе* — ложно понятому аспекту мира, поскольку это ложное представление — это суицидальное явление. Ложное представление, ложное понимание всегда приводит к самоубийству. Это нежелательно, не может быть желательным. Шипение диких гусей — это не должно быть, этому не следует потворствовать. В любых обстоятельствах, всегда пытаться сокрушить это ложно представление, сокрушить ложное сознание, ложное представление любого типа и утвердить истину, утвердить правду.
 

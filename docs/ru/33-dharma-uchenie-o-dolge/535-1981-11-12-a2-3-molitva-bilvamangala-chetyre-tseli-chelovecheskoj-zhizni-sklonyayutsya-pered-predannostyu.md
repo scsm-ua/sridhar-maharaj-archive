@@ -1,5 +1,15 @@
 ---
 slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
+record_id: 1981.11.12.A2.3
+title: Молитва Билвамангала. Четыре цели человеческой жизни склоняются перед
+  преданностью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3084256
+  duration: 00:05:54
+  mp3: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3
+date: 1981-11-12
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -20,7 +30,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.117
     slug: shri-chajtanya-charitamrita-madhya-lila-25-117
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3
     title: аудиозапись в MP3 (5 мин. 53 сек., 3,0 МБ)
@@ -28,9 +37,12 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 535. 1981.11.12.A2.3. Молитва Билвамангала. Четыре цели человеческой
+    жизни склоняются перед преданностью
+  index: "535"
+  filename: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu.md
 ---
-
-# 535. 1981.11.12.A2.3. Молитва Билвамангала. Четыре цели человеческой жизни склоняются перед преданностью
 
 Такой вывод: любая связь с тем миром *ниргуны* может принести нам полное успокоение. Что это за успокоение?
 

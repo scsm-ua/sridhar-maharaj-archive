@@ -1,12 +1,20 @@
 ---
 slug: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily
+record_id: 1982.07.08.B
+title: Антитезис – часть извилистого характера лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9113683
+  duration: 00:09:06
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/189_1982.07.08.B_SridharMj_Antitezis_%E2%80%93_chast_izvilistogo_haraktera_lily.mp3
+date: 1982-07-08
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/189_1982.07.08.B_SridharMj_Antitezis_%E2%80%93_chast_izvilistogo_haraktera_lily.mp3
     title: аудиозапись в MP3 (9 мин. 05 сек., 1,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (101 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/189_1982.07.08.B_SridharMj_Antitezis_-_chast_izvilistogo_haraktera_lily.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 189. 1982.07.08.B. Антитезис – часть извилистого характера лилы
+  index: "189"
+  filename: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily.md
 ---
-
-# 189. 1982.07.08.B. Антитезис – часть извилистого характера лилы
 
 **Видагдха Мадхава Прабху:** Это Видагдха Мадхава Дас. У меня есть вопрос.
 

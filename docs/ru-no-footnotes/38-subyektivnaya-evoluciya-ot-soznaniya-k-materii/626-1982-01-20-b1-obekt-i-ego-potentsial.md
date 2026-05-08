@@ -1,12 +1,20 @@
 ---
 slug: 626-1982-01-20-b1-obekt-i-ego-potentsial
+record_id: 1982.01.20.B1
+title: Объект и его потенциал
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6100564
+  duration: 00:10:46
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/626_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
+date: 1982-01-20
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/626_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
     title: аудиозапись в MP3 (10 мин. 45 сек., 5,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (118 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/626_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 626. 1982.01.20.B1. Объект и его потенциал
+  index: "626"
+  filename: 626-1982-01-20-b1-obekt-i-ego-potentsial.md
 ---
-
-# 626. 1982.01.20.B1. Объект и его потенциал
 
 Веды, Упанишады говорят: [Санскрит] — Он превосходит то, что вы считаете совершенным, на два пальца. Трансцендентный, Он никогда не окажется в юрисдикции любых твоих представлений, какими бы высокими они ни были. Он всегда трансцендентен. Какой бы высоты вы ни достигли, все же Он выше этого.
 

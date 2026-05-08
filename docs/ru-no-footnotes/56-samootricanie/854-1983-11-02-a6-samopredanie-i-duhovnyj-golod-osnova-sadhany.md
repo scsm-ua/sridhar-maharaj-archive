@@ -1,5 +1,14 @@
 ---
 slug: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany
+record_id: 1983.11.02.A6
+title: Самопредание и духовный голод – основа садханы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5553716
+  duration: 00:02:55
+  mp3: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3
+date: 1983-11-02
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3
     title: аудиозапись в MP3 (2 мин. 55 сек., 5,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 854. 1983.11.02.A6. Самопредание и духовный голод – основа садханы
+  index: "854"
+  filename: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany.md
 ---
-
-# 854. 1983.11.02.A6. Самопредание и духовный голод – основа садханы
 
 **Преданный:** Гуру Махарадж!
 

@@ -1,5 +1,14 @@
 ---
 slug: 112-kak-prevzojti-majyu-1983-04-17-a3
+record_id: 1983.04.17.A3
+title: Как превзойти майю?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4175851
+  duration: 00:06:14
+  mp3: /wp-content/uploads/2012/08/112_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
+date: 1983-04-17
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -12,13 +21,14 @@ tags:
     slug: karma
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/112_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 14 сек, размер 4 Мб)
+legacy:
+  title: 112. Как превзойти майю? 1983.04.17.A3
+  index: "112"
+  filename: 112-kak-prevzojti-majyu-1983-04-17-a3.md
 ---
-
-# 112. Как превзойти майю? 1983.04.17.A3
 
 **Ученик:** Я хочу понять, например, скажем, когда мадхьям-адхикари, может быть даже принимать учеников шишья. До какой степени он принимает карму шишья, учеников?
 

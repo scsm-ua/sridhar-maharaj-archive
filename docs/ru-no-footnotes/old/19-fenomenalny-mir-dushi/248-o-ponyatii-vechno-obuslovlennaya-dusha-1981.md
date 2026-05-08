@@ -1,5 +1,14 @@
 ---
 slug: 248-o-ponyatii-vechno-obuslovlennaya-dusha-1981
+record_id: 1981.08.27.C2
+title: О понятии «вечно обусловленная душа».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8066069
+  duration: 00:12:25
+  mp3: /wp-content/uploads/2012/08/248_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
+date: 1981-08-27
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -14,13 +23,14 @@ tags:
     slug: svarupa-siddhi
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/248_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
     title: Скачать аудиозапись в mp3 (12 мин 25 сек, размер 8 Мб)
+legacy:
+  title: 248. О понятии «вечно обусловленная душа». 1981.08.27.C2
+  index: "248"
+  filename: 248-o-ponyatii-vechno-obuslovlennaya-dusha-1981.md
 ---
-
-# 248. О понятии «вечно обусловленная душа». 1981.08.27.C2
 
 **Госвами Махарадж:** Джива… когда джива… Джива – это атамарная частица, атом, чит-шакти, атомарная… фрагмент, атомарная часть. Когда джива просветлена чит-шакти, хладини, этой энергией блаженства, может ли она оставить это положение?
 

@@ -1,5 +1,14 @@
 ---
 slug: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe
+record_id: 1981.11.12.C2
+title: Где находится гупта Радха-кунда в Навадвипе?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1461426
+  duration: 00:01:13
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
+date: 1981-11-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -10,7 +19,6 @@ tags:
     slug: navadvip
   - title: Радха-кунда
     slug: radha-kunda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
     title: аудиозапись в MP3 (1 мин. 13 сек., 1.4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 093. 1981.11.12.C2 Где находится гупта Радха-кунда в Навадвипе?
+  index: "093"
+  filename: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe.md
 ---
-
-# 093. 1981.11.12.C2 Где находится гупта Радха-кунда в Навадвипе?
 
 **Ученик:** Гуру Махарадж, у меня следующий вопрос: это место в Навадвипе считается *гупта* Говардханом [скрытым Говардханом]. Это означает, что здесь в Навадвипе также есть Сева-кунджа и Радха-кунда?
 

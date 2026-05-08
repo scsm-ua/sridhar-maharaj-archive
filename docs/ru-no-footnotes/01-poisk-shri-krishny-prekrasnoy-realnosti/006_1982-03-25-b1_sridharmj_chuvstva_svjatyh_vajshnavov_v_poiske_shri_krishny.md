@@ -1,5 +1,14 @@
 ---
 slug: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny
+record_id: 1982.03.25.B1
+title: Чувства святых вайшнавов в поиске Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8077624
+  duration: 00:08:16
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3
+date: 1982-03-25
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -10,7 +19,6 @@ tags:
     slug: with-english-audio
   - title: with English text
     slug: with-english-text
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3
     title: аудиозапись в MP3 (08 мин. 15 сек., 7.7 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 006. 1982.03.25.B1 Чувства святых вайшнавов в поиске Шри Кришны
+  index: "006"
+  filename: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md
 ---
-
-# 006. 1982.03.25.B1 Чувства святых вайшнавов в поиске Шри Кришны
 
     …бахава иха вихан̇га̄ бхикш̣у-чарйа̄м̇ чаранти
     …дӣнам утср̣джйа дӣна̄

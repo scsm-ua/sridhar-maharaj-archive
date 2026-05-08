@@ -1,12 +1,20 @@
 ---
 slug: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines
+record_id: 1982.01.12.B2
+title: «В этом мире есть человек, который сохранит то, что я принес»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9915946
+  duration: 00:18:53
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.mp3
+date: 1982-01-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.mp3
     title: аудиозапись в MP3 (18 мин. 53 сек., 9,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (162 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 975. 1982.01.12.B2. «В этом мире есть человек, который сохранит то, что я
+    принес»
+  index: "975"
+  filename: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines.md
 ---
-
-# 975. 1982.01.12.B2. «В этом мире есть человек, который сохранит то, что я принес»
 
 **Преданный:** Кална — это место, где Гаура-Нитай пришли и стали Божествами?
 

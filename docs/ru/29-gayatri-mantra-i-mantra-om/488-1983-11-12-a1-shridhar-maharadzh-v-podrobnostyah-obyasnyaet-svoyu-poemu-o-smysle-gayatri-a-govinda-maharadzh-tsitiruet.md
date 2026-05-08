@@ -1,5 +1,15 @@
 ---
 slug: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet
+record_id: 1983.11.12.A1
+title: Шридхар Махарадж в подробностях объясняет свою поэму о смысле Гаятри, а
+  Говинда Махарадж цитирует
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 36376690
+  duration: 00:36:55
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3
+date: 1983-11-12
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -24,7 +34,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3
     title: аудиозапись в MP3 (36 мин. 55 сек., 34,7 МБ)
@@ -32,9 +41,12 @@ links:
     title: транскрипцию в RTF (294 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.pdf
     title: транскрипцию в PDF (193 КБ)
+legacy:
+  title: 488. 1983.11.12.A1. Шридхар Махарадж в подробностях объясняет свою поэму
+    о смысле Гаятри, а Говинда Махарадж цитирует
+  index: "488"
+  filename: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet.md
 ---
-
-# 488. 1983.11.12.A1. Шридхар Махарадж в подробностях объясняет свою поэму о смысле Гаятри, а Говинда Махарадж цитирует
 
 **Шрила Говинда Махарадж:** [*шри шримад бхагавата дхарайа гайатри сварупартха ваичитра(?)*] Вы осуществили перевод *шлоки*: *никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ*[^_ftn1]?
 

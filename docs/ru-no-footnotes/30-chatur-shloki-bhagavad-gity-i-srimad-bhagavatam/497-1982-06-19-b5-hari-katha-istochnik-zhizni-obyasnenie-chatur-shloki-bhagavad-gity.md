@@ -1,5 +1,14 @@
 ---
 slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
+record_id: 1982.06.19.B5
+title: Хари-катха – источник жизни. Объяснение чатур-шлоки Бхагавад-гиты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19112313
+  duration: 00:17:59
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3
+date: 1982-06-19
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Чатур-шлока
     slug: chatur-shloka
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 3,3 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 497. 1982.06.19.B5. Хари-катха – источник жизни. Объяснение чатур-шлоки
+    Бхагавад-гиты
+  index: "497"
+  filename: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity.md
 ---
-
-# 497. 1982.06.19.B5. Хари-катха – источник жизни. Объяснение чатур-шлоки Бхагавад-гиты
 
     йа̄ ниш́а̄ сарва-бхӯта̄на̄м̇, тасйа̄м̇ джа̄гарти сам̇йамӣ
     йасйа̄м̇ джа̄грати бхӯта̄ни, са̄ ниш́а̄ паш́йато мунех̣

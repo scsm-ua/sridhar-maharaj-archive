@@ -1,5 +1,13 @@
 ---
 slug: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov
+title: Онтология ПР. Ч. 7.5. Проповедники рискуют собой под руководством
+  квалифицированных вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4896862
+  duration: 00:04:53
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +16,6 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
     title: аудиозапись в MP3 (4 мин. 53 сек., 4,7 МБ)
@@ -16,9 +23,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 369. Онтология ПР. Ч. 7.5. Проповедники рискуют собой под руководством
+    квалифицированных вайшнавов
+  index: "369"
+  filename: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov.md
 ---
-
-# 369. Онтология ПР. Ч. 7.5. Проповедники рискуют собой под руководством квалифицированных вайшнавов
 
 *«Онтология Прекрасной Реальности», (часть 7.5)*
 

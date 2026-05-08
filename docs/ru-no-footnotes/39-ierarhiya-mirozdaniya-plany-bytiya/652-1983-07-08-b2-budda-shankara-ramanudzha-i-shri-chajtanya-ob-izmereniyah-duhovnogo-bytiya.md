@@ -1,12 +1,20 @@
 ---
 slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
+record_id: 1983.07.08.B2
+title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19645106
+  duration: 00:38:28
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+date: 1983-07-08
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1983.07"
     slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
     title: аудиозапись в MP3 (38 мин. 28 сек., 18,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (355 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.pdf
     title: транскрипцию в PDF (204 КБ)
+legacy:
+  title: 652. 1983.07.08.B2. Будда, Шанкара, Рамануджа и Шри Чайтанья об
+    измерениях духовного бытия
+  index: "652"
+  filename: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
 ---
-
-# 652. 1983.07.08.B2. Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
 
 Рупа Госвами говорит:
 

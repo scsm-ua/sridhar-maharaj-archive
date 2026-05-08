@@ -1,5 +1,14 @@
 ---
 slug: 528-1983-02-07-a1-lyubov-irratsionalna
+record_id: 1983.02.07.A1
+title: Любовь иррациональна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6810353
+  duration: 00:09:21
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
+date: 1983-02-07
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
@@ -14,7 +23,6 @@ tags:
     slug: vedanta-sutra
   - title: Веданта-сутра 2.1.11
     slug: vedanta-sutra-2-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
     title: аудиозапись в MP3 (9 мин. 21 сек., 6,5 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 528. 1983.02.07.A1. Любовь иррациональна
+  index: "528"
+  filename: 528-1983-02-07-a1-lyubov-irratsionalna.md
 ---
-
-# 528. 1983.02.07.A1. Любовь иррациональна
 
 **Преданный:** Махарадж, материальный мир рационален?
 

@@ -1,5 +1,12 @@
 ---
 slug: 87-krishna-dzhiva-dharma
+title: Кришна, джива, дхарма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8543451
+  duration: 00:22:47
+  mp3: /wp-content/uploads/2012/08/087_2012.07.25.18_ShridharMj_Krishna_djiva_dharma.mp3
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
@@ -8,13 +15,14 @@ tags:
     slug: dusha
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/087_2012.07.25.18_ShridharMj_Krishna_djiva_dharma.mp3
     title: Скачать аудиозапись в mp3 (22 мин 47 сек, размер 8 Мб)
+legacy:
+  title: 87. Кришна, джива, дхарма
+  index: "87"
+  filename: 87-krishna-dzhiva-dharma.md
 ---
-
-# 87. Кришна, джива, дхарма
 
 *#00:00:00#*
 

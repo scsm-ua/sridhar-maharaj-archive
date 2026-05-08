@@ -1,5 +1,14 @@
 ---
 slug: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym
+record_id: 1981.03.03.A3.B1
+title: Преданный следует вечному долгу даже в случае столкновения с провинциальным
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3652472
+  duration: 00:07:05
+  mp3: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3
+date: 1981-03-03
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3
     title: аудиозапись в MP3 (7 мин. 04 сек., 3,5 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 544. 1981.03.03.A3.B1. Преданный следует вечному долгу даже в случае
+    столкновения с провинциальным
+  index: "544"
+  filename: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym.md
 ---
-
-# 544. 1981.03.03.A3.B1. Преданный следует вечному долгу даже в случае столкновения с провинциальным
 
 **Преданный:** Вопрос таков: когда мы мыслим в категориях, понятиях нашей жизни, что это значит: обусловленная деятельность?
 

@@ -1,12 +1,20 @@
 ---
 slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
+record_id: 1982.03.02.A.B1.B3.B5
+title: Объяснение понятий «чид-абхас» и «субъективная эволюция»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 49196750
+  duration: 00:50:16
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3
+date: 1982-03-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3
     title: аудиозапись в MP3 (50 мин. 16 сек., 47,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (98 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.pdf
     title: транскрипцию в PDF (208 КБ)
+legacy:
+  title: 616. 1982.03.02.A.B1.B3.B5. Объяснение понятий «чид-абхас»  и
+    «субъективная эволюция»
+  index: "616"
+  filename: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
 ---
-
-# 616. 1982.03.02.A.B1.B3.B5. Объяснение понятий «чид-абхас»  и «субъективная эволюция»
 
 **Дух — основа любой материи**
 

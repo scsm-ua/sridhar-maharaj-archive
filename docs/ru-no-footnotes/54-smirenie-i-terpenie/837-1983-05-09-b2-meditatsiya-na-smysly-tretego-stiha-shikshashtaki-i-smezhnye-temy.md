@@ -1,12 +1,20 @@
 ---
 slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
+record_id: 1983.05.09.B2
+title: Медитация на смыслы третьего стиха Шикшаштаки и смежные темы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13288552
+  duration: 00:25:53
+  mp3: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
+date: 1983-05-09
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
 tags:
   - title: "1983.05"
     slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
     title: аудиозапись в MP3 (25 мин. 53 сек., 12,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (227 КБ)
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.pdf
     title: транскрипцию в PDF (197 КБ)
+legacy:
+  title: 837. 1983.05.09.B2. Медитация на смыслы третьего стиха Шикшаштаки и
+    смежные темы
+  index: "837"
+  filename: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
 ---
-
-# 837. 1983.05.09.B2. Медитация на смыслы третьего стиха Шикшаштаки и смежные темы
 
     тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄

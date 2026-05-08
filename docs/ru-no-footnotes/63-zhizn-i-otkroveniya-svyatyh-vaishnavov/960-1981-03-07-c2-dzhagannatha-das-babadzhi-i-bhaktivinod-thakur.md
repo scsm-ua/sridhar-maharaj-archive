@@ -1,12 +1,20 @@
 ---
 slug: 960-1981-03-07-c2-dzhagannatha-das-babadzhi-i-bhaktivinod-thakur
+record_id: 1981.03.07.C2
+title: Джаганнатха Дас Бабаджи и Бхактивинод Тхакур
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4362134
+  duration: 00:03:05
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/960_1981.03.07.C2_SridharMj_Dzhagannatha_Das_Babadzhi_i_Bhaktivinod_Thakur.mp3
+date: 1981-03-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/960_1981.03.07.C2_SridharMj_Dzhagannatha_Das_Babadzhi_i_Bhaktivinod_Thakur.mp3
     title: аудиозапись в MP3 (3 мин. 04 сек., 4,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/960_1981.03.07.C2_SridharMj_Dzhagannatha_Das_Babadzhi_i_Bhaktivinod_Thakur.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 960. 1981.03.07.C2. Джаганнатха Дас Бабаджи и Бхактивинод Тхакур
+  index: "960"
+  filename: 960-1981-03-07-c2-dzhagannatha-das-babadzhi-i-bhaktivinod-thakur.md
 ---
-
-# 960. 1981.03.07.C2. Джаганнатха Дас Бабаджи и Бхактивинод Тхакур
 
 **Госвами Махарадж:** Махарадж, сегодня день ухода Джаганнатха Даса Бабаджи.
 

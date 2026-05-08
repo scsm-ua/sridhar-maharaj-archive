@@ -1,12 +1,20 @@
 ---
 slug: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni
+record_id: 1981.11.12.B2
+title: Общение с садху дарует благословения в трех периодах времени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2855508
+  duration: 00:03:36
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3
+date: 1981-11-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1981.11"
     slug: 1981-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3
     title: аудиозапись в MP3 (3 мин. 35 сек., 4,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 241. 1981.11.12.B2. Общение с садху дарует благословения в трех периодах
+    времени
+  index: "241"
+  filename: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni.md
 ---
-
-# 241. 1981.11.12.B2. Общение с садху дарует благословения в трех периодах времени
 
     [шлока]
 

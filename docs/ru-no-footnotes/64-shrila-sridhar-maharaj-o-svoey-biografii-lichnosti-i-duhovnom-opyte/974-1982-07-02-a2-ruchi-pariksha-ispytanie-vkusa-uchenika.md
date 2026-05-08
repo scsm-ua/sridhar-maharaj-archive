@@ -1,12 +1,20 @@
 ---
 slug: 974-1982-07-02-a2-ruchi-pariksha-ispytanie-vkusa-uchenika
+record_id: 1982.07.02.A2
+title: Ручи-парикша – испытание вкуса ученика
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8454551
+  duration: 00:07:55
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/974_1982.07.02.A2_SridharMj_Ruchi-pariksha--ispytanie_vkusa_uchenika.mp3
+date: 1982-07-02
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/974_1982.07.02.A2_SridharMj_Ruchi-pariksha--ispytanie_vkusa_uchenika.mp3
     title: аудиозапись в MP3 (7 мин. 55 сек., 8,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (91 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/974_1982.07.02.A2_SridharMj_Ruchi-pariksha--ispytanie_vkusa_uchenika.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 974. 1982.07.02.A2. Ручи-парикша – испытание вкуса ученика
+  index: "974"
+  filename: 974-1982-07-02-a2-ruchi-pariksha-ispytanie-vkusa-uchenika.md
 ---
-
-# 974. 1982.07.02.A2. Ручи-парикша – испытание вкуса ученика
 
 **Преданный:** Махарадж, вы говорили о том, что желания — это семя. Это желание…
 

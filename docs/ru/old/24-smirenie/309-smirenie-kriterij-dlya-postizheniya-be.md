@@ -1,5 +1,14 @@
 ---
 slug: 309-smirenie-kriterij-dlya-postizheniya-be
+record_id: 1985.05.01.B2
+title: Смирение — критерий для постижения Безграничного.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1935799
+  duration: 00:03:43
+  mp3: /wp-content/uploads/2012/08/309_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
+date: 1985-05-01
 category:
   title: (24. Смирение)
   slug: 24-smirenie
@@ -10,13 +19,14 @@ tags:
     slug: smirenie
   - title: Терпение
     slug: terpenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/309_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
     title: Скачать аудиозапись в mp3 (3 мин 43 сек, размер 1 Мб)
+legacy:
+  title: 309. Смирение — критерий для постижения Безграничного. 1985.05.01.B2
+  index: "309"
+  filename: 309-smirenie-kriterij-dlya-postizheniya-be.md
 ---
-
-# 309. Смирение — критерий для постижения Безграничного. 1985.05.01.B2
 
 **Шридхар Махарадж:** Был один царь, Пратапарудра, в Ориссе, Дхаганнатх. Многие от его имени просили Махапрабху увидеться с ним: «Пожалуйста, один раз встреться с царем, он очень хочет обрести, получить твой даршан». Но Махапрабху не соглашался. Но когда Он узнал о том, когда Джаганнатх ехал на колеснице, то царь собственноручно расчищал дорогу перед Ним, и это привлекло Махапрабху.
 

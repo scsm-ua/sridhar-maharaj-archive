@@ -1,12 +1,21 @@
 ---
 slug: 752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane
+record_id: 1982.06.08.A2
+title: О дозволении на употребление мяса и вина в некоторых ведических Писаниях,
+  Библии и Коране
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24624869
+  duration: 00:24:31
+  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.mp3
+date: 1982-06-08
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.mp3
     title: аудиозапись в MP3 (24 мин. 30 сек., 23,5 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (220 КБ)
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 752. 1982.06.08.A2. О дозволении на употребление мяса и вина в некоторых
+    ведических Писаниях, Библии и Коране
+  index: "752"
+  filename: 752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane.md
 ---
-
-# 752. 1982.06.08.A2. О дозволении на употребление мяса и вина в некоторых ведических Писаниях, Библии и Коране
 
 **Видагдха Мадхава Прабху:** В районе Парматалы есть большой храм Кали под большим баньяновым деревом, и там…
 

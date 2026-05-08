@@ -1,12 +1,20 @@
 ---
 slug: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov
+record_id: 1983.02.01.A.B
+title: О жизни и наследии святых вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 30310921
+  duration: 00:57:09
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
+date: 1983-02-01
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1983.02"
     slug: 1983-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
     title: аудиозапись в MP3 (57 мин. 08 сек., 29,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (370 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 942. 1983.02.01.A.B. О жизни и наследии святых вайшнавов
+  index: "942"
+  filename: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov.md
 ---
-
-# 942. 1983.02.01.A.B. О жизни и наследии святых вайшнавов
 
 **Преданный:** Я думаю утром, у меня был шанс отправиться туда.
 

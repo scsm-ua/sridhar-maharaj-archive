@@ -1,12 +1,20 @@
 ---
 slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
+record_id: 1982.02.23.C4
+title: Самбандха-гьяна – это определение уровня явлений на основе взгляда «Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5556653
+  duration: 00:09:55
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3
+date: 1982-02-23
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (130 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 426. 1982.02.23.C4. Самбандха-гьяна – это определение уровня явлений на
+    основе взгляда «Бхагаватам»
+  index: "426"
+  filename: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam.md
 ---
-
-# 426. 1982.02.23.C4. Самбандха-гьяна – это определение уровня явлений на основе взгляда «Бхагаватам»
 
 Мы должны соприкоснуться с истинной почвой, тогда мы сумеем почувствовать и различать. Мы должны утвердиться в истинном измерении, только тогда мы сумеем, оглядываясь по сторонам, понять: что и какое место занимает. *Самбандха-гьяна*. Санатана Госвами дал это в «Брихад-Бхагаватамритам». Мы должны вплотную следовать этому, тогда мы займем верную позицию. Мы должны утвердиться в определенном положении и затем осматриваться вокруг.
 

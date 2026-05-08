@@ -1,5 +1,14 @@
 ---
 slug: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare
+record_id: 1982.01.31.B1
+title: Краткое объяснение исторических брешей в гуру-парампаре
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2838016
+  duration: 00:03:08
+  mp3: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.mp3
+date: 1982-01-31
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-01
   - title: Гуру-парампара
     slug: guru-parampara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.mp3
     title: аудиозапись в MP3 (3 мин. 08 сек., 2,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 268. 1982.01.31.B1. Краткое объяснение исторических брешей в гуру-парампаре
+  index: "268"
+  filename: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare.md
 ---
-
-# 268. 1982.01.31.B1. Краткое объяснение исторических брешей в гуру-парампаре
 
 **Чидананда Прабху (Сиддханти Махарадж):** Махарадж, у меня есть вопрос, связанный с *шикша-гуру.*
 

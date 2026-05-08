@@ -1,12 +1,20 @@
 ---
 slug: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda
+record_id: 1982.01.13.B3
+title: Гаудия-вайшнавы считают Божество неотличным от Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6951403
+  duration: 00:13:25
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
+date: 1982-01-13
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
     title: аудиозапись в MP3 (13 мин. 24 сек., 6,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (164 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 1047. 1982.01.13.B3. Гаудия-вайшнавы считают Божество неотличным от Господа
+  index: "1047"
+  filename: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda.md
 ---
-
-# 1047. 1982.01.13.B3. Гаудия-вайшнавы считают Божество неотличным от Господа
 
 **Шрила Шридхар Махарадж:** Кто здесь? Харе Кришна. А где Камаласана?
 

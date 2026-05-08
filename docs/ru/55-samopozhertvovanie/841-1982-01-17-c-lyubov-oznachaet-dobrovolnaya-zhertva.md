@@ -1,5 +1,14 @@
 ---
 slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
+record_id: 1982.01.17.C
+title: «Любовь» означает «добровольная жертва»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11379451
+  duration: 00:21:33
+  mp3: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
+date: 1982-01-17
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
@@ -24,7 +33,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
     title: аудиозапись в MP3 (21 мин. 33 сек., 10,9 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (178 КБ)
   - href: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.pdf
     title: транскрипцию в PDF (166 КБ)
+legacy:
+  title: 841. 1982.01.17.C. «Любовь» означает «добровольная жертва»
+  index: "841"
+  filename: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva.md
 ---
-
-# 841. 1982.01.17.C. «Любовь» означает «добровольная жертва»
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Махапрабху… Харе Кришна, Харе Кришна, Гаура-Харибол…
 

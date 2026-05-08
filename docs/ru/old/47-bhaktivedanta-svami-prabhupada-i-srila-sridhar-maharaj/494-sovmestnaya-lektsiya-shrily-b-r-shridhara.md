@@ -1,5 +1,15 @@
 ---
 slug: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara
+record_id: 1973.03.17.2
+title: Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
+  Свами Прабхупады.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23691775
+  duration: 00:48:19
+  mp3: /wp-content/uploads/2012/08/494_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch_._Bhaktivedanty_Svami.mp3
+date: 1973-03-17
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
@@ -8,13 +18,15 @@ tags:
     slug: 1873-03
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/494_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch_._Bhaktivedanty_Svami.mp3
     title: Скачать аудиозапись в mp3 (48 мин 19 сек, размер 23 Мб)
+legacy:
+  title: 494. Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
+    Свами  Прабхупады. 1973.03.17.2
+  index: "494"
+  filename: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara.md
 ---
-
-# 494. Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты Свами  Прабхупады. 1973.03.17.2
 
 Итак, наш Свами Махарадж совершил чудо. Он совершил чудо. То, что Бхактивинод задумал, и Прабхупад Сарасавати Тхакур попытался привести в действие, согласно своей концепции. Теперь мы видим, что эти предсказания сбылись, через Свами Махараджа. В свои последние годы он осуществил это. Мы рады, мы счастливы, мы гордимся за Свами Махараджа и также за всех вас.
 

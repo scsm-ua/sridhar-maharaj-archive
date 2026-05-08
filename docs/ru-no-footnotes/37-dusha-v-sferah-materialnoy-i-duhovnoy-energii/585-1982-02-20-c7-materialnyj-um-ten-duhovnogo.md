@@ -1,5 +1,14 @@
 ---
 slug: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo
+record_id: 1982.02.20.C7
+title: Материальный ум – тень духовного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6425264
+  duration: 00:05:00
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.mp3
+date: 1982-02-20
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.mp3
     title: аудиозапись в MP3 (4 мин. 59 сек., 6,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (20 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 585. 1982.02.20.C7. Материальный ум – тень духовного
+  index: "585"
+  filename: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo.md
 ---
-
-# 585. 1982.02.20.C7. Материальный ум – тень духовного
 
 **Преданный:** Махарадж!
 

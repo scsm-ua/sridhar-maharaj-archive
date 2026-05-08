@@ -1,5 +1,14 @@
 ---
 slug: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada
+record_id: 1983.11.13.A4
+title: Комментарий к первому стиху Бхагаватам. Виварта-вада и шакти-паринама-вада
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12670861
+  duration: 00:13:05
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3
+date: 1983-11-13
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
@@ -14,7 +23,6 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3
     title: аудиозапись в MP3 (13 мин. 05 сек., 12,1 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (148 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 890. 1983.11.13.A4. Комментарий к первому стиху Бхагаватам. Виварта-вада
+    и шакти-паринама-вада
+  index: "890"
+  filename: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada.md
 ---
-
-# 890. 1983.11.13.A4. Комментарий к первому стиху Бхагаватам. Виварта-вада и шакти-паринама-вада
 
 **Шрила Шридхар Махарадж:** Лишь Он знает Себя в полной мере. *Ча̄ртхешв абхиджн̃ах̣ свара̄т̣*[^_ftn1]. Он знает, каков смысл всего и вся, смысл всего, всех реалий, всего происходящего известен в полной мере только Ему, не нам. Мы можем знать только частично — настолько, насколько Он хочет, чтобы мы знали. *Ча̄ртхешв абхиджн̃ах̣ свара̄т̣.* Ему известен смысл, предназначение любого движения всего сущего, поскольку все для Него. Иными словами: все для Него, а Он в полной мере занимает положение, позволяющее знать, что есть что. И в той степени, в которой Он открывает что-то кому-то, этот некто может знать. *Ча̄ртхешв абхиджн̃ах̣ свара̄т̣.* Но смысл, предназначение всего бытия известны только Ему в полной мере. *Ча̄ртхешв абхиджн̃ах̣.* Мы говорим: «Это — для меня, это — для других, это — для этой страны, это — для той группы…» Но все это — частичное и ограниченное, и столкновение интересов неизбежно.
 

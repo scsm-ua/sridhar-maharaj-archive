@@ -1,18 +1,26 @@
 ---
 slug: 418-samootritsanie-ne-taktika-a-iskrenne
+title: Самоотрицание — не тактика, а искреннее чувство
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5573698
+  duration: 00:05:21
+  mp3: /wp-content/uploads/2012/08/418_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
 category:
   title: (38. Самоотрицание)
   slug: 38-samootricanie
 tags:
   - title: Самоотрицание
     slug: samootritsanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/418_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
     title: Скачать аудиозапись в mp3 (5 мин 21 сек, размер 5 Мб)
+legacy:
+  title: 418. Самоотрицание — не тактика, а искреннее чувство
+  index: "418"
+  filename: 418-samootritsanie-ne-taktika-a-iskrenne.md
 ---
-
-# 418. Самоотрицание — не тактика, а искреннее чувство
 
 *#00:00:08#*
 

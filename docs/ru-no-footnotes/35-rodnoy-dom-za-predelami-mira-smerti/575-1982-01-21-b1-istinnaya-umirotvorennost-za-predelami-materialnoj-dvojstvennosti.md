@@ -1,12 +1,20 @@
 ---
 slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
+record_id: 1982.01.21.B1
+title: Истинная умиротворенность — за пределами материальной двойственности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20619463
+  duration: 00:36:56
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
+date: 1982-01-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
     title: аудиозапись в MP3 (36 мин. 56 сек., 19,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (280 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.pdf
     title: транскрипцию в PDF (190 КБ)
+legacy:
+  title: 575. 1982.01.21.B1. Истинная умиротворенность — за пределами материальной
+    двойственности
+  index: "575"
+  filename: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
 ---
-
-# 575. 1982.01.21.B1. Истинная умиротворенность — за пределами материальной двойственности
 
 Я хотел, собственно, процитировать одну *шлоку*. Когда Шакунтала была взята из *ашрама* к царю, в то время лидер ашрама Карна Муни попросил двух *брахмачари*: «Завтра утром вы трое вместе с Шакунталой пойдете в столицу». И тогда утром они пробудились и увидели, и об этом говорится в *шлоке*:
 

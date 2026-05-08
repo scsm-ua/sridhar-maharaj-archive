@@ -1,5 +1,14 @@
 ---
 slug: 811-1982-02-21-a1-kirtan-prevoshodit-poklonenie-bozhestvam
+record_id: 1982.02.21.A1
+title: Киртан превосходит поклонение Божествам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1743888
+  duration: 00:02:10
+  mp3: /dl/52._O_poklonenii_Bozhestvam/811_1982.02.21.A1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
+date: 1982-02-21
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/811_1982.02.21.A1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
     title: аудиозапись в MP3 (2 мин. 09 сек., 1,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/811_1982.02.21.A1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.pdf
     title: транскрипцию в PDF (113 КБ)
+legacy:
+  title: 811. 1982.02.21.A1. Киртан превосходит поклонение Божествам
+  index: "811"
+  filename: 811-1982-02-21-a1-kirtan-prevoshodit-poklonenie-bozhestvam.md
 ---
-
-# 811. 1982.02.21.A1. Киртан превосходит поклонение Божествам
 
 *(Мгновения Прекрасной Реальности, часть 1.1)*
 

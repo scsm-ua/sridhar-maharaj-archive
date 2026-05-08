@@ -1,5 +1,12 @@
 ---
 slug: 38-est-tolko-odin-ramananda-raj
+title: «Есть только один Рамананда Рай»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5066094
+  duration: 00:13:13
+  mp3: /wp-content/uploads/2012/08/038_2012.07.25.3_SridharMj_Est_tolko_odin_Ramananda_Ray.mp3
 category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
@@ -10,13 +17,14 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/038_2012.07.25.3_SridharMj_Est_tolko_odin_Ramananda_Ray.mp3
     title: Скачать аудиозапись в mp3 (13 мин 13 сек, размер 5 Мб)
+legacy:
+  title: 38. «Есть только один Рамананда Рай»
+  index: "38"
+  filename: 38-est-tolko-odin-ramananda-raj.md
 ---
-
-# 38. «Есть только один Рамананда Рай»
 
 Один брамин по имени Прадьюмна Мишра пришел к Махапрабху и попросил его, сказал: «Мне хотелось бы услышать Кришна-катху из твоих уст». Махапрабху сказал: «Я не знаю никакой Кришна-катхи, но Рамананда Рай знает. Иди к нему, ступай к нему и услышь о Кришне от него. Скажи, что я послал тебя. Он поговорит с тобой».
 

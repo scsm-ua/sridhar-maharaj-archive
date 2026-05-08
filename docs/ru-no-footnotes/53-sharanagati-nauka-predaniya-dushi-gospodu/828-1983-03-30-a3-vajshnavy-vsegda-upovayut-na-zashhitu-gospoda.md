@@ -1,5 +1,14 @@
 ---
 slug: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda
+record_id: 1983.03.30.A3
+title: Вайшнавы всегда уповают на защиту Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4801297
+  duration: 00:08:24
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.mp3
+date: 1983-03-30
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -8,7 +17,6 @@ tags:
     slug: 1983-03
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.mp3
     title: аудиозапись в MP3 (8 мин. 23 сек., 4,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 828. 1983.03.30.A3. Вайшнавы всегда уповают на защиту Господа
+  index: "828"
+  filename: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda.md
 ---
-
-# 828. 1983.03.30.A3. Вайшнавы всегда уповают на защиту Господа
 
 Нитьянанда Прабху… Его голова была разбита Джагаем и Мадхаем, и этот эпизод послужил Его (Нитьянанды) пропаганде в высшей степени. Даже Махапрабху хотел наказать их, но Нитьянанда остановил Его: «Не такого рода, — сказал Он, — в этой *аватаре* подобные действия не выглядят хорошо, они выходят за рамки обещания».
 

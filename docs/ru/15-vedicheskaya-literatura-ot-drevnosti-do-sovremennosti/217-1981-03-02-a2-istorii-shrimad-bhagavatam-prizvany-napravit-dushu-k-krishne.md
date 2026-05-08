@@ -1,5 +1,14 @@
 ---
 slug: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne
+record_id: 1981.03.02.A2
+title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5561542
+  duration: 00:10:11
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
+date: 1981-03-02
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -20,7 +29,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
     title: аудиозапись в MP3 (10 мин. 11 сек., 5,4 МБ)
@@ -28,9 +36,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 217. 1981.03.02.A2. Истории «Шримад-Бхагаватам» призваны направить душу к
+    Кришне
+  index: "217"
+  filename: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne.md
 ---
-
-# 217. 1981.03.02.A2. Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
 
 **Госвами Махарадж:** У меня был один вопрос. В «Чайтанья-чаритамрите» Махапрабху говорит Санатане: «Каждая буква «Шримад-Бхагаватам» есть Кришна». Но некоторые утверждения «Шримад-Бхагаватам» — суть утверждения Хираньякши, Хираньякашипу, некоторые утверждения Шукрачарьи, Шишупалы… Как это возможно? Мы, слыша этот звук…
 

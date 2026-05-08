@@ -1,5 +1,14 @@
 ---
 slug: 286-sushhnost-otrecheniya-gosvami-vrindava
+record_id: 1982.01.03.A
+title: Сущность отречения Госвами Вриндавана.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16583356
+  duration: 00:34:13
+  mp3: /wp-content/uploads/2012/08/286_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+date: 1982-01-03
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -20,13 +29,14 @@ tags:
     slug: sanatana-gosvami
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/286_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
     title: Скачать аудиозапись в mp3 (34 мин 13 сек, размер 16 Мб)
+legacy:
+  title: 286. Сущность отречения Госвами Вриндавана. 1982.01.03.A
+  index: "286"
+  filename: 286-sushhnost-otrecheniya-gosvami-vrindava.md
 ---
-
-# 286. Сущность отречения Госвами Вриндавана. 1982.01.03.A
 
 *#00:00:00#*
 

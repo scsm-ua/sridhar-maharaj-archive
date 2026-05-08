@@ -1,5 +1,14 @@
 ---
 slug: 533-1981-11-29-a1-vajshnav-i-varnashrama
+record_id: 1981.11.29.A1
+title: Вайшнав и варнашрама
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6691245
+  duration: 00:13:25
+  mp3: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
+date: 1981-11-29
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -30,7 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-26
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
     title: аудиозапись в MP3 (13 мин. 24 сек., 6,4 МБ)
@@ -38,9 +46,11 @@ links:
     title: транскрипцию в RTF (166 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 533. 1981.11.29.A1. Вайшнав и варнашрама
+  index: "533"
+  filename: 533-1981-11-29-a1-vajshnav-i-varnashrama.md
 ---
-
-# 533. 1981.11.29.A1. Вайшнав и варнашрама
 
 Преданный: Гуру Махарадж, сейчас остро стоит вопрос об отношениях индусов и мусульман. Мы не являемся хинду, но в каком-то смысле мы можем говорить от лица хинду. Это так?
 

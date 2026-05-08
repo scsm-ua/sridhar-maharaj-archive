@@ -1,5 +1,14 @@
 ---
 slug: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy
+record_id: 1983.11.14.B3
+title: Следует с осторожностью раскрывать публике сокровенные темы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4879830
+  duration: 00:04:12
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.mp3
+date: 1983-11-14
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.mp3
     title: аудиозапись в MP3 (4 мин. 12 сек., 4,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 379. 1983.11.14.B3. Следует с осторожностью раскрывать публике
+    сокровенные темы
+  index: "379"
+  filename: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy.md
 ---
-
-# 379. 1983.11.14.B3. Следует с осторожностью раскрывать публике сокровенные темы
 
 **Госвами Махарадж:** Вы говорили, что не нужно использовать чрезмерно часто, чересчур либерально использовать термин «*манджари*».
 

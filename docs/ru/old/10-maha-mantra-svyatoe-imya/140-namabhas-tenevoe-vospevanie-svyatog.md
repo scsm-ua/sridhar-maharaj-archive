@@ -1,5 +1,14 @@
 ---
 slug: 140-namabhas-tenevoe-vospevanie-svyatog
+record_id: 1983.04.01.A2
+title: Намабхас — теневое воспевание Святого Имени.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5954957
+  duration: 00:11:32
+  mp3: /wp-content/uploads/2012/08/140_1983.04.01.A2_SridharMj_Namabhas.mp3
+date: 1983-04-01
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
@@ -12,13 +21,14 @@ tags:
     slug: namabhas
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/140_1983.04.01.A2_SridharMj_Namabhas.mp3
     title: Скачать аудиозапись в mp3 (11 мин 32 сек, размер 6 Мб)
+legacy:
+  title: 140. Намабхас — теневое воспевание Святого Имени. 1983.04.01.A2
+  index: "140"
+  filename: 140-namabhas-tenevoe-vospevanie-svyatog.md
 ---
-
-# 140. Намабхас — теневое воспевание Святого Имени. 1983.04.01.A2
 
 *#00:00:00#*
 

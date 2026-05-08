@@ -1,12 +1,20 @@
 ---
 slug: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh
+record_id: 1982.02.17.C3
+title: Учителя могут менять форму традиции, но сохраняют ее дух
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18363224
+  duration: 00:17:44
+  mp3: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3
+date: 1982-02-17
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3
     title: аудиозапись в MP3 (17 мин. 44 сек., 17,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 296. 1982.02.17.C3. Учителя могут менять форму традиции, но сохраняют ее дух
+  index: "296"
+  filename: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh.md
 ---
-
-# 296. 1982.02.17.C3. Учителя могут менять форму традиции, но сохраняют ее дух
 
 **Шрила Шридхар Махарадж:** Вопросы от новичков?
 

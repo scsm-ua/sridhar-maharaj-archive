@@ -1,5 +1,14 @@
 ---
 slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
+record_id: 1981.03.05.A5.B1
+title: Комментарий на историю о падении Джая и Виджая с Вайкунтхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5200331
+  duration: 00:10:02
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/192_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3
+date: 1981-03-05
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/192_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3
     title: аудиозапись в MP3 (10 мин. 01 сек., 5 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/192_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 192. 1981.03.05.A5.B1. Комментарий на историю  о падении Джая и Виджая с
+    Вайкунтхи
+  index: "192"
+  filename: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi.md
 ---
-
-# 192. 1981.03.05.A5.B1. Комментарий на историю  о падении Джая и Виджая с Вайкунтхи
 
 **Госвами Махарадж:** В своей *бхашье* (комментарии) Прабхупада цитирует Парашару Муни, говорящего с Майтреей: «Не думай, что Джая и Виджая в каждом тысячелетии, эпоху, *югу* падают из Вайкунтхи и становятся *асурами*, демонами». Мы не должны думать так. Мой вопрос таков: возможно ли для *ваикунтха-баси* (или обитателей Вайкунтхи) упасть из Вайкунтхи в этот материальный, оскверненный мир? Это необычно, нетипично.
 

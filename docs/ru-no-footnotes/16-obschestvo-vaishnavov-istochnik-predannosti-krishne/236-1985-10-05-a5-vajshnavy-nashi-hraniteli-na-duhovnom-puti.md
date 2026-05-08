@@ -1,12 +1,20 @@
 ---
 slug: 236-1985-10-05-a5-vajshnavy-nashi-hraniteli-na-duhovnom-puti
+record_id: 1985.10.05.A5
+title: Вайшнавы — наши хранители на духовном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4153689
+  duration: 00:06:18
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3
+date: 1985-10-05
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1985.10"
     slug: 1985-10
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (6 мин. 17 сек., 4,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 236. 1985.10.05.A5. Вайшнавы — наши хранители на духовном пути
+  index: "236"
+  filename: 236-1985-10-05-a5-vajshnavy-nashi-hraniteli-na-duhovnom-puti.md
 ---
-
-# 236. 1985.10.05.A5. Вайшнавы — наши хранители на духовном пути
 
 Вайшнавы делают невозможное возможным. *Пара-дух̣кха-дух̣кхӣ* — их сердца плачут, сострадают таким людям, как мы. Таково их положение, такова их природа — они сочувствуют страданию мирских людей и очень хотят помочь нам. Такова сама их природа, природа вайшнавов. *Пара-дух̣кха-дух̣кхӣ*. Мы можем обрести нечто подлинное только через них, в противном случае мы не знаем, что есть что, мы может быть обмануты, и очень легко. Но посредники — они наша единственная надежда. Вайшнавы не враги, не некие чужеродные элементы, потребность в них абсолютна в нашем прогрессе в направлении к Господу.
 

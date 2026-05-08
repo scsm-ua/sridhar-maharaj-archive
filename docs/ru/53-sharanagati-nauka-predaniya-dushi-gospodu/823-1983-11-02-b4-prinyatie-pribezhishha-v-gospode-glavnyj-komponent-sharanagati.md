@@ -1,5 +1,14 @@
 ---
 slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
+record_id: 1983.11.02.B4
+title: Принятие прибежища в Господе – главный компонент шаранагати
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6423803
+  duration: 00:06:06
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
+date: 1983-11-02
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -16,7 +25,6 @@ tags:
     slug: goptritve-varana
   - title: Гоптритве варана 4
     slug: goptritve-varana-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
     title: аудиозапись в MP3 (6 мин. 05 сек., 6,2 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 823. 1983.11.02.B4. Принятие прибежища в Господе – главный компонент
+    шаранагати
+  index: "823"
+  filename: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati.md
 ---
-
-# 823. 1983.11.02.B4. Принятие прибежища в Господе – главный компонент шаранагати
 
 **Преданный:** Махарадж, я читал в одной книге, что *шаранагати* — это ментальное настроение, отношение, а *атма-ниведанам*…
 

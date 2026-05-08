@@ -1,5 +1,14 @@
 ---
 slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
+record_id: 1981.03.10.B5
+title: Гаятри призывает к служению Любви и Красоте
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4149226
+  duration: 00:06:42
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3
+date: 1981-03-10
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -22,7 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-135
   - title: Шримад-Бхагаватам 2.10.6
     slug: shrimad-bhagavatam-2-10-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 4,0 МБ)
@@ -30,11 +38,13 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 487. 1981.03.10.B5. Гаятри призывает к служению Любви и Красоте
+  index: "487"
+  filename: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote.md
 ---
 
-# 487. 1981.03.10.B5. Гаятри призывает к служению Любви и Красоте
-
-    (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’
+(йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’
     према-раса-сӣма̄ ра̄дха̄ра махима̄, джагате джа̄на̄та ке?
 [^_ftn1]
 

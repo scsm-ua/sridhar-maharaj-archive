@@ -1,5 +1,14 @@
 ---
 slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
+record_id: 1981.08.27.C1.2
+title: Духовный и социальный долг
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 791542
+  duration: 00:01:07
+  mp3: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3
+date: 1981-08-27
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +17,6 @@ tags:
     slug: 1981-08
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3
     title: аудиозапись в MP3 (1 мин. 07 сек., 0,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.pdf
     title: транскрипцию в PDF (130 КБ)
+legacy:
+  title: 543. 1981.08.27.C1.2. Духовный и социальный долг
+  index: "543"
+  filename: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg.md
 ---
-
-# 543. 1981.08.27.C1.2. Духовный и социальный долг
 
 В *шастре* мы находим:
 

@@ -1,5 +1,13 @@
 ---
 slug: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira
+title: Онтология ПР. Ч. 4.1. Забвение Господа — единственная опасность
+  материального мира
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3916032
+  duration: 00:05:35
+  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
@@ -12,7 +20,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.8.25
     slug: shrimad-bhagavatam-1-8-25
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
     title: аудиозапись в MP3 (5 мин. 35 сек., 3,8 МБ)
@@ -20,9 +27,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 408. Онтология ПР. Ч. 4.1. Забвение Господа — единственная опасность
+    материального мира
+  index: "408"
+  filename: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira.md
 ---
-
-# 408. Онтология ПР. Ч. 4.1. Забвение Господа — единственная опасность материального мира
 
 *«Онтология Прекрасной Реальности» (часть 4.1)*
 

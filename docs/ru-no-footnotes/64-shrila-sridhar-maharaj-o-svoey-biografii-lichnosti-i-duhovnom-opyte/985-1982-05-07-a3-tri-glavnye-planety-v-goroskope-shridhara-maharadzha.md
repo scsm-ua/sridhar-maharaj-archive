@@ -1,12 +1,20 @@
 ---
 slug: 985-1982-05-07-a3-tri-glavnye-planety-v-goroskope-shridhara-maharadzha
+record_id: 1982.05.07.A3
+title: Три главные планеты в гороскопе Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3467463
+  duration: 00:02:44
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.mp3
+date: 1982-05-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 3,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 985. 1982.05.07.A3. Три главные планеты в гороскопе Шридхара Махараджа
+  index: "985"
+  filename: 985-1982-05-07-a3-tri-glavnye-planety-v-goroskope-shridhara-maharadzha.md
 ---
-
-# 985. 1982.05.07.A3. Три главные планеты в гороскопе Шридхара Махараджа
 
 **Преданный:** Вы говорили, что Брихаспати — одна из планет, благоприятных по отношению к вам. Но вы нам так и не сказали, откуда этот перстень?
 

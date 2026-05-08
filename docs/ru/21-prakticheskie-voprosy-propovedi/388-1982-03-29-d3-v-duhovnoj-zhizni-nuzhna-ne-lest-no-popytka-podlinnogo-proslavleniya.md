@@ -1,5 +1,14 @@
 ---
 slug: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya
+record_id: 1982.03.29.D3
+title: В духовной жизни нужна не лесть, но попытка подлинного прославления
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4811284
+  duration: 00:04:08
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3
+date: 1982-03-29
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -12,7 +21,6 @@ tags:
     slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.71
     slug: shri-chajtanya-bhagavata-adi-khanda-1-71
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3
     title: аудиозапись в MP3 (4 мин. 07 сек., 5,6 МБ)
@@ -20,9 +28,12 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 388. 1982.03.29.D3. В духовной жизни нужна не лесть, но попытка
+    подлинного прославления
+  index: "388"
+  filename: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya.md
 ---
-
-# 388. 1982.03.29.D3. В духовной жизни нужна не лесть, но попытка подлинного прославления
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Харибол.
 

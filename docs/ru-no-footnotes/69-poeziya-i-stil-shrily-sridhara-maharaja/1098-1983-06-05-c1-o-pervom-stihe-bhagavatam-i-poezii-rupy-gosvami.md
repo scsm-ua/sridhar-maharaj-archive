@@ -1,12 +1,20 @@
 ---
 slug: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami
+record_id: 1983.06.05.C1
+title: О первом стихе «Бхагаватам» и поэзии Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4883904
+  duration: 00:09:45
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
+date: 1983-06-05
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1983.06"
     slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (9 мин. 44 сек., 4,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (118 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
+  index: "1098"
+  filename: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
 ---
-
-# 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
 
 **Преданный:** Таким образом, Бхактивинод Тхакур… его подлинная связь — через *шикшу*?
 

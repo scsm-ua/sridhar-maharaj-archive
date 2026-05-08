@@ -1,12 +1,20 @@
 ---
 slug: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami
+record_id: 1983.11.28.A1
+title: Величие кришна-катхи. История с Альварами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4799853
+  duration: 00:03:49
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
+date: 1983-11-28
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 239. 1983.11.28.A1. Величие кришна-катхи. История с Альварами
+  index: "239"
+  filename: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami.md
 ---
-
-# 239. 1983.11.28.A1. Величие кришна-катхи. История с Альварами
 
 *Кришна-катха*…
 

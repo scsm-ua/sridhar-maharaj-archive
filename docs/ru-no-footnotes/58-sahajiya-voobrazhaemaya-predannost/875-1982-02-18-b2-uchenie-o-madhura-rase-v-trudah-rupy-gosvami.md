@@ -1,12 +1,20 @@
 ---
 slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
+record_id: 1982.02.18.B2
+title: Учение о мадхура-расе в трудах Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8621824
+  duration: 00:13:25
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
+date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (13 мин. 24 сек., 8,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 875. 1982.02.18.B2. Учение о мадхура-расе в трудах Рупы Госвами
+  index: "875"
+  filename: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami.md
 ---
-
-# 875. 1982.02.18.B2. Учение о мадхура-расе в трудах Рупы Госвами
 
 *«Онтология Прекрасной Реальности» (часть 1.6)*
 

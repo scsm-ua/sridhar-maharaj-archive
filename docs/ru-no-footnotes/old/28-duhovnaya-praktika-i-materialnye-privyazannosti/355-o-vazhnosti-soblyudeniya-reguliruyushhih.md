@@ -1,18 +1,28 @@
 ---
 slug: 355-o-vazhnosti-soblyudeniya-reguliruyushhih
+record_id: 1983.04.29.B
+title: О важности соблюдения регулирующих принципов.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16805386
+  duration: 00:32:40
+  mp3: /wp-content/uploads/2012/08/355_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+date: 1983-04-29
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
   - title: "1983.04"
     slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/355_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
     title: Скачать аудиозапись в mp3 (32 мин 40 сек, размер 16 Мб)
+legacy:
+  title: 355. О важности соблюдения регулирующих принципов. 1983.04.29.B
+  index: "355"
+  filename: 355-o-vazhnosti-soblyudeniya-reguliruyushhih.md
 ---
-
-# 355. О важности соблюдения регулирующих принципов. 1983.04.29.B
 
 *#00:00:00#*
 

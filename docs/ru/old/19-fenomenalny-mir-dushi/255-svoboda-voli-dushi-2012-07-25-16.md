@@ -1,5 +1,12 @@
 ---
 slug: 255-svoboda-voli-dushi-2012-07-25-16
+title: Свобода воли души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3554417
+  duration: 00:03:52
+  mp3: /wp-content/uploads/2012/08/255_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -8,13 +15,14 @@ tags:
     slug: dusha
   - title: Свобода
     slug: svoboda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/255_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
     title: Скачать аудиозапись в mp3 (3 мин 52 сек, размер 3 Мб)
+legacy:
+  title: 255. Свобода воли души.
+  index: "255"
+  filename: 255-svoboda-voli-dushi-2012-07-25-16.md
 ---
-
-# 255. Свобода воли души.
 
 *#00:00:00#*
 

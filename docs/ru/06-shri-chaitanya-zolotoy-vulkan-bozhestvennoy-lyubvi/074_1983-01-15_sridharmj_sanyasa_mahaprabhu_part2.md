@@ -1,5 +1,14 @@
 ---
 slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
+record_id: 1983.01.15
+title: Санньяса Махапрабху, часть 2.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17525685
+  duration: 00:34:41
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
+date: 1983-01-15
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -32,7 +41,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-4-66
   - title: Шримад-Бхагаватам 4.3.23
     slug: shrimad-bhagavatam-4-3-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
     title: аудиозапись в MP3 (34 мин. 41 сек., 64 кбит/сек, 17 МБ)
@@ -40,9 +48,11 @@ links:
     title: транскрипцию в RTF (176 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.pdf
     title: транскрипцию в PDF (199 КБ)
+legacy:
+  title: 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
+  index: "074"
+  filename: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2.md
 ---
-
-# 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
 
 **Как проходил обряд принятия санньясы Махапрабху?**
 

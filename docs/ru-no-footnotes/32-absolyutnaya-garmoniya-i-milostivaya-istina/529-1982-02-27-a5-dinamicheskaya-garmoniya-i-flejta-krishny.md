@@ -1,12 +1,20 @@
 ---
 slug: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny
+record_id: 1982.02.27.A5
+title: Динамическая гармония и флейта Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5148160
+  duration: 00:05:53
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
+date: 1982-02-27
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
     title: аудиозапись в MP3 (5 мин. 53 сек., 5,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (17 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 529. 1982.02.27.A5. Динамическая гармония и флейта Кришны
+  index: "529"
+  filename: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny.md
 ---
-
-# 529. 1982.02.27.A5. Динамическая гармония и флейта Кришны
 
 *#00:33:18#*
 

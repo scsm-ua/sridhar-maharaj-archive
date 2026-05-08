@@ -1,12 +1,20 @@
 ---
 slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+record_id: 1982.02.15.B2
+title: Два аспекта гуру. Нисхождение и передача духовного знания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11966777
+  duration: 00:11:05
+  mp3: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
+date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
     title: аудиозапись в MP3 (11 мин. 07 сек., 11,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
+  index: "280"
+  filename: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
 ---
-
-# 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
 
 **Шрила Госвами Махарадж:** Духовный учитель иногда зовется *ашрая-виграха*.
 

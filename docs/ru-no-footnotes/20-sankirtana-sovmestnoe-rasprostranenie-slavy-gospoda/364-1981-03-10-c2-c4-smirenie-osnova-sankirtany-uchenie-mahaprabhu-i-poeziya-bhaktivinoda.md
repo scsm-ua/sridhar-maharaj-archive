@@ -1,5 +1,14 @@
 ---
 slug: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda
+record_id: 1981.03.10.C2.C4
+title: Смирение – основа санкиртаны. Учение Махапрабху и поэзия Бхактивинода
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3055962
+  duration: 00:05:56
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3
+date: 1981-03-10
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3
     title: аудиозапись в MP3 (5 мин. 56 сек., 3,0 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (110 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 364. 1981.03.10.C2.C4. Смирение – основа санкиртаны. Учение Махапрабху и
+    поэзия Бхактивинода
+  index: "364"
+  filename: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda.md
 ---
-
-# 364. 1981.03.10.C2.C4. Смирение – основа санкиртаны. Учение Махапрабху и поэзия Бхактивинода
 
 Характеристики вайшнава таковы, что он связан с безграничным, с тем, что не имеет предела, и по мере своего прогресса преданный находит, что он беспомощен, что он никто и ничто. Но все же он будет убежден, подобно Ньютону, в том, что «я более учен, чем вы все, потому что вы думаете, что вы исчерпали знание, а я утверждаю, что лишь стою на берегу океана знания и касаюсь этих вод. Поэтому в этом смысле я более учен, нежели вы все». Таким образом, он будет думать: «Я ничего не знаю», поскольку объект познания подобной безграничной природы. То, что они говорят, — неправда, поэтому я могу попросить их принять мою концепцию. Таким образом он может принять линию проповеди трансцендентной истины. Ты понимаешь?
 

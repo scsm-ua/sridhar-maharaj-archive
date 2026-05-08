@@ -1,12 +1,20 @@
 ---
 slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
+record_id: 1982.02.23.A2
+title: Бескомпромиссность и готовность идти до конца – основа проповеди Гаудия-матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7700928
+  duration: 00:21:30
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3
+date: 1982-02-23
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3
     title: аудиозапись в MP3 (21 мин. 30 сек., 7,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (144 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 1045. 1982.02.23.A2. Бескомпромиссность и готовность идти до конца –
+    основа проповеди Гаудия-матха
+  index: "1045"
+  filename: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
 ---
-
-# 1045. 1982.02.23.A2. Бескомпромиссность и готовность идти до конца – основа проповеди Гаудия-матха
 
 *«Мгновения Прекрасной Реальности» (часть 5.2)*
 

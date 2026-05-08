@@ -1,5 +1,14 @@
 ---
 slug: 922-1981-09-05-a1-velichie-lality-devi
+record_id: 1981.09.05.A1
+title: Величие Лалиты Деви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17353141
+  duration: 00:15:04
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.mp3
+date: 1981-09-05
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -18,7 +27,6 @@ tags:
     slug: shri-guru-parampara
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.mp3
     title: аудиозапись в MP3 (15 мин. 04 сек., 16,6 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 922. 1981.09.05.A1. Величие Лалиты Деви
+  index: "922"
+  filename: 922-1981-09-05-a1-velichie-lality-devi.md
 ---
-
-# 922. 1981.09.05.A1. Величие Лалиты Деви
 
 Рупа Госвами написал:
 

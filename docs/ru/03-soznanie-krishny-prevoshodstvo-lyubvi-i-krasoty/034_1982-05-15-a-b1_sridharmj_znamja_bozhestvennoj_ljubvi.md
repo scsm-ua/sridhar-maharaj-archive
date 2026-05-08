@@ -1,5 +1,14 @@
 ---
 slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
+record_id: 1982.05.15.A.B1
+title: Знамя божественной любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 49542122
+  duration: 00:51:16
+  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.mp3
+date: 1982-05-15
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
@@ -62,7 +71,6 @@ tags:
     slug: bhagavad-gita-18-66
   - title: Бхагавад-гита 18.65
     slug: bhagavad-gita-18-65
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.mp3
     title: аудиозапись в MP3 (51 мин. 16 сек., 47 МБ)
@@ -70,9 +78,11 @@ links:
     title: транскрипцию в RTF (218 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.pdf
     title: транскрипцию в PDF (411 КБ)
+legacy:
+  title: 034. 1982.05.15.А.В1 Знамя божественной любви
+  index: "034"
+  filename: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
 ---
-
-# 034. 1982.05.15.А.В1 Знамя божественной любви
 
 **Шрила Шридхар Махарадж:**
 

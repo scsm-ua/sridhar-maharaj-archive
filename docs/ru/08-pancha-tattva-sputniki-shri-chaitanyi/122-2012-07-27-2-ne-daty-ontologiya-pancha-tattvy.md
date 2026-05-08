@@ -1,5 +1,12 @@
 ---
 slug: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy
+title: Онтология панча-таттвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5228931
+  duration: 00:07:53
+  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -24,7 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
     title: аудиозапись в MP3 (7 мин. 52 сек., 5 МБ)
@@ -32,9 +38,12 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 122. 2012.07.27.2. (не даты). Онтология панча-таттвы
+  index: "122"
+  comment: (не даты)
+  filename: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy.md
 ---
-
-# 122. 2012.07.27.2. (не даты). Онтология панча-таттвы
 
 **Ученик:** Гуру Махарадж, не могли бы вы объяснить онтологические различия между ипостасями Панча-таттвы?
 

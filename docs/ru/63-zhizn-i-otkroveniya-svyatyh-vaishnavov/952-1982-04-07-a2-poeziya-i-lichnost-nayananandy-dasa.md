@@ -1,5 +1,14 @@
 ---
 slug: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa
+record_id: 1982.04.07.A2
+title: Поэзия и личность Наянананды Даса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6321529
+  duration: 00:03:35
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.mp3
+date: 1982-04-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -10,7 +19,6 @@ tags:
     slug: kali-ghora-timire
   - title: Кали-гхора тимире 1
     slug: kali-ghora-timire-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.mp3
     title: аудиозапись в MP3 (3 мин. 34 сек., 6,1 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 952. 1982.04.07.A2. Поэзия и личность Наянананды Даса
+  index: "952"
+  filename: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa.md
 ---
-
-# 952. 1982.04.07.A2. Поэзия и личность Наянананды Даса
 
 Не могу видеть… *Дарпане андхе киба кадже* — для того, у кого нет глаз, какой прок в зеркале? Очень-очень сладостный и глубокий смысл здесь. Наянананда. Очень сладостный.
 

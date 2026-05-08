@@ -1,5 +1,14 @@
 ---
 slug: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary
+record_id: 1982.01.25.A4.B1
+title: Градация сознания. Оппоненты Шанкары
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7064566
+  duration: 00:14:30
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/901_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
+date: 1982-01-25
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
@@ -22,7 +31,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.5.2
     slug: shrimad-bhagavatam-12-5-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/901_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
     title: аудиозапись в MP3 (14 мин. 29 сек., 6,8 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (158 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/901_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 901. 1982.01.25.A4.B1. Градация сознания. Оппоненты Шанкары
+  index: "901"
+  filename: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary.md
 ---
-
-# 901. 1982.01.25.A4.B1. Градация сознания. Оппоненты Шанкары
 
 **Шрила Шридхар Махарадж:** Что ты говоришь?
 

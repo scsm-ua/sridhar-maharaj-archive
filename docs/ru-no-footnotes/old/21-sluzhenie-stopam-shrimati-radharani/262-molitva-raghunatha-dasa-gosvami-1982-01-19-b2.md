@@ -1,5 +1,14 @@
 ---
 slug: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2
+record_id: 1982.01.19.B2
+title: Молитва Рагхунатха Даса Госвами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17410078
+  duration: 00:35:37
+  mp3: /wp-content/uploads/2012/08/262_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
+date: 1982-01-19
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -26,13 +35,14 @@ tags:
     slug: rupa-gosvami
   - title: Санатана Госвами
     slug: sanatana-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/262_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
     title: Скачать аудиозапись в mp3 (35 мин 37 сек, размер 17 Мб)
+legacy:
+  title: 262. Молитва Рагхунатха Даса Госвами. 1982.01.19.B2
+  index: "262"
+  filename: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2.md
 ---
-
-# 262. Молитва Рагхунатха Даса Госвами. 1982.01.19.B2
 
 *#00:00:00#*
 

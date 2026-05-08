@@ -1,12 +1,20 @@
 ---
 slug: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery
+record_id: 1982.05.01.B4
+title: Жить в ожидании указаний из Высшей Сферы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3704057
+  duration: 00:03:14
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
+date: 1982-05-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
     title: аудиозапись в MP3 (3 мин. 14 сек., 3,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 1023. 1982.05.01.B4. Жить в ожидании указаний из Высшей Сферы
+  index: "1023"
+  filename: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery.md
 ---
-
-# 1023. 1982.05.01.B4. Жить в ожидании указаний из Высшей Сферы
 
 Шульц — немецкий ученик — попросил нашего Гуру Махараджа, он сказал: «Как правило, в Германии мы составляем расписание на месяц вперед. Но здесь, в Индии, я хотел бы вас попросить: если бы вы составляли для меня расписание, программу на неделю вперед, мне было бы легче». На что Гуру Махарадж ответил: «Указание поступило мне пять минут тому назад, так как я мог проинформировать вас за неделю до этого события?» [Смех.] Его воля, Его желание.
 

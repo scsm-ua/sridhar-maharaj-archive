@@ -1,12 +1,20 @@
 ---
 slug: 938-1982-01-31-a2-1-vasudev-datta-i-vasudev-ghosh
+record_id: 1982.01.31.A2.1
+title: Васудев Датта и Васудев Гхош
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5200771
+  duration: 00:04:50
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.mp3
+date: 1982-01-31
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.mp3
     title: аудиозапись в MP3 (4 мин. 49 сек., 5,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 938. 1982.01.31.A2.1. Васудев Датта и Васудев Гхош
+  index: "938"
+  filename: 938-1982-01-31-a2-1-vasudev-datta-i-vasudev-ghosh.md
 ---
-
-# 938. 1982.01.31.A2.1. Васудев Датта и Васудев Гхош
 
 Пундарика Видьянидхи, Мукунда Датта, Васудева Датта — в одной деревне жили эти великие вайшнавы, последователи Махапрабху.
 

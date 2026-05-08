@@ -1,5 +1,14 @@
 ---
 slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
+record_id: 1981.03.13.A.B
+title: Где ангелы ступить не смеют
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 33273154
+  duration: 01:04:46
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
+date: 1981-03-13
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
@@ -46,7 +55,6 @@ tags:
     slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
     title: аудиозапись в MP3 (1 час 4 мин. 46 сек., 31,8 МБ)
@@ -54,9 +62,11 @@ links:
     title: транскрипцию в RTF (481 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.pdf
     title: транскрипцию в PDF (218 КБ)
+legacy:
+  title: 866. 1981.03.13.A.B. Где ангелы ступить не смеют
+  index: "866"
+  filename: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut.md
 ---
-
-# 866. 1981.03.13.A.B. Где ангелы ступить не смеют
 
 [Говорит со Шрилой Говиндой Махараджем на бенгали]
 

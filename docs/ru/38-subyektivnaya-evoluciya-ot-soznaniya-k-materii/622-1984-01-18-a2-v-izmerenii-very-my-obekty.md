@@ -1,12 +1,20 @@
 ---
 slug: 622-1984-01-18-a2-v-izmerenii-very-my-obekty
+record_id: 1984.01.18.A2
+title: В измерении веры мы — объекты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1666435
+  duration: 00:01:31
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
+date: 1984-01-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1984.01"
     slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
     title: аудиозапись в MP3 (1 мин. 31 сек., 1,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (40 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 622. 1984.01.18.A2. В измерении веры мы — объекты
+  index: "622"
+  filename: 622-1984-01-18-a2-v-izmerenii-very-my-obekty.md
 ---
-
-# 622. 1984.01.18.A2. В измерении веры мы — объекты
 
 **Преданный:** Как *шраддха* связана с внутренним опытом, внутренним переживанием?
 

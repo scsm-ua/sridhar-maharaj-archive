@@ -1,5 +1,14 @@
 ---
 slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
+record_id: 1983.11.13.B2
+title: Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10530910
+  duration: 00:09:47
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
+date: 1983-11-13
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -26,7 +35,6 @@ tags:
     slug: shri-upadeshamrita
   - title: Шри Упадешамрита 7
     slug: shri-upadeshamrita-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
     title: аудиозапись в MP3 (9 мин. 47 сек., 10,1 МБ)
@@ -34,11 +42,14 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 266. 1983.11.13.B2. Общение с вайшнавами – путь из мира заблуждений.
+    Наставления Прахлада
+  index: "266"
+  filename: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
 ---
 
-# 266. 1983.11.13.B2. Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада
-
-    ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
+ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
     ш́унийа̄чхи са̄дху гуру мукхе
 [^_ftn1]
 

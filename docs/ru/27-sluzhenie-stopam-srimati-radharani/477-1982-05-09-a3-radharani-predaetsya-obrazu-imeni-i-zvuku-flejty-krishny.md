@@ -1,5 +1,14 @@
 ---
 slug: 477-1982-05-09-a3-radharani-predaetsya-obrazu-imeni-i-zvuku-flejty-krishny
+record_id: 1982.05.09.A3
+title: Радхарани предается Образу, Имени и звуку флейты Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2579216
+  duration: 00:02:17
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/477_1982.05.09.A3_SridharMj_Radharani_predaetsja_Obrazu_Imeni_i_zvuku_flejty_Krishny.mp3
+date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/477_1982.05.09.A3_SridharMj_Radharani_predaetsja_Obrazu_Imeni_i_zvuku_flejty_Krishny.mp3
     title: аудиозапись в MP3 (2 мин. 17 сек., 2,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/477_1982.05.09.A3_SridharMj_Radharani_predaetsja_Obrazu_Imeni_i_zvuku_flejty_Krishny.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 477. 1982.05.09.A3. Радхарани предается Образу, Имени и звуку флейты Кришны
+  index: "477"
+  filename: 477-1982-05-09-a3-radharani-predaetsya-obrazu-imeni-i-zvuku-flejty-krishny.md
 ---
-
-# 477. 1982.05.09.A3. Радхарани предается Образу, Имени и звуку флейты Кришны
 
 [**Гуру Махарадж** обращается к **Шрипаду Бхакти Виджаю Тиртхе Махараджу**]: Твой *даршан* Гаура-Гададхара: каково твое впечатление?
 

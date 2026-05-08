@@ -1,12 +1,20 @@
 ---
 slug: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve
+record_id: 1982.02.24.A3
+title: Махадев о вишуддха-саттве
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2243959
+  duration: 00:01:32
+  mp3: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3
+date: 1982-02-24
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3
     title: аудиозапись в MP3 (1 мин. 32 сек., 2,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 678. 1982.02.24.А3. Махадев о вишуддха-саттве
+  index: "678"
+  filename: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve.md
 ---
-
-# 678. 1982.02.24.А3. Махадев о вишуддха-саттве
 
     [саттвам̇ виш́уддхам̇ васудева-ш́абдитам̇]
     йад ӣйате татра пума̄н апа̄вр̣тах̣

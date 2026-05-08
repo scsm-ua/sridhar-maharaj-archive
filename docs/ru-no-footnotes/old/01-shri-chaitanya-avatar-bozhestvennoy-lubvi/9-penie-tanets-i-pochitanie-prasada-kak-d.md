@@ -1,5 +1,14 @@
 ---
 slug: 9-penie-tanets-i-pochitanie-prasada-kak-d
+record_id: 1981.08.31.C3
+title: Пение, танец и почитание прасада как духовная практика, явленная Махапрабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4711978
+  duration: 00:09:31
+  mp3: /wp-content/uploads/2012/08/009_1981.08.31.C3_SridharMj_Penie_tanec_i_pochitaniye_prasada_kak_duhovnaya_praktika_yavlennaya_Mahaprabhu.mp3
+date: 1981-08-31
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +19,15 @@ tags:
     slug: mahaprabhu
   - title: Навадвип
     slug: navadvip
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/009_1981.08.31.C3_SridharMj_Penie_tanec_i_pochitaniye_prasada_kak_duhovnaya_praktika_yavlennaya_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (9 мин 31 сек, размер 4 Мб)
+legacy:
+  title: 9. Пение, танец и почитание прасада как духовная практика, явленная
+    Махапрабху. 1981.08.31.C3
+  index: "9"
+  filename: 9-penie-tanets-i-pochitanie-prasada-kak-d.md
 ---
-
-# 9. Пение, танец и почитание прасада как духовная практика, явленная Махапрабху. 1981.08.31.C3
 
 Связь с Махапрабху. Один саньяси, саньяси был гостем в доме Шачи-деви и пробовал эту мочха-гханту, блюдо из карри из банановых цветков. И вкус был настолько удивительным, что когда он находился в Махараштре и встретил там Махапрабху. Махапрабху странствовал по югу Индии, пришел в то место, и там он встретил этого Рагхава Пури, который сказал: «Да, твой старший брат Шанкараранья испустил последнее дыхание в том месте».
 

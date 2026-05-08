@@ -1,12 +1,20 @@
 ---
 slug: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha
+record_id: 1982.11.02.A2
+title: История открытия и слава Шривас-ангама во времена Бхактивинода и Гаудия Матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9320803
+  duration: 00:06:42
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.mp3
+date: 1982-11-02
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.mp3
     title: аудиозапись в MP3 (6 мин. 42 сек., 8,9 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 965. 1982.11.02.A2. История открытия и слава Шривас-ангама во времена
+    Бхактивинода и Гаудия Матха
+  index: "965"
+  filename: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha.md
 ---
-
-# 965. 1982.11.02.A2. История открытия и слава Шривас-ангама во времена Бхактивинода и Гаудия Матха
 
 Маяпур находится рядом с Баладхи(?), там упоминается это обстоятельство, дом Махапрабху.
 

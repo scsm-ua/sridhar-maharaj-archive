@@ -1,12 +1,20 @@
 ---
 slug: 1057-1982-09-05-b4-istoriya-o-nahodke-vasudeva-murti-v-londone-b-sh-gosvami-maharadzhem
+record_id: 1982.09.05.B4
+title: История о находке Васудева-мурти в Лондоне Б.Ш. Госвами Махараджем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5261500
+  duration: 00:09:54
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3
+date: 1982-09-05
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.09"
     slug: 1982-09
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3
     title: аудиозапись в MP3 (9 мин. 53 сек., 5,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.pdf
     title: транскрипцию в PDF (130 КБ)
+legacy:
+  title: 1057. 1982.09.05.B4.  История о находке Васудева-мурти в Лондоне Б.Ш.
+    Госвами Махараджем
+  index: "1057"
+  filename: 1057-1982-09-05-b4-istoriya-o-nahodke-vasudeva-murti-v-londone-b-sh-gosvami-maharadzhem.md
 ---
-
-# 1057. 1982.09.05.B4.  История о находке Васудева-мурти в Лондоне Б.Ш. Госвами Махараджем
 
 Когда с Бхакти Шарангой Госвами Махараджем приехали двое немцев… Точнее, нет, это был один англичанин. В районе Багх Базара в лекционном зале было устроено собрание. И один известный ученый-теософ — Хиран Датта — был приглашен председательствовать на этом собрании. Он сказал: «Когда я был студентом калькуттского колледжа, однажды Бхактивинода Тхакур читал лекцию там. И он упомянул, что уже не за горами то время, когда сюда будут приезжать западные люди и присоединяться к *санкиртане*, принимать движение Гаура-Нитьянанды. И я вижу, что сейчас, через несколько лет, это стало проявляться, стало приносить плоды. Предсказание сбывается». На том собрании он сделал такое утверждение.
 

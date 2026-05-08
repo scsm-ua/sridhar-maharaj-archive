@@ -1,5 +1,14 @@
 ---
 slug: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti
+record_id: 1981.03.02.A3.B1
+title: Искренность и голос совести на духовном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8588528
+  duration: 00:16:05
+  mp3: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
+date: 1981-03-02
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
     slug: shri-chajtanya-charitamrita-madhya-lila-17-172
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (16 мин. 04 сек., 8,2 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 730. 1981.03.02.A3.B1. Искренность и голос совести на духовном пути
+  index: "730"
+  filename: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti.md
 ---
-
-# 730. 1981.03.02.A3.B1. Искренность и голос совести на духовном пути
 
 **Госвами Махарадж:** Ради служения Махапрабху мы должны заниматься многочисленными делами в материальном мире, поэтому трудно сохранять наше сознание чистым и свободным от личных мотивов.
 

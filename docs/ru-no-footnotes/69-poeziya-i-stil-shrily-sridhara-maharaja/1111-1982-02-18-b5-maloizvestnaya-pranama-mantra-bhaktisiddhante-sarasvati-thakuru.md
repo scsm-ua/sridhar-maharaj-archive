@@ -1,12 +1,20 @@
 ---
 slug: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru
+record_id: 1982.02.18.B5
+title: Малоизвестная пранама-мантра Бхактисиддханте Сарасвати Тхакуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7328832
+  duration: 00:14:50
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
+date: 1982-02-18
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
     title: аудиозапись в MP3 (14 мин. 50 сек., 7,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (161 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 1111. 1982.02.18.B5. Малоизвестная пранама-мантра Бхактисиддханте
+    Сарасвати Тхакуру
+  index: "1111"
+  filename: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru.md
 ---
-
-# 1111. 1982.02.18.B5. Малоизвестная пранама-мантра Бхактисиддханте Сарасвати Тхакуру
 
 *«Онтология Прекрасной Реальности» (часть 1.10)*
 

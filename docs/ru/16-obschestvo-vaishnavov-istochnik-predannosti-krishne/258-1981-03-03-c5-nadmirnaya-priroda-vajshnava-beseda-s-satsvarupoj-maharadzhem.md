@@ -1,5 +1,14 @@
 ---
 slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
+record_id: 1981.03.03.C5
+title: Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14473298
+  duration: 00:27:23
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
+date: 1981-03-03
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -30,7 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-17-172
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.194
     slug: shri-chajtanya-charitamrita-madhya-lila-9-194
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
     title: аудиозапись в MP3 (27 мин. 23 сек., 13,9 МБ)
@@ -38,9 +46,12 @@ links:
     title: транскрипцию в RTF (271 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.pdf
     title: транскрипцию в PDF (179 КБ)
+legacy:
+  title: 258. 1981.03.03.C5. Надмирная природа вайшнава. Беседа с Сатсварупой
+    Махараджем
+  index: "258"
+  filename: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem.md
 ---
-
-# 258. 1981.03.03.C5. Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем
 
 **Преданный:** Я думаю, что нам сейчас надо идти, и мы вернемся.
 

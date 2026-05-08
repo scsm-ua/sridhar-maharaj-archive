@@ -1,5 +1,14 @@
 ---
 slug: 596-1982-04-16-c8-d1-shiva-rudra-i-sada-shiva-kak-urovni-osvobozhdeniya-dushi
+record_id: 1982.04.16.C8.D1
+title: Шива-Рудра и Сада-Шива как уровни освобождения души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10547691
+  duration: 00:09:17
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.mp3
+date: 1982-04-16
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -24,7 +33,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 7.5
     slug: bhagavad-gita-7-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.mp3
     title: аудиозапись в MP3 (9 мин. 17 сек., 10,1 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 596. 1982.04.16.C8.D1. Шива-Рудра и Сада-Шива как уровни освобождения души
+  index: "596"
+  filename: 596-1982-04-16-c8-d1-shiva-rudra-i-sada-shiva-kak-urovni-osvobozhdeniya-dushi.md
 ---
-
-# 596. 1982.04.16.C8.D1. Шива-Рудра и Сада-Шива как уровни освобождения души
 
 **Преданный:** Махарадж, Господь Шива — это личность или пост?
 

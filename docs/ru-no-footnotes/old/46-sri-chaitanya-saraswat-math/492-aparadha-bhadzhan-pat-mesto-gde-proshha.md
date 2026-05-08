@@ -1,5 +1,13 @@
 ---
 slug: 492-aparadha-bhadzhan-pat-mesto-gde-proshha
+title: Апарадха-бхаджан-пат — место, где прощаются все грехи. Мгновения
+  прекрасной реальности, часть 2.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4955432
+  duration: 00:06:22
+  mp3: /wp-content/uploads/2012/08/492_MgnoveniyaPR_2.4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
 category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
@@ -10,13 +18,15 @@ tags:
     slug: greh
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/492_MgnoveniyaPR_2.4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
     title: Скачать аудиозапись в mp3 (6 мин 22 сек, размер 5 Мб)
+legacy:
+  title: 492. Апарадха-бхаджан-пат — место, где прощаются все грехи. Мгновения
+    прекрасной реальности, часть 2.4
+  index: "492"
+  filename: 492-aparadha-bhadzhan-pat-mesto-gde-proshha.md
 ---
-
-# 492. Апарадха-бхаджан-пат — место, где прощаются все грехи. Мгновения прекрасной реальности, часть 2.4
 
 **Шрила Шридхар Махарадж:** Эта земля находится в особом месте.
 

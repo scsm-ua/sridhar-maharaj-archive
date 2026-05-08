@@ -1,5 +1,14 @@
 ---
 slug: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti
+record_id: 1982.02.22.A2
+title: Нрисимхадев – устранитель препятствий на пути преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2719650
+  duration: 00:02:09
+  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev--ustranitel_prepjatstvij_na_puti_predannosti.mp3
+date: 1982-02-22
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Нарасимха
     slug: narasimha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev--ustranitel_prepjatstvij_na_puti_predannosti.mp3
     title: аудиозапись в MP3 (2 мин. 9 сек., 2,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev_-_ustranitel_prepjatstvij_na_puti_predannosti.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 155. 1982.02.22.A2. Нрисимхадев – устранитель препятствий на пути преданности
+  index: "155"
+  filename: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti.md
 ---
-
-# 155. 1982.02.22.A2. Нрисимхадев – устранитель препятствий на пути преданности
 
 **Преданный:** Махарадж, какую роль Господь Нрисимхадев играет в жизни преданности, помогает ли Он нам обрести чистую *бхакти*?
 

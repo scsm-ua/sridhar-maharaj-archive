@@ -1,12 +1,20 @@
 ---
 slug: 927-1982-04-27-a-b1-istoriya-valmiki-rishi
+record_id: 1982.04.27.A.B1
+title: История Вальмики Риши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15700113
+  duration: 00:13:21
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/927_1982.04.27.A.B1_SridharMj_Istorija_Valmiki_Rishi.mp3
+date: 1982-04-27
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/927_1982.04.27.A.B1_SridharMj_Istorija_Valmiki_Rishi.mp3
     title: аудиозапись в MP3 (13 мин. 21 сек., 15,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (110 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/927_1982.04.27.A.B1_SridharMj_Istorija_Valmiki_Rishi.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 927. 1982.04.27.A.B1. История Вальмики Риши
+  index: "927"
+  filename: 927-1982-04-27-a-b1-istoriya-valmiki-rishi.md
 ---
-
-# 927. 1982.04.27.A.B1. История Вальмики Риши
 
 И он [Лакшман] приводит доказательство, подтверждение: [Часть шлоки] Когда младший брат появляется в материнском лоне, тогда молока материнской груди лишается старший брат. [Часть шлоки]. Когда младший брат появляется на свет, то он захватывает материнские колени, лишает их старшего брата. [Часть шлоки]. А когда он подрастает, то он начинает требовать долю наследства. [Часть шлоки]. Поэтому нет другого большего врага, нежели брат.
 

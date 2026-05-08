@@ -1,18 +1,28 @@
 ---
 slug: 333-trudnosti-i-duhovnyj-put-1983-02-12-a
+record_id: 1983.02.12.A
+title: Трудности и духовный путь.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15440926
+  duration: 00:31:34
+  mp3: /wp-content/uploads/2012/08/333_1983.02.12_SridharMj_Trudnosti_i_duhovniy_put.mp3
+date: 1983-02-12
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
   - title: "1983.02"
     slug: 1983-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/333_1983.02.12_SridharMj_Trudnosti_i_duhovniy_put.mp3
     title: Скачать аудиозапись в mp3 (31 мин 34 сек, размер 15 Мб)
+legacy:
+  title: 333. Трудности и духовный путь. 1983.02.12.A
+  index: "333"
+  filename: 333-trudnosti-i-duhovnyj-put-1983-02-12-a.md
 ---
-
-# 333. Трудности и духовный путь. 1983.02.12.A
 
 *#00:00:00#*
 

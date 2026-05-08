@@ -1,5 +1,14 @@
 ---
 slug: 326-transtsendentnoe-videnie-shrily-gaura
+record_id: 1981.08.30.A3
+title: Трансцендентное видение Шрилы Гауракишора Бабаджи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4800230
+  duration: 00:04:48
+  mp3: /wp-content/uploads/2012/08/326_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
+date: 1981-08-30
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
@@ -10,13 +19,14 @@ tags:
     slug: garmoniya
   - title: Гауракишор Бабаджи
     slug: gaurakishor-babadzhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/326_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
     title: Скачать аудиозапись в mp3 (4 мин 48 сек, размер 4 Мб)
+legacy:
+  title: 326. Трансцендентное видение Шрилы Гауракишора Бабаджи. 1981.08.30.A3
+  index: "326"
+  filename: 326-transtsendentnoe-videnie-shrily-gaura.md
 ---
-
-# 326. Трансцендентное видение Шрилы Гауракишора Бабаджи. 1981.08.30.A3
 
 Подобно лебедю, хамсе, который…? Да, лебедь, который извлекает молоко, отделяет молоко от воды. Когда мы достигаем определенного измерения. Скажем, Гаура Кишор Бабаджи Махарадж, Гуру нашего Прабхупада, Гуру Махараджа, он полуодетый, полунагой и с отвращающей или отвратительной внешностью просил подаяние.
 

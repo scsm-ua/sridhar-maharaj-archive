@@ -1,12 +1,20 @@
 ---
 slug: 1091-1981-03-07-b5-moj-mahaprabhu-svyazan-s-amerikoj
+record_id: 1981.03.07.B5
+title: «Мой Махапрабху связан с Америкой»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5851082
+  duration: 00:04:16
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3
+date: 1981-03-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 5,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 1091. 1981.03.07.B5. «Мой Махапрабху связан с Америкой»
+  index: "1091"
+  filename: 1091-1981-03-07-b5-moj-mahaprabhu-svyazan-s-amerikoj.md
 ---
-
-# 1091. 1981.03.07.B5. «Мой Махапрабху связан с Америкой»
 
 Какой *прасадам* вы приняли? Я тоже немножко поел, потому что я верю, что Махапрабху дарит вам *прасад*. Вы столь искренни, приехали сюда издалека на землю Махапрабху. Однозначно, Он дарит вам *прасад*, и я хочу принять остатки этого *прасада*. И мой Махапрабху связан с Америкой. Конечно, с самого начала интуитивно я чувствовал симпатию к немцам. Америка — это смешанная нация, представители разных народов.
 

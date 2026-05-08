@@ -1,5 +1,14 @@
 ---
 slug: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi
+record_id: 1983.01.30.A1
+title: Метод для обретения связи с высшим миром.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6483174
+  duration: 00:13:19
+  mp3: /wp-content/uploads/2012/08/233_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi-s_vysshim_mirom.mp3
+date: 1983-01-30
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Духовный мир
     slug: duhovnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/233_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi-s_vysshim_mirom.mp3
     title: Скачать аудиозапись в mp3 (13 мин 19 сек, размер 6 Мб)
+legacy:
+  title: 233. Метод для обретения связи с высшим миром. 1983.01.30.A1
+  index: "233"
+  filename: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi.md
 ---
-
-# 233. Метод для обретения связи с высшим миром. 1983.01.30.A1
 
 *#00:00:00#*
 

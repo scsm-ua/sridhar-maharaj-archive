@@ -1,5 +1,13 @@
 ---
 slug: 374-obshhestvo-sadhu-i-svyashhennye-pisaniya-o
+title: Общество садху и священные писания — основа духовного здоровья. Онтология
+  прекрасной реальности, часть 7.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6835838
+  duration: 00:04:10
+  mp3: /wp-content/uploads/2012/08/374_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
 category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
@@ -8,13 +16,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/374_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
     title: Скачать аудиозапись в mp3 (4 мин 10 сек, размер 6 Мб)
+legacy:
+  title: 374. Общество садху и священные писания — основа духовного здоровья.
+    Онтология прекрасной реальности, часть 7.4
+  index: "374"
+  filename: 374-obshhestvo-sadhu-i-svyashhennye-pisaniya-o.md
 ---
-
-# 374. Общество садху и священные писания — основа духовного здоровья. Онтология прекрасной реальности, часть 7.4
 
 **Ученик:** Мы происходим из низкой среды, очень деградированной среды, то иногда вновь нас привлекают эти низменные реалии, грязные, низкие вещи. Как мы можем, очень быстро, очиститься, обрубить связь с этими низменными реалиями и достичь платформы чистоты?
 

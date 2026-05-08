@@ -1,5 +1,14 @@
 ---
 slug: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity
+record_id: 1982.07.04.A3
+title: Объяснение стиха о славе «Бхагавад-гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2408877
+  duration: 00:01:49
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3
+date: 1982-07-04
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -10,7 +19,6 @@ tags:
     slug: gitamahatmjam
   - title: Гитамахатмйам 6
     slug: gitamahatmjam-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (1 мин. 48 сек., 2,3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 219. 1982.07.04.A3. Объяснение стиха о славе «Бхагавад-гиты»
+  index: "219"
+  filename: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity.md
 ---
-
-# 219. 1982.07.04.A3. Объяснение стиха о славе «Бхагавад-гиты»
 
 [Преданный говорит на бенгали.]
 

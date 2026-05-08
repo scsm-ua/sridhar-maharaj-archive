@@ -1,5 +1,14 @@
 ---
 slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
+record_id: 1982.02.21.B2
+title: Религия означает «правильное самоопределение»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5789688
+  duration: 00:08:31
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
+date: 1982-02-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -20,7 +29,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
     title: аудиозапись в MP3 (8 мин. 31 сек., 5,6 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
+  index: "574"
+  filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
 ---
-
-# 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
 
 Мгновения Прекрасной Реальности (часть 2.2)
 

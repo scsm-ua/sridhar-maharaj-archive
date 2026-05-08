@@ -1,5 +1,14 @@
 ---
 slug: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru
+record_id: 1981.03.02.A1
+title: Три типа Гуру. Трансформация восприятия Гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8001390
+  duration: 00:13:54
+  mp3: /dl/17._Shri_Guru_i_ego_milost/282_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
+date: 1981-03-02
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/282_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
     title: аудиозапись в MP3 (13 мин. 53 сек., 7,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/282_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 282. 1981.03.02.A1. Три типа Гуру. Трансформация восприятия Гуру
+  index: "282"
+  filename: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru.md
 ---
-
-# 282. 1981.03.02.A1. Три типа Гуру. Трансформация восприятия Гуру
 
 **Госвами Махарадж:** Когда я приезжал к вам в прошлом…
 

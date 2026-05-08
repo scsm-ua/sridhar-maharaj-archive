@@ -1,5 +1,14 @@
 ---
 slug: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda
+record_id: 1982.02.26.A2.B1
+title: Объяснение понятия ачйута-готра (семья Господа)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9152062
+  duration: 00:08:21
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3
+date: 1982-02-26
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в DOCX (21 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 238. 1982.02.26.A2.B1. Объяснение понятия ачйута-готра (семья Господа)
+  index: "238"
+  filename: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda.md
 ---
-
-# 238. 1982.02.26.A2.B1. Объяснение понятия ачйута-готра (семья Господа)
 
 **Преданный:** Я бы хотел задать вопрос. Я бы хотел узнать: каков смысл выражения *ачьюта-готра*?
 

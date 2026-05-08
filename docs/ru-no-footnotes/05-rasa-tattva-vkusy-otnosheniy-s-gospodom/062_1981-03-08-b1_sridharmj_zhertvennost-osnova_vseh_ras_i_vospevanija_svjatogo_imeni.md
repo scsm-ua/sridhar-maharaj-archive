@@ -1,5 +1,14 @@
 ---
 slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
+record_id: 1981.03.08.B1
+title: Жертвенность — основа всех рас и воспевания Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7281088
+  duration: 00:09:51
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.mp3
+date: 1981-03-08
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (9 мин. 50 сек., 64 кбит/сек, 6.9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 062. 1981.03.08.B1 Жертвенность — основа всех рас и воспевания Святого Имени
+  index: "062"
+  filename: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni.md
 ---
-
-# 062. 1981.03.08.B1 Жертвенность — основа всех рас и воспевания Святого Имени
 
 **Преданный:** *Майя* представляет ловушку в той форме, что она предлагает, взаимоотношения, которые не чисты. Это *майя*?
 

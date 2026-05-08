@@ -1,5 +1,14 @@
 ---
 slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
+record_id: 1982.07.29.A.B1
+title: Субъективная и многомерная космология «Шримад Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25699584
+  duration: 00:25:48
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
+date: 1982-07-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -26,7 +35,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 15.2
     slug: bhagavad-gita-15-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (25 мин. 47 сек., 24,6 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (195 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (178 КБ)
+legacy:
+  title: 637. 1982.07.29.A.B1. Субъективная и многомерная космология «Шримад
+    Бхагаватам»
+  index: "637"
+  filename: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam.md
 ---
-
-# 637. 1982.07.29.A.B1. Субъективная и многомерная космология «Шримад Бхагаватам»
 
 **Шрила Шридхар Махарадж:** Вишнупад Дас — ученик Бхавананды Свами. Он прочитал книги Садананды Брахмачари (нашего духовного брата). Книги написаны в соавторстве Садананды и другого джентльмена. И он говорит, что они представили «Бхагаватам» в определенном свете, а ИСККОН — в другом, и существуют различия в их подходе, в их описаниях.
 

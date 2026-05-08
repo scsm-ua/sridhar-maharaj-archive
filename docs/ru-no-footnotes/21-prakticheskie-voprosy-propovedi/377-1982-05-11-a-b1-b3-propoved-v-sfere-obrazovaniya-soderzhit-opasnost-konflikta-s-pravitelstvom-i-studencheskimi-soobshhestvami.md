@@ -1,5 +1,15 @@
 ---
 slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
+record_id: 1982.05.11.A.B1.B3
+title: Проповедь в сфере образования содержит опасность конфликта с
+  правительством и студенческими сообществами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18343967
+  duration: 00:18:14
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
+date: 1982-05-11
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +18,6 @@ tags:
     slug: 1982-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
     title: аудиозапись в MP3 (18 мин. 13 сек., 17,5 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 377. 1982.05.11.A.B1.B3. Проповедь в сфере образования содержит опасность
+    конфликта с правительством и студенческими сообществами
+  index: "377"
+  filename: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami.md
 ---
-
-# 377. 1982.05.11.A.B1.B3. Проповедь в сфере образования содержит опасность конфликта с правительством и студенческими сообществами
 
 **Шрила Шридхар Махарадж:** Ты хотел поговорить о его предполагаемом университете, да?
 

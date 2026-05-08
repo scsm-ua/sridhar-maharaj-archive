@@ -1,18 +1,28 @@
 ---
 slug: 172-prevratnoe-istolkovanie-ucheniya-vajsh
+title: Превратное истолкование учения вайшнавов материалистами. Мгновения
+  прекрасной реальности, часть 1.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4603208
+  duration: 00:06:33
+  mp3: /wp-content/uploads/2012/08/172_MgnoveniyaPR_1.4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/172_MgnoveniyaPR_1.4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
     title: Скачать аудиозапись в mp3 (6 мин 33 сек, размер 4 Мб)
+legacy:
+  title: 172. Превратное истолкование учения вайшнавов материалистами. Мгновения
+    прекрасной реальности, часть 1.4
+  index: "172"
+  filename: 172-prevratnoe-istolkovanie-ucheniya-vajsh.md
 ---
-
-# 172. Превратное истолкование учения вайшнавов материалистами. Мгновения прекрасной реальности, часть 1.4
 
 **Слушатель:** Махарадж, Маханам Врата *брахмачари*, однажды, он объяснял, однажды он давал лекцию, в которой говорил, что следовать Гуру, наставлениям Гуру…
 

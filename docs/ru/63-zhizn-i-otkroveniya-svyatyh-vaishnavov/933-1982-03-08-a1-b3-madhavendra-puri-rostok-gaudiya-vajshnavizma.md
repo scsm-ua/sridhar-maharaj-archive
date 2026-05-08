@@ -1,5 +1,14 @@
 ---
 slug: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma
+record_id: 1982.03.08.A1.B3
+title: Мадхавендра Пури – росток гаудия-вайшнавизма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 51284740
+  duration: 00:50:25
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3
+date: 1982-03-08
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -26,7 +35,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3
     title: аудиозапись в MP3 (50 мин. 25 сек., 49,0 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в DOCX (42 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 933. 1982.03.08.A1.B3. Мадхавендра Пури – росток гаудия-вайшнавизма
+  index: "933"
+  filename: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma.md
 ---
-
-# 933. 1982.03.08.A1.B3. Мадхавендра Пури – росток гаудия-вайшнавизма
 
 Уход Мадхавендры Пури, *брахма-мадхава-сампрадайя*. Первую связь с *гаудия-*теизмом в *брахма-мадхава*—*сампрадайе* мы находим в личности Мадхавендры Пури. Мадхавендра Пури был связан с *мадхава*—*сампрадайей*, это ясно, это очевидно. Впервые мы прослеживаем семя *рага-бхакти* в личности Мадхавендры Пури. Его знаменитая *шлока*, которую Сам Махапрабху произносил и переживал ее вкус (во время своего ухода из этого мира, считается, Мадхавендра Пури думал в линии этой станзы):
 

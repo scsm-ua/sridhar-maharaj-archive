@@ -1,5 +1,14 @@
 ---
 slug: 34-slava-ekachakry-mesta-yavleniya-shri-nit
+record_id: 1982.01.13.A2
+title: Слава Экачакры, места явления Шри Нитьянанды Прабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16907672
+  duration: 00:35:00
+  mp3: /wp-content/uploads/2012/08/034_1982.01.13.A2_SridharMj_Slava_Ekochakry_mesta_yavleniya_Shri_Nityanandy.mp3
+date: 1982-01-13
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -12,13 +21,14 @@ tags:
     slug: nityananda-prabhu
   - title: Харидас Тхакур
     slug: haridas-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/034_1982.01.13.A2_SridharMj_Slava_Ekochakry_mesta_yavleniya_Shri_Nityanandy.mp3
     title: Скачать аудиозапись в mp3 (35 мин 0 сек, размер 16 Мб)
+legacy:
+  title: 34. Слава Экачакры, места явления Шри Нитьянанды Прабху. 1982.01.13.A2
+  index: "34"
+  filename: 34-slava-ekachakry-mesta-yavleniya-shri-nit.md
 ---
-
-# 34. Слава Экачакры, места явления Шри Нитьянанды Прабху. 1982.01.13.A2
 
 Если возможно, я хотел бы, чтобы вы побывали в Экачакре, в месте рождения Нитьянанды Прабху. Махапрабху возложил всю ответственность проповеди в Гаура-мандале на плечи Нитьянанды Прабху. И он прилагал максимум усилий. Он совершал непостижимую, немыслимую проповедь от имени Гауранги. Вы можете сами получить такой опыт. Если вы выйдете на улицу с проповедью, то люди будут лаять, люди будут бросаться на вас, словно собаки.
 

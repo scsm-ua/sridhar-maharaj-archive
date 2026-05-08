@@ -1,5 +1,14 @@
 ---
 slug: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane
+record_id: 1982.07.08.A2
+title: Махапрабху возложил на Санатану Госвами заботу о преданных во Вриндаване
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5493550
+  duration: 00:02:43
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3
+date: 1982-07-08
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.183
     slug: shri-chajtanya-charitamrita-madhya-lila-25-183
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 5,3 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 946. 1982.07.08.A2. Махапрабху возложил на Санатану Госвами заботу о
+    преданных во Вриндаване
+  index: "946"
+  filename: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane.md
 ---
-
-# 946. 1982.07.08.A2. Махапрабху возложил на Санатану Госвами заботу о преданных во Вриндаване
 
 *Бхакта-сева*. Махапрабху возложил бремя ответственности за преданных на плечи Санатаны Госвами. Он попросил его заботиться о преданных.
 

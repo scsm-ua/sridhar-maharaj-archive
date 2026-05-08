@@ -1,5 +1,14 @@
 ---
 slug: 1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno
+record_id: 1983.11.02.A3
+title: Использование фисгармонии нежелательно
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3472478
+  duration: 00:01:47
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.mp3
+date: 1983-11-02
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
@@ -10,7 +19,6 @@ tags:
     slug: shri-prarthana
   - title: Шри Прартхана 4.2
     slug: shri-prarthana-4-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.mp3
     title: аудиозапись в MP3 (1 мин. 47 сек., 3,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (49 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 1093. 1983.11.02.A3. Использование фисгармонии нежелательно
+  index: "1093"
+  filename: 1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno.md
 ---
-
-# 1093. 1983.11.02.A3. Использование фисгармонии нежелательно
 
 **Преданный:** Махарадж! Может быть, это не самый важный вопрос, но, когда мы поем *бхаджаны*, использование гармони, фисгармонии…
 

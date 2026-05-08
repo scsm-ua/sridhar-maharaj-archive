@@ -1,5 +1,14 @@
 ---
 slug: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti
+record_id: 1982.04.16.B6
+title: Непривязанность к материи и форма поклонения зависят от уровня преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5519642
+  duration: 00:04:45
+  mp3: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.mp3
+date: 1982-04-16
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 5,3 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 808. 1982.04.16.B6. Непривязанность к материи и форма поклонения зависят
+    от уровня преданности
+  index: "808"
+  filename: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti.md
 ---
-
-# 808. 1982.04.16.B6. Непривязанность к материи и форма поклонения зависят от уровня преданности
 
 **Джаятиртха Махарадж:** Если кто-то, идущий по пути преданности, слишком озабочен внешними вещами и утрачивает внутреннюю искренность или внутреннее стремление к этому явлению (сознанию Кришны), то как он может избавиться от подобной тенденции?
 

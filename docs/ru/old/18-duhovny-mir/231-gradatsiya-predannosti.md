@@ -1,5 +1,12 @@
 ---
 slug: 231-gradatsiya-predannosti
+title: Градация преданности. Мгновения прекрасной реальности, часть 7.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5026752
+  duration: 00:10:17
+  mp3: /wp-content/uploads/2012/08/231_MgnoveniyaPR_7.2_SridharMj_Gradaciya_predannosti.mp3
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
@@ -26,13 +33,14 @@ tags:
     slug: hanuman
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/231_MgnoveniyaPR_7.2_SridharMj_Gradaciya_predannosti.mp3
     title: Скачать аудиозапись в mp3 (10 мин 17 сек, размер 5 Мб)
+legacy:
+  title: 231. Градация преданности. Мгновения прекрасной реальности, часть 7.2
+  index: "231"
+  filename: 231-gradatsiya-predannosti.md
 ---
-
-# 231. Градация преданности. Мгновения прекрасной реальности, часть 7.2
 
 **Ученик:** На *Шива-локе* присутствует *гьяна-шунья-бхакти*?
 

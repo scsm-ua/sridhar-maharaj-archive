@@ -1,12 +1,20 @@
 ---
 slug: 318-1982-07-02-b4-zvanie-eto-banknota-a-chelovek-eto-zoloto
+record_id: 1982.07.02.B4
+title: Звание – это банкнота, а человек – это золото
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6059437
+  duration: 00:04:55
+  mp3: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.mp3
+date: 1982-07-02
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.mp3
     title: аудиозапись в MP3 (4 мин. 55 сек., 5,8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 318. 1982.07.02.B4. Звание – это банкнота, а человек – это золото
+  index: "318"
+  filename: 318-1982-07-02-b4-zvanie-eto-banknota-a-chelovek-eto-zoloto.md
 ---
-
-# 318. 1982.07.02.B4. Звание – это банкнота, а человек – это золото
 
 **Преданный:** Махарадж, духовный учитель, Гуру, обучая своих учеников, должен учить своих учеников оказывать почтение Гуру, рассматривать его равным Богу. Каким должно быть основание, как Гуру должен понимать соответственно его положению, его внутреннему *адхикару*, качествам, пригодности уровень поклонения, который совершают ученики и степень уважения и почтения?
 

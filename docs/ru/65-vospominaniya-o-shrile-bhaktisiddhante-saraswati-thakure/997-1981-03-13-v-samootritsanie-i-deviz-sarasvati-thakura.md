@@ -1,5 +1,14 @@
 ---
 slug: 997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura
+record_id: 1981.03.13.B
+title: Самоотрицание и девиз Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7204612
+  duration: 00:14:47
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.mp3
+date: 1981-03-13
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -18,7 +27,6 @@ tags:
     slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (14 мин. 46 сек., 6,9 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (151 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 997. 1981.03.13.В. Самоотрицание и девиз Сарасвати Тхакура
+  index: "997"
+  filename: 997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura.md
 ---
-
-# 997. 1981.03.13.В. Самоотрицание и девиз Сарасвати Тхакура
 
 «Я — сказал он [Шрила Бхактивинод Тхакур] — подметальщик в *нама-хатте* Нитьянанды Прабху». А Прабхупад сказал: «Я — одна из хворостинок в этой метле в руках Бхактивинода Тхакура. Бхактивинод Тхакур *джамондар(?)* — глава, подметальщик, в руках его метла, а я одна их хворостинок в этой метле». И если он искренен, если это замечание сделано искренне, не является имитацией или каким-то ложным самоутверждением, если он искренен в своей самооценке, то на основании этого утверждения мы можем понять, какова единица измерения того материала, из которого наше тело может состоять для того, чтобы мы вступили в Голоку и присоединились к лагерю *браджабаси*.
 

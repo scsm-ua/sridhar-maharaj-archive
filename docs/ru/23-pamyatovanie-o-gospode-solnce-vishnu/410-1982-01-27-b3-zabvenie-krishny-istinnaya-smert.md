@@ -1,5 +1,14 @@
 ---
 slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
+record_id: 1982.01.27.B3
+title: Забвение Кришны — истинная смерть
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4512296
+  duration: 00:06:50
+  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
+date: 1982-01-27
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
@@ -26,7 +35,6 @@ tags:
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 7.15.25
     slug: shrimad-bhagavatam-7-15-25
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
     title: аудиозапись в MP3 (6 мин. 49 сек., 4,4 МБ)
@@ -34,11 +42,13 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
+  index: "410"
+  filename: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
 ---
 
-# 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
-
-    ко ну ра̄джанн индрийава̄н
+ко ну ра̄джанн индрийава̄н
     мукунда-чаран̣а̄мбуджам
     на бхаджет сарвато-мр̣тйур
     упа̄сйам амароттамаих̣

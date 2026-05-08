@@ -1,12 +1,20 @@
 ---
 slug: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru
+record_id: 1982.01.26.B2
+title: Пранама-мантра Шриле Сарасвати Тхакуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6307318
+  duration: 00:11:54
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
+date: 1982-01-26
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
     title: аудиозапись в MP3 (11 мин. 53 сек., 6,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (130 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 1002. 1982.01.26.B2. Пранама-мантра Шриле Сарасвати Тхакуру
+  index: "1002"
+  filename: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
 ---
-
-# 1002. 1982.01.26.B2. Пранама-мантра Шриле Сарасвати Тхакуру
 
 **Преданный:** Махарадж, эта женщина занимается типографией?
 

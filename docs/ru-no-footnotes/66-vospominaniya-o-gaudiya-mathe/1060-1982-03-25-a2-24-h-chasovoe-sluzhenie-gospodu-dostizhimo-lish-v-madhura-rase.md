@@ -1,12 +1,20 @@
 ---
 slug: 1060-1982-03-25-a2-24-h-chasovoe-sluzhenie-gospodu-dostizhimo-lish-v-madhura-rase
+record_id: 1982.03.25.A2
+title: 24-х часовое служение Господу достижимо лишь в мадхура-расе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6741586
+  duration: 00:06:29
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.mp3
+date: 1982-03-25
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.mp3
     title: аудиозапись в MP3 (6 мин. 29 сек., 6,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 1060. 1982.03.25.A2. 24-х часовое служение Господу достижимо лишь в
+    мадхура-расе
+  index: "1060"
+  filename: 1060-1982-03-25-a2-24-h-chasovoe-sluzhenie-gospodu-dostizhimo-lish-v-madhura-rase.md
 ---
-
-# 1060. 1982.03.25.A2. 24-х часовое служение Господу достижимо лишь в мадхура-расе
 
 [Шрила Бхактивинод Тхакур] своим духовным зрением видел объединенный *санкиртан* западных и восточных преданных, а наш Гуру Махарадж — Бхактисиддханта Сарасвати Тхакур — предпринял попытки в этом направлении. Мы впервые увидели немецкого преданного, Шульца, и еще одного — Верен. Миссис Ваутер, которая приняла посвящение в гаудия-вайшнавизм, была третей, в Лондоне ее посвятил основатель «Гаудия-сандхйи» Госвами Махарадж.
 

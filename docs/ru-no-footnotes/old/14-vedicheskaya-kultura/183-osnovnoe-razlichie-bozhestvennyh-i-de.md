@@ -1,18 +1,28 @@
 ---
 slug: 183-osnovnoe-razlichie-bozhestvennyh-i-de
+record_id: 1983.01.05.C3
+title: Основное различие божественных и демоничных натур.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3564932
+  duration: 00:05:55
+  mp3: /wp-content/uploads/2012/08/183_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
+date: 1983-01-05
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/183_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
     title: Скачать аудиозапись в mp3 (5 мин 55 сек, размер 3 Мб)
+legacy:
+  title: 183. Основное различие божественных и демоничных натур. 1983.01.05.C3
+  index: "183"
+  filename: 183-osnovnoe-razlichie-bozhestvennyh-i-de.md
 ---
-
-# 183. Основное различие божественных и демоничных натур. 1983.01.05.C3
 
 В целом таково различие демонов и богов. Демоны могут быть более моральными, высоконравственными. Но боги… они склонны полагаться на высшее начало, высший авторитет. Ты понимаешь, нет?
 

@@ -1,5 +1,14 @@
 ---
 slug: 180-chetyre-tseli-chelovecheskoj-zhizni-v-ved
+record_id: 1983.07.08.A1
+title: Четыре цели человеческой жизни в Ведах.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8857580
+  duration: 00:16:56
+  mp3: /wp-content/uploads/2012/08/180_1983.07.08.A1_SridharMj_Chetyre_celi_chelovecheskoy_jizni_v_vedah.mp3
+date: 1983-07-08
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
@@ -8,13 +17,14 @@ tags:
     slug: 1983-07
   - title: Веды
     slug: vedy
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/180_1983.07.08.A1_SridharMj_Chetyre_celi_chelovecheskoy_jizni_v_vedah.mp3
     title: Скачать аудиозапись в mp3 (16 мин 56 сек, размер 8 Мб)
+legacy:
+  title: 180. Четыре цели человеческой жизни в Ведах. 1983.07.08.A1
+  index: "180"
+  filename: 180-chetyre-tseli-chelovecheskoj-zhizni-v-ved.md
 ---
-
-# 180. Четыре цели человеческой жизни в Ведах. 1983.07.08.A1
 
 *#00:00:00#*
 

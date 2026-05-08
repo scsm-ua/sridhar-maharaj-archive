@@ -1,5 +1,12 @@
 ---
 slug: 334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni
+title: Дух служения — основа воспевания Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4889031
+  duration: 00:12:15
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -16,7 +23,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-2-234
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
     title: аудиозапись в MP3 (12 мин. 15 сек., 4,7 МБ)
@@ -24,9 +30,11 @@ links:
     title: транскрипцию в RTF (144 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 334.  Дух служения — основа воспевания Святого Имени
+  index: "334"
+  filename: 334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni.md
 ---
-
-# 334.  Дух служения — основа воспевания Святого Имени
 
 **Преданный:** Если человек повторял только четыре круга в день, ваш Гуру Махарадж давал ему посвящение в *Харинам*?
 

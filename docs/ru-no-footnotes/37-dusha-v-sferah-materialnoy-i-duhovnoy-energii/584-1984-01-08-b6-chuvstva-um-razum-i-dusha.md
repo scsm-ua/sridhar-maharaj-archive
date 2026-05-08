@@ -1,5 +1,14 @@
 ---
 slug: 584-1984-01-08-b6-chuvstva-um-razum-i-dusha
+record_id: 1984.01.08.B6
+title: Чувства, ум, разум и душа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5554865
+  duration: 00:08:11
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
+date: 1984-01-08
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1984-01
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
     title: аудиозапись в MP3 (8 мин. 10 сек., 5,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 584. 1984.01.08.B6. Чувства, ум, разум и душа
+  index: "584"
+  filename: 584-1984-01-08-b6-chuvstva-um-razum-i-dusha.md
 ---
-
-# 584. 1984.01.08.B6. Чувства, ум, разум и душа
 
 Вчера по радио я слышал, один джентльмен говорил: «Если будет использовано атомное оружие, существующее в настоящее время, тогда на всей планете будет зима, все будет занесено снегом, покрыто льдом. Температура понизится, и наступит снежный век, век холода». Жизнь будет уничтожена, включая даже деревья. Наступит, снежная эпоха резко, сразу же. Если будет использовано атомное оружие, кислород исчезнет, наступит снежный век и такой холод, что даже деревья будут уничтожены, не говоря уже о животных и человеческих существах.
 

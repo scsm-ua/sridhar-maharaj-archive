@@ -1,5 +1,14 @@
 ---
 slug: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam
+record_id: 1982.02.15.A2
+title: «Преданность Господу» означает «преданность Его слугам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13301111
+  duration: 00:13:17
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3
+date: 1982-02-15
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3
     title: аудиозапись в MP3 (13 мин. 17 сек., 12,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 769. 1982.02.15.A2. «Преданность Господу» означает «преданность Его слугам»
+  index: "769"
+  filename: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam.md
 ---
-
-# 769. 1982.02.15.A2. «Преданность Господу» означает «преданность Его слугам»
 
 В «Чайтанья-Чаритамрите», возможно, в четвертой главе описаны Радхарани и Кришна, Их взаимоотношения и Их поведение описаны там. Кришна словно получает Свою силу в связи с Ней, оба взаимозависимы, неотъемлемо связаны. Половина властвующего начала и подчиненная Половина, одно начало не может существовать независимо от другого.
 

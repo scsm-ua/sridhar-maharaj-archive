@@ -1,5 +1,14 @@
 ---
 slug: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam
+record_id: 1982.05.12.C2
+title: Зрелая форма преданности Господу — служение Гуру и вайшнавам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27295650
+  duration: 00:27:47
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3
+date: 1982-05-12
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3
     title: аудиозапись в MP3 (27 мин. 46 сек., 26,1 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (221 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.pdf
     title: транскрипцию в PDF (211 КБ)
+legacy:
+  title: 433. 1982.05.12.C2. Зрелая форма преданности Господу — служение Гуру и
+    вайшнавам
+  index: "433"
+  filename: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam.md
 ---
-
-# 433. 1982.05.12.C2. Зрелая форма преданности Господу — служение Гуру и вайшнавам
 
 Однажды Прабхупад сказал мне, что есть служение и что есть *карма*. Чтобы произвести на меня должное впечатление, он сказал мне: если *садху* дал указание: «Принеси цветок», а потом сказал: «Принеси воды», и ты заявляешь: «Возьмите цветок, ведь вы уже дали это указание», то ты навязываешь свою волю ему. То указание было дано первым, затем было дано другое указание: «Принеси мне воды». Если ты заявляешь: «Но ведь вы дали указание принести цветок. Пожалуйста, примите его». Если вы навязываете ему его прошлые желания — то будет *карма*. Он свободен: он сказал что-то, выразил желание, но затем он отверг это желание, отказался от него. Следовать прошлому будет *кармой*. Всегда в настроении ожидания последнего указания, нового указания.
 

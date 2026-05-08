@@ -1,12 +1,20 @@
 ---
 slug: 984-1982-01-02-a-shrila-shridhar-maharadzh-o-svoej-lichnosti-i-goroskope
+record_id: 1982.01.02.A
+title: Шрила Шридхар Махарадж о своей личности и гороскопе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9632569
+  duration: 00:18:18
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/984_1982.01.02.A_SridharMj_Sridhar_Maharaj_o_svoey_lichnosti_i_goroskope.mp3
+date: 1982-01-02
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/984_1982.01.02.A_SridharMj_Sridhar_Maharaj_o_svoey_lichnosti_i_goroskope.mp3
     title: аудиозапись в MP3 (18 мин. 17 сек., 9,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (149 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/984_1982.01.02.A_SridharMj_Sridhar_Maharaj_o_svoey_lichnosti_i_goroskope.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 984. 1982.01.02.A. Шрила Шридхар Махарадж о своей личности и гороскопе
+  index: "984"
+  filename: 984-1982-01-02-a-shrila-shridhar-maharadzh-o-svoej-lichnosti-i-goroskope.md
 ---
-
-# 984. 1982.01.02.A. Шрила Шридхар Махарадж о своей личности и гороскопе
 
 **Преданный:** Махарадж, я всегда думал: наш Гурудев имел некое особое сокровище, но он не открывал это сокровище. Я думаю, что он оставил это сокровище у вас.
 

@@ -1,12 +1,20 @@
 ---
 slug: 170-1983-01-04-a2-bozhestvennoe-nevedenie-chast-krishna-lily
+record_id: 1983.01.04.A2
+title: Божественное неведение — часть Кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2533844
+  duration: 00:04:04
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.mp3
+date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.mp3
     title: аудиозапись в MP3 (4 мин. 04 сек., 2,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 170. 1983.01.04.A2. Божественное неведение — часть Кришна-лилы
+  index: "170"
+  filename: 170-1983-01-04-a2-bozhestvennoe-nevedenie-chast-krishna-lily.md
 ---
-
-# 170. 1983.01.04.A2. Божественное неведение — часть Кришна-лилы
 
 **Шрила Шридхар Махарадж:** Харе Кришна!
 

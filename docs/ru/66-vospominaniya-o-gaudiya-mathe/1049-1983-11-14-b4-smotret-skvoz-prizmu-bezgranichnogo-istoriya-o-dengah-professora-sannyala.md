@@ -1,5 +1,14 @@
 ---
 slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
+record_id: 1983.11.14.B4
+title: Смотреть сквозь призму Безграничного. История о деньгах профессора Санньяла
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7486809
+  duration: 00:07:16
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1049_1983.11.14.B4_SridharMj_Smotret_skvoz_prizmu_Bezgranichnogo_Istorija_o_dengah_professora_Sannjala.mp3
+date: 1983-11-14
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
@@ -22,7 +31,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1049_1983.11.14.B4_SridharMj_Smotret_skvoz_prizmu_Bezgranichnogo_Istorija_o_dengah_professora_Sannjala.mp3
     title: аудиозапись в MP3 (7 мин. 15 сек., 7,2 МБ)
@@ -30,9 +38,12 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1049_1983.11.14.B4_SridharMj_Smotret_skvoz_prizmu_Bezgranichnogo_Istorija_o_dengah_professora_Sannjala.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 1049. 1983.11.14.B4. Смотреть сквозь призму Безграничного. История о
+    деньгах профессора Санньяла
+  index: "1049"
+  filename: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala.md
 ---
-
-# 1049. 1983.11.14.B4. Смотреть сквозь призму Безграничного. История о деньгах профессора Санньяла
 
 **Госвами Махарадж:** Да. Также еще один момент, который не совсем ясен для меня, а именно: Вы говорили, что вдохновленная сторона вайшнава — это Гуру. Это понятно. Две стороны, но его другая сторона… Для меня неясно следующее: похоже, что эта другая сторона не вполне абсолютная.
 

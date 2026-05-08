@@ -1,5 +1,14 @@
 ---
 slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
+record_id: 1983.04.25.A1
+title: Освобождение души от власти майи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7117406
+  duration: 00:11:26
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
+date: 1983-04-25
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1983-04
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
     title: аудиозапись в MP3 (11 мин. 26 сек., 6,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 597. 1983.04.25.A1. Освобождение души от власти майи
+  index: "597"
+  filename: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji.md
 ---
-
-# 597. 1983.04.25.A1. Освобождение души от власти майи
 
 **Шрила Шридхар Махарадж:** Каков вопрос?
 

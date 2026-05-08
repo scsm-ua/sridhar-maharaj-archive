@@ -1,12 +1,21 @@
 ---
 slug: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih
+record_id: 1982.05.11.C3
+title: Медитация на шлоку о милостивом Кришне, который не разделяет людей на
+  дурных и хороших
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6500822
+  duration: 00:05:15
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3
+date: 1982-05-11
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3
     title: аудиозапись в MP3 (5 мин. 14 сек., 6,3 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 120. 1982.05.11.C3. Медитация на шлоку о милостивом Кришне, который не
+    разделяет людей на дурных и хороших
+  index: "120"
+  filename: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih.md
 ---
-
-# 120. 1982.05.11.C3. Медитация на шлоку о милостивом Кришне, который не разделяет людей на дурных и хороших
 
 [шлока1]
 

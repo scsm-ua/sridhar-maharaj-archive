@@ -1,5 +1,14 @@
 ---
 slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
+record_id: 1982.04.18.B2.C
+title: Вриндаван Дас Тхакур, «Чайтанья Бхагавата» и «Чайтанья Чаритамрита»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 42313246
+  duration: 00:41:04
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.mp3
+date: 1982-04-18
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -46,7 +55,6 @@ tags:
     slug: shri-chajtanya-bhagavata-adi-khanda-1-1
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.2
     slug: shri-chajtanya-bhagavata-adi-khanda-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.mp3
     title: аудиозапись в MP3 (41 мин. 04 сек., 40,4 МБ)
@@ -54,11 +62,14 @@ links:
     title: транскрипцию в RTF (267 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.pdf
     title: транскрипцию в PDF (211 КБ)
+legacy:
+  title: 951. 1982.04.18.B2.C. Вриндаван Дас Тхакур, «Чайтанья Бхагавата» и
+    «Чайтанья Чаритамрита»
+  index: "951"
+  filename: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita.md
 ---
 
-# 951. 1982.04.18.B2.C. Вриндаван Дас Тхакур, «Чайтанья Бхагавата» и «Чайтанья Чаритамрита»
-
-    ванде ш́рӣ-кр̣ш̣н̣а-чаитанйа-, нитйа̄нандау саходитау
+ванде ш́рӣ-кр̣ш̣н̣а-чаитанйа-, нитйа̄нандау саходитау
     гауд̣одайе пуш̣павантау, читрау ш́ан-дау тамо-нудау
 [^_ftn1]
 

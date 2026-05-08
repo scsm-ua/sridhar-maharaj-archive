@@ -1,5 +1,14 @@
 ---
 slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
+record_id: 1981.03.12.B2
+title: Связь с миром ниргуны превыше мирского знания и ценностей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7549157
+  duration: 00:09:43
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
+date: 1981-03-12
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -26,7 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 7,3 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в DOCX (26 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
+  index: "572"
+  filename: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej.md
 ---
-
-# 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
 
 **Госвами Махарадж:** Поскольку это необходимо для проповеди, Рамешвара Свами хотел, чтобы я задал вам один вопрос. «Бхактиведанта Бук Траст» собирается опубликовать книгу под названием «Реинкарнация». И он говорит, что нам необходимо описать западному рациональному уму, как душа переносится из одного тела в другое, как душа входит в семя отца.
 

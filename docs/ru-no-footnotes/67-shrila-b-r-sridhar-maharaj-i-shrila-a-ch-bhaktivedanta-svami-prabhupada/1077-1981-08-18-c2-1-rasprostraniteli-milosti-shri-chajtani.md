@@ -1,12 +1,20 @@
 ---
 slug: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani
+record_id: 1981.08.18.C2.1
+title: Распространители милости Шри Чайтаньи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12007006
+  duration: 00:21:44
+  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.mp3
+date: 1981-08-18
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.mp3
     title: аудиозапись в MP3 (21 мин. 44 сек., 11,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (175 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 1077. 1981.08.18.C2.1. Распространители милости Шри Чайтаньи
+  index: "1077"
+  filename: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani.md
 ---
-
-# 1077. 1981.08.18.C2.1. Распространители милости Шри Чайтаньи
 
 **Преданный:** Махарадж?
 

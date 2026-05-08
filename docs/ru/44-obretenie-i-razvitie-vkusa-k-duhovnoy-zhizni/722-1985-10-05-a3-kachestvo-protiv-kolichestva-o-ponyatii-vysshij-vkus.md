@@ -1,5 +1,14 @@
 ---
 slug: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus
+record_id: 1985.10.05.A3
+title: "Качество против количества: о понятии «высший вкус»"
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1877587
+  duration: 00:02:12
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
+date: 1985-10-05
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
     title: аудиозапись в MP3 (2 мин. 12 сек., 1,8 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: "722. 1985.10.05.A3. Качество против количества: о понятии «высший вкус»"
+  index: "722"
+  filename: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus.md
 ---
-
-# 722. 1985.10.05.A3. Качество против количества: о понятии «высший вкус»
 
 **Преданный:** Гуру Махарадж, что такое высший вкус? *Парам̇ др̣шт̣ва̄ нивартате*[^_ftn1]…
 

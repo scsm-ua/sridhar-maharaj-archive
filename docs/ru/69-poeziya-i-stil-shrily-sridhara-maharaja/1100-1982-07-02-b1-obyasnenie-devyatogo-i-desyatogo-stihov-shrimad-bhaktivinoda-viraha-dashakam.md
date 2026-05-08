@@ -1,5 +1,14 @@
 ---
 slug: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam
+record_id: 1982.07.02.B1
+title: Объяснение девятого и десятого стихов «Шримад Бхактивинода-вираха Дашакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4990484
+  duration: 00:04:59
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.mp3
+date: 1982-07-02
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
@@ -12,7 +21,6 @@ tags:
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
   - title: Шримад Бхактивинода-вираха Дашакам 10
     slug: shrimad-bhaktivinoda-viraha-dashakam-10
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.mp3
     title: аудиозапись в MP3 (4 мин. 58 сек., 4,8 МБ)
@@ -20,9 +28,12 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.pdf
     title: транскрипцию в PDF (178 КБ)
+legacy:
+  title: 1100. 1982.07.02.B1. Объяснение девятого и десятого стихов «Шримад
+    Бхактивинода-вираха Дашакам»
+  index: "1100"
+  filename: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam.md
 ---
-
-# 1100. 1982.07.02.B1. Объяснение девятого и десятого стихов «Шримад Бхактивинода-вираха Дашакам»
 
 Ценность этого явления была понимаема единственно Сварупой Дамодаром, который является воплощением Лалиты Деви. *Рӯпа̄граджена̄др̣там̇*[^_ftn1] *Самбандха-гьяна-ачарья* — Санатана Госвами — давал должную оценку этому явлению, высокую. *Рӯпа̄дйаих̣ паривеш́итам̇* — а Шри Рупа и его последователи распространяли это явление. *Рагху-ган̣аир-а̄сва̄дитам̇ севитам* — а Рагхунатх, *ачарья прайоджаны*, со своими последователями переживал вкус этого явления, и также (как это будет?) развивал это явление, Рагхунатх.
 

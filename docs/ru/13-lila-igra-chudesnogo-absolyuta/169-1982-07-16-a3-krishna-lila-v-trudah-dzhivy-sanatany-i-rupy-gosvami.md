@@ -1,5 +1,14 @@
 ---
 slug: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami
+record_id: 1982.07.16.A3
+title: Кришна-лила в трудах Дживы, Санатаны и Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6631424
+  duration: 00:06:30
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3
+date: 1982-07-16
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -16,7 +25,6 @@ tags:
     slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (6 мин. 30 сек., 6,4 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (74 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 169. 1982.07.16.A3. Кришна-лила в трудах Дживы, Санатаны и Рупы Госвами
+  index: "169"
+  filename: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami.md
 ---
-
-# 169. 1982.07.16.A3. Кришна-лила в трудах Дживы, Санатаны и Рупы Госвами
 
 Джива Госвами показал, что Кришна вернулся во Вриндаван [имеется в виду в «Гопала-чампу», в своем произведении.]
 

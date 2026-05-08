@@ -1,5 +1,14 @@
 ---
 slug: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny
+record_id: 1981.03.03.A2
+title: Любое действие может совершаться в измерении ниргуны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4153260
+  duration: 00:06:59
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
+date: 1981-03-03
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
     title: аудиозапись в MP3 (6 мин. 59 сек., 4,0 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 422. 1981.03.03.A2. Любое действие может совершаться в измерении ниргуны
+  index: "422"
+  filename: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny.md
 ---
-
-# 422. 1981.03.03.A2. Любое действие может совершаться в измерении ниргуны
 
 **Преданный:** У нас был один вопрос, с которого мы хотели начать…
 

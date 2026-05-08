@@ -1,5 +1,14 @@
 ---
 slug: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya
+record_id: 1982.05.13.A
+title: Личность и сокровенное «я» Рамананды Рая
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12346043
+  duration: 00:12:36
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/133_1982.05.13.A_SridharMj_Lichnost_i_sokrovennoe_ja_Ramanandy_Raja.mp3
+date: 1982-05-13
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -26,7 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-203
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
     slug: shri-chajtanya-charitamrita-madhya-lila-8-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/133_1982.05.13.A_SridharMj_Lichnost_i_sokrovennoe_ja_Ramanandy_Raja.mp3
     title: аудиозапись в MP3 (12 мин. 36 сек., 11,8 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в RTF (142 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/133_1982.05.13.A_SridharMj_Lichnost_i_sokrovennoe_ja_Ramanandy_Raja.pdf
     title: транскрипцию в PDF (190 КБ)
+legacy:
+  title: 133. 1982.05.13.A. Личность и сокровенное «я» Рамананды Рая
+  index: "133"
+  filename: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya.md
 ---
-
-# 133. 1982.05.13.A. Личность и сокровенное «я» Рамананды Рая
 
 Он [Рамананда Рай] был *грихастхой*, однако имел «сертификат» от Махапрабху. По мнению Махапрабху он являлся владыкой своих чувств, абсолютным, совершенным владыкой.
 

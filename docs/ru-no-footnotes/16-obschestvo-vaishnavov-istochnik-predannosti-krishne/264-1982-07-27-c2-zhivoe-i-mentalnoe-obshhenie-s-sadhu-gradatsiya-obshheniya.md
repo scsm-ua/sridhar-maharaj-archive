@@ -1,5 +1,14 @@
 ---
 slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
+record_id: 1982.07.27.C2
+title: Живое и ментальное общение с садху. Градация общения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7237391
+  duration: 00:06:22
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
+date: 1982-07-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 7,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 264. 1982.07.27.C2. Живое и ментальное общение с садху. Градация общения
+  index: "264"
+  filename: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya.md
 ---
-
-# 264. 1982.07.27.C2. Живое и ментальное общение с садху. Градация общения
 
 **Преданный:** Махарадж, есть еще один вопрос. Эти юноши хотят знать: когда они вернутся в Европу… Они понимают, что должны изучать *шастры*, но не могли бы вы объяснить принцип общения с *садху*? Как им знать, с кем им общаться?
 

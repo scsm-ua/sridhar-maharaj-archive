@@ -1,12 +1,20 @@
 ---
 slug: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta
+record_id: 1982.03.29.D4
+title: Баладев, Кришна, Радхарани и самопознание Абсолюта
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8874976
+  duration: 00:08:16
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
+date: 1982-03-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
     title: аудиозапись в MP3 (8 мин. 16 сек., 8,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (22 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 634. 1982.03.29.D4. Баладев, Кришна, Радхарани и самопознание Абсолюта
+  index: "634"
+  filename: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta.md
 ---
-
-# 634. 1982.03.29.D4. Баладев, Кришна, Радхарани и самопознание Абсолюта
 
 **Пхулангана Деви Даси:** Я читала в *шастре* о том, что Бог не знает Себя.
 

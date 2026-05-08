@@ -1,5 +1,12 @@
 ---
 slug: 27-narasimha-poklonyaetsya-shri-chajtane-m
+title: Нарасимха поклоняется Шри Чайтанье Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2315860
+  duration: 00:05:55
+  mp3: /wp-content/uploads/2012/08/027_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +15,14 @@ tags:
     slug: mahaprabhu
   - title: Нарасимха
     slug: narasimha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/027_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (5 мин 55 сек, размер 2 Мб)
+legacy:
+  title: 27. Нарасимха поклоняется Шри Чайтанье Махапрабху
+  index: "27"
+  filename: 27-narasimha-poklonyaetsya-shri-chajtane-m.md
 ---
-
-# 27. Нарасимха поклоняется Шри Чайтанье Махапрабху
 
 **Преданный:** Гуру Махарадж, Господь Нарисимха Дев связан каким-либо образом с Навадвипой? Нрисимха Пали это место, есть какая-то связь с Навадвипы?
 

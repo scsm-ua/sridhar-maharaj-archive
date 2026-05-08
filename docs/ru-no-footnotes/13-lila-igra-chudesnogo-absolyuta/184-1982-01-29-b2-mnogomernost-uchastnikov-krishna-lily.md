@@ -1,12 +1,20 @@
 ---
 slug: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily
+record_id: 1982.01.29.B2
+title: Многомерность участников кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7665246
+  duration: 00:15:10
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
+date: 1982-01-29
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
     title: аудиозапись в MP3 (15 мин. 10 сек., 7,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 184. 1982.01.29.B2. Многомерность участников кришна-лилы
+  index: "184"
+  filename: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
 ---
-
-# 184. 1982.01.29.B2. Многомерность участников кришна-лилы
 
 **Преданный:** Вчера я читал «Кришна-сандарбху» в переводе Йати Махараджа, где говорится, что Деваки и Васудева были *ам̇ш́а-а̄виш̣т̣а*, воплощениями, частичными проявлениями двух личностей — Пришни и Сутапы.
 

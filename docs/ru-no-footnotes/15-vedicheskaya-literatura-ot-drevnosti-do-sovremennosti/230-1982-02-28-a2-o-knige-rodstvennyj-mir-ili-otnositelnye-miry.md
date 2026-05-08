@@ -1,12 +1,20 @@
 ---
 slug: 230-1982-02-28-a2-o-knige-rodstvennyj-mir-ili-otnositelnye-miry
+record_id: 1982.02.28.A2
+title: О книге «Родственный мир или относительные миры»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5189440
+  duration: 00:09:25
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
+date: 1982-02-28
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
     title: аудиозапись в MP3 (9 мин. 24 сек., 5,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 230. 1982.02.28.A2. О книге «Родственный мир или относительные миры»
+  index: "230"
+  filename: 230-1982-02-28-a2-o-knige-rodstvennyj-mir-ili-otnositelnye-miry.md
 ---
-
-# 230. 1982.02.28.A2. О книге «Родственный мир или относительные миры»
 
 *Кришна-иччха* — воля Кришны, любое желание, готовность повиноваться любому предложению с любой стороны. Мы должны стоять лицом к лицу с Безграничным, ожидая, что приходящее ко мне — это моя потребность, это наше место назначения, лицом к лицу. Индивидуально или коллективно, воспеваю ли я *Харинам* или проповедую — все может быть бренным, мирским, формальным, и все может иметь безграничные характеристики.
 

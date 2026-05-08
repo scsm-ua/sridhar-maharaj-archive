@@ -1,5 +1,14 @@
 ---
 slug: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi
+record_id: 1985.10.05.A1
+title: Как обезопасить себя от вайшнава-апарадхи?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1553220
+  duration: 00:02:39
+  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
+date: 1985-10-05
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
@@ -24,7 +33,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
     title: аудиозапись в MP3 (2 мин. 38 сек., 1,5 МБ)
@@ -32,11 +40,13 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
+  index: "863"
+  filename: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi.md
 ---
 
-# 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
-
-    йе ‘нйе ‘равинда̄кша вимукта-ма̄нинас
+йе ‘нйе ‘равинда̄кша вимукта-ма̄нинас
     твайй аста-бха̄ва̄д авиш́уддха-буддхайах̣
     а̄рухйа кр̣ччхрен̣а парам̇ падам̇ татах̣
     патантй адхо ‘на̄др̣та-йушмад-ан̇гхрайах̣

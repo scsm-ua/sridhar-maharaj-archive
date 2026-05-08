@@ -1,12 +1,20 @@
 ---
 slug: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny
+record_id: 1984.01.15.B5
+title: О важности стремления обрести Сознание Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2427584
+  duration: 00:03:15
+  mp3: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
+date: 1984-01-15
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
 tags:
   - title: "1984.01"
     slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
     title: аудиозапись в MP3 (3 мин. 15 сек., 2,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 739. 1984.01.15.B5. О важности стремления обрести Сознание Кришны
+  index: "739"
+  filename: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny.md
 ---
-
-# 739. 1984.01.15.B5. О важности стремления обрести Сознание Кришны
 
 **Преданный:** [Кто-то совершает] путешествие к Кришне, но он останавливается. Остановка, прекращение движения вызвано его прошлой кармой, или оскорблениями на пути преданности?
 

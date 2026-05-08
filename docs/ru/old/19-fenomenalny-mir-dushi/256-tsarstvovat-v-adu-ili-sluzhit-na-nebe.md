@@ -1,5 +1,14 @@
 ---
 slug: 256-tsarstvovat-v-adu-ili-sluzhit-na-nebe
+record_id: 1982.01.16.B
+title: Царствовать в аду или служить на небесах.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6774992
+  duration: 00:09:44
+  mp3: /wp-content/uploads/2012/08/256_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
+date: 1982-01-16
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -14,13 +23,14 @@ tags:
     slug: ramanudzha-acharya
   - title: Шанкара
     slug: shankara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/256_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
     title: Скачать аудиозапись в mp3 (9 мин 44 сек, размер 6 Мб)
+legacy:
+  title: 256. Царствовать в аду или служить на небесах. 1982.01.16.B
+  index: "256"
+  filename: 256-tsarstvovat-v-adu-ili-sluzhit-na-nebe.md
 ---
-
-# 256. Царствовать в аду или служить на небесах. 1982.01.16.B
 
 *#00:00:09#*
 

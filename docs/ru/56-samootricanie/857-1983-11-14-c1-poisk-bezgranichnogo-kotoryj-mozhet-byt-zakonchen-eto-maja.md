@@ -1,5 +1,14 @@
 ---
 slug: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja
+record_id: 1983.11.14.C1
+title: Поиск Безграничного, который может быть закончен – это майа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5941164
+  duration: 00:03:19
+  mp3: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.mp3
+date: 1983-11-14
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
@@ -18,7 +27,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.mp3
     title: аудиозапись в MP3 (3 мин. 19 сек., 5,7 МБ)
@@ -26,9 +34,12 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 857. 1983.11.14.C1. Поиск Безграничного, который может быть закончен –
+    это майа
+  index: "857"
+  filename: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja.md
 ---
-
-# 857. 1983.11.14.C1. Поиск Безграничного, который может быть закончен – это майа
 
 Если голод отсутствует — то это болезнь. Быть голодным — это хорошее качество, и оно простирается в безграничное — *випраламбха*.
 

@@ -1,12 +1,20 @@
 ---
 slug: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny
+record_id: 1982.05.05.A1
+title: Поток лилы Господа и его глубины
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11568775
+  duration: 00:11:39
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.mp3
+date: 1982-05-05
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.mp3
     title: аудиозапись в MP3 (11 мин. 30 сек., 11 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (136 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 165. 1982.05.05.A1. Поток лилы Господа и его глубины
+  index: "165"
+  filename: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny.md
 ---
-
-# 165. 1982.05.05.A1. Поток лилы Господа и его глубины
 
 [Харе Кришна, Харе Кришна, Гаура-Харибол, Гаура-Харибол.]
 

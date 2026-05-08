@@ -1,5 +1,14 @@
 ---
 slug: 266-rupanuga-sampradaya-1987-00-00-b5
+record_id: 1987.00.00.B5
+title: Рупануга-сампрадая.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7711545
+  duration: 00:15:25
+  mp3: /wp-content/uploads/2012/08/266_1987.00.00.B5_SridharMj_Rupanuga-sampradaya.mp3
+date: 1987-00-00
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -14,13 +23,14 @@ tags:
     slug: pundarik-vidyanithi
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/266_1987.00.00.B5_SridharMj_Rupanuga-sampradaya.mp3
     title: Скачать аудиозапись в mp3 (15 мин 25 сек, размер 7 Мб)
+legacy:
+  title: 266. Рупануга-сампрадая. 1987.00.00.B5
+  index: "266"
+  filename: 266-rupanuga-sampradaya-1987-00-00-b5.md
 ---
-
-# 266. Рупануга-сампрадая. 1987.00.00.B5
 
 **Ученик:** Все же подчеркивается рупа-нуга, рупа-нуга-сампрадая.
 

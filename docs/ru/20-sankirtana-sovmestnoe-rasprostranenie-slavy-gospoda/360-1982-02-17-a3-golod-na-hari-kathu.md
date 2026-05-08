@@ -1,5 +1,14 @@
 ---
 slug: 360-1982-02-17-a3-golod-na-hari-kathu
+record_id: 1982.02.17.A3
+title: Голод на хари-катху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3262224
+  duration: 00:06:22
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
+date: 1982-02-17
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -12,7 +21,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 3,2 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 360. 1982.02.17.A3. Голод на хари-катху
+  index: "360"
+  filename: 360-1982-02-17-a3-golod-na-hari-kathu.md
 ---
-
-# 360. 1982.02.17.A3. Голод на хари-катху
 
 *Дурвикха* — голод. Наш Гуру Махарадж часто использовал это слово «*дурвикха*» (голод). Что это за *дурвикха*? Недостаток в пище? Недостаток в какой пище? *Кришна-катха-дурвикха*. Этот мир страдает от недостатка сознания Кришны, от голода на сознание Кришны, на *Кришна-катху*, на *Кришна-киртан*. Поэтому старайтесь открывать здесь множество пунктов раздачи пищи, раздавайте эту пищу всем душам, говорите о Кришне.
 

@@ -1,5 +1,15 @@
 ---
 slug: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6
+record_id: 1982.07.03.B3
+title: Высший долг — обрести связь с потоком преданности Господу. Шримад
+  Бхагаватам 1.2.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7300002
+  duration: 00:07:20
+  mp3: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3
+date: 1982-07-03
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +18,6 @@ tags:
     slug: 1982-07
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3
     title: аудиозапись в MP3 (7 мин. 20 сек., 7,0 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (104 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 536. 1982.07.03.B3. Высший долг — обрести связь с потоком преданности
+    Господу. Шримад Бхагаватам 1.2.6
+  index: "536"
+  filename: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6.md
 ---
-
-# 536. 1982.07.03.B3. Высший долг — обрести связь с потоком преданности Господу. Шримад Бхагаватам 1.2.6
 
 Принять Первопричину в качестве Самодержца. Он является Высочайшим Благом, Высочайшим Благом и Самодержцем. Если мы способны принять это, связь с этой истиной, то подобная концепция истины — высочайшая, и также в ней присутствует градация — но это уже предмет отдельного разговора.
 

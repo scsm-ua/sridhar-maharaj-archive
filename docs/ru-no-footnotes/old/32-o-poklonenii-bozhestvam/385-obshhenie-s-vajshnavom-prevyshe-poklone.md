@@ -1,5 +1,14 @@
 ---
 slug: 385-obshhenie-s-vajshnavom-prevyshe-poklone
+record_id: 1983.01.22.C1
+title: Общение с вайшнавом превыше поклонения Божеству.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11859163
+  duration: 00:24:22
+  mp3: /wp-content/uploads/2012/08/385_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
+date: 1983-01-22
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -14,13 +23,14 @@ tags:
     slug: bozhestvo
   - title: Гаудия-матх
     slug: gaudiya-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/385_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
     title: Скачать аудиозапись в mp3 (24 мин 22 сек, размер 11 Мб)
+legacy:
+  title: 385. Общение с вайшнавом превыше поклонения Божеству. 1983.01.22.C1
+  index: "385"
+  filename: 385-obshhenie-s-vajshnavom-prevyshe-poklone.md
 ---
-
-# 385. Общение с вайшнавом превыше поклонения Божеству. 1983.01.22.C1
 
 **Преданный:** На Западе Свами Махарадж дал нам поклонение Божествам, но величественным, пышным образом.
 

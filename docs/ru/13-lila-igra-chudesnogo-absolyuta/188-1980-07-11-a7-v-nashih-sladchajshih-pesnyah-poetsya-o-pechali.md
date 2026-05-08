@@ -1,12 +1,20 @@
 ---
 slug: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali
+record_id: 1980.07.11.A7
+title: «В наших сладчайших песнях поется о печали….»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5610505
+  duration: 00:08:43
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
+date: 1980-07-11
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1980.07"
     slug: 1980-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
     title: аудиозапись в MP3 (8 мин. 42 сек., 5,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 188. 1980.07.11.A7. «В наших сладчайших песнях поется о печали….»
+  index: "188"
+  filename: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali.md
 ---
-
-# 188. 1980.07.11.A7. «В наших сладчайших песнях поется о печали….»
 
 **Преданный:** Необходимо позитивное. Позитивное может быть прямым и косвенным.
 

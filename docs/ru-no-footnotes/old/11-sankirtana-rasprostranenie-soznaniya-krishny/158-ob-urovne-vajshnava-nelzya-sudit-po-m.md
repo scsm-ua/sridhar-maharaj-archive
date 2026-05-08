@@ -1,5 +1,13 @@
 ---
 slug: 158-ob-urovne-vajshnava-nelzya-sudit-po-m
+title: Об уровне вайшнава нельзя судить по масштабу его проповеди. Онтология
+  прекрасной реальности, часть 5.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8396160
+  duration: 00:13:04
+  mp3: /wp-content/uploads/2012/08/158_OntologiyaPR_5.1_SridharMj_Ob_urovne_vaishnava_nelzya_sudit_po_masshtabu_ego_propovedi.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -14,13 +22,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Пундарик Видьянидхи
     slug: pundarik-vidyanidhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/158_OntologiyaPR_5.1_SridharMj_Ob_urovne_vaishnava_nelzya_sudit_po_masshtabu_ego_propovedi.mp3
     title: Скачать аудиозапись в mp3 (13 мин 4 сек, размер 8 Мб)
+legacy:
+  title: 158. Об уровне вайшнава нельзя судить по масштабу его проповеди.
+    Онтология прекрасной реальности, часть 5.1
+  index: "158"
+  filename: 158-ob-urovne-vajshnava-nelzya-sudit-po-m.md
 ---
-
-# 158. Об уровне вайшнава нельзя судить по масштабу его проповеди. Онтология прекрасной реальности, часть 5.1
 
 *Вайшнавы*, в целом, в полной мере, зависимы от воли Кришны. Поэтому временами мы, основываясь на внешних характеристиках их деятельности, даём им ту или иную оценку. Но эти внешние характеристики не всегда истинны, подобное суждение не всегда истинно, поскольку скрытый принцип, подспудный принцип таков: любой, кто выбран совершать определённое служение — выбран Господом. И Господь хочет осуществить что-либо через этого человека – эта работа осуществляется.
 

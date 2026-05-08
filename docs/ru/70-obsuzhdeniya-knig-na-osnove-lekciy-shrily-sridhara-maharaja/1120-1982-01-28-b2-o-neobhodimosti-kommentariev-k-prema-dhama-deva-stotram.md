@@ -1,12 +1,20 @@
 ---
 slug: 1120-1982-01-28-b2-o-neobhodimosti-kommentariev-k-prema-dhama-deva-stotram
+record_id: 1982.01.28.B2
+title: О необходимости комментариев к «Према-дхама-дева-стотрам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2966998
+  duration: 00:05:07
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
+date: 1982-01-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
     title: аудиозапись в MP3 (5 мин. 06 сек., 2,9 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 1120. 1982.01.28.B2. О необходимости комментариев к
+    «Према-дхама-дева-стотрам»
+  index: "1120"
+  filename: 1120-1982-01-28-b2-o-neobhodimosti-kommentariev-k-prema-dhama-deva-stotram.md
 ---
-
-# 1120. 1982.01.28.B2. О необходимости комментариев к «Према-дхама-дева-стотрам»
 
 «Према-дхама-стотрам» — как учение, так и *лила* Чайтаньядева. Я представил их в этой книге в лаконичной, сжатой и очень достойной форме, достойным и сжатым, лаконичным образом в нескольких десятков стихов. «Према-дхама-стотрам». Необходимы комментарии к этому.
 

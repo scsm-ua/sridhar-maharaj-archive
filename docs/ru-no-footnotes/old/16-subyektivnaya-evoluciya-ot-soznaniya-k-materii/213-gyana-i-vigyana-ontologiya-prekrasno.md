@@ -1,5 +1,12 @@
 ---
 slug: 213-gyana-i-vigyana-ontologiya-prekrasno
+title: Гьяна и вигьяна. Онтология прекрасной реальности, часть 1.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4060736
+  duration: 00:08:19
+  mp3: /wp-content/uploads/2012/08/213_OntologiyaPR_1.3_SridharMj_Gyana_i_vigyana.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -8,13 +15,14 @@ tags:
     slug: znanie
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/213_OntologiyaPR_1.3_SridharMj_Gyana_i_vigyana.mp3
     title: Скачать аудиозапись в mp3 (8 мин 19 сек, размер 4 Мб)
+legacy:
+  title: 213. Гьяна и вигьяна. Онтология прекрасной реальности, часть 1.3
+  index: "213"
+  filename: 213-gyana-i-vigyana-ontologiya-prekrasno.md
 ---
-
-# 213. Гьяна и вигьяна. Онтология прекрасной реальности, часть 1.3
 
 Мы должны приблизится к подобному существованию, мы должны обрести связь с этим измерением в жизни. Определенным, изначальным измерением, бытием или представлением о природе. Мы должны лишь установить связь.
 

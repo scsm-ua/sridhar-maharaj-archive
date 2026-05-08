@@ -1,12 +1,20 @@
 ---
 slug: 865-1982-04-16-b7-konflikty-duhovnyh-lyudej-dolzhny-razreshatsya-v-duhe-vzaimouvazheniya
+record_id: 1982.04.16.B7
+title: Конфликты духовных людей должны разрешаться в духе взаимоуважения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3881252
+  duration: 00:03:45
+  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.mp3
+date: 1982-04-16
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.mp3
     title: аудиозапись в MP3 (3 мин. 44 сек., 3,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (44 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 865. 1982.04.16.B7. Конфликты духовных людей должны разрешаться в духе
+    взаимоуважения
+  index: "865"
+  filename: 865-1982-04-16-b7-konflikty-duhovnyh-lyudej-dolzhny-razreshatsya-v-duhe-vzaimouvazheniya.md
 ---
-
-# 865. 1982.04.16.B7. Конфликты духовных людей должны разрешаться в духе взаимоуважения
 
 Возможно также столкновение, но оно должно быть уместным. Драка, бой двух собак не должен быть идеалом людей, которые сражаются, собачья грызня не должна быть идеалом сражающихся людей (или битва львов). *Брахманический* бой, битва должна быть уважительного типа. Не следует опускаться до прискорбного, плачевного уровня политиков, действовать в таком духе. Речь идет о стандарте нашей веры в Верховное начало. Справедливость присутствует, Всемогущий справедлив, Он повсюду. С этим сознанием мы должны иметь дело со всеми реалиями, с чем угодно. Подобно тому как, скажем, если дети хотят ссориться в присутствии отца или старшего, то ссориться они будут не так, как если бы они делали это без надзора, независимо. Если мать рядом, отец рядом, дети могут ссориться, конфликтовать, возможно, но под надзором хранителя это будет протекать иначе.
 

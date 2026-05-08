@@ -1,5 +1,14 @@
 ---
 slug: 228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha
+record_id: 1982.11.02.A1
+title: «Према-виварта» поддерживает философию Гаудия-матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4139227
+  duration: 00:03:37
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/228_1982.11.02.A1_SridharMj_Prema-vivarta_podderzhivaet_filosofiju_Gaudija-matha.mp3
+date: 1982-11-02
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.114
     slug: shri-chajtanya-charitamrita-madhya-lila-11-114
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/228_1982.11.02.A1_SridharMj_Prema-vivarta_podderzhivaet_filosofiju_Gaudija-matha.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,0 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/228_1982.11.02.A1_SridharMj_Prema-vivarta_podderzhivaet_filosofiju_Gaudija-matha.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 228. 1982.11.02.A1. «Према-виварта» поддерживает философию Гаудия-матха
+  index: "228"
+  filename: 228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha.md
 ---
-
-# 228. 1982.11.02.A1. «Према-виварта» поддерживает философию Гаудия-матха
 
 **Шрила Шридхар Махарадж:** …и само имя значительно.
 

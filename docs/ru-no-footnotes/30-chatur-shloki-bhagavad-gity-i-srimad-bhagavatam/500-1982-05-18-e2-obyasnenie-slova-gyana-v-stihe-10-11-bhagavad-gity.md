@@ -1,5 +1,14 @@
 ---
 slug: 500-1982-05-18-e2-obyasnenie-slova-gyana-v-stihe-10-11-bhagavad-gity
+record_id: 1982.05.18.E2
+title: Объяснение слова «гьяна» в стихе 10.11 «Бхагавад-гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4163584
+  duration: 00:02:25
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.mp3
+date: 1982-05-18
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Чатур-шлока
     slug: chatur-shloka
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (2 мин. 24 сек., 4,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 500. 1982.05.18.E2. Объяснение слова «гьяна» в стихе 10.11 «Бхагавад-гиты»
+  index: "500"
+  filename: 500-1982-05-18-e2-obyasnenie-slova-gyana-v-stihe-10-11-bhagavad-gity.md
 ---
-
-# 500. 1982.05.18.E2. Объяснение слова «гьяна» в стихе 10.11 «Бхагавад-гиты»
 
 **Шрила Шридхар Махарадж:** Кто здесь?
 

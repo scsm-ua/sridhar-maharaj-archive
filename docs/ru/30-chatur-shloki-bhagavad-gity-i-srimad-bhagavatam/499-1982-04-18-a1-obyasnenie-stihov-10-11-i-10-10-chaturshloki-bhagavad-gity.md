@@ -1,5 +1,14 @@
 ---
 slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
+record_id: 1982.04.18.A1
+title: Объяснение стихов 10.11 и 10.10 чатуршлоки «Бхагавад-гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13049814
+  duration: 00:11:40
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3
+date: 1982-04-18
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -26,7 +35,6 @@ tags:
     slug: shri-chauragraganya-purusha-ashtaka
   - title: Шри Чаураграганья-пуруша-аштака 1
     slug: shri-chauragraganya-purusha-ashtaka-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (11 мин. 40 сек., 12,5 МБ)
@@ -34,11 +42,14 @@ links:
     title: транскрипцию в RTF (138 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 499. 1982.04.18.A1. Объяснение стихов 10.11 и 10.10 чатуршлоки
+    «Бхагавад-гиты»
+  index: "499"
+  filename: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity.md
 ---
 
-# 499. 1982.04.18.A1. Объяснение стихов 10.11 и 10.10 чатуршлоки «Бхагавад-гиты»
-
-    теш̣̄ам эва̄нукампа̄ртхам ахам аджн̃а̄на-джам̇ тамах̣
+теш̣̄ам эва̄нукампа̄ртхам ахам аджн̃а̄на-джам̇ тамах̣
     на̄ш́айа̄мй а̄тма-бха̄ва-стхо джн̃а̄на-дӣпена бха̄свата̄
 [^_ftn1]
 

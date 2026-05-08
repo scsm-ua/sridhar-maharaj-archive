@@ -1,5 +1,14 @@
 ---
 slug: 393-iskrennost-nepobedima-1981-08-28-c
+record_id: 1981.08.28.C
+title: Искренность непобедима.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21503278
+  duration: 00:41:40
+  mp3: /wp-content/uploads/2012/08/393_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
+date: 1981-08-28
 category:
   title: (33. Искренность)
   slug: 33-iskrennost
@@ -20,13 +29,14 @@ tags:
     slug: svarupa-damodar
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/393_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
     title: Скачать аудиозапись в mp3 (41 мин 40 сек, размер 21 Мб)
+legacy:
+  title: 393. Искренность непобедима. 1981.08.28.C
+  index: "393"
+  filename: 393-iskrennost-nepobedima-1981-08-28-c.md
 ---
-
-# 393. Искренность непобедима. 1981.08.28.C
 
 *#00:00:00#*
 

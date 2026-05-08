@@ -1,5 +1,14 @@
 ---
 slug: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni
+record_id: 1982.05.18.C2
+title: Десять оскорблений и четыре вида нама-бхаса при воспевании Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15764604
+  duration: 00:16:05
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.mp3
+date: 1982-05-18
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (16 мин. 05 сек., 15,1 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 345. 1982.05.18.C2. Десять оскорблений и четыре вида нама-бхаса при
+    воспевании Святого Имени
+  index: "345"
+  filename: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni.md
 ---
-
-# 345. 1982.05.18.C2. Десять оскорблений и четыре вида нама-бхаса при воспевании Святого Имени
 
     [шри-кришна-чайтанья прабху-нитьянанда]
     шри-адвайта гададхара шривасади шри гаура-бхакта-вринда

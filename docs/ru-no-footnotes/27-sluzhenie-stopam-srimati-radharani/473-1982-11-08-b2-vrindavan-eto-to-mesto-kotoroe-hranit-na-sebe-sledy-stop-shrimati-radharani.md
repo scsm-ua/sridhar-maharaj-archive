@@ -1,5 +1,14 @@
 ---
 slug: 473-1982-11-08-b2-vrindavan-eto-to-mesto-kotoroe-hranit-na-sebe-sledy-stop-shrimati-radharani
+record_id: 1982.11.08.B2
+title: Вриндаван — это то место, которое хранит на себе следы стоп Шримати Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3570195
+  duration: 00:03:19
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3
+date: 1982-11-08
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3
     title: аудиозапись в MP3 (3 мин. 19 сек., 3,5 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 473. 1982.11.08.B2. Вриндаван — это то место, которое хранит на себе
+    следы стоп Шримати Радхарани
+  index: "473"
+  filename: 473-1982-11-08-b2-vrindavan-eto-to-mesto-kotoroe-hranit-na-sebe-sledy-stop-shrimati-radharani.md
 ---
-
-# 473. 1982.11.08.B2. Вриндаван — это то место, которое хранит на себе следы стоп Шримати Радхарани
 
     ра̄дха̄-падма̄н̇кита дха̄ма, вр̣нда̄вана джа̄р на̄ма
 [^_ftn1]

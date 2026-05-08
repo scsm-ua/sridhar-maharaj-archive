@@ -1,5 +1,14 @@
 ---
 slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
+record_id: 1983.04.29.B
+title: О важности соблюдения регулирующих принципов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16775178
+  duration: 00:32:40
+  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+date: 1983-04-29
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
@@ -34,7 +43,6 @@ tags:
     slug: bhagavad-gita-14-18
   - title: Бхагавад-гита 14.13
     slug: bhagavad-gita-14-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
     title: аудиозапись в MP3 (32 мин. 40 сек., 16,0 МБ)
@@ -42,9 +50,11 @@ links:
     title: транскрипцию в RTF (175 КБ)
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.pdf
     title: транскрипцию в PDF (221 КБ)
+legacy:
+  title: 750. 1983.04.29.B. О важности соблюдения регулирующих принципов
+  index: "750"
+  filename: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov.md
 ---
-
-# 750. 1983.04.29.B. О важности соблюдения регулирующих принципов
 
 Николас, он был убит? Убит кем, каким-то человеком? Мне рассказывали, что во время войны, когда был голод, всю пищу, продовольствие поставляли армии, и штатские, рядовые граждане страдали. Он вдохновил своих последователей отправиться во дворец и умолять о пище. Они сделали это, и их пытались остановить, царь отдал приказ стрелять, в конце концов. Их пытались остановить, люди не вняли призывам, и царь отдал приказ стрелять. Они шли в сторону царского дворца, они достигли дворца, в конце концов все-таки прорвались к дворцу, и царь был убит. Николай, царь Николай. Так я слышал.
 

@@ -1,5 +1,14 @@
 ---
 slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
+record_id: 1982.02.23.B6.5
+title: Ученик выбирает учителя в зависимости от типа веры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5550424
+  duration: 00:11:21
+  mp3: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
+date: 1982-02-23
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -10,7 +19,6 @@ tags:
     slug: guru-parampara
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
     title: аудиозапись в MP3 (11 мин. 21 сек., 5,3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 273. 1982.02.23.В6.5. Ученик выбирает учителя в зависимости от типа веры
+  index: "273"
+  filename: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very.md
 ---
-
-# 273. 1982.02.23.В6.5. Ученик выбирает учителя в зависимости от типа веры
 
 *«Мгновения Прекрасной Реальности», (часть 6.5)*
 

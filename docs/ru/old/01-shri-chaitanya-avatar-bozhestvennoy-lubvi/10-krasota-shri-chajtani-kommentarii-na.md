@@ -1,5 +1,14 @@
 ---
 slug: 10-krasota-shri-chajtani-kommentarii-na
+record_id: 1983.03.08.A2
+title: Красота Шри Чайтаньи. Комментарии на шлоки Шрилы Рупы Госвами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17962706
+  duration: 00:37:07
+  mp3: /wp-content/uploads/2012/08/010_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi_Kommentarii_na_shloki_Rupy_Gosvami.mp3
+date: 1983-03-08
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +19,15 @@ tags:
     slug: mahaprabhu
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/010_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi_Kommentarii_na_shloki_Rupy_Gosvami.mp3
     title: Скачать аудиозапись в mp3 (37 мин 7 сек, размер 18 Мб)
+legacy:
+  title: 10. Красота Шри Чайтаньи. Комментарии на шлоки Шрилы Рупы Госвами.
+    1983.03.08.A2
+  index: "10"
+  filename: 10-krasota-shri-chajtani-kommentarii-na.md
 ---
-
-# 10. Красота Шри Чайтаньи. Комментарии на шлоки Шрилы Рупы Госвами. 1983.03.08.A2
 
 Забываю тебя, забыв тебя. Насколько я забыл тебя, мой язык поражен невежеством. Поражен болезнью невежества, язык. Нектар, который содержится в твоем имени не радует меня, не порождает горячего желания, вкуса. Я не чувствую вкус. Оно не вкусное для меня, божественное имя. Преданные говорят «… одного языка недостаточно, миллионы языков необходимы, чтобы призывать имя Кришны».
 

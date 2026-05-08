@@ -1,5 +1,14 @@
 ---
 slug: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi
+record_id: 1982.02.21.B4
+title: Апарадха-бханджан-пат — место, где прощаются все грехи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3872040
+  duration: 00:06:22
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
+date: 1982-02-21
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
     slug: shri-chajtanya-bhagavata-antya-khanda-3-541
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 3,7 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 1087. 1982.02.21.B4. Апарадха-бханджан-пат — место, где прощаются все грехи
+  index: "1087"
+  filename: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi.md
 ---
-
-# 1087. 1982.02.21.B4. Апарадха-бханджан-пат — место, где прощаются все грехи
 
 *«Мгновения Прекрасной Реальности» (часть 2.4)*
 

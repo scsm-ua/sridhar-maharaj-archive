@@ -1,5 +1,14 @@
 ---
 slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
+record_id: 1982.05.12.B2
+title: Что такое «майа»? Стих 2.9.34 чатуршлоки «Шримад-Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14184573
+  duration: 00:12:51
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3
+date: 1982-05-12
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -46,7 +55,6 @@ tags:
     slug: shrimad-bhagavatam-2-9-33
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3
     title: аудиозапись в MP3 (12 мин. 50 сек., 13,6 МБ)
@@ -54,9 +62,12 @@ links:
     title: транскрипцию в RTF (179 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 502. 1982.05.12.B2. Что такое «майа»? Стих 2.9.34 чатуршлоки
+    «Шримад-Бхагаватам»
+  index: "502"
+  filename: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
 ---
-
-# 502. 1982.05.12.B2. Что такое «майа»? Стих 2.9.34 чатуршлоки «Шримад-Бхагаватам»
 
 **Шрила Шридхар Махарадж:** Этот ответ готов?
 

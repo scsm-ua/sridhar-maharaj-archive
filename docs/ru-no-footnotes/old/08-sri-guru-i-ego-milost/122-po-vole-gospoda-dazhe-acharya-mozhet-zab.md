@@ -1,5 +1,13 @@
 ---
 slug: 122-po-vole-gospoda-dazhe-acharya-mozhet-zab
+title: По воле Господа даже ачарья может заблуждаться. Мгновения прекрасной
+  реальности, часть 3.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3694216
+  duration: 00:06:40
+  mp3: /wp-content/uploads/2012/08/122_MgnoveniyaPR_3.1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -14,13 +22,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/122_MgnoveniyaPR_3.1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
     title: Скачать аудиозапись в mp3 (6 мин 40 сек, размер 3 Мб)
+legacy:
+  title: 122. По воле Господа даже ачарья может заблуждаться. Мгновения прекрасной
+    реальности, часть 3.1
+  index: "122"
+  filename: 122-po-vole-gospoda-dazhe-acharya-mozhet-zab.md
 ---
-
-# 122. По воле Господа даже ачарья может заблуждаться. Мгновения прекрасной реальности, часть 3.1
 
 *#00:00:09#*
 

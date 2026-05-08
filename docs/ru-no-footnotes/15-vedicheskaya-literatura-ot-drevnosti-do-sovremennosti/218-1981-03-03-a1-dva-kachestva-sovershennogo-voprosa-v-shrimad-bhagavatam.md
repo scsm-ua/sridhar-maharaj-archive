@@ -1,12 +1,20 @@
 ---
 slug: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam
+record_id: 1981.03.03.A1
+title: Два качества совершенного вопроса в Шримад Бхагаватам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1909625
+  duration: 00:02:35
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.mp3
+date: 1981-03-03
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (2 мин. 34 сек., 1,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 218. 1981.03.03.A1. Два качества совершенного вопроса в Шримад Бхагаватам
+  index: "218"
+  filename: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam.md
 ---
-
-# 218. 1981.03.03.A1. Два качества совершенного вопроса в Шримад Бхагаватам
 
 **Шрила Шридхар Махарадж:** Какой вопрос задать первым?
 

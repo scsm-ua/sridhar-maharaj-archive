@@ -1,5 +1,14 @@
 ---
 slug: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste
+record_id: 1982.05.10.B3
+title: Труд, который приносит страдания, и труд, который дарит счастье
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9063852
+  duration: 00:08:47
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3
+date: 1982-05-10
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -18,7 +27,6 @@ tags:
     slug: bhagavad-gita-15-6
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3
     title: аудиозапись в MP3 (8 мин. 47 сек., 8,7 МБ)
@@ -26,9 +34,12 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 446. 1982.05.10.B3. Труд, который приносит страдания, и труд, который
+    дарит счастье
+  index: "446"
+  filename: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste.md
 ---
-
-# 446. 1982.05.10.B3. Труд, который приносит страдания, и труд, который дарит счастье
 
 Харе Кришна.
 

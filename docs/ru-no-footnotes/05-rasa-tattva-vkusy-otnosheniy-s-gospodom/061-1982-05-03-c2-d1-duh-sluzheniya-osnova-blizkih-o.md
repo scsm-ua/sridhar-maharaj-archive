@@ -1,12 +1,20 @@
 ---
 slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
+record_id: 1982.05.03.C2.D1
+title: Дух служения — основа близких отношений с Абсолютом во Вриндаване
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8444479
+  duration: 00:06:08
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.mp3
+date: 1982-05-03
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (6 мин. 08 сек., 128 кбит/сек, 8.1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 061. 1982.05.03.C2.D1 Дух служения — основа близких отношений с Абсолютом
+    во Вриндаване
+  index: "061"
+  filename: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o.md
 ---
-
-# 061. 1982.05.03.C2.D1 Дух служения — основа близких отношений с Абсолютом во Вриндаване
 
 Да, каким был твой вопрос?
 

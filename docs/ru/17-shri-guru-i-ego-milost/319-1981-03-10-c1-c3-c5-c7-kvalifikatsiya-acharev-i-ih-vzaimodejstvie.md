@@ -1,5 +1,14 @@
 ---
 slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
+record_id: 1981.03.10.C1.C3.C5.C7
+title: Квалификация ачарьев и их взаимодействие
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13723251
+  duration: 00:25:49
+  mp3: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3
+date: 1981-03-10
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -20,7 +29,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3
     title: аудиозапись в MP3 (25 мин. 48 сек., 3,1 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (245 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.pdf
     title: транскрипцию в PDF (181 КБ)
+legacy:
+  title: 319. 1981.03.10.C1.C3.C5.C7. Квалификация ачарьев и их взаимодействие
+  index: "319"
+  filename: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie.md
 ---
-
-# 319. 1981.03.10.C1.C3.C5.C7. Квалификация ачарьев и их взаимодействие
 
 **Госвами Махарадж:** Другой вопрос таков: говорится, что гуру выше дисциплины.
 

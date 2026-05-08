@@ -1,5 +1,14 @@
 ---
 slug: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi
+record_id: 1983.04.23.A
+title: Духовный звук приведет на землю любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11295899
+  duration: 00:22:52
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3
+date: 1983-04-23
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -8,7 +17,6 @@ tags:
     slug: 1983-04
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3
     title: аудиозапись в MP3 (22 мин. 52 сек., 10,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (222 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.pdf
     title: транскрипцию в PDF (176 КБ)
+legacy:
+  title: 349. 1983.04.23.A. Духовный звук приведет на землю любви
+  index: "349"
+  filename: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi.md
 ---
-
-# 349. 1983.04.23.A. Духовный звук приведет на землю любви
 
 Он идет, шаг за шагом, плавно, и земля Вриндавана испытывает экстаз, радость, *рамана-сукха*. *Вр̣нда̄ран̣йам̇ сва-пада-раман̣ам̇*[^_ftn1]. Высочайшую форму экстаза, красоты благодаря прикосновению стоп Шри Кришны испытывает земля, чувствует полноту, удовлетворенность, насыщенность, такую великую радость удовлетворения, что забывает себя. Каждое прикосновение таково. Роскоши, величия никто не хочет, и никаких расчетов. Желанное — Всеобъемлющий (или Всехприемлющий), нам говорят, что это цель нашей жизни.
 

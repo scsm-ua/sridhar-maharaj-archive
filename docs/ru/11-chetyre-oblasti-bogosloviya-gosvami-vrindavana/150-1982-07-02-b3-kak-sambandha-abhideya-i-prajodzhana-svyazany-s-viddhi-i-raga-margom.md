@@ -1,5 +1,14 @@
 ---
 slug: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom
+record_id: 1982.07.02.B3
+title: Как самбандха, абхидея и прайоджана связаны с виддхи- и рага-маргом?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17273427
+  duration: 00:16:12
+  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.mp3
+date: 1982-07-02
 category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
@@ -10,7 +19,6 @@ tags:
     slug: prajodzhana
   - title: Самбандха
     slug: sambandha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.mp3
     title: аудиозапись в MP3 (16 мин. 11 сек., 16,5 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (115 КБ)
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 150. 1982.07.02.B3. Как самбандха, абхидея и прайоджана связаны с виддхи-
+    и рага-маргом?
+  index: "150"
+  filename: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom.md
 ---
-
-# 150. 1982.07.02.B3. Как самбандха, абхидея и прайоджана связаны с виддхи- и рага-маргом?
 
 **Преданный:** Махарадж, различные стадии развития — *абхидея*, *самбандха* и *прайоджана* — это так же различные стадии преданного служения, как, скажем, *виддхи-бхакти*, *рагануга-бхакти*?
 

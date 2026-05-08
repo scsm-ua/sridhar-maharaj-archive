@@ -1,5 +1,13 @@
 ---
 slug: 352-znachenie-i-filosofskie-aspekty-dnej
+title: Значение и философские аспекты дней Экадаши. Мгновения прекрасной
+  реальности, часть 7.5
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7516352
+  duration: 00:13:19
+  mp3: /wp-content/uploads/2012/08/352_MgnoveniyaPR_7.5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
@@ -8,13 +16,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/352_MgnoveniyaPR_7.5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
     title: Скачать аудиозапись в mp3 (13 мин 19 сек, размер 7 Мб)
+legacy:
+  title: 352. Значение и философские аспекты дней Экадаши. Мгновения прекрасной
+    реальности, часть 7.5
+  index: "352"
+  filename: 352-znachenie-i-filosofskie-aspekty-dnej.md
 ---
-
-# 352. Значение и философские аспекты дней Экадаши. Мгновения прекрасной реальности, часть 7.5
 
 **Ученик:** Махарадж, сегодня *экадаши*. Не могли бы Вы рассказать нам что-либо о значении *экадашей*?
 

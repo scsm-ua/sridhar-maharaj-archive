@@ -1,12 +1,20 @@
 ---
 slug: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti
+record_id: 1982.06.15.A1
+title: Обсуждение названия и содержания книги Поиск Шри Кришны, Прекрасной Реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8509136
+  duration: 00:08:20
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
+date: 1982-06-15
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
     title: аудиозапись в MP3 (8 мин. 19 сек., 8,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 1113. 1982.06.15.A1. Обсуждение названия и содержания книги Поиск Шри
+    Кришны, Прекрасной Реальности
+  index: "1113"
+  filename: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti.md
 ---
-
-# 1113. 1982.06.15.A1. Обсуждение названия и содержания книги Поиск Шри Кришны, Прекрасной Реальности
 
 Ее красота возрастала. Различные комментаторы дали свое толкование, но интерпретация была дана одним бенгальским ученым, Харинатхом Де. Его толкование понравилось мне больше всего. Он говорил о том, что звуковая красота превратилась в красоту визуальную. Красота слуховая, красота звука через слух достигала сердца и вносила свой вклад, порождая красоту образа.
 

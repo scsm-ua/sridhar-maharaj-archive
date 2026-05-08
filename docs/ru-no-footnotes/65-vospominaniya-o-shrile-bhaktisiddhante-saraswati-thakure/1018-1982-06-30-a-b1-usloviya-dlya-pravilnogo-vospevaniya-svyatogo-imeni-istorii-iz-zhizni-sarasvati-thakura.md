@@ -1,12 +1,21 @@
 ---
 slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
+record_id: 1982.06.30.A.B1
+title: Условия для правильного воспевания Святого Имени. Истории из жизни
+  Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 35892443
+  duration: 00:36:46
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.mp3
+date: 1982-06-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (36 мин. 45 сек., 34,3 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (290 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (200 КБ)
+legacy:
+  title: 1018. 1982.06.30.A.B1. Условия для правильного воспевания Святого Имени.
+    Истории из жизни Сарасвати Тхакура
+  index: "1018"
+  filename: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura.md
 ---
-
-# 1018. 1982.06.30.A.B1. Условия для правильного воспевания Святого Имени. Истории из жизни Сарасвати Тхакура
 
 То, что необходимо для нашего духовного возвышения, роста, прогресса, было рекомендовано, и мы попытаемся общаться с людьми, которые разделяют нашу природу, но стоят выше нас. Необходимо всегда искать общество тех, кто выше, нас превосходящих, святых преданных, которые следуют той же линии мысли (или линии вдохновения), что и мы, *сваджатийа-ашрайа-снигдха*.
 

@@ -1,5 +1,14 @@
 ---
 slug: 109-tri-tipa-guru-transformatsiya-vospriya
+record_id: 1981.03.02.A1
+title: Три типа гуру. Трансформация восприятия гуру.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7855982
+  duration: 00:13:54
+  mp3: /wp-content/uploads/2012/08/109_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
+date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +19,14 @@ tags:
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/109_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
     title: Скачать аудиозапись в mp3 (13 мин 54 сек, размер 7 Мб)
+legacy:
+  title: 109. Три типа гуру. Трансформация восприятия гуру. 1981.03.02.A1
+  index: "109"
+  filename: 109-tri-tipa-guru-transformatsiya-vospriya.md
 ---
-
-# 109. Три типа гуру. Трансформация восприятия гуру. 1981.03.02.A1
 
 *#00:00:00#*
 

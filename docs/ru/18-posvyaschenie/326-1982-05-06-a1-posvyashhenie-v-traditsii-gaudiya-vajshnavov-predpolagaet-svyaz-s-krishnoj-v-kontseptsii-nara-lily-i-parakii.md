@@ -1,5 +1,15 @@
 ---
 slug: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii
+record_id: 1982.05.06.A1
+title: Посвящение в традиции гаудия-вайшнавов предполагает связь с Кришной в
+  концепции нара-лилы и паракии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7304097
+  duration: 00:07:20
+  mp3: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3
+date: 1982-05-06
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -12,7 +22,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3
     title: аудиозапись в MP3 (7 мин. 20 сек., 7,0 МБ)
@@ -20,9 +29,12 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 326. 1982.05.06.A1. Посвящение в традиции гаудия-вайшнавов предполагает
+    связь с Кришной в концепции нара-лилы и паракии
+  index: "326"
+  filename: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii.md
 ---
-
-# 326. 1982.05.06.A1. Посвящение в традиции гаудия-вайшнавов предполагает связь с Кришной в концепции нара-лилы и паракии
 
 **Госвами Махарадж:** Махарадж?
 

@@ -1,12 +1,20 @@
 ---
 slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
+record_id: 1982.06.19.C6
+title: Проверки преданности — от богатства до предложения стать Шивой
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7031797
+  duration: 00:07:00
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3
+date: 1982-06-19
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3
     title: аудиозапись в MP3 (7 мин. 00 сек., 6,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (122 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 709. 1982.06.19.C6. Проверки преданности — от богатства до предложения
+    стать Шивой
+  index: "709"
+  filename: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj.md
 ---
-
-# 709. 1982.06.19.C6. Проверки преданности — от богатства до предложения стать Шивой
 
 **Преданный:** Махарадж, Кришна говорит: *йасйа̄хам анугр̣хн̣а̄ми, хариш̣йе тад-дханам̇ ш́анаих̣*[^_ftn1]. [Вопрос непонятен.]
 

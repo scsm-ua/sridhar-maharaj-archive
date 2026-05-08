@@ -1,5 +1,14 @@
 ---
 slug: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved
+record_id: 1982.07.09.B2
+title: Познание Кришны — суть всех Вед
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9655714
+  duration: 00:09:19
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/017_1982.07.09.B2_SridharMj_Poznanie_Krishny--sut_vseh_Ved.mp3
+date: 1982-07-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -24,7 +33,6 @@ tags:
     slug: mundaka-upanishad-1-3
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/017_1982.07.09.B2_SridharMj_Poznanie_Krishny--sut_vseh_Ved.mp3
     title: аудиозапись в MP3 (09 мин. 19 сек., 9.2 МБ)
@@ -32,11 +40,13 @@ links:
     title: транскрипцию в RTF (111 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/017_1982.07.09.B2_SridharMj_Poznanie_Krishny--sut_vseh_Ved.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 017. 1982.07.09.B2 Познание Кришны — суть всех Вед
+  index: "017"
+  filename: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved.md
 ---
 
-# 017. 1982.07.09.B2 Познание Кришны — суть всех Вед
-
-    ведаиш́ ча сарваир ахам эва ведйо
+ведаиш́ ча сарваир ахам эва ведйо
 [^_ftn1]
 
     ш́рутибхир вимр̣гйа̄м

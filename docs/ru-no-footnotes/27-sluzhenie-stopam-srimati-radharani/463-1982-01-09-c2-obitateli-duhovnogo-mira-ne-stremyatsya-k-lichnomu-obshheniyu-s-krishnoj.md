@@ -1,12 +1,20 @@
 ---
 slug: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj
+record_id: 1982.01.09.C2
+title: Обитатели духовного мира не стремятся к личному общению с Кришной
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5418830
+  duration: 00:10:29
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3
+date: 1982-01-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3
     title: аудиозапись в MP3 (10 мин. 29 сек., 5,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (91 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.pdf
     title: транскрипцию в PDF (130 КБ)
+legacy:
+  title: 463. 1982.01.09.C2. Обитатели духовного мира не стремятся к личному
+    общению с Кришной
+  index: "463"
+  filename: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj.md
 ---
-
-# 463. 1982.01.09.C2. Обитатели духовного мира не стремятся к личному общению с Кришной
 
 …прямой контакт с Кришной. Сама природа этих *сакхи*, подруг Радхарани такова, что они никогда не хотят непосредственного контакта с Кришной. Сама их природа служения такова, что они стремятся к максимальному удовлетворению Кришны и в полной мере осознают то обстоятельство, что только Радхарани может быть источником такого счастья для Кришны.
 

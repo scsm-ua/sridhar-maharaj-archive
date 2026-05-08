@@ -1,18 +1,28 @@
 ---
 slug: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1
+record_id: 1982.01.28.B1
+title: Кришна принимает чувства сердца.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8370615
+  duration: 00:14:46
+  mp3: /wp-content/uploads/2012/08/049_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+date: 1982-01-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/049_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
     title: Скачать аудиозапись в mp3 (14 мин 46 сек, размер 8 Мб)
+legacy:
+  title: 49. Кришна принимает чувства сердца. 1982.01.28.B1
+  index: "49"
+  filename: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1.md
 ---
-
-# 49. Кришна принимает чувства сердца. 1982.01.28.B1
 
 *#00:00:00#*
 

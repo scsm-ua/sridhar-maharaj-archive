@@ -1,5 +1,14 @@
 ---
 slug: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir
+record_id: 1982.11.06.A2
+title: Чарвака Риши о влиянии звука на окружающий мир
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4470419
+  duration: 00:04:20
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.mp3
+date: 1982-11-06
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.mp3
     title: аудиозапись в MP3 (4 мин. 19 сек., 4,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 350. 1982.11.06.A2. Чарвака Риши о влиянии звука на окружающий мир
+  index: "350"
+  filename: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir.md
 ---
-
-# 350. 1982.11.06.A2. Чарвака Риши о влиянии звука на окружающий мир
 
 Однажды Ачьютананда беседовал со мной, задавал вопросы о Святом Имени, Божественном Имени, и я отвечал. Он делал заметки, записи и послал затем в журнал «Назад к Богу» статью.
 

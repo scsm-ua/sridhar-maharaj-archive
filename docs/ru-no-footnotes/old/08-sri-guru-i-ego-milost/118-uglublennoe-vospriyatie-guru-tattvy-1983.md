@@ -1,5 +1,14 @@
 ---
 slug: 118-uglublennoe-vospriyatie-guru-tattvy-1983
+record_id: 1983.06.10
+title: Углубленное восприятие гуру-таттвы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27702211
+  duration: 00:45:59
+  mp3: /wp-content/uploads/2012/08/118_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
+date: 1983-06-10
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -22,13 +31,14 @@ tags:
     slug: sarasvati-thakur
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/118_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
     title: Скачать аудиозапись в mp3 (45 мин 59 сек, размер 27 Мб)
+legacy:
+  title: 118. Углубленное восприятие гуру-таттвы. 1983.06.10
+  index: "118"
+  filename: 118-uglublennoe-vospriyatie-guru-tattvy-1983.md
 ---
-
-# 118. Углубленное восприятие гуру-таттвы. 1983.06.10
 
 *#00:00:00#*
 

@@ -1,5 +1,14 @@
 ---
 slug: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom
+record_id: 1982.04.14.B3.C1.C3
+title: Смирение и независтливость – путь к близкому общению с Высшим Началом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19884449
+  duration: 00:19:59
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost--put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.mp3
+date: 1982-04-14
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
@@ -24,7 +33,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам 11.23.34
     slug: shrimad-bhagavatam-11-23-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost--put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.mp3
     title: аудиозапись в MP3 (19 мин. 59 сек., 19 МБ)
@@ -32,9 +40,12 @@ links:
     title: транскрипцию в RTF (189 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost_-_put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.pdf
     title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 203. 1982.04.14.B3.C1.C3. Смирение и независтливость – путь к близкому
+    общению с Высшим Началом
+  index: "203"
+  filename: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom.md
 ---
-
-# 203. 1982.04.14.B3.C1.C3. Смирение и независтливость – путь к близкому общению с Высшим Началом
 
 Мы очень малы, и мы хотим, чтобы Величайшее Начало было очень близким к нам. Мы столь малы, столь низки, а Он столь высок, и мы хотим интимной, близкой связи с Ним, поэтому мы не должны думать постороннее, мы не должны быть любителями роскоши, величия, трепета и благоговения. Здесь присутствует ясное различие между этими явлениями: лишь дружелюбие и простота, особенно на земле Любви, на земле Милости — там, где Высокое и низкое могут быть очень близки. Близкое, тесное общение с Высшим Началом возможно лишь в атмосфере Вриндавана, а не в каких-либо иных местах.
 

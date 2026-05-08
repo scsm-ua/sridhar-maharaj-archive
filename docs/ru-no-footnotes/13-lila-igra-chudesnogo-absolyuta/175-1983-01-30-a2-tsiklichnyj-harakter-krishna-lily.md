@@ -1,5 +1,14 @@
 ---
 slug: 175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily
+record_id: 1983.01.30.A2
+title: Цикличный характер Кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4595336
+  duration: 00:08:46
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
+date: 1983-01-30
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
     title: аудиозапись в MP3 (8 мин. 46 сек., 4,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 175. 1983.01.30.A2. Цикличный характер Кришна-лилы
+  index: "175"
+  filename: 175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily.md
 ---
-
-# 175. 1983.01.30.A2. Цикличный характер Кришна-лилы
 
 **Преданный:** В одной книге написано, что однажды Шри Кришна произнес речь, находясь на луне, и по прошествии многих тысяч лет американцы сделали некие записи этой речи…
 

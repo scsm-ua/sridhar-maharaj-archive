@@ -1,5 +1,14 @@
 ---
 slug: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya
+record_id: 1982.04.16.C2
+title: Гауранга и «Бхагаватам» зовут нас в мир бессмертия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8477916
+  duration: 00:07:55
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3
+date: 1982-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3
     title: аудиозапись в MP3 (7 мин. 55 сек., 8,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 107. 1982.04.16.C2. Гауранга и «Бхагаватам» зовут нас в мир бессмертия
+  index: "107"
+  filename: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya.md
 ---
-
-# 107. 1982.04.16.C2. Гауранга и «Бхагаватам» зовут нас в мир бессмертия
 
 **Преданный:** Махарадж!
 

@@ -1,5 +1,14 @@
 ---
 slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
+record_id: 1981.03.02.C2
+title: О квалификации и умонастроении инициирующего Гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7045610
+  duration: 00:11:54
+  mp3: /dl/17._Shri_Guru_i_ego_milost/284_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
+date: 1981-03-02
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/284_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
     title: аудиозапись в MP3 (11 мин. 54 сек., 6,8 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/284_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 284. 1981.03.02.C2. О квалификации и умонастроении инициирующего Гуру
+  index: "284"
+  filename: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru.md
 ---
-
-# 284. 1981.03.02.C2. О квалификации и умонастроении инициирующего Гуру
 
 **Госвами Махарадж:** Вы утверждаете, что можно быть Гуру, стоя здесь, на этой земле, а взор устремлен в сторону Вайкунтхи.
 

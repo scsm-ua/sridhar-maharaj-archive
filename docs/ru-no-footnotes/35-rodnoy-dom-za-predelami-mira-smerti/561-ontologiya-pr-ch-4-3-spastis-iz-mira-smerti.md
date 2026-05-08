@@ -1,12 +1,18 @@
 ---
 slug: 561-ontologiya-pr-ch-4-3-spastis-iz-mira-smerti
+title: Онтология ПР. Ч. 4.3. Спастись из мира смерти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6310720
+  duration: 00:07:08
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
     title: аудиозапись в MP3 (7 мин. 07 сек., 6,1 МБ)
@@ -14,9 +20,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 561. Онтология ПР. Ч. 4.3. Спастись из мира смерти
+  index: "561"
+  filename: 561-ontologiya-pr-ch-4-3-spastis-iz-mira-smerti.md
 ---
-
-# 561. Онтология ПР. Ч. 4.3. Спастись из мира смерти
 
 **Преданный:** Истребитель.
 

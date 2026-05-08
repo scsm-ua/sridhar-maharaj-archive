@@ -1,5 +1,14 @@
 ---
 slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
+record_id: 1982.04.14.D3
+title: Объяснение понятий «свабхава» и «адхйатма» в стихе 8.3 «Гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9046381
+  duration: 00:07:44
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
+date: 1982-04-14
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
     title: аудиозапись в MP3 (7 мин. 43 сек., 8,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 608. 1982.04.14.D3. Объяснение понятий «свабхава» и «адхйатма» в стихе
+    8.3 «Гиты»
+  index: "608"
+  filename: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity.md
 ---
-
-# 608. 1982.04.14.D3. Объяснение понятий «свабхава» и «адхйатма» в стихе 8.3 «Гиты»
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

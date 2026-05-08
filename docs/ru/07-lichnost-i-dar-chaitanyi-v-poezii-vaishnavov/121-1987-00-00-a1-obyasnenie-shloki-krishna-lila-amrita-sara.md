@@ -1,5 +1,14 @@
 ---
 slug: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara
+record_id: 1987.00.00.A1
+title: Объяснение шлоки «кришна-лила амрита сара…»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4760858
+  duration: 00:06:52
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
+date: 1987-00-00
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -22,7 +31,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
     title: аудиозапись в MP3 (6 мин. 52 сек., 4,6 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 121. 1987.00.00.A1. Объяснение шлоки «кришна-лила амрита сара…»
+  index: "121"
+  filename: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara.md
 ---
-
-# 121. 1987.00.00.A1. Объяснение шлоки «кришна-лила амрита сара…»
 
 *Чаитанйа-дева — амр̣та-са̄ра*. Здесь Чайтаньядев сравнивается не с горой и не с холмом, но с озером. Он — источник, вместилище всего сознания Кришны, *амр̣та-са̄ра*, нектара сознания Кришны. Он — субстанция, суть нектара *кришна-лилы*. *Та̄ра ш́ата ш́ата дха̄ра*… Сотни ручьев берут начало в Нем. Это *чайтанья-лила*. *Даш́а-дике вахе йа̄ха̄ хаите*… Этот поток течет во всех десяти направлениях, сотни ручьев, многочисленные потоки этого нектара расходятся в десять сторон света.
 

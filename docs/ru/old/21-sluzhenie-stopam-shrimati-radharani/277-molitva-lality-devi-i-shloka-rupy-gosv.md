@@ -1,5 +1,14 @@
 ---
 slug: 277-molitva-lality-devi-i-shloka-rupy-gosv
+record_id: 1983.01.26.C2
+title: Молитва Лалиты Деви и шлока Рупы Госвами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5422507
+  duration: 00:10:15
+  mp3: /wp-content/uploads/2012/08/277_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
+date: 1983-01-26
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -14,13 +23,14 @@ tags:
     slug: molitva
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/277_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
     title: Скачать аудиозапись в mp3 (10 мин 15 сек, размер 5 Мб)
+legacy:
+  title: 277. Молитва Лалиты Деви и шлока Рупы Госвами. 1983.01.26.C2
+  index: "277"
+  filename: 277-molitva-lality-devi-i-shloka-rupy-gosv.md
 ---
-
-# 277. Молитва Лалиты Деви и шлока Рупы Госвами. 1983.01.26.C2
 
 Монополия! Торговля неуместна, невозможна на этом рынке, ни один капиталист не может войти на этот рынок. Лакшми Деви сама, сама Лакшми Деви хотела принять участие, но даже она не могла. Очень закрытый рынок, узкий рынок. Все поглощено сознанием Кришны, только одно остается на этом рынке, одно явление, исключительное.
 

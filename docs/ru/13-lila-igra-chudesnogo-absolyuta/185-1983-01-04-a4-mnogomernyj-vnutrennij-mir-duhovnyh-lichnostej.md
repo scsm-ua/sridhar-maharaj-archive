@@ -1,5 +1,14 @@
 ---
 slug: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej
+record_id: 1983.01.04.A4
+title: Многомерный внутренний мир духовных личностей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3042081
+  duration: 00:05:08
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
+date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -10,7 +19,6 @@ tags:
     slug: shri-shad-gosvami-ashtakam
   - title: Шри Шад Госвами Аштакам 2
     slug: shri-shad-gosvami-ashtakam-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
     title: аудиозапись в MP3 (5 мин. 07 сек., 3,0 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 185. 1983.01.04.A4. Многомерный внутренний мир духовных личностей
+  index: "185"
+  filename: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej.md
 ---
-
-# 185. 1983.01.04.A4. Многомерный внутренний мир духовных личностей
 
 **Преданный:** еще один вопрос. В «Махабхарате» говорится, что Юдхиштхира вместо Голоки отправился в рай.
 

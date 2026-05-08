@@ -1,5 +1,14 @@
 ---
 slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
+record_id: 1982.07.27.A2
+title: Третья мировая война. Постарайтесь жить в вечности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13669219
+  duration: 00:11:14
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3
+date: 1982-07-27
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -22,7 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-20-120
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3
     title: аудиозапись в MP3 (11 мин. 13 сек., 13,1 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 560. 1982.07.27.A2. Третья мировая война. Постарайтесь жить в вечности
+  index: "560"
+  filename: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti.md
 ---
-
-# 560. 1982.07.27.A2. Третья мировая война. Постарайтесь жить в вечности
 
 **Видагдха Мадхава Прабху:** Махарадж, у них есть один вопрос: на западе многие люди боятся войны. Они думают, что вскоре произойдет война.
 

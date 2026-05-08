@@ -1,5 +1,13 @@
 ---
 slug: 323-vse-mirozdanie-pronizano-potokom-li
+title: Все мироздание пронизано потоком лилы Господа. Мгновения прекрасной
+  реальности, часть 4.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1108024
+  duration: 00:02:36
+  mp3: /wp-content/uploads/2012/08/323_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
@@ -8,13 +16,15 @@ tags:
     slug: garmoniya
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/323_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (2 мин 36 сек, размер 1 Мб)
+legacy:
+  title: 323. Все мироздание пронизано потоком лилы Господа. Мгновения прекрасной
+    реальности, часть 4.6
+  index: "323"
+  filename: 323-vse-mirozdanie-pronizano-potokom-li.md
 ---
-
-# 323. Все мироздание пронизано потоком лилы Господа. Мгновения прекрасной реальности, часть 4.6
 
 **Преданный:** Махарадж, Вы сказали, что мы все стремимся к Этому.
 

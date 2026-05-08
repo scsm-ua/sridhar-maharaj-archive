@@ -1,5 +1,14 @@
 ---
 slug: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom
+record_id: 1983.04.16.A2
+title: Повторение ощущения не является опытом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3411832
+  duration: 00:05:10
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
+date: 1983-04-16
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -10,7 +19,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
     title: аудиозапись в MP3 (5 мин. 09 сек., 3,3 МБ)
@@ -18,11 +26,13 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 642. 1983.04.16.A2. Повторение ощущения не является опытом
+  index: "642"
+  filename: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom.md
 ---
 
-# 642. 1983.04.16.A2. Повторение ощущения не является опытом
-
-    бхактйа̄ сан̃джа̄тайа̄ бхактйа
+бхактйа̄ сан̃джа̄тайа̄ бхактйа
 [^_ftn1]
 
 *Бхакти* может порождать *бхакти*. Никогда *майя* не может порождать *бхакти*. Реальность дает реальность, а не ложное истолкование реальности способно породить реальность. Это очень просто. Все остальное прорастет, проявится из этого понимания, этой концепции. В гуще заблуждений, ложных представлений любой природы можем ли мы избавиться от ложных представлений? Некое позитивное явление должно прийти к нам на помощь. Если вы не понимаете азбучные, фундаментальные истины, тогда один и тот же вопрос будет вновь и вновь возникать, аналогичные вопросы всегда будут возникать. Ассимиляция необходима, усвоение: слушать и усваивать — это подлинное слушание. Действительно слушать значит усваивать услышанное.

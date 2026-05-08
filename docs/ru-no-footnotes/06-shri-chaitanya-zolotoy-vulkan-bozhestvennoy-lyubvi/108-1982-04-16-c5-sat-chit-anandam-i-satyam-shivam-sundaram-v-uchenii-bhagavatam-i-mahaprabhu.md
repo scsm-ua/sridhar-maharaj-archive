@@ -1,5 +1,14 @@
 ---
 slug: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu
+record_id: 1982.04.16.C5
+title: Сат-чит-анандам и сатьям-шивам-сундарам в учении «Бхагаватам» и Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7133758
+  duration: 00:06:31
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.mp3
+date: 1982-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -10,7 +19,6 @@ tags:
     slug: sat-chit-ananda
   - title: сатьям-шивам-сундарам
     slug: satyam-shivam-sundaram
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.mp3
     title: аудиозапись в MP3 (6 мин. 31 сек., 6,9 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 108. 1982.04.16.C5. Сат-чит-анандам и сатьям-шивам-сундарам в учении
+    «Бхагаватам» и Махапрабху
+  index: "108"
+  filename: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu.md
 ---
-
-# 108. 1982.04.16.C5. Сат-чит-анандам и сатьям-шивам-сундарам в учении «Бхагаватам» и Махапрабху
 
 *Адхокшаджа* — сверхсубъективное, сверхъестественное, трансцендентное явление. Такого рода тонкий субъект способен низойти в измерение нашего грубого опыта, но когда он уходит, то мы беспомощны. Мы не можем сами, своими силами обратиться, приблизиться к нему — тонкому субъективному существованию. Там находится Вайкунтха и Голока. Ты понимаешь?
 

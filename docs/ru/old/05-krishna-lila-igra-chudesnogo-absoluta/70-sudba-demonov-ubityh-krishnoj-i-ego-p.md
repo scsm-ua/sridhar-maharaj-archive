@@ -1,5 +1,14 @@
 ---
 slug: 70-sudba-demonov-ubityh-krishnoj-i-ego-p
+record_id: 1981.03.05.A4
+title: Судьба демонов, убитых Кришной, и Его преданных.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2174548
+  duration: 00:03:07
+  mp3: /wp-content/uploads/2012/08/070_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh1.mp3
+date: 1981-03-05
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/070_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh1.mp3
     title: Скачать аудиозапись в mp3 (3 мин 7 сек, размер 2 Мб)
+legacy:
+  title: 70. Судьба демонов, убитых Кришной, и Его преданных. 1981.03.05.A4
+  index: "70"
+  filename: 70-sudba-demonov-ubityh-krishnoj-i-ego-p.md
 ---
-
-# 70. Судьба демонов, убитых Кришной, и Его преданных. 1981.03.05.A4
 
 **Госвами Махарадж:** Есть одна шлока в «Ади-лиле» «Чайтинья-чаритамриты»; и в «Бхакти-расамрита-синдху», и также в «Лагу-бхагаватамритам» Рупы Госвами она присутствует: «*Айнам приананча крапхьям эйкам гоудитам брахма кришнаор айкхьят кхирана окума*».
 

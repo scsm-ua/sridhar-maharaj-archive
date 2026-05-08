@@ -1,5 +1,14 @@
 ---
 slug: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya
+record_id: 1982.01.27.A2
+title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10624219
+  duration: 00:16:14
+  mp3: /wp-content/uploads/2012/08/490_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
+date: 1982-01-27
 category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
@@ -8,13 +17,15 @@ tags:
     slug: 1982-01
   - title: Шри Чайтанья Сарасват Матх
     slug: shri-chajtanya-sarasvat-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/490_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
     title: Скачать аудиозапись в mp3 (16 мин 14 сек, размер 10 Мб)
+legacy:
+  title: 490. О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны».
+    1982.01.27.A2
+  index: "490"
+  filename: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya.md
 ---
-
-# 490. О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны». 1982.01.27.A2
 
 **Ученик:** Махарадж, вы назвали свой Матх «Шри Чайтанья Сарасват Матх». Каков смысл этого названия?
 

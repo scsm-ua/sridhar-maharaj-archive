@@ -1,5 +1,14 @@
 ---
 slug: 934-1982-01-30-a-b-odin-svyatoj-den-1982
+record_id: 1982.01.30.A.B
+title: Один святой день
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 35494033
+  duration: 01:07:56
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
+date: 1982-01-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -30,7 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.248
     slug: shri-chajtanya-charitamrita-madhya-lila-8-248
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
     title: аудиозапись в MP3 (1 час 7 мин. 56 сек., 33,9 МБ)
@@ -38,9 +46,11 @@ links:
     title: транскрипцию в RTF (458 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).pdf
     title: транскрипцию в PDF (214 КБ)
+legacy:
+  title: 934. 1982.01.30.A.B. Один святой день (1982)
+  index: "934"
+  filename: 934-1982-01-30-a-b-odin-svyatoj-den-1982.md
 ---
-
-# 934. 1982.01.30.A.B. Один святой день (1982)
 
 [Харе Кришна, Харе Кришна, Гаура Харибол]
 

@@ -1,12 +1,20 @@
 ---
 slug: 670-1982-02-21-b-ontologiya-chatur-vyuhi-i-polozhenie-durgi-devi
+record_id: 1982.02.21.B
+title: Онтология чатур-вьюхи и положение Дурги-деви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4118424
+  duration: 00:09:12
+  mp3: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3
+date: 1982-02-21
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3
     title: аудиозапись в MP3 (9 мин. 11 сек., 4,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (98 КБ)
   - href: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 670. 1982.02.21.B. Онтология чатур-вьюхи и положение Дурги-деви
+  index: "670"
+  filename: 670-1982-02-21-b-ontologiya-chatur-vyuhi-i-polozhenie-durgi-devi.md
 ---
-
-# 670. 1982.02.21.B. Онтология чатур-вьюхи и положение Дурги-деви
 
 *Мгновения Прекрасной Реальности (часть 1.6)*
 

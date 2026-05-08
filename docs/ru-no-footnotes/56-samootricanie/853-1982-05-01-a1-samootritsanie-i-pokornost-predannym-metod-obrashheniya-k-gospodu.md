@@ -1,5 +1,14 @@
 ---
 slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
+record_id: 1982.05.01.A1
+title: Самоотрицание и покорность преданным – метод обращения к Господу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10154610
+  duration: 00:07:43
+  mp3: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3
+date: 1982-05-01
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3
     title: аудиозапись в MP3 (7 мин. 42 сек., 9,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 853. 1982.05.01.A1. Самоотрицание и покорность преданным – метод
+    обращения к Господу
+  index: "853"
+  filename: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu.md
 ---
-
-# 853. 1982.05.01.A1. Самоотрицание и покорность преданным – метод обращения к Господу
 
 Бесконечно малое и бесконечно великое, безграничное, тесно связаны.
 

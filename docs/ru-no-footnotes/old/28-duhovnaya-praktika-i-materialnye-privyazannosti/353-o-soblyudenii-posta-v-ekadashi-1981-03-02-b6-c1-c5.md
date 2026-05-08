@@ -1,5 +1,14 @@
 ---
 slug: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5
+record_id: 1981.03.02.B6.C1.C5
+title: О соблюдении поста в экадаши.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4791808
+  duration: 00:09:52
+  mp3: /wp-content/uploads/2012/08/353_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
+date: 1981-03-02
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/353_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
     title: Скачать аудиозапись в mp3 (9 мин 52 сек, размер 4 Мб)
+legacy:
+  title: 353. О соблюдении поста в экадаши. 1981.03.02.B6.C1.C5
+  index: "353"
+  filename: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5.md
 ---
-
-# 353. О соблюдении поста в экадаши. 1981.03.02.B6.C1.C5
 
 **Говинда Махарадж:** Анукалпа?
 

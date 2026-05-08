@@ -1,12 +1,20 @@
 ---
 slug: 937-1983-05-04-b2-o-predannosti-i-neobychajnoj-sile-abhirama-thakura
+record_id: 1983.05.04.B2
+title: О преданности и необычайной силе Абхирама Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7259219
+  duration: 00:09:07
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/937_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
+date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1983.05"
     slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/937_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
     title: аудиозапись в MP3 (9 мин. 07 сек., 7,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/937_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 937. 1983.05.04.B2. О преданности и необычайной силе Абхирама Тхакура
+  index: "937"
+  filename: 937-1983-05-04-b2-o-predannosti-i-neobychajnoj-sile-abhirama-thakura.md
 ---
-
-# 937. 1983.05.04.B2. О преданности и необычайной силе Абхирама Тхакура
 
 Сегодня, мне сказали, день рождения Абхирама Госвами. Он был одним из десяти друзей Нитьянанды Прабху. В Хугли (или где-то) его родной дом. Он был Шридам Сакха во Врадже, физическая сила Баладева. Баладев обладает огромной физической силой, и вторым после него в этом смысле идет Шридам. Нитьянанда — это Баладев, а Шридам — это Абхирам.
 

@@ -1,5 +1,14 @@
 ---
 slug: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti
+record_id: 1982.06.19.A3.B1
+title: Постепенное очищение сердца от скверны и развитие преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17769023
+  duration: 00:17:39
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3
+date: 1982-06-19
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
@@ -54,7 +63,6 @@ tags:
     slug: shrimad-bhagavatam-10-8-46
   - title: Бхагавад-гита 9.24
     slug: bhagavad-gita-9-24
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3
     title: аудиозапись в MP3 (17 мин. 39 сек., 17,0 МБ)
@@ -62,9 +70,12 @@ links:
     title: транскрипцию в RTF (261 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.pdf
     title: транскрипцию в PDF (188 КБ)
+legacy:
+  title: 717. 1982.06.19.A3.B1. Постепенное очищение сердца от скверны и развитие
+    преданности
+  index: "717"
+  filename: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
 ---
-
-# 717. 1982.06.19.A3.B1. Постепенное очищение сердца от скверны и развитие преданности
 
 Преданность — причина самой себе. Это позитивное явление, а негативное начало — это покрытие, оболочки, чужеродные элементы. Они все уйдут, исчезнут. По мере развития *бхакти* покрытие, оскверняющая оболочка, этот слой будет истончаться и в конце концов исчезнет, *дхуноти сарвам̇*[^_ftn1]. Внутренняя плененность. И внешние, чужеродные элементы, грязь, скверна уйдут, исчезнут.
 

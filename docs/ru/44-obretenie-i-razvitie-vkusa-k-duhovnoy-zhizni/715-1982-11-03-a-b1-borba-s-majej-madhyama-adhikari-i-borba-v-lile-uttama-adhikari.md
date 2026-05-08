@@ -1,5 +1,14 @@
 ---
 slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
+record_id: 1982.11.03.A.B1
+title: Борьба с майей мадхьяма-адхикари и борьба в лиле уттама-адхикари
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27525861
+  duration: 00:27:49
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.mp3
+date: 1982-11-03
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
@@ -74,7 +83,6 @@ tags:
     slug: shrimad-bhagavatam-10-47-18
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50
     slug: shri-chajtanya-charitamrita-madhya-lila-2-50
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.mp3
     title: аудиозапись в MP3 (27 мин. 49 сек., 4,0 МБ)
@@ -82,9 +90,12 @@ links:
     title: транскрипцию в RTF (268 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.pdf
     title: транскрипцию в PDF (209 КБ)
+legacy:
+  title: 715. 1982.11.03.A.B1. Борьба с майей мадхьяма-адхикари и борьба в лиле
+    уттама-адхикари
+  index: "715"
+  filename: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari.md
 ---
-
-# 715. 1982.11.03.A.B1. Борьба с майей мадхьяма-адхикари и борьба в лиле уттама-адхикари
 
 **Преданный:** Гуру Махарадж, иногда мне приходилось слышать: если человек не сражается, не ведет упорную борьбу в сознании Кришны, то это плохо. Таким должно быть состояние человека, стремящегося к сознанию Кришны — состояние борьбы, сражения.
 

@@ -1,5 +1,14 @@
 ---
 slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
+record_id: 1982.11.03.B3
+title: Два значения слова Пурана и понятие «вайшнав». Служение Центру – труд любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 26544578
+  duration: 00:27:00
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.mp3
+date: 1982-11-03
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -34,7 +43,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.mp3
     title: аудиозапись в MP3 (26 мин. 59 сек., 25,4 МБ)
@@ -42,9 +50,12 @@ links:
     title: транскрипцию в RTF (271 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 436. 1982.11.03.B3. Два значения слова Пурана и понятие «вайшнав».
+    Служение Центру – труд любви
+  index: "436"
+  filename: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi.md
 ---
-
-# 436. 1982.11.03.B3. Два значения слова Пурана и понятие «вайшнав». Служение Центру – труд любви
 
 [**Шрипад Джаджавар Махарадж** начал шлоку, а **Шрила Шридхар Махарадж** продолжил:]
 

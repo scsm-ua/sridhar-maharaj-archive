@@ -1,5 +1,14 @@
 ---
 slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
+record_id: 1983.05.05.A
+title: Единство и различие в философии майавади и вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7237181
+  duration: 00:14:51
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
+date: 1983-05-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
@@ -16,7 +25,6 @@ tags:
     slug: bhagavad-gita-18-54
   - title: Бхагавад-гита 15.7
     slug: bhagavad-gita-15-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
     title: аудиозапись в MP3 (14 мин. 51 сек., 7,0 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (153 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 892. 1983.05.05.A. Единство и различие в философии майавади и вайшнавов
+  index: "892"
+  filename: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov.md
 ---
-
-# 892. 1983.05.05.A. Единство и различие в философии майавади и вайшнавов
 
 [Речь идет о каком-то методе сражения или борьбы — *переводчик*]
 

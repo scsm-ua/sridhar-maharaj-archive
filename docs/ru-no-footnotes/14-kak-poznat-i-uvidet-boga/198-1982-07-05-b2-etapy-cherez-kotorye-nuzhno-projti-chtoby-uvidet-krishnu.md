@@ -1,12 +1,20 @@
 ---
 slug: 198-1982-07-05-b2-etapy-cherez-kotorye-nuzhno-projti-chtoby-uvidet-krishnu
+record_id: 1982.07.05.B2
+title: Этапы, через которые нужно пройти, чтобы увидеть Кришну
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12171014
+  duration: 00:11:57
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.mp3
+date: 1982-07-05
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.mp3
     title: аудиозапись в MP3 (11 мин. 57 сек., 11,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 198. 1982.07.05.B2. Этапы, через которые нужно пройти, чтобы увидеть Кришну
+  index: "198"
+  filename: 198-1982-07-05-b2-etapy-cherez-kotorye-nuzhno-projti-chtoby-uvidet-krishnu.md
 ---
-
-# 198. 1982.07.05.B2. Этапы, через которые нужно пройти, чтобы увидеть Кришну
 
 **Видагдха Мадхава Прабху:** Нашего Свами Махараджа спросили: «Вы видели Господа Кришну?» Как бы вы ответили на подобный вопрос? Если кто-то придет к вам и скажет: «Вы видели Господа Кришну?», то как вы ответите на подобный вопрос?
 

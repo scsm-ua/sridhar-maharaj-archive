@@ -1,12 +1,21 @@
 ---
 slug: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani
+record_id: 1982.05.09.B1
+title: Сваям Бхагаван – только тот Кришна, который находится по правую руку от
+  Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2155823
+  duration: 00:01:51
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3
+date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3
     title: аудиозапись в MP3 (1 мин. 50 сек., 2,1 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 472. 1982.05.09.B1. Сваям Бхагаван – только тот Кришна, который находится
+    по правую руку от Радхарани
+  index: "472"
+  filename: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani.md
 ---
-
-# 472. 1982.05.09.B1. Сваям Бхагаван – только тот Кришна, который находится по правую руку от Радхарани
 
 Лишь этот Кришна *Свайам-Бхагаван*. Когда Тот Самый Кришна находится в других местах, стоит рядом с многочисленными *гопи* (две *гопи* и один Кришна посредине, как в *раса-лиле*) — этот Кришна не есть *Свайам-Бхагаван*. *Свайам-Бхагаван* — только Тот Кришна, который находится по правую руку от Радхарани.
 

@@ -1,5 +1,14 @@
 ---
 slug: 124-1983-05-12-c1-polozhenie-gadadhara-pandita-v-gaura-lile
+record_id: 1983.05.12.C1
+title: Положение Гададхара Пандита в гаура-лиле
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4661133
+  duration: 00:06:42
+  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
+date: 1983-05-12
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-05
   - title: Гададхар Пандит
     slug: gadadhar-pandit
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 4,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 124. 1983.05.12.C1. Положение Гададхара Пандита в гаура-лиле
+  index: "124"
+  filename: 124-1983-05-12-c1-polozhenie-gadadhara-pandita-v-gaura-lile.md
 ---
-
-# 124. 1983.05.12.C1. Положение Гададхара Пандита в гаура-лиле
 
 «Через слух столь редкая концепция Шри Чайтаньи, концепция столь высокого уровня, пробудила доверие моего сердца, затмила все иные перспективы, пленила меня полностью. Я обрету это или расстанусь с жизнью! Я отказываюсь продолжать существование, я желаю жить в такой атмосфере, каким бы незначительным ни был мой опыт». Таким должно быть наше отношение.
 

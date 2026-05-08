@@ -1,5 +1,14 @@
 ---
 slug: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane
+record_id: 1983.11.11.B2
+title: Преданность превыше освобождения в Брахмане
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12661665
+  duration: 00:13:05
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.mp3
+date: 1983-11-11
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
@@ -40,7 +49,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.mp3
     title: аудиозапись в MP3 (13 мин. 04 сек., 12,1 МБ)
@@ -48,9 +56,11 @@ links:
     title: транскрипцию в RTF (170 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 899. 1983.11.11.B2. Преданность превыше освобождения в Брахмане
+  index: "899"
+  filename: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
 ---
-
-# 899. 1983.11.11.B2. Преданность превыше освобождения в Брахмане
 
 [Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари]
 

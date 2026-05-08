@@ -1,5 +1,14 @@
 ---
 slug: 29-polozhenie-gadadhara-pandita-v-gaura
+record_id: 1983.05.12.C1
+title: Положение Гададхара Пандита в гаура-лиле.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3327373
+  duration: 00:06:42
+  mp3: /wp-content/uploads/2012/08/029_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
+date: 1983-05-12
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -18,13 +27,14 @@ tags:
     slug: sarasvati-thakur
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/029_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
     title: Скачать аудиозапись в mp3 (6 мин 42 сек, размер 3 Мб)
+legacy:
+  title: 29. Положение Гададхара Пандита в гаура-лиле. 1983.05.12.C1
+  index: "29"
+  filename: 29-polozhenie-gadadhara-pandita-v-gaura.md
 ---
-
-# 29. Положение Гададхара Пандита в гаура-лиле. 1983.05.12.C1
 
 *#00:00:00#*
 

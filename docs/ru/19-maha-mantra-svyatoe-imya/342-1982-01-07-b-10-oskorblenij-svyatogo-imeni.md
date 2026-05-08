@@ -1,5 +1,14 @@
 ---
 slug: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni
+record_id: 1982.01.07.B
+title: 10 оскорблений Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12582587
+  duration: 00:25:33
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3
+date: 1982-01-07
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -16,7 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.85
     slug: shri-chajtanya-charitamrita-antya-lila-7-85
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3
     title: аудиозапись в MP3 (25 мин. 33 сек., 12,0 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (228 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 342. 1982.01.07.B. 10 оскорблений Святого Имени
+  index: "342"
+  filename: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni.md
 ---
-
-# 342. 1982.01.07.B. 10 оскорблений Святого Имени
 
 В «Падма-Пуране» мы находим десять оскорблений в адрес Святого Имени. Тот, кто воспевает Святое Имя и с помощью этого Святого Имени желает вступить в эту святую обитель, должен быть осторожен в отношении этих десяти оскорблений. Каковы они? Я перечислю их одно за другим.
 

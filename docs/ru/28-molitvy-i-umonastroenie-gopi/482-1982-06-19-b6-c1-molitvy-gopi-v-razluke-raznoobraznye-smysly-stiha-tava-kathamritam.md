@@ -1,5 +1,14 @@
 ---
 slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
+record_id: 1982.06.19.B6.C1
+title: Молитвы гопи в разлуке. Разнообразные смыслы стиха «тава катхамритам…»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20820030
+  duration: 00:21:26
+  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.mp3
+date: 1982-06-19
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
@@ -54,7 +63,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-13-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
     slug: shri-chajtanya-charitamrita-madhya-lila-8-291
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.mp3
     title: аудиозапись в MP3 (21 мин. 25 сек., 19,9 МБ)
@@ -62,9 +70,12 @@ links:
     title: транскрипцию в RTF (285 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.pdf
     title: транскрипцию в PDF (185 КБ)
+legacy:
+  title: 482. 1982.06.19.B6.C1. Молитвы гопи в разлуке. Разнообразные смыслы стиха
+    «тава катхамритам…»
+  index: "482"
+  filename: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam.md
 ---
-
-# 482. 1982.06.19.B6.C1. Молитвы гопи в разлуке. Разнообразные смыслы стиха «тава катхамритам…»
 
 **Преданный:** Махарадж, вы говорили, что «*тава катха̄мр̣там̇ тапта-джӣванам̇*[^_ftn1]» — эти описания имеют множество смыслов, значений.
 

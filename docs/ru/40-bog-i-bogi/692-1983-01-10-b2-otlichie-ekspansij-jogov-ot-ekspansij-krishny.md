@@ -1,12 +1,20 @@
 ---
 slug: 692-1983-01-10-b2-otlichie-ekspansij-jogov-ot-ekspansij-krishny
+record_id: 1983.01.10.B2
+title: Отличие экспансий йогов от экспансий Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2705346
+  duration: 00:04:02
+  mp3: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
+date: 1983-01-10
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
     title: аудиозапись в MP3 (4 мин. 01 сек., 2,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 692. 1983.01.10.B2. Отличие экспансий йогов от экспансий Кришны
+  index: "692"
+  filename: 692-1983-01-10-b2-otlichie-ekspansij-jogov-ot-ekspansij-krishny.md
 ---
-
-# 692. 1983.01.10.B2. Отличие экспансий йогов от экспансий Кришны
 
 **Преданный:** Махарадж, этот автор очень популярный на Западе.
 

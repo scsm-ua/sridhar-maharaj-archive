@@ -1,12 +1,20 @@
 ---
 slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
+record_id: 1982.07.15.A2
+title: Калидас – почитатель остатков пищи и воды со стоп вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13676774
+  duration: 00:11:15
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.mp3
+date: 1982-07-15
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.mp3
     title: аудиозапись в MP3 (11 мин. 14 сек., 13,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 935. 1982.07.15.A2. Калидас – почитатель остатков пищи и воды со стоп
+    вайшнавов
+  index: "935"
+  filename: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov.md
 ---
-
-# 935. 1982.07.15.A2. Калидас – почитатель остатков пищи и воды со стоп вайшнавов
 
 **Преданный:** …никаких взаимодействий, никакой *кришна*—*катхи*? Он все время произносил «Кришна, Кришна, Кришна»? Как это понимать?
 

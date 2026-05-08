@@ -1,5 +1,14 @@
 ---
 slug: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very
+record_id: 1982.07.08.A6
+title: Преданный не считает себя «законным обладателем» сокровищ мира веры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9309915
+  duration: 00:08:34
+  mp3: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3
+date: 1982-07-08
 category:
   title: 48. Вера
   slug: 48-vera
@@ -24,7 +33,6 @@ tags:
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3
     title: аудиозапись в MP3 (8 мин. 33 сек., 8,9 МБ)
@@ -32,9 +40,12 @@ links:
     title: транскрипцию в RTF (111 КБ)
   - href: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 761. 1982.07.08.A6. Преданный не считает себя «законным обладателем»
+    сокровищ мира веры
+  index: "761"
+  filename: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very.md
 ---
-
-# 761. 1982.07.08.A6. Преданный не считает себя «законным обладателем» сокровищ мира веры
 
 **Преданный:** Гуру Махарадж, у меня есть вопрос: в двадцать третьем стихе третьей главы «Прапанна-дживанамритам» описан комментарий Шрилы Бхактивинода Тхакура, в котором говорится: «Отвергая все эти процессы, я прославляю качества личности веры, по милости которой можно достичь преданности». Не могли бы вы объяснить…
 

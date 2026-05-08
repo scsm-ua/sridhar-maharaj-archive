@@ -1,12 +1,18 @@
 ---
 slug: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam
+title: Онтология ПР. Ч. 7.2. Бодрствование, сон и глубокий сон в «Шримад Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18734216
+  duration: 00:18:32
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (18 мин. 32 сек., 17,9 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (180 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (200 КБ)
+legacy:
+  title: 632. Онтология ПР. Ч. 7.2. Бодрствование, сон и глубокий сон в «Шримад
+    Бхагаватам»
+  index: "632"
+  filename: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam.md
 ---
-
-# 632. Онтология ПР. Ч. 7.2. Бодрствование, сон и глубокий сон в «Шримад Бхагаватам»
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари, Гаура-Харибол.
 

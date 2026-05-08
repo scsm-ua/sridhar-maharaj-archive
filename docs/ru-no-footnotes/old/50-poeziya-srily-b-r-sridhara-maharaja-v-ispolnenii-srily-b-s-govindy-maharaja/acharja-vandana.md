@@ -1,5 +1,13 @@
 ---
 slug: acharja-vandana
+record_id: null
+title: Ачарйа-вандана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14010350
+  duration: 00:13:59
+  mp3: /wp-content/uploads/2012/08/524_Acarya_vandana.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)
@@ -11,13 +19,14 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/524_Acarya_vandana.mp3
     title: Скачать аудиозапись в mp3 (13 мин 59 сек, размер 14 Мб)
+legacy:
+  title: 524. Ачарйа-вандана
+  index: "524"
+  filename: acharja-vandana.md
 ---
-
-# 524. Ачарйа-вандана
 
     джайаре джайаре джайа парамахам̇са маха̄ш́айа
     ш́рӣ бхактисиддха̄нта сарасватӣ

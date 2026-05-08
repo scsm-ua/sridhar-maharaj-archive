@@ -1,5 +1,14 @@
 ---
 slug: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya
+record_id: 1982.01.09.B
+title: Влечение — суть всего бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21479017
+  duration: 00:42:18
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/658_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3
+date: 1982-01-09
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
@@ -32,7 +41,6 @@ tags:
     slug: bhagavad-gita-6-46
   - title: Бхагавад-гита 6.47
     slug: bhagavad-gita-6-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/658_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3
     title: аудиозапись в MP3 (42 мин. 17 сек., 20,5 МБ)
@@ -40,9 +48,11 @@ links:
     title: транскрипцию в RTF (319 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/658_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.pdf
     title: транскрипцию в PDF (192 КБ)
+legacy:
+  title: 658. 1982.01.09.B. Влечение — суть всего бытия
+  index: "658"
+  filename: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya.md
 ---
-
-# 658. 1982.01.09.B. Влечение — суть всего бытия
 
 Наш вкус растворяется, наш вкус растворяется там, когда мы измеряем вещи, опираясь на подобный стандарт нашего сердца.
 

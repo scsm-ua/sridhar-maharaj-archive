@@ -1,5 +1,14 @@
 ---
 slug: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah
+record_id: 1982.05.09.A1
+title: Объяснение десятого стиха Шри Шри Прабхупада-падма Ставаках
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9754383
+  duration: 00:09:57
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
+date: 1982-05-09
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
@@ -10,7 +19,6 @@ tags:
     slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 10
     slug: shri-shri-prabhupada-padma-stavakah-10
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
     title: аудиозапись в MP3 (9 мин. 56 сек., 9,4 МБ)
@@ -18,11 +26,14 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 1106. 1982.05.09.A1. Объяснение десятого стиха Шри Шри Прабхупада-падма
+    Ставаках
+  index: "1106"
+  filename: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah.md
 ---
 
-# 1106. 1982.05.09.A1. Объяснение десятого стиха Шри Шри Прабхупада-падма Ставаках
-
-    парахам̇са-варам̇-парама̄ртха-патим̇
+парахам̇са-варам̇-парама̄ртха-патим̇
 [^_ftn1]
 
 *Парахамса* означает *парамахамса* — высочайшая стадия *санньясы*. *Санньяса* имеет четыре стадии: *кутичака*, *бахудака*, *хамса*, *парамахамса*. *Кутичака* (первая стадия) — тот, кто живет в хижине, уединенная жизнь в хижине. Затем *бахудака* — означает «он пьет разнообразные воды». Этот *санньяси* не живет в одном определенном месте, но странствует по разным местам, ведет жизнь *прачары*, жизнь проповедника. Третья стадия *санньясы* — *хамса*. Когда смешаны молоко и вода, то *хамса* способен извлечь молоко, оставляя воду. Таким образом, *санньяси* третьего уровня (стадии *хамса*) странствует повсюду, но принимает хорошее и отвергает дурное. Этой способностью он наделен. Когда он достигает этой стадии, его именуют *хамсой*.

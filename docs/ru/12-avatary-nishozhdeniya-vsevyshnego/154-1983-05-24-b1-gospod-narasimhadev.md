@@ -1,5 +1,14 @@
 ---
 slug: 154-1983-05-24-b1-gospod-narasimhadev
+record_id: 1983.05.24.B1
+title: Господь Нарасимхадев
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16012631
+  duration: 00:32:00
+  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
+date: 1983-05-24
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
@@ -26,7 +35,6 @@ tags:
     slug: bhagavad-gita-9-33
   - title: Бхагавад-гита 9.32
     slug: bhagavad-gita-9-32
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
     title: аудиозапись в MP3 (32 мин. 00 сек., 15,3 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в RTF (225 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.pdf
     title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 154. 1983.05.24.B1. Господь Нарасимхадев
+  index: "154"
+  filename: 154-1983-05-24-b1-gospod-narasimhadev.md
 ---
-
-# 154. 1983.05.24.B1. Господь Нарасимхадев
 
 [*Хари-катха* Его Божественной Милости Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа 24 мая 1983 года в день явления Шри Нрисимхадева, Шри Навадвип Дхам, Чайтанья Сарасват Матх.]
 

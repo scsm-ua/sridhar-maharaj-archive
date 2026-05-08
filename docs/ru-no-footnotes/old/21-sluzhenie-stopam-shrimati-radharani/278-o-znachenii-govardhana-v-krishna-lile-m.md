@@ -1,5 +1,12 @@
 ---
 slug: 278-o-znachenii-govardhana-v-krishna-lile-m
+title: О значении Говардхана в Кришна-лиле. Мгновения прекрасной реальности, часть 4.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1054720
+  duration: 00:02:13
+  mp3: /wp-content/uploads/2012/08/278_MgnoveniyaPR_4.4_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -12,13 +19,15 @@ tags:
     slug: krishna-lila
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/278_MgnoveniyaPR_4.4_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
     title: Скачать аудиозапись в mp3 (2 мин 13 сек, размер 1 Мб)
+legacy:
+  title: 278. О значении Говардхана в Кришна-лиле. Мгновения прекрасной
+    реальности, часть 4.4
+  index: "278"
+  filename: 278-o-znachenii-govardhana-v-krishna-lile-m.md
 ---
-
-# 278. О значении Говардхана в Кришна-лиле. Мгновения прекрасной реальности, часть 4.4
 
 **Преданный:** Махарадж, вчера Вы сказали, что после Радха-Кунды, Говардхан – это самое важное место в Кришна-лиле. Но мы мало знаем о Нём.
 

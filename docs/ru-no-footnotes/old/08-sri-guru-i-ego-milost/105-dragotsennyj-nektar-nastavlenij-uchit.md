@@ -1,5 +1,13 @@
 ---
 slug: 105-dragotsennyj-nektar-nastavlenij-uchit
+title: Драгоценный нектар наставлений учителя. Онтология прекрасной реальности,
+  часть 2.7
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5672128
+  duration: 00:09:21
+  mp3: /wp-content/uploads/2012/08/105_OntologiyaPR_2.7_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya1.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +18,15 @@ tags:
     slug: kachestva-uchenika
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/105_OntologiyaPR_2.7_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya1.mp3
     title: Скачать аудиозапись в mp3 (9 мин 21 сек, размер 5 Мб)
+legacy:
+  title: 105. Драгоценный нектар наставлений учителя. Онтология прекрасной
+    реальности, часть 2.7
+  index: "105"
+  filename: 105-dragotsennyj-nektar-nastavlenij-uchit.md
 ---
-
-# 105. Драгоценный нектар наставлений учителя. Онтология прекрасной реальности, часть 2.7
 
 **Ученик:** Спасибо вам большое Махарадж, спасибо.
 

@@ -1,12 +1,20 @@
 ---
 slug: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy
+record_id: 1983.01.02.A3.1
+title: Три аспекта Господа Шивы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3627196
+  duration: 00:05:57
+  mp3: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.mp3
+date: 1983-01-02
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.mp3
     title: аудиозапись в MP3 (5 мин. 57 сек., 3,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 674. 1983.01.02.A3.1. Три аспекта Господа Шивы
+  index: "674"
+  filename: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy.md
 ---
-
-# 674. 1983.01.02.A3.1. Три аспекта Господа Шивы
 
 **Преданный:** Адвайта Прабху… Я хотел бы спросить о нем. Как он связан с Махавишну и Садашивой?
 

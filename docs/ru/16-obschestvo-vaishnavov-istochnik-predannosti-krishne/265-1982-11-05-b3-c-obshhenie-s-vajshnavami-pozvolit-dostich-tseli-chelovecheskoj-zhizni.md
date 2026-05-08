@@ -1,5 +1,14 @@
 ---
 slug: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni
+record_id: 1982.11.05.B3.C
+title: Общение с вайшнавами позволит достичь цели человеческой жизни
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23058819
+  duration: 00:22:50
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3
+date: 1982-11-05
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -44,7 +53,6 @@ tags:
     slug: manu-samhita-1-49
   - title: Шримад-Бхагаватам 11.9.29
     slug: shrimad-bhagavatam-11-9-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3
     title: аудиозапись в MP3 (22 мин. 50 сек., 22,0 МБ)
@@ -52,9 +60,12 @@ links:
     title: транскрипцию в RTF (189 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.pdf
     title: транскрипцию в PDF (196 КБ)
+legacy:
+  title: 265. 1982.11.05.B3.C. Общение с вайшнавами позволит достичь цели
+    человеческой жизни
+  index: "265"
+  filename: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni.md
 ---
-
-# 265. 1982.11.05.B3.C. Общение с вайшнавами позволит достичь цели человеческой жизни
 
 **Шрипад Джаджавар Махарадж:**
 

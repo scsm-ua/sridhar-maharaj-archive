@@ -1,12 +1,19 @@
 ---
 slug: 864-ontologiya-pr-ch-5-1-2-prinyatie-posvyashheniya-kak-vozmozhnost-obresti-proshhenie-ot-vajshnava-aparadhi-gadadhar-i-pundarik-vidyanidhi
+title: Онтология ПР. Ч. 5.1.2. Принятие посвящения как возможность обрести
+  прощение от вайшнава-апарадхи. Гададхар и Пундарик Видьянидхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2863488
+  duration: 00:05:23
+  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.mp3
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.mp3
     title: аудиозапись в MP3 (5 мин. 22 сек., 2,8 МБ)
@@ -14,9 +21,12 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 864. Онтология ПР. Ч. 5.1.2. Принятие посвящения как возможность обрести
+    прощение от вайшнава-апарадхи. Гададхар и Пундарик Видьянидхи
+  index: "864"
+  filename: 864-ontologiya-pr-ch-5-1-2-prinyatie-posvyashheniya-kak-vozmozhnost-obresti-proshhenie-ot-vajshnava-aparadhi-gadadhar-i-pundarik-vidyanidhi.md
 ---
-
-# 864. Онтология ПР. Ч. 5.1.2. Принятие посвящения как возможность обрести прощение от вайшнава-апарадхи. Гададхар и Пундарик Видьянидхи
 
 *(Онтология Прекрасной Реальности часть 5.1.2)*
 

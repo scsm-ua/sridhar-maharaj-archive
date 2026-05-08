@@ -1,12 +1,20 @@
 ---
 slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
+record_id: 1982.02.18.B4
+title: В плену высшего сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7140224
+  duration: 00:13:06
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
+date: 1982-02-18
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
     title: аудиозапись в MP3 (13 мин. 06 сек., 6,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (109 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 980. 1982.02.18.B4. В плену высшего сознания
+  index: "980"
+  filename: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya.md
 ---
-
-# 980. 1982.02.18.B4. В плену высшего сознания
 
 *«Онтология Прекрасной Реальности» (часть 1.8)*
 

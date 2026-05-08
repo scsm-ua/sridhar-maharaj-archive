@@ -1,5 +1,14 @@
 ---
 slug: 496-o-ponyatii-shaktyavesha-avatara-i-bhakt
+record_id: 1981.02.28.D2
+title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8315652
+  duration: 00:16:18
+  mp3: /wp-content/uploads/2012/08/496_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
+date: 1981-02-28
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
@@ -10,13 +19,15 @@ tags:
     slug: bhaktivedanta-svami-prabhupada
   - title: Шактьявеша-аватара
     slug: shaktyavesha-avatara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/496_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
     title: Скачать аудиозапись в mp3 (16 мин 18 сек, размер 8 Мб)
+legacy:
+  title: 496. О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде.
+    1981.02.28.D2
+  index: "496"
+  filename: 496-o-ponyatii-shaktyavesha-avatara-i-bhakt.md
 ---
-
-# 496. О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде. 1981.02.28.D2
 
 **Преданный:** Махарадж, я хотел вам задать один вопрос насчет шакти-авеша-аватары. Как правильно понять шакти-авеша-аватару? Это индивидуальная джива, отдельная джива, которая действует в положении, в роли шакти-авеша-аватары? То есть это джива нисходит из того мира? Или же шакти-авеша нисходит в эту дживу?
 

@@ -1,5 +1,14 @@
 ---
 slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
+record_id: 1983.11.19.B3
+title: Поиск Шри Кришны — это Цель жизни с большой буквы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6488545
+  duration: 00:06:36
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
+date: 1983-11-19
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -22,7 +31,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
     title: аудиозапись в MP3 (06 мин. 36 сек., 6.2 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.pdf
     title: транскрипцию в PDF (183 КБ)
+legacy:
+  title: 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
+  index: "013"
+  filename: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy.md
 ---
-
-# 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
 
 Прогресс подразумевает отвержение и принятие. Таким образом нам советуют приближаться к Кришна-концепции Бога, в которой присутствует разнообразие: все виды *расы*, *ананды* — радости и счастья (можно назвать это как угодно), удовлетворение, насыщение наших внутренних чаяний, потребностей. *Хр̣дайена̄бхйану джн̃а̄то*:[^_ftn1] полнота удовлетворения чаяний, жажды наших сердец.
 

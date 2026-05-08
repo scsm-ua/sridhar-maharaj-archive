@@ -1,5 +1,14 @@
 ---
 slug: 297-chto-takoe-vedy-1981-12-01
+record_id: 1981.12.01
+title: Что такое Веды?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4332365
+  duration: 00:07:48
+  mp3: /wp-content/uploads/2012/08/297_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
+date: 1981-12-01
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: vedy
   - title: Священные писания
     slug: svyashhennye-pisaniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/297_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
     title: Скачать аудиозапись в mp3 (7 мин 48 сек, размер 4 Мб)
+legacy:
+  title: 297. Что такое Веды? 1981.12.01
+  index: "297"
+  filename: 297-chto-takoe-vedy-1981-12-01.md
 ---
-
-# 297. Что такое Веды? 1981.12.01
 
 *#00:00:00#*
 

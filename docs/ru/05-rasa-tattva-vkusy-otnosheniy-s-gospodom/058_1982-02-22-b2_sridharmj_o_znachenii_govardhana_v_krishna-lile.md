@@ -1,5 +1,14 @@
 ---
 slug: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile
+record_id: 1982.02.22.B2
+title: О значении Говардхана в Кришна-лиле
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4796949
+  duration: 00:02:20
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
+date: 1982-02-22
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -12,7 +21,6 @@ tags:
     slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
     title: аудиозапись в MP3 (2 мин. 20 сек., 128 кбит/сек, 4.6 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 058. 1982.02.22.B2 О значении Говардхана в Кришна-лиле
+  index: "058"
+  filename: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile.md
 ---
-
-# 058. 1982.02.22.B2 О значении Говардхана в Кришна-лиле
 
 **Преданный:** Вчера Вы сказали, что после *Радха-кунды* Говардхан — самое важное место для нас, но мы очень мало знаем о Кришна*-лиле* на Говардхане.
 

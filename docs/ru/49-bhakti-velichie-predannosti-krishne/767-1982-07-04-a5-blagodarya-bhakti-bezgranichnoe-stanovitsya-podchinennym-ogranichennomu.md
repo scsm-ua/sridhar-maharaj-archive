@@ -1,5 +1,14 @@
 ---
 slug: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu
+record_id: 1982.07.04.A5
+title: Благодаря бхакти Безграничное становится подчиненным ограниченному
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3011793
+  duration: 00:02:34
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3
+date: 1982-07-04
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -12,7 +21,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.17
     slug: bhakti-rasamrita-sindhu-1-17
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3
     title: аудиозапись в MP3 (2 мин. 34 сек., 2,9 МБ)
@@ -20,9 +28,12 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 767. 1982.07.04.A5. Благодаря бхакти Безграничное становится подчиненным
+    ограниченному
+  index: "767"
+  filename: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu.md
 ---
-
-# 767. 1982.07.04.A5. Благодаря бхакти Безграничное становится подчиненным ограниченному
 
 «…словно Я не являюсь Абсолютом. Они взаимодействуют со Мной таким образом, что Я также отвечаю им взаимностью так, словно у Меня нет свободы, от их рук и от их обращения так, словно Я контролируем им». Любовь имеет такую природу. Нежность есть настолько чудесное «нечто», что способно контролировать Абсолют, Безграничное подчинять контролю ограниченного, и это преданность, *сева*, служение, то, что делает невозможное возможным. Что это такое? Безграничное контролируется в интересах ограниченного — это возможно благодаря преданности.
 

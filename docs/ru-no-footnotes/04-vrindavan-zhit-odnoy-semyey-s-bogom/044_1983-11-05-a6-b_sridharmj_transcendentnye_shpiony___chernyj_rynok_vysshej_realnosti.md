@@ -1,5 +1,14 @@
 ---
 slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
+record_id: 1983.11.05.A6.B
+title: Трансцендентные шпионы. «Черный рынок» высшей Реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23901487
+  duration: 00:24:15
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3
+date: 1983-11-05
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -14,7 +23,6 @@ tags:
     slug: upadeshamrita-9
   - title: ШБ 9.4.63
     slug: shb-9-4-63
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3
     title: аудиозапись в MP3 (24 мин. 14 сек., 23 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (163 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.pdf
     title: транскрипцию в PDF (202 КБ)
+legacy:
+  title: 044. 1983.11.05.A6.B Трансцендентные шпионы. «Черный рынок» высшей Реальности
+  index: "044"
+  filename: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti.md
 ---
-
-# 044. 1983.11.05.A6.B Трансцендентные шпионы. «Черный рынок» высшей Реальности
 
 **Госвами Махарадж:** Махарадж, иногда Вы говорили, что в свои последние дни Шрила Сарасвати Тхакур хотел построить хижину на Говардхане, просил своих учеников построить хижину на Говардхане, и хотел провести там свои последние дни.
 

@@ -1,5 +1,14 @@
 ---
 slug: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani
+record_id: 1982.05.09.A2
+title: Взор Кришны на вершине холма Говардхан всегда обращен в сторону Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6886285
+  duration: 00:06:46
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3
+date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3
     title: аудиозапись в MP3 (6 мин. 46 сек., 6,6 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 475. 1982.05.09.A2. Взор Кришны на вершине холма Говардхан всегда обращен
+    в сторону Радхарани
+  index: "475"
+  filename: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani.md
 ---
-
-# 475. 1982.05.09.A2. Взор Кришны на вершине холма Говардхан всегда обращен в сторону Радхарани
 
 **Госвами Махарадж:** Махарадж!
 

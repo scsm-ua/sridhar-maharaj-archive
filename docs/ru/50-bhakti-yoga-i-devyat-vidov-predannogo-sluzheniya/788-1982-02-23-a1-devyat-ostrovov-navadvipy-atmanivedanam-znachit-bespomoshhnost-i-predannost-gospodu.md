@@ -1,5 +1,15 @@
 ---
 slug: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu
+record_id: 1982.02.23.A1
+title: Девять островов Навадвипы. Атманиведанам значит «беспомощность и
+  преданность Господу»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3069464
+  duration: 00:05:00
+  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.mp3
+date: 1982-02-23
 category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
@@ -10,7 +20,6 @@ tags:
     slug: atmanivedanam
   - title: Бхакти-йога
     slug: bhakti-joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.mp3
     title: аудиозапись в MP3 (4 мин. 59 сек., 3,0 МБ)
@@ -18,9 +27,12 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 788. 1982.02.23.A1. Девять островов Навадвипы. Атманиведанам значит
+    «беспомощность и преданность Господу»
+  index: "788"
+  filename: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu.md
 ---
-
-# 788. 1982.02.23.A1. Девять островов Навадвипы. Атманиведанам значит «беспомощность и преданность Господу»
 
 *Мгновения Прекрасной реальности (часть 5.1)*
 

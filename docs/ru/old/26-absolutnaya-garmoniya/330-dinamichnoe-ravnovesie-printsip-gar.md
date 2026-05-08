@@ -1,5 +1,14 @@
 ---
 slug: 330-dinamichnoe-ravnovesie-printsip-gar
+record_id: 1984.01.18.A1
+title: Динамичное равновесие — принцип гармонии.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5885764
+  duration: 00:07:04
+  mp3: /wp-content/uploads/2012/08/330_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
+date: 1984-01-18
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
@@ -8,13 +17,14 @@ tags:
     slug: 1984-01
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/330_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
     title: Скачать аудиозапись в mp3 (7 мин 4 сек, размер 5 Мб)
+legacy:
+  title: 330. Динамичное равновесие —  принцип гармонии. 1984.01.18.A1
+  index: "330"
+  filename: 330-dinamichnoe-ravnovesie-printsip-gar.md
 ---
-
-# 330. Динамичное равновесие —  принцип гармонии. 1984.01.18.A1
 
 *#00:00:00#*
 

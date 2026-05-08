@@ -1,5 +1,14 @@
 ---
 slug: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha
+record_id: 1982.02.23.A3
+title: Сознание Кришны и сознание Гауранги — молитва Кришнадаса Кавираджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7210672
+  duration: 00:17:11
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3
+date: 1982-02-23
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -12,7 +21,6 @@ tags:
     slug: mahaprabhu
   - title: Чайтанья-лила
     slug: chajtanya-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3
     title: аудиозапись в MP3 (17 мин. 10 сек., 6,9 МБ)
@@ -20,9 +28,12 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 110. 1982.02.23.A3. Сознание Кришны и сознание Гауранги — молитва
+    Кришнадаса Кавираджа
+  index: "110"
+  filename: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha.md
 ---
-
-# 110. 1982.02.23.A3. Сознание Кришны и сознание Гауранги — молитва Кришнадаса Кавираджа
 
 Сейчас наше понимание нашей собственной жизни осквернено. Ум и разум — энергия всевозможной эксплуатации, все это осквернено. Наше нынешнее существование не чисто, но когда это изменится, наше подлинное существование, наше подлинное «я» восстанет в своей первозданной славе. Мы обретем связь с Высшей Душой и подлинным знанием, не каким-то смутным, имперсональным знанием, но с самим Господом — таким, какой Он есть, со всеми Своими параферналиями.
 

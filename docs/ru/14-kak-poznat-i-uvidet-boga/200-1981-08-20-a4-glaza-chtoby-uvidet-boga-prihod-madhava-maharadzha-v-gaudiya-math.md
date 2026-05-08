@@ -1,5 +1,14 @@
 ---
 slug: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math
+record_id: 1981.08.20.A4
+title: Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в Гаудия-Матх
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6222200
+  duration: 00:11:31
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3
+date: 1981-08-20
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita-11-52
   - title: Бхагавад-гита 11.51
     slug: bhagavad-gita-11-51
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3
     title: аудиозапись в MP3 (11 мин. 31 сек., 6 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (156 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 200. 1981.08.20.A4. Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в
+    Гаудия-Матх
+  index: "200"
+  filename: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math.md
 ---
-
-# 200. 1981.08.20.A4. Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в Гаудия-Матх
 
 Один и моих друзей в моей прошлой жизни однажды пришел меня навестить и спросил: «Что ты обрел? Ты увидел Бога?» — такой прямой, прямолинейный вопрос. На что я ответил: «Нет, я еще Его не увидел. Я не увидел Бога так, как ты думаешь, что Его можно увидеть». — «А в таком случае, что ты обрел, ты столь много дней провел в этом положении?». Я ему сказал: «У ваших Вивекананды и Рамакришны пустые руки, и все, что они говорят — ложь. Вот это я осознал по крайне мере». Мой друг был крайне расстроен и ушел. То, что говорят эти люди: «Это — Бог, Бог такой, я видел Бога» — это все ложно, это ничто, это *сагуна*, это *майя*, это не то, о чем идет речь.
 

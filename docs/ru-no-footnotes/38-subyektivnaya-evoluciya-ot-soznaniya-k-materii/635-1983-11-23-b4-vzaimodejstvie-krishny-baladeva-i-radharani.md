@@ -1,12 +1,20 @@
 ---
 slug: 635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani
+record_id: 1983.11.23.B4
+title: Взаимодействие Кришны, Баладева и Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11093086
+  duration: 00:10:35
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3
+date: 1983-11-23
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3
     title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 635. 1983.11.23.B4. Взаимодействие Кришны, Баладева и Радхарани
+  index: "635"
+  filename: 635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani.md
 ---
-
-# 635. 1983.11.23.B4. Взаимодействие Кришны, Баладева и Радхарани
 
 Соприкоснуться с такой потенцией с безраздельным обладателем такой потенции *‘иччха̄-ш́акти’*, *мадхйе кр̣ш̣н̣ера*[^_ftn1]. Кришна, Васудева, Баларама — различные функции одного и того же Существа. В Кришна-концепции Он контролирует *иччха* — желание, *иччха-шакти*. Все для Него, призвано удовлетворять Его, нет другой функции, другой силы. Никакая другая сила не нужна для Него, только руководство. Он — Владыка руководства, предложения: «Я хочу этого. Я хочу это!» И другие должны обеспечивать Его желаемым. Владыка желанности, предложения, руководства — это Кришна. Чего бы Он ни захотел, ни пожелал, оно становится так. *Иччха-шакти*.
 

@@ -1,5 +1,14 @@
 ---
 slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
+record_id: 1982.04.23.A4.B1
+title: История и онтология Божеств «Шри Чайтанья Сарасват Матха»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19275514
+  duration: 00:18:15
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3
+date: 1982-04-23
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
@@ -22,7 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.5
     slug: shri-chajtanya-charitamrita-madhya-lila-1-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3
     title: аудиозапись в MP3 (18 мин. 15 сек., 18,4 МБ)
@@ -30,9 +38,12 @@ links:
     title: транскрипцию в RTF (28 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 1089. 1982.04.23.A4.B1. История и онтология Божеств «Шри Чайтанья
+    Сарасват Матха»
+  index: "1089"
+  filename: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha.md
 ---
-
-# 1089. 1982.04.23.A4.B1. История и онтология Божеств «Шри Чайтанья Сарасват Матха»
 
 **Шрила Шридхар Махарадж:** Есть ли другие вопросы у кого-то?
 

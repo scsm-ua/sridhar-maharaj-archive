@@ -1,5 +1,14 @@
 ---
 slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
+record_id: 1982.02.28.A2
+title: Великодушие Махапрабху — путь к сокровенной концепции Божественного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2808264
+  duration: 00:05:14
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
+date: 1982-02-28
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
     title: аудиозапись в MP3 (3 мин. 13 сек., 2,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 105. 1982.02.28.A2 Великодушие Махапрабху — путь к сокровенной концепции
+    Божественного
+  index: "105"
+  filename: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo.md
 ---
-
-# 105. 1982.02.28.A2 Великодушие Махапрабху — путь к сокровенной концепции Божественного
 
 Мы должны искать великодушия Махапрабху — того, к чему стремятся Шива и Брахма. Они молят лишь о капле этого. Махапрабху затопил потоком этого нектара всю вселенную. Даже каплю этого нектара трудно обрести. Мы должны обратиться к этому с горячим желанием. Это нечто столь великое, столь великодушное! Что это такое? Харе Кришна!
 

@@ -1,5 +1,14 @@
 ---
 slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
+record_id: 1983.02.20.A2
+title: Ничто меньшее, чем концепция Кришны не удовлетворит нас
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5805193
+  duration: 00:11:23
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
+date: 1983-02-20
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -26,7 +35,6 @@ tags:
     slug: bhagavad-gita-6-30
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
     title: аудиозапись в MP3 (11 мин. 22 сек., 5.5 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 011. 1983.02.20.A2 Ничто меньшее, чем концепция Кришны не удовлетворит нас
+  index: "011"
+  filename: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas.md
 ---
-
-# 011. 1983.02.20.A2 Ничто меньшее, чем концепция Кришны не удовлетворит нас
 
 Форма и идеал. «Вы — разрушитель форм», — сказал мне Ачьютананда. Вы тоже разрушители форм, вы уже оставили некоторые формальности, традиции, в которых вы были воспитаны: христианство ли, ислам ли, иудаизм. Вы оставили эти традиции и пришли сюда. Почему, почему вы разрушили эту форму и пришли к стопам Свами Махараджа? Ради идеала. Если форма способна поддерживать, помогать достижению подлинного идеала, она приемлема. До тех пор, пока форма служит высшему идеалу, до этой степени и в этой мере приемлема. Мы не являемся поклонниками формы. Мы являемся поклонниками идеала.
 

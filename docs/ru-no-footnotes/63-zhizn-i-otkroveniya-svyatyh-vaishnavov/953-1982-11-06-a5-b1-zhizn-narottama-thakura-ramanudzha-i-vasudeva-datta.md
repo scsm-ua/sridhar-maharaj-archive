@@ -1,12 +1,20 @@
 ---
 slug: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta
+record_id: 1982.11.06.A5.B1
+title: Жизнь Нароттама Тхакура. Рамануджа и Васудева Датта
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 38728411
+  duration: 00:37:20
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.mp3
+date: 1982-11-06
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.mp3
     title: аудиозапись в MP3 (37 мин. 20 сек., 37 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (192 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.pdf
     title: транскрипцию в PDF (178 КБ)
+legacy:
+  title: 953. 1982.11.06.A5.B1. Жизнь Нароттама Тхакура. Рамануджа и Васудева Датта
+  index: "953"
+  filename: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta.md
 ---
-
-# 953. 1982.11.06.A5.B1. Жизнь Нароттама Тхакура. Рамануджа и Васудева Датта
 
 Этот месяц Картика и новолуние. Новолуние и полнолуние. В фазе новолуния, *панчами* (пятый день) — это день ухода Нароттама. И кто этот Нароттам Тхакур? Существует книга под названием «Нароттама-вилас», в этой книге подробно описана жизнь Нароттама. Нароттам Тхакур происходил из богатой семьи, не сверхбогатой, но состоятельной. Его старший брат был Кришначандра — так его звали. Нароттам Тхакур не женился, на протяжении всей жизни соблюдал целибат.
 

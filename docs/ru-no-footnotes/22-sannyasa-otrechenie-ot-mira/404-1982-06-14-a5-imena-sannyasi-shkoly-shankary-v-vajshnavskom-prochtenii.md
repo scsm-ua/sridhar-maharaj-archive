@@ -1,5 +1,14 @@
 ---
 slug: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii
+record_id: 1982.06.14.A5
+title: Имена санньяси школы Шанкары в вайшнавском прочтении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4880436
+  duration: 00:03:59
+  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.mp3
+date: 1982-06-14
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.mp3
     title: аудиозапись в MP3 (3 мин. 59 сек., 4,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 404. 1982.06.14.A5. Имена санньяси школы Шанкары в вайшнавском прочтении
+  index: "404"
+  filename: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii.md
 ---
-
-# 404. 1982.06.14.A5. Имена санньяси школы Шанкары в вайшнавском прочтении
 
 **Акхаянанда Махарадж:** На днях я спрашивал вас о десяти именах *санньяси*, я нашел этот комментарий. Похоже, что это утверждение — общего характера. [санскрит] И также, что касается имени «Аранья», здесь сказано: тот, кто приходит к *нанда-канане*… [санскрит]
 

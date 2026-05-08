@@ -1,5 +1,14 @@
 ---
 slug: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki
+record_id: 1982.04.28.A.B
+title: Комментарии к пятому, шестому, седьмому и восьмому стихам «Шикшаштаки»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 77578583
+  duration: 01:20:31
+  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/142_1982.04.28.A.B_SridharMj_Kommentarii_k_pjatomu_shestomu_sedmomu_i_vosmomu_stiham_Shikshashtaki.mp3
+date: 1982-04-28
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Шикшаштакам
     slug: shikshashtakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/142_1982.04.28.A.B_SridharMj_Kommentarii_k_pjatomu_shestomu_sedmomu_i_vosmomu_stiham_Shikshashtaki.mp3
     title: аудиозапись в MP3 (1 час 20 мин. 31 сек., 70 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (532 КБ)
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/142_1982.04.28.A.B_SridharMj_Kommentarii_k_pjatomu_shestomu_sedmomu_i_vosmomu_stiham_Shikshashtaki.pdf
     title: транскрипцию в PDF (248 КБ)
+legacy:
+  title: 142. 1982.04.28.A.B. Комментарии к пятому, шестому, седьмому и восьмому
+    стихам «Шикшаштаки»
+  index: "142"
+  filename: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
 ---
-
-# 142. 1982.04.28.A.B. Комментарии к пятому, шестому, седьмому и восьмому стихам «Шикшаштаки»
 
     намо маха̄-вада̄нйа̄йа кр̣ш̣н̣а-према-прада̄йа те
     кр̣ш̣н̣а̄йа кр̣ш̣н̣а-чаитанйа- на̄мне гаура-твиш̣е намах̣

@@ -1,5 +1,14 @@
 ---
 slug: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj
+record_id: 1982.02.25.B2
+title: Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11743806
+  duration: 00:11:33
+  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.mp3
+date: 1982-02-25
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Рамачандра
     slug: ramachandra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.mp3
     title: аудиозапись в MP3 (11 мин. 33 сек., 11,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.pdf
     title: транскрипцию в PDF (131 КБ)
+legacy:
+  title: 152. 1982.02.25.B2. Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
+  index: "152"
+  filename: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj.md
 ---
-
-# 152. 1982.02.25.B2. Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
 
 Есть ли какие-то вопросы?
 

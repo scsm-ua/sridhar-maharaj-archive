@@ -1,12 +1,20 @@
 ---
 slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
+record_id: 1982.06.08.B4
+title: Раскрытие возвышенных тем должно происходить в должном умонастроении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11725625
+  duration: 00:11:35
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3
+date: 1982-06-08
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3
     title: аудиозапись в MP3 (11 мин. 35 сек., 11,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (117 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 1004. 1982.06.08.B4. Раскрытие возвышенных тем должно происходить в
+    должном умонастроении
+  index: "1004"
+  filename: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii.md
 ---
-
-# 1004. 1982.06.08.B4. Раскрытие возвышенных тем должно происходить в должном умонастроении
 
 **Акхаянанда Махарадж:** Махарадж, Шрила Бхактисиддханта Сарасвати Тхакур… Возможно, вы однажды сказали, что никогда не видели, как он поет или танцует. Танец и пение. Он очень мало пел и танцевал, или почти не танцевал?
 

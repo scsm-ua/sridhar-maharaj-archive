@@ -1,5 +1,14 @@
 ---
 slug: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali
+record_id: 1981.03.07.A1
+title: Валлабхачарья и группа Чандравали
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5720846
+  duration: 00:06:36
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.mp3
+date: 1981-03-07
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Чандравали
     slug: chandravali
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.mp3
     title: аудиозапись в MP3 (6 мин. 35 сек., 64 кбит/сек, 5.5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 059. 1981.03.07.A1 Валлабхачарья и группа Чандравали
+  index: "059"
+  filename: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali.md
 ---
-
-# 059. 1981.03.07.A1 Валлабхачарья и группа Чандравали
 
 **Шрила Шридхар Махарадж:** А из какой части Индии вы?
 

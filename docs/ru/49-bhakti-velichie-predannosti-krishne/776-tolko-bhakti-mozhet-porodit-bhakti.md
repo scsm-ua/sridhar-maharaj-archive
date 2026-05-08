@@ -1,5 +1,12 @@
 ---
 slug: 776-tolko-bhakti-mozhet-porodit-bhakti
+title: Только бхакти может породить бхакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2083154
+  duration: 00:04:44
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -16,7 +23,6 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
     title: аудиозапись в MP3 (4 мин. 43 сек., 2,0 МБ)
@@ -24,9 +30,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 776. Только бхакти может породить бхакти
+  index: "776"
+  filename: 776-tolko-bhakti-mozhet-porodit-bhakti.md
 ---
-
-# 776. Только бхакти может породить бхакти
 
 Один великий мудрец сказал Кришне, после битвы на Курукшетре: «Кришна, я проклинаю Тебя!» — «Почему, *брамин*?» — «Ты вызвал великое бедствие. Ты ответственен за всех этих вдов, за все эти слезы и страдания!» — «*Брамин*, ты обрел ценой великих аскез некую силу: эта сила улетучится, но Меня твое проклятие не затронет, поскольку Я нахожусь в измерении *ниргуна*. *Ахаитуки* *апратихата*[^_ftn1] — такова природа измерения, в котором Я пребываю: это нечто беспричинное и существующее ради Своих собственных целей. Ценой епитимий, аскез, ты накопил определенную силу, но благодаря твоему проклятью ей придет конец. Я же буду не затронут».
 

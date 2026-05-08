@@ -1,5 +1,13 @@
 ---
 slug: 107-vapu-i-vani-postupki-i-nastavleniya
+title: Вапу и вани – поступки и наставления вайшнава. Мгновения прекрасной
+  реальности, часть 6.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4766152
+  duration: 00:09:30
+  mp3: /wp-content/uploads/2012/08/107_MgnoveniyaPR_6.4_SridharMj_Vapu_i_vani–postupki_i_nastavleniya_vaishnava.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +18,15 @@ tags:
     slug: kachestva-uchenika
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/107_MgnoveniyaPR_6.4_SridharMj_Vapu_i_vani–postupki_i_nastavleniya_vaishnava.mp3
     title: Скачать аудиозапись в mp3 (9 мин 30 сек, размер 4 Мб)
+legacy:
+  title: 107. Вапу и вани – поступки и наставления вайшнава. Мгновения прекрасной
+    реальности, часть 6.4
+  index: "107"
+  filename: 107-vapu-i-vani-postupki-i-nastavleniya.md
 ---
-
-# 107. Вапу и вани – поступки и наставления вайшнава. Мгновения прекрасной реальности, часть 6.4
 
 **Ученик:** *Вапу* и *вани* безграничны и живы, это нечто живое.
 

@@ -1,5 +1,14 @@
 ---
 slug: 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva
+record_id: 1983.11.07.B2.C
+title: Поиск Шри Кришны — высочайшая потребность и цель всего человечества
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18397455
+  duration: 00:19:01
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/004_1983.11.07.B2.C_SridharMj_Poisk_Shri_Krishny--vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.mp3
+date: 1983-11-07
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -26,7 +35,6 @@ tags:
     slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/004_1983.11.07.B2.C_SridharMj_Poisk_Shri_Krishny--vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.mp3
     title: аудиозапись в MP3 (19 мин 00 сек, 18 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (150 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/004_1983.11.07.B2.C_SridharMj_Poisk_Shri_Krishny--vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.pdf
     title: транскрипцию в PDF (166 КБ)
+legacy:
+  title: 004. 1983.11.07.В2.С  Поиск Шри Кришны — высочайшая потребность и цель
+    всего человечества
+  index: "004"
+  filename: 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md
 ---
-
-# 004. 1983.11.07.В2.С  Поиск Шри Кришны — высочайшая потребность и цель всего человечества
 
 Влечение. Влечение — это наиболее фундаментальный элемент повсюду. Все остальное может быть отвергнуто, проигнорировано, забыто, если мы соприкасаемся с влечением, любовью. Все может быть отвергнуто, если мы связаны с любовью. Гаура-Хари, Гаура-Хари.
 

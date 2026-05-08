@@ -1,12 +1,20 @@
 ---
 slug: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej
+record_id: 1983.02.27.B2
+title: Понимание духовных истин обретается на протяжении многих жизней
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4033578
+  duration: 00:07:09
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
+date: 1983-02-27
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1983.02"
     slug: 1983-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
     title: аудиозапись в MP3 (7 мин. 09 сек., 3,9 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 1033. 1983.02.27.B2. Понимание духовных истин обретается на протяжении
+    многих жизней
+  index: "1033"
+  filename: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej.md
 ---
-
-# 1033. 1983.02.27.B2. Понимание духовных истин обретается на протяжении многих жизней
 
 Сегодня день явления Нароттама Тхакура.
 

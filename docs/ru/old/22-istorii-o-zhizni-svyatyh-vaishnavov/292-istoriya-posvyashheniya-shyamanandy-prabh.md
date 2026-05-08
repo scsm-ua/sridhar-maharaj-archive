@@ -1,5 +1,14 @@
 ---
 slug: 292-istoriya-posvyashheniya-shyamanandy-prabh
+record_id: 1985.05.01.B5
+title: История посвящения Шьямананды Прабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1872238
+  duration: 00:03:34
+  mp3: /wp-content/uploads/2012/08/292_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
+date: 1985-05-01
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: istorii-o-vajshnavah
   - title: Шьямананда Прабху
     slug: shyamananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/292_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
     title: Скачать аудиозапись в mp3 (3 мин 34 сек, размер 1 Мб)
+legacy:
+  title: 292. История посвящения Шьямананды Прабху. 1985.05.01.B5
+  index: "292"
+  filename: 292-istoriya-posvyashheniya-shyamanandy-prabh.md
 ---
-
-# 292. История посвящения Шьямананды Прабху. 1985.05.01.B5
 
 Сегодня день ухода Шьямананды Прабху. Он был, вначале он был инициирован в сакья-расу, в дружеское, служение друзей, дружеское служение, но каким-то образом его удача была иной. Однажды, когда из Нанда-грама он шел в другое место, в некий ван, в лес рано утром на рассвете и, он призывал имя Кришны, сосредоточенно. Неожиданно он увидел некую прекрасную девушку, которая искала что-то, она ходила там, что-то искала на дороге.
 

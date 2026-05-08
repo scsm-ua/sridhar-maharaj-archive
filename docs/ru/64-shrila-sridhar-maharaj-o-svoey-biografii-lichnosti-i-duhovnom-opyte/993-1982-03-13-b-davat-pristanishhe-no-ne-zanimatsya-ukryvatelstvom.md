@@ -1,12 +1,20 @@
 ---
 slug: 993-1982-03-13-b-davat-pristanishhe-no-ne-zanimatsya-ukryvatelstvom
+record_id: 1982.03.13.B
+title: Давать пристанище, но не заниматься укрывательством
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6062152
+  duration: 00:05:26
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3
+date: 1982-03-13
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3
     title: аудиозапись в MP3 (5 мин. 25 сек., 5,8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 993. 1982.03.13.B. Давать пристанище, но не заниматься укрывательством
+  index: "993"
+  filename: 993-1982-03-13-b-davat-pristanishhe-no-ne-zanimatsya-ukryvatelstvom.md
 ---
-
-# 993. 1982.03.13.B. Давать пристанище, но не заниматься укрывательством
 
 В тот период, когда действовали наксалиты (члены коммунистической организации в Индии), один лидер наксалитов пришел к нам на озеро [имеется в виду Говинда-кунда — *переводчик*]. *Кунда* была огорожена в то время, и некоторые люди, когда они совершали омовение, испражнялись в воду пруда. Мне об этом сообщили, и один мой преданный по фамилии Гхош посоветовал мне полностью преградить доступ к пруду. Я это сделал.
 

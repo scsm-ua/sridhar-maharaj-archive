@@ -1,12 +1,20 @@
 ---
 slug: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie
+record_id: 1982.02.15.B1
+title: Считать все духовные концепции равными — заблуждение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5652291
+  duration: 00:05:21
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3
+date: 1982-02-15
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3
     title: аудиозапись в MP3 (5 мин. 21 сек., 5,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (20 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1063. 1982.02.15.B1. Считать все духовные концепции равными — заблуждение
+  index: "1063"
+  filename: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie.md
 ---
-
-# 1063. 1982.02.15.B1. Считать все духовные концепции равными — заблуждение
 
 …представители миссии Рамакришны, например. Бог — это любые представления о Нем, любые представления о Нем реальны. Любой человек, носящий штамп «Божественное», может дать тебе Бога. Так утверждают последователи миссии Рамакришны. *Йата мата тата патха*[^_ftn1]. Не зависит от содержания, но любое мнение.
 

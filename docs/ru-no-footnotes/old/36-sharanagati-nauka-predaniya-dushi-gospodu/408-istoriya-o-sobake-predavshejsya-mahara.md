@@ -1,5 +1,14 @@
 ---
 slug: 408-istoriya-o-sobake-predavshejsya-mahara
+record_id: 1983.01.04.A3
+title: История о собаке, предавшейся Махараджу Юдхиштхире.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2160575
+  duration: 00:03:04
+  mp3: /wp-content/uploads/2012/08/408_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
+date: 1983-01-04
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
@@ -12,13 +21,14 @@ tags:
     slug: sharanagati
   - title: Юдхиштхира
     slug: yudhishthira
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/408_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
     title: Скачать аудиозапись в mp3 (3 мин 4 сек, размер 2 Мб)
+legacy:
+  title: 408. История о собаке, предавшейся Махараджу Юдхиштхире. 1983.01.04.A3
+  index: "408"
+  filename: 408-istoriya-o-sobake-predavshejsya-mahara.md
 ---
-
-# 408. История о собаке, предавшейся Махараджу Юдхиштхире. 1983.01.04.A3
 
 — У меня есть вопрос о привязанности. Бхарат Махарадж был привязан к олененку. Юдхиштхир Махарадж был привязан к собаке. — Кто, Юдхиштхир Махарадж? — Был привязан к собаке. В Махабхарате это описано. Собака ходила за ним. — Он не был привязан к собаке. Он был движим своими… своей религиозной совестью, потому что собака сказала, что я — твоя шаранагата. А тот, кто говорит: «Шаранагата. Я шаранагата по отношению к тебе, по отношению…»
 

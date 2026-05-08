@@ -1,5 +1,14 @@
 ---
 slug: 55-vysshee-schaste-dostizhimo-lish-v-otno
+record_id: 1983.07.28.B
+title: Высшее счастье достижимо лишь в отношениях с Кришной.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15566827
+  duration: 00:29:45
+  mp3: /wp-content/uploads/2012/08/055_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
+date: 1983-07-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
@@ -8,13 +17,14 @@ tags:
     slug: 1983-07
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/055_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
     title: Скачать аудиозапись в mp3 (29 мин 45 сек, размер 15 Мб)
+legacy:
+  title: 55. Высшее счастье достижимо лишь в отношениях с Кришной. 1983.07.28.B
+  index: "55"
+  filename: 55-vysshee-schaste-dostizhimo-lish-v-otno.md
 ---
-
-# 55. Высшее счастье достижимо лишь в отношениях с Кришной. 1983.07.28.B
 
 Одно явление является общим повсюду, поиск счастья свойственен всем. Все, от худших атеистов, самых закоренелых атеистов, до высочайших преданных, то, что их роднит – мы ищем блаженства. Блаженство, красота, очарование, сладость, любовь, нежность. Ищем одного и того же, и мы не может отрицать, что мы не ищем этих явления.
 

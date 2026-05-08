@@ -1,5 +1,14 @@
 ---
 slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
+record_id: 1982.05.10.B4
+title: Объяснение шлок — определений чистой преданности (Нарада и Рупа Госвами)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12734778
+  duration: 00:12:42
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3
+date: 1982-05-10
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3
     title: аудиозапись в MP3 (12 мин. 41 сек., 12,2 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (174 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 770. 1982.05.10.B4. Объяснение шлок — определений чистой преданности
+    (Нарада и Рупа Госвами)
+  index: "770"
+  filename: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami.md
 ---
-
-# 770. 1982.05.10.B4. Объяснение шлок — определений чистой преданности (Нарада и Рупа Госвами)
 
 Махапрабху говорит:
 

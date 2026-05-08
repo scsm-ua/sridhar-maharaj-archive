@@ -1,5 +1,14 @@
 ---
 slug: 174-neblagopriyatnye-obstoyatelstva-pod
+record_id: 1982.01.05.A
+title: Неблагоприятные обстоятельства подчеркивают духовное величие личности.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14327472
+  duration: 00:24:58
+  mp3: /wp-content/uploads/2012/08/174_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
+date: 1982-01-05
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
@@ -8,13 +17,15 @@ tags:
     slug: 1982-01
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/174_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
     title: Скачать аудиозапись в mp3 (24 мин 58 сек, размер 14 Мб)
+legacy:
+  title: 174. Неблагоприятные обстоятельства подчеркивают духовное величие
+    личности. 1982.01.05.A
+  index: "174"
+  filename: 174-neblagopriyatnye-obstoyatelstva-pod.md
 ---
-
-# 174. Неблагоприятные обстоятельства подчеркивают духовное величие личности. 1982.01.05.A
 
 *#00:00:00#*
 

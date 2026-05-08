@@ -1,5 +1,14 @@
 ---
 slug: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti
+record_id: 1981.03.10.D1
+title: Право преданных на Господа как представителей сварупа-шакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6291099
+  duration: 00:11:58
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3
+date: 1981-03-10
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -44,7 +53,6 @@ tags:
     slug: hari-bhakti-sudhodaya
   - title: Хари-бхакти-судходая 7.28
     slug: hari-bhakti-sudhodaya-7-28
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3
     title: аудиозапись в MP3 (11 мин. 58 сек., 6,0 МБ)
@@ -52,9 +60,12 @@ links:
     title: транскрипцию в RTF (29 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 766. 1981.03.10.D1. Право преданных на Господа как представителей
+    сварупа-шакти
+  index: "766"
+  filename: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti.md
 ---
-
-# 766. 1981.03.10.D1. Право преданных на Господа как представителей сварупа-шакти
 
 **Шрила Шридхар Махарадж:** Харе Кришна Харе Кришна, Кришна Кришна Харе Харе, Харе Рама Харе Рама…
 

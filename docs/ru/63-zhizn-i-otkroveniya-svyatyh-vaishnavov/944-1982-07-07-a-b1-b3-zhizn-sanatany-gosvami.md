@@ -1,5 +1,14 @@
 ---
 slug: 944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami
+record_id: 1982.07.07.A.B1.B3
+title: Жизнь Санатаны Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 44877427
+  duration: 00:43:45
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.mp3
+date: 1982-07-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -44,7 +53,6 @@ tags:
     slug: shri-shad-gosvami-ashtakam-2
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
     slug: shri-chajtanya-charitamrita-madhya-lila-11-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.mp3
     title: аудиозапись в MP3 (43 мин. 44 сек., 42,8 МБ)
@@ -52,9 +60,11 @@ links:
     title: транскрипцию в RTF (302 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.pdf
     title: транскрипцию в PDF (207 КБ)
+legacy:
+  title: 944. 1982.07.07.A.B1.B3. Жизнь Санатаны Госвами
+  index: "944"
+  filename: 944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami.md
 ---
-
-# 944. 1982.07.07.A.B1.B3. Жизнь Санатаны Госвами
 
 Он [Шрила Санатана Госвами] был начитан, был сведущ в священных писаниях и был *паршада-бхактой* инкогнито. Он изучал священные писания и ждал, и он увидел, что настало то время, когда придет *аватар* Кали-юги, наступило это время. Он искал место Его рождения: где оно? В каком месте *аватар* явится? И обнаружил, что оно должно быть в Навадвипе. Навадвип в то время был известен различными школами, образовательными институтами — философией и тому подобные явления: *ньяя* (школа индийской логики), *нава-ньяя* и школа философии также. И в некоторых Пуранах говорилось: «Навадвипа Шачи-сута», говорилось, что *юга-аватар* придет здесь.
 

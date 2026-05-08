@@ -1,12 +1,21 @@
 ---
 slug: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov
+record_id: 1983.11.14.B6
+title: Проект «Бхагавад-гита» в свете «Бхагаватам» и книга, посвященная
+  биографиям вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7464657
+  duration: 00:07:15
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.mp3
+date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.mp3
     title: аудиозапись в MP3 (7 мин. 14 сек., 7,2 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 1129. 1983.11.14.B6. Проект «Бхагавад-гита» в свете «Бхагаватам» и книга,
+    посвященная биографиям вайшнавов
+  index: "1129"
+  filename: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov.md
 ---
-
-# 1129. 1983.11.14.B6. Проект «Бхагавад-гита» в свете «Бхагаватам» и книга, посвященная биографиям вайшнавов
 
 **Госвами Махарадж:** Это — книга, посвященная жизни великих преданных.
 

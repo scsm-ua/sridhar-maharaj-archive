@@ -1,5 +1,14 @@
 ---
 slug: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b
+record_id: 1982.01.01.B
+title: Сокровенное «Я» Сарасвати Тхакура.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21826937
+  duration: 00:45:07
+  mp3: /wp-content/uploads/2012/08/462_1982.01.01.B_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
+date: 1982-01-01
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -12,13 +21,14 @@ tags:
     slug: sarasvati-thakur
   - title: Шри Дайита Даса Дашакам
     slug: shri-dajita-dasa-dashakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/462_1982.01.01.B_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
     title: Скачать аудиозапись в mp3 (45 мин 07 сек, размер 21 Мб)
+legacy:
+  title: 462. Сокровенное «Я» Сарасвати Тхакура. 1982.01.01.B
+  index: "462"
+  filename: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b.md
 ---
-
-# 462. Сокровенное «Я» Сарасвати Тхакура. 1982.01.01.B
 
 *#00:00:00#*
 

@@ -1,12 +1,20 @@
 ---
 slug: 174-1982-04-14-c2-lila-dvizhenie-bez-poteri-energii-stradanij-i-smerti
+record_id: 1982.04.14.C2
+title: Лила – движение без потери энергии, страданий и смерти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4883517
+  duration: 00:04:41
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila_%E2%80%93_dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.mp3
+date: 1982-04-14
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila_%E2%80%93_dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.mp3
     title: аудиозапись в MP3 (4 мин. 41 сек., 4,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila--dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 174. 1982.04.14.C2. Лила – движение без потери энергии, страданий и смерти
+  index: "174"
+  filename: 174-1982-04-14-c2-lila-dvizhenie-bez-poteri-energii-stradanij-i-smerti.md
 ---
-
-# 174. 1982.04.14.C2. Лила – движение без потери энергии, страданий и смерти
 
 Развитие, *лила.* Большое и малое — все эти реалии присутствуют там, но партийный дух, отдельное сознание, отсутствует, и это *лила*, игра. Истинное сражение и показное сражение. В драме, в спектакле человека убивают. Убитый в спектакле, в сражении, заслуживает большие аплодисменты, нежели убийца. Прабхупада говорил: *симха прасена мавадхит*[^_ftn1] — Симха (лев) убил Прасену, затем *симха* был убит Джамбаваном, поскольку это *лила*.
 

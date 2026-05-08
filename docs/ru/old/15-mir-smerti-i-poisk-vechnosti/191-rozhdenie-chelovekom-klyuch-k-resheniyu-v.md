@@ -1,5 +1,13 @@
 ---
 slug: 191-rozhdenie-chelovekom-klyuch-k-resheniyu-v
+title: Рождение человеком – ключ к решению всех проблем. Мгновения прекрасной
+  реальности, часть 3.4
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4566040
+  duration: 00:08:53
+  mp3: /wp-content/uploads/2012/08/191_MgnoveniyaPR_3.4_SridharMj_Rojdeniye_chelovekom–klyuch_k_resheniyu_vseh_problem.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
@@ -10,13 +18,15 @@ tags:
     slug: materialnyj-mir
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/191_MgnoveniyaPR_3.4_SridharMj_Rojdeniye_chelovekom–klyuch_k_resheniyu_vseh_problem.mp3
     title: Скачать аудиозапись в mp3 (8 мин 53 сек, размер 4 Мб)
+legacy:
+  title: 191. Рождение человеком – ключ к решению всех проблем. Мгновения
+    прекрасной реальности, часть 3.4
+  index: "191"
+  filename: 191-rozhdenie-chelovekom-klyuch-k-resheniyu-v.md
 ---
-
-# 191. Рождение человеком – ключ к решению всех проблем. Мгновения прекрасной реальности, часть 3.4
 
 **Шрила Шридхар Махарадж:** Мне рассказывали, что эти люди, в Южной Африке, они совершили самоубийство, коллективное самоубийство.
 

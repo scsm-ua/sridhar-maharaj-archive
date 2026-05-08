@@ -1,5 +1,14 @@
 ---
 slug: 376-1983-04-02-kultura-propovedi
+record_id: 1983.04.02
+title: Культура проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17851819
+  duration: 00:35:26
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3
+date: 1983-04-02
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-04
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3
     title: аудиозапись в MP3 (35 мин. 25 сек., 17,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (224 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 376. 1983.04.02. Культура проповеди
+  index: "376"
+  filename: 376-1983-04-02-kultura-propovedi.md
 ---
-
-# 376. 1983.04.02. Культура проповеди
 
 **Госвами Махарадж:** Когда Шрилу Бхактисиддханту Сарасвати Тхакура сопровождали во Вриндаване его спутники, которые были одеты в западные одежды (в западные пиджаки и прочее), какой была идея, что стояло за этим?
 

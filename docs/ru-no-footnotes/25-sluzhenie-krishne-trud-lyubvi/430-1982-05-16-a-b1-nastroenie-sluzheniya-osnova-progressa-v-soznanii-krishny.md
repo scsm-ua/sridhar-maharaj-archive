@@ -1,5 +1,14 @@
 ---
 slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
+record_id: 1982.05.16.A.B1
+title: Настроение служения – основа прогресса в Сознании Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13588678
+  duration: 00:13:30
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
+date: 1982-05-16
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
     title: аудиозапись в MP3 (13 мин. 29 сек., 13,0 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 430. 1982.05.16.A.B1. Настроение служения – основа прогресса в Сознании
+    Кришны
+  index: "430"
+  filename: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny.md
 ---
-
-# 430. 1982.05.16.A.B1. Настроение служения – основа прогресса в Сознании Кришны
 
 **Преданный:** Гурудев!
 

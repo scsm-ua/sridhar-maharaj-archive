@@ -1,12 +1,20 @@
 ---
 slug: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa
+record_id: 1982.01.28.B1
+title: Кришна принимает чувства сердца
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7958455
+  duration: 00:14:46
+  mp3: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+date: 1982-01-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
     title: аудиозапись в MP3 (14 мин. 45 сек., 7,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (162 КБ)
   - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 740. 1982.01.28.B1. Кришна принимает чувства сердца
+  index: "740"
+  filename: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa.md
 ---
-
-# 740. 1982.01.28.B1. Кришна принимает чувства сердца
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

@@ -1,12 +1,20 @@
 ---
 slug: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi
+record_id: 1982.04.29.A1
+title: Милость вайшнавов и сотрудничество с ними – путь к исцелению души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2244868
+  duration: 00:01:10
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/263_1982.04.29.A1_SridharMj_Milost_vajshnavov_i_sotrudnichestvo_s_nimi--put_k_isceleniju_dushi.mp3
+date: 1982-04-29
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/263_1982.04.29.A1_SridharMj_Milost_vajshnavov_i_sotrudnichestvo_s_nimi--put_k_isceleniju_dushi.mp3
     title: аудиозапись в MP3 (1 мин. 09 сек., 2,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (39 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/263_1982.04.29.A1_SridharMj_Milost_vajshnavov_i_sotrudnichestvo_s_nimi--put_k_isceleniju_dushi.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 263. 1982.04.29.A1. Милость вайшнавов и сотрудничество с ними – путь к
+    исцелению души
+  index: "263"
+  filename: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi.md
 ---
-
-# 263. 1982.04.29.A1. Милость вайшнавов и сотрудничество с ними – путь к исцелению души
 
 **Госвами Махарадж:** Находится ли искренность в рамках свободной воли *дживы*?
 

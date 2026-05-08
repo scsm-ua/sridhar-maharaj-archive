@@ -1,12 +1,20 @@
 ---
 slug: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm
+record_id: 1982.03.11.B2
+title: Требование быстро обрести сокровенные явления – это атеизм
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8373655
+  duration: 00:06:27
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.mp3
+date: 1982-03-11
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.mp3
     title: аудиозапись в MP3 (6 мин. 26 сек., 8,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (19 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 874. 1982.03.11.B2. Требование быстро обрести сокровенные явления – это
+    атеизм
+  index: "874"
+  filename: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm.md
 ---
-
-# 874. 1982.03.11.B2. Требование быстро обрести сокровенные явления – это атеизм
 
 **Преданный:** Махарадж?
 

@@ -1,12 +1,20 @@
 ---
 slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
+record_id: 1982.01.03.A
+title: Сущность отречения Госвами Вриндавана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17984700
+  duration: 00:34:13
+  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+date: 1982-01-03
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
     title: аудиозапись в MP3 (34 мин. 13 сек., 17,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (273 КБ)
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.pdf
     title: транскрипцию в PDF (184 КБ)
+legacy:
+  title: 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
+  index: "742"
+  filename: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
 ---
-
-# 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна, Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

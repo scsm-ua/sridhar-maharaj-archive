@@ -1,5 +1,14 @@
 ---
 slug: 245-1982-01-04-c-obshhenie-s-vajshnavami-daruet-podlinnoe-vospriyatie-bozhestva
+record_id: 1982.01.04.C
+title: Общение с вайшнавами дарует подлинное восприятие Божества
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7075431
+  duration: 00:12:23
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
+date: 1982-01-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -30,7 +39,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.47
     slug: shrimad-bhagavatam-11-2-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
     title: аудиозапись в MP3 (12 мин. 23 сек., 6,8 МБ)
@@ -38,9 +46,11 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.pdf
     title: транскрипцию в PDF (192 КБ)
+legacy:
+  title: 245. 1982.01.04.C. Общение с вайшнавами дарует подлинное восприятие Божества
+  index: "245"
+  filename: 245-1982-01-04-c-obshhenie-s-vajshnavami-daruet-podlinnoe-vospriyatie-bozhestva.md
 ---
-
-# 245. 1982.01.04.C. Общение с вайшнавами дарует подлинное восприятие Божества
 
 Последователи школы Гаудиев не слишком заботятся о поклонении Божествам. Их больше интересует зрение, с помощью которого можно увидеть Божество. Эти плотские глаза не могут иметь подлинного представления о Божестве. Зрение мы получаем от Гуру. *Ом̇ аджн̃а̄на-тимира̄ндхасйа*[^_ftn1] — *дикша*, *дивья-гьяна…(?)*. Подлинное Божество не может быть пережито, увидено с помощью наших телесных чувств — *атиндрия*. Истинная фигура, образ, олицетворение, личность Господа не может быть увидена, услышана или пережита с помощью какого-либо чувства, но — внутреннее зрение, внутренний слух, который мы получаем от Гуру и вайшнава, поэтому нас в большей степени интересует *садху-санга* с целью обретения подлинного зрения, позволяющего видеть Божество.
 

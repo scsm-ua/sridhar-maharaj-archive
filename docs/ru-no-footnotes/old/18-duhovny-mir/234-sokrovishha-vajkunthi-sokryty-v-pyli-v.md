@@ -1,5 +1,14 @@
 ---
 slug: 234-sokrovishha-vajkunthi-sokryty-v-pyli-v
+record_id: 1982.01.24.A1
+title: Сокровища Вайкунтхи сокрыты в пыли Вриндавана.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7437469
+  duration: 00:15:18
+  mp3: /wp-content/uploads/2012/08/234_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
+date: 1982-01-24
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
@@ -12,13 +21,14 @@ tags:
     slug: vrindavan
   - title: Духовный мир
     slug: duhovnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/234_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
     title: Скачать аудиозапись в mp3 (15 мин 18 сек, размер 7 Мб)
+legacy:
+  title: 234. Сокровища Вайкунтхи сокрыты в пыли Вриндавана. 1982.01.24.A1
+  index: "234"
+  filename: 234-sokrovishha-vajkunthi-sokryty-v-pyli-v.md
 ---
-
-# 234. Сокровища Вайкунтхи сокрыты в пыли Вриндавана. 1982.01.24.A1
 
 **#00:00:00#** Сознание подобного качества низошло и пленило мое сознательное существование. Я мог чувствовать: «О, что, это высшее начало, и оно пленило, окружило меня со всех сторон». И в то время я подумал: «Неужели эта *пушпарат*-колесница спустилась сюда, чтобы…колесница, которая отвозит благословенные души в высшую обитель, неужели подобная колесница спустилась.
 

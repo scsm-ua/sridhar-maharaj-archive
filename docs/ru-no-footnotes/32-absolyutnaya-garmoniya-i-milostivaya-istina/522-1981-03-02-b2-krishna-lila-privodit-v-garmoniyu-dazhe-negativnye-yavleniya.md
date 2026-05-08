@@ -1,12 +1,20 @@
 ---
 slug: 522-1981-03-02-b2-krishna-lila-privodit-v-garmoniyu-dazhe-negativnye-yavleniya
+record_id: 1981.03.02.B2
+title: Кришна-лила приводит в гармонию даже негативные явления
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6638393
+  duration: 00:09:00
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
+date: 1981-03-02
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 6,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.pdf
     title: транскрипцию в PDF (130 КБ)
+legacy:
+  title: 522. 1981.03.02.B2. Кришна-лила приводит в гармонию даже негативные явления
+  index: "522"
+  filename: 522-1981-03-02-b2-krishna-lila-privodit-v-garmoniyu-dazhe-negativnye-yavleniya.md
 ---
-
-# 522. 1981.03.02.B2. Кришна-лила приводит в гармонию даже негативные явления
 
 **Госвами Махарадж:** Я думал, Гададхар Пандит не хотел слушать объяснения Кришна-нама от Валлабхачарьи. Махапрабху сказал: «Я знаю только Яшода-нандана и другое имя, только два имени Я знаю». Но Валлабхачарья пришел к Гададхару и спросил: «Ты хочешь услышать мои объяснения Кришна-нама?» И Гададхар был в растерянности, поскольку он знал, что это не порадует Махапрабху, но он не хотел смущать Валлабху. Он знал, что Чайтанья Махапрабху в его сердце.
 

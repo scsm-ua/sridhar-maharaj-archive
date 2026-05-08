@@ -1,5 +1,14 @@
 ---
 slug: 123-1982-01-13-a2-slava-ekachakry-i-zhizn-nityanandy-prabhu
+record_id: 1982.01.13.A2
+title: Слава Экачакры и жизнь Нитьянанды Прабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18245016
+  duration: 00:35:00
+  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3
+date: 1982-01-13
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3
     title: аудиозапись в MP3 (34 мин. 59 сек., 17,5 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (162 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 123. 1982.01.13.A2. Слава Экачакры и жизнь Нитьянанды Прабху
+  index: "123"
+  filename: 123-1982-01-13-a2-slava-ekachakry-i-zhizn-nityanandy-prabhu.md
 ---
-
-# 123. 1982.01.13.A2. Слава Экачакры и жизнь Нитьянанды Прабху
 
 Я хотел бы, чтобы вы, если это возможно, побывали в Экачакре, месте рождения Нитьянанды Прабху. Махапрабху возложил всю ответственность в проповеди в Гаура-мандале на плечи Нитьянанды Прабху. И Нитьянанда прилагал максимум усилий. Он совершал непостижимую, немыслимую проповедь от имени Гауранги. Вы можете сами обрести подобный опыт. Если вы выйдете на улицу с проповедью, то люди будут лаять, бросаться на вас, словно собаки. В таких условиях Нитьянанда мог приводить души к Махапрабху. Махапрабху отправил Нитьянанду, поскольку никто другой не мог справиться с этой работой в Бенгалии. «Только Ты, Шрипад, — сказал Ему Махапрабху, — способен на это». Он обращался к массам. Немногие ученые привлеклись, но массы были обращены Нитьянандой Прабху в Бенгалии.
 

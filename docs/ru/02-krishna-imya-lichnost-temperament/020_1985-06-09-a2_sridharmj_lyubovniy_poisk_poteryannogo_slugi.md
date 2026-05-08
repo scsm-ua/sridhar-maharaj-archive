@@ -1,5 +1,14 @@
 ---
 slug: 020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi
+record_id: 1985.06.09.A2
+title: Любовный поиск потерянного слуги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15745860
+  duration: 00:32:36
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
+date: 1985-06-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -24,7 +33,6 @@ tags:
     slug: shri-krshnera-vimsottara-shata-nama
   - title: Ш́рӣ Кр̣ш̣н̣ера Вим̇соттара-ш́ата-на̄ма 24
     slug: shri-krshnera-vimsottara-shata-nama-24
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
     title: аудиозапись в MP3 (32 мин. 35 сек., 15 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (192 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.pdf
     title: транскрипцию в PDF (315 КБ)
+legacy:
+  title: 020. 1985.06.09.A2 Любовный поиск потерянного слуги
+  index: "020"
+  filename: 020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi.md
 ---
-
-# 020. 1985.06.09.A2 Любовный поиск потерянного слуги
 
 Любовный поиск Господом пропавшего слуги. Совершаемый Господом любовный поиск потерянного слуги. Любовный поиск пропавшего слуги. Да, очень хорошо. Интенсивность в этом простом выражении не выражена, это простое описание: любовный поиск. Но я говорил о том, что речь идет о безумном поиске, безотлагательной необходимости, кампании такого рода. Что вы думаете? Любовный поиск Господом Своего пропавшего слуги. Но Он нисходит с великим рвением, горячим желанием, чтобы забрать их домой.
 

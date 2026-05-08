@@ -1,5 +1,14 @@
 ---
 slug: 498-1982-03-29-b3-c1-besedy-o-bozhestvennoj-lyubvi-bhagavad-gita-10-9
+record_id: 1982.03.29.B3.C1
+title: Беседы о Божественной любви (Бхагавад-гита 10.9)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8293856
+  duration: 00:06:43
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).mp3
+date: 1982-03-29
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -16,7 +25,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.36
     slug: shrimad-bhagavatam-11-2-36
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).mp3
     title: аудиозапись в MP3 (6 мин. 42 сек., 8,0 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в DOCX (20 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 498. 1982.03.29.B3.C1. Беседы о Божественной любви (Бхагавад-гита 10.9)
+  index: "498"
+  filename: 498-1982-03-29-b3-c1-besedy-o-bozhestvennoj-lyubvi-bhagavad-gita-10-9.md
 ---
-
-# 498. 1982.03.29.B3.C1. Беседы о Божественной любви (Бхагавад-гита 10.9)
 
 Нитьянанда Прабху ходил от двери к двери и возвещал, говоря: «Примите Гаурангу! Вы не знаете, какая перспектива вас ждет, с каким явлением вы обретете связь. Примите Имя Гауранги, Я касаюсь ваших стоп, Я умоляю вас!» Нитьянанда Прабху обильно лил слезы, ходя от двери к двери, умоляя людей принять Гаурангу: «Примите Гаурангу, примите Его учение! Вы не знаете, вы не знаете, о какой перспективе идет речь, какое будущее вас ждет в этом случае. Не отвергайте Гаурангу, Он милостиво пришел к вам!» — так Нитьянанда Прабху блуждал здесь, ходил по этой земле.
 

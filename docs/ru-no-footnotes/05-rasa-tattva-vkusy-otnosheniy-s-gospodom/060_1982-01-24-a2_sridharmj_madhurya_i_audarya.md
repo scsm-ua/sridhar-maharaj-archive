@@ -1,12 +1,20 @@
 ---
 slug: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya
+record_id: 1982.01.24.A2
+title: Мадхурья и аударья
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4822862
+  duration: 00:04:44
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
+date: 1982-01-24
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
     title: аудиозапись в MP3 (4 мин. 43 сек., 64 кбит/сек, 4.6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 060. 1982.01.24.A2 Мадхурья и аударья
+  index: "060"
+  filename: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya.md
 ---
-
-# 060. 1982.01.24.A2 Мадхурья и аударья
 
 **Ученик:** Шридхар Махарадж, каково различие между *мадхурья-расой* и *аударья-расой*? *Мадхурья-аударья*.
 

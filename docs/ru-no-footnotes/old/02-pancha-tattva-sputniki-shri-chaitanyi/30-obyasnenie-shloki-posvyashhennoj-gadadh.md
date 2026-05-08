@@ -1,5 +1,12 @@
 ---
 slug: 30-obyasnenie-shloki-posvyashhennoj-gadadh
+title: Объяснение шлоки, посвященной Гададхару Пандиту.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1716840
+  duration: 00:06:42
+  mp3: /wp-content/uploads/2012/08/030_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -10,13 +17,14 @@ tags:
     slug: mahaprabhu
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/030_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 42 сек, размер 1 Мб)
+legacy:
+  title: 30. Объяснение шлоки, посвященной Гададхару Пандиту.
+  index: "30"
+  filename: 30-obyasnenie-shloki-posvyashhennoj-gadadh.md
 ---
-
-# 30. Объяснение шлоки, посвященной Гададхару Пандиту.
 
 **Ученик:** Гуру Махарадж, у меня вопрос на другую тему. Если кто-то принимает кшетра-санньясу, это как правило можно делать в старости? Ведь санньяси должен проповедовать. Кшетра-санньясу обычно принимают в старости?
 

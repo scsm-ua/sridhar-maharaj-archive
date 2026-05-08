@@ -1,5 +1,14 @@
 ---
 slug: 424-gde-angely-stupit-ne-smeyut-1981-03-13-a-b
+record_id: 1981.03.13.A.B
+title: Где ангелы ступить не смеют.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 33994562
+  duration: 01:04:46
+  mp3: /wp-content/uploads/2012/08/424_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
+date: 1981-03-13
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -10,13 +19,14 @@ tags:
     slug: sarasvati-thakur
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/424_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
     title: Скачать аудиозапись в mp3 (1 ч 4 мин 46 сек, размер 34 Мб)
+legacy:
+  title: 424. Где ангелы ступить не смеют. 1981.03.13.A.B
+  index: "424"
+  filename: 424-gde-angely-stupit-ne-smeyut-1981-03-13-a-b.md
 ---
-
-# 424. Где ангелы ступить не смеют. 1981.03.13.A.B
 
 **#00:00:00#** Хари-катха Его Божественной Милости Шрилы Бхакти Ракшак Шридхар Дев-Госвами Махараджа «Глупцы врываются туда, где ангелы ступить не смеют» 13 марта 1981 года, Шри Навадвип Дхам, Чайтанья Сарасват Матх.
 

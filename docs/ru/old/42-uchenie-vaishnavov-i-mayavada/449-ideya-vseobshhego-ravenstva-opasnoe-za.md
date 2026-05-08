@@ -1,5 +1,12 @@
 ---
 slug: 449-ideya-vseobshhego-ravenstva-opasnoe-za
+title: Идея всеобщего равенства — опасное заблуждение.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3670705
+  duration: 00:11:08
+  mp3: /wp-content/uploads/2012/08/449_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
@@ -10,13 +17,14 @@ tags:
     slug: rupa-gosvami
   - title: Шанкара
     slug: shankara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/449_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
     title: Скачать аудиозапись в mp3 (11 мин 8 сек, размер 3 Мб)
+legacy:
+  title: 449. Идея всеобщего равенства — опасное заблуждение. 2012.07.25.17
+  index: "449"
+  filename: 449-ideya-vseobshhego-ravenstva-opasnoe-za.md
 ---
-
-# 449. Идея всеобщего равенства — опасное заблуждение. 2012.07.25.17
 
 *#00:00:00#*
 

@@ -1,5 +1,14 @@
 ---
 slug: 453-shrila-shridhar-maharadzh-o-svoej-lichno
+record_id: 1982.01.02.A
+title: Шрила Шридхар Махарадж о своей личности и гороскопе.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9346361
+  duration: 00:18:18
+  mp3: /wp-content/uploads/2012/08/453_1982.01.02.A_SridharMj_O_svoey_lichnosti_i_goroskope1.mp3
+date: 1982-01-02
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/453_1982.01.02.A_SridharMj_O_svoey_lichnosti_i_goroskope1.mp3
     title: Скачать аудиозапись в mp3 (18 мин 18 сек, размер 9 Мб)
+legacy:
+  title: 453. Шрила Шридхар Махарадж о своей личности и гороскопе. 1982.01.02.A
+  index: "453"
+  filename: 453-shrila-shridhar-maharadzh-o-svoej-lichno.md
 ---
-
-# 453. Шрила Шридхар Махарадж о своей личности и гороскопе. 1982.01.02.A
 
 **Ученик:** Махарадж, я всегда думал: «Наш Гурудев имел некое особое сокровище, но он не открывал это сокровище. Я думаю, что он оставил это сокровище у вас.
 

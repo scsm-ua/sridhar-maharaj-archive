@@ -1,5 +1,14 @@
 ---
 slug: 052_1981-09-05-a2_sridharmj_predstaviteli_raznyh_ras_pochitajut_drug_druga
+record_id: 1981.09.05.A2
+title: Представители разных рас почитают друг друга
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18513115
+  duration: 00:16:37
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3
+date: 1981-09-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -36,7 +45,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.7.26
     slug: shrimad-bhagavatam-2-7-26
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3
     title: аудиозапись в MP3 (16 мин. 37 сек., 128 кбит/сек, 18 МБ)
@@ -44,9 +52,11 @@ links:
     title: транскрипцию в DOCX (29 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 052. 1981.09.05.A2 Представители разных рас почитают друг друга
+  index: "052"
+  filename: 052_1981-09-05-a2_sridharmj_predstaviteli_raznyh_ras_pochitajut_drug_druga.md
 ---
-
-# 052. 1981.09.05.A2 Представители разных рас почитают друг друга
 
 **Преданный:** Махарадж, я задаюсь вопросом: у Рупы и Санатаны Госвами был брат — Анупама, и он был *рама-бхактой*. Каковы их взаимоотношения в духовном небе? Каковы взаимоотношения Рупы Госвами, Санатаны Госвами (они пребывают в *лиле* Махапрабху) и Анупамы, [который находится] в *айодхья-лиле*, в *рамачандра-лиле*? Их связывают те же самые отношения братьев?
 

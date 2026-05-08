@@ -1,5 +1,14 @@
 ---
 slug: 045_1983-11-23-a1_sridharmj_mir_gde_zhestokost_i_ljubov_ravno_zhelanny
+record_id: 1983.11.23.A1
+title: Мир, где жестокость и любовь равно желанны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7570985
+  duration: 00:07:14
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3
+date: 1983-11-23
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -12,7 +21,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.26
     slug: shri-chajtanya-charitamrita-adi-lila-4-26
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3
     title: аудиозапись в MP3 (07 мин. 14 сек., 128 кбит/сек, 7.2 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.pdf
     title: транскрипцию в PDF (152 МБ)
+legacy:
+  title: 045. 1983.11.23.А1 Мир, где жестокость и любовь равно желанны
+  index: "045"
+  filename: 045_1983-11-23-a1_sridharmj_mir_gde_zhestokost_i_ljubov_ravno_zhelanny.md
 ---
-
-# 045. 1983.11.23.А1 Мир, где жестокость и любовь равно желанны
 
 …правильно или неправильно… Поскольку это — наиболее естественный фундаментальный поток, для Себя. Только у Него есть подлинные права на все и вся. Самый широкий круг(?), когда-либо известный миру. Красота, Очарование не заботятся даже о справедливости, не говоря уже о других вещах. Это немыслимо, что может существовать что-либо подлинное за пределами справедливости! Мы считаем, что это немыслимо. Справедливость может быть осуждена, отброшена. Что это такое? Это невозможно. Справедливость — это справедливость. Как справедливости можно бросить вызов? Но такой вызов можно бросить. Существует измерение подобного вызова. Справедливость становится вором, чтобы проникнуть в это царство.
 

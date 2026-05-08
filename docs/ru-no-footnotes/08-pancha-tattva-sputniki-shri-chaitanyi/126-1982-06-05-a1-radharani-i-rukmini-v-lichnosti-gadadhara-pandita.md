@@ -1,5 +1,14 @@
 ---
 slug: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita
+record_id: 1982.06.05.A1
+title: Радхарани и Рукмини в личности Гададхара Пандита
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5181701
+  duration: 00:03:53
+  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
+date: 1982-06-05
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -12,7 +21,6 @@ tags:
     slug: radharani
   - title: Рукмини
     slug: rukmini
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
     title: аудиозапись в MP3 (3 мин. 53 сек., 5 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 126. 1982.06.05.A1. Радхарани и Рукмини в личности Гададхара Пандита
+  index: "126"
+  filename: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita.md
 ---
-
-# 126. 1982.06.05.A1. Радхарани и Рукмини в личности Гададхара Пандита
 
 **Акхаянанда Махарадж:** Могу я спросить вас, Махарадж? Иногда говорят, что Гададхар Пандит есть Шримати Радхарани, иногда говорят, что он — Лалита Сакхи.
 

@@ -1,5 +1,14 @@
 ---
 slug: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya
+record_id: 1982.01.19.C2
+title: О питании и режиме дня
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6082268
+  duration: 00:09:25
+  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3
+date: 1982-01-19
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3
     title: аудиозапись в MP3 (9 мин. 25 сек., 5,9 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 745. 1982.01.19.C2. О питании и режиме дня
+  index: "745"
+  filename: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya.md
 ---
-
-# 745. 1982.01.19.C2. О питании и режиме дня
 
 **Преданный:** …Человек, который предлагает *прасадам* Господу. Возможно, потому — градация *прасадам*?
 

@@ -1,15 +1,25 @@
 ---
 slug: 178-tsentry-drevnej-arijskoj-tsivilizatsii
+record_id: 1983.01.12.B6
+title: Центры древней арийской цивилизации.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2607131
+  duration: 00:03:55
+  mp3: /wp-content/uploads/2012/08/178_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
+date: 1983-01-12
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/178_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
     title: Скачать аудиозапись в mp3 (3 мин 55 сек, размер 2 Мб)
+legacy:
+  title: 178. Центры древней арийской цивилизации. 1983.01.12.B6
+  index: "178"
+  filename: 178-tsentry-drevnej-arijskoj-tsivilizatsii.md
 ---
-
-# 178. Центры древней арийской цивилизации. 1983.01.12.B6
 
 — Махарадж, некоторые ученые верят, что… считают, что арии пришли в Индию. Вышли из Индии и вернулись в Индию. Две с лишним тысячи лет тому назад, но не пять тысяч лет.
 

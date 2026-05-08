@@ -1,12 +1,20 @@
 ---
 slug: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti
+record_id: 1983.01.10.A4
+title: Два типа наслаждения, отречения и преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13815107
+  duration: 00:13:10
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3
+date: 1983-01-10
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3
     title: аудиозапись в MP3 (13 мин. 09 сек., 13,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (115 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 657. 1983.01.10.A4. Два типа наслаждения, отречения и преданности
+  index: "657"
+  filename: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti.md
 ---
-
-# 657. 1983.01.10.A4. Два типа наслаждения, отречения и преданности
 
 **Преданный:** На днях вы говорили о том, как людей привлекает роскошь.
 

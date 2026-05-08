@@ -1,12 +1,20 @@
 ---
 slug: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe
+record_id: 1982.03.08.B4
+title: О Говинда-кунде в Навадвипе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2830492
+  duration: 00:01:07
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3
+date: 1982-03-08
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3
     title: аудиозапись в MP3 (1 мин. 07 сек., 2,8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (15 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.pdf
     title: транскрипцию в PDF (112 КБ)
+legacy:
+  title: 1092. 1982.03.08.B4. О Говинда-кунде в Навадвипе
+  index: "1092"
+  filename: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe.md
 ---
-
-# 1092. 1982.03.08.B4. О Говинда-кунде в Навадвипе
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.
 

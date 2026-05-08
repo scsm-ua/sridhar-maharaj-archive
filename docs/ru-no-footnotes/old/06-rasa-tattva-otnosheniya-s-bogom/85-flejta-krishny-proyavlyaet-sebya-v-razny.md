@@ -1,18 +1,28 @@
 ---
 slug: 85-flejta-krishny-proyavlyaet-sebya-v-razny
+record_id: 1982.01.25.B2
+title: Флейта Кришны проявляет себя в разных расах.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4891115
+  duration: 00:07:27
+  mp3: /wp-content/uploads/2012/08/085_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
+date: 1982-01-25
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/085_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
     title: Скачать аудиозапись в mp3 (7 мин 27 сек, размер 4 Мб)
+legacy:
+  title: 85. Флейта Кришны проявляет себя в разных расах. 1982.01.25.B2
+  index: "85"
+  filename: 85-flejta-krishny-proyavlyaet-sebya-v-razny.md
 ---
-
-# 85. Флейта Кришны проявляет себя в разных расах. 1982.01.25.B2
 
 **Преданный:** Гуру Махарадж, существует многочисленные описания флейты Кришны в «Чаритамрите». Какова раса флейты Кришны?
 

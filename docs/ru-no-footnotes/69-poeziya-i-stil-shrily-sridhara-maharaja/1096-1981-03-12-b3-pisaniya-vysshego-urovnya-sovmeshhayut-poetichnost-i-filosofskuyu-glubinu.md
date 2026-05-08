@@ -1,12 +1,20 @@
 ---
 slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
+record_id: 1981.03.12.B3
+title: Писания высшего уровня совмещают поэтичность и философскую глубину
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8743548
+  duration: 00:17:47
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
+date: 1981-03-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
     title: аудиозапись в MP3 (17 мин. 47 сек., 8,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (30 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 1096. 1981.03.12.B3. Писания высшего уровня совмещают поэтичность и
+    философскую глубину
+  index: "1096"
+  filename: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
 ---
-
-# 1096. 1981.03.12.B3. Писания высшего уровня совмещают поэтичность и философскую глубину
 
 **Госвами Махарадж:** Свами, Трипурари Свами.
 

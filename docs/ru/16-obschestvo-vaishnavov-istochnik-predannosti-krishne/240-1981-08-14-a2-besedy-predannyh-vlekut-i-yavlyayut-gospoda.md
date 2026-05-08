@@ -1,5 +1,14 @@
 ---
 slug: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda
+record_id: 1981.08.14.A2
+title: Беседы преданных влекут и являют Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5115204
+  duration: 00:08:18
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.mp3
+date: 1981-08-14
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -18,7 +27,6 @@ tags:
     slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.mp3
     title: аудиозапись в MP3 (8 мин. 18 сек., 4,9 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 240. 1981.08.14.A2. Беседы преданных влекут и являют Господа
+  index: "240"
+  filename: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda.md
 ---
-
-# 240. 1981.08.14.A2. Беседы преданных влекут и являют Господа
 
 Есть такое произведение — «Шишупала-вада». Баладева Видьябхушана цитировал один из стихов автора «Шишупала-вады» в своем комментарии к Веданте, чтобы прояснить положение *Брахмана*, Нараяны и так далее. Вот так это звучит:
 

@@ -1,5 +1,12 @@
 ---
 slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
+title: Объяснение шлоки, посвященной Гададхару Пандиту
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1815144
+  duration: 00:06:42
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
@@ -10,7 +17,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 1,8 МБ)
@@ -18,9 +24,11 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 1102. Объяснение шлоки, посвященной Гададхару Пандиту
+  index: "1102"
+  filename: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu.md
 ---
-
-# 1102. Объяснение шлоки, посвященной Гададхару Пандиту
 
 **Преданный:** Гуру Махарадж, у меня вопрос на другую тему. Если кто-то принимает *кшетра-санньясу*, это как правило можно делать в старости? Ведь *санньяси* должен проповедовать. *Кшетра-санньясу* обычно принимают в старости?
 

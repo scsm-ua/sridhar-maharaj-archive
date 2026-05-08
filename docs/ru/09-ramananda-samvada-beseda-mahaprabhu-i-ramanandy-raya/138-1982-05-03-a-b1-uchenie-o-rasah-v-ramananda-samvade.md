@@ -1,5 +1,14 @@
 ---
 slug: 138-1982-05-03-a-b1-uchenie-o-rasah-v-ramananda-samvade
+record_id: 1982.05.03.A.B1
+title: Учение о расах в рамананда-самваде
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20640444
+  duration: 00:21:15
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/138_1982.05.03.A.B1_SridharMj_Uchenie_o_rasah_v_ramananda_samvade.mp3
+date: 1982-05-03
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -18,7 +27,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/138_1982.05.03.A.B1_SridharMj_Uchenie_o_rasah_v_ramananda_samvade.mp3
     title: аудиозапись в MP3 (21 мин. 14 сек., 19,7 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/138_1982.05.03.A.B1_SridharMj_Uchenie_o_rasah_v_ramananda_samvade.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 138. 1982.05.03.A.B1. Учение о расах в рамананда-самваде
+  index: "138"
+  filename: 138-1982-05-03-a-b1-uchenie-o-rasah-v-ramananda-samvade.md
 ---
-
-# 138. 1982.05.03.A.B1. Учение о расах в рамананда-самваде
 
 Показано развитие *шуддха*, чистой преданности, постепенный прогресс. Это развитие начинается с *карма-мишра*—*бхакти* и достигает Брахмы. Все начинается с *брахмана*, богатого человека, жителя Праяга, затем происходит переход в Джаганнатха-Пури, а оттуда — переход к Индре, а от Индры — к Брахме. *Карма-мишра*. Затем, следующий шаг — он отправился к Шиве, когда Нарада — который используется в качестве способа оценить этот прогресс, это развитие. Девариши Нарада отправляется к Брахме, своему отцу, Гуру, и он начинает прославлять его, согласно тому, что сказано в *шрути*, которые прославляют Брахму.
 

@@ -1,5 +1,13 @@
 ---
 slug: 411-samopredanie-znachit-stat-prozrachn
+title: «Самопредание» значит «стать прозрачной средой». Мгновения прекрасной
+  реальности, часть 7.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3041024
+  duration: 00:04:56
+  mp3: /wp-content/uploads/2012/08/411_MgnoveniyaPR_7.3_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
@@ -10,13 +18,15 @@ tags:
     slug: samopredanie
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/411_MgnoveniyaPR_7.3_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
     title: Скачать аудиозапись в mp3 (4 мин 56 сек, размер 3 Мб)
+legacy:
+  title: 411. «Самопредание» значит «стать прозрачной средой». Мгновения
+    прекрасной реальности, часть 7.3
+  index: "411"
+  filename: 411-samopredanie-znachit-stat-prozrachn.md
 ---
-
-# 411. «Самопредание» значит «стать прозрачной средой». Мгновения прекрасной реальности, часть 7.3
 
 Мы беспомощны. Самопредание – единственное качество и квалификация, благодаря которой мы можем иметь дело с реалиями более высокой природы – сверхсубъективным царством. Я не могу быть субъектом, царство сверхсубъективное и это не просто манера выражения, но это реальность. То, о чём идёт речь, если мы хотим стоять лицом к лицу с реальностью, то мы должны иметь подобное представление и понимание.
 

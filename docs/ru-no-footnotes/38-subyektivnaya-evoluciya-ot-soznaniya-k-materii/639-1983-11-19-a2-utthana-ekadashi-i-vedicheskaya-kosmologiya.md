@@ -1,12 +1,20 @@
 ---
 slug: 639-1983-11-19-a2-utthana-ekadashi-i-vedicheskaya-kosmologiya
+record_id: 1983.11.19.A2
+title: Уттхана-экадаши и ведическая космология
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6616326
+  duration: 00:05:55
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/639_1983.11.19.A2_SridharMj_Utthana-jekadashi_i_vedicheskaja_kosmologija.mp3
+date: 1983-11-19
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/639_1983.11.19.A2_SridharMj_Utthana-jekadashi_i_vedicheskaja_kosmologija.mp3
     title: аудиозапись в MP3 (5 мин. 55 сек., 6,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/639_1983.11.19.A2_SridharMj_Utthana-jekadashi_i_vedicheskaja_kosmologija.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 639. 1983.11.19.A2. Уттхана-экадаши и ведическая космология
+  index: "639"
+  filename: 639-1983-11-19-a2-utthana-ekadashi-i-vedicheskaya-kosmologiya.md
 ---
-
-# 639. 1983.11.19.A2. Уттхана-экадаши и ведическая космология
 
 *Уттхана-экадаши*. *Уттхана.* Существуют боги и демоны, существует такая классификация: хорошие, благие души и дурные души. По оставлению этого тела *дживы* (души) пребывают в ментальных телах. После смерти физическое тело разлагается, распадается, но человек продолжает в своей ментальной системе, в ментальной оболочке жить. И существует страна, где такая жизнь возможна, там есть также правительство, есть деление на хороших людей и плохих людей, *асура* и *дева*.
 

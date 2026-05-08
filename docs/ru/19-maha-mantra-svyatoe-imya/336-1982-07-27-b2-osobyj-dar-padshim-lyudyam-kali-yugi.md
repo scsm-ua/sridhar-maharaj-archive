@@ -1,5 +1,14 @@
 ---
 slug: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi
+record_id: 1982.07.27.B2
+title: Особый дар падшим людям Кали-юги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4324549
+  duration: 00:04:11
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3
+date: 1982-07-27
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -28,7 +37,6 @@ tags:
     slug: brihan-naradiya-purana
   - title: Брихан-нарадия-пурана 38.126
     slug: brihan-naradiya-purana-38-126
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3
     title: аудиозапись в MP3 (4 мин. 10 сек., 4,2 МБ)
@@ -36,9 +44,11 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 336. 1982.07.27.B2. Особый дар падшим людям Кали-юги
+  index: "336"
+  filename: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi.md
 ---
-
-# 336. 1982.07.27.B2. Особый дар падшим людям Кали-юги
 
 Это результат следствия кармы, коллективной, групповой. Карма-*пхала* — плод кармы. Не индивидуальный, но коллективный результат, следствие кармы, кармы группы людей. Обстоятельства порождаются этими людьми коллективно. В то же время даже люди, которые в действительности способны понять суть вещей, а не внешние покрытия, оболочку, жившие в *Сатья-югу*, молились о том, чтобы родиться в *Кали-югу*, поскольку в *Кали-югу* человечеству дается особый дар.
 

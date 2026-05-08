@@ -1,5 +1,14 @@
 ---
 slug: 298-duhovnaya-literatura-eto-vdohnoveni
+record_id: 1981.03.03.B2
+title: Духовная литература — это вдохновение из высшего мира.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7372601
+  duration: 00:14:08
+  mp3: /wp-content/uploads/2012/08/298_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
+date: 1981-03-03
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Священные писания
     slug: svyashhennye-pisaniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/298_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
     title: Скачать аудиозапись в mp3 (14 мин 8 сек, размер 7 Мб)
+legacy:
+  title: 298. Духовная литература — это вдохновение из высшего мира. 1981.03.03.B2
+  index: "298"
+  filename: 298-duhovnaya-literatura-eto-vdohnoveni.md
 ---
-
-# 298. Духовная литература — это вдохновение из высшего мира. 1981.03.03.B2
 
 **Ученик:** Я хотел бы прочитать несколько предложений оттуда. Он говорит: «Я думал, что его божественная милость Бхактисиддханта Сарасвати Тхакур всегда видит, наблюдает мою деятельность, и направляет меня изнутри моего сердца; пребывая в моем сердце, направляет меня, руководит мною.
 

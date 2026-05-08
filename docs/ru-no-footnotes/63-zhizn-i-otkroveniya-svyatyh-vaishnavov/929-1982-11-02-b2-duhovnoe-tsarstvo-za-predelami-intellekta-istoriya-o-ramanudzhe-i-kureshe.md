@@ -1,12 +1,20 @@
 ---
 slug: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe
+record_id: 1982.11.02.B2
+title: Духовное царство за пределами интеллекта. История о Раманудже и Куреше
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22163853
+  duration: 00:20:05
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.mp3
+date: 1982-11-02
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.mp3
     title: аудиозапись в MP3 (20 мин. 05 сек., 21,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (157 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 929. 1982.11.02.B2. Духовное царство за пределами интеллекта. История о
+    Раманудже и Куреше
+  index: "929"
+  filename: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe.md
 ---
-
-# 929. 1982.11.02.B2. Духовное царство за пределами интеллекта. История о Раманудже и Куреше
 
 **Шрила Шридхар Махарадж:** Кто-то из вас, может быть, хочет задать вопрос?
 

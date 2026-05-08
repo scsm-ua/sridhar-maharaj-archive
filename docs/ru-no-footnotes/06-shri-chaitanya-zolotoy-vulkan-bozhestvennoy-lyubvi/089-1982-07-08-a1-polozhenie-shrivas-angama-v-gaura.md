@@ -1,5 +1,14 @@
 ---
 slug: 089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura
+record_id: 1982.07.08.A1
+title: Положение Шривас-ангама в Гаура-лиле. Должная Ратха-ятра для Навадвипы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7758188
+  duration: 00:07:10
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.mp3
+date: 1982-07-08
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: with English audio
     slug: with-english-audio
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.mp3
     title: аудиозапись в MP3 (7 мин. 10 сек., 7.4 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.pdf
     title: транскрипцию в PDF (755 КБ)
+legacy:
+  title: 089. 1982.07.08.A1 Положение Шривас-ангама в Гаура-лиле. Должная
+    Ратха-ятра для Навадвипы
+  index: "089"
+  filename: 089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura.md
 ---
-
-# 089. 1982.07.08.A1 Положение Шривас-ангама в Гаура-лиле. Должная Ратха-ятра для Навадвипы
 
 И Бхактивинод Тхакур написал о своем стремлении в *дхама-лиле*, он написал: «Когда придет тот день, когда, стоя рядом со Шривас-ангамом, я увижу Махапрабху в Его *санньяса-веше* и постараюсь привести Его в Шривас-ангам. Махапрабху в Пури и гопи на Курукшетре — здесь присутствует параллель, аналогия. Они, гопи, встретили на Курукшетре Кришну, но не такого Кришну, к которому они стремились. Они стремились к встрече с Ним только во Вриндаване.
 

@@ -1,5 +1,14 @@
 ---
 slug: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy
+record_id: 1981.03.05.B2
+title: Происхождение аханкары из махат-таттвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7096978
+  duration: 00:12:50
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.mp3
+date: 1981-03-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -36,7 +45,6 @@ tags:
     slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.mp3
     title: аудиозапись в MP3 (12 мин. 50 сек., 6,8 МБ)
@@ -44,9 +52,11 @@ links:
     title: транскрипцию в RTF (163 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 631. 1981.03.05.B2. Происхождение аханкары из махат-таттвы
+  index: "631"
+  filename: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
 ---
-
-# 631. 1981.03.05.B2. Происхождение аханкары из махат-таттвы
 
 **Госвами Махарадж:** Есть одна *шлока* в «Бхагаватам»…
 

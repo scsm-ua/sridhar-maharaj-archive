@@ -1,5 +1,14 @@
 ---
 slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
+record_id: 1981.03.12.C1
+title: Слушание духовных истин пробуждает и очищает сердце
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14091680
+  duration: 00:23:20
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3
+date: 1981-03-12
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -18,7 +27,6 @@ tags:
     slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3
     title: аудиозапись в MP3 (23 мин. 20 сек., 13,4 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в DOCX (34 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 565. 1981.03.12.С1. Слушание духовных истин пробуждает и очищает сердце
+  index: "565"
+  filename: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse.md
 ---
-
-# 565. 1981.03.12.С1. Слушание духовных истин пробуждает и очищает сердце
 
 [Кришна, Кришна, Кришна, Гаура-Харибол, Гаура-Харибол]
 

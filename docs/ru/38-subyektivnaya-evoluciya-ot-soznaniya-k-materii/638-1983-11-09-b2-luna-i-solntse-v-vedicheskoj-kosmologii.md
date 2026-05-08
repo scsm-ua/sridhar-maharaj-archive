@@ -1,5 +1,14 @@
 ---
 slug: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii
+record_id: 1983.11.09.B2
+title: Луна и Солнце в ведической космологии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8728273
+  duration: 00:08:07
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
+date: 1983-11-09
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 8.25
     slug: bhagavad-gita-8-25
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
     title: аудиозапись в MP3 (8 мин. 07 сек., 8,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 638. 1983.11.09.B2. Луна и Солнце в ведической космологии
+  index: "638"
+  filename: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii.md
 ---
-
-# 638. 1983.11.09.B2. Луна и Солнце в ведической космологии
 
 Какова природа этого мира, о котором говорится, что он бессмертный? В нем также есть обитатели, живые личности. Они наслаждаются там жизнью. И они посылают что-то в этот мир… *Шукра-граха*… Как это называется по-английски? Венера? Марс… Юпитер — Брихаспати.
 

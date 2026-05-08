@@ -1,12 +1,20 @@
 ---
 slug: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte
+record_id: 1982.04.30.A2.B1
+title: Необходимо предаться вайшнавам и сконцентрироваться на их духовном аспекте
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10859842
+  duration: 00:10:08
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
+date: 1982-04-30
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
     title: аудиозапись в MP3 (10 мин. 08 сек., 10,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 261. 1982.04.30.A2.B1. Необходимо предаться вайшнавам и
+    сконцентрироваться на их духовном аспекте
+  index: "261"
+  filename: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte.md
 ---
-
-# 261. 1982.04.30.A2.B1. Необходимо предаться вайшнавам и сконцентрироваться на их духовном аспекте
 
     ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
     ш́унийа̄чхи са̄дху гуру мукхе

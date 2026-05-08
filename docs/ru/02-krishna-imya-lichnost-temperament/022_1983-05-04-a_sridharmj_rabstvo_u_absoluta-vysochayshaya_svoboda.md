@@ -1,5 +1,14 @@
 ---
 slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
+record_id: 1983.05.04.A
+title: Рабство у Абсолюта — высочайшая свобода
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13982699
+  duration: 00:28:56
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.mp3
+date: 1983-05-04
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -78,7 +87,6 @@ tags:
     slug: kabe-shri-chaitanja-more-koribena-doja-6
   - title: Кабе шри чаитанйа море корибена дойа 7
     slug: kabe-shri-chaitanja-more-koribena-doja-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.mp3
     title: аудиозапись в MP3 (28 мин. 55 сек., 13 МБ)
@@ -86,9 +94,11 @@ links:
     title: транскрипцию в RTF (220 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.pdf
     title: транскрипцию в PDF (181 КБ)
+legacy:
+  title: 022. 1983.05.04.A Рабство у Абсолюта — высочайшая свобода
+  index: "022"
+  filename: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda.md
 ---
-
-# 022. 1983.05.04.A Рабство у Абсолюта — высочайшая свобода
 
 **Представление о подлинной свободе**
 

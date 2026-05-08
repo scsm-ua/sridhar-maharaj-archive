@@ -1,5 +1,14 @@
 ---
 slug: 469-izuchenie-pisanij-dolzhno-osushhestvlyat
+record_id: 1981.08.22.C2
+title: Изучение Писаний должно осуществляться по указанию вайшнава.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8986342
+  duration: 00:18:15
+  mp3: /wp-content/uploads/2012/08/469_1981.08.22.C2_SridharMj_Izuchenie_pisaniy_doljno_osuwestvlyatsya_pod_rukovodstvom_vaishnava.mp3
+date: 1981-08-22
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -8,13 +17,15 @@ tags:
     slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/469_1981.08.22.C2_SridharMj_Izuchenie_pisaniy_doljno_osuwestvlyatsya_pod_rukovodstvom_vaishnava.mp3
     title: Скачать аудиозапись в mp3 (18 мин 15 сек, размер 9 Мб)
+legacy:
+  title: 469. Изучение Писаний должно осуществляться по указанию вайшнава.
+    1981.08.22.C2
+  index: "469"
+  filename: 469-izuchenie-pisanij-dolzhno-osushhestvlyat.md
 ---
-
-# 469. Изучение Писаний должно осуществляться по указанию вайшнава. 1981.08.22.C2
 
 Махарадж, тогда в этой связи возникает вопрос. Скажем, это мой личный опыт в моем изучении, личном изучении различных санскритских источников, я всегда падал духом, не возвышался духом, но падал духом. И говорится, что все это бесполезно, санскритская грамматика и прочее академическое знание. Да, изучение как таковое, накопление академических знаний – не то, о чем идет речь.
 

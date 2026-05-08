@@ -1,5 +1,15 @@
 ---
 slug: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura
+record_id: 1982.06.08.A3
+title: Стих Рупы Госвами о почитании преданных разного уровня. Замечание
+  Бхактивинода Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7450969
+  duration: 00:06:35
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3
+date: 1982-06-08
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -14,7 +24,6 @@ tags:
     slug: bhadzhana-lalasa
   - title: Бхаджана-лаласа 5.1
     slug: bhadzhana-lalasa-5-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3
     title: аудиозапись в MP3 (6 мин. 34 сек., 7,2 МБ)
@@ -22,9 +31,12 @@ links:
     title: транскрипцию в DOCX (22 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 256. 1982.06.08.A3. Стих Рупы Госвами о почитании преданных разного
+    уровня. Замечание Бхактивинода Тхакура
+  index: "256"
+  filename: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura.md
 ---
-
-# 256. 1982.06.08.A3. Стих Рупы Госвами о почитании преданных разного уровня. Замечание Бхактивинода Тхакура
 
 **Преданный:** Махарадж, Шрила Рупа Госвами говорит о том, что чистый преданный не склонен критиковать других в сердце своем. Как мы можем обрести подобное качество?
 

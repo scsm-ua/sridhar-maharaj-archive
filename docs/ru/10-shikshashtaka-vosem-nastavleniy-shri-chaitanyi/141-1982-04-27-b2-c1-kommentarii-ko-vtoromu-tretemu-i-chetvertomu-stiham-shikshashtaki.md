@@ -1,5 +1,14 @@
 ---
 slug: 141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki
+record_id: 1982.04.27.B2.C1
+title: Комментарии ко второму, третьему и четвертому стихам «Шикшаштаки»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 62823370
+  duration: 01:05:09
+  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/141_1982.04.27.B2.C1_Kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_Shikshashtaki.mp3
+date: 1982-04-27
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
@@ -42,7 +51,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-20-37
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/141_1982.04.27.B2.C1_Kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_Shikshashtaki.mp3
     title: аудиозапись в MP3 (1 час 5 мин. 9 сек., 60 МБ)
@@ -50,9 +58,12 @@ links:
     title: транскрипцию в RTF (498 КБ)
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/141_1982.04.27.B2.C1_Kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_Shikshashtaki.pdf
     title: транскрипцию в PDF (223 КБ)
+legacy:
+  title: 141. 1982.04.27.B2.C1. Комментарии ко второму, третьему и четвертому
+    стихам «Шикшаштаки»
+  index: "141"
+  filename: 141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki.md
 ---
-
-# 141. 1982.04.27.B2.C1. Комментарии ко второму, третьему и четвертому стихам «Шикшаштаки»
 
 Сегодня меня попросили рассказать о второй *шлоке* «Шикшаштаки». Я начну с этого.
 

@@ -1,5 +1,14 @@
 ---
 slug: 169-nadmirnaya-priroda-vajshnava-beseda-s
+record_id: 1981.03.03.C5
+title: Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15684690
+  duration: 00:27:23
+  mp3: /wp-content/uploads/2012/08/169_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
+date: 1981-03-03
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
@@ -10,13 +19,15 @@ tags:
     slug: vera
   - title: Материальный мир
     slug: materialnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/169_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
     title: Скачать аудиозапись в mp3 (15 мин 23 сек, размер 15 Мб)
+legacy:
+  title: 169. Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем.
+    1981.03.03.C5
+  index: "169"
+  filename: 169-nadmirnaya-priroda-vajshnava-beseda-s.md
 ---
-
-# 169. Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем. 1981.03.03.C5
 
 **Ученик:** Я думаю, что нам сейчас надо идти, и мы вернемся.
 

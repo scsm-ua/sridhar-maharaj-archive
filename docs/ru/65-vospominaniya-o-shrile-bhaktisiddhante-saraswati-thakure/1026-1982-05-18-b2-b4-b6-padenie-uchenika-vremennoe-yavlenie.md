@@ -1,5 +1,14 @@
 ---
 slug: 1026-1982-05-18-b2-b4-b6-padenie-uchenika-vremennoe-yavlenie
+record_id: 1982.05.18.B2.B4.B6
+title: Падение ученика – временное явление
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5825618
+  duration: 00:05:27
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1026_1982.05.18.B2.B4.B6_SridharMj_Padenie_uchenika--vremennoe_javlenie.mp3
+date: 1982-05-18
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1026_1982.05.18.B2.B4.B6_SridharMj_Padenie_uchenika--vremennoe_javlenie.mp3
     title: аудиозапись в MP3 (5 мин. 26 сек., 5,6 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1026_1982.05.18.B2.B4.B6_SridharMj_Padenie_uchenika--vremennoe_javlenie.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1026. 1982.05.18.B2.B4.B6. Падение ученика – временное явление
+  index: "1026"
+  filename: 1026-1982-05-18-b2-b4-b6-padenie-uchenika-vremennoe-yavlenie.md
 ---
-
-# 1026. 1982.05.18.B2.B4.B6. Падение ученика – временное явление
 
 **Преданный:** Махарадж?
 

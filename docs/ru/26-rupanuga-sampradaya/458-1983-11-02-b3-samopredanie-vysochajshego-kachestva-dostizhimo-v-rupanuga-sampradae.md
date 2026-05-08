@@ -1,12 +1,20 @@
 ---
 slug: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae
+record_id: 1983.11.02.B3
+title: Самопредание высочайшего качества достижимо в рупануга-сампрадае
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3284803
+  duration: 00:02:48
+  mp3: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3
+date: 1983-11-02
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3
     title: аудиозапись в MP3 (2 мин. 47 сек., 3,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 458. 1983.11.02.B3. Самопредание высочайшего качества достижимо в
+    рупануга-сампрадае
+  index: "458"
+  filename: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae.md
 ---
-
-# 458. 1983.11.02.B3. Самопредание высочайшего качества достижимо в рупануга-сампрадае
 
 **Преданный:** А какое самопредание — высочайшего качества?
 

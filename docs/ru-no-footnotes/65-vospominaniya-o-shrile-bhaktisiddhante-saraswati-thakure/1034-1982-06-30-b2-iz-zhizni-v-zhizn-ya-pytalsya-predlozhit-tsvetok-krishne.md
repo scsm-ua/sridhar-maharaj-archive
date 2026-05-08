@@ -1,12 +1,20 @@
 ---
 slug: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne
+record_id: 1982.06.30.B2
+title: «Из жизни в жизнь я пытался предложить цветок Кришне…»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4895661
+  duration: 00:04:29
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3
+date: 1982-06-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3
     title: аудиозапись в MP3 (04 мин. 28 сек., 4,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 1034. 1982.06.30.B2. «Из жизни в жизнь я пытался предложить цветок Кришне…»
+  index: "1034"
+  filename: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne.md
 ---
-
-# 1034. 1982.06.30.B2. «Из жизни в жизнь я пытался предложить цветок Кришне…»
 
 **Преданный:** Махарадж, вчера вы сказали: Шрила Бхактисиддханта Сарасвати Прабхупада упомянул *пушпа-паран*… Три слова, я не мог расслышать толком…
 

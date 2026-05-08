@@ -1,12 +1,20 @@
 ---
 slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
+record_id: 1982.06.10.B5.B8
+title: Противостояние Лакшми и Сарасвати в контексте гаудия-вайшнавизма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15755136
+  duration: 00:15:36
+  mp3: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3
+date: 1982-06-10
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3
     title: аудиозапись в MP3 (15 мин. 36 сек., 15,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 685. 1982.06.10.B5.B8. Противостояние Лакшми и Сарасвати в контексте
+    гаудия-вайшнавизма
+  index: "685"
+  filename: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
 ---
-
-# 685. 1982.06.10.B5.B8. Противостояние Лакшми и Сарасвати в контексте гаудия-вайшнавизма
 
 **Акхаянанда Махарадж:** Да, еще один вопрос. Иногда говорится, что Сарасвати находится в оппозиции к Лакшми. В чем здесь дело?
 

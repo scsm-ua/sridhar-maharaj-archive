@@ -1,12 +1,20 @@
 ---
 slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
+record_id: 1983.11.19.A4.B1
+title: Жизнь и служение Бхугарбхи Госвами, Кашинатха и Говинды
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13543445
+  duration: 00:11:06
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3
+date: 1983-11-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3
     title: аудиозапись в MP3 (11 мин. 06 сек., 13,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 936. 1983.11.19.A4.B1. Жизнь и служение Бхугарбхи Госвами, Кашинатха и
+    Говинды
+  index: "936"
+  filename: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy.md
 ---
-
-# 936. 1983.11.19.A4.B1. Жизнь и служение Бхугарбхи Госвами, Кашинатха и Говинды
 
 Сегодня, говорится, — День ухода Бхугарбхи Госвами и Кашинатха, или как его звали? Джагадиш Пандит? Бхугарбха Госвами и Кашинатх [Кашишвар]. Бхугарбха Госвами был другом Локанатха Госвами — Гурудева Нароттама. Они были родом с одного места, были земляками и жили во Вриндаване. Он был хорошим вайшнавом: почитаемым, непривязанной, отрешенной природы.
 

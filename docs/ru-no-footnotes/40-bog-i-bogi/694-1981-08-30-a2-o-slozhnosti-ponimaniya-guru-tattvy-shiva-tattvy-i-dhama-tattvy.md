@@ -1,12 +1,20 @@
 ---
 slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
+record_id: 1981.08.30.A2
+title: О сложности понимания гуру-таттвы, шива-таттвы и дхама-таттвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3911408
+  duration: 00:06:33
+  mp3: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
+date: 1981-08-30
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
     title: аудиозапись в MP3 (6 мин. 32 сек., 3,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 694. 1981.08.30.A2. О сложности понимания гуру-таттвы, шива-таттвы и
+    дхама-таттвы
+  index: "694"
+  filename: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy.md
 ---
-
-# 694. 1981.08.30.A2. О сложности понимания гуру-таттвы, шива-таттвы и дхама-таттвы
 
 **Преданный:** Я слышал вчера от Венкатты, что вы сказали: следующие реалии в вайшнавской философии трудно понять: *гуру-таттву*, *нама-таттву*, *дхама-таттву*, *шива-таттву*, *джива-таттву*.
 

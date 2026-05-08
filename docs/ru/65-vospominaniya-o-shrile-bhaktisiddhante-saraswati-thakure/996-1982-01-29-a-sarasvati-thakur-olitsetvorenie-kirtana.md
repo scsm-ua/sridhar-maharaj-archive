@@ -1,5 +1,14 @@
 ---
 slug: 996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana
+record_id: 1982.01.29.A
+title: Сарасвати Тхакур — олицетворение киртана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22417492
+  duration: 00:46:28
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
+date: 1982-01-29
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -52,7 +61,6 @@ tags:
     slug: shrimad-bhagavatam-2-4-17
   - title: Шримад-Бхагаватам 2.4.18
     slug: shrimad-bhagavatam-2-4-18
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
     title: аудиозапись в MP3 (46 мин. 28 сек., 21,4 МБ)
@@ -60,11 +68,13 @@ links:
     title: транскрипцию в RTF (413 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.pdf
     title: транскрипцию в PDF (205 КБ)
+legacy:
+  title: 996. 1982.01.29.A. Сарасвати Тхакур — олицетворение киртана
+  index: "996"
+  filename: 996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
 ---
 
-# 996. 1982.01.29.A. Сарасвати Тхакур — олицетворение киртана
-
-    кр̣пайа̄ хари-кӣрттана-мӯрти-дхарам̇
+кр̣пайа̄ хари-кӣрттана-мӯрти-дхарам̇
     дхаран̣ӣ-бхара-на̄рака-гаура джанам
     джанака̄дхика-ватсала-снигдха-падам̇
     пран̣ама̄ми сада̄ прабхупа̄да-падам

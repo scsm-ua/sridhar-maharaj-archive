@@ -1,5 +1,14 @@
 ---
 slug: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya
+record_id: 1982.04.14.C4
+title: В долгосрочной перспективе смирение плодотворнее, чем агрессия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5617946
+  duration: 00:04:58
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3
+date: 1982-04-14
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-04
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3
     title: аудиозапись в MP3 (4 мин. 58 сек., 5,4 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 382. 1982.04.14.C4. В долгосрочной перспективе смирение плодотворнее, чем
+    агрессия
+  index: "382"
+  filename: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya.md
 ---
-
-# 382. 1982.04.14.C4. В долгосрочной перспективе смирение плодотворнее, чем агрессия
 
 **Шрила Шридхар Махарадж:** Есть ли вопросы?
 

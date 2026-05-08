@@ -1,12 +1,20 @@
 ---
 slug: 699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno
+record_id: 1982.03.08.A2.B1.B7
+title: Будущее того, кто обрел связь с Господом, лучезарно
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18967122
+  duration: 00:17:08
+  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/699_1982.03.08.A2.B1.B7_SridharMj_Budushhee_togo_kto_obrel_svjaz_s_Gospodom_luchezarno.mp3
+date: 1982-03-08
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/699_1982.03.08.A2.B1.B7_SridharMj_Budushhee_togo_kto_obrel_svjaz_s_Gospodom_luchezarno.mp3
     title: аудиозапись в MP3 (17 мин. 08 сек., 18,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (32 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/699_1982.03.08.A2.B1.B7_SridharMj_Budushhee_togo_kto_obrel_svjaz_s_Gospodom_luchezarno.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 699. 1982.03.08.A2.B1.B7. Будущее того, кто обрел связь с Господом, лучезарно
+  index: "699"
+  filename: 699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
 ---
-
-# 699. 1982.03.08.A2.B1.B7. Будущее того, кто обрел связь с Господом, лучезарно
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол]
 

@@ -1,12 +1,20 @@
 ---
 slug: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti
+record_id: 1982.01.31.A2.2
+title: Об испытаниях и болезнях на духовном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2513658
+  duration: 00:04:35
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3
+date: 1982-01-31
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (4 мин. 35 сек., 2,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 708. 1982.01.31.A2.2. Об испытаниях и болезнях на духовном пути
+  index: "708"
+  filename: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti.md
 ---
-
-# 708. 1982.01.31.A2.2. Об испытаниях и болезнях на духовном пути
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

@@ -1,5 +1,14 @@
 ---
 slug: 1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu
+record_id: 1982.01.11.A2
+title: Основание Гаудия-Матха и личность Кунджи Бабу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23972988
+  duration: 00:24:21
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.mp3
+date: 1982-01-11
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -30,7 +39,6 @@ tags:
     slug: shrimad-bhagavatam-5-5-18
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.mp3
     title: аудиозапись в MP3 (24 мин. 20 сек., 22,9 МБ)
@@ -38,9 +46,11 @@ links:
     title: транскрипцию в RTF (230 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.pdf
     title: транскрипцию в PDF (215 КБ)
+legacy:
+  title: 1000. 1982.01.11.A2. Основание Гаудия-Матха и личность Кунджи Бабу
+  index: "1000"
+  filename: 1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu.md
 ---
-
-# 1000. 1982.01.11.A2. Основание Гаудия-Матха и личность Кунджи Бабу
 
 Бхактивинод Тхакур думал, что он построит хижину рядом с Дваяпаян-роуд и проведет всю свою жизнь там. Но Махапрабху попросил его: «Куда ты думаешь отправиться? Нет, ты должен открыть место Моего рождения, здесь». — «Я хочу осуществить это служение», — и он сделал это: он задействовал себя в открытии [этого места].
 

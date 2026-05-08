@@ -1,5 +1,14 @@
 ---
 slug: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu
+record_id: 1982.05.05.A2
+title: Шаранагати дарует совершенство во всех видах служения Господу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9473651
+  duration: 00:09:16
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3
+date: 1982-05-05
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -26,7 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
   - title: Шримад-Бхагаватам 7.5.23–24
     slug: shrimad-bhagavatam-7-5-23-24
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3
     title: аудиозапись в MP3 (9 мин. 16 сек., 9,1 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 822. 1982.05.05.A2. Шаранагати дарует совершенство во всех видах служения
+    Господу
+  index: "822"
+  filename: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu.md
 ---
-
-# 822. 1982.05.05.A2. Шаранагати дарует совершенство во всех видах служения Господу
 
 Нечто непостижимое, непостижимое, немыслимое. Мы можем иметь дело лишь с отдаленным лучом. Невозможно обрести это «нечто» посредством интеллекта.
 

@@ -1,18 +1,28 @@
 ---
 slug: 83-madhurya-i-audarya-1982-01-24-a2
+record_id: 1982.01.24.A2
+title: Мадхурья и аударья.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3587918
+  duration: 00:04:44
+  mp3: /wp-content/uploads/2012/08/083_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
+date: 1982-01-24
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/083_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
     title: Скачать аудиозапись в mp3 (4 мин 44 сек, размер 3 Мб)
+legacy:
+  title: 83. Мадхурья и аударья. 1982.01.24.A2
+  index: "83"
+  filename: 83-madhurya-i-audarya-1982-01-24-a2.md
 ---
-
-# 83. Мадхурья и аударья. 1982.01.24.A2
 
 **Ученик:** Шридхар Махарадж, каково различие между *мадхурья-расой* и *аударья-расой?*
 

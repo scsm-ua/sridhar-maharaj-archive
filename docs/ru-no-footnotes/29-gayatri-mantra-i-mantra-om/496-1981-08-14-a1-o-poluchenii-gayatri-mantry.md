@@ -1,5 +1,14 @@
 ---
 slug: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry
+record_id: 1981.08.14.A1
+title: О получении гаятри-мантры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8708744
+  duration: 00:16:12
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/496_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
+date: 1981-08-14
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -8,7 +17,6 @@ tags:
     slug: 1981-08
   - title: Гаятри-мантра
     slug: gayatri-mantra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/496_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
     title: аудиозапись в MP3 (16 мин. 11 сек., 8,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/496_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 496. 1981.08.14.A1. О получении гаятри-мантры
+  index: "496"
+  filename: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry.md
 ---
-
-# 496. 1981.08.14.A1. О получении гаятри-мантры
 
 **Преданный читает письмо:**
 

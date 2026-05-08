@@ -1,12 +1,20 @@
 ---
 slug: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate
+record_id: 1982.07.08.A3
+title: Объяснение пранама-мантры Шриле Сарасвати Тхакуру (гауде ганга-тате…)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7942948
+  duration: 00:08:03
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3
+date: 1982-07-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3
     title: аудиозапись в MP3 (8 мин. 03 сек., 7,6 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).pdf
     title: транскрипцию в PDF (176 КБ)
+legacy:
+  title: 1112. 1982.07.08.A3. Объяснение пранама-мантры Шриле Сарасвати Тхакуру
+    (гауде ганга-тате…)
+  index: "1112"
+  filename: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate.md
 ---
-
-# 1112. 1982.07.08.A3. Объяснение пранама-мантры Шриле Сарасвати Тхакуру (гауде ганга-тате…)
 
 **Шрила Шридхар Махарадж:** Ты уедешь только для того, чтобы вернуться.
 

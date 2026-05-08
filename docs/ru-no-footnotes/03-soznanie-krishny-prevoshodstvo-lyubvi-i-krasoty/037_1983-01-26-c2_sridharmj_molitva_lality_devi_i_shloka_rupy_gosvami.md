@@ -1,5 +1,14 @@
 ---
 slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
+record_id: 1983.01.26.C2
+title: Молитва Лалиты Деви и шлока Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5432235
+  duration: 00:10:15
+  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
+date: 1983-01-26
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
@@ -12,7 +21,6 @@ tags:
     slug: samopozhertvovanie
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (10 мин. 14 сек., 5.2 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
+  index: "037"
+  filename: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami.md
 ---
-
-# 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
 
 Монополия, торговля неуместна, невозможна на этом рынке, ни один капиталист не может войти на этот рынок.
 

@@ -1,5 +1,14 @@
 ---
 slug: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti
+record_id: 1982.06.14.A3.A6
+title: Без связи с преданностью знание и отречение, карма и йога лишены ценности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9609277
+  duration: 00:09:27
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3
+date: 1982-06-14
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -26,7 +35,6 @@ tags:
     slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3
     title: аудиозапись в MP3 (9 мин. 26 сек., 9,8 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 777. 1982.06.14.A3.A6. Без связи с преданностью знание и отречение, карма
+    и йога лишены ценности
+  index: "777"
+  filename: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti.md
 ---
-
-# 777. 1982.06.14.A3.A6. Без связи с преданностью знание и отречение, карма и йога лишены ценности
 
 То явление, которое столь высоко ценится, драгоценно в юрисдикции *карми* и *гьяни*, обладает собственной важностью в рамках своей юрисдикции, но когда речь идет об *ананья-бхакти*, то эти явления не обладают ценностью. *Бхакти* есть все и вся, *бхакти* — это полнота, это целое. *Бхакти* не зависит ни от чего иного.
 

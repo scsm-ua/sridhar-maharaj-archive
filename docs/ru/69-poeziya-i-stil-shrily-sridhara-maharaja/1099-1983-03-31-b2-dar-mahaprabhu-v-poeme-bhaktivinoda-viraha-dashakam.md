@@ -1,5 +1,14 @@
 ---
 slug: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam
+record_id: 1983.03.31.B2
+title: Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3796083
+  duration: 00:07:04
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
+date: 1983-03-31
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
@@ -12,7 +21,6 @@ tags:
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
   - title: Шримад Бхактивинода-вираха Дашакам 10
     slug: shrimad-bhaktivinoda-viraha-dashakam-10
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
     title: аудиозапись в MP3 (7 мин. 04 сек., 3,7 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 1099. 1983.03.31.B2. Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
+  index: "1099"
+  filename: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam.md
 ---
-
-# 1099. 1983.03.31.B2. Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
 
 В поэзии о Бхактивиноде Тхакуре в последнем стихе говорится:
 

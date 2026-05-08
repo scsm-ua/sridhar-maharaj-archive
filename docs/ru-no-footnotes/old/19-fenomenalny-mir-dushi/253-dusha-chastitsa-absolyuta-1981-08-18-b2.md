@@ -1,5 +1,14 @@
 ---
 slug: 253-dusha-chastitsa-absolyuta-1981-08-18-b2
+record_id: 1981.08.18.B2
+title: Душа — частица Абсолюта.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4603068
+  duration: 00:05:12
+  mp3: /wp-content/uploads/2012/08/253_1981.08.18.B2_SridharMj_Dusha-chastica_Absoluta.mp3
+date: 1981-08-18
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -10,13 +19,14 @@ tags:
     slug: dusha
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/253_1981.08.18.B2_SridharMj_Dusha-chastica_Absoluta.mp3
     title: Скачать аудиозапись в mp3 (5 мин 12 сек, размер 4 Мб)
+legacy:
+  title: 253. Душа — частица Абсолюта. 1981.08.18.B2
+  index: "253"
+  filename: 253-dusha-chastitsa-absolyuta-1981-08-18-b2.md
 ---
-
-# 253. Душа — частица Абсолюта. 1981.08.18.B2
 
 **Преданный:** Махарадж, а сварупа-шакти, это хладини? Она происходит из хладини? Где находится эта сварупа-шакти в онтологии, эта виласа, внутреннее движение?
 

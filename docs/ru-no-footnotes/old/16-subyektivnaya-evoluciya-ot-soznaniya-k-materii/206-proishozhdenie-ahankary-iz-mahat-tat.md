@@ -1,5 +1,14 @@
 ---
 slug: 206-proishozhdenie-ahankary-iz-mahat-tat
+record_id: 1981.03.05.B2
+title: Происхождение аханкары из махат-таттвы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6230162
+  duration: 00:12:50
+  mp3: /wp-content/uploads/2012/08/206_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahaе-tattvy.mp3
+date: 1981-03-05
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/206_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahaе-tattvy.mp3
     title: Скачать аудиозапись в mp3 (12 мин 50 сек, размер 6 Мб)
+legacy:
+  title: 206. Происхождение аханкары из махат-таттвы. 1981.03.05.B2
+  index: "206"
+  filename: 206-proishozhdenie-ahankary-iz-mahat-tat.md
 ---
-
-# 206. Происхождение аханкары из махат-таттвы. 1981.03.05.B2
 
 **Госвами Махарадж:** Есть одна шлока в «Бхагаватам»…
 

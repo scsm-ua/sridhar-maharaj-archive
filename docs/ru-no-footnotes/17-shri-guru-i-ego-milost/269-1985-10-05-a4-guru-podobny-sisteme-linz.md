@@ -1,5 +1,14 @@
 ---
 slug: 269-1985-10-05-a4-guru-podobny-sisteme-linz
+record_id: 1985.10.05.A4
+title: Гуру подобны системе линз
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3564753
+  duration: 00:04:39
+  mp3: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
+date: 1985-10-05
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1985-10
   - title: Гуру-парампара
     slug: guru-parampara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 3,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 269. 1985.10.05.A4. Гуру подобны системе линз
+  index: "269"
+  filename: 269-1985-10-05-a4-guru-podobny-sisteme-linz.md
 ---
-
-# 269. 1985.10.05.A4. Гуру подобны системе линз
 
 **Преданный:** Гуру Махарадж, в книге «Шри Гуру и его милость» вы говорите, что, совершая служение, преданный контактирует с деньгами, *пратиштхой* и тому подобными вещами. Не могли бы вы объяснить, как эти явления могут быть использованы в служении Кришне?
 

@@ -1,5 +1,14 @@
 ---
 slug: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu
+record_id: 1982.04.16.B3
+title: Рупануга и рагануга – путь, начертанный Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4663650
+  duration: 00:04:14
+  mp3: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3
+date: 1982-04-16
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
@@ -10,7 +19,6 @@ tags:
     slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3
     title: аудиозапись в MP3 (4 мин. 13 сек., 4,5 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 455. 1982.04.16.B3. Рупануга и рагануга – путь, начертанный Махапрабху
+  index: "455"
+  filename: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu.md
 ---
-
-# 455. 1982.04.16.B3. Рупануга и рагануга – путь, начертанный Махапрабху
 
 Гаудия-вайшнавы, последователи Махапрабху, рекомендовали нам *рагануга* и *рупануга.* Прежде всего мы *рагануги*, мы не следуем пути закона, правил и предписаний, но в большей степени выбираем путь сердца, связь от сердца к сердцу. Это *рагануга*.
 

@@ -1,12 +1,20 @@
 ---
 slug: 999-1982-02-23-c1-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
+record_id: 1982.02.23.C1
+title: Кришна интересует вайшнавов только в связи с преданностью Гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1562582
+  duration: 00:03:01
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.mp3
+date: 1982-02-23
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 1,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (49 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 999. 1982.02.23.C1. Кришна интересует вайшнавов только в связи с
+    преданностью Гуру
+  index: "999"
+  filename: 999-1982-02-23-c1-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru.md
 ---
-
-# 999. 1982.02.23.C1. Кришна интересует вайшнавов только в связи с преданностью Гуру
 
 **Шрила Шридхар Махарадж:** То, что наш Гуру Махарадж говорил, не все было понимаемо и принимаемо на начальной стадии. Но впоследствии мы осознавали: «О, то, что он говорил, — вот о чем идет речь!» В то время когда я управлял, стоял во главе *матха* в Мадрасе, я увидел, что в своем обращении на *вьяса-пуджу* профессор Саньял говорит: «Я не хочу Кришну. Но поскольку вы утверждаете, что наша потребность — в Кришне, я поклоняюсь Ему, я призываю Его Имя».
 

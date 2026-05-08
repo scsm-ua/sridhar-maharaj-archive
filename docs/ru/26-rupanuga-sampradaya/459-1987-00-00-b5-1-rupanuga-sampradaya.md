@@ -1,5 +1,14 @@
 ---
 slug: 459-1987-00-00-b5-1-rupanuga-sampradaya
+record_id: 1987.00.00.B5.1
+title: Рупануга-сампрадая
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4059073
+  duration: 00:07:12
+  mp3: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
+date: 1987-00-00
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
@@ -10,7 +19,6 @@ tags:
     slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 3,9 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 459. 1987.00.00.B5.1. Рупануга-сампрадая
+  index: "459"
+  filename: 459-1987-00-00-b5-1-rupanuga-sampradaya.md
 ---
-
-# 459. 1987.00.00.B5.1. Рупануга-сампрадая
 
 **Преданный:** Все же подчеркивается *рупануга*, *рупануга-сампрадая*.
 

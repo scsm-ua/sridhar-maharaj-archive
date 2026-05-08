@@ -1,5 +1,14 @@
 ---
 slug: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru
+record_id: 1983.11.27.B
+title: Взаимодействие сукрити, шраддхи, чайтья-гуру и маханта-гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10119490
+  duration: 00:09:09
+  mp3: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3
+date: 1983-11-27
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3
     title: аудиозапись в MP3 (9 мин. 09 сек., 9,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 310. 1983.11.27.B. Взаимодействие сукрити, шраддхи, чайтья-гуру и
+    маханта-гуру
+  index: "310"
+  filename: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru.md
 ---
-
-# 310. 1983.11.27.B. Взаимодействие сукрити, шраддхи, чайтья-гуру и маханта-гуру
 
 Внутреннее руководство, это *шраддха*, должная оценка общества преданных придет изнутри, способность распознавать: где я могу обрести благо. Внутреннее руководство, *чайтья-гуру* или *шраддха*. Благодаря *шраддхе* мы обретаем некое внутреннее руководство, и это руководство *чайтья-гуру*. *Чайтья-гуру* — внутренний наставник, наставник внутри. Благодаря его руководству мы приходим к *маханта-гуру*, Гуру вовне, и от него мы принимаем наставления, руководство, советы, указания.
 

@@ -1,5 +1,14 @@
 ---
 slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
+record_id: 1982.06.19.C2
+title: Достаточно один раз произнести «Харе Кришна»…
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4377851
+  duration: 00:02:43
+  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.mp3
+date: 1982-06-19
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
@@ -16,7 +25,6 @@ tags:
     slug: shrimad-bhagavatam-7-1-30
   - title: Шримад-Бхагаватам 6.2.14
     slug: shrimad-bhagavatam-6-2-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 4,2 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 705. 1982.06.19.C2. Достаточно один раз произнести «Харе Кришна»…
+  index: "705"
+  filename: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna.md
 ---
-
-# 705. 1982.06.19.C2. Достаточно один раз произнести «Харе Кришна»…
 
 **Бхакти Чару Махарадж:** Вы знаете, Махарадж, пару месяцев тому назад Брежнев заявил, что основную угрозу советской молодежи представляют американская поп-музыка и «Харе Кришна».
 

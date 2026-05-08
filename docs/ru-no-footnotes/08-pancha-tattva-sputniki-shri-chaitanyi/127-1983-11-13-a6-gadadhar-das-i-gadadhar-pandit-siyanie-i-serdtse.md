@@ -1,5 +1,14 @@
 ---
 slug: 127-1983-11-13-a6-gadadhar-das-i-gadadhar-pandit-siyanie-i-serdtse
+record_id: 1983.11.13.A6
+title: "Гададхар Дас и Гададхар Пандит: сияние и сердце"
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11697267
+  duration: 00:10:41
+  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/127_1983.11.13.A6_SridharMj_Gadadhar_Das_i_Gadadhar_Pandit_sijanie_i_serdce.mp3
+date: 1983-11-13
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Гададхар Пандит
     slug: gadadhar-pandit
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/127_1983.11.13.A6_SridharMj_Gadadhar_Das_i_Gadadhar_Pandit_sijanie_i_serdce.mp3
     title: аудиозапись в MP3 (10 мин. 40 сек., 11,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/127_1983.11.13.A6_SridharMj_Gadadhar_Das_i_Gadadhar_Pandit_sijanie_i_serdce.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: "127. 1983.11.13.A6. Гададхар Дас и Гададхар Пандит: сияние и сердце"
+  index: "127"
+  filename: 127-1983-11-13-a6-gadadhar-das-i-gadadhar-pandit-siyanie-i-serdtse.md
 ---
-
-# 127. 1983.11.13.A6. Гададхар Дас и Гададхар Пандит: сияние и сердце
 
 Также сегодня — День Явления Дхананджая Пандита, Гададхара Даса и другого вайшнава. Кого? Гададхар Дас, Дхананджай Пандит…
 

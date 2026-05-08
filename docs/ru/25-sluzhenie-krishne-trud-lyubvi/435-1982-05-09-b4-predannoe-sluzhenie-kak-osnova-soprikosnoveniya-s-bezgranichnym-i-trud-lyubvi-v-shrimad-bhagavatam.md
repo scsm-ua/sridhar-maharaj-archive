@@ -1,5 +1,15 @@
 ---
 slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
+record_id: 1982.05.09.B4
+title: Преданное служение как основа соприкосновения с Безграничным и труд любви
+  в «Шримад Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17207463
+  duration: 00:17:16
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3
+date: 1982-05-09
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -52,7 +62,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.49
     slug: bhagavad-gita-18-49
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (17 мин. 16 сек., 16,5 МБ)
@@ -60,11 +69,14 @@ links:
     title: транскрипцию в RTF (239 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 435. 1982.05.09.B4. Преданное служение как основа соприкосновения с
+    Безграничным и труд любви в «Шримад Бхагаватам»
+  index: "435"
+  filename: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam.md
 ---
 
-# 435. 1982.05.09.B4. Преданное служение как основа соприкосновения с Безграничным и труд любви в «Шримад Бхагаватам»
-
-    ачинтйа̄х̣ кхалу йе бха̄ва̄ на та̄м̇с таркен̣а йоджайет
+ачинтйа̄х̣ кхалу йе бха̄ва̄ на та̄м̇с таркен̣а йоджайет
 [^_ftn1]
 
 Его сладостная воля — мы должны приводить все к этому положению. Если бы мы могли понимать абсолютно все с Ним связанное, тогда Его бытие не превосходило бы наше бытие. *Джн̃а̄не прайа̄сам*[^_ftn2] — мы не можем знать все, что Его касается, поэтому единственный выход — покориться, вручить себя Ему, и тогда постепенно, по чуть-чуть нам будут открываться эти реалии соответственно потребностям в служении. А иначе Безграничное было бы ограниченным. Подобная попытка ограниченного знать Безграничное нежелательна.

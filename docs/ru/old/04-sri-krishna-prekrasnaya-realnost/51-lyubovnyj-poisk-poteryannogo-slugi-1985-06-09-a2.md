@@ -1,5 +1,14 @@
 ---
 slug: 51-lyubovnyj-poisk-poteryannogo-slugi-1985-06-09-a2
+record_id: 1985.06.09.A2
+title: Любовный поиск потерянного слуги.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16930628
+  duration: 00:32:36
+  mp3: /wp-content/uploads/2012/08/051_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
+date: 1985-06-09
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
@@ -8,13 +17,14 @@ tags:
     slug: 1985-06
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/051_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
     title: Скачать аудиозапись в mp3 (32 мин 36 сек, размер 16 Мб)
+legacy:
+  title: 51. Любовный поиск потерянного слуги. 1985.06.09.A2
+  index: "51"
+  filename: 51-lyubovnyj-poisk-poteryannogo-slugi-1985-06-09-a2.md
 ---
-
-# 51. Любовный поиск потерянного слуги. 1985.06.09.A2
 
 Любовный поиск Господа пропавшего слуги, совершаемый Господом любовный поиск пропавшего слуги или потерянного слуги. Любовный поиск пропавшего слуги. Да, очень хорошо. Интенсивность здесь не выражена, простое выражение, простое описание, любовный поиск. Но я говорил, о том, что безумный, речь идет о безумном поиске, безотлагательная необходимость.
 

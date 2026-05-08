@@ -1,5 +1,14 @@
 ---
 slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
+record_id: 1983.02.13.A1
+title: Отречение в духе преданности – деятельность в интересах Абсолютного Центра
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10539939
+  duration: 00:20:18
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
+date: 1983-02-13
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -34,7 +43,6 @@ tags:
     slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
     title: аудиозапись в MP3 (20 мин. 17 сек., 10,1 МБ)
@@ -42,9 +50,12 @@ links:
     title: транскрипцию в RTF (178 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 413. 1983.02.13.A1. Отречение в духе преданности – деятельность в
+    интересах Абсолютного Центра
+  index: "413"
+  filename: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra.md
 ---
-
-# 413. 1983.02.13.A1. Отречение в духе преданности – деятельность в интересах Абсолютного Центра
 
 В свои последние дни наш Шрила Гуру Махарадж имел обыкновение говорить, он говорил вновь и вновь: «Религия подразумевает занятие правильное позиции». В настоящее время наша позиция по отношению к окружающему мира неправильная, ошибочна.
 

@@ -1,5 +1,14 @@
 ---
 slug: 405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda
+record_id: 1982.06.14.A8
+title: Ананда – это Личность. Объяснение имени санньяси «Акхаянанда»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10203147
+  duration: 00:09:32
+  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/405_1982.06.14.A8_SridharMj_Ananda_jeto_Lichnost__Objasnenie_imeni_sannjasi_Akhajananda.mp3
+date: 1982-06-14
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/405_1982.06.14.A8_SridharMj_Ananda_jeto_Lichnost__Objasnenie_imeni_sannjasi_Akhajananda.mp3
     title: аудиозапись в MP3 (9 мин. 31 сек., 9,8 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/405_1982.06.14.A8_SridharMj_Ananda_jeto_Lichnost__Objasnenie_imeni_sannjasi_Akhajananda.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 405. 1982.06.14.A8. Ананда – это Личность. Объяснение имени санньяси
+    «Акхаянанда»
+  index: "405"
+  filename: 405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda.md
 ---
-
-# 405. 1982.06.14.A8. Ананда – это Личность. Объяснение имени санньяси «Акхаянанда»
 
 **Аранья Махарадж:** Акхаянанда Махарадж — как насчет его имени, это же имя *майявади.*
 

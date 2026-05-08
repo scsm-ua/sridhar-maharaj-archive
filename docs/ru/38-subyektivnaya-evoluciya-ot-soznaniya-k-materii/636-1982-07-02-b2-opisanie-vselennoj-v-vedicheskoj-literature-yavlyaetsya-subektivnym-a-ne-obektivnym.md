@@ -1,5 +1,15 @@
 ---
 slug: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym
+record_id: 1982.07.02.B2
+title: Описание Вселенной в ведической литературе является субъективным, а не
+  объективным
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9073507
+  duration: 00:08:29
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3
+date: 1982-07-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -10,7 +20,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3
     title: аудиозапись в MP3 (8 мин. 28 сек., 8,7 МБ)
@@ -18,9 +27,12 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 636. 1982.07.02.B2. Описание Вселенной в ведической литературе является
+    субъективным, а не объективным
+  index: "636"
+  filename: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym.md
 ---
-
-# 636. 1982.07.02.B2. Описание Вселенной в ведической литературе является субъективным, а не объективным
 
 **Преданный:** У меня есть некоторый вопрос о мироздании. В настоящее время мы обращаемся к научному сообществу и обсуждаем с ними устройство Вселенной. В каком духе мы должны представлять им должным образом…
 

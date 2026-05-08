@@ -1,18 +1,28 @@
 ---
 slug: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i
+record_id: 1981.03.03.A2
+title: Любое действие может совершаться в измерении ниргуны.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3529132
+  duration: 00:06:59
+  mp3: /wp-content/uploads/2012/08/369_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
+date: 1981-03-03
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/369_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
     title: Скачать аудиозапись в mp3 (6 мин 59 сек, размер 3 Мб)
+legacy:
+  title: 369. Любое действие может совершаться в измерении ниргуны. 1981.03.03.A2
+  index: "369"
+  filename: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i.md
 ---
-
-# 369. Любое действие может совершаться в измерении ниргуны. 1981.03.03.A2
 
 **Ученик:** У нас был один вопрос, с которого мы хотели начать…
 

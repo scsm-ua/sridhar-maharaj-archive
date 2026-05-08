@@ -1,5 +1,14 @@
 ---
 slug: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha
+record_id: 1985.11.07
+title: Прославление Шрилы Б.С. Говинды Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 65770965
+  duration: 01:06:41
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
+date: 1985-11-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
@@ -34,7 +43,6 @@ tags:
     slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 3.13
     slug: shri-shri-prapanna-dzhivanamritam-3-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
     title: аудиозапись в MP3 (1 час 6 мин. 41 сек., 62,8 МБ)
@@ -42,9 +50,11 @@ links:
     title: транскрипцию в RTF (337 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.pdf
     title: транскрипцию в PDF (198 КБ)
+legacy:
+  title: 1086. 1985.11.07. Прославление Шрилы Б.С. Говинды Махараджа
+  index: "1086"
+  filename: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
 ---
-
-# 1086. 1985.11.07. Прославление Шрилы Б.С. Говинды Махараджа
 
 Впоследствии пришел Судхир Госвами. Он стоял во главе важного центра там [в Лос-Анджелесе(?)], и… как это называется?… все кассеты были сохранены, он сделал копии, дал высокую оценку этим речам [лекциям Шридхара Махараджа] и начал проповедовать на Западе. Таким было начало. Харе Кришна.
 

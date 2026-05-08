@@ -1,12 +1,20 @@
 ---
 slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
+record_id: 1982.03.29.B1
+title: В глубинах реальности пребывают Вриндаван и Сознание Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 28533414
+  duration: 00:29:03
+  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.mp3
+date: 1982-03-29
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.mp3
     title: аудиозапись в MP3 (29 мин. 02 сек., 27,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (31 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.pdf
     title: транскрипцию в PDF (172 КБ)
+legacy:
+  title: 503. 1982.03.29.B1. В глубинах реальности пребывают Вриндаван и Сознание
+    Кришны
+  index: "503"
+  filename: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny.md
 ---
-
-# 503. 1982.03.29.B1. В глубинах реальности пребывают Вриндаван и Сознание Кришны
 
 На стадии коллапса это лекарство может помочь нам, по крайней мере, я пришел к такому заключению. И во многих местах, во многих случаях я получил опыт такого рода, опыт того, что этот принцип работает.
 

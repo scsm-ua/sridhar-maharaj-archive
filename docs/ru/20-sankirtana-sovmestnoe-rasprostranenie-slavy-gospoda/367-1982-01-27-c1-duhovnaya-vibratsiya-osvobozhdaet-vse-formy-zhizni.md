@@ -1,5 +1,14 @@
 ---
 slug: 367-1982-01-27-c1-duhovnaya-vibratsiya-osvobozhdaet-vse-formy-zhizni
+record_id: 1982.01.27.C1
+title: Духовная вибрация освобождает все формы жизни
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3462217
+  duration: 00:06:47
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
+date: 1982-01-27
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1982-01
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
     title: аудиозапись в MP3 (6 мин. 46 сек., 3,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 367. 1982.01.27.C1. Духовная вибрация освобождает все формы жизни
+  index: "367"
+  filename: 367-1982-01-27-c1-duhovnaya-vibratsiya-osvobozhdaet-vse-formy-zhizni.md
 ---
-
-# 367. 1982.01.27.C1. Духовная вибрация освобождает все формы жизни
 
 **Преданный:** Махарадж, вы сказали, что это движение распространится на другие планеты. Каков смысл этого утверждения?
 

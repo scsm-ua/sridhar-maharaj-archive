@@ -1,12 +1,20 @@
 ---
 slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
+record_id: 1982.03.30.A.B1.B5
+title: Духовная чистота вайшнава — за пределами физического и ментального тел
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23482211
+  duration: 00:23:17
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3
+date: 1982-03-30
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3
     title: аудиозапись в MP3 (23 мин. 17 сек., 22,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 257. 1982.03.30.A.B1.B5. Духовная чистота вайшнава — за пределами
+    физического и ментального тел
+  index: "257"
+  filename: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel.md
 ---
-
-# 257. 1982.03.30.A.B1.B5. Духовная чистота вайшнава — за пределами физического и ментального тел
 
 Если мы видим в вайшнаве какой-то физический дефект, то это не лишает его внутренней очищающей способности, поскольку речь идет об измерении души, которая связана с высшей душой и высшей-высшей душой, Кришной, Нараяной.
 

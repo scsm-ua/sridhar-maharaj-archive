@@ -1,12 +1,20 @@
 ---
 slug: 012_1982-02-24-a1_sridharmj_potrebnost_v_nauchnom_i_universalnom_poiske
+record_id: 1982.02.24.A1
+title: Потребность в научном и универсальном поиске
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5787626
+  duration: 00:05:53
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.A1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.mp3
+date: 1982-02-24
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.A1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.mp3
     title: аудиозапись в MP3 (05 мин. 52 сек., 5.5 МБ)
@@ -14,9 +22,13 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.А1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 012. 1982.02.24.А1 (неверная дата) Потребность в научном и универсальном
+    поиске
+  index: "012"
+  comment: (неверная дата)
+  filename: 012_1982-02-24-a1_sridharmj_potrebnost_v_nauchnom_i_universalnom_poiske.md
 ---
-
-# 012. 1982.02.24.А1 (неверная дата) Потребность в научном и универсальном поиске
 
     варн̣а̄ш́рама̄ча̄ра-вата̄, пуруш̣ен̣а парах̣ пума̄н
     виш̣н̣ур а̄ра̄дхйате пантха̄, на̄нйат тат-тош̣а-ка̄ран̣ам

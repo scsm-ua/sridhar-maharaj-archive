@@ -1,5 +1,14 @@
 ---
 slug: 351-1983-05-06-b2-ochishhayushhaya-sila-harinama-prevoshodit-lyuboe-oskvernenie
+record_id: 1983.05.06.B2
+title: Очищающая сила Харинама превосходит любое осквернение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2141550
+  duration: 00:03:48
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
+date: 1983-05-06
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -8,7 +17,6 @@ tags:
     slug: 1983-05
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
     title: аудиозапись в MP3 (3 мин. 48 сек., 2,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 351. 1983.05.06.B2. Очищающая сила Харинама превосходит любое осквернение
+  index: "351"
+  filename: 351-1983-05-06-b2-ochishhayushhaya-sila-harinama-prevoshodit-lyuboe-oskvernenie.md
 ---
-
-# 351. 1983.05.06.B2. Очищающая сила Харинама превосходит любое осквернение
 
 **Преданный:** Гуру Махарадж, когда я был во Вриндаване, я посещал многие храмы, и только в один храм они не позволили мне войти — большой мраморный храм во Вриндаване. Я пытался поговорить с Махараджем там. Он вышел ко мне, и я спросил: «А можно я войду на несколько минут, получу *даршан*?» Он сказал: «Нет, невозможно. Это традиция». Я спросил: «Почему? Какова причина?» (Тирупати, [храм] Ранганатха). Он сказал: «Основная причина — поскольку ты принадлежишь к семье мясоедов». Я смог понять, насколько греховно есть мясо.
 

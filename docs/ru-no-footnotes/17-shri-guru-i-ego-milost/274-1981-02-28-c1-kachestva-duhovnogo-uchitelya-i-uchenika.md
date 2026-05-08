@@ -1,5 +1,14 @@
 ---
 slug: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika
+record_id: 1981.02.28.C1
+title: Качества духовного учителя и ученика
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12092792
+  duration: 00:22:25
+  mp3: /dl/17._Shri_Guru_i_ego_milost/274_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
+date: 1981-02-28
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1981-02
   - title: Гуру-парампара
     slug: guru-parampara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/274_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
     title: аудиозапись в MP3 (22 мин. 25 сек., 11,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (209 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/274_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 274. 1981.02.28.C1. Качества духовного учителя и ученика
+  index: "274"
+  filename: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika.md
 ---
-
-# 274. 1981.02.28.C1. Качества духовного учителя и ученика
 
 [Разговор на бенгали]
 

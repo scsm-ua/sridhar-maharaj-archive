@@ -1,5 +1,14 @@
 ---
 slug: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij
+record_id: 1983.07.19.A2
+title: Киртан значит «сражение против заблуждений»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13507031
+  duration: 00:27:42
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
+date: 1983-07-19
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -52,7 +61,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
     title: аудиозапись в MP3 (27 мин. 42 сек., 12,9 МБ)
@@ -60,9 +68,11 @@ links:
     title: транскрипцию в RTF (269 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.pdf
     title: транскрипцию в PDF (185 КБ)
+legacy:
+  title: 357. 1983.07.19.A2. Киртан значит «сражение против заблуждений»
+  index: "357"
+  filename: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij.md
 ---
-
-# 357. 1983.07.19.A2. Киртан значит «сражение против заблуждений»
 
 **Преданный:** Махарадж, позвольте смиренно задать вам вопрос. Впервые у меня выпала благая удача быть здесь. Я удивляюсь, что акцент ставиться на проповеди, нежели на *джапе*, подчеркивается необходимость проповеди. Меня это удивило, потому что мой духовный учитель говорил: «*Джапа* обладает первостепенным значением (повторение Святого Имени)». Я удивляюсь, как я должен понимать это?
 

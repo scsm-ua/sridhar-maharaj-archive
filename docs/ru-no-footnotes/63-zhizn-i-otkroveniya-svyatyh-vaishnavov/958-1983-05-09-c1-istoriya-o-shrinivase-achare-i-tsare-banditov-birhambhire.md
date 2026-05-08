@@ -1,12 +1,20 @@
 ---
 slug: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire
+record_id: 1983.05.09.C1
+title: История о Шринивасе Ачарье и царе бандитов Бирхамбхире
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8009247
+  duration: 00:10:41
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
+date: 1983-05-09
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1983.05"
     slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
     title: аудиозапись в MP3 (10 мин. 40 сек., 7,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (112 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 958. 1983.05.09.C1. История о Шринивасе Ачарье и царе бандитов Бирхамбхире
+  index: "958"
+  filename: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire.md
 ---
-
-# 958. 1983.05.09.C1. История о Шринивасе Ачарье и царе бандитов Бирхамбхире
 
 **Преданный:** Гуру Махарадж, Кришна уполномочивает некоторые души писать вайшнавскую литературу, другим дает уполномочия распространять эту литературу. Не могли бы вы объяснить: Шринивас Ачарья занимает очень возвышенное положение, поскольку он является великим распространителем вайшнавской литературы?
 

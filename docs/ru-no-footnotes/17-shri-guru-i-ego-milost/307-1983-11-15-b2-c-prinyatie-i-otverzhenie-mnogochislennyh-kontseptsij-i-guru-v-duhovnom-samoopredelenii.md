@@ -1,12 +1,21 @@
 ---
 slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
+record_id: 1983.11.15.B2.C
+title: Принятие и отвержение многочисленных концепций и гуру в духовном
+  самоопределении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 40540233
+  duration: 00:40:50
+  mp3: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.mp3
+date: 1983-11-15
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.mp3
     title: аудиозапись в MP3 (40 мин. 50 сек., 38,7 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (254 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.pdf
     title: транскрипцию в PDF (225 КБ)
+legacy:
+  title: 307. 1983.11.15.B2.C. Принятие и отвержение многочисленных концепций и
+    гуру в духовном самоопределении
+  index: "307"
+  filename: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii.md
 ---
-
-# 307. 1983.11.15.B2.C. Принятие и отвержение многочисленных концепций и гуру в духовном самоопределении
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

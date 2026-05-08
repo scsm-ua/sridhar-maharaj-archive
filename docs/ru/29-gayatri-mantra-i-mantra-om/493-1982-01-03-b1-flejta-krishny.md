@@ -1,5 +1,14 @@
 ---
 slug: 493-1982-01-03-b1-flejta-krishny
+record_id: 1982.01.03.B1
+title: Флейта Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4803752
+  duration: 00:08:04
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.mp3
+date: 1982-01-03
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -20,7 +29,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.mp3
     title: аудиозапись в MP3 (8 мин. 03 сек., 4,6 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 493. 1982.01.03.B1. Флейта Кришны
+  index: "493"
+  filename: 493-1982-01-03-b1-flejta-krishny.md
 ---
-
-# 493. 1982.01.03.B1. Флейта Кришны
 
 **Преданный:** Махарадж, флейта Кришны, Вену…
 

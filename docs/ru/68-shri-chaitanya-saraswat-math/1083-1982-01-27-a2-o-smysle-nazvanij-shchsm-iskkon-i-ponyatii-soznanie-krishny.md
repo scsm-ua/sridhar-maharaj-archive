@@ -1,5 +1,14 @@
 ---
 slug: 1083-1982-01-27-a2-o-smysle-nazvanij-shchsm-iskkon-i-ponyatii-soznanie-krishny
+record_id: 1982.01.27.A2
+title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9540827
+  duration: 00:16:14
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
+date: 1982-01-27
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
@@ -10,7 +19,6 @@ tags:
     slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
     title: аудиозапись в MP3 (16 мин. 13 сек., 9,1 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (132 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 1083. 1982.01.27.A2. О смысле названий «ШЧСМ», «ИСККОН» и понятии
+    «Сознание Кришны»
+  index: "1083"
+  filename: 1083-1982-01-27-a2-o-smysle-nazvanij-shchsm-iskkon-i-ponyatii-soznanie-krishny.md
 ---
-
-# 1083. 1982.01.27.A2. О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны»
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

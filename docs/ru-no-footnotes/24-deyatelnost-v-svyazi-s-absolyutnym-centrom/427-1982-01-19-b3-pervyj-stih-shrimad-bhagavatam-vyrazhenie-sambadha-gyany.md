@@ -1,12 +1,20 @@
 ---
 slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
+record_id: 1982.01.19.B3
+title: Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6898091
+  duration: 00:12:42
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.mp3
+date: 1982-01-19
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.mp3
     title: аудиозапись в MP3 (12 мин. 42 сек., 6,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 427. 1982.01.19.B3. Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
+  index: "427"
+  filename: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany.md
 ---
-
-# 427. 1982.01.19.B3. Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
 
 «Сделай или умри». «Умереть, чтобы жить». «Сделай или умри». *Джанме асе кено нахи моила* — получив столь благоприятное, столь благополучное рождение, он совершает самоубийство. Не просто самоубийство: самоубийство было бы лучше, чем в таких обстоятельствах просто одурачивать самого себя. Самоубийство было бы лучшим исходом для тебя.
 

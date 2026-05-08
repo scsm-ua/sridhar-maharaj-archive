@@ -1,5 +1,14 @@
 ---
 slug: 77-ram-lila-i-krishna-lila-1982-01-18-b2
+record_id: 1982.01.18.B2
+title: Рам-лила и кришна-лила.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9955693
+  duration: 00:19:20
+  mp3: /wp-content/uploads/2012/08/077_1982.01.18.B1_SridharMj_Ram-lila_i_krishna-lila.mp3
+date: 1982-01-18
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -16,13 +25,14 @@ tags:
     slug: ramachandra
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/077_1982.01.18.B1_SridharMj_Ram-lila_i_krishna-lila.mp3
     title: Скачать аудиозапись в mp3 (19 мин 20 сек, размер 10 Мб)
+legacy:
+  title: 77. Рам-лила и кришна-лила. 1982.01.18.B2
+  index: "77"
+  filename: 77-ram-lila-i-krishna-lila-1982-01-18-b2.md
 ---
-
-# 77. Рам-лила и кришна-лила. 1982.01.18.B2
 
 **Ученик:** У меня есть сомнения. Наш *гурудев* говорил: Когда Господь Рамачандра присутствовал в этом мире, то мудрецы молили Его о тесной связи с Ним. И в своих следующих жизнях они явились как *гопи*. Как возможно, что *гопи*, в своих прошлых рождениях были мудрецами, *гьяни*?
 

@@ -1,12 +1,20 @@
 ---
 slug: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi
+record_id: 1982.01.09.A2
+title: Краткое объяснение происхождения души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4480239
+  duration: 00:06:38
+  mp3: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
+date: 1982-01-09
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
     title: аудиозапись в MP3 (6 мин. 37 сек., 4,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 578. 1982.01.09.A2. Краткое объяснение происхождения души
+  index: "578"
+  filename: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi.md
 ---
-
-# 578. 1982.01.09.A2. Краткое объяснение происхождения души
 
 **Шрила Шридхар Махарадж:** Что он спрашивает?
 

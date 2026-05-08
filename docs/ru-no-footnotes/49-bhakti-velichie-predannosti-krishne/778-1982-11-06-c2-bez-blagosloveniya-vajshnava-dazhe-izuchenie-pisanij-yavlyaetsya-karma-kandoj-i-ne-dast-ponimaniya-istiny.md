@@ -1,5 +1,15 @@
 ---
 slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
+record_id: 1982.11.06.C2
+title: Без благословения Вайшнава даже изучение Писаний является карма-кандой и
+  не даст понимания истины
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20361695
+  duration: 00:20:39
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3
+date: 1982-11-06
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +18,6 @@ tags:
     slug: 1982-11
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3
     title: аудиозапись в MP3 (20 мин. 38 сек., 19,5 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (182 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.pdf
     title: транскрипцию в PDF (172 КБ)
+legacy:
+  title: 778. 1982.11.06.C2. Без благословения Вайшнава даже изучение Писаний
+    является карма-кандой и не даст понимания истины
+  index: "778"
+  filename: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny.md
 ---
-
-# 778. 1982.11.06.C2. Без благословения Вайшнава даже изучение Писаний является карма-кандой и не даст понимания истины
 
 **Шрила Шридхар Махарадж:** Есть ли у кого-то вопросы?
 

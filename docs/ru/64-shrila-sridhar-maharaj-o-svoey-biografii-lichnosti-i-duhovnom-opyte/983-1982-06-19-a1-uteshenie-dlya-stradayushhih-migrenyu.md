@@ -1,5 +1,14 @@
 ---
 slug: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu
+record_id: 1982.06.19.A1
+title: Утешение для страдающих мигренью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9749807
+  duration: 00:09:16
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
+date: 1982-06-19
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
@@ -18,7 +27,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
     title: аудиозапись в MP3 (9 мин. 16 сек., 9,3 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 983. 1982.06.19.A1. Утешение для страдающих мигренью
+  index: "983"
+  filename: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu.md
 ---
-
-# 983. 1982.06.19.A1. Утешение для страдающих мигренью
 
 **Шрила Шридхар Махарадж:** Один врач мне говорил как-то, что это мигрень, головная боль. Он сказал: «У меня есть для вас утешение: люди, страдающие от подобной мигрени, как правило очень умны».
 

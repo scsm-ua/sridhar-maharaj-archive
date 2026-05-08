@@ -1,5 +1,14 @@
 ---
 slug: 610-1982-01-18-a2-obolochki-dushi
+record_id: 1982.01.18.A2
+title: Оболочки души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8921109
+  duration: 00:15:11
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/610_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
+date: 1982-01-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -16,7 +25,6 @@ tags:
     slug: bhagavad-gita-6-5
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/610_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
     title: аудиозапись в MP3 (15 мин. 11 сек., 8,6 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (142 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/610_1982.01.18.A2_SridharMj_Obolochki_dushi.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 610. 1982.01.18.A2. Оболочки души
+  index: "610"
+  filename: 610-1982-01-18-a2-obolochki-dushi.md
 ---
-
-# 610. 1982.01.18.A2. Оболочки души
 
 **Преданный:** В Бхагавад-гите Кришна говорит:
 

@@ -1,5 +1,14 @@
 ---
 slug: 577-1982-07-18-a1-kripa-znachit-pomoshh-vysshego-nachala-nizshemu
+record_id: 1982.07.18.A1
+title: «Крипа» значит «помощь высшего начала низшему»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5511909
+  duration: 00:02:44
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.mp3
+date: 1982-07-18
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
@@ -10,7 +19,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 5,3 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.pdf
     title: транскрипцию в PDF (135 КБ)
+legacy:
+  title: 577. 1982.07.18.A1. «Крипа» значит «помощь высшего начала низшему»
+  index: "577"
+  filename: 577-1982-07-18-a1-kripa-znachit-pomoshh-vysshego-nachala-nizshemu.md
 ---
-
-# 577. 1982.07.18.A1. «Крипа» значит «помощь высшего начала низшему»
 
 Вы не знаете, что такое *крипа…* Что такое доброта, вы знаете? Доброта обладает определенными характеристиками. Бедный, голодный человек приходит, и ты доешь ему еду — это доброта, *крипа.* Материальное взаимодействие — это тоже *крипа*, но низшего типа. И образование. Человеку дается еда, и он уже не выпрашивает еду на улице. Или ему дается работа, ему говорят: работай и будешь зарабатывать себе на хлеб. Это большая *крипа.* Таким образом.
 

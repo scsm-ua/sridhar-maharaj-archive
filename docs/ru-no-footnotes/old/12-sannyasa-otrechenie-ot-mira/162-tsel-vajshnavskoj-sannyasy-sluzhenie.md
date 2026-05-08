@@ -1,5 +1,14 @@
 ---
 slug: 162-tsel-vajshnavskoj-sannyasy-sluzhenie
+record_id: 1981.03.02.B4
+title: Цель вайшнавской санньясы — служение Кришне.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3300508
+  duration: 00:05:22
+  mp3: /wp-content/uploads/2012/08/162_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
+date: 1981-03-02
 category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
@@ -12,13 +21,14 @@ tags:
     slug: sannyasa
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/162_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
     title: Скачать аудиозапись в mp3 (5 мин 22 сек, размер 3 Мб)
+legacy:
+  title: 162. Цель вайшнавской санньясы — служение Кришне. 1981.03.02.B4
+  index: "162"
+  filename: 162-tsel-vajshnavskoj-sannyasy-sluzhenie.md
 ---
-
-# 162. Цель вайшнавской санньясы — служение Кришне. 1981.03.02.B4
 
 **#00:00:00#** Ты примешь анукалпу здесь? (Анукалпа – малое количество пищи).
 

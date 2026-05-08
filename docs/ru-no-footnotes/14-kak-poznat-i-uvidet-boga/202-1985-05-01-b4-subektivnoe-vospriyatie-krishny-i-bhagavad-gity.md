@@ -1,12 +1,20 @@
 ---
 slug: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity
+record_id: 1985.05.01.B4
+title: Субъективное восприятие Кришны и «Бхагавад-гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2194328
+  duration: 00:03:08
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
+date: 1985-05-01
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
 tags:
   - title: "1985.05"
     slug: 1985-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 202. 1985.05.01.B4. Субъективное восприятие Кришны и «Бхагавад-гиты»
+  index: "202"
+  filename: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity.md
 ---
-
-# 202. 1985.05.01.B4. Субъективное восприятие Кришны и «Бхагавад-гиты»
 
 Необходимо отвергнуть все впечатления прошлой жизни, все виды практики также должны быть отвергнуты, останется только сознание Кришны, представленное Махапрабху Шри Чайтаньядевом. Оно также представлено и многими другими. Даже анархисты почтительно относятся к Кришне и Бхагавад-гите. Они черпают вдохновение в Бхагавад-гите.
 

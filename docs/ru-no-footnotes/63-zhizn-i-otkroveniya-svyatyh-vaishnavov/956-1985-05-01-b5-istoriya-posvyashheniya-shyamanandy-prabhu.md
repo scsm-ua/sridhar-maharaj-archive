@@ -1,12 +1,20 @@
 ---
 slug: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu
+record_id: 1985.05.01.B5
+title: История посвящения Шьямананды Прабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4595566
+  duration: 00:03:34
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
+date: 1985-05-01
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1985.05"
     slug: 1985-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
     title: аудиозапись в MP3 (3 мин. 34 сек., 4,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 956. 1985.05.01.B5. История посвящения Шьямананды Прабху
+  index: "956"
+  filename: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu.md
 ---
-
-# 956. 1985.05.01.B5. История посвящения Шьямананды Прабху
 
 [Гаура-Харибол, Гаура-Харибол]
 

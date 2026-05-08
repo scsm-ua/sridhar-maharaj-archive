@@ -1,5 +1,14 @@
 ---
 slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
+record_id: 1983.11.04.B2.C1
+title: Боль возвышенных вайшнавов — из-за страданий других и в разлуке с Господом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13022238
+  duration: 00:12:29
+  mp3: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3
+date: 1983-11-04
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3
     title: аудиозапись в MP3 (12 мин. 29 сек., 12,5 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 845. 1983.11.04.B2.C1. Боль возвышенных вайшнавов — из-за страданий
+    других и в разлуке с Господом
+  index: "845"
+  filename: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom.md
 ---
-
-# 845. 1983.11.04.B2.C1. Боль возвышенных вайшнавов — из-за страданий других и в разлуке с Господом
 
 Махапрабху…
 

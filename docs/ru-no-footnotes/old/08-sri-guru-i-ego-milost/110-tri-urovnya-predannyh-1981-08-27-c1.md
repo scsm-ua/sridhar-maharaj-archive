@@ -1,5 +1,14 @@
 ---
 slug: 110-tri-urovnya-predannyh-1981-08-27-c1
+record_id: 1981.08.27.C1
+title: Три уровня преданных.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11788978
+  duration: 00:22:05
+  mp3: /wp-content/uploads/2012/08/110_1981.08.27.C1_SridharMj_Tri_urovnya_predannyh.mp3
+date: 1981-08-27
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +19,14 @@ tags:
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/110_1981.08.27.C1_SridharMj_Tri_urovnya_predannyh.mp3
     title: Скачать аудиозапись в mp3 (22 мин 5 сек, размер 11 Мб)
+legacy:
+  title: 110. Три уровня преданных. 1981.08.27.C1
+  index: "110"
+  filename: 110-tri-urovnya-predannyh-1981-08-27-c1.md
 ---
-
-# 110. Три уровня преданных. 1981.08.27.C1
 
 *#00:00:00#*
 

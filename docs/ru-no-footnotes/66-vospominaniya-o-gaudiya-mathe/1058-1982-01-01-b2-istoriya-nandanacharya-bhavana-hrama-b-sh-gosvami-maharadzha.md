@@ -1,12 +1,20 @@
 ---
 slug: 1058-1982-01-01-b2-istoriya-nandanacharya-bhavana-hrama-b-sh-gosvami-maharadzha
+record_id: 1982.01.01.B2
+title: История Нанданачарья Бхавана – храма Б.Ш. Госвами Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5384172
+  duration: 00:10:09
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1058_1982.01.01.B2_SridharMj_Istorija_Nandanacharja_Bhavana--hrama_BS_Gosvami_Maharadzha.mp3
+date: 1982-01-01
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1058_1982.01.01.B2_SridharMj_Istorija_Nandanacharja_Bhavana--hrama_BS_Gosvami_Maharadzha.mp3
     title: аудиозапись в MP3 (10 мин. 09 сек., 5,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1058_1982.01.01.B2_SridharMj_Istorija_Nandanacharja_Bhavana--hrama_BS_Gosvami_Maharadzha.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 1058. 1982.01.01.B2. История Нанданачарья Бхавана – храма Б.Ш. Госвами
+    Махараджа
+  index: "1058"
+  filename: 1058-1982-01-01-b2-istoriya-nandanacharya-bhavana-hrama-b-sh-gosvami-maharadzha.md
 ---
-
-# 1058. 1982.01.01.B2. История Нанданачарья Бхавана – храма Б.Ш. Госвами Махараджа
 
 **Преданный:** Махарадж?
 

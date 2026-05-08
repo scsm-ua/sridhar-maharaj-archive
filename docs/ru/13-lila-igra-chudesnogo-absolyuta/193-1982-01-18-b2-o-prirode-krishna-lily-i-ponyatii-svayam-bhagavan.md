@@ -1,5 +1,14 @@
 ---
 slug: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan
+record_id: 1982.01.18.B2
+title: О природе кришна-лилы и понятии «Сваям Бхагаван»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8259375
+  duration: 00:16:24
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
+date: 1982-01-18
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -22,7 +31,6 @@ tags:
     slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
     title: аудиозапись в MP3 (16 мин. 24 сек., 7,9 МБ)
@@ -30,9 +38,11 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 193. 1982.01.18.B2. О природе кришна-лилы и понятии «Сваям Бхагаван»
+  index: "193"
+  filename: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan.md
 ---
-
-# 193. 1982.01.18.B2. О природе кришна-лилы и понятии «Сваям Бхагаван»
 
 Нанда и Яшода — изначальные, верховные личности, тогда как Дрона и Дхара были поглощены личностями Нанды и Яшоды. Также в писаниях говорится: «Столь многие небесные куртизанки находились в среде *гопи*». Мадхвачарья обращается к этому утверждению, но *гаудия-госвами* не в силах это снести. Мадхвачарья утверждал, что *гопи* — небесные куртизанки, но *гаудия-госвами* говорят, что небесные куртизанки вошли в личности *враджа-гопи*. Истинная группа — это группа Голоки. Они вечны и они выше высочайшего. Голока, группа Голоки — изначальное явление.
 

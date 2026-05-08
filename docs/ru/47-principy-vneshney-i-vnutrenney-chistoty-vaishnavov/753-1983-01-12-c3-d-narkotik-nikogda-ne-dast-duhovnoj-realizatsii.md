@@ -1,5 +1,14 @@
 ---
 slug: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii
+record_id: 1983.01.12.C3.D
+title: Наркотик никогда не даст духовной реализации
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15531047
+  duration: 00:30:05
+  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
+date: 1983-01-12
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
@@ -14,7 +23,6 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
     title: аудиозапись в MP3 (30 мин. 04 сек., 14,9 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (234 КБ)
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.pdf
     title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 753. 1983.01.12.C3.D. Наркотик никогда не даст духовной реализации
+  index: "753"
+  filename: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii.md
 ---
-
-# 753. 1983.01.12.C3.D. Наркотик никогда не даст духовной реализации
 
 **Преданный:** Махарадж, какое-то время тому назад вы цитировали один стих, в котором Махапрабху говорит, что люди настолько падшие в эту *Кали-югу*, что некоторые имитируют это воспевание и танец и просто отправляются в ад. Не могли бы вы объяснить, как человек может воспевать Святое Имя и отправится в ад?
 

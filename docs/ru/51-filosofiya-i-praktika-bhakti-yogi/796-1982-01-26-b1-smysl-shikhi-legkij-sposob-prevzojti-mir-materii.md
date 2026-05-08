@@ -1,5 +1,14 @@
 ---
 slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
+record_id: 1982.01.26.B1
+title: Смысл шикхи. Легкий способ превзойти мир материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5074149
+  duration: 00:08:42
+  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
+date: 1982-01-26
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
@@ -16,7 +25,6 @@ tags:
     slug: shrimad-bhagavatam-11-6-46
   - title: Шримад-Бхагаватам 1.13.47
     slug: shrimad-bhagavatam-1-13-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
     title: аудиозапись в MP3 (8 мин. 42 сек., 4,9 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 796. 1982.01.26.B1. Смысл шикхи. Легкий способ превзойти мир материи
+  index: "796"
+  filename: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii.md
 ---
-
-# 796. 1982.01.26.B1. Смысл шикхи. Легкий способ превзойти мир материи
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Махапрабху…]
 

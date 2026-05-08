@@ -1,5 +1,14 @@
 ---
 slug: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju
+record_id: 1982.04.29.A6
+title: Кришна принимает преданность, а не материю
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4160030
+  duration: 00:04:14
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.mp3
+date: 1982-04-29
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -12,7 +21,6 @@ tags:
     slug: istorii-o-vajshnavah
   - title: Нарада
     slug: narada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.mp3
     title: аудиозапись в MP3 (04 мин. 13 сек., 4.0 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 026. 1982.04.29.A6 Кришна принимает преданность, а не материю
+  index: "026"
+  filename: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju.md
 ---
-
-# 026. 1982.04.29.A6 Кришна принимает преданность, а не материю
 
 Видура отсутствовал. Жена Видуры совершала в то время омовение. Когда она узнала о том, что пришел Кришна в ее дом (она также была преданной высокого уровня), она забыла себя в своем экстазе. «Кришна пришел в мой дом. Мой муж…»
 

@@ -1,12 +1,20 @@
 ---
 slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
+record_id: 1982.05.05.A3
+title: Абсолютное превосходство и уникальное положение Шримати Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4491797
+  duration: 00:04:17
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
+date: 1982-05-05
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 4,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 464. 1982.05.05.A3. Абсолютное превосходство и уникальное положение
+    Шримати Радхарани
+  index: "464"
+  filename: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani.md
 ---
-
-# 464. 1982.05.05.A3. Абсолютное превосходство и уникальное положение Шримати Радхарани
 
 Служение, *шаранагати* означает служение, и по милости Господа служение увеличивается и принимает различные формы, обличия: *сакхья, ватсалья* и так далее. А служение *мадхура расы* — это безраздельное служение, тотальное, ничем не сдерживаемое, не ограниченное. В бенгальском «Падьявали», стихотворении, эта идея выражена, представлена: *прати анга лаге канде прати анга мора*[^_ftn1]. Только Радхарани может говорить такие слова: «Каждая частица, каждый атом Моего тела отчаянно стремится к соответствующему атому тела Кришны». *Прати анга лаге канде прати анга мора.* «Все Мое существо плачет, отчаянно стремится к другой стороне». Харе Кришна.
 

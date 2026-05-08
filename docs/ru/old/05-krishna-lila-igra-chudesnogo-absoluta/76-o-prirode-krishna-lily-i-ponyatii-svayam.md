@@ -1,5 +1,14 @@
 ---
 slug: 76-o-prirode-krishna-lily-i-ponyatii-svayam
+record_id: 1982.01.18.B1
+title: О природе кришна-лилы и понятии «Сваям Бхагаван».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8549679
+  duration: 00:16:24
+  mp3: /wp-content/uploads/2012/08/076_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
+date: 1982-01-18
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/076_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
     title: Скачать аудиозапись в mp3 (16 мин 24 сек, размер 8 Мб)
+legacy:
+  title: 76. О природе кришна-лилы и понятии «Сваям Бхагаван». 1982.01.18.B1
+  index: "76"
+  filename: 76-o-prirode-krishna-lily-i-ponyatii-svayam.md
 ---
-
-# 76. О природе кришна-лилы и понятии «Сваям Бхагаван». 1982.01.18.B1
 
 Нанда и Яшода – это изначальные и верховные личности, тогда как Дрона и Дхара были поглощены личностями Нанды и Яшоды. И также в писаниях говорится: «столь многие небесные куртизанки находились в среде *гопи*». Мадхавачарья обращается к этому положению, утверждению, но Гаудийа-госвамины не в силах это терпеть.
 

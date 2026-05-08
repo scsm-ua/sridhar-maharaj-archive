@@ -1,5 +1,14 @@
 ---
 slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
+record_id: 1982.07.16.A2
+title: Встреча Кришны и Радхарани на Курукшетре
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7880516
+  duration: 00:07:49
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
+date: 1982-07-16
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
     slug: shri-chajtanya-charitamrita-madhya-lila-13-159
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 7,6 МБ)
@@ -18,11 +26,13 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
+  index: "468"
+  filename: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre.md
 ---
 
-# 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
-
-    [шлока]
+[шлока]
 
 Когда Дваракеш видит Свое изображение, относящееся к вриндаванскому периоду Его жизни, Он очарован Собой, что говорить о других? Когда Он Сам находит Свое Шри Мурти Вриндавана — Кишору — то Он сходит с ума, Он утрачивает Свое нормальное положение, настолько очарователен Кишора, Нанда-Кишора, Яшомати-Нандана. *Паракия* — редкий характер — делает это явление более ценным.
 

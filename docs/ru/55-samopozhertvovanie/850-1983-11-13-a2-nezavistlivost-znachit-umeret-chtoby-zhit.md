@@ -1,5 +1,14 @@
 ---
 slug: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit
+record_id: 1983.11.13.A2
+title: «Независтливость» значит «умереть, чтобы жить»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6252972
+  duration: 00:05:26
+  mp3: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.mp3
+date: 1983-11-13
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
@@ -20,7 +29,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.mp3
     title: аудиозапись в MP3 (5 мин. 26 сек., 6,0 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 850. 1983.11.13.A2. «Независтливость» значит «умереть, чтобы жить»
+  index: "850"
+  filename: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit.md
 ---
-
-# 850. 1983.11.13.A2. «Независтливость» значит «умереть, чтобы жить»
 
 *Видьяватам бхагавате парикша* — это другая часть. Насколько бы велики ни были академические познания человека, следует все измерять полнотой истины, данной в «Бхагаватам». *Мухйанти йат сӯрайах̣*[^_ftn1]. Великие так называемые «ученые мужи» не в состоянии найти врата, ведущие к истине, данной в «Бхагаватам». *Видьяватам бхагавате парикша*, *мухйанти йат сурайах*. Вначале — то, что сказано во введении: «То, что я собираюсь дать здесь, в «Бхагаватам». Что говорить об обычных людях? Великие ученые потеряют дар речи. Они будут поражены, поняв природу той истины, которую я озвучиваю здесь».
 

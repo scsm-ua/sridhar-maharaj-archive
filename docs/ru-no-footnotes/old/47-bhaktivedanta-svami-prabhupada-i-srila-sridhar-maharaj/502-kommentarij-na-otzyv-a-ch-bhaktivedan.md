@@ -1,5 +1,14 @@
 ---
 slug: 502-kommentarij-na-otzyv-a-ch-bhaktivedan
+record_id: 1981.03.01.B5
+title: Комментарий на отзыв А.Ч. Бхактиведанты Свами о своих духовных братьях.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1740048
+  duration: 00:02:37
+  mp3: /wp-content/uploads/2012/08/502_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
+date: 1981-03-01
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
@@ -8,13 +17,15 @@ tags:
     slug: 1981-03
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/502_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
     title: Скачать аудиозапись в mp3 (2 мин 37 сек, размер 1 Мб)
+legacy:
+  title: 502. Комментарий на отзыв А.Ч. Бхактиведанты Свами о своих духовных
+    братьях. 1981.03.01.B5
+  index: "502"
+  filename: 502-kommentarij-na-otzyv-a-ch-bhaktivedan.md
 ---
-
-# 502. Комментарий на отзыв А.Ч. Бхактиведанты Свами о своих духовных братьях. 1981.03.01.B5
 
 **Шридхар Махарадж:** С такой великой нежностью, и он обрел подобную веру в собственного *гуру*. Он обрел его благословение, и мы должны донести это. «Вдохновленный моим Гурудевом, я отправлюсь по городам и (не понятно), и буду нести это послание». И тому была дана высокая оценка. Но искренне следует… если это делать, мы будем проверять себя, искренность, качества ученика, квалификация ученика.
 

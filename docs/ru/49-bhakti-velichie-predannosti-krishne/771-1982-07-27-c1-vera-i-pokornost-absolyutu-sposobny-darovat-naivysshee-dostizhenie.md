@@ -1,5 +1,14 @@
 ---
 slug: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie
+record_id: 1982.07.27.C1
+title: Вера и покорность Абсолюту способны даровать наивысшее достижение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11248932
+  duration: 00:11:09
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3
+date: 1982-07-27
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -20,7 +29,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3
     title: аудиозапись в MP3 (11 мин. 09 сек., 10,8 МБ)
@@ -28,9 +36,12 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 771. 1982.07.27.C1. Вера и покорность Абсолюту способны даровать
+    наивысшее достижение
+  index: "771"
+  filename: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie.md
 ---
-
-# 771. 1982.07.27.C1. Вера и покорность Абсолюту способны даровать наивысшее достижение
 
 Он высок, а я завишу от Него. И это сознание — истина. Если мы сумеем оказаться в этом измерении истины, тогда автоматически Он придет ко мне. Он придет, чтобы заключить меня в Свои объятья в соответствии с моей чистотой. А чистота — это негативность, то есть самоотрицание, не самоутверждение. Мы должны рассматривать себя таким образом: *шакти*, потенция — не владыка потенции. Владыка потенции есть Он, а мы — потенция, мы зависимые. Таково наше положение. Мы всегда должны зависеть от Кришны.
 

@@ -1,5 +1,13 @@
 ---
 slug: 519-shri-rupa-mandzhari-pada
+record_id: null
+title: Шри Рупа Манджари пада
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4958075
+  duration: 00:04:45
+  mp3: /wp-content/uploads/2012/08/519_Sri-rupa-manjari-pada.mp3
 category:
   title: (49. Шрила Б.Р. Шридхар Махарадж. Молитва)
   slug: 49-srila-b-r-sridhar-maharaj-molitva
@@ -8,13 +16,14 @@ tags:
     slug: govinda-maharadzh
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/519_Sri-rupa-manjari-pada.mp3
     title: Скачать аудиозапись в mp3 (4 мин 45 сек, размер 5 Мб)
+legacy:
+  title: 519. Шри Рупа Манджари пада
+  index: "519"
+  filename: 519-shri-rupa-mandzhari-pada.md
 ---
-
-# 519. Шри Рупа Манджари пада
 
 **Ш́РӢ-РӮПА-МАН̃ДЖАРӢ-ПАДА**
 

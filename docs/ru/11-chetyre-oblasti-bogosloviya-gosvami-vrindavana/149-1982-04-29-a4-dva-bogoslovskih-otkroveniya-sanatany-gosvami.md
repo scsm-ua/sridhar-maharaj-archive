@@ -1,5 +1,14 @@
 ---
 slug: 149-1982-04-29-a4-dva-bogoslovskih-otkroveniya-sanatany-gosvami
+record_id: 1982.04.29.A4
+title: Два богословских откровения Санатаны Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6935949
+  duration: 00:05:26
+  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3
+date: 1982-04-29
 category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
@@ -12,7 +21,6 @@ tags:
     slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3
     title: аудиозапись в MP3 (4 мин. 13 сек., 5,6 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 149. 1982.04.29.A4. Два богословских откровения Санатаны Госвами
+  index: "149"
+  filename: 149-1982-04-29-a4-dva-bogoslovskih-otkroveniya-sanatany-gosvami.md
 ---
-
-# 149. 1982.04.29.A4. Два богословских откровения Санатаны Госвами
 
 «Я — любимый чиновник царя, очень-очень любим им. Я получил власть от царя, и это мои узы, оковы. Я испытываю влечение идти во Вриндаван». Так или иначе, Санатана Госвами оборвал эти узы симпатии, дружеских отношений с царем и отправился во Вриндаван, чтобы встретить Шри Чайтаньядева, и встретил Его в Бенаресе, когда возвращался из Вриндавана. На протяжении двух месяцев Чайтаньядев оставался в Бенаресе и обучал его, обучал смыслу «Бхагаватам» и других писаний настолько, что Он (Махапрабху) попросил его подготовить писания, составить произведения для вайшнавов.
 

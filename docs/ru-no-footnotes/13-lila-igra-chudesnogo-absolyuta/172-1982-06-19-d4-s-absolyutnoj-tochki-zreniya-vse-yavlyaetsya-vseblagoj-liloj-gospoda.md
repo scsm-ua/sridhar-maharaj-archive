@@ -1,12 +1,20 @@
 ---
 slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
+record_id: 1982.06.19.D4
+title: С абсолютной точки зрения все является всеблагой лилой Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9529971
+  duration: 00:09:32
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.mp3
+date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.mp3
     title: аудиозапись в MP3 (9 мин. 31 сек., 9,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 172. 1982.06.19.D4. С абсолютной точки зрения все является всеблагой
+    лилой Господа
+  index: "172"
+  filename: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda.md
 ---
-
-# 172. 1982.06.19.D4. С абсолютной точки зрения все является всеблагой лилой Господа
 
     [шлока]
 

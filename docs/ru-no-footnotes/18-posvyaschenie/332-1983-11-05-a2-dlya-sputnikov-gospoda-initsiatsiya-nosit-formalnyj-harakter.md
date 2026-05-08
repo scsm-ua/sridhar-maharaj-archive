@@ -1,5 +1,14 @@
 ---
 slug: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter
+record_id: 1983.11.05.A2
+title: Для спутников Господа инициация носит формальный характер
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2229237
+  duration: 00:02:03
+  mp3: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3
+date: 1983-11-05
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3
     title: аудиозапись в MP3 (2 мин. 03 сек., 2,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 332. 1983.11.05.A2. Для спутников Господа инициация носит формальный характер
+  index: "332"
+  filename: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter.md
 ---
-
-# 332. 1983.11.05.A2. Для спутников Господа инициация носит формальный характер
 
 **Госвами Махарадж:** Также Тхакур Бхактивинод — его формальная связь была с Бипином Бихари Госвами. Мы всегда говорим, что необходима связь с подлинным *вайшнавом*, реальным *вайшнавом*.
 

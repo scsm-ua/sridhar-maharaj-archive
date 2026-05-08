@@ -1,5 +1,14 @@
 ---
 slug: 081_1982-09-05-b1_sridharmj_obrawenie_sarvabhaumy_bhattacharyi
+record_id: 1982.09.05.B1
+title: Обращение Сарвабхаумы Бхаттачарьи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4984822
+  duration: 00:08:34
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
+date: 1982-09-05
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -28,7 +37,6 @@ tags:
     slug: shrimad-bhagavatam-1-7-10
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
     title: аудиозапись в MP3 (08 мин. 33 сек., 4.8 МБ)
@@ -36,9 +44,11 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 081. 1982.09.05.B1 Обращение Сарвабхаумы Бхаттачарьи
+  index: "081"
+  filename: 081_1982-09-05-b1_sridharmj_obrawenie_sarvabhaumy_bhattacharyi.md
 ---
-
-# 081. 1982.09.05.B1 Обращение Сарвабхаумы Бхаттачарьи
 
 Мирские политики прославляют Махапрабху за то, что Он якобы объединил индусов и мусульман. Они думают, что Он пришел ради этого. Столь жалкое принижение! Это столь прискорбно. Они считают, что этим они прославляют Его, в противном же случае, по их мнению, Махапрабху будет восприниматься в слишком узких религиозных рамках. Нет, им нужно, чтобы Махапрабху был известен в широких кругах идиотов.
 

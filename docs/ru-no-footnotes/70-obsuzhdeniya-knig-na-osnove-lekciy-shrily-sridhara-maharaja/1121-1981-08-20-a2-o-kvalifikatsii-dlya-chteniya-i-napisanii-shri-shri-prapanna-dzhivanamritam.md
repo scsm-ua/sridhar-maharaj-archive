@@ -1,12 +1,20 @@
 ---
 slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+record_id: 1981.08.20.A2
+title: О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11542058
+  duration: 00:22:59
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
+date: 1981-08-20
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
     title: аудиозапись в MP3 (22 мин. 58 сек., 11,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (38 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 1121. 1981.08.20.A2. О квалификации для чтения и написании «Шри Шри
+    Прапанна-дживанамритам»
+  index: "1121"
+  filename: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
 ---
-
-# 1121. 1981.08.20.A2. О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
 
 **Преданный:** Безоговорочно и совершено спонтанно… нектар самопредания…
 

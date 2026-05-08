@@ -1,5 +1,14 @@
 ---
 slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
+record_id: 1982.01.20.B3
+title: Развитие веры и пробуждение сердца
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4882056
+  duration: 00:07:54
+  mp3: /dl/48._Vera/757_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3
+date: 1982-01-20
 category:
   title: 48. Вера
   slug: 48-vera
@@ -8,7 +17,6 @@ tags:
     slug: 1982-01
   - title: Вера
     slug: vera
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/757_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3
     title: аудиозапись в MP3 (7 мин. 53 сек., 4,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/48._Vera/757_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 757. 1982.01.20.B3. Развитие веры и пробуждение сердца
+  index: "757"
+  filename: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa.md
 ---
-
-# 757. 1982.01.20.B3. Развитие веры и пробуждение сердца
 
 Харе Кришна, Гаурасундар, Гауранга Сундар.
 

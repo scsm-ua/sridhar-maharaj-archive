@@ -1,5 +1,14 @@
 ---
 slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
+record_id: 1982.05.14.B5
+title: Когда Кришна покидает Вриндаван, Он остается там в скрытой форме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6363084
+  duration: 00:05:59
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
+date: 1982-05-14
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -18,7 +27,6 @@ tags:
     slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
     title: аудиозапись в MP3 (5 мин. 58 сек., 128 кбит/сек, 6.1 МБ)
@@ -26,11 +34,14 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 050. 1982.05.14.B5 Когда Кришна покидает Вриндаван, Он остается там
+    в скрытой форме
+  index: "050"
+  filename: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme.md
 ---
 
-# 050. 1982.05.14.B5 Когда Кришна покидает Вриндаван, Он остается там в скрытой форме
-
-    кришна-нама дхаре ката бала
+кришна-нама дхаре ката бала
 [^_ftn1]
 
 Звук «Кришна» — *рупа* Кришны… Четыре особые, уникальные качества *рупы* Кришны описал Рупа Госвами: «Каждая *джива* наделена качествами пятидесяти видов, затем особые, избранные, *деваты* имеют пятьдесят пять качеств, и в несколько более интенсивной форме эти качества присутствуют в них. В Нараяне мы находим во всей полноте шестьдесят качеств, которые отсутствуют в *дживе*, а Кришна — четыре дополнительные качества, шестьдесят качества, и эти четыре качества — суть.

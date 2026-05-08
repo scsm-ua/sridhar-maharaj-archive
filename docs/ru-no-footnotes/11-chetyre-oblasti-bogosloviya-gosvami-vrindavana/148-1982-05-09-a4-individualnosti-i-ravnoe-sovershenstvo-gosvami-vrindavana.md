@@ -1,5 +1,14 @@
 ---
 slug: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana
+record_id: 1982.05.09.A4
+title: Индивидуальности и равное совершенство Госвами Вриндавана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4129865
+  duration: 00:02:30
+  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.mp3
+date: 1982-05-09
 category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
@@ -12,7 +21,6 @@ tags:
     slug: rupa-gosvami
   - title: Санатана Госвами
     slug: sanatana-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.mp3
     title: аудиозапись в MP3 (2 мин. 30 сек., 4 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 148. 1982.05.09.A4. Индивидуальности и равное совершенство Госвами Вриндавана
+  index: "148"
+  filename: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana.md
 ---
-
-# 148. 1982.05.09.A4. Индивидуальности и равное совершенство Госвами Вриндавана
 
 Наш Гуру Махарадж, когда ему подавали *прасадам* и кто-то спрашивал: «Какой карри понравился Вам больше всего?», обычно отвечал: «Вкус каждого карри лучше вкусов всех остальных карри!» — таким был его ответ. [Смех.] От нас требуется именно эта позиция.
 

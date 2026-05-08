@@ -1,18 +1,28 @@
 ---
 slug: 347-pozvolit-krishne-vysadit-desant-v-s
+title: Позволить Кришне высадить десант в сердце. Онтология прекрасной
+  реальности, часть 5.9
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6500672
+  duration: 00:12:56
+  mp3: /wp-content/uploads/2012/08/347_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce.mp3
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/347_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce.mp3
     title: Скачать аудиозапись в mp3 (12 мин 56 сек, размер 6 Мб)
+legacy:
+  title: 347. Позволить Кришне высадить десант в сердце. Онтология прекрасной
+    реальности, часть 5.9
+  index: "347"
+  filename: 347-pozvolit-krishne-vysadit-desant-v-s.md
 ---
-
-# 347. Позволить Кришне высадить десант в сердце. Онтология прекрасной реальности, часть 5.9
 
 Гуру Махарадж однажды сказал одному человеку-ученику, он происходил из уважаемой семьи, был выходцем из уважаемой семьи в Агре. Его старший брат был видным адвокатом, второй брат был советником губернатора, но так или иначе эти люди были, в той или иной степени, преданными Махапрабху.
 

@@ -1,5 +1,14 @@
 ---
 slug: 429-voobrazhaemyj-gauranga-1983-05-23-a2
+record_id: 1983.05.23.A2
+title: Воображаемый Гауранга.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13502652
+  duration: 00:22:05
+  mp3: /wp-content/uploads/2012/08/429_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
+date: 1983-05-23
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -8,13 +17,14 @@ tags:
     slug: 1983-05
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/429_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
     title: Скачать аудиозапись в mp3 (22 мин 5 сек, размер 13 Мб)
+legacy:
+  title: 429. Воображаемый Гауранга. 1983.05.23.A2
+  index: "429"
+  filename: 429-voobrazhaemyj-gauranga-1983-05-23-a2.md
 ---
-
-# 429. Воображаемый Гауранга. 1983.05.23.A2
 
 *#00:00:00#*
 

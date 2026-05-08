@@ -1,15 +1,25 @@
 ---
 slug: 54-svyaz-s-krishnoj-istochnik-vseh-soversh
+record_id: 1982.01.20.B2
+title: Связь с Кришной — источник всех совершенств.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5094024
+  duration: 00:07:56
+  mp3: /wp-content/uploads/2012/08/054_1982.01.20.B2_SridharMj_Svyaz_s_Krishnoy_istochnik_vseh_sovershenstv.mp3
+date: 1982-01-20
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/054_1982.01.20.B2_SridharMj_Svyaz_s_Krishnoy_istochnik_vseh_sovershenstv.mp3
     title: Скачать аудиозапись в mp3 (7 мин 56 сек, размер 5 Мб)
+legacy:
+  title: 54. Связь с Кришной — источник всех совершенств. 1982.01.20.B2
+  index: "54"
+  filename: 54-svyaz-s-krishnoj-istochnik-vseh-soversh.md
 ---
-
-# 54. Связь с Кришной — источник всех совершенств. 1982.01.20.B2
 
 Холодно. То я чувствовал жару, теперь чувствую холод. Посмотрите, каково нестабильное положение этого материального мира. Невозможно ни на что полагаться, уповать. Сегодня одно, завтра другое. И здесь мы должны начать. Находясь в таком неопределенном положении.
 

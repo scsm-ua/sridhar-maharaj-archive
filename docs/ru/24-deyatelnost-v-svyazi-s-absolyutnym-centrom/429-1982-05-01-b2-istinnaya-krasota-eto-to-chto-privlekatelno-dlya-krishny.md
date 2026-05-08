@@ -1,5 +1,14 @@
 ---
 slug: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
+record_id: 1982.05.01.B2
+title: Истинная красота – это то, что привлекательно для Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14224081
+  duration: 00:13:59
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3
+date: 1982-05-01
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -18,7 +27,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3
     title: аудиозапись в MP3 (13 мин. 59 сек., 13,6 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 429. 1982.05.01.B2. Истинная красота – это то, что привлекательно для Кришны
+  index: "429"
+  filename: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny.md
 ---
-
-# 429. 1982.05.01.B2. Истинная красота – это то, что привлекательно для Кришны
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура… Время девять?
 

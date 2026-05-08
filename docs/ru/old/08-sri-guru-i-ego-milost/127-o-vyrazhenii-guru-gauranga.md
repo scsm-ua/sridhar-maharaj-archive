@@ -1,5 +1,13 @@
 ---
 slug: 127-o-vyrazhenii-guru-gauranga
+record_id: null
+title: О выражении «Гуру-Гауранга». Мгновения прекрасной реальности, часть 2.7
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2181472
+  duration: 00:02:47
+  mp3: /wp-content/uploads/2012/08/127_MgnoveniyaPR_2.7_SridharMj_O_vyrajenii_Guru-Gauranga.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +18,14 @@ tags:
     slug: mahaprabhu
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/127_MgnoveniyaPR_2.7_SridharMj_O_vyrajenii_Guru-Gauranga.mp3
     title: Скачать аудиозапись в mp3 (2 мин 47 сек, размер 2 Мб)
+legacy:
+  title: 127. О выражении «Гуру-Гауранга». Мгновения прекрасной реальности, часть 2.7
+  index: "127"
+  filename: 127-o-vyrazhenii-guru-gauranga.md
 ---
-
-# 127. О выражении «Гуру-Гауранга». Мгновения прекрасной реальности, часть 2.7
 
 **Преданный:** Иногда мы слышим выражение «Гуру-Гауранга». Это выражение.
 

@@ -1,5 +1,14 @@
 ---
 slug: 282-istorii-zhizni-i-uchenie-madhava-achar
+record_id: 1983.02.21
+title: Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи. -22
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11613916
+  duration: 00:47:44
+  mp3: /wp-content/uploads/2012/08/282_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+date: 1983-02-21
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -18,13 +27,15 @@ tags:
     slug: shankara
   - title: Ямуна Ачарья
     slug: yamuna-acharya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/282_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
     title: Скачать аудиозапись в mp3 (47 мин 44 сек, размер 11 Мб)
+legacy:
+  title: 282. Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна
+    Ачарьи. 1983.02.21-22
+  index: "282"
+  filename: 282-istorii-zhizni-i-uchenie-madhava-achar.md
 ---
-
-# 282. Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи. 1983.02.21–22
 
 *#00:00:22#*
 

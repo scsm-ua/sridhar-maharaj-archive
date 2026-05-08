@@ -1,5 +1,14 @@
 ---
 slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
+record_id: 1983.01.05.A2
+title: Абсолют покоряется любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7415747
+  duration: 00:13:59
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
+date: 1983-01-05
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -26,7 +35,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
     title: аудиозапись в MP3 (13 мин. 58 сек., 7.1 МБ)
@@ -34,9 +42,11 @@ links:
     title: транскрипцию в RTF (187 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 019. 1983.01.05.A2 Абсолют покоряется любви
+  index: "019"
+  filename: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi.md
 ---
-
-# 019. 1983.01.05.A.2 Абсолют покоряется любви
 
 **Преданный:** Гуру Махарадж?
 

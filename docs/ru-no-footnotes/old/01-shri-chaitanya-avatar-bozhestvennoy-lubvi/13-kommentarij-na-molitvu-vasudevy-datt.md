@@ -1,5 +1,14 @@
 ---
 slug: 13-kommentarij-na-molitvu-vasudevy-datt
+record_id: 1981.03.05.B3
+title: Комментарий на молитву Васудевы Датты.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2331700
+  duration: 00:04:34
+  mp3: /wp-content/uploads/2012/08/013_1981.03.05.B3_SridharMj_Kommentariy_na_molitvu_Vasudevy_Datty.mp3
+date: 1981-03-05
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/013_1981.03.05.B3_SridharMj_Kommentariy_na_molitvu_Vasudevy_Datty.mp3
     title: Скачать аудиозапись в mp3 (4 мин 34 сек, размер 2 Мб)
+legacy:
+  title: 13. Комментарий на молитву Васудевы Датты. 1981.03.05.B3
+  index: "13"
+  filename: 13-kommentarij-na-molitvu-vasudevy-datt.md
 ---
-
-# 13. Комментарий на молитву Васудевы Датты. 1981.03.05.B3
 
 **Госвами Махарадж:** Что произошло? Васудева Датта попросил Махапрабху, взмолился, обращаясь к Махапрабху, сказал: «Пусть вся Вселенная освободится, все дживы будут спасены, а я приму бремя их кармы на себя».
 

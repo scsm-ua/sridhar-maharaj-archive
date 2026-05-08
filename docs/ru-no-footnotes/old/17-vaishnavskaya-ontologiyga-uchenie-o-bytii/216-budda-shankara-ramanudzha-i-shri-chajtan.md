@@ -1,5 +1,14 @@
 ---
 slug: 216-budda-shankara-ramanudzha-i-shri-chajtan
+record_id: 1983.07.08.B2
+title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18682546
+  duration: 00:38:28
+  mp3: /wp-content/uploads/2012/08/216_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+date: 1983-07-08
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
@@ -36,13 +45,15 @@ tags:
     slug: shankara
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/216_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
     title: Скачать аудиозапись в mp3 (38 мин 28 сек, размер 18 Мб)
+legacy:
+  title: 216. Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного
+    бытия. 1983.07.08.B2
+  index: "216"
+  filename: 216-budda-shankara-ramanudzha-i-shri-chajtan.md
 ---
-
-# 216. Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия. 1983.07.08.B2
 
 Рупа Госвами говорит… Что есть бхакти? Что есть преданность, подлинная преданность? Явление, свободное от приходящих, мимолетных желаний. Обычных, неорганизованных видов долга. Я делаю все, что мне вздумается, основываясь на прихоти, капризе, поиск временных удовольствий. Анья-билаш. Затем карма, энергия организовывается экспертами, чтобы привести нас к желанной цели, карма. Риши дают определенные советы: делай то то и то то, это хорошая карма.
 

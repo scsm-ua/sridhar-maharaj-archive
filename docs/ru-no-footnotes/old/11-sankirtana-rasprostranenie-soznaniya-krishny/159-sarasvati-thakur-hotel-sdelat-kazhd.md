@@ -1,5 +1,14 @@
 ---
 slug: 159-sarasvati-thakur-hotel-sdelat-kazhd
+record_id: 1981.03.05.B6
+title: Сарасвати Тхакур хотел сделать каждое сердце храмом.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5542588
+  duration: 00:07:11
+  mp3: /wp-content/uploads/2012/08/159_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
+date: 1981-03-05
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -10,13 +19,14 @@ tags:
     slug: sankirtana
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/159_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
     title: Скачать аудиозапись в mp3 (7 мин 11 сек, размер 5 Мб)
+legacy:
+  title: 159. Сарасвати Тхакур хотел сделать каждое сердце храмом. 1981.03.05.B6
+  index: "159"
+  filename: 159-sarasvati-thakur-hotel-sdelat-kazhd.md
 ---
-
-# 159. Сарасвати Тхакур хотел сделать каждое сердце храмом. 1981.03.05.B6
 
 **Ученик:** Удивительно то, что Прабхупад написал столь великое множество книг.
 

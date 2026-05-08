@@ -1,5 +1,14 @@
 ---
 slug: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe
+record_id: 1982.02.20.B4
+title: Когда нет уверенности, лучше прервать пост на Экадаши позже
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4249097
+  duration: 00:03:30
+  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.mp3
+date: 1982-02-20
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.mp3
     title: аудиозапись в MP3 (3 мин. 29 сек., 4,1 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 799. 1982.02.20.B4. Когда нет уверенности, лучше прервать пост на Экадаши
+    позже
+  index: "799"
+  filename: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe.md
 ---
-
-# 799. 1982.02.20.B4. Когда нет уверенности, лучше прервать пост на Экадаши позже
 
 **Преданный:** Шридхар Махарадж, а насколько важно прервать пост в день после *Экадаши*? Это очень важно?
 

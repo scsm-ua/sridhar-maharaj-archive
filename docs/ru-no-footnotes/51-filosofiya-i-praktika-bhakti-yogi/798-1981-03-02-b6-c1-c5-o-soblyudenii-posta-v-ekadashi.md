@@ -1,5 +1,14 @@
 ---
 slug: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi
+record_id: 1981.03.02.B6.C1.C5
+title: О соблюдении поста в экадаши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5630464
+  duration: 00:09:52
+  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
+date: 1981-03-02
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
     title: аудиозапись в MP3 (9 мин. 51 сек., 5,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 798. 1981.03.02.B6.C1.C5. О соблюдении поста в экадаши
+  index: "798"
+  filename: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi.md
 ---
-
-# 798. 1981.03.02.B6.C1.C5. О соблюдении поста в экадаши
 
 **Шрила Говинда Махарадж:** *Анукалпа*?
 

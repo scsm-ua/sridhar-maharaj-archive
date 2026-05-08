@@ -1,12 +1,20 @@
 ---
 slug: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv
+record_id: 1982.07.03.A2.A1.A3
+title: История Билвамангала. Духовный опыт не зависит от материальных органов чувств
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20952606
+  duration: 00:18:49
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3
+date: 1982-07-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3
     title: аудиозапись в MP3 (18 мин. 49 сек., 20,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (132 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 931. 1982.07.03.A2.A1.A3. История Билвамангала. Духовный опыт не зависит
+    от материальных органов чувств
+  index: "931"
+  filename: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv.md
 ---
-
-# 931. 1982.07.03.A2.A1.A3. История Билвамангала. Духовный опыт не зависит от материальных органов чувств
 
 Билвамангал был очень привязан к одной проститутке по имени Чинтамани. Он пишет в начале «Кришна-карнамриты»:
 

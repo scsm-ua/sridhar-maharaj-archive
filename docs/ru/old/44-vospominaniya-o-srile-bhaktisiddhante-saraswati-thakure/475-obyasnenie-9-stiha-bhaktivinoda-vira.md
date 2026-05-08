@@ -1,5 +1,14 @@
 ---
 slug: 475-obyasnenie-9-stiha-bhaktivinoda-vira
+record_id: 1983.06.05.C3
+title: Объяснение 9 стиха «Бхактивинода-вираха-дашакам» и песни «Гуру-парампара».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4948437
+  duration: 00:09:50
+  mp3: /wp-content/uploads/2012/08/475_1983.06.05.C3_SridharMj_Obyasnenie_9go_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
+date: 1983-06-05
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -12,13 +21,15 @@ tags:
     slug: guru-parampara
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/475_1983.06.05.C3_SridharMj_Obyasnenie_9go_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
     title: Скачать аудиозапись в mp3 (9 мин 50 сек, размер 4 Мб)
+legacy:
+  title: 475. Объяснение 9 стиха «Бхактивинода-вираха-дашакам» и песни
+    «Гуру-парампара». 1983.06.05.C3
+  index: "475"
+  filename: 475-obyasnenie-9-stiha-bhaktivinoda-vira.md
 ---
-
-# 475. Объяснение 9 стиха «Бхактивинода-вираха-дашакам» и песни «Гуру-парампара». 1983.06.05.C3
 
 Прабхупад был очень удовлетворен моей поэмой, посвященной Бхактивиноду Тхакуру, в ней написано: «После реализации служения Кришне во Вриндаване нечто, санкционированное Шри Гаурангой, нечто в полной мере понятое Сварупой Дамодарой, который есть не кто иной, как Лалита Сакхи. Руп-Санатана Госвами высоко ценили, почитали это положение, это явление.
 

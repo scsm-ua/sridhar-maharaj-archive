@@ -1,5 +1,12 @@
 ---
 slug: 258-gayatri-mantra
+title: Гаятри-мантра.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7818136
+  duration: 00:21:37
+  mp3: /wp-content/uploads/2012/08/258_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om
@@ -8,13 +15,14 @@ tags:
     slug: gayatri-mantra
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/258_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
     title: Скачать аудиозапись в mp3 (21 мин 37 сек, размер 7 Мб)
+legacy:
+  title: 258. Гаятри-мантра.
+  index: "258"
+  filename: 258-gayatri-mantra.md
 ---
-
-# 258. Гаятри-мантра.
 
 *#00:00:00#*
 

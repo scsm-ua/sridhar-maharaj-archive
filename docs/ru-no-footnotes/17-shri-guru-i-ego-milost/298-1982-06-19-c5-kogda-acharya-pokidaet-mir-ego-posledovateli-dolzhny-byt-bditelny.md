@@ -1,12 +1,20 @@
 ---
 slug: 298-1982-06-19-c5-kogda-acharya-pokidaet-mir-ego-posledovateli-dolzhny-byt-bditelny
+record_id: 1982.06.19.C5
+title: Когда ачарья покидает мир, его последователи должны быть бдительны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3127453
+  duration: 00:01:52
+  mp3: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.mp3
+date: 1982-06-19
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.mp3
     title: аудиозапись в MP3 (1 мин. 52 сек., 3,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.pdf
     title: транскрипцию в PDF (116 КБ)
+legacy:
+  title: 298. 1982.06.19.C5. Когда ачарья покидает мир, его последователи должны
+    быть бдительны
+  index: "298"
+  filename: 298-1982-06-19-c5-kogda-acharya-pokidaet-mir-ego-posledovateli-dolzhny-byt-bditelny.md
 ---
-
-# 298. 1982.06.19.C5. Когда ачарья покидает мир, его последователи должны быть бдительны
 
 **Преданный:** Прабхупад также говорил: после того как *Ачарья* покидает планету, мир, то начинается хаос.
 

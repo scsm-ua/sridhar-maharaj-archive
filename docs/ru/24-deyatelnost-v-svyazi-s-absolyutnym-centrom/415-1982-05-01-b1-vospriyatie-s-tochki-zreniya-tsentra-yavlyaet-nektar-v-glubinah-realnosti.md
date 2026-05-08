@@ -1,5 +1,14 @@
 ---
 slug: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti
+record_id: 1982.05.01.B1
+title: Восприятие с точки зрения Центра являет нектар в глубинах реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11844639
+  duration: 00:11:30
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.mp3
+date: 1982-05-01
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
@@ -32,7 +41,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 11,3 МБ)
@@ -40,9 +48,12 @@ links:
     title: транскрипцию в RTF (169 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 415. 1982.05.01.B1. Восприятие с точки зрения Центра являет нектар в
+    глубинах реальности
+  index: "415"
+  filename: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti.md
 ---
-
-# 415. 1982.05.01.B1. Восприятие с точки зрения Центра являет нектар в глубинах реальности
 
 Гармоничное существование, не отделенное существование. И что действительно необходимо для жизни в гармонии — это самоотдание, отдать себя. Жертвенность, преданность — твой друг, а стремление к независимости — твой враг. Мы должны понять эту истину. То, что на первый взгляд представляется нашим другом (независимость), — это твой настоящий враг, и ты должен научиться тому, как жить вместе.
 

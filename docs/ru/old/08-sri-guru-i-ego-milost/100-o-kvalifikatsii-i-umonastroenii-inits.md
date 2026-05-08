@@ -1,5 +1,14 @@
 ---
 slug: 100-o-kvalifikatsii-i-umonastroenii-inits
+record_id: 1981.03.02.C2
+title: О квалификации и умонастроении инициирующего гуру.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5786602
+  duration: 00:11:54
+  mp3: /wp-content/uploads/2012/08/100_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
+date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/100_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
     title: Скачать аудиозапись в mp3 (11 мин 54 сек, размер 5 Мб)
+legacy:
+  title: 100. О квалификации и умонастроении инициирующего гуру. 1981.03.02.C2
+  index: "100"
+  filename: 100-o-kvalifikatsii-i-umonastroenii-inits.md
 ---
-
-# 100. О квалификации и умонастроении инициирующего гуру. 1981.03.02.C2
 
 **Госвами Махарадж:** Вы утверждаете, что можно быть гуру, стоя здесь на этой на земле, а взор устремлен в сторону Вайкунтхи.
 

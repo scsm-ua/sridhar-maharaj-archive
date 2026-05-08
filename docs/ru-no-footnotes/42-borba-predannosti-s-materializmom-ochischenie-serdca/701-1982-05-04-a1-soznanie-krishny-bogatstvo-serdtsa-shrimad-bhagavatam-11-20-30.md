@@ -1,12 +1,20 @@
 ---
 slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
+record_id: 1982.05.04.A1
+title: Сознание Кришны – богатство сердца. «Шримад Бхагаватам» 11.20.30
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12252619
+  duration: 00:10:56
+  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3
+date: 1982-05-04
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3
     title: аудиозапись в MP3 (10 мин. 55 сек., 11,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 701. 1982.05.04.A1. Сознание Кришны – богатство сердца. «Шримад
+    Бхагаватам» 11.20.30
+  index: "701"
+  filename: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30.md
 ---
-
-# 701. 1982.05.04.A1. Сознание Кришны – богатство сердца. «Шримад Бхагаватам» 11.20.30
 
 Сознание Кришны будет распространяемо, и при этом не будут приниматься в расчет какие бы то ни было законы, *дикши*:
 

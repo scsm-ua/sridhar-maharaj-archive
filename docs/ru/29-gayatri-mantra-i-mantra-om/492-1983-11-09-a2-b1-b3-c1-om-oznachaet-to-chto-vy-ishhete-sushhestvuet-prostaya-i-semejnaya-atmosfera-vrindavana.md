@@ -1,5 +1,15 @@
 ---
 slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
+record_id: 1983.11.09.A2.B1.B3.C1
+title: «Ом» означает «То, что вы ищете, существует». Простая и семейная
+  атмосфера Вриндавана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 34157651
+  duration: 00:34:36
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
+date: 1983-11-09
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -52,7 +62,6 @@ tags:
     slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
     title: аудиозапись в MP3 (34 мин. 36 сек., 32,6 МБ)
@@ -60,11 +69,14 @@ links:
     title: транскрипцию в RTF (251 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.pdf
     title: транскрипцию в PDF (193 КБ)
+legacy:
+  title: 492. 1983.11.09.A2.B1.B3.C1. «Ом» означает «То, что вы ищете,
+    существует». Простая и семейная атмосфера Вриндавана
+  index: "492"
+  filename: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
 ---
 
-# 492. 1983.11.09.A2.B1.B3.C1. «Ом» означает «То, что вы ищете, существует». Простая и семейная атмосфера Вриндавана
-
-    там эва бха̄нтам анубха̄ти сарвам̇
+там эва бха̄нтам анубха̄ти сарвам̇
     тасйа бха̄са̄ сарвам идам̇ вибха̄ти
 [^_ftn1]
 

@@ -1,5 +1,14 @@
 ---
 slug: 501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36
+record_id: 1982.11.05.B2
+title: Комментарий к чатур-шлоке «Шримад Бхагватам» (2.9.33-36)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19902255
+  duration: 00:18:48
+  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/501_1982.11.05.B2_SridharMj_Kommentarij_k_chatur-shloke_Shrimad_Bhagvatam_(2.9.33-36).mp3
+date: 1982-11-05
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Чатур-шлока
     slug: chatur-shloka
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/501_1982.11.05.B2_SridharMj_Kommentarij_k_chatur-shloke_Shrimad_Bhagvatam_(2.9.33-36).mp3
     title: аудиозапись в MP3 (18 мин. 48 сек., 19,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (191 КБ)
   - href: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/501_1982.11.05.B2_SridharMj_Kommentarij_k_chatur-shloke_Shrimad_Bhagvatam_(2.9.33-36).pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 501. 1982.11.05.B2. Комментарий к чатур-шлоке «Шримад Бхагватам» (2.9.33-36)
+  index: "501"
+  filename: 501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36.md
 ---
-
-# 501. 1982.11.05.B2. Комментарий к чатур-шлоке «Шримад Бхагватам» (2.9.33-36)
 
 В материальном мире, возможно, эфир присутствует повсюду. Эфир — связующее звено, которое соединяет все реалии: Чандралоку, Мангал (Луну, Марс), Солнце, и благодаря этому, электрическая волна… Ухо не может достичь, но *акаша* — эфир — всепронизывающ, присутствует повсюду, наиболее тонкое начало, элемент. Он покрывает все и находится в середине всего.
 

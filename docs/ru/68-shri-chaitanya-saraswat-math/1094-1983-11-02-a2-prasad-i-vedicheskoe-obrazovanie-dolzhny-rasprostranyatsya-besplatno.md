@@ -1,12 +1,20 @@
 ---
 slug: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno
+record_id: 1983.11.02.A2
+title: Прасад и ведическое образование должны распространяться бесплатно
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3834849
+  duration: 00:02:10
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.mp3
+date: 1983-11-02
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.mp3
     title: аудиозапись в MP3 (2 мин. 10 сек., 3,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 1094. 1983.11.02.A2. Прасад и ведическое образование должны
+    распространяться бесплатно
+  index: "1094"
+  filename: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno.md
 ---
-
-# 1094. 1983.11.02.A2. Прасад и ведическое образование должны распространяться бесплатно
 
 **Преданный:** Гуру Махарадж, у меня есть вопрос. Если *прасадам* дается с презрительным чувством, как вот в Тирупати, в одном храме: я попросил *прасад*, и человек дал мне *прасадам*, но пренебрежительно… И есть ли плохая, дурная реакция от почитания такого *прасада*? Я должен принимать весь *прасад*, который дается в любой манере или выборочно, избирательно?
 

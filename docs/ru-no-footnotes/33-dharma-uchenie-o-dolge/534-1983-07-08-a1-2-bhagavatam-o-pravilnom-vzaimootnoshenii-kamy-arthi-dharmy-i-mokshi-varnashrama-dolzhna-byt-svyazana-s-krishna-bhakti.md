@@ -1,5 +1,15 @@
 ---
 slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
+record_id: 1983.07.08.A1.2
+title: Бхагаватам о правильном взаимоотношении камы, артхи, дхармы и мокши.
+  Варнашрама должна быть связана с кришна-бхакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7032091
+  duration: 00:14:07
+  mp3: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
+date: 1983-07-08
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +18,6 @@ tags:
     slug: 1983-07
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
     title: аудиозапись в MP3 (14 мин. 07 сек., 6,8 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 534. 1983.07.08.A1.2. Бхагаватам о правильном взаимоотношении камы,
+    артхи, дхармы и мокши. Варнашрама должна быть связана с кришна-бхакти
+  index: "534"
+  filename: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
 ---
-
-# 534. 1983.07.08.A1.2. Бхагаватам о правильном взаимоотношении камы, артхи, дхармы и мокши. Варнашрама должна быть связана с кришна-бхакти
 
 **Шрила Шридхар Махарадж:** Нам говорили, что у вас есть вопросы.
 

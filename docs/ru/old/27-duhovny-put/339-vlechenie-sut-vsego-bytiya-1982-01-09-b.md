@@ -1,5 +1,14 @@
 ---
 slug: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b
+record_id: 1982.01.09.B
+title: Влечение – суть всего бытия.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20592745
+  duration: 00:42:18
+  mp3: /wp-content/uploads/2012/08/339_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3
+date: 1982-01-09
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/339_1982.01.09.B_SridharMj_Vlechenie_sut_vsego_bytiya.mp3
     title: Скачать аудиозапись в mp3 (42 мин 18 сек, размер 20 Мб)
+legacy:
+  title: 339. Влечение – суть всего бытия. 1982.01.09.B
+  index: "339"
+  filename: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b.md
 ---
-
-# 339. Влечение – суть всего бытия. 1982.01.09.B
 
 *#00:00:10#*
 

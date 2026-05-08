@@ -1,12 +1,20 @@
 ---
 slug: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh
+record_id: 1983.11.02.A8
+title: Материальные время и пространство как отражения духовных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3852361
+  duration: 00:03:02
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.mp3
+date: 1983-11-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.mp3
     title: аудиозапись в MP3 (3 мин. 02 сек., 3,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 649. 1983.11.02.A8. Материальные время и пространство как отражения духовных
+  index: "649"
+  filename: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh.md
 ---
-
-# 649. 1983.11.02.A8. Материальные время и пространство как отражения духовных
 
 **Преданный:** Но также речь идет о пяти вечных элементах: *Бхагаван, кала, пракрити, карма…*
 

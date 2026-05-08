@@ -1,5 +1,14 @@
 ---
 slug: 389-dzhagannathu-ne-predlagayut-to-chto-byl
+record_id: 1983.05.06.B1
+title: Джаганнатху не предлагают то, что было привезено в Индию извне.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1776317
+  duration: 00:03:22
+  mp3: /wp-content/uploads/2012/08/389_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3
+date: 1983-05-06
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -8,13 +17,15 @@ tags:
     slug: 1983-05
   - title: Божество
     slug: bozhestvo
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/389_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3
     title: Скачать аудиозапись в mp3 (3 мин 22 сек, размер 1 Мб)
+legacy:
+  title: 389. Джаганнатху не предлагают то, что было привезено в Индию извне.
+    1983.05.06.B1
+  index: "389"
+  filename: 389-dzhagannathu-ne-predlagayut-to-chto-byl.md
 ---
-
-# 389. Джаганнатху не предлагают то, что было привезено в Индию извне. 1983.05.06.B1
 
 И сказал: «Пососи эту бороду и ты получишь представление о том, каков вкус манго. Поскольку смесь этих вкусов: тамаринда, сахара и волосы бороды — всё это вместе даёт представление о вкусе и консистенции манго» — он сказал так, обмокнув бороду в этот раствор. - И он был удовлетворён? - Ну, а что можно сделать? - В Персии, наверное, по каким-то причинам нет манго? - Да, нет манго, не растут в той стороне.
 

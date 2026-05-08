@@ -1,5 +1,14 @@
 ---
 slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
+record_id: 1981.03.07.A2
+title: Проповедь и дух служения – основа санкиртаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12769122
+  duration: 00:26:10
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.mp3
+date: 1981-03-07
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -38,7 +47,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.mp3
     title: аудиозапись в MP3 (26 мин. 10 сек., 12,2 МБ)
@@ -46,9 +54,11 @@ links:
     title: транскрипцию в DOCX (41 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 358. 1981.03.07.A2. Проповедь и дух служения – основа санкиртаны
+  index: "358"
+  filename: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany.md
 ---
-
-# 358. 1981.03.07.A2. Проповедь и дух служения – основа санкиртаны
 
 **Преданный:** У нас есть множество вопросов, которые мы хотели бы задать, у Сатсварупы Махараджа есть множество вопросов.
 

@@ -1,5 +1,14 @@
 ---
 slug: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit
+record_id: 1982.06.08.B2
+title: История о головной боли Кришны как иллюстрация принципа «умереть, чтобы жить»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2958201
+  duration: 00:02:00
+  mp3: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.mp3
+date: 1982-06-08
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.mp3
     title: аудиозапись в MP3 (2 мин. 00 сек., 2,9 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (42 КБ)
   - href: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 849. 1982.06.08.B2. История о головной боли Кришны как иллюстрация
+    принципа «умереть, чтобы жить»
+  index: "849"
+  filename: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit.md
 ---
-
-# 849. 1982.06.08.B2. История о головной боли Кришны как иллюстрация принципа «умереть, чтобы жить»
 
 **Преданный:** Махарадж, рассказывается история о головной боли Кришны: вайшнавы должны были дать пыль своих стоп — то было лекарство для Кришны. А *гопи*, которые дали пыль своих стоп, попали в ад за это?
 

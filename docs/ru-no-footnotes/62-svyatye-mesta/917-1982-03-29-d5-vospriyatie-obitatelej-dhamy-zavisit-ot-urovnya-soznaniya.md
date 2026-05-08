@@ -1,12 +1,20 @@
 ---
 slug: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya
+record_id: 1982.03.29.D5
+title: Восприятие обитателей дхамы зависит от уровня сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7883399
+  duration: 00:08:01
+  mp3: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.mp3
+date: 1982-03-29
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.mp3
     title: аудиозапись в MP3 (8 мин. 01 сек., 7,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 917. 1982.03.29.D5. Восприятие обитателей дхамы зависит от уровня сознания
+  index: "917"
+  filename: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya.md
 ---
-
-# 917. 1982.03.29.D5. Восприятие обитателей дхамы зависит от уровня сознания
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

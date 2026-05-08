@@ -1,5 +1,14 @@
 ---
 slug: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov
+record_id: 1982.05.14.D5
+title: Главный капитал проповедника – это искренность поступков
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5245961
+  duration: 00:04:35
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.mp3
+date: 1982-05-14
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.mp3
     title: аудиозапись в MP3 (4 мин. 34 сек., 5,1 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 387. 1982.05.14.D5. Главный капитал проповедника – это искренность поступков
+  index: "387"
+  filename: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov.md
 ---
-
-# 387. 1982.05.14.D5. Главный капитал проповедника – это искренность поступков
 
 **Шрила Шридхар Махарадж:** Есть какие-то вопросы?
 

@@ -1,18 +1,28 @@
 ---
 slug: 165-izvlech-naibolshuyu-vygodu-iz-durnoj
+record_id: 1983.03.31.B3
+title: Извлечь наибольшую выгоду из дурной сделки.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10805876
+  duration: 00:17:13
+  mp3: /wp-content/uploads/2012/08/165_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
+date: 1983-03-31
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
   - title: "1983.03"
     slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/165_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
     title: Скачать аудиозапись в mp3 (17 мин 13 сек, размер 10 Мб)
+legacy:
+  title: 165. Извлечь наибольшую выгоду из дурной сделки. 1983.03.31.B3
+  index: "165"
+  filename: 165-izvlech-naibolshuyu-vygodu-iz-durnoj.md
 ---
-
-# 165. Извлечь наибольшую выгоду из дурной сделки. 1983.03.31.B3
 
 **Ученик:** Я думаю, это очень хорошая идея, желание среди преданных, они чувствуют потребность.
 

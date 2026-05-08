@@ -1,18 +1,28 @@
 ---
 slug: 25-gde-nahoditsya-gupta-radha-kunda-v-nav
+record_id: 1981.11.12.C2
+title: Где находится гупта Радха-кунда в Навадвипе?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 725682
+  duration: 00:01:13
+  mp3: /wp-content/uploads/2012/08/025_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
+date: 1981-11-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
   - title: "1981.11"
     slug: 1981-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/025_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
     title: Скачать аудиозапись в mp3 (1 мин 13 сек, размер 1 Мб)
+legacy:
+  title: 25. Где находится гупта Радха-кунда в Навадвипе? 1981.11.12.C2
+  index: "25"
+  filename: 25-gde-nahoditsya-gupta-radha-kunda-v-nav.md
 ---
-
-# 25. Где находится гупта Радха-кунда в Навадвипе? 1981.11.12.C2
 
 **Ученик:** Гуру Махарадж, такой вопрос, это место в Навадвипе считается гупта-Говардханом (скрытым Говардханом). Это означает, что здесь в Навадвипе также есть Сева-кундж и Радха-кунда?
 

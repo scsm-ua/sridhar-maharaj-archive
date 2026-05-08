@@ -1,5 +1,14 @@
 ---
 slug: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny
+record_id: 1982.03.30.B3
+title: Писания, вайшнавы и чувство в сердце – три признака истины
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3929161
+  duration: 00:03:50
+  mp3: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3
+date: 1982-03-30
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +17,6 @@ tags:
     slug: 1982-03
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3
     title: аудиозапись в MP3 (3 мин. 49 сек., 3,8 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 538. 1982.03.30.B3. Писания, вайшнавы и чувство в сердце – три признака
+    истины
+  index: "538"
+  filename: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny.md
 ---
-
-# 538. 1982.03.30.B3. Писания, вайшнавы и чувство в сердце – три признака истины
 
 **Преданный:** Как нам понять, какого вайшнава следует слушать? Как нам судить о том, кого нам следует слушать, какого вайшнава?
 

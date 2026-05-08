@@ -1,5 +1,14 @@
 ---
 slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
+record_id: 1983.02.13.A4
+title: Сокровенный смысл молитвы Бхактиведанты Свами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4670946
+  duration: 00:06:27
+  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
+date: 1983-02-13
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
@@ -18,7 +27,6 @@ tags:
     slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (6 мин. 27 сек., 4,5 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
+  index: "1068"
+  filename: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami.md
 ---
-
-# 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
 
 **Преданный:** Гуру Махарадж, говорится, что Свами Махарадж испытывал влечение к *сакхья-расе*.
 

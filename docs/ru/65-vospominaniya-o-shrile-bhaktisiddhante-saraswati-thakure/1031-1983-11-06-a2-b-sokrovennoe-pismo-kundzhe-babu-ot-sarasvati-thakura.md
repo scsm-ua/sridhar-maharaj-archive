@@ -1,5 +1,14 @@
 ---
 slug: 1031-1983-11-06-a2-b-sokrovennoe-pismo-kundzhe-babu-ot-sarasvati-thakura
+record_id: 1983.11.06.A2.B
+title: Сокровенное письмо Кундже Бабу от Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18383620
+  duration: 00:18:32
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.mp3
+date: 1983-11-06
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 9.31
     slug: bhagavad-gita-9-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (18 мин. 31 сек., 17,6 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (141 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 1031. 1983.11.06.A2.B. Сокровенное письмо Кундже Бабу от Сарасвати Тхакура
+  index: "1031"
+  filename: 1031-1983-11-06-a2-b-sokrovennoe-pismo-kundzhe-babu-ot-sarasvati-thakura.md
 ---
-
-# 1031. 1983.11.06.A2.B. Сокровенное письмо Кундже Бабу от Сарасвати Тхакура
 
 **Шрила Шридхар Махарадж:** Харе Кришна.
 

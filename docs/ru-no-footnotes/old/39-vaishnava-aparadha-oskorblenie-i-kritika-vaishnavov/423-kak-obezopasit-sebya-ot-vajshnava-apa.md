@@ -1,5 +1,14 @@
 ---
 slug: 423-kak-obezopasit-sebya-ot-vajshnava-apa
+record_id: 1985.10.05.A1
+title: Как обезопасить себя от вайшнава-апарадхи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1586500
+  duration: 00:02:39
+  mp3: /wp-content/uploads/2012/08/423_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
+date: 1985-10-05
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
@@ -8,13 +17,14 @@ tags:
     slug: 1985-10
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/423_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
     title: Скачать аудиозапись в mp3 (2 мин 39 сек, размер 1 Мб)
+legacy:
+  title: 423. Как обезопасить себя от вайшнава-апарадхи. 1985.10.05.A1
+  index: "423"
+  filename: 423-kak-obezopasit-sebya-ot-vajshnava-apa.md
 ---
-
-# 423. Как обезопасить себя от вайшнава-апарадхи. 1985.10.05.A1
 
 Позитивная связь, до тех пор, пока у нас нет позитивной связи с высшим достижением жизни, до тех пор, пока этой связи нет, то очарование низшего вкуса не уходит полностью, не исчезает полностью. Поэтому просто освобождение это не есть безопасное положение для нас, поскольку мы вновь будем вынуждены вернуться сюда, но мы можем уловить центростремительный поток.
 

@@ -1,5 +1,15 @@
 ---
 slug: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram
+record_id: 1982.04.16.C4
+title: Присутствие Махапрабху при написании тридцать четвертого стиха «Шри
+  Према-дхама-дева-стотрам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4804513
+  duration: 00:04:07
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3
+date: 1982-04-16
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
@@ -14,7 +24,6 @@ tags:
     slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 34
     slug: prema-dhama-deva-stotram-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3
     title: аудиозапись в MP3 (4 мин. 07 сек., 4,6 МБ)
@@ -22,9 +31,12 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 981. 1982.04.16.C4. Присутствие Махапрабху при написании тридцать
+    четвертого стиха «Шри Према-дхама-дева-стотрам»
+  index: "981"
+  filename: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram.md
 ---
-
-# 981. 1982.04.16.C4. Присутствие Махапрабху при написании тридцать четвертого стиха «Шри Према-дхама-дева-стотрам»
 
 **Шрила Шридхар Махарадж:** Спаситель… Не только спаситель, но даритель высочайшего блага в жизни, открывший двери, позволяющий войти. Особенно *Апарадха-бхаджан-пат* — особая часть Навадвипа, где все оскорбления были прощены Господом без каких-либо ограничений.
 

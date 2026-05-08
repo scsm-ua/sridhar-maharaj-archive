@@ -1,5 +1,14 @@
 ---
 slug: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1
+record_id: 1983.01.12.A3.B1
+title: История открытия Радха-кунды.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3672646
+  duration: 00:07:21
+  mp3: /wp-content/uploads/2012/08/024_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy1.mp3
+date: 1983-01-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/024_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy1.mp3
     title: Скачать аудиозапись в mp3 (7 мин 21 сек, размер 3 Мб)
+legacy:
+  title: 24. История открытия Радха-кунды. 1983.01.12.A3.B1
+  index: "24"
+  filename: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1.md
 ---
-
-# 24. История открытия Радха-кунды. 1983.01.12.A3.B1
 
 **Робин Шервуд:** Робин. Робин, так пишется мое имя.
 

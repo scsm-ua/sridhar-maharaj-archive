@@ -1,5 +1,14 @@
 ---
 slug: 106-guru-bhogi-guru-tyagi-i-guru-sevi-1987-00-00-a8
+record_id: 1987.00.00.A8
+title: Гуру-бхоги, гуру-тьяги и гуру-севи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5077598
+  duration: 00:08:06
+  mp3: /wp-content/uploads/2012/08/106_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
+date: 1987-00-00
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -8,13 +17,14 @@ tags:
     slug: "1987"
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/106_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
     title: Скачать аудиозапись в mp3 (8 мин 6 сек, размер 5 Мб)
+legacy:
+  title: 106. Гуру-бхоги, гуру-тьяги и гуру-севи. 1987.00.00.A8
+  index: "106"
+  filename: 106-guru-bhogi-guru-tyagi-i-guru-sevi-1987-00-00-a8.md
 ---
-
-# 106. Гуру-бхоги, гуру-тьяги и гуру-севи. 1987.00.00.A8
 
 **Шридхар Махарадж:** Различие между лестью и прославлением, ты понимаешь?
 

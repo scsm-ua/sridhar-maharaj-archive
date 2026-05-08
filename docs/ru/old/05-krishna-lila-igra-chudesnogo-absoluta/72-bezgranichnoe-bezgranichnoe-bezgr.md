@@ -1,18 +1,28 @@
 ---
 slug: 72-bezgranichnoe-bezgranichnoe-bezgr
+title: «Безграничное – Безграничное = Безграничное». Мантра Ишопанишад.
+  Мгновения прекрасной реальности, часть 4.8
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1712632
+  duration: 00:03:02
+  mp3: /wp-content/uploads/2012/08/072_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_-_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/072_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_-_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
     title: Скачать аудиозапись в mp3 (3 мин 2 сек, размер 1 Мб)
+legacy:
+  title: 72. «Безграничное – Безграничное = Безграничное». Мантра Ишопанишад.
+    Мгновения прекрасной реальности, часть 4.8
+  index: "72"
+  filename: 72-bezgranichnoe-bezgranichnoe-bezgr.md
 ---
-
-# 72. «Безграничное – Безграничное = Безграничное». Мантра Ишопанишад. Мгновения прекрасной реальности, часть 4.8
 
 **Слушатель:** Махарадж, когда Кришна или Махапрабху приходит в этот мир, что происходит в мире Голоки?
 

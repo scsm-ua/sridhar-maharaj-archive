@@ -1,12 +1,20 @@
 ---
 slug: 970-1983-01-10-a2-amiya-nimaj-charit-i-gospod-gauranga-shishir-kumar-ghosha
+record_id: 1983.01.10.A2
+title: «Амия Нимай Чарит» и «Господь Гауранга» Шишир Кумар Гхоша
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5146403
+  duration: 00:04:28
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/970_1983.01.10.A2_SridharMj_Amija_Nimaj_Charit_i_Gospod_Gauranga_Shishir_Kumar_Ghosha.mp3
+date: 1983-01-10
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/970_1983.01.10.A2_SridharMj_Amija_Nimaj_Charit_i_Gospod_Gauranga_Shishir_Kumar_Ghosha.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 5,0 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/970_1983.01.10.A2_SridharMj_Amija_Nimaj_Charit_i_Gospod_Gauranga_Shishir_Kumar_Ghosha.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 970. 1983.01.10.A2. «Амия Нимай Чарит» и «Господь Гауранга» Шишир Кумар Гхоша
+  index: "970"
+  filename: 970-1983-01-10-a2-amiya-nimaj-charit-i-gospod-gauranga-shishir-kumar-ghosha.md
 ---
-
-# 970. 1983.01.10.A2. «Амия Нимай Чарит» и «Господь Гауранга» Шишир Кумар Гхоша
 
 **Преданный:** Махарадж, книга, которую вы прочитали в молодости — то была книга «Господь Гауранга»?
 

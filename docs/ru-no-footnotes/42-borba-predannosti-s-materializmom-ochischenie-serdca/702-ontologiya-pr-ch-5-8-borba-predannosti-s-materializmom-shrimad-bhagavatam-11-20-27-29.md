@@ -1,12 +1,19 @@
 ---
 slug: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29
+title: Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад
+  Бхагаватам» 11.20.27-29
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4192960
+  duration: 00:05:04
+  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/702_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom_Shrimad-Bhagavatam_11.20.27-29.mp3
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/702_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom_Shrimad-Bhagavatam_11.20.27-29.mp3
     title: аудиозапись в MP3 (5 мин. 03 сек., 4,0 МБ)
@@ -14,9 +21,12 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/702_OntologiyaPR_5.8_SridharMj_Borba_predannosti_s_materializmom_Shrimad-Bhagavatam_11.20.27-29.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 702. Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад
+    Бхагаватам» 11.20.27-29
+  index: "702"
+  filename: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29.md
 ---
-
-# 702. Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад Бхагаватам» 11.20.27-29
 
 *Онтология Прекрасной Реальности (часть 5.8)*
 

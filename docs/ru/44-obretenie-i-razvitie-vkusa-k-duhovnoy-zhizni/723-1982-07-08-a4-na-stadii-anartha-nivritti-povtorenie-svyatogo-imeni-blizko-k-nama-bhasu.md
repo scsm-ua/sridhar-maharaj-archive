@@ -1,12 +1,20 @@
 ---
 slug: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu
+record_id: 1982.07.08.A4
+title: На стадии анартха-нивритти повторение Святого Имени близко к нама-бхасу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4143971
+  duration: 00:03:28
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.mp3
+date: 1982-07-08
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.mp3
     title: аудиозапись в MP3 (3 мин. 27 сек., 4,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 723. 1982.07.08.A4. На стадии анартха-нивритти повторение Святого Имени
+    близко к нама-бхасу
+  index: "723"
+  filename: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu.md
 ---
-
-# 723. 1982.07.08.A4. На стадии анартха-нивритти повторение Святого Имени близко к нама-бхасу
 
 **Преданный:** Существует ли стадия между *намабхасой* и *ручи*?
 

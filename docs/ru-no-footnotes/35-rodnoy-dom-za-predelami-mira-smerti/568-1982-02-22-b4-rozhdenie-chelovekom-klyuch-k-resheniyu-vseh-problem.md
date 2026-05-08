@@ -1,12 +1,20 @@
 ---
 slug: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem
+record_id: 1982.02.22.B4
+title: Рождение человеком – ключ к решению всех проблем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6113304
+  duration: 00:08:53
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
+date: 1982-02-22
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 5,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 568. 1982.02.22.B4. Рождение человеком – ключ к решению всех проблем
+  index: "568"
+  filename: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem.md
 ---
-
-# 568. 1982.02.22.B4. Рождение человеком – ключ к решению всех проблем
 
 Мгновения Прекрасной Реальности (часть 3.4)
 

@@ -1,18 +1,28 @@
 ---
 slug: 48-krishna-ozhidaet-polnogo-samoposvyashhen
+record_id: 1982.01.12.C3
+title: Кришна ожидает полного самопосвящения.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7175460
+  duration: 00:12:17
+  mp3: /wp-content/uploads/2012/08/048_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
+date: 1982-01-12
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/048_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
     title: Скачать аудиозапись в mp3 (12 мин 17 сек, размер 7 Мб)
+legacy:
+  title: 48. Кришна ожидает полного самопосвящения. 1982.01.12.C3
+  index: "48"
+  filename: 48-krishna-ozhidaet-polnogo-samoposvyashhen.md
 ---
-
-# 48. Кришна ожидает полного самопосвящения. 1982.01.12.C3
 
 «Поэтапно, последовательно, соответственно способностям тех, кому Я даю. Тот, кто имеет подобное, утонченное понимание, кто способен понять, знать, чувствовать»,- это также Его указание, но обращенное к определенной группе. Однако люди, наделенные более высоким разумом, более развитым умом, они будут следовать, отбросят эти правила и предписания и пойдут дальше, дальше.
 

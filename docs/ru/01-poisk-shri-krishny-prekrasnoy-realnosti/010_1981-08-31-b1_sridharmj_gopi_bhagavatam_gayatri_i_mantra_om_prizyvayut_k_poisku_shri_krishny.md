@@ -1,5 +1,14 @@
 ---
 slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
+record_id: 1981.08.31.B1
+title: Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7950148
+  duration: 00:16:15
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
+date: 1981-08-31
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -26,7 +35,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
     title: аудиозапись в MP3 (16 мин. 15 сек., 7.6 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (135 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 010. 1981.08.31.B1 Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают
+    к поиску Шри Кришны
+  index: "010"
+  filename: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny.md
 ---
-
-# 010. 1981.08.31.B1 Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
 
 Поиск *расы*, *анандам*, красоты, очарования, а не знания, основанного на расчете, подобно знанию Параматмы.
 

@@ -1,12 +1,20 @@
 ---
 slug: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa
+record_id: 1981.08.31.B5.C1
+title: Объяснение символического смысла лотоса в воде под лучами солнца
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6056092
+  duration: 00:08:58
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
+date: 1981-08-31
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
     title: аудиозапись в MP3 (8 мин. 57 сек., 5,8 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (27 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 1085. 1981.08.31.B5.C1. Объяснение символического смысла лотоса в воде
+    под лучами солнца
+  index: "1085"
+  filename: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
 ---
-
-# 1085. 1981.08.31.B5.C1. Объяснение символического смысла лотоса в воде под лучами солнца
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
 

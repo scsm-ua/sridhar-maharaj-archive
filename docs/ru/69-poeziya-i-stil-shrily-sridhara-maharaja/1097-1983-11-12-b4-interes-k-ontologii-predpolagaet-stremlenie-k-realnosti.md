@@ -1,5 +1,14 @@
 ---
 slug: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti
+record_id: 1983.11.12.B4
+title: Интерес к онтологии предполагает стремление к Реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3528464
+  duration: 00:03:28
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
+date: 1983-11-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
@@ -10,7 +19,6 @@ tags:
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
     title: аудиозапись в MP3 (3 мин. 27 сек., 3,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 1097. 1983.11.12.B4. Интерес к онтологии предполагает стремление к Реальности
+  index: "1097"
+  filename: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti.md
 ---
-
-# 1097. 1983.11.12.B4. Интерес к онтологии предполагает стремление к Реальности
 
 **Преданный:** То, что вы говорите, ваши объяснения — где еще люди могут услышать их? Нет места, где люди могли бы услышать подобные объяснения.
 

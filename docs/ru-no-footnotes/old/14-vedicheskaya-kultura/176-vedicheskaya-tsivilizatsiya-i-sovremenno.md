@@ -1,18 +1,28 @@
 ---
 slug: 176-vedicheskaya-tsivilizatsiya-i-sovremenno
+record_id: 1983.01.22.A.B
+title: Ведическая цивилизация и современность.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16297253
+  duration: 00:32:26
+  mp3: /wp-content/uploads/2012/08/176_1983.01.22.A.B_SridharMj_Vedicheskaya_civilizaciya_i_sovremennost.mp3
+date: 1983-01-22
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/176_1983.01.22.A.B_SridharMj_Vedicheskaya_civilizaciya_i_sovremennost.mp3
     title: Скачать аудиозапись в mp3 (32 мин 26 сек, размер 16 Мб)
+legacy:
+  title: 176. Ведическая цивилизация и современность. 1983.01.22.A.B
+  index: "176"
+  filename: 176-vedicheskaya-tsivilizatsiya-i-sovremenno.md
 ---
-
-# 176. Ведическая цивилизация и современность. 1983.01.22.A.B
 
 *#00:00:00#*
 

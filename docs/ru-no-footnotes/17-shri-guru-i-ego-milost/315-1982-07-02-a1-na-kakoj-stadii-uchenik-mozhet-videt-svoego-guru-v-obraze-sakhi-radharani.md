@@ -1,5 +1,14 @@
 ---
 slug: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani
+record_id: 1982.07.02.A1
+title: На какой стадии ученик может видеть своего Гуру в образе сакхи Радхарани?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11151851
+  duration: 00:10:14
+  mp3: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3
+date: 1982-07-02
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3
     title: аудиозапись в MP3 (10 мин. 13 сек., 10,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.pdf
     title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 315. 1982.07.02.A1. На какой стадии ученик может видеть своего Гуру в
+    образе сакхи Радхарани?
+  index: "315"
+  filename: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani.md
 ---
-
-# 315. 1982.07.02.A1. На какой стадии ученик может видеть своего Гуру в образе сакхи Радхарани?
 
 Если он [Гуру] захочет переместить меня, изменить мою позицию, то я согласен, потому что он дал мне указание работать в этой связи, и я работаю. Если он захочет поменять мое положение, то я готов к этому также. Это ясное умонастроение служения мы будем культивировать, разрабатывать, всегда действовать от их имени. Не от собственного имени, не принимать ответственность на себя — ответственность на них. С чистыми руками получать, принимать все с чистыми руками. Принимать все: *пратиштху* (славу), *канаку* (деньги) и прочее ради служения, с чистыми руками.
 

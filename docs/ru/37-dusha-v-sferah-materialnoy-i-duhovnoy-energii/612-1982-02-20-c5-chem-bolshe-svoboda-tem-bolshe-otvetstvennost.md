@@ -1,5 +1,14 @@
 ---
 slug: 612-1982-02-20-c5-chem-bolshe-svoboda-tem-bolshe-otvetstvennost
+record_id: 1982.02.20.C5
+title: Чем больше свобода – тем больше ответственность
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4429927
+  duration: 00:02:55
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/612_1982.02.20.C5_SridharMj_Chem_bolshe_svoboda--tem_bolshe_otvetstvennost.mp3
+date: 1982-02-20
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/612_1982.02.20.C5_SridharMj_Chem_bolshe_svoboda--tem_bolshe_otvetstvennost.mp3
     title: аудиозапись в MP3 (2 мин. 55 сек., 4,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (15 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/612_1982.02.20.C5_SridharMj_Chem_bolshe_svoboda--tem_bolshe_otvetstvennost.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 612. 1982.02.20.C5. Чем больше свобода – тем больше ответственность
+  index: "612"
+  filename: 612-1982-02-20-c5-chem-bolshe-svoboda-tem-bolshe-otvetstvennost.md
 ---
-
-# 612. 1982.02.20.C5. Чем больше свобода – тем больше ответственность
 
 **Преданный:** Махарадж, у меня есть вопрос, связанный с другим предметом. Когда *джива* находится в тисках *майи*, какой степенью независимости она в действительности обладает?
 

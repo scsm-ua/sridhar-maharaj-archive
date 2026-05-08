@@ -1,12 +1,20 @@
 ---
 slug: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari
+record_id: 1982.04.29.A2
+title: Принятие прибежища стоп Рупы Манджари
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19591480
+  duration: 00:19:47
+  mp3: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3
+date: 1982-04-29
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3
     title: аудиозапись в MP3 (19 мин. 46 сек., 18,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (158 КБ)
   - href: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 450. 1982.04.29.A2. Принятие прибежища стоп Рупы Манджари
+  index: "450"
+  filename: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari.md
 ---
-
-# 450. 1982.04.29.A2. Принятие прибежища стоп Рупы Манджари
 
 [Рупа] Манджари рассматривается как глава всех *манджари* в лагере Радхарани. Они младше возрастом [*сакхи*], поэтому существует возможность для них входить в комнату Радхи-Говинды, куда *сакхи* ([подруги Радхарани] более старшего возраста) не могут войти. Эти младшие девочки, предполагается, знают многое о высокой *лиле*. Так или иначе, они наслаждаются этим доверием. Когда Радха и Говинда находятся в уединении, то этим юным девушкам позволяют войти, но подруги Радхарани старшего возраста не осмеливаются войти туда в это время.
 

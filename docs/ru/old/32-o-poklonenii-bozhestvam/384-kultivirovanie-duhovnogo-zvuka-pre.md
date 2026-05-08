@@ -1,5 +1,14 @@
 ---
 slug: 384-kultivirovanie-duhovnogo-zvuka-pre
+record_id: 1983.02.18.B3
+title: Культивирование духовного звука превыше арчаны.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7203684
+  duration: 00:23:29
+  mp3: /wp-content/uploads/2012/08/384_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3
+date: 1983-02-18
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -12,13 +21,14 @@ tags:
     slug: bozhestvo
   - title: Прасад
     slug: prasad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/384_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3
     title: Скачать аудиозапись в mp3 (14 мин 41 сек, размер 7 Мб)
+legacy:
+  title: 384. Культивирование духовного звука превыше арчаны. 1983.02.18.B3
+  index: "384"
+  filename: 384-kultivirovanie-duhovnogo-zvuka-pre.md
 ---
-
-# 384. Культивирование духовного звука превыше арчаны. 1983.02.18.B3
 
 Я хотел бы спросить, положение брахмачари, который носит с собой божество. Существует ли какая-то предписанная процедура поклонения божеству, мурти, для брахмачарьи, не для домохозяина. — Поклонение божеству необходимо на начальном уровне, подобно тому, как наш опыт слуха может помочь нам, опыт зрения также может помочь нам.
 

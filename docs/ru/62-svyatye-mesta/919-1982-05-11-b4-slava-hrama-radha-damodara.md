@@ -1,12 +1,20 @@
 ---
 slug: 919-1982-05-11-b4-slava-hrama-radha-damodara
+record_id: 1982.05.11.B4
+title: Слава храма Радха-Дамодара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1954649
+  duration: 00:01:51
+  mp3: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3
+date: 1982-05-11
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3
     title: аудиозапись в MP3 (1 мин. 50 сек., 1,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (41 КБ)
   - href: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.pdf
     title: транскрипцию в PDF (116 КБ)
+legacy:
+  title: 919. 1982.05.11.B4. Слава храма Радха-Дамодара
+  index: "919"
+  filename: 919-1982-05-11-b4-slava-hrama-radha-damodara.md
 ---
-
-# 919. 1982.05.11.B4. Слава храма Радха-Дамодара
 
 [Вопрос был задан на бенгали — *переводчик*]
 

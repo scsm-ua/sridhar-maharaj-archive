@@ -1,12 +1,20 @@
 ---
 slug: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii
+record_id: 1982.07.03.B2
+title: Горькая пилюля для обретения сладостной гармонии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21971435
+  duration: 00:20:28
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3
+date: 1982-07-03
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3
     title: аудиозапись в MP3 (20 мин. 28 сек., 21,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (170 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.pdf
     title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 520. 1982.07.03.B2. Горькая пилюля для обретения сладостной гармонии
+  index: "520"
+  filename: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii.md
 ---
-
-# 520. 1982.07.03.B2. Горькая пилюля для обретения сладостной гармонии
 
 **Преданный:** Есть один ученый, Джордж Уолт, нобелевский лауреат, он мой хороший друг. Он исследовал природу видения, зрения, пытался понять, что значит «видеть». Он изучил все химические процессы, которые вовлечены в процесс зрения, восприятия, но он так и не сумел ответить на вопрос, что это значит: видеть. Изучая химические процессы, он так и не сумел понять, что значит «видеть».
 

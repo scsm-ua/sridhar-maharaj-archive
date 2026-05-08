@@ -1,5 +1,14 @@
 ---
 slug: 556-1982-07-15-a5-nemtsy-tsenyat-sanskrit-i-indijskuyu-kulturu
+record_id: 1982.07.15.A5
+title: Немцы ценят санскрит и индийскую культуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5969502
+  duration: 00:05:31
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.mp3
+date: 1982-07-15
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.mp3
     title: аудиозапись в MP3 (5 мин. 31 сек., 5,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 556. 1982.07.15.A5. Немцы ценят санскрит и индийскую культуру
+  index: "556"
+  filename: 556-1982-07-15-a5-nemtsy-tsenyat-sanskrit-i-indijskuyu-kulturu.md
 ---
-
-# 556. 1982.07.15.A5. Немцы ценят санскрит и индийскую культуру
 
 …Они известны как Ганс. «Неистовый Франк и яростный Ганс» — битва немцев и французов была описана одним джентльменом, «Неистовый Франк и яростный Ганс». Они называют это Ганс. Ганс то же самое, что *хамса*. В древней Индии существовали две группы: *парамахамса* и *хамса*. Вначале не было такого деления в рамках *варнашрамы* (*брахманы*, *вайшьи*, *кшатрии* и *шудры*). В древности были только две категории людей, один из них *парамахамса* — люди, полностью посвященные и преданные духовной жизни, другая категория — *хамса*, их религиозная жизнь была не настолько интенсивной, но так или иначе они вели духовную жизнь, *хамса*.
 

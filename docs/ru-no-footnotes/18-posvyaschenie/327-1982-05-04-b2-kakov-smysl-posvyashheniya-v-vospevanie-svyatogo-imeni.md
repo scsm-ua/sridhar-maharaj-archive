@@ -1,5 +1,14 @@
 ---
 slug: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni
+record_id: 1982.05.04.B2
+title: Каков смысл посвящения в воспевание Святого Имени?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3618116
+  duration: 00:03:30
+  mp3: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3
+date: 1982-05-04
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (3 мин. 29 сек., 3,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 327. 1982.05.04.B2. Каков смысл посвящения в воспевание Святого Имени?
+  index: "327"
+  filename: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni.md
 ---
-
-# 327. 1982.05.04.B2. Каков смысл посвящения в воспевание Святого Имени?
 
 **Госвами Махарадж:** Махарадж!
 

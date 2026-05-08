@@ -1,5 +1,14 @@
 ---
 slug: 554-1983-01-05-c3-osnovnoe-razlichie-bozhestvennyh-i-demonichnyh-natur
+record_id: 1983.01.05.C3
+title: Основное различие божественных и демоничных натур
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3502468
+  duration: 00:05:55
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
+date: 1983-01-05
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
     title: аудиозапись в MP3 (5 мин. 54 сек., 3,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 554. 1983.01.05.C3. Основное различие божественных и демоничных натур
+  index: "554"
+  filename: 554-1983-01-05-c3-osnovnoe-razlichie-bozhestvennyh-i-demonichnyh-natur.md
 ---
-
-# 554. 1983.01.05.C3. Основное различие божественных и демоничных натур
 
 **Шрила Шридхар Махарадж:** …в целом таково различие демонов и богов. Демоны могут быть более моральными, высоконравственными. Но боги склонны полагаться на Высшее начало, Высший авторитет. Ты понимаешь, нет?
 

@@ -1,5 +1,14 @@
 ---
 slug: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty
+record_id: 1982.03.31.A2
+title: Практика бхакти-йоги — 9 видов преданного служения и другие аспекты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24108240
+  duration: 00:23:39
+  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.mp3
+date: 1982-03-31
 category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
@@ -8,7 +17,6 @@ tags:
     slug: 1982-03
   - title: Бхакти-йога
     slug: bhakti-joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.mp3
     title: аудиозапись в MP3 (23 мин. 38 сек., 23,0 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (34 КБ)
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.pdf
     title: транскрипцию в PDF (176 КБ)
+legacy:
+  title: 786. 1982.03.31.A2. Практика бхакти-йоги — 9 видов преданного служения и
+    другие аспекты
+  index: "786"
+  filename: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
 ---
-
-# 786. 1982.03.31.A2. Практика бхакти-йоги — 9 видов преданного служения и другие аспекты
 
 **Шрила Шридхар Махарадж:** Есть ли у вас вопросы? У кого-то есть вопросы?
 

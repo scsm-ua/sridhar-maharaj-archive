@@ -1,5 +1,14 @@
 ---
 slug: 5-sgovor-nityanandy-prabhu-s-pastuhami
+record_id: 1982.01.17.A1
+title: Сговор Нитьянанды Прабху с пастухами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3912422
+  duration: 00:07:51
+  mp3: /wp-content/uploads/2012/08/005_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
+date: 1982-01-17
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +19,14 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/005_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
     title: Скачать аудиозапись в mp3 (7 мин 51 сек, размер 3 Мб)
+legacy:
+  title: 5. Сговор Нитьянанды Прабху с пастухами. 1982.01.17.A1
+  index: "5"
+  filename: 5-sgovor-nityanandy-prabhu-s-pastuhami.md
 ---
-
-# 5. Сговор Нитьянанды Прабху с пастухами. 1982.01.17.A1
 
 *#00:00:00#*
 

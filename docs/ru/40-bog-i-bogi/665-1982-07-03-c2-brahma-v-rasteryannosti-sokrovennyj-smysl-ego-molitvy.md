@@ -1,5 +1,14 @@
 ---
 slug: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy
+record_id: 1982.07.03.C2
+title: Брахма в растерянности. Сокровенный смысл его молитвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17000845
+  duration: 00:16:54
+  mp3: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3
+date: 1982-07-03
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
@@ -14,7 +23,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.1
     slug: shrimad-bhagavatam-10-14-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3
     title: аудиозапись в MP3 (16 мин. 54 сек., 16,3 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 665. 1982.07.03.C2. Брахма в растерянности. Сокровенный смысл его молитвы
+  index: "665"
+  filename: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy.md
 ---
-
-# 665. 1982.07.03.C2. Брахма в растерянности. Сокровенный смысл его молитвы
 
 По мере нашего приближения мы будем очарованы, увидев, познав Его пути, чудесный шаг. *Адбхута-крама*, *Урукрама* — Его шаги чудесны, немыслимы, неведомы и непостижимы. Шаги. Чудо.
 

@@ -1,5 +1,13 @@
 ---
 slug: 8-svoim-tantsem-mahaprabhu-razdaet-bozhe
+title: Своим танцем Махапрабху раздает божественную любовь. Мгновения прекрасной
+  реальности, часть 2.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2297736
+  duration: 00:06:30
+  mp3: /wp-content/uploads/2012/08/008_MgnoveniyaPR_2.6_SridharMj_Svoim_tancem_Mahaprabhu_razdayet_bojestvennuyu_lyubov.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -12,13 +20,15 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Према-дхама-дева-стотрам
     slug: prema-dhama-deva-stotram
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/008_MgnoveniyaPR_2.6_SridharMj_Svoim_tancem_Mahaprabhu_razdayet_bojestvennuyu_lyubov.mp3
     title: Скачать аудиозапись в mp3 (6 мин 30 сек, размер 2 Мб)
+legacy:
+  title: 8. Своим танцем Махапрабху раздает божественную любовь. Мгновения
+    прекрасной реальности, часть 2.6
+  index: "8"
+  filename: 8-svoim-tantsem-mahaprabhu-razdaet-bozhe.md
 ---
-
-# 8. Своим танцем Махапрабху раздает божественную любовь. Мгновения прекрасной реальности, часть 2.6
 
 Он воспевает Своё собственное Имя и танцует. Произносит различные звуки. И некое впечатление из них приходит к Нему и тогда Он танцует, впечатлённый этим, впечатлённый звуком Своего собственного Имени Он танцует. Причина и следствие циклическим образом. Движение по кругу. [Санскрит].
 

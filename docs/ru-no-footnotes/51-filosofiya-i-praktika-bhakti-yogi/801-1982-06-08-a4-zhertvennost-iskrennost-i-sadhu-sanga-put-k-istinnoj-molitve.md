@@ -1,5 +1,14 @@
 ---
 slug: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve
+record_id: 1982.06.08.A4
+title: Жертвенность, искренность и садху-санга – путь к истинной молитве
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3092188
+  duration: 00:02:17
+  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3
+date: 1982-06-08
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Бхакти-йога
     slug: bhakti-joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3
     title: аудиозапись в MP3 (2 мин. 17 сек., 3,0 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 801. 1982.06.08.A4. Жертвенность, искренность и садху-санга – путь к
+    истинной молитве
+  index: "801"
+  filename: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve.md
 ---
-
-# 801. 1982.06.08.A4. Жертвенность, искренность и садху-санга – путь к истинной молитве
 
 **Преданный:** Махарадж, как молиться?
 

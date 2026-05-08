@@ -1,5 +1,14 @@
 ---
 slug: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy
+record_id: 1982.02.17.A1
+title: «Взор любящего Хранителя» — главная мантра Ригведы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9040048
+  duration: 00:16:16
+  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
+date: 1982-02-17
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
@@ -14,7 +23,6 @@ tags:
     slug: taittirija-upanishad
   - title: Таиттирийа-упанишад 2.4.1
     slug: taittirija-upanishad-2-4-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
     title: аудиозапись в MP3 (16 мин. 15 сек., 8,7 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (155 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 406. 1982.02.17.A1. «Взор любящего Хранителя» — главная мантра Ригведы
+  index: "406"
+  filename: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy.md
 ---
-
-# 406. 1982.02.17.A1. «Взор любящего Хранителя» — главная мантра Ригведы
 
 Ригведа-мантра гласит:
 

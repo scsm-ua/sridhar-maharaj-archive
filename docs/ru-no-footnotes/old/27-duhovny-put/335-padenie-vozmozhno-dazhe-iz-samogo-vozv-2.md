@@ -1,5 +1,13 @@
 ---
 slug: 335-padenie-vozmozhno-dazhe-iz-samogo-vozv-2
+title: Падение возможно даже из самого возвышенного положения. Мгновения
+  прекрасной реальности, часть 8.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4768712
+  duration: 00:18:21
+  mp3: /wp-content/uploads/2012/08/335_MgnoveniyaPR_8.6_SridharMj_Padeniye_vozmojno_daje_iz_samogo_vozvyshennogo_polojeniya1.mp3
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
@@ -12,13 +20,15 @@ tags:
     slug: svarupa-siddhi
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/335_MgnoveniyaPR_8.6_SridharMj_Padeniye_vozmojno_daje_iz_samogo_vozvyshennogo_polojeniya1.mp3
     title: Скачать аудиозапись в mp3 (18 мин 21 сек, размер 4 Мб)
+legacy:
+  title: 335. Падение возможно даже из самого возвышенного положения. Мгновения
+    прекрасной реальности, часть 8.6
+  index: "335"
+  filename: 335-padenie-vozmozhno-dazhe-iz-samogo-vozv-2.md
 ---
-
-# 335. Падение возможно даже из самого возвышенного положения. Мгновения прекрасной реальности, часть 8.6
 
 **Преданный:** Махарадж, нам говорят, что Бхарат Махарадж был привязан к олененку. И он упал из стадии бхава-бхакти. В силу привязанности к олененку он утерял свое положение, он утратил бхава-бхакти. Он имел бхава-бхакти, и он упал.
 

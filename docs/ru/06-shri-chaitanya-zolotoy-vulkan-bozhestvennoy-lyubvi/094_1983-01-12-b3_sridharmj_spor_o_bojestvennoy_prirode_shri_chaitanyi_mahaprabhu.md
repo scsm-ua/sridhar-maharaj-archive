@@ -1,5 +1,14 @@
 ---
 slug: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu
+record_id: 1983.01.12.B3
+title: Спор о божественной природе Шри Чайтаньи Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4841594
+  duration: 00:08:16
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
+date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
     title: аудиозапись в MP3 (8 мин. 15 сек., 4.6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 094. 1983.01.12.B3 Спор о божественной природе Шри Чайтаньи Махапрабху
+  index: "094"
+  filename: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu.md
 ---
-
-# 094. 1983.01.12.B3 Спор о божественной природе Шри Чайтаньи Махапрабху
 
 **Преданный:** Когда я был во Вриндаване, Госвами храма Радха-Рамана сказал, что когда ваш Гуру Махарадж прибыл во Вриндаван, он вызвал там своими речами конфликт, поскольку проповедовал, что Шри Чайтанья Махапрабху — Бхагаван. И он сказал, что в Бенгалии разгорелся большой диспут в связи с идеей, что Махапрабху — Бог. В свое время в Бенгалии шли бурные диспуты. Не могли бы вы рассказать об этом?
 

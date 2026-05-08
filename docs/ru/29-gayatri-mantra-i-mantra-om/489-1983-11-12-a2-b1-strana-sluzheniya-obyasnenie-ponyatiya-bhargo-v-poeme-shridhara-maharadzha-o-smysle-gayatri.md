@@ -1,5 +1,15 @@
 ---
 slug: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri
+record_id: 1983.11.12.A2.B1
+title: Страна служения. Объяснение понятия «бхарго» в поэме Шридхара Махараджа о
+  смысле Гаятри
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11874158
+  duration: 00:11:24
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.mp3
+date: 1983-11-12
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -8,7 +18,6 @@ tags:
     slug: 1983-11
   - title: Гаятри-мантра
     slug: gayatri-mantra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.mp3
     title: аудиозапись в MP3 (11 мин. 23 сек., 11,4 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 489. 1983.11.12.A2.B1. Страна служения. Объяснение понятия «бхарго» в
+    поэме Шридхара Махараджа о смысле Гаятри
+  index: "489"
+  filename: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri.md
 ---
-
-# 489. 1983.11.12.A2.B1. Страна служения. Объяснение понятия «бхарго» в поэме Шридхара Махараджа о смысле Гаятри
 
 **Преданный:** Махарадж, эта строка: *бхарго ваи вришабхануджа-атма-вибхава-эка-арадхана-шри-пурам*.
 

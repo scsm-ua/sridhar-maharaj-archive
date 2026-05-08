@@ -1,12 +1,20 @@
 ---
 slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
+record_id: 1982.06.19.B2
+title: Вайшнавы никогда не считают себя освободившимися от апарадх и анартх
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12786531
+  duration: 00:12:28
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3
+date: 1982-06-19
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3
     title: аудиозапись в MP3 (12 мин. 27 сек., 12,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (145 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 719. 1982.06.19.B2. Вайшнавы никогда не считают себя освободившимися от
+    апарадх и анартх
+  index: "719"
+  filename: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth.md
 ---
-
-# 719. 1982.06.19.B2. Вайшнавы никогда не считают себя освободившимися от апарадх и анартх
 
 **Преданный:** Махарадж, а является ли оскорблением отсутствие достаточной любви к Божествам или отсутствие полноты уважения к Божествам? Есть ли это оскорбление?
 

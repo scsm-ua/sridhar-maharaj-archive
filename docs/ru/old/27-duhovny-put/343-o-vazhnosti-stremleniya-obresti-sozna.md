@@ -1,18 +1,28 @@
 ---
 slug: 343-o-vazhnosti-stremleniya-obresti-sozna
+record_id: 1984.01.15.B5
+title: О важности стремления обрести Сознание Кришны.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1850560
+  duration: 00:03:15
+  mp3: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
+date: 1984-01-15
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
   - title: "1984.01"
     slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
     title: Скачать аудиозапись в mp3 (3 мин 15 сек, размер 1 Мб)
+legacy:
+  title: 343. О важности стремления обрести Сознание Кришны. 1984.01.15.B5
+  index: "343"
+  filename: 343-o-vazhnosti-stremleniya-obresti-sozna.md
 ---
-
-# 343. О важности стремления обрести Сознание Кришны. 1984.01.15.B5
 
 **Ученик:** Путешествие к Кришне, но он останавливается – это вызвано его прошлой кармой? Остановка, прекращение движения. Или оскорблениями, оскорблениями на пути преданности?
 

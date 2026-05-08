@@ -1,5 +1,14 @@
 ---
 slug: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya
+record_id: 1982.02.27.B
+title: Драгоценный нектар наставлений учителя
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4775104
+  duration: 00:09:21
+  mp3: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3
+date: 1982-02-27
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -10,7 +19,6 @@ tags:
     slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3
     title: аудиозапись в MP3 (9 мин. 20 сек., 4,6 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 278. 1982.02.27.B. Драгоценный нектар наставлений учителя
+  index: "278"
+  filename: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya.md
 ---
-
-# 278. 1982.02.27.B. Драгоценный нектар наставлений учителя
 
 *«Онтология Прекрасной Реальности», (часть 2.7)*
 

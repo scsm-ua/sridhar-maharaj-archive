@@ -1,5 +1,14 @@
 ---
 slug: 108-podlinnaya-blizost-k-guru-1981-03-03-b5
+record_id: 1981.03.03.B5
+title: Подлинная близость к гуру.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2944753
+  duration: 00:03:40
+  mp3: /wp-content/uploads/2012/08/108_1981.03.03.B5_SridharMj_Podlinnaya-blizost-k_guru.mp3
+date: 1981-03-03
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -12,13 +21,14 @@ tags:
     slug: kachestva-uchenika
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/108_1981.03.03.B5_SridharMj_Podlinnaya-blizost-k_guru.mp3
     title: Скачать аудиозапись в mp3 (3 мин 40 сек, размер 2 Мб)
+legacy:
+  title: 108. Подлинная близость к гуру. 1981.03.03.B5
+  index: "108"
+  filename: 108-podlinnaya-blizost-k-guru-1981-03-03-b5.md
 ---
-
-# 108. Подлинная близость к гуру. 1981.03.03.B5
 
 **Госвами Махарадж:** Вы однажды сказали, что махабхагавата-гуру является вечным спутником своего гуру, и временами нашего Прабхупада критиковали за то, что он не посещает *самадхи* Бхактисиддханты, на что Прабхупад отвечал: «Он, Шрила Сарасвати Тхакур, сидит рядом со мной каждую секунду».
 

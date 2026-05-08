@@ -1,5 +1,14 @@
 ---
 slug: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire
+record_id: 1983.01.04.A3
+title: История о собаке, предавшейся Махараджу Юдхиштхире
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2241471
+  duration: 00:03:04
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
+date: 1983-01-04
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
     title: аудиозапись в MP3 (3 мин. 03 сек., 2,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 832. 1983.01.04.A3. История о собаке, предавшейся Махараджу Юдхиштхире
+  index: "832"
+  filename: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire.md
 ---
-
-# 832. 1983.01.04.A3. История о собаке, предавшейся Махараджу Юдхиштхире
 
 **Преданный:** У меня есть вопрос о привязанности. Бхарата Махарадж был привязан к олененку; Юдхиштхира Махарадж был привязан к собаке…
 

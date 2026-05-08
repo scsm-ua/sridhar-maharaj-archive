@@ -1,5 +1,14 @@
 ---
 slug: 552-1981-03-04-b3-kto-takoj-shudra-obyasnenie-epizodov-ramayany
+record_id: 1981.03.04.B3
+title: Кто такой шудра? Объяснение эпизодов Рамаяны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6229473
+  duration: 00:11:35
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
+date: 1981-03-04
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
     title: аудиозапись в MP3 (11 мин. 35 сек., 6,0 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 552. 1981.03.04.B3. Кто такой шудра? Объяснение эпизодов Рамаяны
+  index: "552"
+  filename: 552-1981-03-04-b3-kto-takoj-shudra-obyasnenie-epizodov-ramayany.md
 ---
-
-# 552. 1981.03.04.B3. Кто такой шудра? Объяснение эпизодов Рамаяны
 
 **Госвами Махарадж:** Махарадж, есть вопрос о том, как духовный учитель принимает карму ученика, поскольку вначале — посвящение в Харинаму, на этой стадии он принимает карму. Затем мантра, *дикша*…
 

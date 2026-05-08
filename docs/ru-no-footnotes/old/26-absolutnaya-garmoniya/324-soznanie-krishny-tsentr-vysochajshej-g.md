@@ -1,18 +1,26 @@
 ---
 slug: 324-soznanie-krishny-tsentr-vysochajshej-g
+title: Сознание Кришны – центр высочайшей гармонии.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15342946
+  duration: 00:26:50
+  mp3: /wp-content/uploads/2012/08/324_2012.07.23.1_SridharMj_Soznanie_Krishny–сentr_vysochayshey_garmonii.mp3
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/324_2012.07.23.1_SridharMj_Soznanie_Krishny–сentr_vysochayshey_garmonii.mp3
     title: Скачать аудиозапись в mp3 (26 мин 50 сек, размер 15 Мб)
+legacy:
+  title: 324. Сознание Кришны – центр высочайшей гармонии.
+  index: "324"
+  filename: 324-soznanie-krishny-tsentr-vysochajshej-g.md
 ---
-
-# 324. Сознание Кришны – центр высочайшей гармонии.
 
 Удовлетворённость в высочайшей степени. Он столь добр ко мне, я не изгнан из Его сердца. Я изгнан внешне лишь, из соображений политики, управления, но, в действительности, я не изгнан из Его сердца.
 

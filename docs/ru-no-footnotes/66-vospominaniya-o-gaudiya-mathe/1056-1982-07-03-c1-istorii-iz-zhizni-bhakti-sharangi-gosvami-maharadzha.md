@@ -1,12 +1,20 @@
 ---
 slug: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha
+record_id: 1982.07.03.C1
+title: Истории из жизни Бхакти Шаранги Госвами Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13892357
+  duration: 00:13:56
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3
+date: 1982-07-03
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3
     title: аудиозапись в MP3 (13 мин. 56 сек., 13,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 1056. 1982.07.03.C1. Истории из жизни Бхакти Шаранги Госвами Махараджа
+  index: "1056"
+  filename: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha.md
 ---
-
-# 1056. 1982.07.03.C1. Истории из жизни Бхакти Шаранги Госвами Махараджа
 
 Госвами Махарадж проповедовал в Лондоне, Бхакти Шаранга Госвами Махарадж. Затем Прабхупад покинул этот мир, и возникли разногласия в среде духовных братьев, поэтому ему перестали посылать деньги. Он был хорошим сборщиком пожертвований, когда находился в Индии. Он был знаком со многими влиятельными людьми в обществе в качестве секретаря Гаудия-миссии.
 

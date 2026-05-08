@@ -1,12 +1,21 @@
 ---
 slug: 1132-1983-01-10-a6-pomogat-v-sluzhenii-missii-bozhestvu-i-rasprostranyat-uchenie-shridhara-maharadzha-dlya-blaga-lyudej
+record_id: 1983.01.10.A6
+title: Помогать в служении Миссии, Божеству и распространять учение Шридхара
+  Махараджа для блага людей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2967719
+  duration: 00:02:02
+  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1132_1983.01.10.A6_SridharMj_Pomogat_v_sluzhenii_Missii_Bozhestvu_i_rasprostranjat_uchenie_Shridhara_Maharadzha_dlja_blaga_ljudej.mp3
+date: 1983-01-10
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1132_1983.01.10.A6_SridharMj_Pomogat_v_sluzhenii_Missii_Bozhestvu_i_rasprostranjat_uchenie_Shridhara_Maharadzha_dlja_blaga_ljudej.mp3
     title: аудиозапись в MP3 (2 мин. 02 сек., 2,9 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (49 КБ)
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1132_1983.01.10.A6_SridharMj_Pomogat_v_sluzhenii_Missii_Bozhestvu_i_rasprostranjat_uchenie_Shridhara_Maharadzha_dlja_blaga_ljudej.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 1132. 1983.01.10.A6. Помогать в служении Миссии, Божеству и
+    распространять учение Шридхара Махараджа для блага людей
+  index: "1132"
+  filename: 1132-1983-01-10-a6-pomogat-v-sluzhenii-missii-bozhestvu-i-rasprostranyat-uchenie-shridhara-maharadzha-dlya-blaga-lyudej.md
 ---
-
-# 1132. 1983.01.10.A6. Помогать в служении Миссии, Божеству и распространять учение Шридхара Махараджа для блага людей
 
 **Преданный:** Через два дня я уезжаю в Америку, в среду.
 

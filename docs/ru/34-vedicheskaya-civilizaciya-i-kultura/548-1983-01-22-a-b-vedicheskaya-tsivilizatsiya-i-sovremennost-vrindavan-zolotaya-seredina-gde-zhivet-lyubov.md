@@ -1,5 +1,15 @@
 ---
 slug: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov
+record_id: 1983.01.22.A.B
+title: Ведическая цивилизация и современность. Вриндаван — «золотая середина»,
+  где живет любовь
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16235301
+  duration: 00:32:26
+  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3
+date: 1983-01-22
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
@@ -12,7 +22,6 @@ tags:
     slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3
     title: аудиозапись в MP3 (32 мин. 26 сек., 15,5 МБ)
@@ -20,9 +29,12 @@ links:
     title: транскрипцию в RTF (217 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 548. 1983.01.22.A.B. Ведическая цивилизация и современность. Вриндаван —
+    «золотая середина», где живет любовь
+  index: "548"
+  filename: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov.md
 ---
-
-# 548. 1983.01.22.A.B. Ведическая цивилизация и современность. Вриндаван — «золотая середина», где живет любовь
 
 Внутренняя потенция, высшая потенция Голоки, Вайкунтхи. Они [жители духовного мира] черпают вдохновение в этом потоке и используют его с целью служения Центру. *Йога-майя* (или *Сварупа-шакти*) — ее смысл в этом, они черпают вдохновение в ней. А здесь источником вдохновения являются различные измерения, уровни духа наслаждения. В мире преданности есть также измерения: Вайкунтха, Голока, различные *расы* и вдохновение, соответственно которому обитатели тех измерений поступают, действуют.
 

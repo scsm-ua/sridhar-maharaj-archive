@@ -1,5 +1,14 @@
 ---
 slug: 246-kratkoe-obyasnenie-proishozhdeniya-du
+record_id: 1982.01.09.A2
+title: Краткое объяснение происхождения души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5286639
+  duration: 00:06:38
+  mp3: /wp-content/uploads/2012/08/246_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
+date: 1982-01-09
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/246_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
     title: Скачать аудиозапись в mp3 (6 мин 38 сек, размер 5 Мб)
+legacy:
+  title: 246. Краткое объяснение происхождения души. 1982.01.09.A2
+  index: "246"
+  filename: 246-kratkoe-obyasnenie-proishozhdeniya-du.md
 ---
-
-# 246. Краткое объяснение происхождения души. 1982.01.09.A2
 
 **Ученик:** Ваш вопрос в том, как мы попали в материальный мир? (переспрашивает Акшаянанда Махарадж — Шрипад Сагар Махарадж)
 

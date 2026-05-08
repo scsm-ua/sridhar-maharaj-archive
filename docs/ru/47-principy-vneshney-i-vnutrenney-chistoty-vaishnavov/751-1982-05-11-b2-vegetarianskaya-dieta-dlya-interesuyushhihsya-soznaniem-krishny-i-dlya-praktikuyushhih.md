@@ -1,5 +1,14 @@
 ---
 slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
+record_id: 1982.05.11.B2
+title: Вегетарианская диета для интересующихся Сознанием Кришны и для практикующих
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9819502
+  duration: 00:09:05
+  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3
+date: 1982-05-11
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita-7-19
   - title: Бхагавад-гита 3.13
     slug: bhagavad-gita-3-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3
     title: аудиозапись в MP3 (9 мин. 05 сек., 9,4 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (104 КБ)
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 751. 1982.05.11.B2. Вегетарианская диета для интересующихся Сознанием
+    Кришны и для практикующих
+  index: "751"
+  filename: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih.md
 ---
-
-# 751. 1982.05.11.B2. Вегетарианская диета для интересующихся Сознанием Кришны и для практикующих
 
 Качество и количество. По мере возрастания количества, качество уменьшается. Они прямо пропорциональны, качество и количество. Этот факт мы не должны забывать. Если мы хотим иметь дело с явлениями высочайшего качества, то мы должны быть удовлетворены меньшим количеством. А если же мы хотим большего количества, больших масштабов, тогда неизбежным образом качеством придется пожертвовать.
 

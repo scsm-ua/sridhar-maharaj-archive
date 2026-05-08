@@ -1,5 +1,13 @@
 ---
 slug: 427-my-ne-ateisty-ob-izuchenii-trudov-shes-2
+title: «Мы не атеисты». Об изучении трудов шести Госвами. Онтология прекрасной
+  реальности, часть 1.7
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7032256
+  duration: 00:08:36
+  mp3: /wp-content/uploads/2012/08/427_OntologiyaPR_1.7_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami1.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -12,13 +20,15 @@ tags:
     slug: sahadzhiya
   - title: Шри-Рупа-Манджари-пада
     slug: shri-rupa-mandzhari-pada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/427_OntologiyaPR_1.7_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami1.mp3
     title: Скачать аудиозапись в mp3 (8 мин 36 сек, размер 7 Мб)
+legacy:
+  title: 427. «Мы не атеисты». Об изучении трудов шести Госвами. Онтология
+    прекрасной реальности, часть 1.7
+  index: "427"
+  filename: 427-my-ne-ateisty-ob-izuchenii-trudov-shes-2.md
 ---
-
-# 427. «Мы не атеисты». Об изучении трудов шести Госвами. Онтология прекрасной реальности, часть 1.7
 
 **Ученик:** *Если Шрила Бхакти Сиданта Сарасвати Тхакур* не одобрял чтение его учениками такой книгой как, *Уджала Ниломани* в таком случае, для кого эта книга написана?
 

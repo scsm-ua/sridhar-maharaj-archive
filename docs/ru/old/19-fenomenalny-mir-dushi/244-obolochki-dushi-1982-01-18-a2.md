@@ -1,5 +1,14 @@
 ---
 slug: 244-obolochki-dushi-1982-01-18-a2
+record_id: 1982.01.18.A2
+title: Оболочки души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9397269
+  duration: 00:15:11
+  mp3: /wp-content/uploads/2012/08/244_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
+date: 1982-01-18
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/244_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
     title: Скачать аудиозапись в mp3 (15 мин 11 сек, размер 9 Мб)
+legacy:
+  title: 244. Оболочки души. 1982.01.18.A2
+  index: "244"
+  filename: 244-obolochki-dushi-1982-01-18-a2.md
 ---
-
-# 244. Оболочки души. 1982.01.18.A2
 
 **Ученик:** В Бхагавад-Гите Кришна говорит в стихе:\
 *«траигунйа-вишайа веда, нистраигунйо бхаварджуна»*\

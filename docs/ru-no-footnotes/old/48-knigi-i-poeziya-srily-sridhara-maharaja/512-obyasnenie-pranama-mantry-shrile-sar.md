@@ -1,5 +1,14 @@
 ---
 slug: 512-obyasnenie-pranama-mantry-shrile-sar
+record_id: 1983.02.20.A1
+title: Объяснение пранама-мантры Шриле Сарасвати Тхакуру.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4345355
+  duration: 00:08:04
+  mp3: /wp-content/uploads/2012/08/512_1983.02.20.A1_SridharMj_Obyasnenie_pranama-mantry_Shrile_Saraswati_Thakuru.mp3
+date: 1983-02-20
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
@@ -8,13 +17,14 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Пранама-мантра Сарасвати Тхакуру
     slug: pranama-mantra-sarasvati-thakuru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/512_1983.02.20.A1_SridharMj_Obyasnenie_pranama-mantry_Shrile_Saraswati_Thakuru.mp3
     title: Скачать аудиозапись в mp3 (8 мин 4 сек, размер 4 Мб)
+legacy:
+  title: 512. Объяснение пранама-мантры Шриле Сарасвати Тхакуру. 1983.02.20.A1
+  index: "512"
+  filename: 512-obyasnenie-pranama-mantry-shrile-sar.md
 ---
-
-# 512. Объяснение пранама-мантры Шриле Сарасвати Тхакуру. 1983.02.20.A1
 
 Я написал поэму о моем Гуру Махарадже. Она начинается так… Имя нашего Гуру Махараджа было Бхакти Сиддханта Сарасвати. Сарасвати — означает, речь, его речь, его слова. Ван, Сарасвати — означает, вани, речи, речь. Его речи — это источник, сокровищница. Сокровищница чего? Бхакти Сиддханата Сарасвати, что означает это имя? Сарасвати — означает, вани.
 

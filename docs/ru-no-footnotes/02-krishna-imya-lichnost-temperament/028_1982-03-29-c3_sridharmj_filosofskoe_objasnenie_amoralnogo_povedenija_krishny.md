@@ -1,5 +1,14 @@
 ---
 slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
+record_id: 1982.03.29.C3
+title: Философское объяснение «аморального» поведения Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10190764
+  duration: 00:10:31
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.mp3
+date: 1982-03-29
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -12,7 +21,6 @@ tags:
     slug: moral
   - title: Паракийа
     slug: parakija
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.mp3
     title: аудиозапись в MP3 (10 мин. 30 сек., 9.7 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 028. 1982.03.29.C3 Философское объяснение «аморального» поведения Кришны
+  index: "028"
+  filename: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny.md
 ---
-
-# 028. 1982.03.29.C3 Философское объяснение «аморального» поведения Кришны
 
 Там кто-то что-то говорит?
 

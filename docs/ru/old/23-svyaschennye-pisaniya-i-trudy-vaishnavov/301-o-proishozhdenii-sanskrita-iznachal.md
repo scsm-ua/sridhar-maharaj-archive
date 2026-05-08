@@ -1,5 +1,14 @@
 ---
 slug: 301-o-proishozhdenii-sanskrita-iznachal
+record_id: 1981.08.20.A1
+title: О происхождении санскрита. Изначальная Реальность.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3307531
+  duration: 00:05:40
+  mp3: /wp-content/uploads/2012/08/301_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
+date: 1981-08-20
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: sanskrit
   - title: Священные писания
     slug: svyashhennye-pisaniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/301_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
     title: Скачать аудиозапись в mp3 (5 мин 40 сек, размер 3 Мб)
+legacy:
+  title: 301. О происхождении санскрита. Изначальная Реальность. 1981.08.20.A1
+  index: "301"
+  filename: 301-o-proishozhdenii-sanskrita-iznachal.md
 ---
-
-# 301. О происхождении санскрита. Изначальная Реальность. 1981.08.20.A1
 
 *#00:00:00#*
 

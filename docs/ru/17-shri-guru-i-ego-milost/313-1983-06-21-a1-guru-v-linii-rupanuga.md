@@ -1,5 +1,14 @@
 ---
 slug: 313-1983-06-21-a1-guru-v-linii-rupanuga
+record_id: 1983.06.21.A1
+title: Гуру в линии Рупануга
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13001227
+  duration: 00:24:19
+  mp3: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
+date: 1983-06-21
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1983-06
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
     title: аудиозапись в MP3 (24 мин. 18 сек., 12,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 313. 1983.06.21.A1. Гуру в линии Рупануга
+  index: "313"
+  filename: 313-1983-06-21-a1-guru-v-linii-rupanuga.md
 ---
-
-# 313. 1983.06.21.A1. Гуру в линии Рупануга
 
 **Преданный:** *Гопи*? Или это относится к Радхарани? *Твам-гопика*…
 

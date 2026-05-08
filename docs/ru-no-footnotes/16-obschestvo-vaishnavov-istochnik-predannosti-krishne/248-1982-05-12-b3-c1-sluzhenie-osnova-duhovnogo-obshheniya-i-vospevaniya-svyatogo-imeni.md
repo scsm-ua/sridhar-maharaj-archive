@@ -1,5 +1,14 @@
 ---
 slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
+record_id: 1982.05.12.B3.C1
+title: Служение – основа духовного общения и воспевания Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9628118
+  duration: 00:08:51
+  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
+date: 1982-05-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (8 мин. 51 сек., 9,2 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 248. 1982.05.12.B3.C1. Служение – основа духовного общения и воспевания
+    Святого Имени
+  index: "248"
+  filename: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
 ---
-
-# 248. 1982.05.12.B3.C1. Служение – основа духовного общения и воспевания Святого Имени
 
     сиддха̄нта балийа̄ читте на̄ кара аласа
     иха̄ ха-ите кр̣ш̣н̣е ла̄ге судр̣д̣ха ма̄наса

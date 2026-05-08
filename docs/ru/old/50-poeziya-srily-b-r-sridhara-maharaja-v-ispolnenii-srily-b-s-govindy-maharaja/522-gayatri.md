@@ -1,5 +1,13 @@
 ---
 slug: 522-gayatri
+record_id: null
+title: Гаятри
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2002577
+  duration: 00:00:44
+  mp3: /wp-content/uploads/2012/08/522_Gayatri.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)
@@ -11,13 +19,13 @@ tags:
     slug: govinda-maharadzh
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/522_Gayatri.mp3
     title: Скачать аудиозапись в mp3 (0 мин 44 сек, размер 2 Мб)
+legacy:
+  title: Гаятри
+  filename: 522-gayatri.md
 ---
-
-# Гаятри
 
 **Высшее понимание сокровенного смысла Гаятри-*****мантры*** **согласно учению «Шримад-Бхагаватам»**
 

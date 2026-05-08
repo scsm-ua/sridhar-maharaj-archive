@@ -1,5 +1,14 @@
 ---
 slug: 251-dusha-ne-sposobna-neposredstvenno-sl
+record_id: 1982.02.17.B2
+title: Душа не способна непосредственно служить Кришне.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4593246
+  duration: 00:05:11
+  mp3: /wp-content/uploads/2012/08/251_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
+date: 1982-02-17
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -8,13 +17,14 @@ tags:
     slug: 1982-02
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/251_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
     title: Скачать аудиозапись в mp3 (5 мин 11 сек, размер 4 Мб)
+legacy:
+  title: 251. Душа не способна непосредственно служить Кришне. 1982.02.17.B2
+  index: "251"
+  filename: 251-dusha-ne-sposobna-neposredstvenno-sl.md
 ---
-
-# 251. Душа не способна непосредственно служить Кришне. 1982.02.17.B2
 
 Солнце является источником бесконечно могущественного жара. Но такой бесконечно могущественный жар нам не нужен. Для нас достаточно только жара в определенной степени. Больше этого нам не нужно. Для нашей цели нет необходимости.
 

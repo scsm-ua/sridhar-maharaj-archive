@@ -1,12 +1,20 @@
 ---
 slug: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost
+record_id: 1982.07.15.A4
+title: Как соотносятся сукрити и беспричинная милость?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3812112
+  duration: 00:03:07
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.mp3
+date: 1982-07-15
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 3,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 726. 1982.07.15.A4. Как соотносятся сукрити и беспричинная милость?
+  index: "726"
+  filename: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost.md
 ---
-
-# 726. 1982.07.15.A4. Как соотносятся сукрити и беспричинная милость?
 
 **Преданный:** Махарадж, вы говорили о том, что для того, чтобы обрести Гуру, человеку нужна *сукрити.*
 

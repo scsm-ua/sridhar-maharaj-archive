@@ -1,18 +1,28 @@
 ---
 slug: 166-kultura-propovedi-1983-04-02
+record_id: 1983.04.02
+title: Культура проповеди.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19347371
+  duration: 00:35:26
+  mp3: /wp-content/uploads/2012/08/166_1983.04.02_SridharMj_Kultura_propovedi.mp3
+date: 1983-04-02
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
   - title: "1983.04"
     slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/166_1983.04.02_SridharMj_Kultura_propovedi.mp3
     title: Скачать аудиозапись в mp3 (35 мин 26 сек, размер 19 Мб)
+legacy:
+  title: 166. Культура проповеди. 1983.04.02
+  index: "166"
+  filename: 166-kultura-propovedi-1983-04-02.md
 ---
-
-# 166. Культура проповеди. 1983.04.02
 
 *#00:00:00#*
 

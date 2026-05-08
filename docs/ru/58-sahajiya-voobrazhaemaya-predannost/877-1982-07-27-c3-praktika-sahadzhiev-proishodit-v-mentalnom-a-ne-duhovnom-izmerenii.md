@@ -1,5 +1,14 @@
 ---
 slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
+record_id: 1982.07.27.C3
+title: Практика сахаджиев происходит в ментальном, а не духовном измерении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10727184
+  duration: 00:08:54
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3
+date: 1982-07-27
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
@@ -14,7 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
     slug: shri-chajtanya-charitamrita-madhya-lila-8-59
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 10,9 МБ)
@@ -22,9 +30,12 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 877. 1982.07.27.C3. Практика сахаджиев происходит в ментальном, а не
+    духовном измерении
+  index: "877"
+  filename: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii.md
 ---
-
-# 877. 1982.07.27.C3. Практика сахаджиев происходит в ментальном, а не духовном измерении
 
 **Преданный:** У одного из членов этой группы есть проблемы. Он получил посвящение от Кришнадаса Бабаджи из Радха-кунды.
 

@@ -1,5 +1,14 @@
 ---
 slug: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava
+record_id: 1983.02.20.A3
+title: Значение триданды для гаудия-вайшнава
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6496265
+  duration: 00:11:20
+  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3
+date: 1983-02-20
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
@@ -16,7 +25,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.57
     slug: shrimad-bhagavatam-11-23-57
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3
     title: аудиозапись в MP3 (11 мин. 20 сек., 6,4 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 401. 1983.02.20.A3. Значение триданды для гаудия-вайшнава
+  index: "401"
+  filename: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava.md
 ---
-
-# 401. 1983.02.20.A3. Значение триданды для гаудия-вайшнава
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Нитай-Гаура Харибол.
 

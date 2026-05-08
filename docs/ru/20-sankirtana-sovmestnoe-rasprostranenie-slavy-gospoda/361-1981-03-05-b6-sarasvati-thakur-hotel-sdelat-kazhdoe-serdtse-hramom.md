@@ -1,5 +1,14 @@
 ---
 slug: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom
+record_id: 1981.03.05.B6
+title: Сарасвати Тхакур хотел сделать каждое сердце храмом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3657404
+  duration: 00:07:11
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
+date: 1981-03-05
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
     title: аудиозапись в MP3 (7 мин. 11 сек., 3,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 361. 1981.03.05.B6. Сарасвати Тхакур хотел сделать каждое сердце храмом
+  index: "361"
+  filename: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom.md
 ---
-
-# 361. 1981.03.05.B6. Сарасвати Тхакур хотел сделать каждое сердце храмом
 
 **Преданный:** Удивительно то, что Прабхупада [Бхактиведанта Свами] написал столь великое множество книг.
 

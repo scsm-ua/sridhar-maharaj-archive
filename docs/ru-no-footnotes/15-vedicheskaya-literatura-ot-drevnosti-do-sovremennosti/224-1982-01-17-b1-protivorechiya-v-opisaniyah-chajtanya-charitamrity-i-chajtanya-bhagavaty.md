@@ -1,12 +1,20 @@
 ---
 slug: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty
+record_id: 1982.01.17.B1
+title: Противоречия в описаниях «Чайтанья-Чаритамриты» и «Чайтанья-Бхагаваты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7503381
+  duration: 00:14:14
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
+date: 1982-01-17
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
     title: аудиозапись в MP3 (14 мин. 03 сек., 7,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 224. 1982.01.17.B1. Противоречия в описаниях «Чайтанья-Чаритамриты» и
+    «Чайтанья-Бхагаваты»
+  index: "224"
+  filename: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty.md
 ---
-
-# 224. 1982.01.17.B1. Противоречия в описаниях «Чайтанья-Чаритамриты» и «Чайтанья-Бхагаваты»
 
 На следующий день (это будет завтра утром) Шачидеви пришла в Шантипур. На протяжении десяти дней Махапрабху жил там, чем удовлетворил Свою мать и остальных друзей. Затем Он отправился в Пури.
 

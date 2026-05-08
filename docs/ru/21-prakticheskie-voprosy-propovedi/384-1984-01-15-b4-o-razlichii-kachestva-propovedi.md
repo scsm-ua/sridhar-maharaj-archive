@@ -1,5 +1,14 @@
 ---
 slug: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi
+record_id: 1984.01.15.B4
+title: О различии качества проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1452016
+  duration: 00:01:16
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
+date: 1984-01-15
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1984-01
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
     title: аудиозапись в MP3 (1 мин. 15 сек., 1,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (37 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.pdf
     title: транскрипцию в PDF (80 КБ)
+legacy:
+  title: 384. 1984.01.15.B4. О различии качества проповеди
+  index: "384"
+  filename: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi.md
 ---
-
-# 384. 1984.01.15.B4. О различии качества проповеди
 
 **Преданный:** Махарадж, когда преданный пытается проповедовать, скажем, на Западе или в любой опасной ситуации, то в этом случае Махапрабху защищает его в большей степени?
 

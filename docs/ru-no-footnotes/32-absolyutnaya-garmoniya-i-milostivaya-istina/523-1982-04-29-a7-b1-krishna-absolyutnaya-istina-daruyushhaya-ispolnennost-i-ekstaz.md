@@ -1,12 +1,20 @@
 ---
 slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
+record_id: 1982.04.29.A7.B1
+title: Кришна – Абсолютная Истина, дарующая исполненность и экстаз
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11584313
+  duration: 00:09:39
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3
+date: 1982-04-29
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3
     title: аудиозапись в MP3 (9 мин. 38 сек., 11,1 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 523. 1982.04.29.A7.B1. Кришна – Абсолютная Истина, дарующая исполненность
+    и экстаз
+  index: "523"
+  filename: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz.md
 ---
-
-# 523. 1982.04.29.A7.B1. Кришна – Абсолютная Истина, дарующая исполненность и экстаз
 
 Джива Госвами критиковал всех грамматистов. *Какалапа-калапа* — если отсутствует связь с Кришной, тогда *калапа* [павлиний хвост] значит *какалапа. Кака* — это ворона. Воронье карканье. [?] Единственным следствием будут раны, вред. Все связано с Кришной. Если все связано с Кришной, тогда все в порядке, это шлока «Бхагаваты».
 

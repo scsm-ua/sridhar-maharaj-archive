@@ -1,5 +1,14 @@
 ---
 slug: 033_1983-01-12-a2_sridharmj_soznanie_krishny-koncepciya_lubvi_i_krasoty
+record_id: 1983.01.12.A2
+title: Сознание Кришны — концепция любви и красоты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4262647
+  duration: 00:08:13
+  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/033_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3
+date: 1983-01-12
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
@@ -12,7 +21,6 @@ tags:
     slug: poisk-shri-krishny-prekrasnoj-realnos
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/033_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3
     title: аудиозапись в MP3 (08 мин. 12 сек., 4.1 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/033_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 033. 1983.01.12.A2 Сознание Кришны — концепция любви и красоты
+  index: "033"
+  filename: 033_1983-01-12-a2_sridharmj_soznanie_krishny-koncepciya_lubvi_i_krasoty.md
 ---
-
-# 033. 1983.01.12.A2 Сознание Кришны — концепция любви и красоты
 
 Мы можем обрести полноту нашего существа, исполненность в высочайшей степени, если узнаем о сознании Кришны, концепции Бога как Кришны. Кришна привлекает и одаривает удовлетворением. Его природа прекрасна. Он — воплощенная красота. *Сатьям*, *шивам*, *сундарам*. Реальность прекрасна, упоительна. Экстаз, красота, любовь — Он олицетворяет все эти явления, обладая такой природой. Сила также привлекает, но это поверхностное явление. Истинное влечение — это влечение любви, сердца. Мы желаем быть счастливыми. Иногда мы отвергаем силу и вместо нее ищем экстаз.
 

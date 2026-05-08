@@ -1,5 +1,14 @@
 ---
 slug: 1135-2002-08-08-ob-isklyuchitelnosti-lektsij-shrily-shridhara-maharadzha-prochitannyh-v-ego-poslednie-gody-dlya-zapadnyh-predannyh
+title: Об исключительности лекций Шрилы Шридхара Махараджа, прочитанных в его
+  последние годы для западных преданных
+author: Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5218137
+  duration: 00:07:03
+  mp3: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.mp3
+date: 2002-08-08
 category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
     Махараджа
@@ -7,7 +16,6 @@ category:
 tags:
   - title: "2002.08"
     slug: 2002-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.mp3
     title: аудиозапись в MP3 (7 мин. 02 сек., 5,0 МБ)
@@ -15,9 +23,14 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 1135. 2002.08.08. Об исключительности лекций Шрилы Шридхара Махараджа,
+    прочитанных в его последние годы для западных преданных
+  index: "1135"
+  filename: 1135-2002-08-08-ob-isklyuchitelnosti-lektsij-shrily-shridhara-maharadzha-prochitannyh-v-ego-poslednie-gody-dlya-zapadnyh-predannyh.md
 ---
 
-# 1135. 2002.08.08. Об исключительности лекций Шрилы Шридхара Махараджа, прочитанных в его последние годы для западных преданных
+(2002.08.08)
 
 *#00:03:36#*
 

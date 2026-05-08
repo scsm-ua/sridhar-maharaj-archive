@@ -1,5 +1,14 @@
 ---
 slug: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami
+record_id: 1983.03.08.A2
+title: Красота Шри Чайтаньи. Комментарии на шлоки Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19284690
+  duration: 00:37:07
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3
+date: 1983-03-08
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -10,7 +19,6 @@ tags:
     slug: mahaprabhu
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (37 мин. 7 сек., 18,4 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (185 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (271 КБ)
+legacy:
+  title: 115. 1983.03.08.A2. Красота Шри Чайтаньи. Комментарии на шлоки Рупы Госвами
+  index: "115"
+  filename: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami.md
 ---
-
-# 115. 1983.03.08.A2. Красота Шри Чайтаньи. Комментарии на шлоки Рупы Госвами
 
     томаре бхулийа, авидйа-пидайа,
     пидита расана мора…

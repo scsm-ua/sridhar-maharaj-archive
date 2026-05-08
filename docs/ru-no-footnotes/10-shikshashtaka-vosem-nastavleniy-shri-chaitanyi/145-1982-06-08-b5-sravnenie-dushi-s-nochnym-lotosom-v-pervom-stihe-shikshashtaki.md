@@ -1,5 +1,14 @@
 ---
 slug: 145-1982-06-08-b5-sravnenie-dushi-s-nochnym-lotosom-v-pervom-stihe-shikshashtaki
+record_id: 1982.06.08.B5
+title: Сравнение души с ночным лотосом в первом стихе «Шикшаштаки»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5825442
+  duration: 00:05:47
+  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.mp3
+date: 1982-06-08
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Шикшаштакам
     slug: shikshashtakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.mp3
     title: аудиозапись в MP3 (5 мин. 46 сек. 5,6 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 145. 1982.06.08.B5. Сравнение души с ночным лотосом в первом стихе
+    «Шикшаштаки»
+  index: "145"
+  filename: 145-1982-06-08-b5-sravnenie-dushi-s-nochnym-lotosom-v-pervom-stihe-shikshashtaki.md
 ---
-
-# 145. 1982.06.08.B5. Сравнение души с ночным лотосом в первом стихе «Шикшаштаки»
 
 **Шрила Шридхар Махарадж:** [Гаура-Хари, Гаура-Хари, Гаура-Хари]
 

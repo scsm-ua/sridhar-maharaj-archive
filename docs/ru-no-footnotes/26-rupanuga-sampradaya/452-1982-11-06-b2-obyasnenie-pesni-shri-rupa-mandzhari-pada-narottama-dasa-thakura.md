@@ -1,12 +1,20 @@
 ---
 slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
+record_id: 1982.11.06.B2
+title: Объяснение песни Шри Рупа-Манджари-пада Нароттама Даса Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16736402
+  duration: 00:16:48
+  mp3: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3
+date: 1982-11-06
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
 tags:
   - title: "1982.11"
     slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3
     title: аудиозапись в MP3 (16 мин. 48 сек., 16,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (26 КБ)
   - href: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 452. 1982.11.06.B2. Объяснение песни Шри Рупа-Манджари-пада Нароттама
+    Даса Тхакура
+  index: "452"
+  filename: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura.md
 ---
-
-# 452. 1982.11.06.B2. Объяснение песни Шри Рупа-Манджари-пада Нароттама Даса Тхакура
 
 Другую специфическую черту мы находим в Нароттаме Тхакуре: тот, кто был столь непоколебим в преданности своему Гуру, Локанатху Госвами, кто был готов заплатить высочайшую цену за эту связь, не был слепым последователем. Хотя мы видим, что он, отвергая Дживу Госвами, Гопала Бхатту Госвами, отдал, вручил себя Локанатху Госвами и обрел его милость, тем не менее он не был слепым последователем. Как, почему?
 

@@ -1,5 +1,14 @@
 ---
 slug: 312-temperament-vajshnava-sochetaet-smire
+record_id: 1982.01.26.A1
+title: Темперамент вайшнава сочетает смирение и решительность.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13928302
+  duration: 00:28:42
+  mp3: /wp-content/uploads/2012/08/312_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
+date: 1982-01-26
 category:
   title: (24. Смирение)
   slug: 24-smirenie
@@ -12,13 +21,14 @@ tags:
     slug: smirenie
   - title: Терпение
     slug: terpenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/312_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
     title: Скачать аудиозапись в mp3 (28 мин 42 сек, размер 13 Мб)
+legacy:
+  title: 312. Темперамент вайшнава сочетает смирение и решительность. 1982.01.26.A1
+  index: "312"
+  filename: 312-temperament-vajshnava-sochetaet-smire.md
 ---
-
-# 312. Темперамент вайшнава сочетает смирение и решительность. 1982.01.26.A1
 
 *#00:00:00#*
 

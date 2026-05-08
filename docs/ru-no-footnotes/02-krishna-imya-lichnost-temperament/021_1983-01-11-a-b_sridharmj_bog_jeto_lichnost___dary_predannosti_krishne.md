@@ -1,5 +1,14 @@
 ---
 slug: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne
+record_id: 1983.01.11.A.B
+title: Бог — это Личность. Дары преданности Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21861461
+  duration: 00:44:56
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3
+date: 1983-01-11
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -8,7 +17,6 @@ tags:
     slug: 1983-01
   - title: Майавада
     slug: majavada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3
     title: аудиозапись в MP3 (44 мин. 55 сек., 21 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (354 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 021. 1983.01.11.A.B Бог — это Личность. Дары преданности Кришне
+  index: "021"
+  filename: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne.md
 ---
-
-# 021. 1983.01.11.A.B Бог — это Личность. Дары преданности Кришне
 
 **Бог не имперсональный.**
 

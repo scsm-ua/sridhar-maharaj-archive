@@ -1,12 +1,20 @@
 ---
 slug: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi
+record_id: 1987.00.00.A2
+title: Благодарность за книгу «Золотой вулкан божественной любви»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3067936
+  duration: 00:05:20
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
+date: 1987-00-00
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1987.00"
     slug: 1987-00
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
     title: аудиозапись в MP3 (5 мин. 19 сек., 3,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (91 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 1118. 1987.00.00.A2. Благодарность за книгу «Золотой вулкан божественной
+    любви»
+  index: "1118"
+  filename: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi.md
 ---
-
-# 1118. 1987.00.00.A2. Благодарность за книгу «Золотой вулкан божественной любви»
 
 **Шрила Шридхар Махарадж:** Тарун Кришна говорил о том, что очень любит эту книгу — «Золотой Вулкан Божественной Любви». Прикосновение твоих [Шрипада Бхакти Судхира Госвами Махараджа] рук и ума возымело волшебный эффект.
 

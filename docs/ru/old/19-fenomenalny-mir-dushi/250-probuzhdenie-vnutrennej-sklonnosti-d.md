@@ -1,5 +1,14 @@
 ---
 slug: 250-probuzhdenie-vnutrennej-sklonnosti-d
+record_id: 1982.01.19.A1
+title: Пробуждение внутренней склонности души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11719450
+  duration: 00:20:02
+  mp3: /wp-content/uploads/2012/08/250_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
+date: 1982-01-19
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -14,13 +23,14 @@ tags:
     slug: dusha
   - title: Санатана Госвами
     slug: sanatana-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/250_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
     title: Скачать аудиозапись в mp3 (20 мин 2 сек, размер 11 Мб)
+legacy:
+  title: 250. Пробуждение внутренней склонности души. 1982.01.19.A1
+  index: "250"
+  filename: 250-probuzhdenie-vnutrennej-sklonnosti-d.md
 ---
-
-# 250. Пробуждение внутренней склонности души. 1982.01.19.A1
 
 *#00:00:00#*
 

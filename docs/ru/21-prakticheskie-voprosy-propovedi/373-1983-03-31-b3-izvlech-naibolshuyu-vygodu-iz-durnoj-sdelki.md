@@ -1,5 +1,14 @@
 ---
 slug: 373-1983-03-31-b3-izvlech-naibolshuyu-vygodu-iz-durnoj-sdelki
+record_id: 1983.03.31.B3
+title: Извлечь наибольшую выгоду из дурной сделки
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9310836
+  duration: 00:17:13
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
+date: 1983-03-31
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -38,7 +47,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
     title: аудиозапись в MP3 (17 мин. 13 сек., 8,9 МБ)
@@ -46,9 +54,11 @@ links:
     title: транскрипцию в RTF (165 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 373. 1983.03.31.B3. Извлечь наибольшую выгоду из дурной сделки
+  index: "373"
+  filename: 373-1983-03-31-b3-izvlech-naibolshuyu-vygodu-iz-durnoj-sdelki.md
 ---
-
-# 373. 1983.03.31.B3. Извлечь наибольшую выгоду из дурной сделки
 
 **Госвами Махарадж:** Я думаю, это очень хорошая идея — желание [независимости] среди преданных, они чувствуют в этом потребность.
 

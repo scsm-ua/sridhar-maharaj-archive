@@ -1,5 +1,14 @@
 ---
 slug: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada
+record_id: 1982.07.05.B1
+title: Поиск Шри Кришны — сам себе награда
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10522268
+  duration: 00:10:48
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
+date: 1982-07-05
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -10,7 +19,6 @@ tags:
     slug: with-english-audio
   - title: with English text
     slug: with-english-text
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
     title: аудиозапись в MP3 (10 мин 48 сек, 10 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 005. 1982.07.05.B1 Поиск Шри Кришны — сам себе награда
+  index: "005"
+  filename: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md
 ---
-
-# 005. 1982.07.05.B1 Поиск Шри Кришны — сам себе награда
 
 Обрести это или не обрести — это в Его распоряжении, поэтому ты должен быть к этому готов. Если ты хочешь, ты можешь пытаться, или ты можешь попробовать иные пути. Это явление может обнять вас или прикончить вас. Рупа Госвами говорит: подобно молнии. Есть такая птица, чатака, которая пьет исключительно дождевую воду и никогда не принимает воду с поверхности земли. Клювы этих птиц всегда устремлены ввысь, и эта птица просит, говоря: «О, вода! О, вода!» Таким образом эти птицы щебечут. Но облако может обрушить на эту птицу гром и молнию или пролить капли чистой воды.
 

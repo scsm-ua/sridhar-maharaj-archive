@@ -1,5 +1,14 @@
 ---
 slug: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji
+record_id: 1982.07.05.B3
+title: Способность дживы к адаптации в мире маха-майи и йога-майи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6688256
+  duration: 00:05:16
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.mp3
+date: 1982-07-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 6,4 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 614. 1982.07.05.B3. Способность дживы к адаптации в мире маха-майи и
+    йога-майи
+  index: "614"
+  filename: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji.md
 ---
-
-# 614. 1982.07.05.B3. Способность дживы к адаптации в мире маха-майи и йога-майи
 
 **Преданный:** Махарадж!
 

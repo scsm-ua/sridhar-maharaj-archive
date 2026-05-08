@@ -1,5 +1,14 @@
 ---
 slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
+record_id: 1981.03.10.A1
+title: Личность и откровение Шукадева Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13852106
+  duration: 00:22:51
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3
+date: 1981-03-10
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
@@ -28,7 +37,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3
     title: аудиозапись в MP3 (22 мин. 51 сек., 13,3 МБ)
@@ -36,9 +44,11 @@ links:
     title: транскрипцию в RTF (225 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 921. 1981.03.10.A1. Личность и откровение Шукадева Госвами
+  index: "921"
+  filename: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami.md
 ---
-
-# 921. 1981.03.10.A1. Личность и откровение Шукадева Госвами
 
 **Шрила Шридхар Махарадж:** Это Киртанананда, Махарадж?
 

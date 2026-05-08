@@ -1,5 +1,14 @@
 ---
 slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
+record_id: 1982.04.18.A2
+title: Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9268130
+  duration: 00:08:08
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
+date: 1982-04-18
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -30,7 +39,6 @@ tags:
     slug: shrimad-bhagavatam-1-19-10
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
     title: аудиозапись в MP3 (8 мин. 7 сек., 8,9 МБ)
@@ -38,11 +46,14 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 116. 1982.04.18.A2. Молитва Рагхупати Упадхьяи указывает на величие
+    проповеди Махапрабху
+  index: "116"
+  filename: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu.md
 ---
 
-# 116. 1982.04.18.A2. Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
-
-    кам̇ прати катхайитум ӣш́е сампрати ко ва̄ пратӣтим а̄йа̄ту
+кам̇ прати катхайитум ӣш́е сампрати ко ва̄ пратӣтим а̄йа̄ту
     го-пати-танайа̄-кун̃дже гопа-вадхӯт̣ӣ-вит̣ам̇ брахма
 [^_ftn1]
 

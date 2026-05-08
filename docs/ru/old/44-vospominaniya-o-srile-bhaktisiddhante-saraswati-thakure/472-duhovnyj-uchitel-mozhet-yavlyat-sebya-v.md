@@ -1,5 +1,13 @@
 ---
 slug: 472-duhovnyj-uchitel-mozhet-yavlyat-sebya-v
+title: Духовный учитель может являть себя в разных обликах. Мгновения прекрасной
+  реальности, часть 6.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3163552
+  duration: 00:07:49
+  mp3: /wp-content/uploads/2012/08/472_MgnoveniyaPR_6.3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -10,13 +18,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/472_MgnoveniyaPR_6.3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
     title: Скачать аудиозапись в mp3 (7 мин 49 сек, размер 3 Мб)
+legacy:
+  title: 472. Духовный учитель может являть себя в разных обликах. Мгновения
+    прекрасной реальности, часть 6.3
+  index: "472"
+  filename: 472-duhovnyj-uchitel-mozhet-yavlyat-sebya-v.md
 ---
-
-# 472. Духовный учитель может являть себя в разных обликах. Мгновения прекрасной реальности, часть 6.3
 
 **Ученик:** Махарадж, в отсутствие духовного учителя, как человек поддерживает общение?
 

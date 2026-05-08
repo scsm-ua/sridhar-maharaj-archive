@@ -1,5 +1,14 @@
 ---
 slug: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya
+record_id: 1982.05.06.A6
+title: Цель дикши и огненной ягьи – укрепить веру в Святое Имя
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3939944
+  duration: 00:03:50
+  mp3: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.mp3
+date: 1982-05-06
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.mp3
     title: аудиозапись в MP3 (3 мин. 50 сек., 3,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (72 КБ)
   - href: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 328. 1982.05.06.A6. Цель дикши и огненной ягьи – укрепить веру в Святое Имя
+  index: "328"
+  filename: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya.md
 ---
-
-# 328. 1982.05.06.A6. Цель дикши и огненной ягьи – укрепить веру в Святое Имя
 
 **Преданный:** Он [Шрила Бхактиведанта Свами Прабхупада] также проводил *агни-хотру* — *ягью*, для *Харинама*. Но обычно здесь, когда дают людям *Харинам*, то огненная *ягья* не проводится. Лишь в случае, когда дают *Гаятри*.
 

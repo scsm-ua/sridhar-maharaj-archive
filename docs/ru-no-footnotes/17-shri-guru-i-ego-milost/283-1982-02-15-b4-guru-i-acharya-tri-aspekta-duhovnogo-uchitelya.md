@@ -1,5 +1,14 @@
 ---
 slug: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya
+record_id: 1982.02.15.B4
+title: Гуру и ачарья. Три аспекта духовного учителя
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6784082
+  duration: 00:05:41
+  mp3: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.mp3
+date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.mp3
     title: аудиозапись в MP3 (5 мин. 40 сек., 6,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (20 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 283. 1982.02.15.B4. Гуру и ачарья. Три аспекта духовного учителя
+  index: "283"
+  filename: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya.md
 ---
-
-# 283. 1982.02.15.B4. Гуру и ачарья. Три аспекта духовного учителя
 
 **Шрила Шридхар Махарадж:** Харе Кршина, Харе Кршина, Харе Кршина.
 

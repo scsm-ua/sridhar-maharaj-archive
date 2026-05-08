@@ -1,5 +1,14 @@
 ---
 slug: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura
+record_id: 1982.02.01.B
+title: Непоколебимая вера Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18487274
+  duration: 00:18:38
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
+date: 1982-02-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -38,7 +47,6 @@ tags:
     slug: bhagavad-gita-2-29
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (18 мин. 38 сек., 17,3 МБ)
@@ -46,9 +54,11 @@ links:
     title: транскрипцию в RTF (203 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (204 КБ)
+legacy:
+  title: 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
+  index: "1006"
+  filename: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
 ---
-
-# 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
 
 **Преданный:** Речь Шрилы Бхактисиддханты Сарасвати Тхакура, обращенная к *санньяси*, которые отправлялись на запад, в этой речи он говорит: «Чайтанья Матх — это проявление Божественности». Он просит распространить это явление повсюду.
 

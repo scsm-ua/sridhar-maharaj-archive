@@ -1,12 +1,18 @@
 ---
 slug: 1074-segodnya-evropa-byla-pobezhdena-aziej
+title: Сегодня Европа была побеждена Азией
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4756937
+  duration: 00:08:59
+  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.mp3
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 4,6 МБ)
@@ -14,9 +20,11 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.pdf
     title: транскрипцию в PDF (127 КБ)
+legacy:
+  title: 1074. Сегодня Европа была побеждена Азией
+  index: "1074"
+  filename: 1074-segodnya-evropa-byla-pobezhdena-aziej.md
 ---
-
-# 1074. Сегодня Европа была побеждена Азией
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
 

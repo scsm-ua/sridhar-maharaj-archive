@@ -1,5 +1,14 @@
 ---
 slug: 508-o-neobhodimosti-kommentariev-k-prem
+record_id: 1982.01.28.B2
+title: О необходимости комментариев к «Према-дхама-дева-стотрам».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2736086
+  duration: 00:05:07
+  mp3: /wp-content/uploads/2012/08/508_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
+date: 1982-01-28
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
@@ -8,13 +17,14 @@ tags:
     slug: madhava-acharya
   - title: Према-дхама-дева-стотрам
     slug: prema-dhama-deva-stotram
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/508_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
     title: Скачать аудиозапись в mp3 (5 мин 7 сек, размер 2 Мб)
+legacy:
+  title: 508. О необходимости комментариев к «Према-дхама-дева-стотрам». 1982.01.28.B2
+  index: "508"
+  filename: 508-o-neobhodimosti-kommentariev-k-prem.md
 ---
-
-# 508. О необходимости комментариев к «Према-дхама-дева-стотрам». 1982.01.28.B2
 
 Према Дхама Стотрам – учение, лила. Как учение, так и лила Чайтаньядева. Я представил их в этой книге в лаконичной, сжатой, и очень достойной форме. Достойным и сжатым, лаконичным образом в нескольких десятков стихов. Према Дхама Стотрам. Необходимы комментарии к этому.
 

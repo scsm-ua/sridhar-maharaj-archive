@@ -1,5 +1,14 @@
 ---
 slug: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa
+record_id: 1982.11.05.B1
+title: Имя Кришны пленяет сердце через слух. Чувства Радхарани в поэзии Чандидаса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7127029
+  duration: 00:07:01
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3
+date: 1982-11-05
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -18,7 +27,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3
     title: аудиозапись в MP3 (7 мин. 01 сек., 6,8 МБ)
@@ -26,9 +34,12 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 478. 1982.11.05.B1. Имя Кришны пленяет сердце через слух. Чувства
+    Радхарани в поэзии Чандидаса
+  index: "478"
+  filename: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa.md
 ---
-
-# 478. 1982.11.05.B1. Имя Кришны пленяет сердце через слух. Чувства Радхарани в поэзии Чандидаса
 
 Внутренняя реализация присутствует, и прогресс подразумевает путь жертвы, самопожертвования, не самоутверждения, самовозвеличивания. Харе Кришна, Харе Кришна.
 

@@ -1,5 +1,14 @@
 ---
 slug: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny
+record_id: 1982.05.18.E6
+title: Вкус и права дживы относительны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3988982
+  duration: 00:02:27
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.mp3
+date: 1982-05-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.mp3
     title: аудиозапись в MP3 (2 мин. 27 сек., 3,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 613. 1982.05.18.E6. Вкус и права дживы относительны
+  index: "613"
+  filename: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny.md
 ---
-
-# 613. 1982.05.18.E6. Вкус и права дживы относительны
 
 **Преданный:** Махарадж!
 

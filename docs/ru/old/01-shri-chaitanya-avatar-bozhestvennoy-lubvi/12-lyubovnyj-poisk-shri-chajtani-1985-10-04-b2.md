@@ -1,5 +1,14 @@
 ---
 slug: 12-lyubovnyj-poisk-shri-chajtani-1985-10-04-b2
+record_id: 1985.10.04.B2
+title: Любовный поиск Шри Чайтаньи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3655377
+  duration: 00:07:19
+  mp3: /wp-content/uploads/2012/08/012_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
+date: 1985-10-04
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +19,14 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/012_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
     title: Скачать аудиозапись в mp3 (7 мин 19 сек, размер 3 Мб)
+legacy:
+  title: 12. Любовный поиск Шри Чайтаньи. 1985.10.04.B2
+  index: "12"
+  filename: 12-lyubovnyj-poisk-shri-chajtani-1985-10-04-b2.md
 ---
-
-# 12. Любовный поиск Шри Чайтаньи. 1985.10.04.B2
 
 Когда Махапрабху пришел с этим нам-санкиртаном, который находится, недоступен Брахме и Шиве. Брахма, владыка этого сотворенного мира и Махадев, ищущий высшего знания, ищущий. Поиск, тотальный поиск высшего начала, это, такова природа Махадева.
 

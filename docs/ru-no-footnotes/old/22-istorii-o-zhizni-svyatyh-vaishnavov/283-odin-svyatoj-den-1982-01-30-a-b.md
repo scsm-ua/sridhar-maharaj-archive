@@ -1,5 +1,14 @@
 ---
 slug: 283-odin-svyatoj-den-1982-01-30-a-b
+record_id: 1982.01.30.A.B
+title: Один святой день.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 32771217
+  duration: 01:07:56
+  mp3: /wp-content/uploads/2012/08/283_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_1982.mp3
+date: 1982-01-30
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -22,13 +31,14 @@ tags:
     slug: sarasvati-devi
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/283_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_1982.mp3
     title: Скачать аудиозапись в mp3 (1 ч 7 мин 56 сек, размер 32 Мб)
+legacy:
+  title: 283. Один святой день. 1982.01.30.A.B
+  index: "283"
+  filename: 283-odin-svyatoj-den-1982-01-30-a-b.md
 ---
-
-# 283. Один святой день. 1982.01.30.A.B
 
 *#00:00:13#*
 

@@ -1,5 +1,14 @@
 ---
 slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
+record_id: 1983.06.09.A2
+title: Агрессия Кришны — это Его служение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5460093
+  duration: 00:11:10
+  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
+date: 1983-06-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
@@ -24,7 +33,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
     title: аудиозапись в MP3 (11 мин. 10 сек., 5.2 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 023. 1983.06.09.A2 Агрессия Кришны — это Его служение
+  index: "023"
+  filename: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie.md
 ---
-
-# 023. 1983.06.09.A2 Агрессия Кришны — это Его служение
 
 **Преданный:** О Шриле Бхактивиноде Тхакуре говорится, что до поклонения Чайтанье Махапрабху он испытывал сильную склонность к Рамачандре.
 

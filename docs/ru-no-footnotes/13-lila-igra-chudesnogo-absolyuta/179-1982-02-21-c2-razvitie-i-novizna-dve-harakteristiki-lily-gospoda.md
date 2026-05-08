@@ -1,12 +1,20 @@
 ---
 slug: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda
+record_id: 1982.02.21.C2
+title: Развитие и новизна – две характеристики лилы Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2734163
+  duration: 00:04:54
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3
+date: 1982-02-21
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3
     title: аудиозапись в MP3 (4 мин. 53 сек., 2,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (21 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_-_dve_harakteristiki_lily_Gospoda.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 179. 1982.02.21.C2. Развитие и новизна – две характеристики лилы Господа
+  index: "179"
+  filename: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda.md
 ---
-
-# 179. 1982.02.21.C2. Развитие и новизна – две характеристики лилы Господа
 
 Нечто динамичное, прогресс всегда имеет такую природу: динамизм, развитие, прогресс. *Лила*. *Нава-йована*. Вечно юный, новый. Концепция Безграничного — не есть концепция статичного безграничного, но динамичного безграничного. Безграничное Начало динамично по своей природе. Трудно принять подобное представление. В целом принять концепцию безграничного трудно, но динамичного безграничного: концепция безграничного Начала, которое не статично, но динамично!
 

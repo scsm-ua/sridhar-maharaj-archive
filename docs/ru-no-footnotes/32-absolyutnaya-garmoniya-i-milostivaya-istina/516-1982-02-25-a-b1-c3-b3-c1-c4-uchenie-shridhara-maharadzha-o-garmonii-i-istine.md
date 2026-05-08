@@ -1,12 +1,20 @@
 ---
 slug: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine
+record_id: 1982.02.25.A.B1.C3.B3.C1.C4
+title: Учение Шридхара Махараджа о гармонии и истине
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 80733153
+  duration: 01:21:41
+  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/516_1982.02.25.A-B1.C3.B3-C1.C4_SridharMj_Uchenie_Shridhara_Maharadzha_o_garmonii_i_istine.mp3
+date: 1982-02-25
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/516_1982.02.25.A-B1.C3.B3-C1.C4_SridharMj_Uchenie_Shridhara_Maharadzha_o_garmonii_i_istine.mp3
     title: аудиозапись в MP3 (1 час 21 мин. 40 сек., 77 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (73 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/516_1982.02.25.A-B1.C3.B3-C1.C4_SridharMj_Uchenie_Shridhara_Maharadzha_o_garmonii_i_istine.pdf
     title: транскрипцию в PDF (269 КБ)
+legacy:
+  title: 516. 1982.02.25.A.B1.C3.B3.C1.C4. Учение Шридхара Махараджа о гармонии и
+    истине
+  index: "516"
+  filename: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
 ---
-
-# 516. 1982.02.25.A+B1.C3.B3+C1.C4. Учение Шридхара Махараджа о гармонии и истине
 
 **Прямое и косвенное начала дополняют друг друга**
 

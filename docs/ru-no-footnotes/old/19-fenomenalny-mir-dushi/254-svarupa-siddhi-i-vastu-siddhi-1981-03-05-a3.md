@@ -1,5 +1,14 @@
 ---
 slug: 254-svarupa-siddhi-i-vastu-siddhi-1981-03-05-a3
+record_id: 1981.03.05.A3
+title: Сварупа-сиддхи и васту-сиддхи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3607280
+  duration: 00:03:08
+  mp3: /wp-content/uploads/2012/08/254_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
+date: 1981-03-05
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
@@ -14,13 +23,14 @@ tags:
     slug: krishna-lila
   - title: Сварупа-сиддхи
     slug: svarupa-siddhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/254_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
     title: Скачать аудиозапись в mp3 (3 мин 8 сек, размер 3 Мб)
+legacy:
+  title: 254. Сварупа-сиддхи и васту-сиддхи. 1981.03.05.A3
+  index: "254"
+  filename: 254-svarupa-siddhi-i-vastu-siddhi-1981-03-05-a3.md
 ---
-
-# 254. Сварупа-сиддхи и васту-сиддхи. 1981.03.05.A3
 
 **Госвами Махарадж:** Прабхупад написал одну книгу под названием «Кришна». Это его изложение Десятой Песни «Шримад-Бхагаватам», как синопсис, как совокупность описаний. И он говорит… Тот эпизод в *кришна-лиле*, когда Варуна похищает Нанду Махараджа.
 

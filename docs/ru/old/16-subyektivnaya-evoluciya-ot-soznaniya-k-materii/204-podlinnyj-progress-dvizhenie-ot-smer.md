@@ -1,5 +1,14 @@
 ---
 slug: 204-podlinnyj-progress-dvizhenie-ot-smer
+record_id: 1981.02.28.D4
+title: Подлинный прогресс — движение от смерти к бессмертию.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5626432
+  duration: 00:11:35
+  mp3: /wp-content/uploads/2012/08/204_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
+date: 1981-02-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -18,13 +27,14 @@ tags:
     slug: materialnyj-mir
   - title: Отречение
     slug: otrechenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/204_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
     title: Скачать аудиозапись в mp3 (11 мин 35 сек, размер 5 Мб)
+legacy:
+  title: 204. Подлинный прогресс — движение от смерти к бессмертию. 1981.02.28.D4
+  index: "204"
+  filename: 204-podlinnyj-progress-dvizhenie-ot-smer.md
 ---
-
-# 204. Подлинный прогресс — движение от смерти к бессмертию. 1981.02.28.D4
 
 **Преданный:** Недавно была большая научная конференция, международная научная конференция в Торонто, в этом году, в январе. Я тоже присутствовал на этой конференции. Там участвовали пять тысяч ученых со всего мира.
 

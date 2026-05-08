@@ -1,12 +1,20 @@
 ---
 slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
+record_id: 1982.07.10.A.B
+title: Высочайшее достижение в школе гаудия-вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24961670
+  duration: 00:25:36
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.mp3
+date: 1982-07-10
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.mp3
     title: аудиозапись в MP3 (25 мин. 36 сек., 23,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (263 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.pdf
     title: транскрипцию в PDF (179 КБ)
+legacy:
+  title: 461. 1982.07.10.A.B. Высочайшее достижение в школе гаудия-вайшнавов
+  index: "461"
+  filename: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov.md
 ---
-
-# 461. 1982.07.10.A.B. Высочайшее достижение в школе гаудия-вайшнавов
 
     [а̄ш́а̄-бхараир-амр̣та-синдху-майаих̣ катхан̃чит]
     ка̄ло майа̄ти гамитах̣ кила са̄мпратам̇ хи

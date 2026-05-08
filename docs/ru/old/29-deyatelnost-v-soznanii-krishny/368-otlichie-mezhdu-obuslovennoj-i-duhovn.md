@@ -1,5 +1,14 @@
 ---
 slug: 368-otlichie-mezhdu-obuslovennoj-i-duhovn
+record_id: 1981.03.03.A3.B1
+title: Отличие между обусловенной и духовной деятельностью.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3572600
+  duration: 00:07:05
+  mp3: /wp-content/uploads/2012/08/368_1981.03.03.A3.B1_SridharMj_Otlichie_mejdu_duhovnoy_i_obuslovlennoy_deyatelnostyu.mp3
+date: 1981-03-03
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
@@ -8,13 +17,14 @@ tags:
     slug: 1981-03
   - title: Харидас Тхакур
     slug: haridas-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/368_1981.03.03.A3.B1_SridharMj_Otlichie_mejdu_duhovnoy_i_obuslovlennoy_deyatelnostyu.mp3
     title: Скачать аудиозапись в mp3 (3 мин 5 сек, размер 3 Мб)
+legacy:
+  title: 368. Отличие между обусловенной и духовной деятельностью. 1981.03.03.A3.B1
+  index: "368"
+  filename: 368-otlichie-mezhdu-obuslovennoj-i-duhovn.md
 ---
-
-# 368. Отличие между обусловенной и духовной деятельностью. 1981.03.03.A3.B1
 
 **Ученик:** Хорошо, да, вопрос таков: когда мы мыслим в категориях, понятиях нашей жизни, что это значит: обусловленная деятельность?
 

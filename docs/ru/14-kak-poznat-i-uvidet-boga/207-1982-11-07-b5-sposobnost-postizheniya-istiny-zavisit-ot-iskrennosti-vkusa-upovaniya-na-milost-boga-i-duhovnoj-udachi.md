@@ -1,5 +1,15 @@
 ---
 slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
+record_id: 1982.11.07.B5
+title: Способность постижения Истины зависит от искренности, вкуса, упования на
+  милость Бога и духовной удачи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25952381
+  duration: 00:26:19
+  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
+date: 1982-11-07
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
@@ -56,7 +66,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
     title: аудиозапись в MP3 (26 мин. 18 сек., 24,8 МБ)
@@ -64,9 +73,12 @@ links:
     title: транскрипцию в RTF (336 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.pdf
     title: транскрипцию в PDF (195 КБ)
+legacy:
+  title: 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности,
+    вкуса, упования на милость Бога и духовной удачи
+  index: "207"
+  filename: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
 ---
-
-# 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности, вкуса, упования на милость Бога и духовной удачи
 
 Существуют тонкие положения, и все зависит от искренности души, которая способна знать, что есть что.
 

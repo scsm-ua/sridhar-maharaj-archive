@@ -1,18 +1,27 @@
 ---
 slug: 514-o-publikatsii-knig-shrily-shridhara-mah
+record_id: null
+title: О публикации книг Шрилы Шридхара Махараджа.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1665728
+  duration: 00:03:52
+  mp3: /wp-content/uploads/2012/08/514_2012.07.25.12_ShridharMj_O_publikacii_knig_Shrily_Sridhara_Maharaja1.mp3
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/514_2012.07.25.12_ShridharMj_O_publikacii_knig_Shrily_Sridhara_Maharaja1.mp3
     title: Скачать аудиозапись в mp3 (1 мин 52 сек, размер 1 Мб)
+legacy:
+  title: 514. О публикации книг Шрилы Шридхара Махараджа. 2012.07.25.12
+  index: "514"
+  filename: 514-o-publikatsii-knig-shrily-shridhara-mah.md
 ---
-
-# 514. О публикации книг Шрилы Шридхара Махараджа. 2012.07.25.12
 
 **Слушатель:** Махарадж, Сатья Нараян Прабху…
 

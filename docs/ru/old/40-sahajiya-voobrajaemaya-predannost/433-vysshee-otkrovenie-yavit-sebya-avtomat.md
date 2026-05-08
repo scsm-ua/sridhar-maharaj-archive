@@ -1,5 +1,13 @@
 ---
 slug: 433-vysshee-otkrovenie-yavit-sebya-avtomat
+title: Высшее откровение явит себя автоматически. Онтология прекрасной
+  реальности, часть 5.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6562048
+  duration: 00:07:37
+  mp3: /wp-content/uploads/2012/08/433_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -8,13 +16,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/433_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
     title: Скачать аудиозапись в mp3 (7 мин 37 сек, размер 6 Мб)
+legacy:
+  title: 433. Высшее откровение явит себя автоматически. Онтология прекрасной
+    реальности, часть 5.2
+  index: "433"
+  filename: 433-vysshee-otkrovenie-yavit-sebya-avtomat.md
 ---
-
-# 433. Высшее откровение явит себя автоматически. Онтология прекрасной реальности, часть 5.2
 
 Пундарик Видьянитхи, его особенность была такой – он посещал Гангу по ночам, поскольку ему не нравилось, что днём, очень многие люди купаются в Ганге и иногда плюют в Гангу и тому подобное. Оскверняют чистую воду Ганги, оскорбляя тем самым Гангу Деви. Он не в силах был терпеть это, поэтому днём не приходил на берег Ганги. Только по ночам, он обрызгивал свою голову каплями воды Ганги.
 

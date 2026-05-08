@@ -1,12 +1,20 @@
 ---
 slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
+record_id: 1982.03.16.A
+title: Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 30736236
+  duration: 00:31:13
+  mp3: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3
+date: 1982-03-16
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 29,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (247 КБ)
   - href: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).pdf
     title: транскрипцию в PDF (211 КБ)
+legacy:
+  title: 677. 1982.03.16.A. Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
+  index: "677"
+  filename: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
 ---
-
-# 677. 1982.03.16.A. Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
 
     сва-дхарма-ниш̣т̣хах̣ ш́ата-джанмабхих̣ пума̄н
     вирин̃чата̄м эти татах̣ парам̇ хи ма̄м

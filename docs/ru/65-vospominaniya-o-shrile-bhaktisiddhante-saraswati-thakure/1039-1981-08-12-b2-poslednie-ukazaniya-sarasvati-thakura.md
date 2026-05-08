@@ -1,12 +1,20 @@
 ---
 slug: 1039-1981-08-12-b2-poslednie-ukazaniya-sarasvati-thakura
+record_id: 1981.08.12.B2
+title: Последние указания Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3743765
+  duration: 00:06:33
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1039_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
+date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1039_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
     title: аудиозапись в MP3 (6 мин. 33 сек., 3,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1039_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 1039. 1981.08.12.B2. Последние указания Сарасвати Тхакура
+  index: "1039"
+  filename: 1039-1981-08-12-b2-poslednie-ukazaniya-sarasvati-thakura.md
 ---
-
-# 1039. 1981.08.12.B2. Последние указания Сарасвати Тхакура
 
 **Госвами Махарадж:** А Шрила Бхактисиддханта Сарасвати Тхакур обозначил кого-то в качестве *ачарьи* Гаудия Миссии?
 

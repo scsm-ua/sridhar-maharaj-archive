@@ -1,5 +1,14 @@
 ---
 slug: 906-1983-04-25-a4-impersonalizm-i-lichnostnaya-kontseptsiya-boga-v-hristianstve
+record_id: 1983.04.25.A4
+title: Имперсонализм и личностная концепция Бога в Христианстве
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8609468
+  duration: 00:14:24
+  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3
+date: 1983-04-25
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
@@ -20,7 +29,6 @@ tags:
     slug: bhagavad-gita-14-27
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 8,3 МБ)
@@ -28,9 +36,11 @@ links:
     title: транскрипцию в RTF (152 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 906. 1983.04.25.A4. Имперсонализм и личностная концепция Бога в Христианстве
+  index: "906"
+  filename: 906-1983-04-25-a4-impersonalizm-i-lichnostnaya-kontseptsiya-boga-v-hristianstve.md
 ---
-
-# 906. 1983.04.25.A4. Имперсонализм и личностная концепция Бога в Христианстве
 
 **Преданный:** Гуру Махарадж, многие люди читают вашу книгу «Поиск Шри Кришны…» и находят там главу, посвященную христианству. Им трудно понять эти идеи, изложенные в ней. Например, вы говорите: «Если Святой Дух занимает высшее положение в христианстве, тогда христианство — это своего рода *брахмавада-нирвишеша-*концепция, очень туманная, смутная концепция реальности». Многие преданные на Западе…
 

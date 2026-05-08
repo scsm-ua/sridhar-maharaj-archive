@@ -1,5 +1,15 @@
 ---
 slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
+record_id: 1982.07.02.A4
+title: Шрила Шридхар Махарадж делает сокровенные истины о Сознании Кришны более
+  отчетливыми
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10728804
+  duration: 00:10:07
+  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3
+date: 1982-07-02
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
@@ -20,7 +30,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3
     title: аудиозапись в MP3 (10 мин. 07 сек., 10,3 МБ)
@@ -28,9 +37,12 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 1134. 1982.07.02.A4. Шрила Шридхар Махарадж делает сокровенные истины о
+    Сознании Кришны более отчетливыми
+  index: "1134"
+  filename: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
 ---
-
-# 1134. 1982.07.02.A4. Шрила Шридхар Махарадж делает сокровенные истины о Сознании Кришны более отчетливыми
 
 **Преданный:** Мы говорили вчера с преданными, и у нас возникло сомнение, поскольку некоторые преданные в большей степени чувствуют: Шрила Прабхупада подчеркивал в обращении к нам *самбандху* и *абхидею.* И мы чувствуем, что вы открываете двери *прайоджаны.* Поэтому зашел разговор о том, что вас можно рассматривать (некоторые из нас рассматривают) как *прайоджана-ачарью.* Будет ли такое понимание правильным? Похоже, что вы демонстрируете нам высочайшее явление.
 

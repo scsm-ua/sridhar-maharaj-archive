@@ -1,5 +1,14 @@
 ---
 slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
+record_id: 1983.11.08.A.B1
+title: Описание и философский смысл Говардхан-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25409346
+  duration: 00:25:40
+  mp3: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.mp3
+date: 1983-11-08
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
@@ -22,7 +31,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.mp3
     title: аудиозапись в MP3 (25 мин. 39 сек., 24,3 МБ)
@@ -30,11 +38,13 @@ links:
     title: транскрипцию в RTF (194 КБ)
   - href: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 664. 1983.11.08.A.B1. Описание и философский смысл Говардхан-лилы
+  index: "664"
+  filename: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily.md
 ---
 
-# 664. 1983.11.08.A.B1. Описание и философский смысл Говардхан-лилы
-
-    [деве варш̣ати йаджн̃а-виплава-руш̣а̄] ваджра̄сма-варш̣а̄нилаих̣,
+[деве варш̣ати йаджн̃а-виплава-руш̣а̄] ваджра̄сма-варш̣а̄нилаих̣,
     сӣдат-па̄ла-паш́у-стрий а̄тма-ш́аран̣ам̇ др̣ш̣т̣ва̄нукампй утсмайан
     утпа̄т̣йаика-карен̣а ш́аилам абало лӣлоччхилӣндхрам̇ йатха̄,
     бибхрад гош̣т̣хам апа̄н махендра-мада-бхит прӣйа̄н на индро гава̄м

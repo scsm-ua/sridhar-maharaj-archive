@@ -1,5 +1,14 @@
 ---
 slug: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad
+record_id: 1983.01.06.A2
+title: Обсуждение сиддха-пранали — не для садхаки.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3535329
+  duration: 00:01:19
+  mp3: /wp-content/uploads/2012/08/431_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
+date: 1983-01-06
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/431_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
     title: Скачать аудиозапись в mp3 (1 мин 19 сек, размер 3 Мб)
+legacy:
+  title: 431. Обсуждение сиддха-пранали — не для садхаки. 1983.01.06.A2
+  index: "431"
+  filename: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad.md
 ---
-
-# 431. Обсуждение сиддха-пранали — не для садхаки. 1983.01.06.A2
 
 — Я читал, в Чайтанья Шикшамрите говорится о сита-пранали. И я уже задавал Вам об этом вопрос. Это необходимо, чтобы?..\
 — Прежде всего, нужно говорить «сиддха-пранали». Правильное произношение. Во-вторых, ты не должен стремиться проникнуть в это явление. Ты не сиддха.\

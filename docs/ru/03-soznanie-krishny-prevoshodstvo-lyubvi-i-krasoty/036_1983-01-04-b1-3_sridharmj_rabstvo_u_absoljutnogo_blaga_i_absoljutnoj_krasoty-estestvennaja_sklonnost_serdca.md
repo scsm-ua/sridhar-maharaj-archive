@@ -1,5 +1,15 @@
 ---
 slug: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca
+record_id: 1983.01.04.B1.3
+title: Рабство у Абсолютного Блага и Абсолютной Красоты — естественная
+  склонность сердца
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5384527
+  duration: 00:10:33
+  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3
+date: 1983-01-04
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
@@ -22,7 +32,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3
     title: аудиозапись в MP3 (10 мин. 33 сек., 5.1 МБ)
@@ -30,9 +39,12 @@ links:
     title: транскрипцию в RTF (109 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 036. 1983.01.04.B1.3 Рабство у Абсолютного Блага и Абсолютной Красоты —
+    естественная склонность сердца
+  index: "036"
+  filename: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca.md
 ---
-
-# 036. 1983.01.04.B1.3 Рабство у Абсолютного Блага и Абсолютной Красоты — естественная склонность сердца
 
 Человеку свойственно ошибаться, а Богу свойственно прощать, такова Его природа — прощать. Прощение, милосердие — природа Божественного. А я рожден для того, чтобы совершать ошибки. Слабость, уязвимость, ущербность моей свободной воли, поэтому я всегда должен искать прибежище. Я не могу уповать, полагаться на себя, я всегда хочу иметь Хранителя. Я сам ненадежен, я не могу положиться на себя, поэтому мне всегда нужен Хранитель, прибежище, *ашрая*. *Шаранагати* — об этом идет речь. Поэтому Махапрабху говорит: твоя нормальная позиция — быть рабом Абсолютного Блага. Пытайся идти в этом направлении. Ты не должен ненавидеть рабство, речь идет о рабстве Абсолютному Благу. Подразумевается именно это.
 

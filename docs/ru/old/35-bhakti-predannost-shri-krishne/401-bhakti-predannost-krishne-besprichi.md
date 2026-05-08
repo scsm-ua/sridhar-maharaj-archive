@@ -1,5 +1,13 @@
 ---
 slug: 401-bhakti-predannost-krishne-besprichi
+title: Бхакти, преданность Кришне, беспричинна и неудержима. Онтология
+  прекрасной реальности, часть 1.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3001920
+  duration: 00:06:02
+  mp3: /wp-content/uploads/2012/08/401_OntologiyaPR_1.2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
 category:
   title: (35. Бхакти - преданность Шри Кришне)
   slug: 35-bhakti-predannost-shri-krishne
@@ -8,13 +16,15 @@ tags:
     slug: bhakti
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/401_OntologiyaPR_1.2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
     title: Скачать аудиозапись в mp3 (6 мин 2 сек, размер 3 Мб)
+legacy:
+  title: 401. Бхакти, преданность Кришне, беспричинна и неудержима. Онтология
+    прекрасной реальности, часть 1.2
+  index: "401"
+  filename: 401-bhakti-predannost-krishne-besprichi.md
 ---
-
-# 401. Бхакти, преданность Кришне, беспричинна и неудержима. Онтология прекрасной реальности, часть 1.2
 
 Так или иначе, мы должны достичь сознания *Кришны* — совет таков: пытаться поддерживать сознание *Кришны* – это лекарство с большой буквы. И не существует иного лекарства, которое способно породить сознание *Кришны*, вылечить нашу болезнь и открыть сознание *Кришны* в себе. Сознание *Кришны* является причиной сознания *Кришны*.
 

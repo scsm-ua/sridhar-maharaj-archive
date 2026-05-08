@@ -1,5 +1,12 @@
 ---
 slug: 895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie
+title: Идея всеобщего равенства — опасное заблуждение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3684529
+  duration: 00:11:08
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/895_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
@@ -24,7 +31,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.6.18
     slug: shrimad-bhagavatam-5-6-18
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/895_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
     title: аудиозапись в MP3 (11 мин. 08 сек., 3,6 МБ)
@@ -32,11 +38,13 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/895_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 895. Идея всеобщего равенства — опасное заблуждение
+  index: "895"
+  filename: 895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie.md
 ---
 
-# 895. Идея всеобщего равенства — опасное заблуждение
-
-    кр̣ш̣н̣а кахе,— ‘а̄ма̄ бхадже, ма̄ге виш̣айа-сукха
+кр̣ш̣н̣а кахе,— ‘а̄ма̄ бхадже, ма̄ге виш̣айа-сукха
     амр̣та чха̄д̣и’ виш̣а ма̄ге,— эи бад̣а мӯркха
 [^_ftn1]
 

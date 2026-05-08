@@ -1,12 +1,20 @@
 ---
 slug: 660-1983-01-06-a1-razvitie-v-teisticheskom-mire
+record_id: 1983.01.06.A1
+title: Развитие в теистическом мире
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5371665
+  duration: 00:08:44
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/660_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
+date: 1983-01-06
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/660_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
     title: аудиозапись в MP3 (8 мин. 44 сек., 5,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/660_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 660. 1983.01.06.A1. Развитие в теистическом мире
+  index: "660"
+  filename: 660-1983-01-06-a1-razvitie-v-teisticheskom-mire.md
 ---
-
-# 660. 1983.01.06.A1. Развитие в теистическом мире
 
 **Преданный:** Там есть один храм. Я его посещал.
 

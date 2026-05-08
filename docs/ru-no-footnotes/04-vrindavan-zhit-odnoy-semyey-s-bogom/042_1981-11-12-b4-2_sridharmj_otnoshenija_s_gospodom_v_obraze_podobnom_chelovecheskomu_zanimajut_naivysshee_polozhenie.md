@@ -1,5 +1,15 @@
 ---
 slug: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie
+record_id: 1981.11.12.B4.2
+title: Отношения с Господом в образе, подобном человеческому, занимают наивысшее
+  положение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7858542
+  duration: 00:15:04
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3
+date: 1981-11-12
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -16,7 +26,6 @@ tags:
     slug: otrechenie
   - title: Эксплуатация
     slug: ekspluatatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3
     title: аудиозапись в MP3 (15 мин. 04 сек., 7.5 МБ)
@@ -24,9 +33,12 @@ links:
     title: транскрипцию в RTF (150 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 042. 1981.11.12.B4.2 Отношения с Господом в образе, подобном
+    человеческому, занимают наивысшее положение
+  index: "042"
+  filename: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.md
 ---
-
-# 042. 1981.11.12.B4.2 Отношения с Господом в образе, подобном человеческому, занимают наивысшее положение
 
 Только через служение, только через самопредание мы можем двигаться вверх. Наслаждение и сухое отречение — эти два принципа являются нашими врагами. Наслаждение означает «эксплуатация», так называемый «прогресс», и также дух сухого отречения.
 

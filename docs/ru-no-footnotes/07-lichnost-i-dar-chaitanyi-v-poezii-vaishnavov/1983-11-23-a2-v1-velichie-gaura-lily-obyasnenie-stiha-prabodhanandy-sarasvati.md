@@ -1,5 +1,14 @@
 ---
 slug: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati
+record_id: 1983.11.23.A2.B1
+title: Величие гаура-лилы. Объяснение стиха Прабодхананды Сарасвати
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15940013
+  duration: 00:15:05
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3
+date: 1983-11-23
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -8,7 +17,6 @@ tags:
     slug: 1983-11
   - title: Прабходананда Сарасвати
     slug: prabhodananda-sarasvati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3
     title: аудиозапись в MP3 (15 мин. 4 сек., 15,3 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 112. 1983.11.23.А2.В1 Величие гаура-лилы. Объяснение стиха Прабодхананды
+    Сарасвати
+  index: "112"
+  filename: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati.md
 ---
-
-# 112. 1983.11.23.А2.В1 Величие гаура-лилы. Объяснение стиха Прабодхананды Сарасвати
 
 Гауранга пришел с подобными новостями, рассказал нам о подобной перспективе: «Ты — душа! У тебя есть подобная перспектива». Нитьянанда Прабху умолял от двери к двери очень искренне, горячо говорил: «Ваша перспектива столь высока!» Это Навадвип-дхам. Мы только должны проникнуть сквозь поверхность, глубоко погрузиться, найти внутренний Навадвип, Навадвип Гаура-Нитая.
 

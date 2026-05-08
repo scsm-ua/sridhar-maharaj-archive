@@ -1,12 +1,20 @@
 ---
 slug: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne
+record_id: 1984.01.25.A1
+title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5489141
+  duration: 00:07:49
+  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3
+date: 1984-01-25
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: "1984.01"
     slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 5,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 424. 1984.01.25.A1. «Слава принадлежит Гуру, деньги — Нараяне, а женщины
+    — Кришне»
+  index: "424"
+  filename: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne.md
 ---
-
-# 424. 1984.01.25.A1. «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
 
 …Для Него, для Центра. Бескорыстие высочайшей степени. Самозабвение не в смысле крайнего отречения — это просто отстранение от негативной стороны, — но существует позитивная сторона божественности. И на вершине этого — Кришна, Самодержец, единственный Наслаждающийся.
 

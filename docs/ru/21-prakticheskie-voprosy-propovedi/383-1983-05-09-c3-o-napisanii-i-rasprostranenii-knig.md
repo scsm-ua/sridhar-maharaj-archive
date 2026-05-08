@@ -1,5 +1,14 @@
 ---
 slug: 383-1983-05-09-c3-o-napisanii-i-rasprostranenii-knig
+record_id: 1983.05.09.C3
+title: О написании и распространении книг
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1709401
+  duration: 00:01:48
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.mp3
+date: 1983-05-09
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1983-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.mp3
     title: аудиозапись в MP3 (1 мин. 47 сек., 1,7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.pdf
     title: транскрипцию в PDF (111 КБ)
+legacy:
+  title: 383. 1983.05.09.C3. О написании и распространении книг
+  index: "383"
+  filename: 383-1983-05-09-c3-o-napisanii-i-rasprostranenii-knig.md
 ---
-
-# 383. 1983.05.09.C3. О написании и распространении книг
 
 **Преданный:** Что более важно: писать, составлять литературу или распространять эти книги, проповедовать и давать людям книги или писать книги?
 

@@ -1,12 +1,20 @@
 ---
 slug: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote
+record_id: 1981.03.08.B6
+title: Вайшнав должен стремиться к внешней и внутренней чистоте
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3984790
+  duration: 00:06:02
+  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.mp3
+date: 1981-03-08
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.mp3
     title: аудиозапись в MP3 (6 мин. 01 сек., 3,9 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 754. 1981.03.08.B6. Вайшнав должен стремиться к внешней и внутренней чистоте
+  index: "754"
+  filename: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote.md
 ---
-
-# 754. 1981.03.08.B6. Вайшнав должен стремиться к внешней и внутренней чистоте
 
 **Госвами Махарадж:** …И точно так же мы должны удовлетворять Гуру и следовать его указанию. Если мы становимся непослушными указанию Гуру и не выполняем клятвы, которые мы дали (служить Гуру), тогда какова наша участь, судьба?
 

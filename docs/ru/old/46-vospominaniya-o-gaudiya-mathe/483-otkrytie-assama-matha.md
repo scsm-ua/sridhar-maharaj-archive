@@ -1,18 +1,27 @@
 ---
 slug: 483-otkrytie-assama-matha
+record_id: null
+title: Открытие Ассама-матха.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4426824
+  duration: 00:10:44
+  mp3: /wp-content/uploads/2012/08/483_2012.07.25.8_SridharMj_Otkrytiye_Assama-matha.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
   - title: Гаудия-матх
     slug: gaudiya-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/483_2012.07.25.8_SridharMj_Otkrytiye_Assama-matha.mp3
     title: Скачать аудиозапись в mp3 (10 мин 44 сек, размер 4 Мб)
+legacy:
+  title: 483. Открытие Ассама-матха. 2012.07.25.8
+  index: "483"
+  filename: 483-otkrytie-assama-matha.md
 ---
-
-# 483. Открытие Ассама-матха. 2012.07.25.8
 
 *#00:00:00#*
 

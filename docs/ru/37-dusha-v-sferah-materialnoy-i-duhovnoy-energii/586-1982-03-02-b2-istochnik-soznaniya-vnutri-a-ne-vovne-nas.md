@@ -1,5 +1,14 @@
 ---
 slug: 586-1982-03-02-b2-istochnik-soznaniya-vnutri-a-ne-vovne-nas
+record_id: 1982.03.02.B2
+title: Источник сознания внутри, а не вовне нас
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5549641
+  duration: 00:04:05
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.mp3
+date: 1982-03-02
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -12,7 +21,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.mp3
     title: аудиозапись в MP3 (4 мин. 05 сек., 5,3 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 586. 1982.03.02.B2. Источник сознания внутри, а не вовне нас
+  index: "586"
+  filename: 586-1982-03-02-b2-istochnik-soznaniya-vnutri-a-ne-vovne-nas.md
 ---
-
-# 586. 1982.03.02.B2. Источник сознания внутри, а не вовне нас
 
 **Преданный:** Как мы можем в качестве индивидуумов отличить ум от сознания?
 

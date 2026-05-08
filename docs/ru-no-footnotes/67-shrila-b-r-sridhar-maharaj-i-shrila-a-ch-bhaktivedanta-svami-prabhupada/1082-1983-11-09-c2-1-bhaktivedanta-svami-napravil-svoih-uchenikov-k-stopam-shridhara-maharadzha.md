@@ -1,12 +1,20 @@
 ---
 slug: 1082-1983-11-09-c2-1-bhaktivedanta-svami-napravil-svoih-uchenikov-k-stopam-shridhara-maharadzha
+record_id: 1983.11.09.C2.1
+title: Бхактиведанта Свами направил своих учеников к стопам Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6258604
+  duration: 00:04:53
+  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.mp3
+date: 1983-11-09
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (4 мин. 52 сек., 6,0 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 1082. 1983.11.09.C2.1. Бхактиведанта Свами направил своих учеников к
+    стопам Шридхара Махараджа
+  index: "1082"
+  filename: 1082-1983-11-09-c2-1-bhaktivedanta-svami-napravil-svoih-uchenikov-k-stopam-shridhara-maharadzha.md
 ---
-
-# 1082. 1983.11.09.C2.1. Бхактиведанта Свами направил своих учеников к стопам Шридхара Махараджа
 
 **Шрила Шридхар Махарадж:** Который час?
 

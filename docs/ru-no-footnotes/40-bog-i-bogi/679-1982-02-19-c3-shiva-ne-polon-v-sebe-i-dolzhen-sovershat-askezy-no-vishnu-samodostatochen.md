@@ -1,12 +1,20 @@
 ---
 slug: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen
+record_id: 1982.02.19.C3
+title: Шива не полон в себе и должен совершать аскезы, но Вишну самодостаточен
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1299097
+  duration: 00:02:07
+  mp3: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3
+date: 1982-02-19
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3
     title: аудиозапись в MP3 (2 мин. 16 сек., 1,3 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.pdf
     title: транскрипцию в PDF (116 КБ)
+legacy:
+  title: 679. 1982.02.19.C3. Шива не полон в себе и должен совершать аскезы, но
+    Вишну самодостаточен
+  index: "679"
+  filename: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen.md
 ---
-
-# 679. 1982.02.19.C3. Шива не полон в себе и должен совершать аскезы, но Вишну самодостаточен
 
 *«Мгновения Прекрасной Реальности» часть 8.1.2*
 

@@ -1,5 +1,14 @@
 ---
 slug: 458-sarasvati-thakur-olitsetvorenie-kir
+record_id: 1982.01.29.A
+title: Сарасвати Тхакур — олицетворение киртана.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22536788
+  duration: 00:46:28
+  mp3: /wp-content/uploads/2012/08/458_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
+date: 1982-01-29
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
@@ -10,13 +19,14 @@ tags:
     slug: kirtan
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/458_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
     title: Скачать аудиозапись в mp3 (46 мин 28 сек, размер 22 Мб)
+legacy:
+  title: 458. Сарасвати Тхакур — олицетворение киртана. 1982.01.29.A
+  index: "458"
+  filename: 458-sarasvati-thakur-olitsetvorenie-kir.md
 ---
-
-# 458. Сарасвати Тхакур — олицетворение киртана. 1982.01.29.A
 
 *#00:00:00#*
 

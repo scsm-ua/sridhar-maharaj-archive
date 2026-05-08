@@ -1,5 +1,14 @@
 ---
 slug: 1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov
+record_id: 1982.05.12.C3
+title: Брахманы должны осознавать себя слугами вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3058856
+  duration: 00:02:39
+  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.mp3
+date: 1982-05-12
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
@@ -14,7 +23,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.84.13
     slug: shrimad-bhagavatam-10-84-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.mp3
     title: аудиозапись в MP3 (2 мин. 39 сек., 3,0 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1046. 1982.05.12.C3. Брахманы должны осознавать себя слугами вайшнавов
+  index: "1046"
+  filename: 1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov.md
 ---
-
-# 1046. 1982.05.12.C3. Брахманы должны осознавать себя слугами вайшнавов
 
 **Преданный:** Махарадж, позвольте спросить о том эпизоде, когда вы получили посвящение в *Гаятри (упавиту).* Вам был задан вопрос…
 

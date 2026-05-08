@@ -1,12 +1,20 @@
 ---
 slug: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite
+record_id: 1982.04.16.B4
+title: Учение о форме и сути, искренности и прогрессе в «Гите»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6823903
+  duration: 00:06:12
+  mp3: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.mp3
+date: 1982-04-16
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.mp3
     title: аудиозапись в MP3 (6 мин. 16 сек., 6,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 733. 1982.04.16.B4. Учение о форме и сути, искренности и прогрессе в  «Гите»
+  index: "733"
+  filename: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite.md
 ---
-
-# 733. 1982.04.16.B4. Учение о форме и сути, искренности и прогрессе в  «Гите»
 
 Каково откровение, стоящее за идеалом и формой? Форма создана, чтобы помогать идеалу, реализации, достижению идеала, форма приходит к нам на помощь.
 

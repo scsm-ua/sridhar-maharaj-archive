@@ -1,5 +1,14 @@
 ---
 slug: 371-1982-07-03-br1-sankirtana-put-k-obreteniyu-premy-i-dostupa-vo-vrindavan
+record_id: 1982.07.03.Br1
+title: Санкиртана – путь к обретению премы и доступа во Вриндаван
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12600267
+  duration: 00:12:55
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3
+date: 1982-07-03
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3
     title: аудиозапись в MP3 (12 мин. 54 сек., 12,1 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 371. 1982.07.03.Br1. Санкиртана – путь к обретению премы и доступа во
+    Вриндаван
+  index: "371"
+  filename: 371-1982-07-03-br1-sankirtana-put-k-obreteniyu-premy-i-dostupa-vo-vrindavan.md
 ---
-
-# 371. 1982.07.03.Br1. Санкиртана – путь к обретению премы и доступа во Вриндаван
 
 Сегодня совершается обход Мадхья-двипы и Киртанакхи(?). Туда ушла наша группа, наша группа посещает эти места. *Киртан*, *санкиртан* — центральное служение, рекомендованное Махапрабху, особенно для *Кали-юги*. *Санкиртан* — слушать и воспроизводить услышанное, слушать и говорить, рассказывать [буквально]. Воспроизведение — более могущественное явление, *киртан*. Мы должны прилагать максимум усилий, совершая *киртан*, проповедовать. И это явление было рекомендовано в качестве высочайшего метода, особенно для начинающих: задействовать каждый элемент своего существа в проповеди, в распространении истины, которую мы обрели, получили из высшего источника. Эту позицию следует занять и пытаться практиковать.
 

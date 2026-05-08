@@ -1,5 +1,15 @@
 ---
 slug: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny
+record_id: 1982.05.04.A2.B1
+title: Нитьянанда Прабху и Шри Чайтанья — великодушные распространители Сознания
+  Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27048678
+  duration: 00:27:16
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3
+date: 1982-05-04
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -12,7 +22,6 @@ tags:
     slug: krishna-lila
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3
     title: аудиозапись в MP3 (27 мин. 15 сек., 128 кбит/сек, 26 МБ)
@@ -20,9 +29,12 @@ links:
     title: транскрипцию в RTF (185 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 075. 1982.05.04.A2.B1 Нитьянанда Прабху и Шри Чайтанья — великодушные
+    распространители Сознания Кришны
+  index: "075"
+  filename: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny.md
 ---
-
-# 075. 1982.05.04.A2.B1 Нитьянанда Прабху и Шри Чайтанья — великодушные распространители Сознания Кришны
 
 Нитьянанда Прабху… Тем, кто не хотят этого явления, отказываются от него, Он не позволяет уйти с пустыми руками. Он говорит им: «Попробуйте! Я прошу вас: сделайте шаг вперед! Я не позволю вам уйти с пустыми руками!» Если кто-то говорит: «Я не хочу этого явления», Нитьянанда Прабху не позволит ему. Он скажет ему: «Нет, ты должен хотеть, ты обязан. Я прошу тебя, умоляю: попробуй! И тогда ты сумеешь понять, почувствовать ценность этого явления».
 

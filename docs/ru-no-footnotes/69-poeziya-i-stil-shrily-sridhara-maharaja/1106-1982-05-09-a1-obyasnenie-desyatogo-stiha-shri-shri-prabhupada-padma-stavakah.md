@@ -1,12 +1,20 @@
 ---
 slug: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah
+record_id: 1982.05.09.A1
+title: Объяснение десятого стиха Шри Шри Прабхупада-падма Ставаках
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9754383
+  duration: 00:09:57
+  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
+date: 1982-05-09
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
     title: аудиозапись в MP3 (9 мин. 56 сек., 9,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 1106. 1982.05.09.A1. Объяснение десятого стиха Шри Шри Прабхупада-падма
+    Ставаках
+  index: "1106"
+  filename: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah.md
 ---
-
-# 1106. 1982.05.09.A1. Объяснение десятого стиха Шри Шри Прабхупада-падма Ставаках
 
     парахам̇са-варам̇-парама̄ртха-патим̇
 [^_ftn1]

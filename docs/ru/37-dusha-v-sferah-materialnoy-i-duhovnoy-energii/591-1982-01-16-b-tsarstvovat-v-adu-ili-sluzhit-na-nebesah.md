@@ -1,5 +1,14 @@
 ---
 slug: 591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah
+record_id: 1982.01.16.B
+title: Царствовать в аду или служить на небесах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6299344
+  duration: 00:09:44
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
+date: 1982-01-16
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -16,7 +25,6 @@ tags:
     slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.56
     slug: shri-brahma-samhita-5-56
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
     title: аудиозапись в MP3 (9 мин. 43 сек., 6,1 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 591. 1982.01.16.B. Царствовать в аду или служить на небесах
+  index: "591"
+  filename: 591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah.md
 ---
-
-# 591. 1982.01.16.B. Царствовать в аду или служить на небесах
 
 Закон природы, закон эксплуатации таков — подобные реакции, реакция подобного рода. Даже творец этого мира не может избежать этой участи.
 

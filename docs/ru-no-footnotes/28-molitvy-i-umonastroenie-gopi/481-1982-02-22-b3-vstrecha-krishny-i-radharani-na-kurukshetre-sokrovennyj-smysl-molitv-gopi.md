@@ -1,5 +1,14 @@
 ---
 slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
+record_id: 1982.02.22.B3
+title: Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16955792
+  duration: 00:44:40
+  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
+date: 1982-02-22
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
     title: аудиозапись в MP3 (44 мин. 40 сек., 16,2 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (257 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 481. 1982.02.22.B3. Встреча Кришны и Радхарани на Курукшетре. Сокровенный
+    смысл молитв гопи
+  index: "481"
+  filename: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
 ---
-
-# 481. 1982.02.22.B3. Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи
 
 Когда Радхарани встречает Кришну на Курукшетре, Ее ум стремится во Вриндаван. Она говорит: «Ты здесь, но Мой ум стремится во Вриндаван». Почему? Вриндаван обладает значимой ролью в этой *лиле*. Вриндаван. Что такое Вриндаван? Это пейзажи. Это Ямуна, вода, лес, птицы, крики павлинов, коровы, пастухи, Говардхан, пещеры Говардхана, а также мать и иные родственники. Все это прекрасно устроено ради Их цели, Радхи и Кришны. Это сцена, и Радха стремится вновь быть на этой сцене в Его обществе.
 

@@ -1,5 +1,14 @@
 ---
 slug: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej
+record_id: 1983.05.10.B
+title: Градация духовных учителей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24569081
+  duration: 00:48:25
+  mp3: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3
+date: 1983-05-10
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1983-05
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3
     title: аудиозапись в MP3 (48 мин. 24 сек., 23,5 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (244 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.pdf
     title: транскрипцию в PDF (185 КБ)
+legacy:
+  title: 317. 1983.05.10.B. Градация духовных учителей
+  index: "317"
+  filename: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej.md
 ---
-
-# 317. 1983.05.10.B. Градация духовных учителей
 
 То, что, как мы видим, диктует универсальный интерес, мы должны читать во всем. Абсолютный интерес. Нам следует избавиться от мании локального интереса. Мы преданы Абсолюту. Градация присутствует в Нем, в вайшнавах. [В соответствии с тем,] насколько ты предан, [важна] интенсивность преданности.
 

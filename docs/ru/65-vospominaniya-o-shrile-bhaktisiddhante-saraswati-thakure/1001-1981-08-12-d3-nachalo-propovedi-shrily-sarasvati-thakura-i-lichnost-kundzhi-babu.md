@@ -1,12 +1,20 @@
 ---
 slug: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu
+record_id: 1981.08.12.D3
+title: Начало проповеди Шрилы Сарасвати Тхакура и личность Кунджи Бабу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3467912
+  duration: 00:05:59
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.mp3
+date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.mp3
     title: аудиозапись в MP3 (5 мин. 58 сек., 3,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 1001. 1981.08.12.D3. Начало проповеди Шрилы Сарасвати Тхакура и личность
+    Кунджи Бабу
+  index: "1001"
+  filename: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu.md
 ---
-
-# 1001. 1981.08.12.D3. Начало проповеди Шрилы Сарасвати Тхакура и личность Кунджи Бабу
 
 **Преданный:** Ваш Гуру Махарадж вначале повторял какое-то время три *лакха*, триста тысяч [Святых Имен] каждый день.
 

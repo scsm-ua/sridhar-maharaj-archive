@@ -1,12 +1,20 @@
 ---
 slug: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej
+record_id: 1982.02.23.C5.D
+title: Майа может действовать не только через врагов, но и через друзей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2576771
+  duration: 00:04:43
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/710_1982.02.23.C5.D_SridharMj_Maja_mozhet_dejstvovat_ne_tolko_cherez_vragov_no_i_cherez_druzej.mp3
+date: 1982-02-23
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/710_1982.02.23.C5.D_SridharMj_Maja_mozhet_dejstvovat_ne_tolko_cherez_vragov_no_i_cherez_druzej.mp3
     title: аудиозапись в MP3 (4 мин. 43 сек., 2,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (72 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/710_1982.02.23.C5.D_SridharMj_Maja_mozhet_dejstvovat_ne_tolko_cherez_vragov_no_i_cherez_druzej.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 710. 1982.02.23.C5.D. Майа может действовать не только через врагов, но и
+    через друзей
+  index: "710"
+  filename: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej.md
 ---
-
-# 710. 1982.02.23.C5.D. Майа может действовать не только через врагов, но и через друзей
 
 И также в среде преданных: все, кто пришли к Свами Махараджу или к нашему Гуру Махараджу, не были равны. Многие из них отошли в сторону; многие оказались очень слабы; многие пытаются идти вперед, мы видим; многие хотят эксплуатировать Свами Махараджа — его заслуги, его доброжелательность. Они не знают себя — каково их положение измеряемое, оцениваемое с точки зрения подлинных стандартов.
 

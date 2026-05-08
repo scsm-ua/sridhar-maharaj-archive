@@ -1,5 +1,14 @@
 ---
 slug: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu
+record_id: 1981.08.22.C2
+title: Без руководства вайшнава даже изучение Писаний не является преданностью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9355494
+  duration: 00:18:15
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
+date: 1981-08-22
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
     title: аудиозапись в MP3 (18 мин. 14 сек., 9,0 МБ)
@@ -18,9 +26,12 @@ links:
     title: транскрипцию в RTF (166 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 1021. 1981.08.22.C2. Без руководства вайшнава даже изучение Писаний не
+    является преданностью
+  index: "1021"
+  filename: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu.md
 ---
-
-# 1021. 1981.08.22.C2. Без руководства вайшнава даже изучение Писаний не является преданностью
 
 **Преданный:** Махарадж, тогда в этой связи возникает вопрос. Скажем, это мой личный опыт: в моем личном изучении различных санскритских источников я всегда падал духом, не возвышался духом, но падал духом. И говорится, что все это бесполезно — санскритская грамматика и прочее академическое знание.
 

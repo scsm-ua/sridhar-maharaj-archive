@@ -1,5 +1,13 @@
 ---
 slug: 437-absolyutnaya-istina-oblachaetsya-v-razn
+title: Абсолютная Истина облачается в разные одеяния. Онтология прекрасной
+  реальности, часть 7.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4993807
+  duration: 00:05:04
+  mp3: /wp-content/uploads/2012/08/437_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
 category:
   title: (41. Учение вайшнавов и Христианство)
   slug: 41-uchenie-vaishnavov-i-hristianstvo
@@ -8,13 +16,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Христианство
     slug: hristianstvo
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/437_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
     title: Скачать аудиозапись в mp3 (5 мин 4 сек, размер 5 Мб)
+legacy:
+  title: 437. Абсолютная Истина облачается в разные одеяния. Онтология прекрасной
+    реальности, часть 7.1
+  index: "437"
+  filename: 437-absolyutnaya-istina-oblachaetsya-v-razn.md
 ---
-
-# 437. Абсолютная Истина облачается в разные одеяния. Онтология прекрасной реальности, часть 7.1
 
 *#00:00:12#*
 

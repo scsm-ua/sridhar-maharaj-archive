@@ -1,12 +1,20 @@
 ---
 slug: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya
+record_id: 1982.04.29.B2
+title: Полнота истины – в принятии единства и многообразия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4699544
+  duration: 00:04:47
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.mp3
+date: 1982-04-29
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.mp3
     title: аудиозапись в MP3 (4 мин. 47 сек., 4,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 888. 1982.04.29.B2. Полнота истины – в принятии единства и многообразия
+  index: "888"
+  filename: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya.md
 ---
-
-# 888. 1982.04.29.B2. Полнота истины – в принятии единства и многообразия
 
 **Акхаянанда Махарадж:** Махарадж, есть одно утверждение общего порядка: *неха нанасти кинчана*[^_ftn1]. Каков смысл этих слов?
 

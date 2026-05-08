@@ -1,5 +1,14 @@
 ---
 slug: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode
+record_id: 1981.11.12.A2.1
+title: Молитва Мадхавендры Пури. Принять прибежище в Господе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3745521
+  duration: 00:06:36
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3
+date: 1981-11-12
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -8,7 +17,6 @@ tags:
     slug: 1981-11
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3
     title: аудиозапись в MP3 (6 мин. 36 сек., 3,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 824. 1981.11.12.A2.1. Молитва Мадхавендры Пури. Принять прибежище в Господе
+  index: "824"
+  filename: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode.md
 ---
-
-# 824. 1981.11.12.A2.1. Молитва Мадхавендры Пури. Принять прибежище в Господе
 
     [ка̄ма̄дӣна̄м̇ кати на катидха̄ па̄лита̄ дурнидеш́а̄с
     теша̄м̇ джа̄та̄ майи на карун̣а̄ на трапа̄ нопаш́а̄нтих̣

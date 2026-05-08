@@ -1,5 +1,14 @@
 ---
 slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
+record_id: 1983.11.23.B2
+title: Три группы преданных во Вриндаване. Лалита и Вишакха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6849546
+  duration: 00:04:29
+  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3
+date: 1983-11-23
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
@@ -14,7 +23,6 @@ tags:
     slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3
     title: аудиозапись в MP3 (4 мин. 28 сек., 128 кбит/сек, 6.5 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 057. 1983.11.23.В2 Три группы преданных во Вриндаване. Лалита и Вишакха
+  index: "057"
+  filename: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha.md
 ---
-
-# 057. 1983.11.23.В2 Три группы преданных во Вриндаване. Лалита и Вишакха
 
 Также как во Вриндаване есть три типа. Одна группа особенно интересуется Кришной, другая особо интересуется Радхарани и есть особая группа, которая поддерживает баланс между той и другой стороной, симпатизирует одинаково обоим.
 

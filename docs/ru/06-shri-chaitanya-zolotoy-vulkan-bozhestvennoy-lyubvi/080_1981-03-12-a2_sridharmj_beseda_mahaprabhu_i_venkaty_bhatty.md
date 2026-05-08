@@ -1,5 +1,14 @@
 ---
 slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
+record_id: 1981.03.12.A2
+title: Беседа Махапрабху и Венкаты Бхатты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5995446
+  duration: 00:10:40
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3
+date: 1981-03-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -32,7 +41,6 @@ tags:
     slug: tajttiriya-upanishad
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3
     title: аудиозапись в MP3 (10 мин. 40 сек., 7.3 МБ)
@@ -40,9 +48,11 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 080. 1981.03.12.A2 Беседа Махапрабху и Венкаты Бхатты
+  index: "080"
+  filename: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty.md
 ---
-
-# 080. 1981.03.12.A2 Беседа Махапрабху и Венкаты Бхатты
 
 **Госвами Махарадж:** Махарадж, я всегда задавался вопросом: я читал «Чайтанья-чаритамриту», Махапрабху путешествует по Южной Индии и когда Он возвращается в Пури, то вечером Он говорит своему спутнику и последователю…
 

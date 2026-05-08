@@ -1,18 +1,28 @@
 ---
 slug: 474-o-knige-rodstvennyj-mir-ili-otnosite
+title: О книге «Родственный мир или относительные миры». Онтология прекрасной
+  реальности, часть 3.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4747072
+  duration: 00:09:25
+  mp3: /wp-content/uploads/2012/08/474_OntologiyaPR_3.2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/474_OntologiyaPR_3.2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
     title: Скачать аудиозапись в mp3 (4 мин 25 сек, размер 4 Мб)
+legacy:
+  title: 474. О книге «Родственный мир или относительные миры». Онтология
+    прекрасной реальности, часть 3.2
+  index: "474"
+  filename: 474-o-knige-rodstvennyj-mir-ili-otnosite.md
 ---
-
-# 474. О книге «Родственный мир или относительные миры». Онтология прекрасной реальности, часть 3.2
 
 Кришна-ича — воля Кришны, любое желание, любое движение, любое предложение, приходящее откуда угодно, в любое время к нам. Повиноваться. Подобная готовность. Мы должны стоять лицом к лицу с безграничным, ожидая, что приходящее ко мне — это потребность, моя Нужда (с большой буквы). Это наше место назначения. Лицом к лицу. Индивидуально или коллективно, соборно.
 

@@ -1,12 +1,18 @@
 ---
 slug: 1017-predavshayasya-dusha-ne-mozhet-sovershit-oskorblenij
+title: Предавшаяся душа не может совершить оскорблений
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4453960
+  duration: 00:10:44
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1017_2012.07.25.8_SridharMj_Predavshajasja_dusha_ne_mozhet_sovershit_oskoblenij.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1017_2012.07.25.8_SridharMj_Predavshajasja_dusha_ne_mozhet_sovershit_oskoblenij.mp3
     title: аудиозапись в MP3 (10 мин. 44 сек., 4,3 МБ)
@@ -14,9 +20,11 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1017_2012.07.25.8_SridharMj_Predavshajasja_dusha_ne_mozhet_sovershit_oskoblenij.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 1017. Предавшаяся душа не может совершить оскорблений
+  index: "1017"
+  filename: 1017-predavshayasya-dusha-ne-mozhet-sovershit-oskorblenij.md
 ---
-
-# 1017. Предавшаяся душа не может совершить оскорблений
 
 [Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай-Гаура Харибол, (Смеется) Харе Кришна, Харе Кришна]
 

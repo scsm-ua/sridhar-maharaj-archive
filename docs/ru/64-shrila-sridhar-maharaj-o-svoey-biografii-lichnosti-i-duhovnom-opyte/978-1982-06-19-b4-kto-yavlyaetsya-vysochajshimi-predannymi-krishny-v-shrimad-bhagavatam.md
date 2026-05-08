@@ -1,5 +1,14 @@
 ---
 slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
+record_id: 1982.06.19.B4
+title: Кто является высочайшими преданными Кришны в «Шримад-Бхагаватам»?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2419220
+  duration: 00:01:38
+  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/978_1982.06.19.B4_SridharMj_Kto_javljaetsja_vysochajshimi_predannymi_Krishny_v_Shrimad-Bhagavatam.mp3
+date: 1982-06-19
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
@@ -20,7 +29,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/978_1982.06.19.B4_SridharMj_Kto_javljaetsja_vysochajshimi_predannymi_Krishny_v_Shrimad-Bhagavatam.mp3
     title: аудиозапись в MP3 (1 мин. 37 сек., 2,4 МБ)
@@ -28,9 +36,12 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/978_1982.06.19.B4_SridharMj_Kto_javljaetsja_vysochajshimi_predannymi_Krishny_v_Shrimad-Bhagavatam.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 978. 1982.06.19.B4. Кто является высочайшими преданными Кришны в
+    «Шримад-Бхагаватам»?
+  index: "978"
+  filename: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam.md
 ---
-
-# 978. 1982.06.19.B4. Кто является высочайшими преданными Кришны в «Шримад-Бхагаватам»?
 
 «Бхагаватам» вымостил дорогу к этому высшему явлению.
 

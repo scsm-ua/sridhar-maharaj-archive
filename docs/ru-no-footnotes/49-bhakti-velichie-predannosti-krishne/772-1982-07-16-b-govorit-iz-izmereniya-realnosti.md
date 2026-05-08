@@ -1,5 +1,14 @@
 ---
 slug: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti
+record_id: 1982.07.16.B
+title: Говорить из измерения Реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4974946
+  duration: 00:04:37
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3
+date: 1982-07-16
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3
     title: аудиозапись в MP3 (4 мин. 36 сек., 4,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (72 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 772. 1982.07.16.B. Говорить из измерения Реальности
+  index: "772"
+  filename: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti.md
 ---
-
-# 772. 1982.07.16.B. Говорить из измерения Реальности
 
 Мой Гуру Махарадж хотел, чтобы я поехал на Запад, но я не поехал.
 

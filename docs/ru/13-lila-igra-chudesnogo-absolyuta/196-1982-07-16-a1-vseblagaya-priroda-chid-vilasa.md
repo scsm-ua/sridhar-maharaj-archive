@@ -1,12 +1,20 @@
 ---
 slug: 196-1982-07-16-a1-vseblagaya-priroda-chid-vilasa
+record_id: 1982.07.16.A1
+title: Всеблагая природа чид-виласа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6711254
+  duration: 00:06:35
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.mp3
+date: 1982-07-16
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.mp3
     title: аудиозапись в MP3 (6 мин. 35 сек., 6,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 196. 1982.07.16.A1. Всеблагая природа чид-виласа
+  index: "196"
+  filename: 196-1982-07-16-a1-vseblagaya-priroda-chid-vilasa.md
 ---
-
-# 196. 1982.07.16.A1. Всеблагая природа чид-виласа
 
 «Ради удовлетворения Кришны» — критерий таков, о чем бы ни шла речь. Я могу совершать убийство (но в интересах Кришны) — тогда это не убийство: тот, кто убиваем, обретает высочайшее благо. Об этом идет речь. Внешне [лишь это убийство.]
 

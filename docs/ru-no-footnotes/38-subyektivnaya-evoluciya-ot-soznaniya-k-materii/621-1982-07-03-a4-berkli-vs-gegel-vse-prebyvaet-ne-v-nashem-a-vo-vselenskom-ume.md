@@ -1,12 +1,20 @@
 ---
 slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
+record_id: 1982.07.03.A4
+title: Беркли VS Гегель. Все пребывает не в нашем, а во Вселенском Уме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18373517
+  duration: 00:18:10
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3
+date: 1982-07-03
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3
     title: аудиозапись в MP3 (18 мин. 09 сек., 17,6 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (145 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 621. 1982.07.03.A4. Беркли VS Гегель. Все пребывает не в нашем, а во
+    Вселенском Уме
+  index: "621"
+  filename: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume.md
 ---
-
-# 621. 1982.07.03.A4. Беркли VS Гегель. Все пребывает не в нашем, а во Вселенском Уме
 
 То, что мы воспринимаем как физическое — все наши чувственные переживания вращаются вокруг внутреннего центра более тонкой природы. Более тонкое начало порождает грубые реалии.
 

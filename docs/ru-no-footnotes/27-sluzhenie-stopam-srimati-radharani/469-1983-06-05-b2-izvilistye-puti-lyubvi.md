@@ -1,12 +1,20 @@
 ---
 slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
+record_id: 1983.06.05.B2
+title: Извилистые пути любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13707283
+  duration: 00:27:45
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
+date: 1983-06-05
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
   - title: "1983.06"
     slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
     title: аудиозапись в MP3 (27 мин. 45 сек., 13,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (216 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.pdf
     title: транскрипцию в PDF (176 КБ)
+legacy:
+  title: 469. 1983.06.05.B2. Извилистые пути любви
+  index: "469"
+  filename: 469-1983-06-05-b2-izvilistye-puti-lyubvi.md
 ---
-
-# 469. 1983.06.05.B2. Извилистые пути любви
 
     парокш̣а-ва̄до ведо ‘йам̇
     ба̄ла̄на̄м ануш́а̄санам

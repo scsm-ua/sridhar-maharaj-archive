@@ -1,12 +1,20 @@
 ---
 slug: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe
+record_id: 1982.05.14.C2
+title: Созерцание лилы в глубоком трансе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7985611
+  duration: 00:07:55
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
+date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
     title: аудиозапись в MP3 (7 мин. 55 сек., 7,7 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
+  index: "178"
+  filename: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
 ---
-
-# 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
 
     (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’
     према-раса-сӣма̄ ра̄дха̄ра махима̄, джагате джа̄на̄та ке?

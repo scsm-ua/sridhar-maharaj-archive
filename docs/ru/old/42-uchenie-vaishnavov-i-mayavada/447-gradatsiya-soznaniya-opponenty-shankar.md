@@ -1,5 +1,14 @@
 ---
 slug: 447-gradatsiya-soznaniya-opponenty-shankar
+record_id: 1982.01.25.A4.B1
+title: Градация сознания. Оппоненты Шанкары.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7050742
+  duration: 00:14:30
+  mp3: /wp-content/uploads/2012/08/447_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
+date: 1982-01-25
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
@@ -12,13 +21,14 @@ tags:
     slug: svarupa-shakti
   - title: Шанкара
     slug: shankara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/447_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
     title: Скачать аудиозапись в mp3 (14 мин 30 сек, размер 7 Мб)
+legacy:
+  title: 447. Градация сознания. Оппоненты Шанкары. 1982.01.25.A4.B1
+  index: "447"
+  filename: 447-gradatsiya-soznaniya-opponenty-shankar.md
 ---
-
-# 447. Градация сознания. Оппоненты Шанкары. 1982.01.25.A4.B1
 
 **Преданный:** В «Бхагавад-гите» Господь говорит (санскрит)
 

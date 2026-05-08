@@ -1,5 +1,14 @@
 ---
 slug: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile
+record_id: 1982.02.22.A3
+title: Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8011515
+  duration: 00:07:21
+  mp3: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3
+date: 1982-02-22
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
@@ -8,7 +17,6 @@ tags:
     slug: 1982-02
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3
     title: аудиозапись в MP3 (7 мин. 21 сек., 7,7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (91 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 815. 1982.02.22.A3. Почему в некоторых вайшнавских храмах поклоняются
+    шалаграм-шиле?
+  index: "815"
+  filename: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile.md
 ---
-
-# 815. 1982.02.22.A3. Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле?
 
 **Преданный:** Махарадж, вы сказали, что Махапрабху предпочитал поклонение *Говардхана-шиле* поклонению *Нараяна-шиле*. Почему мы видим, что в храмах Махапрабху (*гаудия-вайшнавских* храмах) также присутствует *Нараяна-шила*?
 

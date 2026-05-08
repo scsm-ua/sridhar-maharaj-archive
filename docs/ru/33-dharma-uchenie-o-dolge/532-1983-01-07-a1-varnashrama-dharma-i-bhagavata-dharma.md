@@ -1,5 +1,14 @@
 ---
 slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
+record_id: 1983.01.07.A1
+title: Варнашрама-дхарма и Бхагавата-дхарма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15045831
+  duration: 00:30:49
+  mp3: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
+date: 1983-01-07
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -24,7 +33,6 @@ tags:
     slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
     title: аудиозапись в MP3 (30 мин. 48 сек., 14,4 МБ)
@@ -32,9 +40,11 @@ links:
     title: транскрипцию в RTF (246 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 532. 1983.01.07.A1. Варнашрама-дхарма и Бхагавата-дхарма
+  index: "532"
+  filename: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma.md
 ---
-
-# 532. 1983.01.07.A1. Варнашрама-дхарма и Бхагавата-дхарма
 
 Это суровая истина, горькая истина. Мы должны встретиться с ней. Мы должны решить проблему в практическом смысле. Религия — это нечто практическое, практическая жизнь.
 

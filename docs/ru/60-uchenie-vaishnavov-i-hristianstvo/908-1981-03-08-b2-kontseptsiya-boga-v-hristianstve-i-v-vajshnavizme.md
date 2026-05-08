@@ -1,12 +1,20 @@
 ---
 slug: 908-1981-03-08-b2-kontseptsiya-boga-v-hristianstve-i-v-vajshnavizme
+record_id: 1981.03.08.B2
+title: Концепция Бога в Христианстве и в Вайшнавизме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2507890
+  duration: 00:01:41
+  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3
+date: 1981-03-08
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
   - title: "1981.03"
     slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3
     title: аудиозапись в MP3 (1 мин. 41 сек., 2,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (14 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.pdf
     title: транскрипцию в PDF (112 КБ)
+legacy:
+  title: 908. 1981.03.08.B2. Концепция Бога в Христианстве и в Вайшнавизме
+  index: "908"
+  filename: 908-1981-03-08-b2-kontseptsiya-boga-v-hristianstve-i-v-vajshnavizme.md
 ---
-
-# 908. 1981.03.08.B2. Концепция Бога в Христианстве и в Вайшнавизме
 
 **Преданный:** Христиане хотят обрести связь с Богом в духе наслаждения Им. Иными словами, они рассматривают Бога, как своего поставщика.
 

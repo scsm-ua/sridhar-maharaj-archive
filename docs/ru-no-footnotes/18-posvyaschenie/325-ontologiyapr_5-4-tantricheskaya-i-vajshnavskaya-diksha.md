@@ -1,5 +1,12 @@
 ---
 slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
+title: Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3506240
+  duration: 00:06:46
+  mp3: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +15,6 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
     title: аудиозапись в MP3 (6 мин. 45 сек., 3,4 МБ)
@@ -16,9 +22,11 @@ links:
     title: транскрипцию в RTF (110 КБ)
   - href: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 325.  Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
+  index: "325"
+  filename: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha.md
 ---
-
-# 325.  Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
 
 «Онтология Прекрасной Реальности» (часть 5.4)
 

@@ -1,5 +1,14 @@
 ---
 slug: 106-1985-10-04-b2-lyubovnyj-poisk-shri-chajtani
+record_id: 1985.10.04.B2
+title: Любовный поиск Шри Чайтаньи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4386513
+  duration: 00:07:19
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/106_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
+date: 1985-10-04
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1985-10
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/106_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
     title: аудиозапись в MP3 (7 мин. 19 сек., 4,2 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/106_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 106. 1985.10.04.B2. Любовный поиск Шри Чайтаньи
+  index: "106"
+  filename: 106-1985-10-04-b2-lyubovnyj-poisk-shri-chajtani.md
 ---
-
-# 106. 1985.10.04.B2. Любовный поиск Шри Чайтаньи
 
 Махапрабху пришел с этой *нама-санкиртаной*, которая недоступна даже для Брахмы и Шивы — Брахмы, владыки этого сотворенного мира, и Махадева, искателя высшего знания. Такова природа Махадева — всесторонний поиск высшего начала. И тот, и другой были изумлены, когда Махапрабху низошел в этот мир с *нама-санкиртаной*, принес в этот мир *нама-санкиртану*. Все они смотрели в изумлении: что это? Даже ученые *брамины* были дисквалифицированы. Что такое эта *нама-санкиртана*? Что это такое — трансцендентная радость? Все с изумлением смотрели на этот марш.
 

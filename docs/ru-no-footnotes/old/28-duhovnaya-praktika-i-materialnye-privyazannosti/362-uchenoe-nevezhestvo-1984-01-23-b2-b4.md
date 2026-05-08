@@ -1,18 +1,28 @@
 ---
 slug: 362-uchenoe-nevezhestvo-1984-01-23-b2-b4
+record_id: 1984.01.23.B2.B4
+title: Ученое невежество.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6465524
+  duration: 00:11:05
+  mp3: /wp-content/uploads/2012/08/362_1984.01.23.B2.B4_SridharMJ_Uchenoe_nevejestvo.mp3
+date: 1984-01-23
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
   - title: "1984.01"
     slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/362_1984.01.23.B2.B4_SridharMJ_Uchenoe_nevejestvo.mp3
     title: Скачать аудиозапись в mp3 (11 мин 5 сек, размер 6 Мб)
+legacy:
+  title: 362. Ученое невежество. 1984.01.23.B2.B4
+  index: "362"
+  filename: 362-uchenoe-nevezhestvo-1984-01-23-b2-b4.md
 ---
-
-# 362. Ученое невежество. 1984.01.23.B2.B4
 
 **Ученик:** Гуру Махарадж, в «Шри Иша Упанишад» присутствует мантра, которая утверждает, что знание и невежество следует культивировать одновременно. Что это означает?
 

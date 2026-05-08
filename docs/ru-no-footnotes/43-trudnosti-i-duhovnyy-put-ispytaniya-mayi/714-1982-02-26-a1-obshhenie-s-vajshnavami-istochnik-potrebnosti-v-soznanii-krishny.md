@@ -1,12 +1,20 @@
 ---
 slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
+record_id: 1982.02.26.A1
+title: Общение с вайшнавами – источник потребности в Сознании Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8493817
+  duration: 00:08:31
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3
+date: 1982-02-26
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3
     title: аудиозапись в MP3 (8 мин. 31 сек., 8,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 714. 1982.02.26.A1. Общение с вайшнавами – источник потребности в
+    Сознании Кришны
+  index: "714"
+  filename: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny.md
 ---
-
-# 714. 1982.02.26.A1. Общение с вайшнавами – источник потребности в Сознании Кришны
 
 **Преданный:** Махарадж, вначале, когда мы становимся преданными, говорится, что Кришна не принимает в расчет наши оскорбления, поэтому вначале мы можем совершать прогресс очень быстро, быстрыми темпами, но затем, по прошествии какого-то времени прогресс замедляется. Не могли бы вы объяснить какова причина? Каковы эти оскорбления?
 

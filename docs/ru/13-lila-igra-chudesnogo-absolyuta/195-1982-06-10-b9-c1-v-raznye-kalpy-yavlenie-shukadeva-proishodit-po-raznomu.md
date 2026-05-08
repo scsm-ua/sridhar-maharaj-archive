@@ -1,12 +1,20 @@
 ---
 slug: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu
+record_id: 1982.06.10.B9.C1
+title: В разные калпы явление Шукадева происходит по-разному
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7541632
+  duration: 00:07:27
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/195_1982.06.10.B9.C1_SridharMj_V_raznye_kalpy_javlenie_Shukadeva_proishodit_po-raznomu.mp3
+date: 1982-06-10
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/195_1982.06.10.B9.C1_SridharMj_V_raznye_kalpy_javlenie_Shukadeva_proishodit_po-raznomu.mp3
     title: аудиозапись в MP3 (7 мин. 27 сек., 7,2 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 195. 1982.06.10.B9.C1. В разные калпы явление Шукадева происходит по-разному
+  index: "195"
+  filename: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu.md
 ---
-
-# 195. 1982.06.10.B9.C1. В разные калпы явление Шукадева происходит по-разному
 
 **Преданный:** Махарадж, а когда Шукадев Госвами родился, то он сразу же покинул своего отца, немедленно?
 

@@ -1,5 +1,14 @@
 ---
 slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
+record_id: 1983.11.05.A4
+title: Различные уровни гаятри-мантры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6634621
+  duration: 00:05:56
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.mp3
+date: 1983-11-05
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -18,7 +27,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.10.6
     slug: shrimad-bhagavatam-2-10-6
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.mp3
     title: аудиозапись в MP3 (5 мин. 56 сек., 6,4 МБ)
@@ -26,9 +34,11 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 490. 1983.11.05.A4. Различные уровни гаятри-мантры
+  index: "490"
+  filename: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry.md
 ---
-
-# 490. 1983.11.05.A4. Различные уровни гаятри-мантры
 
 **Госвами Махарадж:** Вы — живой представитель *Вьясадева*, поскольку Вы извлекаете смысл из глубины, открываете его.
 

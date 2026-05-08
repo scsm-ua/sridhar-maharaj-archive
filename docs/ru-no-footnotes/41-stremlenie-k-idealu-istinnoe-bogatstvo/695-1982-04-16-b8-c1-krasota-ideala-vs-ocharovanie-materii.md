@@ -1,12 +1,20 @@
 ---
 slug: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii
+record_id: 1982.04.16.B8.C1
+title: Красота идеала VS очарование материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16014754
+  duration: 00:14:04
+  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3
+date: 1982-04-16
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
 tags:
   - title: "1982.04"
     slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3
     title: аудиозапись в MP3 (14 мин. 03 сек., 15,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (99 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 695. 1982.04.16.B8.C1. Красота идеала VS очарование материи
+  index: "695"
+  filename: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii.md
 ---
-
-# 695. 1982.04.16.B8.C1. Красота идеала VS очарование материи
 
 Нас больше интересует материальное, нежели духовное, поэтому духовная неудовлетворенность возникнет в качестве реакции на подобную позицию. Когда мы предаем слишком большое значение материальному аспекту, мы не можем быть удовлетворены. Этот материальный аспект не может удовлетворить нас, жажду сознания. В конечном счете никто из вас не пришел сюда в поиске материальной роскоши.
 

@@ -1,5 +1,15 @@
 ---
 slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
+record_id: 1982.06.15.A3
+title: О судьбе гьяни в «Гите», «Бхагаватам» и «Чайтанья-чаритамрите».
+  Прославление бхакти в «Гите»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9293720
+  duration: 00:09:07
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3
+date: 1982-06-15
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +18,6 @@ tags:
     slug: 1982-06
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3
     title: аудиозапись в MP3 (9 мин. 06 сек., 8,9 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (160 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.pdf
     title: транскрипцию в PDF (166 КБ)
+legacy:
+  title: 783. 1982.06.15.A3. О судьбе гьяни в «Гите», «Бхагаватам» и
+    «Чайтанья-чаритамрите». Прославление бхакти в «Гите»
+  index: "783"
+  filename: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite.md
 ---
-
-# 783. 1982.06.15.A3. О судьбе гьяни в «Гите», «Бхагаватам» и «Чайтанья-чаритамрите». Прославление бхакти в «Гите»
 
 **Акхаянанда Махарадж:** *Бхакти-йога* и *бхакти* как таковая: *бхакти-йога* — это то же самое, что *бхакти*, или присутствует тонкое различие?
 

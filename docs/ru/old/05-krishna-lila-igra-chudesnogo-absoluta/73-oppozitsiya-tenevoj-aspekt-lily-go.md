@@ -1,18 +1,28 @@
 ---
 slug: 73-oppozitsiya-tenevoj-aspekt-lily-go
+record_id: 1981.03.01.A5.B1
+title: Оппозиция – «теневой» аспект лилы Господа.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8643291
+  duration: 00:16:34
+  mp3: /wp-content/uploads/2012/08/073_1981.03.01.A5.B1_SridharMj_Oppozitsiya-tenevoy_aspekt_lily_Gospoda.mp3
+date: 1981-03-01
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/073_1981.03.01.A5.B1_SridharMj_Oppozitsiya-tenevoy_aspekt_lily_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (16 мин 34 сек, размер 8 Мб)
+legacy:
+  title: 73. Оппозиция – «теневой» аспект лилы Господа. 1981.03.01.A5.B1
+  index: "73"
+  filename: 73-oppozitsiya-tenevoj-aspekt-lily-go.md
 ---
-
-# 73. Оппозиция – «теневой» аспект лилы Господа. 1981.03.01.A5.B1
 
 **Ученик:** Я хочу спросить. Мы видим, когда Кришна… Кришна приходит во многих воплощениях…
 

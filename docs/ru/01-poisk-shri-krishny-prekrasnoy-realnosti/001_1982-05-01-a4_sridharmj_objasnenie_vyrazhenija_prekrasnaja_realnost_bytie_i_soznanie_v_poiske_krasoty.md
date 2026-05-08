@@ -1,5 +1,14 @@
 ---
 slug: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty
+record_id: 1982.05.01.A4
+title: Объяснение понятия «Прекрасная Реальность». Бытие и сознание в поисках счастья
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13582660
+  duration: 00:14:00
+  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.mp3
+date: 1982-05-01
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
@@ -16,7 +25,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.mp3
     title: аудиозапись в MP3 (13 мин 59 сек, 13 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (118 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 001. 1982.05.01.A4 Объяснение понятия «Прекрасная Реальность». Бытие
+    и сознание в поисках счастья
+  index: "001"
+  filename: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md
 ---
-
-# 001. 1982.05.01.A4 Объяснение понятия «Прекрасная Реальность». Бытие и сознание в поисках счастья
 
 Ложное понимание есть, заблуждение, но оно не слишком могущественно, оно не самодостаточно, оно не независимо. Она не поддерживает себя. Заблуждение зависит от Истины, Истина занимает превосходящее положение, а не заблуждение, поэтому твоя транзакция, взаимодействие должно быть всегда с Истиной, с позитивным началом. И что есть позитивное начало, Истина? *Сат-чит-ананда* — таковы характеристики: бессмертное существование, вечное бытие; затем самоосознание; и затем полнота насыщения, удовлетворенность в себе, это Начало удовлетворено в Себе, Оно полное.
 

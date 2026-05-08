@@ -1,5 +1,14 @@
 ---
 slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
+record_id: 1983.11.19.A1.A3
+title: Истории из жизни и поэма, прославляющая Гауракишора Даса Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27262119
+  duration: 00:25:24
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
+date: 1983-11-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -54,7 +63,6 @@ tags:
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-7
   - title: Шри Шримад Гауракишора-намаскара Дашакам 9
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
     title: аудиозапись в MP3 (25 мин. 23 сек., 26,0 МБ)
@@ -62,9 +70,12 @@ links:
     title: транскрипцию в RTF (196 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.pdf
     title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 961. 1983.11.19.A1.A3. Истории из жизни и поэма, прославляющая
+    Гауракишора Даса Бабаджи
+  index: "961"
+  filename: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi.md
 ---
-
-# 961. 1983.11.19.A1.A3. Истории из жизни и поэма, прославляющая Гауракишора Даса Бабаджи
 
 Гауракишор Дас Бабаджи Махарадж, который считается Гурудевом нашего Гуру Махараджа, Бхактисиддханты Сарасвати, день его ухода сегодня. Он был родом из округа Фаритпур Восточной Бенгалии, сейчас это Бангладеш. И приблизительно тридцать два года он провел во Вриндаване, вел уединенную жизнь (*бхаджану*). После этого он пришел в Навадвип и жил возле Барал-гхата, возле этого места омовения в *дхармашале*, в комнате, чтобы избежать дурного общения так называемых *сахаджия-вайшнавов* и других людей с мирским умонастроением.
 

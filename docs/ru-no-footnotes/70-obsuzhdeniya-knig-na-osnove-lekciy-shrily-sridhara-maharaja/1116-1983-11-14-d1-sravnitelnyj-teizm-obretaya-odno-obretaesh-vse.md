@@ -1,12 +1,20 @@
 ---
 slug: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse
+record_id: 1983.11.14.D1
+title: Сравнительный теизм. Обретая Одно – обретаешь все
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10957541
+  duration: 00:10:53
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3
+date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3
     title: аудиозапись в MP3 (10 мин. 52 сек., 10,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 1116. 1983.11.14.D1. Сравнительный теизм. Обретая Одно – обретаешь все
+  index: "1116"
+  filename: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse.md
 ---
-
-# 1116. 1983.11.14.D1. Сравнительный теизм. Обретая Одно – обретаешь все
 
 **Шрила Шридхар Махарадж:** Почему вы оставили Бангладеш?
 

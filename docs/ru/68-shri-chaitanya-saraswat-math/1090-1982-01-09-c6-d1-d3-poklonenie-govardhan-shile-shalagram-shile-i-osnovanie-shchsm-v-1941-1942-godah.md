@@ -1,12 +1,20 @@
 ---
 slug: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah
+record_id: 1982.01.09.C6.D1.D3
+title: Поклонение Говардхан-шиле, Шалаграм-шиле и основание ШЧСМ в 1941-1942 годах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4890824
+  duration: 00:06:32
+  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3
+date: 1982-01-09
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3
     title: аудиозапись в MP3 (6 мин. 32 сек., 4,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 1090. 1982.01.09.C6.D1.D3. Поклонение Говардхан-шиле, Шалаграм-шиле и
+    основание ШЧСМ в 1941-1942 годах
+  index: "1090"
+  filename: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah.md
 ---
-
-# 1090. 1982.01.09.C6.D1.D3. Поклонение Говардхан-шиле, Шалаграм-шиле и основание ШЧСМ в 1941–1942 годах
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна…
 

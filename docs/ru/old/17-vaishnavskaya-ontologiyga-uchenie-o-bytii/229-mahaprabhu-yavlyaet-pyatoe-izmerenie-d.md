@@ -1,5 +1,14 @@
 ---
 slug: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d
+record_id: 1983.07.19.B2
+title: Махапрабху являет пятое измерение духовного бытия.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2756732
+  duration: 00:05:17
+  mp3: /wp-content/uploads/2012/08/229_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
+date: 1983-07-19
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
@@ -14,13 +23,14 @@ tags:
     slug: mahaprabhu
   - title: Шанкара
     slug: shankara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/229_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
     title: Скачать аудиозапись в mp3 (5 мин 17 сек, размер 2 Мб)
+legacy:
+  title: 229. Махапрабху являет пятое измерение духовного бытия. 1983.07.19.B2
+  index: "229"
+  filename: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d.md
 ---
-
-# 229. Махапрабху являет пятое измерение духовного бытия. 1983.07.19.B2
 
 Ученик: Когда Эйнштейн появился, он выступил против Ньютона.\
 Шридхар Махарадж: Последователи Ньютона вначале отвергали мнение Эйнтшейна, но впоследствии были вынуждены признать его правоту.\

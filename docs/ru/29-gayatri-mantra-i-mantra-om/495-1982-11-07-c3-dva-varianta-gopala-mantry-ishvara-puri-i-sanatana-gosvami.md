@@ -1,5 +1,14 @@
 ---
 slug: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami
+record_id: 1982.11.07.C3
+title: Два варианта гопала-мантры – Ишвара Пури и Санатана Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1976466
+  duration: 00:01:05
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.mp3
+date: 1982-11-07
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -8,7 +17,6 @@ tags:
     slug: 1982-11
   - title: Гаятри-мантра
     slug: gayatri-mantra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.mp3
     title: аудиозапись в MP3 (1 мин. 05 сек., 1,9 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (39 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 495. 1982.11.07.C3. Два варианта гопала-мантры – Ишвара Пури и Санатана
+    Госвами
+  index: "495"
+  filename: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami.md
 ---
-
-# 495. 1982.11.07.C3. Два варианта гопала-мантры – Ишвара Пури и Санатана Госвами
 
 **Преданный:** Вираха Пракаш Махарадж также говорит, что в «Брихад-Бхагаватамритам» Санатана Госвами упоминает *гопала-мантру*, а что это за мантра?
 

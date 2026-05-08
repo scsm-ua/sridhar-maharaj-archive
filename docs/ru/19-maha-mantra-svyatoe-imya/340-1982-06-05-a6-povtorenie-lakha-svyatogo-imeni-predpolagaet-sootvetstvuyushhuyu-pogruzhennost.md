@@ -1,5 +1,14 @@
 ---
 slug: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost
+record_id: 1982.06.05.A6
+title: Повторение лакха Святого Имени предполагает соответствующую погруженность
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3681406
+  duration: 00:03:30
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3
+date: 1982-06-05
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -16,7 +25,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3
     title: аудиозапись в MP3 (3 мин. 30 сек., 3,6 МБ)
@@ -24,9 +32,12 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 340. 1982.06.05.A6. Повторение лакха Святого Имени предполагает
+    соответствующую погруженность
+  index: "340"
+  filename: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost.md
 ---
-
-# 340. 1982.06.05.A6. Повторение лакха Святого Имени предполагает соответствующую погруженность
 
 **Видагдха Мадхава Прабху:** Махарадж, почему Махапрабху так говорил, почему Он сказал, что будет принимать *прасадам* только в доме того, кто повторяет один *лакх*? Почему Он так сказал?
 

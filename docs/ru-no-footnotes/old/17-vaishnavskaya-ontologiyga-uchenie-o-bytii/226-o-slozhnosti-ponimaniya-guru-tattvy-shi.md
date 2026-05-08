@@ -1,18 +1,29 @@
 ---
 slug: 226-o-slozhnosti-ponimaniya-guru-tattvy-shi
+record_id: 1981.08.30.A2
+title: О сложности понимания гуру-таттвы, шива-таттвы и джива-таттвы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3361520
+  duration: 00:06:33
+  mp3: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
+date: 1981-08-30
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
   - title: "1981.08"
     slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
     title: Скачать аудиозапись в mp3 (6 мин 33 сек, размер 3 Мб)
+legacy:
+  title: 226. О сложности понимания гуру-таттвы, шива-таттвы и джива-таттвы.
+    1981.08.30.A2
+  index: "226"
+  filename: 226-o-slozhnosti-ponimaniya-guru-tattvy-shi.md
 ---
-
-# 226. О сложности понимания гуру-таттвы, шива-таттвы и джива-таттвы. 1981.08.30.A2
 
 Я слышал вчера от Венкатты, что вы сказали, очень трудно понять вайшнавскую философию, а следующие реалии вайшнавской философии трудно понять: гуру-татва, нама-таттву, дхама-таттву, шива-таттву, джива-таттву. Да, гуру-таттву. Бхед-абхед. Вначале Господь Гуру, а постепенно, когда мы находим дифференцированный характер, то мы видим самого возлюбленного Его слугу.
 

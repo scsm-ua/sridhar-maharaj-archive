@@ -1,12 +1,20 @@
 ---
 slug: 648-1983-11-02-a7-vse-prebyvaet-v-soznanii-tri-aspekta-absolyuta
+record_id: 1983.11.02.A7
+title: Все пребывает в сознании. Три аспекта Абсолюта
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5736939
+  duration: 00:05:00
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/648_1983.11.02.A7_SridharMj_Vse_prebyvaet_v_soznanii__Tri_aspekta_Absoljuta.mp3
+date: 1983-11-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/648_1983.11.02.A7_SridharMj_Vse_prebyvaet_v_soznanii__Tri_aspekta_Absoljuta.mp3
     title: аудиозапись в MP3 (5 мин. 00 сек., 5,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/648_1983.11.02.A7_SridharMj_Vse_prebyvaet_v_soznanii__Tri_aspekta_Absoljuta.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 648. 1983.11.02.A7. Все пребывает в сознании. Три аспекта Абсолюта
+  index: "648"
+  filename: 648-1983-11-02-a7-vse-prebyvaet-v-soznanii-tri-aspekta-absolyuta.md
 ---
-
-# 648. 1983.11.02.A7. Все пребывает в сознании. Три аспекта Абсолюта
 
 **Преданный:** Недавно наука открыла, что эти частицы — электроны — одновременно и частицы, и волна. Похоже на концепцию Махапрабху — *ачинтья бхедабхеда*.
 

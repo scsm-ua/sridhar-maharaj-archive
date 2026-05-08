@@ -1,12 +1,20 @@
 ---
 slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
+record_id: 1982.06.19.B3
+title: Различия в понимании Кришны и Его окружения у смартов, вайшнавов и шанкаритов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2493137
+  duration: 00:02:29
+  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
+date: 1982-06-19
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
     title: аудиозапись в MP3 (2 мин. 29 сек., 2,4 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 894. 1982.06.19.B3. Различия в понимании Кришны и Его окружения у
+    смартов, вайшнавов и шанкаритов
+  index: "894"
+  filename: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov.md
 ---
-
-# 894. 1982.06.19.B3. Различия в понимании Кришны и Его окружения у смартов, вайшнавов и шанкаритов
 
 **Акхаянанда Махарадж:** Махарадж, нам говорят, что в Кали-югу — *харер на̄маива кевалам*[^_ftn1]. И *гуна-киртана*, *рупа-киртана*, *лила-киртана* — все это включено в *нама-киртан*?
 

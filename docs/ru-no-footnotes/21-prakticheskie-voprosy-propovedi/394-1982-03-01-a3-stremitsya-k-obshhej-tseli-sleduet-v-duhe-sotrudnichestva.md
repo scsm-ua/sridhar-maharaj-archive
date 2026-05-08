@@ -1,5 +1,14 @@
 ---
 slug: 394-1982-03-01-a3-stremitsya-k-obshhej-tseli-sleduet-v-duhe-sotrudnichestva
+record_id: 1982.03.01.A3
+title: Стремиться к общей цели следует в духе сотрудничества
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2722532
+  duration: 00:03:54
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.mp3
+date: 1982-03-01
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-03
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.mp3
     title: аудиозапись в MP3 (3 мин. 54 сек., 2,6 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 394. 1982.03.01.A3. Стремиться к общей цели следует в духе сотрудничества
+  index: "394"
+  filename: 394-1982-03-01-a3-stremitsya-k-obshhej-tseli-sleduet-v-duhe-sotrudnichestva.md
 ---
-
-# 394. 1982.03.01.A3. Стремиться к общей цели следует в духе сотрудничества
 
 Мы пришли, чтобы помочь. Наши внутренние конфликты, различия и узкие взгляды — мы не должны позволять им препятствовать нашей общей, совместной работе. Работа нашего общего Владыки не должна сталкиваться с препятствиями. В этом настроении мы должны пытаться работать вместе. Гармонично мы будем помогать друг другу в нашей собственной кампании, в походе. Многочисленные генералы одной страны — если они завидуют друг другу, это очень опасная ситуация. Сотрудничество.
 

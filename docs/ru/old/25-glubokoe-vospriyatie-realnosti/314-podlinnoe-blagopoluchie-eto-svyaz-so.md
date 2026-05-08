@@ -1,5 +1,14 @@
 ---
 slug: 314-podlinnoe-blagopoluchie-eto-svyaz-so
+record_id: 1983.03.30.A2
+title: Подлинное благополучие — это связь со служением Господу.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2291650
+  duration: 00:03:58
+  mp3: /wp-content/uploads/2012/08/314_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
+date: 1983-03-30
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
@@ -8,13 +17,14 @@ tags:
     slug: 1983-03
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/314_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
     title: Скачать аудиозапись в mp3 (3 мин 58 сек, размер 2 Мб)
+legacy:
+  title: 314. Подлинное благополучие — это связь со служением Господу. 1983.03.30.A2
+  index: "314"
+  filename: 314-podlinnoe-blagopoluchie-eto-svyaz-so.md
 ---
-
-# 314. Подлинное благополучие — это связь со служением Господу. 1983.03.30.A2
 
 **Шридхар Махарадж:** Как ты поживаешь?
 

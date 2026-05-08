@@ -1,5 +1,14 @@
 ---
 slug: 93-otlichie-ekspansij-jogov-ot-ekspansij
+record_id: 1983.01.10.B2
+title: Отличие экспансий йогов от экспансий Кришны.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4127682
+  duration: 00:04:02
+  mp3: /wp-content/uploads/2012/08/093_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
+date: 1983-01-10
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
@@ -10,13 +19,14 @@ tags:
     slug: joga
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/093_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
     title: Скачать аудиозапись в mp3 (4 мин 2 сек, размер 4 Мб)
+legacy:
+  title: 93. Отличие экспансий йогов от экспансий Кришны. 1983.01.10.B2
+  index: "93"
+  filename: 93-otlichie-ekspansij-jogov-ot-ekspansij.md
 ---
-
-# 93. Отличие экспансий йогов от экспансий Кришны. 1983.01.10.B2
 
 **Преданный:** Махарадж, этот автор очень популярный на Западе.
 

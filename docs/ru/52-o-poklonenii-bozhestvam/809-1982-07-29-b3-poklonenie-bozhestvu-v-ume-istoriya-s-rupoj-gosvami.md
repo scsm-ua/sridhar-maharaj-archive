@@ -1,5 +1,14 @@
 ---
 slug: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami
+record_id: 1982.07.29.B3
+title: Поклонение Божеству в уме. История с Рупой Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7376640
+  duration: 00:06:41
+  mp3: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3
+date: 1982-07-29
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
@@ -12,7 +21,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.27.12
     slug: shrimad-bhagavatam-11-27-12
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 7,1 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 809. 1982.07.29.B3. Поклонение Божеству в уме. История с Рупой Госвами
+  index: "809"
+  filename: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami.md
 ---
-
-# 809. 1982.07.29.B3. Поклонение Божеству в уме. История с Рупой Госвами
 
 **Преданный:** Махарадж?
 

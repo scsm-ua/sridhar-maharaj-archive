@@ -1,5 +1,14 @@
 ---
 slug: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi
+record_id: 1982.03.13.A
+title: Махапрабху провозглашает смирение и терпение основой проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18261942
+  duration: 00:18:48
+  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3
+date: 1982-03-13
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -20,7 +29,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3
     title: аудиозапись в MP3 (18 мин. 48 сек., 17,5 МБ)
@@ -28,9 +36,12 @@ links:
     title: транскрипцию в RTF (160 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 363. 1982.03.13.A. Махапрабху провозглашает смирение и терпение основой
+    проповеди
+  index: "363"
+  filename: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi.md
 ---
-
-# 363. 1982.03.13.A. Махапрабху провозглашает смирение и терпение основой проповеди
 
 Существует высказывание: мерилом, критерием учености ученых служит понимание наставлений «Бхагаватам». «Бхагаватам» не позволяет ученым проводить их время в праздных разговорах. «Бхагаватам» призывает всех ученых к служению. Служение необходимо, не воображаемая спекуляция является целью жизни, но *сева*, служение. Это критерий, благодаря которому возможно измерить степень прогресса, развития.
 

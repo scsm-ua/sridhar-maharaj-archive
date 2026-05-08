@@ -1,5 +1,15 @@
 ---
 slug: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva
+record_id: 1983.01.02.A2.1
+title: Правильное понимание принципов «упование на защиту Господа» и «принятие
+  Его покровительства»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3550427
+  duration: 00:06:12
+  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3
+date: 1983-01-02
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
@@ -12,7 +22,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3
     title: аудиозапись в MP3 (6 мин. 11 сек., 3,4 МБ)
@@ -20,9 +29,12 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 827. 1983.01.02.A2.1. Правильное понимание принципов «упование на защиту
+    Господа» и «принятие Его покровительства»
+  index: "827"
+  filename: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva.md
 ---
-
-# 827. 1983.01.02.A2.1. Правильное понимание принципов «упование на защиту Господа» и «принятие Его покровительства»
 
 **Преданная:** Гуру Махарадж!
 

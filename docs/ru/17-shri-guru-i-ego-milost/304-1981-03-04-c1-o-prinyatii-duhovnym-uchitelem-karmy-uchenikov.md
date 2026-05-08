@@ -1,5 +1,14 @@
 ---
 slug: 304-1981-03-04-c1-o-prinyatii-duhovnym-uchitelem-karmy-uchenikov
+record_id: 1981.03.04.C1
+title: О принятии духовным учителем кармы учеников
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5308896
+  duration: 00:08:17
+  mp3: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3
+date: 1981-03-04
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -14,7 +23,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3
     title: аудиозапись в MP3 (8 мин. 17 сек., 5,1 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 304. 1981.03.04.C1. О принятии духовным учителем кармы учеников
+  index: "304"
+  filename: 304-1981-03-04-c1-o-prinyatii-duhovnym-uchitelem-karmy-uchenikov.md
 ---
-
-# 304. 1981.03.04.C1. О принятии духовным учителем кармы учеников
 
 **Преданный:** Могу я вас спросить?
 

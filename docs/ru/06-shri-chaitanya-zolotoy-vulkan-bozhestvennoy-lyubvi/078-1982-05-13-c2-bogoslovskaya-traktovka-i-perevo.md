@@ -1,12 +1,20 @@
 ---
 slug: 078-1982-05-13-c2-bogoslovskaya-traktovka-i-perevo
+record_id: 1982.05.13.C2
+title: Богословская трактовка и перевод слова «гаудия»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5046471
+  duration: 00:04:21
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/078_1982.05.13.C2_SridharMj_Bogoslovskaja_traktovka_i_perevod_slova_gaudija.mp3
+date: 1982-05-13
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/078_1982.05.13.C2_SridharMj_Bogoslovskaja_traktovka_i_perevod_slova_gaudija.mp3
     title: аудиозапись в MP3 (04 мин. 20 сек., 4.8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/078_1982.05.13.C2_SridharMj_Bogoslovskaja_traktovka_i_perevod_slova_gaudija.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 078. 1982.05.13.C2. Богословская трактовка и перевод слова «гаудия»
+  index: "078"
+  filename: 078-1982-05-13-c2-bogoslovskaya-traktovka-i-perevo.md
 ---
-
-# 078. 1982.05.13.C2. Богословская трактовка и перевод слова «гаудия»
 
 …Мы оказывали Ему почтение формально, но теперь я не могу не оценить по достоинству Чайтаньядева, мы думали что Чайтаньядев был причиной падения орисской империи, но также в Ориссе существовала традиция *нара-бали*, человеческих жертвоприношений. Юношей приносили в жертву практически в каждом храме — подобная традиция, и только благодаря влиянию Шри Чайтаньядева Орисса освободилась от подобной злокозненной практики.
 

@@ -1,5 +1,14 @@
 ---
 slug: 476-1982-01-13-a1-osoboe-polozhenie-subala-sakhi
+record_id: 1982.01.13.A1
+title: Особое положение Субала Сакхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2758635
+  duration: 00:04:57
+  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.mp3
+date: 1982-01-13
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
@@ -10,7 +19,6 @@ tags:
     slug: radharani
   - title: Субал Сакха
     slug: subal-sakha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.mp3
     title: аудиозапись в MP3 (4 мин. 46 сек., 2,7 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 476. 1982.01.13.A1. Особое положение Субала Сакхи
+  index: "476"
+  filename: 476-1982-01-13-a1-osoboe-polozhenie-subala-sakhi.md
 ---
-
-# 476. 1982.01.13.A1. Особое положение Субала Сакхи
 
 Шридам — это брат Радхарани, старший брат. Субал тесно связан с домом родственников Радхарани, очень юн и очень похож на Радхарани. Красив собой и практически копия Радхарани.
 

@@ -1,5 +1,14 @@
 ---
 slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
+record_id: 1982.05.06.A3
+title: Молитва чистого преданного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3522539
+  duration: 00:03:06
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3
+date: 1982-05-06
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3
     title: аудиозапись в MP3 (3 мин. 06 сек., 3,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 774. 1982.05.06.A3. Молитва чистого преданного
+  index: "774"
+  filename: 774-1982-05-06-a3-molitva-chistogo-predannogo.md
 ---
-
-# 774. 1982.05.06.A3. Молитва чистого преданного
 
     пашу-пакши хойе тхаки сварге ба ниройе
 [^_ftn1]

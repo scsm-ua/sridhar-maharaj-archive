@@ -1,5 +1,14 @@
 ---
 slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
+record_id: 1982.05.14.C3
+title: Способен ли Ты покинуть мое сердце?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4421569
+  duration: 00:04:02
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3
+date: 1982-05-14
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3
     title: аудиозапись в MP3 (4 мин. 02 сек., 4,3 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 768. 1982.05.14.C3. Способен ли Ты покинуть мое сердце?
+  index: "768"
+  filename: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse.md
 ---
-
-# 768. 1982.05.14.C3. Способен ли Ты покинуть мое сердце?
 
     [шлока]
 

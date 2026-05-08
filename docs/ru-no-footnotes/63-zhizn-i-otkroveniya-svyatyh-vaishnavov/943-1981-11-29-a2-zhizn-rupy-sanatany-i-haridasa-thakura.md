@@ -1,12 +1,20 @@
 ---
 slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
+record_id: 1981.11.29.A2
+title: Жизнь Рупы, Санатаны и Харидаса Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12891637
+  duration: 00:20:51
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
+date: 1981-11-29
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1981.11"
     slug: 1981-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
     title: аудиозапись в MP3 (20 мин. 51 сек., 12,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (183 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 943. 1981.11.29.A2. Жизнь Рупы, Санатаны и Харидаса Тхакура
+  index: "943"
+  filename: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
 ---
-
-# 943. 1981.11.29.A2. Жизнь Рупы, Санатаны и Харидаса Тхакура
 
 **Преданный:** Только что вы объяснили, как привести индусов, хинду к высшей цели — Кришне. Но что касается мусульман? Мусульман мы ведь тоже хотим привести к этой высшей цели — к Кришне.
 

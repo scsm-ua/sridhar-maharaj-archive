@@ -1,18 +1,28 @@
 ---
 slug: 228-adhokshadzha-aprakrita-transtsendent
+title: Адхокшаджа, апракрита, трансцендентное. Мгновения прекрасной реальности,
+  часть 4.7
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1049256
+  duration: 00:02:20
+  mp3: /wp-content/uploads/2012/08/228_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/228_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
     title: Скачать аудиозапись в mp3 (2 мин 20 сек, размер 1 Мб)
+legacy:
+  title: 228. Адхокшаджа, апракрита, трансцендентное. Мгновения прекрасной
+    реальности, часть 4.7
+  index: "228"
+  filename: 228-adhokshadzha-aprakrita-transtsendent.md
 ---
-
-# 228. Адхокшаджа, апракрита, трансцендентное. Мгновения прекрасной реальности, часть 4.7
 
 **Преданный:** Махарадж, каков смысл высшей энергии Господа, внутренней, самой близкой энергии Господа?
 

@@ -1,12 +1,20 @@
 ---
 slug: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu
+record_id: 1982.02.19.C8
+title: Почему Бали Махарадж отверг своего гуру Шукрачарью?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2447128
+  duration: 00:04:35
+  mp3: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
+date: 1982-02-19
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
     title: аудиозапись в MP3 (4 мин. 34 сек., 2,4 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 301. 1982.02.19.C8. Почему Бали Махарадж отверг своего гуру Шукрачарью?
+  index: "301"
+  filename: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu.md
 ---
-
-# 301. 1982.02.19.C8. Почему Бали Махарадж отверг своего гуру Шукрачарью?
 
 *«Мгновения Прекрасной Реальности» (часть 8.8)*
 

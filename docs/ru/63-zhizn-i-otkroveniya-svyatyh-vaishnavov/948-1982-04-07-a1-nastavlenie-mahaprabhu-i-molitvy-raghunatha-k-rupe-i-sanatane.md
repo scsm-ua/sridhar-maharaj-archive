@@ -1,5 +1,14 @@
 ---
 slug: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane
+record_id: 1982.04.07.A1
+title: Наставление Махапрабху и молитвы Рагхунатха к Рупе и Санатане
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20821786
+  duration: 00:18:41
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3
+date: 1982-04-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
@@ -30,7 +39,6 @@ tags:
     slug: kali-ghora-timire
   - title: Кали-гхора тимире 1
     slug: kali-ghora-timire-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3
     title: аудиозапись в MP3 (18 мин. 41 сек., 19,9 МБ)
@@ -38,9 +46,12 @@ links:
     title: транскрипцию в RTF (223 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.pdf
     title: транскрипцию в PDF (178 КБ)
+legacy:
+  title: 948. 1982.04.07.A1. Наставление Махапрабху и молитвы Рагхунатха к Рупе и
+    Санатане
+  index: "948"
+  filename: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane.md
 ---
-
-# 948. 1982.04.07.A1. Наставление Махапрабху и молитвы Рагхунатха к Рупе и Санатане
 
 Он пришел, непосредственно, к Махапрабху. И тот, опеке которого Он вверил его [Сварупа Дамодара — о нем идет речь — *переводчик*], рассматривали как второе «Я» Махапрабху:
 

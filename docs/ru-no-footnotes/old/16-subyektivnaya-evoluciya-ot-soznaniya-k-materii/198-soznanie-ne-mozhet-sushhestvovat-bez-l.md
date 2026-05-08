@@ -1,5 +1,13 @@
 ---
 slug: 198-soznanie-ne-mozhet-sushhestvovat-bez-l
+title: Сознание не может существовать без личности. Онтология прекрасной
+  реальности, часть 7.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12232568
+  duration: 00:12:40
+  mp3: /wp-content/uploads/2012/08/198_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -12,13 +20,15 @@ tags:
     slug: paramatma
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/198_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
     title: Скачать аудиозапись в mp3 (12 мин 14 сек, размер 12 Мб)
+legacy:
+  title: 198. Сознание не может существовать без личности. Онтология прекрасной
+    реальности, часть 7.3
+  index: "198"
+  filename: 198-soznanie-ne-mozhet-sushhestvovat-bez-l.md
 ---
-
-# 198. Сознание не может существовать без личности. Онтология прекрасной реальности, часть 7.3
 
 **Ученик:** Махарадж.
 

@@ -1,12 +1,20 @@
 ---
 slug: 688-1983-11-02-a5-kak-vesti-sebya-v-hramah-razlichnyh-polubogov-i-bozhestv
+record_id: 1983.11.02.A5
+title: Как вести себя в храмах различных полубогов и Божеств?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2381469
+  duration: 00:01:41
+  mp3: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3
+date: 1983-11-02
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3
     title: аудиозапись в MP3 (1 мин. 40 сек., 2,3 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.pdf
     title: транскрипцию в PDF (112 КБ)
+legacy:
+  title: 688. 1983.11.02.A5. Как вести себя в храмах различных полубогов и Божеств?
+  index: "688"
+  filename: 688-1983-11-02-a5-kak-vesti-sebya-v-hramah-razlichnyh-polubogov-i-bozhestv.md
 ---
-
-# 688. 1983.11.02.A5. Как вести себя в храмах различных полубогов и Божеств?
 
 **Преданный:** Как мы должны относиться к другим Божествам, вести себя в других Храмах?
 

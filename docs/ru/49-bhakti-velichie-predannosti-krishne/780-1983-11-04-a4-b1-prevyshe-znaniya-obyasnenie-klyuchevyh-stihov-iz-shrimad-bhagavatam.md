@@ -1,5 +1,14 @@
 ---
 slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
+record_id: 1983.11.04.A4.B1
+title: Превыше знания. Объяснение ключевых стихов из «Шримад-Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 26258264
+  duration: 00:26:47
+  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3
+date: 1983-11-04
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
@@ -42,7 +51,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 25,1 МБ)
@@ -50,9 +58,12 @@ links:
     title: транскрипцию в RTF (220 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.pdf
     title: транскрипцию в PDF (211 КБ)
+legacy:
+  title: 780. 1983.11.04.А4.B1. Превыше знания. Объяснение ключевых стихов из
+    «Шримад-Бхагаватам»
+  index: "780"
+  filename: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam.md
 ---
-
-# 780. 1983.11.04.А4.B1. Превыше знания. Объяснение ключевых стихов из «Шримад-Бхагаватам»
 
 …Чтобы понять принципы Шри Чайтаньядева, Гаудия Матха с открытым умом, поэтому считалось вначале, что я не понимаю, что такое дипломатия или тактичность, такт. Но я пришел, чтобы с открытым умом понять, каково истинное учение Шри Чайтаньядева.
 

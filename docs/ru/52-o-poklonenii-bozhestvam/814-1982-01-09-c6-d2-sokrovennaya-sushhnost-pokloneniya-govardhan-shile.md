@@ -1,5 +1,14 @@
 ---
 slug: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile
+record_id: 1982.01.09.C6.D2
+title: Сокровенная сущность поклонения Говардхан-шиле
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9549395
+  duration: 00:17:54
+  mp3: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3
+date: 1982-01-09
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
@@ -12,7 +21,6 @@ tags:
     slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 102
     slug: shri-vilapa-kusumandzhali-102
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3
     title: аудиозапись в MP3 (17 мин. 54 сек., 9,2 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 814. 1982.01.09.C6.D2. Сокровенная сущность поклонения Говардхан-шиле
+  index: "814"
+  filename: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile.md
 ---
-
-# 814. 1982.01.09.C6.D2. Сокровенная сущность поклонения Говардхан-шиле
 
 Махапрабху дал *Говардхана-шилу* Рагхунатху Дасу Госвами. Поклонение *Говардхана-шиле* это *рага-марг*, *Шалаграм-шила* — это поклонение в духе Вайкунтхи, поклонение Вайкунтхи. Наш Гуру Махарадж хотел показать, что Голока выше Вайкунтхи. Тот, кто достиг Голоки, быстро проходит Вайкунтху, оставляет ее позади, это не есть наша цель, это нечто провинциальное. Вайкунтха.
 

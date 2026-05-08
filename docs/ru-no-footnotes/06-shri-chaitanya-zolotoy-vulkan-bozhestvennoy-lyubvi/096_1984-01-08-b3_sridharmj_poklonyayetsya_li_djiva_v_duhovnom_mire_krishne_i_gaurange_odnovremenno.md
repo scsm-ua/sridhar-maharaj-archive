@@ -1,5 +1,14 @@
 ---
 slug: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
+record_id: 1984.01.08.B3
+title: Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3861137
+  duration: 00:03:07
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/096_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
+date: 1984-01-08
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1984-01
   - title: with English audio
     slug: with-english-audio
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/096_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
     title: аудиозапись в MP3 (3 мин. 06 сек., 3.7 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/096_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 096. 1984.01.08.B3 Поклоняется ли джива в духовном мире Кришне и Гауранге
+    одновременно?
+  index: "096"
+  filename: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno.md
 ---
-
-# 096. 1984.01.08.B3 Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
 
 **Преданный:** Махарадж!
 

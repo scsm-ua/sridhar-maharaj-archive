@@ -1,12 +1,20 @@
 ---
 slug: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi
+record_id: 1982.03.08.B6
+title: Мир вожделения и мир любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6741451
+  duration: 00:04:01
+  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/562_1982.03.08.B6_SridharMj_Mir_vozhdelenijai_i_mir_ljubvi.mp3
+date: 1982-03-08
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
 tags:
   - title: "1982.03"
     slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/562_1982.03.08.B6_SridharMj_Mir_vozhdelenijai_i_mir_ljubvi.mp3
     title: аудиозапись в MP3 (4 мин. 00 сек., 6,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/562_1982.03.08.B6_SridharMj_Mir_vozhdelenijai_i_mir_ljubvi.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 562. 1982.03.08.B6. Мир вожделения и мир любви
+  index: "562"
+  filename: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi.md
 ---
-
-# 562. 1982.03.08.B6. Мир вожделения и мир любви
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

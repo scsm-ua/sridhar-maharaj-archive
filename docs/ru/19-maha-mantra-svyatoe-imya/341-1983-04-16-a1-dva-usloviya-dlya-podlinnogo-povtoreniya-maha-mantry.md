@@ -1,5 +1,14 @@
 ---
 slug: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry
+record_id: 1983.04.16.A1
+title: Два условия для подлинного повторения маха-мантры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2989798
+  duration: 00:05:34
+  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
+date: 1983-04-16
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
@@ -10,7 +19,6 @@ tags:
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 2,9 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 341. 1983.04.16.A1. Два условия для подлинного повторения маха-мантры
+  index: "341"
+  filename: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry.md
 ---
-
-# 341. 1983.04.16.A1. Два условия для подлинного повторения маха-мантры
 
 **Преданный:** Это вопрос я задавал раз или два: мы вдохновляем каждого, воодушевляем каждого повторять Харе Кришна мантру, однако видим в «Падма-пуране» сказано: «Без должного посвящения мантра не имеет эффекта». Те, кто лишены подлинной, должной связи, могут ли получить некое благо от повторения мантры?
 

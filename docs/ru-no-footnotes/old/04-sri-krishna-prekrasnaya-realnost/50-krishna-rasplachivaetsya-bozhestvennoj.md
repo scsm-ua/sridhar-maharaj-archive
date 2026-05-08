@@ -1,18 +1,28 @@
 ---
 slug: 50-krishna-rasplachivaetsya-bozhestvennoj
+record_id: 1980.07.11.A3
+title: Кришна расплачивается божественной любовью.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4026965
+  duration: 00:04:34
+  mp3: /wp-content/uploads/2012/08/050_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
+date: 1980-07-11
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
   - title: "1980.07"
     slug: 1980-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/050_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
     title: Скачать аудиозапись в mp3 (4 мин 34 сек, размер 4 Мб)
+legacy:
+  title: 50. Кришна расплачивается божественной любовью. 1980.07.11.A3
+  index: "50"
+  filename: 50-krishna-rasplachivaetsya-bozhestvennoj.md
 ---
-
-# 50. Кришна расплачивается божественной любовью. 1980.07.11.A3
 
 **Преданный:** Он – возлюбленный слуга, возлюбленный ученик Хамсадута Махараджа. Радха Говинда Дас – особое имя.
 

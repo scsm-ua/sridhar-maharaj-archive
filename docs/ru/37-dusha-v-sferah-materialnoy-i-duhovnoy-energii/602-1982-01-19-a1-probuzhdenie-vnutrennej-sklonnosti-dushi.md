@@ -1,5 +1,14 @@
 ---
 slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
+record_id: 1982.01.19.A1
+title: Пробуждение внутренней склонности души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11243802
+  duration: 00:20:02
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
+date: 1982-01-19
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -28,7 +37,6 @@ tags:
     slug: bhagavad-gita-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
     title: аудиозапись в MP3 (20 мин. 01 сек., 10,8 МБ)
@@ -36,9 +44,11 @@ links:
     title: транскрипцию в RTF (200 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 602. 1982.01.19.A1. Пробуждение внутренней склонности души
+  index: "602"
+  filename: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi.md
 ---
-
-# 602. 1982.01.19.A1. Пробуждение внутренней склонности души
 
 **Преданный:** Махарадж, Дас Госвами является *прайоджана-ачарьей*?
 

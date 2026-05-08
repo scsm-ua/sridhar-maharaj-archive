@@ -1,5 +1,14 @@
 ---
 slug: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti
+record_id: 1985.10.05.A2
+title: Могущество тонкой силы смирения и жертвенности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3580186
+  duration: 00:05:42
+  mp3: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3
+date: 1985-10-05
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
@@ -12,7 +21,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3
     title: аудиозапись в MP3 (5 мин. 41 сек., 3,5 МБ)
@@ -20,9 +28,11 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 380. 1985.10.05.A2. Могущество тонкой силы смирения и жертвенности
+  index: "380"
+  filename: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti.md
 ---
-
-# 380. 1985.10.05.A2. Могущество тонкой силы смирения и жертвенности
 
 **Преданный:** Гуру Махарадж, мне очень трудно привести в гармонию дух «*тр̣на̄д апи сунӣчена*[^_ftn1]» и революционную борьбу против эксплуатации.
 

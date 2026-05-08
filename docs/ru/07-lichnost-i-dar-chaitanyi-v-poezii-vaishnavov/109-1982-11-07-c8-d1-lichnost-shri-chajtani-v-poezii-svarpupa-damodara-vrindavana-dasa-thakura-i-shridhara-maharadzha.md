@@ -1,5 +1,15 @@
 ---
 slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
+record_id: 1982.11.07.C8.D1
+title: Личность Шри Чайтаньи в поэзии Сварпупа Дамодара, Вриндавана даса Тхакура
+  и Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13289180
+  duration: 00:13:36
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.mp3
+date: 1982-11-07
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -18,7 +28,6 @@ tags:
     slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.71
     slug: shri-chajtanya-bhagavata-adi-khanda-1-71
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (13 мин. 35 сек., 12,7 МБ)
@@ -26,9 +35,12 @@ links:
     title: транскрипцию в RTF (181 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 109. 1982.11.07.C8.D1. Личность Шри Чайтаньи в поэзии Сварпупа Дамодара,
+    Вриндавана даса Тхакура и Шридхара Махараджа
+  index: "109"
+  filename: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha.md
 ---
-
-# 109. 1982.11.07.C8.D1. Личность Шри Чайтаньи в поэзии Сварпупа Дамодара, Вриндавана даса Тхакура и Шридхара Махараджа
 
 **Слушатель:** Гуру Махарадж, в «Нектаре преданности» наш Гурудев [Шрила Бхактиведанта Свами] написал: «Было время, когда Кришна захотел разделить Себя на Радху и Кришну». Выходит, что было время, когда Они не были разделены. Было ли такое время, когда Радха и Кришна не были разделены?
 

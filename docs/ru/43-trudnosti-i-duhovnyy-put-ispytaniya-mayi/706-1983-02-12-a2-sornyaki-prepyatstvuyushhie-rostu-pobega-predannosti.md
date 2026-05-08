@@ -1,5 +1,14 @@
 ---
 slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
+record_id: 1983.02.12.A2
+title: Сорняки, препятствующие росту побега преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6856464
+  duration: 00:13:38
+  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3
+date: 1983-02-12
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
@@ -16,7 +25,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3
     title: аудиозапись в MP3 (13 мин. 38 сек., 6,6 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в RTF (136 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 706. 1983.02.12.A2. Сорняки, препятствующие росту побега преданности
+  index: "706"
+  filename: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti.md
 ---
-
-# 706. 1983.02.12.A2. Сорняки, препятствующие росту побега преданности
 
 **Преданный:** Махарадж, похоже, что многие духовные братья уходят из общества, из ИССКОН. Но они не приходят к вам, чтобы слушать вас.
 

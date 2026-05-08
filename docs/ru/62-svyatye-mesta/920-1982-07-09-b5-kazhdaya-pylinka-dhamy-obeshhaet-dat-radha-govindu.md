@@ -1,5 +1,14 @@
 ---
 slug: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu
+record_id: 1982.07.09.B5
+title: Каждая пылинка дхамы обещает дать Радха-Говинду
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8600618
+  duration: 00:08:46
+  mp3: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
+date: 1982-07-09
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
@@ -10,7 +19,6 @@ tags:
     slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
     title: аудиозапись в MP3 (8 мин. 46 сек., 8,3 МБ)
@@ -18,11 +26,13 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 920. 1982.07.09.B5. Каждая пылинка дхамы обещает дать Радха-Говинду
+  index: "920"
+  filename: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu.md
 ---
 
-# 920. 1982.07.09.B5. Каждая пылинка дхамы обещает дать Радха-Говинду
-
-    йатха̄ йатха̄ гаура-пада̄равинде
+йатха̄ йатха̄ гаура-пада̄равинде
     виндета бхактим̇ кр̣та-пун̣йа-ра̄сих̣
     татха̄ татхотсарпати хр̣дй ака̄смад
     ра̄дха̄-пада̄мбходжа-судхамбху-ра̄сих̣

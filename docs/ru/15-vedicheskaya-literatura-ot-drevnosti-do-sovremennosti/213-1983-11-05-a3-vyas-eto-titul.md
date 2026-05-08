@@ -1,5 +1,14 @@
 ---
 slug: 213-1983-11-05-a3-vyas-eto-titul
+record_id: 1983.11.05.A3
+title: Вьяс – это титул
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3837461
+  duration: 00:03:18
+  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/213_1983.11.05.A3_SridharMj_Vjas--jeto_titul.mp3
+date: 1983-11-05
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
@@ -10,7 +19,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
     slug: shri-chajtanya-charitamrita-madhya-lila-25-143
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/213_1983.11.05.A3_SridharMj_Vjas--jeto_titul.mp3
     title: аудиозапись в MP3 (3 мин. 17 сек., 3,7 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (174 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/213_1983.11.05.A3_SridharMj_Vjas_-_jeto_titul.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 213. 1983.11.05.A3 Вьяс – это титул
+  index: "213"
+  filename: 213-1983-11-05-a3-vyas-eto-titul.md
 ---
-
-# 213. 1983.11.05.A3 Вьяс – это титул
 
 **Госвами Махарадж:** Вчера Вы говорили о Кавирадже Госвами. Вы сказали, что Кавирадж Госвами говорит о Вриндаване Дасе Тхакуре, как о Вьясе Чайтанья*-лилы*. И в этом разделе «Чайтанья-чаритамриты» он упоминает, говорит: «В будущем Вьяс явится вновь, чтобы описать Чайтанья*-лилу*». Как нам следует понимать это утверждение?
 

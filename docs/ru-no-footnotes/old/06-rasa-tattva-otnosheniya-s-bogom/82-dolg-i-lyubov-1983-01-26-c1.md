@@ -1,5 +1,14 @@
 ---
 slug: 82-dolg-i-lyubov-1983-01-26-c1
+record_id: 1983.01.26.C1
+title: Долг и любовь.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4382614
+  duration: 00:05:58
+  mp3: /wp-content/uploads/2012/08/082_1983.01.26.C1_SridharMj_Dolg_i_lyubov.mp3
+date: 1983-01-26
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Любовь
     slug: lyubov
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/082_1983.01.26.C1_SridharMj_Dolg_i_lyubov.mp3
     title: Скачать аудиозапись в mp3 (5 мин 58 сек, размер 4 Мб)
+legacy:
+  title: 82. Долг и любовь. 1983.01.26.C1
+  index: "82"
+  filename: 82-dolg-i-lyubov-1983-01-26-c1.md
 ---
-
-# 82. Долг и любовь. 1983.01.26.C1
 
 *#00:00:00#*
 

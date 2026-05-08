@@ -1,5 +1,12 @@
 ---
 slug: 382-archana-i-bhadzhan-mgnoveniya-prekrasn
+title: Арчана и бхаджан. Мгновения прекрасной реальности, часть 2.8
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1228048
+  duration: 00:02:58
+  mp3: /wp-content/uploads/2012/08/382_MgnoveniyaPR_2.8_SridharMj_Archana_i_bhadjan.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -12,13 +19,14 @@ tags:
     slug: bhadzhan
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/382_MgnoveniyaPR_2.8_SridharMj_Archana_i_bhadjan.mp3
     title: Скачать аудиозапись в mp3 (2 мин 58 сек, размер 1 Мб)
+legacy:
+  title: 382. Арчана и бхаджан. Мгновения прекрасной реальности, часть 2.8
+  index: "382"
+  filename: 382-archana-i-bhadzhan-mgnoveniya-prekrasn.md
 ---
-
-# 382. Арчана и бхаджан. Мгновения прекрасной реальности, часть 2.8
 
 **Слушатель:** В *арчане,* *раса-гуру-гауранга* – в начале, в начальной стадии.
 

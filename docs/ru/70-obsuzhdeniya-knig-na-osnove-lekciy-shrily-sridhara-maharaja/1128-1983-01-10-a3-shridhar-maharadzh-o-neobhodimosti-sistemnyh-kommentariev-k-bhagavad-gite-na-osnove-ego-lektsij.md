@@ -1,12 +1,21 @@
 ---
 slug: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij
+record_id: 1983.01.10.A3
+title: Шридхар Махарадж о необходимости системных комментариев к «Бхагавад-гите»
+  на основе его лекций
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2669828
+  duration: 00:02:15
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3
+date: 1983-01-10
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1983.01"
     slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3
     title: аудиозапись в MP3 (2 мин. 14 сек., 2,6 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 1128. 1983.01.10.A3. Шридхар Махарадж о необходимости системных
+    комментариев к «Бхагавад-гите» на основе его лекций
+  index: "1128"
+  filename: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij.md
 ---
-
-# 1128. 1983.01.10.A3. Шридхар Махарадж о необходимости системных комментариев к «Бхагавад-гите» на основе его лекций
 
 **Преданный:** Гуру Махарадж, возвращаясь к Бхагавад-гите: вы говорили о вашем переводе Бхагавад-гиты, о том, что он может быть напечатан…
 

@@ -1,5 +1,13 @@
 ---
 slug: 392-iskrennost-luchshij-drug-v-poiske-shri
+title: Искренность — лучший друг в поиске Шри Кришны. Онтология прекрасной
+  реальности, часть 4.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7554496
+  duration: 00:12:36
+  mp3: /wp-content/uploads/2012/08/392_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
 category:
   title: (33. Искренность)
   slug: 33-iskrennost
@@ -8,13 +16,15 @@ tags:
     slug: iskrennost
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/392_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
     title: Скачать аудиозапись в mp3 (12 мин 36 сек, размер 7 Мб)
+legacy:
+  title: 392. Искренность — лучший друг в поиске Шри Кришны. Онтология прекрасной
+    реальности, часть 4.2
+  index: "392"
+  filename: 392-iskrennost-luchshij-drug-v-poiske-shri.md
 ---
-
-# 392. Искренность — лучший друг в поиске Шри Кришны. Онтология прекрасной реальности, часть 4.2
 
 Простота, не двуличие, не дипломатия. Простота может быть только у Кришны.\
 Нам необходимо, мы нуждаемся в истинной жажде, в искреннем желании, не дипломатии.

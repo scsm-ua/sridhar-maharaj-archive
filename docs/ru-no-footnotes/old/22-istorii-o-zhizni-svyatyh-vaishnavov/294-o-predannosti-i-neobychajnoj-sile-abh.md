@@ -1,5 +1,14 @@
 ---
 slug: 294-o-predannosti-i-neobychajnoj-sile-abh
+record_id: 1983.05.04.B2
+title: О преданности и необычайной силе Абхирама Тхакура.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4535891
+  duration: 00:09:07
+  mp3: /wp-content/uploads/2012/08/294_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
+date: 1983-05-04
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -10,13 +19,14 @@ tags:
     slug: abhiram-thakur
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/294_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
     title: Скачать аудиозапись в mp3 (9 мин 7 сек, размер 4 Мб)
+legacy:
+  title: 294. О преданности и необычайной силе Абхирама Тхакура. 1983.05.04.B2
+  index: "294"
+  filename: 294-o-predannosti-i-neobychajnoj-sile-abh.md
 ---
-
-# 294. О преданности и необычайной силе Абхирама Тхакура. 1983.05.04.B2
 
 Сегодня мне сказали день рождения Абхирама Госвами. Он был одним из десяти друзей Нитьянанды Прабху. В Хугле или где-то его родной дом. Он был Шридхам Сакха во Врадже. Физическая сила Баладева. Баладев обладает огромной физической силой, и вторым после него в этом смысле идёт Шридхам. Нитьянанда — это Баладев, а Шридхам — это Абхирам.
 

@@ -1,5 +1,14 @@
 ---
 slug: 594-1982-05-01-a3-etapy-pogruzheniya-dushi-v-majyu-i-osvobozhdenie-ot-ee-vliyaniya
+record_id: 1982.05.01.A3
+title: Этапы погружения души в майю и освобождение от ее влияния
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9827129
+  duration: 00:08:32
+  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.mp3
+date: 1982-05-01
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.mp3
     title: аудиозапись в MP3 (8 мин. 32 сек., 9,4 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 594. 1982.05.01.A3. Этапы погружения души в майю и освобождение от ее влияния
+  index: "594"
+  filename: 594-1982-05-01-a3-etapy-pogruzheniya-dushi-v-majyu-i-osvobozhdenie-ot-ee-vliyaniya.md
 ---
-
-# 594. 1982.05.01.A3. Этапы погружения души в майю и освобождение от ее влияния
 
 Единственная проблема *майи* — отсутствие связи с этим изначальным потоком. Это *майя.* И мы находимся под воздействием этой потенции, энергии. Подобно болезни, безумию: человек лишился своего богатства, своей собственности — это *майя*, *ма̄-йа̄* — «не то», то, что кажется одним, а является другим, *майате-анайа* — отдельный, сепаратный интерес служит причиной, *двитӣйа̄бхинивеш́атах̣ сйа̄д*[^_ftn1].
 

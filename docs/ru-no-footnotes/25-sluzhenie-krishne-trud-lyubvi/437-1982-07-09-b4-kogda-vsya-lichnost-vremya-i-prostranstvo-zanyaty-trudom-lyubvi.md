@@ -1,5 +1,14 @@
 ---
 slug: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi
+record_id: 1982.07.09.B4
+title: Когда вся личность, время и пространство заняты трудом любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7288361
+  duration: 00:06:56
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3
+date: 1982-07-09
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-07
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3
     title: аудиозапись в MP3 (6 мин. 56 сек., 7,0 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 437. 1982.07.09.B4. Когда вся личность, время и пространство заняты
+    трудом любви
+  index: "437"
+  filename: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi.md
 ---
-
-# 437. 1982.07.09.B4. Когда вся личность, время и пространство заняты трудом любви
 
     анйа̄бхила̄шита̄ ш́ӯнйам̇ джн̃а̄на-карма̄дй ана̄вр̣там
     а̄нукӯлйена кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄

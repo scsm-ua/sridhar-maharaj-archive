@@ -1,5 +1,14 @@
 ---
 slug: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug
+record_id: 1982.01.04.B2
+title: Смысл санньясы для вайшнава в Кали-югу.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7720636
+  duration: 00:14:34
+  mp3: /wp-content/uploads/2012/08/163_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
+date: 1982-01-04
 category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
@@ -12,13 +21,14 @@ tags:
     slug: otrechenie
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/163_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
     title: Скачать аудиозапись в mp3 (14 мин 34 сек, размер 7 Мб)
+legacy:
+  title: 163. Смысл санньясы для вайшнава в Кали-югу. 1982.01.04.B2
+  index: "163"
+  filename: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug.md
 ---
-
-# 163. Смысл санньясы для вайшнава в Кали-югу. 1982.01.04.B2
 
 **Шридхар Махарадж:** Девять двадцать пять. Есть ли еще вопросы?
 

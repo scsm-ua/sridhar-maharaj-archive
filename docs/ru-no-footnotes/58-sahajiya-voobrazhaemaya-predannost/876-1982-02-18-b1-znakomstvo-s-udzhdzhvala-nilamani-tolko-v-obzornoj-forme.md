@@ -1,12 +1,20 @@
 ---
 slug: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme
+record_id: 1982.02.18.B1
+title: Знакомство с «Уджджвала-ниламани» — только в обзорной форме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12235179
+  duration: 00:10:28
+  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3
+date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3
     title: аудиозапись в MP3 (10 мин. 28 сек., 11,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 876. 1982.02.18.B1. Знакомство с «Уджджвала-ниламани» — только в обзорной
+    форме
+  index: "876"
+  filename: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme.md
 ---
-
-# 876. 1982.02.18.B1. Знакомство с «Уджджвала-ниламани» — только в обзорной форме
 
 *Сукха* — счастье, любовь; *расо-вайсах* — качество *расы*. Это все и вся. Высшая *раса* достижима, обретаема только благодаря жертвенности и преданности. Благодаря жертвенности мы можем достичь высшей *расы*, и джентльмены высшего типа станут нашими спутниками благодаря преданности. Это самопредание, преданность. И самопредание качественное и количественное, качество и количество — два явления принимаются в расчет, различия в природе самопредания: качественное и количественное.
 

@@ -1,12 +1,20 @@
 ---
 slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
+record_id: 1982.05.10.B5.C1
+title: Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9874286
+  duration: 00:09:26
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/716_1982.05.10.B5.C1_SridharMj_Jetapy_razvitija_predannosti_Kachestva_vajshnava_dostigshego_urovnja_bhava-bhakti.mp3
+date: 1982-05-10
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/716_1982.05.10.B5.C1_SridharMj_Jetapy_razvitija_predannosti_Kachestva_vajshnava_dostigshego_urovnja_bhava-bhakti.mp3
     title: аудиозапись в MP3 (9 мин. 25 сек., 9,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (155 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/716_1982.05.10.B5.C1_SridharMj_Jetapy_razvitija_predannosti_Kachestva_vajshnava_dostigshego_urovnja_bhava-bhakti.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 716. 1982.05.10.B5.C1. Этапы развития преданности. Качества вайшнава,
+    достигшего уровня бхава-бхакти
+  index: "716"
+  filename: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
 ---
-
-# 716. 1982.05.10.B5.C1. Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти
 
 **Преданный:** Махарадж?
 

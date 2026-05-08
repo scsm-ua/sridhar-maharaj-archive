@@ -1,5 +1,14 @@
 ---
 slug: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya
+record_id: 1982.01.25.A2
+title: Материя – это айсберг в океане сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5283244
+  duration: 00:09:03
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/619_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
+date: 1982-01-25
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -10,7 +19,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/619_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
     title: аудиозапись в MP3 (9 мин. 03 сек., 5,1 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/619_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 619. 1982.01.25.A2. Материя – это айсберг в океане сознания
+  index: "619"
+  filename: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya.md
 ---
-
-# 619. 1982.01.25.A2. Материя – это айсберг в океане сознания
 
 Один немецкий ученый Стивенс во время Первой Мировой войны принял сторону индийских националистов. Я видел его в университете, когда изучал юриспруденцию. Его язык был очень прост, и в то же время он приводил замечательные аргументы. В его подаче я изучал философию, онтологию. Он возражал против атеизма. Один из его аргументов был таким (он был очень полезен, когда речь шла о дискуссии такого рода — дебатах с атеистами): отправная точка — это сознание. Все, что вы утверждаете, предполагает сознание, любое утверждение предполагает сознание.
 

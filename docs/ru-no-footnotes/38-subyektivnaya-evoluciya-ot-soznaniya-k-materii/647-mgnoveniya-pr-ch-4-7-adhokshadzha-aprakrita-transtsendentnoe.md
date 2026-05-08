@@ -1,12 +1,18 @@
 ---
 slug: 647-mgnoveniya-pr-ch-4-7-adhokshadzha-aprakrita-transtsendentnoe
+title: Мгновения ПР. Ч. 4.7. Адхокшаджа, апракрита, трансцендентное
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1763496
+  duration: 00:02:20
+  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/647_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/647_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
     title: аудиозапись в MP3 (2 мин. 20 сек., 1,7 МБ)
@@ -14,9 +20,11 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/647_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.pdf
     title: транскрипцию в PDF (136 КБ)
+legacy:
+  title: 647. Мгновения ПР. Ч. 4.7. Адхокшаджа, апракрита, трансцендентное
+  index: "647"
+  filename: 647-mgnoveniya-pr-ch-4-7-adhokshadzha-aprakrita-transtsendentnoe.md
 ---
-
-# 647. Мгновения ПР. Ч. 4.7. Адхокшаджа, апракрита, трансцендентное
 
 Мгновения Прекрасной Реальности (часть 4.7)
 

@@ -1,12 +1,20 @@
 ---
 slug: 959-1982-02-24-a2-o-dzhagannathe-dase-babadzhi
+record_id: 1982.02.24.A2
+title: О Джаганнатхе Дасе Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6306900
+  duration: 00:03:34
+  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/959_1982.02.24.A2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
+date: 1982-02-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: "1982.02"
     slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/959_1982.02.24.A2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
     title: аудиозапись в MP3 (3 мин. 34 сек., 6,1 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/959_1982.02.24.A2_SridharMj_O_Jagannathe_Dase_Babaji.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 959. 1982.02.24.A2. О Джаганнатхе Дасе Бабаджи
+  index: "959"
+  filename: 959-1982-02-24-a2-o-dzhagannathe-dase-babadzhi.md
 ---
-
-# 959. 1982.02.24.A2. О Джаганнатхе Дасе Бабаджи
 
 **«Онтология Прекрасной Реальности» (Часть 6.2)**
 

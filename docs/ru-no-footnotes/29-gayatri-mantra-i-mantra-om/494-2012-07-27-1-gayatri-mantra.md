@@ -1,5 +1,12 @@
 ---
 slug: 494-2012-07-27-1-gayatri-mantra
+title: Гаятри-мантра
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6121368
+  duration: 00:21:37
+  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
@@ -8,7 +15,6 @@ tags:
     slug: gayatri-mantra
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
     title: аудиозапись в MP3 (21 мин. 36 сек., 5,9 МБ)
@@ -16,9 +22,11 @@ links:
     title: транскрипцию в RTF (189 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 494. Гаятри-мантра
+  index: "494"
+  filename: 494-2012-07-27-1-gayatri-mantra.md
 ---
-
-# 494. Гаятри-мантра
 
 Истинный смысл освобождения не только в том, чтобы освободиться от негативной стороны, но достичь позитивного бытия, самоосознания. Гаудия-вайшнавы утверждают:
 

@@ -1,5 +1,14 @@
 ---
 slug: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami
+record_id: 1987.00.00.B4
+title: О противоречиях описания Кришна-лилы в трудах Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4839006
+  duration: 00:09:17
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
+date: 1987-00-00
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -10,7 +19,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
     title: аудиозапись в MP3 (9 мин. 16 сек., 4,7 МБ)
@@ -18,9 +26,11 @@ links:
     title: транскрипцию в RTF (98 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 191. 1987.00.00.B4. О противоречиях описания Кришна-лилы в трудах Госвами
+  index: "191"
+  filename: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami.md
 ---
-
-# 191. 1987.00.00.B4. О противоречиях описания Кришна-лилы в трудах Госвами
 
 *Адхокшаджа*[^_ftn1]. Он [Господь Кришна] *адхокшаджа*. Излюбленный термин, встречаемый на страницах «Шримад-Бхагаватам», — *адхокшаджа*. Господь всегда пребывает в положении, превосходящем наше.
 

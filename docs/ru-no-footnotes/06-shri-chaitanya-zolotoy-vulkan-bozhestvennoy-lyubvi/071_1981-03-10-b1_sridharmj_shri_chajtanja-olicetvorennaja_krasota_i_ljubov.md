@@ -1,5 +1,14 @@
 ---
 slug: 071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov
+record_id: 1981.03.10.B1
+title: Шри Чайтанья — олицетворенная Красота и Любовь
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2856990
+  duration: 00:04:08
+  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3
+date: 1981-03-10
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3
     title: аудиозапись в MP3 (4 мин. 07 сек., 64 кбит/сек, 2.7 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 071. 1981.03.10.B1 Шри Чайтанья — олицетворенная Красота и Любовь
+  index: "071"
+  filename: 071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov.md
 ---
-
-# 071. 1981.03.10.B1 Шри Чайтанья — олицетворенная Красота и Любовь
 
 Кто Он, Махапрабху? *Радха-Говинда-милита-тану* — лучезарное проявление земли Любви и Красоты и Тот, кто столь великодушен, что пришел, чтобы раздать Себя широким массам. Насколько ценное явление Он намерен дать всему человечеству, столь высокая степень великодушия и доброты! Донести до сознания людей то, что они могут иметь подобную перспективу и могут достичь этого, и это явление будет распространяемо отсюда. Да, таким было Его чувство, трансцендентное чувство.
 

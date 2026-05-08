@@ -1,5 +1,14 @@
 ---
 slug: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny
+record_id: 1982.03.08.B5
+title: Рамананда Рай как воплощение Вишакхи и Арджуны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6085432
+  duration: 00:06:05
+  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3
+date: 1982-03-08
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
@@ -8,7 +17,6 @@ tags:
     slug: 1982-03
   - title: Рамананда Рай
     slug: ramananda-raj
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3
     title: аудиозапись в MP3 (6 мин. 5 сек., 5,9 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в DOCX (20 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 137. 1982.03.08.B5. Рамананда Рай как воплощение Вишакхи и Арджуны
+  index: "137"
+  filename: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny.md
 ---
-
-# 137. 1982.03.08.B5. Рамананда Рай как воплощение Вишакхи и Арджуны
 
 **Преданный:** *шри-чайтанйа, радха-кришна нахе анйа*[^_ftn1] — когда мы слышим о том, что некоторые из Его преданных являются двойными воплощениями…Например, я слышал (я не знаю, правда ли это), что Рамананда Рай является инкарнацией Вишакхи и также инкарнацией Арджуны. Существуют ли двойные воплощения спутников Господа?
 

@@ -1,5 +1,13 @@
 ---
 slug: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5
+title: Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце. Шримад
+  Бхагаватам 2.8.5
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7975744
+  duration: 00:12:56
+  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
@@ -14,7 +22,6 @@ tags:
     slug: shrimad-bhagavatam-11-20-29
   - title: Шримад-Бхагаватам 2.8.5
     slug: shrimad-bhagavatam-2-8-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
     title: аудиозапись в MP3 (12 мин. 56 сек., 7,7 МБ)
@@ -22,9 +29,12 @@ links:
     title: транскрипцию в RTF (127 КБ)
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 703. Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце.
+    Шримад Бхагаватам 2.8.5
+  index: "703"
+  filename: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5.md
 ---
-
-# 703. Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце. Шримад Бхагаватам 2.8.5
 
 *«Онтология Прекрасной Реальности» (часть 5.9)*
 

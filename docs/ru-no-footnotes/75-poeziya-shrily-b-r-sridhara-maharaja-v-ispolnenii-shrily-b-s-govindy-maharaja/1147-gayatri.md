@@ -1,5 +1,12 @@
 ---
 slug: 1147-gayatri
+title: Гаятри
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1812406
+  duration: 00:00:44
+  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1147_Gayatri.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа
@@ -7,7 +14,6 @@ category:
 tags:
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1147_Gayatri.mp3
     title: аудиозапись в MP3 (0 мин. 44 сек., 1,8 МБ)
@@ -15,9 +21,11 @@ links:
     title: транскрипцию в RTF (14 КБ)
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1147_Gayatri.pdf
     title: транскрипцию в PDF (54 КБ)
+legacy:
+  title: 1147. Гаятри
+  index: "1147"
+  filename: 1147-gayatri.md
 ---
-
-# 1147. Гаятри
 
     [бхвадес тат савитур варенйа
     вихитам кшетраджна-севйартхакам]

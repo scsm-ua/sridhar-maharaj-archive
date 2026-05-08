@@ -1,5 +1,14 @@
 ---
 slug: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily
+record_id: 1982.03.31.A1
+title: Время, пространство и расы – волны сладостного океана лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13990012
+  duration: 00:14:10
+  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_%E2%80%93_volny_sladostnogo_okeana_lily.mp3
+date: 1982-03-31
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
@@ -22,7 +31,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 7
     slug: shri-shikshashtakam-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_%E2%80%93_volny_sladostnogo_okeana_lily.mp3
     title: аудиозапись в MP3 (14 мин. 10 сек., 13,4 МБ)
@@ -30,9 +38,12 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_-_volny_sladostnogo_okeana_lily.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 180. 1982.03.31.A1. Время, пространство и расы – волны сладостного океана
+    лилы
+  index: "180"
+  filename: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily.md
 ---
-
-# 180. 1982.03.31.A1. Время, пространство и расы – волны сладостного океана лилы
 
 Мы измеряем наши часы, следуя неким правилам, принимается в расчет человеческая природа и продолжительность человеческой жизни, такие факторы имеют место быть. Однако есть многочисленные черви, насекомые, и жизненный цикл этих особей от начала и до конца происходит за один час нашего времени. Также говорится: один день или одна ночь Брахмы с нашей точки зрения, согласно нашей хронологии — это сотни миллионов лет. Таким образом, маленький отрезок времени может казаться нам долгим-долгим, продолжительным периодом.
 

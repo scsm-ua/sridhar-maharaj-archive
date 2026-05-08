@@ -1,12 +1,20 @@
 ---
 slug: 160-1982-01-18-a1-nauka-ob-avatarah-v-pisaniyah-vajshnavov
+record_id: 1982.01.18.A1
+title: Наука об аватарах в Писаниях вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1557515
+  duration: 00:01:53
+  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
+date: 1982-01-18
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
     title: аудиозапись в MP3 (1 мин. 53 сек., 1,5 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (41 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 160. 1982.01.18.A1. Наука об аватарах в Писаниях вайшнавов
+  index: "160"
+  filename: 160-1982-01-18-a1-nauka-ob-avatarah-v-pisaniyah-vajshnavov.md
 ---
-
-# 160. 1982.01.18.A1. Наука об аватарах в Писаниях вайшнавов
 
 Васудев вечен и Нанда-нандан также вечен. Сваям Бхагаван — Нанда-нандан. А Васудев — *кайя-вьюха* Нанда-нандана. Сваям Бхагаван, *сваям-пракаш*, *пракаш-вилас*. *Пракаш*: *прабхава-пракаш*, *вайбхава-пракаш*. *Вилас*: *прабхава-вилас*, *вайбхава-вилас*. Таким образом. От Сваям Бхагавана исходят, в Нем рождаются различные концепции, различные по своей интенсивности, различные воплощения. Однако Сваям Бхагаван — Нанда-нандан — Первоисточник, Изначальный Абсолют в *према-локе*.
 

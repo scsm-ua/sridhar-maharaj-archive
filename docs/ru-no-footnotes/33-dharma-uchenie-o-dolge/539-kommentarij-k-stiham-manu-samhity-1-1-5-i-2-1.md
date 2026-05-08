@@ -1,5 +1,12 @@
 ---
 slug: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1
+title: Комментарий к стихам Ману-самхиты 1.1.5 и 2.1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7479515
+  duration: 00:22:47
+  mp3: /dl/33._Dharma--uchenie_o_dolge/539_2012.07.25.18_ShridharMj_Kommentarij_k_stiham_Manu-samhity_1.1.5_i_2.1.mp3
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
@@ -8,7 +15,6 @@ tags:
     slug: dharma
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/539_2012.07.25.18_ShridharMj_Kommentarij_k_stiham_Manu-samhity_1.1.5_i_2.1.mp3
     title: аудиозапись в MP3 (22 мин. 47 сек., 7,2 МБ)
@@ -16,9 +22,11 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/539_2012.07.25.18_ShridharMj_Kommentarij_k_stiham_Manu-samhity_1.1.5_i_2.1.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 539. Комментарий к стихам Ману-самхиты 1.1.5 и 2.1
+  index: "539"
+  filename: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1.md
 ---
-
-# 539. Комментарий к стихам Ману-самхиты 1.1.5 и 2.1
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол]
 

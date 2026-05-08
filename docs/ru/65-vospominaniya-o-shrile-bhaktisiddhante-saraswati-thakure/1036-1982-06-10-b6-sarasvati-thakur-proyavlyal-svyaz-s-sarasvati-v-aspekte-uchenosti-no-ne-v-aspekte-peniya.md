@@ -1,12 +1,21 @@
 ---
 slug: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya
+record_id: 1982.06.10.B6
+title: Сарасвати Тхакур проявлял связь с Сарасвати в аспекте учености, но не в
+  аспекте пения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3032491
+  duration: 00:02:32
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3
+date: 1982-06-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.06"
     slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3
     title: аудиозапись в MP3 (3 мин. 32 сек., 2,9 МБ)
@@ -14,9 +23,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 1036. 1982.06.10.B6. Сарасвати Тхакур проявлял связь с Сарасвати в
+    аспекте учености, но не в аспекте пения
+  index: "1036"
+  filename: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya.md
 ---
-
-# 1036. 1982.06.10.B6. Сарасвати Тхакур проявлял связь с Сарасвати в аспекте учености, но не в аспекте пения
 
 **Акхаянанда Махарадж:** В «Анубхашье», возможно, говорится о различных титулах *санньяси*, и в связи с титулом «Сарасвати» говорится: «знаток *шастры* и также (я был удивлен, увидев это) *шастрийа-сангита*», то есть тот *санньяси*, который совершает *шастирйа-сангиту* с целью медитации. Это лишь в школе Шанкары, или, возможно, у вайшнавов также?
 

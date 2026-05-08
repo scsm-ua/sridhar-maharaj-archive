@@ -1,5 +1,14 @@
 ---
 slug: 215-nebo-soznaniya-1982-01-04-b1
+record_id: 1982.01.04.B1
+title: Небо сознания.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8651650
+  duration: 00:17:53
+  mp3: /wp-content/uploads/2012/08/215_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
+date: 1982-01-04
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
@@ -8,13 +17,14 @@ tags:
     slug: 1982-01
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/215_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
     title: Скачать аудиозапись в mp3 (17 мин 53 сек, размер 8 Мб)
+legacy:
+  title: 215. Небо сознания. 1982.01.04.B1
+  index: "215"
+  filename: 215-nebo-soznaniya-1982-01-04-b1.md
 ---
-
-# 215. Небо сознания. 1982.01.04.B1
 
 **Шридхар Махарадж:** И теперь на заключительном этапе моей жизни вы приходите сюда, вы украшаете собой дхаму. Как это называется, украшение?
 

@@ -1,12 +1,20 @@
 ---
 slug: 725-1982-07-27-b1-sukriti-kak-osnova-shraddhi-i-sadhu-sangi
+record_id: 1982.07.27.B1
+title: Сукрити как основа шраддхи и садху-санги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5771503
+  duration: 00:05:10
+  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.mp3
+date: 1982-07-27
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.mp3
     title: аудиозапись в MP3 (5 мин. 09 сек., 5,6 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 725. 1982.07.27.B1. Сукрити как основа шраддхи и садху-санги
+  index: "725"
+  filename: 725-1982-07-27-b1-sukriti-kak-osnova-shraddhi-i-sadhu-sangi.md
 ---
-
-# 725. 1982.07.27.B1. Сукрити как основа шраддхи и садху-санги
 
 Речь идет о благой приобретенной удаче, *сукрити*. В процессе блуждания живого существа по этой Вселенной неосознанно для себя оно может соприкоснуться с одним из святых. И каким-то образом *джива* развивает некую духовную тенденцию, склонность, она обретает эту тенденцию от этих *садху*. А когда эти тенденции развиваются и накапливаются, возникает *шраддха*, а когда *шраддха* пробуждается, тогда человек может осознанно прийти к святому и вручить себя ему. *Агьята-сукрити*, *гьята-сукрити*, затем *шраддха*, а затем *садху-санга.*
 

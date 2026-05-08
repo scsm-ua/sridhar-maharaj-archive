@@ -1,5 +1,14 @@
 ---
 slug: 491-obyasnenie-simvolicheskogo-smysla-lo
+record_id: 1981.08.31.B5.C1
+title: Объяснение символического смысла лотоса в воде под лучами солнца.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7139484
+  duration: 00:08:58
+  mp3: /wp-content/uploads/2012/08/491_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
+date: 1981-08-31
 category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
@@ -8,13 +17,15 @@ tags:
     slug: 1981-08
   - title: Шри Чайтанья Сарасват Матх
     slug: shri-chajtanya-sarasvat-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/491_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
     title: Скачать аудиозапись в mp3 (8 мин 58 сек, размер 7 Мб)
+legacy:
+  title: 491. Объяснение символического смысла лотоса в воде под лучами солнца.
+    1981.08.31.B5.C1
+  index: "491"
+  filename: 491-obyasnenie-simvolicheskogo-smysla-lo.md
 ---
-
-# 491. Объяснение символического смысла лотоса в воде под лучами солнца. 1981.08.31.B5.C1
 
 Махарадж мы чувствуем, что если мы предаемся вам, то мы можем удовлетворять вас каким-то образом, и наш духовный учитель так же будет удовлетворен. Не в моем случае так, но это сказано в шастре. Мы находим эту истину в шастре. В этом мире критерий будет таким: удовлетворение нашего Гурудева, если Гурудев не удовлетворен, то Кришна непременно не удовлетворен и наоборот. В пуране сказано, я не помню, где именно, но говорится, упоминается.
 

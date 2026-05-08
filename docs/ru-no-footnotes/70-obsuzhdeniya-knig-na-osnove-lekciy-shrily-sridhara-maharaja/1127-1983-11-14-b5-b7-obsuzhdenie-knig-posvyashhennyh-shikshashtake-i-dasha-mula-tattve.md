@@ -1,12 +1,20 @@
 ---
 slug: 1127-1983-11-14-b5-b7-obsuzhdenie-knig-posvyashhennyh-shikshashtake-i-dasha-mula-tattve
+record_id: 1983.11.14.B5.B7
+title: Обсуждение книг, посвященных «Шикшаштаке» и «Даша-мула-таттве»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7818668
+  duration: 00:07:37
+  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1127_1983.11.14.B5.B7_SridharMj_Obsuzhdenie_knig_posvjashhennyh_Shikshashtake_i_Dasha-mula-tattve.mp3
+date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
 tags:
   - title: "1983.11"
     slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1127_1983.11.14.B5.B7_SridharMj_Obsuzhdenie_knig_posvjashhennyh_Shikshashtake_i_Dasha-mula-tattve.mp3
     title: аудиозапись в MP3 (7 мин. 36 сек., 7,5 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1127_1983.11.14.B5.B7_SridharMj_Obsuzhdenie_knig_posvjashhennyh_Shikshashtake_i_Dasha-mula-tattve.pdf
     title: транскрипцию в PDF (130 КБ)
+legacy:
+  title: 1127. 1983.11.14.B5.B7. Обсуждение книг, посвященных «Шикшаштаке» и
+    «Даша-мула-таттве»
+  index: "1127"
+  filename: 1127-1983-11-14-b5-b7-obsuzhdenie-knig-posvyashhennyh-shikshashtake-i-dasha-mula-tattve.md
 ---
-
-# 1127. 1983.11.14.B5.B7. Обсуждение книг, посвященных «Шикшаштаке» и «Даша-мула-таттве»
 
 **Госвами Махарадж:** Мы думали о книге, посвященной «Шикшаштакам», как вы предложили, «Шикшаштакам» с вашими комментариями…
 

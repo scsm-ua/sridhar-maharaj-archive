@@ -1,12 +1,20 @@
 ---
 slug: 1038-1982-01-01-a1-den-uhoda-shrily-sarasvati-thakura
+record_id: 1982.01.01.A1
+title: День ухода Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6071587
+  duration: 00:11:24
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1038_1982.01.01.A1_SridharMj_Den_uhoda_Shrily_Sarasvati_Thakura.mp3
+date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.01"
     slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1038_1982.01.01.A1_SridharMj_Den_uhoda_Shrily_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (11 мин. 24 сек., 5,8 МБ)
@@ -14,9 +22,11 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1038_1982.01.01.A1_SridharMj_Den_uhoda_Shrily_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 1038. 1982.01.01.A1. День ухода Шрилы Сарасвати Тхакура
+  index: "1038"
+  filename: 1038-1982-01-01-a1-den-uhoda-shrily-sarasvati-thakura.md
 ---
-
-# 1038. 1982.01.01.A1. День ухода Шрилы Сарасвати Тхакура
 
 В 1937 году рано утром Гуру Махарадж покинул этот мир. То была пятница первого января тридцать седьмого года, рано утром. Я находился у его постели с двух до четырех утра, а затем наступила очередь другого человека. Я отправился отдохнуть. Мы вдвоем дежурили в это время. Я отправился в постель, и неожиданно этот джентльмен, который готовил для него, пришел, чтобы разбудить меня. Он сказал: «Быстрей иди, возможно, Прабхупада уходит. Быстрее пойдем!» Я пришел к его постели. Я лежал в постели, но на мне был свитер. Я сразу же вскочил и пошел, но уже не увидел его, он ушел.
 

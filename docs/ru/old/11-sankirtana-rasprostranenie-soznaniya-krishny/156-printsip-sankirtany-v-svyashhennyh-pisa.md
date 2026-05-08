@@ -1,5 +1,14 @@
 ---
 slug: 156-printsip-sankirtany-v-svyashhennyh-pisa
+record_id: 1981.11.12.B3
+title: Принцип санкиртаны в Священных Писаниях.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9115188
+  duration: 00:14:34
+  mp3: /wp-content/uploads/2012/08/156_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
+date: 1981-11-12
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -8,13 +17,14 @@ tags:
     slug: 1981-11
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/156_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
     title: Скачать аудиозапись в mp3 (14 мин 34 сек, размер 9 Мб)
+legacy:
+  title: 156. Принцип санкиртаны в Священных Писаниях. 1981.11.12.B3
+  index: "156"
+  filename: 156-printsip-sankirtany-v-svyashhennyh-pisa.md
 ---
-
-# 156. Принцип санкиртаны в Священных Писаниях. 1981.11.12.B3
 
 В «Чайтанья-Бхагавате» Вриндаван Дас Тхакур говорит: «Один человек кормит самого себя. Другой человек не только самого себя кормит, но и сотню людей вокруг кормит. Кто из них лучше? Первый или второй? В санкиртане, когда совершаешь санкиртану, благо получают много людей, а когда человек совершает джапу (повторяет Святые Имена для самого себя) и другое, то он приносит благо только самому себе.
 

@@ -1,5 +1,14 @@
 ---
 slug: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi
+record_id: 1983.02.27.A.B1
+title: Милость вайшнавов ведет в измерение, превосходящее мир души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17415974
+  duration: 00:10:00
+  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
+date: 1983-02-27
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
@@ -26,7 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
     title: аудиозапись в MP3 (34 мин. 58 сек., 64 кбит/сек, 17 МБ)
@@ -34,9 +42,12 @@ links:
     title: транскрипцию в RTF (173 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.pdf
     title: транскрипцию в PDF (237 КБ)
+legacy:
+  title: 047. 1983.02.27.A.B1. Милость вайшнавов ведет в измерение, превосходящее
+    мир души
+  index: "047"
+  filename: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.md
 ---
-
-# 047. 1983.02.27.A.B1. Милость вайшнавов ведет в измерение, превосходящее мир души
 
 Рамакришна присутствовал на спектакле, он был очень очарован. Одна юная проститутка игра роль Шри Чайтаньи. Рамакришна был очень впечатлен, настолько, что на следующий день он нанес ей визит в ее собственным доме: «О, ты мне доставила огромную радость. Я очень впечатлен твоей игрой. Я хотел с тобой встретиться». Таким образом. Мы должны пытаться не искать пищу для ума или чувств, но пищу для души, мы должны стремиться к ней. Пища для души.
 

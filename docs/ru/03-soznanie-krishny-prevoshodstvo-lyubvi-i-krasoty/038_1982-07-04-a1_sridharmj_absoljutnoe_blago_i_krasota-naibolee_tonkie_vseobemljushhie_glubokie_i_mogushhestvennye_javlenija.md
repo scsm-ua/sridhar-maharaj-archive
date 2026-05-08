@@ -1,5 +1,15 @@
 ---
 slug: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija
+record_id: 1982.07.04.A1
+title: Абсолютное Благо и Красота — наиболее тонкие, всеобъемлющие, глубокие и
+  могущественные явления
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3209675
+  duration: 00:03:01
+  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.mp3
+date: 1982-07-04
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
@@ -8,7 +18,6 @@ tags:
     slug: 1982-07
   - title: Красота
     slug: krasota
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.mp3
     title: аудиозапись в MP3 (03 мин. 00 сек., 3.1 МБ)
@@ -16,9 +25,12 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 038. 1982.07.04.A1 Абсолютное Благо и Красота — наиболее тонкие,
+    всеобъемлющие, глубокие и могущественные явления
+  index: "038"
+  filename: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.md
 ---
-
-# 038. 1982.07.04.A1 Абсолютное Благо и Красота — наиболее тонкие, всеобъемлющие, глубокие и могущественные явления
 
 Эфир находится повсюду здесь, и также за пределами этого остается лишь эфир. Таким образом, грубое начало и более тонкие реалии: *Бхува-лока*, *Бхур*, *Бхува*, *Джана*, *Тапа*, *Махар*, *Сатья* — все это присутствует в тонком вечном существовании. И затем *Вираджа*, *Пракрити*, затем *Брахмалока*, и это так же внутри и вовне всего, затем *Паравйома*. И *Паравйома* так же находится внутри и вовне всего. Затем Голока, и Голока находится внутри и вовне *Паравйомы* так же, что говорить о более грубых измерениях.
 

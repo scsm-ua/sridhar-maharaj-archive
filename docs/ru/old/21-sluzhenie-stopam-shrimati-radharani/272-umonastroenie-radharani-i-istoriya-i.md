@@ -1,5 +1,13 @@
 ---
 slug: 272-umonastroenie-radharani-i-istoriya-i
+title: Умонастроение Радхарани и история из Чайтанья-Чаритамриты. Онтология
+  прекрасной реальности 3.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6902528
+  duration: 00:13:44
+  mp3: /wp-content/uploads/2012/08/272_OntologiyaPR_3.3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
@@ -10,13 +18,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Чайтанья-чаритамрита
     slug: chajtanya-charitamrita
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/272_OntologiyaPR_3.3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
     title: Скачать аудиозапись в mp3 (13 мин 44 сек, размер 6 Мб)
+legacy:
+  title: 272. Умонастроение Радхарани и история из Чайтанья-Чаритамриты. Онтология
+    прекрасной реальности 3.3
+  index: "272"
+  filename: 272-umonastroenie-radharani-i-istoriya-i.md
 ---
-
-# 272. Умонастроение Радхарани и история из Чайтанья-Чаритамриты. Онтология прекрасной реальности 3.3
 
 Его милость… В настоящее время эта милость не отвечает моему нынешнему вкусу. Лекарство может не быть вкусным для пациента. Диета может не нравиться больному. Однако она полезна, она благотворна. Это высочайшее ограничение, данное шастрой. Если мы сумеем воспользоваться благом этого закона, то в самом скором времени мы займем очень достойное положение.
 

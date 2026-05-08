@@ -1,5 +1,14 @@
 ---
 slug: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu
+record_id: 1982.05.10.C2
+title: Самые скромные усилия в служении Господу обладают ценностью
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6827353
+  duration: 00:06:27
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.mp3
+date: 1982-05-10
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.mp3
     title: аудиозапись в MP3 (6 мин. 27 сек., 6,6 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 443. 1982.05.10.C2. Самые скромные усилия в служении Господу обладают
+    ценностью
+  index: "443"
+  filename: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu.md
 ---
-
-# 443. 1982.05.10.C2. Самые скромные усилия в служении Господу обладают ценностью
 
 Харе Кришна! Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол. [Смеется.]
 

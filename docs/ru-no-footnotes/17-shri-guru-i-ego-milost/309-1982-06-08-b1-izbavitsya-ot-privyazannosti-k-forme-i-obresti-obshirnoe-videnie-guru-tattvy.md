@@ -1,5 +1,14 @@
 ---
 slug: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy
+record_id: 1982.06.08.B1
+title: Избавиться от привязанности к форме и обрести обширное видение гуру-таттвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4947665
+  duration: 00:03:46
+  mp3: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3
+date: 1982-06-08
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -8,7 +17,6 @@ tags:
     slug: 1982-06
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3
     title: аудиозапись в MP3 (3 мин. 45 сек., 4,8 МБ)
@@ -16,9 +24,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 309. 1982.06.08.B1. Избавиться от привязанности к форме и обрести
+    обширное видение гуру-таттвы
+  index: "309"
+  filename: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy.md
 ---
-
-# 309. 1982.06.08.B1. Избавиться от привязанности к форме и обрести обширное видение гуру-таттвы
 
 **Акхаянанда Махарадж:** Махарадж!
 

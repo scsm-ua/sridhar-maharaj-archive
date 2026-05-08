@@ -1,5 +1,15 @@
 ---
 slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
+record_id: 1982.05.09.A6
+title: Поэма Наянананды Даса. Тот, кто принял Гаурангу, исчерпал все виды
+  религиозных практик в прошлых жизнях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13244176
+  duration: 00:12:16
+  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.mp3
+date: 1982-05-09
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
@@ -34,7 +44,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 3.33.7
     slug: shrimad-bhagavatam-3-33-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.mp3
     title: аудиозапись в MP3 (12 мин. 16 сек., 12,7 МБ)
@@ -42,9 +51,12 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.pdf
     title: транскрипцию в PDF (88 КБ)
+legacy:
+  title: 117. 1982.05.09.A6. Поэма Наянананды Даса. Тот, кто принял Гаурангу,
+    исчерпал все виды религиозных практик в прошлых жизнях
+  index: "117"
+  filename: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
 ---
-
-# 117. 1982.05.09.A6. Поэма Наянананды Даса. Тот, кто принял Гаурангу, исчерпал все виды религиозных практик в прошлых жизнях
 
 …В Коладвипе. Эта *виграха* была установлена учеником Гададхара Пандита, которого звали Ванинатх. Учеником Ванинатха был Наянананда. Этот вайшнав написал одну очень сладостную песню. Мне не известны другие его песни, но одна песня в высшей степени чарующа.
 

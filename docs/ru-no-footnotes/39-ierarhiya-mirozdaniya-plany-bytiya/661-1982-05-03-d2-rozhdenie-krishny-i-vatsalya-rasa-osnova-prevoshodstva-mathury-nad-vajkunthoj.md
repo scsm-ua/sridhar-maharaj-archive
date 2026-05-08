@@ -1,12 +1,20 @@
 ---
 slug: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj
+record_id: 1982.05.03.D2
+title: Рождение Кришны и ватсалья-раса – основа превосходства Матхуры над Вайкунтхой
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4393984
+  duration: 00:03:21
+  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3
+date: 1982-05-03
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
 tags:
   - title: "1982.05"
     slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3
     title: аудиозапись в MP3 (3 мин. 20 сек., 4,2 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 661. 1982.05.03.D2. Рождение Кришны и ватсалья-раса – основа
+    превосходства Матхуры над Вайкунтхой
+  index: "661"
+  filename: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj.md
 ---
-
-# 661. 1982.05.03.D2. Рождение Кришны и ватсалья-раса – основа превосходства Матхуры над Вайкунтхой
 
 **Госвами Махарадж:** Махарадж, Айодхья находится в Голоке Вриндавана?
 

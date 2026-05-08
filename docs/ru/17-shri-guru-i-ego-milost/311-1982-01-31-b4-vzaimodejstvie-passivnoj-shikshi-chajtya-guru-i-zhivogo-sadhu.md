@@ -1,5 +1,14 @@
 ---
 slug: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu
+record_id: 1982.01.31.B4
+title: Взаимодействие пассивной шикши, чайтья-гуру и живого садху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3553353
+  duration: 00:04:38
+  mp3: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3
+date: 1982-01-31
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
@@ -12,7 +21,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3
     title: аудиозапись в MP3 (4 мин. 37 сек., 3,4 МБ)
@@ -20,9 +28,12 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 311. 1982.01.31.B4. Взаимодействие пассивной шикши, чайтья-гуру и живого
+    садху
+  index: "311"
+  filename: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu.md
 ---
-
-# 311. 1982.01.31.B4. Взаимодействие пассивной шикши, чайтья-гуру и живого садху
 
 **Преданный:** Махарадж, позвольте задать еще один вопрос.
 

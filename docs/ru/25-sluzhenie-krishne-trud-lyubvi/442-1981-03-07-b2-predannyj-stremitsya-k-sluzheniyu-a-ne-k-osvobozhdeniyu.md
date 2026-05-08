@@ -1,5 +1,14 @@
 ---
 slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
+record_id: 1981.03.07.B2
+title: Преданный стремится к служению, а не к освобождению
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4361810
+  duration: 00:07:46
+  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
+date: 1981-03-07
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
@@ -16,7 +25,6 @@ tags:
     slug: manasa-deho-geho
   - title: Манаса дехо гехо 5
     slug: manasa-deho-geho-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
     title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
@@ -24,9 +32,11 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
+  index: "442"
+  filename: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
 ---
-
-# 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
 
 **Преданный:** Позвольте спросить еще?
 

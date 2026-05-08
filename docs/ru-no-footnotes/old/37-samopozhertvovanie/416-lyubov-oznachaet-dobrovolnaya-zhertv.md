@@ -1,5 +1,14 @@
 ---
 slug: 416-lyubov-oznachaet-dobrovolnaya-zhertv
+record_id: 1982.01.17.C
+title: «Любовь» означает «добровольная жертва».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10743035
+  duration: 00:21:33
+  mp3: /wp-content/uploads/2012/08/416_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
+date: 1982-01-17
 category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie
@@ -10,13 +19,14 @@ tags:
     slug: lyubov
   - title: Самопожертвование
     slug: samopozhertvovanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/416_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
     title: Скачать аудиозапись в mp3 (21 мин 33 сек, размер 10 Мб)
+legacy:
+  title: 416. «Любовь» означает «добровольная жертва». 1982.01.17.C
+  index: "416"
+  filename: 416-lyubov-oznachaet-dobrovolnaya-zhertv.md
 ---
-
-# 416. «Любовь» означает «добровольная жертва». 1982.01.17.C
 
 Который час?
 

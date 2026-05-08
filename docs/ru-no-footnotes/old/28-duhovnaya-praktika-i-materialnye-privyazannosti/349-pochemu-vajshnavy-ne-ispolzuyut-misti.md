@@ -1,5 +1,14 @@
 ---
 slug: 349-pochemu-vajshnavy-ne-ispolzuyut-misti
+record_id: 1983.01.05.A1
+title: Почему вайшнавы не используют мистическую йогу?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8864665
+  duration: 00:16:08
+  mp3: /wp-content/uploads/2012/08/349_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
+date: 1983-01-05
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
@@ -8,13 +17,14 @@ tags:
     slug: 1983-01
   - title: Йога
     slug: joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/349_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
     title: Скачать аудиозапись в mp3 (16 мин 8 сек, размер 8 Мб)
+legacy:
+  title: 349. Почему вайшнавы не используют мистическую йогу? 1983.01.05.A1
+  index: "349"
+  filename: 349-pochemu-vajshnavy-ne-ispolzuyut-misti.md
 ---
-
-# 349. Почему вайшнавы не используют мистическую йогу? 1983.01.05.A1
 
 *#00:00:00#*
 

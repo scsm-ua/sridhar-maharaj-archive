@@ -1,12 +1,20 @@
 ---
 slug: 1022-1982-07-04-a6-a8-blizost-k-duhovnomu-uchitelyu-eto-pokornost-ego-vole
+record_id: 1982.07.04.A6.A8
+title: Близость к духовному учителю — это покорность его воле
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16454321
+  duration: 00:16:31
+  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.mp3
+date: 1982-07-04
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: "1982.07"
     slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.mp3
     title: аудиозапись в MP3 (16 мин. 30 сек., 15,7 МБ)
@@ -14,9 +22,12 @@ links:
     title: транскрипцию в RTF (118 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1022. 1982.07.04.A6.A8. Близость к духовному учителю — это покорность его
+    воле
+  index: "1022"
+  filename: 1022-1982-07-04-a6-a8-blizost-k-duhovnomu-uchitelyu-eto-pokornost-ego-vole.md
 ---
-
-# 1022. 1982.07.04.A6.A8. Близость к духовному учителю — это покорность его воле
 
 **Преданный:** Мы видим, что иногда даже в случае ограниченных существ, если мы любим кого-то, нас отталкивают. Так как же мы можем пленить Безграничное своей нежностью?
 

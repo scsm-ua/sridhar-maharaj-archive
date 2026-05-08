@@ -1,5 +1,14 @@
 ---
 slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
+record_id: 1982.04.16.C7
+title: Пограничная природа души – причина ее уязвимости
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5497344
+  duration: 00:04:22
+  mp3: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
+date: 1982-04-16
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
@@ -14,7 +23,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
     title: аудиозапись в MP3 (4 мин. 22 сек., 5,3 МБ)
@@ -22,9 +30,11 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 581. 1982.04.16.C7. Пограничная природа души – причина ее уязвимости
+  index: "581"
+  filename: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti.md
 ---
-
-# 581. 1982.04.16.C7. Пограничная природа души – причина ее уязвимости
 
 **Преданный:** Почему мы являемся обманщиками?
 

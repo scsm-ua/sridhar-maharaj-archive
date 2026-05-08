@@ -1,5 +1,14 @@
 ---
 slug: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu
+record_id: 1982.05.06.A7
+title: Связь имени вайшнава с концепцией служения Вишну
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2900480
+  duration: 00:02:45
+  mp3: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.mp3
+date: 1982-05-06
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,7 +17,6 @@ tags:
     slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.mp3
     title: аудиозапись в MP3 (2 мин. 45 сек., 2,8 МБ)
@@ -16,9 +24,11 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 329. 1982.05.06.A7. Связь имени вайшнава с концепцией служения Вишну
+  index: "329"
+  filename: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu.md
 ---
-
-# 329. 1982.05.06.A7. Связь имени вайшнава с концепцией служения Вишну
 
 **Преданный:** Махарадж, также Свами Махарадж менял имена преданным, когда давал *Харинам*, но здесь вы не делаете этого.
 
