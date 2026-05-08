@@ -1,0 +1,5 @@
+{
+    "input": "docs/ru-no-footnotes-source",
+    "output": "docs/ru-no-footnotes",
+    "mp3_base": "https://sridharmaharaj.ams3.cdn.digitaloceanspaces.com"
+}
