@@ -31,6 +31,8 @@ tags:
     slug: bhagavad-gita-9-27
   - title: Бхагавад-гита 4.16
     slug: bhagavad-gita-4-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 7.15.25

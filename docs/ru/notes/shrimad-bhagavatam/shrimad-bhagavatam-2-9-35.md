@@ -8,6 +8,10 @@ refs:
   - ../../40-bog-i-bogi/685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
   - ../../55-samopozhertvovanie/841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva.md
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok.md
+  - ../../_full/1982/01/1982.01.17.md
+  - ../../_full/1982/02/1982.02.17.C.md
+  - ../../_full/1982/06/1982.06.10.A.B.C.md
+  - ../../_full/1983/12/1983.12.19.A.B.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam

@@ -29,8 +29,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.3.25
+    slug: bhakti-rasamrita-sindhu-1-3-25
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: Бхакти-расамрита-синдху 26
+    slug: bhakti-rasamrita-sindhu-26
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 3,6 МБ)

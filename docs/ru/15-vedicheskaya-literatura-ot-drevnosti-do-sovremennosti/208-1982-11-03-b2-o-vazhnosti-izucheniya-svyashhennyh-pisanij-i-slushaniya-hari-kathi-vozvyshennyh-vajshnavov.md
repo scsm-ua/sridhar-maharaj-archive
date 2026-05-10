@@ -36,8 +36,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.3.25
+    slug: bhakti-rasamrita-sindhu-1-3-25
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: Бхакти-расамрита-синдху 26
+    slug: bhakti-rasamrita-sindhu-26
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3
     title: аудиозапись в MP3 (10 мин. 31 сек., 10,3 МБ)

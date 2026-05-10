@@ -2,6 +2,7 @@
 slug: shrimad-bhagavatam-11-3-20
 refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah.md
+  - ../../_full/1982/01/1982.01.16.B.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam

@@ -3,6 +3,7 @@ slug: dainja-prarthana-giti-1
 refs:
   - ../../26-rupanuga-sampradaya/448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost.md
+  - ../../_full/1983/06/1983.06.09.md
 tags:
   - title: Даинйа Прартхана Гити
     slug: dainja-prarthana-giti

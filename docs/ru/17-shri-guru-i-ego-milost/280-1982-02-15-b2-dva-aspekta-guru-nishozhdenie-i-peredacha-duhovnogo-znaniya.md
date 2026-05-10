@@ -27,6 +27,10 @@ tags:
     slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 6.14.2
     slug: chhandogya-upanishad-6-14-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1

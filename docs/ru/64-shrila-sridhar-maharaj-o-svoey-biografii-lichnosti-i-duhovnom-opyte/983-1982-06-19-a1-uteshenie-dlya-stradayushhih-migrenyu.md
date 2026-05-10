@@ -19,6 +19,12 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-138
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-136
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.21

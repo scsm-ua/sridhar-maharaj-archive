@@ -2,6 +2,7 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-2-37-38
 refs:
   - ../../01-poisk-shri-krishny-prekrasnoy-realnosti/008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny.md
+  - ../../_full/1982/06/1982.06.05.A.B.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila

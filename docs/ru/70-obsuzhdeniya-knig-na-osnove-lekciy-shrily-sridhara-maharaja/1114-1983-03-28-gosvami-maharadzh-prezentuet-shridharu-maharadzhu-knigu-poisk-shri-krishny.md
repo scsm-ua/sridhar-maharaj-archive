@@ -37,6 +37,10 @@ tags:
     slug: shrimad-bhagavatam-2-8-5
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1

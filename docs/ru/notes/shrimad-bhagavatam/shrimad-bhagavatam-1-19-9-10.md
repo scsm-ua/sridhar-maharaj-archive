@@ -4,6 +4,7 @@ refs:
   - ../../19-maha-mantra-svyatoe-imya/337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
   - ../../62-svyatye-mesta/921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami.md
+  - ../../_full/1983/11/1983.11.26.A.B.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam

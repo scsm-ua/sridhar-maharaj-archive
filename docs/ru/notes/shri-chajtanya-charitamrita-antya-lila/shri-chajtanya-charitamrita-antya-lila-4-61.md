@@ -2,6 +2,7 @@
 slug: shri-chajtanya-charitamrita-antya-lila-4-61
 refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha.md
+  - ../../_full/1981/03/1981.03.02.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila

@@ -35,6 +35,8 @@ tags:
     slug: shrimad-bhagavatam-10-2-32
   - title: Бхакти-расамрита-синдху 1.2.255
     slug: bhakti-rasamrita-sindhu-1-2-255
+  - title: Бхакти-расамрита-синдху 256
+    slug: bhakti-rasamrita-sindhu-256
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151

@@ -3,6 +3,8 @@ slug: shri-chajtanya-charitamrita-madhya-lila-6-89
 refs:
   - ../../14-kak-poznat-i-uvidet-boga/201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti.md
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
+  - ../../_full/1981/12/1981.12.16.B.md
+  - ../../_full/1985/07/1985.07.03.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila

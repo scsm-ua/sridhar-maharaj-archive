@@ -3,6 +3,12 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-56
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami.md
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
+  - ../../_full/1981/12/1981.12.14.A.B.md
+  - ../../_full/1981/12/1981.12.27.A.B.C.md
+  - ../../_full/1982/07/1982.07.07.A.B.md
+  - ../../_full/1982/10/1982.10.29.A.B.C.md
+  - ../../_full/1982/12/1982.12.14.A.md
+  - ../../_full/1983/10/1983.10.30.C.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila

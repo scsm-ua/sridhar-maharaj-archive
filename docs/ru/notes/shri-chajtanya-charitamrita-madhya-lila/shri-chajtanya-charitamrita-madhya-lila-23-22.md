@@ -2,6 +2,7 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-23-22
 refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
+  - ../../_full/1982/05/1982.05.10.B.C1.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila

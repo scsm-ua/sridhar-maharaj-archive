@@ -2,6 +2,7 @@
 slug: shrimad-bhagavatam-2-4-18
 refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
+  - ../../_full/1982/01/1982.01.29.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam

@@ -3,6 +3,8 @@ slug: bhagavad-gita-6-43
 refs:
   - ../../41-stremlenie-k-idealu-istinnoe-bogatstvo/699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie.md
+  - ../../_full/1983/05/1983.05.08.md
+  - ../../_full/1983/05/1983.05.12.md
 tags:
   - title: Бхагавад-гита
     slug: bhagavad-gita

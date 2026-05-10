@@ -21,6 +21,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3
     title: аудиозапись в MP3 (3 мин. 30 сек., 3,6 МБ)

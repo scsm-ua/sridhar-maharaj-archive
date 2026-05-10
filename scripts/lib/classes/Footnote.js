@@ -183,6 +183,7 @@ var SCRIPTURES = [
     {"чайтанья чандродая натака": "Шри Чайтанья-чандродая-натака"},
     {"хари бхакти судходая": "Хари-бхакти-судходая"},
     {"бхакти анукула матра": "Бхакти-анукула-матра"},
+
     // {"чайтанья бхагавата": "Чайтанья-Бхагавата"}
 
 
@@ -292,7 +293,8 @@ var SHLOKAS = [
     '*бхагаван бхаджанийа-сарва-сад-гуна вишишта*',
     '*андхи бхута чакшу йара вишайа дхулите кемане се пара-таттва паибе декхите*',
     '*смара-гарала-кханданам, мама шираси манданам, дехи пада-паллавам ударам*',
-    '*никхила-бхувана-ма̄йа̄-чинна̄виччинна-картрӣ / вибудха-бахула-мр̣гйа̄-мукти-моханта-дха̄три*'
+    '*никхила-бхувана-ма̄йа̄-чинна̄виччинна-картрӣ / вибудха-бахула-мр̣гйа̄-мукти-моханта-дха̄три*',
+    "*тйаджет экам̇ куласй' артхе, гра̄масй' а̄ртхе кулам̇ тйаджет / гра̄мам̇ йанападасй' артхе, хи а̄тма артхе пр̣тхивӣм̇ тйаджет*"
 ];
 
 // Шри Нама
@@ -445,11 +447,20 @@ class Footnote {
     }
 
     getScripturesNubmers() {
+        // Replace URLs/links with spaces of the same length to preserve
+        // character positions, so numbers inside them are not matched.
+        // e.g. [http://sanga108.blogspot.com/2013/08/blog-post_16.html](http://sanga108.blogspot.com/2013/08/blog-post_16.html)
+        // e.g. https://example.com/path/2013/08/post_16.html
+        var mdSanitized = this.md.replace(
+            /\[[^\]]*\]\([^\)]*\)|https?:\/\/\S+/g,
+            m => ' '.repeat(m.length)
+        );
+
         var re = /\d+(?:[\.–-]\d+)*/g;
         var match;
         var result = [];
         var lastIdx = 0;
-        while (match = re.exec(this.md)) {
+        while (match = re.exec(mdSanitized)) {
             var idx = this.words_str.indexOf(match[0].replace(/\D/g, ' '), lastIdx);
             result.push({
                 idx: idx,

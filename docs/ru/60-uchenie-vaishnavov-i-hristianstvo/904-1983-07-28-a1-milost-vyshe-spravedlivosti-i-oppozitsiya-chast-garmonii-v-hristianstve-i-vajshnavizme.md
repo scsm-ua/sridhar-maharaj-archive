@@ -54,6 +54,8 @@ tags:
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-6
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
 links:

@@ -57,6 +57,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
   - title: Падьявали 126
     slug: padyavali-126
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.34
+    slug: shri-chajtanya-charitamrita-antya-lila-7-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
     slug: shri-chajtanya-charitamrita-madhya-lila-8-77
   - title: Шримад-Бхагаватам 10.8.46

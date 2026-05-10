@@ -23,6 +23,8 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.42
     slug: shrimad-bhagavatam-11-5-42
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-141
   - title: Шримад-Бхагаватам 11.5.41
     slug: shrimad-bhagavatam-11-5-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94

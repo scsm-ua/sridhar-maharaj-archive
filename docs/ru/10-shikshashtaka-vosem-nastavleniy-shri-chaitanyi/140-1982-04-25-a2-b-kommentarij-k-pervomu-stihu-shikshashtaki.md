@@ -37,6 +37,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.23

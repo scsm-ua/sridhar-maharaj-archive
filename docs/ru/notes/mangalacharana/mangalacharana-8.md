@@ -2,6 +2,7 @@
 slug: mangalacharana-8
 refs:
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
+  - ../../_full/1981/09/1981.09.22.A.B.md
 tags:
   - title: Мангалачарана
     slug: mangalacharana

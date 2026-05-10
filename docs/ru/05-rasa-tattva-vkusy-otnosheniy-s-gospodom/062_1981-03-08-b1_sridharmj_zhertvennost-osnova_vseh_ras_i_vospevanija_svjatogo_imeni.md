@@ -21,12 +21,16 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.138
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-138
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-136
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.21
     slug: shrimad-bhagavatam-11-14-21
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
   - title: Бхакти-расамрита-синдху

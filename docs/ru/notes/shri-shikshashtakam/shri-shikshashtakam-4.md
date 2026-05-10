@@ -5,6 +5,8 @@ refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
   - ../../45-iskrennost-i-progress/741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti.md
   - ../../49-bhakti-velichie-predannosti-krishne/773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
+  - ../../_full/1982/03/1982.03.25.A1.md
+  - ../../_full/1983/02/1983.02.11.md
 tags:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam

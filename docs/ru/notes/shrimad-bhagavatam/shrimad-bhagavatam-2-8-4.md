@@ -2,6 +2,7 @@
 slug: shrimad-bhagavatam-2-8-4
 refs:
   - ../../42-borba-predannosti-s-materializmom-ochischenie-serdca/704-1982-04-25-a2-b-zahvat-serdtsa-krishnoj-v-svyashhennyh-pisaniyah.md
+  - ../../_full/1982/04/1982.04.25.A2.B.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam

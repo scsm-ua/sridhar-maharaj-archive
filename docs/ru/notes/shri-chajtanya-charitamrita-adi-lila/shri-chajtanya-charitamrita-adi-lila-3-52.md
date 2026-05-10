@@ -2,6 +2,7 @@
 slug: shri-chajtanya-charitamrita-adi-lila-3-52
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy.md
+  - ../../_full/1982/02/1982.02.17.C.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila

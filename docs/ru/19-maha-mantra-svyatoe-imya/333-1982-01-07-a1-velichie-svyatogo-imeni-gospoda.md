@@ -55,6 +55,10 @@ tags:
     slug: laghu-bhagavatamrita-1-5-342
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61

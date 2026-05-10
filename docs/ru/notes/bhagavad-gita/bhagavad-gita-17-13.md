@@ -2,6 +2,7 @@
 slug: bhagavad-gita-17-13
 refs:
   - ../../47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov/750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov.md
+  - ../../_full/1983/04/1983.04.29.md
 tags:
   - title: Бхагавад-гита
     slug: bhagavad-gita

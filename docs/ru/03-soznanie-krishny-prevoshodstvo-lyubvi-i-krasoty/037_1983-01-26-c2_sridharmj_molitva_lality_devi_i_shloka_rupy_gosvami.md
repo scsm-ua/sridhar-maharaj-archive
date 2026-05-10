@@ -33,6 +33,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
+  - title: Видагдха-мадхава
+    slug: vidagdha-madhava
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (10 мин. 14 сек., 5.2 МБ)

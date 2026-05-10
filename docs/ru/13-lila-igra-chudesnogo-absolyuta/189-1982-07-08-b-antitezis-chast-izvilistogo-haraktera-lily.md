@@ -25,6 +25,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1

@@ -27,6 +27,8 @@ tags:
     slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 26
     slug: shri-chajtanya-bhagavata-madhya-khanda-26
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28
+    slug: shri-chajtanya-bhagavata-madhya-khanda-28
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25
     slug: shri-chajtanya-bhagavata-madhya-khanda-28-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

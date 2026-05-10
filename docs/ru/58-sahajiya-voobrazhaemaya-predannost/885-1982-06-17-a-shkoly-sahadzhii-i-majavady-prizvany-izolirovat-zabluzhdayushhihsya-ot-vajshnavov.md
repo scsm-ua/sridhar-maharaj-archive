@@ -79,8 +79,12 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25
+    slug: bhakti-rasamrita-sindhu-1-3-25
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: Бхакти-расамрита-синдху 26
+    slug: bhakti-rasamrita-sindhu-26
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
     title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)

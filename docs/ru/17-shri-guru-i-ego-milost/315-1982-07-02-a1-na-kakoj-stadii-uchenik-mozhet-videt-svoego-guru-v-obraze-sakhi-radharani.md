@@ -31,8 +31,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25
+    slug: bhakti-rasamrita-sindhu-1-3-25
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: Бхакти-расамрита-синдху 26
+    slug: bhakti-rasamrita-sindhu-26
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 links:

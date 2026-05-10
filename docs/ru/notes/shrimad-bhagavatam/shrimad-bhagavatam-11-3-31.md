@@ -10,6 +10,26 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
   - ../../50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya/786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
+  - ../../_full/1981/11/1981.11.25.B.md
+  - ../../_full/1982/03/1982.03.31.A.md
+  - ../../_full/1982/06/1982.06.14.A.md
+  - ../../_full/1982/09/1982.09.05.A.md
+  - ../../_full/1982/09/1982.09.06.B.md
+  - ../../_full/1982/11/1982.11.28.A.B.md
+  - ../../_full/1982/12/1982.12.08.A.B.md
+  - ../../_full/1982/12/1982.12.11.C.md
+  - ../../_full/1983/01/1983.01.05.md
+  - ../../_full/1983/01/1983.01.12.md
+  - ../../_full/1983/02/1983.02.19.md
+  - ../../_full/1983/03/1983.03.02.md
+  - ../../_full/1983/04/1983.04.15.md
+  - ../../_full/1983/05/1983.05.12.md
+  - ../../_full/1983/07/1983.07.18.md
+  - ../../_full/1983/07/1983.07.19.md
+  - ../../_full/1983/08/1983.08.10.A.md
+  - ../../_full/1983/10/1983.10.14.A.B.md
+  - ../../_full/1983/10/1983.10.29.C1.md
+  - ../../_full/1983/11/1983.11.27.B1.md
 tags:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
@@ -19,7 +39,15 @@ tags:
 
 # Шримад-Бхагаватам 11.3.31
 
+«*Бхакти* порождает *бхакти*» (См. «Шримад-Бхагаватам», 11.3.31).
+
+---
+
 «*Бхакти* порождает *бхакти*» («Шримад-Бхагаватам», 11.3.31).
+
+---
+
+«Бхакти порождает бхакти» («Шримад-Бхагаватам», 11.3.31).
 
 ---
 

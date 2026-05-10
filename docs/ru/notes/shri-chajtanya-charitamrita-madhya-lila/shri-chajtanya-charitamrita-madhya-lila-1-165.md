@@ -2,6 +2,7 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-1-165
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1.md
+  - ../../_full/1983/01/1983.01.14.md
 tags:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila

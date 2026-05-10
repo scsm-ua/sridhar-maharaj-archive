@@ -23,6 +23,10 @@ legacy:
   comment: (нет даты)
   filename: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego.md
 tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1

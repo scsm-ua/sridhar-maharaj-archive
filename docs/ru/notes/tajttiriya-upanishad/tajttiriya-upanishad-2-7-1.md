@@ -7,6 +7,15 @@ refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
   - ../../29-gayatri-mantra-i-mantra-om/494-2012-07-27-1-gayatri-mantra.md
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
+  - ../../_full/1981/08/1981.08.31.md
+  - ../../_full/1982/01/1982.01.27-v2.md
+  - ../../_full/1982/01/1982.01.27.md
+  - ../../_full/1982/02/1982.02.14.md
+  - ../../_full/1982/02/1982.02.17.md
+  - ../../_full/1983/03/1983.03.29.md
+  - ../../_full/1983/05/1983.05.11.md
+  - ../../_full/1983/06/1983.06.21.md
+  - ../../_full/1983/10/1983.10.05.B.C.md
 tags:
   - title: Тайттирия-упанишад
     slug: tajttiriya-upanishad

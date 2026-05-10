@@ -15,6 +15,12 @@ category:
 tags:
   - title: "1981.03"
     slug: 1981-03
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-157
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.9
@@ -33,8 +39,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
 links:
