@@ -39,7 +39,7 @@ legacy:
   filename: 473-1982-11-08-b2-vrindavan-eto-to-mesto-kotoroe-hranit-na-sebe-sledy-stop-shrimati-radharani.md
 ---
 
-ра̄дха̄-падма̄н̇кита дха̄ма, вр̣нда̄вана джа̄р на̄ма
+    ра̄дха̄-падма̄н̇кита дха̄ма, вр̣нда̄вана джа̄р на̄ма
 [^_ftn1]
 
     сеи дхаме на коину васати

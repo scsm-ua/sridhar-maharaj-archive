@@ -57,7 +57,7 @@ legacy:
   filename: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
 ---
 
-тр̣на̄д апи сунӣчена
+    тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄
     ама̄нина̄ ма̄надена
     кӣрттанӣйах̣ [сада̄ харих̣]

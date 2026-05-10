@@ -55,7 +55,7 @@ legacy:
   filename: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu.md
 ---
 
-муктир хитва̄нйатха̄-рӯпам̇
+    муктир хитва̄нйатха̄-рӯпам̇
     сварӯпен̣а вйавастхитих̣
 [^_ftn1]
 

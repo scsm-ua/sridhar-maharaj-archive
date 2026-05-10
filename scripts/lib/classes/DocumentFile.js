@@ -5,8 +5,8 @@
 const { Footnote } = require("./Footnote");
 const { stringify, parse } = require('yaml');
 
-const yml_re = /^---(.|\n)+---(\s|\n)+/m;
-
+const yml_re = /^---\n([\s\S]*?)\n---[ \t]*\n*/m;
+               
 class DocumentFile {
 
     constructor(factory, filename, content) {
@@ -22,7 +22,7 @@ class DocumentFile {
         var yml_match = this.content.match(yml_re);
         var content = this.content;
         if (yml_match) {
-            var yml_part = yml_match[0].replace(/^---\n*/m, '').replace(/\n*---\n*$/m, '');
+            var yml_part = yml_match[1];
             this.meta = parse(yml_part);
             // console.log(JSON.stringify(yml_part), this.meta)
             content = content.replace(yml_re, '');

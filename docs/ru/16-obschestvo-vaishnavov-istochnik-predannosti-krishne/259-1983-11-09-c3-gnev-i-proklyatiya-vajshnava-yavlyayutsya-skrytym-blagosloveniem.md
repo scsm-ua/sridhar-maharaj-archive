@@ -36,7 +36,7 @@ legacy:
   filename: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem.md
 ---
 
-дхармах̣ проджджхита-каитаво ‘тра
+    дхармах̣ проджджхита-каитаво ‘тра
     парамо нирматсара̄н̣а̄м̇ сата̄м̇
 [^_ftn1]
 

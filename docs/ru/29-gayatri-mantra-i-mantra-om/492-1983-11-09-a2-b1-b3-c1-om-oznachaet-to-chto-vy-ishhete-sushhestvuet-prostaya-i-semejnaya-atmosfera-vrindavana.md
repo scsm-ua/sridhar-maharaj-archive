@@ -76,7 +76,7 @@ legacy:
   filename: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
 ---
 
-там эва бха̄нтам анубха̄ти сарвам̇
+    там эва бха̄нтам анубха̄ти сарвам̇
     тасйа бха̄са̄ сарвам идам̇ вибха̄ти
 [^_ftn1]
 

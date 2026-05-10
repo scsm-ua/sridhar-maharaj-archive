@@ -48,7 +48,7 @@ legacy:
   filename: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
 ---
 
-кришна се томара, кришна дите паро
+    кришна се томара, кришна дите паро
     томара шакати ачхе
 [^_ftn1]
 

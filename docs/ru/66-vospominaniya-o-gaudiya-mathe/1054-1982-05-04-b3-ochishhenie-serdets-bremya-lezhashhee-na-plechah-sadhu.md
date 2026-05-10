@@ -34,7 +34,7 @@ legacy:
   filename: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu.md
 ---
 
-…манда натха! бхага хамара
+    …манда натха! бхага хамара
 [^_ftn1]
 
 [Каким образом?]

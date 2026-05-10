@@ -44,7 +44,7 @@ legacy:
   filename: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny.md
 ---
 
-а̄ми — эка ба̄тула, туми — двитӣйа ба̄тула
+    а̄ми — эка ба̄тула, туми — двитӣйа ба̄тула
     атаева тома̄йа а̄ма̄йа ха-и сама-тула
 [^ftnref1]
 

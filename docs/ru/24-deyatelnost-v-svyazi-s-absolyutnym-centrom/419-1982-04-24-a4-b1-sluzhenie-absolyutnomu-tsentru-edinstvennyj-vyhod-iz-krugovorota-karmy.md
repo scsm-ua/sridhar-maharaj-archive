@@ -45,7 +45,7 @@ legacy:
   filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
 ---
 
-ахаста̄ни сахаста̄на̄м
+    ахаста̄ни сахаста̄на̄м
     апада̄ни чатуш̣-пада̄м
     пхалгӯни татра махата̄м̇
     джӣво джӣвасйа джӣванам

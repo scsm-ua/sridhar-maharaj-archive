@@ -61,7 +61,7 @@ legacy:
   filename: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
 ---
 
-сиддха̄нта балийа̄ читте на̄ кара аласа
+    сиддха̄нта балийа̄ читте на̄ кара аласа
     иха̄ ха-ите кр̣ш̣н̣е ла̄ге судр̣д̣ха ма̄наса
 [^_ftn1]
 

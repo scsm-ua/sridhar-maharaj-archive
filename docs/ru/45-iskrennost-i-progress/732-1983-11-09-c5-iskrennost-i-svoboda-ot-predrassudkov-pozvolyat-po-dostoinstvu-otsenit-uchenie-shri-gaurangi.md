@@ -34,7 +34,7 @@ legacy:
   filename: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi.md
 ---
 
-на хи калйа̄н̣а-кр̣т каш́чид
+    на хи калйа̄н̣а-кр̣т каш́чид
     дургатим̇ та̄та гаччхати
 [^_ftn1]
 

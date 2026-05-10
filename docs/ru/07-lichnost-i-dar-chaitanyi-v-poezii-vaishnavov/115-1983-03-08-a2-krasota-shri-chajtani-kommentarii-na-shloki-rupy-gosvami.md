@@ -54,7 +54,7 @@ legacy:
   filename: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami.md
 ---
 
-томаре бхулийа, авидйа-пидайа,
+    томаре бхулийа, авидйа-пидайа,
     пидита расана мора…
 [^_ftn1]
 

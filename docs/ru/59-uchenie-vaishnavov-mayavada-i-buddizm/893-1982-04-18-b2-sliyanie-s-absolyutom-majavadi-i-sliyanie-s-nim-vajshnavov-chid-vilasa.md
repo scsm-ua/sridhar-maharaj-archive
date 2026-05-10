@@ -41,7 +41,7 @@ legacy:
   filename: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa.md
 ---
 
-деха-смр̣ти на̄хи йа̄ра, сам̇са̄ра-кӯпа ка̄ха̄н̇ та̄ра
+    деха-смр̣ти на̄хи йа̄ра, сам̇са̄ра-кӯпа ка̄ха̄н̇ та̄ра
     та̄ха̄ хаите на̄ ча̄хе уддха̄ра
 [^_ftn1]
 

@@ -42,7 +42,7 @@ legacy:
   filename: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane.md
 ---
 
-йатха̄ йатха̄ гаура-пада̄равинде
+    йатха̄ йатха̄ гаура-пада̄равинде
     виндета бхактим̇ кр̣та-пун̣йа-ра̄сих̣
     татха̄ татхотсарпати хр̣дй ака̄смад
     ра̄дха̄-пада̄мбходжа-судхамбху-ра̄сих̣

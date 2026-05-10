@@ -236,11 +236,10 @@ class FilesFactory {
 
         this.documents.forEach(doc => {
             var md = doc.renderFile();
-            // var filename = doc.filename.replace('/ru/', '/ru-2/');
-            // var dir = dirname(filename);
-            // if (!fs.existsSync(dir)) {
-            //     fs.mkdirSync(dir, { recursive: true });
-            // }
+            var dir = dirname(doc.filename);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
             fs.writeFileSync(doc.filename, md);
 
             (doc.meta.tags || []).forEach(t => {

@@ -46,7 +46,7 @@ legacy:
   filename: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya.md
 ---
 
-…йасмин прапте сарвам идам праптам бхавати
+    …йасмин прапте сарвам идам праптам бхавати
 [^_ftn1]
 
     тад виджиджн̃а̄сасва тад эва брахма

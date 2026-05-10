@@ -46,7 +46,7 @@ legacy:
   filename: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md
 ---
 
-…бахава иха вихан̇га̄ бхикш̣у-чарйа̄м̇ чаранти
+    …бахава иха вихан̇га̄ бхикш̣у-чарйа̄м̇ чаранти
     …дӣнам утср̣джйа дӣна̄
 [^ftnref1]
 

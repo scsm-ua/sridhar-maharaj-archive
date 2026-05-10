@@ -29,7 +29,7 @@ legacy:
   filename: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni.md
 ---
 
-[шлока]
+    [шлока]
 
 Великая поэма, написанная одним поэтом, которого звали Шишупал Гхот. В этой поэме есть одна *шлока*:
 

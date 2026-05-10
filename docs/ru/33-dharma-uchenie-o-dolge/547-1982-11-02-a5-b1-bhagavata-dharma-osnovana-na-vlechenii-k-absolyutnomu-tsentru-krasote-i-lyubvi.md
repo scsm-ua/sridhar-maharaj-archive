@@ -99,7 +99,7 @@ legacy:
   filename: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
 ---
 
-бхидйате хр̣дайа-грантхиш́
+    бхидйате хр̣дайа-грантхиш́
     чхидйанте сарва-сам̇ш́айа̄х̣
     кшӣйанте ча̄сйа карма̄н̣и
     майи др̣ш̣т̣е ’кхила̄тмани

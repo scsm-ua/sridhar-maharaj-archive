@@ -34,7 +34,7 @@ legacy:
   filename: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti.md
 ---
 
-[тр̣на̄д апи сунӣчена
+    [тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄]
     ама̄нина̄ ма̄надена
     кӣрттанӣйах̣ сада̄ харих̣

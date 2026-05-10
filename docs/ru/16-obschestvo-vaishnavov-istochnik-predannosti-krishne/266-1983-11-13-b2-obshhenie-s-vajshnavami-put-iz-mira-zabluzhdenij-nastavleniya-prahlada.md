@@ -49,7 +49,7 @@ legacy:
   filename: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
 ---
 
-ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
+    ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
     ш́унийа̄чхи са̄дху гуру мукхе
 [^_ftn1]
 

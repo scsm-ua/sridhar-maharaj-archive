@@ -41,7 +41,7 @@ legacy:
   filename: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte.md
 ---
 
-ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
+    ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
     ш́унийа̄чхи са̄дху гуру мукхе
 [^_ftn1]
 

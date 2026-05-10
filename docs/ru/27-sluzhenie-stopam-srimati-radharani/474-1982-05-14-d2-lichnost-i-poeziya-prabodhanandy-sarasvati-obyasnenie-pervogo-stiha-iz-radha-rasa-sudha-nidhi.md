@@ -40,7 +40,7 @@ legacy:
   filename: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi.md
 ---
 
-йатха̄ йатха̄ гаура-пада̄равинде
+    йатха̄ йатха̄ гаура-пада̄равинде
     виндета бхактим̇ кр̣та-пун̣йа-ра̄сих̣
     татха̄ татхотсарпати хр̣дй ака̄смад…
 
