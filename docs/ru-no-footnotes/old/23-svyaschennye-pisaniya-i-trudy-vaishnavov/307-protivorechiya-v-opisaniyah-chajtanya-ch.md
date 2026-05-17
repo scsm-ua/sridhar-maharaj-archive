@@ -1,7 +1,7 @@
 ---
 slug: 307-protivorechiya-v-opisaniyah-chajtanya-ch
 record_id: 1982.01.17.B1
-title: Противоречия в описаниях «Чайтанья-чаритамриты» и «Чайтанья-бхагаваты».
+title: Противоречия в описаниях «Чайтанья-чаритамриты» и «Чайтанья-бхагаваты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Священные писания
     slug: svyashhennye-pisaniya
   - title: Чайтанья-бхагавата

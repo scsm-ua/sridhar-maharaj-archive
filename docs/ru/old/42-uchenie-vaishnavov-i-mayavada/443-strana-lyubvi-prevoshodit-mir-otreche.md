@@ -1,7 +1,7 @@
 ---
 slug: 443-strana-lyubvi-prevoshodit-mir-otreche
 record_id: 1983.06.05.C4
-title: Страна любви превосходит мир отречения.
+title: Страна любви превосходит мир отречения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Майавада
     slug: majavada
 links:

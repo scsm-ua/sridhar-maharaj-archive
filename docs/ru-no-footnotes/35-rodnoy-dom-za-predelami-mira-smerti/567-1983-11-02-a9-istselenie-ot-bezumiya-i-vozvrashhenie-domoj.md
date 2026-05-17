@@ -12,9 +12,6 @@ date: 1983-11-02
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.mp3
     title: аудиозапись в MP3 (4 мин. 37 сек., 7,0 МБ)

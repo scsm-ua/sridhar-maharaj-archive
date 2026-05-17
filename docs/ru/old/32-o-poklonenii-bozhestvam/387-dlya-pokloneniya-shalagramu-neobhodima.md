@@ -1,7 +1,7 @@
 ---
 slug: 387-dlya-pokloneniya-shalagramu-neobhodima
 record_id: 1983.05.06.B3
-title: Для поклонения Шалаграму необходима особая квалификация.
+title: Для поклонения Шалаграму необходима особая квалификация
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Божество
     slug: bozhestvo
 links:

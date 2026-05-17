@@ -13,8 +13,6 @@ category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Гаудия-Кантахара
     slug: gaudiya-kantahara
 links:

@@ -12,9 +12,6 @@ date: 1982-01-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3
     title: аудиозапись в MP3 (10 мин. 29 сек., 5,2 МБ)

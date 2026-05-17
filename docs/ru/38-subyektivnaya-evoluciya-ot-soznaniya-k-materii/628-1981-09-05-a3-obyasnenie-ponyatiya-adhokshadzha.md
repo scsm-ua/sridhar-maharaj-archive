@@ -12,9 +12,18 @@ date: 1981-09-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
+    title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.docx
+    title: транскрипцию в DOCX (26 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.pdf
+    title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
+  index: "628"
+  filename: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
 tags:
-  - title: "1981.09"
-    slug: 1981-09
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
@@ -39,17 +48,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
-    title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.docx
-    title: транскрипцию в DOCX (26 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.pdf
-    title: транскрипцию в PDF (158 КБ)
-legacy:
-  title: 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
-  index: "628"
-  filename: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
 ---
 
 «Шримад-Бхагаватам» сплошь и рядом использует этот термин — *адхокшаджа*. Почему? «Бхагаватам» описывает *апракрита-расу*, которая очень похожа на эти мирские реалии, реалии нашего мира, поэтому это предостережение вновь и вновь повторяется на страницах «Бхагаватам»: «*Адхокшаджа, адхокшаджа*».

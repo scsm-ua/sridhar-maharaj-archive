@@ -1,7 +1,7 @@
 ---
 slug: 197-1982-11-02-b5-c1-dokazatelstvo-sushhestvovaniya-dushi-i-boga-bhagavatam-11-22-34
 record_id: 1982.11.02.B5.C1
-title: Доказательство существования души и Бога. «Бхагаватам» 11.22.34
+title: Доказательство существования души и Бога. «Бхагаватам» 11.22.34.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-11-02
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/197_1982.11.02.B5.C1_SridharMj_Dokazatelstvo_sushhestvovanija_dushi_i_Boga__Bhagavatam_11.22.34.mp3
     title: аудиозапись в MP3 (8 мин. 11 сек., 8,2 МБ)

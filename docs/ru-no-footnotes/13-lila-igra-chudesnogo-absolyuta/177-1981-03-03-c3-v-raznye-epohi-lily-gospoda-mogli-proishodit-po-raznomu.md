@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
     title: аудиозапись в MP3 (4 мин. 14 сек., 2,6 МБ)

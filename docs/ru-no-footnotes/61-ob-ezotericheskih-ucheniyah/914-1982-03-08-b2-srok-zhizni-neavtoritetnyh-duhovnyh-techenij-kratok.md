@@ -12,9 +12,6 @@ date: 1982-03-08
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.03"
-    slug: 1982-03
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
     title: аудиозапись в MP3 (2 мин. 56 сек., 3,5 МБ)

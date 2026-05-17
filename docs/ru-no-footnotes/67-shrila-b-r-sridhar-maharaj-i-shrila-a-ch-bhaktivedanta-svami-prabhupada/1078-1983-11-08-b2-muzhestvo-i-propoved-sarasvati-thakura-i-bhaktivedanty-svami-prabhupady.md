@@ -12,9 +12,6 @@ date: 1983-11-08
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3
     title: аудиозапись в MP3 (25 мин. 24 сек., 24,8 МБ)

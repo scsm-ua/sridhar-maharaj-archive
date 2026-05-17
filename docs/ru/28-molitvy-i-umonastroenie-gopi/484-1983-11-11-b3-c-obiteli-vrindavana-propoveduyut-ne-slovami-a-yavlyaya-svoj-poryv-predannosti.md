@@ -12,9 +12,19 @@ date: 1983-11-11
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
+links:
+  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
+    title: аудиозапись в MP3 (7 мин. 49 сек., 7,0 МБ)
+  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.rtf
+    title: транскрипцию в RTF (83 КБ)
+  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.pdf
+    title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 484. 1983.11.11.B3.C. Обители Вриндавана проповедуют не словами, а являя
+    свой порыв преданности
+  index: "484"
+  filename: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
@@ -31,18 +41,6 @@ tags:
     slug: shrimad-bhagavatam-10-82-44
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
     slug: shri-chajtanya-charitamrita-madhya-lila-13-141
-links:
-  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
-    title: аудиозапись в MP3 (7 мин. 49 сек., 7,0 МБ)
-  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.rtf
-    title: транскрипцию в RTF (83 КБ)
-  - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.pdf
-    title: транскрипцию в PDF (150 КБ)
-legacy:
-  title: 484. 1983.11.11.B3.C. Обители Вриндавана проповедуют не словами, а являя
-    свой порыв преданности
-  index: "484"
-  filename: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
 ---
 
 Все могут не знать, как объяснить Его положение в качестве Верховного. *Гьяна-шунья-бхакти*. Но *Ачарьи* приходят и обращаются к массам, показывая своими произведениями, своей проповедью каким образом Кришна-концепция занимает верховное положение. Не все преданные обязательно сумеют объяснить, почему Кришна занимает верховное положение: «Мне нравится, я не могу объяснить, почему. Я не могу объяснить». Только когда по особой воле Кришны такого рода способность дается, возможность объяснения присутствует.
@@ -53,7 +51,7 @@ legacy:
 
 *#00:01:48#*
 
-Но иногда мы видим: их порыв настолько велик, что ученые теряют дар речи. Как на Курукшетре, когда Сам Кришна сказал: «Люди в целом питают ко Мне любовь в надежде на вечное блаженство — *амр̣татва̄йа калпате*[^_ftn1]. Вы обрели некую любовь ко Мне, к счастью для вас. Ваше будущее гарантировано» — сказал Кришна. *Бхаватӣна̄м̇ мад-а̄панах̣.*
+Но иногда мы видим: их порыв настолько велик, что ученые теряют дар речи. Как на Курукшетре, когда Сам Кришна сказал: «Люди в целом питают ко Мне любовь в надежде на вечное блаженство — *амр̣татва̄йа калпате*[^_ftn1]. Вы обрели некую любовь ко Мне, к счастью для вас. Ваше будущее гарантировано» — сказал Кришна. *Бхаватӣна̄м̇ мад-а̄панах̣*.
 
 *#00:02:37#*
 

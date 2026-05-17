@@ -1,7 +1,7 @@
 ---
 slug: 292-istoriya-posvyashheniya-shyamanandy-prabh
 record_id: 1985.05.01.B5
-title: История посвящения Шьямананды Прабху.
+title: История посвящения Шьямананды Прабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Шьямананда Прабху

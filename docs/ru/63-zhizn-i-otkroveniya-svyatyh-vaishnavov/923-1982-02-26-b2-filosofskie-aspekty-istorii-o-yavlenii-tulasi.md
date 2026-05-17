@@ -12,9 +12,6 @@ date: 1982-02-26
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.mp3
     title: аудиозапись в MP3 (4 мин. 02 сек., 6,5 МБ)

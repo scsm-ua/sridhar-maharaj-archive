@@ -1,7 +1,7 @@
 ---
 slug: 426-o-chtenii-sokrovennyh-pisanij-1983-04-25-a2
 record_id: 1983.04.25.A2
-title: О чтении сокровенных Писаний.
+title: О чтении сокровенных Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Сахаджия
     slug: sahadzhiya
 links:

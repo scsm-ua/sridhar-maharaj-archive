@@ -12,9 +12,6 @@ date: 1982-04-24
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3
     title: аудиозапись в MP3 (12 мин. 41 сек., 11,8 МБ)

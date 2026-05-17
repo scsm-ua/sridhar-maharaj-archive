@@ -12,9 +12,6 @@ date: 1981-03-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 64 кбит/сек, 3.9 МБ)

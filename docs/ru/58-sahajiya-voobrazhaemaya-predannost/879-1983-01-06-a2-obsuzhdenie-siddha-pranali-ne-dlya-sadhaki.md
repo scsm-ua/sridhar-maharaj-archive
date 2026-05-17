@@ -12,13 +12,6 @@ date: 1983-01-06
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.33.30
-    slug: shrimad-bhagavatam-10-33-30
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/879_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,7 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 879. 1983.01.06.A2. Обсуждение сиддха-пранали — не для садхаки
   index: "879"
   filename: 879-1983-01-06-a2-obsuzhdenie-siddha-pranali-ne-dlya-sadhaki.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.33.30
+    slug: shrimad-bhagavatam-10-33-30
 ---
 
 **Преданный:** В «Чайтанья-шикшамрите» говорится о *сита-пранали*, и я уже задавал вам об этом вопрос: это необходимо, чтобы?..

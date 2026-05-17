@@ -12,13 +12,6 @@ date: 1983-01-25
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 8.274
-    slug: shri-chajtanya-bhagavata-madhya-khanda-8-274
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/027_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
     title: аудиозапись в MP3 (10 мин. 28 сек., 4.9 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 027. 1983.01.25.A Трансценденталистам все окружающее напоминает о Кришне
   index: "027"
   filename: 027_1983-01-25-a_sridharmj_transcendentalistam_vse_okrujayuwee_napominaet_o_krishne.md
+tags:
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 8.274
+    slug: shri-chajtanya-bhagavata-madhya-khanda-8-274
 ---
 
 Необходим слух, способный уловить этот нектарный, сладостный звук, слух соответствующего типа. Звук, что сладок для одного, может быть горьким для другого, в соответствии с его вкусом.

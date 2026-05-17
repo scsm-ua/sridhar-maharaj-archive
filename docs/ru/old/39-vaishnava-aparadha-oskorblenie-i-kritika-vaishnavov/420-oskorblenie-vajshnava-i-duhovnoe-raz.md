@@ -1,7 +1,7 @@
 ---
 slug: 420-oskorblenie-vajshnava-i-duhovnoe-raz
 record_id: 1983.05.09.C4
-title: Оскорбление вайшнава и духовное развитие.
+title: Оскорбление вайшнава и духовное развитие
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
 links:

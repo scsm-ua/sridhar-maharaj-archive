@@ -12,9 +12,6 @@ date: 1981-08-10
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3
     title: аудиозапись в MP3 (9 мин. 12 сек., 9,6 МБ)

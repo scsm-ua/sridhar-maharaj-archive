@@ -1,7 +1,7 @@
 ---
 slug: 432-shloka-kotoruyu-pel-po-utram-shrila-sara
 record_id: 1981.11.12.C1
-title: Шлока, которую пел по утрам Шрила Сарасвати Тхакур.
+title: Шлока, которую пел по утрам Шрила Сарасвати Тхакур
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Сахаджия

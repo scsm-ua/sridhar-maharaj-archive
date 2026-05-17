@@ -1,7 +1,7 @@
 ---
 slug: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda
 record_id: 1981.03.05.A1
-title: Истинный смысл Веданты. Прабодхананда и Пракашананда
+title: Истинный смысл Веданты. Прабодхананда и Пракашананда.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,18 @@ date: 1981-03-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
+links:
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
+    title: аудиозапись в MP3 (10 мин. 10 сек., 4,8 МБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.rtf
+    title: транскрипцию в RTF (110 КБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.pdf
+    title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 891. 1981.03.05.A1. Истинный смысл Веданты. Прабодхананда и Пракашананда
+  index: "891"
+  filename: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Шад-Госвами-аштака
     slug: shad-gosvami-ashtaka
   - title: Шад-Госвами-аштака 2
@@ -31,17 +40,6 @@ tags:
     slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1–2
     slug: vedanta-sutra-1-1-1-2
-links:
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
-    title: аудиозапись в MP3 (10 мин. 10 сек., 4,8 МБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.rtf
-    title: транскрипцию в RTF (110 КБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.pdf
-    title: транскрипцию в PDF (155 КБ)
-legacy:
-  title: 891. 1981.03.05.A1. Истинный смысл Веданты. Прабодхананда и Пракашананда
-  index: "891"
-  filename: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
 ---
 
 **Госвами Махарадж:** Махарадж, можем мы вам задать вопрос?

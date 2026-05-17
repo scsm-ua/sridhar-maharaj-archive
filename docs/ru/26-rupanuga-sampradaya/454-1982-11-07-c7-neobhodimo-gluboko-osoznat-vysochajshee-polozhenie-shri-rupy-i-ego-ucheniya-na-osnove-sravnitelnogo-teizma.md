@@ -13,9 +13,6 @@ date: 1982-11-07
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 4,5 МБ)

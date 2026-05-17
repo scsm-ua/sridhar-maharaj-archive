@@ -1,7 +1,7 @@
 ---
 slug: 215-nebo-soznaniya-1982-01-04-b1
 record_id: 1982.01.04.B1
-title: Небо сознания.
+title: Небо сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Сознание
     slug: soznanie
 links:

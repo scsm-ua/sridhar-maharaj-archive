@@ -13,8 +13,6 @@ category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гаятри-мантра
     slug: gayatri-mantra
   - title: «Шри Чайтанья-чаритамрита», Антья-лила

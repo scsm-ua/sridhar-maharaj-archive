@@ -12,13 +12,6 @@ date: 1982-01-19
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
-  - title: Чайтанья-чандрамрита 88
-    slug: chajtanya-chandramrita-88
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
     title: аудиозапись в MP3 (35 мин. 37 сек., 16,7 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 462. 1982.01.19.B2. Молитва Рагхунатха даса Госвами
   index: "462"
   filename: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami.md
+tags:
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 ---
 
 **Акшаянанда Махарадж:** Махарадж, хотя внешне кажется, что Рагхунатх Дас [Госвами] ответственен за *садхану*, что он действует как *садхака*, тем не менее, он дает *прайоджану*. Он как будто бы действует на самом простом уровне.

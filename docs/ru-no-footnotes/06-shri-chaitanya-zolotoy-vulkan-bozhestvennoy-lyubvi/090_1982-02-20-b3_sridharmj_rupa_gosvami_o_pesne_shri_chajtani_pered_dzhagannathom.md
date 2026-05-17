@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: история
     slug: istoriya
   - title: история о шлоке Рупы Госвами на крыше хижины

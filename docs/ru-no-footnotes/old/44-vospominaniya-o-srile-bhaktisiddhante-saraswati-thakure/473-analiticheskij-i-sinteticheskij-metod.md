@@ -1,7 +1,7 @@
 ---
 slug: 473-analiticheskij-i-sinteticheskij-metod
 record_id: 1983.01.30.A4
-title: Аналитический и синтетический метод вайшнавской теологии.
+title: Аналитический и синтетический метод вайшнавской теологии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

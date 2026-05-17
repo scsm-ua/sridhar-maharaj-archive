@@ -1,7 +1,7 @@
 ---
 slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
 record_id: 1982.07.27.A1
-title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго
+title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,19 @@ date: 1982-07-27
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
+links:
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
+    title: аудиозапись в MP3 (21 мин. 11 сек., 20,2 МБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.rtf
+    title: транскрипцию в RTF (172 КБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.pdf
+    title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и
+    пробуждение истинного эго
+  index: "418"
+  filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
@@ -35,18 +45,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-links:
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
-    title: аудиозапись в MP3 (21 мин. 11 сек., 20,2 МБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.rtf
-    title: транскрипцию в RTF (172 КБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.pdf
-    title: транскрипцию в PDF (174 КБ)
-legacy:
-  title: 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и
-    пробуждение истинного эго
-  index: "418"
-  filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
 ---
 
 **Шрила Шридхар Махарадж:** Эти двое?
@@ -131,7 +129,7 @@ legacy:
 
     [шлока]
 
-*Мадху*, *мадху*, *мадху* — мед, мед, мед; сладость, сладость, сладость — все сладостно; ветер — сладостен, вода — сладостна, деревья — сладостны. Все, с чем ты соприкасаешься, все сладостно. Твое внутреннее эго является твоим врагом, и для того чтобы растворить, уничтожить это эго, необходим вышеописанный процесс: выполняй свой долг — долг, к которому (как ты думаешь) ты пригоден. Но никогда не ожидай ответа, согласно своим прихотям, своей воле — это *карма-йога.* Если ты примешь этот процесс *карма-йоги*, то очень скоро ты обнаружишь, что эго, которое ожидало каверзным, обманчивым образом каких-то плодов, — это эго уйдет, и новое эго проявится, широкое эго, не узкое, и ты окажешься в гармонии с целой вселенной, со всем мирозданием.
+*Мадху*, *мадху*, *мадху* — мед, мед, мед; сладость, сладость, сладость — все сладостно; ветер — сладостен, вода — сладостна, деревья — сладостны. Все, с чем ты соприкасаешься, все сладостно. Твое внутреннее эго является твоим врагом, и для того чтобы растворить, уничтожить это эго, необходим вышеописанный процесс: выполняй свой долг — долг, к которому (как ты думаешь) ты пригоден. Но никогда не ожидай ответа, согласно своим прихотям, своей воле — это *карма-йога*. Если ты примешь этот процесс *карма-йоги*, то очень скоро ты обнаружишь, что эго, которое ожидало каверзным, обманчивым образом каких-то плодов, — это эго уйдет, и новое эго проявится, широкое эго, не узкое, и ты окажешься в гармонии с целой вселенной, со всем мирозданием.
 
 *#00:10:14#*
 

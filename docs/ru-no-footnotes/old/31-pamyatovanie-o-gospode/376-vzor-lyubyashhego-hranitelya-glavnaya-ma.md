@@ -1,7 +1,7 @@
 ---
 slug: 376-vzor-lyubyashhego-hranitelya-glavnaya-ma
 record_id: 1982.02.17.A1
-title: «Взор любящего Хранителя» — главная мантра Ригведы.
+title: «Взор любящего Хранителя» — главная мантра Ригведы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-02-17
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /wp-content/uploads/2012/08/376_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
     title: Скачать аудиозапись в mp3 (16 мин 16 сек, размер 8 Мб)

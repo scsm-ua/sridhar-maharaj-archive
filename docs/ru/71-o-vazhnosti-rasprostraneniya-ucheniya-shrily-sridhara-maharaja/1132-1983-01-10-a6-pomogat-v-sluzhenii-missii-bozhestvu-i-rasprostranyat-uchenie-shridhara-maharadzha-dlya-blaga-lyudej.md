@@ -13,9 +13,6 @@ date: 1983-01-10
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1132_1983.01.10.A6_SridharMj_Pomogat_v_sluzhenii_Missii_Bozhestvu_i_rasprostranjat_uchenie_Shridhara_Maharadzha_dlja_blaga_ljudej.mp3
     title: аудиозапись в MP3 (2 мин. 02 сек., 2,9 МБ)

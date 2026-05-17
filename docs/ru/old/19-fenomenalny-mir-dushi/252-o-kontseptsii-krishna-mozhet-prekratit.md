@@ -1,7 +1,7 @@
 ---
 slug: 252-o-kontseptsii-krishna-mozhet-prekratit
 record_id: 1980.07.11.A6
-title: О концепции «Кришна может прекратить существование дживы».
+title: О концепции «Кришна может прекратить существование дживы»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1980.07"
-    slug: 1980-07
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
   - title: Душа

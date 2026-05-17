@@ -12,9 +12,6 @@ date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
     title: аудиозапись в MP3 (6 мин. 55 сек., 4,0 МБ)

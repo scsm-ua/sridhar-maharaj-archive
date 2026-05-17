@@ -12,9 +12,6 @@ date: 1982-03-29
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
-tags:
-  - title: "1982.03"
-    slug: 1982-03
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3
     title: аудиозапись в MP3 (2 мин. 54 сек., 3,6 МБ)

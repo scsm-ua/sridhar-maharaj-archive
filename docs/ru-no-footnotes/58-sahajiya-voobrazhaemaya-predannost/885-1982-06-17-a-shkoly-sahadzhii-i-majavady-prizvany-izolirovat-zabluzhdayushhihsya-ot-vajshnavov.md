@@ -12,9 +12,6 @@ date: 1982-06-17
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
     title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)

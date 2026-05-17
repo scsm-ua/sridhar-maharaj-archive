@@ -1,7 +1,7 @@
 ---
 slug: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4
 record_id: 1983.01.25.B4
-title: Подлинные потеря и приобретение.
+title: Подлинные потеря и приобретение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гармония
     slug: garmoniya
 links:

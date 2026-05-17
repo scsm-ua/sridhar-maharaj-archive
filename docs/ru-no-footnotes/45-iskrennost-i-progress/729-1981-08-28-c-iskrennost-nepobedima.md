@@ -12,9 +12,6 @@ date: 1981-08-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
     title: аудиозапись в MP3 (41 мин. 39 сек., 20,0 МБ)

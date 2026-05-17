@@ -2,7 +2,7 @@
 slug: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura
 record_id: 1982.06.08.A3
 title: Стих Рупы Госвами о почитании преданных разного уровня. Замечание
-  Бхактивинода Тхакура
+  Бхактивинода Тхакура.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,17 +13,6 @@ date: 1982-06-08
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
-  - title: Шри Упадешамрита 5
-    slug: shri-upadeshamrita-5
-  - title: Бхаджана-лаласа
-    slug: bhadzhana-lalasa
-  - title: Бхаджана-лаласа 5.1
-    slug: bhadzhana-lalasa-5-1
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3
     title: аудиозапись в MP3 (6 мин. 34 сек., 7,2 МБ)
@@ -36,6 +25,15 @@ legacy:
     уровня. Замечание Бхактивинода Тхакура
   index: "256"
   filename: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura.md
+tags:
+  - title: Шри Упадешамрита
+    slug: shri-upadeshamrita
+  - title: Шри Упадешамрита 5
+    slug: shri-upadeshamrita-5
+  - title: Бхаджана-лаласа
+    slug: bhadzhana-lalasa
+  - title: Бхаджана-лаласа 5.1
+    slug: bhadzhana-lalasa-5-1
 ---
 
 **Преданный:** Махарадж, Шрила Рупа Госвами говорит о том, что чистый преданный не склонен критиковать других в сердце своем. Как мы можем обрести подобное качество?

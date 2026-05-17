@@ -1,7 +1,7 @@
 ---
 slug: 260-flejta-krishny-1982-01-03-b
 record_id: 1982.01.03.B
-title: Флейта Кришны.
+title: Флейта Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Божество
     slug: bozhestvo
   - title: Вишнуприя Деви

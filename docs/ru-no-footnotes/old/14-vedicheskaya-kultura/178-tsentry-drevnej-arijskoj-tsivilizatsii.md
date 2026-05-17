@@ -1,7 +1,7 @@
 ---
 slug: 178-tsentry-drevnej-arijskoj-tsivilizatsii
 record_id: 1983.01.12.B6
-title: Центры древней арийской цивилизации.
+title: Центры древней арийской цивилизации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

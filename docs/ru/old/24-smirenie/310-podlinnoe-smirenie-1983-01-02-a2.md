@@ -1,7 +1,7 @@
 ---
 slug: 310-podlinnoe-smirenie-1983-01-02-a2
 record_id: 1983.01.02.A2
-title: Подлинное смирение.
+title: Подлинное смирение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (24. Смирение)
   slug: 24-smirenie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Смирение

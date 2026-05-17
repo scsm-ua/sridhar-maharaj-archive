@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Адвайта Ачарья
     slug: advajta-acharya
   - title: Ачьютананда

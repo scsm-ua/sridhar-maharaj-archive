@@ -12,9 +12,18 @@ date: 1982-01-27
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
+links:
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
+    title: аудиозапись в MP3 (7 мин. 21 сек., 4,1 МБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.rtf
+    title: транскрипцию в RTF (81 КБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.pdf
+    title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 216. 1982.01.27.A4. Веды пребывают в поиске Шри Кришны
+  index: "216"
+  filename: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
@@ -27,17 +36,6 @@ tags:
     slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
-links:
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
-    title: аудиозапись в MP3 (7 мин. 21 сек., 4,1 МБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.rtf
-    title: транскрипцию в RTF (81 КБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.pdf
-    title: транскрипцию в PDF (146 КБ)
-legacy:
-  title: 216. 1982.01.27.A4. Веды пребывают в поиске Шри Кришны
-  index: "216"
-  filename: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny.md
 ---
 
 *Дикша-гуру* и *шикша-гуру* — то же самое. Относительная позиция, положение и абсолютное положение. В этой связи я иногда цитирую юриста по имени Нортон. Ауробиндо Гхош был очень плодовитым, талантливым писателем, он прекрасно владел английским языком, он был очень выдающимся писателем на английском языке. И когда его искали власти, Нортон — один юрист, он был наделен здравым смыслом — читал газеты, увидел некую статью и признал авторство. Он сказал: «Вот мистер Гхош: он автор этой статьи».

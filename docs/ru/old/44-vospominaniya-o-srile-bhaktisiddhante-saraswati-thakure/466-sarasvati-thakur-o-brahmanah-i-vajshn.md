@@ -1,7 +1,7 @@
 ---
 slug: 466-sarasvati-thakur-o-brahmanah-i-vajshn
 record_id: 1981.08.12.D
-title: Сарасвати Тхакур о брахманах и вайшнавах.
+title: Сарасвати Тхакур о брахманах и вайшнавах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

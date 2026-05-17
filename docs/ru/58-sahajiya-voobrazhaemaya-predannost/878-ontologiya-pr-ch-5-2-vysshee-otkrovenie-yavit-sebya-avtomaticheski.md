@@ -1,6 +1,6 @@
 ---
 slug: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski
-title: Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически
+title: Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -79,4 +79,4 @@ legacy:
 
 [^_ftn3]: [Бхагавад-гита 2.47](../notes/bhagavad-gita/bhagavad-gita-2-47.md)
 
-[^_ftn4]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn4]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)

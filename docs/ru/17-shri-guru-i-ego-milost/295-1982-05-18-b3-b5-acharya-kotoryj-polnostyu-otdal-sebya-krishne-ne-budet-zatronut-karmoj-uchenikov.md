@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3
     title: аудиозапись в MP3 (1 мин. 22 сек., 2,6 МБ)

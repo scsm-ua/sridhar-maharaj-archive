@@ -12,9 +12,6 @@ date: 1983-07-08
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
     title: аудиозапись в MP3 (12 мин. 30 сек., 6,5 МБ)

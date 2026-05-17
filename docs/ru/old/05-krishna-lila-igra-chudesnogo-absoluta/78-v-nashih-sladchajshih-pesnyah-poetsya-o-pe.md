@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1980.07"
-    slug: 1980-07
   - title: Кришна-лила
     slug: krishna-lila
 links:

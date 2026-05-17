@@ -12,9 +12,18 @@ date: 1985-10-05
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
+links:
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
+    title: аудиозапись в MP3 (2 мин. 38 сек., 1,5 МБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.rtf
+    title: транскрипцию в RTF (63 КБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.pdf
+    title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
+  index: "863"
+  filename: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi.md
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
@@ -33,17 +42,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-links:
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
-    title: аудиозапись в MP3 (2 мин. 38 сек., 1,5 МБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.rtf
-    title: транскрипцию в RTF (63 КБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.pdf
-    title: транскрипцию в PDF (149 КБ)
-legacy:
-  title: 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
-  index: "863"
-  filename: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi.md
 ---
 
     йе ‘нйе ‘равинда̄кша вимукта-ма̄нинас

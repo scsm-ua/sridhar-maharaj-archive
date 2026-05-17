@@ -12,13 +12,6 @@ date: 1982-07-16
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
-    slug: shri-chajtanya-charitamrita-madhya-lila-13-159
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 7,6 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
   index: "468"
   filename: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-159
 ---
 
     [шлока]

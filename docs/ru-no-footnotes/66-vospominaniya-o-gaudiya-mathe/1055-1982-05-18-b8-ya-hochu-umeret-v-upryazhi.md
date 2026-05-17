@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
     title: аудиозапись в MP3 (2 мин. 04 сек., 2,4 МБ)

@@ -12,9 +12,6 @@ date: 1982-03-13
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.03"
-    slug: 1982-03
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3
     title: аудиозапись в MP3 (5 мин. 25 сек., 5,8 МБ)

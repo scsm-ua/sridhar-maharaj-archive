@@ -2,7 +2,7 @@
 slug: 143-1983-01-25-b2-glubokoe-vospriyatie-realnosti-kommentarij-k-vosmomu-i-tretemu-stihu-shikshashtaki
 record_id: 1983.01.25.B2
 title: Глубокое восприятие реальности. Комментарий к восьмому и третьему стиху
-  Шикшаштаки
+  Шикшаштаки.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -14,8 +14,6 @@ category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Шикшаштакам
     slug: shikshashtakam
 links:

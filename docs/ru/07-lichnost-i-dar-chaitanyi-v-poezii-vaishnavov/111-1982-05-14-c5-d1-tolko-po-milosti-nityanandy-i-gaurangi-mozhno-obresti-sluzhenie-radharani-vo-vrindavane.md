@@ -14,8 +14,6 @@ category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Махапрабху
     slug: mahaprabhu
   - title: Нитьянанда Прабху

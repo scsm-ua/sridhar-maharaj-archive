@@ -1,7 +1,7 @@
 ---
 slug: 99-kachestva-duhovnogo-uchitelya-i-uchenika
 record_id: 1981.02.28.C1
-title: Качества духовного учителя и ученика.
+title: Качества духовного учителя и ученика
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Гуру
     slug: guru
   - title: Качества ученика

@@ -1,7 +1,7 @@
 ---
 slug: 391-iskrennost-i-golos-sovesti-na-duhov
 record_id: 1981.03.02.A3.B1
-title: Искренность и голос совести на духовном пути.
+title: Искренность и голос совести на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (33. Искренность)
   slug: 33-iskrennost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Искренность
     slug: iskrennost
 links:

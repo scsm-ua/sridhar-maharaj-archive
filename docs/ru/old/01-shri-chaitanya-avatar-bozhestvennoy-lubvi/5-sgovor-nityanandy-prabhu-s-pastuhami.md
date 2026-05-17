@@ -1,7 +1,7 @@
 ---
 slug: 5-sgovor-nityanandy-prabhu-s-pastuhami
 record_id: 1982.01.17.A1
-title: Сговор Нитьянанды Прабху с пастухами.
+title: Сговор Нитьянанды Прабху с пастухами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Нитьянанда Прабху

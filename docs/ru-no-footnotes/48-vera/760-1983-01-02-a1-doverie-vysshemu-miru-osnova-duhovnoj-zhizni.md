@@ -13,8 +13,6 @@ category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Вера
     slug: vera
 links:

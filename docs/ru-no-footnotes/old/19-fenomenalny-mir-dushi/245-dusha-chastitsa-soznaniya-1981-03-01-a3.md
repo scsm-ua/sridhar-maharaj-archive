@@ -1,7 +1,7 @@
 ---
 slug: 245-dusha-chastitsa-soznaniya-1981-03-01-a3
 record_id: 1981.03.01.A3
-title: Душа — частица сознания.
+title: Душа — частица сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Сознание

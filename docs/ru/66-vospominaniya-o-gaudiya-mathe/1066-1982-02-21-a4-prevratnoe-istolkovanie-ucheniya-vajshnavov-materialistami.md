@@ -12,9 +12,6 @@ date: 1982-02-21
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
     title: аудиозапись в MP3 (6 мин. 32 сек., 2,7 МБ)

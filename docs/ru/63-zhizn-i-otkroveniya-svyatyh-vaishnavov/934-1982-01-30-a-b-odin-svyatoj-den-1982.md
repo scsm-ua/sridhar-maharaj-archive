@@ -12,9 +12,18 @@ date: 1982-01-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
+    title: аудиозапись в MP3 (1 час 7 мин. 56 сек., 33,9 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).rtf
+    title: транскрипцию в RTF (458 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).pdf
+    title: транскрипцию в PDF (214 КБ)
+legacy:
+  title: 934. 1982.01.30.A.B. Один святой день (1982)
+  index: "934"
+  filename: 934-1982-01-30-a-b-odin-svyatoj-den-1982.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
@@ -39,17 +48,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.248
     slug: shri-chajtanya-charitamrita-madhya-lila-8-248
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
-    title: аудиозапись в MP3 (1 час 7 мин. 56 сек., 33,9 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).rtf
-    title: транскрипцию в RTF (458 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).pdf
-    title: транскрипцию в PDF (214 КБ)
-legacy:
-  title: 934. 1982.01.30.A.B. Один святой день (1982)
-  index: "934"
-  filename: 934-1982-01-30-a-b-odin-svyatoj-den-1982.md
 ---
 
 [Харе Кришна, Харе Кришна, Гаура Харибол]
@@ -131,7 +129,7 @@ legacy:
 
 *#00:17:47#*
 
-Божественные конвульсии поразили его тело. Гададхар был в ужасе, он подумал: «Что я наделал! Такой великий вайшнав!» *Кам̇ ва̄ дайа̄лум̇ ш́аран̣ам̇ враджема.* Прошло какое-то продолжительное время, и они попытались успокоить его. Постепенно Пундарика Видьянидхи пришел в себя. Долгое время прошло, прежде чем он вернулся в этот мир.
+Божественные конвульсии поразили его тело. Гададхар был в ужасе, он подумал: «Что я наделал! Такой великий вайшнав!» *Кам̇ ва̄ дайа̄лум̇ ш́аран̣ам̇ враджема*. Прошло какое-то продолжительное время, и они попытались успокоить его. Постепенно Пундарика Видьянидхи пришел в себя. Долгое время прошло, прежде чем он вернулся в этот мир.
 
 *#00:18:41#*
 

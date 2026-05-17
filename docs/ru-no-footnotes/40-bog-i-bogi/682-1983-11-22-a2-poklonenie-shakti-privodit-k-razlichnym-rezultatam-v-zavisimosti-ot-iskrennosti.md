@@ -12,9 +12,6 @@ date: 1983-11-22
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3
     title: аудиозапись в MP3 (8 мин. 40 сек., 8,7 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 270-bhakti-devi-vrinda-devi-tulasi-devi-1981-0
 record_id: 1981.03.06.B2
-title: Бхакти Деви, Вринда Деви, Туласи Деви.
+title: Бхакти Деви, Вринда Деви, Туласи Деви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Бхакти
     slug: bhakti
   - title: Туласи

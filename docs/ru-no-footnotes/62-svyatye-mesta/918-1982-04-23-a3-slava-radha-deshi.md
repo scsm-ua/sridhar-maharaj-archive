@@ -12,9 +12,6 @@ date: 1982-04-23
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 4,5 МБ)

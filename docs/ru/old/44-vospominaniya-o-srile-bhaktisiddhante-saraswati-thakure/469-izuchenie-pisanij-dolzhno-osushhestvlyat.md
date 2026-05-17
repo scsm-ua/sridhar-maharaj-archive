@@ -1,7 +1,7 @@
 ---
 slug: 469-izuchenie-pisanij-dolzhno-osushhestvlyat
 record_id: 1981.08.22.C2
-title: Изучение Писаний должно осуществляться по указанию вайшнава.
+title: Изучение Писаний должно осуществляться по указанию вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

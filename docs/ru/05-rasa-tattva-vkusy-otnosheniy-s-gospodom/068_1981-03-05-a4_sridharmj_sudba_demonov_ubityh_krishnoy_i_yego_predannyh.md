@@ -12,9 +12,18 @@ date: 1981-03-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
+links:
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
+    title: аудиозапись в MP3 (3 мин. 07 сек., 64 кбит/сек, 3.9 МБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.rtf
+    title: транскрипцию в RTF (71 КБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.pdf
+    title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 068. 1981.03.05.A4 Судьба демонов, убитых Кришной, и Его преданных
+  index: "068"
+  filename: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh.md
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
@@ -33,17 +42,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.1.30
     slug: shrimad-bhagavatam-7-1-30
-links:
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
-    title: аудиозапись в MP3 (3 мин. 07 сек., 64 кбит/сек, 3.9 МБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.rtf
-    title: транскрипцию в RTF (71 КБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.pdf
-    title: транскрипцию в PDF (145 КБ)
-legacy:
-  title: 068. 1981.03.05.A4 Судьба демонов, убитых Кришной, и Его преданных
-  index: "068"
-  filename: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh.md
 ---
 
 **Шрила Госвами Махарадж:** Есть одна *шлока*, цитируемая в «Ади-лиле» «Чайтанья-чаритамриты». Она приводится в «Бхакти-расамрита-синдху» и в «Лагху-бхагаватамритам» Рупы Госвами:

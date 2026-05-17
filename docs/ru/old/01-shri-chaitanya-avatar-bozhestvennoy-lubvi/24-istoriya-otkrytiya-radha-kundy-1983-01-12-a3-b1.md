@@ -1,7 +1,7 @@
 ---
 slug: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1
 record_id: 1983.01.12.A3.B1
-title: История открытия Радха-кунды.
+title: История открытия Радха-кунды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
 links:

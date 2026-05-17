@@ -12,9 +12,6 @@ date: 1981-03-02
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
     title: аудиозапись в MP3 (10 мин. 11 сек., 5,4 МБ)

@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3
     title: аудиозапись в MP3 (3 мин. 06 сек., 4,2 МБ)

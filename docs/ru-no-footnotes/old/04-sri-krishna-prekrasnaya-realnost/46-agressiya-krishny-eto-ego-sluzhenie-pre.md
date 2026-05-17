@@ -1,7 +1,7 @@
 ---
 slug: 46-agressiya-krishny-eto-ego-sluzhenie-pre
 record_id: 1983.06.09.A2
-title: Агрессия Кришны — это Его служение преданным.
+title: Агрессия Кришны — это Его служение преданным
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Кришна
     slug: krishna
 links:

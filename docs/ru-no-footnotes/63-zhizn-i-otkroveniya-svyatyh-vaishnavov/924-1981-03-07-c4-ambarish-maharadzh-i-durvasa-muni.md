@@ -12,9 +12,6 @@ date: 1981-03-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3
     title: аудиозапись в MP3 (20 мин. 30 сек., 21,6 МБ)

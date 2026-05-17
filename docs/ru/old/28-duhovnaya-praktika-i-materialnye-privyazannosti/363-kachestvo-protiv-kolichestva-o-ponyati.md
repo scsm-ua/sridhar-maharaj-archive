@@ -1,7 +1,7 @@
 ---
 slug: 363-kachestvo-protiv-kolichestva-o-ponyati
 record_id: 1985.10.05.A3
-title: "Качество против количества: о понятии «высший вкус»."
+title: "Качество против количества: о понятии «высший вкус»"
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1985-10-05
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1985.10"
-    slug: 1985-10
 links:
   - href: /wp-content/uploads/2012/08/363_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
     title: Скачать аудиозапись в mp3 (2 мин 12 сек, размер 2 Мб)

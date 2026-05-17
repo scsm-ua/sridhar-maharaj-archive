@@ -1,7 +1,7 @@
 ---
 slug: 251-dusha-ne-sposobna-neposredstvenno-sl
 record_id: 1982.02.17.B2
-title: Душа не способна непосредственно служить Кришне.
+title: Душа не способна непосредственно служить Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Душа
     slug: dusha
 links:

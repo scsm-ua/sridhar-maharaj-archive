@@ -1,7 +1,7 @@
 ---
 slug: 96-nauka-ob-avatarah-v-pisaniyah-vajshnav
 record_id: 1982.01.18.A1
-title: Наука об аватарах в Писаниях вайшнавов.
+title: Наука об аватарах в Писаниях вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Книги Госвами
     slug: knigi-gosvami
   - title: Священные писания

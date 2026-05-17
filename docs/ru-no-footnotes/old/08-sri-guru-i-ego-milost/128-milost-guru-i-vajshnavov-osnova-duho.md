@@ -1,7 +1,7 @@
 ---
 slug: 128-milost-guru-i-vajshnavov-osnova-duho
 record_id: null
-title: Милость гуру и вайшнавов — основа духовного прогресса.
+title: Милость гуру и вайшнавов — основа духовного прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

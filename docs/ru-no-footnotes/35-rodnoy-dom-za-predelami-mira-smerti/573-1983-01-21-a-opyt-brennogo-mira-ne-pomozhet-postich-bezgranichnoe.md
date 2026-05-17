@@ -12,9 +12,6 @@ date: 1983-01-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
     title: аудиозапись в MP3 (35 мин. 38 сек., 19,1 МБ)

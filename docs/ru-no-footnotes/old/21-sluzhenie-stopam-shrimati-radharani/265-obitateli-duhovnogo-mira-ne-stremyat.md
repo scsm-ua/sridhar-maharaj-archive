@@ -1,7 +1,7 @@
 ---
 slug: 265-obitateli-duhovnogo-mira-ne-stremyat
 record_id: 1982.01.09.C2
-title: Обитатели духовного мира не стремятся к личному общению с Кришной.
+title: Обитатели духовного мира не стремятся к личному общению с Кришной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхакти
     slug: bhakti
 links:

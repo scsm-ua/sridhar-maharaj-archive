@@ -1,7 +1,7 @@
 ---
 slug: 465-revolyutsionnyj-metod-propovedi-shrily
 record_id: 1984.01.08.B5
-title: Революционный метод проповеди Шрилы Сарасвати Тхакура.
+title: Революционный метод проповеди Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
   - title: Сарасвати Тхакур

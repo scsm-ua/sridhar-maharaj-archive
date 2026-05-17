@@ -12,9 +12,6 @@ date: 1982-06-19
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 4,2 МБ)

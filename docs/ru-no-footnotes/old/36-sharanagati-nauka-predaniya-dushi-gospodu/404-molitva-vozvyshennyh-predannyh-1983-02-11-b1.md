@@ -1,7 +1,7 @@
 ---
 slug: 404-molitva-vozvyshennyh-predannyh-1983-02-11-b1
 record_id: 1983.02.11.B1
-title: Молитва возвышенных преданных.
+title: Молитва возвышенных преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Молитва
     slug: molitva
   - title: Самопредание

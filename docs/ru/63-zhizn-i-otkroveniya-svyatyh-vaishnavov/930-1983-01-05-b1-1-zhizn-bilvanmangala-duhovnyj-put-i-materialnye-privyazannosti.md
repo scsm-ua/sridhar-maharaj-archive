@@ -1,7 +1,7 @@
 ---
 slug: 930-1983-01-05-b1-1-zhizn-bilvanmangala-duhovnyj-put-i-materialnye-privyazannosti
 record_id: 1983.01.05.B1.1
-title: Жизнь Билванмангала. Духовный путь и материальные привязанности
+title: Жизнь Билванмангала. Духовный путь и материальные привязанности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-05
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/930_1983.01.05.B1.1_SridharMj_Zhizn_Bilvanmangala_Duhovnyj_put_i_materialnye_privjazannosti.mp3
     title: аудиозапись в MP3 (5 мин. 49 сек., 5,5 МБ)

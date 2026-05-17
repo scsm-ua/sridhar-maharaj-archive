@@ -13,8 +13,6 @@ category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - title: "1985.11"
-    slug: 1985-11
   - title: Говинда Махарадж
     slug: govinda-maharadzh
   - title: Шри Чайтанья Сарасват Матх

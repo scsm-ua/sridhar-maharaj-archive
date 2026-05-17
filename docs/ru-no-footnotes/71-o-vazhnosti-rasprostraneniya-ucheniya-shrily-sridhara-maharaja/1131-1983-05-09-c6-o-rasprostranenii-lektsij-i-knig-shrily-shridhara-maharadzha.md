@@ -12,9 +12,6 @@ date: 1983-05-09
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
     title: аудиозапись в MP3 (3 мин. 00 сек., 2,4 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 277-molitva-lality-devi-i-shloka-rupy-gosv
 record_id: 1983.01.26.C2
-title: Молитва Лалиты Деви и шлока Рупы Госвами.
+title: Молитва Лалиты Деви и шлока Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Бхакти
     slug: bhakti
   - title: Лолита Деви

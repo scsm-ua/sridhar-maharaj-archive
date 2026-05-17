@@ -1,7 +1,7 @@
 ---
 slug: 285-zhiznennyj-put-raghunatha-dasa-gosv
 record_id: 1983.05.04.B1
-title: Жизненный путь Рагхунатха Даса Госвами.
+title: Жизненный путь Рагхунатха Даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Кришнадас Кавирадж Госвами

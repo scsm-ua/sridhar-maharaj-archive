@@ -1,7 +1,7 @@
 ---
 slug: 243-chuvstva-um-razum-i-dusha-1984-01-08-b6
 record_id: 1984.01.08.B6
-title: Чувства, ум, разум и душа.
+title: Чувства, ум, разум и душа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Душа
     slug: dusha
 links:

@@ -12,9 +12,6 @@ date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
     title: аудиозапись в MP3 (22 мин. 32 сек., 13,1 МБ)

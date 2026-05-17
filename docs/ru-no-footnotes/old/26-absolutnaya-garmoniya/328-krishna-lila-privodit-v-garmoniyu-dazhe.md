@@ -1,7 +1,7 @@
 ---
 slug: 328-krishna-lila-privodit-v-garmoniyu-dazhe
 record_id: 1981.03.02.B2
-title: Кришна-лила приводит в гармонию даже негативные явления.
+title: Кришна-лила приводит в гармонию даже негативные явления
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гармония
     slug: garmoniya
   - title: Кришна-лила

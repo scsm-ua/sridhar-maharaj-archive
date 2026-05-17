@@ -1,7 +1,7 @@
 ---
 slug: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3
 record_id: 1981.08.30.B3
-title: Ключ к вратам Вайкунтхи.
+title: Ключ к вратам Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гармония
     slug: garmoniya
 links:

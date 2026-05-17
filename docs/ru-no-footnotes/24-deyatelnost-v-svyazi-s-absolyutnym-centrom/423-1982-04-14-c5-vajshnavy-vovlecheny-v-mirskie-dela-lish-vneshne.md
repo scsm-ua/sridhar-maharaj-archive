@@ -12,9 +12,6 @@ date: 1982-04-14
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
     title: аудиозапись в MP3 (4 мин. 50 сек., 5,2 МБ)

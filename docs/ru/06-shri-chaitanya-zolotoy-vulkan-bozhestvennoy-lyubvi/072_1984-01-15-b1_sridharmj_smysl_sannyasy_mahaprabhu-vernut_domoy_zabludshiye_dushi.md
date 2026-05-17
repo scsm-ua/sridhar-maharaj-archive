@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Махапрабху
     slug: mahaprabhu
 links:

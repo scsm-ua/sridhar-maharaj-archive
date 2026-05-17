@@ -12,17 +12,6 @@ date: 1981-03-02
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
-  - title: Шри Гурваштака 6
-    slug: shri-gurvashtaka-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.22
-    slug: bhagavad-gita-9-22
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/211_1981.03.02.B3_SridharMj_Ardzhuna_Ardzhuna_Acharja_i_Dzhajadev--provodniki_otkrovenij_Gospoda.mp3
     title: аудиозапись в MP3 (5 мин. 26 сек., 3,2 МБ)
@@ -35,6 +24,15 @@ legacy:
     откровений Господа
   index: "211"
   filename: 211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda.md
+tags:
+  - title: Шри Гурваштака
+    slug: shri-gurvashtaka
+  - title: Шри Гурваштака 6
+    slug: shri-gurvashtaka-6
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.22
+    slug: bhagavad-gita-9-22
 ---
 
 **Госвами Махарадж:** *Йасйа праса̄да̄д бхагават-праса̄до*[^_ftn1] — Кришна есть Гуру. Как мы можем узнать, что удовлетворяет Кришну без Гуру?

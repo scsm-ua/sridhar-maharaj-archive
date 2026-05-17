@@ -13,9 +13,19 @@ date: 1982-05-18
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
+links:
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3
+    title: аудиозапись в MP3 (11 мин. 22 сек., 128 кбит/сек, 13 МБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.rtf
+    title: транскрипцию в RTF (124 КБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.pdf
+    title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 063. 1982.05.18.E3 Для отношений с Высшим Началом необходимо проявить
+    себя в аспекте шакти, а не пуруши
+  index: "063"
+  filename: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 13.23
@@ -30,18 +40,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.93
     slug: shri-chajtanya-charitamrita-adi-lila-1-93
-links:
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3
-    title: аудиозапись в MP3 (11 мин. 22 сек., 128 кбит/сек, 13 МБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.rtf
-    title: транскрипцию в RTF (124 КБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.pdf
-    title: транскрипцию в PDF (174 КБ)
-legacy:
-  title: 063. 1982.05.18.E3 Для отношений с Высшим Началом необходимо проявить
-    себя в аспекте шакти, а не пуруши
-  index: "063"
-  filename: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
 ---
 
 *#00:09:29#*

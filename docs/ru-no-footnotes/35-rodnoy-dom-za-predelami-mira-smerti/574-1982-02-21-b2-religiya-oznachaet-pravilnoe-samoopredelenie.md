@@ -12,9 +12,6 @@ date: 1982-02-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
     title: аудиозапись в MP3 (8 мин. 31 сек., 5,6 МБ)

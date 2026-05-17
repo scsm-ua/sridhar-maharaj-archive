@@ -12,9 +12,6 @@ date: 1982-06-10
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/222_1982.06.10.B3_SridharMj_Javljaetsja_li_Shri_Chajtanja_avtorom_Brahma-samhity.mp3
     title: аудиозапись в MP3 (2 мин. 09 сек., 2,7 МБ)

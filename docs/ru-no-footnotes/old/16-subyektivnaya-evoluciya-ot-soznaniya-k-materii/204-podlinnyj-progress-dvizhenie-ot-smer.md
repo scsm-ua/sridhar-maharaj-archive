@@ -1,7 +1,7 @@
 ---
 slug: 204-podlinnyj-progress-dvizhenie-ot-smer
 record_id: 1981.02.28.D4
-title: Подлинный прогресс — движение от смерти к бессмертию.
+title: Подлинный прогресс — движение от смерти к бессмертию
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Вайкунтха
     slug: vajkuntha
   - title: Душа

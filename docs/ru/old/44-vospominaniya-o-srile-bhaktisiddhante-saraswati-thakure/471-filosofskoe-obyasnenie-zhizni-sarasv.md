@@ -1,7 +1,7 @@
 ---
 slug: 471-filosofskoe-obyasnenie-zhizni-sarasv
 record_id: 1982.01.29.B3
-title: Философское объяснение жизни Сарасвати Тхакура в Джаганнатха Пури.
+title: Философское объяснение жизни Сарасвати Тхакура в Джаганнатха Пури
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

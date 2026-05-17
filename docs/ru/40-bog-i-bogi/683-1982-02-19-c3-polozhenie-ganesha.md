@@ -12,9 +12,6 @@ date: 1982-02-19
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.mp3
     title: аудиозапись в MP3 (5 мин. 07 сек., 2,0 МБ)

@@ -13,9 +13,6 @@ date: 1982-05-14
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/275_1982.05.14.D4_SridharMj_Pravilnoe_ponimanie_utverzhdenija_o_godichnom_ispytanii_guru_i_uchenika_v_Hari-bhakti-vilase.mp3
     title: аудиозапись в MP3 (1 мин. 29 сек., 2,7 МБ)

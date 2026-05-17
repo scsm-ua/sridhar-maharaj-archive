@@ -12,9 +12,6 @@ date: 1983-02-11
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
-tags:
-  - title: "1983.02"
-    slug: 1983-02
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
     title: аудиозапись в MP3 (32 мин. 13 сек., 15,1 МБ)

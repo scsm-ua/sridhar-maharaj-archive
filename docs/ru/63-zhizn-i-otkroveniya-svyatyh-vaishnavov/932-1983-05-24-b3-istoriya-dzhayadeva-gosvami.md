@@ -12,13 +12,6 @@ date: 1983-05-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.17
-    slug: bhakti-rasamrita-sindhu-1-17
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/932_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
     title: аудиозапись в MP3 (9 мин. 43 сек., 7,3 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 932. 1983.05.24.B3. История Джаядева Госвами
   index: "932"
   filename: 932-1983-05-24-b3-istoriya-dzhayadeva-gosvami.md
+tags:
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.17
+    slug: bhakti-rasamrita-sindhu-1-17
 ---
 
 Очень близкая, очень тесная связь с Господом, как на равных. Настолько близкая, что когда Джаядев писал свою известную книгу, знаменитое произведение «Гита-Говинда», описывая *радха-говинда-лилу*, он увидел, что Шримати Радхарани обиделась на Кришну, что Она проявляет *абхиман*. Она обиделась за то, что Кришна не уделяет Ей достаточно внимания, недостаточно любит Ее, проявляет к Ней недостаточно почтения и любви.

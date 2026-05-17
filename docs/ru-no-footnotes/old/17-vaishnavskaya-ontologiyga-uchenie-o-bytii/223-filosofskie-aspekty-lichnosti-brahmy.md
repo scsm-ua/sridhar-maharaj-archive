@@ -1,7 +1,7 @@
 ---
 slug: 223-filosofskie-aspekty-lichnosti-brahmy
 record_id: 1981.03.01.B4
-title: Философские аспекты личности Брахмы.
+title: Философские аспекты личности Брахмы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Брахма
     slug: brahma
 links:

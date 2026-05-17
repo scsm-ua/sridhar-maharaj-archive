@@ -12,9 +12,6 @@ date: 1981-08-30
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
     title: аудиозапись в MP3 (4 мин. 48 сек., 4,5 МБ)

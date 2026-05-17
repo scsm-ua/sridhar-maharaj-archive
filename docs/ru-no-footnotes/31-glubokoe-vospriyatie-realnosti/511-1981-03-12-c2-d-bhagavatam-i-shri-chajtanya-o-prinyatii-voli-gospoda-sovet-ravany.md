@@ -1,7 +1,7 @@
 ---
 slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
 record_id: 1981.03.12.C2.D
-title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны
+title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-03-12
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3
     title: аудиозапись в MP3 (11 мин. 13 сек., 5,8 МБ)

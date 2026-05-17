@@ -12,9 +12,6 @@ date: 1982-02-21
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
     title: аудиозапись в MP3 (6 мин. 29 сек., 2,9 МБ)

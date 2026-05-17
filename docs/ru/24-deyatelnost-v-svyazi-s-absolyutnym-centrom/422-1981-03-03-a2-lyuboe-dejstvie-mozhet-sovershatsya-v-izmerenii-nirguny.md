@@ -12,17 +12,6 @@ date: 1981-03-03
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.30
-    slug: bhagavad-gita-9-30
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
     title: аудиозапись в MP3 (6 мин. 59 сек., 4,0 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 422. 1981.03.03.A2. Любое действие может совершаться в измерении ниргуны
   index: "422"
   filename: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 ---
 
 **Преданный:** У нас был один вопрос, с которого мы хотели начать…

@@ -12,9 +12,6 @@ date: 1985-05-01
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1985.05"
-    slug: 1985-05
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,1 МБ)

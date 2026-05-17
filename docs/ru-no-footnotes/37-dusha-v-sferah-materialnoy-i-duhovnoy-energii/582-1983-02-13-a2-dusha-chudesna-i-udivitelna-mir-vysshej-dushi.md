@@ -1,7 +1,7 @@
 ---
 slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
 record_id: 1983.02.13.A2
-title: Душа чудесна и удивительна. Мир Высшей Души
+title: Душа чудесна и удивительна. Мир Высшей Души.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Душа
     slug: dusha
 links:

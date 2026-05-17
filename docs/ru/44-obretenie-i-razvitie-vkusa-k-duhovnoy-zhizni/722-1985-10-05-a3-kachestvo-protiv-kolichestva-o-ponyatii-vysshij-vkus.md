@@ -12,13 +12,6 @@ date: 1985-10-05
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1985.10"
-    slug: 1985-10
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 2.59
-    slug: bhagavad-gita-2-59
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
     title: аудиозапись в MP3 (2 мин. 12 сек., 1,8 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: "722. 1985.10.05.A3. Качество против количества: о понятии «высший вкус»"
   index: "722"
   filename: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.59
+    slug: bhagavad-gita-2-59
 ---
 
 **Преданный:** Гуру Махарадж, что такое высший вкус? *Парам̇ др̣шт̣ва̄ нивартате*[^_ftn1]…

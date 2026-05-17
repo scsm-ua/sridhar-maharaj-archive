@@ -12,9 +12,18 @@ date: 1983-04-25
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
+links:
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
+    title: аудиозапись в MP3 (5 мин. 10 сек., 4,5 МБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.rtf
+    title: транскрипцию в RTF (86 КБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.pdf
+    title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 870. 1983.04.25.A2. О чтении сокровенных Писаний
+  index: "870"
+  filename: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij.md
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
@@ -27,17 +36,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
-links:
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
-    title: аудиозапись в MP3 (5 мин. 10 сек., 4,5 МБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.rtf
-    title: транскрипцию в RTF (86 КБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.pdf
-    title: транскрипцию в PDF (146 КБ)
-legacy:
-  title: 870. 1983.04.25.A2. О чтении сокровенных Писаний
-  index: "870"
-  filename: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij.md
 ---
 
 **Преданный:** Махарадж, «Харинама-чинтамани»… Похоже, эта книга широко распространялась. Бхактивинод говорит об очень высоких реалиях (*сиддха-пранали*) в последних главах «Харинама-чинтамани». Похоже, что это очень опасно давать публике такую информацию, поскольку это может подтолкнуть их в сторону *сахаджии*.

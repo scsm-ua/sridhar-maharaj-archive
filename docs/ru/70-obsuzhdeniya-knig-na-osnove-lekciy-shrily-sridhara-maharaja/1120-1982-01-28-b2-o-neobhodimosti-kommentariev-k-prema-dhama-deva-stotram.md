@@ -12,9 +12,6 @@ date: 1982-01-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
     title: аудиозапись в MP3 (5 мин. 06 сек., 2,9 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
 record_id: 1983.01.14
-title: Санньяса Махапрабху, часть 1.
+title: Санньяса Махапрабху, часть 1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Золотой вулкан божественной любви
     slug: zolotoj-vulkan-bozhestvennoj-lyubvi
   - title: Махапрабху

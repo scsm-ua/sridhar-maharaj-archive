@@ -12,9 +12,6 @@ date: 1982-01-18
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
     title: аудиозапись в MP3 (1 мин. 53 сек., 1,5 МБ)

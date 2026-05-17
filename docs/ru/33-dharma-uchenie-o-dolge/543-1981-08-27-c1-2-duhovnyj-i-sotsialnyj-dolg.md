@@ -13,8 +13,6 @@ category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Дхарма
     slug: dharma
   - title: Бхакти-расамрита-синдху

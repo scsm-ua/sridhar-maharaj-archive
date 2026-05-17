@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: история о просьбе Васудевы Датты освободить всех
     slug: istoriya-o-prosbe-vasudevy-datty-osvo
 links:

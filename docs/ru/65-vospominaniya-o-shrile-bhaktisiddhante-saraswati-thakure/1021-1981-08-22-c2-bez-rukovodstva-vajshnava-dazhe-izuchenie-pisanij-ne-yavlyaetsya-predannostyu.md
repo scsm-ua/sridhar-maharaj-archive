@@ -12,13 +12,6 @@ date: 1981-08-22
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
-    slug: shri-chajtanya-charitamrita-antya-lila-5-131
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
     title: аудиозапись в MP3 (18 мин. 14 сек., 9,0 МБ)
@@ -31,6 +24,11 @@ legacy:
     является преданностью
   index: "1021"
   filename: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
 ---
 
 **Преданный:** Махарадж, тогда в этой связи возникает вопрос. Скажем, это мой личный опыт: в моем личном изучении различных санскритских источников я всегда падал духом, не возвышался духом, но падал духом. И говорится, что все это бесполезно — санскритская грамматика и прочее академическое знание.

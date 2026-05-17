@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
     title: аудиозапись в MP3 (19 мин. 01 сек., 9,2 МБ)

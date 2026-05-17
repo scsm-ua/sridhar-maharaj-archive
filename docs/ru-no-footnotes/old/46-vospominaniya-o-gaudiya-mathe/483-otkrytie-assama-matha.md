@@ -1,7 +1,7 @@
 ---
 slug: 483-otkrytie-assama-matha
 record_id: null
-title: Открытие Ассама-матха.
+title: Открытие Ассама-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

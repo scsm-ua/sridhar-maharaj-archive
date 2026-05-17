@@ -13,8 +13,6 @@ category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
   - title: «Шри Чайтанья-чаритамрита», Антья-лила

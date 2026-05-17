@@ -1,7 +1,7 @@
 ---
 slug: 34-slava-ekachakry-mesta-yavleniya-shri-nit
 record_id: 1982.01.13.A2
-title: Слава Экачакры, места явления Шри Нитьянанды Прабху.
+title: Слава Экачакры, места явления Шри Нитьянанды Прабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Нитьянанда Прабху

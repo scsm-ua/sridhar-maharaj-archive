@@ -12,9 +12,6 @@ date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3
     title: аудиозапись в MP3 (8 мин. 45 сек., 8.8 МБ)

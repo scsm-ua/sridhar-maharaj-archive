@@ -1,7 +1,7 @@
 ---
 slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
 record_id: 1983.01.02.B
-title: Мир множества Христов. Комментарий к истории падения Адама и Евы
+title: Мир множества Христов. Комментарий к истории падения Адама и Евы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-02
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
     title: аудиозапись в MP3 (44 мин. 11 сек., 21,9 МБ)

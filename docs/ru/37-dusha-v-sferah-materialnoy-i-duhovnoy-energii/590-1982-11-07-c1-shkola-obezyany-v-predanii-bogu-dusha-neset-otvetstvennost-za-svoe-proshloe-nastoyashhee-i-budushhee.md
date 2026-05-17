@@ -2,7 +2,7 @@
 slug: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee
 record_id: 1982.11.07.C1
 title: «Школа обезьяны» в предании Богу. Душа несет ответственность за свое
-  прошлое, настоящее и будущее
+  прошлое, настоящее и будущее.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -14,8 +14,6 @@ category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Душа
     slug: dusha
   - title: Бхагавад-гита

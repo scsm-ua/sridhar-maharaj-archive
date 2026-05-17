@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Гуру-таттва
     slug: guru-tattva
 links:

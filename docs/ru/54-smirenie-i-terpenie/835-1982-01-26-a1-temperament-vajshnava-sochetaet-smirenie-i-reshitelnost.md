@@ -12,9 +12,18 @@ date: 1982-01-26
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
+links:
+  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
+    title: аудиозапись в MP3 (28 мин. 41 сек., 14,0 МБ)
+  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.rtf
+    title: транскрипцию в RTF (255 КБ)
+  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.pdf
+    title: транскрипцию в PDF (179 КБ)
+legacy:
+  title: 835. 1982.01.26.A1. Темперамент вайшнава сочетает смирение и решительность
+  index: "835"
+  filename: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
@@ -53,17 +62,6 @@ tags:
     slug: vajshnava-ke
   - title: Вайшнава ке 4
     slug: vajshnava-ke-4
-links:
-  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
-    title: аудиозапись в MP3 (28 мин. 41 сек., 14,0 МБ)
-  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.rtf
-    title: транскрипцию в RTF (255 КБ)
-  - href: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.pdf
-    title: транскрипцию в PDF (179 КБ)
-legacy:
-  title: 835. 1982.01.26.A1. Темперамент вайшнава сочетает смирение и решительность
-  index: "835"
-  filename: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
 ---
 
 *Пратьякша*, *парокша*, *апарокша*, *адхокшаджа*, *апракрита* — пять стадий знания, концепций. *Пратьякша* — опыт чувств, тот аспект мира, который воспринимается с помощью чувств. [*Парокша*] — знание, которое получено благодаря опыту других людей. Не прямой опыт чувств, но вторичное знание, заимствованное из чужих рук.

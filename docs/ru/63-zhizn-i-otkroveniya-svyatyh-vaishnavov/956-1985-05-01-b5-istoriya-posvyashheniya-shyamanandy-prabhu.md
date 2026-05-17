@@ -12,9 +12,6 @@ date: 1985-05-01
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1985.05"
-    slug: 1985-05
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
     title: аудиозапись в MP3 (3 мин. 34 сек., 4,4 МБ)

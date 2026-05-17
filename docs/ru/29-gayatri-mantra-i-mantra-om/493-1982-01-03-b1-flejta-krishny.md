@@ -13,8 +13,6 @@ category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гаятри-мантра
     slug: gayatri-mantra
   - title: Бхагавад-гита

@@ -1,6 +1,6 @@
 ---
 slug: 40-poisk-shri-krishny-prekrasnoj-realno
-title: Поиск Шри Кришны, Прекрасной Реальности.
+title: Поиск Шри Кришны, Прекрасной Реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

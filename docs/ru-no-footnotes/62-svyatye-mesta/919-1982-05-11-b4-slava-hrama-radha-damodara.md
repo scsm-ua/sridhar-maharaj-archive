@@ -12,9 +12,6 @@ date: 1982-05-11
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3
     title: аудиозапись в MP3 (1 мин. 50 сек., 1,9 МБ)

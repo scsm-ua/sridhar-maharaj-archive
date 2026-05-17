@@ -12,21 +12,6 @@ date: 1982-04-30
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Ачарья вандана
-    slug: acharya-vandana
-  - title: Ачарья вандана 18
-    slug: acharya-vandana-18
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.2
-    slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
-    slug: shri-chajtanya-charitamrita-adi-lila-5-205
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
     title: аудиозапись в MP3 (10 мин. 08 сек., 10,4 МБ)
@@ -39,6 +24,19 @@ legacy:
     сконцентрироваться на их духовном аспекте
   index: "261"
   filename: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte.md
+tags:
+  - title: Ачарья вандана
+    slug: acharya-vandana
+  - title: Ачарья вандана 18
+    slug: acharya-vandana-18
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
+    slug: shri-chajtanya-charitamrita-adi-lila-5-205
 ---
 
     ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а

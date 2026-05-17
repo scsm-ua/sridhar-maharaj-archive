@@ -1,7 +1,7 @@
 ---
 slug: 503-rasprostraniteli-milosti-shri-chajtan
 record_id: 1981.08.18.C2
-title: Распространители милости Шри Чайтаньи.
+title: Распространители милости Шри Чайтаньи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
 links:

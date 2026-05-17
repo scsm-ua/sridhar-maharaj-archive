@@ -1,7 +1,7 @@
 ---
 slug: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam
 record_id: 1982.02.19.E2
-title: Духовная гордыня. Три признака прогресса в «Бхагаватам»
+title: Духовная гордыня. Три признака прогресса в «Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-02-19
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3
     title: аудиозапись в MP3 (8 мин. 15 сек., 8,4 МБ)

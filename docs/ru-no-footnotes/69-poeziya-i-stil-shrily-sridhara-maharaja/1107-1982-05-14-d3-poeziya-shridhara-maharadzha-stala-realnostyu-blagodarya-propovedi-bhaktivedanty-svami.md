@@ -13,9 +13,6 @@ date: 1982-05-14
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (2 мин. 57 сек., 3,0 МБ)

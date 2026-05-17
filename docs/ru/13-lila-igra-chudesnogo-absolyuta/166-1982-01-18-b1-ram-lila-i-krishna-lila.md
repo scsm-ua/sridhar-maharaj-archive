@@ -13,8 +13,6 @@ category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
   - title: Рамачандра

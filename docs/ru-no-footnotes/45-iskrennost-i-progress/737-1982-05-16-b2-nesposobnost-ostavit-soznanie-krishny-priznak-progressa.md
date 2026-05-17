@@ -12,9 +12,6 @@ date: 1982-05-16
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.mp3
     title: аудиозапись в MP3 (16 мин. 58 сек., 16,4 МБ)

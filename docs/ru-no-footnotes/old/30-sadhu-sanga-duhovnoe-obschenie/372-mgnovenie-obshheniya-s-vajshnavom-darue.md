@@ -1,7 +1,7 @@
 ---
 slug: 372-mgnovenie-obshheniya-s-vajshnavom-darue
 record_id: 1984.01.15.B2
-title: «Мгновение общения с вайшнавом дарует все совершенство».
+title: «Мгновение общения с вайшнавом дарует все совершенство»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Садху-санга
     slug: sadhu-sanga
 links:

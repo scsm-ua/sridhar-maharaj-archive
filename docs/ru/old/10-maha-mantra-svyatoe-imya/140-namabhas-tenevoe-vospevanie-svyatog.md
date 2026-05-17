@@ -1,7 +1,7 @@
 ---
 slug: 140-namabhas-tenevoe-vospevanie-svyatog
 record_id: 1983.04.01.A2
-title: Намабхас — теневое воспевание Святого Имени.
+title: Намабхас — теневое воспевание Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Маха-мантра
     slug: maha-mantra
   - title: Намабхас

@@ -12,9 +12,6 @@ date: 1981-03-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 5,6 МБ)

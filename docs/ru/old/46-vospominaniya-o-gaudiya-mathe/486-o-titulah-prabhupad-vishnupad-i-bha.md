@@ -1,7 +1,7 @@
 ---
 slug: 486-o-titulah-prabhupad-vishnupad-i-bha
 record_id: 1981.08.27.A1
-title: О титулах «Прабхупад», «Вишнупад» и «Бхактивинод».
+title: О титулах «Прабхупад», «Вишнупад» и «Бхактивинод»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гаудия-матх
     slug: gaudiya-math
 links:

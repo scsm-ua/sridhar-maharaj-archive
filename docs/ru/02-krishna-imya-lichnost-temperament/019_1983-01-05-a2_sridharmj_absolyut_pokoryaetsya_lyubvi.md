@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Вера
     slug: vera
   - title: Любовь

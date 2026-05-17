@@ -1,7 +1,7 @@
 ---
 slug: 149-propoved-pod-rukovodstvom-vajshnava
 record_id: 1981.03.02.B5
-title: Проповедь под руководством вайшнава — основная цель Гаудия-матха.
+title: Проповедь под руководством вайшнава — основная цель Гаудия-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Сарасвати Тхакур

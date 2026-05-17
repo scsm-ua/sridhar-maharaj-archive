@@ -12,9 +12,6 @@ date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,5 МБ)

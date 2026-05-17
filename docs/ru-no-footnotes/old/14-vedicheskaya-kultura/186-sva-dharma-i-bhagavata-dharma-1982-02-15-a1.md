@@ -1,7 +1,7 @@
 ---
 slug: 186-sva-dharma-i-bhagavata-dharma-1982-02-15-a1
 record_id: 1982.02.15.A1
-title: Сва-дхарма и бхагавата-дхарма.
+title: Сва-дхарма и бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Дхарма
     slug: dharma
 links:

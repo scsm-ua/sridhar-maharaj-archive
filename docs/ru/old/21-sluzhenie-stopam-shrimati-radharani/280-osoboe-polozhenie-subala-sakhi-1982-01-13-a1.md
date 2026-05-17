@@ -1,7 +1,7 @@
 ---
 slug: 280-osoboe-polozhenie-subala-sakhi-1982-01-13-a1
 record_id: 1982.01.13.A1
-title: Особое положение Субала Сакхи.
+title: Особое положение Субала Сакхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
   - title: Субал Сакха

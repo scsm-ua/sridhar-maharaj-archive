@@ -12,9 +12,6 @@ date: 1982-02-23
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.mp3
     title: аудиозапись в MP3 (10 мин. 48 сек., 5,8 МБ)

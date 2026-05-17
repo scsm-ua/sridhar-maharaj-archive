@@ -1,7 +1,7 @@
 ---
 slug: 65-tsiklichnyj-harakter-krishna-lily-1983-01-30-a2
 record_id: 1983.01.30.A2
-title: Цикличный характер кришна-лилы.
+title: Цикличный характер кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
 links:

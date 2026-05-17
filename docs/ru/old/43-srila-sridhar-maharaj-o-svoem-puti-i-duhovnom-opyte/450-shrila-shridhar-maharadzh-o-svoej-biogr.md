@@ -1,7 +1,7 @@
 ---
 slug: 450-shrila-shridhar-maharadzh-o-svoej-biogr
 record_id: 1983.07.25.C.D
-title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе.
+title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Гаудия-матх

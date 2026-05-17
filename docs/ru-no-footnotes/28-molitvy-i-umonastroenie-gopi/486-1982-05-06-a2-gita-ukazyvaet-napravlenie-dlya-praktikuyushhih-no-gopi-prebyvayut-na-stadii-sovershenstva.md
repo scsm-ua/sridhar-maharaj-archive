@@ -13,9 +13,6 @@ date: 1982-05-06
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3
     title: аудиозапись в MP3 (00 мин. 34 сек., 0,7 МБ)

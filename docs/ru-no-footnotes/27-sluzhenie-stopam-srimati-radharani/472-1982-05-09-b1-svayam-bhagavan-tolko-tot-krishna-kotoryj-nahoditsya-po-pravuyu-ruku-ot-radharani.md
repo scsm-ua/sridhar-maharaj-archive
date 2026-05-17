@@ -13,9 +13,6 @@ date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3
     title: аудиозапись в MP3 (1 мин. 50 сек., 2,1 МБ)

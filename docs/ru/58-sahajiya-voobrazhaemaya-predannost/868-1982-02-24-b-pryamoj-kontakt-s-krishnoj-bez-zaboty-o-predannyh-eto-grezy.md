@@ -12,9 +12,6 @@ date: 1982-02-24
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 7,2 МБ)

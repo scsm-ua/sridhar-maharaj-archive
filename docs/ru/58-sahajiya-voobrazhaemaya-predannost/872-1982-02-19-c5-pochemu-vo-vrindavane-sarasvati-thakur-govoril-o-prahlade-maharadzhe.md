@@ -12,13 +12,6 @@ date: 1982-02-19
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 5.5.1
-    slug: shrimad-bhagavatam-5-5-1
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/872_1982.02.19.C5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
     title: аудиозапись в MP3 (3 мин. 46 сек., 3,0 МБ)
@@ -31,6 +24,11 @@ legacy:
     Прахладе Махарадже?
   index: "872"
   filename: 872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 5.5.1
+    slug: shrimad-bhagavatam-5-5-1
 ---
 
 *«Мгновения Прекрасной Реальности», часть 8.5*
@@ -61,6 +59,6 @@ legacy:
 
 
 
-[^_ftn1]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn1]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn2]: [Шримад-Бхагаватам 5.5.1](../notes/shrimad-bhagavatam/shrimad-bhagavatam-5-5-1.md)

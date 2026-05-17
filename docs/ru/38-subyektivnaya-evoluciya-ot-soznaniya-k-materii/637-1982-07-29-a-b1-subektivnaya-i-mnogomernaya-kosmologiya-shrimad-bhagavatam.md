@@ -12,9 +12,19 @@ date: 1982-07-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
+    title: аудиозапись в MP3 (25 мин. 47 сек., 24,6 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.rtf
+    title: транскрипцию в RTF (195 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.pdf
+    title: транскрипцию в PDF (178 КБ)
+legacy:
+  title: 637. 1982.07.29.A.B1. Субъективная и многомерная космология «Шримад
+    Бхагаватам»
+  index: "637"
+  filename: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam.md
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
@@ -35,18 +45,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 15.2
     slug: bhagavad-gita-15-2
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
-    title: аудиозапись в MP3 (25 мин. 47 сек., 24,6 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.rtf
-    title: транскрипцию в RTF (195 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.pdf
-    title: транскрипцию в PDF (178 КБ)
-legacy:
-  title: 637. 1982.07.29.A.B1. Субъективная и многомерная космология «Шримад
-    Бхагаватам»
-  index: "637"
-  filename: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam.md
 ---
 
 **Шрила Шридхар Махарадж:** Вишнупад Дас — ученик Бхавананды Свами. Он прочитал книги Садананды Брахмачари (нашего духовного брата). Книги написаны в соавторстве Садананды и другого джентльмена. И он говорит, что они представили «Бхагаватам» в определенном свете, а ИСККОН — в другом, и существуют различия в их подходе, в их описаниях.
@@ -59,11 +57,11 @@ legacy:
 
 [Кришна, Кришна…]
 
-**Преданный:** Это интересный вопрос. «Шримад-Бхагаватам» рассматривается главным образом как историческое произведение, а не как *раса-шастра.*
+**Преданный:** Это интересный вопрос. «Шримад-Бхагаватам» рассматривается главным образом как историческое произведение, а не как *раса-шастра*.
 
 *#00:01:41#*
 
-**Шрила Шридхар Махарадж:** История плюс география — это главные темы с точки зрения ИСККОН, но Садананда Брахмачари и другой джентльмен, его соавтор (они оба — прямые ученики Прабхупады Сарасвати Тхакура), представили «Бхагаватам» с точки зрения трансцендентного экстаза — этого явления. По их мнению «Бхагаватам» рассматривает главным образом природу такого явления как трансцендентный экстаз, *анандам*, *раса*. *Раса-шастра.*
+**Шрила Шридхар Махарадж:** История плюс география — это главные темы с точки зрения ИСККОН, но Садананда Брахмачари и другой джентльмен, его соавтор (они оба — прямые ученики Прабхупады Сарасвати Тхакура), представили «Бхагаватам» с точки зрения трансцендентного экстаза — этого явления. По их мнению «Бхагаватам» рассматривает главным образом природу такого явления как трансцендентный экстаз, *анандам*, *раса*. *Раса-шастра*.
 
 **Преданный:** Это правильно?
 

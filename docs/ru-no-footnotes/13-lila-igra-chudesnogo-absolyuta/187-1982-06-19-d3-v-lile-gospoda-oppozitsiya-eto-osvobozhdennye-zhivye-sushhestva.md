@@ -12,9 +12,6 @@ date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
     title: аудиозапись в MP3 (2 мин. 35 сек., 2,8 МБ)

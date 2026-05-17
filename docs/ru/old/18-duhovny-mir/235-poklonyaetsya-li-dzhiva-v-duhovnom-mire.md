@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Гаура-лила
     slug: gaura-lila
   - title: Духовный мир

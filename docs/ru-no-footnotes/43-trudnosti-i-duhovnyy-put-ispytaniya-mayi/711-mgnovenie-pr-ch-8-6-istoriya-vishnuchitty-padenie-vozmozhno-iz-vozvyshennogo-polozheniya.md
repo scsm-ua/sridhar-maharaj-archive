@@ -1,7 +1,7 @@
 ---
 slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
 title: Мгновение ПР. Ч. 8.6. История Вишнучитты. Падение возможно из
-  возвышенного положения
+  возвышенного положения.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

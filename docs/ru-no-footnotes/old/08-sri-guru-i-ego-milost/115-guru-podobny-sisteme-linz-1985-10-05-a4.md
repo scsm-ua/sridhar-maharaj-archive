@@ -1,7 +1,7 @@
 ---
 slug: 115-guru-podobny-sisteme-linz-1985-10-05-a4
 record_id: 1985.10.05.A4
-title: Гуру подобны системе линз.
+title: Гуру подобны системе линз
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Гуру
     slug: guru
 links:

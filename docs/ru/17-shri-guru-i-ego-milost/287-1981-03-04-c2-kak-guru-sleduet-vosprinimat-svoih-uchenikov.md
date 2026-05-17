@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
   - title: Шри Ишопанишад

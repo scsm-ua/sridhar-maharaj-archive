@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1981.12"
-    slug: 1981-12
   - title: Веды
     slug: vedy
   - title: Священные писания

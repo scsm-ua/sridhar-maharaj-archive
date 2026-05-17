@@ -1,7 +1,7 @@
 ---
 slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
 record_id: 1981.03.12.C2.D
-title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны
+title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,19 @@ date: 1981-03-12
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
+links:
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3
+    title: аудиозапись в MP3 (11 мин. 13 сек., 5,8 МБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.rtf
+    title: транскрипцию в RTF (117 КБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.pdf
+    title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 511. 1981.03.12.C2.D. «Бхагаватам» и Шри Чайтанья о принятии воли
+    Господа. Совет Раваны
+  index: "511"
+  filename: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany.md
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
@@ -31,18 +41,6 @@ tags:
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-links:
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3
-    title: аудиозапись в MP3 (11 мин. 13 сек., 5,8 МБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.rtf
-    title: транскрипцию в RTF (117 КБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.pdf
-    title: транскрипцию в PDF (155 КБ)
-legacy:
-  title: 511. 1981.03.12.C2.D. «Бхагаватам» и Шри Чайтанья о принятии воли
-    Господа. Совет Раваны
-  index: "511"
-  filename: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany.md
 ---
 
 Божественная воля — мы должны принимать ее. Она работает по своему, ее пути независимы. Выражаясь языком Гегеля, «тезис, антитезис, синтез». Всякий раз, когда что-то происходит, то возникает оппозиционное явление, а затем вновь приходит синтез. Тезис, антитезис, синтез. Синтез — в будущем, как следствие столкновения тезиса и антитезиса. Мы должны принять неизбежное, мы вынуждены признать неизбежность неизбежного.

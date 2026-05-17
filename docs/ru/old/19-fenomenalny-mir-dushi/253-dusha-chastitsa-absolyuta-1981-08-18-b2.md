@@ -1,7 +1,7 @@
 ---
 slug: 253-dusha-chastitsa-absolyuta-1981-08-18-b2
 record_id: 1981.08.18.B2
-title: Душа — частица Абсолюта.
+title: Душа — частица Абсолюта
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Душа
     slug: dusha
   - title: Сварупа-шакти

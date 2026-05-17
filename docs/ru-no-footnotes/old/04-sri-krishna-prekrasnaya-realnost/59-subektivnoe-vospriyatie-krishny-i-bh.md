@@ -1,7 +1,7 @@
 ---
 slug: 59-subektivnoe-vospriyatie-krishny-i-bh
 record_id: 1985.05.01.B4
-title: Субъективное восприятие Кришны и «Бхагавад-гиты».
+title: Субъективное восприятие Кришны и «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Кришна

@@ -13,9 +13,6 @@ date: 1982-05-08
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (17 мин. 25 сек., 17,0 МБ)

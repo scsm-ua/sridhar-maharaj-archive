@@ -13,8 +13,6 @@ category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Шаранагати
     slug: sharanagati
   - title: Шри Шри Прапанна-дживанамритам

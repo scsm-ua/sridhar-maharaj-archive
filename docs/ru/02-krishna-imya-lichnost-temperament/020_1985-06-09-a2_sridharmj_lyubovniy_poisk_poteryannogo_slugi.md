@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1985.06"
-    slug: 1985-06
   - title: Джаганнатх
     slug: dzhagannath
   - title: Атма-самарпане

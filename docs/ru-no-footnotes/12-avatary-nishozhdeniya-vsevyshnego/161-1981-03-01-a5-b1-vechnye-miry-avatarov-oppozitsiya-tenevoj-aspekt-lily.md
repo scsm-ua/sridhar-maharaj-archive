@@ -1,7 +1,7 @@
 ---
 slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
 record_id: 1981.03.01.A5.B1
-title: Вечные миры аватаров. Оппозиция – теневой аспект лилы
+title: Вечные миры аватаров. Оппозиция – теневой аспект лилы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Нарасимха
     slug: narasimha
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 451-hranitel-predannosti-1982-02-17-b1
 record_id: 1982.02.17.B1
-title: Хранитель Преданности.
+title: Хранитель Преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
 links:

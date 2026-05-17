@@ -1,7 +1,7 @@
 ---
 slug: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math
 record_id: 1981.08.20.A4
-title: Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в Гаудия-Матх
+title: Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в Гаудия-Матх.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-08-20
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3
     title: аудиозапись в MP3 (11 мин. 31 сек., 6 МБ)

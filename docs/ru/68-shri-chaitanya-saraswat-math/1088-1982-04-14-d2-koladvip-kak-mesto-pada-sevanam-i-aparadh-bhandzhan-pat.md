@@ -12,13 +12,6 @@ date: 1982-04-14
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
-    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3
     title: аудиозапись в MP3 (3 мин. 22 сек., 4,8 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 1088. 1982.04.14.D2. Коладвип как место пада-севанам и апарадх-бханджан-пат
   index: "1088"
   filename: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat.md
+tags:
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда
+    slug: shri-chajtanya-bhagavata-antya-khanda
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Гаура-Хари, Гаура-Хари.

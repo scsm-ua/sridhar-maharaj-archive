@@ -12,9 +12,6 @@ date: 1981-08-18
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,0 МБ)

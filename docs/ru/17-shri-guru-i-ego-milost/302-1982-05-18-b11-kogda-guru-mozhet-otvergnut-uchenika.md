@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,5 МБ)

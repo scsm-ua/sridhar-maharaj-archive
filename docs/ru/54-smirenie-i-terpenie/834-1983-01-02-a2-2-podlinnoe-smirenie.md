@@ -12,13 +12,6 @@ date: 1983-01-02
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 1
-    slug: shri-shikshashtakam-1
 links:
   - href: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 7,1 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 834. 1983.01.02.A2.2. Подлинное смирение
   index: "834"
   filename: 834-1983-01-02-a2-2-podlinnoe-smirenie.md
+tags:
+  - title: Шри Шикшаштакам
+    slug: shri-shikshashtakam
+  - title: Шри Шикшаштакам 1
+    slug: shri-shikshashtakam-1
 ---
 
 **Преданная:** Гуру Махарадж, как мы можем развить искреннее смирение?
@@ -81,6 +79,6 @@ legacy:
 
 
 
-[^_ftn1]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn1]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn2]: [Шри Шикшаштакам 1](../notes/shri-shikshashtakam/shri-shikshashtakam-1.md)

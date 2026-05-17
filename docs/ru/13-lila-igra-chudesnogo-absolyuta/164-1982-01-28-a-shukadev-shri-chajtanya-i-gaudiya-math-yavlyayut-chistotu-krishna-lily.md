@@ -12,9 +12,19 @@ date: 1982-01-28
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
+links:
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.mp3
+    title: аудиозапись в MP3 (1 час 3 мин. 30 сек., 29,5 МБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.rtf
+    title: транскрипцию в RTF (394 КБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.pdf
+    title: транскрипцию в PDF (218 КБ)
+legacy:
+  title: 164. 1982.01.28.A. Шукадев, Шри Чайтанья и Гаудия Матх являют чистоту
+    Кришна-лилы
+  index: "164"
+  filename: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
@@ -77,18 +87,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-links:
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.mp3
-    title: аудиозапись в MP3 (1 час 3 мин. 30 сек., 29,5 МБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.rtf
-    title: транскрипцию в RTF (394 КБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.pdf
-    title: транскрипцию в PDF (218 КБ)
-legacy:
-  title: 164. 1982.01.28.A. Шукадев, Шри Чайтанья и Гаудия Матх являют чистоту
-    Кришна-лилы
-  index: "164"
-  filename: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
 ---
 
 В свое время я читал английский роман «Монастырь и сердце», написанный неким мистером Ридом. Джерард и Маргарет. Их сын Иасмас(?) считается гением западной культуры. Вся европейская литература была обогащена его высоким образом мыслей, так нам говорили. Отца Иасмаса звали Джерард, мать — Маргарет. И он был родом из Голландии.

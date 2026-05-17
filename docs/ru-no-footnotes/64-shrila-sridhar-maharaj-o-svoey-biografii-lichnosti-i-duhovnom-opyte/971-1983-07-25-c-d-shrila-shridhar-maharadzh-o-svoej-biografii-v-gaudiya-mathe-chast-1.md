@@ -12,9 +12,6 @@ date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
     title: аудиозапись в MP3 (1 час 12 мин. 30 сек., 37,1 МБ)

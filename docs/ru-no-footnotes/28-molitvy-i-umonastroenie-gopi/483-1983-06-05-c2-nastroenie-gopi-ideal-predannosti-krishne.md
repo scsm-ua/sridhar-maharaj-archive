@@ -12,9 +12,6 @@ date: 1983-06-05
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1983.06"
-    slug: 1983-06
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3
     title: аудиозапись в MP3 (7 мин. 57 сек., 3,9 МБ)

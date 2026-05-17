@@ -13,8 +13,6 @@ category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
   - title: Экачакра

@@ -1,7 +1,7 @@
 ---
 slug: 249-osvobozhdenie-dushi-ot-vlasti-maji-1983-04-25-a1
 record_id: 1983.04.25.A1
-title: Освобождение души от власти майи.
+title: Освобождение души от власти майи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Васту-сиддхи
     slug: vastu-siddhi
   - title: Душа

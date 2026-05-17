@@ -13,8 +13,6 @@ category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Гуру
     slug: guru
   - title: «Шри Чайтанья-чаритамрита», Ади-лила

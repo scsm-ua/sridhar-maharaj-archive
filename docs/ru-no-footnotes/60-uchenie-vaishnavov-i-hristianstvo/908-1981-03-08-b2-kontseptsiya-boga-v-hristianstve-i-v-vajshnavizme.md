@@ -12,9 +12,6 @@ date: 1981-03-08
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3
     title: аудиозапись в MP3 (1 мин. 41 сек., 2,4 МБ)

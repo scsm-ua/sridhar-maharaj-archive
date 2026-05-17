@@ -1,7 +1,7 @@
 ---
 slug: 368-otlichie-mezhdu-obuslovennoj-i-duhovn
 record_id: 1981.03.03.A3.B1
-title: Отличие между обусловенной и духовной деятельностью.
+title: Отличие между обусловенной и духовной деятельностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Харидас Тхакур
     slug: haridas-thakur
 links:

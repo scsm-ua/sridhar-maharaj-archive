@@ -1,7 +1,7 @@
 ---
 slug: 130-smysl-i-sushhnost-posvyashheniya-1983-01-31
 record_id: 1983.01.31
-title: Смысл и сущность посвящения.
+title: Смысл и сущность посвящения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

@@ -12,9 +12,6 @@ date: 1984-01-18
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1984.01"
-    slug: 1984-01
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
     title: аудиозапись в MP3 (7 мин. 03 сек., 5,5 МБ)

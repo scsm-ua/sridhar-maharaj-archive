@@ -1,7 +1,7 @@
 ---
 slug: 74-odnovremennoe-prisutstvie-obitatel
 record_id: 1981.03.03.B7
-title: Одновременное присутствие обитателей духовного мира.
+title: Одновременное присутствие обитателей духовного мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Сварупа Дамодар

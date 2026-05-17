@@ -12,9 +12,6 @@ date: 1982-02-23
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 1,5 МБ)

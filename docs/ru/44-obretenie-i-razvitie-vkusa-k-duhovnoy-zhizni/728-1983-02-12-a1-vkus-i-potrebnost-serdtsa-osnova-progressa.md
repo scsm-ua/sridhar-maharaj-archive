@@ -12,9 +12,6 @@ date: 1983-02-12
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1983.02"
-    slug: 1983-02
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/728_1983.02.12.A1_SridharMj_Vkus_i_potrebnost_serdca--osnova_progressa.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 4,9 МБ)

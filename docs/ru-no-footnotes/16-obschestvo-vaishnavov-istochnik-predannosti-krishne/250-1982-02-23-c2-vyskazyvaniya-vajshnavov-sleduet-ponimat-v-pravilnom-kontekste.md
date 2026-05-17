@@ -12,9 +12,6 @@ date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,6 МБ)

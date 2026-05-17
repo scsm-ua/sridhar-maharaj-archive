@@ -1,7 +1,7 @@
 ---
 slug: 389-dzhagannathu-ne-predlagayut-to-chto-byl
 record_id: 1983.05.06.B1
-title: Джаганнатху не предлагают то, что было привезено в Индию извне.
+title: Джаганнатху не предлагают то, что было привезено в Индию извне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Божество
     slug: bozhestvo
 links:

@@ -12,9 +12,6 @@ date: 1982-02-18
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
     title: аудиозапись в MP3 (13 мин. 06 сек., 6,9 МБ)

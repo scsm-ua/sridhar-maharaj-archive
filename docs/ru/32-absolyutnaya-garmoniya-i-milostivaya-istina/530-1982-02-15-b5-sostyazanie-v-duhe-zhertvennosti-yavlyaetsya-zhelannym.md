@@ -12,13 +12,6 @@ date: 1982-02-15
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.52
-    slug: shri-chajtanya-charitamrita-antya-lila-20-52
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 7,4 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 530. 1982.02.15.B5. Состязание в духе жертвенности является желанным
   index: "530"
   filename: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила
+    slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.52
+    slug: shri-chajtanya-charitamrita-antya-lila-20-52
 ---
 
 **Преданный:** Разные группы близких слуг?

@@ -12,9 +12,6 @@ date: 1983-05-09
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
     title: аудиозапись в MP3 (25 мин. 53 сек., 12,7 МБ)

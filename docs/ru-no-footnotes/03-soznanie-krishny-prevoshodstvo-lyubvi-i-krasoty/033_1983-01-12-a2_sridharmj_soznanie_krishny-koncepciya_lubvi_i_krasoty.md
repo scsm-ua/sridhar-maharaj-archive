@@ -13,8 +13,6 @@ category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
   - title: Поиск Шри Кришны Прекрасной Реальности

@@ -12,9 +12,18 @@ date: 1983-07-28
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
+links:
+  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
+    title: аудиозапись в MP3 (29 мин. 45 сек., 14 МБ)
+  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.rtf
+    title: транскрипцию в RTF (181 КБ)
+  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.pdf
+    title: транскрипцию в PDF (241 КБ)
+legacy:
+  title: 035. 1983.07.28.B Высшее счастье достижимо лишь в отношениях с Кришной
+  index: "035"
+  filename: 035_1983-07-28-b_sridharmj_vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_krishnoy.md
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
@@ -69,17 +78,6 @@ tags:
     slug: shri-upadeshamrita-9
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
-links:
-  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
-    title: аудиозапись в MP3 (29 мин. 45 сек., 14 МБ)
-  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.rtf
-    title: транскрипцию в RTF (181 КБ)
-  - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.pdf
-    title: транскрипцию в PDF (241 КБ)
-legacy:
-  title: 035. 1983.07.28.B Высшее счастье достижимо лишь в отношениях с Кришной
-  index: "035"
-  filename: 035_1983-07-28-b_sridharmj_vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_krishnoy.md
 ---
 
 Одно явление является общим повсюду: поиск счастья свойственен всем. Всех, от самых худших закоренелых атеистов до высочайших преданных, роднит одно — мы ищем блаженства, красоты, очарования, сладости, любви, нежности. Мы ищем одного и того же и не можем отрицать, что находимся в поиске этих явлений. Сфера, ареал поиска может быть различен: кто-то работает на благо своей страны и стремится к этой радости, счастью. Другой человек роет могилу, но и он также ищет счастье. Разница состоит в качестве этого счастья. Разбойник, охотник и филантроп: и тот, и другой, и третий стремятся к счастью. Преданные стремятся к счастью, искатели спасения также стремятся к счастью. Однако следует принимать во внимание качество концепции этой радости, счастья. Это самый важный фактор — то, какого рода этот *анандам*, радость, счастье?

@@ -12,9 +12,6 @@ date: 1982-02-27
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1040_1982.02.27.A4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3
     title: аудиозапись в MP3 (0 мин. 57 сек., 1,1 МБ)

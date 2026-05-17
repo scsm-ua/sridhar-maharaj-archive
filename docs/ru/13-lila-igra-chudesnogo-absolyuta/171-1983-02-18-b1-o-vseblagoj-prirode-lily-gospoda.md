@@ -12,9 +12,18 @@ date: 1983-02-18
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
+links:
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
+    title: аудиозапись в MP3 (16 мин. 09 сек., 8,9 МБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.rtf
+    title: транскрипцию в RTF (100 КБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.pdf
+    title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 171. 1983.02.18.B1. О всеблагой природе лилы Господа
+  index: "171"
+  filename: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda.md
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
@@ -31,17 +40,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-links:
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
-    title: аудиозапись в MP3 (16 мин. 09 сек., 8,9 МБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.rtf
-    title: транскрипцию в RTF (100 КБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.pdf
-    title: транскрипцию в PDF (151 КБ)
-legacy:
-  title: 171. 1983.02.18.B1. О всеблагой природе лилы Господа
-  index: "171"
-  filename: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda.md
 ---
 
 Несмотря на весь обман, все в порядке. Как это возможно? Обман [в духовном мире] также является милостью, не является обманом. Скажем, мать обманывает своего ребенка, движимая любовью. Если он, заболев, питается неправильно, не соблюдает диету, она может давать ему один вид пищи, а другому своему ребенку — иной. И за этим стоит ее любовь.*#00:01:14#*

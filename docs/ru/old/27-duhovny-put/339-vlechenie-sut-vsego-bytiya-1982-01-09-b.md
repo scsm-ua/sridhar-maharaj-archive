@@ -1,7 +1,7 @@
 ---
 slug: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b
 record_id: 1982.01.09.B
-title: Влечение – суть всего бытия.
+title: Влечение – суть всего бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Шива
     slug: shiva
 links:

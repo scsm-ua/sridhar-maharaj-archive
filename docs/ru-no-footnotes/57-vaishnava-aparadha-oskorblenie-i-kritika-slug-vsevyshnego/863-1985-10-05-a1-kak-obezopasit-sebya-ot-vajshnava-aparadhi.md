@@ -12,9 +12,6 @@ date: 1985-10-05
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1985.10"
-    slug: 1985-10
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
     title: аудиозапись в MP3 (2 мин. 38 сек., 1,5 МБ)

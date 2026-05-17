@@ -1,7 +1,7 @@
 ---
 slug: 306-dasha-mula-tattva-simvol-very-vajshna
 record_id: 1985.06.09.A1
-title: «Даша-мула-таттва» — символ веры вайшнавов.
+title: «Даша-мула-таттва» — символ веры вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1985.06"
-    slug: 1985-06
   - title: Сварупа-шакти
     slug: svarupa-shakti
   - title: Священные писания

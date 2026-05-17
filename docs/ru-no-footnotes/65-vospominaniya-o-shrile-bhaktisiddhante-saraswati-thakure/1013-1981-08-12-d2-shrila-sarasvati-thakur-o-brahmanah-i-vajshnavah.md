@@ -12,9 +12,6 @@ date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3
     title: аудиозапись в MP3 (21 мин. 19 сек., 10,4 МБ)

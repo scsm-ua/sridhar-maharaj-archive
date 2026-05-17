@@ -1,7 +1,7 @@
 ---
 slug: 315-v-mire-materii-stradaniya-i-schaste-ot
 record_id: 1983.03.30.B1
-title: В мире материи страдания и счастье относительны.
+title: В мире материи страдания и счастье относительны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Гармония
     slug: garmoniya
 links:

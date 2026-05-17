@@ -1,7 +1,7 @@
 ---
 slug: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya
 record_id: 1982.01.27.A2
-title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны».
+title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Шри Чайтанья Сарасват Матх
     slug: shri-chajtanya-sarasvat-math
 links:

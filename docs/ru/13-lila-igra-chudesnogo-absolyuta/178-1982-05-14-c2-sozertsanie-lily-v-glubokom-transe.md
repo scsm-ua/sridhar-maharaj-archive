@@ -12,9 +12,18 @@ date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
+links:
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
+    title: аудиозапись в MP3 (7 мин. 55 сек., 7,7 МБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.rtf
+    title: транскрипцию в RTF (102 КБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.pdf
+    title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
+  index: "178"
+  filename: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 130
@@ -27,17 +36,6 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-links:
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
-    title: аудиозапись в MP3 (7 мин. 55 сек., 7,7 МБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.rtf
-    title: транскрипцию в RTF (102 КБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.pdf
-    title: транскрипцию в PDF (155 КБ)
-legacy:
-  title: 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
-  index: "178"
-  filename: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
 ---
 
     (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’
@@ -53,7 +51,7 @@ legacy:
 
 *#00:00:57#*
 
-Когда Махапрабху находился в *самадхи*, когда Он падал в море во время *кумбха-крити* Джаганнатха, когда Он возвращался, приходил в чувство, то Он описывал Свой опыт в состоянии *самадхи*. И все эти описания были связаны с *мадхура-расой*. Когда Он выходил из состояния обморока, Он рассказывал: «Я отправился туда, Я видел все эти вещи, все эти реалии, но вы, — говорил Он, — *хена-ка̄ле туми-саба кола̄хала кари’ / а̄ма̄ ин̇ха̄ лан̃а̄ а̄ила̄ бала̄тка̄ра кари’*[^_ftn3]*».*
+Когда Махапрабху находился в *самадхи*, когда Он падал в море во время *кумбха-крити* Джаганнатха, когда Он возвращался, приходил в чувство, то Он описывал Свой опыт в состоянии *самадхи*. И все эти описания были связаны с *мадхура-расой*. Когда Он выходил из состояния обморока, Он рассказывал: «Я отправился туда, Я видел все эти вещи, все эти реалии, но вы, — говорил Он, — *хена-ка̄ле туми-саба кола̄хала кари’ / а̄ма̄ ин̇ха̄ лан̃а̄ а̄ила̄ бала̄тка̄ра кари’*[^_ftn3]».
 
 [Говорит на бенгали, возможно, произнося шлоки]
 
@@ -94,6 +92,6 @@ legacy:
 
 [^_ftn4]: Игры в воде.
 
-[^_ftn5]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn5]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn6]: [Катха-упанишад 1.2.23](../notes/katha-upanishad/katha-upanishad-1-2-23.md)

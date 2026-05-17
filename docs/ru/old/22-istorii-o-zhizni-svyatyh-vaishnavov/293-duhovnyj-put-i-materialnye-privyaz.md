@@ -1,7 +1,7 @@
 ---
 slug: 293-duhovnyj-put-i-materialnye-privyaz
 record_id: 1983.01.05.B1
-title: Духовный путь и материальные привязанности.
+title: Духовный путь и материальные привязанности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Билвамангал Тхакур
     slug: bilvamangal-thakur
   - title: Васту-сиддхи

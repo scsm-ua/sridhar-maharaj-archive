@@ -1,7 +1,7 @@
 ---
 slug: 199-mirozdanie-razvivaetsya-ot-soznaniya
 record_id: 1981.02.28.C2
-title: Мироздание развивается от сознания к материи.
+title: Мироздание развивается от сознания к материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Душа
     slug: dusha
   - title: Знание

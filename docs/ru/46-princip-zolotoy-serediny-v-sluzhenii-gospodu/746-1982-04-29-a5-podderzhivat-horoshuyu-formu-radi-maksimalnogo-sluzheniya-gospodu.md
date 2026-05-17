@@ -12,21 +12,6 @@ date: 1982-04-29
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.17
-    slug: bhagavad-gita-6-17
-  - title: Вайшнава ке
-    slug: vajshnava-ke
-  - title: Вайшнава ке 12
-    slug: vajshnava-ke-12
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.256
-    slug: bhakti-rasamrita-sindhu-1-2-256
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
     title: аудиозапись в MP3 (2 мин. 47 сек., 4,1 МБ)
@@ -39,6 +24,19 @@ legacy:
     служения Господу
   index: "746"
   filename: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 12
+    slug: vajshnava-ke-12
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.256
+    slug: bhakti-rasamrita-sindhu-1-2-256
 ---
 
 Все принадлежит Ему, Кришне, но поскольку я должен служить Ему, поэтому то, что необходимо мне для того, чтобы поддерживать себя в необходимой форме, я принимаю как *прасадам. Прасадам* — какой-то дар от Него. Если я не буду этого делать, то возникнут препятствия в служении, и я окажусь на ложном пути, поэтому — *йукта̄ха̄ра-виха̄расйа*[^_ftn1].

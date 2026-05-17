@@ -12,17 +12,6 @@ date: 1981-03-10
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
-    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3
     title: аудиозапись в MP3 (12 мин. 24 сек., 7,2 МБ)
@@ -35,6 +24,15 @@ legacy:
     одежде вайшнавов
   index: "747"
   filename: 747-1981-03-10-d2-printsip-zolotoj-serediny-v-pyshnosti-pokloneniya-i-odezhde-vajshnavov.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-100
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
+    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол.

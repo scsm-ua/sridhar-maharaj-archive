@@ -1,7 +1,7 @@
 ---
 slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
 record_id: 1983.04.01.A1
-title: Градация священных писаний. Величие «Шримад-Бхагаватам»
+title: Градация священных писаний. Величие «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,18 @@ date: 1983-04-01
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
+links:
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
+    title: аудиозапись в MP3 (17 мин. 42 сек., 8,8 МБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.rtf
+    title: транскрипцию в RTF (173 КБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.pdf
+    title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
+  index: "214"
+  filename: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
@@ -35,17 +44,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.11
     slug: shrimad-bhagavatam-1-2-11
-links:
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
-    title: аудиозапись в MP3 (17 мин. 42 сек., 8,8 МБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.rtf
-    title: транскрипцию в RTF (173 КБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.pdf
-    title: транскрипцию в PDF (160 КБ)
-legacy:
-  title: 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
-  index: "214"
-  filename: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
 ---
 
 «Шримад-Бхагаватам» считается *маха-пураной*. В «Бхагаватам» присутствуют все десять симптомов *пураны*.

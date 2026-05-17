@@ -12,9 +12,6 @@ date: 1983-01-30
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/571_1983.01.30.A3_SridharMj_Puteshestviye_na__rodinu_dushi.mp3
     title: аудиозапись в MP3 (11 мин. 58 сек., 8,1 МБ)

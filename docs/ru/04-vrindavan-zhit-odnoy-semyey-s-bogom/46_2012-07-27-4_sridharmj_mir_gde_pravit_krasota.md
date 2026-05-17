@@ -14,8 +14,6 @@ category:
 tags:
   - title: гьяна-шунья бхакти
     slug: gyana-shunya-bhakti
-  - title: дата неизвестна
-    slug: data-neizvestna
   - title: сат-чит-ананда
     slug: sat-chit-ananda
   - title: три гуны

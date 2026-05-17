@@ -1,7 +1,7 @@
 ---
 slug: 481-bravada-eto-protivopolozhnost-podl
 record_id: 1982.01.17.B2
-title: Бравада — это противоположность подлинной духовности.
+title: Бравада — это противоположность подлинной духовности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Шаранагати

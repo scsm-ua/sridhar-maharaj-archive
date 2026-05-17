@@ -1,7 +1,7 @@
 ---
 slug: 314-podlinnoe-blagopoluchie-eto-svyaz-so
 record_id: 1983.03.30.A2
-title: Подлинное благополучие — это связь со служением Господу.
+title: Подлинное благополучие — это связь со служением Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Гармония
     slug: garmoniya
 links:

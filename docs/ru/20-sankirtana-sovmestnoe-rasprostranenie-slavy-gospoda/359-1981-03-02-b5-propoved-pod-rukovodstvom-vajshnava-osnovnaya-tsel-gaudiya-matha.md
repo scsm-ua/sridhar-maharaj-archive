@@ -13,8 +13,6 @@ category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

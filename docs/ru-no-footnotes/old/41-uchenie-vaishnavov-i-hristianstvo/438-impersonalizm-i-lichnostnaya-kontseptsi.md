@@ -1,7 +1,7 @@
 ---
 slug: 438-impersonalizm-i-lichnostnaya-kontseptsi
 record_id: 1983.04.25.A4
-title: Имперсонализм и личностная концепция Бога в Христианстве.
+title: Имперсонализм и личностная концепция Бога в Христианстве
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (41. Учение вайшнавов и Христианство)
   slug: 41-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Христианство
     slug: hristianstvo
 links:

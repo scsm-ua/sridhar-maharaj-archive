@@ -12,13 +12,6 @@ date: 1982-04-18
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.238
-    slug: shri-chajtanya-charitamrita-madhya-lila-16-238
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/949_1982.04.18.A3_SridharMj_Princip_parakii_v_nastavlenii_Raghunathu_Dasu_Gosvami.mp3
     title: аудиозапись в MP3 (2 мин. 58 сек., 5,5 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 949. 1982.04.18.A3. Принцип паракии в наставлении Рагхунатху Дасу Госвами
   index: "949"
   filename: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.238
+    slug: shri-chajtanya-charitamrita-madhya-lila-16-238
 ---
 
 Принцип *паракии* — понимаете ли вы его? Права, которые заявляет муж на свою жену, представлены нашей прошлой, предыдущей кармой, нашими обязательствами. Наша прошлая карма — мы уже не свободны, существуют *самскары*, ментальные импульсы, и они владеют нами, распоряжаются нашей свободой.

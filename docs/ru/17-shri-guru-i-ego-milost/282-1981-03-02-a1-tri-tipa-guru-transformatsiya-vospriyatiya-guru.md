@@ -1,7 +1,7 @@
 ---
 slug: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru
 record_id: 1981.03.02.A1
-title: Три типа Гуру. Трансформация восприятия Гуру
+title: Три типа Гуру. Трансформация восприятия Гуру.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

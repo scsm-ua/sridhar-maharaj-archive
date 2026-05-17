@@ -1,7 +1,7 @@
 ---
 slug: 192-istinnaya-umirotvorennost-za-prede
 record_id: 1982.01.21.B1
-title: Истинная умиротворенность — за пределами материальной двойственности.
+title: Истинная умиротворенность — за пределами материальной двойственности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Карма
     slug: karma
   - title: Материальный мир

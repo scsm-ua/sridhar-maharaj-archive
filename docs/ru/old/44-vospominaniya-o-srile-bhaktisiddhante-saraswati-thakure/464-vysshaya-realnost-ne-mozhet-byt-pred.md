@@ -1,7 +1,7 @@
 ---
 slug: 464-vysshaya-realnost-ne-mozhet-byt-pred
 record_id: 1981.08.18.B3
-title: Высшая Реальность не может быть предметом опытов.
+title: Высшая Реальность не может быть предметом опытов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Сварупа-шакти

@@ -1,7 +1,7 @@
 ---
 slug: 123-podlinnyj-predannyj-ne-uveren-v-svoe
 record_id: 1981.03.02.B3
-title: Подлинный преданный не уверен в своем понимании духовных истин.
+title: Подлинный преданный не уверен в своем понимании духовных истин
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Качества ученика

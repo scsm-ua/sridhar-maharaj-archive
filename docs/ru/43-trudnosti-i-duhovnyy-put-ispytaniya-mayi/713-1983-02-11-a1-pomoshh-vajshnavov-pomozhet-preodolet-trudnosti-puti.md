@@ -12,9 +12,18 @@ date: 1983-02-11
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
+links:
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
+    title: аудиозапись в MP3 (32 мин. 13 сек., 15,1 МБ)
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.rtf
+    title: транскрипцию в RTF (242 КБ)
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.pdf
+    title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 713. 1983.02.11.A1. Помощь вайшнавов поможет преодолеть трудности пути
+  index: "713"
+  filename: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti.md
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
@@ -41,17 +50,6 @@ tags:
     slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
-links:
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
-    title: аудиозапись в MP3 (32 мин. 13 сек., 15,1 МБ)
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.rtf
-    title: транскрипцию в RTF (242 КБ)
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.pdf
-    title: транскрипцию в PDF (177 КБ)
-legacy:
-  title: 713. 1983.02.11.A1. Помощь вайшнавов поможет преодолеть трудности пути
-  index: "713"
-  filename: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti.md
 ---
 
 Неблагоприятная позиция: Господь присутствует там, решение присутствует. Он не мстителен, Он не хочет наказать тебя. Наказание приходит только для того, чтобы наставить тебя, научить тебя. Наказание присутствует, но оно приходят из любящей руки только для того, чтобы научить, улучшить, исправить тебя, помочь тебе, не для того чтобы наказать тебя. Мы должны рассматривать вещи в таком свете, так советуют нам. И тогда очень быстро все уйдет — туман, грязь, и наступит кристально-ясная погода, чистая, атмосфера.

@@ -13,8 +13,6 @@ category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
 links:

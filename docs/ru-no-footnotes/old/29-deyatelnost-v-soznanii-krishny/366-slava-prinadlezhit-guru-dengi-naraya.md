@@ -1,7 +1,7 @@
 ---
 slug: 366-slava-prinadlezhit-guru-dengi-naraya
 record_id: 1984.01.25.A
-title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне».
+title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Сварупа-шакти
     slug: svarupa-shakti
 links:

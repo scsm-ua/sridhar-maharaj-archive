@@ -13,8 +13,6 @@ category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1987.00"
-    slug: 1987-00
   - title: Махапрабху
     slug: mahaprabhu
 links:

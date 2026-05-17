@@ -12,9 +12,18 @@ date: 1985-05-01
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
+links:
+  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
+    title: аудиозапись в MP3 (3 мин. 42 сек., 2,6 МБ)
+  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.rtf
+    title: транскрипцию в RTF (72 КБ)
+  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.pdf
+    title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 833. 1985.05.01.B2. Смирение — критерий для постижения Безграничного
+  index: "833"
+  filename: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo.md
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
@@ -27,17 +36,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
-links:
-  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
-    title: аудиозапись в MP3 (3 мин. 42 сек., 2,6 МБ)
-  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.rtf
-    title: транскрипцию в RTF (72 КБ)
-  - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.pdf
-    title: транскрипцию в PDF (143 КБ)
-legacy:
-  title: 833. 1985.05.01.B2. Смирение — критерий для постижения Безграничного
-  index: "833"
-  filename: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo.md
 ---
 
 Был один царь Пратапарудра в Ориссе, Джаганнатха [Пури]. Многие от его имени просили Махапрабху увидеться с ним: «Пожалуйста, один раз встреться с царем, он очень хочет обрести, получить Твой *даршан*». Махапрабху не соглашался. Но когда Он узнал о том, что когда Джаганнатх ехал на колеснице, то царь собственноручно расчищал дорогу перед Ним, это привлекло Махапрабху. Он [царь] восседает на троне, но по отношению к Джаганнатху он подметальщик. Сердце Махапрабху растаяло, и в тот самый день их встреча была устроена, произошла, и Махапрабху обнял Махараджу Пратапарудру.

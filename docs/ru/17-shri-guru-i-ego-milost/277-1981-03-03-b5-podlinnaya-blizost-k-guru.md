@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/277_1981.03.03.B5_SridharMj_Podlinnaya_blizost_k_guru.mp3
     title: аудиозапись в MP3 (3 мин. 39 сек., 3,0 МБ)

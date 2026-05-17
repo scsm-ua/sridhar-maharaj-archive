@@ -12,9 +12,18 @@ date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
+links:
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3
+    title: аудиозапись в MP3 (21 мин. 19 сек., 10,4 МБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.rtf
+    title: транскрипцию в RTF (206 КБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.pdf
+    title: транскрипцию в PDF (170 КБ)
+legacy:
+  title: 1013. 1981.08.12.D2. Шрила Сарасвати Тхакур о брахманах и вайшнавах
+  index: "1013"
+  filename: 1013-1981-08-12-d2-shrila-sarasvati-thakur-o-brahmanah-i-vajshnavah.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
@@ -27,17 +36,6 @@ tags:
     slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
-links:
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3
-    title: аудиозапись в MP3 (21 мин. 19 сек., 10,4 МБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.rtf
-    title: транскрипцию в RTF (206 КБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.pdf
-    title: транскрипцию в PDF (170 КБ)
-legacy:
-  title: 1013. 1981.08.12.D2. Шрила Сарасвати Тхакур о брахманах и вайшнавах
-  index: "1013"
-  filename: 1013-1981-08-12-d2-shrila-sarasvati-thakur-o-brahmanah-i-vajshnavah.md
 ---
 
 Когда Прабхупада в свое время обошел весь Вриндаван и вернулся, завершил *Враджа-мандала парикраму*, то он приложил ладонь ко лбу и сказал с этим жестом отчаяния: «Я не смог увидеть во Вриндаван-дхаме ни единого вайшнава, это моя неудача, мое невезение». Вот таким образом, приложив ладонь ко лбу, он сказал это. Знак отчаяния разочарования. Опять же, когда в 1933 году он совершал *Враджа-мандала парикраму*, он написал в одном из своих периодических изданий: «Во Вриндаване нет ни одного вайшнава», (или он сказал это?), а тот, кого считали высочайшим вайшнавом во Вриндаване, Прана Кришнадас Бабаджи, тот, кого считали в ту эпоху *сиддха-бабаджи* Махараджем, Прабхупад заметил в отношении этого джентльмена: «Он не более чем *каништха-адхикари*, вайшнав начального уровня». Этот *бабаджи* был *брамином* из *брахманической* семьи, безупречного характера, изучал вайшнава-шастру, но Прабхупад Гуру Махарадж, Шрила Сарасвати Тхакур посчитал его *каништха-адхикари*, преданного третьего класса [третьего — в смысле начального уровня]. Прана Кришнадас Бабаджи, которого в то время считали во всей *Враджа-мандале* вайшнавом номер один, *сиддха-махатмой*.

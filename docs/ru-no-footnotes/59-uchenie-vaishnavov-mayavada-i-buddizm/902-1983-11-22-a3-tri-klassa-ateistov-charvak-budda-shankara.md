@@ -12,9 +12,6 @@ date: 1983-11-22
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.mp3
     title: аудиозапись в MP3 (3 мин. 38 сек., 3,5 МБ)

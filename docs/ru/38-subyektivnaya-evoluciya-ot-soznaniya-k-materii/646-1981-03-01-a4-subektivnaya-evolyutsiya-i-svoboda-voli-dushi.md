@@ -12,17 +12,6 @@ date: 1981-03-01
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 15.1
-    slug: bhagavad-gita-15-1
-  - title: Бхагавад-гита 15.2
-    slug: bhagavad-gita-15-2
-  - title: Бхагавад-гита 5.14
-    slug: bhagavad-gita-5-14
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
     title: аудиозапись в MP3 (14 мин. 03 сек., 7,4 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 646. 1981.03.01.A4. Субъективная эволюция и свобода воли души
   index: "646"
   filename: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.1
+    slug: bhagavad-gita-15-1
+  - title: Бхагавад-гита 15.2
+    slug: bhagavad-gita-15-2
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 ---
 
 **Преданный:** Махарадж, субъективная эволюция…

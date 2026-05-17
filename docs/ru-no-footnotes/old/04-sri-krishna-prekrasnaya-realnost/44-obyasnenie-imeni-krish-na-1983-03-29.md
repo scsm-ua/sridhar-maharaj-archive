@@ -1,7 +1,7 @@
 ---
 slug: 44-obyasnenie-imeni-krish-na-1983-03-29
 record_id: 1983.03.29
-title: Объяснение имени «Криш-на».
+title: Объяснение имени «Криш-на»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Кришна
     slug: krishna
 links:

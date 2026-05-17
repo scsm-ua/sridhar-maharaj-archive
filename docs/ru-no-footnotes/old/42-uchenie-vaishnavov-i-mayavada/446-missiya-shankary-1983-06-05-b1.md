@@ -1,7 +1,7 @@
 ---
 slug: 446-missiya-shankary-1983-06-05-b1
 record_id: 1983.06.05.B1
-title: Миссия Шанкары.
+title: Миссия Шанкары
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Буддизм
     slug: buddizm
   - title: Майавада

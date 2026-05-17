@@ -12,9 +12,6 @@ date: 1982-02-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3
     title: аудиозапись в MP3 (1 мин. 51 сек., 1,5 МБ)

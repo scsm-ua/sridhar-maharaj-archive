@@ -2,7 +2,7 @@
 slug: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov
 record_id: 1983.01.22.A.B
 title: Ведическая цивилизация и современность. Вриндаван — «золотая середина»,
-  где живет любовь
+  где живет любовь.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -14,8 +14,6 @@ category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
 links:

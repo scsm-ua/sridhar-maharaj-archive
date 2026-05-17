@@ -12,9 +12,6 @@ date: 1983-04-30
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
     title: аудиозапись в MP3 (29 мин. 07 сек., 14,3 МБ)

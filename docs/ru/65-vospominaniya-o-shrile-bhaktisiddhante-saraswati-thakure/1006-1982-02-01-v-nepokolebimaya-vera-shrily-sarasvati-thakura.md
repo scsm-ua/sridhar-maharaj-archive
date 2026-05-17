@@ -12,9 +12,18 @@ date: 1982-02-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
+links:
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
+    title: аудиозапись в MP3 (18 мин. 38 сек., 17,3 МБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.rtf
+    title: транскрипцию в RTF (203 КБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.pdf
+    title: транскрипцию в PDF (204 КБ)
+legacy:
+  title: 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
+  index: "1006"
+  filename: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.13
@@ -47,17 +56,6 @@ tags:
     slug: bhagavad-gita-2-29
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-links:
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
-    title: аудиозапись в MP3 (18 мин. 38 сек., 17,3 МБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.rtf
-    title: транскрипцию в RTF (203 КБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.pdf
-    title: транскрипцию в PDF (204 КБ)
-legacy:
-  title: 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
-  index: "1006"
-  filename: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
 ---
 
 **Преданный:** Речь Шрилы Бхактисиддханты Сарасвати Тхакура, обращенная к *санньяси*, которые отправлялись на запад, в этой речи он говорит: «Чайтанья Матх — это проявление Божественности». Он просит распространить это явление повсюду.
@@ -146,7 +144,7 @@ legacy:
     а̄ш́чарйавад вадати татхаива ча̄нйах̣
 [^_ftn8]
 
-«Есть те, кто говорит о душе, об *атме*: «Она чудесна!», *а̄ш́чарйавач чаинам анйах̣ ш́р̣н̣оти*. Тот, кто рассказывает другим о душе, тоже поражен. Тот, кто слушает, поражен и тот, кто рассказывает о душе, поражен. Подобное явление существует реально. Такова моя природа. *Ш́рутва̄пй энам̇ веда на чаива каш́чит*: многие, даже услышав описание *атмы,* не в силах понять, не в силах найти никаких следов реального существования этого явления, тем не менее оно есть».
+«Есть те, кто говорит о душе, об *атме*: «Она чудесна!», *а̄ш́чарйавач чаинам анйах̣ ш́р̣н̣оти*. Тот, кто рассказывает другим о душе, тоже поражен. Тот, кто слушает, поражен и тот, кто рассказывает о душе, поражен. Подобное явление существует реально. Такова моя природа. *Ш́рутва̄пй энам̇ веда на чаива каш́чит*: многие, даже услышав описание *атмы*, не в силах понять, не в силах найти никаких следов реального существования этого явления, тем не менее оно есть».
 
 *#00:17:17#*
 

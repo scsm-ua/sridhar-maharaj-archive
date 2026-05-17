@@ -1,7 +1,7 @@
 ---
 slug: 179-arii-rassmatrivali-yavleniya-prirody
 record_id: 1982.01.17.A2
-title: Арии рассматривали явления природы как личности.
+title: Арии рассматривали явления природы как личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Рамаяна
     slug: ramayana
 links:

@@ -13,8 +13,6 @@ category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Гададхар Пандит
     slug: gadadhar-pandit
 links:

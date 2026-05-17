@@ -12,13 +12,6 @@ date: 1982-06-19
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
-  - title: Шри Ишопанишад 1
-    slug: shri-ishopanishad-1
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1080_1982.06.19.C3_SridharMj_Bhaktivedanta_Svami_o_sakralnom_smysle_slova_ISKKON.mp3
     title: аудиозапись в MP3 (2 мин. 12 сек., 3,6 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 1080. 1982.06.19.C3. Бхактиведанта Свами о сакральном смысле слова «ИСККОН»
   index: "1080"
   filename: 1080-1982-06-19-c3-bhaktivedanta-svami-o-sakralnom-smysle-slova-iskkon.md
+tags:
+  - title: Шри Ишопанишад
+    slug: shri-ishopanishad
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
 ---
 
 Возможно, я годом старше Свами Махараджа. Он родился в 1896 году, а я — в 1895, разница в один год. В августе он явился, пришел, а я — в октябре, разница в 10 месяцев. Харе Кришна.

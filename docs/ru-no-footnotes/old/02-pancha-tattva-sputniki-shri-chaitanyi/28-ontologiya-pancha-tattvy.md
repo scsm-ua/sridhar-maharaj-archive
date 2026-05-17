@@ -1,6 +1,6 @@
 ---
 slug: 28-ontologiya-pancha-tattvy
-title: Онтология панча-таттвы.
+title: Онтология панча-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

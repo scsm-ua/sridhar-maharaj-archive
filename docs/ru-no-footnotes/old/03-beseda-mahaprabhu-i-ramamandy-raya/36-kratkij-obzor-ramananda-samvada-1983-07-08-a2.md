@@ -1,7 +1,7 @@
 ---
 slug: 36-kratkij-obzor-ramananda-samvada-1983-07-08-a2
 record_id: 1983.07.08.A2
-title: Краткий обзор Рамананда-самвада.
+title: Краткий обзор Рамананда-самвада
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Рамананда-самвад

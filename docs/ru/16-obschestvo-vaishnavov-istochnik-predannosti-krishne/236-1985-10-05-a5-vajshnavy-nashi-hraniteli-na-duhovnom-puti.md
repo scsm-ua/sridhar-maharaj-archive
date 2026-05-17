@@ -12,9 +12,6 @@ date: 1985-10-05
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1985.10"
-    slug: 1985-10
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (6 мин. 17 сек., 4,0 МБ)

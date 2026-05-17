@@ -1,7 +1,7 @@
 ---
 slug: 259-o-poluchenii-gayatri-mantry-1981-08-14-a1
 record_id: 1981.08.14.A1
-title: О получении гаятри-мантры.
+title: О получении гаятри-мантры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Гаятри-мантра

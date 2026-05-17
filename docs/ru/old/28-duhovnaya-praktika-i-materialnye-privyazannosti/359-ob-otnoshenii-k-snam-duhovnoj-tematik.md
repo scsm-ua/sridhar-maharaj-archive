@@ -1,7 +1,7 @@
 ---
 slug: 359-ob-otnoshenii-k-snam-duhovnoj-tematik
 record_id: 1981.03.03.C2
-title: Об отношении к снам духовной тематики.
+title: Об отношении к снам духовной тематики
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /wp-content/uploads/2012/08/359_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
     title: Скачать аудиозапись в mp3 (2 мин 20 сек, размер 2 Мб)

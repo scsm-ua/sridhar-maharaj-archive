@@ -12,9 +12,18 @@ date: 1983-05-09
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
+links:
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
+    title: аудиозапись в MP3 (8 мин. 36 сек., 4,3 МБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.rtf
+    title: транскрипцию в RTF (99 КБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.pdf
+    title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 858. 1983.05.09.C4. Оскорбление вайшнава и духовное развитие
+  index: "858"
+  filename: 858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie.md
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 6.44
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-19-156
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.157
     slug: shri-chajtanya-charitamrita-madhya-lila-19-157
-links:
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
-    title: аудиозапись в MP3 (8 мин. 36 сек., 4,3 МБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.rtf
-    title: транскрипцию в RTF (99 КБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.pdf
-    title: транскрипцию в PDF (142 КБ)
-legacy:
-  title: 858. 1983.05.09.C4. Оскорбление вайшнава и духовное развитие
-  index: "858"
-  filename: 858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie.md
 ---
 
     хрийате хй аваш́о ’пи сах̣…

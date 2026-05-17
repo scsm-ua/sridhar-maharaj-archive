@@ -12,9 +12,18 @@ date: 1983-04-16
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
+links:
+  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
+    title: аудиозапись в MP3 (27 мин. 49 сек., 15,2 МБ)
+  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.rtf
+    title: транскрипцию в RTF (203 КБ)
+  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.pdf
+    title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
+  index: "697"
+  filename: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu.md
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.80
@@ -51,17 +60,6 @@ tags:
     slug: bhagavad-gita-2-69
   - title: Бхагавад-гита 4.16
     slug: bhagavad-gita-4-16
-links:
-  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
-    title: аудиозапись в MP3 (27 мин. 49 сек., 15,2 МБ)
-  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.rtf
-    title: транскрипцию в RTF (203 КБ)
-  - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.pdf
-    title: транскрипцию в PDF (174 КБ)
-legacy:
-  title: 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
-  index: "697"
-  filename: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu.md
 ---
 
     [шлока]
@@ -184,7 +182,7 @@ legacy:
     кавайо ’пй атра мохита̄х̣
 [^_ftn8]
 
-Великие ученые ошеломлены, растеряны они не знают, что хорошо, а что плохо, что принять, а что отвергать. Что принимать, а что отвергать — *кавайо ’пй атра мохита̄х̣.* Великие ученые не способны понять, каковы их истинные потребности. Они находятся в джунглях, в лесу сомнений.
+Великие ученые ошеломлены, растеряны они не знают, что хорошо, а что плохо, что принять, а что отвергать. Что принимать, а что отвергать — *кавайо ’пй атра мохита̄х̣*. Великие ученые не способны понять, каковы их истинные потребности. Они находятся в джунглях, в лесу сомнений.
 
 *#00:23:59#*
 

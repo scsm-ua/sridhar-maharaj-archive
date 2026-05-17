@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
     title: аудиозапись в MP3 (14 мин. 08 сек., 7,2 МБ)

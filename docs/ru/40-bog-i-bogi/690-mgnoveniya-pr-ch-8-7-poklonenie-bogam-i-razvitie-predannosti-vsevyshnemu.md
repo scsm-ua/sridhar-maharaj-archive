@@ -1,6 +1,6 @@
 ---
 slug: 690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu
-title: Мгновения ПР. Ч. 8.7. Поклонение богам и развитие преданности Всевышнему
+title: Мгновения ПР. Ч. 8.7. Поклонение богам и развитие преданности Всевышнему.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

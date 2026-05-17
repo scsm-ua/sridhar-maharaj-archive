@@ -1,7 +1,7 @@
 ---
 slug: 1062-1983-07-08-a1-1-v-poiskah-boga-istoriya-madana-gopala-sardana
 record_id: 1983.07.08.A1.1
-title: В поисках Бога. История Мадана Гопала Сардана
+title: В поисках Бога. История Мадана Гопала Сардана.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-07-08
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3
     title: аудиозапись в MP3 (2 мин. 44 сек., 1,8 МБ)

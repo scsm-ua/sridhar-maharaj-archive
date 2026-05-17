@@ -1,7 +1,7 @@
 ---
 slug: 173-mogushhestvo-tonkoj-sily-predannosti
 record_id: 1985.10.05.A2
-title: Могущество тонкой силы преданности Кришне.
+title: Могущество тонкой силы преданности Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1985-10-05
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
-tags:
-  - title: "1985.10"
-    slug: 1985-10
 links:
   - href: /wp-content/uploads/2012/08/173_1985.10.05.A2_SridharMj_Moguwestvo_tonkoy_sily_predannosti_Krishne.mp3
     title: Скачать аудиозапись в mp3 (5 мин 42 сек, размер 5 Мб)

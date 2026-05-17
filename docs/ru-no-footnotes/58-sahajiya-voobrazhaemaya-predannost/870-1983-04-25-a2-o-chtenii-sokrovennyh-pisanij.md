@@ -12,9 +12,6 @@ date: 1983-04-25
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
     title: аудиозапись в MP3 (5 мин. 10 сек., 4,5 МБ)

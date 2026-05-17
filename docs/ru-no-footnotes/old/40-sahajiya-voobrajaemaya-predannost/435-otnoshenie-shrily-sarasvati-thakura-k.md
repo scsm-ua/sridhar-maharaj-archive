@@ -1,7 +1,7 @@
 ---
 slug: 435-otnoshenie-shrily-sarasvati-thakura-k
 record_id: 1983.05.09.C5
-title: Отношение Шрилы Сарасвати Тхакура к Бипину Госвами.
+title: Отношение Шрилы Сарасвати Тхакура к Бипину Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Сахаджия

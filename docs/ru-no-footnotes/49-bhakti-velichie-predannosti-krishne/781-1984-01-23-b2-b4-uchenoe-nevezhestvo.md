@@ -13,8 +13,6 @@ category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Бхакти
     slug: bhakti
 links:

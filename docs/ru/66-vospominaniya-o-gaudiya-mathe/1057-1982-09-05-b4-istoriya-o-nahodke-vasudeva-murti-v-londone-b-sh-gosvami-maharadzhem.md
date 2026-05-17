@@ -1,7 +1,7 @@
 ---
 slug: 1057-1982-09-05-b4-istoriya-o-nahodke-vasudeva-murti-v-londone-b-sh-gosvami-maharadzhem
 record_id: 1982.09.05.B4
-title: История о находке Васудева-мурти в Лондоне Б.Ш. Госвами Махараджем
+title: История о находке Васудева-мурти в Лондоне Б.Ш. Госвами Махараджем.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-09-05
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.09"
-    slug: 1982-09
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3
     title: аудиозапись в MP3 (9 мин. 53 сек., 5,1 МБ)

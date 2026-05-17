@@ -13,8 +13,6 @@ category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Посвящение
     slug: posvyashhenie
   - title: Бхакти-сандарбха

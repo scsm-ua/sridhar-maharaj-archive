@@ -12,9 +12,6 @@ date: 1983-05-09
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
     title: аудиозапись в MP3 (8 мин. 36 сек., 4,3 МБ)

@@ -12,9 +12,6 @@ date: 1982-02-15
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3
     title: аудиозапись в MP3 (5 мин. 21 сек., 5,4 МБ)

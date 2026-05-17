@@ -12,9 +12,18 @@ date: 1982-01-13
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
+    title: аудиозапись в MP3 (12 мин. 55 сек., 6,9 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.rtf
+    title: транскрипцию в RTF (117 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.pdf
+    title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 644. 1982.01.13.B2. Сознание — основа мира материи
+  index: "644"
+  filename: 644-1982-01-13-b2-soznanie-osnova-mira-materii.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
@@ -27,17 +36,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
-    title: аудиозапись в MP3 (12 мин. 55 сек., 6,9 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.rtf
-    title: транскрипцию в RTF (117 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.pdf
-    title: транскрипцию в PDF (149 КБ)
-legacy:
-  title: 644. 1982.01.13.B2. Сознание — основа мира материи
-  index: "644"
-  filename: 644-1982-01-13-b2-soznanie-osnova-mira-materii.md
 ---
 
 **Преданный:** Махарадж, а личность Кали — это *джива*? Или какая-то иная личность?

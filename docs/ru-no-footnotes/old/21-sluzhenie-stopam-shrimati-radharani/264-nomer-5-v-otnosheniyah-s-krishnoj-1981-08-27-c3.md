@@ -1,7 +1,7 @@
 ---
 slug: 264-nomer-5-v-otnosheniyah-s-krishnoj-1981-08-27-c3
 record_id: 1981.08.27.C3
-title: «Номер 5» в отношениях с Кришной.
+title: «Номер 5» в отношениях с Кришной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхакти
     slug: bhakti
 links:

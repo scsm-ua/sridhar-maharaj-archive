@@ -12,9 +12,18 @@ date: 1983-07-28
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
+links:
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
+    title: аудиозапись в MP3 (14 мин. 05 сек., 7,2 МБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.rtf
+    title: транскрипцию в RTF (154 КБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.pdf
+    title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 206. 1983.07.28.A2. О восприятии Божественного
+  index: "206"
+  filename: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo.md
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
@@ -37,17 +46,6 @@ tags:
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-links:
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
-    title: аудиозапись в MP3 (14 мин. 05 сек., 7,2 МБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.rtf
-    title: транскрипцию в RTF (154 КБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.pdf
-    title: транскрипцию в PDF (161 КБ)
-legacy:
-  title: 206. 1983.07.28.A2. О восприятии Божественного
-  index: "206"
-  filename: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo.md
 ---
 
 Как бы то ни было, они подчиняют все некоему закону, но здесь ведическая, *пураническая* концепция такова: Он — *лила-майя*, сладостная воля. И Махапрабху пришел с этой идеей *ачинтья-бхедабхеда*, *адхокшаджа*, гармония за пределами наших представлений. Мы должны прежде всего понять эту природу, эту характеристику. Это «нечто» никогда не может быть заключено в рамки нашего понимания, *ачинтья* — нечто немыслимое. И это прилагательное (непостижимое, *ачинтья*) всегда следует помнить. Неподвластное вашему разуму, уму.

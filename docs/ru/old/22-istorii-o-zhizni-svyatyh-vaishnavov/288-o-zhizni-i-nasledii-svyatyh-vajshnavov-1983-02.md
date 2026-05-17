@@ -1,7 +1,7 @@
 ---
 slug: 288-o-zhizni-i-nasledii-svyatyh-vajshnavov-1983-02
 record_id: 1983.02.01.A.B
-title: О жизни и наследии святых вайшнавов.
+title: О жизни и наследии святых вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Вриндаван Дас Тхакур
     slug: vrindavan-das-thakur
   - title: Истории о вайшнавах

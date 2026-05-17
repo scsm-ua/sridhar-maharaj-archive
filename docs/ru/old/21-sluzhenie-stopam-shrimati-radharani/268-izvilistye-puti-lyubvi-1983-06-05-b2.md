@@ -1,7 +1,7 @@
 ---
 slug: 268-izvilistye-puti-lyubvi-1983-06-05-b2
 record_id: 1983.06.05.B2
-title: Извилистые пути любви.
+title: Извилистые пути любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхакти
     slug: bhakti
   - title: Йога-майа

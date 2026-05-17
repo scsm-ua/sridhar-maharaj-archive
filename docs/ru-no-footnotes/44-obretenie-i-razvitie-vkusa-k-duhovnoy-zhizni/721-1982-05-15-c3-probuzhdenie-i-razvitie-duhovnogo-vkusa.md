@@ -12,9 +12,6 @@ date: 1982-05-15
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
     title: аудиозапись в MP3 (3 мин. 01 сек., 3,6 МБ)

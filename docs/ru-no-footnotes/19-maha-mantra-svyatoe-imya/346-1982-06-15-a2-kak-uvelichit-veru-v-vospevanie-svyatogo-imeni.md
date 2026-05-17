@@ -13,8 +13,6 @@ category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Святое Имя
     slug: svyatoe-imya
 links:

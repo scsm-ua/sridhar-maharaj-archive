@@ -1,7 +1,7 @@
 ---
 slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
 record_id: 1983.11.19.B2
-title: Кришна и Его окружение. Царь не может быть в одиночестве
+title: Кришна и Его окружение. Царь не может быть в одиночестве.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Спутники
     slug: sputniki
 links:

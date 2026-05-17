@@ -12,9 +12,6 @@ date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 4,7 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij
 record_id: 1983.02.11.B1
-title: Дары бхакти. Молитва возвышенных преданных – примеры из Писаний
+title: Дары бхакти. Молитва возвышенных преданных – примеры из Писаний.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхакти
     slug: bhakti
 links:

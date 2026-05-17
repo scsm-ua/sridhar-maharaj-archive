@@ -12,9 +12,6 @@ date: 1983-11-09
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (4 мин. 52 сек., 6,0 МБ)

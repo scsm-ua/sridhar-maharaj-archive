@@ -12,9 +12,19 @@ date: 1981-08-31
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
+links:
+  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
+    title: аудиозапись в MP3 (8 мин. 57 сек., 5,8 МБ)
+  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.rtf
+    title: транскрипцию в RTF (27 КБ)
+  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.pdf
+    title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 1085. 1981.08.31.B5.C1. Объяснение символического смысла лотоса в воде
+    под лучами солнца
+  index: "1085"
+  filename: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Шри Гурваштака
     slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
@@ -35,18 +45,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-links:
-  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
-    title: аудиозапись в MP3 (8 мин. 57 сек., 5,8 МБ)
-  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.rtf
-    title: транскрипцию в RTF (27 КБ)
-  - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.pdf
-    title: транскрипцию в PDF (153 КБ)
-legacy:
-  title: 1085. 1981.08.31.B5.C1. Объяснение символического смысла лотоса в воде
-    под лучами солнца
-  index: "1085"
-  filename: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
@@ -79,7 +77,7 @@ legacy:
     ӣш́варатве бхеда ма̄ниле хайа апара̄дха
 [^_ftn2]
 
-В Нараяне присутствует Кришна и все, но существует различие, функциональное различие. Лакшми и *гопи*. Различие и тождество. *Бхедабхед*, *ачинтья*. *Ӣш́варатве бхеда ма̄ниле хайа апара̄дха.* Лакшми, *гопи*… Когда в форме Лакшми *гопи* служат Нараяне… Лакшми в сокровенных глубинах своего сердца имеет положение *гопи* в служении Кришне определенным образом. Это непрекращающаяся их взаимосвязь. Однако — одновременное отличие, различие и тождество, и то, и другое имеет место быть одновременно.
+В Нараяне присутствует Кришна и все, но существует различие, функциональное различие. Лакшми и *гопи*. Различие и тождество. *Бхедабхед*, *ачинтья*. *Ӣш́варатве бхеда ма̄ниле хайа апара̄дха*. Лакшми, *гопи*… Когда в форме Лакшми *гопи* служат Нараяне… Лакшми в сокровенных глубинах своего сердца имеет положение *гопи* в служении Кришне определенным образом. Это непрекращающаяся их взаимосвязь. Однако — одновременное отличие, различие и тождество, и то, и другое имеет место быть одновременно.
 
 [Харе Кришна, Харе Кришна, Харе Кришна]
 

@@ -12,9 +12,6 @@ date: 1983-06-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.06"
-    slug: 1983-06
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
     title: аудиозапись в MP3 (9 мин. 40 сек., 4,6 МБ)

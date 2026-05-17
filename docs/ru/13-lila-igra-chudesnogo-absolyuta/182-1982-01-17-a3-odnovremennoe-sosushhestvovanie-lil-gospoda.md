@@ -12,9 +12,6 @@ date: 1982-01-17
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/182_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
     title: аудиозапись в MP3 (1 мин. 43 сек., 1,2 МБ)

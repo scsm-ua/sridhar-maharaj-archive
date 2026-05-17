@@ -1,7 +1,7 @@
 ---
 slug: 926-1982-05-03-b3-c1-velichie-sity-devi-obzor-ramayany
 record_id: 1982.05.03.B3.C1
-title: Величие Ситы Деви. Обзор «Рамаяны»
+title: Величие Ситы Деви. Обзор «Рамаяны».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-05-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/926_1982.05.03.B3.C1_SridharMj_Velichie_Sity_Devi_Obzor_Ramajany.mp3
     title: аудиозапись в MP3 (51 мин. 07 сек., 49,6 МБ)

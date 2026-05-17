@@ -1,7 +1,7 @@
 ---
 slug: 91-gospod-nrisimhadev-1983-05-24-b1
 record_id: 1983.05.24.B1
-title: Господь Нрисимхадев.
+title: Господь Нрисимхадев
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Нарасимха
     slug: narasimha
 links:

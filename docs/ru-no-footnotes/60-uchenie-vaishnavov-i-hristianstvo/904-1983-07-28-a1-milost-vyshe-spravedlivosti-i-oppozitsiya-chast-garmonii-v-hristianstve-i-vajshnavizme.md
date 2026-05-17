@@ -13,9 +13,6 @@ date: 1983-07-28
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
     title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)

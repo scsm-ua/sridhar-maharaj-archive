@@ -1,7 +1,7 @@
 ---
 slug: 208-pyat-urovnej-znaniya-1983-01-15
 record_id: 1983.01.15
-title: Пять уровней знания.
+title: Пять уровней знания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Знание
     slug: znanie
 links:

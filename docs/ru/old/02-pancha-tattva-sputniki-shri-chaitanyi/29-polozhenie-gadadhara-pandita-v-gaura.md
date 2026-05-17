@@ -1,7 +1,7 @@
 ---
 slug: 29-polozhenie-gadadhara-pandita-v-gaura
 record_id: 1983.05.12.C1
-title: Положение Гададхара Пандита в гаура-лиле.
+title: Положение Гададхара Пандита в гаура-лиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
   - title: Гададхар Пандит

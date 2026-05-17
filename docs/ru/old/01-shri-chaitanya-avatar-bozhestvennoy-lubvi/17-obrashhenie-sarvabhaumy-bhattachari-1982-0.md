@@ -1,7 +1,7 @@
 ---
 slug: 17-obrashhenie-sarvabhaumy-bhattachari-1982-0
 record_id: 1982.09.05.B1
-title: Обращение Сарвабхаумы Бхаттачарьи.
+title: Обращение Сарвабхаумы Бхаттачарьи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Махапрабху
     slug: mahaprabhu
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 413-umeret-chtoby-zhit-1983-03-29
 record_id: 1983.03.29
-title: Умереть, чтобы жить.
+title: Умереть, чтобы жить
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Самопожертвование
     slug: samopozhertvovanie
 links:

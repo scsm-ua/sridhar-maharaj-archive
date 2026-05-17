@@ -1,7 +1,7 @@
 ---
 slug: 52-transtsendentalistam-vse-okruzhayushhee
 record_id: 1983.01.25.A
-title: Трансценденталистам все окружающее напоминает о Кришне.
+title: Трансценденталистам все окружающее напоминает о Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-25
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /wp-content/uploads/2012/08/052_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
     title: Скачать аудиозапись в mp3 (10 мин 29 сек, размер 6 Мб)

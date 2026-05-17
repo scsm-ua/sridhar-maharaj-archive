@@ -12,9 +12,6 @@ date: 1981-03-06
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/40._Bog_i_bogi/672_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3
     title: аудиозапись в MP3 (4 мин. 30 сек., 2,8 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 330-dinamichnoe-ravnovesie-printsip-gar
 record_id: 1984.01.18.A1
-title: Динамичное равновесие — принцип гармонии.
+title: Динамичное равновесие — принцип гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Гармония
     slug: garmoniya
 links:

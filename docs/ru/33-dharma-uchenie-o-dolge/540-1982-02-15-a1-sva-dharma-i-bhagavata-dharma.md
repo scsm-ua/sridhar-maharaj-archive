@@ -13,8 +13,6 @@ category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Дхарма
     slug: dharma
   - title: Бхагавад-гита

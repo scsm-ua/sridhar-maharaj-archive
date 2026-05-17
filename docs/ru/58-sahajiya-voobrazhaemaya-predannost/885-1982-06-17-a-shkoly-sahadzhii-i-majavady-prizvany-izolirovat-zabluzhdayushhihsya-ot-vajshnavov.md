@@ -12,9 +12,19 @@ date: 1982-06-17
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
+links:
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
+    title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.rtf
+    title: транскрипцию в RTF (248 КБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.pdf
+    title: транскрипцию в PDF (206 КБ)
+legacy:
+  title: 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать
+    заблуждающихся от вайшнавов
+  index: "885"
+  filename: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
@@ -79,24 +89,8 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
-  - title: Бхакти-расамрита-синдху 1.3.25
-    slug: bhakti-rasamrita-sindhu-1-3-25
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
-  - title: Бхакти-расамрита-синдху 26
-    slug: bhakti-rasamrita-sindhu-26
-links:
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
-    title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.rtf
-    title: транскрипцию в RTF (248 КБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.pdf
-    title: транскрипцию в PDF (206 КБ)
-legacy:
-  title: 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать
-    заблуждающихся от вайшнавов
-  index: "885"
-  filename: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
 ---
 
 Дешевый рынок, за одну ночь стать *гопи*… Каков путь?
@@ -312,7 +306,7 @@ legacy:
 
 [^_ftn6]: [Кальяна-калпатару 1.18.6](../notes/kalyana-kalpataru/kalyana-kalpataru-1-18-6.md)
 
-[^_ftn7]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn7]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn8]: [«Шри Чайтанья-чаритамрита», Антья-лила 2.163](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-2-163.md)
 

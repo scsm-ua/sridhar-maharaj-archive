@@ -1,4 +1,11 @@
 const { stringify, parse } = require('yaml');
+const { fixFootnotesSyntax } = require('./processors/01-fix-footnotes-syntax');
+const { replaceSymbolsInMeta } = require('./processors/02-replace-symbols-in-meta');
+const { cleanupDateTags } = require('./processors/03-cleanup-date-tags');
+const { fixTitle } = require('./processors/04-fix-title');
+const { cleanupEnglishTags } = require('./processors/05-cleanup-english-tags');
+const { fixItalicBoundaries } = require('./processors/06-italic-boundaries');
+const { validateFootnotes } = require('./processors/10-validate-footnotes');
 
 const yml_re = /^---\n([\s\S]*?)\n---[ \t]*\n*/m;
 
@@ -9,6 +16,18 @@ class Document {
         this.content = content;
 
         this.parseMeta();
+
+        this.prepare();
+    }
+
+    prepare() {
+        fixFootnotesSyntax(this);
+        replaceSymbolsInMeta(this);
+        cleanupDateTags(this);
+        fixTitle(this);
+        cleanupEnglishTags(this);
+        fixItalicBoundaries(this);
+        validateFootnotes(this);
     }
 
     parseMeta() {

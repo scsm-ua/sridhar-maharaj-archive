@@ -12,9 +12,18 @@ date: 1983-05-11
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
+links:
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.mp3
+    title: аудиозапись в MP3 (31 мин. 40 сек., 15,6 МБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.rtf
+    title: транскрипцию в RTF (278 КБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.pdf
+    title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 243. 1983.05.11.A. Прибежище даруют вайшнавы, а не Кришна
+  index: "243"
+  filename: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
@@ -53,17 +62,6 @@ tags:
     slug: tajttiriya-upanishad
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
-links:
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.mp3
-    title: аудиозапись в MP3 (31 мин. 40 сек., 15,6 МБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.rtf
-    title: транскрипцию в RTF (278 КБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.pdf
-    title: транскрипцию в PDF (174 КБ)
-legacy:
-  title: 243. 1983.05.11.A. Прибежище даруют вайшнавы, а не Кришна
-  index: "243"
-  filename: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
 ---
 
 [Махапрабху(?):] «Под землей находятся драгоценные минералы — субстанции в тебе, и они — для Меня. Я пришел, чтобы открыть их тебе».

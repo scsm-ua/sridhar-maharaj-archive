@@ -1,7 +1,7 @@
 ---
 slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
 record_id: 1982.01.20.B2
-title: Связь с Кришной – источник всех совершенств. Стих Билвамангала
+title: Связь с Кришной – источник всех совершенств. Стих Билвамангала.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-20
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/521_1982.01.20.B2_SridharMj_Svjaz_s_Krishnoj_istochnik_vseh_sovershenstv_Stih_Bilvamangala.mp3
     title: аудиозапись в MP3 (7 мин. 56 сек., 5,9 МБ)

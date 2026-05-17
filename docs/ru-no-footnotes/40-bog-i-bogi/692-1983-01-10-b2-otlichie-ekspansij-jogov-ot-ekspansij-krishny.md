@@ -12,9 +12,6 @@ date: 1983-01-10
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
     title: аудиозапись в MP3 (4 мин. 01 сек., 2,6 МБ)

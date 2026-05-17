@@ -12,9 +12,6 @@ date: 1982-01-17
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 5,1 МБ)

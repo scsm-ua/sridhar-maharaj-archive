@@ -12,9 +12,6 @@ date: 1982-05-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 3,4 МБ)

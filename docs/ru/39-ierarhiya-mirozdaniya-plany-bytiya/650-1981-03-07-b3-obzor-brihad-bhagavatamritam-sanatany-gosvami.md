@@ -12,9 +12,18 @@ date: 1981-03-07
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
+links:
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
+    title: аудиозапись в MP3 (14 мин. 44 сек., 7,9 МБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.docx
+    title: транскрипцию в DOCX (31 КБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.pdf
+    title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
+  index: "650"
+  filename: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami.md
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-links:
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
-    title: аудиозапись в MP3 (14 мин. 44 сек., 7,9 МБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.docx
-    title: транскрипцию в DOCX (31 КБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.pdf
-    title: транскрипцию в PDF (162 КБ)
-legacy:
-  title: 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
-  index: "650"
-  filename: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami.md
 ---
 
 **Преданный:** Вы сказали: как Хануман?

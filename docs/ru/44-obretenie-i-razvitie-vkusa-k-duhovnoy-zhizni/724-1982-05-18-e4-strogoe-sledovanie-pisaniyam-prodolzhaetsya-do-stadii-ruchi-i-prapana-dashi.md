@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.mp3
     title: аудиозапись в MP3 (2 мин. 23 сек., 3,0 МБ)

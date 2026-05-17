@@ -1,6 +1,6 @@
 ---
 slug: 086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu
-title: Онтология ПР 1.5. Сокровенный дар Махапрабху
+title: Онтология ПР 1.5. Сокровенный дар Махапрабху.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: дата неизвестна
-    slug: data-neizvestna
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
     title: аудиозапись в MP3 (21 мин. 08 сек., 24 11 МБ)

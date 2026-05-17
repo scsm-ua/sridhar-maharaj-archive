@@ -12,9 +12,6 @@ date: 1983-11-04
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/226_1983.11.04.A2_SridharMj_Vjas_i_Shukadev_Chajtanja-lily.mp3
     title: аудиозапись в MP3 (0 мин. 46 сек., 1,4 МБ)

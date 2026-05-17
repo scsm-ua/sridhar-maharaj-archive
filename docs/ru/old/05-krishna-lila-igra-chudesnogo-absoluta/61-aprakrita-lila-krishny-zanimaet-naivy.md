@@ -1,7 +1,7 @@
 ---
 slug: 61-aprakrita-lila-krishny-zanimaet-naivy
 record_id: 1981.11.12.B4
-title: Апракрита-лила Кришны занимает наивысшее положение.
+title: Апракрита-лила Кришны занимает наивысшее положение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Сварупа Дамодар
     slug: svarupa-damodar
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 454-svyaz-s-krishnoj-prihodit-blagodarya-m
 record_id: 1982.01.08.C2
-title: Связь с Кришной приходит благодаря Махапрабху.
+title: Связь с Кришной приходит благодаря Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 177-arii-nositeli-bozhestvennoj-kultur
 record_id: 1982.01.27.A3
-title: Арии — носители божественной культуры.
+title: Арии — носители божественной культуры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
     title: Скачать аудиозапись в mp3 (4 мин 40 сек, размер 3 Мб)

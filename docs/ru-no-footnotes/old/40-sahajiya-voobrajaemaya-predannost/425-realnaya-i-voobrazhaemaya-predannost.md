@@ -1,7 +1,7 @@
 ---
 slug: 425-realnaya-i-voobrazhaemaya-predannost
 record_id: 1983.06.09.A4
-title: Реальная и воображаемая преданность.
+title: Реальная и воображаемая преданность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Сахаджия
     slug: sahadzhiya
   - title: Сварупа-шакти

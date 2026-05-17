@@ -1,7 +1,7 @@
 ---
 slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
 record_id: 1982.02.18.B3
-title: «Мы не атеисты». Об изучении трудов шести Госвами
+title: «Мы не атеисты». Об изучении трудов шести Госвами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
     title: аудиозапись в MP3 (8 мин. 35 сек., 6,1 МБ)

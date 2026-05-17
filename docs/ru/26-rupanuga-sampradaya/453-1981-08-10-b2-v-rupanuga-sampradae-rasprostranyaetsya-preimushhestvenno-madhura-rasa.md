@@ -12,9 +12,19 @@ date: 1981-08-10
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
+links:
+  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
+    title: аудиозапись в MP3 (5 мин. 00 сек., 5,2 МБ)
+  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.docx
+    title: транскрипцию в DOCX (22 КБ)
+  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.pdf
+    title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 453. 1981.08.10.B2. В Рупануга-сампрадае распространяется преимущественно
+    мадхура-раса
+  index: "453"
+  filename: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
@@ -29,18 +39,6 @@ tags:
     slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
-links:
-  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
-    title: аудиозапись в MP3 (5 мин. 00 сек., 5,2 МБ)
-  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.docx
-    title: транскрипцию в DOCX (22 КБ)
-  - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.pdf
-    title: транскрипцию в PDF (145 КБ)
-legacy:
-  title: 453. 1981.08.10.B2. В Рупануга-сампрадае распространяется преимущественно
-    мадхура-раса
-  index: "453"
-  filename: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa.md
 ---
 
 **Госвами Махарадж:** Вы сказали однажды кому-то по поводу изменения *расы*, что это [бывает] редко, крайне редко. Когда Махапрабху пришел, *анарпита-чарӣм̇ чира̄т карун̣айа̄ватӣрн̣ах̣ калау*[^_ftn1] — это *мадхура-раса*, Он дал возможность всем *дживам* возвыситься до *мадхура-расы*. Дал ли Он всем дживам эту возможность, поскольку Он распространяет эти сантименты, это чувство?

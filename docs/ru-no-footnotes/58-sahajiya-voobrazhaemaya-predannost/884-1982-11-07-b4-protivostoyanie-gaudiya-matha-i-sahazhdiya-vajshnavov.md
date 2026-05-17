@@ -12,9 +12,6 @@ date: 1982-11-07
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3
     title: аудиозапись в MP3 (1 мин. 59 сек., 4,0 МБ)

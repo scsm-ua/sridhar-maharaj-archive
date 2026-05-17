@@ -12,9 +12,6 @@ date: 1981-08-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
     title: аудиозапись в MP3 (14 мин. 45 сек., 7,9 МБ)

@@ -12,11 +12,6 @@ date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: 1983.02.12
-    slug: 1983-02-12
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
     title: аудиозапись в MP3 (5 мин. 30 сек., 3,7 МБ)

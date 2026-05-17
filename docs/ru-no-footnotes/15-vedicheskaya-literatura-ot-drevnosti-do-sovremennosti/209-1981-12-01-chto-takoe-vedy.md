@@ -12,9 +12,6 @@ date: 1981-12-01
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1981.12"
-    slug: 1981-12
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,3 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 326-transtsendentnoe-videnie-shrily-gaura
 record_id: 1981.08.30.A3
-title: Трансцендентное видение Шрилы Гауракишора Бабаджи.
+title: Трансцендентное видение Шрилы Гауракишора Бабаджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гармония
     slug: garmoniya
   - title: Гауракишор Бабаджи

@@ -30,7 +30,7 @@ legacy:
   filename: 520-shri-shri-dajita-dasa-dashakam-3.md
 ---
 
-*(молитва [Шриле Бхактисиддханте Сарасвати Тхакуру](http://harekrishna.ru/mission/teachers/sarasvati-tkr/)*, *составленная после завершения его проявленных игр [Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем](http://harekrishna.ru/mission/teachers/sridhar-mj/))*
+## (молитва [Шриле Бхактисиддханте Сарасвати Тхакуру](http://harekrishna.ru/mission/teachers/sarasvati-tkr/), составленная после завершения его проявленных игр [Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем](http://harekrishna.ru/mission/teachers/sridhar-mj/))
 
     нӣте йасмин ниш́а̄нте найана-джала-бхараих̣
     сна̄та-га̄тра̄рвуда̄на̄м̇

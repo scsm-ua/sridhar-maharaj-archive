@@ -1,7 +1,7 @@
 ---
 slug: 393-iskrennost-nepobedima-1981-08-28-c
 record_id: 1981.08.28.C
-title: Искренность непобедима.
+title: Искренность непобедима
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (33. Искренность)
   slug: 33-iskrennost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Искренность
     slug: iskrennost
   - title: Махапрабху

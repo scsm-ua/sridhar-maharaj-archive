@@ -12,19 +12,6 @@ date: 1983-04-16
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
-    slug: shri-chajtanya-charitamrita-madhya-lila-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
-    slug: shri-chajtanya-charitamrita-madhya-lila-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.283
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-283
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
     title: аудиозапись в MP3 (13 мин. 21 сек., 6,4 МБ)
@@ -36,6 +23,17 @@ legacy:
   title: 485. 1983.04.16.A4. Суть и форма в семейной жизни гопи
   index: "485"
   filename: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
+    slug: shri-chajtanya-charitamrita-madhya-lila-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
+    slug: shri-chajtanya-charitamrita-madhya-lila-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-282
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.283
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-283
 ---
 
 **Преданный:** Махарадж, кто-то может спросить, в «Шримад-Бхагаватам» мы видим: *гопи* Вриндавана в определенном моменте очень хотели обрести *даршан* Кришны, но не могли, поскольку их мужья препятствовали им, и в это время некоторые их них оставили свои тела. Кто-то может спросить: «Они — вечные спутницы Кришны, как же возможно, что они оставили как будто бы тела?»

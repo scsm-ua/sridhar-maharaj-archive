@@ -12,17 +12,6 @@ date: 1981-08-14
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Даинйа Прартхана Гити
-    slug: dainja-prarthana-giti
-  - title: Даинйа Прартхана Гити 1
-    slug: dainja-prarthana-giti-1
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
-  - title: Шри Вилапа-кусуманджали 1
-    slug: shri-vilapa-kusumandzhali-1
 links:
   - href: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3
     title: аудиозапись в MP3 (8 мин. 38 сек., 4,6 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 448. 1981.08.14.B1. Сокровенный смысл Рупануга-сампрадаи
   index: "448"
   filename: 448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai.md
+tags:
+  - title: Даинйа Прартхана Гити
+    slug: dainja-prarthana-giti
+  - title: Даинйа Прартхана Гити 1
+    slug: dainja-prarthana-giti-1
+  - title: Шри Вилапа-кусуманджали
+    slug: shri-vilapa-kusumandzhali
+  - title: Шри Вилапа-кусуманджали 1
+    slug: shri-vilapa-kusumandzhali-1
 ---
 
 «…и дать мне конкретное руководство», — [сказал Шрила Рагхунатх Дас Госвами]. Тогда Махапрабху сказал что-то по сути, вкратце: делай это и не делай то. Он сказал: «То, чего Я не знаю, Сварупа Дамодар знает наверняка. Это вполне уместно, вполне оправдано — то, что Я вверил тебя его опеке». Он вновь передал Даса Госвами в руки Сварупа Дамодара. И тогда, конечно, он продолжал свой *бхаджан* очень сурово на протяжении шестнадцати лет.

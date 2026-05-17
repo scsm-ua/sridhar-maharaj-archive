@@ -12,17 +12,6 @@ date: 1987-00-00
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1987.00"
-    slug: 1987-00
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
-    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
     title: аудиозапись в MP3 (9 мин. 16 сек., 4,7 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 191. 1987.00.00.B4. О противоречиях описания Кришна-лилы в трудах Госвами
   index: "191"
   filename: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 ---
 
 *Адхокшаджа*[^_ftn1]. Он [Господь Кришна] *адхокшаджа*. Излюбленный термин, встречаемый на страницах «Шримад-Бхагаватам», — *адхокшаджа*. Господь всегда пребывает в положении, превосходящем наше.

@@ -12,9 +12,6 @@ date: 1982-01-25
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (12 мин. 50 сек., 64 кбит/сек, 8.3 МБ)

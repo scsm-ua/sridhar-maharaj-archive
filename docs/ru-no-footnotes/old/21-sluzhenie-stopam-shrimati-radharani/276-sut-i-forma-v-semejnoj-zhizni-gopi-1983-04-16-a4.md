@@ -1,7 +1,7 @@
 ---
 slug: 276-sut-i-forma-v-semejnoj-zhizni-gopi-1983-04-16-a4
 record_id: 1983.04.16.A4
-title: Суть и форма в семейной жизни гопи.
+title: Суть и форма в семейной жизни гопи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Бхакти
     slug: bhakti
 links:

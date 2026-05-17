@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Навадвип
     slug: navadvip
   - title: Радха-кунда

@@ -12,9 +12,6 @@ date: 1982-06-19
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.mp3
     title: аудиозапись в MP3 (1 мин. 52 сек., 3,0 МБ)

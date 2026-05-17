@@ -12,9 +12,6 @@ date: 1982-01-31
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (4 мин. 35 сек., 2,4 МБ)

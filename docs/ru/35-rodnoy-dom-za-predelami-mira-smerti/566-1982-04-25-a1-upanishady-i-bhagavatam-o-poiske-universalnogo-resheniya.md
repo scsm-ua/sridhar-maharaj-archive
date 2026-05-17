@@ -12,9 +12,18 @@ date: 1982-04-25
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3
+    title: аудиозапись в MP3 (3 мин. 41 сек., 6,2 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.rtf
+    title: транскрипцию в RTF (84 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.pdf
+    title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 566. 1982.04.25.A1. Упанишады и «Бхагаватам» о поиске универсального решения
+  index: "566"
+  filename: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya.md
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Мундака Упанишад
     slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
@@ -33,17 +42,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3
-    title: аудиозапись в MP3 (3 мин. 41 сек., 6,2 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.rtf
-    title: транскрипцию в RTF (84 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.pdf
-    title: транскрипцию в PDF (147 КБ)
-legacy:
-  title: 566. 1982.04.25.A1. Упанишады и «Бхагаватам» о поиске универсального решения
-  index: "566"
-  filename: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya.md
 ---
 
     …йасмин прапте сарвам идам праптам бхавати

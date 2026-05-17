@@ -1,7 +1,7 @@
 ---
 slug: 184-dva-tipa-grihasth-1983-01-05-c1
 record_id: 1983.01.05.C1
-title: Два типа грихастх.
+title: Два типа грихастх
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-05
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /wp-content/uploads/2012/08/184_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3
     title: Скачать аудиозапись в mp3 (13 мин 34 сек, размер 7 Мб)

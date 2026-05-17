@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3
     title: аудиозапись в MP3 (2 мин. 28 сек., 3,6 МБ)

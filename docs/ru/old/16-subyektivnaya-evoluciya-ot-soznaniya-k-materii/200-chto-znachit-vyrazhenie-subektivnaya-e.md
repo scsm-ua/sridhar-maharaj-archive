@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Материальный мир
     slug: materialnyj-mir
   - title: Сознание

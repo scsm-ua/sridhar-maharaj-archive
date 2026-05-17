@@ -1,7 +1,7 @@
 ---
 slug: 153-sila-bozhestvennogo-zvuka-1981-02-28-c3
 record_id: 1981.02.28.C3
-title: Сила божественного звука.
+title: Сила божественного звука
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-02-28
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
-tags:
-  - title: "1981.02"
-    slug: 1981-02
 links:
   - href: /wp-content/uploads/2012/08/153_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3
     title: Скачать аудиозапись в mp3 (2 мин 55 сек, размер 3 Мб)

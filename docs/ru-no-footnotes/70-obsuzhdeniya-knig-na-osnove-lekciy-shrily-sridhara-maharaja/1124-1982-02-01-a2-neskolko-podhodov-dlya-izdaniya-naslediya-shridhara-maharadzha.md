@@ -12,9 +12,6 @@ date: 1982-02-01
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1124_1982.02.01.A2_SridharMj_Neskolko_podhodov_dlja_izdanija_nasledija_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (2 мин. 41 сек., 3,0 МБ)

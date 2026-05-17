@@ -1,7 +1,7 @@
 ---
 slug: 160-raznovidnosti-i-filosofskie-aspekty
 record_id: 1983.02.13.B
-title: Разновидности и философские аспекты санньяса-ашрама.
+title: Разновидности и философские аспекты санньяса-ашрама
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Отречение
     slug: otrechenie
   - title: Санньяса

@@ -1,7 +1,7 @@
 ---
 slug: 484-vospominaniya-o-propovedi-sredi-musu
 record_id: 1983.01.12.B4
-title: Воспоминания о проповеди среди мусульман.
+title: Воспоминания о проповеди среди мусульман
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Проповедь

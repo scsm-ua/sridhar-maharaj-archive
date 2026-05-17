@@ -12,9 +12,6 @@ date: 1985-05-01
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1985.05"
-    slug: 1985-05
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
     title: аудиозапись в MP3 (10 мин. 40 сек., 5,7 МБ)

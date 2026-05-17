@@ -12,9 +12,6 @@ date: 1983-11-12
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3
     title: аудиозапись в MP3 (3 мин. 00 сек., 3,5 МБ)

@@ -12,9 +12,6 @@ date: 1982-05-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
     title: аудиозапись в MP3 (3 мин. 14 сек., 3,6 МБ)

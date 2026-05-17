@@ -1,7 +1,7 @@
 ---
 slug: 257-proishozhdenie-dushi-1981-03-05-a2
 record_id: 1981.03.05.A2
-title: Происхождение души.
+title: Происхождение души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Сознание

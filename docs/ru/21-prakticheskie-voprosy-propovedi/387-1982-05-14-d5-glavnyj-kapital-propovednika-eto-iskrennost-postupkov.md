@@ -13,8 +13,6 @@ category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Проповедь
     slug: propoved
 links:

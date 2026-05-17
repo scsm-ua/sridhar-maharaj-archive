@@ -12,9 +12,19 @@ date: 1982-06-10
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
+links:
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
+    title: аудиозапись в MP3 (9 мин. 54 сек., 23,4 МБ)
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.rtf
+    title: транскрипцию в RTF (240 КБ)
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.pdf
+    title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 684. 1982.06.10.A.B1.B4.B7. Сарасвати нисходит к Брахме от Нараяны, но
+    дает ключ к постижению Кришны
+  index: "684"
+  filename: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.24
@@ -53,18 +63,6 @@ tags:
     slug: padyavali
   - title: Падьявали 126
     slug: padyavali-126
-links:
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
-    title: аудиозапись в MP3 (9 мин. 54 сек., 23,4 МБ)
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.rtf
-    title: транскрипцию в RTF (240 КБ)
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.pdf
-    title: транскрипцию в PDF (186 КБ)
-legacy:
-  title: 684. 1982.06.10.A.B1.B4.B7. Сарасвати нисходит к Брахме от Нараяны, но
-    дает ключ к постижению Кришны
-  index: "684"
-  filename: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
 ---
 
 **Преданный:** В «Брахма-самхите» есть стих:
@@ -99,7 +97,7 @@ legacy:
 
     мананат трайате ити мантрах
 
-Если ты будешь медитировать на эту мантру, то ты совершишь прогресс. Жизнь прогрессивна, жизнь есть прогресс, развитие, и это явление, эта мантра, этот ключ поможет тебе осуществить твой прогресс в жизни. Объект твоего поиска таков, твое предназначение таково. Ты можешь думать о нем. *Йена пура̄ сарасватӣ*, *прачодита̄ йена пура̄ сарасватӣ.* Где это сказано, в «Бхагаватам»? *Прачодита̄ йена пура̄ сарасватӣ*[^_ftn4].
+Если ты будешь медитировать на эту мантру, то ты совершишь прогресс. Жизнь прогрессивна, жизнь есть прогресс, развитие, и это явление, эта мантра, этот ключ поможет тебе осуществить твой прогресс в жизни. Объект твоего поиска таков, твое предназначение таково. Ты можешь думать о нем. *Йена пура̄ сарасватӣ*, *прачодита̄ йена пура̄ сарасватӣ*. Где это сказано, в «Бхагаватам»? *Прачодита̄ йена пура̄ сарасватӣ*[^_ftn4].
 
 [Харе Кришна, Харе Кришна]
 

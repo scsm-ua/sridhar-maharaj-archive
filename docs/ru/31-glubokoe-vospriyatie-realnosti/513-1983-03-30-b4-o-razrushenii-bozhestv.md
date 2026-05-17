@@ -12,9 +12,6 @@ date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3
     title: аудиозапись в MP3 (7 мин. 11 сек., 4,2 МБ)

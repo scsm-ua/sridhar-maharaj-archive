@@ -12,13 +12,6 @@ date: 1987-00-00
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1987.00"
-    slug: 1987-00
-  - title: «Прартхана», Лаласа
-    slug: prarthana-lalasa
-  - title: «Прартхана», Лаласа 17.4
-    slug: prarthana-lalasa-17-4
 links:
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 3,9 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 459. 1987.00.00.B5.1. Рупануга-сампрадая
   index: "459"
   filename: 459-1987-00-00-b5-1-rupanuga-sampradaya.md
+tags:
+  - title: «Прартхана», Лаласа
+    slug: prarthana-lalasa
+  - title: «Прартхана», Лаласа 17.4
+    slug: prarthana-lalasa-17-4
 ---
 
 **Преданный:** Все же подчеркивается *рупануга*, *рупануга-сампрадая*.

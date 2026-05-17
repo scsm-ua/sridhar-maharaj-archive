@@ -12,9 +12,6 @@ date: 1982-01-17
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
     title: аудиозапись в MP3 (4 мин. 05 сек., 2,4 МБ)

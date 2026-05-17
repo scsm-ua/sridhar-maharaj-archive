@@ -1,7 +1,7 @@
 ---
 slug: 482-slugi-bolee-velikodushny-chem-gospodi
 record_id: null
-title: Слуги более великодушны, чем господин.
+title: Слуги более великодушны, чем господин
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

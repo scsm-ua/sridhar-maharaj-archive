@@ -32,9 +32,9 @@ class DocumentFile {
         content = content.replace(/(\d)-(\d)/g, '$1–$2');        
 
         var lines = content.split('\n');
-        this.nodes = getLevel1Nodes(lines);
+        this.nodes = this.getLevel1Nodes(lines);
         
-        var footnotes_nodes = getFootnotesNodes(this.nodes);
+        var footnotes_nodes = this.getFootnotesNodes(this.nodes);
         footnotes_nodes.forEach(nodes => {
             this.footnotes.push(new Footnote(this, nodes));
         });
@@ -100,6 +100,9 @@ class DocumentFile {
                         this.meta.tags.push(tag);
                     }
                 });
+                if (this.meta.tags.length === 0) {
+                    delete this.meta.tags;
+                }
             }
         });
 
@@ -109,46 +112,103 @@ class DocumentFile {
 
         return yml + result;
     }
-}
 
-function getFootnotesNodes(nodes) {
-    var footnotes = [];
-    var current_footnote;
-    nodes.forEach(node => {
-        if (node.type === 'footnote') {
-            current_footnote = [];
-            current_footnote.push(node);
-            footnotes.push(current_footnote);
+    getFootnotesNodes(nodes) {
+        var footnotes = [];
+        var current_footnote;
 
-            node.footnote_flag = true;
-
-        } else if (current_footnote) {
-
-            if (node.type === 'br') {
-
+        nodes.forEach(node => {
+            if (node.type === 'footnote') {
+                current_footnote = [];
                 current_footnote.push(node);
+                footnotes.push(current_footnote);
 
                 node.footnote_flag = true;
 
-            } else if (node.type === 'footnote_tab') {
+            } else if (current_footnote) {
 
-                current_footnote.push(Object.assign({}, node, {type: 'code'}));
+                if (node.type === 'br') {
 
-                node.footnote_flag = true;
+                    current_footnote.push(node);
 
-            } else if (node.type === 'code') {
+                    node.footnote_flag = true;
 
-                current_footnote.push(Object.assign({}, node, {type: 'p'}));
+                } else if (node.type === 'footnote_tab') {
 
-                node.footnote_flag = true;
+                    current_footnote.push(Object.assign({}, node, {type: 'code'}));
 
-            } else {
-                console.error('Unsupported in footnote', node);
+                    node.footnote_flag = true;
+
+                } else if (node.type === 'code') {
+
+                    current_footnote.push(Object.assign({}, node, {type: 'p'}));
+
+                    node.footnote_flag = true;
+
+                } else {
+                    console.error('Unsupported in footnote', this.filename, node);
+                }
+
             }
+        });
+        return footnotes;
+    }
 
-        }
-    });
-    return footnotes;
+    getLevel1Nodes(lines) {
+        var nodes = [];
+
+        lines.forEach(line => {
+            var { id, match } = detectLine(line);
+
+            if (id) {
+                switch(id) {
+                    case 'h1':
+                        nodes.push({
+                            type: 'h1',
+                            text: match[1]
+                        });
+                        break;
+                    case 'tab':
+                        nodes.push({
+                            type: 'code',
+                            text: match[1]
+                        });
+                        break;
+                    case 'footnote':
+                        nodes.push({
+                            type: 'footnote',
+                            id: match[1],
+                            text: match[2]
+                        });
+                        break;
+                    case 'footnote_tab':
+                        nodes.push({
+                            type: 'footnote_tab',
+                            text: match[1]
+                        });
+                        break;
+                    default:
+                        console.error('Unknown line id', id);
+                        break;
+                }
+            } else {
+                if (line.trim()) {
+                    nodes.push({
+                        type: 'p',
+                        text: line
+                    });
+                } else {
+                    nodes.push({
+                        type: 'br'
+                    });
+                }
+            }
+        });
+
+        // console.log(JSON.stringify(nodes, null, 4))
+
+        return nodes;
+    }
 }
 
 /**
@@ -169,62 +229,6 @@ function getFootnotesNodes(nodes) {
     type: 'br'
 }
 */
-
-
-function getLevel1Nodes(lines) {
-    var nodes = [];
-
-    lines.forEach(line => {
-        var { id, match } = detectLine(line);
-        if (id) {
-            switch(id) {
-                case 'h1':
-                    nodes.push({
-                        type: 'h1',
-                        text: match[1]
-                    });
-                    break;
-                case 'tab':
-                    nodes.push({
-                        type: 'code',
-                        text: match[1]
-                    });
-                    break;
-                case 'footnote':
-                    nodes.push({
-                        type: 'footnote',
-                        id: match[1],
-                        text: match[2]
-                    });
-                    break;
-                case 'footnote_tab':
-                    nodes.push({
-                        type: 'footnote_tab',
-                        text: match[1]
-                    });
-                    break;
-                default:
-                    console.error('Unknown line id', id);
-                    break;
-            }
-        } else {
-            if (line.trim()) {
-                nodes.push({
-                    type: 'p',
-                    text: line
-                });
-            } else {
-                nodes.push({
-                    type: 'br'
-                });
-            }
-        }
-    });
-
-    // console.log(JSON.stringify(nodes, null, 4))
-
-    return nodes;
-}
 
 var lines = {
     h1: /^# (.+)$/,

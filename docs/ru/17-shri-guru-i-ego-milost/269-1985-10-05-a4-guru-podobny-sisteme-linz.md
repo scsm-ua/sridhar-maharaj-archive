@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Гуру-парампара
     slug: guru-parampara
 links:

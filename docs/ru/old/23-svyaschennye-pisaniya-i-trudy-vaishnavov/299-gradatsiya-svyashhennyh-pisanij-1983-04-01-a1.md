@@ -1,7 +1,7 @@
 ---
 slug: 299-gradatsiya-svyashhennyh-pisanij-1983-04-01-a1
 record_id: 1983.04.01.A1
-title: Градация священных писаний.
+title: Градация священных писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Священные писания
     slug: svyashhennye-pisaniya
 links:

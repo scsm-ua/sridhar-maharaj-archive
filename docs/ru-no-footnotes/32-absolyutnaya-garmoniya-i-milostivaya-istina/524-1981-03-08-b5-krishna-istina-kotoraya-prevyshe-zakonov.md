@@ -12,9 +12,6 @@ date: 1981-03-08
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.mp3
     title: аудиозапись в MP3 (2 мин. 27 сек., 3,4 МБ)

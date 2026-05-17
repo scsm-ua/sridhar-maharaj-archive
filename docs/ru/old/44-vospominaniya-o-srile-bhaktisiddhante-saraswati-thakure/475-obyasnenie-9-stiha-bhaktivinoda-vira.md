@@ -1,7 +1,7 @@
 ---
 slug: 475-obyasnenie-9-stiha-bhaktivinoda-vira
 record_id: 1983.06.05.C3
-title: Объяснение 9 стиха «Бхактивинода-вираха-дашакам» и песни «Гуру-парампара».
+title: Объяснение 9 стиха «Бхактивинода-вираха-дашакам» и песни «Гуру-парампара»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхактивинода-вираха-дашакам
     slug: bhaktivinoda-viraha-dashakam
   - title: Гуру-парампара

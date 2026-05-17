@@ -12,9 +12,6 @@ date: 1981-03-10
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3
     title: аудиозапись в MP3 (4 мин. 00 сек., 3,2 МБ)

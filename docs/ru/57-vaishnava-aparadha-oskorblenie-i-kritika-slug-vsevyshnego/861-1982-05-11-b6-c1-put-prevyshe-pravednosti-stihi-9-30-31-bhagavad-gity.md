@@ -1,7 +1,7 @@
 ---
 slug: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity
 record_id: 1982.05.11.B6.C1
-title: Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты
+title: Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,18 @@ date: 1982-05-11
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
+links:
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.mp3
+    title: аудиозапись в MP3 (28 мин. 48 сек., 26,7 МБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.rtf
+    title: транскрипцию в RTF (301 КБ)
+  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.pdf
+    title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 861. 1982.05.11.B6.C1. Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты
+  index: "861"
+  filename: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity.md
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
@@ -51,17 +60,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-links:
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.mp3
-    title: аудиозапись в MP3 (28 мин. 48 сек., 26,7 МБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.rtf
-    title: транскрипцию в RTF (301 КБ)
-  - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.pdf
-    title: транскрипцию в PDF (203 КБ)
-legacy:
-  title: 861. 1982.05.11.B6.C1. Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты
-  index: "861"
-  filename: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity.md
 ---
 
 **Госвами Махарадж:** Махарадж, я говорю вот о чем: Бхактивинод Тхакур был здесь в недавнем прошлом, жил здесь совсем недавно. И он дал нам оригинальную, изначальную информацию об играх Шри Чайтаньи Махапрабху, некое изначальное знание он открыл.

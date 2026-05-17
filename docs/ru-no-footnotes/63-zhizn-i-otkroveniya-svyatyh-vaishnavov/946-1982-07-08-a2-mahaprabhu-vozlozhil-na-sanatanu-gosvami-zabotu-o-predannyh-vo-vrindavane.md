@@ -12,9 +12,6 @@ date: 1982-07-08
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 5,3 МБ)

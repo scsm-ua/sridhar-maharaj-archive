@@ -12,9 +12,18 @@ date: 1983-04-30
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
+    title: аудиозапись в MP3 (29 мин. 07 сек., 14,3 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.rtf
+    title: транскрипцию в RTF (188 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.pdf
+    title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 625. 1983.04.30.B. Идеальный реализм — основа понимания религии
+  index: "625"
+  filename: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii.md
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
@@ -27,17 +36,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
-    title: аудиозапись в MP3 (29 мин. 07 сек., 14,3 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.rtf
-    title: транскрипцию в RTF (188 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.pdf
-    title: транскрипцию в PDF (163 КБ)
-legacy:
-  title: 625. 1983.04.30.B. Идеальный реализм — основа понимания религии
-  index: "625"
-  filename: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii.md
 ---
 
 **Преданный:** Иногда, проповедуя, мы встречаем людей, которые читали книгу о Кришне «Источник вечного наслаждения» (Десятую Песню «Шримад-Бхагаватам»). И этим людям трудно принять этих фантастических демонов, которые появляются во Вриндаване, они считают это всего лишь сказками, поскольку нет следов такого рода мистики в современном мире. Это фантастические описания: Путана стала длиной в двенадцать миль, когда упала на землю. Это фантастические описания.

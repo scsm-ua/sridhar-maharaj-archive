@@ -1,7 +1,7 @@
 ---
 slug: 4-sannyasa-mahaprabhu-chast-2-1983-01-15
 record_id: 1983.01.15
-title: Санньяса Махапрабху, часть 2.
+title: Санньяса Махапрабху, часть 2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Санньяса

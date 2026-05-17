@@ -1,7 +1,7 @@
 ---
 slug: 500-segodnya-evropa-byla-pobezhdena-aziej
 record_id: null
-title: «Сегодня Европа была побеждена Азией».
+title: «Сегодня Европа была побеждена Азией»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

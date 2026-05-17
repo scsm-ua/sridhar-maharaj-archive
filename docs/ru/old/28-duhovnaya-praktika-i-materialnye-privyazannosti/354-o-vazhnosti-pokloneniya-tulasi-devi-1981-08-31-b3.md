@@ -1,7 +1,7 @@
 ---
 slug: 354-o-vazhnosti-pokloneniya-tulasi-devi-1981-08-31-b3
 record_id: 1981.08.31.B3
-title: О важности поклонения Туласи-деви.
+title: О важности поклонения Туласи-деви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Туласи
     slug: tulasi
 links:

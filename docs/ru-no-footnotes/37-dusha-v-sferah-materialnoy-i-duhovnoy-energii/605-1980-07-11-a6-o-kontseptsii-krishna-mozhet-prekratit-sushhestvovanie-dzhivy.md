@@ -13,8 +13,6 @@ category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1980.07"
-    slug: 1980-07
   - title: Душа
     slug: dusha
 links:

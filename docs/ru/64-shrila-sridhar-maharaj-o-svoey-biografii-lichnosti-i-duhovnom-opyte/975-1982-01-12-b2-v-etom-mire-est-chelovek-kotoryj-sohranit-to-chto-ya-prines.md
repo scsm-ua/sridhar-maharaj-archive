@@ -12,9 +12,19 @@ date: 1982-01-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
+links:
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.mp3
+    title: аудиозапись в MP3 (18 мин. 53 сек., 9,5 МБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.rtf
+    title: транскрипцию в RTF (162 КБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.pdf
+    title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 975. 1982.01.12.B2. «В этом мире есть человек, который сохранит то, что я
+    принес»
+  index: "975"
+  filename: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Катха-упанишад
     slug: katha-upanishad
   - title: Катха-упанишад 2.1.11
@@ -31,18 +41,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-links:
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.mp3
-    title: аудиозапись в MP3 (18 мин. 53 сек., 9,5 МБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.rtf
-    title: транскрипцию в RTF (162 КБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/975_1982.01.12.B2_SridharMj_V_jetom_mire_est_chelovek_kotoryj_sohranit_to_chto_ja_prines.pdf
-    title: транскрипцию в PDF (161 КБ)
-legacy:
-  title: 975. 1982.01.12.B2. «В этом мире есть человек, который сохранит то, что я
-    принес»
-  index: "975"
-  filename: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines.md
 ---
 
 **Преданный:** Кална — это место, где Гаура-Нитай пришли и стали Божествами?
@@ -121,7 +119,7 @@ legacy:
 
 *#00:12:38#*
 
-**Шрила Шридхар Махарадж:** Такой должна быть молитва нас всех, каждого: чтобы Кришна захватил все наше сердце без остатка, чтобы мы были благословлены такой удачей, чтобы мы не желали никакой иной удачи. Пусть Он захватит каждую пядь, каждый утром нашего существа, нашего существования — таким должен быть summum bonum (высшая цель, высшее благо) нашей жизни. Захватил целиком и полностью, Он и Его преданные, и чтобы не осталось ничего другого — такой должны быть наша молитва. Мы пришли ради этого, ради высшей концепции Истины, которая трансформирует меня полностью, каждую частицу, *ниргуна*, и чтобы ничего не осталось в виде отдельного интереса в рамках *сагуна-*мира. Такова цель нашей жизни, и пусть эта цель останется таковой вечно. Махапрабху Гауранга Сундар. Жизнь в вечности, член вечного измерения жизни, быть связанным только с сознанием Кришны и ни с чем другим.
+**Шрила Шридхар Махарадж:** Такой должна быть молитва нас всех, каждого: чтобы Кришна захватил все наше сердце без остатка, чтобы мы были благословлены такой удачей, чтобы мы не желали никакой иной удачи. Пусть Он захватит каждую пядь, каждый утром нашего существа, нашего существования — таким должен быть summum bonum (высшая цель, высшее благо) нашей жизни. Захватил целиком и полностью, Он и Его преданные, и чтобы не осталось ничего другого — такой должны быть наша молитва. Мы пришли ради этого, ради высшей концепции Истины, которая трансформирует меня полностью, каждую частицу, *ниргуна*, и чтобы ничего не осталось в виде отдельного интереса в рамках *сагуна*-мира. Такова цель нашей жизни, и пусть эта цель останется таковой вечно. Махапрабху Гауранга Сундар. Жизнь в вечности, член вечного измерения жизни, быть связанным только с сознанием Кришны и ни с чем другим.
 
 [Нитай-Гаура Гададхар, Гаура-Гададхар, Гаура-Гададхар, Нитай-Гаура Гададхар, Гаура-Харибол, Гаура-Харибол]
 

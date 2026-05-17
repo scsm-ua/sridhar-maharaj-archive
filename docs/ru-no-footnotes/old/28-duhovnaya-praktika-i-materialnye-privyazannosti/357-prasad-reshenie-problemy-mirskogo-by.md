@@ -1,7 +1,7 @@
 ---
 slug: 357-prasad-reshenie-problemy-mirskogo-by
 record_id: 1982.09.05.B2
-title: Прасад — решение проблемы мирского бытия.
+title: Прасад — решение проблемы мирского бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Прасад
     slug: prasad
 links:

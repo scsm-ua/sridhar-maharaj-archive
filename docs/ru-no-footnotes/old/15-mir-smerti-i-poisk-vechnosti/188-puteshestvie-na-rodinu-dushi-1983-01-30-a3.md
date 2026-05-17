@@ -1,7 +1,7 @@
 ---
 slug: 188-puteshestvie-na-rodinu-dushi-1983-01-30-a3
 record_id: 1983.01.30.A3
-title: Путешествие на родину души.
+title: Путешествие на родину души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

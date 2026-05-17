@@ -1,7 +1,7 @@
 ---
 slug: 139-chetyre-vida-namabhasy-1981-08-30-b1
 record_id: 1981.08.30.B1
-title: Четыре вида намабхасы.
+title: Четыре вида намабхасы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Маха-мантра
     slug: maha-mantra
   - title: Намабхас

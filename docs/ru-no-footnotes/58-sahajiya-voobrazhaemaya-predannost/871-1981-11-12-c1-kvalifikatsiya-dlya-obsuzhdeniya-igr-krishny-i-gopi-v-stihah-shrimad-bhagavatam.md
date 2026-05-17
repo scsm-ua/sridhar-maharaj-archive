@@ -12,9 +12,6 @@ date: 1981-11-12
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1981.11"
-    slug: 1981-11
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (9 мин. 56 сек., 6,7 МБ)

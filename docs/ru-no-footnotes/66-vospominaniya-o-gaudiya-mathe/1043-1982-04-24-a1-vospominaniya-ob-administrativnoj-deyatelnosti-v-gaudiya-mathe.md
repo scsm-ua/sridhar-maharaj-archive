@@ -12,9 +12,6 @@ date: 1982-04-24
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3
     title: аудиозапись в MP3 (9 мин. 46 сек., 9,5 МБ)

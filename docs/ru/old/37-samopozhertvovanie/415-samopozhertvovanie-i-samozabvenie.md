@@ -1,6 +1,6 @@
 ---
 slug: 415-samopozhertvovanie-i-samozabvenie
-title: Самопожертвование и самозабвение.
+title: Самопожертвование и самозабвение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

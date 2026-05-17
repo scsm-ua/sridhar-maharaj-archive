@@ -1,7 +1,7 @@
 ---
 slug: 116-shiksha-guru-parampara-1981-08-28-a1
 record_id: 1981.08.28.A1
-title: Шикша-гуру парампара.
+title: Шикша-гуру парампара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гопа Кумар
     slug: gopa-kumar
   - title: Гуру

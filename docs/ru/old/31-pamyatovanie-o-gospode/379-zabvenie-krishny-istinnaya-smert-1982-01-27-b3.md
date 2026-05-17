@@ -1,7 +1,7 @@
 ---
 slug: 379-zabvenie-krishny-istinnaya-smert-1982-01-27-b3
 record_id: 1982.01.27.B3
-title: Забвение Кришны — истинная смерть.
+title: Забвение Кришны — истинная смерть
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /wp-content/uploads/2012/08/379_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
     title: Скачать аудиозапись в mp3 (6 мин 50 сек, размер 3 Мб)

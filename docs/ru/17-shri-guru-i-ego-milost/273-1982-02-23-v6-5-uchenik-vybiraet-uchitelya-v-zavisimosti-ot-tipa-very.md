@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Гуру-парампара
     slug: guru-parampara
   - title: Мгновения прекрасной реальности
@@ -104,6 +102,6 @@ legacy:
 
 [^_ftn2]: [*бхукти*](../notes/term/bhukti.md)
 
-[^_ftn3]: [*никхила-бхувана-ма̄йа̄-чинна̄виччинна-картрӣ / вибудха-бахула-мр̣гйа̄-мукти-моханта-дха̄три*](../notes/shloka/nikhila-bhuvana-maja-chinnavichchinna-kartri.md)
+[^_ftn3]: [*никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ, вибудха-бахула-мр̣гйа̄-мукти-моха̄нта-да̄трӣ / ш́итхилита-видхи-ра̄га̄ра̄дхйа-ра̄дхеш́а-дха̄нӣ, виласату хр̣ди нитйам̇ бхакти-сиддха̄нта-ва̄н̣ӣ*](../notes/shloka/nikhila-bhuvana-maja-chhinna-vichchhinna.md)
 
 [^_ftn4]: [Шримад-Бхагаватам 1.2.21](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-21.md)

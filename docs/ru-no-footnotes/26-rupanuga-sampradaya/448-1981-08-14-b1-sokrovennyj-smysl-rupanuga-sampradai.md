@@ -12,9 +12,6 @@ date: 1981-08-14
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3
     title: аудиозапись в MP3 (8 мин. 38 сек., 4,6 МБ)

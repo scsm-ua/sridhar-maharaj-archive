@@ -12,9 +12,6 @@ date: 1980-07-11
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1980.07"
-    slug: 1980-07
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
     title: аудиозапись в MP3 (14 мин. 22 сек., 8,8 МБ)
@@ -43,7 +40,7 @@ legacy:
     сварӯпе саба̄ра хайа голокете стхити
 [^_ftn3]
 
-Наша истинная цель, место назначения — там, *ра̄дха̄падам̣ дхӣмахи.*
+Наша истинная цель, место назначения — там, *ра̄дха̄падам̣ дхӣмахи*.
 
 [Гаура-Харибол, Гаура-Харибол]
 

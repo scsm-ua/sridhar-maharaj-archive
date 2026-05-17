@@ -12,19 +12,6 @@ date: 1981-03-10
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.4
-    slug: bhagavad-gita-9-4
-  - title: Бхагавад-гита 9.5
-    slug: bhagavad-gita-9-5
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 2.9.35
-    slug: shrimad-bhagavatam-2-9-35
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3
     title: аудиозапись в MP3 (3 мин. 17 сек., 2,4 МБ)
@@ -36,6 +23,17 @@ legacy:
   title: 969. 1981.03.10.B4. Господь одновременно далек и близок
   index: "969"
   filename: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 9.5
+    slug: bhagavad-gita-9-5
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
 ---
 
     майа̄ татам идам̇ сарвам̇

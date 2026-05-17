@@ -1,7 +1,7 @@
 ---
 slug: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5
 record_id: 1981.03.02.B6.C1.C5
-title: О соблюдении поста в экадаши.
+title: О соблюдении поста в экадаши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Экадаши
     slug: ekadashi
 links:

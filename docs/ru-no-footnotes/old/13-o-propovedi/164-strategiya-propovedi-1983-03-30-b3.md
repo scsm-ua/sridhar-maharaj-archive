@@ -1,7 +1,7 @@
 ---
 slug: 164-strategiya-propovedi-1983-03-30-b3
 record_id: 1983.03.30.B3
-title: Стратегия проповеди.
+title: Стратегия проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-03-30
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /wp-content/uploads/2012/08/164_1983.03.30.B3_SridharMj_Strategiya_propovedi.mp3
     title: Скачать аудиозапись в mp3 (16 мин 7 сек, размер 10 Мб)

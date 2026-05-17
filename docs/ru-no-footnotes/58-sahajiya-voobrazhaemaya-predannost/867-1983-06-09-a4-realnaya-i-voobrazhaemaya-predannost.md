@@ -12,9 +12,6 @@ date: 1983-06-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.06"
-    slug: 1983-06
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
     title: аудиозапись в MP3 (9 мин. 49 сек., 6,6 МБ)

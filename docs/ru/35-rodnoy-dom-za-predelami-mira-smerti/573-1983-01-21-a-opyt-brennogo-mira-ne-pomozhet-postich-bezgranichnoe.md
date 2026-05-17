@@ -12,9 +12,18 @@ date: 1983-01-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
+    title: аудиозапись в MP3 (35 мин. 38 сек., 19,1 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.rtf
+    title: транскрипцию в RTF (289 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.pdf
+    title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
+  index: "573"
+  filename: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe.md
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Шри Нама-Махатмья
     slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 7
@@ -73,17 +82,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
-    title: аудиозапись в MP3 (35 мин. 38 сек., 19,1 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.rtf
-    title: транскрипцию в RTF (289 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.pdf
-    title: транскрипцию в PDF (194 КБ)
-legacy:
-  title: 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
-  index: "573"
-  filename: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe.md
 ---
 
 **Научное знание — это деградация духовности**

@@ -1,7 +1,7 @@
 ---
 slug: 101-acharya-abhiman-1981-08-27-a3
 record_id: 1981.08.27.A3
-title: Ачарья-абхиман.
+title: Ачарья-абхиман
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гуру
     slug: guru
 links:

@@ -12,9 +12,6 @@ date: 1982-06-30
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 9,7 МБ)

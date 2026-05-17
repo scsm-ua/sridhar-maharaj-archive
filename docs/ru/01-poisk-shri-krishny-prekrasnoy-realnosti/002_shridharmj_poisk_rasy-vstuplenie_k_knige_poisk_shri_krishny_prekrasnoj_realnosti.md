@@ -12,23 +12,6 @@ date: 1981-08-00
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: with English audio
-    slug: with-english-audio
-  - title: with English text
-    slug: with-english-text
-  - title: дата неизвестна
-    slug: data-neizvestna
-  - title: Тайттирия-упанишад
-    slug: tajttiriya-upanishad
-  - title: Тайттирия-упанишад 2.7.1
-    slug: tajttiriya-upanishad-2-7-1
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
-  - title: Шветашватара-упанишад 2.5
-    slug: shvetashvatara-upanishad-2-5
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/002_2012.07.25.15_ShridharMj_Poisk_rasy--vstuplenie_k_knige_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
     title: аудиозапись в MP3 (6 мин 28 сек, 2.3 МБ)
@@ -41,6 +24,15 @@ legacy:
     Реальности»
   index: "002"
   filename: 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md
+tags:
+  - title: Тайттирия-упанишад
+    slug: tajttiriya-upanishad
+  - title: Тайттирия-упанишад 2.7.1
+    slug: tajttiriya-upanishad-2-7-1
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
 ---
 
 **Поиск расы — вступление к книге «Поиск Шри Кришны, Прекрасной Реальности»**

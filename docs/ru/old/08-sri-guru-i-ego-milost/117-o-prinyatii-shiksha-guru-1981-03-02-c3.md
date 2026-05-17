@@ -1,7 +1,7 @@
 ---
 slug: 117-o-prinyatii-shiksha-guru-1981-03-02-c3
 record_id: 1981.03.02.C3
-title: О принятии шикша-гуру.
+title: О принятии шикша-гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Качества ученика

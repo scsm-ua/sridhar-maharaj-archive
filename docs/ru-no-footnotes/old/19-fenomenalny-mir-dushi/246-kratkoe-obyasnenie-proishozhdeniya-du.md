@@ -1,7 +1,7 @@
 ---
 slug: 246-kratkoe-obyasnenie-proishozhdeniya-du
 record_id: 1982.01.09.A2
-title: Краткое объяснение происхождения души.
+title: Краткое объяснение происхождения души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Душа
     slug: dusha
 links:

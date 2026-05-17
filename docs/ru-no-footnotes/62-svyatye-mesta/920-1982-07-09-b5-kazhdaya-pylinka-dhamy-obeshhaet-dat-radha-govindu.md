@@ -12,9 +12,6 @@ date: 1982-07-09
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
     title: аудиозапись в MP3 (8 мин. 46 сек., 8,3 МБ)

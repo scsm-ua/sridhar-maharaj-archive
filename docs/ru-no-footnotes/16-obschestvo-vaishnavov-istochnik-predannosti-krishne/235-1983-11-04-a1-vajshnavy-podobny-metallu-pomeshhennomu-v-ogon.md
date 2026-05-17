@@ -12,9 +12,6 @@ date: 1983-11-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
     title: аудиозапись в MP3 (3 мин. 55 сек., 4,7 МБ)

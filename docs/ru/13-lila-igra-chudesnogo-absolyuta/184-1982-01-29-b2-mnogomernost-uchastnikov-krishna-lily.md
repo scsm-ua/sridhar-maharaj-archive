@@ -12,9 +12,18 @@ date: 1982-01-29
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
+links:
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
+    title: аудиозапись в MP3 (15 мин. 10 сек., 7,4 МБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.rtf
+    title: транскрипцию в RTF (139 КБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.pdf
+    title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 184. 1982.01.29.B2. Многомерность участников кришна-лилы
+  index: "184"
+  filename: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.8.48–50
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-20-166
   - title: Шримад-Бхагаватам 10.8.47
     slug: shrimad-bhagavatam-10-8-47
-links:
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
-    title: аудиозапись в MP3 (15 мин. 10 сек., 7,4 МБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.rtf
-    title: транскрипцию в RTF (139 КБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.pdf
-    title: транскрипцию в PDF (165 КБ)
-legacy:
-  title: 184. 1982.01.29.B2. Многомерность участников кришна-лилы
-  index: "184"
-  filename: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
 ---
 
 **Преданный:** Вчера я читал «Кришна-сандарбху» в переводе Йати Махараджа, где говорится, что Деваки и Васудева были *ам̇ш́а-а̄виш̣т̣а*, воплощениями, частичными проявлениями двух личностей — Пришни и Сутапы.

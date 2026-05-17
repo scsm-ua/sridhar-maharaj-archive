@@ -1,7 +1,7 @@
 ---
 slug: 279-o-poklonenii-govardhan-shile-i-shalagr
 record_id: 1982.01.09.C6.D
-title: О поклонении Говардхан-шиле и Шалаграм-шиле.
+title: О поклонении Говардхан-шиле и Шалаграм-шиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Божество

@@ -12,9 +12,19 @@ date: 1982-04-14
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
+links:
+  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
+    title: аудиозапись в MP3 (26 мин. 02 сек., 24,6 МБ)
+  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.rtf
+    title: транскрипцию в RTF (243 КБ)
+  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.pdf
+    title: транскрипцию в PDF (182 КБ)
+legacy:
+  title: 691. 1982.04.14.A.B1. От почитания богов следует перейти к почитанию
+    Всевышнего
+  index: "691"
+  filename: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.50
@@ -33,21 +43,9 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
     slug: shri-chajtanya-charitamrita-madhya-lila-11-31
-links:
-  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
-    title: аудиозапись в MP3 (26 мин. 02 сек., 24,6 МБ)
-  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.rtf
-    title: транскрипцию в RTF (243 КБ)
-  - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.pdf
-    title: транскрипцию в PDF (182 КБ)
-legacy:
-  title: 691. 1982.04.14.A.B1. От почитания богов следует перейти к почитанию
-    Всевышнего
-  index: "691"
-  filename: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
 ---
 
-**Акхаянанда Махарадж:** [цитирует санскрит]: *Вигхнешама пуджайитва капалинам дриштва ва пуджанам.*
+**Акхаянанда Махарадж:** [цитирует санскрит]: *Вигхнешама пуджайитва капалинам дриштва ва пуджанам*.
 
 **Шрила Шридхар Махарадж:** *Капалинам*?
 
@@ -142,7 +140,7 @@ legacy:
 
 **Шрила Шридхар Махарадж:** А есть английский перевод?
 
-**Акхаянанда Махарадж:** Да, есть: «Я поклоняюсь изначальному Господу Говинде, чьи лотосные стопы всегда держит Ганеш на *паре тумали(?)*, на своей слоновьей голове…»
+**Акхаянанда Махарадж:** Да, есть: «Я поклоняюсь изначальному Господу Говинде, чьи лотосные стопы всегда держит Ганеш на *паре тумали*(?), на своей слоновьей голове…»
 
 **Шрила Шридхар Махарадж:** То есть на черепе?
 

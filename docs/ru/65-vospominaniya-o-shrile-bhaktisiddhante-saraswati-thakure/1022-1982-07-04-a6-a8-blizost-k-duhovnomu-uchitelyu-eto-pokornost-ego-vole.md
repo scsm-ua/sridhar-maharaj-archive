@@ -12,9 +12,6 @@ date: 1982-07-04
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.mp3
     title: аудиозапись в MP3 (16 мин. 30 сек., 15,7 МБ)

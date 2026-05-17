@@ -12,9 +12,18 @@ date: 1983-06-05
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
+links:
+  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
+    title: аудиозапись в MP3 (9 мин. 44 сек., 4,7 МБ)
+  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.rtf
+    title: транскрипцию в RTF (118 КБ)
+  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.pdf
+    title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
+  index: "1098"
+  filename: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
@@ -41,17 +50,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
-links:
-  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
-    title: аудиозапись в MP3 (9 мин. 44 сек., 4,7 МБ)
-  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.rtf
-    title: транскрипцию в RTF (118 КБ)
-  - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.pdf
-    title: транскрипцию в PDF (156 КБ)
-legacy:
-  title: 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
-  index: "1098"
-  filename: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
 ---
 
 **Преданный:** Таким образом, Бхактивинод Тхакур… его подлинная связь — через *шикшу*?
@@ -79,7 +77,7 @@ legacy:
 
 *#00:05:16#*
 
-Первая *шлока* «Бхагаватам» является фундаментом всего «Бхагаватам» В детстве, когда я слышал впервые эту первую *шлоку*… Я слышал многие *шлоки*, но некоторые *шлоки* производили на меня особое впечатление, они казались мне очень-очень глубокими и таинственными. Особенно вот эта часть: *теджо-ва̄ри-мр̣да̄м̇ йатха̄ винимайо йатра три-сарго ’мр̣ша̄.* Другие были в большей или меньше степени ясны.
+Первая *шлока* «Бхагаватам» является фундаментом всего «Бхагаватам» В детстве, когда я слышал впервые эту первую *шлоку*… Я слышал многие *шлоки*, но некоторые *шлоки* производили на меня особое впечатление, они казались мне очень-очень глубокими и таинственными. Особенно вот эта часть: *теджо-ва̄ри-мр̣да̄м̇ йатха̄ винимайо йатра три-сарго ’мр̣ша̄*. Другие были в большей или меньше степени ясны.
 
 *#00:06:01#*
 

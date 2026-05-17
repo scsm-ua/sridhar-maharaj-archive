@@ -12,9 +12,6 @@ date: 1983-04-25
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/014_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3
     title: аудиозапись в MP3 (02 мин. 57 сек., 2.0 МБ)

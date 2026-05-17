@@ -1,7 +1,7 @@
 ---
 slug: 488-o-duhovnom-poiske-professora-nikson
 record_id: 1982.09.05.B6
-title: О духовном поиске профессора Никсона.
+title: О духовном поиске профессора Никсона
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Гаудия-матх
     slug: gaudiya-math
 links:

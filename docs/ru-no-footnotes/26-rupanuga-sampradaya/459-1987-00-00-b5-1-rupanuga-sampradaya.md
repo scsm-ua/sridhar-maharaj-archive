@@ -12,9 +12,6 @@ date: 1987-00-00
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1987.00"
-    slug: 1987-00
 links:
   - href: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 3,9 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 327-oppozitsiya-chast-vysshej-garmonii-1983-07-28-a1
 record_id: 1983.07.28.A1
-title: Оппозиция — часть высшей гармонии.
+title: Оппозиция — часть высшей гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Гармония
     slug: garmoniya
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 300-vedy-prebyvayut-v-poiske-shri-krishny-1982-01-27-a4
 record_id: 1982.01.27.A4
-title: Веды пребывают в поиске Шри Кришны.
+title: Веды пребывают в поиске Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Веды
     slug: vedy
   - title: Священные писания

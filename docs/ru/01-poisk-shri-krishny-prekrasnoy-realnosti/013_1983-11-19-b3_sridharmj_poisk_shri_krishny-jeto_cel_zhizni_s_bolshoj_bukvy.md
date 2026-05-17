@@ -12,9 +12,20 @@ date: 1983-11-19
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
+links:
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
+    title: аудиозапись в MP3 (06 мин. 36 сек., 6.2 МБ)
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.rtf
+    title: транскрипцию в RTF (100 КБ)
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.pdf
+    title: транскрипцию в PDF (183 КБ)
+legacy:
+  title: 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
+  index: "013"
+  filename: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy.md
+editors:
+  - Транскрипция: Гандхарва Д.Д.
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Ману-самхита
     slug: manu-samhita
   - title: Ману-самхита 2.1
@@ -31,17 +42,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-links:
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
-    title: аудиозапись в MP3 (06 мин. 36 сек., 6.2 МБ)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.rtf
-    title: транскрипцию в RTF (100 КБ)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.pdf
-    title: транскрипцию в PDF (183 КБ)
-legacy:
-  title: 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
-  index: "013"
-  filename: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy.md
 ---
 
 Прогресс подразумевает отвержение и принятие. Таким образом нам советуют приближаться к Кришна-концепции Бога, в которой присутствует разнообразие: все виды *расы*, *ананды* — радости и счастья (можно назвать это как угодно), удовлетворение, насыщение наших внутренних чаяний, потребностей. *Хр̣дайена̄бхйану джн̃а̄то*:[^_ftn1] полнота удовлетворения чаяний, жажды наших сердец.
@@ -92,10 +92,6 @@ legacy:
 Ом Вишнупад Бхактисиддханта Сарасвати Госвами Прабхупада ки джай!
 
 **Преданный:** Ом Вишнупад Парамахамса Паривраджакачарья-варья Аштоттара-шата-шри Шримад Бхакти Ракшак Шридхар Дев-Госвами ки джай!
-
-*Транскрипцию выполнила: Гандхарва Д.Д.*
-
-
 
 [^_ftn1]: [Ману-самхита 2.1](../notes/manu-samhita/manu-samhita-2-1.md)
 

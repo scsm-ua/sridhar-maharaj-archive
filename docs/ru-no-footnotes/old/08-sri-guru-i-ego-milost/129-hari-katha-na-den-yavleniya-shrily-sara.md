@@ -1,7 +1,7 @@
 ---
 slug: 129-hari-katha-na-den-yavleniya-shrily-sara
 record_id: 1983.03.02
-title: Хари-катха на день явления Шрилы Сарасвати Тхакура.
+title: Хари-катха на день явления Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Гуру
     slug: guru
   - title: Качества ученика

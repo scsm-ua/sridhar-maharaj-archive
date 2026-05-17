@@ -13,9 +13,19 @@ date: 1983-07-28
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
+links:
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
+    title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.rtf
+    title: транскрипцию в RTF (196 КБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.pdf
+    title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть
+    гармонии» в христианстве и вайшнавизме
+  index: "904"
+  filename: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
@@ -58,18 +68,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-links:
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
-    title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.rtf
-    title: транскрипцию в RTF (196 КБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.pdf
-    title: транскрипцию в PDF (203 КБ)
-legacy:
-  title: 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть
-    гармонии» в христианстве и вайшнавизме
-  index: "904"
-  filename: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
 ---
 
 Насколько глубокой может быть наша реализация?

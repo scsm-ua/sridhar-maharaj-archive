@@ -1,7 +1,7 @@
 ---
 slug: 134-velichie-svyatogo-imeni-1982-01-07-a
 record_id: 1982.01.07.A
-title: Величие Святого Имени.
+title: Величие Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Маха-мантра
     slug: maha-mantra
   - title: Святое Имя

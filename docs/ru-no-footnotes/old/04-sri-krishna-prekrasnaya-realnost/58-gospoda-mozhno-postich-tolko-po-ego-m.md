@@ -1,7 +1,7 @@
 ---
 slug: 58-gospoda-mozhno-postich-tolko-po-ego-m
 record_id: 1985.07.03
-title: Господа можно постичь только по Его милости.
+title: Господа можно постичь только по Его милости
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1985-07-03
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-tags:
-  - title: "1985.07"
-    slug: 1985-07
 links:
   - href: /wp-content/uploads/2012/08/058_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
     title: Скачать аудиозапись в mp3 (11 мин 31 сек, размер 9 Мб)

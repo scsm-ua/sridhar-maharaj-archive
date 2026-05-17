@@ -12,9 +12,6 @@ date: 1982-02-20
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/963_1982.02.20.A3.B1_SridharMj_Svananda_sukhanda_kundzha--vechnaja_obitel_Bhaktivinoda_Thakura.mp3
     title: аудиозапись в MP3 (7 мин. 08 сек., 9,3 МБ)

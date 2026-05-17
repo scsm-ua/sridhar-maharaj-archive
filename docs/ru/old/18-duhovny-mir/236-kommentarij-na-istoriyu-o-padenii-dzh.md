@@ -1,7 +1,7 @@
 ---
 slug: 236-kommentarij-na-istoriyu-o-padenii-dzh
 record_id: 1981.03.05.A5.B1
-title: Комментарий на историю о падении Джая и Виджая с Вайкунтхи.
+title: Комментарий на историю о падении Джая и Виджая с Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Вайкунтха
     slug: vajkuntha
   - title: Гармония

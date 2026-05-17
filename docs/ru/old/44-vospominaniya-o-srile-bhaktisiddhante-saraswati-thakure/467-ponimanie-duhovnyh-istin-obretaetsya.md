@@ -1,7 +1,7 @@
 ---
 slug: 467-ponimanie-duhovnyh-istin-obretaetsya
 record_id: 1983.02.27.B2
-title: Понимание духовных истин обретается на протяжении многих жизней.
+title: Понимание духовных истин обретается на протяжении многих жизней
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

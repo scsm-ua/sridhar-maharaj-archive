@@ -1,7 +1,7 @@
 ---
 slug: 286-sushhnost-otrecheniya-gosvami-vrindava
 record_id: 1982.01.03.A
-title: Сущность отречения Госвами Вриндавана.
+title: Сущность отречения Госвами Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Майавада

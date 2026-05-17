@@ -1,7 +1,7 @@
 ---
 slug: 456-o-pervom-stihe-bhagavatam-i-poezii-r
 record_id: 1983.06.05.C1
-title: О первом стихе «Бхагаватам» и поэзии Рупы Госвами.
+title: О первом стихе «Бхагаватам» и поэзии Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
   - title: Рупа Госвами

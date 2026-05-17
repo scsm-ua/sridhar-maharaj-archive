@@ -1,7 +1,7 @@
 ---
 slug: 144-ochishhayushhaya-sila-harinama-prevoshodit
 record_id: 1983.05.06.B2
-title: Очищающая сила Харинама превосходит любое осквернение.
+title: Очищающая сила Харинама превосходит любое осквернение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Маха-мантра
     slug: maha-mantra
   - title: Святое Имя

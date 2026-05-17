@@ -1,7 +1,7 @@
 ---
 slug: 82-dolg-i-lyubov-1983-01-26-c1
 record_id: 1983.01.26.C1
-title: Долг и любовь.
+title: Долг и любовь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Любовь
     slug: lyubov
 links:

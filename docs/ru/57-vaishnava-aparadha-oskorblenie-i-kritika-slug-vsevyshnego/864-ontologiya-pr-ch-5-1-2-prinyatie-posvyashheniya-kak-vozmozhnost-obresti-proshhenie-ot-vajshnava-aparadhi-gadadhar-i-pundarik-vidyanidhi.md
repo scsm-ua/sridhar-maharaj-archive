@@ -1,7 +1,7 @@
 ---
 slug: 864-ontologiya-pr-ch-5-1-2-prinyatie-posvyashheniya-kak-vozmozhnost-obresti-proshhenie-ot-vajshnava-aparadhi-gadadhar-i-pundarik-vidyanidhi
 title: Онтология ПР. Ч. 5.1.2. Принятие посвящения как возможность обрести
-  прощение от вайшнава-апарадхи. Гададхар и Пундарик Видьянидхи
+  прощение от вайшнава-апарадхи. Гададхар и Пундарик Видьянидхи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

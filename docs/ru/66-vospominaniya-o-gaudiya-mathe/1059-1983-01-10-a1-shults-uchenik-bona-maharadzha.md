@@ -12,9 +12,6 @@ date: 1983-01-10
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1059_1983.01.10.A1_SridharMj_Shulc_uchenik_Bona_Mahardzha.mp3
     title: аудиозапись в MP3 (1 мин. 00 сек., 1,5 МБ)

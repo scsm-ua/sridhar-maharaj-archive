@@ -12,9 +12,6 @@ date: 1983-04-16
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (3 мин. 57 сек., 4,6 МБ)

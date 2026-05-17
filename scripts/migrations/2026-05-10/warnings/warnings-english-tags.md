@@ -1,0 +1,78 @@
+# Warnings: english-tags
+
+ - removing tag with english letters: "with English audio"
+   - 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md)
+ - removing tag with english letters: "with English text"
+   - 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md)
+ - removing tag with english letters: "with English audio"
+   - 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md)
+ - removing tag with english letters: "with English text"
+   - 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md)
+ - removing tag with english letters: "with English audio"
+   - 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md)
+ - removing tag with english letters: "with English text"
+   - 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md)
+ - removing tag with english letters: "with English audio"
+   - 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md)
+ - removing tag with english letters: "with English text"
+   - 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md)
+ - removing tag with english letters: "with English audio"
+   - 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md)
+ - removing tag with english letters: "with English text"
+   - 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md)
+ - removing tag with english letters: "with English audio"
+   - 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md)
+ - removing tag with english letters: "with English text"
+   - 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/01-poisk-shri-krishny-prekrasnoy-realnosti/006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md)
+   - [output](../../../../docs/ru-no-footnotes/01-poisk-shri-krishny-prekrasnoy-realnosti/006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md)
+ - removing tag with english letters: "with English audio"
+   - 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md)
+ - removing tag with english letters: "with English text"
+   - 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md)
+ - removing tag with english letters: "with English audio"
+   - 085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu.md)
+ - removing tag with english letters: "with English audio"
+   - 089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/089-1982-07-08-a1-polozhenie-shrivas-angama-v-gaura.md)
+ - removing tag with english letters: "with English audio"
+   - 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy.md)
+ - removing tag with english letters: "with English audio"
+   - 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno.md)
+   - [output](../../../../docs/ru-no-footnotes/06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno.md)
+ - removing tag with english letters: "with English text"
+   - 337-smirenie-i-terpenie-pomogut-vystoyat.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/old/27-duhovny-put/337-smirenie-i-terpenie-pomogut-vystoyat.md)
+   - [output](../../../../docs/ru-no-footnotes/old/27-duhovny-put/337-smirenie-i-terpenie-pomogut-vystoyat.md)

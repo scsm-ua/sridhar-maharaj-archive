@@ -12,9 +12,19 @@ date: 1983-11-22
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
+links:
+  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3
+    title: аудиозапись в MP3 (8 мин. 40 сек., 8,7 МБ)
+  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.rtf
+    title: транскрипцию в RTF (99 КБ)
+  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.pdf
+    title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 682. 1983.11.22.A2. Поклонение Шакти приводит к различным результатам в
+    зависимости от искренности
+  index: "682"
+  filename: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
@@ -37,18 +47,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-links:
-  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3
-    title: аудиозапись в MP3 (8 мин. 40 сек., 8,7 МБ)
-  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.rtf
-    title: транскрипцию в RTF (99 КБ)
-  - href: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.pdf
-    title: транскрипцию в PDF (154 КБ)
-legacy:
-  title: 682. 1983.11.22.A2. Поклонение Шакти приводит к различным результатам в
-    зависимости от искренности
-  index: "682"
-  filename: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti.md
 ---
 
 **Преданный:** Гуру Махарадж, есть такое специфическое место в мире, где богине Кали поклоняются на каждом шагу, и похоже, что нигде в мире люди настолько не страдают, как в Калькутте.

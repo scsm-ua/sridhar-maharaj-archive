@@ -1,7 +1,7 @@
 ---
 slug: 337-smirenie-i-terpenie-pomogut-vystoyat
 record_id: 1982.02.17.A5
-title: Смирение и терпение помогут выстоять на духовном пути.
+title: Смирение и терпение помогут выстоять на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,10 +13,6 @@ category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: with English text
-    slug: with-english-text
   - title: Смирение
     slug: smirenie
   - title: Терпение

@@ -12,13 +12,6 @@ date: 1983-04-16
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.3.31
-    slug: shrimad-bhagavatam-11-3-31
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
     title: аудиозапись в MP3 (5 мин. 09 сек., 3,3 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 642. 1983.04.16.A2. Повторение ощущения не является опытом
   index: "642"
   filename: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 11.3.31
+    slug: shrimad-bhagavatam-11-3-31
 ---
 
     бхактйа̄ сан̃джа̄тайа̄ бхактйа

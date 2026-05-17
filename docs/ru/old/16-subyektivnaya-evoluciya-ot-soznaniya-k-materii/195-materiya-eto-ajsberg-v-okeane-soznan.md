@@ -1,6 +1,6 @@
 ---
 slug: 195-materiya-eto-ajsberg-v-okeane-soznan
-title: Материя – это айсберг в океане сознания.
+title: Материя – это айсберг в океане сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

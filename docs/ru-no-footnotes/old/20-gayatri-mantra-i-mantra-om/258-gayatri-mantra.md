@@ -1,6 +1,6 @@
 ---
 slug: 258-gayatri-mantra
-title: Гаятри-мантра.
+title: Гаятри-мантра
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

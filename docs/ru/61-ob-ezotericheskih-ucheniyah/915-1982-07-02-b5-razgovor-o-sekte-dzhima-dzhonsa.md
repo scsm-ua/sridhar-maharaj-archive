@@ -12,9 +12,6 @@ date: 1982-07-02
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3
     title: аудиозапись в MP3 (7 мин. 01 сек., 7,2 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 232-milost-vajshnavov-vedet-v-izmerenie
 record_id: 1983.02.27.A.B1
-title: Милость вайшнавов ведет в измерение, превосходящее мир души.
+title: Милость вайшнавов ведет в измерение, превосходящее мир души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Духовный мир
     slug: duhovnyj-mir
 links:

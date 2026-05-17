@@ -12,9 +12,6 @@ date: 1982-03-08
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1982.03"
-    slug: 1982-03
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3
     title: аудиозапись в MP3 (1 мин. 07 сек., 2,8 МБ)

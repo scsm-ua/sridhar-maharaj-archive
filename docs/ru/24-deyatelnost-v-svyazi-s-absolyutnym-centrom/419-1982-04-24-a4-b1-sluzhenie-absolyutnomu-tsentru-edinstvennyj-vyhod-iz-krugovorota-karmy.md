@@ -12,9 +12,19 @@ date: 1982-04-24
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
+links:
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
+    title: аудиозапись в MP3 (6 мин. 49 сек., 5,6 МБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.rtf
+    title: транскрипцию в RTF (100 КБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.pdf
+    title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 419. 1982.04.24.A4.B1. Служение Абсолютному Центру – единственный выход
+    из круговорота кармы
+  index: "419"
+  filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.13.47
@@ -31,18 +41,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
-links:
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
-    title: аудиозапись в MP3 (6 мин. 49 сек., 5,6 МБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.rtf
-    title: транскрипцию в RTF (100 КБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.pdf
-    title: транскрипцию в PDF (156 КБ)
-legacy:
-  title: 419. 1982.04.24.A4.B1. Служение Абсолютному Центру – единственный выход
-    из круговорота кармы
-  index: "419"
-  filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
 ---
 
     ахаста̄ни сахаста̄на̄м

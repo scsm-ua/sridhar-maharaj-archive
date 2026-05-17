@@ -12,9 +12,19 @@ date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
+links:
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
+    title: аудиозапись в MP3 (1 час 12 мин. 30 сек., 37,1 МБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.rtf
+    title: транскрипцию в RTF (410 КБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.pdf
+    title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 971. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в
+    Гаудия-матхе (часть 1)
+  index: "971"
+  filename: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1.md
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
@@ -35,18 +45,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-links:
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
-    title: аудиозапись в MP3 (1 час 12 мин. 30 сек., 37,1 МБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.rtf
-    title: транскрипцию в RTF (410 КБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.pdf
-    title: транскрипцию в PDF (203 КБ)
-legacy:
-  title: 971. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в
-    Гаудия-матхе (часть 1)
-  index: "971"
-  filename: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1.md
 ---
 
 Во-первых, Гуру Махарадж происходил из *каястха-касты*, это *шудра*, я происходил из *браминской* семьи. *Брамин* — Гуру должен быть подходящим. Таким образом, некие сомнения оставались. Затем, когда я приехал в Маяпур, там также я видел много трогательного. Когда Прабхупад увидел меня там в день рождения Махапрабху, он давал лекцию многим джентльменам, приехавшим из Кришна-нагара, образованным людям. Тиртха Махарадж проповедовал в другом месте, в третьем месте Парват Махарадж собирал пожертвования. Во многих местах происходили разные события, и чувствовалась счастливая, трансцендентная атмосфера.

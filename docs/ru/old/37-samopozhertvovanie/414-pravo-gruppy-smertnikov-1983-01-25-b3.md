@@ -1,7 +1,7 @@
 ---
 slug: 414-pravo-gruppy-smertnikov-1983-01-25-b3
 record_id: 1983.01.25.B3
-title: Право «группы смертников».
+title: Право «группы смертников»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Самопожертвование
     slug: samopozhertvovanie
 links:

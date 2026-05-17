@@ -1,7 +1,7 @@
 ---
 slug: 217-vasudev-neoskvernennoe-soznanie-1981-08-18-b1
 record_id: 1981.08.18.B1
-title: Васудев — неоскверненное сознание.
+title: Васудев — неоскверненное сознание
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-08-18
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /wp-content/uploads/2012/08/217_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
     title: Скачать аудиозапись в mp3 (9 мин 8 сек, размер 4 Мб)

@@ -1,7 +1,7 @@
 ---
 slug: 62-o-vseblagoj-prirode-lily-gospoda-1983-02-18-b1
 record_id: 1983.02.18.B1
-title: О всеблагой природе лилы Господа.
+title: О всеблагой природе лилы Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Кришна-лила
     slug: krishna-lila
 links:

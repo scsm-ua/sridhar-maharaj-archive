@@ -1,7 +1,7 @@
 ---
 slug: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2
 record_id: 1982.01.19.B2
-title: Молитва Рагхунатха Даса Госвами.
+title: Молитва Рагхунатха Даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхакти
     slug: bhakti
   - title: Кришнадас Кавирадж Госвами

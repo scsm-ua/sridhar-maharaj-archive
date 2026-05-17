@@ -13,8 +13,6 @@ category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
   - title: Риг-веда

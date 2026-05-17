@@ -12,9 +12,6 @@ date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 5,4 МБ)

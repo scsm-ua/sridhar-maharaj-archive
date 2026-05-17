@@ -12,9 +12,19 @@ date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
+links:
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3
+    title: аудиозапись в MP3 (8 мин. 45 сек., 8.8 МБ)
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.docx
+    title: транскрипцию в .DOCX (19 КБ)
+  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.pdf
+    title: транскрипцию в .PDF (142 КБ)
+legacy:
+  title: 088. 1982.02.20.А1 (+1982.01.12.B1) Связь эпизодов Гаура-лилы и Кришна-лилы
+  index: "088"
+  comment: (+1982.01.12.B1)
+  filename: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
@@ -29,18 +39,6 @@ tags:
     slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
-links:
-  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3
-    title: аудиозапись в MP3 (8 мин. 45 сек., 8.8 МБ)
-  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.docx
-    title: транскрипцию в .DOCX (19 КБ)
-  - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.pdf
-    title: транскрипцию в .PDF (142 КБ)
-legacy:
-  title: 088. 1982.02.20.А1 (+1982.01.12.B1) Связь эпизодов Гаура-лилы и Кришна-лилы
-  index: "088"
-  comment: (+1982.01.12.B1)
-  filename: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily.md
 ---
 
 **Шрила Шридхар Махарадж:** Сарвабхаума, Рамананда… Пратапарудра Махарадж был независимым царем индуистской части Индии и стал учеником Махапрабху. Когда Махапрабху покорил Южную Индию и Ориссу, тогда Бенгалия оценила Его по достоинству, частично. Столь многие малые цари — все были *гаудия-вайшнавами* под влиянием Пратапарудры в прошлом. Харе Кришна.

@@ -1,7 +1,7 @@
 ---
 slug: 111-gradatsiya-duhovnyh-uchitelej-1983-05-10-b
 record_id: 1983.05.10.B
-title: Градация духовных учителей.
+title: Градация духовных учителей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Гуру
     slug: guru
   - title: Качества ученика

@@ -12,9 +12,6 @@ date: 1981-11-12
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1981.11"
-    slug: 1981-11
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
     title: аудиозапись в MP3 (12 мин. 06 сек., 8,3 МБ)

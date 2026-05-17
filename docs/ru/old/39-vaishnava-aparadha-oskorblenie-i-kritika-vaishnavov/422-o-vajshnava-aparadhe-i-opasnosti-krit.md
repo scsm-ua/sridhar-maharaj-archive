@@ -1,7 +1,7 @@
 ---
 slug: 422-o-vajshnava-aparadhe-i-opasnosti-krit
 record_id: 1983.03.30.A4
-title: О вайшнава-апарадхе и опасности критики.
+title: О вайшнава-апарадхе и опасности критики
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
 links:

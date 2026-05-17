@@ -12,9 +12,6 @@ date: 1985-07-03
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1985.07"
-    slug: 1985-07
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
     title: аудиозапись в MP3 (11 мин. 30 сек., 8,6 МБ)

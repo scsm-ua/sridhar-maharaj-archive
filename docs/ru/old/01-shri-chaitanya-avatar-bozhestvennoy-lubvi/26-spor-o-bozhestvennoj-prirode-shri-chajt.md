@@ -1,7 +1,7 @@
 ---
 slug: 26-spor-o-bozhestvennoj-prirode-shri-chajt
 record_id: 1983.01.12.B3
-title: Спор о божественной природе Шри Чайтаньи Махапрабху.
+title: Спор о божественной природе Шри Чайтаньи Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Сарасвати Тхакур

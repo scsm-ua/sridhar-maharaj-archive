@@ -12,9 +12,6 @@ date: 1983-11-14
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3
     title: аудиозапись в MP3 (10 мин. 07 сек., 10,1 МБ)

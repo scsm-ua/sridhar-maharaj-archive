@@ -1,7 +1,7 @@
 ---
 slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
 record_id: 1983.01.02.B
-title: Мир множества Христов. Комментарий к истории падения Адама и Евы
+title: Мир множества Христов. Комментарий к истории падения Адама и Евы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,19 @@ date: 1983-01-02
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
+links:
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
+    title: аудиозапись в MP3 (44 мин. 11 сек., 21,9 МБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.rtf
+    title: транскрипцию в RTF (320 КБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.pdf
+    title: транскрипцию в PDF (219 КБ)
+legacy:
+  title: 903. 1983.01.02.B. Мир множества Христов. Комментарий к истории падения
+    Адама и Евы
+  index: "903"
+  filename: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy.md
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -49,18 +59,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-4-165
   - title: Шримад-Бхагаватам 6.11.25
     slug: shrimad-bhagavatam-6-11-25
-links:
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
-    title: аудиозапись в MP3 (44 мин. 11 сек., 21,9 МБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.rtf
-    title: транскрипцию в RTF (320 КБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.pdf
-    title: транскрипцию в PDF (219 КБ)
-legacy:
-  title: 903. 1983.01.02.B. Мир множества Христов. Комментарий к истории падения
-    Адама и Евы
-  index: "903"
-  filename: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy.md
 ---
 
 Мы должны отчаянно стремиться считать себя рабами раба рабов. Это столь высокое достижение. Состязание в концепции рабства: раб раба раба. Подобная возвышенная сфера, высокая сфера, такова она. Если у нас есть достаточно смелости, жертвенности, тогда мы можем войти, вступить в эту сферу и жить в ней. Жертва, жертвенность в крайней, высочайшей степени. Вновь и вновь к нам приходит этот призыв: «умереть, чтобы жить». Это очень обширное, всеобъемлющее явление и также глубокое, осмысленное.

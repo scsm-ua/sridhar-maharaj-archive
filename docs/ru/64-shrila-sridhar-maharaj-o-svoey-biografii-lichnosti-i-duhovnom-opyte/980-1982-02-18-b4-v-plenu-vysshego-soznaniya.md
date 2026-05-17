@@ -12,19 +12,6 @@ date: 1982-02-18
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 13.14
-    slug: bhagavad-gita-13-14
-  - title: Бхагавад-гита 2.40
-    slug: bhagavad-gita-2-40
-  - title: Риг-веда
-    slug: rig-veda
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
     title: аудиозапись в MP3 (13 мин. 06 сек., 6,9 МБ)
@@ -36,6 +23,17 @@ legacy:
   title: 980. 1982.02.18.B4. В плену высшего сознания
   index: "980"
   filename: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.14
+    slug: bhagavad-gita-13-14
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: Риг-веда
+    slug: rig-veda
+  - title: Риг-веда 1.22.20
+    slug: rig-veda-1-22-20
 ---
 
 *«Онтология Прекрасной Реальности» (часть 1.8)*

@@ -13,8 +13,6 @@ category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Санньяса
     slug: sannyasa
 links:

@@ -12,13 +12,6 @@ date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,6 МБ)
@@ -31,6 +24,11 @@ legacy:
     контексте
   index: "250"
   filename: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 ---
 
 Всякий раз, когда мы имеем приблизительное представление о том, что нечто есть Истина, мы не можем понять во всей полноте это явление. Но если мы следуем этой линии, то постепенно понимание, реализация приходят к нам. Многие вещи, явления мы по-прежнему находим в *шастре*. В процессе реализации подобные явления станут ясны нам. *Бхава-бхакти*.

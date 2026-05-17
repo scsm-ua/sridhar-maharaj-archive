@@ -12,9 +12,6 @@ date: 1982-05-10
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 6,0 МБ)

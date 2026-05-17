@@ -12,9 +12,6 @@ date: 1983-06-09
 category:
   title: 2. Раса-таттва — вкусы отношений с Господом (вариации)
   slug: 2-_rasa-tattva-vkusy_otnosheniy_s_gospodom_variacii
-tags:
-  - title: "1983.06"
-    slug: 1983-06
 links:
   - href: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
     title: аудиозапись в MP3 (9 мин. 12 сек., 5,5 МБ)

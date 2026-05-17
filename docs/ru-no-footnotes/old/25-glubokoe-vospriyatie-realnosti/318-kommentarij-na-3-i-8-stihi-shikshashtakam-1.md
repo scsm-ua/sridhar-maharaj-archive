@@ -1,7 +1,7 @@
 ---
 slug: 318-kommentarij-na-3-i-8-stihi-shikshashtakam-1
 record_id: 1983.01.25.B2
-title: Комментарий на 3 и 8 стихи «Шикшаштакам».
+title: Комментарий на 3 и 8 стихи «Шикшаштакам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гармония
     slug: garmoniya
   - title: Смирение

@@ -1,7 +1,7 @@
 ---
 slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
 record_id: 1982.04.30.A1.B2
-title: Кришнадас Бабаджи и Шридхар Махарадж. Величие шаранагати
+title: Кришнадас Бабаджи и Шридхар Махарадж. Величие шаранагати.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,19 @@ date: 1982-04-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3
+    title: аудиозапись в MP3 (26 мин. 47 сек., 27,3 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.rtf
+    title: транскрипцию в RTF (183 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.pdf
+    title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 966. 1982.04.30.A1.B2. Кришнадас Бабаджи и Шридхар Махарадж. Величие
+    шаранагати
+  index: "966"
+  filename: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
@@ -33,18 +43,6 @@ tags:
     slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 6.123
     slug: shri-chajtanya-bhagavata-antya-khanda-6-123
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3
-    title: аудиозапись в MP3 (26 мин. 47 сек., 27,3 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.rtf
-    title: транскрипцию в RTF (183 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.pdf
-    title: транскрипцию в PDF (175 КБ)
-legacy:
-  title: 966. 1982.04.30.A1.B2. Кришнадас Бабаджи и Шридхар Махарадж. Величие
-    шаранагати
-  index: "966"
-  filename: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
 ---
 
 Также мы знаем, что Кришнадас Бабаджи Махарадж покинул этот мир. Мы хотели бы вспомнить его жизнь, его деятельность, насколько это в наших силах.

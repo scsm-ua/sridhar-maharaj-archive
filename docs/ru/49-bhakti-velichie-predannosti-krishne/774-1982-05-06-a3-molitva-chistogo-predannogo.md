@@ -13,8 +13,6 @@ category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Бхакти
     slug: bhakti
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"

@@ -13,8 +13,6 @@ category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Самопредание
     slug: samopredanie
 links:

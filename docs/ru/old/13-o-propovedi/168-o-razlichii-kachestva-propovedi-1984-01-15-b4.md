@@ -1,7 +1,7 @@
 ---
 slug: 168-o-razlichii-kachestva-propovedi-1984-01-15-b4
 record_id: 1984.01.15.B4
-title: О различии качества проповеди.
+title: О различии качества проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1984-01-15
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
-tags:
-  - title: "1984.01"
-    slug: 1984-01
 links:
   - href: /wp-content/uploads/2012/08/168_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
     title: Скачать аудиозапись в mp3 (1 мин 16 сек, размер 3 Мб)

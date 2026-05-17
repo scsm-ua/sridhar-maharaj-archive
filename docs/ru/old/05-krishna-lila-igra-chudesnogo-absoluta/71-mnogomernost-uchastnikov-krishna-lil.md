@@ -1,7 +1,7 @@
 ---
 slug: 71-mnogomernost-uchastnikov-krishna-lil
 record_id: 1982.01.29.B2
-title: Многомерность участников кришна-лилы.
+title: Многомерность участников кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
   - title: Рупа Госвами

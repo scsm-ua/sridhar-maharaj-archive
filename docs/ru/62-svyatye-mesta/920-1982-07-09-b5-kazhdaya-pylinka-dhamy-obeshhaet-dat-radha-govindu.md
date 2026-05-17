@@ -12,13 +12,6 @@ date: 1982-07-09
 category:
   title: 62. Святые места
   slug: 62-svyatye-mesta
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
-  - title: Чайтанья-чандрамрита 88
-    slug: chajtanya-chandramrita-88
 links:
   - href: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
     title: аудиозапись в MP3 (8 мин. 46 сек., 8,3 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 920. 1982.07.09.B5. Каждая пылинка дхамы обещает дать Радха-Говинду
   index: "920"
   filename: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu.md
+tags:
+  - title: Чайтанья-чандрамрита
+    slug: chajtanya-chandramrita
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 ---
 
     йатха̄ йатха̄ гаура-пада̄равинде

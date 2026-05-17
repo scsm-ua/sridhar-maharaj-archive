@@ -1,7 +1,7 @@
 ---
 slug: 100-o-kvalifikatsii-i-umonastroenii-inits
 record_id: 1981.03.02.C2
-title: О квалификации и умонастроении инициирующего гуру.
+title: О квалификации и умонастроении инициирующего гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
 links:

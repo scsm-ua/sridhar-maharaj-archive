@@ -12,13 +12,6 @@ date: 1982-01-25
 category:
   title: 3. Иерархия мироздания - планы бытия (вариации)
   slug: 3-_ierarhiya_mirozdaniya-plany_bytiya_variacii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 12.13.16
-    slug: shrimad-bhagavatam-12-13-16
 links:
   - href: /dl/73._Povtory_i_variacii/3._Ierarhiya_mirozdaniya--plany_bytiya_(variacii)/1139_1982.01.25.B3_SridharMj_Shrila_Sridhar_Maharaj_ob_ustroystve_vedicheskogo_planetariya.mp3
     title: аудиозапись в MP3 (10 мин. 23 сек., 10,1 МБ)
@@ -31,6 +24,11 @@ legacy:
     планетария
   index: "1139"
   filename: 1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 12.13.16
+    slug: shrimad-bhagavatam-12-13-16
 ---
 
 «Брихад-бхагаватамритам» Санатаны Госвами. Источник моей идеи — «Брихад-бхагаватамритам». Градация: *бхур*, *бхувах*, *свах* и так далее. Затем Вираджа, Брахмалока, Шивалока, Паравьома и Айодхья, Мадхура, Дварака, Вриндаван. Подобная градация представлена там детально, подробно. Детальное и подробное описание, какова градация, что есть Бхулока, что есть Бхуварлока. *Бхур*, *бхувах*, *свах*, *маха*, *джана*, *тапа*, *сатья*, затем Вираджа, затем Брахмалока, затем Паравьома, а затем Голока.

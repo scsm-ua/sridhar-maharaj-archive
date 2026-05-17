@@ -1,7 +1,7 @@
 ---
 slug: 749-1982-07-26-a-otkaz-ot-deneg-zhenshhin-i-slavy-reguliruyushhie-printsipy-v-shrimad-bhagavatam
 record_id: 1982.07.26.A
-title: Отказ от денег, женщин и славы. Регулирующие принципы в «Шримад Бхагаватам»
+title: Отказ от денег, женщин и славы. Регулирующие принципы в «Шримад Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,13 +12,6 @@ date: 1982-07-26
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.6.35
-    slug: shrimad-bhagavatam-1-6-35
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/749_1982.07.26.A_SridharMj_Otkaz_ot_deneg_zhenshhin_i_slavy__Regulirujushhie_principy_v_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 10,0 МБ)
@@ -31,6 +24,11 @@ legacy:
     в «Шримад Бхагаватам»
   index: "749"
   filename: 749-1982-07-26-a-otkaz-ot-deneg-zhenshhin-i-slavy-reguliruyushhie-printsipy-v-shrimad-bhagavatam.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.6.35
+    slug: shrimad-bhagavatam-1-6-35
 ---
 
 **Преданный:** Речь идет о том, чтобы оставить материальную жизнь немедленно?

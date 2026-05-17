@@ -13,8 +13,6 @@ category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Проповедь
     slug: propoved
   - title: Кабе муи вайшнава чинибо

@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Гуру
     slug: guru
   - title: Карма

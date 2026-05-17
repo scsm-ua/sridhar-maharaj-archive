@@ -12,9 +12,6 @@ date: 1983-03-20
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3
     title: аудиозапись в MP3 (5 мин. 57 сек., 3,5 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 344-udachliv-tot-kto-v-molodosti-prishel-k-s
 record_id: 1980.07.11.B3
-title: Удачлив тот, кто в молодости пришел к служению Гуру и вайшнавам.
+title: Удачлив тот, кто в молодости пришел к служению Гуру и вайшнавам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1980-07-11
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
-tags:
-  - title: "1980.07"
-    slug: 1980-07
 links:
   - href: /wp-content/uploads/2012/08/344_1980.07.11.B3_SridharMj_Udachliv_tot_kto_v_molodosti_prishel_k_slujeniyu_Guru_i_vaishnavam.mp3
     title: Скачать аудиозапись в mp3 (6 мин 46 сек, размер 4 Мб)

@@ -1,7 +1,7 @@
 ---
 slug: 458-sarasvati-thakur-olitsetvorenie-kir
 record_id: 1982.01.29.A
-title: Сарасвати Тхакур — олицетворение киртана.
+title: Сарасвати Тхакур — олицетворение киртана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Киртан
     slug: kirtan
   - title: Сарасвати Тхакур

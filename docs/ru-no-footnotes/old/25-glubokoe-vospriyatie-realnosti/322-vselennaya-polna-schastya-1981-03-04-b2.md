@@ -1,7 +1,7 @@
 ---
 slug: 322-vselennaya-polna-schastya-1981-03-04-b2
 record_id: 1981.03.04.B2
-title: Вселенная полна счастья.
+title: Вселенная полна счастья
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гармония
     slug: garmoniya
 links:

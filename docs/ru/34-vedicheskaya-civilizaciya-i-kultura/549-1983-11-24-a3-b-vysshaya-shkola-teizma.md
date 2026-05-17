@@ -13,8 +13,6 @@ category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
   - title: Бхагавад-гита

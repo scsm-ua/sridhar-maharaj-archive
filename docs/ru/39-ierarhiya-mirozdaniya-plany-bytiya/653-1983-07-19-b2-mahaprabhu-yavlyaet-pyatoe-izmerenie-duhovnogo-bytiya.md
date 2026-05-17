@@ -12,17 +12,6 @@ date: 1983-07-19
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-  - title: Катха-упанишад
-    slug: katha-upanishad
-  - title: Катха-упанишад 2.1.11
-    slug: katha-upanishad-2-1-11
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
-  - title: Чхандогья-упанишад 3.14.1
-    slug: chhandogya-upanishad-3-14-1
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/653_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
     title: аудиозапись в MP3 (5 мин. 16 сек., 3,6 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 653. 1983.07.19.B2. Махапрабху являет пятое измерение духовного бытия
   index: "653"
   filename: 653-1983-07-19-b2-mahaprabhu-yavlyaet-pyatoe-izmerenie-duhovnogo-bytiya.md
+tags:
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 2.1.11
+    slug: katha-upanishad-2-1-11
+  - title: Чхандогья-упанишад
+    slug: chhandogya-upanishad
+  - title: Чхандогья-упанишад 3.14.1
+    slug: chhandogya-upanishad-3-14-1
 ---
 
 **Преданный:** Когда Эйнштейн появился, он выступил против Ньютона.

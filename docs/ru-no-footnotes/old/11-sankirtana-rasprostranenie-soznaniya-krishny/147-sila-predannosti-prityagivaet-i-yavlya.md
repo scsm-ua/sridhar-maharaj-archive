@@ -1,7 +1,7 @@
 ---
 slug: 147-sila-predannosti-prityagivaet-i-yavlya
 record_id: 1981.08.14.A2
-title: Сила преданности притягивает и являет Господа.
+title: Сила преданности притягивает и являет Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-08-14
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (8 мин 18 сек, размер 6 Мб)

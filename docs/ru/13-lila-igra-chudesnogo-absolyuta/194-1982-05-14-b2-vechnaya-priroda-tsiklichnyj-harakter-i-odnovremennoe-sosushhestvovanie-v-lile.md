@@ -12,13 +12,6 @@ date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 4,7 МБ)
@@ -31,6 +24,11 @@ legacy:
     сосуществование в лиле
   index: "194"
   filename: 194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-391
 ---
 
 Каждая *лила* Господа вечная, каждая часть Безграничного имеет вечную природу, вечную. Мне рассказывали, в «Махабхарате», в самом начале повествования, присутствует *Дхритараштра-вилаб*. Раздел *Дхритараштра*—*вилаб* — скорбь Дхритараштры, Дхритараштра выражает скорбь, он говорит: «Я знаю, что моя сторона потерпит поражение, я знаю, что такие-то и такие события произойдут, я испытываю разочарование».

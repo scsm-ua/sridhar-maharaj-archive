@@ -12,17 +12,6 @@ date: 1983-01-25
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 18.54
-    slug: bhagavad-gita-18-54
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
     title: аудиозапись в MP3 (3 мин. 40 сек., 2,4 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 509. 1983.01.25.B4. Подлинная потеря и приобретение
   index: "509"
   filename: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.54
+    slug: bhagavad-gita-18-54
 ---
 
 **Преданный:** Временами мы говорим: «Нет риска — нет выигрыша».

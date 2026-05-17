@@ -12,9 +12,6 @@ date: 1981-08-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
     title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)

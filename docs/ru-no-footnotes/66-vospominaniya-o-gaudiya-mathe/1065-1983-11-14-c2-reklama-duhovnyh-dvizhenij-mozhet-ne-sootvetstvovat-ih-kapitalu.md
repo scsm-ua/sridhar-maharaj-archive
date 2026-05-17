@@ -12,9 +12,6 @@ date: 1983-11-14
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3
     title: аудиозапись в MP3 (2 мин. 24 сек., 2,7 МБ)

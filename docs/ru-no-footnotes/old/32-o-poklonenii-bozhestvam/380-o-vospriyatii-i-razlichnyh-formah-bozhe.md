@@ -1,7 +1,7 @@
 ---
 slug: 380-o-vospriyatii-i-razlichnyh-formah-bozhe
 record_id: 1982.02.17.A2
-title: О восприятии и различных формах Божеств.
+title: О восприятии и различных формах Божеств
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Божество
     slug: bozhestvo
 links:

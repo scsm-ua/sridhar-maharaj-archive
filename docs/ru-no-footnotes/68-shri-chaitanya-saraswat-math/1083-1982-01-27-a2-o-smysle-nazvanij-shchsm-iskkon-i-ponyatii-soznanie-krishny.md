@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
     title: аудиозапись в MP3 (16 мин. 13 сек., 9,1 МБ)
@@ -68,7 +65,7 @@ legacy:
 [*Нитай-Гаура-Гададхар, Адвайта-Шривас*\
 *санкиртана-сангопанга панча(?)*\
 *Нитай-Гаура-Гададхар, Адвайта-Шривас*\
-*санкиртана-сангопанга панча(?)*]
+*санкиртана-сангопанга панча*(?)]
 
 *#00:11:32#*
 

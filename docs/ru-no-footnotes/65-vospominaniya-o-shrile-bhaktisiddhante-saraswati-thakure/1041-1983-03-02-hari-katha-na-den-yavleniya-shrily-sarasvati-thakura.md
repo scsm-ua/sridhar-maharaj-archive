@@ -12,9 +12,6 @@ date: 1983-03-02
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1041_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (29 мин. 50 сек., 14,3 МБ)

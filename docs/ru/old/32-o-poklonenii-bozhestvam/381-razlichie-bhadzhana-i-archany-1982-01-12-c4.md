@@ -1,7 +1,7 @@
 ---
 slug: 381-razlichie-bhadzhana-i-archany-1982-01-12-c4
 record_id: 1982.01.12.C4
-title: Различие бхаджана и арчаны.
+title: Различие бхаджана и арчаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Арчана
     slug: archana
   - title: Божество

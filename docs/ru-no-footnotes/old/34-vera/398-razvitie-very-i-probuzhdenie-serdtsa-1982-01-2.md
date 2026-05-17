@@ -1,7 +1,7 @@
 ---
 slug: 398-razvitie-very-i-probuzhdenie-serdtsa-1982-01-2
 record_id: 1982.01.20.B3
-title: Развитие веры и пробуждение сердца.
+title: Развитие веры и пробуждение сердца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (34. Вера)
   slug: 34-vera
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вера
     slug: vera
 links:

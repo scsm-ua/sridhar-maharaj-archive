@@ -12,9 +12,6 @@ date: 1982-02-23
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/225_1982.02.23.A4.B1_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
     title: аудиозапись в MP3 (3 мин. 43 сек., 1,9 МБ)

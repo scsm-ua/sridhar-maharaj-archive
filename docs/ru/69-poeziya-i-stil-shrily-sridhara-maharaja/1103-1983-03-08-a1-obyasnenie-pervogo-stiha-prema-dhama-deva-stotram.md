@@ -12,13 +12,6 @@ date: 1983-03-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
-  - title: Према-Дхама-Дева-стотрам 1
-    slug: prema-dhama-deva-stotram-1
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1103_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
     title: аудиозапись в MP3 (8 мин. 19 сек., 4,1 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 1103. 1983.03.08.A1. Объяснение первого стиха «Према-дхама-дева-стотрам»
   index: "1103"
   filename: 1103-1983-03-08-a1-obyasnenie-pervogo-stiha-prema-dhama-deva-stotram.md
+tags:
+  - title: Према-Дхама-Дева-стотрам
+    slug: prema-dhama-deva-stotram
+  - title: Према-Дхама-Дева-стотрам 1
+    slug: prema-dhama-deva-stotram-1
 ---
 
 **Преданный:**

@@ -13,17 +13,6 @@ date: 1982-05-08
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
-    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
-  - title: Шри Лалита-аштака 7
-    slug: shri-lalita-ashtaka-7
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (17 мин. 25 сек., 17,0 МБ)
@@ -36,6 +25,15 @@ legacy:
     удовлетворить Шрилу Шридхара Махараджа?
   index: "1133"
   filename: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: Шри Лалита-аштака
+    slug: shri-lalita-ashtaka
+  - title: Шри Лалита-аштака 7
+    slug: shri-lalita-ashtaka-7
 ---
 
 **Шрила Шридхар Махарадж:** Есть какие-то вопросы? Я очень устал — я так много говорил, мне это не по силам. Только один вопрос — на один вопрос я попытаюсь ответить и отправлюсь в постель, чтобы лечь горизонтально. Харе Кришна.

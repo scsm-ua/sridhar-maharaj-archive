@@ -12,9 +12,6 @@ date: 1982-02-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.mp3
     title: аудиозапись в MP3 (8 мин. 19 сек., 4,8 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 148-kirtan-znachit-srazhenie-protiv-zablu
 record_id: 1983.07.19.A2
-title: Киртан значит «сражение против заблуждений».
+title: Киртан значит «сражение против заблуждений»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Киртан
     slug: kirtan
 links:

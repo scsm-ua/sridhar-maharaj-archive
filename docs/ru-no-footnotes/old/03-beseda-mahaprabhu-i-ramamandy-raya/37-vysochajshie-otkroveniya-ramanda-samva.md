@@ -1,7 +1,7 @@
 ---
 slug: 37-vysochajshie-otkroveniya-ramanda-samva
 record_id: 1982.01.11.A
-title: Высочайшие откровения Раманда-самвада.
+title: Высочайшие откровения Раманда-самвада
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Рамананда Рай

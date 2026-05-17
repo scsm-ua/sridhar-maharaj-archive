@@ -1,7 +1,7 @@
 ---
 slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
 record_id: 1982.01.17.A4
-title: История Ачьютананды. О сыновьях Адвайты Ачарьи
+title: История Ачьютананды. О сыновьях Адвайты Ачарьи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,18 @@ date: 1982-01-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
+    title: аудиозапись в MP3 (8 мин. 59 сек., 6,9 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.rtf
+    title: транскрипцию в RTF (114 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.pdf
+    title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
+  index: "940"
+  filename: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
@@ -35,17 +44,6 @@ tags:
     slug: manah-shiksha-2
   - title: Манах-шикша 1
     slug: manah-shiksha-1
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
-    title: аудиозапись в MP3 (8 мин. 59 сек., 6,9 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.rtf
-    title: транскрипцию в RTF (114 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.pdf
-    title: транскрипцию в PDF (154 КБ)
-legacy:
-  title: 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
-  index: "940"
-  filename: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
 ---
 
     [чид-а̄нанда-бха̄нох̣ сада̄ нанда-сӯнох̣

@@ -1,7 +1,7 @@
 ---
 slug: 12-lyubovnyj-poisk-shri-chajtani-1985-10-04-b2
 record_id: 1985.10.04.B2
-title: Любовный поиск Шри Чайтаньи.
+title: Любовный поиск Шри Чайтаньи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Махапрабху
     slug: mahaprabhu
   - title: Нитьянанда Прабху

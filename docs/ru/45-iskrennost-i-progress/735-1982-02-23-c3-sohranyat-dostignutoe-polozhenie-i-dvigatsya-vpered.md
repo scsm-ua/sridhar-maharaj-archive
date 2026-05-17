@@ -12,9 +12,18 @@ date: 1982-02-23
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
+links:
+  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.mp3
+    title: аудиозапись в MP3 (10 мин. 48 сек., 5,8 МБ)
+  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.rtf
+    title: транскрипцию в RTF (124 КБ)
+  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.pdf
+    title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 735. 1982.02.23.C3. Сохранять достигнутое положение — и двигаться вперед
+  index: "735"
+  filename: 735-1982-02-23-c3-sohranyat-dostignutoe-polozhenie-i-dvigatsya-vpered.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
@@ -33,17 +42,6 @@ tags:
     slug: bhagavad-gita-6-40
   - title: Шримад-Бхагаватам 11.20.27–28
     slug: shrimad-bhagavatam-11-20-27-28
-links:
-  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.mp3
-    title: аудиозапись в MP3 (10 мин. 48 сек., 5,8 МБ)
-  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.rtf
-    title: транскрипцию в RTF (124 КБ)
-  - href: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.pdf
-    title: транскрипцию в PDF (159 КБ)
-legacy:
-  title: 735. 1982.02.23.C3. Сохранять достигнутое положение — и двигаться вперед
-  index: "735"
-  filename: 735-1982-02-23-c3-sohranyat-dostignutoe-polozhenie-i-dvigatsya-vpered.md
 ---
 
 В прогрессивной жизни, жизни развития… Что является объектом достижения *каништха-адхикари*, *мадхьяма-адхикари* уже прошел этот уровень и старается подняться уровнем выше. Под руководством Гуру [находятся] столь многие категории *шишья* (учеников). Все они могут не быть стоящими на одном уровне, равными. Кто-то понимает что-то одно, кто-то понимает нечто большее, кто-то понимает еще больше. Таким образом, присутствует градация.

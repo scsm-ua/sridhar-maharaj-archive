@@ -1,7 +1,7 @@
 ---
 slug: 267-pochemu-shukadev-ne-upomyanul-v-bhagava
 record_id: 1983.02.11.A2
-title: Почему Шукадев не упомянул в «Бхагаватам» имя Шримати Радхарани.
+title: Почему Шукадев не упомянул в «Бхагаватам» имя Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхакти
     slug: bhakti
   - title: Кришна

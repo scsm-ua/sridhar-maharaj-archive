@@ -1,7 +1,7 @@
 ---
 slug: 373-vajshnavy-nashi-hraniteli-na-duhovnom
 record_id: 1985.10.05.A5
-title: Вайшнавы — наши хранители на духовном пути.
+title: Вайшнавы — наши хранители на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Садху-санга
     slug: sadhu-sanga
 links:

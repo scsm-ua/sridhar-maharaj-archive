@@ -1,7 +1,7 @@
 ---
 slug: 298-duhovnaya-literatura-eto-vdohnoveni
 record_id: 1981.03.03.B2
-title: Духовная литература — это вдохновение из высшего мира.
+title: Духовная литература — это вдохновение из высшего мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Священные писания
     slug: svyashhennye-pisaniya
 links:

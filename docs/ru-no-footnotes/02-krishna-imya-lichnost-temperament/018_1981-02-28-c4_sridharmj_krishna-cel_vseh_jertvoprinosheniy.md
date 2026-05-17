@@ -12,9 +12,6 @@ date: 1981-02-28
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
-tags:
-  - title: "1981.02"
-    slug: 1981-02
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/018_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
     title: аудиозапись в MP3 (09 мин. 46 сек., 5.1 МБ)

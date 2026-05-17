@@ -14,8 +14,6 @@ category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Бхакти-йога
     slug: bhakti-joga
 links:

@@ -12,9 +12,6 @@ date: 1982-07-18
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
     title: аудиозапись в MP3 (8 мин. 48 сек., 9,7 МБ)

@@ -12,9 +12,18 @@ date: 1983-01-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
+links:
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
+    title: аудиозапись в MP3 (4 мин. 48 сек., 3,1 МБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.rtf
+    title: транскрипцию в RTF (69 КБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.pdf
+    title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 514. 1983.01.04.B1.2. Плохой работник жалуется на свои инструменты
+  index: "514"
+  filename: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty.md
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
@@ -27,17 +36,6 @@ tags:
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-links:
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
-    title: аудиозапись в MP3 (4 мин. 48 сек., 3,1 МБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.rtf
-    title: транскрипцию в RTF (69 КБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.pdf
-    title: транскрипцию в PDF (144 КБ)
-legacy:
-  title: 514. 1983.01.04.B1.2. Плохой работник жалуется на свои инструменты
-  index: "514"
-  filename: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty.md
 ---
 
 **Шрила Шридхар Махарадж:** Как его зовут, кто это?

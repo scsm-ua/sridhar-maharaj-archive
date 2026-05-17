@@ -13,8 +13,6 @@ category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Арчана
     slug: archana
 links:

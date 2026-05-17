@@ -12,9 +12,18 @@ date: 1983-11-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
+links:
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
+    title: аудиозапись в MP3 (3 мин. 55 сек., 4,7 МБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.rtf
+    title: транскрипцию в RTF (74 КБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.pdf
+    title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 235. 1983.11.04.A1. Вайшнавы подобны металлу, помещенному в огонь
+  index: "235"
+  filename: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.32
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам 11.29.34
     slug: shrimad-bhagavatam-11-29-34
-links:
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
-    title: аудиозапись в MP3 (3 мин. 55 сек., 4,7 МБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.rtf
-    title: транскрипцию в RTF (74 КБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.pdf
-    title: транскрипцию в PDF (143 КБ)
-legacy:
-  title: 235. 1983.11.04.A1. Вайшнавы подобны металлу, помещенному в огонь
-  index: "235"
-  filename: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon.md
 ---
 
 **Госвами Махарадж:** Писания *гаудия-вайшнавов* — «Шримад Бхагаватам», «Шри Чайтанья-Чаритамрита» — в этих произведениях лотосные стопы чистого преданного. *Наиш̣а̄м̇ матис та̄вад урукрама̄н̇грим̇*[^_ftn1] — стихи Прахлады Махараджа, Ришабхадева, и вновь — в «Шри Чайтаньи-Чаритамрите»; мы находим также в песнях Шрилы Нароттама Даса Тхакура: всегда упоминаются лотосные стопы *вайшнавов*. А какой должна быть подлинная концепция лотосных стоп *вайшнава*?

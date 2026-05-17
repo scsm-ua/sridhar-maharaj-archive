@@ -12,9 +12,6 @@ date: 1982-06-05
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3
     title: аудиозапись в MP3 (3 мин. 18 сек., 5,5 МБ)

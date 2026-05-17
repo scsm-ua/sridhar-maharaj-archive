@@ -1,7 +1,7 @@
 ---
 slug: 118-uglublennoe-vospriyatie-guru-tattvy-1983
 record_id: 1983.06.10
-title: Углубленное восприятие гуру-таттвы.
+title: Углубленное восприятие гуру-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
   - title: Гададхар Пандит

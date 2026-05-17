@@ -13,8 +13,6 @@ category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Вера
     slug: vera
   - title: Мундака Упанишад

@@ -1,7 +1,7 @@
 ---
 slug: 159-sarasvati-thakur-hotel-sdelat-kazhd
 record_id: 1981.03.05.B6
-title: Сарасвати Тхакур хотел сделать каждое сердце храмом.
+title: Сарасвати Тхакур хотел сделать каждое сердце храмом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
   - title: Сарасвати Тхакур

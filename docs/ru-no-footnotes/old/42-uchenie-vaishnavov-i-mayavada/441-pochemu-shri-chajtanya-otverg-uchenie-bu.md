@@ -13,8 +13,6 @@ category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Майавада
     slug: majavada
   - title: Шанкара

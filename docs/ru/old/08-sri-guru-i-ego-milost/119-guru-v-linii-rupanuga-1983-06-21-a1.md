@@ -1,7 +1,7 @@
 ---
 slug: 119-guru-v-linii-rupanuga-1983-06-21-a1
 record_id: 1983.06.21.A1
-title: Гуру в линии Рупануга.
+title: Гуру в линии Рупануга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Гуру
     slug: guru
   - title: Качества ученика

@@ -12,9 +12,6 @@ date: 1983-11-02
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3
     title: аудиозапись в MP3 (1 мин. 40 сек., 2,3 МБ)

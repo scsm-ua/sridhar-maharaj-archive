@@ -12,9 +12,6 @@ date: 1981-03-10
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3
     title: аудиозапись в MP3 (12 мин. 24 сек., 7,2 МБ)

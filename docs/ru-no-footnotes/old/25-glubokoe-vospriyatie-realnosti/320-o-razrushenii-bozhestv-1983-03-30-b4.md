@@ -1,7 +1,7 @@
 ---
 slug: 320-o-razrushenii-bozhestv-1983-03-30-b4
 record_id: 1983.03.30.B4
-title: О разрушении Божеств.
+title: О разрушении Божеств
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Гармония
     slug: garmoniya
 links:

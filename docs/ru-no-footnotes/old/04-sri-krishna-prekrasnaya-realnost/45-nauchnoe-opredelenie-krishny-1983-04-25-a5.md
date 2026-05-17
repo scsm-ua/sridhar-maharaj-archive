@@ -1,7 +1,7 @@
 ---
 slug: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5
 record_id: 1983.04.25.A5
-title: Научное определение Кришны.
+title: Научное определение Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Кришна
     slug: krishna
 links:

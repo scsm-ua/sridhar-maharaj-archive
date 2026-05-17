@@ -1,7 +1,7 @@
 ---
 slug: 75-odnovremennoe-sosushhestvovanie-lil-g
 record_id: 1982.01.17.A3
-title: Одновременное сосуществование лил Господа.
+title: Одновременное сосуществование лил Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-17
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (1 мин 44 сек, размер 1 Мб)

@@ -12,9 +12,6 @@ date: 1982-09-05
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.09"
-    slug: 1982-09
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1061_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3
     title: аудиозапись в MP3 (6 мин. 46 сек., 3,6 МБ)

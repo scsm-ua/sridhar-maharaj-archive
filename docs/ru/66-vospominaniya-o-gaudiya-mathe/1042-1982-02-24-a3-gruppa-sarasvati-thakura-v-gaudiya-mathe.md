@@ -13,8 +13,6 @@ category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
   - title: «Шри Чайтанья-чаритамрита», Антья-лила

@@ -13,8 +13,6 @@ category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Самопредание
     slug: samopredanie
   - title: Шри Нама-Махатмья

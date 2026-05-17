@@ -12,13 +12,6 @@ date: 1982-05-10
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 18.65
-    slug: bhagavad-gita-18-65
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/220_1982.05.10.C2_SridharMj_Krishna_provozglashaet_Ja--Alfa_i_Omega_v_Gite_i_Bhagavatam.mp3
     title: аудиозапись в MP3 (3 мин. 27 сек., 3,9 МБ)
@@ -31,6 +24,11 @@ legacy:
     «Бхагаватам»"
   index: "220"
   filename: 220-1982-05-10-s2-krishna-provozglashaet-ya-alfa-i-omega-v-gite-i-bhagavatam.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
 ---
 
 Кришна столь горделив, Он утверждает: «Я все и вся, все во Мне», самый гордый. «Все для Него», — говорит Гегель. «Абсолют Сам по Себе, и Он для Себя». Все предназначено для Него, не для кого-либо еще. Если для кого-то еще предназначено, тогда Он не был бы Абсолютом. Реальность должна обладать этими двумя качествами. Он причинен Самому Себе, и Он существует только для осуществления Своих Собственных целей, не для осуществления целей кого бы то ни было другого, а иначе Он бы занимал второстепенное, подчиненное положение.

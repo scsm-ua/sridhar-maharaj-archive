@@ -12,13 +12,6 @@ date: 1983-11-09
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Ману-самхита
-    slug: manu-samhita
-  - title: Ману-самхита 2.1
-    slug: manu-samhita-2-1
 links:
   - href: /dl/40._Bog_i_bogi/689_1983.11.09.A1_SridharMj_Mezhdu_razlichnymi_obrazami_Bozhestvennogo_sushhestvuet_gradacija_i_ierarhija.mp3
     title: аудиозапись в MP3 (7 мин. 38 сек., 7,8 МБ)
@@ -31,6 +24,11 @@ legacy:
     градация и иерархия
   index: "689"
   filename: 689-1983-11-09-a1-mezhdu-razlichnymi-obrazami-bozhestvennogo-sushhestvuet-gradatsiya-i-ierarhiya.md
+tags:
+  - title: Ману-самхита
+    slug: manu-samhita
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
 ---
 
 **Преданный:** Концепции различия в предложении Нрисимхадеву Кришне, Чайтанье Махапрабху и Господу Джаганнатху…

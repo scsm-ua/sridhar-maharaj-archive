@@ -1,7 +1,7 @@
 ---
 slug: 423-kak-obezopasit-sebya-ot-vajshnava-apa
 record_id: 1985.10.05.A1
-title: Как обезопасить себя от вайшнава-апарадхи.
+title: Как обезопасить себя от вайшнава-апарадхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
 links:

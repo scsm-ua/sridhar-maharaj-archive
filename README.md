@@ -1,15 +1,24 @@
 # sridhar-maharaj-archive
 
-Add meta from `ru-no-footnotes-sources` to `ru-no-footnotes`:
+TODO: better folder names
 
-```
-cd scripts
-node migrations/2026-06-02/run.js
-```
+MD source: `/ru-no-footnotes`
 
-Convert `ru-no-footnotes` to `ru`:
+MD with extracted footnotes: `/ru`
+
+Do not modify `/ru`, modify only `/ru-no-footnotes`, then convert `ru-no-footnotes` to `ru`:
 
 ```
 cd scripts
 node footnotes-analyze.js
 ```
+
+### Old migrations
+
+Add meta from `ru-no-footnotes-sources` to `ru-no-footnotes`:
+
+```
+cd scripts
+node migrations/2026-05-02/run.js
+```
+

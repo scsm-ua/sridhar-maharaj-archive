@@ -1,7 +1,7 @@
 ---
 slug: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya
 record_id: 1983.11.28.A4
-title: Наслаждение преданным служением. Два вида счастья
+title: Наслаждение преданным служением. Два вида счастья.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Дух служения
     slug: duh-sluzheniya
 links:

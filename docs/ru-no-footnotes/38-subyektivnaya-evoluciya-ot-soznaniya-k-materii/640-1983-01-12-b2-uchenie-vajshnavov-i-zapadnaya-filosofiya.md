@@ -12,9 +12,6 @@ date: 1983-01-12
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
     title: аудиозапись в MP3 (7 мин. 28 сек., 4,4 МБ)

@@ -12,9 +12,6 @@ date: 1983-04-25
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3
     title: аудиозапись в MP3 (8 мин. 13 сек., 4,6 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira
 title: Онтология ПР. Ч. 4.1. Забвение Господа — единственная опасность
-  материального мира
+  материального мира.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

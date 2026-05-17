@@ -1,7 +1,7 @@
 ---
 slug: 202-v-izmerenii-very-my-obekty
 record_id: 1984.01.18.A2
-title: В измерении веры мы – объекты.
+title: В измерении веры мы – объекты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Вера
     slug: vera
 links:

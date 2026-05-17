@@ -12,9 +12,6 @@ date: 1982-02-28
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/505_1982.02.28.A4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
     title: аудиозапись в MP3 (12 мин. 45 сек., 6,5 МБ)

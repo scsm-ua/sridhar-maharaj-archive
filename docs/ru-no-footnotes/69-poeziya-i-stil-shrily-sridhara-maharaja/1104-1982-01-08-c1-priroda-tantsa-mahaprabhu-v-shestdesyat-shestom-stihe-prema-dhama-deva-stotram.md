@@ -12,9 +12,6 @@ date: 1982-01-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3
     title: аудиозапись в MP3 (6 мин. 18 сек., 3,1 МБ)

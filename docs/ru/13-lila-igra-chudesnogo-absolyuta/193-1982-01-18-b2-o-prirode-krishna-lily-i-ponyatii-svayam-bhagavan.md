@@ -12,9 +12,18 @@ date: 1982-01-18
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
+links:
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
+    title: аудиозапись в MP3 (16 мин. 24 сек., 7,9 МБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.rtf
+    title: транскрипцию в RTF (116 КБ)
+  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.pdf
+    title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 193. 1982.01.18.B2. О природе кришна-лилы и понятии «Сваям Бхагаван»
+  index: "193"
+  filename: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Нама-санкиртан
     slug: nama-sankirtan
   - title: Нама-санкиртан 8
@@ -31,17 +40,6 @@ tags:
     slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
-links:
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
-    title: аудиозапись в MP3 (16 мин. 24 сек., 7,9 МБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.rtf
-    title: транскрипцию в RTF (116 КБ)
-  - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.pdf
-    title: транскрипцию в PDF (157 КБ)
-legacy:
-  title: 193. 1982.01.18.B2. О природе кришна-лилы и понятии «Сваям Бхагаван»
-  index: "193"
-  filename: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan.md
 ---
 
 Нанда и Яшода — изначальные, верховные личности, тогда как Дрона и Дхара были поглощены личностями Нанды и Яшоды. Также в писаниях говорится: «Столь многие небесные куртизанки находились в среде *гопи*». Мадхвачарья обращается к этому утверждению, но *гаудия-госвами* не в силах это снести. Мадхвачарья утверждал, что *гопи* — небесные куртизанки, но *гаудия-госвами* говорят, что небесные куртизанки вошли в личности *враджа-гопи*. Истинная группа — это группа Голоки. Они вечны и они выше высочайшего. Голока, группа Голоки — изначальное явление.
@@ -63,7 +61,7 @@ legacy:
 
 *#00:04:36#*
 
-Кришна не приходит всегда, совершая *гопи-лилу*, — лишь один раз в день Брахмы, в одну из *юг* Брахмы, не в каждую *югу*, не в каждую Двапара-югу, но один раз в день Брахмы. День же Брахмы состоит из тысячи [*чатур-*]*юг* — таков один день Брахмы. Так, в одну *югу* из тысячи [*чатур-*]*юг* Сваям-Бхагаван Кришна нисходит. Во все остальные *юги* нисходит только *юга-аватара*, не Сваям-Бхагаван.
+Кришна не приходит всегда, совершая *гопи-лилу*, — лишь один раз в день Брахмы, в одну из *юг* Брахмы, не в каждую *югу*, не в каждую Двапара-югу, но один раз в день Брахмы. День же Брахмы состоит из тысячи [*чатур*-]*юг* — таков один день Брахмы. Так, в одну *югу* из тысячи [*чатур*-]*юг* Сваям-Бхагаван Кришна нисходит. Во все остальные *юги* нисходит только *юга-аватара*, не Сваям-Бхагаван.
 
 *#00:05:42#*
 

@@ -1,7 +1,7 @@
 ---
 slug: 221-tri-aspekta-gospoda-shivy-1983-01-02-a3
 record_id: 1983.01.02.A3
-title: Три аспекта Господа Шивы.
+title: Три аспекта Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Адвайта Ачарья
     slug: advajta-acharya
   - title: Вишну

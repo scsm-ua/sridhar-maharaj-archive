@@ -12,9 +12,6 @@ date: 1983-05-23
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
     title: аудиозапись в MP3 (22 мин. 04 сек., 12,2 МБ)

@@ -12,9 +12,6 @@ date: 1982-04-29
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
     title: аудиозапись в MP3 (2 мин. 47 сек., 4,1 МБ)

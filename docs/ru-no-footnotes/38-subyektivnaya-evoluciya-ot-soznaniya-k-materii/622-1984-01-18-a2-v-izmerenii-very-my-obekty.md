@@ -12,9 +12,6 @@ date: 1984-01-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1984.01"
-    slug: 1984-01
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
     title: аудиозапись в MP3 (1 мин. 31 сек., 1,6 МБ)

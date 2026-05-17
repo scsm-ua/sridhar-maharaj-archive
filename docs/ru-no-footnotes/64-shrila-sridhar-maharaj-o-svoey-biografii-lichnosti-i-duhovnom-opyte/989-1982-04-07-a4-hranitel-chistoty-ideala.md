@@ -12,9 +12,6 @@ date: 1982-04-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/989_1982.04.07.A4_SridharMj_Hranitel_chistoty_ideala.mp3
     title: аудиозапись в MP3 (1 мин. 53 сек., 2,6 МБ)

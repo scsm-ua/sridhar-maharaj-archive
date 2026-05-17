@@ -12,9 +12,6 @@ date: 1982-01-31
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.mp3
     title: аудиозапись в MP3 (4 мин. 49 сек., 5,0 МБ)

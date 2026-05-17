@@ -12,9 +12,6 @@ date: 1982-04-16
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
     title: аудиозапись в MP3 (6 мин. 57 сек., 9,2 МБ)

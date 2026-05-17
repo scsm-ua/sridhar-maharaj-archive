@@ -1,7 +1,7 @@
 ---
 slug: 152-filosofskie-aspekty-sankirtany
 record_id: 1981.08.30.C2
-title: Философские аспекты санкиртаны.
+title: Философские аспекты санкиртаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

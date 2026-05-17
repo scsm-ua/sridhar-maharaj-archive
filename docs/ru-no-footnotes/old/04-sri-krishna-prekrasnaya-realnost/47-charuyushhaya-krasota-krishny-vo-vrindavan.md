@@ -1,7 +1,7 @@
 ---
 slug: 47-charuyushhaya-krasota-krishny-vo-vrindavan
 record_id: 1983.01.26.C3
-title: Чарующая красота Кришны во Вриндаване.
+title: Чарующая красота Кришны во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Кришна
     slug: krishna
 links:

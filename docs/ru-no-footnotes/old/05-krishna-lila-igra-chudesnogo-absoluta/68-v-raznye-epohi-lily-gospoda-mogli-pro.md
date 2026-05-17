@@ -1,7 +1,7 @@
 ---
 slug: 68-v-raznye-epohi-lily-gospoda-mogli-pro
 record_id: 1981.03.03.C3
-title: В разные эпохи лилы Господа могли происходить по-разному.
+title: В разные эпохи лилы Господа могли происходить по-разному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
     title: Скачать аудиозапись в mp3 (4 мин 15 сек, размер 2 Мб)

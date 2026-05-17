@@ -1,7 +1,7 @@
 ---
 slug: 143-maha-mantra-i-ispolnenie-materialn
 record_id: 1983.01.12.B7.C1
-title: Маха-мантра и исполнение материальных желаний.
+title: Маха-мантра и исполнение материальных желаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Маха-мантра
     slug: maha-mantra
   - title: Святое Имя

@@ -1,7 +1,7 @@
 ---
 slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
 record_id: 1982.02.15.B2
-title: Два аспекта гуру. Нисхождение и передача духовного знания
+title: Два аспекта гуру. Нисхождение и передача духовного знания.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
     title: аудиозапись в MP3 (11 мин. 07 сек., 11,5 МБ)

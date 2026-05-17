@@ -1,7 +1,7 @@
 ---
 slug: 496-o-ponyatii-shaktyavesha-avatara-i-bhakt
 record_id: 1981.02.28.D2
-title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде.
+title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Шактьявеша-аватара

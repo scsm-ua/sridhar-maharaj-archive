@@ -1,7 +1,7 @@
 ---
 slug: 410-stat-instrumentom-v-rukah-bezgrani
 record_id: 1982.01.28.B3
-title: Стать инструментом в руках Безграничного.
+title: Стать инструментом в руках Безграничного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Самопредание
     slug: samopredanie
   - title: Шаранагати

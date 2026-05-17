@@ -12,9 +12,6 @@ date: 1983-11-23
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 6,8 МБ)

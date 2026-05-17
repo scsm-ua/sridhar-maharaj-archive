@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Джаганнатх
     slug: dzhagannath
   - title: Истории о вайшнавах

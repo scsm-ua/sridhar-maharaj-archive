@@ -1,7 +1,7 @@
 ---
 slug: 452-shrila-shridhar-maharadzh-o-svoem-zhizne
 record_id: 1983.01.07.B2
-title: Шрила Шридхар Махарадж о своем жизненном пути.
+title: Шрила Шридхар Махарадж о своем жизненном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Гаудия-матх

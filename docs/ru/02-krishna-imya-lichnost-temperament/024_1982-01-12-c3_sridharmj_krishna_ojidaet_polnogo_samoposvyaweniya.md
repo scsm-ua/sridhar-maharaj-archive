@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Коннотация и денотация
     slug: konnotatsiya-i-denotatsiya
   - title: Кришна

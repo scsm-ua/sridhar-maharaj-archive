@@ -1,7 +1,7 @@
 ---
 slug: 295-istoriya-dzhayadeva-gosvami-1983-05-24-b3
 record_id: 1983.05.24.B3
-title: История Джаядева Госвами.
+title: История Джаядева Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Джаядев Госвами
     slug: dzhayadev-gosvami
   - title: Истории о вайшнавах

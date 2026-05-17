@@ -12,17 +12,6 @@ date: 1981-08-18
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.176
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-176
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.22
-    slug: bhakti-rasamrita-sindhu-1-2-22
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1005_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
     title: аудиозапись в MP3 (10 мин. 06 сек., 5,2 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 1005. 1981.08.18.B3. Высшая Реальность не может быть предметом опытов
   index: "1005"
   filename: 1005-1981-08-18-b3-vysshaya-realnost-ne-mozhet-byt-predmetom-opytov.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.176
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-176
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.2.22
+    slug: bhakti-rasamrita-sindhu-1-2-22
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари.

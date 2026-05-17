@@ -12,9 +12,6 @@ date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.mp3
     title: аудиозапись в MP3 (4 мин. 04 сек., 2,5 МБ)

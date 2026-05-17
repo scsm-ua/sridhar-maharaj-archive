@@ -12,9 +12,18 @@ date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
+links:
+  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
+    title: аудиозапись в MP3 (8 мин. 59 сек., 5,4 МБ)
+  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.rtf
+    title: транскрипцию в RTF (83 КБ)
+  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.pdf
+    title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 305. 1983.04.17.A4. О страданиях гуру из-за кармы учеников
+  index: "305"
+  filename: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov.md
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Шри Вилапа-кусуманджали
     slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
@@ -27,17 +36,6 @@ tags:
     slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.23
     slug: shvetashvatara-upanishad-6-23
-links:
-  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
-    title: аудиозапись в MP3 (8 мин. 59 сек., 5,4 МБ)
-  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.rtf
-    title: транскрипцию в RTF (83 КБ)
-  - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.pdf
-    title: транскрипцию в PDF (147 КБ)
-legacy:
-  title: 305. 1983.04.17.A4. О страданиях гуру из-за кармы учеников
-  index: "305"
-  filename: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov.md
 ---
 
 **Преданный:** Махарадж, совершенно ясно, что некоторые люди принимают учеников, будучи, возможно, не готовыми к этому, и им даже приходится претерпевать некоторые физические страдания из-за того, что они принимают учеников. Это из-за кармы?

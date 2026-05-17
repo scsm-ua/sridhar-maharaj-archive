@@ -12,9 +12,6 @@ date: 1982-01-09
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3
     title: аудиозапись в MP3 (6 мин. 32 сек., 4,7 МБ)

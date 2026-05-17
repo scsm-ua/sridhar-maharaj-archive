@@ -13,8 +13,6 @@ category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вриндаван
     slug: vrindavan
   - title: Духовный мир

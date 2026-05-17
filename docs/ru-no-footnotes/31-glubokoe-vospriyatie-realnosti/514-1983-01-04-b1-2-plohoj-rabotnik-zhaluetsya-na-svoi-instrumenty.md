@@ -12,9 +12,6 @@ date: 1983-01-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
     title: аудиозапись в MP3 (4 мин. 48 сек., 3,1 МБ)

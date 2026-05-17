@@ -12,15 +12,6 @@ date: 1981-02-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.02"
-    slug: 1981-02
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 15.2
-    slug: bhagavad-gita-15-2
-  - title: Бхагавад-гита 9.10
-    slug: bhagavad-gita-9-10
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 4,2 МБ)
@@ -32,6 +23,13 @@ legacy:
   title: 617. 1981.02.28.D3. Что значит выражение «Субъективная эволюция»?
   index: "617"
   filename: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.2
+    slug: bhagavad-gita-15-2
+  - title: Бхагавад-гита 9.10
+    slug: bhagavad-gita-9-10
 ---
 
 **Шрила Шридхар Махарадж:** Веданта означает «субъективная эволюция».

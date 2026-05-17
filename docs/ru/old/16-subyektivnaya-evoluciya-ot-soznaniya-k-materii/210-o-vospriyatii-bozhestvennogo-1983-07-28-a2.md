@@ -1,7 +1,7 @@
 ---
 slug: 210-o-vospriyatii-bozhestvennogo-1983-07-28-a2
 record_id: 1983.07.28.A2
-title: О восприятии Божественного.
+title: О восприятии Божественного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

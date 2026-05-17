@@ -1,7 +1,7 @@
 ---
 slug: 487-o-duhovnom-polozhenii-krishnadasa-bab
 record_id: 1983.04.16.A5
-title: О духовном положении Кришнадаса Бабаджи.
+title: О духовном положении Кришнадаса Бабаджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Кришнадас Бабаджи
     slug: krishnadas-babadzhi
 links:

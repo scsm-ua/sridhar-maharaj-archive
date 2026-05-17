@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Самопредание
     slug: samopredanie
   - title: Шаранагати

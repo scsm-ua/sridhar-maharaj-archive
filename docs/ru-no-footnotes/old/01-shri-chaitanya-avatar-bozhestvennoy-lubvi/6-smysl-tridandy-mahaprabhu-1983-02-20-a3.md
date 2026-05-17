@@ -1,7 +1,7 @@
 ---
 slug: 6-smysl-tridandy-mahaprabhu-1983-02-20-a3
 record_id: 1983.02.20.A3
-title: Смысл триданды Махапрабху.
+title: Смысл триданды Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Махапрабху
     slug: mahaprabhu
   - title: Санньяса

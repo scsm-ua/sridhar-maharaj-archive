@@ -1,7 +1,7 @@
 ---
 slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
 title: Мгновения ПР. Ч. 4.8. «Безграничное – Безграничное = Безграничное».
-  Мантра Ишопанишад
+  Мантра Ишопанишад.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

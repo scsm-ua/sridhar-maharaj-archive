@@ -12,9 +12,6 @@ date: 1981-02-28
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1981.02"
-    slug: 1981-02
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
     title: аудиозапись в MP3 (11 мин. 34 сек., 8,1 МБ)

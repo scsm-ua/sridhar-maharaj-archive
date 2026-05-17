@@ -1,7 +1,7 @@
 ---
 slug: 366-ontologiya-pr-ch-5-1-1-ob-urovne-vajshnava-nelzya-sudit-po-masshtabu-ego-propovedi
 title: Онтология ПР. Ч. 5.1.1. Об уровне вайшнава нельзя судить по масштабу его
-  проповеди
+  проповеди.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

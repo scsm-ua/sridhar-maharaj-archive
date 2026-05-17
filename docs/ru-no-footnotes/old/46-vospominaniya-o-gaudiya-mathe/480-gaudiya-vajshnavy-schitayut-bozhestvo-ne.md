@@ -1,7 +1,7 @@
 ---
 slug: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne
 record_id: 1982.01.13.B3
-title: Гаудия-вайшнавы считают Божество неотличным от Господа .
+title: "Гаудия-вайшнавы считают Божество неотличным от Господа "
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Божество
     slug: bozhestvo
   - title: Гаудия-матх

@@ -12,9 +12,6 @@ date: 1983-04-16
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
     title: аудиозапись в MP3 (5 мин. 09 сек., 3,3 МБ)

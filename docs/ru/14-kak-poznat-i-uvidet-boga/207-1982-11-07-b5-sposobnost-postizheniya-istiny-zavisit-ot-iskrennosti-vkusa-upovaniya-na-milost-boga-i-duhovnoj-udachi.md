@@ -13,9 +13,19 @@ date: 1982-11-07
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
+links:
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
+    title: аудиозапись в MP3 (26 мин. 18 сек., 24,8 МБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.rtf
+    title: транскрипцию в RTF (336 КБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.pdf
+    title: транскрипцию в PDF (195 КБ)
+legacy:
+  title: 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности,
+    вкуса, упования на милость Бога и духовной удачи
+  index: "207"
+  filename: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
@@ -70,18 +80,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-links:
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
-    title: аудиозапись в MP3 (26 мин. 18 сек., 24,8 МБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.rtf
-    title: транскрипцию в RTF (336 КБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.pdf
-    title: транскрипцию в PDF (195 КБ)
-legacy:
-  title: 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности,
-    вкуса, упования на милость Бога и духовной удачи
-  index: "207"
-  filename: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
 ---
 
 Существуют тонкие положения, и все зависит от искренности души, которая способна знать, что есть что.
@@ -131,7 +129,7 @@ legacy:
 
 *#00:04:39#*
 
-Преданные *шанта-расы:*
+Преданные *шанта-расы*:
 
     [тасйа̄равинда-найанасйа пада̄равинда-]
     кин̃джалка-миш́ра-туласӣ-макаранда-ва̄йух̣
@@ -263,7 +261,7 @@ legacy:
 
 *#00:24:40#*
 
-Вопрос энергии *карми(?).* Существует множество военачальников, генералов — Ганнибал, Александр Македонский; существует множество ученых — Ньютон, Эйнштейн и так далее. Высочайшим критерием служит преданность, покорность Абсолютному, Одному. Он — один, и любовь к Нему, вера в Него — вот высочайший критерий, с помощью которого можно судить о том, кто есть кто. Этим высочайшим критерием служит наше искреннее самоотдание, отдание себя Ему, привязанность, преданность Высочайшему Центру, а не способность знать, интеллект, не говоря уже о грубой [буквально] сырой энергии.
+Вопрос энергии *карми*(?). Существует множество военачальников, генералов — Ганнибал, Александр Македонский; существует множество ученых — Ньютон, Эйнштейн и так далее. Высочайшим критерием служит преданность, покорность Абсолютному, Одному. Он — один, и любовь к Нему, вера в Него — вот высочайший критерий, с помощью которого можно судить о том, кто есть кто. Этим высочайшим критерием служит наше искреннее самоотдание, отдание себя Ему, привязанность, преданность Высочайшему Центру, а не способность знать, интеллект, не говоря уже о грубой [буквально] сырой энергии.
 
 *#00:24:40#*
 

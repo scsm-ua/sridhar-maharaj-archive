@@ -13,8 +13,6 @@ category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Дхарма
     slug: dharma
 links:

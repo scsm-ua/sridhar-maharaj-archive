@@ -12,9 +12,6 @@ date: 1982-04-16
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3
     title: аудиозапись в MP3 (6 мин. 07 сек., 6,0 МБ)

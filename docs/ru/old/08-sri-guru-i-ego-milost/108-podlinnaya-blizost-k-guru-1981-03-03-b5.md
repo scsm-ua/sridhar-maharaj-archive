@@ -1,7 +1,7 @@
 ---
 slug: 108-podlinnaya-blizost-k-guru-1981-03-03-b5
 record_id: 1981.03.03.B5
-title: Подлинная близость к гуру.
+title: Подлинная близость к гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Качества ученика

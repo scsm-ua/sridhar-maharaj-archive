@@ -1,7 +1,7 @@
 ---
 slug: 275-sluzhenie-gopi-ideal-predannosti-kri
 record_id: 1983.06.05.C2
-title: Служение гопи — идеал преданности Кришне.
+title: Служение гопи — идеал преданности Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхакти
     slug: bhakti
 links:

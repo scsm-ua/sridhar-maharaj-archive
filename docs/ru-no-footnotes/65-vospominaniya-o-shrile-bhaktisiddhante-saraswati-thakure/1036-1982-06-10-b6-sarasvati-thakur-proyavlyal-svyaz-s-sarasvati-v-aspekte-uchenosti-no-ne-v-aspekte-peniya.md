@@ -13,9 +13,6 @@ date: 1982-06-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3
     title: аудиозапись в MP3 (3 мин. 32 сек., 2,9 МБ)
@@ -34,7 +31,7 @@ legacy:
 
 **Шрила Шридхар Махарадж:** Что?
 
-**Акхаянанда Махарадж:** *Санньяси*, носящий титул «Сарасвати», не только знаток *шастры*, но здесь также сказано: *шастрийа-сангита.*
+**Акхаянанда Махарадж:** *Санньяси*, носящий титул «Сарасвати», не только знаток *шастры*, но здесь также сказано: *шастрийа-сангита*.
 
 **Шрила Шридхар Махарадж:** А где это сказано? Я не встречал ничего подобного. В «Анубхашье» Прабхупады?
 

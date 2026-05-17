@@ -1,7 +1,7 @@
 ---
 slug: 126-podlinnye-voprosy-zadayutsya-vo-imya-bl
 record_id: 1981.03.03.A1
-title: Подлинные вопросы задаются во имя блага всего мира.
+title: Подлинные вопросы задаются во имя блага всего мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Качества ученика

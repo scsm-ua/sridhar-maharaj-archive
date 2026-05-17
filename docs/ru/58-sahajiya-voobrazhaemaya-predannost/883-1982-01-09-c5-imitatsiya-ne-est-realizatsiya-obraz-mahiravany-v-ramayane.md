@@ -1,7 +1,7 @@
 ---
 slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
 record_id: 1982.01.09.C5
-title: Имитация не есть реализация. Образ Махираваны в Рамаяне
+title: Имитация не есть реализация. Образ Махираваны в Рамаяне.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,19 +12,6 @@ date: 1982-01-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.152
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-152
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-153
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-154
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
     title: аудиозапись в MP3 (15 мин. 12 сек., 9,1 МБ)
@@ -36,6 +23,17 @@ legacy:
   title: 883. 1982.01.09.C5. Имитация не есть реализация. Образ Махираваны в Рамаяне
   index: "883"
   filename: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.152
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-152
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-153
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-154
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.

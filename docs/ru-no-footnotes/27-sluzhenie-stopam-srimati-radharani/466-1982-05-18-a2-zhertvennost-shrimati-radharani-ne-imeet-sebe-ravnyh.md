@@ -12,9 +12,6 @@ date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
     title: аудиозапись в MP3 (8 мин. 16 сек., 8,0 МБ)

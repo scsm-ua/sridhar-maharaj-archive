@@ -1,7 +1,7 @@
 ---
 slug: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda
 record_id: 1981.03.10.C2.C4
-title: Смирение – основа санкиртаны. Учение Махапрабху и поэзия Бхактивинода
+title: Смирение – основа санкиртаны. Учение Махапрабху и поэзия Бхактивинода.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
 links:

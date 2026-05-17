@@ -1,6 +1,6 @@
 ---
 slug: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov
-title: Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников
+title: Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: дата неизвестна
-    slug: data-neizvestna
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
     title: аудиозапись в MP3 (6 мин. 29 сек., 3.1 МБ)

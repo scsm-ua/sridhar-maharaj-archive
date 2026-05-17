@@ -1,7 +1,7 @@
 ---
 slug: 498-gospod-nityananda-i-semya-bhaktive
 record_id: 1982.01.04.A2
-title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады.
+title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Нитьянанда Прабху

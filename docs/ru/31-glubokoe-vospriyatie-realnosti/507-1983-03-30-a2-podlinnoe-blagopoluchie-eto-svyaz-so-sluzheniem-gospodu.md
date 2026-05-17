@@ -12,9 +12,6 @@ date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
     title: аудиозапись в MP3 (3 мин. 57 сек., 2,7 МБ)

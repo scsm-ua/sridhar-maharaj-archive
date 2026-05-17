@@ -12,9 +12,6 @@ date: 1981-03-10
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
     title: аудиозапись в MP3 (9 мин. 11 сек., 5,8 МБ)

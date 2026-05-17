@@ -12,9 +12,6 @@ date: 1983-01-04
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
     title: аудиозапись в MP3 (21 мин. 33 сек., 12,9 МБ)

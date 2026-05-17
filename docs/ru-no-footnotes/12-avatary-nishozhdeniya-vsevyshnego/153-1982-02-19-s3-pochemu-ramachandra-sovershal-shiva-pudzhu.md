@@ -13,8 +13,6 @@ category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Рамачандра
     slug: ramachandra
 links:

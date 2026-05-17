@@ -12,9 +12,6 @@ date: 1981-02-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.02"
-    slug: 1981-02
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 4,2 МБ)

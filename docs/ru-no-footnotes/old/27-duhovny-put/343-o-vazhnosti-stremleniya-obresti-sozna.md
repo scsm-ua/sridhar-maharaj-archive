@@ -1,7 +1,7 @@
 ---
 slug: 343-o-vazhnosti-stremleniya-obresti-sozna
 record_id: 1984.01.15.B5
-title: О важности стремления обрести Сознание Кришны.
+title: О важности стремления обрести Сознание Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1984-01-15
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
-tags:
-  - title: "1984.01"
-    slug: 1984-01
 links:
   - href: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
     title: Скачать аудиозапись в mp3 (3 мин 15 сек, размер 1 Мб)

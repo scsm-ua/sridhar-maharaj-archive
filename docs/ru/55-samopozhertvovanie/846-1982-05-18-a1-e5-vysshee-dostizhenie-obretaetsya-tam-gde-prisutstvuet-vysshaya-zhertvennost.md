@@ -13,8 +13,6 @@ category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Самопредание
     slug: samopredanie
   - title: Бхагавад-гита

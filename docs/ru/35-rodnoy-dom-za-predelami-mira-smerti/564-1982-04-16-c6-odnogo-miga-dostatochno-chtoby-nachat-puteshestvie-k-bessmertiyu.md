@@ -12,19 +12,6 @@ date: 1982-04-16
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 2.20
-    slug: bhagavad-gita-2-20
-  - title: Бхагавад-гита 2.23
-    slug: bhagavad-gita-2-23
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 2.1.12
-    slug: shrimad-bhagavatam-2-1-12
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
     title: аудиозапись в MP3 (6 мин. 57 сек., 9,2 МБ)
@@ -37,6 +24,17 @@ legacy:
     бессмертию
   index: "564"
   filename: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 2.20
+    slug: bhagavad-gita-2-20
+  - title: Бхагавад-гита 2.23
+    slug: bhagavad-gita-2-23
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.1.12
+    slug: shrimad-bhagavatam-2-1-12
 ---
 
 Мир приходит и уходит, как и творение в целом. Творение и растворение повсюду: и в малом, и в большом — такова природа этого материального мира. Но мир может быть уничтожен, а мы можем быть не затронуты этим никоим образом. Шукадева Госвами советует Парикшиту: тебе лишь необходимо убить животное сознание — представление, согласно которому ты умираешь. Ты не есть это тело, не отождествляй себя с этим материальным телом. Ты субъект, ты смотрящий, ты видящий, наблюдатель, тот, кто чувствует эти материальные реалии, ты отдельное существо, ты душа. Когда тело умирает, то ты не умираешь.

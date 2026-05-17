@@ -12,9 +12,6 @@ date: 1982-04-25
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3
     title: аудиозапись в MP3 (3 мин. 41 сек., 6,2 МБ)

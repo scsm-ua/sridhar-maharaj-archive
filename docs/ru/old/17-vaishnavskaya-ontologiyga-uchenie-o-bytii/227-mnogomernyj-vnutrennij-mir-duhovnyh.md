@@ -1,7 +1,7 @@
 ---
 slug: 227-mnogomernyj-vnutrennij-mir-duhovnyh
 record_id: 1983.01.04.A4
-title: Многомерный внутренний мир духовных личностей.
+title: Многомерный внутренний мир духовных личностей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Юдхиштхира
     slug: yudhishthira
 links:

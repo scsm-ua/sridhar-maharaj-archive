@@ -1,7 +1,7 @@
 ---
 slug: 405-podlinnoe-obrashhenie-dushi-k-bogu-1983-04-15-b
 record_id: 1983.04.15.B
-title: Подлинное обращение души к Богу.
+title: Подлинное обращение души к Богу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Самопредание
     slug: samopredanie
   - title: Шаранагати

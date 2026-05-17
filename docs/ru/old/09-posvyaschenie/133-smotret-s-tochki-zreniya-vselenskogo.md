@@ -1,7 +1,7 @@
 ---
 slug: 133-smotret-s-tochki-zreniya-vselenskogo
 record_id: 1983.01.25.B1
-title: «Смотреть с точки зрения вселенского интереса».
+title: «Смотреть с точки зрения вселенского интереса»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (09. Посвящение)
   slug: 09-posvyaschenie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Посвящение
     slug: posvyashhenie
 links:

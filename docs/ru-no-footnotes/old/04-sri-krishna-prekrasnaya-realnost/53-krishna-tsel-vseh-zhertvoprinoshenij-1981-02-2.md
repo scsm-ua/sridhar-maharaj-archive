@@ -1,7 +1,7 @@
 ---
 slug: 53-krishna-tsel-vseh-zhertvoprinoshenij-1981-02-2
 record_id: 1981.02.28.C4
-title: Кришна — цель всех жертвоприношений.
+title: Кришна — цель всех жертвоприношений
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Кришна
     slug: krishna
 links:

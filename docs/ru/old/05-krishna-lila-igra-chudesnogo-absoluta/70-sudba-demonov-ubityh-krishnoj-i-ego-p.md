@@ -1,7 +1,7 @@
 ---
 slug: 70-sudba-demonov-ubityh-krishnoj-i-ego-p
 record_id: 1981.03.05.A4
-title: Судьба демонов, убитых Кришной, и Его преданных.
+title: Судьба демонов, убитых Кришной, и Его преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Рупа Госвами
     slug: rupa-gosvami
 links:

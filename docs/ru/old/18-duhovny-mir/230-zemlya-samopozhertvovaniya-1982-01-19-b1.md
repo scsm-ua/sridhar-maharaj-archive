@@ -1,7 +1,7 @@
 ---
 slug: 230-zemlya-samopozhertvovaniya-1982-01-19-b1
 record_id: 1982.01.19.B1
-title: Земля самопожертвования.
+title: Земля самопожертвования
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Духовный мир
     slug: duhovnyj-mir
   - title: Знание

@@ -1,7 +1,7 @@
 ---
 slug: 271-lyubov-irratsionalna-1983-02-07-a1
 record_id: 1983.02.07.A1
-title: Любовь иррациональна.
+title: Любовь иррациональна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхакти
     slug: bhakti
   - title: Любовь

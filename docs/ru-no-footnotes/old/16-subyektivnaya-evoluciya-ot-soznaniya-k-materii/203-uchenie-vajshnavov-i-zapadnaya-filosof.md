@@ -1,7 +1,7 @@
 ---
 slug: 203-uchenie-vajshnavov-i-zapadnaya-filosof
 record_id: 1983.01.12.B2
-title: Учение вайшнавов и западная философия.
+title: Учение вайшнавов и западная философия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-12
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /wp-content/uploads/2012/08/203_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
     title: Скачать аудиозапись в mp3 (7 мин 28 сек, размер 3 Мб)

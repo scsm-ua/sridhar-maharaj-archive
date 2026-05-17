@@ -13,9 +13,6 @@ date: 1982-05-11
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3
     title: аудиозапись в MP3 (5 мин. 14 сек., 6,3 МБ)

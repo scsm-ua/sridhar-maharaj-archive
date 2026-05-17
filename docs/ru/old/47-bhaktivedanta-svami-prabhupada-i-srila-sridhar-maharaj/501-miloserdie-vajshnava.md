@@ -1,7 +1,7 @@
 ---
 slug: 501-miloserdie-vajshnava
 record_id: null
-title: Милосердие вайшнава.
+title: Милосердие вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

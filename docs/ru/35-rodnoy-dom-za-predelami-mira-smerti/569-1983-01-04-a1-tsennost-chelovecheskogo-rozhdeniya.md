@@ -12,9 +12,18 @@ date: 1983-01-04
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
+    title: аудиозапись в MP3 (21 мин. 33 сек., 12,9 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.rtf
+    title: транскрипцию в RTF (182 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.pdf
+    title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 569. 1983.01.04.A1. Ценность человеческого рождения
+  index: "569"
+  filename: 569-1983-01-04-a1-tsennost-chelovecheskogo-rozhdeniya.md
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
@@ -29,17 +38,6 @@ tags:
     slug: shvetashvatara-upanishad-2-5
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
-    title: аудиозапись в MP3 (21 мин. 33 сек., 12,9 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.rtf
-    title: транскрипцию в RTF (182 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.pdf
-    title: транскрипцию в PDF (167 КБ)
-legacy:
-  title: 569. 1983.01.04.A1. Ценность человеческого рождения
-  index: "569"
-  filename: 569-1983-01-04-a1-tsennost-chelovecheskogo-rozhdeniya.md
 ---
 
 …Как извне, так и изнутри. Сотрудничество. Благодаря сотрудничеству мы можем совершать прогресс в любой сфере жизни. Такова ситуация, таково положение вещей. Мы должны принимать помощь от окружения, от окружающего мира. В различных сферах также: разбойник, бандит получает свое знание о разбое, о бандитизме от другого, более опытного бандита; и хороший, добродетельный человек, праведник, получает свое знание от более образованного человека, более сведущего.

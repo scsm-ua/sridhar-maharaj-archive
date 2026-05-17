@@ -12,9 +12,18 @@ date: 1982-02-27
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
+links:
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
+    title: аудиозапись в MP3 (14 мин. 43 сек., 7,4 МБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.rtf
+    title: транскрипцию в RTF (114 КБ)
+  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.pdf
+    title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
+  index: "512"
+  filename: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.36
@@ -33,17 +42,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-links:
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
-    title: аудиозапись в MP3 (14 мин. 43 сек., 7,4 МБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.rtf
-    title: транскрипцию в RTF (114 КБ)
-  - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.pdf
-    title: транскрипцию в PDF (153 КБ)
-legacy:
-  title: 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
-  index: "512"
-  filename: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
 ---
 
 Онтология Прекрасной Реальности (часть 2.6)

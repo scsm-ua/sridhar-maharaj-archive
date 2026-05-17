@@ -12,9 +12,18 @@ date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
+    title: аудиозапись в MP3 (22 мин. 32 сек., 13,1 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.rtf
+    title: транскрипцию в RTF (199 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.pdf
+    title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 947. 1983.05.04.B1. Жизненный путь Рагхунатха Даса Госвами
+  index: "947"
+  filename: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
@@ -31,17 +40,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
     slug: shri-chajtanya-charitamrita-adi-lila-8-78
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
-    title: аудиозапись в MP3 (22 мин. 32 сек., 13,1 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.rtf
-    title: транскрипцию в RTF (199 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.pdf
-    title: транскрипцию в PDF (168 КБ)
-legacy:
-  title: 947. 1983.05.04.B1. Жизненный путь Рагхунатха Даса Госвами
-  index: "947"
-  filename: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
 ---
 
 **Преданный:** Мы видим, как Рагхунатх Дас Госвами принимал руководство Махапрабху, затем Сварупы Дамодара, затем Рупы и Санатаны…

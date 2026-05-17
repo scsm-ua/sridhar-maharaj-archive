@@ -1,7 +1,7 @@
 ---
 slug: 412-dzhi-bi-si-vajkunthi-1981-11-12-a2
 record_id: 1981.11.12.A2
-title: Джи-би-си Вайкунтхи.
+title: Джи-би-си Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Самопредание

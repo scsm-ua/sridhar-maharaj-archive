@@ -12,9 +12,6 @@ date: 1982-11-07
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3
     title: аудиозапись в MP3 (13 мин. 26 сек., 13,1 МБ)

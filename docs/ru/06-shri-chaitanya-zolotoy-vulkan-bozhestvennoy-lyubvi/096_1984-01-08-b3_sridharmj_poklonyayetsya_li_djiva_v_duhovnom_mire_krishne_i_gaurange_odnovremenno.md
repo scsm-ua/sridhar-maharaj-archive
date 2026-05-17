@@ -12,11 +12,6 @@ date: 1984-01-08
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
-tags:
-  - title: "1984.01"
-    slug: 1984-01
-  - title: with English audio
-    slug: with-english-audio
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/096_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
     title: аудиозапись в MP3 (3 мин. 06 сек., 3.7 МБ)

@@ -12,9 +12,6 @@ date: 1982-01-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/945_1982.01.19.C1_SridharMj_Blagoslovenie_Mahaprabhu_Sanatane_Gosvami.mp3
     title: аудиозапись в MP3 (1 мин. 51 сек., 3,6 МБ)

@@ -1,6 +1,6 @@
 ---
 slug: 645-ontologiya-pr-ch-7-3-soznanie-ne-mozhet-sushhestvovat-bez-lichnosti
-title: Онтология ПР. Ч. 7.3. Сознание не может существовать без личности
+title: Онтология ПР. Ч. 7.3. Сознание не может существовать без личности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

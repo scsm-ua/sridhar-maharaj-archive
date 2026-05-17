@@ -1,7 +1,7 @@
 ---
 slug: 294-o-predannosti-i-neobychajnoj-sile-abh
 record_id: 1983.05.04.B2
-title: О преданности и необычайной силе Абхирама Тхакура.
+title: О преданности и необычайной силе Абхирама Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Абхирам Тхакур
     slug: abhiram-thakur
   - title: Истории о вайшнавах

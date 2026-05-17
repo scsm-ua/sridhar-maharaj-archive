@@ -12,9 +12,6 @@ date: 1981-03-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.mp3
     title: аудиозапись в MP3 (4 мин. 28 сек., 5,0 МБ)

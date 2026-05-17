@@ -1,7 +1,7 @@
 ---
 slug: 43-absolyut-pokoryaetsya-lyubvi-1983-01-05-a2
 record_id: 1983.01.05.A2
-title: Абсолют покоряется любви.
+title: Абсолют покоряется любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Вера
     slug: vera
   - title: Любовь

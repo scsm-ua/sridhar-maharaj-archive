@@ -1,7 +1,7 @@
 ---
 slug: 329-formula-garmonii-1983-02-11-b3
 record_id: 1983.02.11.B3
-title: Формула гармонии.
+title: Формула гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Гармония
     slug: garmoniya
 links:

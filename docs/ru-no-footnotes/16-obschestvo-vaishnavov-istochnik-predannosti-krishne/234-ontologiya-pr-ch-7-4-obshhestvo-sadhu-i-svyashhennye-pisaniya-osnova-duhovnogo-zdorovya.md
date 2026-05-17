@@ -1,7 +1,7 @@
 ---
 slug: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya
 title: Онтология ПР. Ч. 7.4. Общество садху и священные писания — основа
-  духовного здоровья
+  духовного здоровья.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

@@ -1,7 +1,7 @@
 ---
 slug: 385-obshhenie-s-vajshnavom-prevyshe-poklone
 record_id: 1983.01.22.C1
-title: Общение с вайшнавом превыше поклонения Божеству.
+title: Общение с вайшнавом превыше поклонения Божеству
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Арчана
     slug: archana
   - title: Биография Шридхара Махараджа

@@ -12,9 +12,6 @@ date: 1982-02-19
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/872_1982.02.19.C5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
     title: аудиозапись в MP3 (3 мин. 46 сек., 3,0 МБ)

@@ -12,9 +12,6 @@ date: 1981-08-27
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
     title: аудиозапись в MP3 (7 мин. 33 сек., 4,1 МБ)

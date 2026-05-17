@@ -12,17 +12,6 @@ date: 1982-03-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-158
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
-  - title: Шветашватара-упанишад 6.7–8
-    slug: shvetashvatara-upanishad-6-7-8
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
     title: аудиозапись в MP3 (8 мин. 16 сек., 8,5 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 634. 1982.03.29.D4. Баладев, Кришна, Радхарани и самопознание Абсолюта
   index: "634"
   filename: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-158
+  - title: Шветашватара-упанишад
+    slug: shvetashvatara-upanishad
+  - title: Шветашватара-упанишад 6.7–8
+    slug: shvetashvatara-upanishad-6-7-8
 ---
 
 **Пхулангана Деви Даси:** Я читала в *шастре* о том, что Бог не знает Себя.
@@ -42,7 +40,7 @@ legacy:
 
 [**Преданный** переводит на бенгали.]
 
-**Шрила Шридхар Махарадж:** [Смеется.] *Ниджа-гуна*. Ему известны Его качества, Ему известна Его природа, и ради этого Он словно бы принимает иной облик, облик Баладева. У Него есть *шакти.*
+**Шрила Шридхар Махарадж:** [Смеется.] *Ниджа-гуна*. Ему известны Его качества, Ему известна Его природа, и ради этого Он словно бы принимает иной облик, облик Баладева. У Него есть *шакти*.
 
 *#00:00:44#*
 

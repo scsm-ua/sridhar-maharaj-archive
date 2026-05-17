@@ -1,7 +1,7 @@
 ---
 slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
 record_id: 1983.04.01.A1
-title: Градация священных писаний. Величие «Шримад-Бхагаватам»
+title: Градация священных писаний. Величие «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-04-01
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
     title: аудиозапись в MP3 (17 мин. 42 сек., 8,8 МБ)

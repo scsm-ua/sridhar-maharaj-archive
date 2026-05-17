@@ -1,7 +1,7 @@
 ---
 slug: 336-pomoshh-vajshnavov-pomozhet-preodolet
 record_id: 1983.02.11.A1
-title: Помощь вайшнавов поможет преодолеть трудности пути.
+title: Помощь вайшнавов поможет преодолеть трудности пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-02-11
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
-tags:
-  - title: "1983.02"
-    slug: 1983-02
 links:
   - href: /wp-content/uploads/2012/08/336_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
     title: Скачать аудиозапись в mp3 (32 мин 14 сек, размер 15 Мб)

@@ -12,9 +12,6 @@ date: 1980-07-11
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1980.07"
-    slug: 1980-07
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
     title: аудиозапись в MP3 (8 мин. 42 сек., 5,4 МБ)

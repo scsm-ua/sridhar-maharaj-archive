@@ -12,9 +12,6 @@ date: 1981-08-20
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 2,7 МБ)

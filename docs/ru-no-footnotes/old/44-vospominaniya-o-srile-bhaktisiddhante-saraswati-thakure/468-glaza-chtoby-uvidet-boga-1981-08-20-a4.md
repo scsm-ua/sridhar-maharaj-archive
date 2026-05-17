@@ -1,7 +1,7 @@
 ---
 slug: 468-glaza-chtoby-uvidet-boga-1981-08-20-a4
 record_id: 1981.08.20.A4
-title: Глаза чтобы увидеть Бога.
+title: Глаза чтобы увидеть Бога
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

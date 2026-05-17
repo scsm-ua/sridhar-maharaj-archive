@@ -1,7 +1,7 @@
 ---
 slug: 103-o-prinyatii-duhovnym-uchitelem-karmy-u
 record_id: 1981.03.04.C1
-title: О принятии духовным учителем кармы учеников.
+title: О принятии духовным учителем кармы учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Карма

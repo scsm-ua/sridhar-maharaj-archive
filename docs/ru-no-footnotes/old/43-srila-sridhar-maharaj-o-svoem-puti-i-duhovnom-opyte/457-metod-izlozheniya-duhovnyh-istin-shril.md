@@ -1,7 +1,7 @@
 ---
 slug: 457-metod-izlozheniya-duhovnyh-istin-shril
 record_id: 1981.03.03.C1
-title: Метод изложения духовных истин Шрилой Шридхаром Махараджем.
+title: Метод изложения духовных истин Шрилой Шридхаром Махараджем
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
 links:

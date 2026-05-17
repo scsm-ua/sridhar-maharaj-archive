@@ -1,7 +1,7 @@
 ---
 slug: 214-povtorenie-oshhushheniya-ne-yavlyaetsya-opy
 record_id: 1983.04.16.A2
-title: Повторение ощущения не является опытом.
+title: Повторение ощущения не является опытом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Бхакти
     slug: bhakti
 links:

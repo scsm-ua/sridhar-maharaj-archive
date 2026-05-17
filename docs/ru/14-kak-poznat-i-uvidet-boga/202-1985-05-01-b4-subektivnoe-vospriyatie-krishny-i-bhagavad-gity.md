@@ -12,13 +12,6 @@ date: 1985-05-01
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1985.05"
-    slug: 1985-05
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.43.17
-    slug: shrimad-bhagavatam-10-43-17
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 2,1 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 202. 1985.05.01.B4. Субъективное восприятие Кришны и «Бхагавад-гиты»
   index: "202"
   filename: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
 ---
 
 Необходимо отвергнуть все впечатления прошлой жизни, все виды практики также должны быть отвергнуты, останется только сознание Кришны, представленное Махапрабху Шри Чайтаньядевом. Оно также представлено и многими другими. Даже анархисты почтительно относятся к Кришне и Бхагавад-гите. Они черпают вдохновение в Бхагавад-гите.

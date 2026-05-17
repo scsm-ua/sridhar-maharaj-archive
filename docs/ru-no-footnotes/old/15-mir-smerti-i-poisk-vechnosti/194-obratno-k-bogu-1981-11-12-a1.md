@@ -1,7 +1,7 @@
 ---
 slug: 194-obratno-k-bogu-1981-11-12-a1
 record_id: 1981.11.12.A1
-title: Обратно к Богу.
+title: Обратно к Богу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Душа
     slug: dusha
 links:

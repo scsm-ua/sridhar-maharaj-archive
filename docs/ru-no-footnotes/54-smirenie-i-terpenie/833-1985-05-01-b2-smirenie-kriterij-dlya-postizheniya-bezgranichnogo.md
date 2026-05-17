@@ -12,9 +12,6 @@ date: 1985-05-01
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
-tags:
-  - title: "1985.05"
-    slug: 1985-05
 links:
   - href: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
     title: аудиозапись в MP3 (3 мин. 42 сек., 2,6 МБ)

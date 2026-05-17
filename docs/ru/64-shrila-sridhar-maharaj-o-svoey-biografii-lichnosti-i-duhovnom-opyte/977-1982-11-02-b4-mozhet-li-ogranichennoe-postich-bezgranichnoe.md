@@ -12,17 +12,6 @@ date: 1982-11-02
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-  - title: Катха-упанишад
-    slug: katha-upanishad
-  - title: Катха-упанишад 1.2.23
-    slug: katha-upanishad-1-2-23
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 3–4
-    slug: sharanagati-3-4
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/977_1982.11.02.B4_SridharMj_Mozhet_li_ogranichennoe_postich_Bezgranichnoe.mp3
     title: аудиозапись в MP3 (3 мин. 48 сек., 4,4 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 977. 1982.11.02.B4. Может ли ограниченное постичь Безграничное?
   index: "977"
   filename: 977-1982-11-02-b4-mozhet-li-ogranichennoe-postich-bezgranichnoe.md
+tags:
+  - title: Катха-упанишад
+    slug: katha-upanishad
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
 ---
 
 Один президент отделения общества «Арья-самадж» пришел ко мне с визитом и сказал: «Если ограниченное способно знать безграничное, то это не безграничное». Я ответил: «Если бы безграничное не могло открыть себя, дать себя познать ограниченному существу, оно не было бы безграничным». Он пожал мне руку, попрощался и ушел.

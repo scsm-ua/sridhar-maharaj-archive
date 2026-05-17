@@ -1,7 +1,7 @@
 ---
 slug: 185-vajshnav-i-varnashrama-1981-11-29-a1
 record_id: 1981.11.29.A1
-title: Вайшнав и варнашрама.
+title: Вайшнав и варнашрама
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Бхакти
     slug: bhakti
   - title: Варнашрама-дхарма

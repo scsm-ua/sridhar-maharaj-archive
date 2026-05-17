@@ -1,7 +1,7 @@
 ---
 slug: 171-duhovnye-organizatsii-konkuriruyut-s
 record_id: 1983.07.19.B1
-title: Духовные организации конкурируют, стремясь удовлетворить Кришну.
+title: Духовные организации конкурируют, стремясь удовлетворить Кришну
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Будда
     slug: budda
   - title: Бхакти

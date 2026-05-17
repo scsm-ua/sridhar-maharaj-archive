@@ -1,7 +1,7 @@
 ---
 slug: 146-predskazanie-shrily-bhaktivinoda-tha
 record_id: 1982.01.21.B2
-title: Предсказание Шрилы Бхактивинода Тхакура.
+title: Предсказание Шрилы Бхактивинода Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхактивинод Тхакур
     slug: bhaktivinod-thakur
 links:

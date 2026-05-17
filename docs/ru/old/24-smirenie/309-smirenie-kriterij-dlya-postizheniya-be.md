@@ -1,7 +1,7 @@
 ---
 slug: 309-smirenie-kriterij-dlya-postizheniya-be
 record_id: 1985.05.01.B2
-title: Смирение — критерий для постижения Безграничного.
+title: Смирение — критерий для постижения Безграничного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (24. Смирение)
   slug: 24-smirenie
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Смирение
     slug: smirenie
   - title: Терпение

@@ -1,7 +1,7 @@
 ---
 slug: 181-varnashrama-dharma-i-bhagavata-dharm
 record_id: 1983.01.07.A1
-title: Варнашрама-дхарма и бхагавата-дхарма.
+title: Варнашрама-дхарма и бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

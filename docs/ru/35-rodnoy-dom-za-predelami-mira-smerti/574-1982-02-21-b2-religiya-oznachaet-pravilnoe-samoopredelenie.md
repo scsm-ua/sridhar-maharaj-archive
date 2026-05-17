@@ -12,9 +12,18 @@ date: 1982-02-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
+    title: аудиозапись в MP3 (8 мин. 31 сек., 5,6 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.rtf
+    title: транскрипцию в RTF (97 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.pdf
+    title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
+  index: "574"
+  filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
-    title: аудиозапись в MP3 (8 мин. 31 сек., 5,6 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.rtf
-    title: транскрипцию в RTF (97 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.pdf
-    title: транскрипцию в PDF (180 КБ)
-legacy:
-  title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
-  index: "574"
-  filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
 ---
 
 Мгновения Прекрасной Реальности (часть 2.2)

@@ -12,9 +12,6 @@ date: 1982-05-15
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.mp3
     title: аудиозапись в MP3 (6 мин. 08 сек., 6,6 МБ)

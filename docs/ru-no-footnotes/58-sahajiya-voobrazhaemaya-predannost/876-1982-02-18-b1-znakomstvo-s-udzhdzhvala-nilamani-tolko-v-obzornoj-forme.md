@@ -12,9 +12,6 @@ date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3
     title: аудиозапись в MP3 (10 мин. 28 сек., 11,7 МБ)

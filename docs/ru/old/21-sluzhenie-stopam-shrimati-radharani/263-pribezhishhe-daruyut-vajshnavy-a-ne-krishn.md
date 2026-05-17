@@ -1,7 +1,7 @@
 ---
 slug: 263-pribezhishhe-daruyut-vajshnavy-a-ne-krishn
 record_id: 1983.05.11.A
-title: Прибежище даруют вайшнавы, а не Кришна.
+title: Прибежище даруют вайшнавы, а не Кришна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Бхакти
     slug: bhakti
   - title: Сварупа-шакти

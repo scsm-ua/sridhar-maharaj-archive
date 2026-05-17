@@ -1,7 +1,7 @@
 ---
 slug: 1-predskazaniya-o-prihode-mahaprabhu-1983-04-16-b-2
 record_id: 1983.04.16.B2
-title: Предсказания о приходе Махапрабху.
+title: Предсказания о приходе Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Махапрабху
     slug: mahaprabhu
 links:

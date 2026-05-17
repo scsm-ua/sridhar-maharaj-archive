@@ -12,9 +12,6 @@ date: 1982-04-25
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/704_1982.04.25.A2.B_SridharMj_Zahvat_serdca_Krishnoj_v_Svjashhennyh_Pisanijah.mp3
     title: аудиозапись в MP3 (7 мин. 10 сек., 8,3 МБ)

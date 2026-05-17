@@ -1,7 +1,7 @@
 ---
 slug: 242-dusha-chudesna-i-udivitelna-1983-02-13-a2
 record_id: 1983.02.13.A2
-title: Душа чудесна и удивительна.
+title: Душа чудесна и удивительна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Душа
     slug: dusha
 links:

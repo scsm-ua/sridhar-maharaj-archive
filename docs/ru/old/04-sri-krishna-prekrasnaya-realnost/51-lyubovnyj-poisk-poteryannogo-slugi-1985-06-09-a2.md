@@ -1,7 +1,7 @@
 ---
 slug: 51-lyubovnyj-poisk-poteryannogo-slugi-1985-06-09-a2
 record_id: 1985.06.09.A2
-title: Любовный поиск потерянного слуги.
+title: Любовный поиск потерянного слуги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1985.06"
-    slug: 1985-06
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
 links:

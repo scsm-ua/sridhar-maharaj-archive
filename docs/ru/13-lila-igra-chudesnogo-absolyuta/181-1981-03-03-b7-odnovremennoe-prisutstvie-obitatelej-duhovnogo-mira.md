@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
     title: аудиозапись в MP3 (14 мин. 10 сек., 4,1 МБ)

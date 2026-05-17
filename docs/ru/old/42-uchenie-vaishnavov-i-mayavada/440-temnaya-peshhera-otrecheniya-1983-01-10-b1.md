@@ -1,7 +1,7 @@
 ---
 slug: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1
 record_id: 1983.01.10.B1
-title: Темная пещера отречения.
+title: Темная пещера отречения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Майавада
     slug: majavada
 links:

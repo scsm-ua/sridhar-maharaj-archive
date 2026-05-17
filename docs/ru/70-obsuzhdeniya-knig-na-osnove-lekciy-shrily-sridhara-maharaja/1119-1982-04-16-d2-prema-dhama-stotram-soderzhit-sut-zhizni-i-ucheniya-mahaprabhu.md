@@ -12,9 +12,6 @@ date: 1982-04-16
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1119_1982.04.16.D2_SridharMj_Prema-dhama-stotram_soderzhit_sut_zhizni_i_uchenija_Mahaprabhu.mp3
     title: аудиозапись в MP3 (2 мин. 44 сек., 3,1 МБ)

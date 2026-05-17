@@ -12,9 +12,6 @@ date: 1983-01-02
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 7,1 МБ)

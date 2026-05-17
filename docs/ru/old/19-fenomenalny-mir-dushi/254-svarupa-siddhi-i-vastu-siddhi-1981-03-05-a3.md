@@ -1,7 +1,7 @@
 ---
 slug: 254-svarupa-siddhi-i-vastu-siddhi-1981-03-05-a3
 record_id: 1981.03.05.A3
-title: Сварупа-сиддхи и васту-сиддхи.
+title: Сварупа-сиддхи и васту-сиддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Васту-сиддхи
     slug: vastu-siddhi
   - title: Душа

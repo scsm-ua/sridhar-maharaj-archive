@@ -1,7 +1,7 @@
 ---
 slug: 421-ob-opasnosti-poiska-nedostatkov-v-pr
 record_id: 1981.08.30.C1
-title: Об опасности поиска недостатков в преданных.
+title: Об опасности поиска недостатков в преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
 links:

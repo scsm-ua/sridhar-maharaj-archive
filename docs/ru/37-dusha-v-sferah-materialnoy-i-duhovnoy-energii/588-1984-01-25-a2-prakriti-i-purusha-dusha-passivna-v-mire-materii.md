@@ -1,7 +1,7 @@
 ---
 slug: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii
 record_id: 1984.01.25.A2
-title: Пракрити и пуруша. Душа пассивна в мире материи
+title: Пракрити и пуруша. Душа пассивна в мире материи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Душа
     slug: dusha
   - title: Бхагавад-гита

@@ -12,9 +12,6 @@ date: 1983-01-25
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
     title: аудиозапись в MP3 (3 мин. 40 сек., 2,4 МБ)

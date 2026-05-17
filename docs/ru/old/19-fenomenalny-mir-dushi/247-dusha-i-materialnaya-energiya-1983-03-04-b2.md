@@ -1,7 +1,7 @@
 ---
 slug: 247-dusha-i-materialnaya-energiya-1983-03-04-b2
 record_id: 1983.03.04.B2
-title: Душа и материальная энергия.
+title: Душа и материальная энергия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Душа
     slug: dusha
 links:

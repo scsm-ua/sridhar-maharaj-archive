@@ -12,9 +12,18 @@ date: 1983-11-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
+    title: аудиозапись в MP3 (6 мин. 48 сек., 7,2 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.rtf
+    title: транскрипцию в RTF (86 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.pdf
+    title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 643. 1983.11.28.A2. Часть Безграничного также безгранична
+  index: "643"
+  filename: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
@@ -33,17 +42,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
-    title: аудиозапись в MP3 (6 мин. 48 сек., 7,2 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.rtf
-    title: транскрипцию в RTF (86 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.pdf
-    title: транскрипцию в PDF (151 КБ)
-legacy:
-  title: 643. 1983.11.28.A2. Часть Безграничного также безгранична
-  index: "643"
-  filename: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna.md
 ---
 
 Имя Кришны есть Сам Кришна, Кришна-*катха* — это Сам Кришна.

@@ -1,7 +1,7 @@
 ---
 slug: 2-smysl-sannyasy-mahaprabhu-vernut-d
 record_id: 1984.01.15.B1
-title: Смысл санньясы Махапрабху — вернуть домой заблудшие души.
+title: Смысл санньясы Махапрабху — вернуть домой заблудшие души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Махапрабху
     slug: mahaprabhu
 links:

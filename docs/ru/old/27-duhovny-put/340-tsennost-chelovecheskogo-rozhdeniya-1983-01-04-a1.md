@@ -1,7 +1,7 @@
 ---
 slug: 340-tsennost-chelovecheskogo-rozhdeniya-1983-01-04-a1
 record_id: 1983.01.04.A1
-title: Ценность человеческого рождения.
+title: Ценность человеческого рождения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-04
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /wp-content/uploads/2012/08/340_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
     title: Скачать аудиозапись в mp3 (21 мин 34 сек, размер 10 Мб)

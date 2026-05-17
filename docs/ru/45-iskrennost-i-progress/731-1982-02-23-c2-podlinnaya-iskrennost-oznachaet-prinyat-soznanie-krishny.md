@@ -13,8 +13,6 @@ category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: «Шри Чайтанья-чаритамрита», Ади-лила

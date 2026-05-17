@@ -13,8 +13,6 @@ category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Святое Имя
     slug: svyatoe-imya
   - title: «Хари-бхакти-виласа», Прабхаса-кханда

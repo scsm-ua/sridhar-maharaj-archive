@@ -12,9 +12,18 @@ date: 1983-01-10
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
+links:
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
+    title: аудиозапись в MP3 (24 мин. 33 сек., 11,4 МБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.rtf
+    title: транскрипцию в RTF (222 КБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.pdf
+    title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 886. 1983.01.10.B1. Темная пещера отречения
+  index: "886"
+  filename: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya.md
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Шаранагати
     slug: sharanagati
   - title: Шаранагати 3.3
@@ -39,17 +48,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-45
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.124
     slug: shri-chajtanya-charitamrita-madhya-lila-8-124
-links:
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
-    title: аудиозапись в MP3 (24 мин. 33 сек., 11,4 МБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.rtf
-    title: транскрипцию в RTF (222 КБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.pdf
-    title: транскрипцию в PDF (173 КБ)
-legacy:
-  title: 886. 1983.01.10.B1. Темная пещера отречения
-  index: "886"
-  filename: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya.md
 ---
 
 Мы ограниченные существа, и мы стремимся к Безграничному — такого рода жажда не может быть удовлетворена легко. Однако наша молитва должна быть такой. Все, что я получаю или зарабатываю, должно быть благом. Общение с благом, а не со злом, не реакционное явление. То, о чем идет речь, также является реакционным в каком-то смысле, но реакция эта — благая. Добро, хороший результат, святой, служение Истине, служение Высшему началу. Благодаря общению с высшим такого рода цвет, влияние приходит ко мне, и я улучшаюсь. Мы всегда должны стараться общаться с высшим благом, и такое общение невозможно без тенденции служить. Мы можем наслаждаться вещами низшей категории, реалиями более низкого порядка, но, прибегая к помощи служения, мы можем общаться с высшим началом, и реакция будет соответствующей. Ты понимаешь?

@@ -1,7 +1,7 @@
 ---
 slug: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch
 record_id: 1982.01.12.C2
-title: Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа.
+title: Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Махапрабху

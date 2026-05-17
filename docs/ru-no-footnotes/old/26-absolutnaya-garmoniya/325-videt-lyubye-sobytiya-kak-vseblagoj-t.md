@@ -1,7 +1,7 @@
 ---
 slug: 325-videt-lyubye-sobytiya-kak-vseblagoj-t
 record_id: 1982.01.09.C4
-title: Видеть любые события как всеблагой танец Кришны.
+title: Видеть любые события как всеблагой танец Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гармония
     slug: garmoniya
 links:

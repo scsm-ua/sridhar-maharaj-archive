@@ -12,9 +12,6 @@ date: 1983-01-10
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
     title: аудиозапись в MP3 (24 мин. 33 сек., 11,4 МБ)

@@ -12,13 +12,6 @@ date: 1982-05-18
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 13.14
-    slug: bhagavad-gita-13-14
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
     title: аудиозапись в MP3 (2 мин. 04 сек., 2,4 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 1055. 1982.05.18.B8. «Я хочу умереть в упряжи»
   index: "1055"
   filename: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 13.14
+    slug: bhagavad-gita-13-14
 ---
 
 **Госвами Махарадж:** Наш Гуру Махарадж написал: «В свои последние дни духовный учитель может обратиться к *нирджана-бхаджану* и передать всю свою проповедь, ответственность, своим ученикам.

@@ -13,8 +13,6 @@ category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - title: "1981.09"
-    slug: 1981-09
   - title: Мурари Гупта
     slug: murari-gupta
   - title: Нарада

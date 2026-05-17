@@ -1,7 +1,7 @@
 ---
 slug: 495-sokrovennyj-smysl-molitvy-bhaktived
 record_id: 1983.02.13.A4
-title: Сокровенный смысл молитвы Бхактиведанты Свами.
+title: Сокровенный смысл молитвы Бхактиведанты Свами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
 links:

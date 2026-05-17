@@ -12,9 +12,6 @@ date: 1982-04-29
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/994_1982.04.29.A3_SridharMj_Sledovanie_sovetam_istinnogo_sadhu_osvobozhdaet_ot_skorbi_i_bezumija.mp3
     title: аудиозапись в MP3 (1 мин. 32 сек., 2,3 МБ)

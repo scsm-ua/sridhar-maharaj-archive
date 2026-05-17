@@ -12,9 +12,6 @@ date: 1982-02-19
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
     title: аудиозапись в MP3 (10 мин. 16 сек., 5,9 МБ)

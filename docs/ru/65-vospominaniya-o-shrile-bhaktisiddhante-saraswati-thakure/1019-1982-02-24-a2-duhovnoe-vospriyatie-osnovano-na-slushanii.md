@@ -12,9 +12,6 @@ date: 1982-02-24
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.mp3
     title: аудиозапись в MP3 (2 мин. 26 сек., 2,9 МБ)

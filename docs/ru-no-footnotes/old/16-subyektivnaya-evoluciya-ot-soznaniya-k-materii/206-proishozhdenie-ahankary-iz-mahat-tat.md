@@ -1,7 +1,7 @@
 ---
 slug: 206-proishozhdenie-ahankary-iz-mahat-tat
 record_id: 1981.03.05.B2
-title: Происхождение аханкары из махат-таттвы.
+title: Происхождение аханкары из махат-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
 links:

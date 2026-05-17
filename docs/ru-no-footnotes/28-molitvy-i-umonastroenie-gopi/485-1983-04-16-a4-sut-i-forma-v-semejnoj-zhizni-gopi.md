@@ -12,9 +12,6 @@ date: 1983-04-16
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
     title: аудиозапись в MP3 (13 мин. 21 сек., 6,4 МБ)

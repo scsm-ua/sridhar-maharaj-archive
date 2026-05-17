@@ -12,9 +12,6 @@ date: 1982-05-09
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/168_1982.05.09.B3.B5_SridharMj_Transformacija_Vrindavana_lily_v_Dvaraka-lile.mp3
     title: аудиозапись в MP3 (9 мин. 30 сек., 8,8 МБ)

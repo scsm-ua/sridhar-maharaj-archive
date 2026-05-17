@@ -12,13 +12,6 @@ date: 1983-11-09
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 8.25
-    slug: bhagavad-gita-8-25
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
     title: аудиозапись в MP3 (8 мин. 07 сек., 8,4 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 638. 1983.11.09.B2. Луна и Солнце в ведической космологии
   index: "638"
   filename: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 8.25
+    slug: bhagavad-gita-8-25
 ---
 
 Какова природа этого мира, о котором говорится, что он бессмертный? В нем также есть обитатели, живые личности. Они наслаждаются там жизнью. И они посылают что-то в этот мир… *Шукра-граха*… Как это называется по-английски? Венера? Марс… Юпитер — Брихаспати.

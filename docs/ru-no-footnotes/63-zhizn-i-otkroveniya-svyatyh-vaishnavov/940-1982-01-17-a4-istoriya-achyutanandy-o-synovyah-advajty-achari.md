@@ -1,7 +1,7 @@
 ---
 slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
 record_id: 1982.01.17.A4
-title: История Ачьютананды. О сыновьях Адвайты Ачарьи
+title: История Ачьютананды. О сыновьях Адвайты Ачарьи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 6,9 МБ)

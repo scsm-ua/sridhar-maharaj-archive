@@ -1,7 +1,7 @@
 ---
 slug: 311-obyasnenie-smysla-stiha-trinad-api
 record_id: 1983.05.09.B2
-title: Объяснение смысла стиха «тринад апи суничена…».
+title: Объяснение смысла стиха «тринад апи суничена…»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (24. Смирение)
   slug: 24-smirenie
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Гармония
     slug: garmoniya
   - title: Рагхунатх Дас Госвами

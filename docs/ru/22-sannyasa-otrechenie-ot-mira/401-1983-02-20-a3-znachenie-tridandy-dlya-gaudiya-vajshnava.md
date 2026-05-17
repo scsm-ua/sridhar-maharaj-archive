@@ -13,8 +13,6 @@ category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Санньяса
     slug: sannyasa
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

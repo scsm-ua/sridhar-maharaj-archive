@@ -12,9 +12,6 @@ date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
     title: аудиозапись в MP3 (5 мин. 07 сек., 3,0 МБ)

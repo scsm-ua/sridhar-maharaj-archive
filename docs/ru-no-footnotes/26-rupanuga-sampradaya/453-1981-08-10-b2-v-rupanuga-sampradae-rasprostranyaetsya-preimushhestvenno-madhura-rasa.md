@@ -12,9 +12,6 @@ date: 1981-08-10
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
     title: аудиозапись в MP3 (5 мин. 00 сек., 5,2 МБ)

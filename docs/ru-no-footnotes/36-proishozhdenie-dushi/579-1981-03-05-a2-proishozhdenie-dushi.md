@@ -12,9 +12,6 @@ date: 1981-03-05
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/36._Proishozhdenie_dushi/579_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
     title: аудиозапись в MP3 (12 мин. 00 сек., 6,8 МБ)

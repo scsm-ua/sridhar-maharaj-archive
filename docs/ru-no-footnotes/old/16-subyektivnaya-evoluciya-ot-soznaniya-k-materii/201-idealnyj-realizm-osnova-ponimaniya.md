@@ -1,7 +1,7 @@
 ---
 slug: 201-idealnyj-realizm-osnova-ponimaniya
 record_id: 1983.04.30.B
-title: Идеальный реализм — основа понимания религии.
+title: Идеальный реализм — основа понимания религии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Душа
     slug: dusha
 links:

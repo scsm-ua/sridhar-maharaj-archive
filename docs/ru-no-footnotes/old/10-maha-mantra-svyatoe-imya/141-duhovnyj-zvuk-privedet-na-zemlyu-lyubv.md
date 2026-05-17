@@ -1,7 +1,7 @@
 ---
 slug: 141-duhovnyj-zvuk-privedet-na-zemlyu-lyubv
 record_id: 1983.04.23.A
-title: Духовный звук приведет на землю любви.
+title: Духовный звук приведет на землю любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-04-23
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /wp-content/uploads/2012/08/141_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3
     title: Скачать аудиозапись в mp3 (22 мин 52 сек, размер 11 Мб)

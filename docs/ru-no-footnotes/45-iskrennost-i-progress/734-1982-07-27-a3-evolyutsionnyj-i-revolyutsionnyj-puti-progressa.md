@@ -12,9 +12,6 @@ date: 1982-07-27
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
     title: аудиозапись в MP3 (3 мин. 38 сек., 4,2 МБ)

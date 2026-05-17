@@ -13,8 +13,6 @@ category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Проповедь
     slug: propoved
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
@@ -86,4 +84,4 @@ legacy:
 
 [^_ftn1]: [Шримад-Бхагаватам 10.47.61](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-47-61.md)
 
-[^_ftn2]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn2]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)

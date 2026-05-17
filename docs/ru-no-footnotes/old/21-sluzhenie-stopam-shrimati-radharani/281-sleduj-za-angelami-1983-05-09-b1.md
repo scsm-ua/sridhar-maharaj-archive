@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Бхакти
     slug: bhakti
 links:

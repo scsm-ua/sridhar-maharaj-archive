@@ -12,13 +12,6 @@ date: 1983-06-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.06"
-    slug: 1983-06
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.168
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-168
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/896_1983.06.05.B1_SridharMj_Missita_Shankary.mp3
     title: аудиозапись в MP3 (3 мин. 36 сек., 1,8 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 896. 1983.06.05.B1. Миссия Шанкары
   index: "896"
   filename: 896-1983-06-05-b1-missiya-shankary.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.168
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-168
 ---
 
 То, что мы слышали из богооткровенных писаний: ассимиляция, необходимость расставить все на свои места, то, что дают нам *шрути*, богооткровенные писания. Правильная, уместная, должная ассимиляция, усвоение и необходимость отличать эти явления от тех реалий, которые мы находим в рамках наших искаженных представлений о жизни и опыта. Харе Кришна.

@@ -1,7 +1,7 @@
 ---
 slug: 9-penie-tanets-i-pochitanie-prasada-kak-d
 record_id: 1981.08.31.C3
-title: Пение, танец и почитание прасада как духовная практика, явленная Махапрабху.
+title: Пение, танец и почитание прасада как духовная практика, явленная Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Махапрабху
     slug: mahaprabhu
   - title: Навадвип

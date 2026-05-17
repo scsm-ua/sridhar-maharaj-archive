@@ -12,9 +12,6 @@ date: 1982-02-20
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3
     title: аудиозапись в MP3 (6 мин. 18 сек., 6,9 МБ)

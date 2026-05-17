@@ -1,7 +1,7 @@
 ---
 slug: 289-zhizn-i-posvyashhenie-shrily-narottama-d
 record_id: 1983.04.17.A2
-title: Жизнь и посвящение Шрилы Нароттама Даса Тхакура.
+title: Жизнь и посвящение Шрилы Нароттама Даса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Нароттам Дас Тхакур

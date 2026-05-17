@@ -12,9 +12,6 @@ date: 1982-01-07
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.mp3
     title: аудиозапись в MP3 (3 мин. 04 сек., 2,1 МБ)

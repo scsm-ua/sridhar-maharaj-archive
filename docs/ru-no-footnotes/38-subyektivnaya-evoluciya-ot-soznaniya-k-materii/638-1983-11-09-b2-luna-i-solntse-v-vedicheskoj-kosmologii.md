@@ -12,9 +12,6 @@ date: 1983-11-09
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
     title: аудиозапись в MP3 (8 мин. 07 сек., 8,4 МБ)

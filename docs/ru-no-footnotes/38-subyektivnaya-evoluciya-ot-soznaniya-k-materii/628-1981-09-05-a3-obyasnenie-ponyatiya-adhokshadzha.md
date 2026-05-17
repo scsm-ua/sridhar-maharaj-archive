@@ -12,9 +12,6 @@ date: 1981-09-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.09"
-    slug: 1981-09
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
     title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)

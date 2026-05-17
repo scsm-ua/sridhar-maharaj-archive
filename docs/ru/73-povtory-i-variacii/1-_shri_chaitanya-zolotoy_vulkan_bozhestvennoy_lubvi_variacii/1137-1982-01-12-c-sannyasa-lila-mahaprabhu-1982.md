@@ -12,9 +12,18 @@ date: 1982-01-12
 category:
   title: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)
   slug: 1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii
+links:
+  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
+    title: аудиозапись в MP3 (34 мин. 14 сек., 18,1 МБ)
+  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.rtf
+    title: транскрипцию в RTF (45 КБ)
+  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.pdf
+    title: транскрипцию в PDF (182 КБ)
+legacy:
+  title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
+  index: "1137"
+  filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 4.11
@@ -45,17 +54,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-7-74
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34
     slug: shri-chajtanya-charitamrita-madhya-lila-3-34
-links:
-  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
-    title: аудиозапись в MP3 (34 мин. 14 сек., 18,1 МБ)
-  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.rtf
-    title: транскрипцию в RTF (45 КБ)
-  - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.pdf
-    title: транскрипцию в PDF (182 КБ)
-legacy:
-  title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
-  index: "1137"
-  filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
 ---
 
 «Я вечно остаюсь обязанным вам, у Меня нет ничего, чем Я мог бы отплатить вам». Кришна побежден.
@@ -76,7 +74,7 @@ legacy:
     маттах̣ сарвам̇ правартате
 [^_ftn3]
 
-«Иными словами, Я, видя вашу *джогьята(?)*… (как это будет?) …качество, квалификацию, Я отдал вам все, и Мне больше нечего вам дать, у Меня нет ничего, чем Я Мог бы выплатить вам этот долг. Моя кладовая, Мои запасы исчерпаны. Хотя Я владелец кладовой безграничного, но эта кладовая пуста, не осталось ничего… Не осталось ничего, и Я не могу выплатить долг».
+«Иными словами, Я, видя вашу *джогьята*(?)… (как это будет?) …качество, квалификацию, Я отдал вам все, и Мне больше нечего вам дать, у Меня нет ничего, чем Я Мог бы выплатить вам этот долг. Моя кладовая, Мои запасы исчерпаны. Хотя Я владелец кладовой безграничного, но эта кладовая пуста, не осталось ничего… Не осталось ничего, и Я не могу выплатить долг».
 
 **Преданный:** Махабхава.
 

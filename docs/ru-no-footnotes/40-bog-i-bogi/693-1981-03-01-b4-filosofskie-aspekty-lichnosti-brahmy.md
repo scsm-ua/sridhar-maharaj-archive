@@ -12,9 +12,6 @@ date: 1981-03-01
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
     title: аудиозапись в MP3 (2 мин. 21 сек., 1,9 МБ)

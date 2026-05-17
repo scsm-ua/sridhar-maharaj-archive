@@ -12,9 +12,6 @@ date: 1983-07-19
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/653_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
     title: аудиозапись в MP3 (5 мин. 16 сек., 3,6 МБ)

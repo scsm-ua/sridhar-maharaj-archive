@@ -12,9 +12,6 @@ date: 1983-03-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1103_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
     title: аудиозапись в MP3 (8 мин. 19 сек., 4,1 МБ)

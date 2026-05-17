@@ -1,7 +1,7 @@
 ---
 slug: 216-budda-shankara-ramanudzha-i-shri-chajtan
 record_id: 1983.07.08.B2
-title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия.
+title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Брахма
     slug: brahma
   - title: Будда

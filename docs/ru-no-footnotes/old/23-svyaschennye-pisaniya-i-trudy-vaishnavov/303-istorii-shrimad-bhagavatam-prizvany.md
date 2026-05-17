@@ -1,7 +1,7 @@
 ---
 slug: 303-istorii-shrimad-bhagavatam-prizvany
 record_id: 1981.03.02.A2
-title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне.
+title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Священные писания
     slug: svyashhennye-pisaniya
   - title: Шримад Бхагаватам

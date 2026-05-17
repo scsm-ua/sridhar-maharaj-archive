@@ -1,7 +1,7 @@
 ---
 slug: 73-oppozitsiya-tenevoj-aspekt-lily-go
 record_id: 1981.03.01.A5.B1
-title: Оппозиция – «теневой» аспект лилы Господа.
+title: Оппозиция – «теневой» аспект лилы Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

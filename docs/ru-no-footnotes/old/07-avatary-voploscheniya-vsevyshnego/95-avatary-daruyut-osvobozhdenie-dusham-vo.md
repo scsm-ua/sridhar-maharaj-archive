@@ -1,7 +1,7 @@
 ---
 slug: 95-avatary-daruyut-osvobozhdenie-dusham-vo
 record_id: 1981.03.05.B4
-title: Аватары даруют освобождение душам во всей вселенной.
+title: Аватары даруют освобождение душам во всей вселенной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-03-05
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /wp-content/uploads/2012/08/095_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy1.mp3
     title: Скачать аудиозапись в mp3 (2 мин 53 сек, размер 3 Мб)

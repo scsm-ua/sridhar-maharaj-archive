@@ -12,9 +12,18 @@ date: 1982-01-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
+links:
+  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+    title: аудиозапись в MP3 (14 мин. 45 сек., 7,6 МБ)
+  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.rtf
+    title: транскрипцию в RTF (162 КБ)
+  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.pdf
+    title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 740. 1982.01.28.B1. Кришна принимает чувства сердца
+  index: "740"
+  filename: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
@@ -37,17 +46,6 @@ tags:
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-links:
-  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
-    title: аудиозапись в MP3 (14 мин. 45 сек., 7,6 МБ)
-  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.rtf
-    title: транскрипцию в RTF (162 КБ)
-  - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.pdf
-    title: транскрипцию в PDF (165 КБ)
-legacy:
-  title: 740. 1982.01.28.B1. Кришна принимает чувства сердца
-  index: "740"
-  filename: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa.md
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?

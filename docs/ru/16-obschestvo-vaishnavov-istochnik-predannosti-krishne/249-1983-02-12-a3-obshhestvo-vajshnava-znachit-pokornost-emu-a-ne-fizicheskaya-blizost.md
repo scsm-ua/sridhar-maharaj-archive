@@ -13,8 +13,6 @@ category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Садху-санга
     slug: sadhu-sanga
 links:

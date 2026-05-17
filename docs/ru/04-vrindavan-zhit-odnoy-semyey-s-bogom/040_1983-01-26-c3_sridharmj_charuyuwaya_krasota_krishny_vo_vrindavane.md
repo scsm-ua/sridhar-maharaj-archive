@@ -13,8 +13,6 @@ category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Брахма
     slug: brahma
   - title: Кришна

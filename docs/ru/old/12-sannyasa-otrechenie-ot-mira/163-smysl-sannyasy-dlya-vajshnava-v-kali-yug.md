@@ -1,7 +1,7 @@
 ---
 slug: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug
 record_id: 1982.01.04.B2
-title: Смысл санньясы для вайшнава в Кали-югу.
+title: Смысл санньясы для вайшнава в Кали-югу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кали-юга
     slug: kali-yuga
   - title: Отречение

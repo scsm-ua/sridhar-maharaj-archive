@@ -13,12 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1980.07"
-    slug: 1980-07
-  - title: with English audio
-    slug: with-english-audio
-  - title: with English text
-    slug: with-english-text
   - title: школы (сампрадайи) Вайшнавизма
     slug: shkoly-sampradaji-vajshnavizma
 links:

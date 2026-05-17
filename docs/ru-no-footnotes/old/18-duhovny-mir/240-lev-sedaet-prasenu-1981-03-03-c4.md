@@ -1,7 +1,7 @@
 ---
 slug: 240-lev-sedaet-prasenu-1981-03-03-c4
 record_id: 1981.03.03.C4
-title: Лев съедает Прасену.
+title: Лев съедает Прасену
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гармония
     slug: garmoniya
   - title: Кришна-лила

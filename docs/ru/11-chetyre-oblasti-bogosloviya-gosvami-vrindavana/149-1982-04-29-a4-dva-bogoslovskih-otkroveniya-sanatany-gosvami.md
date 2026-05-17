@@ -13,8 +13,6 @@ category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Санатана Госвами
     slug: sanatana-gosvami
   - title: Шри Ишопанишад

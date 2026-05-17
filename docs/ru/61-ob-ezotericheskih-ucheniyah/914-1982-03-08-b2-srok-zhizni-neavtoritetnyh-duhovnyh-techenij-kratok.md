@@ -12,9 +12,18 @@ date: 1982-03-08
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
+links:
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
+    title: аудиозапись в MP3 (2 мин. 56 сек., 3,5 МБ)
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.rtf
+    title: транскрипцию в RTF (19 КБ)
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.pdf
+    title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
+  index: "914"
+  filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
 tags:
-  - title: "1982.03"
-    slug: 1982-03
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.101
@@ -31,17 +40,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-links:
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
-    title: аудиозапись в MP3 (2 мин. 56 сек., 3,5 МБ)
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.rtf
-    title: транскрипцию в RTF (19 КБ)
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.pdf
-    title: транскрипцию в PDF (141 КБ)
-legacy:
-  title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
-  index: "914"
-  filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
 ---
 
 Есть еще одна шлока в «Нарада-панчаратре» или в аналогичном произведении:

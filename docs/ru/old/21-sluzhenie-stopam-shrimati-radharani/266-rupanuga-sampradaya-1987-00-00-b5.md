@@ -1,7 +1,7 @@
 ---
 slug: 266-rupanuga-sampradaya-1987-00-00-b5
 record_id: 1987.00.00.B5
-title: Рупануга-сампрадая.
+title: Рупануга-сампрадая
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

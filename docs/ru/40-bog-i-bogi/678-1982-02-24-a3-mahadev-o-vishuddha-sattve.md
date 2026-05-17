@@ -12,17 +12,6 @@ date: 1982-02-24
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
-    slug: shri-chajtanya-charitamrita-adi-lila-4-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 4.3.23
-    slug: shrimad-bhagavatam-4-3-23
 links:
   - href: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3
     title: аудиозапись в MP3 (1 мин. 32 сек., 2,2 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 678. 1982.02.24.А3. Махадев о вишуддха-саттве
   index: "678"
   filename: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 4.3.23
+    slug: shrimad-bhagavatam-4-3-23
 ---
 
     [саттвам̇ виш́уддхам̇ васудева-ш́абдитам̇]

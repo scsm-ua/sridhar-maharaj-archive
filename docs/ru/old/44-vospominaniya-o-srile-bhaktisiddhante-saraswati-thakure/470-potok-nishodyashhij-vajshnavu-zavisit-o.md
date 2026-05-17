@@ -1,7 +1,7 @@
 ---
 slug: 470-potok-nishodyashhij-vajshnavu-zavisit-o
 record_id: 1981.08.30.A5
-title: Поток, нисходящий вайшнаву, зависит от аудитории.
+title: Поток, нисходящий вайшнаву, зависит от аудитории
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

@@ -12,9 +12,6 @@ date: 1981-03-07
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
     title: аудиозапись в MP3 (14 мин. 44 сек., 7,9 МБ)

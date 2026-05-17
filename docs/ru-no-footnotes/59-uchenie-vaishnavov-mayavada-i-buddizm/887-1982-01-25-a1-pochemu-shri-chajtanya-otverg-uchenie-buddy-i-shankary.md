@@ -12,9 +12,6 @@ date: 1982-01-25
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/887_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary_.mp3
     title: аудиозапись в MP3 (13 мин. 38 сек., 6,4 МБ)

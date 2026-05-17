@@ -1,7 +1,7 @@
 ---
 slug: 364-rasshirennyj-egoizm-ili-bogotsentrizm
 record_id: 1983.07.08.A3.B1
-title: Расширенный эгоизм или богоцентризм .
+title: "Расширенный эгоизм или богоцентризм "
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-07-08
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /wp-content/uploads/2012/08/364_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
     title: Скачать аудиозапись в mp3 (12 мин 31 сек, размер 6 Мб)

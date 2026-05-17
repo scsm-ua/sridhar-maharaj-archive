@@ -12,9 +12,6 @@ date: 1982-02-19
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3
     title: аудиозапись в MP3 (2 мин. 16 сек., 1,3 МБ)

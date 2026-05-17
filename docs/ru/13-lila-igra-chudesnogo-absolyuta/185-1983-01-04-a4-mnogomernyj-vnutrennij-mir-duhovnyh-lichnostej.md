@@ -12,13 +12,6 @@ date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: Шри Шад Госвами Аштакам
-    slug: shri-shad-gosvami-ashtakam
-  - title: Шри Шад Госвами Аштакам 2
-    slug: shri-shad-gosvami-ashtakam-2
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
     title: аудиозапись в MP3 (5 мин. 07 сек., 3,0 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 185. 1983.01.04.A4. Многомерный внутренний мир духовных личностей
   index: "185"
   filename: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej.md
+tags:
+  - title: Шри Шад Госвами Аштакам
+    slug: shri-shad-gosvami-ashtakam
+  - title: Шри Шад Госвами Аштакам 2
+    slug: shri-shad-gosvami-ashtakam-2
 ---
 
 **Преданный:** еще один вопрос. В «Махабхарате» говорится, что Юдхиштхира вместо Голоки отправился в рай.

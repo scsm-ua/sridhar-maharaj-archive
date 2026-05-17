@@ -1,7 +1,7 @@
 ---
 slug: 131-neobhodimost-i-raznovidnosti-dikshi
 record_id: 1982.02.15.A2
-title: Необходимость и разновидности дикши.
+title: Необходимость и разновидности дикши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (09. Посвящение)
   slug: 09-posvyaschenie
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Маха-мантра
     slug: maha-mantra
   - title: Посвящение

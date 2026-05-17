@@ -12,9 +12,6 @@ date: 1987-00-00
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1987.00"
-    slug: 1987-00
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/191_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
     title: аудиозапись в MP3 (9 мин. 16 сек., 4,7 МБ)

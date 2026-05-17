@@ -13,8 +13,6 @@ category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Экадаши
     slug: ekadashi
 links:

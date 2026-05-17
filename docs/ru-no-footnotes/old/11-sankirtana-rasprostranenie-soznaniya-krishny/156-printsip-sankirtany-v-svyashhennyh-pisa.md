@@ -1,7 +1,7 @@
 ---
 slug: 156-printsip-sankirtany-v-svyashhennyh-pisa
 record_id: 1981.11.12.B3
-title: Принцип санкиртаны в Священных Писаниях.
+title: Принцип санкиртаны в Священных Писаниях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Санкиртана
     slug: sankirtana
 links:

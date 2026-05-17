@@ -12,9 +12,19 @@ date: 1981-08-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
+links:
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
+    title: аудиозапись в MP3 (14 мин. 45 сек., 7,9 МБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.rtf
+    title: транскрипцию в RTF (129 КБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.pdf
+    title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 254. 1981.08.27.C1.3. Три уровня преданных согласно учению «Шримад
+    Бхагаватам»
+  index: "254"
+  filename: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
@@ -31,18 +41,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
-links:
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
-    title: аудиозапись в MP3 (14 мин. 45 сек., 7,9 МБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.rtf
-    title: транскрипцию в RTF (129 КБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.pdf
-    title: транскрипцию в PDF (186 КБ)
-legacy:
-  title: 254. 1981.08.27.C1.3. Три уровня преданных согласно учению «Шримад
-    Бхагаватам»
-  index: "254"
-  filename: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam.md
 ---
 
 *Каништха-адхикари*: в этом положении человек [зачастую] не заботится о своей социально-общественной жизни. Он ходит в храм, поклоняется и строго следует правилам писаний [находясь в нем], но когда он находится за стенами храма, он поступает как его душе угодно, пренебрегая другими или не обращаясь с другими как духовный человек. Правила писаний не влияют на него в его состоянии, влияют лишь частично. Когда речь идет о его взаимоотношениях с людьми, эти отношения могут не основываться на духовных принципах.

@@ -1,7 +1,7 @@
 ---
 slug: 430-imitatsiya-ne-est-realizatsiya-1982-01-09-c5
 record_id: 1982.01.09.C5
-title: Имитация не есть реализация.
+title: Имитация не есть реализация
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Сахаджия
     slug: sahadzhiya
 links:

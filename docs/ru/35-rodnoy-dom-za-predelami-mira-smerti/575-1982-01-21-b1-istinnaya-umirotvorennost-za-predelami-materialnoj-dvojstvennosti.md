@@ -12,9 +12,19 @@ date: 1982-01-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
+    title: аудиозапись в MP3 (36 мин. 56 сек., 19,7 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.rtf
+    title: транскрипцию в RTF (280 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.pdf
+    title: транскрипцию в PDF (190 КБ)
+legacy:
+  title: 575. 1982.01.21.B1. Истинная умиротворенность — за пределами материальной
+    двойственности
+  index: "575"
+  filename: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхагавад-гита
     slug: bhagavad-gita
   - title: Бхагавад-гита 2.64
@@ -49,18 +59,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-131
   - title: Шримад-Бхагаватам 10.14.4
     slug: shrimad-bhagavatam-10-14-4
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
-    title: аудиозапись в MP3 (36 мин. 56 сек., 19,7 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.rtf
-    title: транскрипцию в RTF (280 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.pdf
-    title: транскрипцию в PDF (190 КБ)
-legacy:
-  title: 575. 1982.01.21.B1. Истинная умиротворенность — за пределами материальной
-    двойственности
-  index: "575"
-  filename: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
 ---
 
 Я хотел, собственно, процитировать одну *шлоку*. Когда Шакунтала была взята из *ашрама* к царю, в то время лидер ашрама Карна Муни попросил двух *брахмачари*: «Завтра утром вы трое вместе с Шакунталой пойдете в столицу». И тогда утром они пробудились и увидели, и об этом говорится в *шлоке*:

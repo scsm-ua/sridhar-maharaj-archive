@@ -12,9 +12,6 @@ date: 1983-07-28
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
-tags:
-  - title: "1983.07"
-    slug: 1983-07
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
     title: аудиозапись в MP3 (29 мин. 45 сек., 14 МБ)

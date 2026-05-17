@@ -1,7 +1,7 @@
 ---
 slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
 record_id: 1982.05.10.B5.C1
-title: Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти
+title: Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,37 +12,6 @@ date: 1982-05-10
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.2.18
-    slug: shrimad-bhagavatam-1-2-18
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.4.15
-    slug: bhakti-rasamrita-sindhu-1-4-15
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
-  - title: Бхакти-расамрита-синдху 1.3.25
-    slug: bhakti-rasamrita-sindhu-1-3-25
-  - title: Бхакти-расамрита-синдху 1.3.25–26
-    slug: bhakti-rasamrita-sindhu-1-3-25-26
-  - title: Бхакти-расамрита-синдху 26
-    slug: bhakti-rasamrita-sindhu-26
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.20
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-20
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.22
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-22
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.24
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-24
-  - title: Бхакти-расамрита-синдху 1.4.16
-    slug: bhakti-rasamrita-sindhu-1-4-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-42
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/716_1982.05.10.B5.C1_SridharMj_Jetapy_razvitija_predannosti_Kachestva_vajshnava_dostigshego_urovnja_bhava-bhakti.mp3
     title: аудиозапись в MP3 (9 мин. 25 сек., 9,5 МБ)
@@ -55,6 +24,31 @@ legacy:
     достигшего уровня бхава-бхакти
   index: "716"
   filename: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.2.18
+    slug: shrimad-bhagavatam-1-2-18
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+  - title: Бхакти-расамрита-синдху 1.4.15
+    slug: bhakti-rasamrita-sindhu-1-4-15
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.20
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-20
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.24
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-24
+  - title: Бхакти-расамрита-синдху 1.4.16
+    slug: bhakti-rasamrita-sindhu-1-4-16
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-42
 ---
 
 **Преданный:** Махарадж?
@@ -75,7 +69,7 @@ legacy:
 
 **Преданный:** *Ништха*.
 
-**Шрила Шридхар Махарадж:** *Ништха*. *Бхавати наиш̣т̣хикӣ* — тогда твое положение будет прочным, *наш̣т̣а-пра̄йеш̣вабхадреш̣у* — когда нежелательные элементы в тебе практически, почти ушли. *Бхактир бхавати наиш̣т̣хикӣ.*
+**Шрила Шридхар Махарадж:** *Ништха*. *Бхавати наиш̣т̣хикӣ* — тогда твое положение будет прочным, *наш̣т̣а-пра̄йеш̣вабхадреш̣у* — когда нежелательные элементы в тебе практически, почти ушли. *Бхактир бхавати наиш̣т̣хикӣ*.
 
 *#00:01:20#*
 

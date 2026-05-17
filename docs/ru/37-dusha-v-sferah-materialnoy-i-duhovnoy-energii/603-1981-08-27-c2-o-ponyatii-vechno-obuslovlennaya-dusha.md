@@ -13,8 +13,6 @@ category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Душа
     slug: dusha
   - title: Катха-упанишад

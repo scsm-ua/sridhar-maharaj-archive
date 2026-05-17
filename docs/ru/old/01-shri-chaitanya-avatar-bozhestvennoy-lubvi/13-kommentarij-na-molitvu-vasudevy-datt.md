@@ -1,7 +1,7 @@
 ---
 slug: 13-kommentarij-na-molitvu-vasudevy-datt
 record_id: 1981.03.05.B3
-title: Комментарий на молитву Васудевы Датты.
+title: Комментарий на молитву Васудевы Датты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 453-shrila-shridhar-maharadzh-o-svoej-lichno
 record_id: 1982.01.02.A
-title: Шрила Шридхар Махарадж о своей личности и гороскопе.
+title: Шрила Шридхар Махарадж о своей личности и гороскопе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
 links:

@@ -1,7 +1,7 @@
 ---
 slug: 282-istorii-zhizni-i-uchenie-madhava-achar
 record_id: 1983.02.21
-title: Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи. -22
+title: Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи. -22.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Мадхава Ачарья

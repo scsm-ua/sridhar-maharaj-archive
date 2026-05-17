@@ -1,7 +1,7 @@
 ---
 slug: 448-phalgu-vajragya-i-yukta-vajragya-1983-02-13-a1
 record_id: 1983.02.13.A1
-title: Пхалгу-вайрагья и юкта-вайрагья.
+title: Пхалгу-вайрагья и юкта-вайрагья
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Майавада
     slug: majavada
 links:

@@ -12,9 +12,6 @@ date: 1982-01-04
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
     title: аудиозапись в MP3 (17 мин. 53 сек., 9,1 МБ)

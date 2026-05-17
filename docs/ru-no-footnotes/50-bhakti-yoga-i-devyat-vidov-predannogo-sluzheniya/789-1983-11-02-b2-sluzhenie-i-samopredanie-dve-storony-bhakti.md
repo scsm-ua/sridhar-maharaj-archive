@@ -13,8 +13,6 @@ category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Бхакти-йога
     slug: bhakti-joga
 links:

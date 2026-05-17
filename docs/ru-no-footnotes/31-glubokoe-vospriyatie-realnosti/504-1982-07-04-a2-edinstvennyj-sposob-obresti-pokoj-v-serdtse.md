@@ -12,9 +12,6 @@ date: 1982-07-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1982.07"
-    slug: 1982-07
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
     title: аудиозапись в MP3 (2 мин. 13 сек., 2,7 МБ)

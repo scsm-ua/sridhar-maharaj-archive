@@ -1,7 +1,7 @@
 ---
 slug: 226-o-slozhnosti-ponimaniya-guru-tattvy-shi
 record_id: 1981.08.30.A2
-title: О сложности понимания гуру-таттвы, шива-таттвы и джива-таттвы.
+title: О сложности понимания гуру-таттвы, шива-таттвы и джива-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1981-08-30
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
-tags:
-  - title: "1981.08"
-    slug: 1981-08
 links:
   - href: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
     title: Скачать аудиозапись в mp3 (6 мин 33 сек, размер 3 Мб)

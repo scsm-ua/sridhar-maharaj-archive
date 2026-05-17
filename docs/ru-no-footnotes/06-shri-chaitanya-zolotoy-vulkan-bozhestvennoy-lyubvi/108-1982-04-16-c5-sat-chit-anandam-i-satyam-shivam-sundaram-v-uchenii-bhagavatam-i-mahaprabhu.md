@@ -13,8 +13,6 @@ category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: сат-чит-ананда
     slug: sat-chit-ananda
   - title: сатьям-шивам-сундарам

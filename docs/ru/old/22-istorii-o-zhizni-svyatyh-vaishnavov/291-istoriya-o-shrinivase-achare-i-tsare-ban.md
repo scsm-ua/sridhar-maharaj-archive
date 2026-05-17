@@ -1,7 +1,7 @@
 ---
 slug: 291-istoriya-o-shrinivase-achare-i-tsare-ban
 record_id: 1983.05.09.C1
-title: История о Шринивасе Ачарье и царе бандитов Бирхамбхире.
+title: История о Шринивасе Ачарье и царе бандитов Бирхамбхире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Шринивас Ачарья

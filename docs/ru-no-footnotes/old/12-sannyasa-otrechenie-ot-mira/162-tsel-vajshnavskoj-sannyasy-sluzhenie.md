@@ -1,7 +1,7 @@
 ---
 slug: 162-tsel-vajshnavskoj-sannyasy-sluzhenie
 record_id: 1981.03.02.B4
-title: Цель вайшнавской санньясы — служение Кришне.
+title: Цель вайшнавской санньясы — служение Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Отречение
     slug: otrechenie
   - title: Санньяса

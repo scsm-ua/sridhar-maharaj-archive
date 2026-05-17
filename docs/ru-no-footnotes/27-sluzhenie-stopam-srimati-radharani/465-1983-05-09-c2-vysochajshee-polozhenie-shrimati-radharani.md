@@ -12,9 +12,6 @@ date: 1983-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/465_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3
     title: аудиозапись в MP3 (1 мин. 54 сек., 1,3 МБ)

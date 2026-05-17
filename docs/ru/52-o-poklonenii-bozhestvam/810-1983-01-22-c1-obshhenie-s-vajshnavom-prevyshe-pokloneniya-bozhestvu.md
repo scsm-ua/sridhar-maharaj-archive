@@ -13,8 +13,6 @@ category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Арчана
     slug: archana
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

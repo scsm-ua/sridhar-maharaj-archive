@@ -13,8 +13,6 @@ category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1980.07"
-    slug: 1980-07
   - title: Кришна
     slug: krishna
 links:

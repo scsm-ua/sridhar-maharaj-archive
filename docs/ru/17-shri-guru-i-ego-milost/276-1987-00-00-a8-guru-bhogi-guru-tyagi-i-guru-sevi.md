@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1987.00"
-    slug: 1987-00
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
   - title: Бхакти-расамрита-синдху

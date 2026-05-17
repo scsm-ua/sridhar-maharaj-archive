@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
     title: аудиозапись в MP3 (7 мин. 21 сек., 4,1 МБ)

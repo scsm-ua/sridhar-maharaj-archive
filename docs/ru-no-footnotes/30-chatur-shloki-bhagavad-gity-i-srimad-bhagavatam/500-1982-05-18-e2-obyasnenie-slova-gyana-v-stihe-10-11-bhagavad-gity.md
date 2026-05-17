@@ -13,8 +13,6 @@ category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам
   slug: 30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Чатур-шлока
     slug: chatur-shloka
 links:

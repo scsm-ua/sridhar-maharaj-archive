@@ -1,7 +1,7 @@
 ---
 slug: 332-transtsendentnoe-dzhiu-dzhitsu-1983-02-07-a2
 record_id: 1983.02.07.A2
-title: Трансцендентное джиу-джитсу.
+title: Трансцендентное джиу-джитсу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Гармония
     slug: garmoniya
   - title: Шива

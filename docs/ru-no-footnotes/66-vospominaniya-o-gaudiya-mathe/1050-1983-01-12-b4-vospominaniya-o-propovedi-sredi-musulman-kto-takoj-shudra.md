@@ -1,7 +1,7 @@
 ---
 slug: 1050-1983-01-12-b4-vospominaniya-o-propovedi-sredi-musulman-kto-takoj-shudra
 record_id: 1983.01.12.B4
-title: Воспоминания о проповеди среди мусульман. Кто такой шудра?
+title: Воспоминания о проповеди среди мусульман. Кто такой шудра?.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-01-12
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1050_1983.01.12.B4_SridharMj_Vospominanija_o_propovedi_sredi_musulman__Kto_takoj_shudra.mp3
     title: аудиозапись в MP3 (6 мин. 19 сек., 3,4 МБ)

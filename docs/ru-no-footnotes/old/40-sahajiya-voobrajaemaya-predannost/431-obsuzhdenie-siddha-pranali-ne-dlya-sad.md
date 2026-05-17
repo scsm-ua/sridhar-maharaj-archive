@@ -1,7 +1,7 @@
 ---
 slug: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad
 record_id: 1983.01.06.A2
-title: Обсуждение сиддха-пранали — не для садхаки.
+title: Обсуждение сиддха-пранали — не для садхаки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Сахаджия
     slug: sahadzhiya
 links:

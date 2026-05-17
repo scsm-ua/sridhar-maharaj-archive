@@ -12,13 +12,6 @@ date: 1981-08-18
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 7.19
-    slug: bhagavad-gita-7-19
 links:
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,0 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 671. 1981.08.18.B1. Васудев — неоскверненное сознание
   index: "671"
   filename: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Нитай-Чайтанья…

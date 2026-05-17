@@ -1,7 +1,7 @@
 ---
 slug: 408-istoriya-o-sobake-predavshejsya-mahara
 record_id: 1983.01.04.A3
-title: История о собаке, предавшейся Махараджу Юдхиштхире.
+title: История о собаке, предавшейся Махараджу Юдхиштхире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Самопредание
     slug: samopredanie
   - title: Шаранагати

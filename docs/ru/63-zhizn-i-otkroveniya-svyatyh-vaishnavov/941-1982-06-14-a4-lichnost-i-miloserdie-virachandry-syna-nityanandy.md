@@ -12,13 +12,6 @@ date: 1982-06-14
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 11.11
-    slug: shri-chajtanya-charitamrita-adi-lila-11-11
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/941_1982.06.14.A4_SridharMj_Lichnost_i_miloserdie_Virachandry--syna_Nitjanandy.mp3
     title: аудиозапись в MP3 (4 мин. 10 сек., 6,6 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 941. 1982.06.14.A4. Личность и милосердие Вирачандры – сына Нитьянанды
   index: "941"
   filename: 941-1982-06-14-a4-lichnost-i-miloserdie-virachandry-syna-nityanandy.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 11.11
+    slug: shri-chajtanya-charitamrita-adi-lila-11-11
 ---
 
 **Акхаянанда Махарадж:** Есть один стих в Ади-лиле «Чаритамриты»:

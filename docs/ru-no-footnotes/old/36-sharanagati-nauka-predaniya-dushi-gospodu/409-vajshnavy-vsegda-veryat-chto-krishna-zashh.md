@@ -1,7 +1,7 @@
 ---
 slug: 409-vajshnavy-vsegda-veryat-chto-krishna-zashh
 record_id: 1983.03.30.A3
-title: Вайшнавы всегда верят, что Кришна защитит их.
+title: Вайшнавы всегда верят, что Кришна защитит их
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Самопредание

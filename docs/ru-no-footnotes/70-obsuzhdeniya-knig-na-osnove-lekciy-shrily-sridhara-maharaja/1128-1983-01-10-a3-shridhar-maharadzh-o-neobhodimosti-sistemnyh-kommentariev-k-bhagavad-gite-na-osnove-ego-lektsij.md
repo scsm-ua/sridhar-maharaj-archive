@@ -13,9 +13,6 @@ date: 1983-01-10
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3
     title: аудиозапись в MP3 (2 мин. 14 сек., 2,6 МБ)

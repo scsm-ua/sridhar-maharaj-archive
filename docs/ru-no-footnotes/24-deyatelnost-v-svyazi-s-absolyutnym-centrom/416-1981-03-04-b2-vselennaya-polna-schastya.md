@@ -12,9 +12,6 @@ date: 1981-03-04
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
     title: аудиозапись в MP3 (5 мин. 13 сек., 3,2 МБ)

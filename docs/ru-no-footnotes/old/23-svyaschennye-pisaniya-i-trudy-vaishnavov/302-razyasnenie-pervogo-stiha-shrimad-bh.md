@@ -1,7 +1,7 @@
 ---
 slug: 302-razyasnenie-pervogo-stiha-shrimad-bh
 record_id: 1982.01.19.B3
-title: Разъяснение первого стиха Шримад Бхагаватам.
+title: Разъяснение первого стиха Шримад Бхагаватам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Священные писания
     slug: svyashhennye-pisaniya
   - title: Шримад Бхагаватам

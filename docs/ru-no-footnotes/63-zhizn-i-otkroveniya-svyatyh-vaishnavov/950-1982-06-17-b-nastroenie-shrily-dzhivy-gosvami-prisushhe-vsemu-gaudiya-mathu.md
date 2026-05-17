@@ -12,9 +12,6 @@ date: 1982-06-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.06"
-    slug: 1982-06
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/950_1982.06.17.B_SridharMj_Nastroenie_Shrily_Dzhivy_Gosvami_prisushhe_vsemu_Gaudija_Mathu.mp3
     title: аудиозапись в MP3 (14 мин. 47 сек., 16,3 МБ)

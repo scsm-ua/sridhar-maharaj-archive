@@ -12,9 +12,19 @@ date: 1982-06-19
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
+links:
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
+    title: аудиозапись в MP3 (2 мин. 29 сек., 2,4 МБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.rtf
+    title: транскрипцию в RTF (66 КБ)
+  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.pdf
+    title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 894. 1982.06.19.B3. Различия в понимании Кришны и Его окружения у
+    смартов, вайшнавов и шанкаритов
+  index: "894"
+  filename: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov.md
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
@@ -33,18 +43,6 @@ tags:
     slug: sharanagati
   - title: Шаранагати 1
     slug: sharanagati-1
-links:
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
-    title: аудиозапись в MP3 (2 мин. 29 сек., 2,4 МБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.rtf
-    title: транскрипцию в RTF (66 КБ)
-  - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.pdf
-    title: транскрипцию в PDF (144 КБ)
-legacy:
-  title: 894. 1982.06.19.B3. Различия в понимании Кришны и Его окружения у
-    смартов, вайшнавов и шанкаритов
-  index: "894"
-  filename: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov.md
 ---
 
 **Акхаянанда Махарадж:** Махарадж, нам говорят, что в Кали-югу — *харер на̄маива кевалам*[^_ftn1]. И *гуна-киртана*, *рупа-киртана*, *лила-киртана* — все это включено в *нама-киртан*?
@@ -56,7 +54,7 @@ legacy:
     свапа̄рш̣ада свӣйа дха̄ма саха аватари
 [^_ftn2]
 
-*Раджа* (царь) всегда приезжает со своей свитой, автоматически, иначе быть не может. Так следует понимать природу этого: «Кришна» значит «вайшнавы». А *смарты* верят в то, что Кришны пришел один, а Его спутники — это обитатели бренного мира, которые были возвышены Кришной — таково их понимание. Кришна с их точки зрения есть часть Нараяны, Нараяна есть все и вся. А *шанкариты* говорят: все это хорошо, все это замечательно, но все это — *саттва-гуна*, а выше этой *саттва-гуны* пребывает *ниргуна-*измерение, *Брахман.* Танец, пение, слезы — это все хорошо, — говорят они, — это все неплохо. Но это все — по эту сторону бытия, все это *саттва-гуна-майя.*
+*Раджа* (царь) всегда приезжает со своей свитой, автоматически, иначе быть не может. Так следует понимать природу этого: «Кришна» значит «вайшнавы». А *смарты* верят в то, что Кришны пришел один, а Его спутники — это обитатели бренного мира, которые были возвышены Кришной — таково их понимание. Кришна с их точки зрения есть часть Нараяны, Нараяна есть все и вся. А *шанкариты* говорят: все это хорошо, все это замечательно, но все это — *саттва-гуна*, а выше этой *саттва-гуны* пребывает *ниргуна*-измерение, *Брахман*. Танец, пение, слезы — это все хорошо, — говорят они, — это все неплохо. Но это все — по эту сторону бытия, все это *саттва-гуна-майя*.
 
 [Харе Кришна, Нитай, Нитай, Нитай-Гаура Харибол, Харе Кришна]
 

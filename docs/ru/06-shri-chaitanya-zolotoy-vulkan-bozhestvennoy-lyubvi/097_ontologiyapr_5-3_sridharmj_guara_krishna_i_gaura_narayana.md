@@ -1,6 +1,6 @@
 ---
 slug: 097_ontologiyapr_5-3_sridharmj_guara_krishna_i_gaura_narayana
-title: Онтология ПР 5.3. Гаура Кришна и Гаура Нараяна
+title: Онтология ПР 5.3. Гаура Кришна и Гаура Нараяна.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: дата неизвестна
-    slug: data-neizvestna
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/097_OntologiyaPR_5.3_SridharMj_Guara_Krishna_i_Gaura_Narayana.mp3
     title: аудиозапись в MP3 (1 мин. 32 сек., 1.5 МБ)

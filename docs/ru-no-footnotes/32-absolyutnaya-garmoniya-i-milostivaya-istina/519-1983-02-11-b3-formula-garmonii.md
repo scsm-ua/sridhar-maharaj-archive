@@ -12,9 +12,6 @@ date: 1983-02-11
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1983.02"
-    slug: 1983-02
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
     title: аудиозапись в MP3 (5 мин. 12 сек., 4,7 МБ)

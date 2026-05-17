@@ -1,7 +1,7 @@
 ---
 slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
 title: Онтология ПР. Ч. 4.4. О проповеди Сарасвати Тхакура, Шридхара Махараджа и
-  Бхактиведанды Свами
+  Бхактиведанды Свами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

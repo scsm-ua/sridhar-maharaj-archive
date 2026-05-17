@@ -12,9 +12,6 @@ date: 1982-11-07
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.11"
-    slug: 1982-11
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3
     title: аудиозапись в MP3 (2 мин. 31 сек., 2,8 МБ)

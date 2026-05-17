@@ -12,9 +12,19 @@ date: 1983-11-08
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
+links:
+  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3
+    title: аудиозапись в MP3 (25 мин. 24 сек., 24,8 МБ)
+  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.rtf
+    title: транскрипцию в RTF (36 КБ)
+  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.pdf
+    title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 1078. 1983.11.08.B2. Мужество и проповедь Сарасвати Тхакура и
+    Бхактиведанты Свами Прабхупады
+  index: "1078"
+  filename: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
@@ -33,18 +43,6 @@ tags:
     slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
     slug: shri-gurvashtaka-6
-links:
-  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3
-    title: аудиозапись в MP3 (25 мин. 24 сек., 24,8 МБ)
-  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.rtf
-    title: транскрипцию в RTF (36 КБ)
-  - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.pdf
-    title: транскрипцию в PDF (175 КБ)
-legacy:
-  title: 1078. 1983.11.08.B2. Мужество и проповедь Сарасвати Тхакура и
-    Бхактиведанты Свами Прабхупады
-  index: "1078"
-  filename: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
 ---
 
 Бог творит чудеса, Его пути чудесны. Наш почитаемый Свами Махарадж… Мы не могли в целом понять, что он осуществит такую удивительную работу, или, скорее, Кришна осуществит через него, столь чудесную работу, служение Махапрабху. Мы не в состоянии были оценить по достоинству, но внезапно это случилось.

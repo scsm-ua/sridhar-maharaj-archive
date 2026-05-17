@@ -12,9 +12,19 @@ date: 1982-11-07
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
+links:
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3
+    title: аудиозапись в MP3 (13 мин. 26 сек., 13,1 МБ)
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.rtf
+    title: транскрипцию в RTF (161 КБ)
+  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.pdf
+    title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 911. 1982.11.07.A.B1. Владение психическими силами не может побудить
+    Господа явить Себя
+  index: "911"
+  filename: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Веданта-сутра
     slug: vedanta-sutra
   - title: Веданта-сутра 2.1.11
@@ -37,18 +47,6 @@ tags:
     slug: shrimad-bhagavatam-10-14-4
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
-links:
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3
-    title: аудиозапись в MP3 (13 мин. 26 сек., 13,1 МБ)
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.rtf
-    title: транскрипцию в RTF (161 КБ)
-  - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.pdf
-    title: транскрипцию в PDF (180 КБ)
-legacy:
-  title: 911. 1982.11.07.A.B1. Владение психическими силами не может побудить
-    Господа явить Себя
-  index: "911"
-  filename: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
 ---
 
 **Преданный:** Гуру Махарадж, на одном из *даршанов* вы говорили о Наполеоне: когда Наполеон находился на поле битвы, то никто не в силах был его победить, когда он присутствовал на поле боя. Мой вопрос таков: на западе людей интересует оккультное знание…

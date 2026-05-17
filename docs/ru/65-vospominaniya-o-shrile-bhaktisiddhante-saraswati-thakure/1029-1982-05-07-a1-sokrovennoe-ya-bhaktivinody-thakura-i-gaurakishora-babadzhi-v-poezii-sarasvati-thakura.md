@@ -13,9 +13,6 @@ date: 1982-05-07
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (5 мин. 27 сек., 5,6 МБ)

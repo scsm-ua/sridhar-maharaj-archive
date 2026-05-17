@@ -12,17 +12,6 @@ date: 1982-05-11
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 7.3
-    slug: bhagavad-gita-7-3
-  - title: Бхагавад-гита 7.19
-    slug: bhagavad-gita-7-19
-  - title: Бхагавад-гита 3.13
-    slug: bhagavad-gita-3-13
 links:
   - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3
     title: аудиозапись в MP3 (9 мин. 05 сек., 9,4 МБ)
@@ -35,6 +24,15 @@ legacy:
     Кришны и для практикующих
   index: "751"
   filename: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 7.3
+    slug: bhagavad-gita-7-3
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
+  - title: Бхагавад-гита 3.13
+    slug: bhagavad-gita-3-13
 ---
 
 Качество и количество. По мере возрастания количества, качество уменьшается. Они прямо пропорциональны, качество и количество. Этот факт мы не должны забывать. Если мы хотим иметь дело с явлениями высочайшего качества, то мы должны быть удовлетворены меньшим количеством. А если же мы хотим большего количества, больших масштабов, тогда неизбежным образом качеством придется пожертвовать.

@@ -13,8 +13,6 @@ category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Шаранагати
     slug: sharanagati
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

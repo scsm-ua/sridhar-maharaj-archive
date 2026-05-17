@@ -1,7 +1,7 @@
 ---
 slug: 239-v-duhovnom-mire-schaste-v-izobilii-a-v
 record_id: 1973.03.17.1
-title: В духовном мире счастье в изобилии, а в материальном – в дефиците.
+title: В духовном мире счастье в изобилии, а в материальном – в дефиците
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1973.03"
-    slug: 1973-03
   - title: Духовный мир
     slug: duhovnyj-mir
   - title: Материальный мир

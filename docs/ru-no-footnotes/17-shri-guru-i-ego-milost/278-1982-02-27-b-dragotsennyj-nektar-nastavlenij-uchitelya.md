@@ -12,9 +12,6 @@ date: 1982-02-27
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3
     title: аудиозапись в MP3 (9 мин. 20 сек., 4,6 МБ)

@@ -2,7 +2,7 @@
 slug: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu
 record_id: 1982.02.23.A1
 title: Девять островов Навадвипы. Атманиведанам значит «беспомощность и
-  преданность Господу»
+  преданность Господу».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -14,8 +14,6 @@ category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Атманиведанам
     slug: atmanivedanam
   - title: Бхакти-йога

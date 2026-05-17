@@ -1,7 +1,7 @@
 ---
 slug: 248-o-ponyatii-vechno-obuslovlennaya-dusha-1981
 record_id: 1981.08.27.C2
-title: О понятии «вечно обусловленная душа».
+title: О понятии «вечно обусловленная душа»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Васту-сиддхи
     slug: vastu-siddhi
   - title: Душа

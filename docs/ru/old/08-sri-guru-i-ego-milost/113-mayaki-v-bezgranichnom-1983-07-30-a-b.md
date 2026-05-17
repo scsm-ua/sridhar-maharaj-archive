@@ -1,7 +1,7 @@
 ---
 slug: 113-mayaki-v-bezgranichnom-1983-07-30-a-b
 record_id: 1983.07.30.A.B
-title: Маяки в Безграничном.
+title: Маяки в Безграничном
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Гуру

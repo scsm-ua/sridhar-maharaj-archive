@@ -1,7 +1,7 @@
 ---
 slug: 305-o-poezii-prabodhanandy-sarasvati-1982-01-09-c1
 record_id: 1982.01.09.C1
-title: О поэзии Прабодхананды Сарасвати.
+title: О поэзии Прабодхананды Сарасвати
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Прабодхананда
     slug: prabodhananda
   - title: Священные писания

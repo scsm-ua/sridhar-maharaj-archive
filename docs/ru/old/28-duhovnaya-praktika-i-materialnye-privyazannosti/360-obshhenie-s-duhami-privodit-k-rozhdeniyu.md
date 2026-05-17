@@ -1,7 +1,7 @@
 ---
 slug: 360-obshhenie-s-duhami-privodit-k-rozhdeniyu
 record_id: 1985.05.01.B3
-title: Общение с духами приводит к рождению в их мирах.
+title: Общение с духами приводит к рождению в их мирах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1985-05-01
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1985.05"
-    slug: 1985-05
 links:
   - href: /wp-content/uploads/2012/08/360_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
     title: Скачать аудиозапись в mp3 (10 мин 41 сек, размер 6 Мб)

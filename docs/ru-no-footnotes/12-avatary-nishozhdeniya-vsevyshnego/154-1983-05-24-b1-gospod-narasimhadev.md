@@ -13,8 +13,6 @@ category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Нарасимха
     slug: narasimha
 links:

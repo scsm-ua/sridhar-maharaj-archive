@@ -13,8 +13,6 @@ category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
   - title: «Шри Чайтанья-чаритамрита», Ади-лила

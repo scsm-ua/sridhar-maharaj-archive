@@ -12,9 +12,6 @@ date: 1983-05-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
     title: аудиозапись в MP3 (4 мин. 33 сек., 4,2 МБ)

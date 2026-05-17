@@ -1,7 +1,7 @@
 ---
 slug: 161-o-kvalifikatsii-dlya-prinyatiya-sannyas
 record_id: 1983.01.22.C2
-title: О квалификации для принятия санньясы.
+title: О квалификации для принятия санньясы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (12. Санньяса - отречение от мира)
   slug: 12-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Отречение
     slug: otrechenie
   - title: Санньяса

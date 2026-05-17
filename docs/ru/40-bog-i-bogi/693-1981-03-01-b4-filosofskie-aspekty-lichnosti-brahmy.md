@@ -12,15 +12,6 @@ date: 1981-03-01
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.302
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-302
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.303
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-303
 links:
   - href: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
     title: аудиозапись в MP3 (2 мин. 21 сек., 1,9 МБ)
@@ -32,6 +23,13 @@ legacy:
   title: 693. 1981.03.01.B4. Философские аспекты личности Брахмы
   index: "693"
   filename: 693-1981-03-01-b4-filosofskie-aspekty-lichnosti-brahmy.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.302
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-302
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.303
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-303
 ---
 
 **Преданный:** Существует множество Брахм и Вселенных. А может ли быть Брахма чистейшим преданным?

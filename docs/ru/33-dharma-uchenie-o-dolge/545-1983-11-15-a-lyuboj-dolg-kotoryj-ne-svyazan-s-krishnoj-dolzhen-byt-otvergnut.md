@@ -13,8 +13,6 @@ category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Дхарма
     slug: dharma
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

@@ -1,7 +1,7 @@
 ---
 slug: 154-duhovnaya-vibratsiya-osvobozhdaet-vse-f
 record_id: 1982.01.27.C1
-title: Духовная вибрация освобождает все формы жизни.
+title: Духовная вибрация освобождает все формы жизни
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-01-27
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /wp-content/uploads/2012/08/154_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
     title: Скачать аудиозапись в mp3 (6 мин 47 сек, размер 5 Мб)

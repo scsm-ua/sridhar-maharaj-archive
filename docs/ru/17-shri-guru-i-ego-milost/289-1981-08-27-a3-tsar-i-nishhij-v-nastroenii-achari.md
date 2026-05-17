@@ -13,8 +13,6 @@ category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гуру-таттва
     slug: guru-tattva
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

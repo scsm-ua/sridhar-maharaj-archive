@@ -12,9 +12,6 @@ date: 1983-03-31
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1983.03"
-    slug: 1983-03
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
     title: аудиозапись в MP3 (18 мин. 01 сек., 9,6 МБ)

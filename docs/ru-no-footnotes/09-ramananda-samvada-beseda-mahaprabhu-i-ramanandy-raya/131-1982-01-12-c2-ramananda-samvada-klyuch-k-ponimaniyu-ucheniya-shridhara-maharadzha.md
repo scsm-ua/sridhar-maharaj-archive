@@ -13,8 +13,6 @@ category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Рамананда-самвад

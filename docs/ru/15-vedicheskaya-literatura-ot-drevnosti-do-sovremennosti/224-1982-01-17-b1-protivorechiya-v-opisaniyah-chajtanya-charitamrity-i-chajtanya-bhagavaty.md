@@ -12,17 +12,6 @@ date: 1982-01-17
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.43.17
-    slug: shrimad-bhagavatam-10-43-17
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 4.34
-    slug: bhagavad-gita-4-34
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
     title: аудиозапись в MP3 (14 мин. 03 сек., 7,2 МБ)
@@ -35,6 +24,15 @@ legacy:
     «Чайтанья-Бхагаваты»
   index: "224"
   filename: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty.md
+tags:
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
 ---
 
 На следующий день (это будет завтра утром) Шачидеви пришла в Шантипур. На протяжении десяти дней Махапрабху жил там, чем удовлетворил Свою мать и остальных друзей. Затем Он отправился в Пури.

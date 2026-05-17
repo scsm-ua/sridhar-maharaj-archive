@@ -12,9 +12,18 @@ date: 1982-02-19
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
+links:
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
+    title: аудиозапись в MP3 (10 мин. 16 сек., 5,9 МБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.rtf
+    title: транскрипцию в RTF (128 КБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.pdf
+    title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 659. 1982.02.19.B2. Градация преданности
+  index: "659"
+  filename: 659-1982-02-19-b2-gradatsiya-predannosti.md
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
@@ -27,17 +36,6 @@ tags:
     slug: shri-upadeshamrita
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
-links:
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
-    title: аудиозапись в MP3 (10 мин. 16 сек., 5,9 МБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.rtf
-    title: транскрипцию в RTF (128 КБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.pdf
-    title: транскрипцию в PDF (153 КБ)
-legacy:
-  title: 659. 1982.02.19.B2. Градация преданности
-  index: "659"
-  filename: 659-1982-02-19-b2-gradatsiya-predannosti.md
 ---
 
 *«Мгновения Прекрасной Реальности» (часть 7.2)*

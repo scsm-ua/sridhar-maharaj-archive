@@ -12,9 +12,6 @@ date: 1983-11-12
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/907_1983.11.12.B2_SridharMj_Rassuzhdenija_o_hristianskoj_koncepcii_Troicy.mp3
     title: аудиозапись в MP3 (6 мин. 18 сек., 7,4 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 341-zhizn-v-stremlenii-k-idealu-obladaet
 record_id: 1983.04.16.B1
-title: Жизнь в стремлении к идеалу обладает величайшей ценностью.
+title: Жизнь в стремлении к идеалу обладает величайшей ценностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-04-16
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /wp-content/uploads/2012/08/341_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
     title: Скачать аудиозапись в mp3 (27 мин 49 сек, размер 13 Мб)

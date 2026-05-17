@@ -12,13 +12,6 @@ date: 1981-02-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.02"
-    slug: 1981-02
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 15.1
-    slug: bhagavad-gita-15-1
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/618_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3
     title: аудиозапись в MP3 (8 мин. 38 сек., 4,9 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 618. 1981.02.28.C2. Мироздание развивается от сознания к материи
   index: "618"
   filename: 618-1981-02-28-c2-mirozdanie-razvivaetsya-ot-soznaniya-k-materii.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 15.1
+    slug: bhagavad-gita-15-1
 ---
 
 **Шрила Шридхар Махарадж** (спрашивает о ком-то): Он врач? Он занимается наукой?

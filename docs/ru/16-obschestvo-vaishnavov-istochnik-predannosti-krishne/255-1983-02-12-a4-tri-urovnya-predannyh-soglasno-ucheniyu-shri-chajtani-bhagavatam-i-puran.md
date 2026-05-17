@@ -12,11 +12,19 @@ date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
+links:
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
+    title: аудиозапись в MP3 (5 мин. 30 сек., 3,7 МБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.rtf
+    title: транскрипцию в RTF (97 КБ)
+  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.pdf
+    title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 255. 1983.02.12.A4. Три уровня преданных согласно учению Шри Чайтаньи,
+    Бхагаватам и Пуран
+  index: "255"
+  filename: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran.md
 tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: 1983.02.12
-    slug: 1983-02-12
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
@@ -43,18 +51,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-2-200
   - title: Бхакти-расамрита-синдху 1.2.187
     slug: bhakti-rasamrita-sindhu-1-2-187
-links:
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
-    title: аудиозапись в MP3 (5 мин. 30 сек., 3,7 МБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.rtf
-    title: транскрипцию в RTF (97 КБ)
-  - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.pdf
-    title: транскрипцию в PDF (149 КБ)
-legacy:
-  title: 255. 1983.02.12.A4. Три уровня преданных согласно учению Шри Чайтаньи,
-    Бхагаватам и Пуран
-  index: "255"
-  filename: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran.md
 ---
 
 **Преданный:** Я не совсем понимаю, почему Свами Махарадж дал два разных ответа на один и тот же вопрос. Не могли бы вы объяснить?

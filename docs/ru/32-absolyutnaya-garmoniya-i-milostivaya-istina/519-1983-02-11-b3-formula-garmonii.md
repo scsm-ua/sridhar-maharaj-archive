@@ -12,17 +12,6 @@ date: 1983-02-11
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
-    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
     title: аудиозапись в MP3 (5 мин. 12 сек., 4,7 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 519. 1983.02.11.B3. Формула гармонии
   index: "519"
   filename: 519-1983-02-11-b3-formula-garmonii.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 ---
 
 Высочайшая концепция Безграничного способна привести в гармонию все вещи, реалии, которые на первый, поверхностный взгляд ограничены. Они также могут быть приведены в гармонию, гармонизированы. Воровство, ложь и другие явления, которые предстают очень предосудительными, также могут быть гармонизированы, приведены в гармонию Абсолютным благом.

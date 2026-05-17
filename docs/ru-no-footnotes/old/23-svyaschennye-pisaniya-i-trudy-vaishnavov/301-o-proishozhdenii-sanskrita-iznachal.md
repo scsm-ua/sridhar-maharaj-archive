@@ -13,8 +13,6 @@ category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Санскрит
     slug: sanskrit
   - title: Священные писания

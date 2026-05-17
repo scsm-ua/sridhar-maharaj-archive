@@ -1,7 +1,7 @@
 ---
 slug: 416-lyubov-oznachaet-dobrovolnaya-zhertv
 record_id: 1982.01.17.C
-title: «Любовь» означает «добровольная жертва».
+title: «Любовь» означает «добровольная жертва»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Любовь
     slug: lyubov
   - title: Самопожертвование

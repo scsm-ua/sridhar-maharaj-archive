@@ -1,7 +1,7 @@
 ---
 slug: 104-o-stradaniyah-guru-iz-za-karmy-ucheniko
 record_id: 1983.04.17.A4
-title: О страданиях гуру из-за кармы учеников.
+title: О страданиях гуру из-за кармы учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Гуру
     slug: guru
   - title: Карма

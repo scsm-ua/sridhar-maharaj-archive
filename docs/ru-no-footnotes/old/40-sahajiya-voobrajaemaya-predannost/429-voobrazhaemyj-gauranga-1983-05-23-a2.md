@@ -1,7 +1,7 @@
 ---
 slug: 429-voobrazhaemyj-gauranga-1983-05-23-a2
 record_id: 1983.05.23.A2
-title: Воображаемый Гауранга.
+title: Воображаемый Гауранга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Сахаджия
     slug: sahadzhiya
 links:

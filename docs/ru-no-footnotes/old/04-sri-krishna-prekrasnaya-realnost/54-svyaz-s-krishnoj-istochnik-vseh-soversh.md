@@ -1,7 +1,7 @@
 ---
 slug: 54-svyaz-s-krishnoj-istochnik-vseh-soversh
 record_id: 1982.01.20.B2
-title: Связь с Кришной — источник всех совершенств.
+title: Связь с Кришной — источник всех совершенств
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

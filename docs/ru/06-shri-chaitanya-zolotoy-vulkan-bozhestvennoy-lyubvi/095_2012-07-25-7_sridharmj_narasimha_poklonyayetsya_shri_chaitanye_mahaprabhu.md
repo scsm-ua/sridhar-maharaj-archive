@@ -1,6 +1,6 @@
 ---
 slug: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu
-title: Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху
+title: Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -15,8 +15,6 @@ tags:
     slug: mahaprabhu
   - title: Нарасимха
     slug: narasimha
-  - title: дата неизвестна
-    slug: data-neizvestna
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
     title: аудиозапись в MP3 (5 мин. 54 сек., 2.9 МБ)

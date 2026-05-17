@@ -12,9 +12,6 @@ date: 1983-01-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1983.01"
-    slug: 1983-01
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.mp3
     title: аудиозапись в MP3 (9 мин. 11 сек., 5,1 МБ)

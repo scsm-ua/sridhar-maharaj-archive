@@ -12,17 +12,6 @@ date: 1985-07-03
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1985.07"
-    slug: 1985-07
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-89
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 2.2.6
-    slug: shrimad-bhagavatam-2-2-6
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
     title: аудиозапись в MP3 (11 мин. 30 сек., 8,6 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 201. 1985.07.03. Господа можно постичь только по Его милости
   index: "201"
   filename: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-89
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 2.2.6
+    slug: shrimad-bhagavatam-2-2-6
 ---
 
 **Преданный:** Гуру Махарадж, как мы можем узнать, какова воля Господа? Что зависит от нас, что наша *карма*, что *майя* и в чем состоит наша свобода?

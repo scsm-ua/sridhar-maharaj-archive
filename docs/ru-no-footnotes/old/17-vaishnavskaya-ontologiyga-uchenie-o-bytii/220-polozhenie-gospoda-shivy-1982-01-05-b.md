@@ -1,7 +1,7 @@
 ---
 slug: 220-polozhenie-gospoda-shivy-1982-01-05-b
 record_id: 1982.01.05.B
-title: Положение Господа Шивы.
+title: Положение Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Брахма
     slug: brahma
   - title: Шива

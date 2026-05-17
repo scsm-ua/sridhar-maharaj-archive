@@ -12,9 +12,18 @@ date: 1982-01-17
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
+    title: аудиозапись в MP3 (8 мин. 59 сек., 5,1 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.rtf
+    title: транскрипцию в RTF (100 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.pdf
+    title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 623. 1982.01.17.A2. Арии рассматривали явления природы как личности
+  index: "623"
+  filename: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.5.2
@@ -29,17 +38,6 @@ tags:
     slug: shri-chajtanya-chandrodaya-nataka-5-13
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136
     slug: shri-chajtanya-charitamrita-madhya-lila-15-136
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
-    title: аудиозапись в MP3 (8 мин. 59 сек., 5,1 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.rtf
-    title: транскрипцию в RTF (100 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.pdf
-    title: транскрипцию в PDF (151 КБ)
-legacy:
-  title: 623. 1982.01.17.A2. Арии рассматривали явления природы как личности
-  index: "623"
-  filename: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
 ---
 
 В ведической культуре люди имеют обыкновение все реалии рассматривать в их личностном аспекте. Вода Ганги: тело состоит из воды, но внутри заключена личность. Ямуна наделена телом из воды. Когда Рамачандра захотел построить мост на Ланку, то стал совершать аскезы, постился, поклоняясь океану (богу моря, личности, представляющей море). Но море не ответило на Его молитвы. Тогда Рамачандра разгневался и сказал: «Мой брат Лакшман, дай Мне лук и стрелы. Весь день я постился, поклоняясь морю, и молил море прийти ко Мне на помощь, помочь Мне в строительстве моста, просил, чтобы море милостиво позволило, но оно отказалось. Я почтительно просил его, но Я не в силах терпеть это равнодушие, пренебрежение, высокомерие. Я осушу все море, осушу весь океан, поглощу всю воду с помощью стрелы». И тогда бог моря испугался и поспешил к Рамачандре: «Что Ты говоришь, мой Владыка? Я не мог понять, что Ты — Нараяна». — «Я хочу построить через тебя мост. Пожалуйста, не возражай. Это крайне Мне необходимо». — «Да-да, я помогу Тебе во всех отношениях».

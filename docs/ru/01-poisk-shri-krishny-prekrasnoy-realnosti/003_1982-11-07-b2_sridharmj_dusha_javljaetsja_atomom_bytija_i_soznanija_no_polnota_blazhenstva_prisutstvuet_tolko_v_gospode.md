@@ -13,13 +13,6 @@ date: 1982-11-07
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-  - title: with English audio
-    slug: with-english-audio
-  - title: with English text
-    slug: with-english-text
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/003_1982.11.07.B2_SridharMj_Dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_Gospode.mp3
     title: аудиозапись в MP3 (1 мин 02 сек, 1.1 МБ)

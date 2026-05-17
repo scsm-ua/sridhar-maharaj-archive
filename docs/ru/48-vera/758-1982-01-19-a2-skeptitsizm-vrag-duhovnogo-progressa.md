@@ -13,8 +13,6 @@ category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вера
     slug: vera
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила

@@ -12,9 +12,6 @@ date: 1983-11-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
     title: аудиозапись в MP3 (3 мин. 27 сек., 3,4 МБ)

@@ -1,7 +1,7 @@
 ---
 slug: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d
 record_id: 1983.07.19.B2
-title: Махапрабху являет пятое измерение духовного бытия.
+title: Махапрабху являет пятое измерение духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Будда
     slug: budda
   - title: Гармония

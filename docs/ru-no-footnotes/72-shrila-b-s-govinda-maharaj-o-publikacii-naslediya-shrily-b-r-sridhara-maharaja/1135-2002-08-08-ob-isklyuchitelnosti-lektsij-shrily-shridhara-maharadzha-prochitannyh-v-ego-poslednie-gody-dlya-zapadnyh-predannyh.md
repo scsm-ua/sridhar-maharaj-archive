@@ -13,9 +13,6 @@ category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
     Махараджа
   slug: 72-shrila-b-s-govinda-maharaj-o-publikacii-naslediya-shrily-b-r-sridhara-maharaja
-tags:
-  - title: "2002.08"
-    slug: 2002-08
 links:
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.mp3
     title: аудиозапись в MP3 (7 мин. 02 сек., 5,0 МБ)

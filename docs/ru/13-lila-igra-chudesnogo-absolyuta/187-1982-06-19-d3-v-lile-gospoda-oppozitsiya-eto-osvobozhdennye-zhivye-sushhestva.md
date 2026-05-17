@@ -12,17 +12,6 @@ date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 1
-    slug: sharanagati-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
-    slug: shri-chajtanya-charitamrita-adi-lila-10-120
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
     title: аудиозапись в MP3 (2 мин. 35 сек., 2,8 МБ)
@@ -35,6 +24,15 @@ legacy:
     существа
   index: "187"
   filename: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva.md
+tags:
+  - title: Шаранагати
+    slug: sharanagati
+  - title: Шаранагати 1
+    slug: sharanagati-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
+    slug: shri-chajtanya-charitamrita-adi-lila-10-120
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна.

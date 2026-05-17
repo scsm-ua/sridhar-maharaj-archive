@@ -1,7 +1,7 @@
 ---
 slug: 93-otlichie-ekspansij-jogov-ot-ekspansij
 record_id: 1983.01.10.B2
-title: Отличие экспансий йогов от экспансий Кришны.
+title: Отличие экспансий йогов от экспансий Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Йога
     slug: joga
   - title: Кришна-лила

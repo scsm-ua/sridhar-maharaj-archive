@@ -13,8 +13,6 @@ category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Проповедь
     slug: propoved
   - title: «Падма-пурана», Уттара-кханда

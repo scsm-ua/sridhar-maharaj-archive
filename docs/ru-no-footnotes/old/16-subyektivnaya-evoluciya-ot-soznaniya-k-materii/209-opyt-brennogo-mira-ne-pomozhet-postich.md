@@ -1,7 +1,7 @@
 ---
 slug: 209-opyt-brennogo-mira-ne-pomozhet-postich
 record_id: 1983.01.21.A
-title: Опыт бренного мира не поможет постичь Безграничное.
+title: Опыт бренного мира не поможет постичь Безграничное
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Материальный мир
     slug: materialnyj-mir
   - title: Сознание

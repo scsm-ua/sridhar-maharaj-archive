@@ -1,7 +1,7 @@
 ---
 slug: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1
 record_id: 1983.01.06.A1
-title: Развитие в теистическом мире.
+title: Развитие в теистическом мире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Духовный мир
     slug: duhovnyj-mir
   - title: Кришна

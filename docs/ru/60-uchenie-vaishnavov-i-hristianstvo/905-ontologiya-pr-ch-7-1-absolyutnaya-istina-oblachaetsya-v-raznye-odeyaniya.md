@@ -1,6 +1,6 @@
 ---
 slug: 905-ontologiya-pr-ch-7-1-absolyutnaya-istina-oblachaetsya-v-raznye-odeyaniya
-title: Онтология ПР. Ч. 7.1. Абсолютная Истина облачается в разные одеяния
+title: Онтология ПР. Ч. 7.1. Абсолютная Истина облачается в разные одеяния.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

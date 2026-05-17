@@ -13,8 +13,6 @@ category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Шаранагати
     slug: sharanagati
 links:

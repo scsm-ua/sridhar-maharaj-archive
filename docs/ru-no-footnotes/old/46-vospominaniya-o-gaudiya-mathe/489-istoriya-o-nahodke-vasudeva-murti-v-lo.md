@@ -13,8 +13,6 @@ category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Гаудия-матх
     slug: gaudiya-math
 links:

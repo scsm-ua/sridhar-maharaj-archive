@@ -1,7 +1,7 @@
 ---
 slug: 371-obshhenie-s-vajshnavami-daruet-podlinn
 record_id: 1982.01.04.C
-title: Общение с вайшнавами дарует подлинное восприятие Божества.
+title: Общение с вайшнавами дарует подлинное восприятие Божества
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Божество
     slug: bozhestvo
   - title: Садху-санга

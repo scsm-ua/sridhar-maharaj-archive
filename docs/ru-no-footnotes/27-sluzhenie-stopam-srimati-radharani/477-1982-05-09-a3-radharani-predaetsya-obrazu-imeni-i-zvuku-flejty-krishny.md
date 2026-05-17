@@ -13,8 +13,6 @@ category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Радхарани
     slug: radharani
 links:

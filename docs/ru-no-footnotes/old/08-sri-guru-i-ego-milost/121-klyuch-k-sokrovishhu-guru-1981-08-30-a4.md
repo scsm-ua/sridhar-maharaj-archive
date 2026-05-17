@@ -1,7 +1,7 @@
 ---
 slug: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4
 record_id: 1981.08.30.A4
-title: Ключ к сокровищу гуру.
+title: Ключ к сокровищу гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Вайкунтха
     slug: vajkuntha
   - title: Гуру

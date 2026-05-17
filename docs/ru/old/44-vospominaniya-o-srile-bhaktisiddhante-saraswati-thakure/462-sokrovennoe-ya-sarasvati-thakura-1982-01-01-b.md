@@ -1,7 +1,7 @@
 ---
 slug: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b
 record_id: 1982.01.01.B
-title: Сокровенное «Я» Сарасвати Тхакура.
+title: Сокровенное «Я» Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
   - title: Сарасвати Тхакур

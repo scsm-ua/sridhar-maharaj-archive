@@ -1,7 +1,7 @@
 ---
 slug: 491-obyasnenie-simvolicheskogo-smysla-lo
 record_id: 1981.08.31.B5.C1
-title: Объяснение символического смысла лотоса в воде под лучами солнца.
+title: Объяснение символического смысла лотоса в воде под лучами солнца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Шри Чайтанья Сарасват Матх
     slug: shri-chajtanya-sarasvat-math
 links:

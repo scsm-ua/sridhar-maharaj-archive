@@ -1,7 +1,7 @@
 ---
 slug: 463-shuddha-shakty-1982-01-09-a3
 record_id: 1982.01.09.A3
-title: Шуддха-шакты.
+title: Шуддха-шакты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
 links:

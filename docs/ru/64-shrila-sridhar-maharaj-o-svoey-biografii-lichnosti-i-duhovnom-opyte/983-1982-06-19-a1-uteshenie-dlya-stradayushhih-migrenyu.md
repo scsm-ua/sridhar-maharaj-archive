@@ -12,9 +12,18 @@ date: 1982-06-19
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
+links:
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
+    title: аудиозапись в MP3 (9 мин. 16 сек., 9,3 МБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.rtf
+    title: транскрипцию в RTF (100 КБ)
+  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.pdf
+    title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 983. 1982.06.19.A1. Утешение для страдающих мигренью
+  index: "983"
+  filename: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu.md
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Катха-упанишад
     slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
@@ -33,17 +42,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
-links:
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
-    title: аудиозапись в MP3 (9 мин. 16 сек., 9,3 МБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.rtf
-    title: транскрипцию в RTF (100 КБ)
-  - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.pdf
-    title: транскрипцию в PDF (153 КБ)
-legacy:
-  title: 983. 1982.06.19.A1. Утешение для страдающих мигренью
-  index: "983"
-  filename: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu.md
 ---
 
 **Шрила Шридхар Махарадж:** Один врач мне говорил как-то, что это мигрень, головная боль. Он сказал: «У меня есть для вас утешение: люди, страдающие от подобной мигрени, как правило очень умны».
@@ -64,7 +62,7 @@ legacy:
 
 *#00:04:52#*
 
-Есть еще один процесс, но он несколько опасен, может привести к катастрофе: выдыхать, исторгать из себя жизненный воздух. [К сожалению, ветер заглушает слова, и понятен только общий смысл. Он рассказывает об этой технике дыхательных упражнений, которую он совершал, по его словам, в молодости — *переводчик*]. Но это не имеет никакого отношения к *кришна*—*бхаджану*. Если эти упражнения каким-то образом связаны с *садху-сангой*, совершаются в рамках *садху-санги*, когда человек общается с *садху*, то эти упражнения могут помочь телу и уму. Но *бхакти* — это независимое явление, *бхакти* — нечто другое. *Шаранагати*. Без *шаранагати* ни йога, ни *гьяна* — ничто не может быть заменой *шаранагати.*
+Есть еще один процесс, но он несколько опасен, может привести к катастрофе: выдыхать, исторгать из себя жизненный воздух. [К сожалению, ветер заглушает слова, и понятен только общий смысл. Он рассказывает об этой технике дыхательных упражнений, которую он совершал, по его словам, в молодости — *переводчик*]. Но это не имеет никакого отношения к *кришна*—*бхаджану*. Если эти упражнения каким-то образом связаны с *садху-сангой*, совершаются в рамках *садху-санги*, когда человек общается с *садху*, то эти упражнения могут помочь телу и уму. Но *бхакти* — это независимое явление, *бхакти* — нечто другое. *Шаранагати*. Без *шаранагати* ни йога, ни *гьяна* — ничто не может быть заменой *шаранагати*.
 
 *#00:05:49#*
 

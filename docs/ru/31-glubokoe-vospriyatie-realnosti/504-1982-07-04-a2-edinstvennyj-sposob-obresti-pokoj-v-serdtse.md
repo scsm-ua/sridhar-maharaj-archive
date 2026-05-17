@@ -12,13 +12,6 @@ date: 1982-07-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 5.29
-    slug: bhagavad-gita-5-29
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
     title: аудиозапись в MP3 (2 мин. 13 сек., 2,7 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 504. 1982.07.04.A2. Единственный способ обрести покой в сердце
   index: "504"
   filename: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
 ---
 
 **Преданный:** И все сохраняет Сам Господь Кришна.

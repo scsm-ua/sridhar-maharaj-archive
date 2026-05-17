@@ -1,7 +1,7 @@
 ---
 slug: 66-nesovershenstva-usilivayut-krasotu-kr
 record_id: 1982.01.22.A1
-title: Несовершенства усиливают красоту кришна-лилы.
+title: Несовершенства усиливают красоту кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гармония
     slug: garmoniya
   - title: Кришна-лила

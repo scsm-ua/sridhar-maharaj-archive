@@ -1,7 +1,7 @@
 ---
 slug: 390-o-poklonenii-gaura-nitayu-radhe-krishn
 record_id: 1984.01.08.B2.B4
-title: О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху.
+title: О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Божество
     slug: bozhestvo
 links:

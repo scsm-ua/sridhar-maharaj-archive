@@ -12,13 +12,6 @@ date: 1982-02-20
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 14.89
-    slug: shri-chajtanya-charitamrita-adi-lila-14-89
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
     title: аудиозапись в MP3 (11 мин. 06 сек., 13,0 МБ)
@@ -31,6 +24,11 @@ legacy:
     Тхакуром
   index: "962"
   filename: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 14.89
+    slug: shri-chajtanya-charitamrita-adi-lila-14-89
 ---
 
 **Преданный:** Бхактивинод Тхакур, когда он занимался правительственной службой, планировал быть переведенным в этом округ?

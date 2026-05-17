@@ -1,7 +1,7 @@
 ---
 slug: 514-o-publikatsii-knig-shrily-shridhara-mah
 record_id: null
-title: О публикации книг Шрилы Шридхара Махараджа.
+title: О публикации книг Шрилы Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:

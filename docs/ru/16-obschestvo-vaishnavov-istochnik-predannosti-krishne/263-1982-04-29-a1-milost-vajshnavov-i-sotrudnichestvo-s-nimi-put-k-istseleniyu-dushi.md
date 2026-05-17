@@ -12,9 +12,6 @@ date: 1982-04-29
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.04"
-    slug: 1982-04
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/263_1982.04.29.A1_SridharMj_Milost_vajshnavov_i_sotrudnichestvo_s_nimi--put_k_isceleniju_dushi.mp3
     title: аудиозапись в MP3 (1 мин. 09 сек., 2,2 МБ)

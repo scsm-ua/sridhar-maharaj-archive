@@ -1,7 +1,7 @@
 ---
 slug: 384-kultivirovanie-duhovnogo-zvuka-pre
 record_id: 1983.02.18.B3
-title: Культивирование духовного звука превыше арчаны.
+title: Культивирование духовного звука превыше арчаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Арчана
     slug: archana
   - title: Божество

@@ -12,9 +12,6 @@ date: 1982-01-31
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.01"
-    slug: 1982-01
 links:
   - href: /dl/40._Bog_i_bogi/686_1982.01.31.B3_SridharMj_Istorija_i_polozhenie_Vishvy.mp3
     title: аудиозапись в MP3 (5 мин. 56 сек., 3,5 МБ)

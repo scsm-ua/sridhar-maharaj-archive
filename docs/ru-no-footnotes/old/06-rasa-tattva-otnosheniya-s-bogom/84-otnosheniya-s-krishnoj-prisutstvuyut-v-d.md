@@ -1,7 +1,7 @@
 ---
 slug: 84-otnosheniya-s-krishnoj-prisutstvuyut-v-d
 record_id: 1981.03.05.B5
-title: Отношения с Кришной присутствуют в душе в дремлющей форме.
+title: Отношения с Кришной присутствуют в душе в дремлющей форме
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Кришна-лила

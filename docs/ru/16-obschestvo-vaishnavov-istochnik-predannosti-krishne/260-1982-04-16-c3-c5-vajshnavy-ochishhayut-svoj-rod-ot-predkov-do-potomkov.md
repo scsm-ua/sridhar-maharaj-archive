@@ -12,13 +12,6 @@ date: 1982-04-16
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда 2.49
-    slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
     title: аудиозапись в MP3 (5 мин. 01 сек., 5,7 МБ)
@@ -30,6 +23,11 @@ legacy:
   title: 260. 1982.04.16.C3.C5. Вайшнавы очищают свой род от предков до потомков
   index: "260"
   filename: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov.md
+tags:
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда
+    slug: shri-chajtanya-bhagavata-adi-khanda
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 2.49
+    slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 ---
 
 **Шрила Шридхар Махарадж:** Где мать Пхулангана?

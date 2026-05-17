@@ -13,8 +13,6 @@ category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
 links:

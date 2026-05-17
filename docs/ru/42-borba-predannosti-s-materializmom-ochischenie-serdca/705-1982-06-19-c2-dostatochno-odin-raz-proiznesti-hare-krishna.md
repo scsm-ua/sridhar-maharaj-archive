@@ -12,19 +12,6 @@ date: 1982-06-19
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
-    slug: shri-chajtanya-charitamrita-adi-lila-5-35
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 7.1.30
-    slug: shrimad-bhagavatam-7-1-30
-  - title: Шримад-Бхагаватам 6.2.14
-    slug: shrimad-bhagavatam-6-2-14
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/705_1982.06.19.C2_SridharMj_Dostatochno_odin_raz_proiznesti_Hare_Krishna.mp3
     title: аудиозапись в MP3 (2 мин. 43 сек., 4,2 МБ)
@@ -36,6 +23,17 @@ legacy:
   title: 705. 1982.06.19.C2. Достаточно один раз произнести «Харе Кришна»…
   index: "705"
   filename: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna.md
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила
+    slug: shri-chajtanya-charitamrita-adi-lila
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
+    slug: shri-chajtanya-charitamrita-adi-lila-5-35
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+  - title: Шримад-Бхагаватам 7.1.30
+    slug: shrimad-bhagavatam-7-1-30
+  - title: Шримад-Бхагаватам 6.2.14
+    slug: shrimad-bhagavatam-6-2-14
 ---
 
 **Бхакти Чару Махарадж:** Вы знаете, Махарадж, пару месяцев тому назад Брежнев заявил, что основную угрозу советской молодежи представляют американская поп-музыка и «Харе Кришна».

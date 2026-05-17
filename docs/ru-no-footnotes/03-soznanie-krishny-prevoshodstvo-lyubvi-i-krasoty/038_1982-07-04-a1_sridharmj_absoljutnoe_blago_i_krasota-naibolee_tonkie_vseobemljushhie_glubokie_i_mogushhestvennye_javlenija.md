@@ -14,8 +14,6 @@ category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Красота
     slug: krasota
 links:

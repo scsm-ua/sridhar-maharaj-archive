@@ -13,8 +13,6 @@ category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Флейта Кришны
     slug: flejta-krishny
 links:

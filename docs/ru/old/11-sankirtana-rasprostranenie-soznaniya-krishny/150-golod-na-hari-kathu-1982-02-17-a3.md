@@ -1,7 +1,7 @@
 ---
 slug: 150-golod-na-hari-kathu-1982-02-17-a3
 record_id: 1982.02.17.A3
-title: Голод на хари-катху.
+title: Голод на хари-катху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1982-02-17
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
-tags:
-  - title: "1982.02"
-    slug: 1982-02
 links:
   - href: /wp-content/uploads/2012/08/150_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 22 сек, размер 5 Мб)

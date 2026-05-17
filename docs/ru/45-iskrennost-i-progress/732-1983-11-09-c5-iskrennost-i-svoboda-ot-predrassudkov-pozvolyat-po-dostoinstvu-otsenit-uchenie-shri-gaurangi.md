@@ -13,13 +13,6 @@ date: 1983-11-09
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.40
-    slug: bhagavad-gita-6-40
 links:
   - href: /dl/45._Iskrennost_i_progress/732_1983.11.09.C5_SridharMj_Iskrennost_i_svoboda_ot_predrassudkov_pozvoljat_po_dostoinstvu_ocenit_uchenie_Shri_Gaurangi.mp3
     title: аудиозапись в MP3 (1 мин. 11 сек., 2,0 МБ)
@@ -32,6 +25,11 @@ legacy:
     достоинству оценить учение Шри Гауранги
   index: "732"
   filename: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
 ---
 
     на хи калйа̄н̣а-кр̣т каш́чид

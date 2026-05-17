@@ -1,7 +1,7 @@
 ---
 slug: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov
 record_id: 1982.05.01.C2
-title: Качества брахманов. Градация брахманов и вайшнавов
+title: Качества брахманов. Градация брахманов и вайшнавов.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
 links:

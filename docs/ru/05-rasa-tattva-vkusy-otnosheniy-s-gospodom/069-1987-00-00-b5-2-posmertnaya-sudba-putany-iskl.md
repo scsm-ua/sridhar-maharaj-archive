@@ -12,9 +12,18 @@ date: 1987-00-00
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
+links:
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
+    title: аудиозапись в MP3 (7 мин. 45 сек., 64 кбит/сек, 6.0 МБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.rtf
+    title: транскрипцию в RTF (134 КБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.pdf
+    title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
+  index: "069"
+  filename: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
 tags:
-  - title: "1987.00"
-    slug: 1987-00
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
@@ -49,17 +58,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-98
   - title: Шримад-Бхагаватам 3.2.23
     slug: shrimad-bhagavatam-3-2-23
-links:
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
-    title: аудиозапись в MP3 (7 мин. 45 сек., 64 кбит/сек, 6.0 МБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.rtf
-    title: транскрипцию в RTF (134 КБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.pdf
-    title: транскрипцию в PDF (160 КБ)
-legacy:
-  title: 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
-  index: "069"
-  filename: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
 ---
 
 Учение Рупы Госвами. Как он дал эту *сиддханту*? Целостное, полное явление.
@@ -106,7 +104,7 @@ legacy:
     хр̣шӣкен̣а хр̣шӣкеш́а севанам̇ бхактир учйате
 [^_ftn6]
 
-Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄.*
+Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄*.
 
 *#00:02:52#*
 

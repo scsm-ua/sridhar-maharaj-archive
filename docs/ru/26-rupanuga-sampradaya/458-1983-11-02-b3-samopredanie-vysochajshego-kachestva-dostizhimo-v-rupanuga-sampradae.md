@@ -12,9 +12,6 @@ date: 1983-11-02
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3
     title: аудиозапись в MP3 (2 мин. 47 сек., 3,2 МБ)

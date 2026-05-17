@@ -12,9 +12,6 @@ date: 1982-05-06
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1108_1982.05.06.B1_SridharMj_Objasnenie_tretego_stiha_Shri_Shri_Dajita_Dasa_dashakam.mp3
     title: аудиозапись в MP3 (6 мин. 58 сек., 6,6 МБ)

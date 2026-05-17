@@ -13,8 +13,6 @@ category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Вера
     slug: vera
   - title: Материальный мир

@@ -12,17 +12,6 @@ date: 1983-03-30
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56
-    slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.30
-    slug: bhagavad-gita-9-30
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
     title: аудиозапись в MP3 (4 мин. 35 сек., 2,6 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 860. 1983.03.30.A4. О вайшнава апарадхе и опасности критики
   index: "860"
   filename: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki.md
+tags:
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
+    slug: shri-chajtanya-bhagavata-madhya-khanda
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56
+    slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 ---
 
 Когда речь идет обо мне — да будет так. Какое оскорбление, какое преступление в мой адрес? Не может быть и речи об этом: я преступник сам. И факт таков, что если вайшнав оскорбляем, тогда оскорбляющий сам получает эти дефекты, изъяны. Яд пьет он, яд, отрава передается. Если человек выше оскорблений и его оскорбляют, тогда тот, кто оскорбляет, принимает в себя эту скверну, а тот, кого оскорбляют, становится более чистым.

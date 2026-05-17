@@ -12,17 +12,6 @@ date: 1983-04-25
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: Вайшнава ке
-    slug: vajshnava-ke
-  - title: Вайшнава ке 3
-    slug: vajshnava-ke-3
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
-  - title: Мундака Упанишад 1.3
-    slug: mundaka-upanishad-1-3
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3
     title: аудиозапись в MP3 (8 мин. 13 сек., 4,6 МБ)
@@ -34,6 +23,15 @@ legacy:
   title: 425. 1983.04.25.A3. Самбандха-гьяна значит «концепция Абсолютного Центра»
   index: "425"
   filename: 425-1983-04-25-a3-sambandha-gyana-znachit-kontseptsiya-absolyutnogo-tsentra.md
+tags:
+  - title: Вайшнава ке
+    slug: vajshnava-ke
+  - title: Вайшнава ке 3
+    slug: vajshnava-ke-3
+  - title: Мундака Упанишад
+    slug: mundaka-upanishad
+  - title: Мундака Упанишад 1.3
+    slug: mundaka-upanishad-1-3
 ---
 
 **Преданный:** Махарадж, *кама*, *кродха* и *лобха* — мы пытаемся победить их, но труднее всего победить вожделение. Что делать с вожделением?

@@ -13,8 +13,6 @@ category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Йога
     slug: joga
 links:

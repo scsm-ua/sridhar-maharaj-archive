@@ -12,9 +12,6 @@ date: 1983-05-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.05"
-    slug: 1983-05
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/932_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
     title: аудиозапись в MP3 (9 мин. 43 сек., 7,3 МБ)

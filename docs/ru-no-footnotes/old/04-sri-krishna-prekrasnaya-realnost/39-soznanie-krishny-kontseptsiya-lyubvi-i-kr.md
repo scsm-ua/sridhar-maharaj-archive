@@ -1,7 +1,7 @@
 ---
 slug: 39-soznanie-krishny-kontseptsiya-lyubvi-i-kr
 record_id: 1983.01.12.A2
-title: Сознание Кришны — концепция любви и красоты.
+title: Сознание Кришны — концепция любви и красоты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Кришна
     slug: krishna
 links:

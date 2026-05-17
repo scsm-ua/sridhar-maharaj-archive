@@ -13,8 +13,6 @@ category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Самопредание
     slug: samopredanie
 links:

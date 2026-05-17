@@ -12,9 +12,6 @@ date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/173_1981.03.03.C4_SridharMj_Lev_syedayet_Prasenu.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,1 МБ)

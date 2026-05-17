@@ -1,7 +1,7 @@
 ---
 slug: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi
 record_id: 1983.01.30.A1
-title: Метод для обретения связи с высшим миром.
+title: Метод для обретения связи с высшим миром
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Духовный мир
     slug: duhovnyj-mir
 links:

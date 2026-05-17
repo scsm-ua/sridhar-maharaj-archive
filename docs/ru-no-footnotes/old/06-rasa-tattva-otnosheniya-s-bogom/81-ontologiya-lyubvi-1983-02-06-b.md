@@ -1,7 +1,7 @@
 ---
 slug: 81-ontologiya-lyubvi-1983-02-06-b
 record_id: 1983.02.06.B
-title: Онтология любви.
+title: Онтология любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Любовь
     slug: lyubov
 links:

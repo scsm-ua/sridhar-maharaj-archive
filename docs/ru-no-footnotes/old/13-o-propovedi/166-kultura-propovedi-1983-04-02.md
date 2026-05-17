@@ -1,7 +1,7 @@
 ---
 slug: 166-kultura-propovedi-1983-04-02
 record_id: 1983.04.02
-title: Культура проповеди.
+title: Культура проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +12,6 @@ date: 1983-04-02
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
-tags:
-  - title: "1983.04"
-    slug: 1983-04
 links:
   - href: /wp-content/uploads/2012/08/166_1983.04.02_SridharMj_Kultura_propovedi.mp3
     title: Скачать аудиозапись в mp3 (35 мин 26 сек, размер 19 Мб)

@@ -12,9 +12,18 @@ date: 1981-08-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
+links:
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
+    title: аудиозапись в MP3 (41 мин. 39 сек., 20,0 МБ)
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.rtf
+    title: транскрипцию в RTF (375 КБ)
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.pdf
+    title: транскрипцию в PDF (204КБ)
+legacy:
+  title: 729. 1981.08.28.C. Искренность непобедима
+  index: "729"
+  filename: 729-1981-08-28-c-iskrennost-nepobedima.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Вайшнава ке
     slug: vajshnava-ke
   - title: Вайшнава ке 3
@@ -63,17 +72,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-links:
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
-    title: аудиозапись в MP3 (41 мин. 39 сек., 20,0 МБ)
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.rtf
-    title: транскрипцию в RTF (375 КБ)
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.pdf
-    title: транскрипцию в PDF (204КБ)
-legacy:
-  title: 729. 1981.08.28.C. Искренность непобедима
-  index: "729"
-  filename: 729-1981-08-28-c-iskrennost-nepobedima.md
 ---
 
 Пратиштха. *Ашрая-виграха* — Баладев и Радхарани. *Пратиштха* — их собственность (или как это называется?), их доля. Вся *пратиштха* (слава) должна принадлежать Гурудеву, поскольку что бы я ни получил, это все — благодаря его милости. Строгой приверженностью стопам Гурудева человек может преодолеть, выйти победителем в битве с этой *пратиштхой*. Вся заслуга, любая заслуга, даже малейшая — благодаря милости моего Гурудева. *Гуру-таттва*. Он — тот, кто притязает на *пратиштху*, кому она принадлежит: только благодаря ему слава Кришны распространяется в этом мире. *Гуру-таттва*, *мулашрая-виграха*, главный источник прибежища.

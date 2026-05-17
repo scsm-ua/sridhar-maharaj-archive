@@ -12,9 +12,6 @@ date: 1983-11-04
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1983.11"
-    slug: 1983-11
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1115_1983.11.04.A3_SridharMj_Glubokie_idei_predannosti_v_charujushhej_i_szhatoj_forme.mp3
     title: аудиозапись в MP3 (0 мин. 47 сек., 1,3 МБ)

@@ -13,13 +13,6 @@ date: 1982-05-06
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 18.65
-    slug: bhagavad-gita-18-65
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3
     title: аудиозапись в MP3 (00 мин. 34 сек., 0,7 МБ)
@@ -32,6 +25,11 @@ legacy:
     пребывают на стадии совершенства
   index: "486"
   filename: 486-1982-05-06-a2-gita-ukazyvaet-napravlenie-dlya-praktikuyushhih-no-gopi-prebyvayut-na-stadii-sovershenstva.md
+tags:
+  - title: Бхагавад-гита
+    slug: bhagavad-gita
+  - title: Бхагавад-гита 18.65
+    slug: bhagavad-gita-18-65
 ---
 
 **Госвами Махарадж:** Когда Кришна говорит: «*Ман-мана̄ бхава мад-бхакто*»[^_ftn1], Он подразумевает, что следует думать о Нем определенным образом?

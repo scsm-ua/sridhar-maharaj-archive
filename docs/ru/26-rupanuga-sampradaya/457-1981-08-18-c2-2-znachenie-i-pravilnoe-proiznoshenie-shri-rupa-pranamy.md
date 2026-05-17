@@ -12,9 +12,18 @@ date: 1981-08-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
+links:
+  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
+    title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
+  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.rtf
+    title: транскрипцию в RTF (88 КБ)
+  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.pdf
+    title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
+  index: "457"
+  filename: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Шри Према-бхакти-чандрика
     slug: shri-prema-bhakti-chandrika
   - title: Шри Према-бхакти-чандрика 2
@@ -37,17 +46,6 @@ tags:
     slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-links:
-  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
-    title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
-  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.rtf
-    title: транскрипцию в RTF (88 КБ)
-  - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.pdf
-    title: транскрипцию в PDF (149 КБ)
-legacy:
-  title: 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
-  index: "457"
-  filename: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
 ---
 
 **Госвами Махарадж:** Махарадж?

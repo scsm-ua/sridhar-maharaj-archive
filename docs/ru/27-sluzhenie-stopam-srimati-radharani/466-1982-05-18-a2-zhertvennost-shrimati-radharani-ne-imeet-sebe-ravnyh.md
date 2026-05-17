@@ -12,9 +12,18 @@ date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
+links:
+  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
+    title: аудиозапись в MP3 (8 мин. 16 сек., 8,0 МБ)
+  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.rtf
+    title: транскрипцию в RTF (89 КБ)
+  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.pdf
+    title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
+  index: "466"
+  filename: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
@@ -31,17 +40,6 @@ tags:
     slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1
     slug: shri-gita-govinda-3-1
-links:
-  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
-    title: аудиозапись в MP3 (8 мин. 16 сек., 8,0 МБ)
-  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.rtf
-    title: транскрипцию в RTF (89 КБ)
-  - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.pdf
-    title: транскрипцию в PDF (152 КБ)
-legacy:
-  title: 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
-  index: "466"
-  filename: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
 ---
 
 **Преданный:** *Амта-никшепа*?

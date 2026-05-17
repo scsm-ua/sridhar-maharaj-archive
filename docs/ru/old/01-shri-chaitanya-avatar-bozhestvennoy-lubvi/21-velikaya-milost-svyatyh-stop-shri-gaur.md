@@ -1,7 +1,7 @@
 ---
 slug: 21-velikaya-milost-svyatyh-stop-shri-gaur
 record_id: 1982.01.24.B1
-title: Великая милость святых стоп Шри Гауранги.
+title: Великая милость святых стоп Шри Гауранги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
 links:

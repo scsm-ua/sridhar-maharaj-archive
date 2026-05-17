@@ -1,6 +1,7 @@
 ---
 slug: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha
-title: Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара Махараджа
+title: Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
+  Махараджа.
 author: Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -12,9 +13,6 @@ category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
     Махараджа
   slug: 72-shrila-b-s-govinda-maharaj-o-publikacii-naslediya-shrily-b-r-sridhara-maharaja
-tags:
-  - title: "2007.04"
-    slug: 2007-04
 links:
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (6 мин. 00 сек., 7,3 МБ)

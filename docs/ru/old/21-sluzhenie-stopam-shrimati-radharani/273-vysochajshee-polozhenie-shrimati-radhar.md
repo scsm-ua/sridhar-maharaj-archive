@@ -1,7 +1,7 @@
 ---
 slug: 273-vysochajshee-polozhenie-shrimati-radhar
 record_id: 1983.05.09.C2
-title: Высочайшее положение Шримати Радхарани.
+title: Высочайшее положение Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Бхакти
     slug: bhakti
 links:

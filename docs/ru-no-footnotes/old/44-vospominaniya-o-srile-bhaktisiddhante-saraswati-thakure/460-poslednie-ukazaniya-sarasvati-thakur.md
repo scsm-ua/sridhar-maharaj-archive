@@ -1,7 +1,7 @@
 ---
 slug: 460-poslednie-ukazaniya-sarasvati-thakur
 record_id: 1981.08.12.B2
-title: Последние указания Сарасвати Тхакура.
+title: Последние указания Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Сарасвати Тхакур

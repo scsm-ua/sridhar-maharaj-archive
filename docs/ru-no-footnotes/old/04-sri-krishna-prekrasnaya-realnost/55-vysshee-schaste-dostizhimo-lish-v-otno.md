@@ -1,7 +1,7 @@
 ---
 slug: 55-vysshee-schaste-dostizhimo-lish-v-otno
 record_id: 1983.07.28.B
-title: Высшее счастье достижимо лишь в отношениях с Кришной.
+title: Высшее счастье достижимо лишь в отношениях с Кришной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,8 +13,6 @@ category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Кришна
     slug: krishna
 links:

@@ -2,7 +2,7 @@
 slug: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov
 record_id: 1983.11.14.A.B1
 title: Обложка и картинки внутри книг ШЧСМ. Правильный акцент при публикации
-  биографий вайшнавов
+  биографий вайшнавов.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
@@ -13,9 +13,19 @@ date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
+links:
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3
+    title: аудиозапись в MP3 (12 мин. 42 сек., 12,2 МБ)
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.rtf
+    title: транскрипцию в RTF (26 КБ)
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.pdf
+    title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 1126. 1983.11.14.A.B1. Обложка и картинки внутри книг ШЧСМ. Правильный
+    акцент при публикации биографий вайшнавов
+  index: "1126"
+  filename: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov.md
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.192
@@ -32,18 +42,6 @@ tags:
     slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-links:
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3
-    title: аудиозапись в MP3 (12 мин. 42 сек., 12,2 МБ)
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.rtf
-    title: транскрипцию в RTF (26 КБ)
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.pdf
-    title: транскрипцию в PDF (157 КБ)
-legacy:
-  title: 1126. 1983.11.14.A.B1. Обложка и картинки внутри книг ШЧСМ. Правильный
-    акцент при публикации биографий вайшнавов
-  index: "1126"
-  filename: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov.md
 ---
 
 **Госвами Махарадж:** То есть лучше не помещать никакие изображения на лицевую обложку?
