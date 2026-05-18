@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 6403469
   duration: 00:08:55
-  mp3: /wp-content/uploads/2012/08/157_2012.07.25.2_SridharMj_Vneshnyaya_roskosh_hrama_ne_yavlyayetsya_kriteriyem_duhovnosti.mp3
+  src: /wp-content/uploads/2012/08/157_2012.07.25.2_SridharMj_Vneshnyaya_roskosh_hrama_ne_yavlyayetsya_kriteriyem_duhovnosti.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny

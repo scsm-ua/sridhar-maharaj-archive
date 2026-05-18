@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5497344
   duration: 00:04:22
-  mp3: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
+  src: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
 date: 1982-04-16
 category:
   title: 36. Происхождение души

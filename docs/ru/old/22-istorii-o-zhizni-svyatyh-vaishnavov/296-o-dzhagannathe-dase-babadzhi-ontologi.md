@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3583572
   duration: 00:03:34
-  mp3: /wp-content/uploads/2012/08/296_OntologiyaPR_6.2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
+  src: /wp-content/uploads/2012/08/296_OntologiyaPR_6.2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov

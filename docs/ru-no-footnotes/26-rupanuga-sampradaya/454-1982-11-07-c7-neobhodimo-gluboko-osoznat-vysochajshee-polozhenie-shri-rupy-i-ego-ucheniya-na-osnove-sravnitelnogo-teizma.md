@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4708791
   duration: 00:04:17
-  mp3: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3
+  src: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3
 date: 1982-11-07
 category:
   title: 26. Рупануга-сампрадая

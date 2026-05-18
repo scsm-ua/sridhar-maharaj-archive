@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23058819
   duration: 00:22:50
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/265_1982.11.05.B3.C_SridharMj_Obshhenie_s_vajshnavami_pozvolit_dostich_celi_chelovecheskoj_zhizni.mp3
 date: 1982-11-05
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

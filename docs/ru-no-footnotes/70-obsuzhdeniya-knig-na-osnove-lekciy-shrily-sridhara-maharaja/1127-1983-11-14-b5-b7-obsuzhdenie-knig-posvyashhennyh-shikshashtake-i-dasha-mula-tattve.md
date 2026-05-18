@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7818668
   duration: 00:07:37
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1127_1983.11.14.B5.B7_SridharMj_Obsuzhdenie_knig_posvjashhennyh_Shikshashtake_i_Dasha-mula-tattve.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1127_1983.11.14.B5.B7_SridharMj_Obsuzhdenie_knig_posvjashhennyh_Shikshashtake_i_Dasha-mula-tattve.mp3
 date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

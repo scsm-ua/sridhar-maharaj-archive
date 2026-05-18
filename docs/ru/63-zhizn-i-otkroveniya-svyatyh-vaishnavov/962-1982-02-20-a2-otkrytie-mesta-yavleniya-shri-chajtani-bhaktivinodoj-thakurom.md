@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13542608
   duration: 00:11:06
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
 date: 1982-02-20
 category:
   title: 63. Жизнь и откровения святых вайшнавов

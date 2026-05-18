@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2241471
   duration: 00:03:04
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/832_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
 date: 1983-01-04
 category:
   title: 53. Шаранагати - наука предания души Господу

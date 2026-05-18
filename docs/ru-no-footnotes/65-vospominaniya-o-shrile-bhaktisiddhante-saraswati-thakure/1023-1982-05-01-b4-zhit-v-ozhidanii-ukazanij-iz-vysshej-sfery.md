@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3704057
   duration: 00:03:14
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1023_1982.05.01.B4_SridharMj_Zhit_v_ozhidanii_ukazanij_iz_Vysshej_Sfery.mp3
 date: 1982-05-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6056092
   duration: 00:08:58
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1085_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
 date: 1981-08-31
 category:
   title: 68. Шри Чайтанья Сарасват Матх

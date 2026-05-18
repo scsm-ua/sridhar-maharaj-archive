@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4172373
   duration: 00:06:55
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
 date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности

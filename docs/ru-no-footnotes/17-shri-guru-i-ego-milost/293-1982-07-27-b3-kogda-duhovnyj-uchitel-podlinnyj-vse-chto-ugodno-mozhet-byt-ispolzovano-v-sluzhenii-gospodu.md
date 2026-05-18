@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4910883
   duration: 00:03:44
-  mp3: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.mp3
 date: 1982-07-27
 category:
   title: 17. Шри Гуру и его милость

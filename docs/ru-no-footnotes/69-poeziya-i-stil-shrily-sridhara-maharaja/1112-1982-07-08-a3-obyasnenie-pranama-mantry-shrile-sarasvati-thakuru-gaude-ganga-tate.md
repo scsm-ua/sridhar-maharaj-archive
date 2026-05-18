@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7942948
   duration: 00:08:03
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1112_1982.07.08.A3_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(gaude_ganga-tate).mp3
 date: 1982-07-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

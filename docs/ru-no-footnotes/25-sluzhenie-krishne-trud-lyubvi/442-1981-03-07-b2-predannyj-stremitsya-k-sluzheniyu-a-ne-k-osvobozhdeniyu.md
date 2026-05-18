@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4361810
   duration: 00:07:46
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
 date: 1981-03-07
 category:
   title: 25. Служение Кришне — труд любви

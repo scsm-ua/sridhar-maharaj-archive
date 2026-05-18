@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1899771
   duration: 00:02:21
-  mp3: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
+  src: /dl/40._Bog_i_bogi/693_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
 date: 1981-03-01
 category:
   title: 40. Бог и боги

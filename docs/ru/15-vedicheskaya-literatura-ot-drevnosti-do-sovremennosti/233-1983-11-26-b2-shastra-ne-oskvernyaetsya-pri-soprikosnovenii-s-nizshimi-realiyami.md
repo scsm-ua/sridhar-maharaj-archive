@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2738645
   duration: 00:02:09
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/233_1983.11.26.B2_SridharMj_Shastra_ne_oskvernjaetsja_pri_soprikosnovenii_s_nizshimi_realijami.mp3
 date: 1983-11-26
 category:
   title: 15. Ведическая литература - от древности до современности

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1919735
   duration: 00:02:27
-  mp3: /wp-content/uploads/2012/08/457_1981.03.03.C1_SridharMj_Metod_izlozheniya_duhovnyh_istin_Shriloy_Sridharom_Maharajem.mp3
+  src: /wp-content/uploads/2012/08/457_1981.03.03.C1_SridharMj_Metod_izlozheniya_duhovnyh_istin_Shriloy_Sridharom_Maharajem.mp3
 date: 1981-03-03
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

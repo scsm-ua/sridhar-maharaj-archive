@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4535891
   duration: 00:09:07
-  mp3: /wp-content/uploads/2012/08/294_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
+  src: /wp-content/uploads/2012/08/294_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
 date: 1983-05-04
 category:
   title: (22. Истории о жизни святых вайшнавов)

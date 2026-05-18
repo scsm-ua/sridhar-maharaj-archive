@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10107591
   duration: 00:08:53
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
 date: 1982-06-30
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2520555
   duration: 00:04:49
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
 date: 1981-08-30
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7035382
   duration: 00:10:16
-  mp3: /wp-content/uploads/2012/08/247_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
+  src: /wp-content/uploads/2012/08/247_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
 date: 1983-03-04
 category:
   title: (19. Феноменальный мир души)

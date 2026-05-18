@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9578047
   duration: 00:18:26
-  mp3: /wp-content/uploads/2012/08/161_1983.01.22.C2_SridharMj_O_kvalifikacii_dlya_prinyatiya_sannyasy.mp3
+  src: /wp-content/uploads/2012/08/161_1983.01.22.C2_SridharMj_O_kvalifikacii_dlya_prinyatiya_sannyasy.mp3
 date: 1983-01-22
 category:
   title: (12. Санньяса - отречение от мира)

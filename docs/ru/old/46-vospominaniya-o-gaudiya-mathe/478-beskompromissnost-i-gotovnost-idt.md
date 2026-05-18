@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7761344
   duration: 00:21:30
-  mp3: /wp-content/uploads/2012/08/478_MgnoveniyaPR_5.2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca–osnova_propovedi_Gaudiya-matha.mp3
+  src: /wp-content/uploads/2012/08/478_MgnoveniyaPR_5.2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca–osnova_propovedi_Gaudiya-matha.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe

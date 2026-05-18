@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5787626
   duration: 00:05:53
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.A1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/012_1982.02.24.A1_SridharMj_Potrebnost_v_nauchnom_i_universalnom_poiske.mp3
 date: 1982-02-24
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

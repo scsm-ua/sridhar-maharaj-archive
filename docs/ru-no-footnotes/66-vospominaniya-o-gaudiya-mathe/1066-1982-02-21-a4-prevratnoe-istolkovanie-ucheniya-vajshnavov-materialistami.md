@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2824008
   duration: 00:06:33
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
 date: 1982-02-21
 category:
   title: 66. Воспоминания о Гаудия Матхе

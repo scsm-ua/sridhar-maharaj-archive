@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13476560
   duration: 00:12:58
-  mp3: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.mp3
+  src: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.mp3
 date: 1982-05-18
 category:
   title: 55. Самопожертвование

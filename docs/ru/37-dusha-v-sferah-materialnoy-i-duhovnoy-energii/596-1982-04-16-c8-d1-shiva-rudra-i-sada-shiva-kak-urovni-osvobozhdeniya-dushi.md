@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10547691
   duration: 00:09:17
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/596_1982.04.16.C8.D1_SridharMj_Shiva-Rudra_i_Sada-Shiva_kak_urovni_osvobozhdenija_dushi.mp3
 date: 1982-04-16
 category:
   title: 37. Душа в сферах материальной и духовной энергии

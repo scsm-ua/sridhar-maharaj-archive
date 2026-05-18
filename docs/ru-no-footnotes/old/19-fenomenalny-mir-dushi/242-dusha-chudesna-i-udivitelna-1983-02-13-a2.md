@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10174214
   duration: 00:16:49
-  mp3: /wp-content/uploads/2012/08/242_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna.mp3
+  src: /wp-content/uploads/2012/08/242_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna.mp3
 date: 1983-02-13
 category:
   title: (19. Феноменальный мир души)

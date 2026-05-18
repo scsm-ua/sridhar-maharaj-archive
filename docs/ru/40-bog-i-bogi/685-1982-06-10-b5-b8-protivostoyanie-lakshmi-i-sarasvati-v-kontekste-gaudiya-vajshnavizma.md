@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15755136
   duration: 00:15:36
-  mp3: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3
+  src: /dl/40._Bog_i_bogi/685_1982.06.10.B5.B8_SridharMj_Protivostojanie_Lakshmi_i_Sarasvati_v_kontekste_gaudija-vajshnavizma.mp3
 date: 1982-06-10
 category:
   title: 40. Бог и боги

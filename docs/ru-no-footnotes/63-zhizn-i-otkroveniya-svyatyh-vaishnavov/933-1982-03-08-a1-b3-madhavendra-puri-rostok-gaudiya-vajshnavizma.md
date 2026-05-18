@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 51284740
   duration: 00:50:25
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/933_1982.03.08.A1.B3_SridharMj_Madhavendra_Puri--rostok_gaudija-vajshnavizma.mp3
 date: 1982-03-08
 category:
   title: 63. Жизнь и откровения святых вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5610505
   duration: 00:08:43
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/188_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
 date: 1980-07-11
 category:
   title: 13. Лила — игра чудесного Абсолюта

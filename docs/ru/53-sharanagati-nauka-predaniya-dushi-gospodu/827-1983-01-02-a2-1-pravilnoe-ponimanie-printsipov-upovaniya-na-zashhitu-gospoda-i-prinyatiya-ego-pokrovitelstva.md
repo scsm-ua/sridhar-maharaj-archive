@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3550427
   duration: 00:06:12
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/827_1983.01.02.A2.1_SridharMj_Pravilnoe_ponimanie_principov_upovanija_na_zashhitu_Gospoda_i_prinjatija_Ego_pokrovitelstva.mp3
 date: 1983-01-02
 category:
   title: 53. Шаранагати - наука предания души Господу

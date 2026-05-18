@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7758188
   duration: 00:07:10
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/089_1982.07.08.A1_SridharMj_Polozhenie_Shrivas-angama_v_gaura-lile___Dolzhnaja_Ratha-jatra_dlja_Navadvipy.mp3
 date: 1982-07-08
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

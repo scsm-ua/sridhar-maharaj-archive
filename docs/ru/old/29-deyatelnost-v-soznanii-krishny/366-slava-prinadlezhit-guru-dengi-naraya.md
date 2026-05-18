@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9266527
   duration: 00:15:09
-  mp3: /wp-content/uploads/2012/08/366_1984.01.25.A_SridharMj_Slava_prinadlejit_Guru_dengi-Narayane_a_zhenwiny-Krishne.mp3
+  src: /wp-content/uploads/2012/08/366_1984.01.25.A_SridharMj_Slava_prinadlejit_Guru_dengi-Narayane_a_zhenwiny-Krishne.mp3
 date: 1984-01-25
 category:
   title: (29. Деятельность в Сознании Кришны)

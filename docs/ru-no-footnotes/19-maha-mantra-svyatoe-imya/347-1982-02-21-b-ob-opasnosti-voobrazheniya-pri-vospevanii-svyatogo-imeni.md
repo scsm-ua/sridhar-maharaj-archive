@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7084335
   duration: 00:07:03
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/347_1982.02.21.B_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
 date: 1982-02-21
 category:
   title: 19. Маха-мантра — Святое Имя

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8715107
   duration: 00:12:50
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.mp3
 date: 1982-01-25
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

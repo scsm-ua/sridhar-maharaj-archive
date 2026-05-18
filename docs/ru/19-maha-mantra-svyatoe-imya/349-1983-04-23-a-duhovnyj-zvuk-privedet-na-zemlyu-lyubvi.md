@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11295899
   duration: 00:22:52
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/349_1983.04.23.A_SridharMj_Duhovniy_zvuk_privedet_na_zemlyu_lubvi.mp3
 date: 1983-04-23
 category:
   title: 19. Маха-мантра — Святое Имя

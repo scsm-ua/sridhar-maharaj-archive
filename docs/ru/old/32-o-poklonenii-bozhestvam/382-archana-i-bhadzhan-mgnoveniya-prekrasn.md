@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1228048
   duration: 00:02:58
-  mp3: /wp-content/uploads/2012/08/382_MgnoveniyaPR_2.8_SridharMj_Archana_i_bhadjan.mp3
+  src: /wp-content/uploads/2012/08/382_MgnoveniyaPR_2.8_SridharMj_Archana_i_bhadjan.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam

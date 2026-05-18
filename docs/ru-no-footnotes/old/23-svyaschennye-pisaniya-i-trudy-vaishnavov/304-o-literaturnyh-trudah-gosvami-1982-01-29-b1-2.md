@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3753075
   duration: 00:06:36
-  mp3: /wp-content/uploads/2012/08/304_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami1.mp3
+  src: /wp-content/uploads/2012/08/304_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami1.mp3
 date: 1982-01-29
 category:
   title: (23. Священные писания и труды вайшнавов)

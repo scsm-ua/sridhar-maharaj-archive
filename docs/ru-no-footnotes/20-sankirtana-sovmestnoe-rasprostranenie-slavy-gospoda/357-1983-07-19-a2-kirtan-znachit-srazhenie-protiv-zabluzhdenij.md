@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13507031
   duration: 00:27:42
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/357_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
 date: 1983-07-19
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

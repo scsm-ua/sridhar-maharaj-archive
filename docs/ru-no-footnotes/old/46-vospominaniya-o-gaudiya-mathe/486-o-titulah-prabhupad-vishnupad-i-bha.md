@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12901397
   duration: 00:25:41
-  mp3: /wp-content/uploads/2012/08/486_1981.08.27.A1_SridharMj_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3
+  src: /wp-content/uploads/2012/08/486_1981.08.27.A1_SridharMj_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3
 date: 1981-08-27
 category:
   title: (45. Воспоминания о Гаудия-матхе)

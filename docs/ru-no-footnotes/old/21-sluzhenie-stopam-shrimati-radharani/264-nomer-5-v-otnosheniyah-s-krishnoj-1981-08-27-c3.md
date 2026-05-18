@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3940509
   duration: 00:07:33
-  mp3: /wp-content/uploads/2012/08/264_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
+  src: /wp-content/uploads/2012/08/264_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
 date: 1981-08-27
 category:
   title: (21. Служение стопам Шримати Радхарани)

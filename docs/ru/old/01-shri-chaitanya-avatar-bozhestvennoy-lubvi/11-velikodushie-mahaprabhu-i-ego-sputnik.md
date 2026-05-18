@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2483952
   duration: 00:06:30
-  mp3: /wp-content/uploads/2012/08/011_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
+  src: /wp-content/uploads/2012/08/011_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

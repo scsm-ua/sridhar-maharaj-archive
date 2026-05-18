@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4149226
   duration: 00:06:42
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/487_1981.03.10.B5_SridharMj_Gajatri_prizyvaet_k_sluzheniju_Ljubvi_i_Krasote.mp3
 date: 1981-03-10
 category:
   title: 29. Гаятри-мантра и мантра ОМ

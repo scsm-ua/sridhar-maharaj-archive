@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1787312
   duration: 00:03:14
-  mp3: /dl/73._Povtory_i_variacii/5._Vospominaniya_o_Gaudiya_Mathe_(variacii)/1141_1982.02.23.C3_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
+  src: /dl/73._Povtory_i_variacii/5._Vospominaniya_o_Gaudiya_Mathe_(variacii)/1141_1982.02.23.C3_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
 date: 1982-02-23
 category:
   title: 5. Воспоминания о Гаудия Матхе (вариации)

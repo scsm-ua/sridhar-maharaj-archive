@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5797395
   duration: 00:09:37
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/662_1981.03.10.A2_SridharMj_Proekt_Hrama_vedicheskogo_planetarija.mp3
 date: 1981-03-10
 category:
   title: 39. Иерархия мироздания — планы бытия

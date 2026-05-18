@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8559000
   duration: 00:16:01
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/070_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prihode_Mahaprabhu.mp3
 date: 1983-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

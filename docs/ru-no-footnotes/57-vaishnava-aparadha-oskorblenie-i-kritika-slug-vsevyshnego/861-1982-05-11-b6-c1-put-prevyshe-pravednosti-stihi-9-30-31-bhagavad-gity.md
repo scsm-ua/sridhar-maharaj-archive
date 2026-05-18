@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27933132
   duration: 00:28:48
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/861_1982.05.11.B6.C1_SridharMj_Put_prevyshe_pravednosti__Stihi_9.30-31_Bhagavad-gity.mp3
 date: 1982-05-11
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7694397
   duration: 00:12:38
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
 date: 1981-03-08
 category:
   title: 37. Душа в сферах материальной и духовной энергии

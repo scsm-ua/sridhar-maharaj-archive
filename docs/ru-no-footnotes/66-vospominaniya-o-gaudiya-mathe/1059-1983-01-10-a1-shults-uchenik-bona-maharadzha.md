@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1477714
   duration: 00:01:00
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1059_1983.01.10.A1_SridharMj_Shulc_uchenik_Bona_Mahardzha.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1059_1983.01.10.A1_SridharMj_Shulc_uchenik_Bona_Mahardzha.mp3
 date: 1983-01-10
 category:
   title: 66. Воспоминания о Гаудия Матхе

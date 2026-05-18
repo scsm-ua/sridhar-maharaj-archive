@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3462217
   duration: 00:06:47
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/367_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
 date: 1982-01-27
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

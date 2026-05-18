@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 17742993
   duration: 00:17:26
-  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
+  src: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
 date: 1982-05-08
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа

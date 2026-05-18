@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19884449
   duration: 00:19:59
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost--put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/203_1982.04.14.B3.C1.C3_SridharMj_Smirenie_i_nezavistlivost--put_k_blizkomu_obshheniju_s_Vysshim_Nachalom.mp3
 date: 1982-04-14
 category:
   title: 14. Как познать и увидеть Бога

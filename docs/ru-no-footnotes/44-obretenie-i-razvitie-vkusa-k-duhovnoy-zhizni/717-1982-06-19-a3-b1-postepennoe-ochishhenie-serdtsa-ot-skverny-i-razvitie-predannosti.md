@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17769023
   duration: 00:17:39
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/717_1982.06.19.A3.B1_SridharMj_Postepennoe_ochishhenie_serdca_ot_skverny_i_razvitie_predannosti.mp3
 date: 1982-06-19
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

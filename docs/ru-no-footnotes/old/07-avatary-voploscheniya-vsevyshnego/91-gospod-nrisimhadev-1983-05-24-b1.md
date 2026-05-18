@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17555287
   duration: 00:32:00
-  mp3: /wp-content/uploads/2012/08/091_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
+  src: /wp-content/uploads/2012/08/091_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
 date: 1983-05-24
 category:
   title: (07. Аватары - воплощения Всевышнего)

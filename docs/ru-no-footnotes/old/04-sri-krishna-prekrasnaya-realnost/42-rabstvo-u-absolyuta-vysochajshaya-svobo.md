@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15167467
   duration: 00:28:56
-  mp3: /wp-content/uploads/2012/08/042_1983.05.04.A_SridharMj_Rabstvo_u_absoluta_-_vysochayshaya_svoboda.mp3
+  src: /wp-content/uploads/2012/08/042_1983.05.04.A_SridharMj_Rabstvo_u_absoluta_-_vysochayshaya_svoboda.mp3
 date: 1983-05-04
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

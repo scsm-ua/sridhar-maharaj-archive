@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 12710461
   duration: 00:12:42
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1126_1983.11.14.A.B1_SridharMj_Oblozhka_i_kartinki_vnutri_knig_SCSM__Pravilnyj_akcent_pri_publikacii_biografij_vajshnavov.mp3
 date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

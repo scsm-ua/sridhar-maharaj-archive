@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1422328
   duration: 00:03:02
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta

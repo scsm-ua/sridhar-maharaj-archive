@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18383620
   duration: 00:18:32
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1031_1983.11.06.A2.B_SridharMj_Sokrovennoe_pismo_Kundzhe_Babu_ot_Sarasvati_Thakura.mp3
 date: 1983-11-06
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

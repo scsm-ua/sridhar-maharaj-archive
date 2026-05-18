@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7516352
   duration: 00:13:19
-  mp3: /wp-content/uploads/2012/08/352_MgnoveniyaPR_7.5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
+  src: /wp-content/uploads/2012/08/352_MgnoveniyaPR_7.5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 14058610
   duration: 00:05:50
-  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.mp3
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1829698
   duration: 00:03:13
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
 date: 1981-08-30
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

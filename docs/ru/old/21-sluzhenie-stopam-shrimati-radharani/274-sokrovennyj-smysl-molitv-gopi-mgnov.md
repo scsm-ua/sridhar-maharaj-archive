@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 17020816
   duration: 00:44:40
-  mp3: /wp-content/uploads/2012/08/274_MgnoveniyaPR_3.3_SridharMj_Sokrovenniy_smysl_molitv_gopi.mp3
+  src: /wp-content/uploads/2012/08/274_MgnoveniyaPR_3.3_SridharMj_Sokrovenniy_smysl_molitv_gopi.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani

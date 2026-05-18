@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3069464
   duration: 00:05:00
-  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.mp3
+  src: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/788_1982.02.23.A1_SridharMj_Devjat_ostrovov_Navadvipy_Atmanivedanam_znachit_bespomoshhnost_i_predannost_Gospodu.mp3
 date: 1982-02-23
 category:
   title: 50. Бхакти-йога и девять видов преданного служения

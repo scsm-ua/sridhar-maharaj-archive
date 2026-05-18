@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5652291
   duration: 00:05:21
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1063_1982.02.15.B1_SridharMj_Schitat_vse_duhovnye_koncepcii_ravnymi--zabluzhdenie.mp3
 date: 1982-02-15
 category:
   title: 66. Воспоминания о Гаудия Матхе

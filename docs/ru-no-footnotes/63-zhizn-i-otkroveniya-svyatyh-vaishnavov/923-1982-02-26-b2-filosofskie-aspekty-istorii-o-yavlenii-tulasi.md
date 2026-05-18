@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6766653
   duration: 00:04:03
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.mp3
 date: 1982-02-26
 category:
   title: 63. Жизнь и откровения святых вайшнавов

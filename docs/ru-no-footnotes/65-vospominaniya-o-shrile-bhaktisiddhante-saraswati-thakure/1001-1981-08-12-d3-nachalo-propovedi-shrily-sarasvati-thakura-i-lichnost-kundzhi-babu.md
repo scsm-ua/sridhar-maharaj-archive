@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3467912
   duration: 00:05:59
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1001_1981.08.12.D3_SridharMj_Nachalo_propovedi_Shrily_Sarasvati_Thakura_i_lichnost_Kundzhi_Babu.mp3
 date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

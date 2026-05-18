@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8077624
   duration: 00:08:16
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/006_1982.03.25.B1_SridharMj_Chuvstva_svjatyh_vajshnavov_v_poiske_Shri_Krishny.mp3
 date: 1982-03-25
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

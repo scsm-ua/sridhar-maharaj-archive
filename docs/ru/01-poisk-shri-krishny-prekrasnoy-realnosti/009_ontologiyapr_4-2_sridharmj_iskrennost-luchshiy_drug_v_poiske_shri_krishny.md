@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6196160
   duration: 00:12:36
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/009_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/009_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6805242
   duration: 00:06:11
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3
 date: 1982-02-17
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

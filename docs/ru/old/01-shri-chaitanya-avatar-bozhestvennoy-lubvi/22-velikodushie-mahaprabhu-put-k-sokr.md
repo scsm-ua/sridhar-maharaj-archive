@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2077128
   duration: 00:05:14
-  mp3: /wp-content/uploads/2012/08/022_MgnoveniyaPR_3.2_SridharMj_Velikodushiye_Mahaprabhu–put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
+  src: /wp-content/uploads/2012/08/022_MgnoveniyaPR_3.2_SridharMj_Velikodushiye_Mahaprabhu–put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

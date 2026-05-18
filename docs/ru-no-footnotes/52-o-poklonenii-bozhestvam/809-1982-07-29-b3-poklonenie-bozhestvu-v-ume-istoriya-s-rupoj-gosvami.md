@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7376640
   duration: 00:06:41
-  mp3: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/809_1982.07.29.B3_SridharMj_Poklonenie_Bozhestvu_v_ume__Istorija_s_Rupoj_Gosvami.mp3
 date: 1982-07-29
 category:
   title: 52. О поклонении Божествам

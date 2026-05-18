@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 33273154
   duration: 01:04:46
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/866_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
 date: 1981-03-13
 category:
   title: 58. Сахаджия - воображаемая преданность

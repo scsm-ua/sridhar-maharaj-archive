@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4242424
   duration: 00:08:31
-  mp3: /wp-content/uploads/2012/08/189_MgnoveniyaPR_2.2_SridharMj_-Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
+  src: /wp-content/uploads/2012/08/189_MgnoveniyaPR_2.2_SridharMj_-Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti

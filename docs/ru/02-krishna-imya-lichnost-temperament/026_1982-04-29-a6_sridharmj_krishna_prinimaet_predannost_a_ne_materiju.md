@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4160030
   duration: 00:04:14
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/026_1982.04.29.A6_SridharMj_Krishna_prinimaet_predannost_a_ne_materiju.mp3
 date: 1982-04-29
 category:
   title: 02. Кришна — Имя, Личность, темперамент

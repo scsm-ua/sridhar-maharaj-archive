@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24108240
   duration: 00:23:39
-  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.mp3
+  src: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/786_1982.03.31.A2_SridharMj_Praktika_bhakti-jogi--9_vidov_predannogo_sluzhenija_i_drugie_aspekty.mp3
 date: 1982-03-31
 category:
   title: 50. Бхакти-йога и девять видов преданного служения

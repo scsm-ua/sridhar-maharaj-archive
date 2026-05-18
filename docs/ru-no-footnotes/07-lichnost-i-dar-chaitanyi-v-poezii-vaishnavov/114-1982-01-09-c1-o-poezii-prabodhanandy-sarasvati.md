@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3179928
   duration: 00:03:34
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.mp3
 date: 1982-01-09
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

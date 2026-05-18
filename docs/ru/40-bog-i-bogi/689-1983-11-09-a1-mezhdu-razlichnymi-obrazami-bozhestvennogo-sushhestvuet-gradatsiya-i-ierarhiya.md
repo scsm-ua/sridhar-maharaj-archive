@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8100822
   duration: 00:07:38
-  mp3: /dl/40._Bog_i_bogi/689_1983.11.09.A1_SridharMj_Mezhdu_razlichnymi_obrazami_Bozhestvennogo_sushhestvuet_gradacija_i_ierarhija.mp3
+  src: /dl/40._Bog_i_bogi/689_1983.11.09.A1_SridharMj_Mezhdu_razlichnymi_obrazami_Bozhestvennogo_sushhestvuet_gradacija_i_ierarhija.mp3
 date: 1983-11-09
 category:
   title: 40. Бог и боги

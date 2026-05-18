@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11444130
   duration: 00:22:32
-  mp3: /wp-content/uploads/2012/08/414_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3
+  src: /wp-content/uploads/2012/08/414_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3
 date: 1983-01-25
 category:
   title: (37. Самопожертвование)

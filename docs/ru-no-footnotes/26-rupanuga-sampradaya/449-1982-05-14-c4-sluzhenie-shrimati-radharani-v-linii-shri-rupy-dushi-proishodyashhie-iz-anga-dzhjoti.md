@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16471417
   duration: 00:16:32
-  mp3: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
+  src: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
 date: 1982-05-14
 category:
   title: 26. Рупануга-сампрадая

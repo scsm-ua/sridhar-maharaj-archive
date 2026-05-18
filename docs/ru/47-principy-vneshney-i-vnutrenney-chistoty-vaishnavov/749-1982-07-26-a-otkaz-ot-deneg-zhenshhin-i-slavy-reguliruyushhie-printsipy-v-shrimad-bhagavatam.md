@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10409659
   duration: 00:09:42
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/749_1982.07.26.A_SridharMj_Otkaz_ot_deneg_zhenshhin_i_slavy__Regulirujushhie_principy_v_Shrimad_Bhagavatam.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/749_1982.07.26.A_SridharMj_Otkaz_ot_deneg_zhenshhin_i_slavy__Regulirujushhie_principy_v_Shrimad_Bhagavatam.mp3
 date: 1982-07-26
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

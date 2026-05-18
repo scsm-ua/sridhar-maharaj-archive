@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13066240
   duration: 00:11:55
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3
 date: 1982-07-29
 category:
   title: 37. Душа в сферах материальной и духовной энергии

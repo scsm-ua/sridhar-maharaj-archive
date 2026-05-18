@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6884519
   duration: 00:04:10
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/941_1982.06.14.A4_SridharMj_Lichnost_i_miloserdie_Virachandry--syna_Nitjanandy.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/941_1982.06.14.A4_SridharMj_Lichnost_i_miloserdie_Virachandry--syna_Nitjanandy.mp3
 date: 1982-06-14
 category:
   title: 63. Жизнь и откровения святых вайшнавов

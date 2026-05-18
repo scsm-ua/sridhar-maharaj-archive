@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4890824
   duration: 00:06:32
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1090_1982.01.09.C6.D1.D3_SridharMj_Poklonenie_Govardhan-shile_Shalagram-shile_i_osnovanie_SCSM_v_1941-1942_godah.mp3
 date: 1982-01-09
 category:
   title: 68. Шри Чайтанья Сарасват Матх

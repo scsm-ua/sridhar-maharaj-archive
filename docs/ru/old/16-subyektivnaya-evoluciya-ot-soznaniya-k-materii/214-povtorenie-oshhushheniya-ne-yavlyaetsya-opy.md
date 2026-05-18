@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2542968
   duration: 00:05:10
-  mp3: /wp-content/uploads/2012/08/214_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
+  src: /wp-content/uploads/2012/08/214_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
 date: 1983-04-16
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

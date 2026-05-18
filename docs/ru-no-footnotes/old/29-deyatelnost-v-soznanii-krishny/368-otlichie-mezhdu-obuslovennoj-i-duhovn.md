@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3572600
   duration: 00:07:05
-  mp3: /wp-content/uploads/2012/08/368_1981.03.03.A3.B1_SridharMj_Otlichie_mejdu_duhovnoy_i_obuslovlennoy_deyatelnostyu.mp3
+  src: /wp-content/uploads/2012/08/368_1981.03.03.A3.B1_SridharMj_Otlichie_mejdu_duhovnoy_i_obuslovlennoy_deyatelnostyu.mp3
 date: 1981-03-03
 category:
   title: (29. Деятельность в Сознании Кришны)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4052564
   duration: 00:03:07
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
 date: 1981-03-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

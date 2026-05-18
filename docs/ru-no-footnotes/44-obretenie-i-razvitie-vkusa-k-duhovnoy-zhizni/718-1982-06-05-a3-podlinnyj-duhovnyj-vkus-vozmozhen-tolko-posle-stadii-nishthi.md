@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7820340
   duration: 00:07:18
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/718_1982.06.05.A3_SridharMj_Podlinnyj_duhovnyj_vkus_vozmozhen_tolko_posle_stadii_nishthi.mp3
 date: 1982-06-05
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

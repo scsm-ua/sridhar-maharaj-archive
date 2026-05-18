@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11898223
   duration: 00:24:34
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/886_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
 date: 1983-01-10
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

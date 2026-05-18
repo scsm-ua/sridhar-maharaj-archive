@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 5066094
   duration: 00:13:13
-  mp3: /wp-content/uploads/2012/08/038_2012.07.25.3_SridharMj_Est_tolko_odin_Ramananda_Ray.mp3
+  src: /wp-content/uploads/2012/08/038_2012.07.25.3_SridharMj_Est_tolko_odin_Ramananda_Ray.mp3
 category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2751938
   duration: 00:03:58
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
 date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности

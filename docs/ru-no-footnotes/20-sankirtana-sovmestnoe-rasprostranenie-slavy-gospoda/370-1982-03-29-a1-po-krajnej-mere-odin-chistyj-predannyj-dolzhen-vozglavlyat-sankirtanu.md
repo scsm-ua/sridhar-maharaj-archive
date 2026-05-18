@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1571159
   duration: 00:01:25
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/370_1982.03.29.A1_SridharMj_Po_krajnej_mere_odin_chistyj_predannyj_dolzhen_vozglavljat_sankirtanu.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/370_1982.03.29.A1_SridharMj_Po_krajnej_mere_odin_chistyj_predannyj_dolzhen_vozglavljat_sankirtanu.mp3
 date: 1982-03-29
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

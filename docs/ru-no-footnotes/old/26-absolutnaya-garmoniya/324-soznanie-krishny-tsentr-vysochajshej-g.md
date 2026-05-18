@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 15342946
   duration: 00:26:50
-  mp3: /wp-content/uploads/2012/08/324_2012.07.23.1_SridharMj_Soznanie_Krishny–сentr_vysochayshey_garmonii.mp3
+  src: /wp-content/uploads/2012/08/324_2012.07.23.1_SridharMj_Soznanie_Krishny–сentr_vysochayshey_garmonii.mp3
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya

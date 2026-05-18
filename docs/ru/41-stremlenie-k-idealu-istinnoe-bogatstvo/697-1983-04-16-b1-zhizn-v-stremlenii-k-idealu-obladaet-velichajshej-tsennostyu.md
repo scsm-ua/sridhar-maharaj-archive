@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15870976
   duration: 00:27:49
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/697_1983.04.16.B1_SridharMj_Jizn_v_stremlenii_k_idealu_obladaet_velichayshey_cennostyu.mp3
 date: 1983-04-16
 category:
   title: 41. Стремление к идеалу — истинное богатство

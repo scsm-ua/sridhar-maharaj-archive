@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1719620
   duration: 00:02:55
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/352_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/352_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3
 date: 1981-02-28
 category:
   title: 19. Маха-мантра — Святое Имя

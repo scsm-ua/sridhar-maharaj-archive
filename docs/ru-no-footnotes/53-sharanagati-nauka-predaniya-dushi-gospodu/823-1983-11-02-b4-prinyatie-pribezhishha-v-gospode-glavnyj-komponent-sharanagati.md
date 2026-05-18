@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6423803
   duration: 00:06:06
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
 date: 1983-11-02
 category:
   title: 53. Шаранагати - наука предания души Господу

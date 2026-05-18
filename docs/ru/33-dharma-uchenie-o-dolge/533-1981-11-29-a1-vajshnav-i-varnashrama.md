@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6691245
   duration: 00:13:25
-  mp3: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/533_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
 date: 1981-11-29
 category:
   title: 33. Дхарма — учение о долге

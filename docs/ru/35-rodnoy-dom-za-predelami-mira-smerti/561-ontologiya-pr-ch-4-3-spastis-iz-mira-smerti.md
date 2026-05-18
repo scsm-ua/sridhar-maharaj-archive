@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 6310720
   duration: 00:07:08
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/561_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti

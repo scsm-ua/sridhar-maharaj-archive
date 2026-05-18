@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3498056
   duration: 00:02:27
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.mp3
 date: 1981-03-08
 category:
   title: 32. Абсолютная гармония и милостивая истина

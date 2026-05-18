@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4889031
   duration: 00:12:15
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/334_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya

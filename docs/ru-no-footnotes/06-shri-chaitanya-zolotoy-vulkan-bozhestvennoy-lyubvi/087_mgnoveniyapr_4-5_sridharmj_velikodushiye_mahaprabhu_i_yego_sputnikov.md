@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3215088
   duration: 00:06:30
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi

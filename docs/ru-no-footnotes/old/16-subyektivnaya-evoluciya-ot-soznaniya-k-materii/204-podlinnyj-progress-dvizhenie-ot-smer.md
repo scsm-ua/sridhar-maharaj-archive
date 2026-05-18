@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5626432
   duration: 00:11:35
-  mp3: /wp-content/uploads/2012/08/204_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
+  src: /wp-content/uploads/2012/08/204_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
 date: 1981-02-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

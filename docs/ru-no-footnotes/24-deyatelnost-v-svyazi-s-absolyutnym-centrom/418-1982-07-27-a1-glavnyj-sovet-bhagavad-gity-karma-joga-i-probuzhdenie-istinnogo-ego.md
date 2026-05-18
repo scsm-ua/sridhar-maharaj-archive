@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21146738
   duration: 00:21:12
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
 date: 1982-07-27
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

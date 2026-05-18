@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7161678
   duration: 00:13:09
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
 date: 1985-05-01
 category:
   title: 21. Практические вопросы проповеди

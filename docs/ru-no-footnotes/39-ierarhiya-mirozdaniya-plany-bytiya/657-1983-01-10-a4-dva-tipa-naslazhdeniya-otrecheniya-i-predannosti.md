@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13815107
   duration: 00:13:10
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/657_1983.01.10.A4_SridharMj_Dva_tipa_naslazhdenija_otrechenija_i_predannosti.mp3
 date: 1983-01-10
 category:
   title: 39. Иерархия мироздания — планы бытия

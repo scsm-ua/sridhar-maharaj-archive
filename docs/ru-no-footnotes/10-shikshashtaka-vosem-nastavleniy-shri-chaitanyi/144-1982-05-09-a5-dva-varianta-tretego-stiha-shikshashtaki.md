@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1383372
   duration: 00:01:09
-  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/144_1982.05.09.A5_SridharMj_Dva_varianta_tretego_stiha_Shikshashtaki.mp3
+  src: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/144_1982.05.09.A5_SridharMj_Dva_varianta_tretego_stiha_Shikshashtaki.mp3
 date: 1982-05-09
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи

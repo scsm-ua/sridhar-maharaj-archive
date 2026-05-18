@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4907467
   duration: 00:10:02
-  mp3: /wp-content/uploads/2012/08/236_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3
+  src: /wp-content/uploads/2012/08/236_1981.03.05.A5.B1_SridharMj_Kommentariy_na_istoriyu_o_padenii_Djaya_i_Vidjaya_s_Vaykunthi.mp3
 date: 1981-03-05
 category:
   title: (18. Духовный мир)

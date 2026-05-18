@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10168309
   duration: 00:20:51
-  mp3: /wp-content/uploads/2012/08/284_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
+  src: /wp-content/uploads/2012/08/284_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
 date: 1981-11-29
 category:
   title: (22. Истории о жизни святых вайшнавов)

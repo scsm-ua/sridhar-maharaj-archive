@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12582587
   duration: 00:25:33
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/342_1982.01.07.B_SridharMj_10_oskorbleniy_svyatogo_imeni.mp3
 date: 1982-01-07
 category:
   title: 19. Маха-мантра — Святое Имя

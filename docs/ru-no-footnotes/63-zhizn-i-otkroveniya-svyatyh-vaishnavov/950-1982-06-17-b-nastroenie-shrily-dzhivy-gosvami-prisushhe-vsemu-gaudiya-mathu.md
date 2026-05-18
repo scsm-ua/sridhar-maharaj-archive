@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17087739
   duration: 00:14:48
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/950_1982.06.17.B_SridharMj_Nastroenie_Shrily_Dzhivy_Gosvami_prisushhe_vsemu_Gaudija_Mathu.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/950_1982.06.17.B_SridharMj_Nastroenie_Shrily_Dzhivy_Gosvami_prisushhe_vsemu_Gaudija_Mathu.mp3
 date: 1982-06-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов

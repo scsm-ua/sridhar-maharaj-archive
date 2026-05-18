@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4746344
   duration: 00:08:13
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/425_1983.04.25.A3_SridharMj_Sambandha-gjana_znachit_koncepcija_Absoljutnogo_Centra.mp3
 date: 1983-04-25
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

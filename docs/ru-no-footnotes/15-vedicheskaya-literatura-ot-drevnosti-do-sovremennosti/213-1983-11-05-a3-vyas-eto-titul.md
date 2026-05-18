@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3837461
   duration: 00:03:18
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/213_1983.11.05.A3_SridharMj_Vjas--jeto_titul.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/213_1983.11.05.A3_SridharMj_Vjas--jeto_titul.mp3
 date: 1983-11-05
 category:
   title: 15. Ведическая литература - от древности до современности

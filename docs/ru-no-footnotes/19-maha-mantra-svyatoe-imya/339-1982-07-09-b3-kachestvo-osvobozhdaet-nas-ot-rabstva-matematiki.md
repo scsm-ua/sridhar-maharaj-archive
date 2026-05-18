@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3677550
   duration: 00:03:30
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3
 date: 1982-07-09
 category:
   title: 19. Маха-мантра — Святое Имя

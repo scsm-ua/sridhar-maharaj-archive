@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18922672
   duration: 00:34:15
-  mp3: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
+  src: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
 date: 1982-01-12
 category:
   title: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)

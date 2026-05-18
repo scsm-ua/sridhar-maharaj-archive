@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4768712
   duration: 00:18:21
-  mp3: /wp-content/uploads/2012/08/335_MgnoveniyaPR_8.6_SridharMj_Padeniye_vozmojno_daje_iz_samogo_vozvyshennogo_polojeniya1.mp3
+  src: /wp-content/uploads/2012/08/335_MgnoveniyaPR_8.6_SridharMj_Padeniye_vozmojno_daje_iz_samogo_vozvyshennogo_polojeniya1.mp3
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put

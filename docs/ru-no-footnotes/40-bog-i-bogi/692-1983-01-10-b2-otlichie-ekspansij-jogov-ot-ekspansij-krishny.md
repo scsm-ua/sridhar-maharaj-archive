@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2705346
   duration: 00:04:02
-  mp3: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
+  src: /dl/40._Bog_i_bogi/692_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
 date: 1983-01-10
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4593246
   duration: 00:05:11
-  mp3: /wp-content/uploads/2012/08/251_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
+  src: /wp-content/uploads/2012/08/251_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
 date: 1982-02-17
 category:
   title: (19. Феноменальный мир души)

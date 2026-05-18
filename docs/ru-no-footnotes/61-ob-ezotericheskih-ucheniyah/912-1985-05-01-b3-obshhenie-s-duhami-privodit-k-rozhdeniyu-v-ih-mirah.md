@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5902388
   duration: 00:10:41
-  mp3: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
 date: 1985-05-01
 category:
   title: 61. Об эзотерических учениях

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8874976
   duration: 00:08:16
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/634_1982.03.29.D4_SridharMj_Baladev_Krishna_Radharani_i_samopoznanie_Absoljuta.mp3
 date: 1982-03-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи

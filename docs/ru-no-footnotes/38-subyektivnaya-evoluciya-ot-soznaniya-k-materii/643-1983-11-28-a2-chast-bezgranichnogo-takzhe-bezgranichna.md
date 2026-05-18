@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7476485
   duration: 00:06:49
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
 date: 1983-11-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи

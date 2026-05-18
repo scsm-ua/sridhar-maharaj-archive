@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4136279
   duration: 00:03:26
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/385_1982.05.15.C2_SridharMj_Shirokaja_propoved_ne_javljaetsja_objazatelnym_usloviem.mp3
 date: 1982-05-15
 category:
   title: 21. Практические вопросы проповеди

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3577689
   duration: 00:02:53
-  mp3: /wp-content/uploads/2012/08/095_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy1.mp3
+  src: /wp-content/uploads/2012/08/095_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy1.mp3
 date: 1981-03-05
 category:
   title: (07. Аватары - воплощения Всевышнего)

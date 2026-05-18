@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5703524
   duration: 00:11:17
-  mp3: /wp-content/uploads/2012/08/345_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
+  src: /wp-content/uploads/2012/08/345_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
 date: 1982-01-26
 category:
   title: (27. Духовный путь)

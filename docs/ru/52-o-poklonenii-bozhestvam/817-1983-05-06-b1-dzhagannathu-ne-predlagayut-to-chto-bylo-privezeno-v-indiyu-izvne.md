@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2570941
   duration: 00:03:22
-  mp3: /dl/52._O_poklonenii_Bozhestvam/817_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/817_1983.05.06.B1_SridharMj_Jaganathu_ne_predlogayut_to_chto_bylo_privezeno_v_indiyu_izvne.mp3
 date: 1983-05-06
 category:
   title: 52. О поклонении Божествам

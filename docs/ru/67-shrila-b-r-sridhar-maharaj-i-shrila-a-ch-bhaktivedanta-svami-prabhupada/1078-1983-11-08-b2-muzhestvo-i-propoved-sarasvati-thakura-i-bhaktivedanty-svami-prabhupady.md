@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25963707
   duration: 00:25:24
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1078_1983.11.08.B2_SridharMj_Muzhestvo_i_propoved_Sarasvati_Thakura_i_Bhaktivedanty_Svami_Prabhupady.mp3
 date: 1983-11-08
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

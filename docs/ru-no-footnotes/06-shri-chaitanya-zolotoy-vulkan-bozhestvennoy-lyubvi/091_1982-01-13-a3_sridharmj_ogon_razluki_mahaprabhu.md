@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7896951
   duration: 00:14:38
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
 date: 1982-01-13
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

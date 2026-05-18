@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5444848
   duration: 00:04:50
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
 date: 1982-04-14
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

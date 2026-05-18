@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5112287
   duration: 00:04:48
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1054_1982.05.04.B3_SridharMj_Ochishhenie_serdec--bremja_lezhashhee_na_plechah_sadhu.mp3
 date: 1982-05-04
 category:
   title: 66. Воспоминания о Гаудия Матхе

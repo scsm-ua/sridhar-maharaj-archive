@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14051109
   duration: 00:29:08
-  mp3: /wp-content/uploads/2012/08/201_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
+  src: /wp-content/uploads/2012/08/201_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
 date: 1983-04-30
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

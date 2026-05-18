@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4947665
   duration: 00:03:46
-  mp3: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/309_1982.06.08.B1_SridharMj_Izbavitsja_ot_privjazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy.mp3
 date: 1982-06-08
 category:
   title: 17. Шри Гуру и его милость

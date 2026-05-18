@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3281785
   duration: 00:05:26
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/211_1981.03.02.B3_SridharMj_Ardzhuna_Ardzhuna_Acharja_i_Dzhajadev--provodniki_otkrovenij_Gospoda.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/211_1981.03.02.B3_SridharMj_Ardzhuna_Ardzhuna_Acharja_i_Dzhajadev--provodniki_otkrovenij_Gospoda.mp3
 date: 1981-03-02
 category:
   title: 15. Ведическая литература - от древности до современности

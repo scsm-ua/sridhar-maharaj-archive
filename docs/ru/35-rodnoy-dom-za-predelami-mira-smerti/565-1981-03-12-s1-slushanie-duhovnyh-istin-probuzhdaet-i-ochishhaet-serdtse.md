@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14091680
   duration: 00:23:20
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/565_1981.03.12.C1_SridharMj_Slushanie_duhovnyh_istin_probuzhdaet_i_ochishhaet_serdce.mp3
 date: 1981-03-12
 category:
   title: 35. Родной дом за пределами мира смерти

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3100171
   duration: 00:01:53
-  mp3: /wp-content/uploads/2012/08/096_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
+  src: /wp-content/uploads/2012/08/096_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
 date: 1982-01-18
 category:
   title: (07. Аватары - воплощения Всевышнего)

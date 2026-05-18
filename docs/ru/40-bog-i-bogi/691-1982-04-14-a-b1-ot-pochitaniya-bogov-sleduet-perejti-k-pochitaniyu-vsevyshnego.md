@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25773808
   duration: 00:26:03
-  mp3: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
+  src: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
 date: 1982-04-14
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2856990
   duration: 00:04:08
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/071_1981.03.10.B1_SridharMj_Shri_Chajtanja--olicetvorennaja_Krasota_i_Ljubov.mp3
 date: 1981-03-10
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

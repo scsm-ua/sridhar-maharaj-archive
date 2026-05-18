@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5314675
   duration: 00:09:45
-  mp3: /wp-content/uploads/2012/08/399_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3
+  src: /wp-content/uploads/2012/08/399_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3
 date: 1982-01-19
 category:
   title: (34. Вера)

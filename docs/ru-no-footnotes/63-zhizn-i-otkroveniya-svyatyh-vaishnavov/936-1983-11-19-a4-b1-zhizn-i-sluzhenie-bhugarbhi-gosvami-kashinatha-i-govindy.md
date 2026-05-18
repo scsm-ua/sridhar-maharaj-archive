@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13543445
   duration: 00:11:06
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/936_1983.11.19.A4.B1_SridharMj_Zhizn_i_sluzhenie_Bhugarbhi_Gosvami_Kashinatha_i_Govindy.mp3
 date: 1983-11-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов

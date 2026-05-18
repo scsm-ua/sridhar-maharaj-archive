@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4587488
   duration: 00:07:57
-  mp3: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3
 date: 1981-03-08
 category:
   title: 61. Об эзотерических учениях

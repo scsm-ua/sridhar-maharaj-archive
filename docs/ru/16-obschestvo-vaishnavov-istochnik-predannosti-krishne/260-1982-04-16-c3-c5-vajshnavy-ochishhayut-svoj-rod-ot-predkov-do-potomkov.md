@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5960943
   duration: 00:05:02
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
 date: 1982-04-16
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

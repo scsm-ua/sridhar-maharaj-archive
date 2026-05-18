@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5987974
   duration: 00:09:12
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
 date: 1981-03-10
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

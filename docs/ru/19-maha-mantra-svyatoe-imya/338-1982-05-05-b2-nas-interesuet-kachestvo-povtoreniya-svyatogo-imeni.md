@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5651152
   duration: 00:05:33
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.mp3
 date: 1982-05-05
 category:
   title: 19. Маха-мантра — Святое Имя

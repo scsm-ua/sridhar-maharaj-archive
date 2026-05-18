@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 7100608
   duration: 00:10:22
-  mp3: /wp-content/uploads/2012/08/155_OntologiyaPR_2.2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
+  src: /wp-content/uploads/2012/08/155_OntologiyaPR_2.2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny

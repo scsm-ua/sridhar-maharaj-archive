@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1715768
   duration: 00:02:36
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/417_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom

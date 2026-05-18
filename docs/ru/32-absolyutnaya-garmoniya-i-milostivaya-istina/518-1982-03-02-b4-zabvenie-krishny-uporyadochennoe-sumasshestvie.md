@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13189694
   duration: 00:11:19
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/518_1982.03.02.B4_SridharMj_Zabvenie_Krishny--uporjadochennoe_sumasshestvie.mp3
 date: 1982-03-02
 category:
   title: 32. Абсолютная гармония и милостивая истина

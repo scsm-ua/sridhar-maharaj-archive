@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3595043
   duration: 00:02:56
-  mp3: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
 date: 1982-03-08
 category:
   title: 61. Об эзотерических учениях

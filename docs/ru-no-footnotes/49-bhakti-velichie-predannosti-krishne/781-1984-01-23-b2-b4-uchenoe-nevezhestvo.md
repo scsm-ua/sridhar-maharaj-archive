@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5862900
   duration: 00:11:05
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3
 date: 1984-01-23
 category:
   title: 49. Бхакти — величие преданности Кришне

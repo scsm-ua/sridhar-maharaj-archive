@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5511909
   duration: 00:02:44
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/577_1982.07.18.A1_SridharMj_Kripa_znachit_pomoshh_vysshego_nachala_nizshemu.mp3
 date: 1982-07-18
 category:
   title: 35. Родной дом за пределами мира смерти

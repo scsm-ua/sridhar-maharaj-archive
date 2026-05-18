@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4132812
   duration: 00:03:24
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/101_1982.05.14.B4_SridharMj_U_Mahaprabhu_net_otdelnogo_sushhestvovanija_ot_lily_Krishny.mp3
 date: 1982-05-14
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

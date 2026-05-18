@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2523928
   duration: 00:06:29
-  mp3: /wp-content/uploads/2012/08/269_MgnoveniyaPR_2.1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
+  src: /wp-content/uploads/2012/08/269_MgnoveniyaPR_2.1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani

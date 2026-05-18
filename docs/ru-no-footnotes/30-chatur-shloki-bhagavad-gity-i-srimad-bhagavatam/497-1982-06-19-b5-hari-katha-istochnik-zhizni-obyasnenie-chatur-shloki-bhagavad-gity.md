@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19112313
   duration: 00:17:59
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/497_1982.06.19.B5_SridharMj_Hari-katha--istochnik_zhizni__Objasnenie_chatur_shloki_Bhagavad-gity.mp3
 date: 1982-06-19
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

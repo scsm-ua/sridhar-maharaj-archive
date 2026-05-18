@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5946805
   duration: 00:05:48
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/176_1982.02.17.C1_SridharMj_Projavlennoe_i_neprojavlennoe_sostojanie_lily.mp3
 date: 1982-02-17
 category:
   title: 13. Лила — игра чудесного Абсолюта

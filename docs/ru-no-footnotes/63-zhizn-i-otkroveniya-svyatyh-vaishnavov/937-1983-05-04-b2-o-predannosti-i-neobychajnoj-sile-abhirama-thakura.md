@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7259219
   duration: 00:09:07
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/937_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/937_1983.05.04.B2_SridharMj_O_predannosti_i_neobychaynoy_sile_Abhirama_Thakura.mp3
 date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов

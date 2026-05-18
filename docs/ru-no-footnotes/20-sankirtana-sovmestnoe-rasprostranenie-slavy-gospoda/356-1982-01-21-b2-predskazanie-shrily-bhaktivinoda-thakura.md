@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6016993
   duration: 00:12:06
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
 date: 1982-01-21
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

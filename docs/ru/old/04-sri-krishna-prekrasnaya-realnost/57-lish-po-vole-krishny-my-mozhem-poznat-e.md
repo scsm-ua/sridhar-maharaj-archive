@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2370450
   duration: 00:03:01
-  mp3: /wp-content/uploads/2012/08/057_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
+  src: /wp-content/uploads/2012/08/057_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost

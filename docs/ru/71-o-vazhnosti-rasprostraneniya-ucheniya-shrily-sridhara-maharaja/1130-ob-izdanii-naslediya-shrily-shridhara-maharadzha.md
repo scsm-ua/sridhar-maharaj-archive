@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2398912
   duration: 00:03:52
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja

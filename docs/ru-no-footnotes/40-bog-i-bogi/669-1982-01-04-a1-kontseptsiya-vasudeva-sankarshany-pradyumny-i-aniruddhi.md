@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3473596
   duration: 00:05:38
-  mp3: /dl/40._Bog_i_bogi/669_1982.01.04.A1_SridharMj_Koncepcija_Vasudeva_Sankarshany_Pradjumny_i_Aniruddhi.mp3
+  src: /dl/40._Bog_i_bogi/669_1982.01.04.A1_SridharMj_Koncepcija_Vasudeva_Sankarshany_Pradjumny_i_Aniruddhi.mp3
 date: 1982-01-04
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3001920
   duration: 00:06:02
-  mp3: /wp-content/uploads/2012/08/401_OntologiyaPR_1.2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
+  src: /wp-content/uploads/2012/08/401_OntologiyaPR_1.2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
 category:
   title: (35. Бхакти - преданность Шри Кришне)
   slug: 35-bhakti-predannost-shri-krishne

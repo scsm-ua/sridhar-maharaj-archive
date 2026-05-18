@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9086788
   duration: 00:16:15
-  mp3: /wp-content/uploads/2012/08/056_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
+  src: /wp-content/uploads/2012/08/056_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
 date: 1981-08-31
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

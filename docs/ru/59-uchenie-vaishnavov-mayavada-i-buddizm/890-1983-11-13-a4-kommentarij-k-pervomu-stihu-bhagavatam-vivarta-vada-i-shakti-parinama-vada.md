@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12670861
   duration: 00:13:05
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/890_1983.11.13.A4_SridharMj_Kommentarij_k_pervomu_stihu_Bhagavatam__Vivarta-vada_i_shakti-parinama-vada.mp3
 date: 1983-11-13
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

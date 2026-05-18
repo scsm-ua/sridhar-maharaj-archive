@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6222200
   duration: 00:11:31
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/200_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga__Prihod_Madhava_Maharadzha_v_Gaudija-Math.mp3
 date: 1981-08-20
 category:
   title: 14. Как познать и увидеть Бога

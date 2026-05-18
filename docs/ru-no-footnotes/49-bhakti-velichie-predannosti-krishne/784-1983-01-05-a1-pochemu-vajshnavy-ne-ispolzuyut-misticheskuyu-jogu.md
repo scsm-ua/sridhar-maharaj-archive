@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8286617
   duration: 00:16:08
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/784_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
 date: 1983-01-05
 category:
   title: 49. Бхакти — величие преданности Кришне

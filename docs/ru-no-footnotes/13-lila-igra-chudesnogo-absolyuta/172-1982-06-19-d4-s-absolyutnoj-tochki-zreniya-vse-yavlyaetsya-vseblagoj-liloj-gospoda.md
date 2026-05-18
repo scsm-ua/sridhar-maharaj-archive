@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9529971
   duration: 00:09:32
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/172_1982.06.19.D4_SridharMj_S_absoljutnoj_tochki_zrenija_vse_javljaetsja_vseblagoj_liloj_Gospoda.mp3
 date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта

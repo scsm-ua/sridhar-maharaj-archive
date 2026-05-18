@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4249097
   duration: 00:03:30
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/799_1982.02.20.B4_SridharMj_Kogda_net_uverennosti_luchshe_prervat_post_na_Jekadashi_pozzhe.mp3
 date: 1982-02-20
 category:
   title: 51. Философия и практика бхакти-йоги

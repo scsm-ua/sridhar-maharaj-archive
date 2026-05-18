@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11190721
   duration: 00:20:32
-  mp3: /dl/17._Shri_Guru_i_ego_milost/306_1982.01.31.B2_SridharMj_Mnozhestvo_guru_i_duhovnyj_progress.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/306_1982.01.31.B2_SridharMj_Mnozhestvo_guru_i_duhovnyj_progress.mp3
 date: 1982-01-31
 category:
   title: 17. Шри Гуру и его милость

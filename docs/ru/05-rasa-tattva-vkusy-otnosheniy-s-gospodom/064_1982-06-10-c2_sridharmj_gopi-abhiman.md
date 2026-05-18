@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6335455
   duration: 00:03:56
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/064_1982.06.10.C2_SridharMj_Gopi-abhiman.mp3
 date: 1982-06-10
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 6854016
   duration: 00:13:06
-  mp3: /wp-content/uploads/2012/08/455_OntologiyaPR_1.8_SridharMj_V_plenu_vysshego_soznaniya.mp3
+  src: /wp-content/uploads/2012/08/455_OntologiyaPR_1.8_SridharMj_V_plenu_vysshego_soznaniya.mp3
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4095843
   duration: 00:02:00
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3
 date: 1982-11-07
 category:
   title: 58. Сахаджия - воображаемая преданность

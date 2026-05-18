@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 35892443
   duration: 00:36:46
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1018_1982.06.30.A.B1_SridharMj_Uslovija_dlja_pravilnogo_vospevanija_Svjatogo_Imeni__Istorii_iz_zhizni_Sarasvati_Thakura.mp3
 date: 1982-06-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

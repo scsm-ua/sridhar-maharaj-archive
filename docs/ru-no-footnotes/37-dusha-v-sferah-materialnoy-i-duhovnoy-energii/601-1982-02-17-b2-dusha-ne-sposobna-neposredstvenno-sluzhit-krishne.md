@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4117086
   duration: 00:05:11
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/601_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/601_1982.02.17.B2_SridharMj_Dusha_ne_sposobna_neposredstvenno_slujit_Krishne.mp3
 date: 1982-02-17
 category:
   title: 37. Душа в сферах материальной и духовной энергии

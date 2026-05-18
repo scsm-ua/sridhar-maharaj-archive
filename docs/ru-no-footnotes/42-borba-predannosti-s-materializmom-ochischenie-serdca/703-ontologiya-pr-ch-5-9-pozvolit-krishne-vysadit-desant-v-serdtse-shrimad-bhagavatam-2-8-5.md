@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7975744
   duration: 00:12:56
-  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
+  src: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca

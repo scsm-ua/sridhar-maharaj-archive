@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6500672
   duration: 00:12:56
-  mp3: /wp-content/uploads/2012/08/347_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce.mp3
+  src: /wp-content/uploads/2012/08/347_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce.mp3
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1824672
   duration: 00:03:43
-  mp3: /wp-content/uploads/2012/08/308_MgnoveniyaPR_5.4_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
+  src: /wp-content/uploads/2012/08/308_MgnoveniyaPR_5.4_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov

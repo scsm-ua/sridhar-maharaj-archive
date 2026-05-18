@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2934481
   duration: 00:02:23
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.mp3
 date: 1982-06-19
 category:
   title: 12. Аватары — нисхождения Всевышнего

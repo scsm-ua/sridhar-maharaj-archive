@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11243802
   duration: 00:20:02
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/602_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
 date: 1982-01-19
 category:
   title: 37. Душа в сферах материальной и духовной энергии

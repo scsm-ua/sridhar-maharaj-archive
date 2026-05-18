@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6318272
   duration: 00:12:46
-  mp3: /wp-content/uploads/2012/08/321_OntologiyaPR_3.4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
+  src: /wp-content/uploads/2012/08/321_OntologiyaPR_3.4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti

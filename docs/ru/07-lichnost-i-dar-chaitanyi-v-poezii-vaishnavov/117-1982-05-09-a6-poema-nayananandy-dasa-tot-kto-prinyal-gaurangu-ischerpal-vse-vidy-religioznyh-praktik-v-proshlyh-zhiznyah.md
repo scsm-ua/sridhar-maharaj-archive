@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 13244176
   duration: 00:12:16
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/117_1982.05.09.A6_SridharMj_Pojema_Najananandy_Dasa___Tot_kto_prinjal_Gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznjah.mp3
 date: 1982-05-09
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

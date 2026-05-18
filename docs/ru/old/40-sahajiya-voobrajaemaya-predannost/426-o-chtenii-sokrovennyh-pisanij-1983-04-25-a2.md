@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5385676
   duration: 00:05:10
-  mp3: /wp-content/uploads/2012/08/426_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
+  src: /wp-content/uploads/2012/08/426_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
 date: 1983-04-25
 category:
   title: (40. Сахаджия - воображаемая преданность)

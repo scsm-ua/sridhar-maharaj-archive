@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3929161
   duration: 00:03:50
-  mp3: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/538_1982.03.30.B3_SridharMj_Pisanija_vajshnavy_i_chuvstvo_v_serdce--tri_priznaka_istiny.mp3
 date: 1982-03-30
 category:
   title: 33. Дхарма — учение о долге

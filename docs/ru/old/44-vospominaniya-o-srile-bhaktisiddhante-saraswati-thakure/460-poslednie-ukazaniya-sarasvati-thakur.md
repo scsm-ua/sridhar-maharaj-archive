@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3374613
   duration: 00:06:33
-  mp3: /wp-content/uploads/2012/08/460_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
+  src: /wp-content/uploads/2012/08/460_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
 date: 1981-08-12
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

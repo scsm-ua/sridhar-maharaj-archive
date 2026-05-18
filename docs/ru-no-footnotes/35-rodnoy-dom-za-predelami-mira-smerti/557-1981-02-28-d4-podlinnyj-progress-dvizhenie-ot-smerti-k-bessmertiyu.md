@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8447040
   duration: 00:11:35
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
 date: 1981-02-28
 category:
   title: 35. Родной дом за пределами мира смерти

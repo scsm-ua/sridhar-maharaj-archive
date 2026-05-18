@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2035033
   duration: 00:02:53
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.mp3
 date: 1981-03-05
 category:
   title: 12. Аватары — нисхождения Всевышнего

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3664426
   duration: 00:07:09
-  mp3: /wp-content/uploads/2012/08/467_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
+  src: /wp-content/uploads/2012/08/467_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
 date: 1983-02-27
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

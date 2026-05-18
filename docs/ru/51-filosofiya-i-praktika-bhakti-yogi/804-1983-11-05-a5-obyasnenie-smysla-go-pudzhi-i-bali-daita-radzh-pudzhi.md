@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4096544
   duration: 00:03:20
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.mp3
 date: 1983-11-05
 category:
   title: 51. Философия и практика бхакти-йоги

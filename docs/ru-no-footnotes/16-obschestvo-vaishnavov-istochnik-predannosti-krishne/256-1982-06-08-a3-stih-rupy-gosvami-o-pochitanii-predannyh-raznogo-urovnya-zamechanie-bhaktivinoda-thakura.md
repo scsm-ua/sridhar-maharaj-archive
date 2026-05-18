@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7450969
   duration: 00:06:35
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/256_1982.06.08.A3_SridharMj_Stih_Rupy_Gosvami_o_pochitanii_predannyh_raznogo_urovnja__Zamechanie_Bhaktivinoda.mp3
 date: 1982-06-08
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

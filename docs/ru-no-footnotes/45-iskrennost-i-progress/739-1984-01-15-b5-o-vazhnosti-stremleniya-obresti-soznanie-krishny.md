@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2427584
   duration: 00:03:15
-  mp3: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
+  src: /dl/45._Iskrennost_i_progress/739_343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
 date: 1984-01-15
 category:
   title: 45. Искренность и прогресс

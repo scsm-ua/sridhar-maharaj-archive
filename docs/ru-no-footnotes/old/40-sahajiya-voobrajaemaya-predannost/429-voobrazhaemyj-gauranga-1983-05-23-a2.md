@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13502652
   duration: 00:22:05
-  mp3: /wp-content/uploads/2012/08/429_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
+  src: /wp-content/uploads/2012/08/429_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
 date: 1983-05-23
 category:
   title: (40. Сахаджия - воображаемая преданность)

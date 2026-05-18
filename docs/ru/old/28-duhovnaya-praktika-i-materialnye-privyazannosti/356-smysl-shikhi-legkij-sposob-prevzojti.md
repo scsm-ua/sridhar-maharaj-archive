@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5301477
   duration: 00:08:42
-  mp3: /wp-content/uploads/2012/08/356_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
+  src: /wp-content/uploads/2012/08/356_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
 date: 1982-01-26
 category:
   title: (28. Духовная практика и материальные привязанности)

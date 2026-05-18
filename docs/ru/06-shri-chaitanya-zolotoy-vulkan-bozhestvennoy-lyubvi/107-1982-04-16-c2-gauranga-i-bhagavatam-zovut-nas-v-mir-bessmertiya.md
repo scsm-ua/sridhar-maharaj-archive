@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8477916
   duration: 00:07:55
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/107_1982.04.16.C2_SridharMj_Gauranga_i_Bhagavatam_zovut_nas_v_mir_bessmertija.mp3
 date: 1982-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

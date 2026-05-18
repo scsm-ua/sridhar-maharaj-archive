@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10978733
   duration: 00:22:32
-  mp3: /wp-content/uploads/2012/08/285_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
+  src: /wp-content/uploads/2012/08/285_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
 date: 1983-05-04
 category:
   title: (22. Истории о жизни святых вайшнавов)

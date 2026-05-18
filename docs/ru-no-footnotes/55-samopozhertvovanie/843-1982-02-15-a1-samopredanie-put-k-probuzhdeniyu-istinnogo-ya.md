@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24918610
   duration: 00:24:53
-  mp3: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.mp3
+  src: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.mp3
 date: 1982-02-15
 category:
   title: 55. Самопожертвование

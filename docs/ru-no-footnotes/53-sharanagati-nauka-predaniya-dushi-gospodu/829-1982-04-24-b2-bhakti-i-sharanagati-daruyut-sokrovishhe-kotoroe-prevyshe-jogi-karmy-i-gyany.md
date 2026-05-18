@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15922761
   duration: 00:15:59
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/829_1982.04.24.B2_SridharMj_Bhakti_i_sharanagati_darujut_sokrovishhe_kotoroe_prevyshe_jogi_karmy_i_gjany.mp3
 date: 1982-04-24
 category:
   title: 53. Шаранагати - наука предания души Господу

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3564753
   duration: 00:04:39
-  mp3: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/269_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
 date: 1985-10-05
 category:
   title: 17. Шри Гуру и его милость

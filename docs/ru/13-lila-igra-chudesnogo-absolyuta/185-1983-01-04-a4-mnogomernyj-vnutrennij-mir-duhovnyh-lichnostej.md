@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3042081
   duration: 00:05:08
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/185_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
 date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3644224
   duration: 00:04:35
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.mp3
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi

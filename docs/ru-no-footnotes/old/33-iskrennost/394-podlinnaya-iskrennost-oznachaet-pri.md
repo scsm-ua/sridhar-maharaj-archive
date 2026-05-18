@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3609976
   duration: 00:06:22
-  mp3: /wp-content/uploads/2012/08/394_MgnoveniyaPR_6.6_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
+  src: /wp-content/uploads/2012/08/394_MgnoveniyaPR_6.6_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
 category:
   title: (33. Искренность)
   slug: 33-iskrennost

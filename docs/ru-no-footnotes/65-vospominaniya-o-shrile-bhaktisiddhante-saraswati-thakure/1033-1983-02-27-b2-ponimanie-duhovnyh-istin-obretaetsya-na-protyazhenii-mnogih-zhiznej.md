@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4033578
   duration: 00:07:09
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1033_1983.02.27.B2_SridharMj_Ponimaniye_duhovnyh_istin_obretayetsya_na_protyazhenii_mnogih_jizney.mp3
 date: 1983-02-27
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

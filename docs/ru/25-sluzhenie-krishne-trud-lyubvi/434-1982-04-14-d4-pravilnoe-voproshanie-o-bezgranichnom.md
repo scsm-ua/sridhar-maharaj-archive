@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4658563
   duration: 00:04:12
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3
 date: 1982-04-14
 category:
   title: 25. Служение Кришне — труд любви

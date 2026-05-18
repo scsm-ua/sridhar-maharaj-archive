@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6126059
   duration: 00:07:27
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
 date: 1982-01-25
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

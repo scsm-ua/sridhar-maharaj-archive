@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9276540
   duration: 00:08:45
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/088_1982.02.20.A1-1982.01.12.B1_SridharMj_Svjaz_jepizodov_Gaura_lily_i_Krishna-lily.mp3
 date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

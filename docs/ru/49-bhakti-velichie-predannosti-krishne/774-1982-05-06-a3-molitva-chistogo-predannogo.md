@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3522539
   duration: 00:03:06
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/774_1982.05.06.A3_SridharMj_Molitva_chistogo_predannogo.mp3
 date: 1982-05-06
 category:
   title: 49. Бхакти — величие преданности Кришне

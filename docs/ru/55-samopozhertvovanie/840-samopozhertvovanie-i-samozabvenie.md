@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4308788
   duration: 00:09:36
-  mp3: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
+  src: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 27048678
   duration: 00:27:16
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/075_1982.05.04.A2.B1_SridharMj_Nitjananda_Prabhu_i_Shri_Chajtanja--velikodushnye_rasprostraniteli_Soznanija_Krishny.mp3
 date: 1982-05-04
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5458976
   duration: 00:10:54
-  mp3: /wp-content/uploads/2012/08/465_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
+  src: /wp-content/uploads/2012/08/465_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
 date: 1984-01-08
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

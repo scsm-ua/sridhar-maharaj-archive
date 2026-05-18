@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14637934
   duration: 00:28:42
-  mp3: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
+  src: /dl/54._Smirenie_i_terpenie/835_1982.01.26.A1_SridharMj_Temperament_vayshnava_sochetaet_smirenie_i_reshitelnost.mp3
 date: 1982-01-26
 category:
   title: 54. Смирение и терпение

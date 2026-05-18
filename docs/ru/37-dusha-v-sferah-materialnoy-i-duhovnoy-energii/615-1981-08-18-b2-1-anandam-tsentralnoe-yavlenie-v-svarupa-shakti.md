@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2824547
   duration: 00:02:29
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.mp3
 date: 1981-08-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии

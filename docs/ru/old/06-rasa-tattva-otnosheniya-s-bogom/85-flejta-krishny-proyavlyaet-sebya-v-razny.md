@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4891115
   duration: 00:07:27
-  mp3: /wp-content/uploads/2012/08/085_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
+  src: /wp-content/uploads/2012/08/085_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
 date: 1982-01-25
 category:
   title: (06. Раса-таттва - отношения с Богом)

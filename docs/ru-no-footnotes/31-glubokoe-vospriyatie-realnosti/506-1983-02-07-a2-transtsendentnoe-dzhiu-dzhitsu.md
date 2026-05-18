@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8250871
   duration: 00:15:50
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
 date: 1983-02-07
 category:
   title: 31. Глубокое восприятие реальности

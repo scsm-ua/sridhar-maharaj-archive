@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 11022912
   duration: 00:21:09
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi

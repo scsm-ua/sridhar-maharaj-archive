@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10667226
   duration: 00:10:28
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/039_1982.03.22.B2_SridharMj_Soznanie_Krishny_vo_Vrindavane_znachit_zhit_s_Bogom_odnoj_semej.mp3
 date: 1982-03-22
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

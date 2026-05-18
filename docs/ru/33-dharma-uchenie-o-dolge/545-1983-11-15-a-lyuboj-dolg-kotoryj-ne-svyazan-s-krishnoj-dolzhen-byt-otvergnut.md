@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15507048
   duration: 00:15:53
-  mp3: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3
 date: 1983-11-15
 category:
   title: 33. Дхарма — учение о долге

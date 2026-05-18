@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6306900
   duration: 00:03:34
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/959_1982.02.24.A2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/959_1982.02.24.A2_SridharMj_O_Jagannathe_Dase_Babaji.mp3
 date: 1982-02-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов

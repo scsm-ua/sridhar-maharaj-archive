@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11379451
   duration: 00:21:33
-  mp3: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
+  src: /dl/55._Samopozhertvovanie/841_1982.01.17.C_SridharMj_Lyubov_oznachayet_dobrovolnaya_jertva.mp3
 date: 1982-01-17
 category:
   title: 55. Самопожертвование

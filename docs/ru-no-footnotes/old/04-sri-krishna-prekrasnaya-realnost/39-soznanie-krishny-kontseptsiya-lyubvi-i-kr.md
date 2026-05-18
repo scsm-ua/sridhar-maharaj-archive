@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5226231
   duration: 00:08:13
-  mp3: /wp-content/uploads/2012/08/039_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3
+  src: /wp-content/uploads/2012/08/039_1983.01.12.A2_SridharMj_Soznanie_Krishny-koncepciya_lubvi_i_krasoty.mp3
 date: 1983-01-12
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

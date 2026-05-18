@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14810273
   duration: 00:24:10
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
 date: 1983-07-18
 category:
   title: 49. Бхакти — величие преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19645106
   duration: 00:38:28
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
 date: 1983-07-08
 category:
   title: 39. Иерархия мироздания — планы бытия

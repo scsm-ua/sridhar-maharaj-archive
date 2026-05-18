@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 13289180
   duration: 00:13:36
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/109_1982.11.07.C8.D1_SridharMj_Lichnost_Shri_Chajtani_v_pojezii_Svarpupa_Damodara_Vrindavana_dasa_Thakura_i_Shridhara_Maharadzha.mp3
 date: 1982-11-07
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

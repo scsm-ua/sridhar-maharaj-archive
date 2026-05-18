@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4663650
   duration: 00:04:14
-  mp3: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3
+  src: /dl/26._Rupanuga-sampradaya/455_1982.04.16.B3_SridharMj_Rupanuga_i_raganuga--put_nachertannyj_Mahaprabhu.mp3
 date: 1982-04-16
 category:
   title: 26. Рупануга-сампрадая

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3008343
   duration: 00:04:00
-  mp3: /dl/48._Vera/763_1982.03.01.B_SridharMj_Zhizn_dolzhna_byt_otrazheniem_nashej_very.mp3
+  src: /dl/48._Vera/763_1982.03.01.B_SridharMj_Zhizn_dolzhna_byt_otrazheniem_nashej_very.mp3
 date: 1982-03-01
 category:
   title: 48. Вера

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12425581
   duration: 00:11:15
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/595_1982.05.06.B4_SridharMj_Iskrennost_i_nastojchivost_pozvoljat_dushe_obresti_Soznanie_Krishny.mp3
 date: 1982-05-06
 category:
   title: 37. Душа в сферах материальной и духовной энергии

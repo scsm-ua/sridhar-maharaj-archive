@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16775178
   duration: 00:32:40
-  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
 date: 1983-04-29
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4153689
   duration: 00:06:18
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/236_1985.10.05.A5_SridharMj_Vaishnavy-nashi_hraniteli_na_duhovnom_puti.mp3
 date: 1985-10-05
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

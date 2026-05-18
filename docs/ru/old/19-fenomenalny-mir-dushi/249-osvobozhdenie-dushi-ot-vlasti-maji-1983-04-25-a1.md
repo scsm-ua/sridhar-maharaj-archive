@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7593566
   duration: 00:11:26
-  mp3: /wp-content/uploads/2012/08/249_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
+  src: /wp-content/uploads/2012/08/249_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
 date: 1983-04-25
 category:
   title: (19. Феноменальный мир души)

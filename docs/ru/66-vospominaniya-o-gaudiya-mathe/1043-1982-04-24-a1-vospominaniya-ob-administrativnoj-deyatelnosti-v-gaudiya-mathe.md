@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9899687
   duration: 00:09:47
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3
 date: 1982-04-24
 category:
   title: 66. Воспоминания о Гаудия Матхе

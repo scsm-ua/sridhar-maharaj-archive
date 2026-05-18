@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2303384
   duration: 00:03:34
-  mp3: /wp-content/uploads/2012/08/305_1982.01.09.C1_SridharMj_O_poezii_Prabjdhanandy_Sarasvati.mp3
+  src: /wp-content/uploads/2012/08/305_1982.01.09.C1_SridharMj_O_poezii_Prabjdhanandy_Sarasvati.mp3
 date: 1982-01-09
 category:
   title: (23. Священные писания и труды вайшнавов)

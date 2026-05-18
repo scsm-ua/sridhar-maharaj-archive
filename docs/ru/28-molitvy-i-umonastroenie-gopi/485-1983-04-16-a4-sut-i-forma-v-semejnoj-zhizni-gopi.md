@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6655603
   duration: 00:13:21
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/485_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
 date: 1983-04-16
 category:
   title: 28. Молитвы и умонастроение гопи

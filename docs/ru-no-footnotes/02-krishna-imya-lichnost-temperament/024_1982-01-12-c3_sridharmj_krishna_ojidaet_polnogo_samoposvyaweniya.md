@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5990692
   duration: 00:12:17
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
 date: 1982-01-12
 category:
   title: 02. Кришна — Имя, Личность, темперамент

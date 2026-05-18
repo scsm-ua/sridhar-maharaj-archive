@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6954057
   duration: 00:09:56
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3
 date: 1981-11-12
 category:
   title: 58. Сахаджия - воображаемая преданность

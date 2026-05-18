@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5422507
   duration: 00:10:15
-  mp3: /wp-content/uploads/2012/08/277_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
+  src: /wp-content/uploads/2012/08/277_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
 date: 1983-01-26
 category:
   title: (21. Служение стопам Шримати Радхарани)

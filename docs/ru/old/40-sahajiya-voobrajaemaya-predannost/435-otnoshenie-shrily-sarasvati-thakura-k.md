@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5049281
   duration: 00:04:34
-  mp3: /wp-content/uploads/2012/08/435_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
+  src: /wp-content/uploads/2012/08/435_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
 date: 1983-05-09
 category:
   title: (40. Сахаджия - воображаемая преданность)

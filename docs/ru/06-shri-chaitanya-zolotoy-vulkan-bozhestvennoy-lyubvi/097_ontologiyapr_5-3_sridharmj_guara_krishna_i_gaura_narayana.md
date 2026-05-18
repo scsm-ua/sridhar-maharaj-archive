@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1616640
   duration: 00:01:33
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/097_OntologiyaPR_5.3_SridharMj_Guara_Krishna_i_Gaura_Narayana.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/097_OntologiyaPR_5.3_SridharMj_Guara_Krishna_i_Gaura_Narayana.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi

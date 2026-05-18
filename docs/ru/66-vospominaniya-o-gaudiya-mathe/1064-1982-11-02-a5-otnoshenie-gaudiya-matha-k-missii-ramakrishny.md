@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3896446
   duration: 00:03:32
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1064_1982.11.02.A5_SridharMj_Otnoshenie_Gaudija_Matha_k_missii_Ramakrishny.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1064_1982.11.02.A5_SridharMj_Otnoshenie_Gaudija_Matha_k_missii_Ramakrishny.mp3
 date: 1982-11-02
 category:
   title: 66. Воспоминания о Гаудия Матхе

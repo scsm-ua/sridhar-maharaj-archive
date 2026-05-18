@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 5026752
   duration: 00:10:17
-  mp3: /wp-content/uploads/2012/08/231_MgnoveniyaPR_7.2_SridharMj_Gradaciya_predannosti.mp3
+  src: /wp-content/uploads/2012/08/231_MgnoveniyaPR_7.2_SridharMj_Gradaciya_predannosti.mp3
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir

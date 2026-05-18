@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2824148
   duration: 00:04:04
-  mp3: /wp-content/uploads/2012/08/064_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_krishna-lily.mp3
+  src: /wp-content/uploads/2012/08/064_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_krishna-lily.mp3
 date: 1983-01-04
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

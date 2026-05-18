@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3001541
   duration: 00:02:26
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/221_1982.11.02.A4_SridharMj_V_Bhagavad-gite_i_Shrimad_Bhagavatam_pokazano_kak_raznoobraznye_javlenija_svjazany_s_predannostju.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/221_1982.11.02.A4_SridharMj_V_Bhagavad-gite_i_Shrimad_Bhagavatam_pokazano_kak_raznoobraznye_javlenija_svjazany_s_predannostju.mp3
 date: 1982-11-02
 category:
   title: 15. Ведическая литература - от древности до современности

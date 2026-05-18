@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22695079
   duration: 00:20:38
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/957_1983.11.13.A7.B1_SridharMj_Zhizn_Shrinivasa_Achari_1983.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/957_1983.11.13.A7.B1_SridharMj_Zhizn_Shrinivasa_Achari_1983.mp3
 date: 1983-11-13
 category:
   title: 63. Жизнь и откровения святых вайшнавов

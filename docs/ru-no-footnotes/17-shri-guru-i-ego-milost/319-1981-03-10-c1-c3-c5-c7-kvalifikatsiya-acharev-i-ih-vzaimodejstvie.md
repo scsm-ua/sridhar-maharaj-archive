@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13723251
   duration: 00:25:49
-  mp3: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/319_1981.03.10.C1.C3.C5.C7_SridharMj_Kvalifikacija_acharev_i_ih_vzaimodejstvie.mp3
 date: 1981-03-10
 category:
   title: 17. Шри Гуру и его милость

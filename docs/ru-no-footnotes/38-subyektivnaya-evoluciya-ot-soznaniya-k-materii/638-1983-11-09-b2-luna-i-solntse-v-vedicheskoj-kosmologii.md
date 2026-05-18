@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8728273
   duration: 00:08:07
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/638_1983.11.09.B2_SridharMj_Luna_i_Solnce_v_vedicheskoj_kosmologii.mp3
 date: 1983-11-09
 category:
   title: 38. Субъективная эволюция — от сознания к материи

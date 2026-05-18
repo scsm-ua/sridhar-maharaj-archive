@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9104760
   duration: 00:08:41
-  mp3: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3
+  src: /dl/40._Bog_i_bogi/682_1983.11.22.A2_SridharMj_Poklonenie_Shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti.mp3
 date: 1983-11-22
 category:
   title: 40. Бог и боги

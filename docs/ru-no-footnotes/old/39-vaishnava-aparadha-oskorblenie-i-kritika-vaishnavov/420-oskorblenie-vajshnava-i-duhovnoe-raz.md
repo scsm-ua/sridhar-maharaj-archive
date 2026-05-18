@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4449312
   duration: 00:08:37
-  mp3: /wp-content/uploads/2012/08/420_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
+  src: /wp-content/uploads/2012/08/420_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
 date: 1983-05-09
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)

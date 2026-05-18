@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2150849
   duration: 00:01:20
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/102_1982.07.04.A4_SridharMj_V_serdce_Mahaprabhu--imena_i_lila_gopi.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/102_1982.07.04.A4_SridharMj_V_serdce_Mahaprabhu--imena_i_lila_gopi.mp3
 date: 1982-07-04
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

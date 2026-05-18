@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 12543363
   duration: 00:12:40
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/474_1982.05.14.D2_SridharMj_Lichnost_i_pojezija_Prabodhanandy_Sarasvati_Objasnenie_pervogo_stiha_Radha-rasa-sudha-nidhi.mp3
 date: 1982-05-14
 category:
   title: 27. Служение стопам Шримати Радхарани

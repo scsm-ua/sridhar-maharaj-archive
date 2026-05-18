@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10727184
   duration: 00:08:54
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/877_1982.07.27.C3_SridharMj_Praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii.mp3
 date: 1982-07-27
 category:
   title: 58. Сахаджия - воображаемая преданность

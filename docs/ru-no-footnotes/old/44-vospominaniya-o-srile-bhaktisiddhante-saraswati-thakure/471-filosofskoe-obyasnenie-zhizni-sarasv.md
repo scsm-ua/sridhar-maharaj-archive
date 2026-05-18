@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10261536
   duration: 00:20:54
-  mp3: /wp-content/uploads/2012/08/471_1982.01.29.B3_SridharMj_Filosofskoe_obyasnenie_jizni_Sarasvati_Thakura_v_Jaganatha_Puri.mp3
+  src: /wp-content/uploads/2012/08/471_1982.01.29.B3_SridharMj_Filosofskoe_obyasnenie_jizni_Sarasvati_Thakura_v_Jaganatha_Puri.mp3
 date: 1982-01-29
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7563008
   duration: 00:09:50
-  mp3: /wp-content/uploads/2012/08/372_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
+  src: /wp-content/uploads/2012/08/372_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
 date: 1984-01-15
 category:
   title: (30. Садху-санга - духовное общение)

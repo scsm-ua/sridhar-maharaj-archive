@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16975714
   duration: 00:33:13
-  mp3: /dl/55._Samopozhertvovanie/838_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
+  src: /dl/55._Samopozhertvovanie/838_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
 date: 1983-03-29
 category:
   title: 55. Самопожертвование

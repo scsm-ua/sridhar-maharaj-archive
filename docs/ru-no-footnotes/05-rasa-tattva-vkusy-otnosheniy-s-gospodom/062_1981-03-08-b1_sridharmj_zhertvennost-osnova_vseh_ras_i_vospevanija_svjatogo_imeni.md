@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7281088
   duration: 00:09:51
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/062_1981.03.08.B1_SridharMj_Zhertvennost--osnova_vseh_ras_i_vospevanija_Svjatogo_Imeni.mp3
 date: 1981-03-08
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

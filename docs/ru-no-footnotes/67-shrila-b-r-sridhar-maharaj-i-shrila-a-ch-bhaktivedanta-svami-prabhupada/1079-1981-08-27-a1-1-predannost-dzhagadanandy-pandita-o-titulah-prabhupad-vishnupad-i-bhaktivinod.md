@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 9245550
   duration: 00:15:59
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1079_1981.08.27.A1.1_SridharMj_Predannost_Dzhagadanandy_Pandita_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1079_1981.08.27.A1.1_SridharMj_Predannost_Dzhagadanandy_Pandita_O_titulah_Prabhupad_Vishnupad_i_Bhaktivinod.mp3
 date: 1981-08-27
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3872040
   duration: 00:06:22
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1087_1982.02.21.B4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
 date: 1982-02-21
 category:
   title: 68. Шри Чайтанья Сарасват Матх

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9320803
   duration: 00:06:42
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/965_1982.11.02.A2_SridharMj_Istorija_otkrytija_i_slava_Shrivas-angama_vo_vremena_Bhaktivinoda_i_Gaudija_Matha.mp3
 date: 1982-11-02
 category:
   title: 63. Жизнь и откровения святых вайшнавов

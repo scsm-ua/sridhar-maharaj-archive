@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5617946
   duration: 00:04:58
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/382_1982.04.14.C4_SridharMj_V_dolgosrochnoj_perspektive_smirenie_plodotvornee_chem_agressija.mp3
 date: 1982-04-14
 category:
   title: 21. Практические вопросы проповеди

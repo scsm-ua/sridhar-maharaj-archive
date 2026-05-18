@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12033777
   duration: 00:24:26
-  mp3: /wp-content/uploads/2012/08/279_1982.01.09.C6.D_SridharMj_O_poklonenii_Govardhan-shile_i_Shalagram-shile.mp3
+  src: /wp-content/uploads/2012/08/279_1982.01.09.C6.D_SridharMj_O_poklonenii_Govardhan-shile_i_Shalagram-shile.mp3
 date: 1982-01-09
 category:
   title: (21. Служение стопам Шримати Радхарани)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9445824
   duration: 00:15:07
-  mp3: /wp-content/uploads/2012/08/094_MgnoveniyaPR_7.4_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
+  src: /wp-content/uploads/2012/08/094_MgnoveniyaPR_7.4_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1628080
   duration: 00:03:57
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
 date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего

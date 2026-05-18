@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7464657
   duration: 00:07:15
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1129_1983.11.14.B6_SridharMj_Proekt_Bhagavad-gita_v_svete_Bhagavatam_i_kniga_posvjashhennaja_biografijam_vajshnavov.mp3
 date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

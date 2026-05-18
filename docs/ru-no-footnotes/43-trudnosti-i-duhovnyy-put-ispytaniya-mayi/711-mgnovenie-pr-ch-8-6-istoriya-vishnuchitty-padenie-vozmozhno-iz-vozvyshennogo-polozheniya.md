@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4789192
   duration: 00:18:21
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 8718932
   duration: 00:07:51
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/663_1982.11.07.C6.D2_SridharMj_Dlja_sozdanija_Hrama_vedicheskogo_planetarija_neobhodim_specialist_po_sravnitelnomu_teizmu.mp3
 date: 1982-11-07
 category:
   title: 39. Иерархия мироздания — планы бытия

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11844639
   duration: 00:11:30
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/415_1982.05.01.B1_SridharMj_Vosprijatie_s_tochki_zrenija_Centra_javljaet_nektar_v_glubinah_realnosti.mp3
 date: 1982-05-01
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

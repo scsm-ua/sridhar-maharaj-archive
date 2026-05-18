@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7742016
   duration: 00:12:51
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1073_1982.02.19.B6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
 date: 1982-02-19
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

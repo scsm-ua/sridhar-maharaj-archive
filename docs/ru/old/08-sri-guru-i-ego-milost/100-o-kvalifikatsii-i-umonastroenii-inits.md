@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5786602
   duration: 00:11:54
-  mp3: /wp-content/uploads/2012/08/100_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
+  src: /wp-content/uploads/2012/08/100_1981.03.02.C2_SridharMj_O_kvalifikatsii_i_umonastroyenii_initsiiruyuwego_Guru.mp3
 date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)

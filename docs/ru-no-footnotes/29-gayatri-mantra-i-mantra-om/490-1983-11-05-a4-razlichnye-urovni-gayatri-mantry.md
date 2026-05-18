@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6634621
   duration: 00:05:56
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/490_1983.11.05.A4_SridharMj_Razlichnye_urovni_gajatri-mantry.mp3
 date: 1983-11-05
 category:
   title: 29. Гаятри-мантра и мантра ОМ

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9152062
   duration: 00:08:21
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/238_1982.02.26.A2.B1_SridharMj_Objasnenie_ponjatija_achjuta_gotra_(semja_Gospoda).mp3
 date: 1982-02-26
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

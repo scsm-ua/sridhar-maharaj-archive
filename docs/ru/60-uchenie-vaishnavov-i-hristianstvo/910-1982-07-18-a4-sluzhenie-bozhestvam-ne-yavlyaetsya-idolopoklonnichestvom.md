@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10148603
   duration: 00:08:48
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
 date: 1982-07-18
 category:
   title: 60. Учение вайшнавов и Христианство

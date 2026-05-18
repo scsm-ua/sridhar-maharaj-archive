@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5789688
   duration: 00:08:31
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
 date: 1982-02-21
 category:
   title: 35. Родной дом за пределами мира смерти

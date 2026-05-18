@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3607280
   duration: 00:03:08
-  mp3: /wp-content/uploads/2012/08/254_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
+  src: /wp-content/uploads/2012/08/254_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
 date: 1981-03-05
 category:
   title: (19. Феноменальный мир души)

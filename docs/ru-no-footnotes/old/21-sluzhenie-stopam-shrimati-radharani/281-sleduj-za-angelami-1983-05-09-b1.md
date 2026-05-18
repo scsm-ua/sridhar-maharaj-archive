@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7199933
   duration: 00:14:21
-  mp3: /wp-content/uploads/2012/08/281_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
+  src: /wp-content/uploads/2012/08/281_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
 date: 1983-05-09
 category:
   title: (21. Служение стопам Шримати Радхарани)

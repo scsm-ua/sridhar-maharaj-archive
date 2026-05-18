@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10679117
   duration: 00:21:49
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.mp3
 date: 1981-03-12
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

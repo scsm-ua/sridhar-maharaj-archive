@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4973882
   duration: 00:09:11
-  mp3: /wp-content/uploads/2012/08/452_1983.01.07.B2_SridharMj_O_svoyom_jiznennom_puti.mp3
+  src: /wp-content/uploads/2012/08/452_1983.01.07.B2_SridharMj_O_svoyom_jiznennom_puti.mp3
 date: 1983-01-07
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

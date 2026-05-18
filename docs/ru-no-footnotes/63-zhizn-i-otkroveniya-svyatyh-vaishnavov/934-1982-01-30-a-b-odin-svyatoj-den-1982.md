@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 35494033
   duration: 01:07:56
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
 date: 1982-01-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов

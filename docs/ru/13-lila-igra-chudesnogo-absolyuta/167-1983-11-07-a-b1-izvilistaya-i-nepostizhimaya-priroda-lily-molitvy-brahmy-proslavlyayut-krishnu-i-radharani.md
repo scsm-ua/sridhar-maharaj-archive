@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 48234663
   duration: 00:49:51
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy%20_proslavljajut_Krishnu_i_Radharani.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/167_1983.11.07.A.B1_SridharMj_Izvilistaja_i_nepostizhimaja_priroda_lily___Molitvy_Brahmy%20_proslavljajut_Krishnu_i_Radharani.mp3
 date: 1983-11-07
 category:
   title: 13. Лила — игра чудесного Абсолюта

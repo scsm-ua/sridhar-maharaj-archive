@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9562353
   duration: 00:06:57
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
 date: 1982-04-16
 category:
   title: 35. Родной дом за пределами мира смерти

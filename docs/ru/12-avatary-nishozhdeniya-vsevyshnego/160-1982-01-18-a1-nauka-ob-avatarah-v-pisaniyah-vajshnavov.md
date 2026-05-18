@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1557515
   duration: 00:01:53
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/160_1982.01.18.A1_SridharMj_Nauka_ob_avatarah_v_Pisaniyah_vayshnavov.mp3
 date: 1982-01-18
 category:
   title: 12. Аватары — нисхождения Всевышнего

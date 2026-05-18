@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2783128
   duration: 00:03:08
-  mp3: /wp-content/uploads/2012/08/059_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
+  src: /wp-content/uploads/2012/08/059_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
 date: 1985-05-01
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

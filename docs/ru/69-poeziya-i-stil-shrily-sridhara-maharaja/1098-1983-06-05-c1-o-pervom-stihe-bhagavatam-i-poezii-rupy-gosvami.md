@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4883904
   duration: 00:09:45
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1098_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
 date: 1983-06-05
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

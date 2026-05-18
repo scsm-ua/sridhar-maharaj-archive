@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3607788
   duration: 00:06:20
-  mp3: /wp-content/uploads/2012/08/484_1983.01.12.B4_SridharMj_Vospominaniya_o_propovedi_sredi_musulman.mp3
+  src: /wp-content/uploads/2012/08/484_1983.01.12.B4_SridharMj_Vospominaniya_o_propovedi_sredi_musulman.mp3
 date: 1983-01-12
 category:
   title: (45. Воспоминания о Гаудия-матхе)

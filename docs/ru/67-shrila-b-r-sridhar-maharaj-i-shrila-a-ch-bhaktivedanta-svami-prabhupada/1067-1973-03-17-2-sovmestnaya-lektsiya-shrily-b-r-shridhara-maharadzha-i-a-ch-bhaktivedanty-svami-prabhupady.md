@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 24766463
   duration: 00:48:19
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.mp3
 date: 1973-03-17
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

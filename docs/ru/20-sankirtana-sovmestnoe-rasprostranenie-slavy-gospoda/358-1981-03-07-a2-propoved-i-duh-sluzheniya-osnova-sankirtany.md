@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12769122
   duration: 00:26:10
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/358_1981.03.07.A2_SridharMj_Propoved_i_duh_sluzhenija_osnova_sankirtany.mp3
 date: 1981-03-07
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

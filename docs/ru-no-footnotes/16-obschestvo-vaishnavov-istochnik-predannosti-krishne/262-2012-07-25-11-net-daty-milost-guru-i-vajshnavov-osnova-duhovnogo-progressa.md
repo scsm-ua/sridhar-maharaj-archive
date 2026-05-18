@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2330715
   duration: 00:03:34
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/262_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/262_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne

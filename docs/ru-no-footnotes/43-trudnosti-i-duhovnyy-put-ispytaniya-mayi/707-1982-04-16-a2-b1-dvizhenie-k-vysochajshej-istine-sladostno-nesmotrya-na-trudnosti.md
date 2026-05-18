@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6191699
   duration: 00:06:08
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3
 date: 1982-04-16
 category:
   title: 43. Трудности и духовный путь — испытания майи

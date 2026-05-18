@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3774067
   duration: 00:01:51
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/945_1982.01.19.C1_SridharMj_Blagoslovenie_Mahaprabhu_Sanatane_Gosvami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/945_1982.01.19.C1_SridharMj_Blagoslovenie_Mahaprabhu_Sanatane_Gosvami.mp3
 date: 1982-01-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов

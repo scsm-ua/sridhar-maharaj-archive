@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6663744
   duration: 00:12:51
-  mp3: /wp-content/uploads/2012/08/499_MgnoveniyaPR_7.6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
+  src: /wp-content/uploads/2012/08/499_MgnoveniyaPR_7.6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj

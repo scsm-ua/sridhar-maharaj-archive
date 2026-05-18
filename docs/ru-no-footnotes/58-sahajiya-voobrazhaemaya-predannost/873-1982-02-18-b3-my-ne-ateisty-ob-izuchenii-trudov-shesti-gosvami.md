@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6310336
   duration: 00:08:36
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
 date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность

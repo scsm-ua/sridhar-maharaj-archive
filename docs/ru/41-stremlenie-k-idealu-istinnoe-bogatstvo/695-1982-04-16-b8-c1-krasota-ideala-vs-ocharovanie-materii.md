@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16014754
   duration: 00:14:04
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/695_1982.04.16.B8.C1_SridharMj_Krasota_ideala_VS_ocharovanie_materii.mp3
 date: 1982-04-16
 category:
   title: 41. Стремление к идеалу — истинное богатство

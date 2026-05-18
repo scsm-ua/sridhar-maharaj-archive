@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7716352
   duration: 00:14:15
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/072_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/072_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
 date: 1984-01-15
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

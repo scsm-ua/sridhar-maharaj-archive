@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9063852
   duration: 00:08:47
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/446_1982.05.10.B3_SridharMj_Trud_kotoryj_prinosit_stradanija_i_trud_kotoryj_darit_schaste.mp3
 date: 1982-05-10
 category:
   title: 25. Служение Кришне — труд любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5285919
   duration: 00:10:41
-  mp3: /wp-content/uploads/2012/08/291_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
+  src: /wp-content/uploads/2012/08/291_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
 date: 1983-05-09
 category:
   title: (22. Истории о жизни святых вайшнавов)

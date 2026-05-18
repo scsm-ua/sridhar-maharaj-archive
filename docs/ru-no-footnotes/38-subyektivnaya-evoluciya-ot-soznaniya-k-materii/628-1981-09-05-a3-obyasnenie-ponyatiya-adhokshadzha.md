@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11083054
   duration: 00:10:34
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
 date: 1981-09-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи

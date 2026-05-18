@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2243959
   duration: 00:01:32
-  mp3: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3
+  src: /dl/40._Bog_i_bogi/678_1982.02.24.A3_SridharMj_Mahadev_o_vishuddha-sattve.mp3
 date: 1982-02-24
 category:
   title: 40. Бог и боги

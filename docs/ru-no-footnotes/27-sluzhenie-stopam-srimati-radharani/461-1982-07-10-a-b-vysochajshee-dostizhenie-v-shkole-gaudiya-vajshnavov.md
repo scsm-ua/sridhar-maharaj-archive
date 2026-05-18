@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24961670
   duration: 00:25:36
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/461_1982.07.10.A.B_SridharMj_Vysochajshee_dostizhenie_v_shkole_gaudija-vajshnavov.mp3
 date: 1982-07-10
 category:
   title: 27. Служение стопам Шримати Радхарани

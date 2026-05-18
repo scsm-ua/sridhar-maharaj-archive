@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17172574
   duration: 00:16:59
-  mp3: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.mp3
+  src: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.mp3
 date: 1982-05-16
 category:
   title: 45. Искренность и прогресс

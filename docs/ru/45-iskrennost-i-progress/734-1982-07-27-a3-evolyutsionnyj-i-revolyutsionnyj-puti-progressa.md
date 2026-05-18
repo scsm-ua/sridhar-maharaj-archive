@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4363795
   duration: 00:03:38
-  mp3: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
+  src: /dl/45._Iskrennost_i_progress/734_1982.07.27.A3_SridharMj_Jevoljucionnyj_i_revoljucionnyj_puti_progressa.mp3
 date: 1982-07-27
 category:
   title: 45. Искренность и прогресс

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5405110
   duration: 00:05:00
-  mp3: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
+  src: /dl/26._Rupanuga-sampradaya/453_1981.08.10.B2_SridharMj_V_Rupanuga-sampradae_rasprostranjaetsja_preimushhestvenno_madhura_rasa.mp3
 date: 1981-08-10
 category:
   title: 26. Рупануга-сампрадая

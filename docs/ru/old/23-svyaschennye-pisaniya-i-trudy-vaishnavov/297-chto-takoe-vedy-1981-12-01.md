@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4332365
   duration: 00:07:48
-  mp3: /wp-content/uploads/2012/08/297_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
+  src: /wp-content/uploads/2012/08/297_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
 date: 1981-12-01
 category:
   title: (23. Священные писания и труды вайшнавов)

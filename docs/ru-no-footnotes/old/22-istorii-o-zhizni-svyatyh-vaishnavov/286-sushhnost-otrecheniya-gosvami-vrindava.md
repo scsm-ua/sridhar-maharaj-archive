@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16583356
   duration: 00:34:13
-  mp3: /wp-content/uploads/2012/08/286_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+  src: /wp-content/uploads/2012/08/286_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
 date: 1982-01-03
 category:
   title: (22. Истории о жизни святых вайшнавов)

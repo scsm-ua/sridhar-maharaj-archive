@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10631200
   duration: 00:20:54
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1024_1982.01.29.B3_SridharMj_Radi_sluzhenija_Guru_mozhno_podnimatsja_na_prevoshodjashhij_nas_uroven.mp3
 date: 1982-01-29
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3309527
   duration: 00:06:19
-  mp3: /wp-content/uploads/2012/08/511_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_stihe_66_Prema-dhama-deva-stotram.mp3
+  src: /wp-content/uploads/2012/08/511_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_stihe_66_Prema-dhama-deva-stotram.mp3
 date: 1982-01-08
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

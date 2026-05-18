@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4338490
   duration: 00:07:03
-  mp3: /dl/52._O_poklonenii_Bozhestvam/806_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/806_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.mp3
 date: 1982-01-12
 category:
   title: 52. О поклонении Божествам

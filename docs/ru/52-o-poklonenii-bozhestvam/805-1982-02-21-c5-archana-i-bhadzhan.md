@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2142532
   duration: 00:02:29
-  mp3: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.mp3
 date: 1982-02-21
 category:
   title: 52. О поклонении Божествам

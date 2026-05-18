@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3411832
   duration: 00:05:10
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/642_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
 date: 1983-04-16
 category:
   title: 38. Субъективная эволюция — от сознания к материи

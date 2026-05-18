@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17381564
   duration: 00:34:58
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
 date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 725682
   duration: 00:01:13
-  mp3: /wp-content/uploads/2012/08/025_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
+  src: /wp-content/uploads/2012/08/025_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
 date: 1981-11-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

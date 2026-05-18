@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15940013
   duration: 00:15:05
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/112_1983.11.23.A2.B1_SridharMj_Velichie_gaura-lily___Objasnenie_stiha_Prabodhanandy_Sarasvati.mp3
 date: 1983-11-23
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

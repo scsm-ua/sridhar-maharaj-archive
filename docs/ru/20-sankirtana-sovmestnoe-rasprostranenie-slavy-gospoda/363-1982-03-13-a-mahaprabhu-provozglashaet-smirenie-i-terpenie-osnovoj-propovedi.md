@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18261942
   duration: 00:18:48
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/363_1982.03.13.A_SridharMj_Mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoj_propovedi.mp3
 date: 1982-03-13
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1356040
   duration: 00:02:53
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3
 date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего

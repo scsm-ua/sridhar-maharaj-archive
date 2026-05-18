@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3472478
   duration: 00:01:47
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1093_1983.11.02.A3_SridharMj_Ispolzovanie_fisgarmonii_nezhelatelno.mp3
 date: 1983-11-02
 category:
   title: 68. Шри Чайтанья Сарасват Матх

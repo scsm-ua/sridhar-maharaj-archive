@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1474237
   duration: 00:02:27
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/015_1983.03.29.A2_SridharMj_Obyasnenie_imeni_Krish-na.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/015_1983.03.29.A2_SridharMj_Obyasnenie_imeni_Krish-na.mp3
 date: 1983-03-29
 category:
   title: 02. Кришна — Имя, Личность, темперамент

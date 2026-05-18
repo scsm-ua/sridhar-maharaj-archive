@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 7818136
   duration: 00:21:37
-  mp3: /wp-content/uploads/2012/08/258_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
+  src: /wp-content/uploads/2012/08/258_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om

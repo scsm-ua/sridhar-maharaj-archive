@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7717760
   duration: 00:14:43
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
 date: 1982-02-27
 category:
   title: 31. Глубокое восприятие реальности

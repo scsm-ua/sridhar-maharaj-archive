@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5286639
   duration: 00:06:38
-  mp3: /wp-content/uploads/2012/08/246_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
+  src: /wp-content/uploads/2012/08/246_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
 date: 1982-01-09
 category:
   title: (19. Феноменальный мир души)

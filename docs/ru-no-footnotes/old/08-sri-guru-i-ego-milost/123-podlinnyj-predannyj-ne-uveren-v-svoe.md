@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3796345
   duration: 00:05:26
-  mp3: /wp-content/uploads/2012/08/123_1981.03.02.B3_SridharMj_Podlinnyy_predannyy_ne_uveren_v_svoyem_ponimanii_duhovnyh_istin.mp3
+  src: /wp-content/uploads/2012/08/123_1981.03.02.B3_SridharMj_Podlinnyy_predannyy_ne_uveren_v_svoyem_ponimanii_duhovnyh_istin.mp3
 date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)

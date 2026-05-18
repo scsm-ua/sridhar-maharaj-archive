@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6496265
   duration: 00:11:20
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/401_1983.02.20.A3_SridharMj_Znachenie_tridandy_dlja_gaudija-vajshnava.mp3
 date: 1983-02-20
 category:
   title: 22. Санньяса — отречение от мира

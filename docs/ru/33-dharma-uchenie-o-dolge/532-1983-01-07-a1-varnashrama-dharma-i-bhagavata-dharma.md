@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15045831
   duration: 00:30:49
-  mp3: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/532_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
 date: 1983-01-07
 category:
   title: 33. Дхарма — учение о долге

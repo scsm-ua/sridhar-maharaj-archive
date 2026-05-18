@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3535329
   duration: 00:01:19
-  mp3: /wp-content/uploads/2012/08/431_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
+  src: /wp-content/uploads/2012/08/431_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
 date: 1983-01-06
 category:
   title: (40. Сахаджия - воображаемая преданность)

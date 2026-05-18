@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17273427
   duration: 00:16:12
-  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.mp3
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/150_1982.07.02.B3_SridharMj_Kak_sambandha_abhideja_i_prajodzhana_svjazany_s_viddhi-_i_raga-margom.mp3
 date: 1982-07-02
 category:
   title: 11. Четыре области богословия Госвами Вриндавана

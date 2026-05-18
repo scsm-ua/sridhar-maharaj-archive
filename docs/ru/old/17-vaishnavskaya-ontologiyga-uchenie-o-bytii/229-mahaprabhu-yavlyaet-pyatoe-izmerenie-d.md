@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2756732
   duration: 00:05:17
-  mp3: /wp-content/uploads/2012/08/229_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
+  src: /wp-content/uploads/2012/08/229_1983.07.19.B2_SridharMj_Mahaprabhu_yavlyayet_pyatoe_izmereniye_duhovnogo_bytiya.mp3
 date: 1983-07-19
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

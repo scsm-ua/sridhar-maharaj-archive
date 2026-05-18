@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2471947
   duration: 00:03:58
-  mp3: /wp-content/uploads/2012/08/487_1983.04.16.A5_SridharMj_O_duhovnom_polozhenii_Krishnadasa_Babaji.mp3
+  src: /wp-content/uploads/2012/08/487_1983.04.16.A5_SridharMj_O_duhovnom_polozhenii_Krishnadasa_Babaji.mp3
 date: 1983-04-16
 category:
   title: (45. Воспоминания о Гаудия-матхе)

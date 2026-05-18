@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4509852
   duration: 00:03:49
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/977_1982.11.02.B4_SridharMj_Mozhet_li_ogranichennoe_postich_Bezgranichnoe.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/977_1982.11.02.B4_SridharMj_Mozhet_li_ogranichennoe_postich_Bezgranichnoe.mp3
 date: 1982-11-02
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

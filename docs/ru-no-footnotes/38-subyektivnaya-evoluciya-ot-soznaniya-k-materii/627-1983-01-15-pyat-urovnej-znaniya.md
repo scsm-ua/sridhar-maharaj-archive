@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5407723
   duration: 00:09:19
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/627_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/627_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
 date: 1983-01-15
 category:
   title: 38. Субъективная эволюция — от сознания к материи

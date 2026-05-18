@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2878241
   duration: 00:05:08
-  mp3: /wp-content/uploads/2012/08/227_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
+  src: /wp-content/uploads/2012/08/227_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
 date: 1983-01-04
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

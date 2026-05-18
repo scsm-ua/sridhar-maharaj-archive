@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2408877
   duration: 00:01:49
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/219_1982.07.04.A3_SridharMj_Objasnenie_stiha_o_slave_Bhagavad-gity.mp3
 date: 1982-07-04
 category:
   title: 15. Ведическая литература - от древности до современности

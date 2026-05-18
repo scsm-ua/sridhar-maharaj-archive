@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4910549
   duration: 00:09:43
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3
 date: 1982-01-11
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

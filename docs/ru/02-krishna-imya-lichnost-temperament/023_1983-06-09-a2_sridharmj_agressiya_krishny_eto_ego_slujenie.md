@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5460093
   duration: 00:11:10
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/023_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
 date: 1983-06-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент

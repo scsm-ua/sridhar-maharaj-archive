@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7266252
   duration: 00:04:55
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/056_1982.05.14.C1_SridharMj_Svajam_Bhagavan_i_Krishna_v_smeshannyh_rasah.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/056_1982.05.14.C1_SridharMj_Svajam_Bhagavan_i_Krishna_v_smeshannyh_rasah.mp3
 date: 1982-05-14
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

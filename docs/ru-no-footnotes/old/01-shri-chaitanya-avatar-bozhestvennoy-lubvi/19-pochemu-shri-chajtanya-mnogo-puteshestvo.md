@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1259667
   duration: 00:01:52
-  mp3: /wp-content/uploads/2012/08/019_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
+  src: /wp-content/uploads/2012/08/019_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
 date: 1980-07-11
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

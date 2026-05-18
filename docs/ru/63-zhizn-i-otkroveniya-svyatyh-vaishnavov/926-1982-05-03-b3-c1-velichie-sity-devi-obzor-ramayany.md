@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 51964761
   duration: 00:51:08
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/926_1982.05.03.B3.C1_SridharMj_Velichie_Sity_Devi_Obzor_Ramajany.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/926_1982.05.03.B3.C1_SridharMj_Velichie_Sity_Devi_Obzor_Ramajany.mp3
 date: 1982-05-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов

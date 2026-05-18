@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9520514
   duration: 00:17:53
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
 date: 1982-01-04
 category:
   title: 38. Субъективная эволюция — от сознания к материи

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18373517
   duration: 00:18:10
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/621_1982.07.03.A4_SridharMj_Berkli_VS_Gegel__Vse_prebyvaet_ne_v_nashem_a_vo_Vselenskom_Ume.mp3
 date: 1982-07-03
 category:
   title: 38. Субъективная эволюция — от сознания к материи

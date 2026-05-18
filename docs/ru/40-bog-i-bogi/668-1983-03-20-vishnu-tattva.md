@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3627822
   duration: 00:05:57
-  mp3: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3
+  src: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3
 date: 1983-03-20
 category:
   title: 40. Бог и боги

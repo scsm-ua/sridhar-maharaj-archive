@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3778153
   duration: 00:05:31
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
 date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

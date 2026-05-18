@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3010748
   duration: 00:03:30
-  mp3: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.mp3
 date: 1981-08-27
 category:
   title: 17. Шри Гуру и его милость

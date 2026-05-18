@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12653787
   duration: 00:24:22
-  mp3: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
 date: 1983-01-22
 category:
   title: 52. О поклонении Божествам

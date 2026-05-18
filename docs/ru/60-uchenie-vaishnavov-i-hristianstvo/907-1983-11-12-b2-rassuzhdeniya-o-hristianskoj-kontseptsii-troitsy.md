@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7747010
   duration: 00:06:18
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/907_1983.11.12.B2_SridharMj_Rassuzhdenija_o_hristianskoj_koncepcii_Troicy.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/907_1983.11.12.B2_SridharMj_Rassuzhdenija_o_hristianskoj_koncepcii_Troicy.mp3
 date: 1983-11-12
 category:
   title: 60. Учение вайшнавов и Христианство

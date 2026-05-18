@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1951212
   duration: 00:03:40
-  mp3: /wp-content/uploads/2012/08/316_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
+  src: /wp-content/uploads/2012/08/316_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
 date: 1983-01-25
 category:
   title: (25. Глубокое восприятие реальности)

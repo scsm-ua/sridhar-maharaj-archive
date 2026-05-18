@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3168483
   duration: 00:05:39
-  mp3: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.mp3
+  src: /dl/18._Posvyaschenie/322_1983.01.04.B1.1_SridharMj_Diksha_znachit_Obresti_pravilnyj_ugol_zrenija.mp3
 date: 1983-01-04
 category:
   title: 18. Посвящение

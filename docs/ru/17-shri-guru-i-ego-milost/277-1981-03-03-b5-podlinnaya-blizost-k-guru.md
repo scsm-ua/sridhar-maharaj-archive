@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3090161
   duration: 00:03:40
-  mp3: /dl/17._Shri_Guru_i_ego_milost/277_1981.03.03.B5_SridharMj_Podlinnaya_blizost_k_guru.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/277_1981.03.03.B5_SridharMj_Podlinnaya_blizost_k_guru.mp3
 date: 1981-03-03
 category:
   title: 17. Шри Гуру и его милость

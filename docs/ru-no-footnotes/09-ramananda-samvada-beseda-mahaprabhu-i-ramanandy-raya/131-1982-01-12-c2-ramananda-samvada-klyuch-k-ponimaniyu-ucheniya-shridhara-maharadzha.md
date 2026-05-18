@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5605199
   duration: 00:11:10
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
 date: 1982-01-12
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

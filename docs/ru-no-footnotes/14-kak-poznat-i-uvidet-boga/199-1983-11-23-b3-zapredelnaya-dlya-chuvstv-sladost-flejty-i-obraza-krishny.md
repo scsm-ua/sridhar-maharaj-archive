@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7121230
   duration: 00:06:42
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
 date: 1983-11-23
 category:
   title: 14. Как познать и увидеть Бога

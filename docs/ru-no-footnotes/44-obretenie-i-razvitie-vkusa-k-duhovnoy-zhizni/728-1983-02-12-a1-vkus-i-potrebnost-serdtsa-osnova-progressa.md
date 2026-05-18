@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5090231
   duration: 00:08:54
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/728_1983.02.12.A1_SridharMj_Vkus_i_potrebnost_serdca--osnova_progressa.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/728_1983.02.12.A1_SridharMj_Vkus_i_potrebnost_serdca--osnova_progressa.mp3
 date: 1983-02-12
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

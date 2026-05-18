@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4603068
   duration: 00:05:12
-  mp3: /wp-content/uploads/2012/08/253_1981.08.18.B2_SridharMj_Dusha-chastica_Absoluta.mp3
+  src: /wp-content/uploads/2012/08/253_1981.08.18.B2_SridharMj_Dusha-chastica_Absoluta.mp3
 date: 1981-08-18
 category:
   title: (19. Феноменальный мир души)

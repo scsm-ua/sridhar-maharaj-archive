@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23207318
   duration: 00:46:09
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/397_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/397_1983.02.13.B_SridharMj_Raznovidnosti_i_filisovskie_aspekty_sannyasy.mp3
 date: 1983-02-13
 category:
   title: 22. Санньяса — отречение от мира

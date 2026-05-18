@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3528464
   duration: 00:03:28
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1097_1983.11.12.B4_SridharMj_Interes_k_ontologii_predpolagaet_stremlenie_k_Realnosti.mp3
 date: 1983-11-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10030624
   duration: 00:18:25
-  mp3: /wp-content/uploads/2012/08/097_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
+  src: /wp-content/uploads/2012/08/097_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
 date: 1983-05-23
 category:
   title: (08. Шри Гуру и его милость)

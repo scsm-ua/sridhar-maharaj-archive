@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5389552
   duration: 00:10:50
-  mp3: /wp-content/uploads/2012/08/318_1983.01.25.B2_SridharMj_Kommentariy_na_3_i_8_stihi_Siksastakam.mp3
+  src: /wp-content/uploads/2012/08/318_1983.01.25.B2_SridharMj_Kommentariy_na_3_i_8_stihi_Siksastakam.mp3
 date: 1983-01-25
 category:
   title: (25. Глубокое восприятие реальности)

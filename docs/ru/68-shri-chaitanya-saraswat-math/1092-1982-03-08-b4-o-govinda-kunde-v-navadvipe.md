@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2830492
   duration: 00:01:07
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1092_1982.03.08.B4_SridharMj_O_Govinda_kunde_v_Navadvipe.mp3
 date: 1982-03-08
 category:
   title: 68. Шри Чайтанья Сарасват Матх

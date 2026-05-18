@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7970973
   duration: 00:15:18
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
 date: 1982-01-24
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

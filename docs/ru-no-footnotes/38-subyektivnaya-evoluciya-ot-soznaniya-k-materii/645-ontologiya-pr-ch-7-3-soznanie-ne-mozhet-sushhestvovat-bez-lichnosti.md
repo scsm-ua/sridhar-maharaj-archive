@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 13098872
   duration: 00:12:40
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/645_OntologiyaPR_7.3_SridharMj_Soznaniye_ne_mojet_suwestvovat_bez_lichnosti.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii

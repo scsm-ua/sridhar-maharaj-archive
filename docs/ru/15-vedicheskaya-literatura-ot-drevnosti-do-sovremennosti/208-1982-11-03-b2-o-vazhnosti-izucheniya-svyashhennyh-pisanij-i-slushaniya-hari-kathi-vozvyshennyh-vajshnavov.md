@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 10781017
   duration: 00:10:32
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/208_1982.11.03.B2_SridharMj_O_vazhnosti_izuchenija_Svjashhennyh_Pisanij_i_slushanija_hari-kathi_vozvyshennyh_vajshnavov.mp3
 date: 1982-11-03
 category:
   title: 15. Ведическая литература - от древности до современности

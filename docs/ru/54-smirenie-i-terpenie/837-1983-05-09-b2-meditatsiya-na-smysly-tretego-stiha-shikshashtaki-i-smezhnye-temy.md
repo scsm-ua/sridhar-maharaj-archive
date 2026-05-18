@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13288552
   duration: 00:25:53
-  mp3: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
+  src: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
 date: 1983-05-09
 category:
   title: 54. Смирение и терпение

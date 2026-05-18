@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7032256
   duration: 00:08:36
-  mp3: /wp-content/uploads/2012/08/427_OntologiyaPR_1.7_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami1.mp3
+  src: /wp-content/uploads/2012/08/427_OntologiyaPR_1.7_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami1.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost

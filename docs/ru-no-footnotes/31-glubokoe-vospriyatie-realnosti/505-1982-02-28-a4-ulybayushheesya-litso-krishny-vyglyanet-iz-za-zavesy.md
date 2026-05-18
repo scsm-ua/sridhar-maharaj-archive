@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6779072
   duration: 00:12:46
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/505_1982.02.28.A4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/505_1982.02.28.A4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
 date: 1982-02-28
 category:
   title: 31. Глубокое восприятие реальности

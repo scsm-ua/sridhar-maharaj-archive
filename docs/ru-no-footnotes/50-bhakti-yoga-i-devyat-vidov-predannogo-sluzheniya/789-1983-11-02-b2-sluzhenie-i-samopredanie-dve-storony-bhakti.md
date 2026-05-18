@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3177681
   duration: 00:01:51
-  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.mp3
+  src: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/789_1983.11.02.B2_SridharMj_Sluzhenie_i_samopredanie--dve_storony_bhakti.mp3
 date: 1983-11-02
 category:
   title: 50. Бхакти-йога и девять видов преданного служения

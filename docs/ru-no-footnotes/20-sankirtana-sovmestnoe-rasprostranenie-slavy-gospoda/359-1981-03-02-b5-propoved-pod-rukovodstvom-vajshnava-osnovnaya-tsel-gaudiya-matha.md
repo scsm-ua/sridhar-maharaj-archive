@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7155303
   duration: 00:14:28
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
 date: 1981-03-02
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

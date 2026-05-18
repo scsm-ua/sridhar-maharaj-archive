@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7985611
   duration: 00:07:55
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/178_1982.05.14.C2_SridharMj_Sozercanie_lily_v_glubokom_transe.mp3
 date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта

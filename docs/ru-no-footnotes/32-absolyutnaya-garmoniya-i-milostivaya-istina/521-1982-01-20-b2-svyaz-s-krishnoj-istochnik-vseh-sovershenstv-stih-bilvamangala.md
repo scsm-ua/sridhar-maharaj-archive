@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6132872
   duration: 00:07:56
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/521_1982.01.20.B2_SridharMj_Svjaz_s_Krishnoj_istochnik_vseh_sovershenstv_Stih_Bilvamangala.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/521_1982.01.20.B2_SridharMj_Svjaz_s_Krishnoj_istochnik_vseh_sovershenstv_Stih_Bilvamangala.mp3
 date: 1982-01-20
 category:
   title: 32. Абсолютная гармония и милостивая истина

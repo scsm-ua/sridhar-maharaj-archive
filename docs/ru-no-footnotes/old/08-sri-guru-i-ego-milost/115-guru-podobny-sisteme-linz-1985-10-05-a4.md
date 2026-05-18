@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3419345
   duration: 00:04:39
-  mp3: /wp-content/uploads/2012/08/115_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
+  src: /wp-content/uploads/2012/08/115_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
 date: 1985-10-05
 category:
   title: (08. Шри Гуру и его милость)

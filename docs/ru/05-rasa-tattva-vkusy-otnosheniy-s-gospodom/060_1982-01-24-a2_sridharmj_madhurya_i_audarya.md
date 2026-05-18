@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4822862
   duration: 00:04:44
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/060_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
 date: 1982-01-24
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

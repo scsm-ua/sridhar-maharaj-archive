@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3570195
   duration: 00:03:19
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/473_1982.11.08.B2_SridharMj_Vrindavan--jeto_mesto_kotoroe_hranit_na_sebe_sledy_stop_Shrimati_Radharani.mp3
 date: 1982-11-08
 category:
   title: 27. Служение стопам Шримати Радхарани

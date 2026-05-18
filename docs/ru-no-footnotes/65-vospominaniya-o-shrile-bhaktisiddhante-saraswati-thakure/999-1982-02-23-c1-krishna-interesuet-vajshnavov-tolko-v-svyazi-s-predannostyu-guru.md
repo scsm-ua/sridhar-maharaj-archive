@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1562582
   duration: 00:03:01
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/999_1982.02.23.C1_SridharMj_Krishna_interesuet_vajshnavov_tolko_v_svjazi_s_predannostju_Guru.mp3
 date: 1982-02-23
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3150063
   duration: 00:02:45
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1119_1982.04.16.D2_SridharMj_Prema-dhama-stotram_soderzhit_sut_zhizni_i_uchenija_Mahaprabhu.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1119_1982.04.16.D2_SridharMj_Prema-dhama-stotram_soderzhit_sut_zhizni_i_uchenija_Mahaprabhu.mp3
 date: 1982-04-16
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

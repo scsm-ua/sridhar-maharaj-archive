@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8237422
   duration: 00:15:23
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/979_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/979_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
 date: 1982-01-08
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7164845
   duration: 00:13:25
-  mp3: /wp-content/uploads/2012/08/185_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
+  src: /wp-content/uploads/2012/08/185_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
 date: 1981-11-29
 category:
   title: (14. Ведическая культура)

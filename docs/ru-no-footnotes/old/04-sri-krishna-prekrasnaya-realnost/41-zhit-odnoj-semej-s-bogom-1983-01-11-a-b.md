@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23045717
   duration: 00:44:56
-  mp3: /wp-content/uploads/2012/08/041_1983.01.11.A.B_SridharMj_Jit_s_Bogom_odnoy_semyoy.mp3
+  src: /wp-content/uploads/2012/08/041_1983.01.11.A.B_SridharMj_Jit_s_Bogom_odnoy_semyoy.mp3
 date: 1983-01-11
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

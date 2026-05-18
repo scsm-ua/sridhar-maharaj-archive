@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9775386
   duration: 00:07:46
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/527_1983.11.13.A3_SridharMj_Ne_sleduet_voproshat_Pochemu_milost_dana_emu_a_ne_mne.mp3
 date: 1983-11-13
 category:
   title: 32. Абсолютная гармония и милостивая истина

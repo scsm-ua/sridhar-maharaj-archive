@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6886285
   duration: 00:06:46
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/475_1982.05.09.A2_SridharMj_Vzor_Krishny_na_vershine_holma_Govardhan_vsegda_obrashhen_v_storonu_Radharani.mp3
 date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани

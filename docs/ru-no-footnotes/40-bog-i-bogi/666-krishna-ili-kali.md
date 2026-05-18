@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4527751
   duration: 00:09:56
-  mp3: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
+  src: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7011819
   duration: 00:13:25
-  mp3: /wp-content/uploads/2012/08/480_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/480_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
 date: 1982-01-13
 category:
   title: (45. Воспоминания о Гаудия-матхе)

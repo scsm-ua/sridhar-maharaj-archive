@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7513777
   duration: 00:12:24
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/747_1981.03.10.D2_SridharMj_Princip_zolotoj_serediny_v_pyshnosti_poklonenija_i_odezhde_vajshnavov.mp3
 date: 1981-03-10
 category:
   title: 46. Принцип «золотой середины» в служении Господу

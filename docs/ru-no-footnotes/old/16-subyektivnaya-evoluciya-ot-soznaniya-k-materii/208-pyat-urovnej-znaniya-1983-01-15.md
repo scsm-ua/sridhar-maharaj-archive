@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4540907
   duration: 00:09:19
-  mp3: /wp-content/uploads/2012/08/208_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
+  src: /wp-content/uploads/2012/08/208_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
 date: 1983-01-15
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

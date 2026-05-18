@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3967863
   duration: 00:03:26
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.mp3
 date: 1982-02-15
 category:
   title: 15. Ведическая литература - от древности до современности

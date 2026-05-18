@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4673776
   duration: 00:03:59
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/396_1982.06.19.C4_SridharMj_Prichiny_konfliktov_predannyh_na_vysokoj_i_nizkoj_stadijah.mp3
 date: 1982-06-19
 category:
   title: 21. Практические вопросы проповеди

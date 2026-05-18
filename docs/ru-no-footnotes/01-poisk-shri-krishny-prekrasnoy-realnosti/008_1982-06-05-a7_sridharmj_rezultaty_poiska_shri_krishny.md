@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7731973
   duration: 00:07:54
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/008_1982.06.05.A7_SridharMj_Rezultaty_poiska_Shri_Krishny.mp3
 date: 1982-06-05
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

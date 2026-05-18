@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3527492
   duration: 00:02:55
-  mp3: /wp-content/uploads/2012/08/153_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3
+  src: /wp-content/uploads/2012/08/153_1981.02.28.C3_SridharMj_Sila_bojestvennogo_zvuka.mp3
 date: 1981-02-28
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

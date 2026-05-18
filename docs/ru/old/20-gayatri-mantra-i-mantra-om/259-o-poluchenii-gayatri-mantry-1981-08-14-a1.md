@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10405512
   duration: 00:16:12
-  mp3: /wp-content/uploads/2012/08/259_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
+  src: /wp-content/uploads/2012/08/259_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
 date: 1981-08-14
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")

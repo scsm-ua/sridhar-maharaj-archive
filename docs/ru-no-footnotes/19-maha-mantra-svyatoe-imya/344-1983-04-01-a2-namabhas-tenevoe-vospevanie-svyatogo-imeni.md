@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5855117
   duration: 00:11:32
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/344_1983.04.01.A2_SridharMj_Namabhas_tenevoe_vospevanie_Svjatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/344_1983.04.01.A2_SridharMj_Namabhas_tenevoe_vospevanie_Svjatogo_Imeni.mp3
 date: 1983-04-01
 category:
   title: 19. Маха-мантра — Святое Имя

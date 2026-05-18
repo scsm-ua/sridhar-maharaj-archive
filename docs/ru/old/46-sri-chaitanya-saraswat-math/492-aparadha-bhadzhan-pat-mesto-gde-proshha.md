@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4955432
   duration: 00:06:22
-  mp3: /wp-content/uploads/2012/08/492_MgnoveniyaPR_2.4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
+  src: /wp-content/uploads/2012/08/492_MgnoveniyaPR_2.4_SridharMj_Aparadha-bhadjan-pat-mesto_gde_prowayutsya_vse_grehi.mp3
 category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math

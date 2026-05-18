@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6804679
   duration: 00:12:31
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
 date: 1983-07-08
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9040048
   duration: 00:16:16
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/406_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
 date: 1982-02-17
 category:
   title: 23. Памятование о Господе — солнце Вишну

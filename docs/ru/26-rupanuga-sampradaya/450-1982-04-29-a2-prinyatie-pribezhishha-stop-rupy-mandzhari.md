@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19591480
   duration: 00:19:47
-  mp3: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3
+  src: /dl/26._Rupanuga-sampradaya/450_1982.04.29.A2_SridharMj_Prinjatie_pribezhishha_stop_Rupy_Mandzhari.mp3
 date: 1982-04-29
 category:
   title: 26. Рупануга-сампрадая

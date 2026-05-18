@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4153260
   duration: 00:06:59
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/422_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
 date: 1981-03-03
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

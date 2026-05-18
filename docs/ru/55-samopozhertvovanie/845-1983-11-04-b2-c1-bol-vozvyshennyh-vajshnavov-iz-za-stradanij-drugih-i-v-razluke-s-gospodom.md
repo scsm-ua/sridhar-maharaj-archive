@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13022238
   duration: 00:12:29
-  mp3: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3
+  src: /dl/55._Samopozhertvovanie/845_1983.11.04.B2.C1_SridharMj_Bol_vozvyshennyh_vajshnavov--iz_za_stradanij_drugih_i_v_razluke_s_Gospodom.mp3
 date: 1983-11-04
 category:
   title: 55. Самопожертвование

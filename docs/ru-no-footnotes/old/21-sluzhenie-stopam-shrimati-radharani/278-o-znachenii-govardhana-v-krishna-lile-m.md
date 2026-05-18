@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1054720
   duration: 00:02:13
-  mp3: /wp-content/uploads/2012/08/278_MgnoveniyaPR_4.4_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
+  src: /wp-content/uploads/2012/08/278_MgnoveniyaPR_4.4_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani

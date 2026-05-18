@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10624470
   duration: 00:10:49
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/139_1983.11.23.B5_SridharMj_O_nazvanii_reki_Godavari___Simvolicheskie_smysly_obraza_korov.mp3
 date: 1983-11-23
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

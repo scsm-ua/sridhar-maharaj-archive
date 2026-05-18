@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9833891
   duration: 00:20:18
-  mp3: /wp-content/uploads/2012/08/448_1983.02.13.A1_SridharMj_Phalgu-vayragya_i_yukta-vayragya.mp3
+  src: /wp-content/uploads/2012/08/448_1983.02.13.A1_SridharMj_Phalgu-vayragya_i_yukta-vayragya.mp3
 date: 1983-02-13
 category:
   title: (42. Учение вайшнавов и майавада)

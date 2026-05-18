@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 40540233
   duration: 00:40:50
-  mp3: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/307_1983.11.15.B2.C_SridharMj_Prinjatie_i_otverzhenie_mnogochislennyh_koncepcij_i_guru_v_duhovnom_samoopredelenii.mp3
 date: 1983-11-15
 category:
   title: 17. Шри Гуру и его милость

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 930846
   duration: 00:01:30
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/365_1982.03.01.A1_SridharMj_Byt_drugom_kazhdogo_zhivogo_sushhestva_v_linii_Mahaprabhu.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/365_1982.03.01.A1_SridharMj_Byt_drugom_kazhdogo_zhivogo_sushhestva_v_linii_Mahaprabhu.mp3
 date: 1982-03-01
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

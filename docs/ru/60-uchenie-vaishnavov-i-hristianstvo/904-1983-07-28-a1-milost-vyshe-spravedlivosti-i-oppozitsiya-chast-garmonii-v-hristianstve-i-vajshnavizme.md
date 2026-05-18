@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 14520456
   duration: 00:26:43
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
 date: 1983-07-28
 category:
   title: 60. Учение вайшнавов и Христианство

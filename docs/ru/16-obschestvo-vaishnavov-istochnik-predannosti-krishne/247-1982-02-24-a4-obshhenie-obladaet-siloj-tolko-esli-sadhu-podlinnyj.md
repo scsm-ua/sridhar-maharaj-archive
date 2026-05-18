@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2031291
   duration: 00:00:56
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/247_1982.02.24.A4_SridharMj_Obshhenie_obladaet_siloj_tolko_esli_sadhu_podlinnyj.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/247_1982.02.24.A4_SridharMj_Obshhenie_obladaet_siloj_tolko_esli_sadhu_podlinnyj.mp3
 date: 1982-02-24
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

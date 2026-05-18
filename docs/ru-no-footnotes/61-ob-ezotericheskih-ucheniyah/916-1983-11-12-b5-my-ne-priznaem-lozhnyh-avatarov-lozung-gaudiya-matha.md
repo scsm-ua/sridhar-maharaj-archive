@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3656997
   duration: 00:03:00
-  mp3: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3
 date: 1983-11-12
 category:
   title: 61. Об эзотерических учениях

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2297736
   duration: 00:06:30
-  mp3: /wp-content/uploads/2012/08/008_MgnoveniyaPR_2.6_SridharMj_Svoim_tancem_Mahaprabhu_razdayet_bojestvennuyu_lyubov.mp3
+  src: /wp-content/uploads/2012/08/008_MgnoveniyaPR_2.6_SridharMj_Svoim_tancem_Mahaprabhu_razdayet_bojestvennuyu_lyubov.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

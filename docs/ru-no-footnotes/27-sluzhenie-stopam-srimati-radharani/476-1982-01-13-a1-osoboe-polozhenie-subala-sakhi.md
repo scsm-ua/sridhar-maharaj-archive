@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2758635
   duration: 00:04:57
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/476_1982.01.13.A1_SridharMj_Osoboye_polozheniye_Subala_Sakkhi.mp3
 date: 1982-01-13
 category:
   title: 27. Служение стопам Шримати Радхарани

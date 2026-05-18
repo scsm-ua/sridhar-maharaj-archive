@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3509471
   duration: 00:06:01
-  mp3: /wp-content/uploads/2012/08/193_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
+  src: /wp-content/uploads/2012/08/193_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti

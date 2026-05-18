@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3916032
   duration: 00:05:35
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/408_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu

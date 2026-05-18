@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4531002
   duration: 00:08:02
-  mp3: /wp-content/uploads/2012/08/074_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
+  src: /wp-content/uploads/2012/08/074_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
 date: 1981-03-03
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

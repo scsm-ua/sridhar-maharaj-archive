@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4065090
   duration: 00:07:58
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/483_1983.06.05.C2_SridharMj_Nastroenie_gopi--ideal_predannosti_Krishne.mp3
 date: 1983-06-05
 category:
   title: 28. Молитвы и умонастроение гопи

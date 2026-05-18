@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7257472
   duration: 00:14:43
-  mp3: /wp-content/uploads/2012/08/319_OntologiyaPR_2.6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
+  src: /wp-content/uploads/2012/08/319_OntologiyaPR_2.6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti

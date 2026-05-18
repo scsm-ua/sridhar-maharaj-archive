@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8898535
   duration: 00:14:22
-  mp3: /wp-content/uploads/2012/08/507_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
+  src: /wp-content/uploads/2012/08/507_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
 date: 1980-07-11
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

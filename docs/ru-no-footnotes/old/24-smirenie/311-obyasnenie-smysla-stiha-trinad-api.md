@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12578920
   duration: 00:25:53
-  mp3: /wp-content/uploads/2012/08/311_1983.05.09.B2_SridharMj_Obyasnenie_smysla_stiha_Trinad-api-sunichena1.mp3
+  src: /wp-content/uploads/2012/08/311_1983.05.09.B2_SridharMj_Obyasnenie_smysla_stiha_Trinad-api-sunichena1.mp3
 date: 1983-05-09
 category:
   title: (24. Смирение)

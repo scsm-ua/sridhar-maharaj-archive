@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3743765
   duration: 00:06:33
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1039_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1039_1981.08.12.B2_SridharMj_Poslednie_ukazaniya_Saraswati_Thakura.mp3
 date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

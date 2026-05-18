@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 5834072
   duration: 00:05:27
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3
 date: 1982-05-07
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

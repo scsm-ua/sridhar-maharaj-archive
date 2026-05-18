@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2160575
   duration: 00:03:04
-  mp3: /wp-content/uploads/2012/08/408_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
+  src: /wp-content/uploads/2012/08/408_1983.01.04.A3_SridharMj_Istoriya_o_sobake_predavsheysya_Maharadju_Yudhishthire.mp3
 date: 1983-01-04
 category:
   title: (36. Шаранагати - наука предания души Господу)

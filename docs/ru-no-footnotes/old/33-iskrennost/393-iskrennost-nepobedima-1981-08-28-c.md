@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21503278
   duration: 00:41:40
-  mp3: /wp-content/uploads/2012/08/393_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
+  src: /wp-content/uploads/2012/08/393_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
 date: 1981-08-28
 category:
   title: (33. Искренность)

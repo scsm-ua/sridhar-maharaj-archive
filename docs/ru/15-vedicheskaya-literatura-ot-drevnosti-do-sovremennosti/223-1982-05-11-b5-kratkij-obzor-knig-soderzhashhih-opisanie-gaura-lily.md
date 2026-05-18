@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3787723
   duration: 00:03:15
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/223_1982.05.11.B5_SridharMj_Kratkij_obzor_knig_soderzhashhih_opisanie_Gaura-lily.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/223_1982.05.11.B5_SridharMj_Kratkij_obzor_knig_soderzhashhih_opisanie_Gaura-lily.mp3
 date: 1982-05-11
 category:
   title: 15. Ведическая литература - от древности до современности

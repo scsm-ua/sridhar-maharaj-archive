@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2860288
   duration: 00:05:35
-  mp3: /wp-content/uploads/2012/08/377_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
+  src: /wp-content/uploads/2012/08/377_OntologiyaPR_4.1_SridharMj_Zabveniye_Gospoda-yedinstvennaya_opasnost_materialnogo_mira.mp3
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode

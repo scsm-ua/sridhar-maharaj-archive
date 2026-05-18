@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3116272
   duration: 00:03:47
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/872_1982.02.19.C5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/872_1982.02.19.C5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
 date: 1982-02-19
 category:
   title: 58. Сахаджия - воображаемая преданность

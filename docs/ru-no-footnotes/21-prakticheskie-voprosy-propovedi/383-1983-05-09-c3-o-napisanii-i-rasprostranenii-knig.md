@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1709401
   duration: 00:01:48
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/383_1983.05.09.C3_SridharMj_O_napisanii_i_rasprostronenii_knig.mp3
 date: 1983-05-09
 category:
   title: 21. Практические вопросы проповеди

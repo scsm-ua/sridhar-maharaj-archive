@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7011431
   duration: 00:14:28
-  mp3: /wp-content/uploads/2012/08/149_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
+  src: /wp-content/uploads/2012/08/149_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
 date: 1981-03-02
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

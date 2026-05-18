@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11966777
   duration: 00:11:05
-  mp3: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
 date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость

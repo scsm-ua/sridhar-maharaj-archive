@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7700928
   duration: 00:21:30
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1045_1982.02.23.A2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca--osnova_propovedi_Gaudiya-matha.mp3
 date: 1982-02-23
 category:
   title: 66. Воспоминания о Гаудия Матхе

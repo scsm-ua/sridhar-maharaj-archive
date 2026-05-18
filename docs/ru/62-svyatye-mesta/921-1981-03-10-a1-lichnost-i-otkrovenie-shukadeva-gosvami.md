@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13852106
   duration: 00:22:51
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/921_1981.03.10.A1_SridharMj_Lichnost_i_otkrovenie_Shukadeva_Gosvami.mp3
 date: 1981-03-10
 category:
   title: 62. Святые места

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 5404504
   duration: 00:11:21
-  mp3: /wp-content/uploads/2012/08/098_MgnoveniyaPR_6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
+  src: /wp-content/uploads/2012/08/098_MgnoveniyaPR_6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

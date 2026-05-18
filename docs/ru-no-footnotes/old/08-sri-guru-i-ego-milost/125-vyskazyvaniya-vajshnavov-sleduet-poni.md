@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4835392
   duration: 00:09:52
-  mp3: /wp-content/uploads/2012/08/125_MgnoveniyaPR_6.8_SridharMj_Vyskazyvaniya_vaishnavov_sleduyet_ponimat_v_pravilnom_kontekste.mp3
+  src: /wp-content/uploads/2012/08/125_MgnoveniyaPR_6.8_SridharMj_Vyskazyvaniya_vaishnavov_sleduyet_ponimat_v_pravilnom_kontekste.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

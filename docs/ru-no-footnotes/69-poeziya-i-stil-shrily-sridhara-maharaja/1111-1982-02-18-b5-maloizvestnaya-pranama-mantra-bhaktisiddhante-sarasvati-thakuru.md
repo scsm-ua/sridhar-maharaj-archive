@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7328832
   duration: 00:14:50
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
 date: 1982-02-18
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

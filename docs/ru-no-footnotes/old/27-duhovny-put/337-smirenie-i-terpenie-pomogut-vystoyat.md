@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4538253
   duration: 00:08:51
-  mp3: /wp-content/uploads/2012/08/337_1982.02.17.A5_SridharMj_Smirenie_i_terpenie_pomogut_vystoyat_na_duhovnom_puti.mp3
+  src: /wp-content/uploads/2012/08/337_1982.02.17.A5_SridharMj_Smirenie_i_terpenie_pomogut_vystoyat_na_duhovnom_puti.mp3
 date: 1982-02-17
 category:
   title: (27. Духовный путь)

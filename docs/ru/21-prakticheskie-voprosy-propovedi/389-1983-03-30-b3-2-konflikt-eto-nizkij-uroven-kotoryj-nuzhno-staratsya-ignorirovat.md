@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4020309
   duration: 00:06:12
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.mp3
 date: 1983-03-30
 category:
   title: 21. Практические вопросы проповеди

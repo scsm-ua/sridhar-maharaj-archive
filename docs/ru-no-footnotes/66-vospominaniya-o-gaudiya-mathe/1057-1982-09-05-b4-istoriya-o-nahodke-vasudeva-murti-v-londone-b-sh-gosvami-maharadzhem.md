@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5261500
   duration: 00:09:54
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1057_1982.09.05.B4_SridharMj_Istorija_o_nahodke_Vasudeva-murti_v_Londone_B.S._Gosvami_Maharadzhem.mp3
 date: 1982-09-05
 category:
   title: 66. Воспоминания о Гаудия Матхе

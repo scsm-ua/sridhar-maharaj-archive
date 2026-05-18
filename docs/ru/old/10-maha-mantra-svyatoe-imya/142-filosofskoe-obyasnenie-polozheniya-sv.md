@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1927367
   duration: 00:03:10
-  mp3: /wp-content/uploads/2012/08/142_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
+  src: /wp-content/uploads/2012/08/142_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
 date: 1983-05-09
 category:
   title: (10. Маха-мантра - Святое Имя)

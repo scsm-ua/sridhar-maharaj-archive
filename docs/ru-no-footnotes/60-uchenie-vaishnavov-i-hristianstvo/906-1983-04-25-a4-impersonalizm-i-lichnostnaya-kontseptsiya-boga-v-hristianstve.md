@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8609468
   duration: 00:14:24
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/906_1983.04.25.A4_SridharMj_Impersonalizm_i_lichnostnaya_koncepciya_Boga_v_Hristianstve.mp3
 date: 1983-04-25
 category:
   title: 60. Учение вайшнавов и Христианство

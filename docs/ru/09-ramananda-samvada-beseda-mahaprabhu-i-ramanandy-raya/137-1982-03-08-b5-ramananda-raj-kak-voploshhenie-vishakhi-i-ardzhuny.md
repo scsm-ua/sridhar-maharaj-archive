@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6085432
   duration: 00:06:05
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/137_1982.03.08.B5_SridharMj_Ramananda_Raj_kak_voploshhenie_Vishakhi_i_Ardzhuny.mp3
 date: 1982-03-08
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

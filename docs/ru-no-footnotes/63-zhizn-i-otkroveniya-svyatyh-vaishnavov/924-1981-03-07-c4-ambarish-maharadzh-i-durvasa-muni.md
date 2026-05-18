@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22566764
   duration: 00:20:30
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3
 date: 1981-03-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов

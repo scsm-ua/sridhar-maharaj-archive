@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4782603
   duration: 00:03:58
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3
 date: 1983-04-16
 category:
   title: 63. Жизнь и откровения святых вайшнавов

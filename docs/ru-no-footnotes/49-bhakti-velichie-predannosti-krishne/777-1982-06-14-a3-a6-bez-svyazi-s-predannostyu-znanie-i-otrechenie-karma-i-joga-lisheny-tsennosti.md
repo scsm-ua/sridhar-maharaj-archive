@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9609277
   duration: 00:09:27
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/777_1982.06.14.A3.A6_SridharMj_Bez_svjazi_s_predannostju_znanie_i_otrechenie_karma_i_joga_lisheny_cennosti.mp3
 date: 1982-06-14
 category:
   title: 49. Бхакти — величие преданности Кришне

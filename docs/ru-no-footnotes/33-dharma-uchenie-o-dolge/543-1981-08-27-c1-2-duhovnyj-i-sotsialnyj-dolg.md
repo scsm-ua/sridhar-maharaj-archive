@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 791542
   duration: 00:01:07
-  mp3: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/543_1981.08.27.C1.2_SridharMj_Duhovnyj_i_socialnyj_dolg.mp3
 date: 1981-08-27
 category:
   title: 33. Дхарма — учение о долге

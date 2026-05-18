@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2936925
   duration: 00:01:58
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.mp3
 date: 1982-02-25
 category:
   title: 22. Санньяса — отречение от мира

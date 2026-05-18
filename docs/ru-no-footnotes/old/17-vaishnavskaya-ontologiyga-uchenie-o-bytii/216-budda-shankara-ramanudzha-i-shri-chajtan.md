@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18682546
   duration: 00:38:28
-  mp3: /wp-content/uploads/2012/08/216_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+  src: /wp-content/uploads/2012/08/216_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
 date: 1983-07-08
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4699544
   duration: 00:04:47
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/888_1982.04.29.B2_SridharMj_Polnota_istiny--v_prinjatii_edinstva_i_mnogoobrazija.mp3
 date: 1982-04-29
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

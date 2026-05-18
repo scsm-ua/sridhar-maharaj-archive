@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8621824
   duration: 00:13:25
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/875_1982.02.18.B2_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
 date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность

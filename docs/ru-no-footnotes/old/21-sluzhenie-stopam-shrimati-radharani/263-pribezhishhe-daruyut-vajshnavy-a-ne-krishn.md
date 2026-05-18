@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15512543
   duration: 00:31:40
-  mp3: /wp-content/uploads/2012/08/263_1983.05.11.A_SridharMj_Pribejiwe_dayut_vaishnavy_a_ne_Krishna.mp3
+  src: /wp-content/uploads/2012/08/263_1983.05.11.A_SridharMj_Pribejiwe_dayut_vaishnavy_a_ne_Krishna.mp3
 date: 1983-05-11
 category:
   title: (21. Служение стопам Шримати Радхарани)

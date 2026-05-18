@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6291937
   duration: 00:11:35
-  mp3: /wp-content/uploads/2012/08/182_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
+  src: /wp-content/uploads/2012/08/182_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
 date: 1981-03-04
 category:
   title: (14. Ведическая культура)

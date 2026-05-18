@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9046381
   duration: 00:07:44
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
 date: 1982-04-14
 category:
   title: 37. Душа в сферах материальной и духовной энергии

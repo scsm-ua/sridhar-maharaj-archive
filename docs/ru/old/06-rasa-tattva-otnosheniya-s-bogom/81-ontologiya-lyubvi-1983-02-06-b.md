@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9159104
   duration: 00:16:20
-  mp3: /wp-content/uploads/2012/08/081_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
+  src: /wp-content/uploads/2012/08/081_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
 date: 1983-02-06
 category:
   title: (06. Раса-таттва - отношения с Богом)

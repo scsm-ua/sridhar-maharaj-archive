@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 34157651
   duration: 00:34:36
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
 date: 1983-11-09
 category:
   title: 29. Гаятри-мантра и мантра ОМ

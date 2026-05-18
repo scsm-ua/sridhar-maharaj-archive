@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2966998
   duration: 00:05:07
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1120_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
 date: 1982-01-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

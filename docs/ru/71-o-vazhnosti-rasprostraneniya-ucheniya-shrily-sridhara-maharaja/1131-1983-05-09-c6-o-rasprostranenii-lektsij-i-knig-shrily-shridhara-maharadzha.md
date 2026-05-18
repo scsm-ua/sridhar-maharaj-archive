@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2455301
   duration: 00:03:00
-  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
+  src: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1131_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
 date: 1983-05-09
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа

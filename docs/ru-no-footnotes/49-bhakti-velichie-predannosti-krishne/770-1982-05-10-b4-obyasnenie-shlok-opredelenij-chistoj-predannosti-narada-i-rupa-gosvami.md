@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12734778
   duration: 00:12:42
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/770_1982.05.10.B4_SridharMj_Objasnenie_shlok--opredelenij_chistoj_predannosti_(Narada_i_Rupa_Gosvami).mp3
 date: 1982-05-10
 category:
   title: 49. Бхакти — величие преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3453148
   duration: 00:05:48
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/229_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/229_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
 date: 1985-06-09
 category:
   title: 15. Ведическая литература - от древности до современности

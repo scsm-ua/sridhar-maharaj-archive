@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8293856
   duration: 00:06:43
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/498_1982.03.29.B3.C1_SridharMj_Besedy_o_Bozhestvennoj_ljubvi_(Bhagavad-gita_10.9).mp3
 date: 1982-03-29
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

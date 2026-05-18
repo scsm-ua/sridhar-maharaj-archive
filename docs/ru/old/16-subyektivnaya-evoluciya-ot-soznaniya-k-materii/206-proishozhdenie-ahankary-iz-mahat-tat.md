@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6230162
   duration: 00:12:50
-  mp3: /wp-content/uploads/2012/08/206_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahaе-tattvy.mp3
+  src: /wp-content/uploads/2012/08/206_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahaе-tattvy.mp3
 date: 1981-03-05
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

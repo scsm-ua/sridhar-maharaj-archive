@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3442752
   duration: 00:06:02
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
 date: 1982-02-18
 category:
   title: 49. Бхакти — величие преданности Кришне

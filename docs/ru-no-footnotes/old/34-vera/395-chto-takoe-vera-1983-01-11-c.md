@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9151751
   duration: 00:17:39
-  mp3: /wp-content/uploads/2012/08/395_1983.01.11.C_SridharMj_Chto_takoe_vera.mp3
+  src: /wp-content/uploads/2012/08/395_1983.01.11.C_SridharMj_Chto_takoe_vera.mp3
 date: 1983-01-11
 category:
   title: (34. Вера)

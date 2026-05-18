@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5281237
   duration: 00:09:43
-  mp3: /wp-content/uploads/2012/08/037_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvada.mp3
+  src: /wp-content/uploads/2012/08/037_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvada.mp3
 date: 1982-01-11
 category:
   title: (03. Беседа Махапрабху и Рамананды Рая)

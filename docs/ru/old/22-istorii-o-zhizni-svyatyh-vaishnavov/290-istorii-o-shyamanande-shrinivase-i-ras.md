@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19703003
   duration: 00:20:21
-  mp3: /wp-content/uploads/2012/08/290_OntologiyaPR_6.1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
+  src: /wp-content/uploads/2012/08/290_OntologiyaPR_6.1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov

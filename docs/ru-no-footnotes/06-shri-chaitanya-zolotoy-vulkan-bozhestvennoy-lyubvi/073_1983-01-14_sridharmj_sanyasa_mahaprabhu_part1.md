@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25334208
   duration: 00:50:58
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
 date: 1983-01-14
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

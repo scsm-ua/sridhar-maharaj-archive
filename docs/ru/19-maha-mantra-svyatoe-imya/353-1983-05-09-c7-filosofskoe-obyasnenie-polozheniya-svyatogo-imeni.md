@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1836231
   duration: 00:03:10
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
 date: 1983-05-09
 category:
   title: 19. Маха-мантра — Святое Имя

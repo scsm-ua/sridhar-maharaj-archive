@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11311146
   duration: 00:22:59
-  mp3: /wp-content/uploads/2012/08/506_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
+  src: /wp-content/uploads/2012/08/506_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
 date: 1981-08-20
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

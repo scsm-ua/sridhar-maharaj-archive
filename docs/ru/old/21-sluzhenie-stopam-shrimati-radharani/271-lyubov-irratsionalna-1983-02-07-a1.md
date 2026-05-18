@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4801265
   duration: 00:09:21
-  mp3: /wp-content/uploads/2012/08/271_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
+  src: /wp-content/uploads/2012/08/271_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
 date: 1983-02-07
 category:
   title: (21. Служение стопам Шримати Радхарани)

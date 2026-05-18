@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8801687
   duration: 00:08:16
-  mp3: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3
+  src: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3
 date: 1982-02-19
 category:
   title: 45. Искренность и прогресс

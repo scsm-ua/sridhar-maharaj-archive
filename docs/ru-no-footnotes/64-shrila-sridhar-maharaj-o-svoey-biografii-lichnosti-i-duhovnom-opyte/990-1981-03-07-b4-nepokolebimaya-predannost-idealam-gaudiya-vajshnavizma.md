@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5149329
   duration: 00:04:29
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.mp3
 date: 1981-03-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

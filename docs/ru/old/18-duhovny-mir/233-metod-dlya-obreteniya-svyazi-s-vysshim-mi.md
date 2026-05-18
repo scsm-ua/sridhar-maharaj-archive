@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6483174
   duration: 00:13:19
-  mp3: /wp-content/uploads/2012/08/233_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi-s_vysshim_mirom.mp3
+  src: /wp-content/uploads/2012/08/233_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi-s_vysshim_mirom.mp3
 date: 1983-01-30
 category:
   title: (18. Духовный мир)

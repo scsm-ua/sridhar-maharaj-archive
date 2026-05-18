@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13435253
   duration: 00:21:34
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
 date: 1983-01-04
 category:
   title: 35. Родной дом за пределами мира смерти

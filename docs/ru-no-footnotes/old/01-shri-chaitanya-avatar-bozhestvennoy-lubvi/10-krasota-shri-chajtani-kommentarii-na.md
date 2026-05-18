@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17962706
   duration: 00:37:07
-  mp3: /wp-content/uploads/2012/08/010_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi_Kommentarii_na_shloki_Rupy_Gosvami.mp3
+  src: /wp-content/uploads/2012/08/010_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi_Kommentarii_na_shloki_Rupy_Gosvami.mp3
 date: 1983-03-08
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

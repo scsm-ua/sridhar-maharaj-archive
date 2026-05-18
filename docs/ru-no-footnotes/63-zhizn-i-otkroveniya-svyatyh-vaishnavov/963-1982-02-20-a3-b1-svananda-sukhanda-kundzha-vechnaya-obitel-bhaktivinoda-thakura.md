@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9733746
   duration: 00:07:08
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/963_1982.02.20.A3.B1_SridharMj_Svananda_sukhanda_kundzha--vechnaja_obitel_Bhaktivinoda_Thakura.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/963_1982.02.20.A3.B1_SridharMj_Svananda_sukhanda_kundzha--vechnaja_obitel_Bhaktivinoda_Thakura.mp3
 date: 1982-02-20
 category:
   title: 63. Жизнь и откровения святых вайшнавов

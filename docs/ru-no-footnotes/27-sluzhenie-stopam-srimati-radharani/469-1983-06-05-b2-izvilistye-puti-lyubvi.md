@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13707283
   duration: 00:27:45
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/469_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
 date: 1983-06-05
 category:
   title: 27. Служение стопам Шримати Радхарани

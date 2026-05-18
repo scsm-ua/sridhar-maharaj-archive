@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12661665
   duration: 00:13:05
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/899_1983.11.11.B2_SridharMj_Predannost_prevyshe_osvobozhdenija_v_Brahmane.mp3
 date: 1983-11-11
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

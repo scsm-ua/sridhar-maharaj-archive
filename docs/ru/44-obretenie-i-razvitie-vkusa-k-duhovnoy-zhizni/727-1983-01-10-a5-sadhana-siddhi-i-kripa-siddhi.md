@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11158163
   duration: 00:10:46
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/727_1983.01.10.A5_SridharMj_Sadhana-siddhi_i_kripa-siddhi.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/727_1983.01.10.A5_SridharMj_Sadhana-siddhi_i_kripa-siddhi.mp3
 date: 1983-01-10
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

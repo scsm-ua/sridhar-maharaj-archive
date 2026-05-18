@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7133758
   duration: 00:06:31
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/108_1982.04.16.C5_SridharMj_Sat-chit-anandam_i_satjam-shivam-sundaram_v_uchenii_Bhagavatam_i_Mahaprabhu.mp3
 date: 1982-04-16
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

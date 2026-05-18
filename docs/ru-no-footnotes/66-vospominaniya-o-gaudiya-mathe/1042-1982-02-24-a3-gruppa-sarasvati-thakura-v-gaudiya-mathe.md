@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 28803051
   duration: 00:29:28
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
 date: 1982-02-24
 category:
   title: 66. Воспоминания о Гаудия Матхе

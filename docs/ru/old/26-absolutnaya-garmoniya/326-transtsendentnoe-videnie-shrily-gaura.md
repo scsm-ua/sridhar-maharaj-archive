@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4800230
   duration: 00:04:48
-  mp3: /wp-content/uploads/2012/08/326_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
+  src: /wp-content/uploads/2012/08/326_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
 date: 1981-08-30
 category:
   title: (26. Абсолютная Гармония)

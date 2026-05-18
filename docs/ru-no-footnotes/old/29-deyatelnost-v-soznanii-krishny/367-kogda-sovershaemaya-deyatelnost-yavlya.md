@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2829544
   duration: 00:07:47
-  mp3: /wp-content/uploads/2012/08/367_MgnoveniyaPR_1.2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
+  src: /wp-content/uploads/2012/08/367_MgnoveniyaPR_1.2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny

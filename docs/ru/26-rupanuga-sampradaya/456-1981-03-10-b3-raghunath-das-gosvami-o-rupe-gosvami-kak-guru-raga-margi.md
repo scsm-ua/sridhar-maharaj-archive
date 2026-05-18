@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5783155
   duration: 00:10:48
-  mp3: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
+  src: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
 date: 1981-03-10
 category:
   title: 26. Рупануга-сампрадая

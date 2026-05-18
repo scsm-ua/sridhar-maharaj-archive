@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3271296
   duration: 00:06:35
-  mp3: /wp-content/uploads/2012/08/033_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
+  src: /wp-content/uploads/2012/08/033_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5956763
   duration: 00:05:02
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/253_1982.02.19.E1_SridharMj_Kolichestvo_znanij_VS_ponimanie_suti_(bharagrahi_i_saragrahi).mp3
 date: 1982-02-19
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

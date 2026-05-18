@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2353809
   duration: 00:01:04
-  mp3: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/320_1982.02.24.A5_SridharMj_Polozhenie_param_guru_podobno_polozheniju_deda.mp3
 date: 1982-02-24
 category:
   title: 17. Шри Гуру и его милость

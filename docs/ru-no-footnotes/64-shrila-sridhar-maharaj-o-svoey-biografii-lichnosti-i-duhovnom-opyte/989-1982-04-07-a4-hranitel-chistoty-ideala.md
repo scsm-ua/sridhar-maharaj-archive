@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2665399
   duration: 00:01:53
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/989_1982.04.07.A4_SridharMj_Hranitel_chistoty_ideala.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/989_1982.04.07.A4_SridharMj_Hranitel_chistoty_ideala.mp3
 date: 1982-04-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

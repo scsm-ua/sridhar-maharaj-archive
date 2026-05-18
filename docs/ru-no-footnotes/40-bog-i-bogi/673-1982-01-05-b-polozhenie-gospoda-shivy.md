@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2655440
   duration: 00:03:56
-  mp3: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3
+  src: /dl/40._Bog_i_bogi/673_1982.01.05.B_SridharMj_Polojenie_Gospoda_Shivy.mp3
 date: 1982-01-05
 category:
   title: 40. Бог и боги

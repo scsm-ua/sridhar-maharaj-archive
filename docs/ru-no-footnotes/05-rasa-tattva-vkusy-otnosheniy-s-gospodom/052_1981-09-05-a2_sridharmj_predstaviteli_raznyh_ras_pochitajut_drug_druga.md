@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18513115
   duration: 00:16:37
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/052_1981.09.05.A2_SridharMj_Predstaviteli_raznyh_ras_pochitajut_drug_druga.mp3
 date: 1981-09-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2871045
   duration: 00:02:35
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/187_1982.06.19.D3_SridharMj_V_lile_Gospoda_oppozicija_%E2%80%93_jeto_osvobozhdennye_zhivye_sushhestva.mp3
 date: 1982-06-19
 category:
   title: 13. Лила — игра чудесного Абсолюта

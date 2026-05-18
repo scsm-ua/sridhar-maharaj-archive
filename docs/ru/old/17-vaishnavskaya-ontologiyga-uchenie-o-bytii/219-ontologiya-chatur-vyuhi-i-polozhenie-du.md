@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3568536
   duration: 00:09:12
-  mp3: /wp-content/uploads/2012/08/219_MgnoveniyaPR_1.6_SridharMj_Ontologiya_chatur-vyuhi_i_poloоeniye_Durgi-devi.mp3
+  src: /wp-content/uploads/2012/08/219_MgnoveniyaPR_1.6_SridharMj_Ontologiya_chatur-vyuhi_i_poloоeniye_Durgi-devi.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii

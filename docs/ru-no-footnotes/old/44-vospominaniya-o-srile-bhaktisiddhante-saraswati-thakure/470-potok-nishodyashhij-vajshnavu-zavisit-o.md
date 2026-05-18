@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4701424
   duration: 00:09:19
-  mp3: /wp-content/uploads/2012/08/470_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3
+  src: /wp-content/uploads/2012/08/470_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3
 date: 1981-08-30
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

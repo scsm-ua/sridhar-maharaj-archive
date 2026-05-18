@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2431812
   duration: 00:01:36
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/803_1983.11.13.A5_SridharMj_O_prazdnike_gopashtami.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/803_1983.11.13.A5_SridharMj_O_prazdnike_gopashtami.mp3
 date: 1983-11-13
 category:
   title: 51. Философия и практика бхакти-йоги

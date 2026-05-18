@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2301208
   duration: 00:04:35
-  mp3: /wp-content/uploads/2012/08/124_MgnoveniyaPR_8.8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
+  src: /wp-content/uploads/2012/08/124_MgnoveniyaPR_8.8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3670705
   duration: 00:11:08
-  mp3: /wp-content/uploads/2012/08/449_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
+  src: /wp-content/uploads/2012/08/449_2012.07.25.17_ShridharMj_Ideya_vseobwego_ravenstva-opasnoye_zablujdeniye.mp3
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada

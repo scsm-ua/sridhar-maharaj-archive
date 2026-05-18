@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7627023
   duration: 00:14:38
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3
 date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

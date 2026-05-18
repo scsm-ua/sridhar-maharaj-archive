@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2315860
   duration: 00:05:55
-  mp3: /wp-content/uploads/2012/08/027_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/027_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

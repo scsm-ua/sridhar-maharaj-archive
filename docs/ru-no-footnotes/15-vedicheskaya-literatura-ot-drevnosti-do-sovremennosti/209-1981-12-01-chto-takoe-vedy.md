@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4416333
   duration: 00:07:48
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
 date: 1981-12-01
 category:
   title: 15. Ведическая литература - от древности до современности

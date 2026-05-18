@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5489141
   duration: 00:07:49
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/424_1984.01.25.A1_SridharMj_Slava_prinadlezhit_Guru_dengi--Narajane_a_zhenshhiny--Krishne.mp3
 date: 1984-01-25
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

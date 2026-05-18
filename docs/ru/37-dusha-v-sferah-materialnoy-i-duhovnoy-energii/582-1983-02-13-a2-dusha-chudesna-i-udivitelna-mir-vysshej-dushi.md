@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9698054
   duration: 00:16:49
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.mp3
 date: 1983-02-13
 category:
   title: 37. Душа в сферах материальной и духовной энергии

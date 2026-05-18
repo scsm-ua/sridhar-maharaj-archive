@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7057366
   duration: 00:06:25
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3
 date: 1983-11-22
 category:
   title: 51. Философия и практика бхакти-йоги

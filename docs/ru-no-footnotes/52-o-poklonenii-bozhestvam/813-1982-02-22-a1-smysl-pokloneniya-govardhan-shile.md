@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8739599
   duration: 00:08:07
-  mp3: /dl/52._O_poklonenii_Bozhestvam/813_1982.02.22.A1_SridharMj_Smysl_poklonenija_Govardhan-shile.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/813_1982.02.22.A1_SridharMj_Smysl_poklonenija_Govardhan-shile.mp3
 date: 1982-02-22
 category:
   title: 52. О поклонении Божествам

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3077422
   duration: 00:05:57
-  mp3: /wp-content/uploads/2012/08/225_1983.03.20_SridharMj_Vishnu_tattva.mp3
+  src: /wp-content/uploads/2012/08/225_1983.03.20_SridharMj_Vishnu_tattva.mp3
 date: 1983-03-20
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

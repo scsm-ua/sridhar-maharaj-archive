@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8600618
   duration: 00:08:46
-  mp3: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
+  src: /dl/62._Svyatye_mesta/920_1982.07.09.B5_SridharMj_Kazhdaja_pylinka_dhamy_obeshhaet_dat_Radha-Govindu.mp3
 date: 1982-07-09
 category:
   title: 62. Святые места

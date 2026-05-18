@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22426331
   duration: 00:20:21
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/955_1982.02.24.A1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
 date: 1982-02-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов

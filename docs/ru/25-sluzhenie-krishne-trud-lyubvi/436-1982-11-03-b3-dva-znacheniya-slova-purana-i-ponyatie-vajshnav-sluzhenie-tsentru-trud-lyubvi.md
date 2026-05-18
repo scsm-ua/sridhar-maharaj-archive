@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 26544578
   duration: 00:27:00
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/436_1982.11.03.B3_SridharMj_Dva_znachenija_slova_Purana_i_ponjatie_vajshnav_Sluzhenie_Centru_trud_ljubvi.mp3
 date: 1982-11-03
 category:
   title: 25. Служение Кришне — труд любви

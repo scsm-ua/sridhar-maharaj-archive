@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3691499
   duration: 00:02:12
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1080_1982.06.19.C3_SridharMj_Bhaktivedanta_Svami_o_sakralnom_smysle_slova_ISKKON.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1080_1982.06.19.C3_SridharMj_Bhaktivedanta_Svami_o_sakralnom_smysle_slova_ISKKON.mp3
 date: 1982-06-19
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

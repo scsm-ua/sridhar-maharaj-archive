@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6835335
   duration: 00:06:09
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/633_1982.05.15.B2_SridharMj_Bala_gjana_krija--volja_myshlenie_i_chuvstva.mp3
 date: 1982-05-15
 category:
   title: 38. Субъективная эволюция — от сознания к материи

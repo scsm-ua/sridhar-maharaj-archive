@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4990484
   duration: 00:04:59
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1100_1982.07.02.B1_SridharMj_Objasnenie_devjatogo_i_desjatogo_stihov_Shrimad_Bhaktivinoda-viraha_Dashakam.mp3
 date: 1982-07-02
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

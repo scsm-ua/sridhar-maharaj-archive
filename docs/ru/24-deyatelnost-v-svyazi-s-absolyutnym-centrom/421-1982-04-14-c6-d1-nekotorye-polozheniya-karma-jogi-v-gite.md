@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7059843
   duration: 00:06:31
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/421_1982.04.14.C6.D1_SridharMj_Nekotorye_polozhenija_karma-jogi_v_Gite.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/421_1982.04.14.C6.D1_SridharMj_Nekotorye_polozhenija_karma-jogi_v_Gite.mp3
 date: 1982-04-14
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

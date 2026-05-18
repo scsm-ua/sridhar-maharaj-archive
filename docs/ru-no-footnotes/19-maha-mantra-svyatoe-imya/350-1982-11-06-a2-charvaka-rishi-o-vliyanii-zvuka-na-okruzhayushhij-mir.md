@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4470419
   duration: 00:04:20
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/350_1982.11.06.A2_SridharMj_Charvaka_Rishi_o_vlijanii_zvuka_na_okruzhajushhij_mir.mp3
 date: 1982-11-06
 category:
   title: 19. Маха-мантра — Святое Имя

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5825442
   duration: 00:05:47
-  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.mp3
+  src: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/145_1982.06.08.B5_SridharMj_Sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_Shikshashtaki.mp3
 date: 1982-06-08
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи

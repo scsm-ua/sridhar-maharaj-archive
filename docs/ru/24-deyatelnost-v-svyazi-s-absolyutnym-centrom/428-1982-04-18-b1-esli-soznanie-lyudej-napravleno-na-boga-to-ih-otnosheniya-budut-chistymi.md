@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5953923
   duration: 00:05:22
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/428_1982.04.18.B1_SridharMj_Esli_soznanie_ljudej_napravleno_na_Boga_to_ih_otnoshenija_budut_chistymi.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/428_1982.04.18.B1_SridharMj_Esli_soznanie_ljudej_napravleno_na_Boga_to_ih_otnoshenija_budut_chistymi.mp3
 date: 1982-04-18
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

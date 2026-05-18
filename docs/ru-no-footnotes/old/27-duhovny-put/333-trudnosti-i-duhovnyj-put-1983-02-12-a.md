@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15440926
   duration: 00:31:34
-  mp3: /wp-content/uploads/2012/08/333_1983.02.12_SridharMj_Trudnosti_i_duhovniy_put.mp3
+  src: /wp-content/uploads/2012/08/333_1983.02.12_SridharMj_Trudnosti_i_duhovniy_put.mp3
 date: 1983-02-12
 category:
   title: (27. Духовный путь)

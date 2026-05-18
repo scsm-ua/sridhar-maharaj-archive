@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1666435
   duration: 00:01:31
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/622_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
 date: 1984-01-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи

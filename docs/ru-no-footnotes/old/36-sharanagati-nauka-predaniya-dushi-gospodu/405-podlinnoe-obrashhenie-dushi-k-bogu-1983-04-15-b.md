@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2293290
   duration: 00:03:23
-  mp3: /wp-content/uploads/2012/08/405_1983.04.15.B_SridharMj_Podlinnoe_obrawenie_dushi_k_Bogu.mp3
+  src: /wp-content/uploads/2012/08/405_1983.04.15.B_SridharMj_Podlinnoe_obrawenie_dushi_k_Bogu.mp3
 date: 1983-04-15
 category:
   title: (36. Шаранагати - наука предания души Господу)

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2940639
   duration: 00:06:01
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom

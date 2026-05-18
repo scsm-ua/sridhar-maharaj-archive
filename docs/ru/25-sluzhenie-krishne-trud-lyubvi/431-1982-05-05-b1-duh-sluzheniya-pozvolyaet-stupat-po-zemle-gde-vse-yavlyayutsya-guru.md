@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3655877
   duration: 00:03:09
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3
 date: 1982-05-05
 category:
   title: 25. Служение Кришне — труд любви

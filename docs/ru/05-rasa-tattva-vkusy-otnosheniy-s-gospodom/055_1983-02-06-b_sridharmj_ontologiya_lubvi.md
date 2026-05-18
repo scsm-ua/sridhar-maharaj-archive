@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10394048
   duration: 00:16:20
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
 date: 1983-02-06
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

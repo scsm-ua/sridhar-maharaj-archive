@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6040104
   duration: 00:11:14
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/511_1981.03.12.C2.D_SridharMj_Bhagavatam_i_Shri_Chajtanja_o_prinjatii_voli_Gospoda__Sovet_Ravany.mp3
 date: 1981-03-12
 category:
   title: 31. Глубокое восприятие реальности

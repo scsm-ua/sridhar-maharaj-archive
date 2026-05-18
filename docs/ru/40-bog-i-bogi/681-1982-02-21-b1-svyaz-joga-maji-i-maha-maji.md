@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2982168
   duration: 00:06:29
-  mp3: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
+  src: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
 date: 1982-02-21
 category:
   title: 40. Бог и боги

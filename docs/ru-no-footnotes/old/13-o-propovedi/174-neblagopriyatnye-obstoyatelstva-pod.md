@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14327472
   duration: 00:24:58
-  mp3: /wp-content/uploads/2012/08/174_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
+  src: /wp-content/uploads/2012/08/174_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
 date: 1982-01-05
 category:
   title: (13. О проповеди)

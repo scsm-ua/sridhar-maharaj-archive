@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1954649
   duration: 00:01:51
-  mp3: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3
+  src: /dl/62._Svyatye_mesta/919_1982.05.11.B4_SridharMj_Slava_hrama_Radha-Damodara.mp3
 date: 1982-05-11
 category:
   title: 62. Святые места

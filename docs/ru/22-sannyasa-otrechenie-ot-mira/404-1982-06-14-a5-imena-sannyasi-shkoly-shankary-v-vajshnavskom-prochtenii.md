@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4880436
   duration: 00:03:59
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/404_1982.06.14.A5_SridharMj_Imena_sannjasi_shkoly_Shankary_v_vajshnavskom_prochtenii.mp3
 date: 1982-06-14
 category:
   title: 22. Санньяса — отречение от мира

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3939944
   duration: 00:03:50
-  mp3: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.mp3
+  src: /dl/18._Posvyaschenie/328_1982.05.06.A6_SridharMj_Cel_dikshi_i_ognennoj_jagi--ukrepit_veru_v_Svjatoe_Imja.mp3
 date: 1982-05-06
 category:
   title: 18. Посвящение

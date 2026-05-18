@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9455868
   duration: 00:19:22
-  mp3: /wp-content/uploads/2012/08/293_1983.01.05.B1_SridharMj_Duhovniy_put_i_materialnye_privyazannosti.mp3
+  src: /wp-content/uploads/2012/08/293_1983.01.05.B1_SridharMj_Duhovniy_put_i_materialnye_privyazannosti.mp3
 date: 1983-01-05
 category:
   title: (22. Истории о жизни святых вайшнавов)

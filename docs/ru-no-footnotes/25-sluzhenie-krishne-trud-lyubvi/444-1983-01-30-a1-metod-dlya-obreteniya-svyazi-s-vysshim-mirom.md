@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7021286
   duration: 00:13:19
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/444_1983.01.30.A1_SridharMj_Metod_dlya_obreteniya_svyazi_s_vysshim_mirom.mp3
 date: 1983-01-30
 category:
   title: 25. Служение Кришне — труд любви

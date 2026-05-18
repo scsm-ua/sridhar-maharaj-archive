@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2547116
   duration: 00:03:32
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3
 date: 1981-11-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

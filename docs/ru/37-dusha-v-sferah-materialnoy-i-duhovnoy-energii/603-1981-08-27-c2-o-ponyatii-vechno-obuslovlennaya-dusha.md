@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7589909
   duration: 00:12:25
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
 date: 1981-08-27
 category:
   title: 37. Душа в сферах материальной и духовной энергии

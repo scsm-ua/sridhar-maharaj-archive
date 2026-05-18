@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7064566
   duration: 00:14:30
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/901_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/901_1982.01.25.A4.B1_SridharMj_Gradaciya_soznaniya_Opponenty_Shankary.mp3
 date: 1982-01-25
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

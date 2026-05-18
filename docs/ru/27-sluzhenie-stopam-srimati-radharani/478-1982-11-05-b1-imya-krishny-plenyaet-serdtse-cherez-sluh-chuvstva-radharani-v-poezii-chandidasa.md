@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7127029
   duration: 00:07:01
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/478_1982.11.05.B1_SridharMj_Imja_Krishny_plenjaet_serdce_cherez_sluh__Chuvstva_Radharani_v_pojezii_Chandidasa.mp3
 date: 1982-11-05
 category:
   title: 27. Служение стопам Шримати Радхарани

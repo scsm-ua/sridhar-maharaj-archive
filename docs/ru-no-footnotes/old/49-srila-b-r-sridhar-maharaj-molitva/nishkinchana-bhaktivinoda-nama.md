@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1604464
   duration: 00:01:15
-  mp3: /wp-content/uploads/2012/08/518_Nishkinchana-bhaktivinoda-nama....mp3
+  src: /wp-content/uploads/2012/08/518_Nishkinchana-bhaktivinoda-nama....mp3
 category:
   title: (49. Шрила Б.Р. Шридхар Махарадж. Молитва)
   slug: 49-srila-b-r-sridhar-maharaj-molitva

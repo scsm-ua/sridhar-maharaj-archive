@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4982794
   duration: 00:04:07
-  mp3: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3
+  src: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3
 date: 1982-05-10
 category:
   title: 55. Самопожертвование

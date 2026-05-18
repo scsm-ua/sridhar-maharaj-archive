@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2083154
   duration: 00:04:44
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/776_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3621554
   duration: 00:05:56
-  mp3: /dl/40._Bog_i_bogi/686_1982.01.31.B3_SridharMj_Istorija_i_polozhenie_Vishvy.mp3
+  src: /dl/40._Bog_i_bogi/686_1982.01.31.B3_SridharMj_Istorija_i_polozhenie_Vishvy.mp3
 date: 1982-01-31
 category:
   title: 40. Бог и боги

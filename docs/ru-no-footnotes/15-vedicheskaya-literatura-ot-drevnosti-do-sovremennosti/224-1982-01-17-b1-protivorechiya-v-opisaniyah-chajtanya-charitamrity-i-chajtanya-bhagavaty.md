@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7503381
   duration: 00:14:14
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/224_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
 date: 1982-01-17
 category:
   title: 15. Ведическая литература - от древности до современности

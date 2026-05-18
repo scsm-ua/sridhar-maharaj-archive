@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7198616
   duration: 00:09:00
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/940_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
 date: 1982-01-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов

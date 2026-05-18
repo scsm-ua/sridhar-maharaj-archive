@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2544667
   duration: 00:03:55
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/551_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/551_1983.01.12.B6_SridharMj_Centry_drevney_ariyskoy_civilizacii.mp3
 date: 1983-01-12
 category:
   title: 34. Ведическая цивилизация и культура

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 20952606
   duration: 00:18:49
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/931_1982.07.03.A2.A1.A3_SridharMj_Istorija_Bilvamangala__Duhovnyj_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv.mp3
 date: 1982-07-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов

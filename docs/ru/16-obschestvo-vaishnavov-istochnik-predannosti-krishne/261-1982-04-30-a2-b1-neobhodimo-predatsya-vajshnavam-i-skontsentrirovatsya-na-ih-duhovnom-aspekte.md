@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10859842
   duration: 00:10:08
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/261_1982.04.30.A2.B1_SridharMj_Neobhodimo_predatsja_vajshnavam_i_skoncentrirovatsja_na_ih_duhovnom_aspekte.mp3
 date: 1982-04-30
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

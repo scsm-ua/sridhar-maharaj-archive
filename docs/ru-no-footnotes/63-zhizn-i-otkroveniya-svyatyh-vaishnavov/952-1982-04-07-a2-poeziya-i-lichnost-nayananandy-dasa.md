@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6321529
   duration: 00:03:35
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/952_1982.04.07.A2_SridharMj_Pojezija_i_lichnost_Najananandy_Dasa.mp3
 date: 1982-04-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов

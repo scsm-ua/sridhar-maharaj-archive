@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 6121368
   duration: 00:21:37
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/494_2012.07.27.1_SridharMj_Gayatri-mantra.mp3
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11941333
   duration: 00:24:05
-  mp3: /wp-content/uploads/2012/08/130_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
+  src: /wp-content/uploads/2012/08/130_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
 date: 1983-01-31
 category:
   title: (09. Посвящение)

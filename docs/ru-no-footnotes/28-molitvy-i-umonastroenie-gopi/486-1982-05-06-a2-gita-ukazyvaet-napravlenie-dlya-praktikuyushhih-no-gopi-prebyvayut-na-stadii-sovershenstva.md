@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 800622
   duration: 00:00:35
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/486_1982.05.06.A2_SridharMj_Gita_ukazyvaet_napravlenie_dlja_praktikujushhih_no_gopi_prebyvajut_na_stadii_sovershenstva.mp3
 date: 1982-05-06
 category:
   title: 28. Молитвы и умонастроение гопи

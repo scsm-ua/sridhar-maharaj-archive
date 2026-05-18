@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4925909
   duration: 00:09:50
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1101_1983.06.05.C3_SridharMj_Obyasnenie_devyatogo_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1101_1983.06.05.C3_SridharMj_Obyasnenie_devyatogo_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
 date: 1983-06-05
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

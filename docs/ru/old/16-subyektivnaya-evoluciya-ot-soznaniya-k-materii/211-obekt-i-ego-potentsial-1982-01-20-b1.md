@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5231700
   duration: 00:10:46
-  mp3: /wp-content/uploads/2012/08/211_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
+  src: /wp-content/uploads/2012/08/211_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
 date: 1982-01-20
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

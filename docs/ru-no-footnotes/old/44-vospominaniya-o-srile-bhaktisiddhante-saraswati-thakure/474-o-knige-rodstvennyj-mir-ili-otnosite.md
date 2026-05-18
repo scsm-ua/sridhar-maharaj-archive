@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4747072
   duration: 00:09:25
-  mp3: /wp-content/uploads/2012/08/474_OntologiyaPR_3.2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
+  src: /wp-content/uploads/2012/08/474_OntologiyaPR_3.2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure

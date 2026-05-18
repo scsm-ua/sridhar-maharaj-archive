@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4661133
   duration: 00:06:42
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/124_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
 date: 1983-05-12
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи

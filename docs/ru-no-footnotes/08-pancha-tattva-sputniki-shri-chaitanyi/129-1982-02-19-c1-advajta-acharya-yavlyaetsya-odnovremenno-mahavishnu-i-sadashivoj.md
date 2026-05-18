@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5274112
   duration: 00:03:59
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
 date: 1982-02-19
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14182598
   duration: 00:14:06
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/156_1982.05.06.B2_SridharMj_Nrisimhadev_i_proshlaja_zhizn_Prahlady_Maharadzha.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/156_1982.05.06.B2_SridharMj_Nrisimhadev_i_proshlaja_zhizn_Prahlady_Maharadzha.mp3
 date: 1982-05-06
 category:
   title: 12. Аватары — нисхождения Всевышнего

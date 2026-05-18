@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7993795
   duration: 00:13:59
-  mp3: /wp-content/uploads/2012/08/043_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
+  src: /wp-content/uploads/2012/08/043_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
 date: 1983-01-05
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

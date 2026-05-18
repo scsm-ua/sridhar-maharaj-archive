@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6275061
   duration: 00:07:45
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
 date: 1987-00-00
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

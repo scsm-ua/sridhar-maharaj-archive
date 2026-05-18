@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9749807
   duration: 00:09:16
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/983_1982.06.19.A1_SridharMj_Uteshenie_dlja_stradajushhih_migrenju.mp3
 date: 1982-06-19
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

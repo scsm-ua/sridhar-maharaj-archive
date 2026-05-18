@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11107828
   duration: 00:21:32
-  mp3: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
+  src: /dl/40._Bog_i_bogi/680_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
 date: 1982-01-13
 category:
   title: 40. Бог и боги

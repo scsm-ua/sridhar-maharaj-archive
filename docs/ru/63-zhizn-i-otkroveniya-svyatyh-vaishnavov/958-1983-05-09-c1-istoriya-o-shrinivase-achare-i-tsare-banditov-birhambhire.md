@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8009247
   duration: 00:10:41
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/958_1983.05.09.C1_SridharMj_Istoriya_o_Shrinivase_Acharye_i_care_banditov_Birhambhire.mp3
 date: 1983-05-09
 category:
   title: 63. Жизнь и откровения святых вайшнавов

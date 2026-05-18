@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8396160
   duration: 00:13:04
-  mp3: /wp-content/uploads/2012/08/158_OntologiyaPR_5.1_SridharMj_Ob_urovne_vaishnava_nelzya_sudit_po_masshtabu_ego_propovedi.mp3
+  src: /wp-content/uploads/2012/08/158_OntologiyaPR_5.1_SridharMj_Ob_urovne_vaishnava_nelzya_sudit_po_masshtabu_ego_propovedi.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny

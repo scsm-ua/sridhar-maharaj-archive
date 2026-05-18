@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8980522
   duration: 00:11:31
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
 date: 1985-07-03
 category:
   title: 14. Как познать и увидеть Бога

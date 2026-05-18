@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15408693
   duration: 00:26:37
-  mp3: /wp-content/uploads/2012/08/260_1982.01.03.B_SridharMj_Fleyta_Krishny.mp3
+  src: /wp-content/uploads/2012/08/260_1982.01.03.B_SridharMj_Fleyta_Krishny.mp3
 date: 1982-01-03
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")

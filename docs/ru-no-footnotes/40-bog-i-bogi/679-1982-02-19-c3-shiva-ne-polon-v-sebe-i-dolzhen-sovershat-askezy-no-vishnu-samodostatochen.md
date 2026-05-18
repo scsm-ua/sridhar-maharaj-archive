@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1299097
   duration: 00:02:07
-  mp3: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3
+  src: /dl/40._Bog_i_bogi/679_1982.02.19.C3_SridharMj_Shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_Vishnu_samodostatochen.mp3
 date: 1982-02-19
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8387135
   duration: 00:16:04
-  mp3: /wp-content/uploads/2012/08/412_1981.11.12.A2_SridharMj_GBC_Vaykunthi.mp3
+  src: /wp-content/uploads/2012/08/412_1981.11.12.A2_SridharMj_GBC_Vaykunthi.mp3
 date: 1981-11-12
 category:
   title: (36. Шаранагати - наука предания души Господу)

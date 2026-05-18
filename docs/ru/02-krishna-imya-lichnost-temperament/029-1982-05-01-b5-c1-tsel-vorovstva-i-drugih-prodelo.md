@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4923641
   duration: 00:05:02
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/029_1982.05.01.B5.C1_SridharMj_Cel_vorovstva_i_drugih_prodelok_Krishny_v_otnoshenijah_s_predannymi.mp3
 date: 1982-05-01
 category:
   title: 02. Кришна — Имя, Личность, темперамент

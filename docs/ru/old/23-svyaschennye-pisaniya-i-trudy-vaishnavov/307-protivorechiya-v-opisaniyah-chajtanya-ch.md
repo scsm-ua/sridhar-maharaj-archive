@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7419413
   duration: 00:14:14
-  mp3: /wp-content/uploads/2012/08/307_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
+  src: /wp-content/uploads/2012/08/307_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
 date: 1982-01-17
 category:
   title: (23. Священные писания и труды вайшнавов)

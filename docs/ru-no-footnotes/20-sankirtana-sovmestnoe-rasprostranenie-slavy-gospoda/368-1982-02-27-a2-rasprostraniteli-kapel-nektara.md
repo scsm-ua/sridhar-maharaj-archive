@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5184192
   duration: 00:10:22
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/368_1982.02.27.A2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
 date: 1982-02-27
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

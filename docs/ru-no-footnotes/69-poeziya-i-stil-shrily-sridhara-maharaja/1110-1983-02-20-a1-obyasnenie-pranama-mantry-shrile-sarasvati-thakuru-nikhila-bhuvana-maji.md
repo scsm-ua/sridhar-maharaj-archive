@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4272139
   duration: 00:08:04
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1110_1983.02.20.A1_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(nikhila-bhuvana-maji).mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1110_1983.02.20.A1_SridharMj_Objasnenie_pranama-mantry_Shrile_Sarasvati_Thakuru_(nikhila-bhuvana-maji).mp3
 date: 1983-02-20
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

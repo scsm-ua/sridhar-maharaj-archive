@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14917413
   duration: 00:29:08
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/625_1983.04.30.B_SridharMj_Idealniy_realizm_osnova_ponimaniya_religii.mp3
 date: 1983-04-30
 category:
   title: 38. Субъективная эволюция — от сознания к материи

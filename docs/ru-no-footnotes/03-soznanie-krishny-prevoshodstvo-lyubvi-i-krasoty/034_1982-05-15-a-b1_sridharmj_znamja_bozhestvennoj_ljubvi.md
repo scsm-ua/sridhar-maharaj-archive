@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 49542122
   duration: 00:51:16
-  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.mp3
+  src: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/034_1982.05.15.A.B1_SridharMj_Znamja_bozhestvennoj_ljubvi.mp3
 date: 1982-05-15
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1781650
   duration: 00:03:01
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/205_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga

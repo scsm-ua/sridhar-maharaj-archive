@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15764604
   duration: 00:16:05
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/345_1982.05.18.C2_SridharMj_Desjat_oskorblenij_i_chetyre_vida_nama-bhasa_pri_vospevanii_Svjatogo_Imeni.mp3
 date: 1982-05-18
 category:
   title: 19. Маха-мантра — Святое Имя

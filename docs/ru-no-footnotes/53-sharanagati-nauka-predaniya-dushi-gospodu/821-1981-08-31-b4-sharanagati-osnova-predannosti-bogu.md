@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4807345
   duration: 00:08:49
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
 date: 1981-08-31
 category:
   title: 53. Шаранагати - наука предания души Господу

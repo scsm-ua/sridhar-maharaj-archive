@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7668747
   duration: 00:05:20
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/066_1982.05.01.B3_SridharMj_Kakovy_chuvstva_Krishny_po_otnosheniju_k_nepredannym.mp3
 date: 1982-05-01
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

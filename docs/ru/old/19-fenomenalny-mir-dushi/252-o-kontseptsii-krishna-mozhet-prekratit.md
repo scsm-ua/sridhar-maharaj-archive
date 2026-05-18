@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2851804
   duration: 00:01:15
-  mp3: /wp-content/uploads/2012/08/252_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3
+  src: /wp-content/uploads/2012/08/252_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3
 date: 1980-07-11
 category:
   title: (19. Феноменальный мир души)

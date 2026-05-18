@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1049256
   duration: 00:02:20
-  mp3: /wp-content/uploads/2012/08/228_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
+  src: /wp-content/uploads/2012/08/228_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4664268
   duration: 00:05:10
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
 date: 1983-04-25
 category:
   title: 58. Сахаджия - воображаемая преданность

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7032414
   duration: 00:04:53
-  mp3: /wp-content/uploads/2012/08/170_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
+  src: /wp-content/uploads/2012/08/170_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi

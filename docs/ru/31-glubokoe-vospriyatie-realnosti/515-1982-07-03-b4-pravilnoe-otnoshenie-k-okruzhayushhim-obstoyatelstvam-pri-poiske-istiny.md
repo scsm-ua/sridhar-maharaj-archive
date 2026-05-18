@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7831061
   duration: 00:07:29
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/515_1982.07.03.B4_SridharMj_Pravilnoe_otnoshenie_k_okruzhajushhim_obstojatelstvam_pri_poiske_Istiny.mp3
 date: 1982-07-03
 category:
   title: 31. Глубокое восприятие реальности

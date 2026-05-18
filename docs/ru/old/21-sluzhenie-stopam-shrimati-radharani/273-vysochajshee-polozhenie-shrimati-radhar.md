@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1221653
   duration: 00:01:54
-  mp3: /wp-content/uploads/2012/08/273_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3
+  src: /wp-content/uploads/2012/08/273_1983.05.09.C2_SridharMj_Vysochayshee_polojenie_Shrimati_Radharani.mp3
 date: 1983-05-09
 category:
   title: (21. Служение стопам Шримати Радхарани)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2541119
   duration: 00:04:46
-  mp3: /dl/33._Dharma--uchenie_o_dolge/540_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/540_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
 date: 1982-02-15
 category:
   title: 33. Дхарма — учение о долге

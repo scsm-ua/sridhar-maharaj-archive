@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 18873499
   duration: 00:07:51
-  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.mp3
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1148_Shri_Dayita_Das_Pranati_Panchakam.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа

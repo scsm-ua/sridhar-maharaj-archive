@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3057862
   duration: 00:01:22
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1084_1982.02.20.C8_SridharMj_Stihotvorenie_proslavljajushhee_Shri_Chajtanja_Sarasvat_Math.mp3
 date: 1982-02-20
 category:
   title: 68. Шри Чайтанья Сарасват Матх

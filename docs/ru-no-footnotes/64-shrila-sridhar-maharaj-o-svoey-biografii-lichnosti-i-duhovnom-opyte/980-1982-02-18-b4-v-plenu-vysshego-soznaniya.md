@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7140224
   duration: 00:13:06
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/980_1982.02.18.B4_SridharMj_V_plenu_vysshego_soznaniya.mp3
 date: 1982-02-18
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

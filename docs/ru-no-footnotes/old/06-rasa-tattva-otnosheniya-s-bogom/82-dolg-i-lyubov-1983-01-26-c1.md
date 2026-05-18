@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4382614
   duration: 00:05:58
-  mp3: /wp-content/uploads/2012/08/082_1983.01.26.C1_SridharMj_Dolg_i_lyubov.mp3
+  src: /wp-content/uploads/2012/08/082_1983.01.26.C1_SridharMj_Dolg_i_lyubov.mp3
 date: 1983-01-26
 category:
   title: (06. Раса-таттва - отношения с Богом)

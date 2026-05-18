@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12252619
   duration: 00:10:56
-  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3
+  src: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/701_1982.05.04.A1_SridharMj_Soznanie_Krishny_bogastvo_serdca_Shrimad_Bhagavatam_11.20.30.mp3
 date: 1982-05-04
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2010685
   duration: 00:01:11
-  mp3: /dl/45._Iskrennost_i_progress/732_1983.11.09.C5_SridharMj_Iskrennost_i_svoboda_ot_predrassudkov_pozvoljat_po_dostoinstvu_ocenit_uchenie_Shri_Gaurangi.mp3
+  src: /dl/45._Iskrennost_i_progress/732_1983.11.09.C5_SridharMj_Iskrennost_i_svoboda_ot_predrassudkov_pozvoljat_po_dostoinstvu_ocenit_uchenie_Shri_Gaurangi.mp3
 date: 1983-11-09
 category:
   title: 45. Искренность и прогресс

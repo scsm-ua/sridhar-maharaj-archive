@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3163552
   duration: 00:07:49
-  mp3: /wp-content/uploads/2012/08/472_MgnoveniyaPR_6.3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
+  src: /wp-content/uploads/2012/08/472_MgnoveniyaPR_6.3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1059072
   duration: 00:00:58
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1040_1982.02.27.A4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1040_1982.02.27.A4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3
 date: 1982-02-27
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

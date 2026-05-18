@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4766152
   duration: 00:09:30
-  mp3: /wp-content/uploads/2012/08/107_MgnoveniyaPR_6.4_SridharMj_Vapu_i_vani–postupki_i_nastavleniya_vaishnava.mp3
+  src: /wp-content/uploads/2012/08/107_MgnoveniyaPR_6.4_SridharMj_Vapu_i_vani–postupki_i_nastavleniya_vaishnava.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

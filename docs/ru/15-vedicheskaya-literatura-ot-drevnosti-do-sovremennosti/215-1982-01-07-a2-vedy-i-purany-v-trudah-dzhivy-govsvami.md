@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2146816
   duration: 00:03:04
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.mp3
 date: 1982-01-07
 category:
   title: 15. Ведическая литература - от древности до современности

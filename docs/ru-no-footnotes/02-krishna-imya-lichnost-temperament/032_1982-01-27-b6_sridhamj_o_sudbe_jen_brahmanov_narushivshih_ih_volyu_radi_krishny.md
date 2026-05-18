@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1057729
   duration: 00:02:00
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
 date: 1982-01-27
 category:
   title: 02. Кришна — Имя, Личность, темперамент

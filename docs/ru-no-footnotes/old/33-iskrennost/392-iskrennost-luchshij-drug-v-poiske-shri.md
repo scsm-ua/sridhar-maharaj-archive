@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7554496
   duration: 00:12:36
-  mp3: /wp-content/uploads/2012/08/392_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
+  src: /wp-content/uploads/2012/08/392_OntologiyaPR_4.2_SridharMj_Iskrennost-luchshiy_drug_v_poiske_Shri_Krishny.mp3
 category:
   title: (33. Искренность)
   slug: 33-iskrennost

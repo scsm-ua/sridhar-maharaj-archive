@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6533058
   duration: 00:05:20
-  mp3: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.mp3
+  src: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.mp3
 date: 1983-11-02
 category:
   title: 50. Бхакти-йога и девять видов преданного служения

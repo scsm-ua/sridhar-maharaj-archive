@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6687147
   duration: 00:12:42
-  mp3: /wp-content/uploads/2012/08/302_1982.01.19.B3_SridharMj_Razyasnenie_pervogo_stiha_SB.mp3
+  src: /wp-content/uploads/2012/08/302_1982.01.19.B3_SridharMj_Razyasnenie_pervogo_stiha_SB.mp3
 date: 1982-01-19
 category:
   title: (23. Священные писания и труды вайшнавов)

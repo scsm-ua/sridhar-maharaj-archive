@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3553353
   duration: 00:04:38
-  mp3: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/311_1982.01.31.B4_SridharMj_Vzaimodejstvie_passivnoj_shikshi_chajtja-guru_i_zhivogo_sadhu.mp3
 date: 1982-01-31
 category:
   title: 17. Шри Гуру и его милость

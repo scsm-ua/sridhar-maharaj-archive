@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3171577
   duration: 00:02:41
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1011_1982.04.16.B5_SridharMj_Sinteticheskij_i_analiticheskij_metody_v_nasledii_acharev.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1011_1982.04.16.B5_SridharMj_Sinteticheskij_i_analiticheskij_metody_v_nasledii_acharev.mp3
 date: 1982-04-16
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

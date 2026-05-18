@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4129865
   duration: 00:02:30
-  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.mp3
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/148_1982.05.09.A4_SridharMj_Individualnosti_i_ravnoe_sovershenstvo_Gosvami_Vrindavana.mp3
 date: 1982-05-09
 category:
   title: 11. Четыре области богословия Госвами Вриндавана

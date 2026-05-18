@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2501078
   duration: 00:04:44
-  mp3: /wp-content/uploads/2012/08/473_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
+  src: /wp-content/uploads/2012/08/473_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
 date: 1983-01-30
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

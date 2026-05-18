@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6108881
   duration: 00:05:41
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.mp3
 date: 1983-11-02
 category:
   title: 12. Аватары — нисхождения Всевышнего

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6784082
   duration: 00:05:41
-  mp3: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/283_1982.02.15.B4_SridharMj_Guru_i_acharja__Tri_aspekta_duhovnogo_uchitelja.mp3
 date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость

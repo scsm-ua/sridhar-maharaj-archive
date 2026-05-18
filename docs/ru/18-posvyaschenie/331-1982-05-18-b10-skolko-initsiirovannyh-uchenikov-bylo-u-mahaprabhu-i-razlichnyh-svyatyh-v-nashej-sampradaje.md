@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 1570534
   duration: 00:01:22
-  mp3: /dl/18._Posvyaschenie/331_1982.05.18.B10_SridharMj_Skolko_iniciirovannyh_uchenikov_bylo_u_Mahaprabhu_i_razlichnyh_svjatyh_v_nashej_sampradaje.mp3
+  src: /dl/18._Posvyaschenie/331_1982.05.18.B10_SridharMj_Skolko_iniciirovannyh_uchenikov_bylo_u_Mahaprabhu_i_razlichnyh_svjatyh_v_nashej_sampradaje.mp3
 date: 1982-05-18
 category:
   title: 18. Посвящение

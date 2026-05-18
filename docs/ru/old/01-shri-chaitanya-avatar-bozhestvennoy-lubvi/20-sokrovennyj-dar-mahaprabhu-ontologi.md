@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 10291776
   duration: 00:21:09
-  mp3: /wp-content/uploads/2012/08/020_OntologiyaPR_1.5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/020_OntologiyaPR_1.5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

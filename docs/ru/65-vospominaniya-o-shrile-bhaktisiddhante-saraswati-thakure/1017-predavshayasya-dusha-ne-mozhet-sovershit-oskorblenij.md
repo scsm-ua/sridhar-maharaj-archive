@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4453960
   duration: 00:10:44
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1017_2012.07.25.8_SridharMj_Predavshajasja_dusha_ne_mozhet_sovershit_oskoblenij.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1017_2012.07.25.8_SridharMj_Predavshajasja_dusha_ne_mozhet_sovershit_oskoblenij.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4558733
   duration: 00:08:51
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
 date: 1982-02-17
 category:
   title: 43. Трудности и духовный путь — испытания майи

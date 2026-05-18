@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3827294
   duration: 00:06:47
-  mp3: /wp-content/uploads/2012/08/488_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3
+  src: /wp-content/uploads/2012/08/488_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3
 date: 1982-09-05
 category:
   title: (45. Воспоминания о Гаудия-матхе)

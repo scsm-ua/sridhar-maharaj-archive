@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8046268
   duration: 00:14:34
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/400_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
 date: 1982-01-04
 category:
   title: 22. Санньяса — отречение от мира

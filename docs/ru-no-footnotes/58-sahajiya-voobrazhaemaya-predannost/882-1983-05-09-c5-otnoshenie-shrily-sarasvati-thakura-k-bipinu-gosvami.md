@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4371905
   duration: 00:04:34
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
 date: 1983-05-09
 category:
   title: 58. Сахаджия - воображаемая преданность

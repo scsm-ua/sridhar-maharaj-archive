@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3580186
   duration: 00:05:42
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/380_1985.10.05.A2_SridharMj_Mogushhestvo_tonkoj_sily_smirenija_i_zhertvennosti.mp3
 date: 1985-10-05
 category:
   title: 21. Практические вопросы проповеди

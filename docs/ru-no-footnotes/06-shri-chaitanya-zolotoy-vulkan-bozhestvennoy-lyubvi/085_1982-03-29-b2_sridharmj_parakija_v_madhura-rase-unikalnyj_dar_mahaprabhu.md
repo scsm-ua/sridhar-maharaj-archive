@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10251733
   duration: 00:09:46
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/085_1982.03.29.B2_SridharMj_Parakija_v_madhura-rase--unikalnyj_dar_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/085_1982.03.29.B2_SridharMj_Parakija_v_madhura-rase--unikalnyj_dar_Mahaprabhu.mp3
 date: 1982-03-29
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

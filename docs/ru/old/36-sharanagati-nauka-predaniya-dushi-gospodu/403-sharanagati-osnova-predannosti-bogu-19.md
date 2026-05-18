@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4738225
   duration: 00:08:49
-  mp3: /wp-content/uploads/2012/08/403_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
+  src: /wp-content/uploads/2012/08/403_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
 date: 1981-08-31
 category:
   title: (36. Шаранагати - наука предания души Господу)

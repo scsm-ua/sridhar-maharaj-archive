@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24483985
   duration: 00:24:42
-  mp3: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
+  src: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
 date: 1982-06-10
 category:
   title: 40. Бог и боги

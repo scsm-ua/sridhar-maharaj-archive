@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2952176
   duration: 00:01:16
-  mp3: /wp-content/uploads/2012/08/168_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
+  src: /wp-content/uploads/2012/08/168_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
 date: 1984-01-15
 category:
   title: (13. О проповеди)

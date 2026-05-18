@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10154610
   duration: 00:07:43
-  mp3: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3
+  src: /dl/56._Samootricanie/853_1982.05.01.A1_SridharMj_Samootricanie_i_pokornost_predannym--metod_obrashhenija_k_Gospodu.mp3
 date: 1982-05-01
 category:
   title: 56. Самоотрицание

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2809247
   duration: 00:11:40
-  mp3: /wp-content/uploads/2012/08/1983.01.02.A-3252.17-4431.91.mp3
+  src: /wp-content/uploads/2012/08/1983.01.02.A-3252.17-4431.91.mp3
 date: 1983-01-02
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 28533414
   duration: 00:29:03
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/503_1982.03.29.B1_SridharMj_V_glubinah_realnosti_prebyvajut_Vrindavan_i_Soznanie_Krishny.mp3
 date: 1982-03-29
 category:
   title: 31. Глубокое восприятие реальности

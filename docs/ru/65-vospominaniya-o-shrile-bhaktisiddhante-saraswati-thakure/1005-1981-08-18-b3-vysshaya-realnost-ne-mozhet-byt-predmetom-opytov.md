@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5448621
   duration: 00:10:06
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1005_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1005_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
 date: 1981-08-18
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

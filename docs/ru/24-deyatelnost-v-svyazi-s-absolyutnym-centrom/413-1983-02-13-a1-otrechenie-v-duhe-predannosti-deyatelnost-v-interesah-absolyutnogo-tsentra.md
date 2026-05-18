@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10539939
   duration: 00:20:18
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
 date: 1983-02-13
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

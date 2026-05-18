@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6935949
   duration: 00:05:26
-  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/149_1982.04.29.A4_SridharMj_Dva_bogoslovskih_otkrovenija_Sanatany_Gosvami.mp3
 date: 1982-04-29
 category:
   title: 11. Четыре области богословия Госвами Вриндавана

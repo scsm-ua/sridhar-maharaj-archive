@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7204612
   duration: 00:14:47
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/997_1981.03.13.B_SridharMj_Samootricanie_i_deviz_Sarasvati_Thakura.mp3
 date: 1981-03-13
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

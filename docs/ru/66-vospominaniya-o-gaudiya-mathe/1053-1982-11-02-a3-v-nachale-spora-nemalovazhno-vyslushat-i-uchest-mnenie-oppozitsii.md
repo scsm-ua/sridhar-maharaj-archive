@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2842028
   duration: 00:02:26
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1053_1982.11.02.A3_SridharMj_V_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozicii.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1053_1982.11.02.A3_SridharMj_V_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozicii.mp3
 date: 1982-11-02
 category:
   title: 66. Воспоминания о Гаудия Матхе

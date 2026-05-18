@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8743548
   duration: 00:17:47
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
 date: 1981-03-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

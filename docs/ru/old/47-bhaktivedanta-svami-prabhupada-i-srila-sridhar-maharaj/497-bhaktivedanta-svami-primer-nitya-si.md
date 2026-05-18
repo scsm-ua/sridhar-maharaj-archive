@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9168081
   duration: 00:18:04
-  mp3: /wp-content/uploads/2012/08/497_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
+  src: /wp-content/uploads/2012/08/497_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
 date: 1981-08-14
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

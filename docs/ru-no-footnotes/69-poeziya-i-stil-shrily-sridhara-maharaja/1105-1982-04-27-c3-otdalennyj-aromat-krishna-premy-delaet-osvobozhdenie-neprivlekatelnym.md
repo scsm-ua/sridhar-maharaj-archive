@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3806824
   duration: 00:03:45
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.mp3
 date: 1982-04-27
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

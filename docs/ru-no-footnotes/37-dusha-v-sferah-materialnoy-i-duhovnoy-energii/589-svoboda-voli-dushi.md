@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3078257
   duration: 00:03:52
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii

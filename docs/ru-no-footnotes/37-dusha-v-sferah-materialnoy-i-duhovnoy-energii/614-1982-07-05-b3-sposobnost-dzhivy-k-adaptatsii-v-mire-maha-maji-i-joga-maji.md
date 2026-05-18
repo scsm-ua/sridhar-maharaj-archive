@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6688256
   duration: 00:05:16
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/614_1982.07.05.B3_SridharMj_Sposobnost_dzhivy_k_adaptacii_v_mire_maha-maji_i_joga-maji.mp3
 date: 1982-07-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии

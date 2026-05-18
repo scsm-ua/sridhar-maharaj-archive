@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25409346
   duration: 00:25:40
-  mp3: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.mp3
+  src: /dl/40._Bog_i_bogi/664_1983.11.08.A.B1_SridharMj_Opisanie_i_filosofskij_smysl_Govardhan-lily.mp3
 date: 1983-11-08
 category:
   title: 40. Бог и боги

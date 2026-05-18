@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16571234
   duration: 00:33:13
-  mp3: /wp-content/uploads/2012/08/413_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
+  src: /wp-content/uploads/2012/08/413_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
 date: 1983-03-29
 category:
   title: (37. Самопожертвование)

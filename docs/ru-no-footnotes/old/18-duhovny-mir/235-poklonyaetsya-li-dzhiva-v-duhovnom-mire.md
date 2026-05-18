@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1586248
   duration: 00:03:07
-  mp3: /wp-content/uploads/2012/08/235_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
+  src: /wp-content/uploads/2012/08/235_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
 date: 1984-01-08
 category:
   title: (18. Духовный мир)

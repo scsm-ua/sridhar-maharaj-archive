@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3590479
   duration: 00:07:17
-  mp3: /wp-content/uploads/2012/08/237_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3
+  src: /wp-content/uploads/2012/08/237_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3
 date: 1981-03-03
 category:
   title: (18. Духовный мир)

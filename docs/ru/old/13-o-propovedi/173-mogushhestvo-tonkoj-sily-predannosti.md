@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5075738
   duration: 00:05:42
-  mp3: /wp-content/uploads/2012/08/173_1985.10.05.A2_SridharMj_Moguwestvo_tonkoy_sily_predannosti_Krishne.mp3
+  src: /wp-content/uploads/2012/08/173_1985.10.05.A2_SridharMj_Moguwestvo_tonkoy_sily_predannosti_Krishne.mp3
 date: 1985-10-05
 category:
   title: (13. О проповеди)

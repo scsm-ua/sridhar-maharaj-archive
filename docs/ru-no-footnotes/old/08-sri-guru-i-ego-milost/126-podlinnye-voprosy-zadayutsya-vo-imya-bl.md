@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2424185
   duration: 00:02:35
-  mp3: /wp-content/uploads/2012/08/126_1981.03.03.A1_SridharMj_Podlinnye_voprosy_zadayutsya_vo_imya_blaga_vsego_mira.mp3
+  src: /wp-content/uploads/2012/08/126_1981.03.03.A1_SridharMj_Podlinnye_voprosy_zadayutsya_vo_imya_blaga_vsego_mira.mp3
 date: 1981-03-03
 category:
   title: (08. Шри Гуру и его милость)

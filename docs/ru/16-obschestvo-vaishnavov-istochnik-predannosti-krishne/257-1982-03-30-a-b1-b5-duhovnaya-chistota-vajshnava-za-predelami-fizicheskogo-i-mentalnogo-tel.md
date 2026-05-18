@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23482211
   duration: 00:23:17
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/257_1982.03.30.A.B1.B5_SridharMj_Duhovnaja_chistota_vajshnava--za_predelami_fizicheskogo_i_mentalnogo_tel.mp3
 date: 1982-03-30
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

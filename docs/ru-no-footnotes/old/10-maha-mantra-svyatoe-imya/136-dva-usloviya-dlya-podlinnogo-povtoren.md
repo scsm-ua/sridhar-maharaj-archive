@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3080934
   duration: 00:05:34
-  mp3: /wp-content/uploads/2012/08/136_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
+  src: /wp-content/uploads/2012/08/136_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
 date: 1983-04-16
 category:
   title: (10. Маха-мантра - Святое Имя)

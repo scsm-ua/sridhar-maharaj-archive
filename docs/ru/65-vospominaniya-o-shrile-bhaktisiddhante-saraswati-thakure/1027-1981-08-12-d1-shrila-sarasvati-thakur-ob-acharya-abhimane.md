@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2887367
   duration: 00:04:46
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1027_1981.08.12.D1_SridharMj_Shrila_Sarasvati_Thakur_ob_acharja-abhimane.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1027_1981.08.12.D1_SridharMj_Shrila_Sarasvati_Thakur_ob_acharja-abhimane.mp3
 date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13702061
   duration: 00:22:32
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
 date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов

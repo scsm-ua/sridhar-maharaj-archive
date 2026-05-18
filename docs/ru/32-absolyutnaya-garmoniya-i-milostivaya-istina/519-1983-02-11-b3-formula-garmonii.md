@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4823782
   duration: 00:05:13
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
 date: 1983-02-11
 category:
   title: 32. Абсолютная гармония и милостивая истина

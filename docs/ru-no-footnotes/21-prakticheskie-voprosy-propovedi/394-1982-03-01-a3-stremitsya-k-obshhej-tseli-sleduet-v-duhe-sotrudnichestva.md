@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2722532
   duration: 00:03:54
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/394_1982.03.01.A3_SridharMj_Stremitsja_k_obshhej_celi_sleduet_v_duhe_sotrudnichestva.mp3
 date: 1982-03-01
 category:
   title: 21. Практические вопросы проповеди

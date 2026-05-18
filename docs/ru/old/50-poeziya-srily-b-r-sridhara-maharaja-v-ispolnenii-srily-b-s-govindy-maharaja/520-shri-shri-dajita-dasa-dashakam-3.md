@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10590834
   duration: 00:05:13
-  mp3: /wp-content/uploads/2012/08/520_Sri_Dayita_Das_Dasakam1.mp3
+  src: /wp-content/uploads/2012/08/520_Sri_Dayita_Das_Dasakam1.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)

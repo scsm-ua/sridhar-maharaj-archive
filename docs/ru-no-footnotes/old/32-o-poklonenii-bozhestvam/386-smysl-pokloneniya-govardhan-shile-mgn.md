@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3440320
   duration: 00:09:55
-  mp3: /wp-content/uploads/2012/08/386_MgnoveniyaPR_4.1_SridharMj_Smysl_pokloneniya_Govardhan-shile.mp3
+  src: /wp-content/uploads/2012/08/386_MgnoveniyaPR_4.1_SridharMj_Smysl_pokloneniya_Govardhan-shile.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam

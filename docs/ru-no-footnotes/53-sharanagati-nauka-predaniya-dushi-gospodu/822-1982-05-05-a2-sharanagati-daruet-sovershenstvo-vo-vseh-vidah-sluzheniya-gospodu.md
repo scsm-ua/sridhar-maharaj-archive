@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9473651
   duration: 00:09:16
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/822_1982.05.05.A2_SridharMj_Sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzhenija_Gospodu.mp3
 date: 1982-05-05
 category:
   title: 53. Шаранагати - наука предания души Господу

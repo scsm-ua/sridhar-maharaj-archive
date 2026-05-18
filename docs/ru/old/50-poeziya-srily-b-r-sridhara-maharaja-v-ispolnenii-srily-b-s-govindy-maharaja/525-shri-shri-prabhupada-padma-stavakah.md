@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21707294
   duration: 00:08:48
-  mp3: /wp-content/uploads/2012/08/525_Sri_Sri_Prabhupada-padma_Stavakah.mp3
+  src: /wp-content/uploads/2012/08/525_Sri_Sri_Prabhupada-padma_Stavakah.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)

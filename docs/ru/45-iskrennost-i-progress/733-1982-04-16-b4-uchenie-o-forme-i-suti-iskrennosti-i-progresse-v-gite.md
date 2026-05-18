@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6823903
   duration: 00:06:12
-  mp3: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.mp3
+  src: /dl/45._Iskrennost_i_progress/733_1982.04.16.B4_SridharMj_Uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_Gite.mp3
 date: 1982-04-16
 category:
   title: 45. Искренность и прогресс

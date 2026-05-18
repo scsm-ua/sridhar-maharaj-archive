@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18487274
   duration: 00:18:38
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
 date: 1982-02-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

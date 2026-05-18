@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3502464
   duration: 00:06:52
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda

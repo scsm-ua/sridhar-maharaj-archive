@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7601130
   duration: 00:06:00
-  mp3: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.mp3
+  src: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.mp3
 date: 2007-04-29
 category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара

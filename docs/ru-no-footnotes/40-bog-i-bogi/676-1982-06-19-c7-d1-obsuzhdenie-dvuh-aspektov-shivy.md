@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7933221
   duration: 00:07:28
-  mp3: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.mp3
+  src: /dl/40._Bog_i_bogi/676_1982.06.19.C7.D1_SridharMj_Obsuzhdenie_dvuh_aspektov_Shivy.mp3
 date: 1982-06-19
 category:
   title: 40. Бог и боги

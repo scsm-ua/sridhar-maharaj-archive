@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7741544
   duration: 00:10:07
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/954_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Shrily_Narottama_Dasa_Thakura.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/954_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Shrily_Narottama_Dasa_Thakura.mp3
 date: 1983-04-17
 category:
   title: 63. Жизнь и откровения святых вайшнавов

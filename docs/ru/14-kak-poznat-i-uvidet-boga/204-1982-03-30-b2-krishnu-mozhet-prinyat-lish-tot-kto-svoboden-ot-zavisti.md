@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7016321
   duration: 00:06:35
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/204_1982.03.30.B2_SridharMj_Krishnu_mozhet_prinjat_lish_tot_kto_svoboden_ot_zavisti.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/204_1982.03.30.B2_SridharMj_Krishnu_mozhet_prinjat_lish_tot_kto_svoboden_ot_zavisti.mp3
 date: 1982-03-30
 category:
   title: 14. Как познать и увидеть Бога

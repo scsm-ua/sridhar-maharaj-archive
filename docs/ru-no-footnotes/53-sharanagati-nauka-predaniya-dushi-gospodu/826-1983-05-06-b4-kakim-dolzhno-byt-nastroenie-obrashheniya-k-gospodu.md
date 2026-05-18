@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3923362
   duration: 00:06:59
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
 date: 1983-05-06
 category:
   title: 53. Шаранагати - наука предания души Господу

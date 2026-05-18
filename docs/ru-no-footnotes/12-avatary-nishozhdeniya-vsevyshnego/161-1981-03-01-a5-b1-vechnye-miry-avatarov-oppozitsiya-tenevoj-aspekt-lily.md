@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8602843
   duration: 00:16:34
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.mp3
 date: 1981-03-01
 category:
   title: 12. Аватары — нисхождения Всевышнего

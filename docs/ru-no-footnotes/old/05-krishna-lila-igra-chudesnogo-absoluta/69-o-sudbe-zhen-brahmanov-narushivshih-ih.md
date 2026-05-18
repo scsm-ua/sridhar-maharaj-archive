@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1634753
   duration: 00:02:00
-  mp3: /wp-content/uploads/2012/08/069_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
+  src: /wp-content/uploads/2012/08/069_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
 date: 1982-01-27
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

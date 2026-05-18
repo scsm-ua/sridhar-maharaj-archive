@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2431308
   duration: 00:06:29
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/002_2012.07.25.15_ShridharMj_Poisk_rasy--vstuplenie_k_knige_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/002_2012.07.25.15_ShridharMj_Poisk_rasy--vstuplenie_k_knige_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
 date: 1981-08-00
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

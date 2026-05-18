@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 767091
   duration: 00:00:56
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/335_1981.11.12.B4.1_SridharMj_O_vazhnosti_duha_sluzhenija_pri_vospevanii_Svjatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/335_1981.11.12.B4.1_SridharMj_O_vazhnosti_duha_sluzhenija_pri_vospevanii_Svjatogo_Imeni.mp3
 date: 1981-11-12
 category:
   title: 19. Маха-мантра — Святое Имя

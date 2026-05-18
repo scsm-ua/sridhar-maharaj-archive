@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15416499
   duration: 00:31:03
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
 date: 1983-03-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

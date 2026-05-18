@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 39473763
   duration: 01:08:26
-  mp3: /wp-content/uploads/2012/08/187_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti1.mp3
+  src: /wp-content/uploads/2012/08/187_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti1.mp3
 date: 1983-06-27
 category:
   title: (15. Мир смерти и поиск вечности)

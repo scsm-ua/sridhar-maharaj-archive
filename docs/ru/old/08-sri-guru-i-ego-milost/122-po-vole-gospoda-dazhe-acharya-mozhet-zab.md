@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3694216
   duration: 00:06:40
-  mp3: /wp-content/uploads/2012/08/122_MgnoveniyaPR_3.1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
+  src: /wp-content/uploads/2012/08/122_MgnoveniyaPR_3.1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

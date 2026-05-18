@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2761737
   duration: 00:01:29
-  mp3: /dl/17._Shri_Guru_i_ego_milost/275_1982.05.14.D4_SridharMj_Pravilnoe_ponimanie_utverzhdenija_o_godichnom_ispytanii_guru_i_uchenika_v_Hari-bhakti-vilase.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/275_1982.05.14.D4_SridharMj_Pravilnoe_ponimanie_utverzhdenija_o_godichnom_ispytanii_guru_i_uchenika_v_Hari-bhakti-vilase.mp3
 date: 1982-05-14
 category:
   title: 17. Шри Гуру и его милость

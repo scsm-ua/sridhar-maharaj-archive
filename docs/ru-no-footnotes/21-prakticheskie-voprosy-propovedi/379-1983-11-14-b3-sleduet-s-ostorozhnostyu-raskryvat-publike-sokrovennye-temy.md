@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4879830
   duration: 00:04:12
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/379_1983.11.14.B3_SridharMj_Sleduet_s_ostorozhnostju_raskryvat_publike_sokrovennye_temy.mp3
 date: 1983-11-14
 category:
   title: 21. Практические вопросы проповеди

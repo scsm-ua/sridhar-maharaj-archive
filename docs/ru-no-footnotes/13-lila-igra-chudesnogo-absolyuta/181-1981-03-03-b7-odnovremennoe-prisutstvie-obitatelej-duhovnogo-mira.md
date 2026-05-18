@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4240698
   duration: 00:08:02
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
 date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта

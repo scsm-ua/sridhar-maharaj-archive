@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1778672
   duration: 00:04:01
-  mp3: /wp-content/uploads/2012/08/338_MgnoveniyaPR_6.9_SridharMj_Sohranyat_dostignutoye_polojeniye-i_dvigatsya_vpered.mp3
+  src: /wp-content/uploads/2012/08/338_MgnoveniyaPR_6.9_SridharMj_Sohranyat_dostignutoye_polojeniye-i_dvigatsya_vpered.mp3
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6229473
   duration: 00:11:35
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/552_1981.03.04.B3_SridharMj_Kto_takoy_shudra_Obyasneniye_epizodov_Ramayany.mp3
 date: 1981-03-04
 category:
   title: 34. Ведическая цивилизация и культура

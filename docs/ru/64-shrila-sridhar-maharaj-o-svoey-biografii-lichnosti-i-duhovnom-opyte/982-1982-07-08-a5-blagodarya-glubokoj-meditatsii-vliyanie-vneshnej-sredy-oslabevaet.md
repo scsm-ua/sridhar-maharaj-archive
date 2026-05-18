@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4022094
   duration: 00:03:18
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/982_1982.07.08.A5_SridharMj_Blagodarja_glubokoj_meditacii_vlijanie_vneshnej_sredy_oslabevaet.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/982_1982.07.08.A5_SridharMj_Blagodarja_glubokoj_meditacii_vlijanie_vneshnej_sredy_oslabevaet.mp3
 date: 1982-07-08
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

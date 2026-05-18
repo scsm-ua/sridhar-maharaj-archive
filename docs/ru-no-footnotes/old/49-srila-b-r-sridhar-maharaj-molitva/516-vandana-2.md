@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4657684
   duration: 00:01:55
-  mp3: /wp-content/uploads/2012/08/516_Vandana1.mp3
+  src: /wp-content/uploads/2012/08/516_Vandana1.mp3
 category:
   title: (49. Шрила Б.Р. Шридхар Махарадж. Молитва)
   slug: 49-srila-b-r-sridhar-maharaj-molitva

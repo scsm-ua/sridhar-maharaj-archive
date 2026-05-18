@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16421230
   duration: 00:14:27
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/065_1982.05.03.B2_SridharMj_Otnoshenija_Garudy_i_Hanumana_Slava_dasja-rasy.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/065_1982.05.03.B2_SridharMj_Otnoshenija_Garudy_i_Hanumana_Slava_dasja-rasy.mp3
 date: 1982-05-03
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27593225
   duration: 00:57:09
-  mp3: /wp-content/uploads/2012/08/288_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
+  src: /wp-content/uploads/2012/08/288_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
 date: 1983-02-01
 category:
   title: (22. Истории о жизни святых вайшнавов)

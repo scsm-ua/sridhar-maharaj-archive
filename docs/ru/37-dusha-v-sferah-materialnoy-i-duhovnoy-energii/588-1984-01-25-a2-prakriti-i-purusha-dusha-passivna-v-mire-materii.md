@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6017377
   duration: 00:07:19
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/588_1984.01.25.A2_SridharMj_Prakriti_i_purusha_Dusha_passivna_v_mire_materii.mp3
 date: 1984-01-25
 category:
   title: 37. Душа в сферах материальной и духовной энергии

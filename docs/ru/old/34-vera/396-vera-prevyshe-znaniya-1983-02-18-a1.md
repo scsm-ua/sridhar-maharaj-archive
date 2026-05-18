@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8399570
   duration: 00:16:30
-  mp3: /wp-content/uploads/2012/08/396_1983.02.18.A1_SridharMj_Vera_prevyshe_znaniya.mp3
+  src: /wp-content/uploads/2012/08/396_1983.02.18.A1_SridharMj_Vera_prevyshe_znaniya.mp3
 date: 1983-02-18
 category:
   title: (34. Вера)

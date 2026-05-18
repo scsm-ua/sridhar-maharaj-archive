@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3262224
   duration: 00:06:22
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/360_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
 date: 1982-02-17
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

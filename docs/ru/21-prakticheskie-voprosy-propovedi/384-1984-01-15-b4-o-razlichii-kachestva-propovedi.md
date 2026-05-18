@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1452016
   duration: 00:01:16
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/384_1984.01.15.B4_SridharMj_O_razlichii_kachestva_propovedi.mp3
 date: 1984-01-15
 category:
   title: 21. Практические вопросы проповеди

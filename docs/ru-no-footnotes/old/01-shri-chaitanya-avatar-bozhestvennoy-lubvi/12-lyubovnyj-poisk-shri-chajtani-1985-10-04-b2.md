@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3655377
   duration: 00:07:19
-  mp3: /wp-content/uploads/2012/08/012_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
+  src: /wp-content/uploads/2012/08/012_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
 date: 1985-10-04
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

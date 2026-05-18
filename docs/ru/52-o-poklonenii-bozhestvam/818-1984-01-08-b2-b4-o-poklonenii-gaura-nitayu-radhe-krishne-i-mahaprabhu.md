@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6034148
   duration: 00:10:35
-  mp3: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3
 date: 1984-01-08
 category:
   title: 52. О поклонении Божествам

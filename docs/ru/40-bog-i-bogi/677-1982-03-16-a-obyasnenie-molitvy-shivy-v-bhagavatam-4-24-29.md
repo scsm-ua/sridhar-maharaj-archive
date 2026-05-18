@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 30736236
   duration: 00:31:13
-  mp3: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3
+  src: /dl/40._Bog_i_bogi/677_1982.03.16.A_SridharMj_Objasnenie_molitvy_Shivy_v_Bhagavatam_(4.24.29).mp3
 date: 1982-03-16
 category:
   title: 40. Бог и боги

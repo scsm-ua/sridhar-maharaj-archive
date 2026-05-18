@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5218137
   duration: 00:07:03
-  mp3: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.mp3
+  src: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1135_2002.08.08_GovindaMj_Ob_iskljuchitelnosti_lekcij_Shridhara_Maharadzha_prochitannyh_v_ego_poslednie_gody.mp3
 date: 2002-08-08
 category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара

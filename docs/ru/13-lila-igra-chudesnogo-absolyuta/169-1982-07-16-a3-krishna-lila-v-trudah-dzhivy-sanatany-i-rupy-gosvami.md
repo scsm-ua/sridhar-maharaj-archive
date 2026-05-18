@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6631424
   duration: 00:06:30
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/169_1982.07.16.A3_SridharMj_Krishna-lila_v_trudah_Dzhivy_Sanatany_i_Rupy_Gosvami.mp3
 date: 1982-07-16
 category:
   title: 13. Лила — игра чудесного Абсолюта

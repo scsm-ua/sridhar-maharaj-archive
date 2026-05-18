@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3284803
   duration: 00:02:48
-  mp3: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3
+  src: /dl/26._Rupanuga-sampradaya/458_1983.11.02.B3_SridharMj_Samopredanie_vysochajshego_kachestva_dostizhimo_v_rupanuga-sampradae.mp3
 date: 1983-11-02
 category:
   title: 26. Рупануга-сампрадая

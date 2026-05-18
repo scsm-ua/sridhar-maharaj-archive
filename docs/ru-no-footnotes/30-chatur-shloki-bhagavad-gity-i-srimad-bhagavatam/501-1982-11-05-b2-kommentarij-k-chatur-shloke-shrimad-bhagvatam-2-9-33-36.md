@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19902255
   duration: 00:18:48
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/501_1982.11.05.B2_SridharMj_Kommentarij_k_chatur-shloke_Shrimad_Bhagvatam_(2.9.33-36).mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/501_1982.11.05.B2_SridharMj_Kommentarij_k_chatur-shloke_Shrimad_Bhagvatam_(2.9.33-36).mp3
 date: 1982-11-05
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

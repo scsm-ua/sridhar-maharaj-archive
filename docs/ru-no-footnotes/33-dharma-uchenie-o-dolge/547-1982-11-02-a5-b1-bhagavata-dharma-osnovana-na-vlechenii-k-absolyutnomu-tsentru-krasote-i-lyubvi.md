@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27084517
   duration: 00:27:57
-  mp3: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/547_1982.11.02.A5.B1_SridharMj_Bhagavata-dharma_osnovana_na_vlechenii_k_Absoljutnomu_Centru--Krasote_i_Ljubvi.mp3
 date: 1982-11-02
 category:
   title: 33. Дхарма — учение о долге

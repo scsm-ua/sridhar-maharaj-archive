@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13676774
   duration: 00:11:15
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/935_1982.07.15.A2_SridharMj_Kalidas--pochitatel_ostatkov_pishhi_i_vody_so_stop_vajshnavov.mp3
 date: 1982-07-15
 category:
   title: 63. Жизнь и откровения святых вайшнавов

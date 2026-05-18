@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4711978
   duration: 00:09:31
-  mp3: /wp-content/uploads/2012/08/009_1981.08.31.C3_SridharMj_Penie_tanec_i_pochitaniye_prasada_kak_duhovnaya_praktika_yavlennaya_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/009_1981.08.31.C3_SridharMj_Penie_tanec_i_pochitaniye_prasada_kak_duhovnaya_praktika_yavlennaya_Mahaprabhu.mp3
 date: 1981-08-31
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

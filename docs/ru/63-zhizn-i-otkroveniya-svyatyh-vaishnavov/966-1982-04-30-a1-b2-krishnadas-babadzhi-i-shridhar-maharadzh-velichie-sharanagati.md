@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 28600423
   duration: 00:26:47
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/966_1982.04.30.A1.B2_SridharMj_Krishnadas_Babadzhi_i_Shridhar_Maharadzh_Velichie_sharanagati.mp3
 date: 1982-04-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов

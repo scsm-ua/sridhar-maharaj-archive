@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3657404
   duration: 00:07:11
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/361_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
 date: 1981-03-05
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

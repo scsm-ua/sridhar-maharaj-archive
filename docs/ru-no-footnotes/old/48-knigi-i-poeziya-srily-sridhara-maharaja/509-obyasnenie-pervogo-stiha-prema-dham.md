@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4279987
   duration: 00:04:10
-  mp3: /wp-content/uploads/2012/08/509_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
+  src: /wp-content/uploads/2012/08/509_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
 date: 1983-03-08
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

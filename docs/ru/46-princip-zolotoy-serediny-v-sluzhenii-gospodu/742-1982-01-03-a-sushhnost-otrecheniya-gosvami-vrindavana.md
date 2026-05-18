@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17984700
   duration: 00:34:13
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
 date: 1982-01-03
 category:
   title: 46. Принцип «золотой середины» в служении Господу

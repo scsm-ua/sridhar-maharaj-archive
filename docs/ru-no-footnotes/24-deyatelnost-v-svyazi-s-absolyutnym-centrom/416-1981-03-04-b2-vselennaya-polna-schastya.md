@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3304385
   duration: 00:05:13
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/416_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
 date: 1981-03-04
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

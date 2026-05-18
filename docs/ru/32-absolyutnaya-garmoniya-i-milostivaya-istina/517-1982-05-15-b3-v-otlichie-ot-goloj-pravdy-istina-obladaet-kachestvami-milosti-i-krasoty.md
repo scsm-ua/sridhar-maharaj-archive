@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8520673
   duration: 00:06:27
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3
 date: 1982-05-15
 category:
   title: 32. Абсолютная гармония и милостивая истина

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9393924
   duration: 00:16:18
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
 date: 1981-02-28
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

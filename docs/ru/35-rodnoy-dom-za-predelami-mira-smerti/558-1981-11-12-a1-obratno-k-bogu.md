@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8697709
   duration: 00:12:06
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
 date: 1981-11-12
 category:
   title: 35. Родной дом за пределами мира смерти

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 6555407
   duration: 00:05:04
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo

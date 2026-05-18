@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 6500822
   duration: 00:05:15
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/120_1982.05.11.C3_SridharMj_Meditacija_na_shloku_o_milostivom_Krishne_kotoryj_ne_razdeljaet_ljudej_na_durnyh_i_horoshih.mp3
 date: 1982-05-11
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

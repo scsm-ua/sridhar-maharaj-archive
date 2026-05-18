@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6977280
   duration: 00:13:44
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/467_1982.02.28.A3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/467_1982.02.28.A3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
 date: 1982-02-28
 category:
   title: 27. Служение стопам Шримати Радхарани

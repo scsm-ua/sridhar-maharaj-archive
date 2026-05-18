@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4804513
   duration: 00:04:07
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/981_1982.04.16.C4_SridharMj_Prisutstvie_Mahaprabhu_pri_napisanii_tridcat_chetvertogo_stiha_Shri_Premadhama-deva-stotram.mp3
 date: 1982-04-16
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

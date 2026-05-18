@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6307318
   duration: 00:11:54
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
 date: 1982-01-26
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

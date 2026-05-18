@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5241792
   duration: 00:09:45
-  mp3: /wp-content/uploads/2012/08/456_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
+  src: /wp-content/uploads/2012/08/456_1983.06.05.C1_SridharMj_O_pervom_stihe_Bhagavatam_i_poezii_Rupy_Gosvami.mp3
 date: 1983-06-05
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

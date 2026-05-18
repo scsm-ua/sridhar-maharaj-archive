@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4512296
   duration: 00:06:50
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
 date: 1982-01-27
 category:
   title: 23. Памятование о Господе — солнце Вишну

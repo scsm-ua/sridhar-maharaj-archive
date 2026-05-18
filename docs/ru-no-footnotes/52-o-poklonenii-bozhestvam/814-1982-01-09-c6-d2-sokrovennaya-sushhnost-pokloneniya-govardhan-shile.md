@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9549395
   duration: 00:17:54
-  mp3: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/814_1982.01.09.C6.D2_SridharMj_Sokrovennaja_sushhnost_poklonenija_Govardhan-shile.mp3
 date: 1982-01-09
 category:
   title: 52. О поклонении Божествам

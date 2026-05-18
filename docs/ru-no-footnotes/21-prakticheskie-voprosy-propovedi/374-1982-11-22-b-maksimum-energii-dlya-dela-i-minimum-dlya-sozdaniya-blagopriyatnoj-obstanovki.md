@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17145678
   duration: 00:16:59
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/374_1982.11.22.B_SridharMj_Maksimum_jenergii_dlja_dela_i_minimum_dlja_sozdanija_blagoprijatnoj_obstanovki.mp3
 date: 1982-11-22
 category:
   title: 21. Практические вопросы проповеди

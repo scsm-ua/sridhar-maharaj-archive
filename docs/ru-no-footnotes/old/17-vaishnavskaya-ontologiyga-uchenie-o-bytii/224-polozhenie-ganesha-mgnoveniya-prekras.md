@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1498032
   duration: 00:05:08
-  mp3: /wp-content/uploads/2012/08/224_MgnoveniyaPR_8.3_SridharMj_Polojeniye_Ganesha.mp3
+  src: /wp-content/uploads/2012/08/224_MgnoveniyaPR_8.3_SridharMj_Polojeniye_Ganesha.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii

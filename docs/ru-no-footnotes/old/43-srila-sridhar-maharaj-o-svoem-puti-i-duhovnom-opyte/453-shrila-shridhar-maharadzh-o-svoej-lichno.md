@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9346361
   duration: 00:18:18
-  mp3: /wp-content/uploads/2012/08/453_1982.01.02.A_SridharMj_O_svoey_lichnosti_i_goroskope1.mp3
+  src: /wp-content/uploads/2012/08/453_1982.01.02.A_SridharMj_O_svoey_lichnosti_i_goroskope1.mp3
 date: 1982-01-02
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

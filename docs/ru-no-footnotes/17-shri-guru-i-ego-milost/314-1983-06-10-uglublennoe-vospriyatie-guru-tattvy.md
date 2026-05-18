@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27847619
   duration: 00:45:59
-  mp3: /dl/17._Shri_Guru_i_ego_milost/314_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/314_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
 date: 1983-06-10
 category:
   title: 17. Шри Гуру и его милость

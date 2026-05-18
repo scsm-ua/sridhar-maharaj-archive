@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4122216
   duration: 00:08:13
-  mp3: /wp-content/uploads/2012/08/365_1983.04.25.A3_SridharMj_Sambandha-gyana.mp3
+  src: /wp-content/uploads/2012/08/365_1983.04.25.A3_SridharMj_Sambandha-gyana.mp3
 date: 1983-04-25
 category:
   title: (29. Деятельность в Сознании Кришны)

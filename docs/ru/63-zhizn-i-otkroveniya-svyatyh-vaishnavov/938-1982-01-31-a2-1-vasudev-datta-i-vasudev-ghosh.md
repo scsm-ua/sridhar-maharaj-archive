@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5200771
   duration: 00:04:50
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/938_1982.01.31.A2.1_SridharMj_Vasudev_Datta_i_Vasudev_Ghosh.mp3
 date: 1982-01-31
 category:
   title: 63. Жизнь и откровения святых вайшнавов

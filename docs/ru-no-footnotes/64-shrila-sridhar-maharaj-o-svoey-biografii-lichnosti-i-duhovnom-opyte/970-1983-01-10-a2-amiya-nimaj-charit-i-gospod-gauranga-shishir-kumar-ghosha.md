@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5146403
   duration: 00:04:28
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/970_1983.01.10.A2_SridharMj_Amija_Nimaj_Charit_i_Gospod_Gauranga_Shishir_Kumar_Ghosha.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/970_1983.01.10.A2_SridharMj_Amija_Nimaj_Charit_i_Gospod_Gauranga_Shishir_Kumar_Ghosha.mp3
 date: 1983-01-10
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

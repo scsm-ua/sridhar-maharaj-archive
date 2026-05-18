@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18463210
   duration: 00:17:51
-  mp3: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/267_1982.11.06.B3.C1_SridharMj_Kommentarii_k_pesne_Guru_parampara__Vydajushhiesja_uchitelja_rupanuga-sampradai.mp3
 date: 1982-11-06
 category:
   title: 17. Шри Гуру и его милость

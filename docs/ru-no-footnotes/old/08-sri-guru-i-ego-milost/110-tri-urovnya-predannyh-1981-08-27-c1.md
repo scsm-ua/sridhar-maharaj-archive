@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11788978
   duration: 00:22:05
-  mp3: /wp-content/uploads/2012/08/110_1981.08.27.C1_SridharMj_Tri_urovnya_predannyh.mp3
+  src: /wp-content/uploads/2012/08/110_1981.08.27.C1_SridharMj_Tri_urovnya_predannyh.mp3
 date: 1981-08-27
 category:
   title: (08. Шри Гуру и его милость)

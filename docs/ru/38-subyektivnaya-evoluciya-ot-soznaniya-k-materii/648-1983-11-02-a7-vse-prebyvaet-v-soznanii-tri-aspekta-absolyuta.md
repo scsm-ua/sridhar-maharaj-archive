@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5736939
   duration: 00:05:00
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/648_1983.11.02.A7_SridharMj_Vse_prebyvaet_v_soznanii__Tri_aspekta_Absoljuta.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/648_1983.11.02.A7_SridharMj_Vse_prebyvaet_v_soznanii__Tri_aspekta_Absoljuta.mp3
 date: 1983-11-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи

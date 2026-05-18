@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2744550
   duration: 00:04:39
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.mp3
 date: 1981-08-20
 category:
   title: 66. Воспоминания о Гаудия Матхе

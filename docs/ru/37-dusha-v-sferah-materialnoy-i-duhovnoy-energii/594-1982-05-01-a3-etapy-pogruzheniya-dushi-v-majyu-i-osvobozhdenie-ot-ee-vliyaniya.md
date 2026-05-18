@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9827129
   duration: 00:08:32
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/594_1982.05.01.A3_SridharMj_Jetapy_pogruzhenija_dushi_v_majju_i_osvobozhdenie_ot_ee_vlijanija.mp3
 date: 1982-05-01
 category:
   title: 37. Душа в сферах материальной и духовной энергии

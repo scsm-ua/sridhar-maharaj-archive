@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7883399
   duration: 00:08:01
-  mp3: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.mp3
+  src: /dl/62._Svyatye_mesta/917_1982.03.29.D5_SridharMj_Vosprijatie_obitatelej_dhamy_zavisit_ot_urovnja_soznanija.mp3
 date: 1982-03-29
 category:
   title: 62. Святые места

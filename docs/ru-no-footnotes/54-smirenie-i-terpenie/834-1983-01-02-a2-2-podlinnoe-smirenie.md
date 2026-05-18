@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7443811
   duration: 00:13:43
-  mp3: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3
+  src: /dl/54._Smirenie_i_terpenie/834_1983.01.02.A2.2_SridharMj_Podlinnoe_smirenie.mp3
 date: 1983-01-02
 category:
   title: 54. Смирение и терпение

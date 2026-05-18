@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4710344
   duration: 00:09:30
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/252_1982.02.23.B4_SridharMj_Vapu_i_vani-postupki_i_nastavleniya_vaishnava.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/252_1982.02.23.B4_SridharMj_Vapu_i_vani-postupki_i_nastavleniya_vaishnava.mp3
 date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

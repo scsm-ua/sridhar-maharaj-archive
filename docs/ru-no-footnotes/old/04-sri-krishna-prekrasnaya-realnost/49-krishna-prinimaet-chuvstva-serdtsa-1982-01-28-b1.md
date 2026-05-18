@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8370615
   duration: 00:14:46
-  mp3: /wp-content/uploads/2012/08/049_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+  src: /wp-content/uploads/2012/08/049_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
 date: 1982-01-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

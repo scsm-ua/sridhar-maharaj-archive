@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18967122
   duration: 00:17:08
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/699_1982.03.08.A2.B1.B7_SridharMj_Budushhee_togo_kto_obrel_svjaz_s_Gospodom_luchezarno.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/699_1982.03.08.A2.B1.B7_SridharMj_Budushhee_togo_kto_obrel_svjaz_s_Gospodom_luchezarno.mp3
 date: 1982-03-08
 category:
   title: 41. Стремление к идеалу — истинное богатство

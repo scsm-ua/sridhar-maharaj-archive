@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17851819
   duration: 00:35:26
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/376_1983.04.02_SridharMj_Kultura_propovedi.mp3
 date: 1983-04-02
 category:
   title: 21. Практические вопросы проповеди

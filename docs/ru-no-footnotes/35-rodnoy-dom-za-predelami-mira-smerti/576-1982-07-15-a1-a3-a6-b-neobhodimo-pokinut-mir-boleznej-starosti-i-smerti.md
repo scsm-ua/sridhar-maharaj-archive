@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15022478
   duration: 00:12:38
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/576_1982.07.15.A1.A3.A6.B_SridharMj_Neobhodimo_pokinut_mir_boleznej_starosti_i_smerti.mp3
 date: 1982-07-15
 category:
   title: 35. Родной дом за пределами мира смерти

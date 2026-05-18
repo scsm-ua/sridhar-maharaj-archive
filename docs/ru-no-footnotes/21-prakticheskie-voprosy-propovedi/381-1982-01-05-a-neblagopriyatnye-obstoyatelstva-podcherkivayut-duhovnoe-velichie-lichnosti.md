@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12831920
   duration: 00:24:58
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
 date: 1982-01-05
 category:
   title: 21. Практические вопросы проповеди

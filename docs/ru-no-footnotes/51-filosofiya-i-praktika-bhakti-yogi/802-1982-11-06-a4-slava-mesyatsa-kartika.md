@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7221206
   duration: 00:06:35
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/802_1982.11.06.A4_SridharMj_Slava_mesjaca_Kartika.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/802_1982.11.06.A4_SridharMj_Slava_mesjaca_Kartika.mp3
 date: 1982-11-06
 category:
   title: 51. Философия и практика бхакти-йоги

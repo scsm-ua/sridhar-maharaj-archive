@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5782058
   duration: 00:04:14
-  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.mp3
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.mp3
 date: 1982-11-07
 category:
   title: 11. Четыре области богословия Госвами Вриндавана

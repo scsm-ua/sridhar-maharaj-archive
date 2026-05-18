@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3456552
   duration: 00:06:50
-  mp3: /wp-content/uploads/2012/08/379_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
+  src: /wp-content/uploads/2012/08/379_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
 date: 1982-01-27
 category:
   title: (31. Памятование о Господе)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1712632
   duration: 00:03:02
-  mp3: /wp-content/uploads/2012/08/072_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_-_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
+  src: /wp-content/uploads/2012/08/072_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_-_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta

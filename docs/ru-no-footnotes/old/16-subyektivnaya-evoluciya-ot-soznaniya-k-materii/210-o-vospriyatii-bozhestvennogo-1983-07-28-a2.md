@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6834155
   duration: 00:14:06
-  mp3: /wp-content/uploads/2012/08/210_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
+  src: /wp-content/uploads/2012/08/210_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
 date: 1983-07-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

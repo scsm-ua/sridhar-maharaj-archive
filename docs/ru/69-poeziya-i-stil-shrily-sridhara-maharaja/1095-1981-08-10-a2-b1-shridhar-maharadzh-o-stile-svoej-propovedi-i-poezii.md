@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 26525831
   duration: 00:27:25
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1095_1981.08.10.A2.B1_SridharMj_Shridhar_Maharadzh_o_stile_svoej_propovedi_i_pojezii.mp3
 date: 1981-08-10
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6433090
   duration: 00:03:41
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/566_1982.04.25.A1_SridharMj_Upanishady_i_Bhagavatam_o_poiske_universalnogo_reshenija.mp3
 date: 1982-04-25
 category:
   title: 35. Родной дом за пределами мира смерти

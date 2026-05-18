@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6116309
   duration: 00:05:58
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3
 date: 1982-07-09
 category:
   title: 27. Служение стопам Шримати Радхарани

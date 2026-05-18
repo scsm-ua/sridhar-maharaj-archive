@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9754383
   duration: 00:09:57
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1106_1982.05.09.A1_SridharMj_Objasnenie_desjatogo_stiha_Shri_Shri_Prabhupada-padma_Stavakah.mp3
 date: 1982-05-09
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

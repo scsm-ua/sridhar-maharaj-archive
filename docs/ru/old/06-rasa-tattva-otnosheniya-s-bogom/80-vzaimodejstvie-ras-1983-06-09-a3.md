@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5737900
   duration: 00:09:12
-  mp3: /wp-content/uploads/2012/08/080_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
+  src: /wp-content/uploads/2012/08/080_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
 date: 1983-06-09
 category:
   title: (06. Раса-таттва - отношения с Богом)

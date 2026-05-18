@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17693968
   duration: 00:33:35
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
 date: 1982-01-04
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

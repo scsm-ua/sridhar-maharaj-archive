@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15388833
   duration: 00:24:10
-  mp3: /wp-content/uploads/2012/08/350_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
+  src: /wp-content/uploads/2012/08/350_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
 date: 1983-07-18
 category:
   title: (28. Духовная практика и материальные привязанности)

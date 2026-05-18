@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2287240
   duration: 00:04:14
-  mp3: /dl/18._Posvyaschenie/323_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3
+  src: /dl/18._Posvyaschenie/323_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3
 date: 1983-01-25
 category:
   title: 18. Посвящение

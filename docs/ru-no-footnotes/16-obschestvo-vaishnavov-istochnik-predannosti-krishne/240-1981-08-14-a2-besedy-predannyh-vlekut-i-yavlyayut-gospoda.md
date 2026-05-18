@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5115204
   duration: 00:08:18
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/240_1981.08.14.A2_SridharMj_Besedy_predannyh_vlekut_i_javljajut_Gospoda.mp3
 date: 1981-08-14
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

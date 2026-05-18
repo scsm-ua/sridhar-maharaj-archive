@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 5008519
   duration: 00:09:56
-  mp3: /wp-content/uploads/2012/08/060_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
+  src: /wp-content/uploads/2012/08/060_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost

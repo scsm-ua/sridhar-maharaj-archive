@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5757816
   duration: 00:11:31
-  mp3: /wp-content/uploads/2012/08/468_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga.mp3
+  src: /wp-content/uploads/2012/08/468_1981.08.20.A4_SridharMj_Glaza_chtoby_uvidet_Boga.mp3
 date: 1981-08-20
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

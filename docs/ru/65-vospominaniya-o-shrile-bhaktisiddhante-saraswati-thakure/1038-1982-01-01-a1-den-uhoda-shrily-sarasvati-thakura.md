@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6071587
   duration: 00:11:24
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1038_1982.01.01.A1_SridharMj_Den_uhoda_Shrily_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1038_1982.01.01.A1_SridharMj_Den_uhoda_Shrily_Sarasvati_Thakura.mp3
 date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

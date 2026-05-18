@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6291099
   duration: 00:11:58
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/766_1981.03.10.D1_SridharMj_Pravo_predannyh_na_Gospoda_kak_predstavitelej_svarupa-shakti.mp3
 date: 1981-03-10
 category:
   title: 49. Бхакти — величие преданности Кришне

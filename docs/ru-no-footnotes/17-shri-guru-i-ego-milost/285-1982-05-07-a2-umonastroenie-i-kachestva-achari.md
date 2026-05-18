@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10271629
   duration: 00:09:19
-  mp3: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/285_1982.05.07.A2_SridharMj_Umonastroenie_i_kachestva_achari.mp3
 date: 1982-05-07
 category:
   title: 17. Шри Гуру и его милость

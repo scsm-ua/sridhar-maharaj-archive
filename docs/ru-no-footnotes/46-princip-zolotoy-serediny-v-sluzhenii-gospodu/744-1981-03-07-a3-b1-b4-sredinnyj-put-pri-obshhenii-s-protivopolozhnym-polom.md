@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10756931
   duration: 00:19:10
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/744_1981.03.07.A3.B1.B4_SridharMj_Sredinnyj_put_pri_obshhenii_s_protivopolozhnym_polom.mp3
 date: 1981-03-07
 category:
   title: 46. Принцип «золотой середины» в служении Господу

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14184573
   duration: 00:12:51
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/502_1982.05.12.B2_SridharMj_Chto_takoe_maja__Stih_2.9.34_chaturshloki_Shrimad-Bhagavatam.mp3
 date: 1982-05-12
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

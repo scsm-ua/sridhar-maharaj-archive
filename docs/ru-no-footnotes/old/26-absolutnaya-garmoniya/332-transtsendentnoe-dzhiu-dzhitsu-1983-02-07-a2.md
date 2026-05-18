@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10062327
   duration: 00:15:50
-  mp3: /wp-content/uploads/2012/08/332_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
+  src: /wp-content/uploads/2012/08/332_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
 date: 1983-02-07
 category:
   title: (26. Абсолютная Гармония)

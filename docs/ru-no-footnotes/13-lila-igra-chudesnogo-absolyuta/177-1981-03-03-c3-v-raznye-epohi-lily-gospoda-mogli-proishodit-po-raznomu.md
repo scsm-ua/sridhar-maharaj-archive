@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2621625
   duration: 00:04:15
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
 date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта

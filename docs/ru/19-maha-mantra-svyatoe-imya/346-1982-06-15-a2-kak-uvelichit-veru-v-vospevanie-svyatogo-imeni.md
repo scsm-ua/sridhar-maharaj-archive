@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1030614
   duration: 00:00:45
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/346_1982.06.15.A2_SridharMj_Kak_uvelichit_veru_v_vospevanie_Svjatogo_Imeni.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/346_1982.06.15.A2_SridharMj_Kak_uvelichit_veru_v_vospevanie_Svjatogo_Imeni.mp3
 date: 1982-06-15
 category:
   title: 19. Маха-мантра — Святое Имя

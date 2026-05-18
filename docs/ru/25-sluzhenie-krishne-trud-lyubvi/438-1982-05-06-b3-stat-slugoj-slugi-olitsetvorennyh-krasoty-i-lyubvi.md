@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6019855
   duration: 00:05:37
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/438_1982.05.06.B3_SridharMj_Stat_slugoj_slugi_olicetvorennyh_Krasoty_i_Ljubvi.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/438_1982.05.06.B3_SridharMj_Stat_slugoj_slugi_olicetvorennyh_Krasoty_i_Ljubvi.mp3
 date: 1982-05-06
 category:
   title: 25. Служение Кришне — труд любви

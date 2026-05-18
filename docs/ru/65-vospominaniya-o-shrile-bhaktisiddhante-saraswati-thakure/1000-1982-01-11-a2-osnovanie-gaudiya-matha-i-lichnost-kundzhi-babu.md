@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23972988
   duration: 00:24:21
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1000_1982.01.11.A2_SridharMj_Osnovanie_Gaudija_Matha_i_lichnost_Kundzhi_Babu.mp3
 date: 1982-01-11
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

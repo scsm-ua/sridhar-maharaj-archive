@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4302357
   duration: 00:07:12
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3
 date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности

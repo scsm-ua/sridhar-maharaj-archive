@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2386523
   duration: 00:03:34
-  mp3: /wp-content/uploads/2012/08/128_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
+  src: /wp-content/uploads/2012/08/128_2012.07.25.11_SridharMj_Milost_guru_i_vaishnavov-osnova_duhovnogo_progressa.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

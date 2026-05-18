@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4320214
   duration: 00:05:36
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/599_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/599_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
 date: 1981-03-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии

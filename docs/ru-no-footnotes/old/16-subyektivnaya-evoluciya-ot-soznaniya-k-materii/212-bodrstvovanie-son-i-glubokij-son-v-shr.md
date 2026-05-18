@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17865352
   duration: 00:18:32
-  mp3: /wp-content/uploads/2012/08/212_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
+  src: /wp-content/uploads/2012/08/212_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii

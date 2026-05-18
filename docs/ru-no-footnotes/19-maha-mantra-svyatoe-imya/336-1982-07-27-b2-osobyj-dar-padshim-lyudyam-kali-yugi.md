@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4324549
   duration: 00:04:11
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/336_1982.07.27.B2_SridharMj_Osobyj_dar_padshim_ljudjam_Kali-jugi.mp3
 date: 1982-07-27
 category:
   title: 19. Маха-мантра — Святое Имя

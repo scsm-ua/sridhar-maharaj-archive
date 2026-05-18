@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5254615
   duration: 00:09:00
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
 date: 1982-01-17
 category:
   title: 38. Субъективная эволюция — от сознания к материи

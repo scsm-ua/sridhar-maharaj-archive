@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4335136
   duration: 00:07:47
-  mp3: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
+  src: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
 date: 1981-08-18
 category:
   title: 26. Рупануга-сампрадая

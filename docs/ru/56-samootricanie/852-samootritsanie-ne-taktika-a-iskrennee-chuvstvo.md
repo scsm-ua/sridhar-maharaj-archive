@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4507202
   duration: 00:05:21
-  mp3: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
+  src: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie

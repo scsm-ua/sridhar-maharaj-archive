@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7687293
   duration: 00:06:37
-  mp3: /dl/17._Shri_Guru_i_ego_milost/288_1983.11.28.A3_SridharMj_Guru_kak_sluga_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/288_1983.11.28.A3_SridharMj_Guru_kak_sluga_uchenikov.mp3
 date: 1983-11-28
 category:
   title: 17. Шри Гуру и его милость

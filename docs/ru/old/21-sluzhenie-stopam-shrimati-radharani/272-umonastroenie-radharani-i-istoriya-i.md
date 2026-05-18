@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6902528
   duration: 00:13:44
-  mp3: /wp-content/uploads/2012/08/272_OntologiyaPR_3.3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
+  src: /wp-content/uploads/2012/08/272_OntologiyaPR_3.3_SridharMj_Umonastroyeniye_Radharani_i_istoriya_iz_Chaitanya-Charitamrity.mp3
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani

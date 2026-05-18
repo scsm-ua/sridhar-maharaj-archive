@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14067545
   duration: 00:11:47
-  mp3: /dl/56._Samootricanie/856_1983.11.04.C2_SridharMj_Skorb_o_nesposobnosti_predatsja_Krishne.mp3
+  src: /dl/56._Samootricanie/856_1983.11.04.C2_SridharMj_Skorb_o_nesposobnosti_predatsja_Krishne.mp3
 date: 1983-11-04
 category:
   title: 56. Самоотрицание

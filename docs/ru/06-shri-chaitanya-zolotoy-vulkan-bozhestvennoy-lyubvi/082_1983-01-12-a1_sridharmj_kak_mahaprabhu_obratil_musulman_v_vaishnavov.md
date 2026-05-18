@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5216294
   duration: 00:09:03
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
 date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

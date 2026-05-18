@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7932260
   duration: 00:11:17
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/700_1982.01.26.A2_SridharMj_Svyaz_s_duhovnym_mirom_pobejdaet_materialnye_nesovershenstva.mp3
 date: 1982-01-26
 category:
   title: 41. Стремление к идеалу — истинное богатство

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10019201
   duration: 00:09:13
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3
 date: 1981-08-10
 category:
   title: 39. Иерархия мироздания — планы бытия

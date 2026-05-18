@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8458386
   duration: 00:08:39
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/007_1983.11.23.B6.C_SridharMj_Bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_Shri_Krishny.mp3
 date: 1983-11-23
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

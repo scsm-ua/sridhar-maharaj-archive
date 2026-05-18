@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9171247
   duration: 00:17:42
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
 date: 1983-04-01
 category:
   title: 15. Ведическая литература - от древности до современности

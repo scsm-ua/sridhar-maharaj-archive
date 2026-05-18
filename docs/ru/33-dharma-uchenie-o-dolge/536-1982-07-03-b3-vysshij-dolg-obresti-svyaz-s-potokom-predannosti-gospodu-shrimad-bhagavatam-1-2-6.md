@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7300002
   duration: 00:07:20
-  mp3: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/536_1982.07.03.B3_SridharMj_Vysshij_dolg--obresti_svjaz_s_potokom_predannosti_Gospodu_Shrimad_Bhagavatam_1.2.6.mp3
 date: 1982-07-03
 category:
   title: 33. Дхарма — учение о долге

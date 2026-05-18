@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3564932
   duration: 00:05:55
-  mp3: /wp-content/uploads/2012/08/183_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
+  src: /wp-content/uploads/2012/08/183_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
 date: 1983-01-05
 category:
   title: (14. Ведическая культура)

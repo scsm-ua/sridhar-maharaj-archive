@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6849546
   duration: 00:04:29
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/057_1983.11.23.B2_SridharMj_Tri_gruppy_predannyh_vo_Vrindavane___Lalita_i_Vishakha.mp3
 date: 1983-11-23
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

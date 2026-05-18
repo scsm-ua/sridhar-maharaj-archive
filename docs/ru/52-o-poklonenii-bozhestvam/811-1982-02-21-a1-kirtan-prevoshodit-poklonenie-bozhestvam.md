@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1743888
   duration: 00:02:10
-  mp3: /dl/52._O_poklonenii_Bozhestvam/811_1982.02.21.A1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/811_1982.02.21.A1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
 date: 1982-02-21
 category:
   title: 52. О поклонении Божествам

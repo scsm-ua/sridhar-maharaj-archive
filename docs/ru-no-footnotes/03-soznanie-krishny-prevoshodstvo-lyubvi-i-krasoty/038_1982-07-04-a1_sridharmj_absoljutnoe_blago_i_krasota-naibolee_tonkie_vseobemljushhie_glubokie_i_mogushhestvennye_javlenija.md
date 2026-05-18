@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3209675
   duration: 00:03:01
-  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.mp3
+  src: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/038_1982.07.04.A1_SridharMj_Absoljutnoe_Blago_i_Krasota--naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.mp3
 date: 1982-07-04
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты

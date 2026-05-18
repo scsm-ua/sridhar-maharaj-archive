@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21217678
   duration: 00:41:26
-  mp3: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
 date: 1981-08-28
 category:
   title: 17. Шри Гуру и его милость

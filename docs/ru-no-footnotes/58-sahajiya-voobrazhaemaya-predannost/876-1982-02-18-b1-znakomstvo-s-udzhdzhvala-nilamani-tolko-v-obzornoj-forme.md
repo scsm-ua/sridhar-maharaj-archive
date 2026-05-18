@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12235179
   duration: 00:10:28
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/876_1982.02.18.B1_SridharMj_Znakomstvo_s_Udzhdzhvala-nilamani--tolko_v_obzornoj_forme.mp3
 date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность

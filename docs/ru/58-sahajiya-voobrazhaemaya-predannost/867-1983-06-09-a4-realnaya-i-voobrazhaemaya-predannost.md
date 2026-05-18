@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6902648
   duration: 00:09:50
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
 date: 1983-06-09
 category:
   title: 58. Сахаджия - воображаемая преданность

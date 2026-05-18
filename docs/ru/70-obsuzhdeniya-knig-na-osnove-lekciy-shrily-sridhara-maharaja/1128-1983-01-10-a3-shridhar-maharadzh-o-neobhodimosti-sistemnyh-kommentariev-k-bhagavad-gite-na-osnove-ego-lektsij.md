@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2669828
   duration: 00:02:15
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1128_1983.01.10.A3_SridharMj_Shridhar_Maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_Bhagavad-gite_na_osnove_ego_lekcij.mp3
 date: 1983-01-10
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

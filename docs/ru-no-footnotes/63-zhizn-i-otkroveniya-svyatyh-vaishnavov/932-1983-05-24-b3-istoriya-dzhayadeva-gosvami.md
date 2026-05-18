@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7554299
   duration: 00:09:44
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/932_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/932_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
 date: 1983-05-24
 category:
   title: 63. Жизнь и откровения святых вайшнавов

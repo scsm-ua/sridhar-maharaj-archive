@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11387883
   duration: 00:23:11
-  mp3: /dl/18._Posvyaschenie/324_1982.02.15.A2_SridharMj_Neobhodimost_i_tri_raznovidnosti_dikshi.mp3
+  src: /dl/18._Posvyaschenie/324_1982.02.15.A2_SridharMj_Neobhodimost_i_tri_raznovidnosti_dikshi.mp3
 date: 1982-02-15
 category:
   title: 18. Посвящение

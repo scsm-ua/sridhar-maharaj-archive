@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 33135721
   duration: 00:32:53
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/743_1982.07.09.A1_SridharMj_Asketizm_neobhodim_v_toj_stepeni_v_kotoroj_on_sposobstvuet_sluzheniju_Krishne.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/743_1982.07.09.A1_SridharMj_Asketizm_neobhodim_v_toj_stepeni_v_kotoroj_on_sposobstvuet_sluzheniju_Krishne.mp3
 date: 1982-07-09
 category:
   title: 46. Принцип «золотой середины» в служении Господу

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6977693
   duration: 00:04:16
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3
 date: 1982-07-04
 category:
   title: 35. Родной дом за пределами мира смерти

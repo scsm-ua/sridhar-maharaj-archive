@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5549641
   duration: 00:04:05
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/586_1982.03.02.B2_SridharMj_Istochnik_soznanija_vnutri_a_ne_vovne_nas.mp3
 date: 1982-03-02
 category:
   title: 37. Душа в сферах материальной и духовной энергии

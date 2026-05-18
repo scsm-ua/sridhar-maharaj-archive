@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7536900
   duration: 00:05:35
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/868_1982.02.24.B_SridharMj_Prjamoj_kontakt_s_Krishnoj_bez_zaboty_o_predannyh--jeto_grezy.mp3
 date: 1982-02-24
 category:
   title: 58. Сахаджия - воображаемая преданность

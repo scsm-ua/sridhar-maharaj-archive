@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11719450
   duration: 00:20:02
-  mp3: /wp-content/uploads/2012/08/250_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
+  src: /wp-content/uploads/2012/08/250_1982.01.19.A1_SridharMj_Probujdenie_vnutrenney_sklonnosti_dushi.mp3
 date: 1982-01-19
 category:
   title: (19. Феноменальный мир души)

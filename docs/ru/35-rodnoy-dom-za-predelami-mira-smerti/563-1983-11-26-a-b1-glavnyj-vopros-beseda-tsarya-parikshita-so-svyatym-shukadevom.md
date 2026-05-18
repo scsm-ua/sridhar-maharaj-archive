@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 44855660
   duration: 00:43:43
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/563_1983.11.26.A.B1_SridharMj_Glavnyj_vopros_Beseda_carja_Parikshita_so_svjatym_Shukadevom.mp3
 date: 1983-11-26
 category:
   title: 35. Родной дом за пределами мира смерти

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 20619463
   duration: 00:36:56
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/575_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
 date: 1982-01-21
 category:
   title: 35. Родной дом за пределами мира смерти

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21971435
   duration: 00:20:28
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/520_1982.07.03.B2_SridharMj_Gorkaja_piljulja_dlja_obretenija_sladostnoj_garmonii.mp3
 date: 1982-07-03
 category:
   title: 32. Абсолютная гармония и милостивая истина

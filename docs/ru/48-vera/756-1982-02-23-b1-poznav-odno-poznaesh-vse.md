@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4487104
   duration: 00:09:03
-  mp3: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.mp3
+  src: /dl/48._Vera/756_1982.02.23.B1_SridharMj_Poznav_Odno--poznayesh_vse.mp3
 date: 1982-02-23
 category:
   title: 48. Вера

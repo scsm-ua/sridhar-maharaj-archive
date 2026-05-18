@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3904308
   duration: 00:09:36
-  mp3: /wp-content/uploads/2012/08/415_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
+  src: /wp-content/uploads/2012/08/415_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
 category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie

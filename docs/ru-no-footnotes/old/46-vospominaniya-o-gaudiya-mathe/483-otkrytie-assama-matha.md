@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4426824
   duration: 00:10:44
-  mp3: /wp-content/uploads/2012/08/483_2012.07.25.8_SridharMj_Otkrytiye_Assama-matha.mp3
+  src: /wp-content/uploads/2012/08/483_2012.07.25.8_SridharMj_Otkrytiye_Assama-matha.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe

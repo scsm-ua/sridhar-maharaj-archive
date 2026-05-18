@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2381469
   duration: 00:01:41
-  mp3: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3
+  src: /dl/40._Bog_i_bogi/688_1983.11.02.A5_SridharMj_Kak_vesti_sebja_v_hramah_razlichnyh_polubogov_i_Bozhestv.mp3
 date: 1983-11-02
 category:
   title: 40. Бог и боги

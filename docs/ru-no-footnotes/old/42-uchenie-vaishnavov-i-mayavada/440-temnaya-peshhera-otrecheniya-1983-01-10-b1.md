@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11884399
   duration: 00:24:34
-  mp3: /wp-content/uploads/2012/08/440_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
+  src: /wp-content/uploads/2012/08/440_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
 date: 1983-01-10
 category:
   title: (42. Учение вайшнавов и майавада)

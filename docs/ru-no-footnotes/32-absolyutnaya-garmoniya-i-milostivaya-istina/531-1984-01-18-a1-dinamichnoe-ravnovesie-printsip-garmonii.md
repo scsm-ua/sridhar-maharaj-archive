@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5712196
   duration: 00:07:04
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
 date: 1984-01-18
 category:
   title: 32. Абсолютная гармония и милостивая истина

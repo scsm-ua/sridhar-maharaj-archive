@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14473298
   duration: 00:27:23
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/258_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
 date: 1981-03-03
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

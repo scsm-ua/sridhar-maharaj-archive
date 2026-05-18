@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15531047
   duration: 00:30:05
-  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/753_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
 date: 1983-01-12
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

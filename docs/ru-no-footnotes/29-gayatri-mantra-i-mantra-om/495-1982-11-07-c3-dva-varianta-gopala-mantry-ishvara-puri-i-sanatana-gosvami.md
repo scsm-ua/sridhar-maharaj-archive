@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1976466
   duration: 00:01:05
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/495_1982.11.07.C3_SridharMj_Dva_varianta_gopala-mantry--Ishvara_Puri_i_Sanatana_Gosvami.mp3
 date: 1982-11-07
 category:
   title: 29. Гаятри-мантра и мантра ОМ

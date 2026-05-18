@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4728330
   duration: 00:08:40
-  mp3: /wp-content/uploads/2012/08/451_1982.02.17.B1_SridharMj_Hranitel_predannosti.mp3
+  src: /wp-content/uploads/2012/08/451_1982.02.17.B1_SridharMj_Hranitel_predannosti.mp3
 date: 1982-02-17
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

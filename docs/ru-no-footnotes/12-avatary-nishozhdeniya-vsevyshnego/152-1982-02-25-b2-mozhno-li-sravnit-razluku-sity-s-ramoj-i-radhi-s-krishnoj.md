@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11743806
   duration: 00:11:33
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/152_1982.02.25.B2_SridharMj_Mozhno_li_sravnit_razluku_Sity_s_Ramoj_i_Radhi_s_Krishnoj.mp3
 date: 1982-02-25
 category:
   title: 12. Аватары — нисхождения Всевышнего

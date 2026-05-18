@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2864802
   duration: 00:03:28
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1075_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1075_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.mp3
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9137070
   duration: 00:18:01
-  mp3: /wp-content/uploads/2012/08/348_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
+  src: /wp-content/uploads/2012/08/348_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
 date: 1983-03-31
 category:
   title: (27. Духовный путь)

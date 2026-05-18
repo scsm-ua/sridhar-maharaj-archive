@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11584313
   duration: 00:09:39
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/523_1982.04.29.A7.B1_SridharMj_Krishna--Absoljutnaja_Istina_darujushhaja_ispolnennost_i_jekstaz_.mp3
 date: 1982-04-29
 category:
   title: 32. Абсолютная гармония и милостивая истина

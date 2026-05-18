@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4563549
   duration: 00:09:06
-  mp3: /wp-content/uploads/2012/08/317_1981.08.30.B3_SridharMj_Klyuch_k_vratam_Vaykunthi.mp3
+  src: /wp-content/uploads/2012/08/317_1981.08.30.B3_SridharMj_Klyuch_k_vratam_Vaykunthi.mp3
 date: 1981-08-30
 category:
   title: (25. Глубокое восприятие реальности)

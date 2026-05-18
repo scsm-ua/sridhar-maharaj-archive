@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2658493
   duration: 00:02:27
-  mp3: /wp-content/uploads/2012/08/044_1983.03.29_SridharMj_Obyasnenie_imeni_Krish-na.mp3
+  src: /wp-content/uploads/2012/08/044_1983.03.29_SridharMj_Obyasnenie_imeni_Krish-na.mp3
 date: 1983-03-29
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

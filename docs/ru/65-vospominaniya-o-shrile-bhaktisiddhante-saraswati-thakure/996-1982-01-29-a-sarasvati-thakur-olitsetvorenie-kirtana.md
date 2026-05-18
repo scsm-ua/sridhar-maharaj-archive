@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22417492
   duration: 00:46:28
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/996_1982.01.29.A_SridharMj_Sarasvati_Thakur_olicetvorenie_kirtana.mp3
 date: 1982-01-29
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

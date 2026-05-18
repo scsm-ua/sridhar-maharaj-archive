@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13990012
   duration: 00:14:10
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_%E2%80%93_volny_sladostnogo_okeana_lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/180_1982.03.31.A1_SridharMj_Vremja_prostranstvo_i_rasy_%E2%80%93_volny_sladostnogo_okeana_lily.mp3
 date: 1982-03-31
 category:
   title: 13. Лила — игра чудесного Абсолюта

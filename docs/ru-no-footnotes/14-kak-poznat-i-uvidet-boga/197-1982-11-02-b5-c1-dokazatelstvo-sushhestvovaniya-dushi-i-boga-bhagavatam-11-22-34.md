@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8565697
   duration: 00:08:12
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/197_1982.11.02.B5.C1_SridharMj_Dokazatelstvo_sushhestvovanija_dushi_i_Boga__Bhagavatam_11.22.34.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/197_1982.11.02.B5.C1_SridharMj_Dokazatelstvo_sushhestvovanija_dushi_i_Boga__Bhagavatam_11.22.34.mp3
 date: 1982-11-02
 category:
   title: 14. Как познать и увидеть Бога

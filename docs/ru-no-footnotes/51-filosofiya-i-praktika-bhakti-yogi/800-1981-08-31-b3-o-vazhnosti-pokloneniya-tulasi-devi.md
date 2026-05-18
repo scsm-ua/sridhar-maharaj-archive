@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3274000
   duration: 00:04:57
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
 date: 1981-08-31
 category:
   title: 51. Философия и практика бхакти-йоги

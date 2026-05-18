@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4480239
   duration: 00:06:38
-  mp3: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
+  src: /dl/36._Proishozhdenie_dushi/578_1982.01.09.A2_SridharMj_Kratkoe_obyasnenie_proishojdeniya_dushi.mp3
 date: 1982-01-09
 category:
   title: 36. Происхождение души

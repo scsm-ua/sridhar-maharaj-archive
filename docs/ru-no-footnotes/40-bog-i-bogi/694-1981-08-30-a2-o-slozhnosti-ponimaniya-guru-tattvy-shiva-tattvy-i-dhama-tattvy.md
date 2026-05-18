@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3911408
   duration: 00:06:33
-  mp3: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
+  src: /dl/40._Bog_i_bogi/694_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
 date: 1981-08-30
 category:
   title: 40. Бог и боги

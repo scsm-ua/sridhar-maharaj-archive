@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6810353
   duration: 00:09:21
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
 date: 1983-02-07
 category:
   title: 32. Абсолютная гармония и милостивая истина

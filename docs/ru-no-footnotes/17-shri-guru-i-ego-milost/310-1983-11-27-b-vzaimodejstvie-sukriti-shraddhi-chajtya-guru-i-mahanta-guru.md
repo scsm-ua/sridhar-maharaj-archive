@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10119490
   duration: 00:09:09
-  mp3: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/310_1983.11.27.B_SridharMj_Vzaimodejstvie_sukriti_shraddhi_chajtja-guru_i_mahanta-guru.mp3
 date: 1983-11-27
 category:
   title: 17. Шри Гуру и его милость

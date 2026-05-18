@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4763456
   duration: 00:07:08
-  mp3: /wp-content/uploads/2012/08/190_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
+  src: /wp-content/uploads/2012/08/190_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti

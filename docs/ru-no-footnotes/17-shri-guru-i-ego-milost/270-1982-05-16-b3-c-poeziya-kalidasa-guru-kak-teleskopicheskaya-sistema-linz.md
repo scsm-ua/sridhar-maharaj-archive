@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23195345
   duration: 00:22:46
-  mp3: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3
 date: 1982-05-16
 category:
   title: 17. Шри Гуру и его милость

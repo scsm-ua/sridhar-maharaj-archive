@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15864414
   duration: 00:15:43
-  mp3: /dl/40._Bog_i_bogi/667_1982.05.14.A.B1_SridharMj_Gospod_Dzhagannath--vstrecha_Dvaraki_i_Vrindavana.mp3
+  src: /dl/40._Bog_i_bogi/667_1982.05.14.A.B1_SridharMj_Gospod_Dzhagannath--vstrecha_Dvaraki_i_Vrindavana.mp3
 date: 1982-05-14
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7720636
   duration: 00:14:34
-  mp3: /wp-content/uploads/2012/08/163_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
+  src: /wp-content/uploads/2012/08/163_1982.01.04.B2_SridharMj_Smysl_sannyasy_dlya_vayshnava_v_Kali-yugu.mp3
 date: 1982-01-04
 category:
   title: (12. Санньяса - отречение от мира)

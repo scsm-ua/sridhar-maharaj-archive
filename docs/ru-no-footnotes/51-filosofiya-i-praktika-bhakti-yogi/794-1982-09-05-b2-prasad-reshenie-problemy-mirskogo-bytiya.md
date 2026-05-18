@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2032661
   duration: 00:02:22
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
 date: 1982-09-05
 category:
   title: 51. Философия и практика бхакти-йоги

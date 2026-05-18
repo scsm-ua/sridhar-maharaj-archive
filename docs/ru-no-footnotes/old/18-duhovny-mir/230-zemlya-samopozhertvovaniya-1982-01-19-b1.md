@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8414353
   duration: 00:17:20
-  mp3: /wp-content/uploads/2012/08/230_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
+  src: /wp-content/uploads/2012/08/230_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
 date: 1982-01-19
 category:
   title: (18. Духовный мир)

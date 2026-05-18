@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27295650
   duration: 00:27:47
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/433_1982.05.12.C2_SridharMj_Zrelaja_forma_predannosti_Gospodu_sluzhenie_Guru_i_vajshnavam.mp3
 date: 1982-05-12
 category:
   title: 25. Служение Кришне — труд любви

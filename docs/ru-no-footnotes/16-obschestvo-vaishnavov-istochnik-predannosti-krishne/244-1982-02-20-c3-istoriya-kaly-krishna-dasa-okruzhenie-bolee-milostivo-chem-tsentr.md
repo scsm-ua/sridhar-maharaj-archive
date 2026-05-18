@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7191833
   duration: 00:06:19
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3
 date: 1982-02-20
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

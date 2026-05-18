@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2870230
   duration: 00:04:44
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1010_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1010_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
 date: 1983-01-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

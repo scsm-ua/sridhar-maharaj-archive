@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3391499
   duration: 00:05:40
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/212_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/212_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
 date: 1981-08-20
 category:
   title: 15. Ведическая литература - от древности до современности

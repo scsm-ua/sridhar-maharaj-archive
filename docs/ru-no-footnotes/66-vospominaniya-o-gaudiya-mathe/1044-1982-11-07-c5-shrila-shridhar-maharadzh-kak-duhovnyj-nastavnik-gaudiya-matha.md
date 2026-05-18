@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2930635
   duration: 00:02:31
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1044_1982.11.07.C5_SridharMj_Shrila_Shridhar_Maharadzh_kak_duhovnyj_nastavnik_Gaudija_Matha.mp3
 date: 1982-11-07
 category:
   title: 66. Воспоминания о Гаудия Матхе

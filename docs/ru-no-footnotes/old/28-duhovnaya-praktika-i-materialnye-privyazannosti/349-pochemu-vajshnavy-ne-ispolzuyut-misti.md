@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8864665
   duration: 00:16:08
-  mp3: /wp-content/uploads/2012/08/349_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
+  src: /wp-content/uploads/2012/08/349_1983.01.05.A1_SridharMj_Pochemu_vaishnavy_ne_ispolzuyut_misticheskuyu_yogu.mp3
 date: 1983-01-05
 category:
   title: (28. Духовная практика и материальные привязанности)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5803322
   duration: 00:09:55
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/372_1983.03.30.B3.1_SridharMj_Strategiya_propovedi.mp3
 date: 1983-03-30
 category:
   title: 21. Практические вопросы проповеди

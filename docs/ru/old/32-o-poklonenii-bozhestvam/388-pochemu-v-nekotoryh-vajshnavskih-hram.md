@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3422712
   duration: 00:09:37
-  mp3: /wp-content/uploads/2012/08/388_MgnoveniyaPR_4.3_SridharMj_Pochemu_v_nekotoryh_vaishnavskih_hramah_poklonyayutsya_shalagram-shile.mp3
+  src: /wp-content/uploads/2012/08/388_MgnoveniyaPR_4.3_SridharMj_Pochemu_v_nekotoryh_vaishnavskih_hramah_poklonyayutsya_shalagram-shile.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam

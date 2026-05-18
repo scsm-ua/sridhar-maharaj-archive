@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3084256
   duration: 00:05:54
-  mp3: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/535_1981.11.12.A2.3_SridharMj_Molitva_Bilvamangala_Chetyre_celi_chelovecheskoj_zhizni_sklonjajutsja_pered_predannostju.mp3
 date: 1981-11-12
 category:
   title: 33. Дхарма — учение о долге

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2900480
   duration: 00:02:45
-  mp3: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.mp3
+  src: /dl/18._Posvyaschenie/329_1982.05.06.A7_SridharMj_Svjaz_imeni_vajshnava_s_koncepciej_sluzhenija_Vishnu.mp3
 date: 1982-05-06
 category:
   title: 18. Посвящение

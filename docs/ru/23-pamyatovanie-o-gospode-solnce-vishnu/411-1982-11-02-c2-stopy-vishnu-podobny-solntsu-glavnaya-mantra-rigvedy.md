@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7952937
   duration: 00:07:00
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3
 date: 1982-11-02
 category:
   title: 23. Памятование о Господе — солнце Вишну

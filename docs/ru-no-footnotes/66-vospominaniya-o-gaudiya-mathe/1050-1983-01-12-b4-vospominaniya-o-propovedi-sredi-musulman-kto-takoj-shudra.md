@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3547372
   duration: 00:06:20
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1050_1983.01.12.B4_SridharMj_Vospominanija_o_propovedi_sredi_musulman__Kto_takoj_shudra.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1050_1983.01.12.B4_SridharMj_Vospominanija_o_propovedi_sredi_musulman__Kto_takoj_shudra.mp3
 date: 1983-01-12
 category:
   title: 66. Воспоминания о Гаудия Матхе

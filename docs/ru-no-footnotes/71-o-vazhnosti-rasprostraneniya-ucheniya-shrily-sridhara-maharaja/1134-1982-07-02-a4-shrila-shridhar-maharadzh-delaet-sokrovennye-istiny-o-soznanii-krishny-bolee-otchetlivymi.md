@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 10728804
   duration: 00:10:07
-  mp3: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3
+  src: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1134_1982.07.02.A4_SridharMj_Shrila_Shridhar_Maharadzh_delaet_sokrovennye_istiny_o_Soznanii_Krishny_bolee_otchetlivymi.mp3
 date: 1982-07-02
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа

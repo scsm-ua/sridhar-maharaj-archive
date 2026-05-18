@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2194474
   duration: 00:03:23
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3
 date: 1983-04-15
 category:
   title: 53. Шаранагати - наука предания души Господу

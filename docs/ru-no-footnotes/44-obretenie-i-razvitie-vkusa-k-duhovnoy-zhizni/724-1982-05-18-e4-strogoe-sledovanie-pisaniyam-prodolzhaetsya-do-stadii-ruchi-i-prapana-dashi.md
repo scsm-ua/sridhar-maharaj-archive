@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3109522
   duration: 00:02:23
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.mp3
 date: 1982-05-18
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

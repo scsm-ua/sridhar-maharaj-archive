@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2842197
   duration: 00:04:34
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/025_1980.07.11.A3_SridharMj_Krishna_rasplachivayetsya_bojestvennoy_lyubovyu.mp3
 date: 1980-07-11
 category:
   title: 02. Кришна — Имя, Личность, темперамент

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4127682
   duration: 00:04:02
-  mp3: /wp-content/uploads/2012/08/093_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
+  src: /wp-content/uploads/2012/08/093_1983.01.10.B2_SridharMj_Otlichie_ekspansiy_yogov_ot_ekspansiy_Krishny.mp3
 date: 1983-01-10
 category:
   title: (07. Аватары - воплощения Всевышнего)

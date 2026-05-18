@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7461867
   duration: 00:14:06
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
 date: 1983-07-28
 category:
   title: 14. Как познать и увидеть Бога

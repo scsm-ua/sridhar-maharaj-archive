@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4475800
   duration: 00:09:00
-  mp3: /wp-content/uploads/2012/08/287_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
+  src: /wp-content/uploads/2012/08/287_1982.01.17.A4_SridharMj_Istoriya_Achyutanandy_O_synovyah_Advayty_Acharyi.mp3
 date: 1982-01-17
 category:
   title: (22. Истории о жизни святых вайшнавов)

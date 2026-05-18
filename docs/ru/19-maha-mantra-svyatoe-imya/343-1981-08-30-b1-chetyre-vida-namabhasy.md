@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15088670
   duration: 00:30:47
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/343_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
 date: 1981-08-30
 category:
   title: 19. Маха-мантра — Святое Имя

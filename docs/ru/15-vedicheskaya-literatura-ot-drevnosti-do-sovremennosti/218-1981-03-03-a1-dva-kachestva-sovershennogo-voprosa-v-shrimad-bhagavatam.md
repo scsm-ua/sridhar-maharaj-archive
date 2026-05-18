@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1909625
   duration: 00:02:35
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/218_1981.03.03.A1_SridharMj_Dva_kachestva_sovershennogo_voprosa_v_Shrimad_Bhagavatam.mp3
 date: 1981-03-03
 category:
   title: 15. Ведическая литература - от древности до современности

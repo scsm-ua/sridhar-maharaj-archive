@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6180039
   duration: 00:12:31
-  mp3: /wp-content/uploads/2012/08/364_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
+  src: /wp-content/uploads/2012/08/364_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
 date: 1983-07-08
 category:
   title: (29. Деятельность в Сознании Кришны)

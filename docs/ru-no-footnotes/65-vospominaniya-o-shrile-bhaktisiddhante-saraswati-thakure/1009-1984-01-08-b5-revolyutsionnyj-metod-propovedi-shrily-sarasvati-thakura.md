@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5828128
   duration: 00:10:54
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
 date: 1984-01-08
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

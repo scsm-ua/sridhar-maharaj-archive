@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1740048
   duration: 00:02:37
-  mp3: /wp-content/uploads/2012/08/502_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
+  src: /wp-content/uploads/2012/08/502_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
 date: 1981-03-01
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

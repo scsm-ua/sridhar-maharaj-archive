@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 65770965
   duration: 01:06:41
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
 date: 1985-11-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх

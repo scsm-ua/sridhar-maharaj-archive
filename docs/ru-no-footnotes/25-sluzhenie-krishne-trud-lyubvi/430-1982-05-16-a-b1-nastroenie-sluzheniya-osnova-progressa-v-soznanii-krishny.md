@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13588678
   duration: 00:13:30
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
 date: 1982-05-16
 category:
   title: 25. Служение Кришне — труд любви

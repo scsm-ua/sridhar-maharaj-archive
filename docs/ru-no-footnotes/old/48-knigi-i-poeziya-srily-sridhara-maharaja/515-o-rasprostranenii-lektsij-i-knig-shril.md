@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1716485
   duration: 00:03:00
-  mp3: /wp-content/uploads/2012/08/515_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
+  src: /wp-content/uploads/2012/08/515_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
 date: 1983-05-09
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

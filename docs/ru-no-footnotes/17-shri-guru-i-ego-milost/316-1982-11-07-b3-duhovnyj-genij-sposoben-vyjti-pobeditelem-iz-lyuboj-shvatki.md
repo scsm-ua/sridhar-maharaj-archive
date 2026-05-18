@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2588286
   duration: 00:01:18
-  mp3: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.mp3
 date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость

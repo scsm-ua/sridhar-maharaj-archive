@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7241728
   duration: 00:10:40
-  mp3: /wp-content/uploads/2012/08/151_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
+  src: /wp-content/uploads/2012/08/151_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny

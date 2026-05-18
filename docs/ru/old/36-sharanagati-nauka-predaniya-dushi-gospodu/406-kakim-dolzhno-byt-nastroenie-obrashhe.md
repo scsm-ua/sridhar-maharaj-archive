@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4022178
   duration: 00:06:59
-  mp3: /wp-content/uploads/2012/08/406_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
+  src: /wp-content/uploads/2012/08/406_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
 date: 1983-05-06
 category:
   title: (36. Шаранагати - наука предания души Господу)

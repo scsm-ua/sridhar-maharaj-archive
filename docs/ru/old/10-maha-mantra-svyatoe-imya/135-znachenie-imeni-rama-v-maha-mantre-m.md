@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7510872
   duration: 00:19:43
-  mp3: /wp-content/uploads/2012/08/135_MgnoveniyaPR_1.5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
+  src: /wp-content/uploads/2012/08/135_MgnoveniyaPR_1.5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya

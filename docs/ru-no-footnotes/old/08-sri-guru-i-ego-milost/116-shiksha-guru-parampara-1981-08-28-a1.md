@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21072270
   duration: 00:41:26
-  mp3: /wp-content/uploads/2012/08/116_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
+  src: /wp-content/uploads/2012/08/116_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
 date: 1981-08-28
 category:
   title: (08. Шри Гуру и его милость)

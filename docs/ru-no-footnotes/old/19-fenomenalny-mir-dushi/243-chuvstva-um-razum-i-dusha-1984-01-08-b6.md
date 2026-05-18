@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6031025
   duration: 00:08:11
-  mp3: /wp-content/uploads/2012/08/243_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
+  src: /wp-content/uploads/2012/08/243_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
 date: 1984-01-08
 category:
   title: (19. Феноменальный мир души)

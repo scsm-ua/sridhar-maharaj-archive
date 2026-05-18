@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17708543
   duration: 00:41:15
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
 date: 1982-01-24
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

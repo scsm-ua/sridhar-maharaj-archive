@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 10439858
   duration: 00:09:11
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.mp3
 date: 1982-11-07
 category:
   title: 37. Душа в сферах материальной и духовной энергии

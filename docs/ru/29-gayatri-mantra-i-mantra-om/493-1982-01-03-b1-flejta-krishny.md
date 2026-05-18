@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4803752
   duration: 00:08:04
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/493_1982.01.03.B1_SridharMj_Fleyta_Krishny.mp3
 date: 1982-01-03
 category:
   title: 29. Гаятри-мантра и мантра ОМ

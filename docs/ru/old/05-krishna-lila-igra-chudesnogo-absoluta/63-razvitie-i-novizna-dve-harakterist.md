@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2378056
   duration: 00:05:12
-  mp3: /wp-content/uploads/2012/08/063_MgnoveniyaPR_2.5_SridharMj_Razvitiye_i_novizna–dve_harakteristiki_lily_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/063_MgnoveniyaPR_2.5_SridharMj_Razvitiye_i_novizna–dve_harakteristiki_lily_Gospoda.mp3
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta

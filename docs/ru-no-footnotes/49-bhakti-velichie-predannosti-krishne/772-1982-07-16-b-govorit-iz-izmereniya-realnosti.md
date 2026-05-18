@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4974946
   duration: 00:04:37
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/772_1982.07.16.B_SridharMj_Govorit_iz_izmerenija_Realnosti.mp3
 date: 1982-07-16
 category:
   title: 49. Бхакти — величие преданности Кришне

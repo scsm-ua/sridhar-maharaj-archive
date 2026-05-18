@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4318218
   duration: 00:03:07
-  mp3: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

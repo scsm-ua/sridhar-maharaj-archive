@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4595566
   duration: 00:03:34
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/956_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
 date: 1985-05-01
 category:
   title: 63. Жизнь и откровения святых вайшнавов

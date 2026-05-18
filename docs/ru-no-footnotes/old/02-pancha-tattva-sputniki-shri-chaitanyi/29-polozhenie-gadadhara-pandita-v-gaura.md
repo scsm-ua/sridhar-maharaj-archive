@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3327373
   duration: 00:06:42
-  mp3: /wp-content/uploads/2012/08/029_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
+  src: /wp-content/uploads/2012/08/029_1983.05.12.C1_SridharMj_Polojenie_Gadadhara_pandita_v_gaura-lile.mp3
 date: 1983-05-12
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4403782
   duration: 00:07:21
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.mp3
 date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3657222
   duration: 00:07:28
-  mp3: /wp-content/uploads/2012/08/203_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
+  src: /wp-content/uploads/2012/08/203_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
 date: 1983-01-12
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

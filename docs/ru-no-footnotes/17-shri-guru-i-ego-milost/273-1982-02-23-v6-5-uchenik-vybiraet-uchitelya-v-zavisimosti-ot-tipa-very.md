@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5550424
   duration: 00:11:21
-  mp3: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
 date: 1982-02-23
 category:
   title: 17. Шри Гуру и его милость

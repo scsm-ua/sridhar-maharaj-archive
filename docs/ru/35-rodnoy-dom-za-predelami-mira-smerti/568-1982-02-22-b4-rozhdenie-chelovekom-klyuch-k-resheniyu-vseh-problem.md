@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6113304
   duration: 00:08:53
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
 date: 1982-02-22
 category:
   title: 35. Родной дом за пределами мира смерти

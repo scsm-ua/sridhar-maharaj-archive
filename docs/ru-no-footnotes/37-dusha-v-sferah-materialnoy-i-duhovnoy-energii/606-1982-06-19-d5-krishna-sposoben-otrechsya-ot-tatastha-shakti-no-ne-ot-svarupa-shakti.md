@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2995169
   duration: 00:01:25
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/606_1982.06.19.D5_SridharMj_Krishna_sposoben_otrechsja_ot_tatastha-shakti_no_ne_ot_svarupa-shakti.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/606_1982.06.19.D5_SridharMj_Krishna_sposoben_otrechsja_ot_tatastha-shakti_no_ne_ot_svarupa-shakti.mp3
 date: 1982-06-19
 category:
   title: 37. Душа в сферах материальной и духовной энергии

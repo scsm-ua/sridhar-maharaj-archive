@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3745521
   duration: 00:06:36
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/824_1981.11.12.A2.1_SridharMj_Molitva_Madhavendry_Puri_Prinjat_pribezhishhe_v_Gospode.mp3
 date: 1981-11-12
 category:
   title: 53. Шаранагати - наука предания души Господу

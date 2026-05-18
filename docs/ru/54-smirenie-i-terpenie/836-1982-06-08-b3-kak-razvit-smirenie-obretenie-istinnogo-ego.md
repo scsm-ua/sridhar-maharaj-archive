@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7814959
   duration: 00:07:15
-  mp3: /dl/54._Smirenie_i_terpenie/836_1982.06.08.B3_SridharMj_Kak_razvit_smirenie__Obretenie_istinnogo_jego.mp3
+  src: /dl/54._Smirenie_i_terpenie/836_1982.06.08.B3_SridharMj_Kak_razvit_smirenie__Obretenie_istinnogo_jego.mp3
 date: 1982-06-08
 category:
   title: 54. Смирение и терпение

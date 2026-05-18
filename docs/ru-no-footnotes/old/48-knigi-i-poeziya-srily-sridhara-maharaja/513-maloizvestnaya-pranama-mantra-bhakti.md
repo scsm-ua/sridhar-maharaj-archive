@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7402048
   duration: 00:14:50
-  mp3: /wp-content/uploads/2012/08/513_OntologiyaPR_1.10_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
+  src: /wp-content/uploads/2012/08/513_OntologiyaPR_1.10_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja

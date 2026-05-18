@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5338779
   duration: 00:09:55
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/173_1981.03.03.C4_SridharMj_Lev_syedayet_Prasenu.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/173_1981.03.03.C4_SridharMj_Lev_syedayet_Prasenu.mp3
 date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта

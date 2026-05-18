@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7247224
   duration: 00:07:18
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
 date: 1983-11-11
 category:
   title: 28. Молитвы и умонастроение гопи

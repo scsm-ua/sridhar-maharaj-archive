@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2942208
   duration: 00:04:56
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/831_1982.02.19.B1_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
 date: 1982-02-19
 category:
   title: 53. Шаранагати - наука предания души Господу

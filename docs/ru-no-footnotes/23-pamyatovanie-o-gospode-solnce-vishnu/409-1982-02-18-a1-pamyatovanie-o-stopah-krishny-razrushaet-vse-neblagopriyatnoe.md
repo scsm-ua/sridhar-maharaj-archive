@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3575040
   duration: 00:04:53
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
 date: 1982-02-18
 category:
   title: 23. Памятование о Господе — солнце Вишну

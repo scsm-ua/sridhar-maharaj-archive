@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 66791893
   duration: 01:06:41
-  mp3: /wp-content/uploads/2012/08/493_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
+  src: /wp-content/uploads/2012/08/493_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
 date: 1985-11-07
 category:
   title: (46. Шри Чайтанья Сарасват Матх)

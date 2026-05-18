@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1763496
   duration: 00:02:20
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/647_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/647_MgnoveniyaPR_4.7_SridharMj_Adhokshadja_aprakrita_transcendentnoe.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii

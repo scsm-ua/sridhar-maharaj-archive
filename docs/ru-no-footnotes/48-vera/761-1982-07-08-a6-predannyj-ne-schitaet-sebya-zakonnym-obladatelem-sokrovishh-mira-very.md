@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9309915
   duration: 00:08:34
-  mp3: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3
+  src: /dl/48._Vera/761_1982.07.08.A6_SridharMj_Predannyj_ne_schitaet_sebja_zakonnym_obladatelem_sokrovishh_mira_very.mp3
 date: 1982-07-08
 category:
   title: 48. Вера

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25699584
   duration: 00:25:48
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/637_1982.07.29.A.B1_SridharMj_Subektivnaja_i_mnogomernaja_kosmologija_Shrimad_Bhagavatam.mp3
 date: 1982-07-29
 category:
   title: 38. Субъективная эволюция — от сознания к материи

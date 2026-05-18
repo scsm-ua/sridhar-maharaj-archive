@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16297253
   duration: 00:32:26
-  mp3: /wp-content/uploads/2012/08/176_1983.01.22.A.B_SridharMj_Vedicheskaya_civilizaciya_i_sovremennost.mp3
+  src: /wp-content/uploads/2012/08/176_1983.01.22.A.B_SridharMj_Vedicheskaya_civilizaciya_i_sovremennost.mp3
 date: 1983-01-22
 category:
   title: (14. Ведическая культура)

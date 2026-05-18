@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9628118
   duration: 00:08:51
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
 date: 1982-05-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

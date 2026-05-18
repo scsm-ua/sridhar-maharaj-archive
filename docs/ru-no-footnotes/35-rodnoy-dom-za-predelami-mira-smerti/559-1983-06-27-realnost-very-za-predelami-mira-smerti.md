@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 41020515
   duration: 01:08:26
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/559_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/559_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti.mp3
 date: 1983-06-27
 category:
   title: 35. Родной дом за пределами мира смерти

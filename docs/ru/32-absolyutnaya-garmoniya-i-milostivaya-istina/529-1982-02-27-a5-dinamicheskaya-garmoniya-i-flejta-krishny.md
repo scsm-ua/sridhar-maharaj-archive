@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5148160
   duration: 00:05:53
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
 date: 1982-02-27
 category:
   title: 32. Абсолютная гармония и милостивая истина

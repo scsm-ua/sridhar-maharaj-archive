@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5371665
   duration: 00:08:44
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/660_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/660_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
 date: 1983-01-06
 category:
   title: 39. Иерархия мироздания — планы бытия

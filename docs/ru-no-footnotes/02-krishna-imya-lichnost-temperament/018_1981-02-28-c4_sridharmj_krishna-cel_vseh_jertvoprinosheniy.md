@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5395247
   duration: 00:09:46
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/018_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/018_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
 date: 1981-02-28
 category:
   title: 02. Кришна — Имя, Личность, темперамент

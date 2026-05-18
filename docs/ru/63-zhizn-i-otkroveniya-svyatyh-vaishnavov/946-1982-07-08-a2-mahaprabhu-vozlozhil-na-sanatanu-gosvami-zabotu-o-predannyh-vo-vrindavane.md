@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5493550
   duration: 00:02:43
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/946_1982.07.08.A2_SridharMj_Mahaprabhu_vozlozhil_na_Sanatanu_Gosvami_zabotu_o_predannyh_vo_Vrindavane.mp3
 date: 1982-07-08
 category:
   title: 63. Жизнь и откровения святых вайшнавов

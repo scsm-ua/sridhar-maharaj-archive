@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9655714
   duration: 00:09:19
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/017_1982.07.09.B2_SridharMj_Poznanie_Krishny--sut_vseh_Ved.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/017_1982.07.09.B2_SridharMj_Poznanie_Krishny--sut_vseh_Ved.mp3
 date: 1982-07-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент

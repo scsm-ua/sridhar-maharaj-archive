@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1922267
   duration: 00:01:01
-  mp3: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.mp3
 date: 1982-02-22
 category:
   title: 52. О поклонении Божествам

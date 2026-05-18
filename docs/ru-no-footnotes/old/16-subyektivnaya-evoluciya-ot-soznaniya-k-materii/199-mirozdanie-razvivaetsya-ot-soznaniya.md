@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4219873
   duration: 00:08:39
-  mp3: /wp-content/uploads/2012/08/199_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3
+  src: /wp-content/uploads/2012/08/199_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3
 date: 1981-02-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

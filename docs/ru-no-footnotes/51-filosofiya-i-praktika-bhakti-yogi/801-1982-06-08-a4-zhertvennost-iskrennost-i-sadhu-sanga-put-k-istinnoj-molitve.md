@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3092188
   duration: 00:02:17
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/801_1982.06.08.A4_SridharMj_Zhertvennost_iskrennost_i_sadhu-sanga--put_k_istinnoj_molitve.mp3
 date: 1982-06-08
 category:
   title: 51. Философия и практика бхакти-йоги

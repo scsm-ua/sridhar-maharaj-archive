@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6289063
   duration: 00:05:35
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3
 date: 1982-05-10
 category:
   title: 38. Субъективная эволюция — от сознания к материи

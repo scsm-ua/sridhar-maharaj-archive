@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7672633
   duration: 00:05:34
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
 date: 1982-02-15
 category:
   title: 32. Абсолютная гармония и милостивая истина

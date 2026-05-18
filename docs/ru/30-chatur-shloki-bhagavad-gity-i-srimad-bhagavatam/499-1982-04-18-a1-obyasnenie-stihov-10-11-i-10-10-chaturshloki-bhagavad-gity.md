@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13049814
   duration: 00:11:40
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/499_1982.04.18.A1_SridharMj_Objasnenie_stihov_10.11_i_10.10_chaturshloki_Bhagavad-gity.mp3
 date: 1982-04-18
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

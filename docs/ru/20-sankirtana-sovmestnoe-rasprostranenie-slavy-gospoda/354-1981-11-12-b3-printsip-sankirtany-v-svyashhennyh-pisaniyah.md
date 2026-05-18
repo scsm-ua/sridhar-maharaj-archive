@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7198772
   duration: 00:14:34
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/354_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
 date: 1981-11-12
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4752906
   duration: 00:05:31
-  mp3: /wp-content/uploads/2012/08/245_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
+  src: /wp-content/uploads/2012/08/245_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
 date: 1981-03-01
 category:
   title: (19. Феноменальный мир души)

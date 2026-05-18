@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7032091
   duration: 00:14:07
-  mp3: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
 date: 1983-07-08
 category:
   title: 33. Дхарма — учение о долге

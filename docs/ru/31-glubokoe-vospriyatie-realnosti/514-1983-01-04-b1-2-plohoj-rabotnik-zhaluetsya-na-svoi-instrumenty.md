@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3156905
   duration: 00:04:49
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
 date: 1983-01-04
 category:
   title: 31. Глубокое восприятие реальности

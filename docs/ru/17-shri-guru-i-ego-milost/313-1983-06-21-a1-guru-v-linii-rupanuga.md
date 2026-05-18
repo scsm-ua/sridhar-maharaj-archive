@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13001227
   duration: 00:24:19
-  mp3: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/313_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
 date: 1983-06-21
 category:
   title: 17. Шри Гуру и его милость

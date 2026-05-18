@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10246353
   duration: 00:18:04
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
 date: 1981-08-14
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

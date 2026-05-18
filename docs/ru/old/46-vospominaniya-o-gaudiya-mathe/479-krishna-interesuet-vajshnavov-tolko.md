@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 1787312
   duration: 00:03:14
-  mp3: /wp-content/uploads/2012/08/479_MgnoveniyaPR_6.7_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
+  src: /wp-content/uploads/2012/08/479_MgnoveniyaPR_6.7_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe

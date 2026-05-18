@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13582660
   duration: 00:14:00
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/001_1982.05.01.A4_SridharMj_Objasnenie_vyrazhenija_Prekrasnaja_Realnost_Bytie_i_soznanie_v_poiske_Krasoty.mp3
 date: 1982-05-01
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

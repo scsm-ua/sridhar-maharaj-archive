@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10530910
   duration: 00:09:47
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
 date: 1983-11-13
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

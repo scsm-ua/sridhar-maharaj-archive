@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5189440
   duration: 00:09:25
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
 date: 1982-02-28
 category:
   title: 15. Ведическая литература - от древности до современности

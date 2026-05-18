@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6951403
   duration: 00:13:25
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1047_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
 date: 1982-01-13
 category:
   title: 66. Воспоминания о Гаудия Матхе

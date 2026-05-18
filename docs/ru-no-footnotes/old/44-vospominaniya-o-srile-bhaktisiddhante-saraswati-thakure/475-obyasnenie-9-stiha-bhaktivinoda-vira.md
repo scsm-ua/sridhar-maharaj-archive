@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4948437
   duration: 00:09:50
-  mp3: /wp-content/uploads/2012/08/475_1983.06.05.C3_SridharMj_Obyasnenie_9go_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
+  src: /wp-content/uploads/2012/08/475_1983.06.05.C3_SridharMj_Obyasnenie_9go_stiha_Bhaktivinoda-viraha-dashakam_i_pesni_Guru-parampara.mp3
 date: 1983-06-05
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

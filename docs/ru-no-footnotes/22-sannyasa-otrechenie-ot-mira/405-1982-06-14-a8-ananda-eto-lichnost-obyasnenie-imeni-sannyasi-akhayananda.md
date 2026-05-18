@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10203147
   duration: 00:09:32
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/405_1982.06.14.A8_SridharMj_Ananda_jeto_Lichnost__Objasnenie_imeni_sannjasi_Akhajananda.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/405_1982.06.14.A8_SridharMj_Ananda_jeto_Lichnost__Objasnenie_imeni_sannjasi_Akhajananda.mp3
 date: 1982-06-14
 category:
   title: 22. Санньяса — отречение от мира

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6033962
   duration: 00:09:31
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3
 date: 1981-08-31
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

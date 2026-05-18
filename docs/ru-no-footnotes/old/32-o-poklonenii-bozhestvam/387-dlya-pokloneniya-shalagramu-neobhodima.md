@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1983833
   duration: 00:03:48
-  mp3: /wp-content/uploads/2012/08/387_1983.05.06.B3_SridharMj_Dlya_pokloneniya_Shalagramu_neobhodima_osobaya_kvalifikaciya-.mp3
+  src: /wp-content/uploads/2012/08/387_1983.05.06.B3_SridharMj_Dlya_pokloneniya_Shalagramu_neobhodima_osobaya_kvalifikaciya-.mp3
 date: 1983-05-06
 category:
   title: (32. О поклонении Божествам)

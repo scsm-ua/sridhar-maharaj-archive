@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9338285
   duration: 00:17:30
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3
 date: 1981-03-04
 category:
   title: 38. Субъективная эволюция — от сознания к материи

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2632526
   duration: 00:03:08
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/250_1982.02.23.C2_SridharMj_Vyskazyvanija_vajshnavov_sleduet_ponimat_v_pravilnom_kontekste.mp3
 date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

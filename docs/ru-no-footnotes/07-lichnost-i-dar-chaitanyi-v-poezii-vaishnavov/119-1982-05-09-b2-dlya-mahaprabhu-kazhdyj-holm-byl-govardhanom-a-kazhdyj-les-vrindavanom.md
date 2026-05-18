@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2142342
   duration: 00:00:42
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/119_1982.05.09.B2_SridharMj_Dlja_Mahaprabhu_kazhdyj_holm_byl_Govardhanom_a_kazhdyj_les--Vrindavanom.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/119_1982.05.09.B2_SridharMj_Dlja_Mahaprabhu_kazhdyj_holm_byl_Govardhanom_a_kazhdyj_les--Vrindavanom.mp3
 date: 1982-05-09
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

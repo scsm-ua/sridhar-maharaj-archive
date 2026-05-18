@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4858859
   duration: 00:04:40
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/194_1982.05.14.B2_SridharMj_Vechnaja_priroda_ciklichnyj_harakter_i_odnovremennoe_sosushhestvovanie_v_lile.mp3
 date: 1982-05-14
 category:
   title: 13. Лила — игра чудесного Абсолюта

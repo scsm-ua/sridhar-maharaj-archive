@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2507890
   duration: 00:01:41
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/908_1981.03.08.B2_SridharMj_Koncepcija_Boga_v_Hristianstve_i_v_Vajshnavizme.mp3
 date: 1981-03-08
 category:
   title: 60. Учение вайшнавов и Христианство

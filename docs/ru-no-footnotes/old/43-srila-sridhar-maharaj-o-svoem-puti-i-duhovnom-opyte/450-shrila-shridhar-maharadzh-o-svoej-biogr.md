@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 47729560
   duration: 01:22:09
-  mp3: /wp-content/uploads/2012/08/450_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe.mp3
+  src: /wp-content/uploads/2012/08/450_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe.mp3
 date: 1983-07-25
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

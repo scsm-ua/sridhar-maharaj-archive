@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5023837
   duration: 00:09:06
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/510_1981.08.30.B3_SridharMj_Kljuch_k_vratam_Vajkunthi_Nastroenie_vtorogo_stiha_Shikshashtaki.mp3
 date: 1981-08-30
 category:
   title: 31. Глубокое восприятие реальности

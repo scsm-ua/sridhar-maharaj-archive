@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16834592
   duration: 00:14:53
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/067_1982.04.16.B2_SridharMj_Druzja_i_vragi_Krishny_obretajut_osvobozhdenie_no_raznogo_tipa.mp3
 date: 1982-04-16
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

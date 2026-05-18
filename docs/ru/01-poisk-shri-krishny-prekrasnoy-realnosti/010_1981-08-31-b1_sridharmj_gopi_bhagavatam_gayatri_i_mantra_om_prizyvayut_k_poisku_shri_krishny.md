@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7950148
   duration: 00:16:15
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/010_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
 date: 1981-08-31
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

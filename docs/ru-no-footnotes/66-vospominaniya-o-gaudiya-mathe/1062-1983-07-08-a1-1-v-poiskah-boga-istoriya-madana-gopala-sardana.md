@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1829010
   duration: 00:02:45
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3
 date: 1983-07-08
 category:
   title: 66. Воспоминания о Гаудия Матхе

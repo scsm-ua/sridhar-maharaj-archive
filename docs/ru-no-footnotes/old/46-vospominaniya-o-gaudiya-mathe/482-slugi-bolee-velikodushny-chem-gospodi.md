@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2857882
   duration: 00:06:28
-  mp3: /wp-content/uploads/2012/08/482_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
+  src: /wp-content/uploads/2012/08/482_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe

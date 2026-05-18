@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3565474
   duration: 00:05:26
-  mp3: /dl/52._O_poklonenii_Bozhestvam/807_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/807_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
 date: 1982-02-17
 category:
   title: 52. О поклонении Божествам

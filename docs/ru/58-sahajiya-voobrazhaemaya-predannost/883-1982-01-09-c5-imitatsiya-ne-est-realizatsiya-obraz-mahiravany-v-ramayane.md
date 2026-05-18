@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9479784
   duration: 00:15:12
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
 date: 1982-01-09
 category:
   title: 58. Сахаджия - воображаемая преданность

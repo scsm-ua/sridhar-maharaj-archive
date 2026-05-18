@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4973484
   duration: 00:10:10
-  mp3: /wp-content/uploads/2012/08/442_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
+  src: /wp-content/uploads/2012/08/442_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
 date: 1981-03-05
 category:
   title: (42. Учение вайшнавов и майавада)

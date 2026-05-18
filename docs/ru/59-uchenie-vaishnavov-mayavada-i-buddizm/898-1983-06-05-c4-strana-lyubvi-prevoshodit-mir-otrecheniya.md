@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4747398
   duration: 00:09:40
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
 date: 1983-06-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

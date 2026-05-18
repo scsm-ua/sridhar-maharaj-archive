@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7210672
   duration: 00:17:11
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/110_1982.02.23.A3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi___Molitva_Krishnadasa_Kaviradzha.mp3
 date: 1982-02-23
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27702211
   duration: 00:45:59
-  mp3: /wp-content/uploads/2012/08/118_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
+  src: /wp-content/uploads/2012/08/118_1983.06.10_SridharMj_Uglublennoe_vospriyatie_guru-tattvy.mp3
 date: 1983-06-10
 category:
   title: (08. Шри Гуру и его милость)

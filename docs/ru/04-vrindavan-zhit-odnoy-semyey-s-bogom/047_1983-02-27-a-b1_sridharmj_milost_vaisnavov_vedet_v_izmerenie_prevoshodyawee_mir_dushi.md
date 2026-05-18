@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17415974
   duration: 00:10:00
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/047_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
 date: 1983-02-27
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

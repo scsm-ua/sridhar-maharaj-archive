@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3713014
   duration: 00:02:29
-  mp3: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

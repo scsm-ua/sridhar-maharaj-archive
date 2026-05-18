@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 1150046
   duration: 00:01:03
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/003_1982.11.07.B2_SridharMj_Dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_Gospode.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/003_1982.11.07.B2_SridharMj_Dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_Gospode.mp3
 date: 1982-11-07
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

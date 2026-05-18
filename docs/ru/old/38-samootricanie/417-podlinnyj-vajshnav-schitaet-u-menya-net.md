@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7069843
   duration: 00:06:47
-  mp3: /wp-content/uploads/2012/08/417_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3
+  src: /wp-content/uploads/2012/08/417_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3
 date: 1981-11-12
 category:
   title: (38. Самоотрицание)

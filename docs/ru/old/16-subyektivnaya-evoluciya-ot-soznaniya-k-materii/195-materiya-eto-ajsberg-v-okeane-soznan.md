@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4416940
   duration: 00:09:03
-  mp3: /wp-content/uploads/2012/08/195_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
+  src: /wp-content/uploads/2012/08/195_1982.01.25.A2_SridharMj_Materiya-eto_aysberg_v_okeane_soznaniya.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii

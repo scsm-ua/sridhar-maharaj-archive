@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3113943
   duration: 00:03:49
-  mp3: /wp-content/uploads/2012/08/045_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3
+  src: /wp-content/uploads/2012/08/045_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3
 date: 1983-04-25
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

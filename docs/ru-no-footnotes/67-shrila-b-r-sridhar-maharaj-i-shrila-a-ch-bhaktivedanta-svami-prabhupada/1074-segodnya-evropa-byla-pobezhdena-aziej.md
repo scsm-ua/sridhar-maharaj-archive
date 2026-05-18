@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4756937
   duration: 00:08:59
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1074_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobejdena_Aziyey.mp3
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada

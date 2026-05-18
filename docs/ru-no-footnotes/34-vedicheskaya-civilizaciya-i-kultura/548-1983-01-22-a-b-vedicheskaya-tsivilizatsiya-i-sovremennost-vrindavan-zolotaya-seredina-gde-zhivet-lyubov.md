@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 16235301
   duration: 00:32:26
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/548_1983.01.22.A.B_SridharMj_Vedicheskaja_civilizacija_i_sovremennost_Vrindavan_zolotaja_seredina_gde_zhivet_ljubov.mp3
 date: 1983-01-22
 category:
   title: 34. Ведическая цивилизация и культура

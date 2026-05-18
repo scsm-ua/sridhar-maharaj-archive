@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16615696
   duration: 00:33:35
-  mp3: /wp-content/uploads/2012/08/498_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
+  src: /wp-content/uploads/2012/08/498_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
 date: 1982-01-04
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

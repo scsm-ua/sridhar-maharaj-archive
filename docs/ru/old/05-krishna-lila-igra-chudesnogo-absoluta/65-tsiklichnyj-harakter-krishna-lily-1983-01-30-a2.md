@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4885640
   duration: 00:08:46
-  mp3: /wp-content/uploads/2012/08/065_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
+  src: /wp-content/uploads/2012/08/065_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
 date: 1983-01-30
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4830971
   duration: 00:09:44
-  mp3: /wp-content/uploads/2012/08/295_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
+  src: /wp-content/uploads/2012/08/295_1983.05.24.B3_SridharMj_Istoriya_Jayadeva_Goswami.mp3
 date: 1983-05-24
 category:
   title: (22. Истории о жизни святых вайшнавов)

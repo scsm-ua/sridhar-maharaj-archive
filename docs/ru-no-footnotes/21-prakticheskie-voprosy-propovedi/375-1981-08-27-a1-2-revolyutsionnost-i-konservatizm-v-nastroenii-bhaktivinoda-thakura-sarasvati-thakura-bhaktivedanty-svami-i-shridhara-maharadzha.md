@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 5426615
   duration: 00:09:32
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3
 date: 1981-08-27
 category:
   title: 21. Практические вопросы проповеди

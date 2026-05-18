@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9903679
   duration: 00:18:26
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/398_1983.01.22.C2_SridharMj_O_kvalifikacii_dlya_prinyatiya_sannyasy.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/398_1983.01.22.C2_SridharMj_O_kvalifikacii_dlya_prinyatiya_sannyasy.mp3
 date: 1983-01-22
 category:
   title: 22. Санньяса — отречение от мира

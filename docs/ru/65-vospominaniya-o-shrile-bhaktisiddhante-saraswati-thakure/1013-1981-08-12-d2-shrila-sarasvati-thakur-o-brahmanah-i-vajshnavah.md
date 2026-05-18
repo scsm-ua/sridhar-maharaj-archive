@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10837786
   duration: 00:21:20
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1013_1981.08.12.D2_SridharMj_Shrila_Sarasvati_Thakur_o_brahmanah_i_vajshnavah.mp3
 date: 1981-08-12
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

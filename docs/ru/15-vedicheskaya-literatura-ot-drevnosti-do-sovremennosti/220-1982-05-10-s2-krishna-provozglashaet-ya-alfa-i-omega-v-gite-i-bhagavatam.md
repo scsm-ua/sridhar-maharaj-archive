@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3985835
   duration: 00:03:27
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/220_1982.05.10.C2_SridharMj_Krishna_provozglashaet_Ja--Alfa_i_Omega_v_Gite_i_Bhagavatam.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/220_1982.05.10.C2_SridharMj_Krishna_provozglashaet_Ja--Alfa_i_Omega_v_Gite_i_Bhagavatam.mp3
 date: 1982-05-10
 category:
   title: 15. Ведическая литература - от древности до современности

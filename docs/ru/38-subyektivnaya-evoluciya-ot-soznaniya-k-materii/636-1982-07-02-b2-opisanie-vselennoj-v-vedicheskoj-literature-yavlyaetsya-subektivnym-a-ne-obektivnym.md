@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 9073507
   duration: 00:08:29
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/636_1982.07.02.B2_SridharMj_Opisanie_Vselennoj_v_vedicheskoj_literature_javljaetsja_subektivnym_a_ne_obektivnym.mp3
 date: 1982-07-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи

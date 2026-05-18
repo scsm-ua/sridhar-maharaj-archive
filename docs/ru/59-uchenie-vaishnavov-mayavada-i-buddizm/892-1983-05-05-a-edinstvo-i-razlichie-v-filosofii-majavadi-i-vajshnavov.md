@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7237181
   duration: 00:14:51
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/892_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
 date: 1983-05-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

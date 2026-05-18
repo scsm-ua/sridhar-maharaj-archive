@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17644093
   duration: 00:18:08
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/136_1982.01.11.A1_SridharMj_Objasnenie_pojemy_Ramanandy_Raja_i_pesni_Mahaprabhu_pered_Dzhagannathom.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/136_1982.01.11.A1_SridharMj_Objasnenie_pojemy_Ramanandy_Raja_i_pesni_Mahaprabhu_pered_Dzhagannathom.mp3
 date: 1982-01-11
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

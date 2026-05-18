@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2035722
   duration: 00:01:51
-  mp3: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.mp3
+  src: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.mp3
 date: 1982-05-06
 category:
   title: 18. Посвящение

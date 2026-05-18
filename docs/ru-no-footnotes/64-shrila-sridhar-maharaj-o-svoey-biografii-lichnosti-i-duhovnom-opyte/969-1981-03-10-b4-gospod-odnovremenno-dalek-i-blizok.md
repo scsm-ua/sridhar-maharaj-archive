@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2434475
   duration: 00:03:18
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3
 date: 1981-03-10
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

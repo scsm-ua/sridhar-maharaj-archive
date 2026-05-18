@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2885018
   duration: 00:06:28
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1025_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1025_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure

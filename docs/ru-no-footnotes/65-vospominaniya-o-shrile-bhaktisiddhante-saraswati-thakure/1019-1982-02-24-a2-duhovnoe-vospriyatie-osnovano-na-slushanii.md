@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2936684
   duration: 00:02:26
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.mp3
 date: 1982-02-24
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

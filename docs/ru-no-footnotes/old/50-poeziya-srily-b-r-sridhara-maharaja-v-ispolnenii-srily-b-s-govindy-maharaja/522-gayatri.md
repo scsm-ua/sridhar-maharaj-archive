@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2002577
   duration: 00:00:44
-  mp3: /wp-content/uploads/2012/08/522_Gayatri.mp3
+  src: /wp-content/uploads/2012/08/522_Gayatri.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)

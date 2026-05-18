@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7549157
   duration: 00:09:43
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
 date: 1981-03-12
 category:
   title: 35. Родной дом за пределами мира смерти

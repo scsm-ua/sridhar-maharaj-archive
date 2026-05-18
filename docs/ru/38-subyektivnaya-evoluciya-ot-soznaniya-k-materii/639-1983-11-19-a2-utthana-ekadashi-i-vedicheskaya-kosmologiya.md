@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6616326
   duration: 00:05:55
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/639_1983.11.19.A2_SridharMj_Utthana-jekadashi_i_vedicheskaja_kosmologija.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/639_1983.11.19.A2_SridharMj_Utthana-jekadashi_i_vedicheskaja_kosmologija.mp3
 date: 1983-11-19
 category:
   title: 38. Субъективная эволюция — от сознания к материи

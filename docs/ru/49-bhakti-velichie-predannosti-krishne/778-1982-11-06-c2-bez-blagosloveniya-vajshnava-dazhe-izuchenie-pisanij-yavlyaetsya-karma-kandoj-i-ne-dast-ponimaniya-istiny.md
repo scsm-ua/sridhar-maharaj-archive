@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 20361695
   duration: 00:20:39
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/778_1982.11.06.C2_SridharMj_Bez_blagoslovenija_Vajshnava_dazhe_izuchenie_Pisanij_javljaetsja_karma_kandoj_i_ne_dast_ponimanija_istiny.mp3
 date: 1982-11-06
 category:
   title: 49. Бхакти — величие преданности Кришне

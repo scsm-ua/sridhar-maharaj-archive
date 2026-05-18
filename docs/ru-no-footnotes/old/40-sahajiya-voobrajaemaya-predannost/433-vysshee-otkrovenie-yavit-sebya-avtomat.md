@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6562048
   duration: 00:07:37
-  mp3: /wp-content/uploads/2012/08/433_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
+  src: /wp-content/uploads/2012/08/433_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2291650
   duration: 00:03:58
-  mp3: /wp-content/uploads/2012/08/314_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
+  src: /wp-content/uploads/2012/08/314_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
 date: 1983-03-30
 category:
   title: (25. Глубокое восприятие реальности)

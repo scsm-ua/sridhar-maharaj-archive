@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4930894
   duration: 00:07:48
-  mp3: /wp-content/uploads/2012/08/102_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3
+  src: /wp-content/uploads/2012/08/102_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3
 date: 1981-03-04
 category:
   title: (08. Шри Гуру и его милость)

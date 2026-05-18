@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2652650
   duration: 00:01:22
-  mp3: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

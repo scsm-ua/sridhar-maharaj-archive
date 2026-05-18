@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9645892
   duration: 00:19:02
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1052_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
 date: 1982-01-27
 category:
   title: 66. Воспоминания о Гаудия Матхе

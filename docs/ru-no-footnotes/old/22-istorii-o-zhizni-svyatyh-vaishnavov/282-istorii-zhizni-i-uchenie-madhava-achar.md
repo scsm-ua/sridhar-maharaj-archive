@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11613916
   duration: 00:47:44
-  mp3: /wp-content/uploads/2012/08/282_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+  src: /wp-content/uploads/2012/08/282_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
 date: 1983-02-21
 category:
   title: (22. Истории о жизни святых вайшнавов)

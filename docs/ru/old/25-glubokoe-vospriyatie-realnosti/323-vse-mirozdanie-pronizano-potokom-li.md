@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1108024
   duration: 00:02:36
-  mp3: /wp-content/uploads/2012/08/323_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/323_MgnoveniyaPR_4.6_SridharMj_Vse_mirozdaniye_pronizano_potokom_lily_Gospoda.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti

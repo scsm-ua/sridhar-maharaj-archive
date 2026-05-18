@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2891525
   duration: 00:02:55
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3
 date: 1983-11-19
 category:
   title: 02. Кришна — Имя, Личность, темперамент

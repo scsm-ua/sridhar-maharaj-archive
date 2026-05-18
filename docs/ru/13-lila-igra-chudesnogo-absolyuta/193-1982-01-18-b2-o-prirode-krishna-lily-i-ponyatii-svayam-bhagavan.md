@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8259375
   duration: 00:16:24
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/193_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
 date: 1982-01-18
 category:
   title: 13. Лила — игра чудесного Абсолюта

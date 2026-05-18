@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12600267
   duration: 00:12:55
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/371_1982.07.03.Br1_SridharMj_Sankirtana_put_k_obreteniju_premy_i_dostupa_vo_Vrindavan.mp3
 date: 1982-07-03
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

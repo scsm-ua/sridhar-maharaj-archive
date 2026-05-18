@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7358684
   duration: 00:06:50
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
 date: 1982-04-24
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

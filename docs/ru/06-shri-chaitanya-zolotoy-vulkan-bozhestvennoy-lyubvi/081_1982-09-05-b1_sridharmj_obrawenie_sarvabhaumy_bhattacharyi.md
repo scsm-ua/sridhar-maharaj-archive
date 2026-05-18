@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4984822
   duration: 00:08:34
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/081_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
 date: 1982-09-05
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

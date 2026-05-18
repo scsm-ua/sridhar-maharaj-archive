@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13644580
   duration: 00:12:59
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/655_1982.04.07.A3_SridharMj_Ot_Brahmana_k_Radha-dasjam.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/655_1982.04.07.A3_SridharMj_Ot_Brahmana_k_Radha-dasjam.mp3
 date: 1982-04-07
 category:
   title: 39. Иерархия мироздания — планы бытия

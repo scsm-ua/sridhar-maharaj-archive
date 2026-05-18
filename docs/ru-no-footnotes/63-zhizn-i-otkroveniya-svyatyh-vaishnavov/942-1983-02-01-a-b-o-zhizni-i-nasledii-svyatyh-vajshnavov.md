@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 30310921
   duration: 00:57:09
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/942_1983.02.01.A.B_SridharMj_O_jizni_i_nasledii_svyatyh_vaishnavov.mp3
 date: 1983-02-01
 category:
   title: 63. Жизнь и откровения святых вайшнавов

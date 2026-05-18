@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1815144
   duration: 00:06:42
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja

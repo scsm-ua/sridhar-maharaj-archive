@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4733574
   duration: 00:09:40
-  mp3: /wp-content/uploads/2012/08/443_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
+  src: /wp-content/uploads/2012/08/443_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
 date: 1983-06-05
 category:
   title: (42. Учение вайшнавов и майавада)

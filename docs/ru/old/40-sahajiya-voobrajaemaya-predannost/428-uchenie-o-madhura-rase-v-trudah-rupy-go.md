@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 9343744
   duration: 00:13:25
-  mp3: /wp-content/uploads/2012/08/428_OntologiyaPR_1.6_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
+  src: /wp-content/uploads/2012/08/428_OntologiyaPR_1.6_SridharMj_Ucheniye_o_madhura_rase_v_trudah_Rupy_Gosvami.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost

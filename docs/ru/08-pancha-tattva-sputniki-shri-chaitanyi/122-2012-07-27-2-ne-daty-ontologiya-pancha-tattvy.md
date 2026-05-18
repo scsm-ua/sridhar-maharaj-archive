@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 5228931
   duration: 00:07:53
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/122_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi

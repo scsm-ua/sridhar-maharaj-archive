@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10805876
   duration: 00:17:13
-  mp3: /wp-content/uploads/2012/08/165_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
+  src: /wp-content/uploads/2012/08/165_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
 date: 1983-03-31
 category:
   title: (13. О проповеди)

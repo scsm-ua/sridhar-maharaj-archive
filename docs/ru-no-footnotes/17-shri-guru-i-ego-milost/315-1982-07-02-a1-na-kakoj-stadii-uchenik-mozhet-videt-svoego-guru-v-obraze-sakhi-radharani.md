@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11151851
   duration: 00:10:14
-  mp3: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/315_1982.07.02.A1_SridharMj_Na_kakoj_stadii_uchenik_mozhet_videt_svoego_Guru_v_obraze_sakhi_Radharani.mp3
 date: 1982-07-02
 category:
   title: 17. Шри Гуру и его милость

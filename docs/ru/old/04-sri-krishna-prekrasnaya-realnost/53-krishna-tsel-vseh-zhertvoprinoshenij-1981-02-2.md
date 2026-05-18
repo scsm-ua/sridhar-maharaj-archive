@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5941551
   duration: 00:09:46
-  mp3: /wp-content/uploads/2012/08/053_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
+  src: /wp-content/uploads/2012/08/053_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
 date: 1981-02-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

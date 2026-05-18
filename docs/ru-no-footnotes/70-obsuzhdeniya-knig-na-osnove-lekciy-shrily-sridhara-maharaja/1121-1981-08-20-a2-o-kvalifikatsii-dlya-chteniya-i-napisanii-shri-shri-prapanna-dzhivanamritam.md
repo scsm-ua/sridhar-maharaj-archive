@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11542058
   duration: 00:22:59
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
 date: 1981-08-20
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

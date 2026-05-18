@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6252972
   duration: 00:05:26
-  mp3: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.mp3
+  src: /dl/55._Samopozhertvovanie/850_1983.11.13.A2_SridharMj_Nezavistlivost_znachit_umeret_chtoby_zhit.mp3
 date: 1983-11-13
 category:
   title: 55. Самопожертвование

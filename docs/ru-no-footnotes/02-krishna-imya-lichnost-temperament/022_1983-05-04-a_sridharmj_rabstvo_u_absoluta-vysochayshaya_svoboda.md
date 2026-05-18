@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13982699
   duration: 00:28:56
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/022_1983.05.04.A_SridharMj_Rabstvo_u_absoluta--vysochayshaya_svoboda.mp3
 date: 1983-05-04
 category:
   title: 02. Кришна — Имя, Личность, темперамент

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4060736
   duration: 00:08:19
-  mp3: /wp-content/uploads/2012/08/213_OntologiyaPR_1.3_SridharMj_Gyana_i_vigyana.mp3
+  src: /wp-content/uploads/2012/08/213_OntologiyaPR_1.3_SridharMj_Gyana_i_vigyana.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4009430
   duration: 00:05:36
-  mp3: /wp-content/uploads/2012/08/084_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
+  src: /wp-content/uploads/2012/08/084_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
 date: 1981-03-05
 category:
   title: (06. Раса-таттва - отношения с Богом)

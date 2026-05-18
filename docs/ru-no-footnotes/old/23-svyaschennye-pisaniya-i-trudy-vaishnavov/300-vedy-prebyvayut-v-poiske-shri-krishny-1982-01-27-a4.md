@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4120670
   duration: 00:07:22
-  mp3: /wp-content/uploads/2012/08/300_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
+  src: /wp-content/uploads/2012/08/300_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
 date: 1982-01-27
 category:
   title: (23. Священные писания и труды вайшнавов)

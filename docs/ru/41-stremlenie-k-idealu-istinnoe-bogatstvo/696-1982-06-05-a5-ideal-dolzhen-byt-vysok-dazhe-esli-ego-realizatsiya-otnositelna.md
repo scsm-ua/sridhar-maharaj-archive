@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5688236
   duration: 00:03:18
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3
 date: 1982-06-05
 category:
   title: 41. Стремление к идеалу — истинное богатство

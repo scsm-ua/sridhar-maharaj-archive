@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6741586
   duration: 00:06:29
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1060_1982.03.25.A2_SridharMj_24-h_chasovoe_sluzhenie_Gospodu_dostizhimo_lish_v_madhura-rase.mp3
 date: 1982-03-25
 category:
   title: 66. Воспоминания о Гаудия Матхе

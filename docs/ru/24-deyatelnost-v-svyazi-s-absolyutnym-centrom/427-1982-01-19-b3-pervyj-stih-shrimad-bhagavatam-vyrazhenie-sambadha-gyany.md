@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6898091
   duration: 00:12:42
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/427_1982.01.19.B3_SridharMj_Pervyj_stih_Shrimad_Bhagavatam--vyrazhenie_sambadha-gjany.mp3
 date: 1982-01-19
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

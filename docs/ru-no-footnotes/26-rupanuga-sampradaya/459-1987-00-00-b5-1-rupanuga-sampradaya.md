@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4059073
   duration: 00:07:12
-  mp3: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
+  src: /dl/26._Rupanuga-sampradaya/459_1987.00.00.B5.1_SridharMj_Rupanuga-sampradaya.mp3
 date: 1987-00-00
 category:
   title: 26. Рупануга-сампрадая

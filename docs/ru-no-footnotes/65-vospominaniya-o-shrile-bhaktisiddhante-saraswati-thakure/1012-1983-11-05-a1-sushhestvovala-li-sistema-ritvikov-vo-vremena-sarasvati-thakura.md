@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 995777
   duration: 00:00:25
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1012_1983.11.05.A1_SridharMj_Sushhestvovala_li_sistema_ritvikov_vo_vremena_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1012_1983.11.05.A1_SridharMj_Sushhestvovala_li_sistema_ritvikov_vo_vremena_Sarasvati_Thakura.mp3
 date: 1983-11-05
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

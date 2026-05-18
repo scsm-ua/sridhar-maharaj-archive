@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3307531
   duration: 00:05:40
-  mp3: /wp-content/uploads/2012/08/301_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
+  src: /wp-content/uploads/2012/08/301_1981.08.20.A1_SridharMj_O_proishojdenii_sanskrita_Iznachalnaya_Realnost.mp3
 date: 1981-08-20
 category:
   title: (23. Священные писания и труды вайшнавов)

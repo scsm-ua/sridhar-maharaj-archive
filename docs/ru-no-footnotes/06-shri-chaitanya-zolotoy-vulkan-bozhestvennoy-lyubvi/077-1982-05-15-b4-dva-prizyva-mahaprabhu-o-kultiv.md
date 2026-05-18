@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8804760
   duration: 00:08:16
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/077_1982.05.15.B4_SridharMj_Dva_prizyva_Mahaprabhu_o_kultivirovanii_i_propovedi_Soznanija_Krishny.mp3
 date: 1982-05-15
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

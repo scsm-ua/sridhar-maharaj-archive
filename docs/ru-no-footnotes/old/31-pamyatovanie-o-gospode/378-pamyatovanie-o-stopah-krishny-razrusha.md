@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2519296
   duration: 00:04:53
-  mp3: /wp-content/uploads/2012/08/378_OntologiyaPR_1.1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
+  src: /wp-content/uploads/2012/08/378_OntologiyaPR_1.1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode

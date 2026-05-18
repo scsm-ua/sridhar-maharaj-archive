@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3796083
   duration: 00:07:04
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
 date: 1983-03-31
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

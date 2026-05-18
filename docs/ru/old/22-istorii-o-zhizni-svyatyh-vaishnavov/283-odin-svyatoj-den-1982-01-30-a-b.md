@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 32771217
   duration: 01:07:56
-  mp3: /wp-content/uploads/2012/08/283_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_1982.mp3
+  src: /wp-content/uploads/2012/08/283_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_1982.mp3
 date: 1982-01-30
 category:
   title: (22. Истории о жизни святых вайшнавов)

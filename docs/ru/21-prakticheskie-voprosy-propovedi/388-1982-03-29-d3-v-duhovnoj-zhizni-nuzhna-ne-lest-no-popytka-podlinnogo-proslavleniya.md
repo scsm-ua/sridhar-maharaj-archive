@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4811284
   duration: 00:04:08
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/388_1982.03.29.D3_SridharMj_V_duhovnoj_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavlenija.mp3
 date: 1982-03-29
 category:
   title: 21. Практические вопросы проповеди

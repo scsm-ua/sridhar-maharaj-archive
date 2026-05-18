@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7680032
   duration: 00:14:03
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
 date: 1981-03-01
 category:
   title: 38. Субъективная эволюция — от сознания к материи

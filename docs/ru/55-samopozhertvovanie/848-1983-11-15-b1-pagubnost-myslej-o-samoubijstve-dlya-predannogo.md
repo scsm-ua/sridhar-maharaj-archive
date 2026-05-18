@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7148241
   duration: 00:06:22
-  mp3: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.mp3
+  src: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.mp3
 date: 1983-11-15
 category:
   title: 55. Самопожертвование

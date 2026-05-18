@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7950000
   duration: 00:16:16
-  mp3: /wp-content/uploads/2012/08/376_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
+  src: /wp-content/uploads/2012/08/376_1982.02.17.A1_SridharMj_Vzor_lyubyawego_Hranitelya-glavnaya_mantra_Rigvedy.mp3
 date: 1982-02-17
 category:
   title: (31. Памятование о Господе)

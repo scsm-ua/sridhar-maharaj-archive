@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13636115
   duration: 00:27:45
-  mp3: /wp-content/uploads/2012/08/268_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
+  src: /wp-content/uploads/2012/08/268_1983.06.05.B2_SridharMj_Izvilistye_puti_lubvi.mp3
 date: 1983-06-05
 category:
   title: (21. Служение стопам Шримати Радхарани)

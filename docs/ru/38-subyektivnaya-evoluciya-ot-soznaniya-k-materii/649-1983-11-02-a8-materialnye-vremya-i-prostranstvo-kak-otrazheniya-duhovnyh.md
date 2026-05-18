@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3852361
   duration: 00:03:02
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/649_1983.11.02.A8_SridharMj_Materialnye_vremja_i_prostranstvo_kak_otrazhenija_duhovnyh.mp3
 date: 1983-11-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи

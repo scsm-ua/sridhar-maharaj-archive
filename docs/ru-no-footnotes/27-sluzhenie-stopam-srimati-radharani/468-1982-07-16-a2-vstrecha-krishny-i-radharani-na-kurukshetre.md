@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7880516
   duration: 00:07:49
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
 date: 1982-07-16
 category:
   title: 27. Служение стопам Шримати Радхарани

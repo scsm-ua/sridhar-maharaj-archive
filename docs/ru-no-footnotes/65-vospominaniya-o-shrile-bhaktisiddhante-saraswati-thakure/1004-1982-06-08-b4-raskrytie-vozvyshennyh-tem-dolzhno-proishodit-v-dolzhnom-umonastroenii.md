@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11725625
   duration: 00:11:35
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1004_1982.06.08.B4_SridharMj_Raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii.mp3
 date: 1982-06-08
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

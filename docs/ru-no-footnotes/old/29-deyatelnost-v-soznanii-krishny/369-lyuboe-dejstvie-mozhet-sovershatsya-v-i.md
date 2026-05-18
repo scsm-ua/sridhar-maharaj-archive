@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3529132
   duration: 00:06:59
-  mp3: /wp-content/uploads/2012/08/369_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
+  src: /wp-content/uploads/2012/08/369_1981.03.03.A2_SridharMj_Lyuboe_deystvie_mojet_sovershatsya_iz_izmereniya_nirguny.mp3
 date: 1981-03-03
 category:
   title: (29. Деятельность в Сознании Кришны)

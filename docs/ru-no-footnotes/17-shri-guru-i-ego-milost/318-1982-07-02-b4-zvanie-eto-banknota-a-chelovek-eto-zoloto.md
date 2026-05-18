@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6059437
   duration: 00:04:55
-  mp3: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/318_1982.07.02.B4_SridharMj_Zvanie--jeto_banknota_a_chelovek--jeto_zoloto.mp3
 date: 1982-07-02
 category:
   title: 17. Шри Гуру и его милость

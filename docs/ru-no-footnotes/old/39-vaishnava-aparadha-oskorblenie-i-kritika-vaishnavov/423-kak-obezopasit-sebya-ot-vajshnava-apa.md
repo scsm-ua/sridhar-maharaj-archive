@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1586500
   duration: 00:02:39
-  mp3: /wp-content/uploads/2012/08/423_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
+  src: /wp-content/uploads/2012/08/423_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
 date: 1985-10-05
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)

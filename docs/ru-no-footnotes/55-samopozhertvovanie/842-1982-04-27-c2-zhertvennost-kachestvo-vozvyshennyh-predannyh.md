@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8244131
   duration: 00:07:31
-  mp3: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3
+  src: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3
 date: 1982-04-27
 category:
   title: 55. Самопожертвование

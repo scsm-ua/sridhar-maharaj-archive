@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2578745
   duration: 00:01:53
-  mp3: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3
+  src: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3
 date: 1982-06-14
 category:
   title: 40. Бог и боги

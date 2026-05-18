@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7075431
   duration: 00:12:23
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/245_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
 date: 1982-01-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

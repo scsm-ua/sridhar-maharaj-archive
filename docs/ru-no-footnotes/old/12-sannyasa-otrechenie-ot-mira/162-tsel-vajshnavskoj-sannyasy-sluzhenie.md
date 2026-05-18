@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3300508
   duration: 00:05:22
-  mp3: /wp-content/uploads/2012/08/162_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
+  src: /wp-content/uploads/2012/08/162_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
 date: 1981-03-02
 category:
   title: (12. Санньяса - отречение от мира)

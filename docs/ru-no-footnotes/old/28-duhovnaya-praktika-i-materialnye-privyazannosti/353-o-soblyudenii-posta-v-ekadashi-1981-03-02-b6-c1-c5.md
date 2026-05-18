@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4791808
   duration: 00:09:52
-  mp3: /wp-content/uploads/2012/08/353_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
+  src: /wp-content/uploads/2012/08/353_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
 date: 1981-03-02
 category:
   title: (28. Духовная практика и материальные привязанности)

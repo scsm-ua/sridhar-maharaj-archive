@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2827818
   duration: 00:02:25
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3
 date: 1983-11-14
 category:
   title: 66. Воспоминания о Гаудия Матхе

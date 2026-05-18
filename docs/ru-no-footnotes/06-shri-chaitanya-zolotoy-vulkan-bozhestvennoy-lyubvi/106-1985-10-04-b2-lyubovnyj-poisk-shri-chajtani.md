@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4386513
   duration: 00:07:19
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/106_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/106_1985.10.04.B2_SridharMj_Lyubovniy_poisk_Shri_Chaitani.mp3
 date: 1985-10-04
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

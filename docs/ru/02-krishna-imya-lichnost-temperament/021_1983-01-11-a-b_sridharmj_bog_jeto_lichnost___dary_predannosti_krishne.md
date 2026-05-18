@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21861461
   duration: 00:44:56
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/021_1983.01.11.A.B_SridharMj_Bog_jeto_Lichnost___Dary_predannosti_Krishne.mp3
 date: 1983-01-11
 category:
   title: 02. Кришна — Имя, Личность, темперамент

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3716398
   duration: 00:03:01
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/721_1982.05.15.C3_SridharMj_Probuzhdenie_i_razvitie_duhovnogo_vkusa.mp3
 date: 1982-05-15
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

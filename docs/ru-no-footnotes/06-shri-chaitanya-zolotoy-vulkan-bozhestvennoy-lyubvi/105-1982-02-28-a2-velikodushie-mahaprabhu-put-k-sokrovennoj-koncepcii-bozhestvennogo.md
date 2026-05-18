@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2808264
   duration: 00:05:14
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
 date: 1982-02-28
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

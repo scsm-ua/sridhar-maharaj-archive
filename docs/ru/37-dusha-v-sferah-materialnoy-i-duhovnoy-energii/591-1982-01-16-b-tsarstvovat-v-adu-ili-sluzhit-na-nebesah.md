@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6299344
   duration: 00:09:44
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/591_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
 date: 1982-01-16
 category:
   title: 37. Душа в сферах материальной и духовной энергии

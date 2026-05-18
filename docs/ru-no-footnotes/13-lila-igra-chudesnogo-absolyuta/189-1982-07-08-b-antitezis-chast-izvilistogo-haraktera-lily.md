@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9113683
   duration: 00:09:06
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/189_1982.07.08.B_SridharMj_Antitezis_%E2%80%93_chast_izvilistogo_haraktera_lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/189_1982.07.08.B_SridharMj_Antitezis_%E2%80%93_chast_izvilistogo_haraktera_lily.mp3
 date: 1982-07-08
 category:
   title: 13. Лила — игра чудесного Абсолюта

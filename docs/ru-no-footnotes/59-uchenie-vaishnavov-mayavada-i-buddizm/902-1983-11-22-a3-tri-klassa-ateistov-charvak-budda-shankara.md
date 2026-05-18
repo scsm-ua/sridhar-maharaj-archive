@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3598639
   duration: 00:03:38
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.mp3
 date: 1983-11-22
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

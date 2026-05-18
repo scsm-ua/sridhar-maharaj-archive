@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8250608
   duration: 00:14:44
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
 date: 1981-03-07
 category:
   title: 39. Иерархия мироздания — планы бытия

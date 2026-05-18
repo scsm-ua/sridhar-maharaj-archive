@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8649812
   duration: 00:07:10
-  mp3: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/704_1982.04.25.A2.B_SridharMj_Zahvat_serdca_Krishnoj_v_Svjashhennyh_Pisanijah.mp3
+  src: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/704_1982.04.25.A2.B_SridharMj_Zahvat_serdca_Krishnoj_v_Svjashhennyh_Pisanijah.mp3
 date: 1982-04-25
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца

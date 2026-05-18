@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5771503
   duration: 00:05:10
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/725_1982.07.27.B1_SridharMj_Sukriti_kak_osnova_shraddhi_i_sadhu-sangi.mp3
 date: 1982-07-27
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

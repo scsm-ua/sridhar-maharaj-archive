@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4990924
   duration: 00:03:22
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3
 date: 1982-04-14
 category:
   title: 68. Шри Чайтанья Сарасват Матх

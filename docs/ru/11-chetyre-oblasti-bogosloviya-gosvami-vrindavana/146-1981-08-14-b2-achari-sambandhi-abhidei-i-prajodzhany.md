@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11648020
   duration: 00:20:40
-  mp3: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/146_1981.08.14.B2_SridharMj_Achari_sambandhi_abhidei_i_prajodzhany.mp3
 date: 1981-08-14
 category:
   title: 11. Четыре области богословия Госвами Вриндавана

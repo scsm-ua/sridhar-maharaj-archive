@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7640596
   duration: 00:06:26
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/111_1982.05.14.C5.D1_SridharMj_Tolko_po_milosti_Nitjanandy_i_Gaurangi_mozhno_obresti_sluzhenie_Radharani_vo_Vrindavane.mp3
 date: 1982-05-14
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

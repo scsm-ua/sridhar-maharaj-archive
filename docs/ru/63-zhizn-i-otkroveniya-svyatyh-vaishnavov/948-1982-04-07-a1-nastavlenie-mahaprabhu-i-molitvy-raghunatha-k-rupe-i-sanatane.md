@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 20821786
   duration: 00:18:41
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/948_1982.04.07.A1_SridharMj_Nastavlenie_Mahaprabhu_i_molitvy_Raghunatha_k_Rupe_i_Sanatane.mp3
 date: 1982-04-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов

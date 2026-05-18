@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3812112
   duration: 00:03:07
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/726_1982.07.15.A4_SridharMj_Kak_sootnosjatsja_sukriti_i_besprichinnaja_milost.mp3
 date: 1982-07-15
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

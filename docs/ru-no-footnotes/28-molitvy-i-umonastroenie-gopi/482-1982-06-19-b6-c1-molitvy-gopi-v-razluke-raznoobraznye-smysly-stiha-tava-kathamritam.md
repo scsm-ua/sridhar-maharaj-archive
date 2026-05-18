@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 20820030
   duration: 00:21:26
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/482_1982.06.19.B6.C1_SridharMj_Molitvy_gopi_v_razluke__Raznoobraznye_smysly_stiha_tava-kathamritam.mp3
 date: 1982-06-19
 category:
   title: 28. Молитвы и умонастроение гопи

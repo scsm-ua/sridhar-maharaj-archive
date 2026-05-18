@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8588528
   duration: 00:16:05
-  mp3: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
+  src: /dl/45._Iskrennost_i_progress/730_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
 date: 1981-03-02
 category:
   title: 45. Искренность и прогресс

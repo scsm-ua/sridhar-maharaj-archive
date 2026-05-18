@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5737900
   duration: 00:09:12
-  mp3: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
+  src: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
 date: 1983-06-09
 category:
   title: 2. Раса-таттва — вкусы отношений с Господом (вариации)

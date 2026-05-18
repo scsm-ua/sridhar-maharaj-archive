@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8315652
   duration: 00:16:18
-  mp3: /wp-content/uploads/2012/08/496_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
+  src: /wp-content/uploads/2012/08/496_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
 date: 1981-02-28
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

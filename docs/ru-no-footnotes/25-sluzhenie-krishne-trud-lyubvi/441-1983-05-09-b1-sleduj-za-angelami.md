@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7520957
   duration: 00:14:21
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
 date: 1983-05-09
 category:
   title: 25. Служение Кришне — труд любви

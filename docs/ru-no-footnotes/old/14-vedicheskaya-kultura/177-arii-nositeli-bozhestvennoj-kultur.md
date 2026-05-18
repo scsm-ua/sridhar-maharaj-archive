@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2964146
   duration: 00:04:40
-  mp3: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
+  src: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
 date: 1982-01-27
 category:
   title: (14. Ведическая культура)

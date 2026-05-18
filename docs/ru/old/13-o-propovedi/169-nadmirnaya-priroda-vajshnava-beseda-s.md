@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15684690
   duration: 00:27:23
-  mp3: /wp-content/uploads/2012/08/169_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
+  src: /wp-content/uploads/2012/08/169_1981.03.03.C5_SridharMj_Nadmirnaya_priroda_vaishnava_Beseda_s_Satsvarupoy_Maharajem.mp3
 date: 1981-03-03
 category:
   title: (13. О проповеди)

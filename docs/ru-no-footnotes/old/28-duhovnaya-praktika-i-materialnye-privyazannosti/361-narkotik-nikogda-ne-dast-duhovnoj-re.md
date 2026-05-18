@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15585319
   duration: 00:30:05
-  mp3: /wp-content/uploads/2012/08/361_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
+  src: /wp-content/uploads/2012/08/361_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
 date: 1983-01-12
 category:
   title: (28. Духовная практика и материальные привязанности)

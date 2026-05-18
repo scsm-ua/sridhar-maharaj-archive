@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6896462
   duration: 00:09:07
-  mp3: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/698_1981.03.08.B4_SridharMj_Kratkoe_soprikosnovenie_s_Soznaniem_Krishny_daruet_velikoe_blago.mp3
 date: 1981-03-08
 category:
   title: 41. Стремление к идеалу — истинное богатство

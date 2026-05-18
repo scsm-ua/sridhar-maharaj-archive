@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9129447
   duration: 00:14:22
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
 date: 1980-07-11
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

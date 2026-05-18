@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4965094
   duration: 00:05:13
-  mp3: /wp-content/uploads/2012/08/329_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
+  src: /wp-content/uploads/2012/08/329_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
 date: 1983-02-11
 category:
   title: (26. Абсолютная Гармония)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3869299
   duration: 00:07:04
-  mp3: /wp-content/uploads/2012/08/510_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
+  src: /wp-content/uploads/2012/08/510_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
 date: 1983-03-31
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7829912
   duration: 00:16:01
-  mp3: /wp-content/uploads/2012/09/001_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prirode_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/09/001_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prirode_Mahaprabhu.mp3
 date: 1983-04-16
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

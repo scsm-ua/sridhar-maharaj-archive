@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4604531
   duration: 00:09:08
-  mp3: /wp-content/uploads/2012/08/217_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
+  src: /wp-content/uploads/2012/08/217_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
 date: 1981-08-18
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

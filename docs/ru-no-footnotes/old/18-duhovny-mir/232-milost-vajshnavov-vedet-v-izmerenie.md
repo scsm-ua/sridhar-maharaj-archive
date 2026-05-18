@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16881958
   duration: 00:10:00
-  mp3: /wp-content/uploads/2012/08/232_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
+  src: /wp-content/uploads/2012/08/232_1983.02.27.A.B1_SridharMj_Milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.mp3
 date: 1983-02-27
 category:
   title: (18. Духовный мир)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4204638
   duration: 00:07:22
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
 date: 1982-01-27
 category:
   title: 15. Ведическая литература - от древности до современности

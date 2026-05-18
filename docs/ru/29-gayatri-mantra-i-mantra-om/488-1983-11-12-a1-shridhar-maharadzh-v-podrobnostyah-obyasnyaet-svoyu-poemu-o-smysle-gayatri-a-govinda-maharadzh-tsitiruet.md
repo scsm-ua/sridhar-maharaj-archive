@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 36376690
   duration: 00:36:55
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/488_1983.11.12.A1_SridharMj_Shridhar_Maharadzh_v_podrobnostjah_objasnjaet_svoju_pojemu_o_smysle_Gajatri_a_Govinda_Maharadzh_citiruet.mp3
 date: 1983-11-12
 category:
   title: 29. Гаятри-мантра и мантра ОМ

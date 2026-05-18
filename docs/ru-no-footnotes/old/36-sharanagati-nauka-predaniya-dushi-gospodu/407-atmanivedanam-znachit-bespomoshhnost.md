@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2336792
   duration: 00:05:00
-  mp3: /wp-content/uploads/2012/08/407_MgnoveniyaPR_5.1_SridharMj_Atmanivedanam_znachit_bespomownost_i_predannost_Gospodu.mp3
+  src: /wp-content/uploads/2012/08/407_MgnoveniyaPR_5.1_SridharMj_Atmanivedanam_znachit_bespomownost_i_predannost_Gospodu.mp3
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu

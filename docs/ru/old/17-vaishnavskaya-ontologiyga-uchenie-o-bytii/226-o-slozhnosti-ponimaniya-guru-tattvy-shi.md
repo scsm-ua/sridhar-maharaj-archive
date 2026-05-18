@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3361520
   duration: 00:06:33
-  mp3: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
+  src: /wp-content/uploads/2012/08/226_1981.08.30.A2_SridharMj_O_slojnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy.mp3
 date: 1981-08-30
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

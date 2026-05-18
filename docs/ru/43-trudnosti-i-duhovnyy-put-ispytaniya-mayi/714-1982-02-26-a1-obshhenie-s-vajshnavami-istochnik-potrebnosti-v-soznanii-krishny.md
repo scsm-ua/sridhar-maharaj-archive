@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8493817
   duration: 00:08:31
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/714_1982.02.26.A1_SridharMj_Obshhenie_s_vajshnavami--istochnik_potrebnosti_v_Soznanii_Krishny.mp3
 date: 1982-02-26
 category:
   title: 43. Трудности и духовный путь — испытания майи

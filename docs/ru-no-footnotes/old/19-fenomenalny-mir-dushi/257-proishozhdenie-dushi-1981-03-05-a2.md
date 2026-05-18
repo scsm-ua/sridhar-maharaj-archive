@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7873181
   duration: 00:12:01
-  mp3: /wp-content/uploads/2012/08/257_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
+  src: /wp-content/uploads/2012/08/257_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
 date: 1981-03-05
 category:
   title: (19. Феноменальный мир души)

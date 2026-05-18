@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4118424
   duration: 00:09:12
-  mp3: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3
+  src: /dl/40._Bog_i_bogi/670_1982.02.21.B_SridharMj_Ontologiya_chatur-vyuhi_i_polozheniye_Durgi-devi.mp3
 date: 1982-02-21
 category:
   title: 40. Бог и боги

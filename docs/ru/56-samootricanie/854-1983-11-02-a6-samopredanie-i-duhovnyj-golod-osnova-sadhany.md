@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5553716
   duration: 00:02:55
-  mp3: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3
+  src: /dl/56._Samootricanie/854_1983.11.02.A6_SridharMj_Samopredanie_i_duhovnyj_golod--osnova_sadhany.mp3
 date: 1983-11-02
 category:
   title: 56. Самоотрицание

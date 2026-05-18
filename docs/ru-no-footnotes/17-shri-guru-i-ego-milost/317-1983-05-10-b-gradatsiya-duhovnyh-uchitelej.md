@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24569081
   duration: 00:48:25
-  mp3: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/317_1983.05.10.B_SridharMj_Gradaciya_duhovnyh_uchiteley.mp3
 date: 1983-05-10
 category:
   title: 17. Шри Гуру и его милость

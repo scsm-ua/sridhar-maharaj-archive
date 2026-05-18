@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13167898
   duration: 00:12:53
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/420_1982.07.18.A2_SridharMj_Uchenie_o_karme_vikarme_i_akarme_v_Bhagavad-gite_i_Shrimad_Bhagavatam.mp3
 date: 1982-07-18
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

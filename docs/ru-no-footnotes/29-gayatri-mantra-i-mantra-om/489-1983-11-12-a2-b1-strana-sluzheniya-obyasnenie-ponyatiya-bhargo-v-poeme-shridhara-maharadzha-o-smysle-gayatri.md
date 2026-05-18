@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 11874158
   duration: 00:11:24
-  mp3: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.mp3
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/489_1983.11.12.A2.B1_SridharMj_Strana_sluzhenija_Objasnenie_ponjatija_bhargo_v_pojeme_Shridhara_Maharadzha_o_smysle_Gajatri.mp3
 date: 1983-11-12
 category:
   title: 29. Гаятри-мантра и мантра ОМ

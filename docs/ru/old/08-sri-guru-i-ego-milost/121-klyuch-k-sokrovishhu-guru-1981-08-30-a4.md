@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6929366
   duration: 00:11:58
-  mp3: /wp-content/uploads/2012/08/121_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
+  src: /wp-content/uploads/2012/08/121_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
 date: 1981-08-30
 category:
   title: (08. Шри Гуру и его милость)

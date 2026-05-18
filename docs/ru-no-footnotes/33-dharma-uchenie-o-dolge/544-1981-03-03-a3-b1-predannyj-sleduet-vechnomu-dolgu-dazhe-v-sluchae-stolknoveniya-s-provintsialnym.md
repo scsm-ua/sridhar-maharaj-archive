@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3652472
   duration: 00:07:05
-  mp3: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/544_1981.03.03.A3.B1_SridharMj_Predannyj_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknovenija_s_provincialnym.mp3
 date: 1981-03-03
 category:
   title: 33. Дхарма — учение о долге

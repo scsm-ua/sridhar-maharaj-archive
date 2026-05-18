@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2837024
   duration: 00:05:20
-  mp3: /wp-content/uploads/2012/08/505_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
+  src: /wp-content/uploads/2012/08/505_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
 date: 1987-00-00
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

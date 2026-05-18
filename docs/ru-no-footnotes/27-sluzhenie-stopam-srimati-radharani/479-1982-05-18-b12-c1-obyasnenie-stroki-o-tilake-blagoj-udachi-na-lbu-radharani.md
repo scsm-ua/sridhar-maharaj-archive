@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3608649
   duration: 00:03:22
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.mp3
 date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 38821399
   duration: 01:06:07
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/971_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part1.mp3
 date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

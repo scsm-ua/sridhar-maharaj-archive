@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5851082
   duration: 00:04:16
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1091_1981.03.07.B5_SridharMj_Moj_Mahaprabhu_svjazan_s_Amerikoj.mp3
 date: 1981-03-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх

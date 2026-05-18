@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2795071
   duration: 00:02:14
-  mp3: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
 date: 1982-07-04
 category:
   title: 31. Глубокое восприятие реальности

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5930747
   duration: 00:05:20
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/720_1982.07.03.B1_SridharMj_Duhovnyj_opyt_obretaetsja_blagodarja_vozvysheniju_dushi.mp3
 date: 1982-07-03
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

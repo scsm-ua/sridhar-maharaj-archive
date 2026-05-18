@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8857580
   duration: 00:16:56
-  mp3: /wp-content/uploads/2012/08/180_1983.07.08.A1_SridharMj_Chetyre_celi_chelovecheskoy_jizni_v_vedah.mp3
+  src: /wp-content/uploads/2012/08/180_1983.07.08.A1_SridharMj_Chetyre_celi_chelovecheskoy_jizni_v_vedah.mp3
 date: 1983-07-08
 category:
   title: (14. Ведическая культура)

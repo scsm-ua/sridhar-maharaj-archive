@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2932161
   duration: 00:04:42
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/227_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami_Objasnenie_ponjatija_Brihad.mp3
 date: 1982-01-29
 category:
   title: 15. Ведическая литература - от древности до современности

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12781244
   duration: 00:22:05
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
 date: 1983-05-23
 category:
   title: 58. Сахаджия - воображаемая преданность

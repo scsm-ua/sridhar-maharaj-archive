@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16330719
   duration: 00:31:40
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/243_1983.05.11.A_SridharMj_Pribejiwe_daruyut_vaishnavy_a_ne_Krishna.mp3
 date: 1983-05-11
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

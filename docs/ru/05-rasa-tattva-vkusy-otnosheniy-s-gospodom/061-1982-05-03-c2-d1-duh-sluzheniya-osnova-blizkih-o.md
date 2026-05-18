@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8444479
   duration: 00:06:08
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/061_1982.05.03.C2.D1_SridharMj_Duh_sluzhenija--osnova_blizkih_otnoshenij_s_Absoljutom_vo_Vrindavane.mp3
 date: 1982-05-03
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

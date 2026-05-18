@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3646431
   duration: 00:02:55
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.mp3
 date: 1982-05-15
 category:
   title: 21. Практические вопросы проповеди

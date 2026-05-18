@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 42313246
   duration: 00:41:04
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/951_1982.04.18.B2.C_SridharMj_Vrindavan_Das_Thakur_Chajtanja_Bhagavata_i_Chajtanja_Charitamrita.mp3
 date: 1982-04-18
 category:
   title: 63. Жизнь и откровения святых вайшнавов

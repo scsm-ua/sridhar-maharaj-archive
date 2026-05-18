@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3630144
   duration: 00:06:46
-  mp3: /wp-content/uploads/2012/08/132_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
+  src: /wp-content/uploads/2012/08/132_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
 category:
   title: (09. Посвящение)
   slug: 09-posvyaschenie

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5129070
   duration: 00:10:29
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/027_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/027_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
 date: 1983-01-25
 category:
   title: 02. Кришна — Имя, Личность, темперамент

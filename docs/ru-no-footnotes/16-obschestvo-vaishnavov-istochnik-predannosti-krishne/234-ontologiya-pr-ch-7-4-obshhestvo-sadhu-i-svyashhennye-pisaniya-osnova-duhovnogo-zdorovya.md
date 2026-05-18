@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5130878
   duration: 00:04:10
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/234_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne

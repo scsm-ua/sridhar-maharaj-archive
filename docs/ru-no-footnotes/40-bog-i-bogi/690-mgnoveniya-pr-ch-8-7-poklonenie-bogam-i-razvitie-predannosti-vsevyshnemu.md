@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2413800
   duration: 00:06:33
-  mp3: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
+  src: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi

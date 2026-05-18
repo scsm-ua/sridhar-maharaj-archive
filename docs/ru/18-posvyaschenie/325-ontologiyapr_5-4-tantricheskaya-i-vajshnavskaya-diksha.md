@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3506240
   duration: 00:06:46
-  mp3: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
+  src: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie

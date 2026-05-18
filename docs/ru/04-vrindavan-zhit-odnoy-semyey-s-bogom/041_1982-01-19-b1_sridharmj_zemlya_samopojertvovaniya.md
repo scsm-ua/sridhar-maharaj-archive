@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8691953
   duration: 00:16:48
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/041_1982.01.19.B1_SridharMj_Zemlya_samopojertvovaniya.mp3
 date: 1982-01-19
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

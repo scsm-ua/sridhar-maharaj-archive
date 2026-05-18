@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6741451
   duration: 00:04:01
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/562_1982.03.08.B6_SridharMj_Mir_vozhdelenijai_i_mir_ljubvi.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/562_1982.03.08.B6_SridharMj_Mir_vozhdelenijai_i_mir_ljubvi.mp3
 date: 1982-03-08
 category:
   title: 35. Родной дом за пределами мира смерти

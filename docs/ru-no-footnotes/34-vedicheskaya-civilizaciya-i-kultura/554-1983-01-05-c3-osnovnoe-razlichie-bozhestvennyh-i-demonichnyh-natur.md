@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3502468
   duration: 00:05:55
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/554_1983.01.05.C3_SridharMj_Osnovnoe_razlichie_bojestvennyh_i_demonicheskih_natur.mp3
 date: 1983-01-05
 category:
   title: 34. Ведическая цивилизация и культура

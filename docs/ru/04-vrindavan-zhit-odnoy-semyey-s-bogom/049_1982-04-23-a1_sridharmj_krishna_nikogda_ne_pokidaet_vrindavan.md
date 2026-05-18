@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3259736
   duration: 00:02:45
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.mp3
 date: 1982-04-23
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

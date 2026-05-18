@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4313830
   duration: 00:06:13
-  mp3: /dl/17._Shri_Guru_i_ego_milost/281_1981.08.27.C1.1_SridharMj_Tri_urovnja_guru__Bhadzhanandi_i_goshthanandi.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/281_1981.08.27.C1.1_SridharMj_Tri_urovnja_guru__Bhadzhanandi_i_goshthanandi.mp3
 date: 1981-08-27
 category:
   title: 17. Шри Гуру и его милость

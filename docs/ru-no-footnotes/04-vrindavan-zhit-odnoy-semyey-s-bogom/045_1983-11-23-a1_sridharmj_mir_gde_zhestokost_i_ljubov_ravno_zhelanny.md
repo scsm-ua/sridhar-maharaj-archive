@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7570985
   duration: 00:07:14
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/045_1983.11.23.A1_SridharMj_Mir_gde_zhestokost_i_ljubov_ravno_zhelanny.mp3
 date: 1983-11-23
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

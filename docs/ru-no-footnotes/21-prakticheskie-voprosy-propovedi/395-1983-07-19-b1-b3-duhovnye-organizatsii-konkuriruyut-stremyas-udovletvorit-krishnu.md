@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12376136
   duration: 00:24:01
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
 date: 1983-07-19
 category:
   title: 21. Практические вопросы проповеди

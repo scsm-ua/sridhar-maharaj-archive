@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9665389
   duration: 00:19:20
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.mp3
 date: 1982-01-18
 category:
   title: 13. Лила — игра чудесного Абсолюта

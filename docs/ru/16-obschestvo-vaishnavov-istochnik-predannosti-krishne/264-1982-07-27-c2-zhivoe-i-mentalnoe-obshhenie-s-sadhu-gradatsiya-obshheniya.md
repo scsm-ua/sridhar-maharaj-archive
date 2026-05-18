@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7237391
   duration: 00:06:22
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
 date: 1982-07-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

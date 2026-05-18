@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6107972
   duration: 00:08:18
-  mp3: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3
 date: 1981-08-14
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

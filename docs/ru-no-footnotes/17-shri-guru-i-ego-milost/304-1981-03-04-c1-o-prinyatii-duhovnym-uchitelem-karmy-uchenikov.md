@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5308896
   duration: 00:08:17
-  mp3: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/304_1981.03.04.C1_SridharMj_O_prinyatii_duhovnym_uchitelem_karmy_uchenikov.mp3
 date: 1981-03-04
 category:
   title: 17. Шри Гуру и его милость

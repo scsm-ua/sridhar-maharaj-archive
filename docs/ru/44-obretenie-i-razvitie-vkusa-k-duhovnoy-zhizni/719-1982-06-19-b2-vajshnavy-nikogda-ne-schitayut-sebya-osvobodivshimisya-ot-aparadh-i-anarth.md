@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12786531
   duration: 00:12:28
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/719_1982.06.19.B2_SridharMj_Vajshnavy_nikogda_ne_schitajut_sebja_osvobodivshimisja_ot_aparadh_i_anarth.mp3
 date: 1982-06-19
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

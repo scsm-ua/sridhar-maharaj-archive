@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18397455
   duration: 00:19:01
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/004_1983.11.07.B2.C_SridharMj_Poisk_Shri_Krishny--vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/004_1983.11.07.B2.C_SridharMj_Poisk_Shri_Krishny--vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.mp3
 date: 1983-11-07
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

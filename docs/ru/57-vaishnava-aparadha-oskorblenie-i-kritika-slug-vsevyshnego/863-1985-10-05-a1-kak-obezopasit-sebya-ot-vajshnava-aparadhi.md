@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1553220
   duration: 00:02:39
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/863_1985.10.05.A1_SridharMj_Kak_obezopasit_sebya_ot_vayshnava-aparadhi.mp3
 date: 1985-10-05
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

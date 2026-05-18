@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3618116
   duration: 00:03:30
-  mp3: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3
+  src: /dl/18._Posvyaschenie/327_1982.05.04.B2_SridharMj_Kakov_smysl_posvjashhenija_v_vospevanie_Svjatogo_Imeni.mp3
 date: 1982-05-04
 category:
   title: 18. Посвящение

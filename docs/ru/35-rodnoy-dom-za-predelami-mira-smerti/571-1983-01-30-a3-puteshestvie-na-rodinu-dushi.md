@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8632717
   duration: 00:11:58
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/571_1983.01.30.A3_SridharMj_Puteshestviye_na__rodinu_dushi.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/571_1983.01.30.A3_SridharMj_Puteshestviye_na__rodinu_dushi.mp3
 date: 1983-01-30
 category:
   title: 35. Родной дом за пределами мира смерти

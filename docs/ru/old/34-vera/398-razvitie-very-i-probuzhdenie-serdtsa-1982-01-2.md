@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4272776
   duration: 00:07:54
-  mp3: /wp-content/uploads/2012/08/398_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3
+  src: /wp-content/uploads/2012/08/398_1982.01.20.B3_SridharMj_Razvitie_very_i_probujdenie_serdca.mp3
 date: 1982-01-20
 category:
   title: (34. Вера)

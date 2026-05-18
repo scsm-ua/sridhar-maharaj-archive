@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4556036
   duration: 00:08:11
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/043_1973.03.17.1_SridharMj_V_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.mp3
 date: 1973-03-17
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

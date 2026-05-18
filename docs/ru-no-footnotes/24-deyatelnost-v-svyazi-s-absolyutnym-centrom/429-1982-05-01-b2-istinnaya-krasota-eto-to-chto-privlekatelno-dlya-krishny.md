@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14224081
   duration: 00:13:59
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/429_1982.05.01.B2_SridharMj_Istinnaja_krasota_jeto_to_chto_privlekatelno_dlja_Krishny.mp3
 date: 1982-05-01
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

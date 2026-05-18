@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4883517
   duration: 00:04:41
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila_%E2%80%93_dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/174_1982.04.14.C2_SridharMj_Lila_%E2%80%93_dvizhenie_bez_poteri_jenergii_stradanij_i_smerti.mp3
 date: 1982-04-14
 category:
   title: 13. Лила — игра чудесного Абсолюта

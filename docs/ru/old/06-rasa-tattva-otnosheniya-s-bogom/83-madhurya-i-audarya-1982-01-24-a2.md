@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3587918
   duration: 00:04:44
-  mp3: /wp-content/uploads/2012/08/083_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
+  src: /wp-content/uploads/2012/08/083_1982.01.24.A2_SridharMj_Madhurya_i_audarya.mp3
 date: 1982-01-24
 category:
   title: (06. Раса-таттва - отношения с Богом)

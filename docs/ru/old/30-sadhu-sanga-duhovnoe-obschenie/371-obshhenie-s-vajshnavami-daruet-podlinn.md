@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8780391
   duration: 00:12:23
-  mp3: /wp-content/uploads/2012/08/371_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
+  src: /wp-content/uploads/2012/08/371_1982.01.04.C_SridharMj_Obwenie_s_vayshnavami_daruet_podlinnoe_vospriyatie_Bojestva.mp3
 date: 1982-01-04
 category:
   title: (30. Садху-санга - духовное общение)

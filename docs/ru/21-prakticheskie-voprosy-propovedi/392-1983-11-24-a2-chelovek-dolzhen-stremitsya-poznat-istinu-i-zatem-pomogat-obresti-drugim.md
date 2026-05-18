@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4258324
   duration: 00:03:33
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3
 date: 1983-11-24
 category:
   title: 21. Практические вопросы проповеди

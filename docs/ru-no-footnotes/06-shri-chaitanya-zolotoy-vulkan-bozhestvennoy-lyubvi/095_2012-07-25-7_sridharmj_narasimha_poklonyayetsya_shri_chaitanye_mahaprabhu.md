@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3051604
   duration: 00:05:55
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi

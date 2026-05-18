@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2259477
   duration: 00:02:22
-  mp3: /wp-content/uploads/2012/08/357_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
+  src: /wp-content/uploads/2012/08/357_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
 date: 1982-09-05
 category:
   title: (28. Духовная практика и материальные привязанности)

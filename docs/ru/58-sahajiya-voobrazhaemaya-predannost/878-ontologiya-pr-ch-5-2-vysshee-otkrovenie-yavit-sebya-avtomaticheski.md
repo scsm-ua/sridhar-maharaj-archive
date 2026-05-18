@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 5840128
   duration: 00:07:37
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/878_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/878_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost

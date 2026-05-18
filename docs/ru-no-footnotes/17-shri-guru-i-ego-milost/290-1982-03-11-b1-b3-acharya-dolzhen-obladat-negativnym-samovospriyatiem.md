@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9375011
   duration: 00:08:23
-  mp3: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3
 date: 1982-03-11
 category:
   title: 17. Шри Гуру и его милость

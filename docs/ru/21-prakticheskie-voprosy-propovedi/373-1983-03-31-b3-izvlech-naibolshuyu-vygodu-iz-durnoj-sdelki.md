@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9310836
   duration: 00:17:13
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/373_1983.03.31.B3_SridharMj_Izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki.mp3
 date: 1983-03-31
 category:
   title: 21. Практические вопросы проповеди

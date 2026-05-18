@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6363084
   duration: 00:05:59
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/050_1982.05.14.B5_SridharMj_Kogda_Krishna_pokidaet_Vrindavan_On_ostaetsja_tam_v_skrytoj_forme.mp3
 date: 1982-05-14
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

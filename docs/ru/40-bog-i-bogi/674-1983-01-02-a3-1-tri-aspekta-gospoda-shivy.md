@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3627196
   duration: 00:05:57
-  mp3: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.mp3
+  src: /dl/40._Bog_i_bogi/674_1983.01.02.A3.1_SridharMj_Tri_aspekta_Gospoda_Shivy.mp3
 date: 1983-01-02
 category:
   title: 40. Бог и боги

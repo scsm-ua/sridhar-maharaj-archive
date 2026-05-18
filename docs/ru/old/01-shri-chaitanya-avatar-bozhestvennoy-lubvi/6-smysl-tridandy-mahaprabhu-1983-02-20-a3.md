@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5585929
   duration: 00:11:20
-  mp3: /wp-content/uploads/2012/08/006_1983.02.20.A3_SridharMj_Smysl_tridandy_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/006_1983.02.20.A3_SridharMj_Smysl_tridandy_Mahaprabhu.mp3
 date: 1983-02-20
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

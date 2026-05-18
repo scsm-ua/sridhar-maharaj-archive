@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15798888
   duration: 00:15:33
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3
 date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

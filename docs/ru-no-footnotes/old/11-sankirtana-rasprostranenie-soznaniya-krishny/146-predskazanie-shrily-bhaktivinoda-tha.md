@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7902177
   duration: 00:12:06
-  mp3: /wp-content/uploads/2012/08/146_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
+  src: /wp-content/uploads/2012/08/146_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
 date: 1982-01-21
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

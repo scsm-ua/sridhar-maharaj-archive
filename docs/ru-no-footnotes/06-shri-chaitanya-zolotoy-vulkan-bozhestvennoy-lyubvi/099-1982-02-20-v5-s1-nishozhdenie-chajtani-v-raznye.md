@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10872821
   duration: 00:10:25
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/099_1982.02.20.B5.C1_SridharMj_Nishozhdenie_Chajtani_v_raznye_jepohi___Opustoshenie_vselennoj.mp3
 date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

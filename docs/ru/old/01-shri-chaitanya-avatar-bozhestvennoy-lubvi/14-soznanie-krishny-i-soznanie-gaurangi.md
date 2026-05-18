@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5888688
   duration: 00:17:11
-  mp3: /wp-content/uploads/2012/08/014_MgnoveniyaPR_5.3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi.mp3
+  src: /wp-content/uploads/2012/08/014_MgnoveniyaPR_5.3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2327686
   duration: 00:01:32
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/994_1982.04.29.A3_SridharMj_Sledovanie_sovetam_istinnogo_sadhu_osvobozhdaet_ot_skorbi_i_bezumija.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/994_1982.04.29.A3_SridharMj_Sledovanie_sovetam_istinnogo_sadhu_osvobozhdaet_ot_skorbi_i_bezumija.mp3
 date: 1982-04-29
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

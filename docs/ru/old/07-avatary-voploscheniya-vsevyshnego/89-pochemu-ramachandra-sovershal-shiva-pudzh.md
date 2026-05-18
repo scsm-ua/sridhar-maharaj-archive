@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3170736
   duration: 00:03:57
-  mp3: /wp-content/uploads/2012/08/089_MgnoveniyaPR_8.2_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
+  src: /wp-content/uploads/2012/08/089_MgnoveniyaPR_8.2_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego

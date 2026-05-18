@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8162209
   duration: 00:07:25
-  mp3: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3
+  src: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3
 date: 1982-11-06
 category:
   title: 55. Самопожертвование

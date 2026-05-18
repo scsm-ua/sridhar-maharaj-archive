@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3633862
   duration: 00:02:51
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/792_1982.06.05.A4_SridharMj_Uvelichenie_fizicheskih_usilij_v_duhovnoj_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno.mp3
 date: 1982-06-05
 category:
   title: 51. Философия и практика бхакти-йоги

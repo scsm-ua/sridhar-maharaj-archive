@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23421992
   duration: 00:46:01
-  mp3: /dl/17._Shri_Guru_i_ego_milost/308_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/308_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
 date: 1983-07-30
 category:
   title: 17. Шри Гуру и его милость

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9569322
   duration: 00:11:31
-  mp3: /wp-content/uploads/2012/08/058_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
+  src: /wp-content/uploads/2012/08/058_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
 date: 1985-07-03
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

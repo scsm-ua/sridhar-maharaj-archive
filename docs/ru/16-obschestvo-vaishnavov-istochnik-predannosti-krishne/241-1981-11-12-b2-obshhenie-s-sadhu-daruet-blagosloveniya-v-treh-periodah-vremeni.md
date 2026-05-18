@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2855508
   duration: 00:03:36
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/241_1981.11.12.B2_SridharMj_Obweniye_s_sadhu_daruyet_blagosloveniya_treh_periodah_vremeni.mp3
 date: 1981-11-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10957541
   duration: 00:10:53
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1116_1983.11.14.D1_SridharMj_Sravnitelnyj_teizm_Obretaja_Odno--obretaesh_vse.mp3
 date: 1983-11-14
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1504559
   duration: 00:01:44
-  mp3: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
 date: 1982-01-17
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

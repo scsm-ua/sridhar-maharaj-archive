@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7514666
   duration: 00:07:01
-  mp3: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3
 date: 1982-07-02
 category:
   title: 61. Об эзотерических учениях

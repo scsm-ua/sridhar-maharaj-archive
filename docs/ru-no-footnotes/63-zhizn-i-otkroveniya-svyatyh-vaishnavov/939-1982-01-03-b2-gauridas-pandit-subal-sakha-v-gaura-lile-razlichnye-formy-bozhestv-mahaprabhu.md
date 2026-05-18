@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10816680
   duration: 00:16:32
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.mp3
 date: 1982-01-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов

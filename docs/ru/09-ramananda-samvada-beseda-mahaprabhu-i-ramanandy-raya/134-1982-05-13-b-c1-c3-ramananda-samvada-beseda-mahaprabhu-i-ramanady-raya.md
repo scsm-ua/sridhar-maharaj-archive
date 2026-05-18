@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 70997002
   duration: 01:13:42
-  mp3: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/134_1982.05.13.B.C1.C3_SridharMj_Ramananda-samvada___Beseda_Mahaprabhu_i_Ramanady_Raja.mp3
 date: 1982-05-13
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая

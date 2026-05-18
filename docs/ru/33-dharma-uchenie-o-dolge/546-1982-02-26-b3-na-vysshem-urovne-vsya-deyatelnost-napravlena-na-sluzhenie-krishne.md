@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3758215
   duration: 00:03:39
-  mp3: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3
 date: 1982-02-26
 category:
   title: 33. Дхарма — учение о долге

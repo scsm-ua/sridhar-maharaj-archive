@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 30872639
   duration: 01:03:31
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/164_1982.01.28.A_SridharMj_Shukadev_Shri_Chajtanja_i_Gaudija_Math_javljajut_chistotu_krishna-lily.mp3
 date: 1982-01-28
 category:
   title: 13. Лила — игра чудесного Абсолюта

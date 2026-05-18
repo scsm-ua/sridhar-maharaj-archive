@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4775104
   duration: 00:09:21
-  mp3: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/278_1982.02.27.B_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya.mp3
 date: 1982-02-27
 category:
   title: 17. Шри Гуру и его милость

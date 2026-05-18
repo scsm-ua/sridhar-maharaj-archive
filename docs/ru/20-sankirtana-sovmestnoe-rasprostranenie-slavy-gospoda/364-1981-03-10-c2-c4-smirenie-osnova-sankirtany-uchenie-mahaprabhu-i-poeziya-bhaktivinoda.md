@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3055962
   duration: 00:05:56
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/364_1981.03.10.C2.C4_SridharMj_Smirenie--osnova_sankirtany_Uchenie_Mahaprabhu_i_pojezija_Bhaktivinoda.mp3
 date: 1981-03-10
 category:
   title: 20. Санкиртана — совместное распространение славы Господа

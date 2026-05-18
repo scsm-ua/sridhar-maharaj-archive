@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6100564
   duration: 00:10:46
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/626_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/626_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
 date: 1982-01-20
 category:
   title: 38. Субъективная эволюция — от сознания к материи

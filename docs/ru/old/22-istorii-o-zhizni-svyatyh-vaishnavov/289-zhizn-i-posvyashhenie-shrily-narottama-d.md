@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5018728
   duration: 00:10:07
-  mp3: /wp-content/uploads/2012/08/289_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Srily_Narottama_Dasa_Thakura.mp3
+  src: /wp-content/uploads/2012/08/289_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Srily_Narottama_Dasa_Thakura.mp3
 date: 1983-04-17
 category:
   title: (22. Истории о жизни святых вайшнавов)

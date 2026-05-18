@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9150683
   duration: 00:08:18
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/656_1982.04.24.A2_SridharMj_Poisk_rasy_i_tri_plana_bytija_v_Bhagavad-gite.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/656_1982.04.24.A2_SridharMj_Poisk_rasy_i_tri_plana_bytija_v_Bhagavad-gite.mp3
 date: 1982-04-24
 category:
   title: 39. Иерархия мироздания — планы бытия

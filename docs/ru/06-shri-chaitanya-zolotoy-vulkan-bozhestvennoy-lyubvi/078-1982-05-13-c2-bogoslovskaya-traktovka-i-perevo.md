@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5046471
   duration: 00:04:21
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/078_1982.05.13.C2_SridharMj_Bogoslovskaja_traktovka_i_perevod_slova_gaudija.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/078_1982.05.13.C2_SridharMj_Bogoslovskaja_traktovka_i_perevod_slova_gaudija.mp3
 date: 1982-05-13
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

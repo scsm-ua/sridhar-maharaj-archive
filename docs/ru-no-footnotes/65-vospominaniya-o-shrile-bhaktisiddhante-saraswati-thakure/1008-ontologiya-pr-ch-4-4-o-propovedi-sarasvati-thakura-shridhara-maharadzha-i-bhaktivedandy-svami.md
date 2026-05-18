@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5716992
   duration: 00:10:40
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure

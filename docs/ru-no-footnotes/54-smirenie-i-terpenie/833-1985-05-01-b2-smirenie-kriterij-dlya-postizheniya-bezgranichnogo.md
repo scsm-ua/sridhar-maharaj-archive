@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2645431
   duration: 00:03:43
-  mp3: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
+  src: /dl/54._Smirenie_i_terpenie/833_1985.05.01.B2_SridharMj_Smireniye-kriteriy_dlya_postizheniya_Bezgranichnogo.mp3
 date: 1985-05-01
 category:
   title: 54. Смирение и терпение

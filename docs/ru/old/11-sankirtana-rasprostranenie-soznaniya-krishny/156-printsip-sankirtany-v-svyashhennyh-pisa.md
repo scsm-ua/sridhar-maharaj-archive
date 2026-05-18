@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9115188
   duration: 00:14:34
-  mp3: /wp-content/uploads/2012/08/156_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
+  src: /wp-content/uploads/2012/08/156_1981.11.12.B3_SridharMj_Princip_sankirtany_v_svyzwennyh_pisaniyah.mp3
 date: 1981-11-12
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

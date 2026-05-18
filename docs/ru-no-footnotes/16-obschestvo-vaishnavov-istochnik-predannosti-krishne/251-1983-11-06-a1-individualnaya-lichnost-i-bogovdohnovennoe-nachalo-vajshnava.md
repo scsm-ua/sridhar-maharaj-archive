@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6287369
   duration: 00:05:22
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3
 date: 1983-11-06
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

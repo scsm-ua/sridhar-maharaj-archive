@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7400375
   duration: 00:07:18
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
 date: 1982-05-14
 category:
   title: 27. Служение стопам Шримати Радхарани

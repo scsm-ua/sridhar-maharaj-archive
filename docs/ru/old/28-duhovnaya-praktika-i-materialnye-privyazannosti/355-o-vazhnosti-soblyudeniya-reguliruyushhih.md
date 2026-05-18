@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16805386
   duration: 00:32:40
-  mp3: /wp-content/uploads/2012/08/355_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+  src: /wp-content/uploads/2012/08/355_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
 date: 1983-04-29
 category:
   title: (28. Духовная практика и материальные привязанности)

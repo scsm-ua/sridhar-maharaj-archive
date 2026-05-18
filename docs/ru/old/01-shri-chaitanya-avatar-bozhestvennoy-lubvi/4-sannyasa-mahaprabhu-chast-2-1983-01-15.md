@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16794549
   duration: 00:34:41
-  mp3: /wp-content/uploads/2012/08/004_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
+  src: /wp-content/uploads/2012/08/004_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
 date: 1983-01-15
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

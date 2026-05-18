@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1419984
   duration: 00:00:47
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/226_1983.11.04.A2_SridharMj_Vjas_i_Shukadev_Chajtanja-lily.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/226_1983.11.04.A2_SridharMj_Vjas_i_Shukadev_Chajtanja-lily.mp3
 date: 1983-11-04
 category:
   title: 15. Ведическая литература - от древности до современности

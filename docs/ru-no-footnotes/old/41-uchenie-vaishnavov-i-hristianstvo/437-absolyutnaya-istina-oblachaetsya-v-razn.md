@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4993807
   duration: 00:05:04
-  mp3: /wp-content/uploads/2012/08/437_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
+  src: /wp-content/uploads/2012/08/437_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
 category:
   title: (41. Учение вайшнавов и Христианство)
   slug: 41-uchenie-vaishnavov-i-hristianstvo

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4603208
   duration: 00:06:33
-  mp3: /wp-content/uploads/2012/08/172_MgnoveniyaPR_1.4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
+  src: /wp-content/uploads/2012/08/172_MgnoveniyaPR_1.4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi

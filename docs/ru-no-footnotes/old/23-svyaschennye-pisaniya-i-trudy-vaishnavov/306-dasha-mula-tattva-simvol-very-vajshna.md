@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3369180
   duration: 00:05:48
-  mp3: /wp-content/uploads/2012/08/306_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
+  src: /wp-content/uploads/2012/08/306_1985.06.09.A1_SridharMj_Dasha-mula-tattva-simvol_very_vayshnavov.mp3
 date: 1985-06-09
 category:
   title: (23. Священные писания и труды вайшнавов)

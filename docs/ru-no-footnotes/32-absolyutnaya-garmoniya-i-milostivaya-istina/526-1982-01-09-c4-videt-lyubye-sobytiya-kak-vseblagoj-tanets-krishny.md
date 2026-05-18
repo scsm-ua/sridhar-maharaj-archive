@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3896999
   duration: 00:03:17
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3
 date: 1982-01-09
 category:
   title: 32. Абсолютная гармония и милостивая истина

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8066069
   duration: 00:12:25
-  mp3: /wp-content/uploads/2012/08/248_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
+  src: /wp-content/uploads/2012/08/248_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
 date: 1981-08-27
 category:
   title: (19. Феноменальный мир души)

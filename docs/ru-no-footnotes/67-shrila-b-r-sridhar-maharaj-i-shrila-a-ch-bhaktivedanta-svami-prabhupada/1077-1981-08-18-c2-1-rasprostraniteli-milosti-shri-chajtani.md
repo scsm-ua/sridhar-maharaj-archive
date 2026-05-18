@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12007006
   duration: 00:21:44
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1077_1981.08.18.C2.1_SridharMj_Rasprostraniteli_milosti_Shri_Chajtani.mp3
 date: 1981-08-18
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

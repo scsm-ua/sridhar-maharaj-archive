@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4801297
   duration: 00:08:24
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/828_1983.03.30.A3_SridharMj_Vajshnavy_vsegda_upovajut_na_zashhitu_Gospoda.mp3
 date: 1983-03-30
 category:
   title: 53. Шаранагати - наука предания души Господу

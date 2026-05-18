@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2989798
   duration: 00:05:34
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/341_1983.04.16.A1_SridharMj_Dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry.mp3
 date: 1983-04-16
 category:
   title: 19. Маха-мантра — Святое Имя

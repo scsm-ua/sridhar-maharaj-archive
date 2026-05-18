@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2504223
   duration: 00:02:05
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
 date: 1982-05-18
 category:
   title: 66. Воспоминания о Гаудия Матхе

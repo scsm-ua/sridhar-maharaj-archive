@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3067936
   duration: 00:05:20
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1118_1987.00.00.A2_SridharMj_Blagodarnost_za_knigu_Zolotoy_vulkan_bojestvennoy_lyubvi.mp3
 date: 1987-00-00
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

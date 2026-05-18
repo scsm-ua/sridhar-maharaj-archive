@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4105850
   duration: 00:08:16
-  mp3: /wp-content/uploads/2012/08/026_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/026_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
 date: 1983-01-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

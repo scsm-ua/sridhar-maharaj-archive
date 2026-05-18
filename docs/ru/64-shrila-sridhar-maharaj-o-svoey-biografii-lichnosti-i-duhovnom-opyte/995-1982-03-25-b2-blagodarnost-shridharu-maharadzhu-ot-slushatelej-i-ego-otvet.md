@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5413897
   duration: 00:04:45
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/995_1982.03.25.B2_SridharMj_Blagodarnost_Shridharu_Maharadzhu_ot_slushatelej_i_ego_otvet.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/995_1982.03.25.B2_SridharMj_Blagodarnost_Shridharu_Maharadzhu_ot_slushatelej_i_ego_otvet.mp3
 date: 1982-03-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

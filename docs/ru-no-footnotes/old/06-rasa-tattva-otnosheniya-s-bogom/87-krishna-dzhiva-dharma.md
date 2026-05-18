@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 8543451
   duration: 00:22:47
-  mp3: /wp-content/uploads/2012/08/087_2012.07.25.18_ShridharMj_Krishna_djiva_dharma.mp3
+  src: /wp-content/uploads/2012/08/087_2012.07.25.18_ShridharMj_Krishna_djiva_dharma.mp3
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom

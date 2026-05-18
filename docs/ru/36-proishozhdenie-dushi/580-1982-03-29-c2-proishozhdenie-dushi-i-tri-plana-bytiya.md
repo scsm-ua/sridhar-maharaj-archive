@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 29473154
   duration: 00:29:21
-  mp3: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.mp3
+  src: /dl/36._Proishozhdenie_dushi/580_1982.03.29.C2_SridharMj_Proishozhdenie_dushi_i_tri_plana_bytija.mp3
 date: 1982-03-29
 category:
   title: 36. Происхождение души

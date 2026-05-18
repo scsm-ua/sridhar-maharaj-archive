@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 689920
   duration: 00:00:58
-  mp3: /wp-content/uploads/2012/08/461_OntologiyaPR_2.4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3
+  src: /wp-content/uploads/2012/08/461_OntologiyaPR_2.4_SridharMj_Budte_mujestvennymi_i_bezzabotnymi.mp3
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure

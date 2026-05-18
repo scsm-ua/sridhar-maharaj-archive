@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4484399
   duration: 00:07:56
-  mp3: /wp-content/uploads/2012/08/066_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
+  src: /wp-content/uploads/2012/08/066_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
 date: 1982-01-22
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3984790
   duration: 00:06:02
-  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.mp3
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/754_1981.03.08.B6_SridharMj_Vajshnav_dolzhen_stremitsja_k_vneshnej_i_vnutrennej_chistote.mp3
 date: 1981-03-08
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

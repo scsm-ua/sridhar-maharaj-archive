@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9478780
   duration: 00:08:58
-  mp3: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
+  src: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
 date: 1982-03-25
 category:
   title: 45. Искренность и прогресс

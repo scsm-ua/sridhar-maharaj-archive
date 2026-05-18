@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4677768
   duration: 00:16:53
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom

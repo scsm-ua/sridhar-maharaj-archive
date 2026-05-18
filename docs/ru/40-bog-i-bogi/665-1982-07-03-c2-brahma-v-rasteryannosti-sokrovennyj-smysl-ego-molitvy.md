@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17000845
   duration: 00:16:54
-  mp3: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3
+  src: /dl/40._Bog_i_bogi/665_1982.07.03.C2_SridharMj_Brahma_v_rasterjannosti__Sokrovennyj_smysl_ego_molitvy.mp3
 date: 1982-07-03
 category:
   title: 40. Бог и боги

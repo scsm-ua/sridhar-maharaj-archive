@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14300316
   duration: 00:12:37
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/881_1982.02.19.E3_SridharMj_Zhal_chto_on_ne_popal_na_Goloku.mp3
 date: 1982-02-19
 category:
   title: 58. Сахаджия - воображаемая преданность

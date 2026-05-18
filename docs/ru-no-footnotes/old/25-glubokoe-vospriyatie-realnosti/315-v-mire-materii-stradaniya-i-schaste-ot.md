@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3712085
   duration: 00:06:55
-  mp3: /wp-content/uploads/2012/08/315_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
+  src: /wp-content/uploads/2012/08/315_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
 date: 1983-03-30
 category:
   title: (25. Глубокое восприятие реальности)

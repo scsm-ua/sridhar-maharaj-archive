@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6258604
   duration: 00:04:53
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1082_1983.11.09.C2.1_SridharMj_Bhaktivedanta_Svami_napravil_svoih_uchenikov_k_stopam_Shridhara_Maharadzha.mp3
 date: 1983-11-09
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

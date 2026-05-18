@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6082268
   duration: 00:09:25
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/745_1982.01.19.C2_SridhaRMj_O_pitanii_i_rezhime_dnja.mp3
 date: 1982-01-19
 category:
   title: 46. Принцип «золотой середины» в служении Господу

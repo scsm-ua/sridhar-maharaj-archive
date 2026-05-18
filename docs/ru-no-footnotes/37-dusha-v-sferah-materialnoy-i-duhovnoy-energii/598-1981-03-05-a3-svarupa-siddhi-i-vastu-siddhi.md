@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3131120
   duration: 00:03:08
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/598_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/598_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
 date: 1981-03-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии

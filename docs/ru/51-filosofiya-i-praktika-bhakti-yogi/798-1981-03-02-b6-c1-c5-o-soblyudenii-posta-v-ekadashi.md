@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5630464
   duration: 00:09:52
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
 date: 1981-03-02
 category:
   title: 51. Философия и практика бхакти-йоги

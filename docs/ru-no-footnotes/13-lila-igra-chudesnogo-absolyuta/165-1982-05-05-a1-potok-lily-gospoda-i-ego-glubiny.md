@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11568775
   duration: 00:11:39
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/165_1982.05.05.A1_SridharMj_Potok_lily_Gospoda_i_ego_glubiny.mp3
 date: 1982-05-05
 category:
   title: 13. Лила — игра чудесного Абсолюта

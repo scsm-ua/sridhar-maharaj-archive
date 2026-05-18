@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9222384
   duration: 00:16:05
-  mp3: /wp-content/uploads/2012/08/391_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
+  src: /wp-content/uploads/2012/08/391_1981.03.02.A3.B1_SridharMj_Iskrennost_i_golos_sovesti_na_duhovnom_puti.mp3
 date: 1981-03-02
 category:
   title: (33. Искренность)

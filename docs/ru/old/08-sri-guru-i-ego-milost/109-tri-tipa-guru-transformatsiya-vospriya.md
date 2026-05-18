@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7855982
   duration: 00:13:54
-  mp3: /wp-content/uploads/2012/08/109_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
+  src: /wp-content/uploads/2012/08/109_1981.03.02.A1_SridharMj_Tri_tipa_Guru_Transformaciya_vospriyatiya_Guru.mp3
 date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)

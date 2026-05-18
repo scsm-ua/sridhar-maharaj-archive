@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5477574
   duration: 00:10:11
-  mp3: /wp-content/uploads/2012/08/303_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
+  src: /wp-content/uploads/2012/08/303_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
 date: 1981-03-02
 category:
   title: (23. Священные писания и труды вайшнавов)

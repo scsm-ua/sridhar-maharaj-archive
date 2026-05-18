@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10190764
   duration: 00:10:31
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/028_1982.03.29.C3_SridharMj_Filosofskoe_objasnenie_amoralnogo_povedenija_Krishny.mp3
 date: 1982-03-29
 category:
   title: 02. Кришна — Имя, Личность, темперамент

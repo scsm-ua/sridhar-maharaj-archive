@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27525861
   duration: 00:27:49
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/715_1982.11.03.A.B1_SridharMj_Borba_s_majej_madhjama-adhikari_i_borba_v_lile_uttama-adhikari.mp3
 date: 1982-11-03
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2533844
   duration: 00:04:04
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/170_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_Krishna-lily.mp3
 date: 1983-01-04
 category:
   title: 13. Лила — игра чудесного Абсолюта

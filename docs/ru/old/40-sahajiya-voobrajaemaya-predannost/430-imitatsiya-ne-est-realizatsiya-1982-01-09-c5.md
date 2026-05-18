@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10201704
   duration: 00:15:12
-  mp3: /wp-content/uploads/2012/08/430_1982.01.09.C5_SridharMj_Imitaciya_ne_est_realizaciya.mp3
+  src: /wp-content/uploads/2012/08/430_1982.01.09.C5_SridharMj_Imitaciya_ne_est_realizaciya.mp3
 date: 1982-01-09
 category:
   title: (40. Сахаджия - воображаемая преданность)

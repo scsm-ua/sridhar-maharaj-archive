@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6835838
   duration: 00:04:10
-  mp3: /wp-content/uploads/2012/08/374_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
+  src: /wp-content/uploads/2012/08/374_OntologiyaPR_7.4_SridharMj_Obwestvo_sadhu_i_svyawennye_pisaniya-osnova_duhovnogo_zdorovya.mp3
 category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4042689
   duration: 00:05:39
-  mp3: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/272_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
 date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость

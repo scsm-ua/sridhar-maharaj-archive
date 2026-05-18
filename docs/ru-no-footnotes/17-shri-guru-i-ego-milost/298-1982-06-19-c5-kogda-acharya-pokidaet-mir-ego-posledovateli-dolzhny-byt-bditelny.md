@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3127453
   duration: 00:01:52
-  mp3: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/298_1982.06.19.C5_SridharMj_Kogda_acharja_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny.mp3
 date: 1982-06-19
 category:
   title: 17. Шри Гуру и его милость

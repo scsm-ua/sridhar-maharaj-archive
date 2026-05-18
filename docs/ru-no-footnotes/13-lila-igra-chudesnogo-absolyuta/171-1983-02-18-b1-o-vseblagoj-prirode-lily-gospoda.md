@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8222972
   duration: 00:16:20
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
 date: 1983-02-18
 category:
   title: 13. Лила — игра чудесного Абсолюта

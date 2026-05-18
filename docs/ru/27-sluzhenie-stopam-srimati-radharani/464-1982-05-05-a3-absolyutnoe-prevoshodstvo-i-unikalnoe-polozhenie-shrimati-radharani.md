@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4491797
   duration: 00:04:17
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
 date: 1982-05-05
 category:
   title: 27. Служение стопам Шримати Радхарани

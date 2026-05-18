@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9955693
   duration: 00:19:20
-  mp3: /wp-content/uploads/2012/08/077_1982.01.18.B1_SridharMj_Ram-lila_i_krishna-lila.mp3
+  src: /wp-content/uploads/2012/08/077_1982.01.18.B1_SridharMj_Ram-lila_i_krishna-lila.mp3
 date: 1982-01-18
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

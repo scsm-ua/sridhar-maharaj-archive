@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4403711
   duration: 00:06:07
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.mp3
 date: 1982-02-21
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

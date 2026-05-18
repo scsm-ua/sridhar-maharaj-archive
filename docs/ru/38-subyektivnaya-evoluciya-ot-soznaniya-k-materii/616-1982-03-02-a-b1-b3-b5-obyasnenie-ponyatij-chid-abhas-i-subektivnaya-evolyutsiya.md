@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 49196750
   duration: 00:50:16
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/616_1982.03.02.A.B1.B3.B5_SridharMj_Objasnenie_ponjatij_chid-abhas_i_subektivnaja_jevoljucija.mp3
 date: 1982-03-02
 category:
   title: 38. Субъективная эволюция — от сознания к материи

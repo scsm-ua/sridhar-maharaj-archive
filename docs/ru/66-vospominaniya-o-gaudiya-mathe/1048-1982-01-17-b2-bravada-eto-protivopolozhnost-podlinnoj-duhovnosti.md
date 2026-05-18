@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2472667
   duration: 00:04:05
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
 date: 1982-01-17
 category:
   title: 66. Воспоминания о Гаудия Матхе

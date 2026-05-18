@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3062836
   duration: 00:04:34
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/100_1981.03.05.B3_SridharMj_Kommentarij_na_molitvu_Vasudevy_Datty_ob_opustoshenii_vselennoj.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/100_1981.03.05.B3_SridharMj_Kommentarij_na_molitvu_Vasudevy_Datty_ob_opustoshenii_vselennoj.mp3
 date: 1981-03-05
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

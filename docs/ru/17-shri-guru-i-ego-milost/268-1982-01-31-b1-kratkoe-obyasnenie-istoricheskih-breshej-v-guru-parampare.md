@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2838016
   duration: 00:03:08
-  mp3: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/268_1982.01.31.B1_SridharMj_Kratkoe_objasnenie_istoricheskih_breshej_v_guru-parampare.mp3
 date: 1982-01-31
 category:
   title: 17. Шри Гуру и его милость

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6062152
   duration: 00:05:26
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/993_1982.03.13.B_SridharMj_Davat_pristanishhe_no_ne_zanimatsja_ukryvatelstvom.mp3
 date: 1982-03-13
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

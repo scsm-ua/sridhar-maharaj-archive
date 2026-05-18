@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6640306
   duration: 00:13:38
-  mp3: /wp-content/uploads/2012/08/441_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary-.mp3
+  src: /wp-content/uploads/2012/08/441_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary-.mp3
 date: 1982-01-25
 category:
   title: (42. Учение вайшнавов и майавада)

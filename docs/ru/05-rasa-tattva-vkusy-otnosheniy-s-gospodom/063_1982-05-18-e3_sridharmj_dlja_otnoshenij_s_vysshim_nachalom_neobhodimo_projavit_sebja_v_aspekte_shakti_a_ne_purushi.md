@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 13477961
   duration: 00:11:23
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/063_1982.05.18.E3_SridharMj_Dlja_otnoshenij_s_Vysshim_Nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.mp3
 date: 1982-05-18
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

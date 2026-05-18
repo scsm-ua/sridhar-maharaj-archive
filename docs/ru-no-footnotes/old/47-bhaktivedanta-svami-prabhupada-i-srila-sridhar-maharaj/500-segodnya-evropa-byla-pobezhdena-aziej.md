@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3678665
   duration: 00:08:59
-  mp3: /wp-content/uploads/2012/08/500_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobeоdena_Aziyey.mp3
+  src: /wp-content/uploads/2012/08/500_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobeоdena_Aziyey.mp3
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj

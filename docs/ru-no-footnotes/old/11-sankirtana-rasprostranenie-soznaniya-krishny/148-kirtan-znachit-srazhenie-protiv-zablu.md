@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15423959
   duration: 00:27:42
-  mp3: /wp-content/uploads/2012/08/148_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
+  src: /wp-content/uploads/2012/08/148_1983.07.19.A2_SridharMj_Kirtan_oznachaet_srajenie_protiv_zablujdeniy.mp3
 date: 1983-07-19
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

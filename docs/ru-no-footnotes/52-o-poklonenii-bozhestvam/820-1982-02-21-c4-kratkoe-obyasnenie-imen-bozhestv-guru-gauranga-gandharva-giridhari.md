@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1867514
   duration: 00:01:54
-  mp3: /dl/52._O_poklonenii_Bozhestvam/820_1982.02.21.C4_SridharMj_Kratkoe_objasnenie_imen_Bozhestv_Guru-Gauranga-Gandharva-Giridhari.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/820_1982.02.21.C4_SridharMj_Kratkoe_objasnenie_imen_Bozhestv_Guru-Gauranga-Gandharva-Giridhari.mp3
 date: 1982-02-21
 category:
   title: 52. О поклонении Божествам

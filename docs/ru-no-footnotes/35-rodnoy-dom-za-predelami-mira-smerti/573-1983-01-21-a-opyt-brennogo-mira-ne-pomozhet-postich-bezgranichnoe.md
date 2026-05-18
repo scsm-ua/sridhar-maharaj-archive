@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19995772
   duration: 00:35:38
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/573_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
 date: 1983-01-21
 category:
   title: 35. Родной дом за пределами мира смерти

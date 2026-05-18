@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15700113
   duration: 00:13:21
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/927_1982.04.27.A.B1_SridharMj_Istorija_Valmiki_Rishi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/927_1982.04.27.A.B1_SridharMj_Istorija_Valmiki_Rishi.mp3
 date: 1982-04-27
 category:
   title: 63. Жизнь и откровения святых вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19284690
   duration: 00:37:07
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/115_1983.03.08.A2_SridharMj_Krasota_Shri_Chaitanyi___Kommentarii_na_shloki_Rupy_Gosvami.mp3
 date: 1983-03-08
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

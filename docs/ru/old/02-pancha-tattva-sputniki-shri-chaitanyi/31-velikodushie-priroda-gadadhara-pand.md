@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4493568
   duration: 00:09:08
-  mp3: /wp-content/uploads/2012/08/031_OntologiyaPR_5.10_SridharMj_Velikodushiye-priroda_Gadadhara_Pandita.mp3
+  src: /wp-content/uploads/2012/08/031_OntologiyaPR_5.10_SridharMj_Velikodushiye-priroda_Gadadhara_Pandita.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi

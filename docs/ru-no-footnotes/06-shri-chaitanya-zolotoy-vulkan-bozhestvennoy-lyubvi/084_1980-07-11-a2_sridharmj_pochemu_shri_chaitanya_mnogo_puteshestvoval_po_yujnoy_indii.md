@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1990803
   duration: 00:01:52
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
 date: 1980-07-11
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

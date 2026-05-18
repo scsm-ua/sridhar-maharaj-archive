@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2734163
   duration: 00:04:54
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/179_1982.02.21.C2_SridharMj_Razvitie_i_novizna_%E2%80%93_dve_harakteristiki_lily_Gospoda.mp3
 date: 1982-02-21
 category:
   title: 13. Лила — игра чудесного Абсолюта

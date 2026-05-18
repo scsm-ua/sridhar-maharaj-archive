@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4240530
   duration: 00:02:47
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
 date: 1982-04-29
 category:
   title: 46. Принцип «золотой середины» в служении Господу

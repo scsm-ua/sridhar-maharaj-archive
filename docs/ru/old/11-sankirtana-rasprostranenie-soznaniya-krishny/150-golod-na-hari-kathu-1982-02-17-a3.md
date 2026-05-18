@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5178640
   duration: 00:06:22
-  mp3: /wp-content/uploads/2012/08/150_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
+  src: /wp-content/uploads/2012/08/150_1982.02.17.A3_SridharMj_Golod_na_hari-kathu.mp3
 date: 1982-02-17
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

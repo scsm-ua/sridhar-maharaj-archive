@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 31162943
   duration: 01:03:31
-  mp3: /wp-content/uploads/2012/08/079_1982.01.28.A_SridharMj_Shukadev_Shri_Chaytanya_i_Bhagavatam_yavlyayut_chistotu_krishna-lily.mp3
+  src: /wp-content/uploads/2012/08/079_1982.01.28.A_SridharMj_Shukadev_Shri_Chaytanya_i_Bhagavatam_yavlyayut_chistotu_krishna-lily.mp3
 date: 1982-01-28
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

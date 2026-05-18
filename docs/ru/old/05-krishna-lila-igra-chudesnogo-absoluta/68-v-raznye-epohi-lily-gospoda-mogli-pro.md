@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2911929
   duration: 00:04:15
-  mp3: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
+  src: /wp-content/uploads/2012/08/068_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
 date: 1981-03-03
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

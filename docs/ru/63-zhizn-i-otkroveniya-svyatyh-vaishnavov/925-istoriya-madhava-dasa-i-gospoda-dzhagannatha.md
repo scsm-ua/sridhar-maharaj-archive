@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 7162253
   duration: 00:08:55
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.mp3
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov

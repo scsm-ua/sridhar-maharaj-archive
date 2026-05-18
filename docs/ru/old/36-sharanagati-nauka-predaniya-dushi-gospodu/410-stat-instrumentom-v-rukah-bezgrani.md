@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4085917
   duration: 00:07:07
-  mp3: /wp-content/uploads/2012/08/410_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3
+  src: /wp-content/uploads/2012/08/410_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3
 date: 1982-01-28
 category:
   title: (36. Шаранагати - наука предания души Господу)

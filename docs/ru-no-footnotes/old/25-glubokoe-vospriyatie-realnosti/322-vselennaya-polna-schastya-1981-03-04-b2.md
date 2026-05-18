@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2696641
   duration: 00:05:13
-  mp3: /wp-content/uploads/2012/08/322_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
+  src: /wp-content/uploads/2012/08/322_1981.03.04.B2_SridharMj_Vselennaya_polna_schastya.mp3
 date: 1981-03-04
 category:
   title: (25. Глубокое восприятие реальности)

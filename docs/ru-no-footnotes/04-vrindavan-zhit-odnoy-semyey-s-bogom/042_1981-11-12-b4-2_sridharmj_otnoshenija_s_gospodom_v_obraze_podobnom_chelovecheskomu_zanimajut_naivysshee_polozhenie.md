@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7858542
   duration: 00:15:04
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/042_1981.11.12.B4.2_SridharMj_Otnoshenija_s_Gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.mp3
 date: 1981-11-12
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

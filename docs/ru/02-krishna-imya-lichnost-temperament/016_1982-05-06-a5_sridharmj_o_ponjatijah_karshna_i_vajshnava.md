@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1451592
   duration: 00:00:47
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/016_1982.05.06.A5_SridharMj_O_ponjatijah_karshna_i_vajshnava.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/016_1982.05.06.A5_SridharMj_O_ponjatijah_karshna_i_vajshnava.mp3
 date: 1982-05-06
 category:
   title: 02. Кришна — Имя, Личность, темперамент

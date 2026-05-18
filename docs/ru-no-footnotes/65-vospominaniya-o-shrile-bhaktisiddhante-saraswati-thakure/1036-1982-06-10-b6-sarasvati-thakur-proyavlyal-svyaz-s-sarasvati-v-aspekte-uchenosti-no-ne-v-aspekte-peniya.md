@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3032491
   duration: 00:02:32
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1036_1982.06.10.B6_SridharMj_Sarasvati_Thakur_projavljal_svjaz_s_Sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_penija.mp3
 date: 1982-06-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

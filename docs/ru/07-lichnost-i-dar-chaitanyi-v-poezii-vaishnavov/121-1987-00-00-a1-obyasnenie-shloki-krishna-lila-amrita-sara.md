@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4760858
   duration: 00:06:52
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/121_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
 date: 1987-00-00
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

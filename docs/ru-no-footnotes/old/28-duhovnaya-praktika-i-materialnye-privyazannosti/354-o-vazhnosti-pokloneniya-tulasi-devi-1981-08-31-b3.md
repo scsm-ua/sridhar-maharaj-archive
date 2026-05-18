@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3500816
   duration: 00:04:57
-  mp3: /wp-content/uploads/2012/08/354_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
+  src: /wp-content/uploads/2012/08/354_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
 date: 1981-08-31
 category:
   title: (28. Духовная практика и материальные привязанности)

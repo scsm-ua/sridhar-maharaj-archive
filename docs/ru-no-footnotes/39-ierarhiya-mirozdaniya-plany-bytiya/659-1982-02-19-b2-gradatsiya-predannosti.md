@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6112704
   duration: 00:10:17
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
 date: 1982-02-19
 category:
   title: 39. Иерархия мироздания — планы бытия

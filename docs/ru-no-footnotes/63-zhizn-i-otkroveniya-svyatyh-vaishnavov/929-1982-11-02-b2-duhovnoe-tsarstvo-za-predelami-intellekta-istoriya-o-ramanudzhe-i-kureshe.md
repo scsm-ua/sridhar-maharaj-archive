@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22163853
   duration: 00:20:05
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/929_1982.11.02.B2_SridharMj_Duhovnoe_carstvo_za_predelami_intellekta_Istorija_o_Ramanudzhe_i_Kureshe.mp3
 date: 1982-11-02
 category:
   title: 63. Жизнь и откровения святых вайшнавов

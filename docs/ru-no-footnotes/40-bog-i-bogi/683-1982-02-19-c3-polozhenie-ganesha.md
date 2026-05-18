@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2047920
   duration: 00:05:08
-  mp3: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.mp3
+  src: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.mp3
 date: 1982-02-19
 category:
   title: 40. Бог и боги

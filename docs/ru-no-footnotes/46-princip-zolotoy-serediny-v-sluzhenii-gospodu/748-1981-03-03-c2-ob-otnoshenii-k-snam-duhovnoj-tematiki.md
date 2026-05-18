@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2878598
   duration: 00:02:20
-  mp3: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
 date: 1981-03-03
 category:
   title: 46. Принцип «золотой середины» в служении Господу

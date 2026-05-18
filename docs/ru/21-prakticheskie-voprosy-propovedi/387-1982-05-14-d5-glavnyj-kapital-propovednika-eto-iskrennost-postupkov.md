@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5245961
   duration: 00:04:35
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/387_1982.05.14.D5_SridharMj_Glavnyj_kapital_propovednika_jeto_iskrennost_postupkov.mp3
 date: 1982-05-14
 category:
   title: 21. Практические вопросы проповеди

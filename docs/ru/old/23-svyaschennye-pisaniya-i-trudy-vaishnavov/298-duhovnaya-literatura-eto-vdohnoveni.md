@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7372601
   duration: 00:14:08
-  mp3: /wp-content/uploads/2012/08/298_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
+  src: /wp-content/uploads/2012/08/298_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
 date: 1981-03-03
 category:
   title: (23. Священные писания и труды вайшнавов)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4345355
   duration: 00:08:04
-  mp3: /wp-content/uploads/2012/08/512_1983.02.20.A1_SridharMj_Obyasnenie_pranama-mantry_Shrile_Saraswati_Thakuru.mp3
+  src: /wp-content/uploads/2012/08/512_1983.02.20.A1_SridharMj_Obyasnenie_pranama-mantry_Shrile_Saraswati_Thakuru.mp3
 date: 1983-02-20
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

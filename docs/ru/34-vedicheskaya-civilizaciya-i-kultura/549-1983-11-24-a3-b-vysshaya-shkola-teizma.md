@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 25122064
   duration: 00:25:29
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3
 date: 1983-11-24
 category:
   title: 34. Ведическая цивилизация и культура

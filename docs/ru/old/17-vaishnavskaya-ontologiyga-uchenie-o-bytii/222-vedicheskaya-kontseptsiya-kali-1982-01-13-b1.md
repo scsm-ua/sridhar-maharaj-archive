@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10557940
   duration: 00:21:32
-  mp3: /wp-content/uploads/2012/08/222_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
+  src: /wp-content/uploads/2012/08/222_1982.01.13.B1_SridharMj_Vedicheskaya_koncepciya_Kali.mp3
 date: 1982-01-13
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

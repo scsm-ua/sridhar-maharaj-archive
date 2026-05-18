@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8326155
   duration: 00:08:16
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
 date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани

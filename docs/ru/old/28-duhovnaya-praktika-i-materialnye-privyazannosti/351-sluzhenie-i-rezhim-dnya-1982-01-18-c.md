@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6535711
   duration: 00:11:17
-  mp3: /wp-content/uploads/2012/08/351_1982.01.18.C_SridharMj_Slujenie_i_rejim_dnya.mp3
+  src: /wp-content/uploads/2012/08/351_1982.01.18.C_SridharMj_Slujenie_i_rejim_dnya.mp3
 date: 1982-01-18
 category:
   title: (28. Духовная практика и материальные привязанности)

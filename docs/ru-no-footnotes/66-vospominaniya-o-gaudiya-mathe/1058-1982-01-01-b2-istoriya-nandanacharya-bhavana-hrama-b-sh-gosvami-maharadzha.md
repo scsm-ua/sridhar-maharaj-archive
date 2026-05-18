@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5384172
   duration: 00:10:09
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1058_1982.01.01.B2_SridharMj_Istorija_Nandanacharja_Bhavana--hrama_BS_Gosvami_Maharadzha.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1058_1982.01.01.B2_SridharMj_Istorija_Nandanacharja_Bhavana--hrama_BS_Gosvami_Maharadzha.mp3
 date: 1982-01-01
 category:
   title: 66. Воспоминания о Гаудия Матхе

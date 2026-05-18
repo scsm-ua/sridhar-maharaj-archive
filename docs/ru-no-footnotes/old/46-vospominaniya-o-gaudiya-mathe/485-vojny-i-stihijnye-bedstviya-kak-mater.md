@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9706308
   duration: 00:19:02
-  mp3: /wp-content/uploads/2012/08/485_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
+  src: /wp-content/uploads/2012/08/485_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
 date: 1982-01-27
 category:
   title: (45. Воспоминания о Гаудия-матхе)

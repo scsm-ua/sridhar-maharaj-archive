@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4253686
   duration: 00:08:34
-  mp3: /wp-content/uploads/2012/08/017_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
+  src: /wp-content/uploads/2012/08/017_1982.09.05.B1_SridharMj_Obrawenie_Sarvabhaumy_Bhattacharyi.mp3
 date: 1982-09-05
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

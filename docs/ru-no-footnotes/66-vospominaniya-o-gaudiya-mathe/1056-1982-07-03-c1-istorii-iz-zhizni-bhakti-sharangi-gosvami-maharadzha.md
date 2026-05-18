@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13892357
   duration: 00:13:56
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1056_1982.07.03.C1_SridharMj_Istorii_iz_zhizni_Bhakti_Sharangi_Gosvami_Maharadzha.mp3
 date: 1982-07-03
 category:
   title: 66. Воспоминания о Гаудия Матхе

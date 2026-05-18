@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7465784
   duration: 00:07:09
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1003_1982.06.14.A2.A7_SridharMj_Vozvyshennye_duhovnye_jemocii_Sarasvati_Thakura_i_Bhaktivinoda_Thakura.mp3
 date: 1982-06-14
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

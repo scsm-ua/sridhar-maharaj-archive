@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16736402
   duration: 00:16:48
-  mp3: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3
+  src: /dl/26._Rupanuga-sampradaya/452_1982.11.06.B2_SridharMj_Objasnenie_pesni_Shri_Rupa-Mandzhari-pada_Narottama_Dasa_Thakura.mp3
 date: 1982-11-06
 category:
   title: 26. Рупануга-сампрадая

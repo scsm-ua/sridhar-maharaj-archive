@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6774992
   duration: 00:09:44
-  mp3: /wp-content/uploads/2012/08/256_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
+  src: /wp-content/uploads/2012/08/256_1982.01.16.B_SridharMj_Tcarstvovat_v_adu_ili_slujit_na_nebesah.mp3
 date: 1982-01-16
 category:
   title: (19. Феноменальный мир души)

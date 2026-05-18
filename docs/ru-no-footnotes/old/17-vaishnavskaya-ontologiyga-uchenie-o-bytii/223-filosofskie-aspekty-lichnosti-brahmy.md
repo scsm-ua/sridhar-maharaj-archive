@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1349883
   duration: 00:02:21
-  mp3: /wp-content/uploads/2012/08/223_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
+  src: /wp-content/uploads/2012/08/223_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
 date: 1981-03-01
 category:
   title: (17. Вайшнавская онтология - учение о бытии)

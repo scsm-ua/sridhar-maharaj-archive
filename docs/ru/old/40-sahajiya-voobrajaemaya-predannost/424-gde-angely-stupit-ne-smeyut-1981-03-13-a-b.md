@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 33994562
   duration: 01:04:46
-  mp3: /wp-content/uploads/2012/08/424_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
+  src: /wp-content/uploads/2012/08/424_1981.03.13.A.B_SridharMj_Gde_Angeli_Stupit_Ne_Smeyut.mp3
 date: 1981-03-13
 category:
   title: (40. Сахаджия - воображаемая преданность)

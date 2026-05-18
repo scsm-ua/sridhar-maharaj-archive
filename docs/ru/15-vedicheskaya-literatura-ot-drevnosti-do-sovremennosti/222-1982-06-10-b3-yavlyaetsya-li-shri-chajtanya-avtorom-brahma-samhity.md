@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2736640
   duration: 00:02:09
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/222_1982.06.10.B3_SridharMj_Javljaetsja_li_Shri_Chajtanja_avtorom_Brahma-samhity.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/222_1982.06.10.B3_SridharMj_Javljaetsja_li_Shri_Chajtanja_avtorom_Brahma-samhity.mp3
 date: 1982-06-10
 category:
   title: 15. Ведическая литература - от древности до современности

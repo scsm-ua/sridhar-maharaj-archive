@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4206771
   duration: 00:04:10
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1103_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1103_1983.03.08.A1_SridharMj_Obyasneniye_pervogo_stiha_Prema-dhama-deva-stotram.mp3
 date: 1983-03-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

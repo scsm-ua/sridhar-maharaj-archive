@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11837846
   duration: 00:11:39
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/158_1982.02.19.B1_SridharMj_Vopros_o_rebenke_ot_Shivy_u_Mohini-murti.mp3
 date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего

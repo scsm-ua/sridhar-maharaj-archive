@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 17207463
   duration: 00:17:16
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/435_1982.05.09.B4_SridharMj_Predannoe_sluzhenie_kak_osnova_soprikosnovenija_s_Bezgranichnym_i_trud_ljubvi_v_Shrimad_Bhagavatam.mp3
 date: 1982-05-09
 category:
   title: 25. Служение Кришне — труд любви

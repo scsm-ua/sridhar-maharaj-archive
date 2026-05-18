@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3554417
   duration: 00:03:52
-  mp3: /wp-content/uploads/2012/08/255_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
+  src: /wp-content/uploads/2012/08/255_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi

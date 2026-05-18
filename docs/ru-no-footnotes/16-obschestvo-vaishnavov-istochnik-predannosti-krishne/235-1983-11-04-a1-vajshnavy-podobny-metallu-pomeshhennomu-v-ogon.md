@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4904760
   duration: 00:03:56
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
 date: 1983-11-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

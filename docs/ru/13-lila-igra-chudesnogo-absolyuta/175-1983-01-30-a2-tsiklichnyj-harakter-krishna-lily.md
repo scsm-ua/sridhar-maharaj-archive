@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4595336
   duration: 00:08:46
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/175_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
 date: 1983-01-30
 category:
   title: 13. Лила — игра чудесного Абсолюта

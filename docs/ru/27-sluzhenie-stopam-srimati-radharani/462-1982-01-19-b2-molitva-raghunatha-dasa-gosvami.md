@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17481246
   duration: 00:35:37
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
 date: 1982-01-19
 category:
   title: 27. Служение стопам Шримати Радхарани

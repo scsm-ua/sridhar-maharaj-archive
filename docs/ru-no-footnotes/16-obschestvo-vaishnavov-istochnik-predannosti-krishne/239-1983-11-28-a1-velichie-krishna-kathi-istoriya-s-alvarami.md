@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4799853
   duration: 00:03:49
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
 date: 1983-11-28
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

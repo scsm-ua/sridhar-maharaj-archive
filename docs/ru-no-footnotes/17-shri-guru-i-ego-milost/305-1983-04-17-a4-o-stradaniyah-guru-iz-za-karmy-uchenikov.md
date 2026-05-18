@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5652135
   duration: 00:09:00
-  mp3: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
 date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость

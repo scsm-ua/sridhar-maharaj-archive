@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 62823370
   duration: 01:05:09
-  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/141_1982.04.27.B2.C1_Kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_Shikshashtaki.mp3
+  src: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/141_1982.04.27.B2.C1_Kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_Shikshashtaki.mp3
 date: 1982-04-27
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи

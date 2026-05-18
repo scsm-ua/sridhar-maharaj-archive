@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16955792
   duration: 00:44:40
-  mp3: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
 date: 1982-02-22
 category:
   title: 28. Молитвы и умонастроение гопи

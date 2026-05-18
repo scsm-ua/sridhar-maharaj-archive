@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3011793
   duration: 00:02:34
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/767_1982.07.04.A5_SridharMj_Blagodarja_bhakti_Bezgranichnoe_stanovitsja_podchinennym_ogranichennomu.mp3
 date: 1982-07-04
 category:
   title: 49. Бхакти — величие преданности Кришне

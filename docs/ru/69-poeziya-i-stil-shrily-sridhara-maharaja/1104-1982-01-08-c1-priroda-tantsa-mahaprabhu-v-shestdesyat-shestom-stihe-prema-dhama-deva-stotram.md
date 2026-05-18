@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3236311
   duration: 00:06:19
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3
 date: 1982-01-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

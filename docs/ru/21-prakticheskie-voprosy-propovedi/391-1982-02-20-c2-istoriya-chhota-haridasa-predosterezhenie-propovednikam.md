@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9508727
   duration: 00:09:01
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/391_1982.02.20.C2_SridharMj_Istorija_Chhota_Haridasa_predosterezhenie_propovednikam.mp3
 date: 1982-02-20
 category:
   title: 21. Практические вопросы проповеди

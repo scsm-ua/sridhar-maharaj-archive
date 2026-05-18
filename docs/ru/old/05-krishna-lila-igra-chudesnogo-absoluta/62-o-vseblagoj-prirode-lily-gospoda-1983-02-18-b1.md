@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8513276
   duration: 00:16:20
-  mp3: /wp-content/uploads/2012/08/062_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/062_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
 date: 1983-02-18
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

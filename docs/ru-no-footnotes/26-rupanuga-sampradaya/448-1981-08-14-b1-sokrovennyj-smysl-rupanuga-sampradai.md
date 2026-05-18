@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4752048
   duration: 00:08:39
-  mp3: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3
+  src: /dl/26._Rupanuga-sampradaya/448_1981.08.14.B1_SridharMj_Sokrovennyj_smysl_Rupanuga-sampradai.mp3
 date: 1981-08-14
 category:
   title: 26. Рупануга-сампрадая

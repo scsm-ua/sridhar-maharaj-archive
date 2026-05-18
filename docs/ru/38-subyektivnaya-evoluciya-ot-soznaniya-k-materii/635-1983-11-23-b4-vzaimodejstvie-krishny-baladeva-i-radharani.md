@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11093086
   duration: 00:10:35
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/635_1983.11.23.B4_SridharMj_Vzaimodejstvie_Krishny_Baladeva_i_Radharani.mp3
 date: 1983-11-23
 category:
   title: 38. Субъективная эволюция — от сознания к материи

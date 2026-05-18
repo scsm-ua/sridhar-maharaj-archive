@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8373655
   duration: 00:06:27
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/874_1982.03.11.B2_SridharMj_Trebovanie_bystro_obresti_sokrovennye_javlenija--jeto_ateizm.mp3
 date: 1982-03-11
 category:
   title: 58. Сахаджия - воображаемая преданность

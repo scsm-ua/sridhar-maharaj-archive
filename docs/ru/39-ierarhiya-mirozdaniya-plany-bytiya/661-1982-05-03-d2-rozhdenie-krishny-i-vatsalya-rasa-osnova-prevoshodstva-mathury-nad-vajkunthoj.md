@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4393984
   duration: 00:03:21
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/661_1982.05.03.D2_SridharMj_Rozhdenie_Krishny_i_vatsalja-rasa--osnova_prevoshodstva_Mathury_nad_Vajkunthoj.mp3
 date: 1982-05-03
 category:
   title: 39. Иерархия мироздания — планы бытия

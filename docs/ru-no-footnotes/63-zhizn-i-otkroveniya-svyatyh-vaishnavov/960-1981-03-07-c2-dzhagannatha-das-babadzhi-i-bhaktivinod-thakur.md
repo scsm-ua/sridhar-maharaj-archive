@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4362134
   duration: 00:03:05
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/960_1981.03.07.C2_SridharMj_Dzhagannatha_Das_Babadzhi_i_Bhaktivinod_Thakur.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/960_1981.03.07.C2_SridharMj_Dzhagannatha_Das_Babadzhi_i_Bhaktivinod_Thakur.mp3
 date: 1981-03-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов

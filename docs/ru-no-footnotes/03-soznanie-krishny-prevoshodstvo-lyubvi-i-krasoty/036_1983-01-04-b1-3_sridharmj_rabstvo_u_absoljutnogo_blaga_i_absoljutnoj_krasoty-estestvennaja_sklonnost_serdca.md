@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 5384527
   duration: 00:10:33
-  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3
+  src: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/036_1983.01.04.B1.3_SridharMj_Rabstvo_u_Absoljutnogo_Blaga_i_Absoljutnoj_Krasoty--estestvennaja_sklonnost_serdca.mp3
 date: 1983-01-04
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты

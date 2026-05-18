@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7288361
   duration: 00:06:56
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/437_1982.07.09.B4_SridharMj_Kogda_vsja_lichnost__vremja_i_prostranstvo_zanjaty_trudom_ljubvi.mp3
 date: 1982-07-09
 category:
   title: 25. Служение Кришне — труд любви

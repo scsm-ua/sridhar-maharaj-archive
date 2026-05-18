@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1836313
   duration: 00:03:36
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/896_1983.06.05.B1_SridharMj_Missita_Shankary.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/896_1983.06.05.B1_SridharMj_Missita_Shankary.mp3
 date: 1983-06-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

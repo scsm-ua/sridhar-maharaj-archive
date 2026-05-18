@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3681091
   duration: 00:02:54
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3
 date: 1982-03-29
 category:
   title: 51. Философия и практика бхакти-йоги

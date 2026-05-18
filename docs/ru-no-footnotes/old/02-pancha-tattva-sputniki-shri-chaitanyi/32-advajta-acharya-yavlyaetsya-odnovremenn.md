@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1614384
   duration: 00:06:07
-  mp3: /wp-content/uploads/2012/08/032_MgnoveniyaPR_8.1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
+  src: /wp-content/uploads/2012/08/032_MgnoveniyaPR_8.1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi

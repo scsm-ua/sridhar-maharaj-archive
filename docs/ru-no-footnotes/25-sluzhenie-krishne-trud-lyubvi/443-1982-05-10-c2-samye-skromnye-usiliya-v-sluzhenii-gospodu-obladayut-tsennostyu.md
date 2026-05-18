@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6827353
   duration: 00:06:27
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/443_1982.05.10.C2_SridharMj_Samye_skromnye_skromnye_usilija_v_sluzhenii_Gospodu_obladajut_cennostju.mp3
 date: 1982-05-10
 category:
   title: 25. Служение Кришне — труд любви

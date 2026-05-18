@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11718050
   duration: 00:23:17
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/773_1983.02.11.B1_SridharMj_Dary_bhakti_Molitva_vozvyshennyh_predannyh_primery_iz_Pisanij.mp3
 date: 1983-02-11
 category:
   title: 49. Бхакти — величие преданности Кришне

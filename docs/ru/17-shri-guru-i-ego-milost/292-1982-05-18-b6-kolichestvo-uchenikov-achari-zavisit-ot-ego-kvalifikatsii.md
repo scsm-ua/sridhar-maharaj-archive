@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3073536
   duration: 00:01:49
-  mp3: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

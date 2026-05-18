@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11248932
   duration: 00:11:09
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/771_1982.07.27.C1_SridharMj_Vera_i_pokornost_Absoljutu_sposobny_darovat_naivysshee_dostizhenie.mp3
 date: 1982-07-27
 category:
   title: 49. Бхакти — величие преданности Кришне

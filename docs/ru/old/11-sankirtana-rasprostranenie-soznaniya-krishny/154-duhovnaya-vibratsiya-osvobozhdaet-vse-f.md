@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5378633
   duration: 00:06:47
-  mp3: /wp-content/uploads/2012/08/154_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
+  src: /wp-content/uploads/2012/08/154_1982.01.27.C1_SridhaMj_Duhovnaya_vibraciya_osvobojdayet_vse_formy_jizni.mp3
 date: 1982-01-27
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

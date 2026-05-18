@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3987820
   duration: 00:03:16
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/973_1983.11.09.C2.2_SridharMj_Diplomatija_i_vneshnjaja_forma_VS_otkrytost_i_ontologija.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/973_1983.11.09.C2.2_SridharMj_Diplomatija_i_vneshnjaja_forma_VS_otkrytost_i_ontologija.mp3
 date: 1983-11-09
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

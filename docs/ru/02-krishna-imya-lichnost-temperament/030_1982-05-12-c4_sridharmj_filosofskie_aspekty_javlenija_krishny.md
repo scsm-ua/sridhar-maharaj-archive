@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7648317
   duration: 00:07:52
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.mp3
 date: 1982-05-12
 category:
   title: 02. Кришна — Имя, Личность, темперамент

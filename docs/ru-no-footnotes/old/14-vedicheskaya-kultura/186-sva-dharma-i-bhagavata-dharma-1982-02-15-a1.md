@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3014719
   duration: 00:04:46
-  mp3: /wp-content/uploads/2012/08/186_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
+  src: /wp-content/uploads/2012/08/186_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
 date: 1982-02-15
 category:
   title: (14. Ведическая культура)

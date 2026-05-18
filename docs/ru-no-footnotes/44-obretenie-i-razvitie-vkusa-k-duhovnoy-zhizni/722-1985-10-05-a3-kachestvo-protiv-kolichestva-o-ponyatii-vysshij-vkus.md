@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1877587
   duration: 00:02:12
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/722_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
 date: 1985-10-05
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

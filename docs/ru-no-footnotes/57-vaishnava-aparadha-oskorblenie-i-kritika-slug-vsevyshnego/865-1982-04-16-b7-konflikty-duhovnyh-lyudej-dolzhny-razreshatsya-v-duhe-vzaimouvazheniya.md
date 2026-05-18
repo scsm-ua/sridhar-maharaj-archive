@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3881252
   duration: 00:03:45
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/865_1982.04.16.B7_SridharMj_Konflikty_duhovnyh_ljudej_dolzhny_razreshatsja_v_duhe_vzaimouvazhenija.mp3
 date: 1982-04-16
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

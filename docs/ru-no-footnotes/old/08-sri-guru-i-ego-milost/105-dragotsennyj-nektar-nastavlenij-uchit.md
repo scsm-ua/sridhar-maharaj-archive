@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5672128
   duration: 00:09:21
-  mp3: /wp-content/uploads/2012/08/105_OntologiyaPR_2.7_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya1.mp3
+  src: /wp-content/uploads/2012/08/105_OntologiyaPR_2.7_SridharMj_Dragotsennyy_nektar_nastavleniy_uchitelya1.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost

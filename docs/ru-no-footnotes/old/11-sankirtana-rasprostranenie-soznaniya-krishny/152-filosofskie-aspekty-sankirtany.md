@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4437483
   duration: 00:04:49
-  mp3: /wp-content/uploads/2012/08/152_1981.08.30.С2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
+  src: /wp-content/uploads/2012/08/152_1981.08.30.С2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
 date: 1981-08-30
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

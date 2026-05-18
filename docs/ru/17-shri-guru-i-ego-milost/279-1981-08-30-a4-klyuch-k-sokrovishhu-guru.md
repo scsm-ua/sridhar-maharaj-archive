@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7074774
   duration: 00:11:58
-  mp3: /dl/17._Shri_Guru_i_ego_milost/279_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/279_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
 date: 1981-08-30
 category:
   title: 17. Шри Гуру и его милость

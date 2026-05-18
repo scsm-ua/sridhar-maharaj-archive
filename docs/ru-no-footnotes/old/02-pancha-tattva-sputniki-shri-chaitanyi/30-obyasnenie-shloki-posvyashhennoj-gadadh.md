@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1716840
   duration: 00:06:42
-  mp3: /wp-content/uploads/2012/08/030_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
+  src: /wp-content/uploads/2012/08/030_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7958455
   duration: 00:14:46
-  mp3: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+  src: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
 date: 1982-01-28
 category:
   title: 45. Искренность и прогресс

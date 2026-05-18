@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3793648
   duration: 00:03:47
-  mp3: /wp-content/uploads/2012/08/436_MgnoveniyaPR_8.5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
+  src: /wp-content/uploads/2012/08/436_MgnoveniyaPR_8.5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost

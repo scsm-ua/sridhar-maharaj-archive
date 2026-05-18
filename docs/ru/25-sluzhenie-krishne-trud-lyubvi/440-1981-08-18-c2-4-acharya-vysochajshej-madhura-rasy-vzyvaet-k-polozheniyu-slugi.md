@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2140149
   duration: 00:03:09
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.mp3
 date: 1981-08-18
 category:
   title: 25. Служение Кришне — труд любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2934011
   duration: 00:04:30
-  mp3: /dl/40._Bog_i_bogi/672_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3
+  src: /dl/40._Bog_i_bogi/672_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3
 date: 1981-03-06
 category:
   title: 40. Бог и боги

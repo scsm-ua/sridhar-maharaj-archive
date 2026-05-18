@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5885764
   duration: 00:07:04
-  mp3: /wp-content/uploads/2012/08/330_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
+  src: /wp-content/uploads/2012/08/330_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
 date: 1984-01-18
 category:
   title: (26. Абсолютная Гармония)

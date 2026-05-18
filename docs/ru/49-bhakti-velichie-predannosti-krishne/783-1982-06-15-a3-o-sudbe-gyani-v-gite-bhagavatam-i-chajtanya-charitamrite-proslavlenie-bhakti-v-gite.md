@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 9293720
   duration: 00:09:07
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/783_1982.06.15.A3_SridharMj_O_sudbe_gjani_v_Gite_Bhagavatam_i_Chajtanja-charitamrite__Proslavlenie_bhakti_v_Gite.mp3
 date: 1982-06-15
 category:
   title: 49. Бхакти — величие преданности Кришне

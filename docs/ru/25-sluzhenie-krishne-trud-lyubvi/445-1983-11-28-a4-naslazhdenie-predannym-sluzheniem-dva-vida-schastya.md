@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5917456
   duration: 00:05:30
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.mp3
 date: 1983-11-28
 category:
   title: 25. Служение Кришне — труд любви

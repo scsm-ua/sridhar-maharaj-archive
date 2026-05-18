@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12855819
   duration: 00:24:19
-  mp3: /wp-content/uploads/2012/08/119_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
+  src: /wp-content/uploads/2012/08/119_1983.06.21.A1_SridharMj_Guru_v_linii_Rupanuga.mp3
 date: 1983-06-21
 category:
   title: (08. Шри Гуру и его милость)

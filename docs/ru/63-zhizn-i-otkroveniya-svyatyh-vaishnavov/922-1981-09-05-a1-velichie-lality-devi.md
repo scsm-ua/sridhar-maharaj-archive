@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17353141
   duration: 00:15:04
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/922_1981.09.05.A1_SridharMj_Velichie_Lality_Devi.mp3
 date: 1981-09-05
 category:
   title: 63. Жизнь и откровения святых вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18363224
   duration: 00:17:44
-  mp3: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/296_1982.02.17.C3_SridharMj_Uchitelja_mogut_menjat_formu_tradicii_no_sohranjajut_ee_duh.mp3
 date: 1982-02-17
 category:
   title: 17. Шри Гуру и его милость

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4223969
   duration: 00:02:42
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/604_1982.05.14.B3_SridharMj_Bog_mozhet_prekratit_sushhestvovanie_dzhivy_ili_sovershit_samoubijstvo.mp3
 date: 1982-05-14
 category:
   title: 37. Душа в сферах материальной и духовной энергии

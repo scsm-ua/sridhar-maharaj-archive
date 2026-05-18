@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2221303
   duration: 00:02:27
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/986_1981.03.03.C1_SridharMj_Metod_izlozheniya_duhovnyh_istin_Shriloy_Sridharom_Maharajem.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/986_1981.03.03.C1_SridharMj_Metod_izlozheniya_duhovnyh_istin_Shriloy_Sridharom_Maharajem.mp3
 date: 1981-03-03
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

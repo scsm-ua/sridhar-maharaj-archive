@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4987308
   duration: 00:10:10
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/891_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
 date: 1981-03-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

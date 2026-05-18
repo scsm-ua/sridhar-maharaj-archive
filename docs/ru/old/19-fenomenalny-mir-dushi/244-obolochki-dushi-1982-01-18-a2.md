@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9397269
   duration: 00:15:11
-  mp3: /wp-content/uploads/2012/08/244_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
+  src: /wp-content/uploads/2012/08/244_1982.01.18.A2_SridharMj_Obolochki_dushi.mp3
 date: 1982-01-18
 category:
   title: (19. Феноменальный мир души)

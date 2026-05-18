@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6989824
   duration: 00:14:15
-  mp3: /wp-content/uploads/2012/08/002_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
+  src: /wp-content/uploads/2012/08/002_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
 date: 1984-01-15
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

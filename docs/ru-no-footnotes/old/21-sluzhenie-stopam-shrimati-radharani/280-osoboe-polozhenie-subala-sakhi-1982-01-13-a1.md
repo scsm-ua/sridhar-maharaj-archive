@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2684395
   duration: 00:04:57
-  mp3: /wp-content/uploads/2012/08/280_1982.01.13.A1_SridharMj_Osoboye-polozheniye-Subala-Sakkhi.mp3
+  src: /wp-content/uploads/2012/08/280_1982.01.13.A1_SridharMj_Osoboye-polozheniye-Subala-Sakkhi.mp3
 date: 1982-01-13
 category:
   title: (21. Служение стопам Шримати Радхарани)

@@ -3,17 +3,23 @@
 First line is verse:
 https://sridhar.guru/posts/067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
 
+https://sridhar.guru/posts/664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
+
 footnotes - no popup after navigation next prev:
 https://sridhar.guru/posts/429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
+
+## MIGRATION
+
+add record-id slug for partials archive
 
 ## MD
 
 Verses footnotes:
 1) check verse in footnote body render
 
-Check render: h2 (##)
-
 Check render:
+
+https://sridhar.guru/posts/559-1983-06-27-realnost-very-za-predelami-mira-smerti#_ftn16
 
 [^_ftn16]: *гурудеве, враджа-ване, враджа-бхуми-васи джане, шуддха-бхакте, ара випра-гане*\
     *ишта-мантре, хари-наме, йугала бхаджана каме, кара рати апурвва йатане*\

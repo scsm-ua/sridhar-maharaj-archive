@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4163584
   duration: 00:02:25
-  mp3: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.mp3
+  src: /dl/30._Chatur-shloki_Bhagavad-gity_i_Srimad_Bhagavatam/500_1982.05.18.E2_SridharMj_Objasnenie_slova_gjana_v_stihe_10.11_Bhagavad-gity.mp3
 date: 1982-05-18
 category:
   title: 30. Чатур-шлоки Бхагавад-гиты и Шримад Бхагаватам

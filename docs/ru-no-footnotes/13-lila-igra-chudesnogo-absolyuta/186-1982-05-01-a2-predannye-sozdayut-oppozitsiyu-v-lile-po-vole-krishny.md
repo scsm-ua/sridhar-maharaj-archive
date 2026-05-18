@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3630895
   duration: 00:03:23
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/186_1982.05.01.A2_SridharMj_Predannye_sozdajut_oppoziciju_v_lile_po_vole_Krishny.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/186_1982.05.01.A2_SridharMj_Predannye_sozdajut_oppoziciju_v_lile_po_vole_Krishny.mp3
 date: 1982-05-01
 category:
   title: 13. Лила — игра чудесного Абсолюта

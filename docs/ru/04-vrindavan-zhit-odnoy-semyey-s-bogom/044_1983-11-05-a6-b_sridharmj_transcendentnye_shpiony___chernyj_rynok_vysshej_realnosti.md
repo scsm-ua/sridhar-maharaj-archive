@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 23901487
   duration: 00:24:15
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/044_1983.11.05.A6.B_SridharMj_Transcendentnye_shpiony___Chernyj_rynok_vysshej_Realnosti.mp3
 date: 1983-11-05
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

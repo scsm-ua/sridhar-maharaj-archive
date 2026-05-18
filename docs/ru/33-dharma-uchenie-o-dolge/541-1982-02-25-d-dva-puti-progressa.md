@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3992272
   duration: 00:03:54
-  mp3: /dl/33._Dharma--uchenie_o_dolge/541_1982.02.25.D_SridharMj_Dva_puti_progressa.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/541_1982.02.25.D_SridharMj_Dva_puti_progressa.mp3
 date: 1982-02-25
 category:
   title: 33. Дхарма — учение о долге

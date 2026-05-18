@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4427534
   duration: 00:07:00
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/079_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
 date: 1983-01-26
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

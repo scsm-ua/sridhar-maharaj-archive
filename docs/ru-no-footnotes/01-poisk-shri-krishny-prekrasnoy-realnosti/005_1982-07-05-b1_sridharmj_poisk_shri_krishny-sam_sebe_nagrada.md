@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10522268
   duration: 00:10:48
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/005_1982.07.05.B1_SridharMj_Poisk_Shri_Krishny--sam_sebe_nagrada.mp3
 date: 1982-07-05
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

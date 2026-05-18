@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4228765
   duration: 00:07:33
-  mp3: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
+  src: /dl/26._Rupanuga-sampradaya/451_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
 date: 1981-08-27
 category:
   title: 26. Рупануга-сампрадая

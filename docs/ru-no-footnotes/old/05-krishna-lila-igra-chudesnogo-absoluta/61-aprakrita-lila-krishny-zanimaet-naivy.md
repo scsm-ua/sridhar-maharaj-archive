@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8294097
   duration: 00:15:52
-  mp3: /wp-content/uploads/2012/08/061_1981.11.12.B4_SridharMj_Aprakrita-lila_Krishny_zanimayet_naivyssheye_polojeniye1.mp3
+  src: /wp-content/uploads/2012/08/061_1981.11.12.B4_SridharMj_Aprakrita-lila_Krishny_zanimayet_naivyssheye_polojeniye1.mp3
 date: 1981-11-12
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

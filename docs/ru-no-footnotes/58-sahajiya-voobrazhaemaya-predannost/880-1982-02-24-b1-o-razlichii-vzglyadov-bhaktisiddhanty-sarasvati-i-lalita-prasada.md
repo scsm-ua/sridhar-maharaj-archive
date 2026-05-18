@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11571461
   duration: 00:09:47
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/880_1982.02.24.B1_SridharMj_O_razlichii_vzglyadov_Bhaktisiddhanty_Sarasvati_i_Lalita_Prasada.mp3
 date: 1982-02-24
 category:
   title: 58. Сахаджия - воображаемая преданность

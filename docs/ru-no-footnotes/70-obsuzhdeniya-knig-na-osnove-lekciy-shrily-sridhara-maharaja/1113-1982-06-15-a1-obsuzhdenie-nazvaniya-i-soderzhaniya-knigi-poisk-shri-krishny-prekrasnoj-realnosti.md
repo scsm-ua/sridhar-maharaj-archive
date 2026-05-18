@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8509136
   duration: 00:08:20
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1113_1982.06.15.A1_SridharMj_Obsuzhdenie_nazvanija_i_soderzhanija_knigi_Poisk_Shri_Krishny_Prekrasnoj_Realnosti.mp3
 date: 1982-06-15
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

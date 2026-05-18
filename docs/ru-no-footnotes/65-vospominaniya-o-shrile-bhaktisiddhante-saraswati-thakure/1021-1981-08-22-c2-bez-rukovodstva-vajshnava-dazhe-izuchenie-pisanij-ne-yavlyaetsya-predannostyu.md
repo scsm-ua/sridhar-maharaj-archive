@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9355494
   duration: 00:18:15
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1021_1981.08.22.C2_SridharMj_Bez_rukovodstva_vajshnava_dazhe_izuchenie_Pisanij_ne_javljaetsja_predannostju.mp3
 date: 1981-08-22
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

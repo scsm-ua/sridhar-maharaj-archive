@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4566078
   duration: 00:01:53
-  mp3: /dl/56._Samootricanie/855_1983.11.02.A1_SridharMj_Plach--jeto_takzhe_bhadzhan.mp3
+  src: /dl/56._Samootricanie/855_1983.11.02.A1_SridharMj_Plach--jeto_takzhe_bhadzhan.mp3
 date: 1983-11-02
 category:
   title: 56. Самоотрицание

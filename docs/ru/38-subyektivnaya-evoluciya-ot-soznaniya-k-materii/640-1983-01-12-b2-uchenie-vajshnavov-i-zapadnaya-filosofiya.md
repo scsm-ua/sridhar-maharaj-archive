@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4523526
   duration: 00:07:28
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
 date: 1983-01-12
 category:
   title: 38. Субъективная эволюция — от сознания к материи

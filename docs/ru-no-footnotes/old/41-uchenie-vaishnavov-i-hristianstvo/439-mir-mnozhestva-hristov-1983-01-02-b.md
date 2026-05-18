@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 21348758
   duration: 00:44:11
-  mp3: /wp-content/uploads/2012/08/439_1983.01.02.B_SridharMj_Mir_mnojestva_Hristov.mp3
+  src: /wp-content/uploads/2012/08/439_1983.01.02.B_SridharMj_Mir_mnojestva_Hristov.mp3
 date: 1983-01-02
 category:
   title: (41. Учение вайшнавов и Христианство)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2411656
   duration: 00:04:14
-  mp3: /wp-content/uploads/2012/08/133_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3
+  src: /wp-content/uploads/2012/08/133_1983.01.25.B1_SridharMj_Smotret_s_tochki_zreniya_vselenskogo_interesa.mp3
 date: 1983-01-25
 category:
   title: (09. Посвящение)

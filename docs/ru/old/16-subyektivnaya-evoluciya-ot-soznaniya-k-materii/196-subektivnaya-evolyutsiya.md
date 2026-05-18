@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 8471981
   duration: 00:17:30
-  mp3: /wp-content/uploads/2012/08/196_1981.03.04.B1_SridharMj_Subyektivnaya_Evoluciya.mp3
+  src: /wp-content/uploads/2012/08/196_1981.03.04.B1_SridharMj_Subyektivnaya_Evoluciya.mp3
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 25952381
   duration: 00:26:19
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
 date: 1982-11-07
 category:
   title: 14. Как познать и увидеть Бога

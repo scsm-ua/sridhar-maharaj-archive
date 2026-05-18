@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7641213
   duration: 00:07:40
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/862_1982.02.20.C4_SridharMj_Izgnanie_ili_nakazanie_ne_pomogut_Shrimad_Bhagavatam_11.5.42.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/862_1982.02.20.C4_SridharMj_Izgnanie_ili_nakazanie_ne_pomogut_Shrimad_Bhagavatam_11.5.42.mp3
 date: 1982-02-20
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

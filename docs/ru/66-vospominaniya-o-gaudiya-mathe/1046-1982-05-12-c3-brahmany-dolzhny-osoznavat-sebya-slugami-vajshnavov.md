@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3058856
   duration: 00:02:39
-  mp3: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.mp3
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1046_1982.05.12.C3_SridharMj_Brahmany_dolzhny_osoznavat_sebja_slugami_vajshnavov.mp3
 date: 1982-05-12
 category:
   title: 66. Воспоминания о Гаудия Матхе

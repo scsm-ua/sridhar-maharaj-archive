@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16012631
   duration: 00:32:00
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/154_1983.05.24.B1_SridharMj_Gospod_Narasimhadev.mp3
 date: 1983-05-24
 category:
   title: 12. Аватары — нисхождения Всевышнего

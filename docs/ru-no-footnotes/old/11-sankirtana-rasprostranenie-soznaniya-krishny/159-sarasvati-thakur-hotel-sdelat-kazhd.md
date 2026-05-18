@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5542588
   duration: 00:07:11
-  mp3: /wp-content/uploads/2012/08/159_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
+  src: /wp-content/uploads/2012/08/159_1981.03.05.B6_SridharMj_Sarasvati_Thakur_hotel_sdelat_kajdoe_serdce_hramom.mp3
 date: 1981-03-05
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)

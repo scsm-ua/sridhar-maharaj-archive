@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11679650
   duration: 00:23:17
-  mp3: /wp-content/uploads/2012/08/404_1983.02.11.B1_SridharMj_Molitva_vozvyshennyh_predannyh.mp3
+  src: /wp-content/uploads/2012/08/404_1983.02.11.B1_SridharMj_Molitva_vozvyshennyh_predannyh.mp3
 date: 1983-02-11
 category:
   title: (36. Шаранагати - наука предания души Господу)

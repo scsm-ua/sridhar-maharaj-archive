@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16220567
   duration: 00:32:29
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3
 date: 1981-08-19
 category:
   title: 25. Служение Кришне — труд любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14010350
   duration: 00:13:59
-  mp3: /wp-content/uploads/2012/08/524_Acarya_vandana.mp3
+  src: /wp-content/uploads/2012/08/524_Acarya_vandana.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)

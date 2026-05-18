@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4421569
   duration: 00:04:02
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/768_1982.05.14.C3_SridharMj_Sposoben_li_Ty_pokinut_moe_serdce.mp3
 date: 1982-05-14
 category:
   title: 49. Бхакти — величие преданности Кришне

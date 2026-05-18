@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4929600
   duration: 00:08:19
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.mp3
 date: 1982-02-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи

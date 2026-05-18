@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3041024
   duration: 00:04:56
-  mp3: /wp-content/uploads/2012/08/411_MgnoveniyaPR_7.3_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
+  src: /wp-content/uploads/2012/08/411_MgnoveniyaPR_7.3_SridharMj_Samopredaniye_znachit_stat_prozrachnoy_sredoy.mp3
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu

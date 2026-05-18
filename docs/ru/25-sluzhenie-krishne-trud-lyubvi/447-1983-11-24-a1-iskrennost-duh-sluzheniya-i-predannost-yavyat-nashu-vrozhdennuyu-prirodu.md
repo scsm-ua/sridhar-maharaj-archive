@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10696401
   duration: 00:10:29
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.mp3
 date: 1983-11-24
 category:
   title: 25. Служение Кришне — труд любви

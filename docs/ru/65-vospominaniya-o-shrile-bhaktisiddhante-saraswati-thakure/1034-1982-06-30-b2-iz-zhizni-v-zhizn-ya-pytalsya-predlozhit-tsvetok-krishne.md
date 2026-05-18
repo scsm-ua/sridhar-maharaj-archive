@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4895661
   duration: 00:04:29
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1034_1982.06.30.B2_SridharMj_Iz_zhizni_v_zhizn_ja_pytalsja_predlozhit_cvetok_Krishne.mp3
 date: 1982-06-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

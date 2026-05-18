@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3064383
   duration: 00:02:40
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1125_1982.05.06.A4_SridharMj_Kratkoe_obsuzhdenie_sambadhi_abhidei_i_prajodzhany_v_uchenii_Shridhara_Maharadzha.mp3
 date: 1982-05-06
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

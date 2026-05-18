@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4143971
   duration: 00:03:28
-  mp3: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.mp3
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/723_1982.07.08.A4_SridharMj_Na_stadii_anartha-nivritti_povtorenie_Svjatogo_Imeni_blizko_k_nama-bhasu.mp3
 date: 1982-07-08
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3626140
   duration: 00:05:22
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
 date: 1981-03-02
 category:
   title: 22. Санньяса — отречение от мира

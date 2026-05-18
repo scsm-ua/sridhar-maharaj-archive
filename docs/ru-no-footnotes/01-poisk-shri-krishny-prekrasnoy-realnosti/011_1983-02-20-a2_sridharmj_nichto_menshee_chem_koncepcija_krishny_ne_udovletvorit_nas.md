@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5805193
   duration: 00:11:23
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
 date: 1983-02-20
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

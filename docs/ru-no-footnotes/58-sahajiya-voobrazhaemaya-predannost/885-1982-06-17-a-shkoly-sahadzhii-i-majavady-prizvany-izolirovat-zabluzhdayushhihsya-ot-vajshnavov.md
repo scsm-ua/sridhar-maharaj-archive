@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22623973
   duration: 00:21:18
-  mp3: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
 date: 1982-06-17
 category:
   title: 58. Сахаджия - воображаемая преданность

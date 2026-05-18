@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5260090
   duration: 00:09:11
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.mp3
 date: 1983-01-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

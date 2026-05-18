@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4896862
   duration: 00:04:53
-  mp3: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/369_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7419736
   duration: 00:19:43
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
 date: 1982-02-21
 category:
   title: 19. Маха-мантра — Святое Имя

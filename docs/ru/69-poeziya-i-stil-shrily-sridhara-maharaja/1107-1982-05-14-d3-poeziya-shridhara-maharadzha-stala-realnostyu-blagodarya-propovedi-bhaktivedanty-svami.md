@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 3050318
   duration: 00:02:58
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1107_1982.05.14.D3_SridharMj_Pojezija_Shridhara_Maharadzha_stala_realnostju_blagodarja_propovedi_Bhaktivedanty_Svami.mp3
 date: 1982-05-14
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

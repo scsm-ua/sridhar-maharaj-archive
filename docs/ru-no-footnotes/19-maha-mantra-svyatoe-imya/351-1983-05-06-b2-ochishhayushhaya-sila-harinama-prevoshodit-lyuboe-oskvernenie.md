@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2141550
   duration: 00:03:48
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/351_1983.05.06.B2_SridharMj_Ochiwayuwaya_sila_Harinama_prevoshodit_lyuboe_oskvernenie.mp3
 date: 1983-05-06
 category:
   title: 19. Маха-мантра — Святое Имя

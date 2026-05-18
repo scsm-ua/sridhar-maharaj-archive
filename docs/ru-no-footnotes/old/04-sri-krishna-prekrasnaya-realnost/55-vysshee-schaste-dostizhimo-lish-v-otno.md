@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15566827
   duration: 00:29:45
-  mp3: /wp-content/uploads/2012/08/055_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
+  src: /wp-content/uploads/2012/08/055_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
 date: 1983-07-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

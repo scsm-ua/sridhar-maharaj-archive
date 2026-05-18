@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5047255
   duration: 00:09:00
-  mp3: /wp-content/uploads/2012/08/179_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
+  src: /wp-content/uploads/2012/08/179_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
 date: 1982-01-17
 category:
   title: (14. Ведическая культура)

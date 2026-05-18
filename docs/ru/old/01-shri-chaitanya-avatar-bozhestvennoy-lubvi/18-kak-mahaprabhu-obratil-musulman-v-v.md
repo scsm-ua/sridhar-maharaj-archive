@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4485158
   duration: 00:09:03
-  mp3: /wp-content/uploads/2012/08/018_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
+  src: /wp-content/uploads/2012/08/018_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
 date: 1983-01-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 4067976
   duration: 00:16:53
-  mp3: /wp-content/uploads/2012/08/241_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
+  src: /wp-content/uploads/2012/08/241_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir

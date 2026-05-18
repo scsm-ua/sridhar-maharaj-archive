@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2549894
   duration: 00:01:34
-  mp3: /dl/22._Sannyasa--otrechenie_ot_mira/402_1982.06.08.A1_SridharMj_Na_stadii_paramahamsy_sannjasi_mozhet_ne_nosit_tridandu.mp3
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/402_1982.06.08.A1_SridharMj_Na_stadii_paramahamsy_sannjasi_mozhet_ne_nosit_tridandu.mp3
 date: 1982-06-08
 category:
   title: 22. Санньяса — отречение от мира

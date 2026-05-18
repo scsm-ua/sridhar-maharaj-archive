@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5181701
   duration: 00:03:53
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
 date: 1982-06-05
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи

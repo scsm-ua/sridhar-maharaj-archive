@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 28863467
   duration: 00:29:28
-  mp3: /wp-content/uploads/2012/08/477_OntologiyaPR_6.3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
+  src: /wp-content/uploads/2012/08/477_OntologiyaPR_6.3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe

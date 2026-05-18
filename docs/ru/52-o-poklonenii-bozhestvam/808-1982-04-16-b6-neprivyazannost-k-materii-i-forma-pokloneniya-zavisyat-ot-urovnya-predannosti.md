@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5519642
   duration: 00:04:45
-  mp3: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/808_1982.04.16.B6_SridharMj_Neprivjazannost_k_materii_i_forma_poklonenija_zavisjat_ot_urovnja_predannosti.mp3
 date: 1982-04-16
 category:
   title: 52. О поклонении Божествам

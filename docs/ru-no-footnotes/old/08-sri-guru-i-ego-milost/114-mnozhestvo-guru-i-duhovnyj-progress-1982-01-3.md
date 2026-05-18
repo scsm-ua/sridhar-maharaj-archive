@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19984112
   duration: 00:39:10
-  mp3: /wp-content/uploads/2012/08/114_1982.01.31.B_SridharMj_Mnojestvo_guru_i_dovniy_progress.mp3
+  src: /wp-content/uploads/2012/08/114_1982.01.31.B_SridharMj_Mnojestvo_guru_i_dovniy_progress.mp3
 date: 1982-01-31
 category:
   title: (08. Шри Гуру и его милость)

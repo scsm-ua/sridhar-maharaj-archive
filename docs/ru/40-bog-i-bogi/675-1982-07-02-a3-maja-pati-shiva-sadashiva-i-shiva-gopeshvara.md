@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3419679
   duration: 00:02:46
-  mp3: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.mp3
+  src: /dl/40._Bog_i_bogi/675_1982.07.02.A3_SridharMj_Maja-pati_Shiva_Sadashiva_i_Shiva-Gopeshvara.mp3
 date: 1982-07-02
 category:
   title: 40. Бог и боги

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 5473520
   duration: 00:10:50
-  mp3: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3
+  src: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3
 date: 1983-01-25
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи

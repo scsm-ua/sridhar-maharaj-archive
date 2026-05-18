@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16930628
   duration: 00:32:36
-  mp3: /wp-content/uploads/2012/08/051_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
+  src: /wp-content/uploads/2012/08/051_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
 date: 1985-06-09
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

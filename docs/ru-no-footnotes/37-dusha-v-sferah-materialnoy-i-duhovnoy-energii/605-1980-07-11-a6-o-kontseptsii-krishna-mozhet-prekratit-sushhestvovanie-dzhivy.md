@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2375644
   duration: 00:01:15
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/605_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/605_1980.07.11.A6_SridharMj_O_kontseptsii_Krishna_mojet_prekratit_suwestvovaniye_djivy.mp3
 date: 1980-07-11
 category:
   title: 37. Душа в сферах материальной и духовной энергии

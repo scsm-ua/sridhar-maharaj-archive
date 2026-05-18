@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7289536
   duration: 00:13:19
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
 date: 1982-02-19
 category:
   title: 51. Философия и практика бхакти-йоги

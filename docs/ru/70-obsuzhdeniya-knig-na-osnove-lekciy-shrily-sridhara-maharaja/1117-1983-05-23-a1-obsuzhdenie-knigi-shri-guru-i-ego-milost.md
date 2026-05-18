@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9355296
   duration: 00:18:25
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1117_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
 date: 1983-05-23
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

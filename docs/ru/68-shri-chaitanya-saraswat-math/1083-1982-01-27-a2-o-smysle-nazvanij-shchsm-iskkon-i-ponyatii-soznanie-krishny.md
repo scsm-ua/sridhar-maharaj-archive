@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9540827
   duration: 00:16:14
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1083_1982.01.27.A2_SridharMj_O_smysle_nazvaniy_SCSM_ISSCON_i_ponyatii_Soznanie_Krishny.mp3
 date: 1982-01-27
 category:
   title: 68. Шри Чайтанья Сарасват Матх

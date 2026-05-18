@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6622435
   duration: 00:12:08
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1037_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Shrily_Saraswati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1037_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Shrily_Saraswati_Thakura.mp3
 date: 1983-01-04
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

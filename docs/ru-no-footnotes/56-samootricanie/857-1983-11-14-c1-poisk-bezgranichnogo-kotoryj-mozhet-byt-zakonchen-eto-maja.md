@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5941164
   duration: 00:03:19
-  mp3: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.mp3
+  src: /dl/56._Samootricanie/857_1983.11.14.C1_SridharMj_Poisk_Bezgranichnogo_kotoryj_mozhet_byt_zakonchen--jeto_maja.mp3
 date: 1983-11-14
 category:
   title: 56. Самоотрицание

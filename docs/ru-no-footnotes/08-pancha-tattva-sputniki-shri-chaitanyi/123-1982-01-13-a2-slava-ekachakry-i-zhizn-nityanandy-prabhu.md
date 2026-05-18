@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18245016
   duration: 00:35:00
-  mp3: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/123_1982.01.13.A2_SridharMj_Slava_Jekachakry_i_zhizn_Nitjanandy_Prabhu.mp3
 date: 1982-01-13
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи

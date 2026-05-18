@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10778903
   duration: 00:21:39
-  mp3: /wp-content/uploads/2012/08/313_1983.01.04.B1_SridharMj_Obresti_pravilniy_ugol_zreniya.mp3
+  src: /wp-content/uploads/2012/08/313_1983.01.04.B1_SridharMj_Obresti_pravilniy_ugol_zreniya.mp3
 date: 1983-01-04
 category:
   title: (25. Глубокое восприятие реальности)

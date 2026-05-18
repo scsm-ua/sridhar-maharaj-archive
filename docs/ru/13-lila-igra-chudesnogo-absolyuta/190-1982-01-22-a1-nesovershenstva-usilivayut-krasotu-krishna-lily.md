@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4194095
   duration: 00:07:56
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
 date: 1982-01-22
 category:
   title: 13. Лила — игра чудесного Абсолюта

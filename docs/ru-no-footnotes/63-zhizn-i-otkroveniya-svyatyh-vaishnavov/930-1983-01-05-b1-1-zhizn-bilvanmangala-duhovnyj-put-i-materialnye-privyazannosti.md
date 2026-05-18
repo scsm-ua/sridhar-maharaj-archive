@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5682438
   duration: 00:05:50
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/930_1983.01.05.B1.1_SridharMj_Zhizn_Bilvanmangala_Duhovnyj_put_i_materialnye_privjazannosti.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/930_1983.01.05.B1.1_SridharMj_Zhizn_Bilvanmangala_Duhovnyj_put_i_materialnye_privjazannosti.mp3
 date: 1983-01-05
 category:
   title: 63. Жизнь и откровения святых вайшнавов

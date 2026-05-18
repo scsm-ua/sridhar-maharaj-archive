@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3237240
   duration: 00:06:22
-  mp3: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
+  src: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
 date: 1982-02-23
 category:
   title: 45. Искренность и прогресс

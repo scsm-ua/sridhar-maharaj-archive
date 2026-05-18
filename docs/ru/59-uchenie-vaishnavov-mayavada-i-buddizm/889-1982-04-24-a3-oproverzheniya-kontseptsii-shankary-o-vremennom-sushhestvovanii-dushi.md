@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12293862
   duration: 00:12:42
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3
 date: 1982-04-24
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

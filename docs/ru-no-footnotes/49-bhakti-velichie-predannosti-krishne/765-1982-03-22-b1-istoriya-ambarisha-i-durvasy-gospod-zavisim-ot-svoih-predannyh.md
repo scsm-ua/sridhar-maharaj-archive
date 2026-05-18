@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10589392
   duration: 00:10:28
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/765_1982.03.22.B1_SridharMj_Istorija_Ambarisha_i_Durvasy--Gospod_zavisim_ot_svoih_predannyh.mp3
 date: 1982-03-22
 category:
   title: 49. Бхакти — величие преданности Кришне

@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 3864512
   duration: 00:09:03
-  mp3: /wp-content/uploads/2012/08/400_MgnoveniyaPR_6.1_SridharMj_Poznav_Odno–poznayesh_vse.mp3
+  src: /wp-content/uploads/2012/08/400_MgnoveniyaPR_6.1_SridharMj_Poznav_Odno–poznayesh_vse.mp3
 category:
   title: (34. Вера)
   slug: 34-vera

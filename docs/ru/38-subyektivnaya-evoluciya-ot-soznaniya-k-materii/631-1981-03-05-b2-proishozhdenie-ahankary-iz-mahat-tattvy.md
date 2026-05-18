@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7096978
   duration: 00:12:50
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/631_1981.03.05.B2_SridharMj_Proishojdeniye_ahankary_iz_mahat-tattvy.mp3
 date: 1981-03-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 26258264
   duration: 00:26:47
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/780_1983.11.04.A4.B1_SridharMj_Prevyshe_znanija_Objasnenie_kljuchevyh_stihov_iz_Shrimad-Bhagavatam.mp3
 date: 1983-11-04
 category:
   title: 49. Бхакти — величие преданности Кришне

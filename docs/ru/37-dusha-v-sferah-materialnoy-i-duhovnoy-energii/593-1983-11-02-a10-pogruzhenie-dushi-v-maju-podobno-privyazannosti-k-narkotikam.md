@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4476834
   duration: 00:02:58
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/593_1983.11.02.A10_SridharMj_Pogruzhenie_dushi_v_maju_podobno_privjazannosti_k_narkotikam.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/593_1983.11.02.A10_SridharMj_Pogruzhenie_dushi_v_maju_podobno_privjazannosti_k_narkotikam.mp3
 date: 1983-11-02
 category:
   title: 37. Душа в сферах материальной и духовной энергии

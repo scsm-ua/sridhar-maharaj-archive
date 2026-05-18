@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10025902
   duration: 00:18:01
-  mp3: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
 date: 1983-03-31
 category:
   title: 39. Иерархия мироздания — планы бытия

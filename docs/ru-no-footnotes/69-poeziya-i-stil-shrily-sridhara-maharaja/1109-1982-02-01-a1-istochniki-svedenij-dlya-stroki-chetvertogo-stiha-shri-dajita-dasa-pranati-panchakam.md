@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2940394
   duration: 00:02:51
-  mp3: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.mp3
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.mp3
 date: 1982-02-01
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа

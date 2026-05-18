@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1812406
   duration: 00:00:44
-  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1147_Gayatri.mp3
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1147_Gayatri.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа

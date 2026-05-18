@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19275514
   duration: 00:18:15
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1089_1982.04.23.A4.B1_SridharMj_Istorija_i_ontologija_Bozhestv_Shri_Chajtanja_Sarasvat_Matha.mp3
 date: 1982-04-23
 category:
   title: 68. Шри Чайтанья Сарасват Матх

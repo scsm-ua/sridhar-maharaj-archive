@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2181203
   duration: 00:02:12
-  mp3: /wp-content/uploads/2012/08/363_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
+  src: /wp-content/uploads/2012/08/363_1985.10.05.A3_SridharMj_Kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus.mp3
 date: 1985-10-05
 category:
   title: (28. Духовная практика и материальные привязанности)

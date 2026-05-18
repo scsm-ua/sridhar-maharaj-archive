@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15519431
   duration: 00:30:49
-  mp3: /wp-content/uploads/2012/08/181_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
+  src: /wp-content/uploads/2012/08/181_1983.01.07.A1_SridharMj_Varnashrama_dharma_i_Bhagavata_dharma.mp3
 date: 1983-01-07
 category:
   title: (14. Ведическая культура)

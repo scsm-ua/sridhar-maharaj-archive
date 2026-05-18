@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5715987
   duration: 00:04:15
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3
 date: 1982-03-30
 category:
   title: 37. Душа в сферах материальной и духовной энергии

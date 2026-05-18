@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5154419
   duration: 00:09:08
-  mp3: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
+  src: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
 date: 1981-08-18
 category:
   title: 40. Бог и боги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16335528
   duration: 00:33:33
-  mp3: /wp-content/uploads/2012/08/466_1981.08.12.D_SridharMj_Saraswati_Thakur_o_brahmanah_i_vayshnavah.mp3
+  src: /wp-content/uploads/2012/08/466_1981.08.12.D_SridharMj_Saraswati_Thakur_o_brahmanah_i_vayshnavah.mp3
 date: 1981-08-12
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

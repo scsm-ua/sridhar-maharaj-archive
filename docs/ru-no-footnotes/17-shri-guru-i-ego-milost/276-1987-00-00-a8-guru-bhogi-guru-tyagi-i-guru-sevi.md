@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5223006
   duration: 00:08:06
-  mp3: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
 date: 1987-00-00
 category:
   title: 17. Шри Гуру и его милость

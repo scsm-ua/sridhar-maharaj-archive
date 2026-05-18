@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 18343967
   duration: 00:18:14
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
 date: 1982-05-11
 category:
   title: 21. Практические вопросы проповеди

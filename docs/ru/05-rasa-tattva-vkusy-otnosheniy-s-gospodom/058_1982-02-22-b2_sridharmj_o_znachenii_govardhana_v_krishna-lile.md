@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4796949
   duration: 00:02:20
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/058_1982.02.22.B2_SridharMj_O_znachenii_Govardhana_v_Krishna-lile.mp3
 date: 1982-02-22
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 11863364
   duration: 00:11:04
-  mp3: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.mp3
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/407_1983.11.12.B3_SridharMj_Objasnenie_stiha_Rigvedy_1.22.20_dopolnennogo_i_rasshirennogo_Shridharom_Mahadzhem.mp3
 date: 1983-11-12
 category:
   title: 23. Памятование о Господе — солнце Вишну

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2793566
   duration: 00:02:39
-  mp3: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3
+  src: /dl/33._Dharma--uchenie_o_dolge/537_1983.11.13.A1_SridharMj_Chto_est_dharma_Objasnenie_stiha_2.1_Manu-samhity.mp3
 date: 1983-11-13
 category:
   title: 33. Дхарма — учение о долге

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5074149
   duration: 00:08:42
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/796_1982.01.26.B1_SridharMj_Smysl_shikhi_Legkiy_sposob_prevzoyti_mir_materii.mp3
 date: 1982-01-26
 category:
   title: 51. Философия и практика бхакти-йоги

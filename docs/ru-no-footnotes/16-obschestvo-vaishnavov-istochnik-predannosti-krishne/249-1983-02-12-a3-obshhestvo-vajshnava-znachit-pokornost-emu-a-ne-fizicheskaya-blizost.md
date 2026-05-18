@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2811413
   duration: 00:03:30
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.mp3
 date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

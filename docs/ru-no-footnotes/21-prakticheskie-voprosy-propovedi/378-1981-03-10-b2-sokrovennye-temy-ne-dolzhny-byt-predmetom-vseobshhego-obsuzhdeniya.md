@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5947297
   duration: 00:10:37
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3
 date: 1981-03-10
 category:
   title: 21. Практические вопросы проповеди

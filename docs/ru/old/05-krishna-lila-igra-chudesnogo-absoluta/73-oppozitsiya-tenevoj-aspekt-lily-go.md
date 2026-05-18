@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8643291
   duration: 00:16:34
-  mp3: /wp-content/uploads/2012/08/073_1981.03.01.A5.B1_SridharMj_Oppozitsiya-tenevoy_aspekt_lily_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/073_1981.03.01.A5.B1_SridharMj_Oppozitsiya-tenevoy_aspekt_lily_Gospoda.mp3
 date: 1981-03-01
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

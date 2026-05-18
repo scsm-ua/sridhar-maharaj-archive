@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3400945
   duration: 00:03:26
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/893_1982.04.18.B2_SridharMj_Slijanie_s_Absoljutom_majavadi_i_slijanie_s_Nim_vajshnavov_(chid-vilasa).mp3
 date: 1982-04-18
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

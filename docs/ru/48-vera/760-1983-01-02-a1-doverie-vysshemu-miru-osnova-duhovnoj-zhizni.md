@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7301831
   duration: 00:12:56
-  mp3: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
+  src: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
 date: 1983-01-02
 category:
   title: 48. Вера

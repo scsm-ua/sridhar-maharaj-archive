@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 19698781
   duration: 00:40:11
-  mp3: /wp-content/uploads/2012/08/134_1982.01.07.A_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
+  src: /wp-content/uploads/2012/08/134_1982.01.07.A_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
 date: 1982-01-07
 category:
   title: (10. Маха-мантра - Святое Имя)

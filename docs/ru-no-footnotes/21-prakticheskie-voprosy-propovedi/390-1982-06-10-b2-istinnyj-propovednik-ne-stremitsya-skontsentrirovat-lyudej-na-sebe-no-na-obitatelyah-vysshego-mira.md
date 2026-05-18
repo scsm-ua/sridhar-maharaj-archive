@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 6895488
   duration: 00:06:18
-  mp3: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.mp3
+  src: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.mp3
 date: 1982-06-10
 category:
   title: 21. Практические вопросы проповеди

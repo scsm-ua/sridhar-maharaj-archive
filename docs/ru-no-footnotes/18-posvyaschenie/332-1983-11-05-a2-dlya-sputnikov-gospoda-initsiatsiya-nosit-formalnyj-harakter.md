@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2229237
   duration: 00:02:03
-  mp3: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3
+  src: /dl/18._Posvyaschenie/332_1983.11.05.A2_SridharMj_Dlja_sputnikov_Gospoda_iniciacija_nosit_formalnyj_harakter.mp3
 date: 1983-11-05
 category:
   title: 18. Посвящение

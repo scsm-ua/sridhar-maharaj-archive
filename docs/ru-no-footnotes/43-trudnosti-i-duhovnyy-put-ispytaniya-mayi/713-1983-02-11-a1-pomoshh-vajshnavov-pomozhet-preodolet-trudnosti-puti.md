@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15781354
   duration: 00:32:14
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
 date: 1983-02-11
 category:
   title: 43. Трудности и духовный путь — испытания майи

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6779705
   duration: 00:09:00
-  mp3: /wp-content/uploads/2012/08/328_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
+  src: /wp-content/uploads/2012/08/328_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
 date: 1981-03-02
 category:
   title: (26. Абсолютная Гармония)

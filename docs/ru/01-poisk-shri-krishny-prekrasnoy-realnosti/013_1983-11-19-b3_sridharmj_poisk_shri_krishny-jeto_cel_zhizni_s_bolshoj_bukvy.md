@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6488545
   duration: 00:06:36
-  mp3: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
 date: 1983-11-19
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4212798
   duration: 00:06:00
-  mp3: /dl/17._Shri_Guru_i_ego_milost/286_1981.03.12.C2_SridharMj_Proverka_iskrennosti_achari.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/286_1981.03.12.C2_SridharMj_Proverka_iskrennosti_achari.mp3
 date: 1981-03-12
 category:
   title: 17. Шри Гуру и его милость

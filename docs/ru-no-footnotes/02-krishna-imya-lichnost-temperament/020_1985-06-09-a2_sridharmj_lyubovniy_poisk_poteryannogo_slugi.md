@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15745860
   duration: 00:32:36
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/020_1985.06.09.A2_SridharMj_Lyubovniy_poisk_poteryannogo_slugi.mp3
 date: 1985-06-09
 category:
   title: 02. Кришна — Имя, Личность, темперамент

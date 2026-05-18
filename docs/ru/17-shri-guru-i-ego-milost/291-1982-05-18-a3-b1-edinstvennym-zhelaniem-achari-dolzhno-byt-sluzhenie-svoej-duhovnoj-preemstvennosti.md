@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4046963
   duration: 00:02:50
-  mp3: /dl/17._Shri_Guru_i_ego_milost/291_1982.05.18.A3.B1_SridharMj_Edinstvennym_zhelaniem_achari_dolzhno_byt_sluzhenie_svoej_duhovnoj_preemstvennosti.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/291_1982.05.18.A3.B1_SridharMj_Edinstvennym_zhelaniem_achari_dolzhno_byt_sluzhenie_svoej_duhovnoj_preemstvennosti.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

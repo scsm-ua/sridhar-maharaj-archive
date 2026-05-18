@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5969502
   duration: 00:05:31
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/556_1982.07.15.A5_SridharMj_Nemcy_cenjat_sanskrit_i_indijskuju_kulturu.mp3
 date: 1982-07-15
 category:
   title: 34. Ведическая цивилизация и культура

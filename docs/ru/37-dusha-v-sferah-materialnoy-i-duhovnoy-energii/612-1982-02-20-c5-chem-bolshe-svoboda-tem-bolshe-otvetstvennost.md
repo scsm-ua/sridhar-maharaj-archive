@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4429927
   duration: 00:02:55
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/612_1982.02.20.C5_SridharMj_Chem_bolshe_svoboda--tem_bolshe_otvetstvennost.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/612_1982.02.20.C5_SridharMj_Chem_bolshe_svoboda--tem_bolshe_otvetstvennost.mp3
 date: 1982-02-20
 category:
   title: 37. Душа в сферах материальной и духовной энергии

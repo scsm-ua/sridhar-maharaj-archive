@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5556653
   duration: 00:09:55
-  mp3: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/426_1982.02.23.C4_SridharMj_Sambandha-gjana_jeto_opredelenie_urovnja_javlenij_na_osnove_vzgljada_Bhagavatam.mp3
 date: 1982-02-23
 category:
   title: 24. Деятельность в связи с Абсолютным Центром

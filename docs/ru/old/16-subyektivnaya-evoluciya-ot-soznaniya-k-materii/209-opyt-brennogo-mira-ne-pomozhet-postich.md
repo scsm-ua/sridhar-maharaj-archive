@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 17175164
   duration: 00:35:38
-  mp3: /wp-content/uploads/2012/08/209_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
+  src: /wp-content/uploads/2012/08/209_1983.01.21.A_SridharMj_Opyt_brennogo_mira_ne_pomojet_postich_Bezgranichnoe.mp3
 date: 1983-01-21
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15234800
   duration: 00:10:03
-  mp3: /dl/73._Povtory_i_variacii/4._Jizn_i_otkroveniya_svyatyh_vaishnavov_(variacii)/1140_1982.07.07.B2_SridharMj_Zhizn_Shrinivasa_Achari_1982.mp3
+  src: /dl/73._Povtory_i_variacii/4._Jizn_i_otkroveniya_svyatyh_vaishnavov_(variacii)/1140_1982.07.07.B2_SridharMj_Zhizn_Shrinivasa_Achari_1982.mp3
 date: 1982-07-07
 category:
   title: 4. Жизнь и откровения святых вайшнавов (вариации)

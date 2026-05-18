@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3467463
   duration: 00:02:44
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/985_1982.05.07.A3_SridharMj_Tri_glavnye_planety_v_goroskope_Shridhara_Maharadzha.mp3
 date: 1982-05-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

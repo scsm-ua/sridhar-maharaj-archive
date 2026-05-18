@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9268130
   duration: 00:08:08
-  mp3: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
 date: 1982-04-18
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2513658
   duration: 00:04:35
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/708_1982.01.31.A2.2_SridharMj_Ob_ispytaniyah_i_boleznyah_na_duhovnom_puti.mp3
 date: 1982-01-31
 category:
   title: 43. Трудности и духовный путь — испытания майи

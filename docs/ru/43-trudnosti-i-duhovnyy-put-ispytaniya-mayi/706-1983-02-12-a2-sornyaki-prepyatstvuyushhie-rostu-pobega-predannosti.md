@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6856464
   duration: 00:13:38
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/706_1983.02.12.A2_SridharMj_Sornjaki_prepjatstvujushhie_rostu_pobega_predannosti.mp3
 date: 1983-02-12
 category:
   title: 43. Трудности и духовный путь — испытания майи

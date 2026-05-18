@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 800131
   duration: 00:01:31
-  mp3: /wp-content/uploads/2012/08/202_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
+  src: /wp-content/uploads/2012/08/202_1984.01.18.A2_SridharMj_V_izmerenii_very_my-obyekty.mp3
 date: 1984-01-18
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"

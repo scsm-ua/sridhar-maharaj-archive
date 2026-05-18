@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3834849
   duration: 00:02:10
-  mp3: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.mp3
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1094_1983.11.02.A2_SridharMj_Prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranjatsja_besplatno.mp3
 date: 1983-11-02
 category:
   title: 68. Шри Чайтанья Сарасват Матх

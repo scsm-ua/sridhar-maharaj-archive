@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8504517
   duration: 00:08:10
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/553_1982.05.01.C2_SridharMj_Kachestva_brahmanov_Gradacija_brahmanov_i_vajshnavov.mp3
 date: 1982-05-01
 category:
   title: 34. Ведическая цивилизация и культура

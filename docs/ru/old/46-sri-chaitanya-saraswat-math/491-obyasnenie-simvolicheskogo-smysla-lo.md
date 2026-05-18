@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7139484
   duration: 00:08:58
-  mp3: /wp-content/uploads/2012/08/491_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
+  src: /wp-content/uploads/2012/08/491_1981.08.31.B5.C1_SridharMj_Obyasneniye_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solnca.mp3
 date: 1981-08-31
 category:
   title: (46. Шри Чайтанья Сарасват Матх)

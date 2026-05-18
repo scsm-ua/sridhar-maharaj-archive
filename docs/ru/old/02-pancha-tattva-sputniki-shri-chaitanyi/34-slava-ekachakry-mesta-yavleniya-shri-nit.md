@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16907672
   duration: 00:35:00
-  mp3: /wp-content/uploads/2012/08/034_1982.01.13.A2_SridharMj_Slava_Ekochakry_mesta_yavleniya_Shri_Nityanandy.mp3
+  src: /wp-content/uploads/2012/08/034_1982.01.13.A2_SridharMj_Slava_Ekochakry_mesta_yavleniya_Shri_Nityanandy.mp3
 date: 1982-01-13
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)

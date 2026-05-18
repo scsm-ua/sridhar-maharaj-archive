@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2718344
   duration: 00:04:36
-  mp3: /wp-content/uploads/2012/08/422_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
+  src: /wp-content/uploads/2012/08/422_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
 date: 1983-03-30
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)

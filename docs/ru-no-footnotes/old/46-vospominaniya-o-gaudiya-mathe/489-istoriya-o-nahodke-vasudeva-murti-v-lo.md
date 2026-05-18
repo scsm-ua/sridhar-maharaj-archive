@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5309116
   duration: 00:09:54
-  mp3: /wp-content/uploads/2012/08/489_1982.09.05.B4_SridharMj_Istoriya_o_nahodke_Vasudeva-murti.mp3
+  src: /wp-content/uploads/2012/08/489_1982.09.05.B4_SridharMj_Istoriya_o_nahodke_Vasudeva-murti.mp3
 date: 1982-09-05
 category:
   title: (45. Воспоминания о Гаудия-матхе)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4651321
   duration: 00:04:39
-  mp3: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3
+  src: /dl/62._Svyatye_mesta/918_1982.04.23.A3_SridharMj_Slava_Radha-deshi.mp3
 date: 1982-04-23
 category:
   title: 62. Святые места

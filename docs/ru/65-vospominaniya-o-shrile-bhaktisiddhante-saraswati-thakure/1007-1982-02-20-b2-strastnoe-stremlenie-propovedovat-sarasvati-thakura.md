@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9977625
   duration: 00:09:46
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1007_1982.02.20.B2_SridharMj_Strastnoe_stremlenie_propovedovat_Sarasvati_Thakura.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1007_1982.02.20.B2_SridharMj_Strastnoe_stremlenie_propovedovat_Sarasvati_Thakura.mp3
 date: 1982-02-20
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

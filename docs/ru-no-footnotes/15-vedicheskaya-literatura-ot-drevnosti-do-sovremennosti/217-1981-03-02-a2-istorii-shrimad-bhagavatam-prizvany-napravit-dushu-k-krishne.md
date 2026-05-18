@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5561542
   duration: 00:10:11
-  mp3: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/217_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
 date: 1981-03-02
 category:
   title: 15. Ведическая литература - от древности до современности

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5853440
   duration: 00:09:50
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
 date: 1984-01-15
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2579216
   duration: 00:02:17
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/477_1982.05.09.A3_SridharMj_Radharani_predaetsja_Obrazu_Imeni_i_zvuku_flejty_Krishny.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/477_1982.05.09.A3_SridharMj_Radharani_predaetsja_Obrazu_Imeni_i_zvuku_flejty_Krishny.mp3
 date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани

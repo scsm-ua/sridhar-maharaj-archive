@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3681406
   duration: 00:03:30
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/340_1982.06.05.A6_SridharMj_Povtorenie_lakha_Svjatogo_Imeni_predpolagaet_sootvetstvujushhuju_pogruzhennost.mp3
 date: 1982-06-05
 category:
   title: 19. Маха-мантра — Святое Имя

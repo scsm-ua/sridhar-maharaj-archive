@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 4681467
   duration: 00:04:21
-  mp3: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.mp3
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.mp3
 date: 1982-11-06
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа

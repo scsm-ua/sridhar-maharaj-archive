@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6425264
   duration: 00:05:00
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/585_1982.02.20.C7_SridharMj_Materialnyj_um--ten_duhovnogo.mp3
 date: 1982-02-20
 category:
   title: 37. Душа в сферах материальной и духовной энергии

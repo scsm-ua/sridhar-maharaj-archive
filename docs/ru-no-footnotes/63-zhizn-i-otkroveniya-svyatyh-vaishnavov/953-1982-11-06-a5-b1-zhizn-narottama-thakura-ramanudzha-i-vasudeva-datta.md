@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 38728411
   duration: 00:37:20
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/953_1982.11.06.A5.B1_SridharMj_Zhizn_Narottama_Thakura__Ramanudzha_i_Vasudeva_Datta.mp3
 date: 1982-11-06
 category:
   title: 63. Жизнь и откровения святых вайшнавов

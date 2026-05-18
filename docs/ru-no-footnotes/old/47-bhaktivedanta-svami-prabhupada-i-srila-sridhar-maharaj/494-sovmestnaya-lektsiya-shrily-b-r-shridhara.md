@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 23691775
   duration: 00:48:19
-  mp3: /wp-content/uploads/2012/08/494_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch_._Bhaktivedanty_Svami.mp3
+  src: /wp-content/uploads/2012/08/494_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch_._Bhaktivedanty_Svami.mp3
 date: 1973-03-17
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8384397
   duration: 00:06:58
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/909_1982.05.11.C2_SridharMj_Vajshnavizm_i_hristianstvo_s_tochki_zrenija_uchenija_o_rase.mp3
 date: 1982-05-11
 category:
   title: 60. Учение вайшнавов и Христианство

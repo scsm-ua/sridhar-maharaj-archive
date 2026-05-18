@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7951214
   duration: 00:15:23
-  mp3: /wp-content/uploads/2012/08/454_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/454_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
 date: 1982-01-08
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)

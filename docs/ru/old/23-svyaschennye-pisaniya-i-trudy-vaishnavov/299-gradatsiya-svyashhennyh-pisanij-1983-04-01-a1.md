@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11266936
   duration: 00:22:15
-  mp3: /wp-content/uploads/2012/08/299_1983.04.01.A1_SridharMj_Gradaciya_svyawennyh_pisaniy.mp3
+  src: /wp-content/uploads/2012/08/299_1983.04.01.A1_SridharMj_Gradaciya_svyawennyh_pisaniy.mp3
 date: 1983-04-01
 category:
   title: (23. Священные писания и труды вайшнавов)

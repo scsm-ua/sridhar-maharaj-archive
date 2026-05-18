@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2901682
   duration: 00:04:40
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
 date: 1982-01-27
 category:
   title: 34. Ведическая цивилизация и культура

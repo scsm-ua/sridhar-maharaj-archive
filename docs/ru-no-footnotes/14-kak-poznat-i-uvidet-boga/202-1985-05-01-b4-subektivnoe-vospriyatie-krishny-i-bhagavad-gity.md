@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2194328
   duration: 00:03:08
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/202_1985.05.01.B4_SridharMj_Subyektivnoye_vospriyatiye_Krishny_i_Bhagavad-gity.mp3
 date: 1985-05-01
 category:
   title: 14. Как познать и увидеть Бога

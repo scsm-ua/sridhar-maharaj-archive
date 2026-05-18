@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6465524
   duration: 00:11:05
-  mp3: /wp-content/uploads/2012/08/362_1984.01.23.B2.B4_SridharMJ_Uchenoe_nevejestvo.mp3
+  src: /wp-content/uploads/2012/08/362_1984.01.23.B2.B4_SridharMJ_Uchenoe_nevejestvo.mp3
 date: 1984-01-23
 category:
   title: (28. Духовная практика и материальные привязанности)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2736086
   duration: 00:05:07
-  mp3: /wp-content/uploads/2012/08/508_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
+  src: /wp-content/uploads/2012/08/508_1982.01.28.B2_SridharMj_O_neobhodimosti_kommentariev_k_Premadhama-deva-stotram.mp3
 date: 1982-01-28
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)

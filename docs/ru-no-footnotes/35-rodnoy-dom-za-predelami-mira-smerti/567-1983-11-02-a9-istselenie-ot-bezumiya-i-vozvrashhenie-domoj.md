@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7322091
   duration: 00:04:37
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.mp3
 date: 1983-11-02
 category:
   title: 35. Родной дом за пределами мира смерти

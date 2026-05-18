@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8092724
   duration: 00:07:48
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.mp3
 date: 1982-05-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

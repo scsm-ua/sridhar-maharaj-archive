@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3213186
   duration: 00:04:50
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3
 date: 1981-08-14
 category:
   title: 51. Философия и практика бхакти-йоги

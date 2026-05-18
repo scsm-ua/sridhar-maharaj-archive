@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4841594
   duration: 00:08:16
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/094_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
 date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

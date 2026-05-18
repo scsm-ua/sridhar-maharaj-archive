@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10849811
   duration: 00:10:07
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3
 date: 1983-11-09
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

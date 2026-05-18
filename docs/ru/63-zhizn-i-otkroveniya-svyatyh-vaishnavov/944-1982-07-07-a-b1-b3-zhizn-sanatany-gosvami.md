@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 44877427
   duration: 00:43:45
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/944_1982.07.07.A.B1.B3_SridharMj_Zhizn_Sanatany_Gosvami.mp3
 date: 1982-07-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов

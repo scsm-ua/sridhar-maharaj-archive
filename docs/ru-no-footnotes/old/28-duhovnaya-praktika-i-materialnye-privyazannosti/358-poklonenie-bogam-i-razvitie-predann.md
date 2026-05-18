@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2789096
   duration: 00:06:33
-  mp3: /wp-content/uploads/2012/08/358_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
+  src: /wp-content/uploads/2012/08/358_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti

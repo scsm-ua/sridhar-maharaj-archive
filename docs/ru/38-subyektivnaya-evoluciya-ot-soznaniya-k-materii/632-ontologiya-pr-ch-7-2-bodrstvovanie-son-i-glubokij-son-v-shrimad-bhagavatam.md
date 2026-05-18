@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 18734216
   duration: 00:18:32
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/632_OntologiyaPR_7.2_SridharMj_Bodrstvovaniye_son_i_glubokiy_son_v_Shrimad_Bhagavatam.mp3
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii

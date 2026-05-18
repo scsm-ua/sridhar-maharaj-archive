@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 1642322
   duration: 00:04:44
-  mp3: /wp-content/uploads/2012/08/402_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
+  src: /wp-content/uploads/2012/08/402_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
 category:
   title: (35. Бхакти - преданность Шри Кришне)
   slug: 35-bhakti-predannost-shri-krishne

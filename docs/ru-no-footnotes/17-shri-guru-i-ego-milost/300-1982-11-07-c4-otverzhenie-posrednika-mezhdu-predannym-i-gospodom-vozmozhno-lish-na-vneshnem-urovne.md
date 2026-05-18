@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7039551
   duration: 00:05:57
-  mp3: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
 date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость

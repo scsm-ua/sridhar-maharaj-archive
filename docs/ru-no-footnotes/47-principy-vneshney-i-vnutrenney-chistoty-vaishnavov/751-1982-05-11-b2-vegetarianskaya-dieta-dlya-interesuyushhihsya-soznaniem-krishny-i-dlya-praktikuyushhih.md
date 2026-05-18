@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 9819502
   duration: 00:09:05
-  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/751_1982.05.11.B2_SridharMj_Vegetarianskaja_dieta_dlja_interesujushhihsja_Soznaniem_Krishny_i_dlja_praktikujushhih.mp3
 date: 1982-05-11
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

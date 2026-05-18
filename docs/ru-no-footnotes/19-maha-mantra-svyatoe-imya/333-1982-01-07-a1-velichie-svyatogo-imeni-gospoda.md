@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 18132877
   duration: 00:37:07
-  mp3: /dl/19._Maha-mantra--Svyatoe_Imya/333_1982.01.07.A1_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/333_1982.01.07.A1_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
 date: 1982-01-07
 category:
   title: 19. Маха-мантра — Святое Имя

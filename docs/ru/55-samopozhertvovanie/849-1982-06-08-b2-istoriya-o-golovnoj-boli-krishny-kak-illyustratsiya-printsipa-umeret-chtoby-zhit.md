@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2958201
   duration: 00:02:00
-  mp3: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.mp3
+  src: /dl/55._Samopozhertvovanie/849_1982.06.08.B2_SridharMj_Istorija_o_golovnoj_boli_Krishny_kak_illjustracija_principa_umeret_chtoby_zhit.mp3
 date: 1982-06-08
 category:
   title: 55. Самопожертвование

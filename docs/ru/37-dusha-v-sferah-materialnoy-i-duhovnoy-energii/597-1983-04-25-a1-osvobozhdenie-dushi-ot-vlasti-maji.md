@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7117406
   duration: 00:11:26
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/597_1983.04.25.A1_SridharMj_Osvobojdenie_dushi_ot_vlasti_mayi.mp3
 date: 1983-04-25
 category:
   title: 37. Душа в сферах материальной и духовной энергии

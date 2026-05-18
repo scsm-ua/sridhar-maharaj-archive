@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 21171230
   duration: 00:08:48
-  mp3: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1149_Shri_Shri_Prabhupada-padma_Stavakah.mp3
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1149_Shri_Shri_Prabhupada-padma_Stavakah.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа

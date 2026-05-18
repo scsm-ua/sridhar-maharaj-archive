@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3988982
   duration: 00:02:27
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/613_1982.05.18.E6_SridharMj_Vkus_i_prava_dzhivy_otnositelny.mp3
 date: 1982-05-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии

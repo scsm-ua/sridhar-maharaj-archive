@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2863488
   duration: 00:05:23
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/864_OntologiyaPR_5.1.2_SridharMj_Prinjatie_posvjashhenija_kak_vozmozhnost_obresti_proshhenie_ot_vajshnava-aparadhi.mp3
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego

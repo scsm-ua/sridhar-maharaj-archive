@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7309272
   duration: 00:13:24
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/083_1983.01.05.B1.2_SridharMj_Spasenie_Gopinatha_Patanajaka_Istorija_iz_zhizni_Kumuda_Babu.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/083_1983.01.05.B1.2_SridharMj_Spasenie_Gopinatha_Patanajaka_Istorija_iz_zhizni_Kumuda_Babu.mp3
 date: 1983-01-05
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

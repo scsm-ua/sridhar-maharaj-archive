@@ -6,7 +6,7 @@ lang: ru
 audio:
   bytes: 2874466
   duration: 00:06:42
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego

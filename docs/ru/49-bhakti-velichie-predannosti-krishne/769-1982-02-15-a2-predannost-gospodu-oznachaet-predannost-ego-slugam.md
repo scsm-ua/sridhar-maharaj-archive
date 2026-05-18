@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13301111
   duration: 00:13:17
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/769_1982.02.15.A2_SridharMj_Predannost_Gospodu_oznachaet_predannost_Ego_slugam.mp3
 date: 1982-02-15
 category:
   title: 49. Бхакти — величие преданности Кришне

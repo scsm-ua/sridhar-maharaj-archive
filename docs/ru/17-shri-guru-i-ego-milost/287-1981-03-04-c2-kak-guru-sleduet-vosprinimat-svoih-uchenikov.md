@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5076302
   duration: 00:07:48
-  mp3: /dl/17._Shri_Guru_i_ego_milost/287_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/287_1981.03.04.C2_SridharMj_Kak_guru_sleduyet_vosprinimat_svoih_uchenikov.mp3
 date: 1981-03-04
 category:
   title: 17. Шри Гуру и его милость

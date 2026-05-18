@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5916681
   duration: 00:08:43
-  mp3: /wp-content/uploads/2012/08/078_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
+  src: /wp-content/uploads/2012/08/078_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
 date: 1980-07-11
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

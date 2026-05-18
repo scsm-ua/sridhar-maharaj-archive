@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 24340677
   duration: 00:24:42
-  mp3: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.mp3
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/432_1983.11.11.A.B1_SridharMj_Guru_poslannik_mira_sluzhenija.mp3
 date: 1983-11-11
 category:
   title: 25. Служение Кришне — труд любви

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2719650
   duration: 00:02:09
-  mp3: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev--ustranitel_prepjatstvij_na_puti_predannosti.mp3
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/155_1982.02.22.A2_SridharMj_Nrisimhadev--ustranitel_prepjatstvij_na_puti_predannosti.mp3
 date: 1982-02-22
 category:
   title: 12. Аватары — нисхождения Всевышнего

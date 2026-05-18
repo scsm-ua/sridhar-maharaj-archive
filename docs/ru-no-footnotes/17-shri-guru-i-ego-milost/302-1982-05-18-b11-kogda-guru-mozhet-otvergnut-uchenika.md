@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2585777
   duration: 00:01:18
-  mp3: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/302_1982.05.18.B11_SridharMj_Kogda_guru_mozhet_otvergnut_uchenika.mp3
 date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость

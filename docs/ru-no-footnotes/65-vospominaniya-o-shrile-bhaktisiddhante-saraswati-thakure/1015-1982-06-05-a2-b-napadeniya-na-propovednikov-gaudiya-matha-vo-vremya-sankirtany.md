@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7432253
   duration: 00:07:07
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.mp3
 date: 1982-06-05
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 24624869
   duration: 00:24:31
-  mp3: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.mp3
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/752_1982.06.08.A2_SridharMj_O_dozvolenii_na_upotreblenie_mjasa_i_vina_v_nekotoryh_vedicheskih_Pisanijah_Biblii_i_Korane.mp3
 date: 1982-06-08
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4670946
   duration: 00:06:27
-  mp3: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
 date: 1983-02-13
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада

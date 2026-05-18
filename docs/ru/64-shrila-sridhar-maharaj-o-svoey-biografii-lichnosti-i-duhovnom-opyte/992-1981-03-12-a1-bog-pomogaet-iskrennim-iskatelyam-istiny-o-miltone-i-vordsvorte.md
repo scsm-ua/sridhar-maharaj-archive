@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4626253
   duration: 00:07:52
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/992_1981.03.12.A1_SridharMj_Bog_pomogaet_iskrennim_iskateljam_istiny_O_Miltone_i_Vordsvorte.mp3
 date: 1981-03-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

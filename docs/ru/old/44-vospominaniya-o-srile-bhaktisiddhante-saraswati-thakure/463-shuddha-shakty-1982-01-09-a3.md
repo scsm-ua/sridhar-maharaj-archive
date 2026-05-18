@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3492476
   duration: 00:06:48
-  mp3: /wp-content/uploads/2012/08/463_1982.01.09.A3_SridharMj_Shudha-shakty.mp3
+  src: /wp-content/uploads/2012/08/463_1982.01.09.A3_SridharMj_Shudha-shakty.mp3
 date: 1982-01-09
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5094024
   duration: 00:07:56
-  mp3: /wp-content/uploads/2012/08/054_1982.01.20.B2_SridharMj_Svyaz_s_Krishnoy_istochnik_vseh_sovershenstv.mp3
+  src: /wp-content/uploads/2012/08/054_1982.01.20.B2_SridharMj_Svyaz_s_Krishnoy_istochnik_vseh_sovershenstv.mp3
 date: 1982-01-20
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)

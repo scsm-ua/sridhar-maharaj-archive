@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5418830
   duration: 00:10:29
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/463_1982.01.09.C2_SridharMj_Obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obweniyu_s_Krishnoy.mp3
 date: 1982-01-09
 category:
   title: 27. Служение стопам Шримати Радхарани

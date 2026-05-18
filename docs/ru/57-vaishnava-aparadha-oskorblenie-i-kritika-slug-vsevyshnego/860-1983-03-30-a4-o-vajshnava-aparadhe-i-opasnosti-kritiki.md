@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2684552
   duration: 00:04:36
-  mp3: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
 date: 1983-03-30
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего

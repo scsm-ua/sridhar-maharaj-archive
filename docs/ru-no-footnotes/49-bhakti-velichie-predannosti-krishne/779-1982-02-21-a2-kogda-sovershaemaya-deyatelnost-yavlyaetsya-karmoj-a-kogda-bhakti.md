@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3198696
   duration: 00:07:47
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
 date: 1982-02-21
 category:
   title: 49. Бхакти — величие преданности Кришне

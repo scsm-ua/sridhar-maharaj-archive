@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3524304
   duration: 00:04:34
-  mp3: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.mp3
 date: 1981-03-02
 category:
   title: 17. Шри Гуру и его милость

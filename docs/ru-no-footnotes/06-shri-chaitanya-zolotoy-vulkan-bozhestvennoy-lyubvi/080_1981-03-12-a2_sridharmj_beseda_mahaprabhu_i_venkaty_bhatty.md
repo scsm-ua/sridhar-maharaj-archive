@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5995446
   duration: 00:10:40
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/080_1981.03.12.A2_SridharMj_Beseda_Mahaprabhu_i_Venkaty_Bhatty.mp3
 date: 1981-03-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

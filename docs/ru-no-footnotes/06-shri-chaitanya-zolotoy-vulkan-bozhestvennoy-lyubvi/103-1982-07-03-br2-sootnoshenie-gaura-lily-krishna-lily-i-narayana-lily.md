@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4615555
   duration: 00:03:54
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/103_1982.07.03.Br2_SridharMj_Sootnoshenie_Gaura-lily_Krishna-lily_i_Narajana-lily.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/103_1982.07.03.Br2_SridharMj_Sootnoshenie_Gaura-lily_Krishna-lily_i_Narajana-lily.mp3
 date: 1982-07-03
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

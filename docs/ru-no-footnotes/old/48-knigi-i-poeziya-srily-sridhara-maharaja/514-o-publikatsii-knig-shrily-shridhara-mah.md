@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1665728
   duration: 00:03:52
-  mp3: /wp-content/uploads/2012/08/514_2012.07.25.12_ShridharMj_O_publikacii_knig_Shrily_Sridhara_Maharaja1.mp3
+  src: /wp-content/uploads/2012/08/514_2012.07.25.12_ShridharMj_O_publikacii_knig_Shrily_Sridhara_Maharaja1.mp3
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja

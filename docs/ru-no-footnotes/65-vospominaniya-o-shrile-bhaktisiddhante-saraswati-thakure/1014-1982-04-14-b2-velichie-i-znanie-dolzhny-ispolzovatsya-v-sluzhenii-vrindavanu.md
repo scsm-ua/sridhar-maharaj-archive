@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8513515
   duration: 00:08:15
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3
 date: 1982-04-14
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

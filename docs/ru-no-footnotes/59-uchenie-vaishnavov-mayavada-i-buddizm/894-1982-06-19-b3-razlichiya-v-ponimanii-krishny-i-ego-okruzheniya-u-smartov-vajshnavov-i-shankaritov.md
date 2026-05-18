@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2493137
   duration: 00:02:29
-  mp3: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/894_1982.06.19.B3_SridharMj_Razlichija_v_ponimanii_Krishny_i_Ego_okruzhenija_u_smartov_vajshnavov_i_shankaritov.mp3
 date: 1982-06-19
 category:
   title: 59. Учение вайшнавов, майавада и буддизм

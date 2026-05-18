@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4566040
   duration: 00:08:53
-  mp3: /wp-content/uploads/2012/08/191_MgnoveniyaPR_3.4_SridharMj_Rojdeniye_chelovekom–klyuch_k_resheniyu_vseh_problem.mp3
+  src: /wp-content/uploads/2012/08/191_MgnoveniyaPR_3.4_SridharMj_Rojdeniye_chelovekom–klyuch_k_resheniyu_vseh_problem.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti

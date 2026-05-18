@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2463878
   duration: 00:02:20
-  mp3: /wp-content/uploads/2012/08/359_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
+  src: /wp-content/uploads/2012/08/359_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
 date: 1981-03-03
 category:
   title: (28. Духовная практика и материальные привязанности)

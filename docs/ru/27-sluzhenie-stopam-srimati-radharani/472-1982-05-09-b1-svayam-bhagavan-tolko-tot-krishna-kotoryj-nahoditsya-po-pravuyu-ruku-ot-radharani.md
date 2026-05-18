@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2155823
   duration: 00:01:51
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/472_1982.05.09.B1_SridharMj_Svajam_Bhagavan--tolko_tot_Krishna_kotoryj_nahoditsja_po_pravuju_ruku_ot_Radharani.mp3
 date: 1982-05-09
 category:
   title: 27. Служение стопам Шримати Радхарани

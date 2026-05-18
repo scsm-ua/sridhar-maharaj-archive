@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 27262119
   duration: 00:25:24
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
 date: 1983-11-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов

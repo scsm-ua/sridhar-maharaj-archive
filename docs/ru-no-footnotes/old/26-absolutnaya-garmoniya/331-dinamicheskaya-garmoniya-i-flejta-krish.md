@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5289472
   duration: 00:05:53
-  mp3: /wp-content/uploads/2012/08/331_OntologiyaPR_2.5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
+  src: /wp-content/uploads/2012/08/331_OntologiyaPR_2.5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya

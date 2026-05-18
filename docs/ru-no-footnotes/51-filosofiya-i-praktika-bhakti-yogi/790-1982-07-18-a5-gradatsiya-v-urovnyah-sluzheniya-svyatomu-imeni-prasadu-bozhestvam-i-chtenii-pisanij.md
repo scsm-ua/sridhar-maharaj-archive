@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10372201
   duration: 00:09:52
-  mp3: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3
 date: 1982-07-18
 category:
   title: 51. Философия и практика бхакти-йоги

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6060920
   duration: 00:10:49
-  mp3: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.mp3
+  src: /dl/45._Iskrennost_i_progress/735_1982.02.23.C3_SridharMj_Sohranjat_dostignutoe_polozhenie_i_dvigatsja_vpered.mp3
 date: 1982-02-23
 category:
   title: 45. Искренность и прогресс

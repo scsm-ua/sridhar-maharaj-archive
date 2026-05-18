@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7541632
   duration: 00:07:27
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/195_1982.06.10.B9.C1_SridharMj_V_raznye_kalpy_javlenie_Shukadeva_proishodit_po-raznomu.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/195_1982.06.10.B9.C1_SridharMj_V_raznye_kalpy_javlenie_Shukadeva_proishodit_po-raznomu.mp3
 date: 1982-06-10
 category:
   title: 13. Лила — игра чудесного Абсолюта

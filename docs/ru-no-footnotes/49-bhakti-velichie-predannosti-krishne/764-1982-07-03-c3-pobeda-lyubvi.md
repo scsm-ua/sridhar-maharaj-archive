@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12710953
   duration: 00:12:40
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/764_1982.07.03.C3_SridharMj_Pobeda_ljubvi.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/764_1982.07.03.C3_SridharMj_Pobeda_ljubvi.mp3
 date: 1982-07-03
 category:
   title: 49. Бхакти — величие преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15394752
   duration: 00:27:17
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/051_1981.08.14.B3.C1_SridharMj_Madhura-rasa--iznachalnaja_i_osnovopolagajushhaja.mp3
 date: 1981-08-14
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

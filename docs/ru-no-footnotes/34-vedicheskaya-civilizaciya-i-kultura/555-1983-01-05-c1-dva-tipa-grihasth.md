@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7173822
   duration: 00:13:34
-  mp3: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3
 date: 1983-01-05
 category:
   title: 34. Ведическая цивилизация и культура

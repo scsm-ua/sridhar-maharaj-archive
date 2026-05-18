@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4392768
   duration: 00:07:12
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
 date: 1981-02-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи

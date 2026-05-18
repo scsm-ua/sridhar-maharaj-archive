@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 2315662
   duration: 00:01:31
-  mp3: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/976_1982.11.02.B3_SridharMj_Shri_Chajtanja_sovetoval_naprjamuju_obratitsja_k_vysshemu_urovnyu_teizma.mp3
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/976_1982.11.02.B3_SridharMj_Shri_Chajtanja_sovetoval_naprjamuju_obratitsja_k_vysshemu_urovnyu_teizma.mp3
 date: 1982-11-02
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7711545
   duration: 00:15:25
-  mp3: /wp-content/uploads/2012/08/266_1987.00.00.B5_SridharMj_Rupanuga-sampradaya.mp3
+  src: /wp-content/uploads/2012/08/266_1987.00.00.B5_SridharMj_Rupanuga-sampradaya.mp3
 date: 1987-00-00
 category:
   title: (21. Служение стопам Шримати Радхарани)

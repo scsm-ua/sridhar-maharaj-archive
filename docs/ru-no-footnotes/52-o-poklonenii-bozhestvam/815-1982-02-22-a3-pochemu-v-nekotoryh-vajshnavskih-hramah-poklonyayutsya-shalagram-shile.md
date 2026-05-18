@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8011515
   duration: 00:07:21
-  mp3: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3
+  src: /dl/52._O_poklonenii_Bozhestvam/815_1982.02.22.A3_SridharMj_Pochemu_v_nekotoryh_vajshnavskih_hramah_poklonjajutsja_shalagram-shile.mp3
 date: 1982-02-22
 category:
   title: 52. О поклонении Божествам

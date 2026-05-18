@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2641112
   duration: 00:04:02
-  mp3: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/246_1982.02.23.B2_SridharMj_Duhovnoye_obweniye--put_k_chistomu_vospevaniyu_Imeni.mp3
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/246_1982.02.23.B2_SridharMj_Duhovnoye_obweniye--put_k_chistomu_vospevaniyu_Imeni.mp3
 date: 1982-02-23
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4643558
   duration: 00:07:51
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
 date: 1982-01-17
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

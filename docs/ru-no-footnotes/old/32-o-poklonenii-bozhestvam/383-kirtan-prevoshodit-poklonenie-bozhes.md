@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 949264
   duration: 00:02:10
-  mp3: /wp-content/uploads/2012/08/383_MgnoveniyaPR_1.1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
+  src: /wp-content/uploads/2012/08/383_MgnoveniyaPR_1.1_SridharMj_Kirtan_prevoshodit_pokloneniye_Bojestvam.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam

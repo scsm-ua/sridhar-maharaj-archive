@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6711254
   duration: 00:06:35
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/196_1982.07.16.A1_SridharMj_Vseblagaja_priroda_chid-vilasa.mp3
 date: 1982-07-16
 category:
   title: 13. Лила — игра чудесного Абсолюта

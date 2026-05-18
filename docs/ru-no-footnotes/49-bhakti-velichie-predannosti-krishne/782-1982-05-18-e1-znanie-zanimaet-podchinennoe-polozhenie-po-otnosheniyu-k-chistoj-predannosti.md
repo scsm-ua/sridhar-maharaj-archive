@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7292530
   duration: 00:07:02
-  mp3: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.mp3
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.mp3
 date: 1982-05-18
 category:
   title: 49. Бхакти — величие преданности Кришне

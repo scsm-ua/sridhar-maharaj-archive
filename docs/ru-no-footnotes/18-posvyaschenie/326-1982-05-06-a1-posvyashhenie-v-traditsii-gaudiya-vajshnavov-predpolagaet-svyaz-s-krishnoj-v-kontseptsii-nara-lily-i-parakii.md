@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 7304097
   duration: 00:07:20
-  mp3: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3
+  src: /dl/18._Posvyaschenie/326_1982.05.06.A1_SridharMj_Posvjashhenie_v_tradicii_gaudija_vajshnavov_predpolagaet_svjaz_s_Krishnoj_v_koncepcii_nara-lily_i_parakii.mp3
 date: 1982-05-06
 category:
   title: 18. Посвящение

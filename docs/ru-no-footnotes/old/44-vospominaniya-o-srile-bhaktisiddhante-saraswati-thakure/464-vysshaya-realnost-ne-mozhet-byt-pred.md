@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5079469
   duration: 00:10:06
-  mp3: /wp-content/uploads/2012/08/464_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
+  src: /wp-content/uploads/2012/08/464_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
 date: 1981-08-18
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)

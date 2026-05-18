@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16454321
   duration: 00:16:31
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1022_1982.07.04.A6.A8_SridharMj_Blizost_k_duhovnomu_uchitelju--jeto_pokornost_ego_vole.mp3
 date: 1982-07-04
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

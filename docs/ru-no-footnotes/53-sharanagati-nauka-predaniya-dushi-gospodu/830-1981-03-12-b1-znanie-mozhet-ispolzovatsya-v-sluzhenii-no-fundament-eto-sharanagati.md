@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5598332
   duration: 00:10:28
-  mp3: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.mp3
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.mp3
 date: 1981-03-12
 category:
   title: 53. Шаранагати - наука предания души Господу

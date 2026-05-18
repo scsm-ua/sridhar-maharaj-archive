@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6638393
   duration: 00:09:00
-  mp3: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/522_1981.03.02.B2_SridharMj_Krishna-lila_privodit_v_garmoniyu_daje_negativnye_yavleniya.mp3
 date: 1981-03-02
 category:
   title: 32. Абсолютная гармония и милостивая истина

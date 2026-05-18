@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7031797
   duration: 00:07:00
-  mp3: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/709_1982.06.19.C6_SridharMj_Proverki_predannosti--ot_bogatstva_do_predlozhenija_stat_Shivoj.mp3
 date: 1982-06-19
 category:
   title: 43. Трудности и духовный путь — испытания майи

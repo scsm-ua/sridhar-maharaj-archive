@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16591057
   duration: 00:33:35
-  mp3: /wp-content/uploads/2012/08/503_1981.08.18.C2_SridharMj_Rasprostraniteli_milosti_Sri_Chaitanyi.mp3
+  src: /wp-content/uploads/2012/08/503_1981.08.18.C2_SridharMj_Rasprostraniteli_milosti_Sri_Chaitanyi.mp3
 date: 1981-08-18
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)

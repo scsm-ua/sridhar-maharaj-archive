@@ -8,7 +8,7 @@ lang: ru
 audio:
   bytes: 9349642
   duration: 00:06:44
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/964_1982.06.19.D2_SridharMj_Zhizni_vozvyshennyh_vajshnavov_do_momenta_ih_raskrytija_ne_sleduet_pridavat_osoboe_znachenie.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/964_1982.06.19.D2_SridharMj_Zhizni_vozvyshennyh_vajshnavov_do_momenta_ih_raskrytija_ne_sleduet_pridavat_osoboe_znachenie.mp3
 date: 1982-06-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов

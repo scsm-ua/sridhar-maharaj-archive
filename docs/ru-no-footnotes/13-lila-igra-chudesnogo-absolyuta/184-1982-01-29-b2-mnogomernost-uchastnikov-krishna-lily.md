@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7665246
   duration: 00:15:10
-  mp3: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/184_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
 date: 1982-01-29
 category:
   title: 13. Лила — игра чудесного Абсолюта

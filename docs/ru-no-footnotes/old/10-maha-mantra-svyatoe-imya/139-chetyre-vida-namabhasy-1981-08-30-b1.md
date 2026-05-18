@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 15179806
   duration: 00:30:47
-  mp3: /wp-content/uploads/2012/08/139_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
+  src: /wp-content/uploads/2012/08/139_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
 date: 1981-08-30
 category:
   title: (10. Маха-мантра - Святое Имя)

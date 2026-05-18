@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3256717
   duration: 00:04:01
-  mp3: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3
 date: 1981-03-10
 category:
   title: 17. Шри Гуру и его милость

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 13669219
   duration: 00:11:14
-  mp3: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/560_1982.07.27.A2_SridharMj_Tretja_mirovaja_vojna__Postarajtes_zhit_v_vechnosti.mp3
 date: 1982-07-27
 category:
   title: 35. Родной дом за пределами мира смерти

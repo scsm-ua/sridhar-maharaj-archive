@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1850560
   duration: 00:03:15
-  mp3: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
+  src: /wp-content/uploads/2012/08/343_1984.01.15.B5_SridharMj_O_vajnosti_stremleniya_obresti_Soznaniye_Krishny.mp3
 date: 1984-01-15
 category:
   title: (27. Духовный путь)

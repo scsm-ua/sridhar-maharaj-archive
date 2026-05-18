@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 22910358
   duration: 00:44:11
-  mp3: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
 date: 1983-01-02
 category:
   title: 60. Учение вайшнавов и Христианство

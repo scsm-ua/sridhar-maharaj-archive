@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3532704
   duration: 00:07:49
-  mp3: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1030_1982.02.23.B3_SridharMj_Duhovnyy_uchitel_mojet_yavlyat_sebya_v_raznyh_oblikah.mp3
 date: 1982-02-23
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре

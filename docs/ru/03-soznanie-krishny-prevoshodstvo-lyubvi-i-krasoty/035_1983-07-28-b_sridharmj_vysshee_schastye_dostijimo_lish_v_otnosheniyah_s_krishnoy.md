@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14603243
   duration: 00:29:45
-  mp3: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
+  src: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/035_1983.07.28.B_SridharMj_Vysshee_schastye_dostijimo_lish_v_otnosheniyah_s_Krishnoy.mp3
 date: 1983-07-28
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты

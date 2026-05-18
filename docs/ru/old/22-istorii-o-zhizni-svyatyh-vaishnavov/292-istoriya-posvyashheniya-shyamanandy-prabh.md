@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1872238
   duration: 00:03:34
-  mp3: /wp-content/uploads/2012/08/292_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
+  src: /wp-content/uploads/2012/08/292_1985.05.01.B5_SridharMj_Istoriya_posvyaweniya_Shyamanandy_Prabhu.mp3
 date: 1985-05-01
 category:
   title: (22. Истории о жизни святых вайшнавов)

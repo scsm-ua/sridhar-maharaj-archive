@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3696398
   duration: 00:07:00
-  mp3: /wp-content/uploads/2012/08/016_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
+  src: /wp-content/uploads/2012/08/016_1983.01.26.C4_SridharMj_Zdraviy_smysl_osnova_propovedi_Mahaprabhu.mp3
 date: 1983-01-26
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

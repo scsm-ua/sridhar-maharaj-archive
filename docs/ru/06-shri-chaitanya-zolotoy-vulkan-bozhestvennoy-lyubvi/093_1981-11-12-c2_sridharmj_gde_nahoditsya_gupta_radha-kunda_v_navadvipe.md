@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1461426
   duration: 00:01:13
-  mp3: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/093_1981.11.12.C2_SridharMj_Gde_nahoditsya_gupta_Radha-kunda_v_Navadvipe.mp3
 date: 1981-11-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви

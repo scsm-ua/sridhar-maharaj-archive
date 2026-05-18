@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7415747
   duration: 00:13:59
-  mp3: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/019_1983.01.05.A2_SridharMj_Absolyut_pokoryaetsya_lyubvi.mp3
 date: 1983-01-05
 category:
   title: 02. Кришна — Имя, Личность, темперамент

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4175851
   duration: 00:06:14
-  mp3: /wp-content/uploads/2012/08/112_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
+  src: /wp-content/uploads/2012/08/112_1983.04.17.A3_SridharMj_Kak_prevzoyti_mayu.mp3
 date: 1983-04-17
 category:
   title: (08. Шри Гуру и его милость)

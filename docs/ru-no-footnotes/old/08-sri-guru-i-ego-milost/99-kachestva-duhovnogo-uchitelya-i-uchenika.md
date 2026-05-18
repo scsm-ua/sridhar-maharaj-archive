@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 11947384
   duration: 00:22:25
-  mp3: /wp-content/uploads/2012/08/099_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
+  src: /wp-content/uploads/2012/08/099_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
 date: 1981-02-28
 category:
   title: (08. Шри Гуру и его милость)

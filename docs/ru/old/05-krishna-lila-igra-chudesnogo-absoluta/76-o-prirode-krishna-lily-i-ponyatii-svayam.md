@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 8549679
   duration: 00:16:24
-  mp3: /wp-content/uploads/2012/08/076_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
+  src: /wp-content/uploads/2012/08/076_1982.01.18.B2_SridharMj_O_prirode_krishna-lily_i_ponyatii_Svayam_Bhagavan.mp3
 date: 1982-01-18
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)

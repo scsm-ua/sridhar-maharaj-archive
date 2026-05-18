@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 6274100
   duration: 00:10:41
-  mp3: /wp-content/uploads/2012/08/360_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
+  src: /wp-content/uploads/2012/08/360_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
 date: 1985-05-01
 category:
   title: (28. Духовная практика и материальные привязанности)

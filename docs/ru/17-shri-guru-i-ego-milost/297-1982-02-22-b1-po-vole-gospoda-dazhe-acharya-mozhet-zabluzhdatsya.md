@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3840136
   duration: 00:06:40
-  mp3: /dl/17._Shri_Guru_i_ego_milost/297_1982.02.22.B1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/297_1982.02.22.B1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
 date: 1982-02-22
 category:
   title: 17. Шри Гуру и его милость

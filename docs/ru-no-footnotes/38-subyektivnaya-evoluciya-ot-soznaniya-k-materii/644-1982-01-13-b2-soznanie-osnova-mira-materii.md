@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 7138357
   duration: 00:12:55
-  mp3: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
 date: 1982-01-13
 category:
   title: 38. Субъективная эволюция — от сознания к материи

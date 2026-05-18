@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12171014
   duration: 00:11:57
-  mp3: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.mp3
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/198_1982.07.05.B2_SridharMj_Jetapy_cherez_kotorye_nuzhno_projti_chtoby_uvidet_Krishnu.mp3
 date: 1982-07-05
 category:
   title: 14. Как познать и увидеть Бога

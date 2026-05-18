@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5720846
   duration: 00:06:36
-  mp3: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.mp3
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/059_1981.03.07.A1_SridharMj_Vallabhacharja_i_gruppa_Chandravali.mp3
 date: 1981-03-07
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом

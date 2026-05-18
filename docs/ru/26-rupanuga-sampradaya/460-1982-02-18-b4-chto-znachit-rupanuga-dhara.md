@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 1495040
   duration: 00:01:52
-  mp3: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3
+  src: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3
 date: 1982-02-18
 category:
   title: 26. Рупануга-сампрадая

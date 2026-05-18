@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 14336732
   duration: 00:47:44
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
 date: 1983-02-21
 category:
   title: 63. Жизнь и откровения святых вайшнавов

@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 3271639
   duration: 00:06:01
-  mp3: /dl/27._Sluzhenie_stopam_Srimati_Radharani/471_1983.02.11.A2_SridharMj_Pochemu_Sukadev_ne_upomyanul_v_Bhagavatam_imya_Srimati_Radharani.mp3
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/471_1983.02.11.A2_SridharMj_Pochemu_Sukadev_ne_upomyanul_v_Bhagavatam_imya_Srimati_Radharani.mp3
 date: 1983-02-11
 category:
   title: 27. Служение стопам Шримати Радхарани

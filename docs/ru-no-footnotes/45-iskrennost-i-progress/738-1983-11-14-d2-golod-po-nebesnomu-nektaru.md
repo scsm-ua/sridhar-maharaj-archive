@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10584283
   duration: 00:10:07
-  mp3: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3
+  src: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3
 date: 1983-11-14
 category:
   title: 45. Искренность и прогресс

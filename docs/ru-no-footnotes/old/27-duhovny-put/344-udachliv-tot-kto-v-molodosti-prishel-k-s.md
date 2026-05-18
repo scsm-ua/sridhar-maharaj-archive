@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4344959
   duration: 00:06:46
-  mp3: /wp-content/uploads/2012/08/344_1980.07.11.B3_SridharMj_Udachliv_tot_kto_v_molodosti_prishel_k_slujeniyu_Guru_i_vaishnavam.mp3
+  src: /wp-content/uploads/2012/08/344_1980.07.11.B3_SridharMj_Udachliv_tot_kto_v_molodosti_prishel_k_slujeniyu_Guru_i_vaishnavam.mp3
 date: 1980-07-11
 category:
   title: (27. Духовный путь)

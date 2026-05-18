@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 4386407
   duration: 00:07:25
-  mp3: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3
 date: 1983-01-26
 category:
   title: 04. Вриндаван — жить одной семьей с Богом

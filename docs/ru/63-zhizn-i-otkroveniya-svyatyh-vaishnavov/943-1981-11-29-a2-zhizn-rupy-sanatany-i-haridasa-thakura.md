@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 12891637
   duration: 00:20:51
-  mp3: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/943_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
 date: 1981-11-29
 category:
   title: 63. Жизнь и откровения святых вайшнавов

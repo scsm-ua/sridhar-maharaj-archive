@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 10222008
   duration: 00:16:07
-  mp3: /wp-content/uploads/2012/08/164_1983.03.30.B3_SridharMj_Strategiya_propovedi.mp3
+  src: /wp-content/uploads/2012/08/164_1983.03.30.B3_SridharMj_Strategiya_propovedi.mp3
 date: 1983-03-30
 category:
   title: (13. О проповеди)

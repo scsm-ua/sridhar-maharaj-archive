@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 2447128
   duration: 00:04:35
-  mp3: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
+  src: /dl/17._Shri_Guru_i_ego_milost/301_1982.02.19.C8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
 date: 1982-02-19
 category:
   title: 17. Шри Гуру и его милость

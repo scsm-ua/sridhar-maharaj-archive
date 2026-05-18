@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 16977407
   duration: 00:41:15
-  mp3: /wp-content/uploads/2012/08/021_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
+  src: /wp-content/uploads/2012/08/021_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
 date: 1982-01-24
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)

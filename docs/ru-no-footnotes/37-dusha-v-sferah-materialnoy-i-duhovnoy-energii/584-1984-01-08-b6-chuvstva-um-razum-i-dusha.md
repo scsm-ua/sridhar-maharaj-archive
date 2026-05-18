@@ -7,7 +7,7 @@ lang: ru
 audio:
   bytes: 5554865
   duration: 00:08:11
-  mp3: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/584_1984.01.08.B6_SridharMj_Chuvstva_um_razum_i_dusha.mp3
 date: 1984-01-08
 category:
   title: 37. Душа в сферах материальной и духовной энергии
