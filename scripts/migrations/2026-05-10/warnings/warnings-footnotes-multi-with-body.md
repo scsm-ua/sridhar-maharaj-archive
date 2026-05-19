@@ -16,6 +16,10 @@
    - 1982.01.11.A2.md
    - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A2.md)
    - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.11.A2.md)
+ - more than 1 link found for footnote "[^12]" (2)
+   - 1982.01.29.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.29.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.29.md)
  - more than 1 link found for footnote "[^1]" (3)
    - 1982.02.25.A.B.C.md
    - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/02/1982.02.25.A.B.C.md)

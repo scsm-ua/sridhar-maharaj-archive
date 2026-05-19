@@ -1,16 +1,8 @@
-## BUGS:
-
-First line is verse:
-https://sridhar.guru/posts/067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
-
-https://sridhar.guru/posts/664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
-
-footnotes - no popup after navigation next prev:
-https://sridhar.guru/posts/429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
-
 ## MIGRATION
 
 add record-id slug for partials archive
+
+remove scripture name if has verse number
 
 ## MD
 
