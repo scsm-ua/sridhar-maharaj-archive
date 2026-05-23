@@ -1,5 +1,5 @@
 ---
-slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
+slug: mgnoveniya_pr_ch_4_8_bezgranichnoe_bezgranichnoe_bezgranichnoe_mantra_ishopanishad
 title: Мгновения ПР. Ч. 4.8. «Безграничное – Безграничное = Безграничное».
   Мантра Ишопанишад.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
     Мантра Ишопанишад
   index: "183"
   filename: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad.md
+  slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
 ---
 
 *(из цикла «Мгновения Прекрасной Реальности», часть 4.8. Навадвип Дхам, Индия)*

@@ -1,5 +1,5 @@
 ---
-slug: 895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie
+slug: ideya_vseobshchego_ravenstva_opasnoe_zabluzhdenie
 title: Идея всеобщего равенства — опасное заблуждение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -34,6 +34,7 @@ legacy:
   title: 895. Идея всеобщего равенства — опасное заблуждение
   index: "895"
   filename: 895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie.md
+  slug: 895-ideya-vseobshhego-ravenstva-opasnoe-zabluzhdenie
 ---
 
     кр̣ш̣н̣а кахе,— ‘а̄ма̄ бхадже, ма̄ге виш̣айа-сукха

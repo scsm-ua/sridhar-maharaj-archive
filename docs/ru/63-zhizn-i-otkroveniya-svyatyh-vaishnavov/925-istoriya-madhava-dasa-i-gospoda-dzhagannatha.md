@@ -1,5 +1,5 @@
 ---
-slug: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha
+slug: istoriya_madhava_dasa_i_gospoda_dzhagannatha
 title: История Мадхава даса и Господа Джаганнатха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 925. История Мадхава даса и Господа Джаганнатха
   index: "925"
   filename: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha.md
+  slug: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha
 ---
 
 **Преданный:** Махарадж, роскошь, деньги… Являются ли они указанием на то, что Кришна удовлетворен или Ему должным образом служат в храме (когда храм богато украшен и так далее)?

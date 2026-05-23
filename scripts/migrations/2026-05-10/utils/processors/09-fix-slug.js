@@ -40,14 +40,24 @@ function limitTitleSlug(slug) {
 }
 
 function generateSlug(meta) {
-  const recordId = meta.record_id;
-  if (!recordId) return null;
-
   const title = (meta.legacy && meta.legacy.title_from_filename) || meta.title;
-  const idBase = recordId.toLowerCase().replace(/\./g, '-');
-  const idPart = meta.variant ? `${idBase}-v${toSlugPart(String(meta.variant))}` : idBase;
   const titlePart = title ? limitTitleSlug(toSlugPart(title)) : '';
-  return titlePart ? `${idPart}_${titlePart}` : idPart;
+
+  // Build the id part from record_id, falling back to date
+  let idPart;
+  if (meta.record_id) {
+    const idBase = meta.record_id.toLowerCase().replace(/\./g, '-');
+    idPart = meta.variant ? `${idBase}-v${toSlugPart(String(meta.variant))}` : idBase;
+  } else if (meta.date) {
+    idPart = String(meta.date);
+  } else {
+    idPart = null;
+  }
+
+  if (!idPart && !titlePart) return null;
+  if (!idPart) return titlePart;
+  if (!titlePart) return idPart;
+  return `${idPart}_${titlePart}`;
 }
 
 function isSkipFolder(filename) {

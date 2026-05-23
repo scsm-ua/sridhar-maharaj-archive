@@ -1,5 +1,5 @@
 ---
-slug: 647-mgnoveniya-pr-ch-4-7-adhokshadzha-aprakrita-transtsendentnoe
+slug: mgnoveniya_pr_ch_4_7_adhokshadzha_aprakrita_transtsendentnoe
 title: Мгновения ПР. Ч. 4.7. Адхокшаджа, апракрита, трансцендентное.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 647. Мгновения ПР. Ч. 4.7. Адхокшаджа, апракрита, трансцендентное
   index: "647"
   filename: 647-mgnoveniya-pr-ch-4-7-adhokshadzha-aprakrita-transtsendentnoe.md
+  slug: 647-mgnoveniya-pr-ch-4-7-adhokshadzha-aprakrita-transtsendentnoe
 ---
 
 ## Мгновения Прекрасной Реальности (часть 4.7)

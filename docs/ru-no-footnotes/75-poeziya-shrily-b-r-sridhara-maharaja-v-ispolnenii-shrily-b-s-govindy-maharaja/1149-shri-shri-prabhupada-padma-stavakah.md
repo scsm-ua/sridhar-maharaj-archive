@@ -1,5 +1,5 @@
 ---
-slug: 1149-shri-shri-prabhupada-padma-stavakah
+slug: shri_shri_prabhupada-padma_stavakah
 title: Шри Шри Прабхупада-падма Ставаках
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -25,6 +25,7 @@ legacy:
   title: 1149. Шри Шри Прабхупада-падма Ставаках
   index: "1149"
   filename: 1149-shri-shri-prabhupada-padma-stavakah.md
+  slug: 1149-shri-shri-prabhupada-padma-stavakah
 ---
 
 **(Молитва лотосоподобным стопам моего господина и учителя Шрилы Бхактисиддханты Сарасвати Тхакура Прабхупады)**

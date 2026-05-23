@@ -1,5 +1,5 @@
 ---
-slug: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii
+slug: podlinnaya_zhizn_vozmozhna_tolko_v_duhovnom_izmerenii
 title: Подлинная жизнь возможна только в духовном измерении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 412. Подлинная жизнь возможна только в духовном измерении
   index: "412"
   filename: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii.md
+  slug: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii
 ---
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]

@@ -1,5 +1,5 @@
 ---
-slug: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1
+slug: kommentariy_k_stiham_manu-samhity_1_1_5_i_2_1
 title: Комментарий к стихам Ману-самхиты 1.1.5 и 2.1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 539. Комментарий к стихам Ману-самхиты 1.1.5 и 2.1
   index: "539"
   filename: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1.md
+  slug: 539-kommentarij-k-stiham-manu-samhity-1-1-5-i-2-1
 ---
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол]

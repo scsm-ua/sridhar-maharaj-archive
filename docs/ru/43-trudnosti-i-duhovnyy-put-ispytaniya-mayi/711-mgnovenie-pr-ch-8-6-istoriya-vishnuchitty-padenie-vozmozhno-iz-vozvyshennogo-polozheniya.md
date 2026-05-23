@@ -1,5 +1,5 @@
 ---
-slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
+slug: mgnovenie_pr_ch_8_6_istoriya_vishnuchitty_padenie_vozmozhno_iz_vozvyshennogo_polozheniya
 title: Мгновение ПР. Ч. 8.6. История Вишнучитты. Падение возможно из
   возвышенного положения.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
     возвышенного положения
   index: "711"
   filename: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya.md
+  slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
 ---
 
 *Мгновения Прекрасной Реальности (часть 8.6)*

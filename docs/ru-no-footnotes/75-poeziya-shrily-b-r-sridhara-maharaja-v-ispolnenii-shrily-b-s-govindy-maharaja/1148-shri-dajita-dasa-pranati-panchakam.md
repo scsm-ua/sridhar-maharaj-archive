@@ -1,5 +1,5 @@
 ---
-slug: 1148-shri-dajita-dasa-pranati-panchakam
+slug: shri_dayita_dasa_pranati_panchakam
 title: Шри Дайита Даса Пранати Панчакам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -25,6 +25,7 @@ legacy:
   title: 1148. Шри Дайита Даса Пранати Панчакам
   index: "1148"
   filename: 1148-shri-dajita-dasa-pranati-panchakam.md
+  slug: 1148-shri-dajita-dasa-pranati-panchakam
 ---
 
 **(выражение почтения Ш́рӣле Бхактисиддха̄нте Сарасвати Т̣ха̄куру Ш́рӣлой Бхакти Ракш̣аком Ш́рӣдхаром Дев-Госва̄мӣ Маха̄ра̄джем)**

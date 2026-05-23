@@ -1,5 +1,5 @@
 ---
-slug: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5
+slug: ontologiya_pr_ch_5_9_pozvolit_krishne_vysadit_desant_v_serdtse_shrimad_bhagavatam_2_8_5
 title: Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце. Шримад
   Бхагаватам 2.8.5.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
     Шримад Бхагаватам 2.8.5
   index: "703"
   filename: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5.md
+  slug: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5
 ---
 
 Гуру Махарадж однажды сказал одному человеку (ученику)… Он был выходцем из уважаемой семьи в Агре. Его старший брат был видным адвокатом, второй был советником губернатора, но так или иначе эти люди были в той или иной степени преданными Махапрабху. Третий брат был связан с «Манчестер Гардиан Патрика». Двадцать лет он служил в качестве помощника главного редактора. В студенческие годы он учился в Германии во время первой мировой войны Кайзера и в то время играл роль шпиона, секретного агента (по его собственным словам).

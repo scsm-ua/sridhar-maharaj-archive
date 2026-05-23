@@ -1,5 +1,5 @@
 ---
-slug: 1145-shri-shri-dajita-dasa-dashakam
+slug: shri_shri_dayita_dasa_dashakam
 title: Шри Шри Дайита Даса Дашакам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -25,6 +25,7 @@ legacy:
   title: 1145. Шри Шри Дайита Даса Дашакам
   index: "1145"
   filename: 1145-shri-shri-dajita-dasa-dashakam.md
+  slug: 1145-shri-shri-dajita-dasa-dashakam
 ---
 
 (молитва Шриле Бхактисиддханте Сарасвати Тхакуру, составленная после завершения его проявленных игр Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем)

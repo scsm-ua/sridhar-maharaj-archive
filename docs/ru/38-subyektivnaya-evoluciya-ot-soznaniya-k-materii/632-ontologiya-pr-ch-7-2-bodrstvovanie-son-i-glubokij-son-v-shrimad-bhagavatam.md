@@ -1,5 +1,5 @@
 ---
-slug: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam
+slug: ontologiya_pr_ch_7_2_bodrstvovanie_son_i_glubokiy_son_v_shrimad_bhagavatam
 title: Онтология ПР. Ч. 7.2. Бодрствование, сон и глубокий сон в «Шримад Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -33,6 +33,7 @@ legacy:
     Бхагаватам»
   index: "632"
   filename: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam.md
+  slug: 632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари, Гаура-Харибол.

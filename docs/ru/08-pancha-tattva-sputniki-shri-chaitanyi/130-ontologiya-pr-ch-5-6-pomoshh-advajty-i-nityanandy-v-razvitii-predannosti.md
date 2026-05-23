@@ -1,5 +1,5 @@
 ---
-slug: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti
+slug: ontologiya_pr_ch_5_6_pomoshch_advayty_i_nityanandy_v_razvitii_predannosti
 title: Онтология ПР. Ч. 5.6. Помощь Адвайты и Нитьянанды в развитии преданности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -28,6 +28,7 @@ legacy:
   title: 130. Онтология ПР. Ч. 5.6. Помощь Адвайты и Нитьянанды в развитии преданности
   index: "130"
   filename: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti.md
+  slug: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti
 ---
 
 *(«Онтология Прекрасной Реальности», часть 5.6)*

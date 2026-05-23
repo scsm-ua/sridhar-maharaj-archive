@@ -1,5 +1,5 @@
 ---
-slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
+slug: ontologiya_pr_ch_4_4_o_propovedi_sarasvati_thakura_shridhara_maharadzha_i_bhaktivedandy_svami
 title: Онтология ПР. Ч. 4.4. О проповеди Сарасвати Тхакура, Шридхара Махараджа и
   Бхактиведанды Свами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
     Махараджа и Бхактиведанды Свами
   index: "1008"
   filename: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami.md
+  slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
 ---
 
 *«Онтология Прекрасной Реальности» (часть 4.4)*

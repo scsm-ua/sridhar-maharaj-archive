@@ -1,5 +1,5 @@
 ---
-slug: 334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni
+slug: duh_sluzheniya_osnova_vospevaniya_svyatogo_imeni
 title: Дух служения — основа воспевания Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -30,6 +30,7 @@ legacy:
   title: 334.  Дух служения — основа воспевания Святого Имени
   index: "334"
   filename: 334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni.md
+  slug: 334-duh-sluzheniya-osnova-vospevaniya-svyatogo-imeni
 ---
 
 **Преданный:** Если человек повторял только четыре круга в день, ваш Гуру Махарадж давал ему посвящение в *Харинам*?

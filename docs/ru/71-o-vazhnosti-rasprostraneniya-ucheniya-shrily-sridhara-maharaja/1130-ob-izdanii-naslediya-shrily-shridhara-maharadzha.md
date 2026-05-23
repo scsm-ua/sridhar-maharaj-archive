@@ -1,5 +1,5 @@
 ---
-slug: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha
+slug: ob_izdanii_naslediya_shrily_shridhara_maharadzha
 title: Об издании наследия Шрилы Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 1130. Об издании наследия Шрилы Шридхара Махараджа
   index: "1130"
   filename: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha.md
+  slug: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha
 ---
 
 **Преданный:** Махарадж, Сатья Нараян Прабху…

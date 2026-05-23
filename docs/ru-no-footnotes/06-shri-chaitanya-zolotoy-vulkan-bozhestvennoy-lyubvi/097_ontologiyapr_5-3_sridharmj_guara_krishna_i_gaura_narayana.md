@@ -1,5 +1,5 @@
 ---
-slug: 097_ontologiyapr_5-3_sridharmj_guara_krishna_i_gaura_narayana
+slug: ontologiya_pr_5_3_gaura_krishna_i_gaura_narayana
 title: Онтология ПР 5.3. Гаура Кришна и Гаура Нараяна.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 097. Онтология ПР 5.3. Гаура Кришна и Гаура Нараяна
   index: "097"
   filename: 097_ontologiyapr_5-3_sridharmj_guara_krishna_i_gaura_narayana.md
+  slug: 097_ontologiyapr_5-3_sridharmj_guara_krishna_i_gaura_narayana
 ---
 
 **Шрила Шридхар Махарадж:** *Бху-шакти*: Вишнуприя, Лакшмиприя — супруги Гаура-Нараяны. Это концепция Вайкунтхи, однако Радхарани и обитатели Голоки пребывают выше этого.

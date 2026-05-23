@@ -1,5 +1,5 @@
 ---
-slug: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya
+slug: ontologiya_pr_ch_7_4_obshchestvo_sadhu_i_svyashchennye_pisaniya_osnova_duhovnogo_zdorovya
 title: Онтология ПР. Ч. 7.4. Общество садху и священные писания — основа
   духовного здоровья.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
     духовного здоровья
   index: "234"
   filename: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya.md
+  slug: 234-ontologiya-pr-ch-7-4-obshhestvo-sadhu-i-svyashhennye-pisaniya-osnova-duhovnogo-zdorovya
 ---
 
 **Преданный:** Мы происходим из низкой, очень деградированной среды, иногда нас вновь привлекают эти низменные реалии, грязные, низкие вещи. Как мы можем быстро очиститься, обрубить связь с этими низменными реалиями и достичь платформы чистоты?

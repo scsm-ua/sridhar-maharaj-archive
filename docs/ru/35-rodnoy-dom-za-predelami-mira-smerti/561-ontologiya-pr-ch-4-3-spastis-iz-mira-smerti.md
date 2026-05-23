@@ -1,5 +1,5 @@
 ---
-slug: 561-ontologiya-pr-ch-4-3-spastis-iz-mira-smerti
+slug: ontologiya_pr_ch_4_3_spastis_iz_mira_smerti
 title: Онтология ПР. Ч. 4.3. Спастись из мира смерти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -36,6 +36,7 @@ legacy:
   title: 561. Онтология ПР. Ч. 4.3. Спастись из мира смерти
   index: "561"
   filename: 561-ontologiya-pr-ch-4-3-spastis-iz-mira-smerti.md
+  slug: 561-ontologiya-pr-ch-4-3-spastis-iz-mira-smerti
 ---
 
 **Преданный:** Истребитель.

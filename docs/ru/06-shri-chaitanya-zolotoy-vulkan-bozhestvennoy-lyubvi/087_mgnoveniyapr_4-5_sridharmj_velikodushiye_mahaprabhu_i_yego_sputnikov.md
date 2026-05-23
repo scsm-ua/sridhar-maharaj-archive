@@ -1,5 +1,5 @@
 ---
-slug: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov
+slug: mgnoveniya_pr_4_5_velikodushie_mahaprabhu_i_ego_sputnikov
 title: Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 087. Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников
   index: "087"
   filename: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov.md
+  slug: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov
 ---
 
 **Шрила Шридхар Махарадж:** У вас есть вопросы?

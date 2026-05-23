@@ -1,5 +1,5 @@
 ---
-slug: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu
+slug: bez_daty_narasimha_poklonyaetsya_shri_chaytane_mahaprabhu
 title: Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 095. Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху
   index: "095"
   filename: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu.md
+  slug: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu
 ---
 
 **Преданный:** Гуру Махарадж, связан ли каким-либо образом Господь Нарасимхадев с Навадвипой? Существует ли какая-либо связь Нрисимха-пали с Навадвипой?

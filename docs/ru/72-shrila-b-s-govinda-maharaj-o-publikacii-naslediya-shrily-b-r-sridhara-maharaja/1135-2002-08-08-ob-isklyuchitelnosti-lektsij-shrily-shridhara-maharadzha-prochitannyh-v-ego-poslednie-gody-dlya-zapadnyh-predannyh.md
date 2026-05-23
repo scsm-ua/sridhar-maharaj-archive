@@ -1,5 +1,5 @@
 ---
-slug: 1135-2002-08-08-ob-isklyuchitelnosti-lektsij-shrily-shridhara-maharadzha-prochitannyh-v-ego-poslednie-gody-dlya-zapadnyh-predannyh
+slug: 2002-08-08_ob_isklyuchitelnosti_lektsiy_shrily_shridhara_maharadzha_prochitannyh_v_ego_poslednie_gody_dlya_zapadnyh_predannyh
 title: Об исключительности лекций Шрилы Шридхара Махараджа, прочитанных в его
   последние годы для западных преданных
 author: Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     прочитанных в его последние годы для западных преданных
   index: "1135"
   filename: 1135-2002-08-08-ob-isklyuchitelnosti-lektsij-shrily-shridhara-maharadzha-prochitannyh-v-ego-poslednie-gody-dlya-zapadnyh-predannyh.md
+  slug: 1135-2002-08-08-ob-isklyuchitelnosti-lektsij-shrily-shridhara-maharadzha-prochitannyh-v-ego-poslednie-gody-dlya-zapadnyh-predannyh
 ---
 
 (2002.08.08)

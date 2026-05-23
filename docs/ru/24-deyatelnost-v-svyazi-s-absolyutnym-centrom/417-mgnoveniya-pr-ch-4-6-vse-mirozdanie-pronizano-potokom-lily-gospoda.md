@@ -1,5 +1,5 @@
 ---
-slug: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda
+slug: mgnoveniya_pr_ch_4_6_vse_mirozdanie_pronizano_potokom_lily_gospoda
 title: Мгновения ПР. Ч. 4.6. Все мироздание пронизано потоком лилы Господа.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 417. Мгновения ПР. Ч. 4.6. Все мироздание пронизано потоком лилы Господа
   index: "417"
   filename: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda.md
+  slug: 417-mgnoveniya-pr-ch-4-6-vse-mirozdanie-pronizano-potokom-lily-gospoda
 ---
 
 **Преданный:** Махарадж, вы сказали, что мы все стремимся к этому.

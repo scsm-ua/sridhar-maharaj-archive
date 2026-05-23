@@ -1,5 +1,5 @@
 ---
-slug: 1075-miloserdie-vajshnava
+slug: miloserdie_vayshnava
 title: Милосердие Вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 1075. Милосердие Вайшнава
   index: "1075"
   filename: 1075-miloserdie-vajshnava.md
+  slug: 1075-miloserdie-vajshnava
 ---
 
 «Из любого положения ты можешь прийти ко Мне, и ты не будешь испытывать беспокойства откуда был то ни было, — такое заверение. — Ты — Мой».

@@ -1,5 +1,5 @@
 ---
-slug: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira
+slug: ontologiya_pr_ch_4_1_zabvenie_gospoda_edinstvennaya_opasnost_materialnogo_mira
 title: Онтология ПР. Ч. 4.1. Забвение Господа — единственная опасность
   материального мира.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
     материального мира
   index: "408"
   filename: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira.md
+  slug: 408-ontologiya-pr-ch-4-1-zabvenie-gospoda-edinstvennaya-opasnost-materialnogo-mira
 ---
 
 *«Онтология Прекрасной Реальности» (часть 4.1)*

@@ -1,5 +1,5 @@
 ---
-slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
+slug: obyasnenie_shloki_posvyashchennoy_gadadharu_panditu
 title: Объяснение шлоки, посвященной Гададхару Пандиту
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 1102. Объяснение шлоки, посвященной Гададхару Пандиту
   index: "1102"
   filename: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu.md
+  slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
 ---
 
 **Преданный:** Гуру Махарадж, у меня вопрос на другую тему. Если кто-то принимает *кшетра-санньясу*, это как правило можно делать в старости? Ведь *санньяси* должен проповедовать. *Кшетра-санньясу* обычно принимают в старости?

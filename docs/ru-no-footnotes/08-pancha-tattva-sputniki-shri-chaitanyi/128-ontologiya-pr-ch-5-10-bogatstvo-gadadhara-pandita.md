@@ -1,5 +1,5 @@
 ---
-slug: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita
+slug: ontologiya_pr_ch_5_10_bogatstvo_gadadhara_pandita
 title: Онтология ПР. Ч. 5.10. Богатство Гададхара Пандита.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 128. Онтология ПР. Ч. 5.10. Богатство Гададхара Пандита
   index: "128"
   filename: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita.md
+  slug: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita
 ---
 
 *(«Онтология Прекрасной Реальности», часть 5.10)*

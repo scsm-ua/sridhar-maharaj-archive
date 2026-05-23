@@ -1,5 +1,5 @@
 ---
-slug: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov
+slug: ontologiya_pr_ch_7_5_propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vayshnavov
 title: Онтология ПР. Ч. 7.5. Проповедники рискуют собой под руководством
   квалифицированных вайшнавов.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
     квалифицированных вайшнавов
   index: "369"
   filename: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov.md
+  slug: 369-ontologiya-pr-ch-7-5-propovedniki-riskuyut-soboj-pod-rukovodstvom-kvalifitsirovannyh-vajshnavov
 ---
 
 *«Онтология Прекрасной Реальности», (часть 7.5)*

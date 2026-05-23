@@ -1,5 +1,5 @@
 ---
-slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
+slug: ontologiya_pr_ch_5_4_tantricheskaya_i_vayshnavskaya_diksha
 title: Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 325.  Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
   index: "325"
   filename: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha.md
+  slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
 ---
 
 «Онтология Прекрасной Реальности» (часть 5.4)

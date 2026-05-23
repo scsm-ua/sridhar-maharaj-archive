@@ -1,5 +1,5 @@
 ---
-slug: 1147-gayatri
+slug: gayatri
 title: Гаятри
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -25,6 +25,7 @@ legacy:
   title: 1147. Гаятри
   index: "1147"
   filename: 1147-gayatri.md
+  slug: 1147-gayatri
 ---
 
     [бхвадес тат савитур варенйа

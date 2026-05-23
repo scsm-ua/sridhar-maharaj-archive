@@ -1,5 +1,5 @@
 ---
-slug: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy
+slug: ontologiya_pancha-tattvy
 title: Онтология панча-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -37,6 +37,7 @@ legacy:
   index: "122"
   comment: (не даты)
   filename: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy.md
+  slug: 122-2012-07-27-2-ne-daty-ontologiya-pancha-tattvy
 ---
 
 **Ученик:** Гуру Махарадж, не могли бы вы объяснить онтологические различия между ипостасями Панча-таттвы?

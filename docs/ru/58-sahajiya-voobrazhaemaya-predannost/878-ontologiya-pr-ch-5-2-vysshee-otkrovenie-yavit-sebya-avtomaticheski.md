@@ -1,5 +1,5 @@
 ---
-slug: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski
+slug: ontologiya_pr_ch_5_2_vysshee_otkrovenie_yavit_sebya_avtomaticheski
 title: Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -30,6 +30,7 @@ legacy:
   title: 878. Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически
   index: "878"
   filename: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski.md
+  slug: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski
 ---
 
 Пундарик Видьянидхи. Его особенность была такой: он посещал Гангу по ночам, поскольку ему не нравилось, что днем очень многие люди купаются в Ганге и иногда плюют в Гангу и тому подобное, оскверняют чистую воду Ганги, оскорбляя тем самым Гангу Деви. Он не в силах был терпеть это, поэтому днем не приходил на берег Ганги. Только по ночам он обрызгивал свою голову каплями воды Ганги.

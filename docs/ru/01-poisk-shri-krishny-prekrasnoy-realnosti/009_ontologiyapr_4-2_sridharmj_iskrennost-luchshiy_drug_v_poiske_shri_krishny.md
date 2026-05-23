@@ -1,5 +1,5 @@
 ---
-slug: 009_ontologiyapr_4-2_sridharmj_iskrennost-luchshiy_drug_v_poiske_shri_krishny
+slug: ontologiya_pr_chast_4_2_iskrennost_luchshiy_drug_v_poiske_shri_krishny
 record_id: null
 title: Онтология ПР. Часть 4.2. Искренность — лучший друг в поиске Шри Кришны.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -39,6 +39,7 @@ legacy:
   title: 009. Онтология ПР. Часть 4.2. Искренность — лучший друг в поиске Шри Кришны
   index: "009"
   filename: 009_ontologiyapr_4-2_sridharmj_iskrennost-luchshiy_drug_v_poiske_shri_krishny.md
+  slug: 009_ontologiyapr_4-2_sridharmj_iskrennost-luchshiy_drug_v_poiske_shri_krishny
 ---
 
 Простота, не двуличие, не дипломатия. Простота может быть только у Кришны. Мы нуждаемся в искренней жажде, в искреннем желании, не дипломатии.

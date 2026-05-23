@@ -1,5 +1,5 @@
 ---
-slug: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego
+slug: lish_po_vole_krishny_my_mozhem_poznat_ego
 title: Лишь по воле Кришны мы можем познать Его
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -22,6 +22,7 @@ legacy:
   index: "205"
   comment: (нет даты)
   filename: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego.md
+  slug: 205-2012-07-25-14-net-daty-lish-po-vole-krishny-my-mozhem-poznat-ego
 ---
 
     йатха̄ винимайо йатра три-сарго ’мр̣ша̄

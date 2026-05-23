@@ -1,5 +1,5 @@
 ---
-slug: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha
+slug: 2007-04-29_shrila_b_s_govinda_maharadzh_o_publikatsii_naslediya_shrily_b_r_shridhara_maharadzha
 title: Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
   Махараджа.
 author: Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     Б.Р. Шридхара Махараджа
   index: "1136"
   filename: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha.md
+  slug: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha
 ---
 
 (2007.04.29)

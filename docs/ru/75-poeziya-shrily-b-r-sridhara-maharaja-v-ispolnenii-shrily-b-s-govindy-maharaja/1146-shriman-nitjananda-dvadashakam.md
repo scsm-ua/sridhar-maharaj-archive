@@ -1,5 +1,5 @@
 ---
-slug: 1146-shriman-nitjananda-dvadashakam
+slug: shriman_nityananda_dvadashakam
 title: Шриман Нитйананда Двадашакам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -25,6 +25,7 @@ legacy:
   title: 1146. Шриман Нитйананда Двадашакам
   index: "1146"
   filename: 1146-shriman-nitjananda-dvadashakam.md
+  slug: 1146-shriman-nitjananda-dvadashakam
 ---
 
 **(Двенадцать молитв, раскрывающих онтологическое положение и игры Господа Нитьянанды, составленных Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем)**

@@ -1,5 +1,5 @@
 ---
-slug: 1017-predavshayasya-dusha-ne-mozhet-sovershit-oskorblenij
+slug: predavshayasya_dusha_ne_mozhet_sovershit_oskorbleniy
 title: Предавшаяся душа не может совершить оскорблений
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 1017. Предавшаяся душа не может совершить оскорблений
   index: "1017"
   filename: 1017-predavshayasya-dusha-ne-mozhet-sovershit-oskorblenij.md
+  slug: 1017-predavshayasya-dusha-ne-mozhet-sovershit-oskorblenij
 ---
 
 [Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай-Гаура Харибол, (Смеется) Харе Кришна, Харе Кришна]

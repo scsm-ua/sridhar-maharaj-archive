@@ -1,5 +1,5 @@
 ---
-slug: 589-svoboda-voli-dushi
+slug: svoboda_voli_dushi
 title: Свобода воли души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -26,6 +26,7 @@ legacy:
   title: 589. Свобода воли души
   index: "589"
   filename: 589-svoboda-voli-dushi.md
+  slug: 589-svoboda-voli-dushi
 ---
 
     на картр̣твам̇ на карма̄н̣и

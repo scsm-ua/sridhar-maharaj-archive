@@ -1,5 +1,5 @@
 ---
-slug: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29
+slug: ontologiya_pr_ch_5_8_borba_predannosti_s_materializmom_shrimad_bhagavatam_11_20_27-29
 title: Онтология ПР. Ч. 5.8. Борьба преданности с материализмом. «Шримад
   Бхагаватам» 11.20.27-29.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
     Бхагаватам» 11.20.27-29
   index: "702"
   filename: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29.md
+  slug: 702-ontologiya-pr-ch-5-8-borba-predannosti-s-materializmom-shrimad-bhagavatam-11-20-27-29
 ---
 
 *Онтология Прекрасной Реальности (часть 5.8)*

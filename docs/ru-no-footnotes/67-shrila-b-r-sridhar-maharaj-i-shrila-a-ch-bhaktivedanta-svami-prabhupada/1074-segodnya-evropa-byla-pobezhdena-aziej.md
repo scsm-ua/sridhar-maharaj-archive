@@ -1,5 +1,5 @@
 ---
-slug: 1074-segodnya-evropa-byla-pobezhdena-aziej
+slug: segodnya_evropa_byla_pobezhdena_aziey
 title: Сегодня Европа была побеждена Азией
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
@@ -24,6 +24,7 @@ legacy:
   title: 1074. Сегодня Европа была побеждена Азией
   index: "1074"
   filename: 1074-segodnya-evropa-byla-pobezhdena-aziej.md
+  slug: 1074-segodnya-evropa-byla-pobezhdena-aziej
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
