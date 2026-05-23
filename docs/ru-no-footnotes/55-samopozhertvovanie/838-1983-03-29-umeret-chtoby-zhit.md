@@ -1,6 +1,7 @@
 ---
-slug: 1983-03-29_umeret_chtoby_zhit
+slug: 1983-03-29-v2_umeret_chtoby_zhit
 record_id: 1983.03.29
+variant: 2
 title: Умереть, чтобы жить
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru

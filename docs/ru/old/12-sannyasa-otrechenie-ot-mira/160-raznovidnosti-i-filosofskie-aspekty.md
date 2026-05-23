@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-13-b_raznovidnosti_i_filosofskie_aspekty_sannyasa-ashrama
+slug: 160-raznovidnosti-i-filosofskie-aspekty
 record_id: 1983.02.13.B
 title: Разновидности и философские аспекты санньяса-ашрама
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 160. Разновидности и философские аспекты санньяса-ашрама. 1983.02.13.B
   index: "160"
   filename: 160-raznovidnosti-i-filosofskie-aspekty.md
-  slug: 160-raznovidnosti-i-filosofskie-aspekty
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 1981-02-28-d3_chto_znachit_vyrazhenie_subektivnaya_evolyutsiya
+slug: 200-chto-znachit-vyrazhenie-subektivnaya-e
 record_id: 1981.02.28.D3
 title: Что значит выражение «субъективная эволюция»?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 200. Что значит выражение «субъективная эволюция»? 1981.02.28.D3
   index: "200"
   filename: 200-chto-znachit-vyrazhenie-subektivnaya-e.md
-  slug: 200-chto-znachit-vyrazhenie-subektivnaya-e
 ---
 
 **Преданный:** Что такое субъективная эволюция и объективная эволюция?

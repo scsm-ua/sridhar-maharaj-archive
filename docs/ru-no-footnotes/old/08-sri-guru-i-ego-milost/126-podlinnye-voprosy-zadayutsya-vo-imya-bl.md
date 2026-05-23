@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-03-a1_podlinnye_voprosy_zadayutsya_vo_imya_blaga_vsego_mira
+slug: 126-podlinnye-voprosy-zadayutsya-vo-imya-bl
 record_id: 1981.03.03.A1
 title: Подлинные вопросы задаются во имя блага всего мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 126. Подлинные вопросы задаются во имя блага всего мира. 1981.03.03.A1
   index: "126"
   filename: 126-podlinnye-voprosy-zadayutsya-vo-imya-bl.md
-  slug: 126-podlinnye-voprosy-zadayutsya-vo-imya-bl
 ---
 
 *#00:00:00#*

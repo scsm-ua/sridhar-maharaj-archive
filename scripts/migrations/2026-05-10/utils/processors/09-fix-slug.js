@@ -44,19 +44,20 @@ function generateSlug(meta) {
   if (!recordId) return null;
 
   const title = (meta.legacy && meta.legacy.title_from_filename) || meta.title;
-  const idPart = recordId.toLowerCase().replace(/\./g, '-');
+  const idBase = recordId.toLowerCase().replace(/\./g, '-');
+  const idPart = meta.variant ? `${idBase}-v${toSlugPart(String(meta.variant))}` : idBase;
   const titlePart = title ? limitTitleSlug(toSlugPart(title)) : '';
   return titlePart ? `${idPart}_${titlePart}` : idPart;
 }
 
-function isFullFolder(filename) {
+function isSkipFolder(filename) {
   const parts = filename.split(path.sep);
-  return parts.includes('_full');
+  return parts.includes('_full') || parts.includes('old');
 }
 
 function fixSlug(doc) {
   if (!doc.meta || !doc.filename) return;
-  if (isFullFolder(doc.filename)) return;
+  if (isSkipFolder(doc.filename)) return;
 
   const newSlug = generateSlug(doc.meta);
   if (!newSlug) return;

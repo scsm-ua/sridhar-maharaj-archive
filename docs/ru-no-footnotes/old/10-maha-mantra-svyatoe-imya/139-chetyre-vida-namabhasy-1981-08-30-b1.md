@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-30-b1_chetyre_vida_namabhasy
+slug: 139-chetyre-vida-namabhasy-1981-08-30-b1
 record_id: 1981.08.30.B1
 title: Четыре вида намабхасы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 139. Четыре вида намабхасы. 1981.08.30.B1
   index: "139"
   filename: 139-chetyre-vida-namabhasy-1981-08-30-b1.md
-  slug: 139-chetyre-vida-namabhasy-1981-08-30-b1
 ---
 
 *#00:00:00#*

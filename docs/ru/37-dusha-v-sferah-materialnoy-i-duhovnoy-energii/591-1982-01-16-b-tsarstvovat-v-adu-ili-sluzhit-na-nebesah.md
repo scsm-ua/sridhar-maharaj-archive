@@ -1,6 +1,7 @@
 ---
-slug: 1982-01-16-b_tsarstvovat_v_adu_ili_sluzhit_na_nebesah
+slug: 1982-01-16-b-v2_tsarstvovat_v_adu_ili_sluzhit_na_nebesah
 record_id: 1982.01.16.B
+variant: 2
 title: Царствовать в аду или служить на небесах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru

@@ -1,5 +1,5 @@
 ---
-slug: 1985-11-07_proslavlenie_shrily_b_s_govindy_maharadzha
+slug: 493-proslavlenie-shrily-b-s-govindy-mahar
 record_id: 1985.11.07
 title: Прославление Шрилы Б.С. Говинды Махараджа.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 493. Прославление Шрилы Б.С. Говинды Махараджа. 1985.11.07
   index: "493"
   filename: 493-proslavlenie-shrily-b-s-govindy-mahar.md
-  slug: 493-proslavlenie-shrily-b-s-govindy-mahar
 ---
 
 *#00:00:00#*

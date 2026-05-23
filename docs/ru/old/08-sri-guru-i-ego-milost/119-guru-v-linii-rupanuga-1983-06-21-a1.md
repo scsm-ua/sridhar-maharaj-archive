@@ -1,5 +1,5 @@
 ---
-slug: 1983-06-21-a1_guru_v_linii_rupanuga
+slug: 119-guru-v-linii-rupanuga-1983-06-21-a1
 record_id: 1983.06.21.A1
 title: Гуру в линии Рупануга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 119. Гуру в линии Рупануга. 1983.06.21.A1
   index: "119"
   filename: 119-guru-v-linii-rupanuga-1983-06-21-a1.md
-  slug: 119-guru-v-linii-rupanuga-1983-06-21-a1
 ---
 
 *#00:00:00#*

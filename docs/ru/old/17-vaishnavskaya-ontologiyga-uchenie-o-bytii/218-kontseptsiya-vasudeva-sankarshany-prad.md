@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-04-a1_kontseptsiya_vasudeva_sankarshany_pradyumny_i_aniruddhi
+slug: 218-kontseptsiya-vasudeva-sankarshany-prad
 record_id: 1982.01.04.A1
 title: Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 218. Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи. 1982.01.04.A1
   index: "218"
   filename: 218-kontseptsiya-vasudeva-sankarshany-prad.md
-  slug: 218-kontseptsiya-vasudeva-sankarshany-prad
 ---
 
 *#00:00:00#*

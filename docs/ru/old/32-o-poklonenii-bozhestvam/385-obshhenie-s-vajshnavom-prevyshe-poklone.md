@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-22-c1_obshchenie_s_vayshnavom_prevyshe_pokloneniya_bozhestvu
+slug: 385-obshhenie-s-vajshnavom-prevyshe-poklone
 record_id: 1983.01.22.C1
 title: Общение с вайшнавом превыше поклонения Божеству
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,7 +28,6 @@ legacy:
   title: 385. Общение с вайшнавом превыше поклонения Божеству. 1983.01.22.C1
   index: "385"
   filename: 385-obshhenie-s-vajshnavom-prevyshe-poklone.md
-  slug: 385-obshhenie-s-vajshnavom-prevyshe-poklone
 ---
 
 **Преданный:** На Западе Свами Махарадж дал нам поклонение Божествам, но величественным, пышным образом.

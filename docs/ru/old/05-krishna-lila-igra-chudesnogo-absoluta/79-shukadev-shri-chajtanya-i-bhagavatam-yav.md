@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-28-a_shukadev_shri_chaytanya_i_bhagavatam_yavlyayut_chistotu_krishna-lily
+slug: 79-shukadev-shri-chajtanya-i-bhagavatam-yav
 record_id: 1982.01.28.A
 title: Шукадев, Шри Чайтанья и Бхагаватам являют чистоту Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,7 +27,6 @@ legacy:
     1982.01.28.A
   index: "79"
   filename: 79-shukadev-shri-chajtanya-i-bhagavatam-yav.md
-  slug: 79-shukadev-shri-chajtanya-i-bhagavatam-yav
 ---
 
 *#00:00:11#*

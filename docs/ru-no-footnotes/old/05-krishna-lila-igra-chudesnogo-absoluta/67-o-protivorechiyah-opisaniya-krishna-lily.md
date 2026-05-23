@@ -1,5 +1,5 @@
 ---
-slug: 1987-00-00-b4_o_protivorechiyah_opisaniya_krishna-lily_v_trudah_gosvami
+slug: 67-o-protivorechiyah-opisaniya-krishna-lily
 record_id: 1987.00.00.B4
 title: О противоречиях описания кришна-лилы в трудах Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 67. О противоречиях описания кришна-лилы в трудах Госвами. 1987.00.00.B4
   index: "67"
   filename: 67-o-protivorechiyah-opisaniya-krishna-lily.md
-  slug: 67-o-protivorechiyah-opisaniya-krishna-lily
 ---
 
 Адхокшаджа. Он адхокшаджа. В Шримад Бхагаватам излюбленный термин, встречаемый на страницах Бхагаватам – «адхокшаджа». Он всегда находится в положении, превосходящем твое.

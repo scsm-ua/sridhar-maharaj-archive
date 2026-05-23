@@ -1,5 +1,5 @@
 ---
-slug: 1984-01-15-b2_mgnovenie_obshcheniya_s_vayshnavom_daruet_vse_sovershenstvo
+slug: 372-mgnovenie-obshheniya-s-vajshnavom-darue
 record_id: 1984.01.15.B2
 title: «Мгновение общения с вайшнавом дарует все совершенство»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 372. «Мгновение общения с вайшнавом дарует все совершенство». 1984.01.15.B2
   index: "372"
   filename: 372-mgnovenie-obshheniya-s-vajshnavom-darue.md
-  slug: 372-mgnovenie-obshheniya-s-vajshnavom-darue
 ---
 
 **Ученик:** Махарадж, в шастре сказано, что одного мгновения общения с чистым преданным достаточно, чтобы достичь высочайшей стадии.

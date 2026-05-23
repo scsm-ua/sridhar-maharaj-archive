@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-07-a1_varnashrama-dharma_i_bhagavata-dharma
+slug: 181-varnashrama-dharma-i-bhagavata-dharm
 record_id: 1983.01.07.A1
 title: Варнашрама-дхарма и бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -32,7 +32,6 @@ legacy:
   title: 181. Варнашрама-дхарма и бхагавата-дхарма. 1983.01.07.A1
   index: "181"
   filename: 181-varnashrama-dharma-i-bhagavata-dharm.md
-  slug: 181-varnashrama-dharma-i-bhagavata-dharm
 ---
 
 *#00:00:00#*

@@ -1,6 +1,7 @@
 ---
-slug: 1983-11-14-a-b1_oblozhka_i_kartinki_vnutri_knig_shchsm_pravilnyy_aktsent_pri_publikatsii_biografiy_vayshnavov
+slug: 1983-11-14-a-b1-v2_oblozhka_i_kartinki_vnutri_knig_shchsm_pravilnyy_aktsent_pri_publikatsii_biografiy_vayshnavov
 record_id: 1983.11.14.A.B1
+variant: 2
 title: Обложка и картинки внутри книг ШЧСМ. Правильный акцент при публикации
   биографий вайшнавов.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж

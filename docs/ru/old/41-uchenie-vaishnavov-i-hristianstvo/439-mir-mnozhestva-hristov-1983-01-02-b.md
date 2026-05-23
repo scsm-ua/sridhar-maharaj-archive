@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-02-b_mir_mnozhestva_hristov
+slug: 439-mir-mnozhestva-hristov-1983-01-02-b
 record_id: 1983.01.02.B
 title: Мир множества Христов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 439. Мир множества Христов. 1983.01.02.B
   index: "439"
   filename: 439-mir-mnozhestva-hristov-1983-01-02-b.md
-  slug: 439-mir-mnozhestva-hristov-1983-01-02-b
 ---
 
 *#00:00:00#*

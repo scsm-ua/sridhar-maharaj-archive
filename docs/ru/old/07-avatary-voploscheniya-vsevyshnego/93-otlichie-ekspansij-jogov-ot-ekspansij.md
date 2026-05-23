@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-10-b2_otlichie_ekspansiy_yogov_ot_ekspansiy_krishny
+slug: 93-otlichie-ekspansij-jogov-ot-ekspansij
 record_id: 1983.01.10.B2
 title: Отличие экспансий йогов от экспансий Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 93. Отличие экспансий йогов от экспансий Кришны. 1983.01.10.B2
   index: "93"
   filename: 93-otlichie-ekspansij-jogov-ot-ekspansij.md
-  slug: 93-otlichie-ekspansij-jogov-ot-ekspansij
 ---
 
 **Преданный:** Махарадж, этот автор очень популярный на Западе.

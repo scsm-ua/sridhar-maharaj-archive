@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-11-a2_pochemu_shukadev_ne_upomyanul_v_bhagavatam_imya_shrimati_radharani
+slug: 267-pochemu-shukadev-ne-upomyanul-v-bhagava
 record_id: 1983.02.11.A2
 title: Почему Шукадев не упомянул в «Бхагаватам» имя Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,7 +29,6 @@ legacy:
     1983.02.11.A2
   index: "267"
   filename: 267-pochemu-shukadev-ne-upomyanul-v-bhagava.md
-  slug: 267-pochemu-shukadev-ne-upomyanul-v-bhagava
 ---
 
 Вся заслуга принадлежит Гуру, который раздает миру истину, одаривает миру истину и полнота заслуги. Гуру — означает, Баладев. А в мадхура-расе — Радхарани. Ей принадлежит вся заслуга, Она дает Кришну миру. Кришна принадлежит Ей, Он Ее собственность.

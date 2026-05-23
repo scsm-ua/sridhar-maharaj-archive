@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-06-b_ontologiya_lyubvi
+slug: 81-ontologiya-lyubvi-1983-02-06-b
 record_id: 1983.02.06.B
 title: Онтология любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 81. Онтология любви. 1983.02.06.B
   index: "81"
   filename: 81-ontologiya-lyubvi-1983-02-06-b.md
-  slug: 81-ontologiya-lyubvi-1983-02-06-b
 ---
 
 *#00:00:00#*

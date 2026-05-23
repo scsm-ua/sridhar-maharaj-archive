@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-05-a2_absolyut_pokoryaetsya_lyubvi
+slug: 43-absolyut-pokoryaetsya-lyubvi-1983-01-05-a2
 record_id: 1983.01.05.A2
 title: Абсолют покоряется любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 43. Абсолют покоряется любви. 1983.01.05.A2
   index: "43"
   filename: 43-absolyut-pokoryaetsya-lyubvi-1983-01-05-a2.md
-  slug: 43-absolyut-pokoryaetsya-lyubvi-1983-01-05-a2
 ---
 
 *#00:00:00#*

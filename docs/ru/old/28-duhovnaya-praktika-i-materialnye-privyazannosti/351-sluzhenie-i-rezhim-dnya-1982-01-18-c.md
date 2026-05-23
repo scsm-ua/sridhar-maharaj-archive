@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-18-c_sluzhenie_i_rezhim_dnya
+slug: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c
 record_id: 1982.01.18.C
 title: Служение и режим дня
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 351. Служение и режим дня. 1982.01.18.C
   index: "351"
   filename: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c.md
-  slug: 351-sluzhenie-i-rezhim-dnya-1982-01-18-c
 ---
 
 *#00:00:04#*

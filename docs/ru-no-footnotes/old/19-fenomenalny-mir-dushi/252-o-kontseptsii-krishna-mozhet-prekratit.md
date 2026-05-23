@@ -1,5 +1,5 @@
 ---
-slug: 1980-07-11-a6_o_kontseptsii_krishna_mozhet_prekratit_sushchestvovanie_dzhivy
+slug: 252-o-kontseptsii-krishna-mozhet-prekratit
 record_id: 1980.07.11.A6
 title: О концепции «Кришна может прекратить существование дживы»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 252. О концепции «Кришна может прекратить существование дживы». 1980.07.11.A6
   index: "252"
   filename: 252-o-kontseptsii-krishna-mozhet-prekratit.md
-  slug: 252-o-kontseptsii-krishna-mozhet-prekratit
 ---
 
 **Преданный:** Однажды Бхактивинод Тхакур сказал: «Если Кришна пожелает, то он может прекратить существование дживы.

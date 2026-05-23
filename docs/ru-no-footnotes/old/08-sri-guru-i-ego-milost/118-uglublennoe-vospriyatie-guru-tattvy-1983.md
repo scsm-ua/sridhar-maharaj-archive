@@ -1,5 +1,5 @@
 ---
-slug: 1983-06-10_uglublennoe_vospriyatie_guru-tattvy
+slug: 118-uglublennoe-vospriyatie-guru-tattvy-1983
 record_id: 1983.06.10
 title: Углубленное восприятие гуру-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -36,7 +36,6 @@ legacy:
   title: 118. Углубленное восприятие гуру-таттвы. 1983.06.10
   index: "118"
   filename: 118-uglublennoe-vospriyatie-guru-tattvy-1983.md
-  slug: 118-uglublennoe-vospriyatie-guru-tattvy-1983
 ---
 
 *#00:00:00#*

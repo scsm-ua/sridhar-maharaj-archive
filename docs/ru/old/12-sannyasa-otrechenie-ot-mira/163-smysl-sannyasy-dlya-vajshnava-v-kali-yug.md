@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-04-b2_smysl_sannyasy_dlya_vayshnava_v_kali-yugu
+slug: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug
 record_id: 1982.01.04.B2
 title: Смысл санньясы для вайшнава в Кали-югу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 163. Смысл санньясы для вайшнава в Кали-югу. 1982.01.04.B2
   index: "163"
   filename: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug.md
-  slug: 163-smysl-sannyasy-dlya-vajshnava-v-kali-yug
 ---
 
 **Шридхар Махарадж:** Девять двадцать пять. Есть ли еще вопросы?

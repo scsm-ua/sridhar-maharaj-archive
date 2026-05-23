@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-20-b2_svyaz_s_krishnoy_istochnik_vseh_sovershenstv
+slug: 54-svyaz-s-krishnoj-istochnik-vseh-soversh
 record_id: 1982.01.20.B2
 title: Связь с Кришной — источник всех совершенств
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 54. Связь с Кришной — источник всех совершенств. 1982.01.20.B2
   index: "54"
   filename: 54-svyaz-s-krishnoj-istochnik-vseh-soversh.md
-  slug: 54-svyaz-s-krishnoj-istochnik-vseh-soversh
 ---
 
 Холодно. То я чувствовал жару, теперь чувствую холод. Посмотрите, каково нестабильное положение этого материального мира. Невозможно ни на что полагаться, уповать. Сегодня одно, завтра другое. И здесь мы должны начать. Находясь в таком неопределенном положении.

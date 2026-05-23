@@ -1,5 +1,5 @@
 ---
-slug: 1983-03-31-b3_izvlech_naibolshuyu_vygodu_iz_durnoy_sdelki
+slug: 165-izvlech-naibolshuyu-vygodu-iz-durnoj
 record_id: 1983.03.31.B3
 title: Извлечь наибольшую выгоду из дурной сделки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 165. Извлечь наибольшую выгоду из дурной сделки. 1983.03.31.B3
   index: "165"
   filename: 165-izvlech-naibolshuyu-vygodu-iz-durnoj.md
-  slug: 165-izvlech-naibolshuyu-vygodu-iz-durnoj
 ---
 
 **Ученик:** Я думаю, это очень хорошая идея, желание среди преданных, они чувствуют потребность.

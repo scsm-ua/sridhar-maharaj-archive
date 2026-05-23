@@ -1,6 +1,7 @@
 ---
-slug: 1983-03-28_gosvami_maharadzh_prezentuet_shridharu_maharadzhu_knigu_poisk_shri_krishny
+slug: 1983-03-28-v2_gosvami_maharadzh_prezentuet_shridharu_maharadzhu_knigu_poisk_shri_krishny
 record_id: 1983.03.28
+variant: 2
 title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru

@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-09-c6_o_rasprostranenii_lektsiy_i_knig_shrily_shridhara_maharadzha
+slug: 515-o-rasprostranenii-lektsij-i-knig-shril
 record_id: 1983.05.09.C6
 title: О распространении лекций и книг Шрилы Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 515. О распространении лекций и книг Шрилы Шридхара Махараджа. 1983.05.09.С6
   index: "515"
   filename: 515-o-rasprostranenii-lektsij-i-knig-shril.md
-  slug: 515-o-rasprostranenii-lektsij-i-knig-shril
 ---
 
 **Преданный:** Я читал ваши беседы, слушал вашу проповедь. Как вы хотите, каково ваше желание, чтобы ваша проповедь бы доходила до масс, широких масс, или была обращена к некоему узкому кругу, поскольку вряд ли массы могут понять, оценить по достоинству.

@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-03-b7_odnovremennoe_prisutstvie_obitateley_duhovnogo_mira
+slug: 74-odnovremennoe-prisutstvie-obitatel
 record_id: 1981.03.03.B7
 title: Одновременное присутствие обитателей духовного мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 74. Одновременное присутствие обитателей духовного мира. 1981.03.03.B7
   index: "74"
   filename: 74-odnovremennoe-prisutstvie-obitatel.md
-  slug: 74-odnovremennoe-prisutstvie-obitatel
 ---
 
 **Ученик:** Одни и те же личности из Кришна-лилы пришли в других формах, образах в Гоура-лиле. Мы поняли так, что Рамананда Рай является Вишакхой.

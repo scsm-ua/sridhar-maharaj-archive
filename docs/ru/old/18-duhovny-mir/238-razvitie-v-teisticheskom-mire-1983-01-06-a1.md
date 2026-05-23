@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-06-a1_razvitie_v_teisticheskom_mire
+slug: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1
 record_id: 1983.01.06.A1
 title: Развитие в теистическом мире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,7 +28,6 @@ legacy:
   title: 238. Развитие в теистическом мире. 1983.01.06.A1
   index: "238"
   filename: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1.md
-  slug: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1
 ---
 
 *#00:00:00#*

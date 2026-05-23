@@ -1,5 +1,5 @@
 ---
-slug: 1985-07-03_gospoda_mozhno_postich_tolko_po_ego_milosti
+slug: 58-gospoda-mozhno-postich-tolko-po-ego-m
 record_id: 1985.07.03
 title: Господа можно постичь только по Его милости
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 58. Господа можно постичь только по Его милости. 1985.07.03
   index: "58"
   filename: 58-gospoda-mozhno-postich-tolko-po-ego-m.md
-  slug: 58-gospoda-mozhno-postich-tolko-po-ego-m
 ---
 
 **Ученик:** Гуру Махарадж, как мы можем узнать, какова воля Господа? Что зависит от нас, что наша карма, что майя и что наша свобода?

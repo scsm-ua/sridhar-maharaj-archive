@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-22-c2_o_kvalifikatsii_dlya_prinyatiya_sannyasy
+slug: 161-o-kvalifikatsii-dlya-prinyatiya-sannyas
 record_id: 1983.01.22.C2
 title: О квалификации для принятия санньясы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 161. О квалификации для принятия санньясы. 1983.01.22.C2
   index: "161"
   filename: 161-o-kvalifikatsii-dlya-prinyatiya-sannyas.md
-  slug: 161-o-kvalifikatsii-dlya-prinyatiya-sannyas
 ---
 
 *#00:00:00#*

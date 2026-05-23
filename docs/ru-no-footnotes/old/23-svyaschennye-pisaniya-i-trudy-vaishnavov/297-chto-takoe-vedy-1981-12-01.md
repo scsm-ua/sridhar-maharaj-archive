@@ -1,5 +1,5 @@
 ---
-slug: 1981-12-01_chto_takoe_vedy
+slug: 297-chto-takoe-vedy-1981-12-01
 record_id: 1981.12.01
 title: Что такое Веды?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 297. Что такое Веды? 1981.12.01
   index: "297"
   filename: 297-chto-takoe-vedy-1981-12-01.md
-  slug: 297-chto-takoe-vedy-1981-12-01
 ---
 
 *#00:00:00#*

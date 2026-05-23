@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-13-a1_phalgu-vayragya_i_yukta-vayragya
+slug: 448-phalgu-vajragya-i-yukta-vajragya-1983-02-13-a1
 record_id: 1983.02.13.A1
 title: Пхалгу-вайрагья и юкта-вайрагья
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 448. Пхалгу-вайрагья и юкта-вайрагья. 1983.02.13.A1
   index: "448"
   filename: 448-phalgu-vajragya-i-yukta-vajragya-1983-02-13-a1.md
-  slug: 448-phalgu-vajragya-i-yukta-vajragya-1983-02-13-a1
 ---
 
 *#00:00:00#*

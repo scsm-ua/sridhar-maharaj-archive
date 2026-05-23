@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-10-b_gradatsiya_duhovnyh_uchiteley
+slug: 111-gradatsiya-duhovnyh-uchitelej-1983-05-10-b
 record_id: 1983.05.10.B
 title: Градация духовных учителей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 111. Градация духовных учителей. 1983.05.10.B
   index: "111"
   filename: 111-gradatsiya-duhovnyh-uchitelej-1983-05-10-b.md
-  slug: 111-gradatsiya-duhovnyh-uchitelej-1983-05-10-b
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-17-b1_protivorechiya_v_opisaniyah_chaytanya-charitamrity_i_chaytanya-bhagavaty
+slug: 307-protivorechiya-v-opisaniyah-chajtanya-ch
 record_id: 1982.01.17.B1
 title: Противоречия в описаниях «Чайтанья-чаритамриты» и «Чайтанья-бхагаваты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,7 +27,6 @@ legacy:
     «Чайтанья-бхагаваты». 1982.01.17.B1
   index: "307"
   filename: 307-protivorechiya-v-opisaniyah-chajtanya-ch.md
-  slug: 307-protivorechiya-v-opisaniyah-chajtanya-ch
 ---
 
 На следующий день (это будет завтра утром) Шачидеви пришла в Шантипур. И на протяжении десяти дней Махапрабху жил там и удовлетворил Свою мать и остальных друзей. Затем Он отправился в Пури. И здесь мы находим различие в описаниях «Чайтанья-Бхагаваты» и «Чайтанья-чаритамриты».

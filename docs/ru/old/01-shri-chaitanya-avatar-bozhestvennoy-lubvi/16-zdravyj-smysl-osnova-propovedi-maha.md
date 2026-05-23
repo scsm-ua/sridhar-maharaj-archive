@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-26-c4_zdravyy_smysl_osnova_propovedi_mahaprabhu
+slug: 16-zdravyj-smysl-osnova-propovedi-maha
 record_id: 1983.01.26.C4
 title: Здравый смысл — основа проповеди Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 16. Здравый смысл — основа проповеди Махапрабху. 1983.01.26.C4
   index: "16"
   filename: 16-zdravyj-smysl-osnova-propovedi-maha.md
-  slug: 16-zdravyj-smysl-osnova-propovedi-maha
 ---
 
 *#00:00:00#*

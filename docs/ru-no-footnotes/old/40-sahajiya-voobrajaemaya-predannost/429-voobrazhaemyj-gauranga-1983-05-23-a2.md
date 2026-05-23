@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-23-a2_voobrazhaemyy_gauranga
+slug: 429-voobrazhaemyj-gauranga-1983-05-23-a2
 record_id: 1983.05.23.A2
 title: Воображаемый Гауранга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 429. Воображаемый Гауранга. 1983.05.23.A2
   index: "429"
   filename: 429-voobrazhaemyj-gauranga-1983-05-23-a2.md
-  slug: 429-voobrazhaemyj-gauranga-1983-05-23-a2
 ---
 
 *#00:00:00#*

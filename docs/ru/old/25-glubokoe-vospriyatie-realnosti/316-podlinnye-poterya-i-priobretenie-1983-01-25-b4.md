@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-25-b4_podlinnye_poterya_i_priobretenie
+slug: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4
 record_id: 1983.01.25.B4
 title: Подлинные потеря и приобретение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 316. Подлинные потеря и приобретение. 1983.01.25.B4
   index: "316"
   filename: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4.md
-  slug: 316-podlinnye-poterya-i-priobretenie-1983-01-25-b4
 ---
 
 **Преданный:** Временами мы говорим: «Нет риска — нет выигрыша».

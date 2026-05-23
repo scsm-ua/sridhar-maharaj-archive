@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-20-b3_razvitie_very_i_probuzhdenie_serdtsa
+slug: 398-razvitie-very-i-probuzhdenie-serdtsa-1982-01-2
 record_id: 1982.01.20.B3
 title: Развитие веры и пробуждение сердца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 398. Развитие веры и пробуждение сердца. 1982.01.20.B3
   index: "398"
   filename: 398-razvitie-very-i-probuzhdenie-serdtsa-1982-01-2.md
-  slug: 398-razvitie-very-i-probuzhdenie-serdtsa-1982-01-2
 ---
 
 **Слушатель:** Махарадж, Вы сказали, что Махапрабху поклонялся Говардхана Шиле. Почему же мы видим, что в Гаудийа-вайшнавских храмах есть Шалаграма Шила и им поклоняются там?

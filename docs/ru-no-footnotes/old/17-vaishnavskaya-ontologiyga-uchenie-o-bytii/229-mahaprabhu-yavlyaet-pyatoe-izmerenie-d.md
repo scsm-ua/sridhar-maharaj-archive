@@ -1,5 +1,5 @@
 ---
-slug: 1983-07-19-b2_mahaprabhu_yavlyaet_pyatoe_izmerenie_duhovnogo_bytiya
+slug: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d
 record_id: 1983.07.19.B2
 title: Махапрабху являет пятое измерение духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,7 +28,6 @@ legacy:
   title: 229. Махапрабху являет пятое измерение духовного бытия. 1983.07.19.B2
   index: "229"
   filename: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d.md
-  slug: 229-mahaprabhu-yavlyaet-pyatoe-izmerenie-d
 ---
 
 Ученик: Когда Эйнштейн появился, он выступил против Ньютона.\

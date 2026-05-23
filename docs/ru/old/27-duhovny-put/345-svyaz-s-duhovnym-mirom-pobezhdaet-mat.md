@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-26-a2_svyaz_s_duhovnym_mirom_pobezhdaet_materialnye_nesovershenstva
+slug: 345-svyaz-s-duhovnym-mirom-pobezhdaet-mat
 record_id: 1982.01.26.A2
 title: Связь с духовным миром побеждает материальные несовершенства
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -20,7 +20,6 @@ legacy:
     1982.01.26.A2
   index: "345"
   filename: 345-svyaz-s-duhovnym-mirom-pobezhdaet-mat.md
-  slug: 345-svyaz-s-duhovnym-mirom-pobezhdaet-mat
 ---
 
 **Ученик:** Если человек чувствует себя очень не квалифицированно, то каково его положение? Он желает принять большую ответственность в служение своему Гуру?

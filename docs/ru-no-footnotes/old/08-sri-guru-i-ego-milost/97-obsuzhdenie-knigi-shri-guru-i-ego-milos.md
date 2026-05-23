@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-23-a1_obsuzhdenie_knigi_shri_guru_i_ego_milost
+slug: 97-obsuzhdenie-knigi-shri-guru-i-ego-milos
 record_id: 1983.05.23.A1
 title: "Обсуждение книги «Шри Гуру и его милость» "
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 97. Обсуждение книги «Шри Гуру и его милость» . 1983.05.23.A1
   index: "97"
   filename: 97-obsuzhdenie-knigi-shri-guru-i-ego-milos.md
-  slug: 97-obsuzhdenie-knigi-shri-guru-i-ego-milos
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 1984-01-08-b5_revolyutsionnyy_metod_propovedi_shrily_sarasvati_thakura
+slug: 465-revolyutsionnyj-metod-propovedi-shrily
 record_id: 1984.01.08.B5
 title: Революционный метод проповеди Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 465. Революционный метод проповеди Шрилы Сарасвати Тхакура. 1984.01.08.B5
   index: "465"
   filename: 465-revolyutsionnyj-metod-propovedi-shrily.md
-  slug: 465-revolyutsionnyj-metod-propovedi-shrily
 ---
 
 **Ученик:** Мы должны служить вайшнаву, который служит Нитьянанде и Господу Чайтанье?

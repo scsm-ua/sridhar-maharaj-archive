@@ -1,5 +1,5 @@
 ---
-slug: 1984-01-18-a1_dinamichnoe_ravnovesie_printsip_garmonii
+slug: 330-dinamichnoe-ravnovesie-printsip-gar
 record_id: 1984.01.18.A1
 title: Динамичное равновесие — принцип гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 330. Динамичное равновесие —  принцип гармонии. 1984.01.18.A1
   index: "330"
   filename: 330-dinamichnoe-ravnovesie-printsip-gar.md
-  slug: 330-dinamichnoe-ravnovesie-printsip-gar
 ---
 
 *#00:00:00#*

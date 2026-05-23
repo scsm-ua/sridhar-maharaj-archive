@@ -1,5 +1,5 @@
 ---
-slug: 1985-10-05-a2_mogushchestvo_tonkoy_sily_predannosti_krishne
+slug: 173-mogushhestvo-tonkoj-sily-predannosti
 record_id: 1985.10.05.A2
 title: Могущество тонкой силы преданности Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 173. Могущество тонкой силы преданности Кришне. 1985.10.05.A2
   index: "173"
   filename: 173-mogushhestvo-tonkoj-sily-predannosti.md
-  slug: 173-mogushhestvo-tonkoj-sily-predannosti
 ---
 
 **Ученик:** Гуру Махарадж, мне очень трудно привести в гармонию дух «тринад-апи-суничена» и революционную борьбу против эксплуатации.

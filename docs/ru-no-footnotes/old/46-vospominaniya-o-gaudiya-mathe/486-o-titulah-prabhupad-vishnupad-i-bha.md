@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-27-a1_o_titulah_prabhupad_vishnupad_i_bhaktivinod
+slug: 486-o-titulah-prabhupad-vishnupad-i-bha
 record_id: 1981.08.27.A1
 title: О титулах «Прабхупад», «Вишнупад» и «Бхактивинод»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 486. О титулах «Прабхупад», «Вишнупад» и «Бхактивинод». 1981.08.27.A1
   index: "486"
   filename: 486-o-titulah-prabhupad-vishnupad-i-bha.md
-  slug: 486-o-titulah-prabhupad-vishnupad-i-bha
 ---
 
 *#00:00:00#*

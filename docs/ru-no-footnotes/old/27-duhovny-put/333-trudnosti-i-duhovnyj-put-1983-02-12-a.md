@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-12-a_trudnosti_i_duhovnyy_put
+slug: 333-trudnosti-i-duhovnyj-put-1983-02-12-a
 record_id: 1983.02.12.A
 title: Трудности и духовный путь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 333. Трудности и духовный путь. 1983.02.12.A
   index: "333"
   filename: 333-trudnosti-i-duhovnyj-put-1983-02-12-a.md
-  slug: 333-trudnosti-i-duhovnyj-put-1983-02-12-a
 ---
 
 *#00:00:00#*

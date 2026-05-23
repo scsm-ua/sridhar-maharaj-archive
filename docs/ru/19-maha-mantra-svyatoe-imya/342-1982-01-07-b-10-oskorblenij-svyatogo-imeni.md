@@ -1,6 +1,7 @@
 ---
-slug: 1982-01-07-b_10_oskorbleniy_svyatogo_imeni
+slug: 1982-01-07-b-v2_10_oskorbleniy_svyatogo_imeni
 record_id: 1982.01.07.B
+variant: 2
 title: 10 оскорблений Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru

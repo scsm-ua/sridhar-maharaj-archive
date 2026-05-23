@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-05-a_edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov
+slug: 444-edinstvo-i-razlichie-v-filosofii-maja
 record_id: 1983.05.05.A
 title: Единство и различие в философии майавади и вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 444. Единство и различие в философии майавади и вайшнавов. 1983.05.05.A
   index: "444"
   filename: 444-edinstvo-i-razlichie-v-filosofii-maja.md
-  slug: 444-edinstvo-i-razlichie-v-filosofii-maja
 ---
 
 *#00:00:00#*

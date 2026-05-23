@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-05-b1_duhovnyy_put_i_materialnye_privyazannosti
+slug: 293-duhovnyj-put-i-materialnye-privyaz
 record_id: 1983.01.05.B1
 title: Духовный путь и материальные привязанности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,7 +28,6 @@ legacy:
   title: 293. Духовный путь и материальные привязанности. 1983.01.05.B1
   index: "293"
   filename: 293-duhovnyj-put-i-materialnye-privyaz.md
-  slug: 293-duhovnyj-put-i-materialnye-privyaz
 ---
 
 **Преданный:** Махарадж.

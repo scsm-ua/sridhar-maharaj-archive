@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-10-b1_temnaya_peshchera_otrecheniya
+slug: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1
 record_id: 1983.01.10.B1
 title: Темная пещера отречения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 440. Темная пещера отречения. 1983.01.10.B1
   index: "440"
   filename: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1.md
-  slug: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1
 ---
 
 *#00:00:00#*

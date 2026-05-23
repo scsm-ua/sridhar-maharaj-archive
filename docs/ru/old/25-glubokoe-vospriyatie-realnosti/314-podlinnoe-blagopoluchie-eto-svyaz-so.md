@@ -1,5 +1,5 @@
 ---
-slug: 1983-03-30-a2_podlinnoe_blagopoluchie_eto_svyaz_so_sluzheniem_gospodu
+slug: 314-podlinnoe-blagopoluchie-eto-svyaz-so
 record_id: 1983.03.30.A2
 title: Подлинное благополучие — это связь со служением Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 314. Подлинное благополучие — это связь со служением Господу. 1983.03.30.A2
   index: "314"
   filename: 314-podlinnoe-blagopoluchie-eto-svyaz-so.md
-  slug: 314-podlinnoe-blagopoluchie-eto-svyaz-so
 ---
 
 **Шридхар Махарадж:** Как ты поживаешь?

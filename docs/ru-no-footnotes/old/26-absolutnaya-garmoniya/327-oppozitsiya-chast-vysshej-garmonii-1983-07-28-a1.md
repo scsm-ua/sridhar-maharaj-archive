@@ -1,5 +1,5 @@
 ---
-slug: 1983-07-28-a1_oppozitsiya_chast_vysshey_garmonii
+slug: 327-oppozitsiya-chast-vysshej-garmonii-1983-07-28-a1
 record_id: 1983.07.28.A1
 title: Оппозиция — часть высшей гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 327. Оппозиция — часть высшей гармонии. 1983.07.28.A1
   index: "327"
   filename: 327-oppozitsiya-chast-vysshej-garmonii-1983-07-28-a1.md
-  slug: 327-oppozitsiya-chast-vysshej-garmonii-1983-07-28-a1
 ---
 
 *#00:00:00#*

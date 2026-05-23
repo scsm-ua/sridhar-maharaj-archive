@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-13-a1_osoboe_polozhenie_subala_sakhi
+slug: 280-osoboe-polozhenie-subala-sakhi-1982-01-13-a1
 record_id: 1982.01.13.A1
 title: Особое положение Субала Сакхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 280. Особое положение Субала Сакхи. 1982.01.13.A1
   index: "280"
   filename: 280-osoboe-polozhenie-subala-sakhi-1982-01-13-a1.md
-  slug: 280-osoboe-polozhenie-subala-sakhi-1982-01-13-a1
 ---
 
 *#00:00:00#*

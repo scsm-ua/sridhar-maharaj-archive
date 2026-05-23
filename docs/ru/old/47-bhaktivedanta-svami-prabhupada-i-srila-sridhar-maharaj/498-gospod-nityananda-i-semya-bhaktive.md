@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-04-a2_gospod_nityananda_i_semya_bhaktivedanty_svami_prabhupady
+slug: 498-gospod-nityananda-i-semya-bhaktive
 record_id: 1982.01.04.A2
 title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 498. Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады. 1982.01.04.A2
   index: "498"
   filename: 498-gospod-nityananda-i-semya-bhaktive.md
-  slug: 498-gospod-nityananda-i-semya-bhaktive
 ---
 
 **Ученик:** В наших мандирах-храмах мы поклоняемся Гоур-Нитаю. Я вижу, в храмах Гаудия-матха, в основном, поклоняются Махапрабху. Шрила Бхактисиддханта Махарадж…

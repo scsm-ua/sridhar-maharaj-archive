@@ -1,5 +1,5 @@
 ---
-slug: 1985-05-01-b1_v_budushchem_myslyashchie_lyudi_otsenyat_dar_soznaniya_krishny
+slug: 175-v-budushhem-myslyashhie-lyudi-otsenyat-dar-so
 record_id: 1985.05.01.B1
 title: В будущем мыслящие люди оценят дар Сознания Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 175. В будущем мыслящие люди оценят дар Сознания Кришны. 1985.05.01.B1
   index: "175"
   filename: 175-v-budushhem-myslyashhie-lyudi-otsenyat-dar-so.md
-  slug: 175-v-budushhem-myslyashhie-lyudi-otsenyat-dar-so
 ---
 
 *#00:00:00#*

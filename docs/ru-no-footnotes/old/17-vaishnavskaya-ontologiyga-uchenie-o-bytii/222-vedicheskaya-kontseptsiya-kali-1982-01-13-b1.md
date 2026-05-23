@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-13-b1_vedicheskaya_kontseptsiya_kali
+slug: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1
 record_id: 1982.01.13.B1
 title: Ведическая концепция Кали
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 222. Ведическая концепция Кали. 1982.01.13.B1
   index: "222"
   filename: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1.md
-  slug: 222-vedicheskaya-kontseptsiya-kali-1982-01-13-b1
 ---
 
 *#00:00:00#*

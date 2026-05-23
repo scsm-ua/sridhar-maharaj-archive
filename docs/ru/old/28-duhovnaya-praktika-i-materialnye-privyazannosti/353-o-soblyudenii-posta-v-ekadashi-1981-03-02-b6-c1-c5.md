@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-02-b6-c1-c5_o_soblyudenii_posta_v_ekadashi
+slug: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5
 record_id: 1981.03.02.B6.C1.C5
 title: О соблюдении поста в экадаши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 353. О соблюдении поста в экадаши. 1981.03.02.B6.C1.C5
   index: "353"
   filename: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5.md
-  slug: 353-o-soblyudenii-posta-v-ekadashi-1981-03-02-b6-c1-c5
 ---
 
 **Говинда Махарадж:** Анукалпа?

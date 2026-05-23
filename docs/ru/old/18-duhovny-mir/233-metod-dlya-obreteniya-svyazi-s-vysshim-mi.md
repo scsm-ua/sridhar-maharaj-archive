@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-30-a1_metod_dlya_obreteniya_svyazi_s_vysshim_mirom
+slug: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi
 record_id: 1983.01.30.A1
 title: Метод для обретения связи с высшим миром
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 233. Метод для обретения связи с высшим миром. 1983.01.30.A1
   index: "233"
   filename: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi.md
-  slug: 233-metod-dlya-obreteniya-svyazi-s-vysshim-mi
 ---
 
 *#00:00:00#*

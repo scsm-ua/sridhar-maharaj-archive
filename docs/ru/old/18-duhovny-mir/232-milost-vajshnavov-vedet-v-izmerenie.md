@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-27-a-b1_milost_vayshnavov_vedet_v_izmerenie_prevoshodyashchee_mir_dushi
+slug: 232-milost-vajshnavov-vedet-v-izmerenie
 record_id: 1983.02.27.A.B1
 title: Милость вайшнавов ведет в измерение, превосходящее мир души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,7 +23,6 @@ legacy:
     1983.02.27.A.B1
   index: "232"
   filename: 232-milost-vajshnavov-vedet-v-izmerenie.md
-  slug: 232-milost-vajshnavov-vedet-v-izmerenie
 ---
 
 *#00:00:00#*

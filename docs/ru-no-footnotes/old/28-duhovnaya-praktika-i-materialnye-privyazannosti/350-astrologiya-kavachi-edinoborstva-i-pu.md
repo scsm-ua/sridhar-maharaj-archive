@@ -1,5 +1,5 @@
 ---
-slug: 1983-07-18_astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti
+slug: 350-astrologiya-kavachi-edinoborstva-i-pu
 record_id: 1983.07.18
 title: Астрология, кавачи, единоборства и путь чистой преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 350. Астрология, кавачи, единоборства и путь чистой преданности. 1983.07.18
   index: "350"
   filename: 350-astrologiya-kavachi-edinoborstva-i-pu.md
-  slug: 350-astrologiya-kavachi-edinoborstva-i-pu
 ---
 
 *#00:00:00#*

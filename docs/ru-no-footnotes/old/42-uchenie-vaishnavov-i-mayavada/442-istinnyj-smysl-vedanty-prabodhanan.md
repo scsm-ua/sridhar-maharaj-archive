@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-05-a1_istinnyy_smysl_vedanty_prabodhananda_i_prakashananda
+slug: 442-istinnyj-smysl-vedanty-prabodhanan
 record_id: 1981.03.05.A1
 title: Истинный смысл Веданты. Прабодхананда и Пракашананда.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 442. Истинный смысл Веданты. Прабодхананда и Пракашананда. 1981.03.05.A1
   index: "442"
   filename: 442-istinnyj-smysl-vedanty-prabodhanan.md
-  slug: 442-istinnyj-smysl-vedanty-prabodhanan
 ---
 
 **Госвами Махарадж:** Махарадж, можем мы вам задать вопрос?

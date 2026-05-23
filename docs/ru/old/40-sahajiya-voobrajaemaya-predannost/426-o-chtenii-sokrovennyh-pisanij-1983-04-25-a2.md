@@ -1,5 +1,5 @@
 ---
-slug: 1983-04-25-a2_o_chtenii_sokrovennyh_pisaniy
+slug: 426-o-chtenii-sokrovennyh-pisanij-1983-04-25-a2
 record_id: 1983.04.25.A2
 title: О чтении сокровенных Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 426. О чтении сокровенных Писаний. 1983.04.25.A2
   index: "426"
   filename: 426-o-chtenii-sokrovennyh-pisanij-1983-04-25-a2.md
-  slug: 426-o-chtenii-sokrovennyh-pisanij-1983-04-25-a2
 ---
 
 *#00:00:00#*

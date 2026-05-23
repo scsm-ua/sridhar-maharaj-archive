@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-18-a1_vera_prevyshe_znaniya
+slug: 396-vera-prevyshe-znaniya-1983-02-18-a1
 record_id: 1983.02.18.A1
 title: Вера превыше знания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 396. Вера превыше знания. 1983.02.18.A1
   index: "396"
   filename: 396-vera-prevyshe-znaniya-1983-02-18-a1.md
-  slug: 396-vera-prevyshe-znaniya-1983-02-18-a1
 ---
 
 *#00:00:00#*

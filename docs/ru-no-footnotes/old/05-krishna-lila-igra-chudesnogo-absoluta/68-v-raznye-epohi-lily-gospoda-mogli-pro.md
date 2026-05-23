@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-03-c3_v_raznye_epohi_lily_gospoda_mogli_proishodit_po-raznomu
+slug: 68-v-raznye-epohi-lily-gospoda-mogli-pro
 record_id: 1981.03.03.C3
 title: В разные эпохи лилы Господа могли происходить по-разному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 68. В разные эпохи лилы Господа могли происходить по-разному. 1981.03.03.C3
   index: "68"
   filename: 68-v-raznye-epohi-lily-gospoda-mogli-pro.md
-  slug: 68-v-raznye-epohi-lily-gospoda-mogli-pro
 ---
 
 **Ученик:** Хираньякашипу захватил планету Индры.

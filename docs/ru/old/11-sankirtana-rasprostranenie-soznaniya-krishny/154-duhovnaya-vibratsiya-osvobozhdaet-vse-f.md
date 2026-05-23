@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-27-c1_duhovnaya_vibratsiya_osvobozhdaet_vse_formy_zhizni
+slug: 154-duhovnaya-vibratsiya-osvobozhdaet-vse-f
 record_id: 1982.01.27.C1
 title: Духовная вибрация освобождает все формы жизни
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 154. Духовная вибрация освобождает все формы жизни. 1982.01.27.C1
   index: "154"
   filename: 154-duhovnaya-vibratsiya-osvobozhdaet-vse-f.md
-  slug: 154-duhovnaya-vibratsiya-osvobozhdaet-vse-f
 ---
 
 **Ученик:** Махарадж, вы сказали, что это движение распространится на другие планеты. Каков смысл этого утверждения?

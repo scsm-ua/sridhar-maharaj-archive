@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-28-a1_shiksha-guru_parampara
+slug: 116-shiksha-guru-parampara-1981-08-28-a1
 record_id: 1981.08.28.A1
 title: Шикша-гуру парампара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 116. Шикша-гуру парампара. 1981.08.28.A1
   index: "116"
   filename: 116-shiksha-guru-parampara-1981-08-28-a1.md
-  slug: 116-shiksha-guru-parampara-1981-08-28-a1
 ---
 
 *#00:00:00#*

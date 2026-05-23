@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-05-b_polozhenie_gospoda_shivy
+slug: 220-polozhenie-gospoda-shivy-1982-01-05-b
 record_id: 1982.01.05.B
 title: Положение Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 220. Положение Господа Шивы. 1982.01.05.B
   index: "220"
   filename: 220-polozhenie-gospoda-shivy-1982-01-05-b.md
-  slug: 220-polozhenie-gospoda-shivy-1982-01-05-b
 ---
 
 *#00:00:00#*

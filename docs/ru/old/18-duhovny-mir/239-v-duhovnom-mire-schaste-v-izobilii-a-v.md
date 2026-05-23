@@ -1,5 +1,5 @@
 ---
-slug: 1973-03-17-1_v_duhovnom_mire_schaste_v_izobilii_a_v_materialnom_v_defitsite
+slug: 239-v-duhovnom-mire-schaste-v-izobilii-a-v
 record_id: 1973.03.17.1
 title: В духовном мире счастье в изобилии, а в материальном – в дефиците
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,7 +25,6 @@ legacy:
     1973.03.17.1
   index: "239"
   filename: 239-v-duhovnom-mire-schaste-v-izobilii-a-v.md
-  slug: 239-v-duhovnom-mire-schaste-v-izobilii-a-v
 ---
 
 *#00:00:00#*

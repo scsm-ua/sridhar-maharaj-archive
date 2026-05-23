@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-12-b2_poslednie_ukazaniya_sarasvati_thakura
+slug: 460-poslednie-ukazaniya-sarasvati-thakur
 record_id: 1981.08.12.B2
 title: Последние указания Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 460. Последние указания Сарасвати Тхакура. 1981.08.12.B2
   index: "460"
   filename: 460-poslednie-ukazaniya-sarasvati-thakur.md
-  slug: 460-poslednie-ukazaniya-sarasvati-thakur
 ---
 
 *#00:00:00#*

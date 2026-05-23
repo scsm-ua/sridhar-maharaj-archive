@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-12-c3-d_narkotik_nikogda_ne_dast_duhovnoy_realizatsii
+slug: 361-narkotik-nikogda-ne-dast-duhovnoj-re
 record_id: 1983.01.12.C3.D
 title: Наркотик никогда не даст духовной реализации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 361. Наркотик никогда не даст духовной реализации. 1983.01.12.C3.D
   index: "361"
   filename: 361-narkotik-nikogda-ne-dast-duhovnoj-re.md
-  slug: 361-narkotik-nikogda-ne-dast-duhovnoj-re
 ---
 
 *#00:00:00#*

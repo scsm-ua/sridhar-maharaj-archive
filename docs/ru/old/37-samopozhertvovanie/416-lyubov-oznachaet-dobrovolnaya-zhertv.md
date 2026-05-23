@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-17-c_lyubov_oznachaet_dobrovolnaya_zhertva
+slug: 416-lyubov-oznachaet-dobrovolnaya-zhertv
 record_id: 1982.01.17.C
 title: «Любовь» означает «добровольная жертва»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 416. «Любовь» означает «добровольная жертва». 1982.01.17.C
   index: "416"
   filename: 416-lyubov-oznachaet-dobrovolnaya-zhertv.md
-  slug: 416-lyubov-oznachaet-dobrovolnaya-zhertv
 ---
 
 Который час?

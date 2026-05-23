@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-02-a1_doverie_vysshemu_miru_osnova_duhovnoy_zhizni
+slug: 397-doverie-vysshemu-miru-osnova-duhovn
 record_id: 1983.01.02.A1
 title: Доверие высшему миру — основа духовной жизни
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 397. Доверие высшему миру  — основа духовной жизни. 1983.01.02.A1
   index: "397"
   filename: 397-doverie-vysshemu-miru-osnova-duhovn.md
-  slug: 397-doverie-vysshemu-miru-osnova-duhovn
 ---
 
 *#00:00:00#*

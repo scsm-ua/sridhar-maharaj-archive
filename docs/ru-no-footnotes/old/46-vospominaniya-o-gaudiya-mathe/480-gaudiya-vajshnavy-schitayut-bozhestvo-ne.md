@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-13-b3_gaudiya-vayshnavy_schitayut_bozhestvo_neotlichnym_ot_gospoda
+slug: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne
 record_id: 1982.01.13.B3
 title: "Гаудия-вайшнавы считают Божество неотличным от Господа "
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 480. Гаудия-вайшнавы считают Божество неотличным от Господа .1982.01.13.B3
   index: "480"
   filename: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne.md
-  slug: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne
 ---
 
 Кто здесь? А где Камаласана?

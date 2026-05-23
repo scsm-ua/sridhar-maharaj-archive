@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-21-a_opyt_brennogo_mira_ne_pomozhet_postich_bezgranichnoe
+slug: 209-opyt-brennogo-mira-ne-pomozhet-postich
 record_id: 1983.01.21.A
 title: Опыт бренного мира не поможет постичь Безграничное
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 209. Опыт бренного мира не поможет постичь Безграничное. 1983.01.21.A
   index: "209"
   filename: 209-opyt-brennogo-mira-ne-pomozhet-postich.md
-  slug: 209-opyt-brennogo-mira-ne-pomozhet-postich
 ---
 
 *#00:00:00#*

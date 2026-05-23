@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-26-c1_dolg_i_lyubov
+slug: 82-dolg-i-lyubov-1983-01-26-c1
 record_id: 1983.01.26.C1
 title: Долг и любовь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 82. Долг и любовь. 1983.01.26.C1
   index: "82"
   filename: 82-dolg-i-lyubov-1983-01-26-c1.md
-  slug: 82-dolg-i-lyubov-1983-01-26-c1
 ---
 
 *#00:00:00#*

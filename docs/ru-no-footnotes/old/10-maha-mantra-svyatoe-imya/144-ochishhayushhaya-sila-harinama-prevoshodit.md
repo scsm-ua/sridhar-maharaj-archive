@@ -1,5 +1,5 @@
 ---
-slug: 1983-05-06-b2_ochishchayushchaya_sila_harinama_prevoshodit_lyuboe_oskvernenie
+slug: 144-ochishhayushhaya-sila-harinama-prevoshodit
 record_id: 1983.05.06.B2
 title: Очищающая сила Харинама превосходит любое осквернение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 144. Очищающая сила Харинама превосходит любое осквернение. 1983.05.06.B2
   index: "144"
   filename: 144-ochishhayushhaya-sila-harinama-prevoshodit.md
-  slug: 144-ochishhayushhaya-sila-harinama-prevoshodit
 ---
 
 **Преданный:** Также, Гуру Махарадж, когда я был во Вриндаване, я посещал многие храмы, и только в одном храме они не позволили мне войти. Большой мраморный храм во Вриндаване. Я пытался поговорить с Махараджем там. Он вышел ко мне, и я спросил: «А можно я войду на несколько минут получу даршан?»

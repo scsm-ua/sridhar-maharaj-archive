@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-29-b1_o_literaturnyh_trudah_gosvami
+slug: 304-o-literaturnyh-trudah-gosvami-1982-01-29-b1-2
 record_id: 1982.01.29.B1
 title: О литературных трудах Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 304. О литературных трудах Госвами. 1982.01.29.B1
   index: "304"
   filename: 304-o-literaturnyh-trudah-gosvami-1982-01-29-b1-2.md
-  slug: 304-o-literaturnyh-trudah-gosvami-1982-01-29-b1-2
 ---
 
 *#00:00:00#*

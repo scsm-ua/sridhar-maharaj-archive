@@ -1,6 +1,7 @@
 ---
-slug: 1983-03-20_vishnu-tattva
+slug: 1983-03-20-v2_vishnu-tattva
 record_id: 1983.03.20
+variant: 2
 title: Вишну-таттва
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru

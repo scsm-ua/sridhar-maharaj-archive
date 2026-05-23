@@ -1,5 +1,5 @@
 ---
-slug: 1985-05-01-b3_obshchenie_s_duhami_privodit_k_rozhdeniyu_v_ih_mirah
+slug: 360-obshhenie-s-duhami-privodit-k-rozhdeniyu
 record_id: 1985.05.01.B3
 title: Общение с духами приводит к рождению в их мирах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 360. Общение с духами приводит к рождению в их мирах. 1985.05.01.B3
   index: "360"
   filename: 360-obshhenie-s-duhami-privodit-k-rozhdeniyu.md
-  slug: 360-obshhenie-s-duhami-privodit-k-rozhdeniyu
 ---
 
 **Ученица:** У меня есть вопрос.

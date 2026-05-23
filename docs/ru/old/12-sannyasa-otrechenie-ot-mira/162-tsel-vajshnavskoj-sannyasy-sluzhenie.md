@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-02-b4_tsel_vayshnavskoy_sannyasy_sluzhenie_krishne
+slug: 162-tsel-vajshnavskoj-sannyasy-sluzhenie
 record_id: 1981.03.02.B4
 title: Цель вайшнавской санньясы — служение Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 162. Цель вайшнавской санньясы — служение Кришне. 1981.03.02.B4
   index: "162"
   filename: 162-tsel-vajshnavskoj-sannyasy-sluzhenie.md
-  slug: 162-tsel-vajshnavskoj-sannyasy-sluzhenie
 ---
 
 **#00:00:00#** Ты примешь анукалпу здесь? (Анукалпа – малое количество пищи).

@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-04-a1_tsennost_chelovecheskogo_rozhdeniya
+slug: 340-tsennost-chelovecheskogo-rozhdeniya-1983-01-04-a1
 record_id: 1983.01.04.A1
 title: Ценность человеческого рождения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 340. Ценность человеческого рождения. 1983.01.04.A1
   index: "340"
   filename: 340-tsennost-chelovecheskogo-rozhdeniya-1983-01-04-a1.md
-  slug: 340-tsennost-chelovecheskogo-rozhdeniya-1983-01-04-a1
 ---
 
 *#00:00:00#*

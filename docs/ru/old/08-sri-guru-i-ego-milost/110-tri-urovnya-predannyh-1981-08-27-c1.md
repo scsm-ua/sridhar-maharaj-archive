@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-27-c1_tri_urovnya_predannyh
+slug: 110-tri-urovnya-predannyh-1981-08-27-c1
 record_id: 1981.08.27.C1
 title: Три уровня преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 110. Три уровня преданных. 1981.08.27.C1
   index: "110"
   filename: 110-tri-urovnya-predannyh-1981-08-27-c1.md
-  slug: 110-tri-urovnya-predannyh-1981-08-27-c1
 ---
 
 *#00:00:00#*

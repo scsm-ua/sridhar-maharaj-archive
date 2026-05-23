@@ -1,5 +1,5 @@
 ---
-slug: 1983-03-31-b2_dar_mahaprabhu_v_poeme_bhaktivinoda-viraha-dashakam
+slug: 510-dar-mahaprabhu-v-poeme-bhaktivinoda
 record_id: 1983.03.31.B2
 title: Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 510. Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам». 1983.03.31.B2
   index: "510"
   filename: 510-dar-mahaprabhu-v-poeme-bhaktivinoda.md
-  slug: 510-dar-mahaprabhu-v-poeme-bhaktivinoda
 ---
 
 В поэзии Бхактивинода Тхакура в последней станзе, стихе говорится…\

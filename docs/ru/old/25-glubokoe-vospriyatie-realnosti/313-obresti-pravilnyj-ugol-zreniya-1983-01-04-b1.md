@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-04-b1_obresti_pravilnyy_ugol_zreniya
+slug: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1
 record_id: 1983.01.04.B1
 title: Обрести правильный угол зрения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 313. Обрести правильный угол зрения. 1983.01.04.B1
   index: "313"
   filename: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1.md
-  slug: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1
 ---
 
 *#00:00:00#*

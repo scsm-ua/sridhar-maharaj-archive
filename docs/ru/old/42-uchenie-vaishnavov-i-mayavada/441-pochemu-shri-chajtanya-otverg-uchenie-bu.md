@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-25-a1_pochemu_shri_chaytanya_otverg_uchenie_buddy_i_shankary
+slug: 441-pochemu-shri-chajtanya-otverg-uchenie-bu
 record_id: 1982.01.25.A1
 title: Почему Шри Чайтанья отверг учение Будды и Шанкары?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 441. Почему Шри Чайтанья отверг учение Будды и Шанкары? 1982.01.25.A1
   index: "441"
   filename: 441-pochemu-shri-chajtanya-otverg-uchenie-bu.md
-  slug: 441-pochemu-shri-chajtanya-otverg-uchenie-bu
 ---
 
 *#00:00:00#*

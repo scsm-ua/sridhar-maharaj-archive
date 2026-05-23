@@ -1,5 +1,5 @@
 ---
-slug: 1983-02-20-a3_smysl_tridandy_mahaprabhu
+slug: 6-smysl-tridandy-mahaprabhu-1983-02-20-a3
 record_id: 1983.02.20.A3
 title: Смысл триданды Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 6. Смысл триданды Махапрабху. 1983.02.20.A3
   index: "6"
   filename: 6-smysl-tridandy-mahaprabhu-1983-02-20-a3.md
-  slug: 6-smysl-tridandy-mahaprabhu-1983-02-20-a3
 ---
 
 *#00:00:11#*

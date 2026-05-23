@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-12-c2_ramananda-samvad_klyuch_k_ponimaniyu_ucheniya_shridhara_maharadzha
+slug: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch
 record_id: 1982.01.12.C2
 title: Рамананда-самвад — ключ к пониманию учения Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,7 +29,6 @@ legacy:
     1982.01.12.C2
   index: "35"
   filename: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch.md
-  slug: 35-ramananda-samvad-klyuch-k-ponimaniyu-uch
 ---
 
 Рамананда Рай, Махапрабху и Рамананда Рай. Мое сердце следует за этой беседой, пристально следует [буквально говорит Шрила Шридхар Махарадж] это мое возлюбленное явление, sweet heart, возлюбленное. Рамананда Рай и Махапрабху, их беседа, развитие теистической концепции, гаудиа-вайшнавизма, школы Бхагавата.

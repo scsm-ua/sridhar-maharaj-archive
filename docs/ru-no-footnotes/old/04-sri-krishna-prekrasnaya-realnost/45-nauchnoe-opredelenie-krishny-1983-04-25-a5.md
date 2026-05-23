@@ -1,5 +1,5 @@
 ---
-slug: 1983-04-25-a5_nauchnoe_opredelenie_krishny
+slug: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5
 record_id: 1983.04.25.A5
 title: Научное определение Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 45. Научное определение Кришны. 1983.04.25.A5
   index: "45"
   filename: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5.md
-  slug: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5
 ---
 
 *#00:00:00#*

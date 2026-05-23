@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-13-a3_ogon_razluki_mahaprabhu
+slug: 23-ogon-razluki-mahaprabhu-1982-01-13-a3
 record_id: 1982.01.13.A3
 title: Огонь разлуки Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 23. Огонь разлуки Махапрабху. 1982.01.13.A3
   index: "23"
   filename: 23-ogon-razluki-mahaprabhu-1982-01-13-a3.md
-  slug: 23-ogon-razluki-mahaprabhu-1982-01-13-a3
 ---
 
 *#00:00:00#*

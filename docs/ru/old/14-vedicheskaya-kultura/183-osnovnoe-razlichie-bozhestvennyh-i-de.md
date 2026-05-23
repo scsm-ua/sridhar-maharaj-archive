@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-05-c3_osnovnoe_razlichie_bozhestvennyh_i_demonichnyh_natur
+slug: 183-osnovnoe-razlichie-bozhestvennyh-i-de
 record_id: 1983.01.05.C3
 title: Основное различие божественных и демоничных натур
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 183. Основное различие божественных и демоничных натур. 1983.01.05.C3
   index: "183"
   filename: 183-osnovnoe-razlichie-bozhestvennyh-i-de.md
-  slug: 183-osnovnoe-razlichie-bozhestvennyh-i-de
 ---
 
 В целом таково различие демонов и богов. Демоны могут быть более моральными, высоконравственными. Но боги… они склонны полагаться на высшее начало, высший авторитет. Ты понимаешь, нет?

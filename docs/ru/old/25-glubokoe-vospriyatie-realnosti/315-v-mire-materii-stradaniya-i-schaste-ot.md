@@ -1,5 +1,5 @@
 ---
-slug: 1983-03-30-b1_v_mire_materii_stradaniya_i_schaste_otnositelny
+slug: 315-v-mire-materii-stradaniya-i-schaste-ot
 record_id: 1983.03.30.B1
 title: В мире материи страдания и счастье относительны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 315. В мире материи страдания и счастье относительны. 1983.03.30.B1
   index: "315"
   filename: 315-v-mire-materii-stradaniya-i-schaste-ot.md
-  slug: 315-v-mire-materii-stradaniya-i-schaste-ot
 ---
 
 **Ученик:** Махарадж, не могли бы, пожалуйста, вновь объяснить о плохом и хорошем? Не могли бы вы объяснить?

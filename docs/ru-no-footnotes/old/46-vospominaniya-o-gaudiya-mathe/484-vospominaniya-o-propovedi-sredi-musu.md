@@ -1,5 +1,5 @@
 ---
-slug: 1983-01-12-b4_vospominaniya_o_propovedi_sredi_musulman
+slug: 484-vospominaniya-o-propovedi-sredi-musu
 record_id: 1983.01.12.B4
 title: Воспоминания о проповеди среди мусульман
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,7 +24,6 @@ legacy:
   title: 484. Воспоминания о проповеди среди мусульман. 1983.01.12.B4
   index: "484"
   filename: 484-vospominaniya-o-propovedi-sredi-musu.md
-  slug: 484-vospominaniya-o-propovedi-sredi-musu
 ---
 
 **Преданный:** Однажды вы встречались с большими мусульманскими лидерами в Пакистане. И они были очень впечатлены вашей проповедью. Я удивляюсь, задаюсь вопросом, как вы могли проповедовать, вам удавалось проповедовать мусульманам?

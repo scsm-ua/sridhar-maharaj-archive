@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-03-a2_lyuboe_deystvie_mozhet_sovershatsya_v_izmerenii_nirguny
+slug: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i
 record_id: 1981.03.03.A2
 title: Любое действие может совершаться в измерении ниргуны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 369. Любое действие может совершаться в измерении ниргуны. 1981.03.03.A2
   index: "369"
   filename: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i.md
-  slug: 369-lyuboe-dejstvie-mozhet-sovershatsya-v-i
 ---
 
 **Ученик:** У нас был один вопрос, с которого мы хотели начать…

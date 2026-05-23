@@ -1,5 +1,5 @@
 ---
-slug: 1983-03-02_hari-katha_na_den_yavleniya_shrily_sarasvati_thakura
+slug: 129-hari-katha-na-den-yavleniya-shrily-sara
 record_id: 1983.03.02
 title: Хари-катха на день явления Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 129. Хари-катха на день явления Шрилы Сарасвати Тхакура. 1983.03.02
   index: "129"
   filename: 129-hari-katha-na-den-yavleniya-shrily-sara.md
-  slug: 129-hari-katha-na-den-yavleniya-shrily-sara
 ---
 
 *#00:00:00#*

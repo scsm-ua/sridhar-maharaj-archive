@@ -1,5 +1,5 @@
 ---
-slug: 1981-03-01-b4_filosofskie_aspekty_lichnosti_brahmy
+slug: 223-filosofskie-aspekty-lichnosti-brahmy
 record_id: 1981.03.01.B4
 title: Философские аспекты личности Брахмы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,7 +22,6 @@ legacy:
   title: 223. Философские аспекты личности Брахмы. 1981.03.01.B4
   index: "223"
   filename: 223-filosofskie-aspekty-lichnosti-brahmy.md
-  slug: 223-filosofskie-aspekty-lichnosti-brahmy
 ---
 
 **Ученик:** Существует множество Брахм и вселенных. А может ли быть Брахма чистейший преданный?

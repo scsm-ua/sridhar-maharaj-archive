@@ -1,5 +1,5 @@
 ---
-slug: 1973-03-17-2_sovmestnaya_lektsiya_shrily_b_r_shridhara_maharadzha_i_a_ch_bhaktivedanty_svami_prabhupady
+slug: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara
 record_id: 1973.03.17.2
 title: Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
   Свами Прабхупады.
@@ -24,7 +24,6 @@ legacy:
     Свами  Прабхупады. 1973.03.17.2
   index: "494"
   filename: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara.md
-  slug: 494-sovmestnaya-lektsiya-shrily-b-r-shridhara
 ---
 
 Итак, наш Свами Махарадж совершил чудо. Он совершил чудо. То, что Бхактивинод задумал, и Прабхупад Сарасавати Тхакур попытался привести в действие, согласно своей концепции. Теперь мы видим, что эти предсказания сбылись, через Свами Махараджа. В свои последние годы он осуществил это. Мы рады, мы счастливы, мы гордимся за Свами Махараджа и также за всех вас.

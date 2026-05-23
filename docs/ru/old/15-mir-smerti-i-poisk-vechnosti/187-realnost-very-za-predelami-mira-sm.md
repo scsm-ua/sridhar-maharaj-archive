@@ -1,5 +1,5 @@
 ---
-slug: 1983-06-27_realnost_very_za_predelami_mira_smerti
+slug: 187-realnost-very-za-predelami-mira-sm
 record_id: 1983.06.27
 title: Реальность веры за пределами мира смерти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 187. Реальность веры за пределами мира смерти. 1983.06.27
   index: "187"
   filename: 187-realnost-very-za-predelami-mira-sm.md
-  slug: 187-realnost-very-za-predelami-mira-sm
 ---
 
 *#00:00:00#*

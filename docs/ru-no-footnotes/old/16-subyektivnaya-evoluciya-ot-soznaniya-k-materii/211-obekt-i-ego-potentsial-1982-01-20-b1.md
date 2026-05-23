@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-20-b1_obekt_i_ego_potentsial
+slug: 211-obekt-i-ego-potentsial-1982-01-20-b1
 record_id: 1982.01.20.B1
 title: Объект и его потенциал
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 211. Объект и его потенциал. 1982.01.20.B1
   index: "211"
   filename: 211-obekt-i-ego-potentsial-1982-01-20-b1.md
-  slug: 211-obekt-i-ego-potentsial-1982-01-20-b1
 ---
 
 *#00:00:00#*

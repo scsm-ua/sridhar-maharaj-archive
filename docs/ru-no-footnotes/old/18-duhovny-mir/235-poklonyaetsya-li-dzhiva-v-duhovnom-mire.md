@@ -1,5 +1,5 @@
 ---
-slug: 1984-01-08-b3_poklonyaetsya_li_dzhiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
+slug: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire
 record_id: 1984.01.08.B3
 title: Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,7 +29,6 @@ legacy:
     1984.01.08.B3
   index: "235"
   filename: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire.md
-  slug: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire
 ---
 
 **Ученик:** Когда джива достигает совершенства в линии Рупы Госвами, поклоняясь Господу Чайтанье, живое существо в духовном мире поклоняется Господу Чайтанье и Кришне одновременно?

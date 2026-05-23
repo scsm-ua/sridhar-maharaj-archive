@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-30-a4_klyuch_k_sokrovishchu_guru
+slug: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4
 record_id: 1981.08.30.A4
 title: Ключ к сокровищу гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,7 +26,6 @@ legacy:
   title: 121. Ключ к сокровищу гуру. 1981.08.30.A4
   index: "121"
   filename: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4.md
-  slug: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4
 ---
 
 **Преданный:** Мадхури-рупа. Ваш даршан – это мадхури-рупа. Ваша сладостная форма или ваш сладостный образ.

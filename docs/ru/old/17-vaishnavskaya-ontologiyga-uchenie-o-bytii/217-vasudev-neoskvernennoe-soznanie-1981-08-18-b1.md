@@ -1,5 +1,5 @@
 ---
-slug: 1981-08-18-b1_vasudev_neoskvernennoe_soznanie
+slug: 217-vasudev-neoskvernennoe-soznanie-1981-08-18-b1
 record_id: 1981.08.18.B1
 title: Васудев — неоскверненное сознание
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,7 +19,6 @@ legacy:
   title: 217. Васудев — неоскверненное сознание. 1981.08.18.B1
   index: "217"
   filename: 217-vasudev-neoskvernennoe-soznanie-1981-08-18-b1.md
-  slug: 217-vasudev-neoskvernennoe-soznanie-1981-08-18-b1
 ---
 
 *#00:00:00#*

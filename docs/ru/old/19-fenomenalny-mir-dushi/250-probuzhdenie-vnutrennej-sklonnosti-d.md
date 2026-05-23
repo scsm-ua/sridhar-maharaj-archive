@@ -1,5 +1,5 @@
 ---
-slug: 1982-01-19-a1_probuzhdenie_vnutrenney_sklonnosti_dushi
+slug: 250-probuzhdenie-vnutrennej-sklonnosti-d
 record_id: 1982.01.19.A1
 title: Пробуждение внутренней склонности души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,7 +28,6 @@ legacy:
   title: 250. Пробуждение внутренней склонности души. 1982.01.19.A1
   index: "250"
   filename: 250-probuzhdenie-vnutrennej-sklonnosti-d.md
-  slug: 250-probuzhdenie-vnutrennej-sklonnosti-d
 ---
 
 *#00:00:00#*
