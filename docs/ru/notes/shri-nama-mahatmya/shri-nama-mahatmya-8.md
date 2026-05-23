@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/10/1981.10.02.A.B.C.md
   - ../../_full/1982/04/1982.04.27.C2.md
   - ../../_full/1982/12/1982.12.06.A.B.md
-tags:
+scriptures:
   - title: Шри Нама-Махатмья
     slug: shri-nama-mahatmya
+verses:
   - title: Шри Нама-Махатмья 8
     slug: shri-nama-mahatmya-8
 ---

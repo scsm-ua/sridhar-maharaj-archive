@@ -1,5 +1,5 @@
 ---
-slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
+slug: 1982-06-19-b5_hari-katha_istochnik_zhizni_obyasnenie_chatur-shloki_bhagavad-gity
 record_id: 1982.06.19.B5
 title: Хари-катха – источник жизни. Объяснение чатур-шлоки Бхагавад-гиты.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,34 +15,22 @@ category:
 tags:
   - title: Чатур-шлока
     slug: chatur-shloka
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
     slug: shri-chajtanya-charitamrita-madhya-lila-14-13
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
   - title: Бхагавад-гита 10.9
     slug: bhagavad-gita-10-9
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
   - title: Бхагавад-гита 10.10
@@ -63,6 +51,7 @@ legacy:
     Бхагавад-гиты
   index: "497"
   filename: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity.md
+  slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
 ---
 
     йа̄ ниш́а̄ сарва-бхӯта̄на̄м̇, тасйа̄м̇ джа̄гарти сам̇йамӣ

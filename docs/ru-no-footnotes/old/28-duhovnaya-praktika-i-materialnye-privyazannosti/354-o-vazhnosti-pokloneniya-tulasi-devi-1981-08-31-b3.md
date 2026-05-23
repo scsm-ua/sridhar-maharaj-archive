@@ -1,5 +1,5 @@
 ---
-slug: 354-o-vazhnosti-pokloneniya-tulasi-devi-1981-08-31-b3
+slug: 1981-08-31-b3_o_vazhnosti_pokloneniya_tulasi-devi
 record_id: 1981.08.31.B3
 title: О важности поклонения Туласи-деви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 354. О важности поклонения Туласи-деви. 1981.08.31.B3
   index: "354"
   filename: 354-o-vazhnosti-pokloneniya-tulasi-devi-1981-08-31-b3.md
+  slug: 354-o-vazhnosti-pokloneniya-tulasi-devi-1981-08-31-b3
 ---
 
 Преданный: Махарадж, в «Гаудиа-патрике» я прочитал одно утверждение Сарасвати Тхакура, там сказано: «Человек должен прибегнуть к посредничеству Туласи-деви, чтобы достичь Вриндавана».

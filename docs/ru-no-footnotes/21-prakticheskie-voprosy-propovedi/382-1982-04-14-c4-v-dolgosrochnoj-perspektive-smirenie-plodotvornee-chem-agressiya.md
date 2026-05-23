@@ -1,5 +1,5 @@
 ---
-slug: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya
+slug: 1982-04-14-c4_v_dolgosrochnoy_perspektive_smirenie_plodotvornee_chem_agressiya
 record_id: 1982.04.14.C4
 title: В долгосрочной перспективе смирение плодотворнее, чем агрессия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     агрессия
   index: "382"
   filename: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya.md
+  slug: 382-1982-04-14-c4-v-dolgosrochnoj-perspektive-smirenie-plodotvornee-chem-agressiya
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли вопросы?

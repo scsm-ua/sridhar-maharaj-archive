@@ -1,5 +1,5 @@
 ---
-slug: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne
+slug: 1982-02-26-b3_na_vysshem_urovne_vsya_deyatelnost_napravlena_na_sluzhenie_krishne
 record_id: 1982.02.26.B3
 title: На высшем уровне вся деятельность направлена на служение Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
 links:
@@ -31,6 +29,7 @@ legacy:
     служение Кришне
   index: "546"
   filename: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne.md
+  slug: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne
 ---
 
 **Преданный:** Махарадж, а предписанные обязанности относятся только к обусловленным душам?

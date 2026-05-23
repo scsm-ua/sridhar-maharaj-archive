@@ -1,5 +1,5 @@
 ---
-slug: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej
+slug: 1982-03-22-b2_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoy_semey
 record_id: 1982.03.22.B2
 title: «Сознание Кришны во Вриндаване» значит «Жить с Богом одной семьей»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -21,20 +21,12 @@ tags:
     slug: shb-10-21-5
   - title: ШБ 11.29.34
     slug: shb-11-29-34
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
     slug: shri-chajtanya-charitamrita-antya-lila-4-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.29.34
     slug: shrimad-bhagavatam-11-29-34
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.55
     slug: bhagavad-gita-18-55
   - title: Шримад-Бхагаватам 10.21.5
@@ -51,6 +43,7 @@ legacy:
     одной семьей»
   index: "039"
   filename: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej.md
+  slug: 039_1982-03-22-b2_sridharmj_soznanie_krishny_vo_vrindavane_znachit_zhit_s_bogom_odnoj_semej
 ---
 
 Я помню, во времена Свами Махараджа, при его жизни, одна женщина давала лекцию в этом *нат-мандире*. Она сказала: «Мы приехали издалека, из столь далеких земель, стран. Мы стали под знамена Свами Махараджа. Что касается меня, — сказала она, — то я хотела бы сказать, что его зов впечатлил меня в высшей степени, главным образом по той причине, что он сообщил, рассказал о том, что мы можем жить в качестве родных Верховного Господа. Мы можем жить с Ним в одной семье, мы можем служить Ему как члену нашей семьи, и Он также рассматривает нас как Своих родных».

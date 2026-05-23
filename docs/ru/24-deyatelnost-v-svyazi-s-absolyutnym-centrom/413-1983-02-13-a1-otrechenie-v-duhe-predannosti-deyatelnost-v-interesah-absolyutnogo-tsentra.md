@@ -1,5 +1,5 @@
 ---
-slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
+slug: 1983-02-13-a1_otrechenie_v_duhe_predannosti_deyatelnost_v_interesah_absolyutnogo_tsentra
 record_id: 1983.02.13.A1
 title: Отречение в духе преданности – деятельность в интересах Абсолютного Центра
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     интересах Абсолютного Центра
   index: "413"
   filename: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra.md
+  slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.256
     slug: bhakti-rasamrita-sindhu-1-2-256
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -39,8 +36,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: Бхакти-расамрита-синдху 1.2.255
@@ -49,8 +44,6 @@ tags:
     slug: shrimad-bhagavatam-1-3-28
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
     slug: shri-chajtanya-charitamrita-madhya-lila-19-151
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 ---

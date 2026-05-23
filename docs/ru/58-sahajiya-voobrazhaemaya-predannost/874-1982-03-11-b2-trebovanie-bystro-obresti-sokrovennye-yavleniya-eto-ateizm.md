@@ -1,5 +1,5 @@
 ---
-slug: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm
+slug: 1982-03-11-b2_trebovanie_bystro_obresti_sokrovennye_yavleniya_eto_ateizm
 record_id: 1982.03.11.B2
 title: Требование быстро обрести сокровенные явления – это атеизм
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     атеизм
   index: "874"
   filename: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm.md
+  slug: 874-1982-03-11-b2-trebovanie-bystro-obresti-sokrovennye-yavleniya-eto-ateizm
 ---
 
 **Преданный:** Махарадж?

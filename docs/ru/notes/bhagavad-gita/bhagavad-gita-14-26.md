@@ -3,9 +3,10 @@ slug: bhagavad-gita-14-26
 refs:
   - ../../_full/1981/03/1981.03.01.md
   - ../../_full/1982/11/1982.11.08.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 14.26
     slug: bhagavad-gita-14-26
   - title: Бхагавад-гита 18.53

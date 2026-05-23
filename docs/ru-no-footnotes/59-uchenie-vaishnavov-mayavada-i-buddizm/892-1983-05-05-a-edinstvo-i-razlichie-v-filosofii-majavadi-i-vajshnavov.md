@@ -1,5 +1,5 @@
 ---
-slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
+slug: 1983-05-05-a_edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov
 record_id: 1983.05.05.A
 title: Единство и различие в философии майавади и вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 892. 1983.05.05.A. Единство и различие в философии майавади и вайшнавов
   index: "892"
   filename: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov.md
+  slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
 ---
 
 [Речь идет о каком-то методе сражения или борьбы — *переводчик*]

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste.md
   - ../../_full/1982/02/1982.02.23.C.D.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 ---

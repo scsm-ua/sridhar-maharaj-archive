@@ -1,5 +1,5 @@
 ---
-slug: 467-ponimanie-duhovnyh-istin-obretaetsya
+slug: 1983-02-27-b2_ponimanie_duhovnyh_istin_obretaetsya_na_protyazhenii_mnogih_zhizney
 record_id: 1983.02.27.B2
 title: Понимание духовных истин обретается на протяжении многих жизней
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     1983.02.27.B2
   index: "467"
   filename: 467-ponimanie-duhovnyh-istin-obretaetsya.md
+  slug: 467-ponimanie-duhovnyh-istin-obretaetsya
 ---
 
 Сегодня день явления Нароттама Тхакура. Он долгое время служил. После того, как долгое время прошло в служении. Мы слышали, как наш Гуру Махарадж сказал своему ученику санньяси. Наш Гуру Махарадж сказал: «Ты не видел меня. Ты не встретил меня. Столько лет в служении ты провел…».

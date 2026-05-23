@@ -9,9 +9,10 @@ refs:
   - ../../21-prakticheskie-voprosy-propovedi/393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny.md
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity.md
   - ../../34-vedicheskaya-civilizaciya-i-kultura/548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov.md
-tags:
+scriptures:
   - title: «Падма-пурана», Уттара-кханда
     slug: padma-purana-uttara-khanda
+verses:
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
 ---

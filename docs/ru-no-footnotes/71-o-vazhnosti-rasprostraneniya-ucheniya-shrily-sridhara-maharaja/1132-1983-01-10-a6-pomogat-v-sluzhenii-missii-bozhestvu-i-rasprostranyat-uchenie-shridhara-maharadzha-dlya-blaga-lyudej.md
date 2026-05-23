@@ -1,5 +1,5 @@
 ---
-slug: 1132-1983-01-10-a6-pomogat-v-sluzhenii-missii-bozhestvu-i-rasprostranyat-uchenie-shridhara-maharadzha-dlya-blaga-lyudej
+slug: 1983-01-10-a6_pomogat_v_sluzhenii_missii_bozhestvu_i_rasprostranyat_uchenie_shridhara_maharadzha_dlya_blaga_lyudey
 record_id: 1983.01.10.A6
 title: Помогать в служении Миссии, Божеству и распространять учение Шридхара
   Махараджа для блага людей
@@ -25,6 +25,7 @@ legacy:
     распространять учение Шридхара Махараджа для блага людей
   index: "1132"
   filename: 1132-1983-01-10-a6-pomogat-v-sluzhenii-missii-bozhestvu-i-rasprostranyat-uchenie-shridhara-maharadzha-dlya-blaga-lyudej.md
+  slug: 1132-1983-01-10-a6-pomogat-v-sluzhenii-missii-bozhestvu-i-rasprostranyat-uchenie-shridhara-maharadzha-dlya-blaga-lyudej
 ---
 
 **Преданный:** Через два дня я уезжаю в Америку, в среду.

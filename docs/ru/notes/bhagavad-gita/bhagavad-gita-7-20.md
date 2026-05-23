@@ -8,9 +8,10 @@ refs:
   - ../../_full/1982/11/1982.11.15.A.B.md
   - ../../_full/1983/01/1983.01.12.md
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.20
     slug: bhagavad-gita-7-20
 ---

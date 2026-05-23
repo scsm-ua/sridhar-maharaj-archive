@@ -1,5 +1,5 @@
 ---
-slug: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam
+slug: 1981-03-03-a1_dva_kachestva_sovershennogo_voprosa_v_shrimad_bhagavatam
 record_id: 1981.03.03.A1
 title: Два качества совершенного вопроса в Шримад Бхагаватам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 218. 1981.03.03.A1. Два качества совершенного вопроса в Шримад Бхагаватам
   index: "218"
   filename: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam.md
+  slug: 218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam
 ---
 
 **Шрила Шридхар Махарадж:** Какой вопрос задать первым?

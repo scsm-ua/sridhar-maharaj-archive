@@ -1,5 +1,5 @@
 ---
-slug: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava
+slug: 1983-02-20-a3_znachenie_tridandy_dlya_gaudiya-vayshnava
 record_id: 1983.02.20.A3
 title: Значение триданды для гаудия-вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Санньяса
     slug: sannyasa
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
     slug: shri-chajtanya-charitamrita-madhya-lila-3-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.57
     slug: shrimad-bhagavatam-11-23-57
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 401. 1983.02.20.A3. Значение триданды для гаудия-вайшнава
   index: "401"
   filename: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava.md
+  slug: 401-1983-02-20-a3-znachenie-tridandy-dlya-gaudiya-vajshnava
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Нитай-Гаура Харибол.

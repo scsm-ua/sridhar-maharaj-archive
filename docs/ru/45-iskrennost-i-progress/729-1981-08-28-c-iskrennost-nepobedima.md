@@ -1,5 +1,5 @@
 ---
-slug: 729-1981-08-28-c-iskrennost-nepobedima
+slug: 1981-08-28-c_iskrennost_nepobedima
 record_id: 1981.08.28.C
 title: Искренность непобедима
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,45 +23,30 @@ legacy:
   title: 729. 1981.08.28.C. Искренность непобедима
   index: "729"
   filename: 729-1981-08-28-c-iskrennost-nepobedima.md
+  slug: 729-1981-08-28-c-iskrennost-nepobedima
 tags:
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
   - title: Вайшнава ке 1
     slug: vajshnava-ke-1
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.31
     slug: shrimad-bhagavatam-10-33-31
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
   - title: Бхагавад-гита 6.5
     slug: bhagavad-gita-6-5
   - title: Вайшнава ке 4
     slug: vajshnava-ke-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
     slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
-  - title: Шри рупануга-махатмья
-    slug: shri-rupanuga-mahatmya
   - title: Шри рупануга-махатмья 17.4
     slug: shri-rupanuga-mahatmya-17-4
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119

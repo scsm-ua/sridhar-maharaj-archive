@@ -1,5 +1,5 @@
 ---
-slug: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya
+slug: 1981-08-10-a1_otkrovenie_shri_chaytani_prevoshodit_vse_prochie_izmereniya
 record_id: 1981.08.10.A1
 title: Откровение Шри Чайтаньи превосходит все прочие измерения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 654. 1981.08.10.A1. Откровение Шри Чайтаньи превосходит все прочие измерения
   index: "654"
   filename: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya.md
+  slug: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.11
     slug: shrimad-bhagavatam-1-2-11
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 4.27
     slug: shri-shri-prapanna-dzhivanamritam-4-27
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.414–418
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-414-418
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 113
     slug: chajtanya-chandramrita-113
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
+slug: 1982-11-22-b_maksimum_energii_dlya_dela_i_minimum_dlya_sozdaniya_blagopriyatnoy_obstanovki
 record_id: 1982.11.22.B
 title: Максимум энергии для дела – и минимум для создания благоприятной обстановки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     благоприятной обстановки
   index: "374"
   filename: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki.md
+  slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
 ---
 
 **Джагадиш Прабху:** Махарадж, могу я задать вопрос? Я недавно был инициирован — два года тому назад, но у меня есть некоторый опыт.

@@ -1,5 +1,5 @@
 ---
-slug: 355-o-vazhnosti-soblyudeniya-reguliruyushhih
+slug: 1983-04-29-b_o_vazhnosti_soblyudeniya_reguliruyushchih_printsipov
 record_id: 1983.04.29.B
 title: О важности соблюдения регулирующих принципов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 355. О важности соблюдения регулирующих принципов. 1983.04.29.B
   index: "355"
   filename: 355-o-vazhnosti-soblyudeniya-reguliruyushhih.md
+  slug: 355-o-vazhnosti-soblyudeniya-reguliruyushhih
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda
+slug: 1981-03-02-b3_ardzhuna_ardzhuna_acharya_i_dzhayadev_provodniki_otkroveniy_gospoda
 record_id: 1981.03.02.B3
 title: Арджуна, Арджуна Ачарья и Джаядев – проводники откровений Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     откровений Господа
   index: "211"
   filename: 211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda.md
+  slug: 211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda
 tags:
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
     slug: shri-gurvashtaka-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.22
     slug: bhagavad-gita-9-22
 ---

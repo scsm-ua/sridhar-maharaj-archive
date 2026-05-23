@@ -1,5 +1,5 @@
 ---
-slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
+slug: 1982-01-24-b1_velikaya_milost_svyatyh_stop_shri_gaurangi
 record_id: 1982.01.24.B1
 title: Великая милость святых стоп Шри Гауранги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 104. 1982.01.24.B1 Великая милость святых стоп Шри Гауранги
   index: "104"
   filename: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi.md
+  slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
 ---
 
 Гурудев Гопала Бхатты Госвами, брат Венкаты Бхатты[^_ftn1], имел обыкновение жить в Шри Кундже Камьяване[^_ftn2]. Он был носителем возвышенного поэтического языка. Его поэзия была горячей, пламенной и впечатляющей, очень сладостной. Его идеи были всеобъемлющими.

@@ -1,5 +1,5 @@
 ---
-slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
+slug: 1982-02-28-a2_velikodushie_mahaprabhu_put_k_sokrovennoy_kontseptsii_bozhestvennogo
 record_id: 1982.02.28.A2
 title: Великодушие Махапрабху — путь к сокровенной концепции Божественного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,14 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
 links:
@@ -45,6 +37,7 @@ legacy:
     Божественного
   index: "105"
   filename: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo.md
+  slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
 ---
 
 Мы должны искать великодушия Махапрабху — того, к чему стремятся Шива и Брахма. Они молят лишь о капле этого. Махапрабху затопил потоком этого нектара всю вселенную. Даже каплю этого нектара трудно обрести. Мы должны обратиться к этому с горячим желанием. Это нечто столь великое, столь великодушное! Что это такое? Харе Кришна!

@@ -1,5 +1,5 @@
 ---
-slug: 012_1982-02-24-a1_sridharmj_potrebnost_v_nauchnom_i_universalnom_poiske
+slug: 1982-02-24-a1_potrebnost_v_nauchnom_i_universalnom_poiske
 record_id: 1982.02.24.A1
 title: Потребность в научном и универсальном поиске
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,13 +25,10 @@ legacy:
   index: "012"
   comment: (неверная дата)
   filename: 012_1982-02-24-a1_sridharmj_potrebnost_v_nauchnom_i_universalnom_poiske.md
+  slug: 012_1982-02-24-a1_sridharmj_potrebnost_v_nauchnom_i_universalnom_poiske
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
     slug: shri-chajtanya-charitamrita-madhya-lila-8-58
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 3.8.9
     slug: vishnu-purana-3-8-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59

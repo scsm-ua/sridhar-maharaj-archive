@@ -1,5 +1,5 @@
 ---
-slug: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny
+slug: 1982-02-27-a5_dinamicheskaya_garmoniya_i_fleyta_krishny
 record_id: 1982.02.27.A5
 title: Динамическая гармония и флейта Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 529. 1982.02.27.A5. Динамическая гармония и флейта Кришны
   index: "529"
   filename: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny.md
+  slug: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny
 ---
 
 *#00:33:18#*

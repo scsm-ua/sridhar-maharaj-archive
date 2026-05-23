@@ -1,5 +1,5 @@
 ---
-slug: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat
+slug: 1982-04-14-d2_koladvip_kak_mesto_pada-sevanam_i_aparadh-bhandzhan-pat
 record_id: 1982.04.14.D2
 title: Коладвип как место пада-севанам и апарадх-бханджан-пат
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1088. 1982.04.14.D2. Коладвип как место пада-севанам и апарадх-бханджан-пат
   index: "1088"
   filename: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat.md
+  slug: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Гаура-Хари, Гаура-Хари.

@@ -4,9 +4,10 @@ refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh.md
   - ../../_full/1981/11/1981.11.10.B1.2.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.332
     slug: shri-chajtanya-charitamrita-madhya-lila-20-332
 ---

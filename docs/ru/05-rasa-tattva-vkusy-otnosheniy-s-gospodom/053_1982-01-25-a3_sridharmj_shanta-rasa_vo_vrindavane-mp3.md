@@ -1,5 +1,5 @@
 ---
-slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
+slug: 1982-01-25-a3_shanta-rasa_vo_vrindavane
 record_id: 1982.01.25.A3
 title: Шанта-раса во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 053. 1982.01.25.A3 Шанта-раса во Вриндаване
   index: "053"
   filename: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3.md
+  slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
 tags:
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 95
     slug: chajtanya-chandramrita-95
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.13
     slug: shrimad-bhagavatam-11-14-13
 ---

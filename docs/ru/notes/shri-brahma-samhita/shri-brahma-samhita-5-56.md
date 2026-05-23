@@ -4,9 +4,10 @@ refs:
   - ../../04-vrindavan-zhit-odnoy-semyey-s-bogom/043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.md
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah.md
   - ../../_full/1982/01/1982.01.16.B.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.56
     slug: shri-brahma-samhita-5-56
 ---

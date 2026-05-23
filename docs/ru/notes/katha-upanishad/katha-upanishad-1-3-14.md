@@ -4,9 +4,10 @@ refs:
   - ../../_full/1981/11/1981.11.21.A.B.md
   - ../../_full/1981/11/1981.11.26.A.B.C.md
   - ../../_full/1983/09/1983.09.07.A.md
-tags:
+scriptures:
   - title: Катха-упанишад
     slug: katha-upanishad
+verses:
   - title: Катха-упанишад 1.3.14
     slug: katha-upanishad-1-3-14
 ---

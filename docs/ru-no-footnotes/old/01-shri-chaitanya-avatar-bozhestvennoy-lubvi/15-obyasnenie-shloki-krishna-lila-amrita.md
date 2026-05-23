@@ -1,5 +1,5 @@
 ---
-slug: 15-obyasnenie-shloki-krishna-lila-amrita
+slug: 1987-00-00-a1_obyasnenie_shloki_krishna-lila_amrita_sara
 record_id: 1987.00.00.A1
 title: Объяснение шлоки «кришна-лила амрита сара…»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 15. Объяснение шлоки «кришна-лила амрита сара…». 1987.00.00.A1
   index: "15"
   filename: 15-obyasnenie-shloki-krishna-lila-amrita.md
+  slug: 15-obyasnenie-shloki-krishna-lila-amrita
 ---
 
 *#00:00:07#*

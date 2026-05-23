@@ -1,5 +1,5 @@
 ---
-slug: 1120-1982-01-28-b2-o-neobhodimosti-kommentariev-k-prema-dhama-deva-stotram
+slug: 1982-01-28-b2_o_neobhodimosti_kommentariev_k_prema-dhama-deva-stotram
 record_id: 1982.01.28.B2
 title: О необходимости комментариев к «Према-дхама-дева-стотрам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Према-дхама-дева-стотрам»
   index: "1120"
   filename: 1120-1982-01-28-b2-o-neobhodimosti-kommentariev-k-prema-dhama-deva-stotram.md
+  slug: 1120-1982-01-28-b2-o-neobhodimosti-kommentariev-k-prema-dhama-deva-stotram
 ---
 
 «Према-дхама-стотрам» — как учение, так и *лила* Чайтаньядева. Я представил их в этой книге в лаконичной, сжатой и очень достойной форме, достойным и сжатым, лаконичным образом в нескольких десятков стихов. «Према-дхама-стотрам». Необходимы комментарии к этому.

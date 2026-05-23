@@ -1,5 +1,5 @@
 ---
-slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
+slug: 1982-02-17-a5_nespeshnyy_i_upornyy_pobezhdaet_v_sostyazanii_vazhnost_terpeniya_i_smireniya_na_duhovnom_puti
 record_id: 1982.02.17.A5
 title: Неспешный и упорный побеждает в состязании. Важность терпения и смирения
   на духовном пути.
@@ -25,6 +25,7 @@ legacy:
     терпения и смирения на духовном пути
   index: "712"
   filename: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti.md
+  slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
 ---
 
     [тр̣на̄д апи сунӣчена

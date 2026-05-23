@@ -1,5 +1,5 @@
 ---
-slug: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu
+slug: 1982-07-09-b5_kazhdaya_pylinka_dhamy_obeshchaet_dat_radha-govindu
 record_id: 1982.07.09.B5
 title: Каждая пылинка дхамы обещает дать Радха-Говинду
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 920. 1982.07.09.B5. Каждая пылинка дхамы обещает дать Радха-Говинду
   index: "920"
   filename: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu.md
+  slug: 920-1982-07-09-b5-kazhdaya-pylinka-dhamy-obeshhaet-dat-radha-govindu
 ---
 
     йатха̄ йатха̄ гаура-пада̄равинде

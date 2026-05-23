@@ -1,5 +1,5 @@
 ---
-slug: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne
+slug: 1983-01-11-a-b_bog_eto_lichnost_dary_predannosti_krishne
 record_id: 1983.01.11.A.B
 title: Бог — это Личность. Дары преданности Кришне.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 021. 1983.01.11.A.B Бог — это Личность. Дары преданности Кришне
   index: "021"
   filename: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne.md
+  slug: 021_1983-01-11-a-b_sridharmj_bog_jeto_lichnost___dary_predannosti_krishne
 ---
 
 **Бог не имперсональный.**

@@ -1,5 +1,5 @@
 ---
-slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
+slug: 1982-02-27-a2_rasprostraniteli_kapel_nektara
 record_id: 1982.02.27.A2
 title: Распространители капель нектара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 368. 1982.02.27.A2. Распространители капель нектара
   index: "368"
   filename: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara.md
+  slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
 ---
 
 *«Онтология Прекрасной Реальности» (Часть 2.2)*

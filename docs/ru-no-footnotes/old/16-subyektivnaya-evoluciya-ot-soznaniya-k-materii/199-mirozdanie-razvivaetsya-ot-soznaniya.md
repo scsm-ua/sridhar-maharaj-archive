@@ -1,5 +1,5 @@
 ---
-slug: 199-mirozdanie-razvivaetsya-ot-soznaniya
+slug: 1981-02-28-c2_mirozdanie_razvivaetsya_ot_soznaniya_k_materii
 record_id: 1981.02.28.C2
 title: Мироздание развивается от сознания к материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 199. Мироздание развивается от сознания к материи. 1981.02.28.C2
   index: "199"
   filename: 199-mirozdanie-razvivaetsya-ot-soznaniya.md
+  slug: 199-mirozdanie-razvivaetsya-ot-soznaniya
 ---
 
 **Шридхар Махарадж:** Он врач? Он занимается наукой

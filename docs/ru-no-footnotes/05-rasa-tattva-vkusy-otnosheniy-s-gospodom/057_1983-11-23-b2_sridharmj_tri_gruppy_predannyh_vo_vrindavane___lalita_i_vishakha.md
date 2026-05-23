@@ -1,5 +1,5 @@
 ---
-slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
+slug: 1983-11-23-b2_tri_gruppy_predannyh_vo_vrindavane_lalita_i_vishakha
 record_id: 1983.11.23.B2
 title: Три группы преданных во Вриндаване. Лалита и Вишакха.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 057. 1983.11.23.В2 Три группы преданных во Вриндаване. Лалита и Вишакха
   index: "057"
   filename: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha.md
+  slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
 ---
 
 Также как во Вриндаване есть три типа. Одна группа особенно интересуется Кришной, другая особо интересуется Радхарани и есть особая группа, которая поддерживает баланс между той и другой стороной, симпатизирует одинаково обоим.

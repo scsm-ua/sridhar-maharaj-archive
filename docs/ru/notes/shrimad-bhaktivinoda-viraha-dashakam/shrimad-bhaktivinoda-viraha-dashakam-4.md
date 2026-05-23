@@ -2,9 +2,10 @@
 slug: shrimad-bhaktivinoda-viraha-dashakam-4
 refs:
   - ../../_full/1983/09/1983.09.20.A.B.C.md
-tags:
+scriptures:
   - title: Шримад Бхактивинода-вираха Дашакам
     slug: shrimad-bhaktivinoda-viraha-dashakam
+verses:
   - title: Шримад Бхактивинода-вираха Дашакам 4
     slug: shrimad-bhaktivinoda-viraha-dashakam-4
 ---

@@ -4,9 +4,10 @@ refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/610-1982-01-18-a2-obolochki-dushi.md
   - ../../_full/1982/01/1982.01.18.md
   - ../../_full/1982/09/1982.09.06.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.45
     slug: bhagavad-gita-2-45
 ---

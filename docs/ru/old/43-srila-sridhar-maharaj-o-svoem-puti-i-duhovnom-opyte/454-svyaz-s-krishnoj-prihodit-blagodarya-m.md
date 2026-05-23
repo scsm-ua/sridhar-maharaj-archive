@@ -1,5 +1,5 @@
 ---
-slug: 454-svyaz-s-krishnoj-prihodit-blagodarya-m
+slug: 1982-01-08-c2_svyaz_s_krishnoy_prihodit_blagodarya_mahaprabhu
 record_id: 1982.01.08.C2
 title: Связь с Кришной приходит благодаря Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 454. Связь с Кришной приходит благодаря Махапрабху. 1982.01.08.C2
   index: "454"
   filename: 454-svyaz-s-krishnoj-prihodit-blagodarya-m.md
+  slug: 454-svyaz-s-krishnoj-prihodit-blagodarya-m
 ---
 
 **Преданный:** Махарадж, вы одариваете нас такой великий милостью. Мы испытываем великое влечение к вам. Влечение, подобное тому, что мы чувствуем в отношении нашего Гуру Махараджа.

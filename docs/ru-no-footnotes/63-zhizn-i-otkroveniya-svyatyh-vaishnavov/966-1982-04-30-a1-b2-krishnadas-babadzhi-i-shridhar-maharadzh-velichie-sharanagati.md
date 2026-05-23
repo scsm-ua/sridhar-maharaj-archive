@@ -1,5 +1,5 @@
 ---
-slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
+slug: 1982-04-30-a1-b2_krishnadas_babadzhi_i_shridhar_maharadzh_velichie_sharanagati
 record_id: 1982.04.30.A1.B2
 title: Кришнадас Бабаджи и Шридхар Махарадж. Величие шаранагати.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     шаранагати
   index: "966"
   filename: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
+  slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
 ---
 
 Также мы знаем, что Кришнадас Бабаджи Махарадж покинул этот мир. Мы хотели бы вспомнить его жизнь, его деятельность, насколько это в наших силах.

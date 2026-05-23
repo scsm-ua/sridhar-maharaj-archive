@@ -13,14 +13,10 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
   - title: Бхагавад-гита 13.3
     slug: bhagavad-gita-13-3
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
   - title: Бхагавад-гита 13.9

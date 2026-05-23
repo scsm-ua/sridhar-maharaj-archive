@@ -1,5 +1,5 @@
 ---
-slug: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu
+slug: 1982-06-19-a1_uteshenie_dlya_stradayushchih_migrenyu
 record_id: 1982.06.19.A1
 title: Утешение для страдающих мигренью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 983. 1982.06.19.A1. Утешение для страдающих мигренью
   index: "983"
   filename: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu.md
+  slug: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu
 ---
 
 **Шрила Шридхар Махарадж:** Один врач мне говорил как-то, что это мигрень, головная боль. Он сказал: «У меня есть для вас утешение: люди, страдающие от подобной мигрени, как правило очень умны».

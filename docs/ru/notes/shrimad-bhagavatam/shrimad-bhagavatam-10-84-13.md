@@ -4,13 +4,14 @@ refs:
   - ../../66-vospominaniya-o-gaudiya-mathe/1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov.md
   - ../../_full/1982/08/1982.08.31.B.C.md
   - ../../_full/1983/02/1983.02.11.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
-  - title: Шри Шри Прапанна-дживанамритам 4.13
-    slug: shri-shri-prapanna-dzhivanamritam-4-13
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: Шри Шри Прапанна-дживанамритам 4.13
+    slug: shri-shri-prapanna-dzhivanamritam-4-13
   - title: Шримад-Бхагаватам 10.84.13
     slug: shrimad-bhagavatam-10-84-13
 ---

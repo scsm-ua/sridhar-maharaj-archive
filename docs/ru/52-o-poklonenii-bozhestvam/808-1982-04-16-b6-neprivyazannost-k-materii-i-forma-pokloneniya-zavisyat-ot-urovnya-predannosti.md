@@ -1,5 +1,5 @@
 ---
-slug: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti
+slug: 1982-04-16-b6_neprivyazannost_k_materii_i_forma_pokloneniya_zavisyat_ot_urovnya_predannosti
 record_id: 1982.04.16.B6
 title: Непривязанность к материи и форма поклонения зависят от уровня преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     от уровня преданности
   index: "808"
   filename: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti.md
+  slug: 808-1982-04-16-b6-neprivyazannost-k-materii-i-forma-pokloneniya-zavisyat-ot-urovnya-predannosti
 ---
 
 **Джаятиртха Махарадж:** Если кто-то, идущий по пути преданности, слишком озабочен внешними вещами и утрачивает внутреннюю искренность или внутреннее стремление к этому явлению (сознанию Кришны), то как он может избавиться от подобной тенденции?

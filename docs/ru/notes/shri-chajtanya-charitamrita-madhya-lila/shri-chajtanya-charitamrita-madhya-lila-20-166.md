@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-166
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
   - ../../13-lila-igra-chudesnogo-absolyuta/184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.166
     slug: shri-chajtanya-charitamrita-madhya-lila-20-166
 ---

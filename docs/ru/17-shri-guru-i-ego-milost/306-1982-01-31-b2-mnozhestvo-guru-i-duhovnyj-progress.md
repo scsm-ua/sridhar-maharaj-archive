@@ -1,5 +1,5 @@
 ---
-slug: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress
+slug: 1982-01-31-b2_mnozhestvo_guru_i_duhovnyy_progress
 record_id: 1982.01.31.B2
 title: Множество гуру и духовный прогресс
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 306. 1982.01.31.B2. Множество гуру и духовный прогресс
   index: "306"
   filename: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress.md
+  slug: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63

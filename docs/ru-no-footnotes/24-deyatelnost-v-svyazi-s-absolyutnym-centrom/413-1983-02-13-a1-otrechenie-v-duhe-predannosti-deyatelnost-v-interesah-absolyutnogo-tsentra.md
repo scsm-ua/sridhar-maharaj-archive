@@ -1,5 +1,5 @@
 ---
-slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
+slug: 1983-02-13-a1_otrechenie_v_duhe_predannosti_deyatelnost_v_interesah_absolyutnogo_tsentra
 record_id: 1983.02.13.A1
 title: Отречение в духе преданности – деятельность в интересах Абсолютного Центра
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     интересах Абсолютного Центра
   index: "413"
   filename: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra.md
+  slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
 ---
 
 В свои последние дни наш Шрила Гуру Махарадж имел обыкновение говорить, он говорил вновь и вновь: «Религия подразумевает занятие правильное позиции». В настоящее время наша позиция по отношению к окружающему мира неправильная, ошибочна.

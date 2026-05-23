@@ -1,5 +1,5 @@
 ---
-slug: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu
+slug: 1983-04-16-b2-c_predskazaniya_o_prihode_mahaprabhu
 record_id: 1983.04.16.B2.C
 title: Предсказания о приходе Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.33–34
     slug: shrimad-bhagavatam-11-5-33-34
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
     slug: shri-chajtanya-charitamrita-adi-lila-3-52
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.10
     slug: shri-chajtanya-charitamrita-antya-lila-20-10
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.100
     slug: shri-chajtanya-charitamrita-madhya-lila-11-100
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.342
@@ -48,6 +40,7 @@ legacy:
   title: 070. 1983.04.16.B2.С Предсказания о приходе Махапрабху
   index: "070"
   filename: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu.md
+  slug: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu
 ---
 
 Кто является инкарнацией, *аватарой* Кали-юги? «Бхагаватам» неожиданно начинает прославлять этого великого *юга-аватара*, утвердив прежде, кто Он, каковы характеристики этого *юга-аватара*.

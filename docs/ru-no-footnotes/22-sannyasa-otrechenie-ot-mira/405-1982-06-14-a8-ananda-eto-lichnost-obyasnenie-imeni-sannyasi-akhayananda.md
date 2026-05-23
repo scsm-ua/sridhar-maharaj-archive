@@ -1,5 +1,5 @@
 ---
-slug: 405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda
+slug: 1982-06-14-a8_ananda_eto_lichnost_obyasnenie_imeni_sannyasi_akhayananda
 record_id: 1982.06.14.A8
 title: Ананда – это Личность. Объяснение имени санньяси «Акхаянанда».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     «Акхаянанда»
   index: "405"
   filename: 405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda.md
+  slug: 405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda
 ---
 
 **Аранья Махарадж:** Акхаянанда Махарадж — как насчет его имени, это же имя *майявади*.

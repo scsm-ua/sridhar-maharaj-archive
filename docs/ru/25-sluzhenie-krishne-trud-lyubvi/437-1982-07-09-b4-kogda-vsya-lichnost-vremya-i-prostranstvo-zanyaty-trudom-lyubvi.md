@@ -1,5 +1,5 @@
 ---
-slug: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi
+slug: 1982-07-09-b4_kogda_vsya_lichnost_vremya_i_prostranstvo_zanyaty_trudom_lyubvi
 record_id: 1982.07.09.B4
 title: Когда вся личность, время и пространство заняты трудом любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 links:
@@ -31,6 +29,7 @@ legacy:
     трудом любви
   index: "437"
   filename: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi.md
+  slug: 437-1982-07-09-b4-kogda-vsya-lichnost-vremya-i-prostranstvo-zanyaty-trudom-lyubvi
 ---
 
     анйа̄бхила̄шита̄ ш́ӯнйам̇ джн̃а̄на-карма̄дй ана̄вр̣там

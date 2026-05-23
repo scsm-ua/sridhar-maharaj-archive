@@ -1,5 +1,5 @@
 ---
-slug: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie
+slug: 1982-02-15-b1_schitat_vse_duhovnye_kontseptsii_ravnymi_zabluzhdenie
 record_id: 1982.02.15.B1
 title: Считать все духовные концепции равными — заблуждение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1063. 1982.02.15.B1. Считать все духовные концепции равными — заблуждение
   index: "1063"
   filename: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie.md
+  slug: 1063-1982-02-15-b1-schitat-vse-duhovnye-kontseptsii-ravnymi-zabluzhdenie
 ---
 
 …представители миссии Рамакришны, например. Бог — это любые представления о Нем, любые представления о Нем реальны. Любой человек, носящий штамп «Божественное», может дать тебе Бога. Так утверждают последователи миссии Рамакришны. *Йата мата тата патха*[^_ftn1]. Не зависит от содержания, но любое мнение.

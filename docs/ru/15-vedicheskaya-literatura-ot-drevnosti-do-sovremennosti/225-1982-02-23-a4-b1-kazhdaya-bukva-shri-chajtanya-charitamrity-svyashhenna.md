@@ -1,5 +1,5 @@
 ---
-slug: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna
+slug: 1982-02-23-a4-b1_kazhdaya_bukva_shri_chaytanya_charitamrity_svyashchenna
 record_id: 1982.02.23.A4.B1
 title: Каждая буква «Шри Чайтанья Чаритамриты» священна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 225. 1982.02.23.A4.B1. Каждая буква «Шри Чайтанья Чаритамриты» священна
   index: "225"
   filename: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna.md
+  slug: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna
 ---
 
 Прабхупад Гуру Махарадж говорил, что каждая буква «Чайтанья-чаритамриты» *апракрита* — состоит из высшей и лучшей субстанции. Ничто в этом писании не является менее ценным по сравнению с другими частями, все обладает одинаковой ценностью.

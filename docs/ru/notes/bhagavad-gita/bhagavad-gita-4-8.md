@@ -5,9 +5,10 @@ refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary.md
   - ../../_full/1981/03/1981.03.03.md
   - ../../_full/1982/01/1982.01.25.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.8
     slug: bhagavad-gita-4-8
 ---

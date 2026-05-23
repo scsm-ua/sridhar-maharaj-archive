@@ -1,5 +1,5 @@
 ---
-slug: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya
+slug: 1982-06-10-b6_sarasvati_thakur_proyavlyal_svyaz_s_sarasvati_v_aspekte_uchenosti_no_ne_v_aspekte_peniya
 record_id: 1982.06.10.B6
 title: Сарасвати Тхакур проявлял связь с Сарасвати в аспекте учености, но не в
   аспекте пения
@@ -25,6 +25,7 @@ legacy:
     аспекте учености, но не в аспекте пения
   index: "1036"
   filename: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya.md
+  slug: 1036-1982-06-10-b6-sarasvati-thakur-proyavlyal-svyaz-s-sarasvati-v-aspekte-uchenosti-no-ne-v-aspekte-peniya
 ---
 
 **Акхаянанда Махарадж:** В «Анубхашье», возможно, говорится о различных титулах *санньяси*, и в связи с титулом «Сарасвати» говорится: «знаток *шастры* и также (я был удивлен, увидев это) *шастрийа-сангита*», то есть тот *санньяси*, который совершает *шастирйа-сангиту* с целью медитации. Это лишь в школе Шанкары, или, возможно, у вайшнавов также?

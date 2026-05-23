@@ -4,9 +4,10 @@ refs:
   - ../../33-dharma-uchenie-o-dolge/547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
   - ../../_full/1982/11/1982.11.02.A.md
   - ../../_full/1983/09/1983.09.16.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.41
     slug: bhagavad-gita-2-41
 ---

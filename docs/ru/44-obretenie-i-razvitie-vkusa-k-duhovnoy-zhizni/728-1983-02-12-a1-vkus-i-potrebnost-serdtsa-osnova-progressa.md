@@ -1,5 +1,5 @@
 ---
-slug: 728-1983-02-12-a1-vkus-i-potrebnost-serdtsa-osnova-progressa
+slug: 1983-02-12-a1_vkus_i_potrebnost_serdtsa_osnova_progressa
 record_id: 1983.02.12.A1
 title: Вкус и потребность сердца – основа прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 728. 1983.02.12.A1. Вкус и потребность сердца – основа прогресса
   index: "728"
   filename: 728-1983-02-12-a1-vkus-i-potrebnost-serdtsa-osnova-progressa.md
+  slug: 728-1983-02-12-a1-vkus-i-potrebnost-serdtsa-osnova-progressa
 ---
 
 **Преданный:** …проявление Шримати Радхарани. Он зависит от учеников, привязанных к определенной *расе*?

@@ -3,13 +3,14 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-105
 refs:
   - ../../_full/1981/12/1981.12.31.B.C.md
   - ../../_full/1981/12/1981.12.31.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.105
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-105
   - title: Кришна-карнамрита
     slug: krishna-karnamrita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.105
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-105
   - title: Кришна-карнамрита 68
     slug: krishna-karnamrita-68
 ---

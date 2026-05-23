@@ -1,5 +1,5 @@
 ---
-slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
+slug: 1982-02-20-b3_rupa_gosvami_o_pesne_shri_chaytani_pered_dzhagannathom
 record_id: 1982.02.20.B3
 title: Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,32 +17,22 @@ tags:
     slug: istoriya
   - title: история о шлоке Рупы Госвами на крыше хижины
     slug: istoriya-o-shloke-rupy-gosvami-na-kryshe-h
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.59
     slug: shri-chajtanya-charitamrita-madhya-lila-1-59
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
 links:
@@ -56,6 +46,7 @@ legacy:
   title: 090. 1982.02.20.В3 Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
   index: "090"
   filename: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom.md
+  slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
 ---
 
 **Преданный:** Максимальный риск — максимальный выигрыш.

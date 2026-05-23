@@ -1,5 +1,5 @@
 ---
-slug: 164-strategiya-propovedi-1983-03-30-b3
+slug: 1983-03-30-b3_strategiya_propovedi
 record_id: 1983.03.30.B3
 title: Стратегия проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 164. Стратегия проповеди. 1983.03.30.B3
   index: "164"
   filename: 164-strategiya-propovedi-1983-03-30-b3.md
+  slug: 164-strategiya-propovedi-1983-03-30-b3
 ---
 
 **Ученик:** Махарадж?

@@ -1,5 +1,5 @@
 ---
-slug: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa
+slug: 1981-08-10-b2_v_rupanuga-sampradae_rasprostranyaetsya_preimushchestvenno_madhura-rasa
 record_id: 1981.08.10.B2
 title: В Рупануга-сампрадае распространяется преимущественно мадхура-раса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     мадхура-раса
   index: "453"
   filename: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa.md
+  slug: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa
 ---
 
 **Госвами Махарадж:** Вы сказали однажды кому-то по поводу изменения *расы*, что это [бывает] редко, крайне редко. Когда Махапрабху пришел, *анарпита-чарӣм̇ чира̄т карун̣айа̄ватӣрн̣ах̣ калау*[^_ftn1] — это *мадхура-раса*, Он дал возможность всем *дживам* возвыситься до *мадхура-расы*. Дал ли Он всем дживам эту возможность, поскольку Он распространяет эти сантименты, это чувство?

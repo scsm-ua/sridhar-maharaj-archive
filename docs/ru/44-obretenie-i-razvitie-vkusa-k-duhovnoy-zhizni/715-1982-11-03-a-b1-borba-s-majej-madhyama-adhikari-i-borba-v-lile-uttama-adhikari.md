@@ -1,5 +1,5 @@
 ---
-slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
+slug: 1982-11-03-a-b1_borba_s_mayey_madhyama-adhikari_i_borba_v_lile_uttama-adhikari
 record_id: 1982.11.03.A.B1
 title: Борьба с майей мадхьяма-адхикари и борьба в лиле уттама-адхикари
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,18 @@ legacy:
     уттама-адхикари
   index: "715"
   filename: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari.md
+  slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
     slug: shri-chajtanya-charitamrita-madhya-lila-22-72
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
     slug: shri-chajtanya-charitamrita-madhya-lila-25-129
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
@@ -59,8 +52,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257

@@ -1,5 +1,5 @@
 ---
-slug: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta
+slug: 1982-03-29-d4_baladev_krishna_radharani_i_samopoznanie_absolyuta
 record_id: 1982.03.29.D4
 title: Баладев, Кришна, Радхарани и самопознание Абсолюта
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 634. 1982.03.29.D4. Баладев, Кришна, Радхарани и самопознание Абсолюта
   index: "634"
   filename: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta.md
+  slug: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
     slug: shri-chajtanya-charitamrita-madhya-lila-8-158
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.7–8
     slug: shvetashvatara-upanishad-6-7-8
 ---

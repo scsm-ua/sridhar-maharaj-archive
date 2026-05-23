@@ -1,5 +1,5 @@
 ---
-slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
+slug: 1983-04-01-a1_gradatsiya_svyashchennyh_pisaniy_velichie_shrimad-bhagavatam
 record_id: 1983.04.01.A1
 title: Градация священных писаний. Величие «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
   index: "214"
   filename: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
+  slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
 ---
 
 «Шримад-Бхагаватам» считается *маха-пураной*. В «Бхагаватам» присутствуют все десять симптомов *пураны*.

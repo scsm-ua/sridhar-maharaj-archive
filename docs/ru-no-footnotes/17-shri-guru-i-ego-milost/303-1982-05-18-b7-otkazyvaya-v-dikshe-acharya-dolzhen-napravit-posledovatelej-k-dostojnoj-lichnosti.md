@@ -1,5 +1,5 @@
 ---
-slug: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti
+slug: 1982-05-18-b7_otkazyvaya_v_dikshe_acharya_dolzhen_napravit_posledovateley_k_dostoynoy_lichnosti
 record_id: 1982.05.18.B7
 title: Отказывая в дикше, ачарья должен направить последователей к достойной личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     последователей к достойной личности
   index: "303"
   filename: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti.md
+  slug: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti
 ---
 
 **Преданный:** Махарадж, *Ачарья* может решить: «Я уже дал достаточно *дикш*», и приостановить…

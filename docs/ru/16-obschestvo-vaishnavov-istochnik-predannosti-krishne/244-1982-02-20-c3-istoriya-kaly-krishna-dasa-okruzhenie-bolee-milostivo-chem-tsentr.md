@@ -1,5 +1,5 @@
 ---
-slug: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr
+slug: 1982-02-20-c3_istoriya_kaly_krishna_dasa_okruzhenie_bolee_milostivo_chem_tsentr
 record_id: 1982.02.20.C3
 title: История Калы Кришна Даса — окружение более милостиво, чем центр
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     чем центр
   index: "244"
   filename: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr.md
+  slug: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr
 ---
 
 *#01:12:59#*

@@ -1,5 +1,5 @@
 ---
-slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
+slug: 1982-01-27-b3_zabvenie_krishny_istinnaya_smert
 record_id: 1982.01.27.B3
 title: Забвение Кришны — истинная смерть
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
   index: "410"
   filename: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
+  slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
 ---
 
     ко ну ра̄джанн индрийава̄н

@@ -1,5 +1,5 @@
 ---
-slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
+slug: 1982-05-10-b1_vayshnav_stremitsya_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem
 record_id: 1982.05.10.B1
 title: Вайшнав стремится занимать самое низкое положение и служить всем
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     служить всем
   index: "1028"
   filename: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem.md
+  slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 ---

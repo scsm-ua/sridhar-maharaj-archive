@@ -1,5 +1,5 @@
 ---
-slug: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty
+slug: 1982-03-31-a2_praktika_bhakti-yogi_9_vidov_predannogo_sluzheniya_i_drugie_aspekty
 record_id: 1982.03.31.A2
 title: Практика бхакти-йоги — 9 видов преданного служения и другие аспекты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     другие аспекты
   index: "786"
   filename: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
+  slug: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли у вас вопросы? У кого-то есть вопросы?

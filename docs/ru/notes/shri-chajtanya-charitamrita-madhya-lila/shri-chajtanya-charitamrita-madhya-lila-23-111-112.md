@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-23-111-112
 refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne.md
   - ../../_full/1982/07/1982.07.09.A.B1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.111–112
     slug: shri-chajtanya-charitamrita-madhya-lila-23-111-112
 ---

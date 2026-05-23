@@ -1,5 +1,5 @@
 ---
-slug: 669-1982-01-04-a1-kontseptsiya-vasudeva-sankarshany-pradyumny-i-aniruddhi
+slug: 1982-01-04-a1_kontseptsiya_vasudeva_sankarshany_pradyumny_i_aniruddhi
 record_id: 1982.01.04.A1
 title: Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 669. 1982.01.04.A1. Концепция Васудева, Санкаршаны, Прадьюмны и Анируддхи
   index: "669"
   filename: 669-1982-01-04-a1-kontseptsiya-vasudeva-sankarshany-pradyumny-i-aniruddhi.md
+  slug: 669-1982-01-04-a1-kontseptsiya-vasudeva-sankarshany-pradyumny-i-aniruddhi
 ---
 
 **Преданный:** В «Шримад-Бхагаватам» есть стих, в котором говорится, что ум — это комбинация *гуны* благости и эго, эгоизма в *саттва-гуне*, а разум — это эгоизм и страсть. Насколько я понимаю, в Бхагавад-гите разум находится выше ума, ум выше чувств. Как возможно, что разум…

@@ -1,5 +1,5 @@
 ---
-slug: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi
+slug: 1982-03-08-b6_mir_vozhdeleniya_i_mir_lyubvi
 record_id: 1982.03.08.B6
 title: Мир вожделения и мир любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,15 +23,12 @@ legacy:
   title: 562. 1982.03.08.B6. Мир вожделения и мир любви
   index: "562"
   filename: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi.md
+  slug: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi
 tags:
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 1.18.6
     slug: kalyana-kalpataru-1-18-6
   - title: Кальяна-калпатару 1.19.1
     slug: kalyana-kalpataru-1-19-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
 ---

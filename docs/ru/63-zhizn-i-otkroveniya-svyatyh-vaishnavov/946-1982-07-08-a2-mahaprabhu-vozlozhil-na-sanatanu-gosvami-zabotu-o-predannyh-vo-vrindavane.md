@@ -1,5 +1,5 @@
 ---
-slug: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane
+slug: 1982-07-08-a2_mahaprabhu_vozlozhil_na_sanatanu_gosvami_zabotu_o_predannyh_vo_vrindavane
 record_id: 1982.07.08.A2
 title: Махапрабху возложил на Санатану Госвами заботу о преданных во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     преданных во Вриндаване
   index: "946"
   filename: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane.md
+  slug: 946-1982-07-08-a2-mahaprabhu-vozlozhil-na-sanatanu-gosvami-zabotu-o-predannyh-vo-vrindavane
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.183
     slug: shri-chajtanya-charitamrita-madhya-lila-25-183
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode
+slug: 1982-11-07-b2_dusha_yavlyaetsya_atomom_bytiya_i_soznaniya_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode
 record_id: 1982.11.07.B2
 title: Душа является атомом бытия и сознания, но полнота блаженства присутствует
   только в Господе
@@ -25,6 +25,7 @@ legacy:
     блаженства присутствует только в Господе
   index: "003"
   filename: 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode.md
+  slug: 003_1982-11-07-b2_sridharmj_dusha_javljaetsja_atomom_bytija_i_soznanija_no_polnota_blazhenstva_prisutstvuet_tolko_v_gospode
 ---
 
 *Сат, чит, анандам*. *Валлабха-сампрадая* говорит: *сат* — материя. *Сат, чит* — и то и другое присутствует в *дживе*-душе. А *сат, чит, ананда* — присутствует лишь в третьем начале, в Боге.

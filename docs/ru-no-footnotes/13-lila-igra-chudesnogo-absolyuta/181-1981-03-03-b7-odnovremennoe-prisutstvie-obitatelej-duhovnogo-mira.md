@@ -1,5 +1,5 @@
 ---
-slug: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira
+slug: 1981-03-03-b7_odnovremennoe_prisutstvie_obitateley_duhovnogo_mira
 record_id: 1981.03.03.B7
 title: Одновременное присутствие обитателей духовного мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 181. 1981.03.03.B7. Одновременное присутствие обитателей духовного мира
   index: "181"
   filename: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira.md
+  slug: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira
 ---
 
 **Тамал Кришна Махарадж:** Одни и те же личности из *кришна-лилы* низошли в других образах в *гаура-лилу*. Мы поняли так, что Рамананда Рай является Вишакхой.

@@ -5,9 +5,10 @@ refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary.md
   - ../../61-ob-ezotericheskih-ucheniyah/911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
   - ../../_full/1983/02/1983.02.07.md
-tags:
+scriptures:
   - title: Веданта-сутра
     slug: vedanta-sutra
+verses:
   - title: Веданта-сутра 2.1.11
     slug: vedanta-sutra-2-1-11
 ---

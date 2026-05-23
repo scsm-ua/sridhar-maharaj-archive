@@ -1,5 +1,5 @@
 ---
-slug: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya
+slug: 1982-04-29-b2_polnota_istiny_v_prinyatii_edinstva_i_mnogoobraziya
 record_id: 1982.04.29.B2
 title: Полнота истины – в принятии единства и многообразия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 888. 1982.04.29.B2. Полнота истины – в принятии единства и многообразия
   index: "888"
   filename: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya.md
+  slug: 888-1982-04-29-b2-polnota-istiny-v-prinyatii-edinstva-i-mnogoobraziya
 ---
 
 **Акхаянанда Махарадж:** Махарадж, есть одно утверждение общего порядка: *неха нанасти кинчана*[^_ftn1]. Каков смысл этих слов?

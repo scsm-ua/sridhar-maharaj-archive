@@ -1,5 +1,5 @@
 ---
-slug: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami
+slug: 1983-06-05-c1_o_pervom_stihe_bhagavatam_i_poezii_rupy_gosvami
 record_id: 1983.06.05.C1
 title: О первом стихе «Бхагаватам» и поэзии Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
   index: "1098"
   filename: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
+  slug: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 1.3.31
@@ -38,12 +35,8 @@ tags:
     slug: shrimad-bhagavatam-11-20-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163

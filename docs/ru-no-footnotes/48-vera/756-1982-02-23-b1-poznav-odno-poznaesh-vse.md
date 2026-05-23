@@ -1,5 +1,5 @@
 ---
-slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
+slug: 1982-02-23-b1_poznav_odno_poznaesh_vse
 record_id: 1982.02.23.B1
 title: Познав Одно – познаешь все
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 756. 1982.02.23.B1. Познав Одно – познаешь все
   index: "756"
   filename: 756-1982-02-23-b1-poznav-odno-poznaesh-vse.md
+  slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
 ---
 
 *«Мгновения Прекрасной Реальности» (часть 6.1)*

@@ -1,5 +1,5 @@
 ---
-slug: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym
+slug: 1982-05-01-b3_kakovy_chuvstva_krishny_po_otnosheniyu_k_nepredannym
 record_id: 1982.05.01.B3
 title: Каковы чувства Кришны по отношению к непреданным?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 066. 1982.05.01.B3 Каковы чувства Кришны по отношению к непреданным?
   index: "066"
   filename: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym.md
+  slug: 066_1982-05-01-b3_sridharmj_kakovy_chuvstva_krishny_po_otnosheniju_k_nepredannym
 ---
 
 Каков его вопрос? Кто может перевести? Акхаянанда Махарадж!

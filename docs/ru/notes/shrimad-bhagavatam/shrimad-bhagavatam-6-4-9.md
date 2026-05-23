@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-6-4-9
 refs:
   - ../../_full/1982/12/1982.12.09.B.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.4.9
     slug: shrimad-bhagavatam-6-4-9
 ---

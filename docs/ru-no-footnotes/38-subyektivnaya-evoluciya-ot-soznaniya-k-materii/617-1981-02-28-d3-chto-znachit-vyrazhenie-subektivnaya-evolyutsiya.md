@@ -1,5 +1,5 @@
 ---
-slug: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya
+slug: 1981-02-28-d3_chto_znachit_vyrazhenie_subektivnaya_evolyutsiya
 record_id: 1981.02.28.D3
 title: Что значит выражение «Субъективная эволюция»?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 617. 1981.02.28.D3. Что значит выражение «Субъективная эволюция»?
   index: "617"
   filename: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya.md
+  slug: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya
 ---
 
 **Шрила Шридхар Махарадж:** Веданта означает «субъективная эволюция».

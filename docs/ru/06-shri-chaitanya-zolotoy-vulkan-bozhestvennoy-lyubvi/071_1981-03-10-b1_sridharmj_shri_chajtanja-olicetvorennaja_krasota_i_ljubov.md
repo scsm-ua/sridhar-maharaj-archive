@@ -1,5 +1,5 @@
 ---
-slug: 071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov
+slug: 1981-03-10-b1_shri_chaytanya_olitsetvorennaya_krasota_i_lyubov
 record_id: 1981.03.10.B1
 title: Шри Чайтанья — олицетворенная Красота и Любовь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.268
     slug: shri-chajtanya-charitamrita-madhya-lila-8-268
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.269
@@ -25,8 +23,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-287
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
 links:
@@ -40,6 +36,7 @@ legacy:
   title: 071. 1981.03.10.B1 Шри Чайтанья — олицетворенная Красота и Любовь
   index: "071"
   filename: 071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov.md
+  slug: 071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov
 ---
 
 Кто Он, Махапрабху? *Радха-Говинда-милита-тану* — лучезарное проявление земли Любви и Красоты и Тот, кто столь великодушен, что пришел, чтобы раздать Себя широким массам. Насколько ценное явление Он намерен дать всему человечеству, столь высокая степень великодушия и доброты! Донести до сознания людей то, что они могут иметь подобную перспективу и могут достичь этого, и это явление будет распространяемо отсюда. Да, таким было Его чувство, трансцендентное чувство.

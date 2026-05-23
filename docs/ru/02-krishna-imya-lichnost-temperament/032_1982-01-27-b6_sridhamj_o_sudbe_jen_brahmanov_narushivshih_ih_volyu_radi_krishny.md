@@ -1,5 +1,5 @@
 ---
-slug: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny
+slug: 1982-01-27-b6_o_sudbe_zhen_brahmanov_narushivshih_ih_volyu_radi_krishny
 record_id: 1982.01.27.B6
 title: О судьбе жен брахманов, нарушивших их волю ради Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 032. 1982.01.27.B6 О судьбе жен брахманов, нарушивших их волю ради Кришны
   index: "032"
   filename: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny.md
+  slug: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny
 ---
 
 **Ученик:** Махарадж, жены *браминов* — *ягья-патни* — не могли быть с Кришной и оставили тела. Это так?

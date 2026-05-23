@@ -2,9 +2,10 @@
 slug: sharanagati-24-9
 refs:
   - ../../_full/1982/10/1982.10.30.A.B.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 24.9
     slug: sharanagati-24-9
 ---

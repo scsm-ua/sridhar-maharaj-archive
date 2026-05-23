@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/01/1982.01.24.A.md
   - ../../_full/1983/01/1983.01.11.md
   - ../../_full/1983/12/1983.12.22.A0.A.md
-tags:
+scriptures:
   - title: Катха-упанишад
     slug: katha-upanishad
+verses:
   - title: Катха-упанишад 2.3.20
     slug: katha-upanishad-2-3-20
 ---

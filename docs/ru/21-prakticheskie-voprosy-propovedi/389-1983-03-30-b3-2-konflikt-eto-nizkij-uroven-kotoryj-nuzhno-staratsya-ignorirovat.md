@@ -1,5 +1,5 @@
 ---
-slug: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat
+slug: 1983-03-30-b3-2_konflikt_eto_nizkiy_uroven_kotoryy_nuzhno_staratsya_ignorirovat
 record_id: 1983.03.30.B3.2
 title: Конфликт – это низкий уровень, который нужно стараться игнорировать
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     стараться игнорировать
   index: "389"
   filename: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat.md
+  slug: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat
 ---
 
 **Преданный:** За несколько последних месяцев наша проповедническая зона расширилась очень значительно, очень успешно.

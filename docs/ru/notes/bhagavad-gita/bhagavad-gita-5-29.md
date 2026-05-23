@@ -36,9 +36,10 @@ refs:
   - ../../_full/1983/03/1983.03.02.md
   - ../../_full/1983/03/1983.03.31.md
   - ../../_full/1983/05/1983.05.04.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
 ---

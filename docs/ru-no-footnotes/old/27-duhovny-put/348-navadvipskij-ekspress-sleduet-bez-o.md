@@ -1,5 +1,5 @@
 ---
-slug: 348-navadvipskij-ekspress-sleduet-bez-o
+slug: 1983-03-31-b1_navadvipskiy_ekspress_sleduet_bez_ostanovok
 record_id: 1983.03.31.B1
 title: Навадвипский экспресс следует без остановок
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 348. Навадвипский экспресс следует без остановок. 1983.03.31.B1
   index: "348"
   filename: 348-navadvipskij-ekspress-sleduet-bez-o.md
+  slug: 348-navadvipskij-ekspress-sleduet-bez-o
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
+slug: 1982-05-10-c3_krishnu_obretayut_blagodarya_bhadzhanu_a_ne_smerti_fizicheskogo_tela
 record_id: 1982.05.10.C3
 title: Кришну обретают благодаря бхаджану, а не смерти физического тела
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
 links:
@@ -35,6 +31,7 @@ legacy:
     физического тела
   index: "847"
   filename: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela.md
+  slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
 ---
 
     джанма-мр̣тйу-джара̄-вйа̄дхи

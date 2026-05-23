@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-15-136
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
   - ../../_full/1982/01/1982.01.17.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136
     slug: shri-chajtanya-charitamrita-madhya-lila-15-136
 ---

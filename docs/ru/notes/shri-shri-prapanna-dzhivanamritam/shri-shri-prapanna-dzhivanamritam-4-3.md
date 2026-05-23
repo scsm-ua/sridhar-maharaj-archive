@@ -5,13 +5,14 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
   - ../../_full/1982/11/1982.11.08.C.md
   - ../../_full/1983/02/1983.02.11.md
-tags:
+scriptures:
   - title: Мукунда-мала-стотра
     slug: mukunda-mala-stotra
-  - title: Мукунда-мала-стотра 5
-    slug: mukunda-mala-stotra-5
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
+  - title: Мукунда-мала-стотра 5
+    slug: mukunda-mala-stotra-5
   - title: Шри Шри Прапанна-дживанамритам 4.3
     slug: shri-shri-prapanna-dzhivanamritam-4-3
 ---

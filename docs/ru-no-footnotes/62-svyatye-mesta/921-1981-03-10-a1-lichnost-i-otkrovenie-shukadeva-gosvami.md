@@ -1,5 +1,5 @@
 ---
-slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
+slug: 1981-03-10-a1_lichnost_i_otkrovenie_shukadeva_gosvami
 record_id: 1981.03.10.A1
 title: Личность и откровение Шукадева Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 921. 1981.03.10.A1. Личность и откровение Шукадева Госвами
   index: "921"
   filename: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami.md
+  slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
 ---
 
 **Шрила Шридхар Махарадж:** Это Киртанананда, Махарадж?

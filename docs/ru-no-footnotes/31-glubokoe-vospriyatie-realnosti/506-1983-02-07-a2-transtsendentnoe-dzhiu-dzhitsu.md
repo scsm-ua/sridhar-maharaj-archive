@@ -1,5 +1,5 @@
 ---
-slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
+slug: 1983-02-07-a2_transtsendentnoe_dzhiu-dzhitsu
 record_id: 1983.02.07.A2
 title: Трансцендентное джиу-джитсу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 506. 1983.02.07.A2. Трансцендентное джиу-джитсу
   index: "506"
   filename: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu.md
+  slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
 ---
 
     [маха̄-кр̣па̄-па̄тра прабхура] джага̄и, ма̄дха̄и

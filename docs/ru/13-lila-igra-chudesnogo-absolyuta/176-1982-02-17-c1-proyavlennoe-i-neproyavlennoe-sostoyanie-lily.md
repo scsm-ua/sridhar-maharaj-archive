@@ -1,5 +1,5 @@
 ---
-slug: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily
+slug: 1982-02-17-c1_proyavlennoe_i_neproyavlennoe_sostoyanie_lily
 record_id: 1982.02.17.C1
 title: Проявленное и непроявленное состояние лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Кришна-лила
     slug: krishna-lila
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.35
     slug: shrimad-bhagavatam-2-9-35
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 176. 1982.02.17.C1. Проявленное и непроявленное состояние лилы
   index: "176"
   filename: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily.md
+  slug: 176-1982-02-17-c1-proyavlennoe-i-neproyavlennoe-sostoyanie-lily
 ---
 
 «Чаритамрита» — полноценный полноразвитый теизм. И также упоминается: за пределами этого сотворенного мира вечно пребывает танцующий мир, вечный танец происходит. Здесь — сжатие и расширение, там — вечный танец. И он также бывает низшего и высшего типов, соответственно природе *расы, анандам*, экстаза, который является желанным объектом каждой частицы сознания.

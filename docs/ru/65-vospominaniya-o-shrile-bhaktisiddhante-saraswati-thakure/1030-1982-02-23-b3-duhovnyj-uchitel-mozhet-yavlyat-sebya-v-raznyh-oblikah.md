@@ -1,5 +1,5 @@
 ---
-slug: 1030-1982-02-23-b3-duhovnyj-uchitel-mozhet-yavlyat-sebya-v-raznyh-oblikah
+slug: 1982-02-23-b3_duhovnyy_uchitel_mozhet_yavlyat_sebya_v_raznyh_oblikah
 record_id: 1982.02.23.B3
 title: Духовный учитель может являть себя в разных обликах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1030. 1982.02.23.B3. Духовный учитель может являть себя в разных обликах
   index: "1030"
   filename: 1030-1982-02-23-b3-duhovnyj-uchitel-mozhet-yavlyat-sebya-v-raznyh-oblikah.md
+  slug: 1030-1982-02-23-b3-duhovnyj-uchitel-mozhet-yavlyat-sebya-v-raznyh-oblikah
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
 ---

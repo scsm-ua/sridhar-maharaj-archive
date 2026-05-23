@@ -1,5 +1,5 @@
 ---
-slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
+slug: 1982-05-15-b3_v_otlichie_ot_goloy_pravdy_istina_obladaet_kachestvami_milosti_i_krasoty
 record_id: 1982.05.15.B3
 title: В отличие от «голой правды» Истина обладает качествами милости и красоты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     качествами милости и красоты
   index: "517"
   filename: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty.md
+  slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
 ---
 
 *#00:06:09#*

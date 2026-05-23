@@ -1,5 +1,5 @@
 ---
-slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
+slug: 1982-01-29-b3_radi_sluzheniya_guru_mozhno_podnimatsya_na_prevoshodyashchiy_nas_uroven
 record_id: 1982.01.29.B3
 title: Ради служения Гуру можно подниматься на превосходящий нас уровень
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,27 +24,18 @@ legacy:
     превосходящий нас уровень
   index: "1024"
   filename: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven.md
+  slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.39
     slug: shri-chajtanya-charitamrita-antya-lila-13-39
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
     slug: shri-chajtanya-charitamrita-madhya-lila-10-178
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
     slug: shri-chajtanya-charitamrita-madhya-lila-24-133
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.1.44
     slug: bhakti-rasamrita-sindhu-3-1-44
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
+slug: 1983-05-04-a_rabstvo_u_absolyuta_vysochayshaya_svoboda
 record_id: 1983.05.04.A
 title: Рабство у Абсолюта — высочайшая свобода
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,12 +23,8 @@ tags:
     slug: svoboda
   - title: Шукадев Госвами
     slug: shukadev-gosvami
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.148
     slug: shri-chajtanya-charitamrita-madhya-lila-19-148
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
   - title: Бхагавад-гита 4.16
@@ -37,12 +33,8 @@ tags:
     slug: bhagavad-gita-2-69
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Ригведа
-    slug: rigveda
   - title: Ригведа 1.22.20
     slug: rigveda-1-22-20
   - title: Шримад-Бхагаватам 1.1.2
@@ -55,12 +47,8 @@ tags:
     slug: bhagavad-gita-2-59
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 16.25
     slug: shri-chajtanya-charitamrita-antya-lila-16-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.50
@@ -77,8 +65,6 @@ tags:
     slug: shrimad-bhagavatam-11-29-34
   - title: Бхагавад-гита 18.55
     slug: bhagavad-gita-18-55
-  - title: Кабе шри чаитанйа море корибена дойа
-    slug: kabe-shri-chaitanja-more-koribena-doja
   - title: Кабе шри чаитанйа море корибена дойа 1
     slug: kabe-shri-chaitanja-more-koribena-doja-1
   - title: Кабе шри чаитанйа море корибена дойа 2
@@ -98,6 +84,7 @@ legacy:
   title: 022. 1983.05.04.A Рабство у Абсолюта — высочайшая свобода
   index: "022"
   filename: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda.md
+  slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
 ---
 
 **Представление о подлинной свободе**

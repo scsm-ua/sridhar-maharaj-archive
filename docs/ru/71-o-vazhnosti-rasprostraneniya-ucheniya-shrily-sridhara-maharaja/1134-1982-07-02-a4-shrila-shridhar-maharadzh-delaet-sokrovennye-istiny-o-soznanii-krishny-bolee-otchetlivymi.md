@@ -1,5 +1,5 @@
 ---
-slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
+slug: 1982-07-02-a4_shrila_shridhar_maharadzh_delaet_sokrovennye_istiny_o_soznanii_krishny_bolee_otchetlivymi
 record_id: 1982.07.02.A4
 title: Шрила Шридхар Махарадж делает сокровенные истины о Сознании Кришны более
   отчетливыми
@@ -25,19 +25,14 @@ legacy:
     Сознании Кришны более отчетливыми
   index: "1134"
   filename: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
+  slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.26
     slug: bhagavad-gita-3-26
   - title: Бхагавад-гита 3.8
     slug: bhagavad-gita-3-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 ---

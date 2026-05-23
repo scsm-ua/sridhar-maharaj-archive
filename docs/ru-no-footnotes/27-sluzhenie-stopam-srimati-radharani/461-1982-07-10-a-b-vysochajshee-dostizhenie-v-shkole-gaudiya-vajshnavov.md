@@ -1,5 +1,5 @@
 ---
-slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
+slug: 1982-07-10-a-b_vysochayshee_dostizhenie_v_shkole_gaudiya-vayshnavov
 record_id: 1982.07.10.A.B
 title: Высочайшее достижение в школе гаудия-вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 461. 1982.07.10.A.B. Высочайшее достижение в школе гаудия-вайшнавов
   index: "461"
   filename: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov.md
+  slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
 ---
 
     [а̄ш́а̄-бхараир-амр̣та-синдху-майаих̣ катхан̃чит]

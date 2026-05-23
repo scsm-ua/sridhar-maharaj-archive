@@ -1,5 +1,5 @@
 ---
-slug: 109-tri-tipa-guru-transformatsiya-vospriya
+slug: 1981-03-02-a1_tri_tipa_guru_transformatsiya_vospriyatiya_guru
 record_id: 1981.03.02.A1
 title: Три типа гуру. Трансформация восприятия гуру.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 109. Три типа гуру. Трансформация восприятия гуру. 1981.03.02.A1
   index: "109"
   filename: 109-tri-tipa-guru-transformatsiya-vospriya.md
+  slug: 109-tri-tipa-guru-transformatsiya-vospriya
 ---
 
 *#00:00:00#*

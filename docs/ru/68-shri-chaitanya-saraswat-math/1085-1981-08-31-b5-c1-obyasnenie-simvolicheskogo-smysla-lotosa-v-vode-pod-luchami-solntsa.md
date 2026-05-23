@@ -1,5 +1,5 @@
 ---
-slug: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa
+slug: 1981-08-31-b5-c1_obyasnenie_simvolicheskogo_smysla_lotosa_v_vode_pod_luchami_solntsa
 record_id: 1981.08.31.B5.C1
 title: Объяснение символического смысла лотоса в воде под лучами солнца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     под лучами солнца
   index: "1085"
   filename: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
+  slug: 1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa
 tags:
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
     slug: shri-gurvashtaka-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.154
     slug: shri-chajtanya-charitamrita-madhya-lila-9-154
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94

@@ -5,9 +5,10 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah.md
   - ../../_full/1981/11/1981.11.12.md
   - ../../_full/1982/02/1982.02.17.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
     slug: shri-chajtanya-charitamrita-antya-lila-20-8
 ---

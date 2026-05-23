@@ -1,5 +1,5 @@
 ---
-slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
+slug: 1981-03-10-b5_gayatri_prizyvaet_k_sluzheniyu_lyubvi_i_krasote
 record_id: 1981.03.10.B5
 title: Гаятри призывает к служению Любви и Красоте
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 487. 1981.03.10.B5. Гаятри призывает к служению Любви и Красоте
   index: "487"
   filename: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote.md
+  slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
 ---
 
     (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’

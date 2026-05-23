@@ -1,5 +1,5 @@
 ---
-slug: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma
+slug: 1981-03-07-b4_nepokolebimaya_predannost_idealam_gaudiya-vayshnavizma
 record_id: 1981.03.07.B4
 title: Непоколебимая преданность идеалам Гаудия-вайшнавизма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 990. 1981.03.07.B4. Непоколебимая преданность идеалам Гаудия-вайшнавизма
   index: "990"
   filename: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma.md
+  slug: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma
 ---
 
 В мои последние дни, на закате моей жизни Прабхупад дает мне шанс говорить о нем. Многие мои друзья и духовные братья говорили мне, что я могу хорошо проповедовать интеллигенции, образованным людям в целом. Но мне не был присущ подобный темперамент проповедника, поэтому они жаловались на меня.

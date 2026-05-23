@@ -1,5 +1,5 @@
 ---
-slug: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda
+slug: 1983-03-30-a3_vayshnavy_vsegda_upovayut_na_zashchitu_gospoda
 record_id: 1983.03.30.A3
 title: Вайшнавы всегда уповают на защиту Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 828. 1983.03.30.A3. Вайшнавы всегда уповают на защиту Господа
   index: "828"
   filename: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda.md
+  slug: 828-1983-03-30-a3-vajshnavy-vsegda-upovayut-na-zashhitu-gospoda
 ---
 
 Нитьянанда Прабху… Его голова была разбита Джагаем и Мадхаем, и этот эпизод послужил Его (Нитьянанды) пропаганде в высшей степени. Даже Махапрабху хотел наказать их, но Нитьянанда остановил Его: «Не такого рода, — сказал Он, — в этой *аватаре* подобные действия не выглядят хорошо, они выходят за рамки обещания».

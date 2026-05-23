@@ -1,5 +1,5 @@
 ---
-slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
+slug: 1982-07-03-a4_berkli_vs_gegel_vse_prebyvaet_ne_v_nashem_a_vo_vselenskom_ume
 record_id: 1982.07.03.A4
 title: Беркли VS Гегель. Все пребывает не в нашем, а во Вселенском Уме.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Вселенском Уме
   index: "621"
   filename: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume.md
+  slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.2
     slug: bhagavad-gita-15-2
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 1.52
     slug: manu-samhita-1-52
 ---

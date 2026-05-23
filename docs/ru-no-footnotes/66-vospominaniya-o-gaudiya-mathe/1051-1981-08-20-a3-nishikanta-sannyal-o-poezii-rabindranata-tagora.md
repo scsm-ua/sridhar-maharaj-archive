@@ -1,5 +1,5 @@
 ---
-slug: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora
+slug: 1981-08-20-a3_nishikanta_sannyal_o_poezii_rabindranata_tagora
 record_id: 1981.08.20.A3
 title: Нишиканта Санньял о поэзии Рабиндраната Тагора
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1051. 1981.08.20.A3. Нишиканта Санньял о поэзии Рабиндраната Тагора
   index: "1051"
   filename: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora.md
+  slug: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora
 ---
 
 **Преданный:** [бенгали]

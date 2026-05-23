@@ -6,9 +6,10 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
   - ../../49-bhakti-velichie-predannosti-krishne/774-1982-05-06-a3-molitva-chistogo-predannogo.md
   - ../../49-bhakti-velichie-predannosti-krishne/785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
 ---

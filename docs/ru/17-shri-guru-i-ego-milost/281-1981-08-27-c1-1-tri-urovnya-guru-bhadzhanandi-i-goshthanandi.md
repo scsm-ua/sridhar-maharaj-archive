@@ -1,5 +1,5 @@
 ---
-slug: 281-1981-08-27-c1-1-tri-urovnya-guru-bhadzhanandi-i-goshthanandi
+slug: 1981-08-27-c1-1_tri_urovnya_guru_bhadzhanandi_i_goshthanandi
 record_id: 1981.08.27.C1.1
 title: Три уровня гуру. Бхаджананди и гоштхананди.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 281. 1981.08.27.C1.1. Три уровня гуру. Бхаджананди и гоштхананди
   index: "281"
   filename: 281-1981-08-27-c1-1-tri-urovnya-guru-bhadzhanandi-i-goshthanandi.md
+  slug: 281-1981-08-27-c1-1-tri-urovnya-guru-bhadzhanandi-i-goshthanandi
 ---
 
 **Госвами Махарадж:** Еще один вопрос, преданные задавали этот вопрос. Они слышали ваш пример гуру: одна стопа, которая покоится на почве Вайкунтхи, другая стопа здесь… Три категории гуру.

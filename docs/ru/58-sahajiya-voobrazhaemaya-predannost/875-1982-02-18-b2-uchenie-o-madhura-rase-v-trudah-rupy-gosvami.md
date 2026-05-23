@@ -1,5 +1,5 @@
 ---
-slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
+slug: 1982-02-18-b2_uchenie_o_madhura-rase_v_trudah_rupy_gosvami
 record_id: 1982.02.18.B2
 title: Учение о мадхура-расе в трудах Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,15 +23,12 @@ legacy:
   title: 875. 1982.02.18.B2. Учение о мадхура-расе в трудах Рупы Госвами
   index: "875"
   filename: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami.md
+  slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155

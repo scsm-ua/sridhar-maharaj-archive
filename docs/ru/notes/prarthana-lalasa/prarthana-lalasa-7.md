@@ -2,9 +2,10 @@
 slug: prarthana-lalasa-7
 refs:
   - ../../_full/1982/04/1982.04.27.B2.C1.md
-tags:
+scriptures:
   - title: «Прартхана», Лаласа
     slug: prarthana-lalasa
+verses:
   - title: «Прартхана», Лаласа 7
     slug: prarthana-lalasa-7
 ---

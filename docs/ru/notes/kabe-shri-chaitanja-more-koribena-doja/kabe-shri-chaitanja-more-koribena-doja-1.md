@@ -4,9 +4,10 @@ refs:
   - ../../02-krishna-imya-lichnost-temperament/022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda.md
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
   - ../../_full/1983/05/1983.05.04.md
-tags:
+scriptures:
   - title: Кабе шри чаитанйа море корибена дойа
     slug: kabe-shri-chaitanja-more-koribena-doja
+verses:
   - title: Кабе шри чаитанйа море корибена дойа 1
     slug: kabe-shri-chaitanja-more-koribena-doja-1
 ---

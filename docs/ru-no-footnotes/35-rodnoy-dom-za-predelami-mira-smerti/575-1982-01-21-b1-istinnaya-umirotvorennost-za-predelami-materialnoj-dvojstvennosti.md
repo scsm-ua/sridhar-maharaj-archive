@@ -1,5 +1,5 @@
 ---
-slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
+slug: 1982-01-21-b1_istinnaya_umirotvorennost_za_predelami_materialnoy_dvoystvennosti
 record_id: 1982.01.21.B1
 title: Истинная умиротворенность — за пределами материальной двойственности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     двойственности
   index: "575"
   filename: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
+  slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
 ---
 
 Я хотел, собственно, процитировать одну *шлоку*. Когда Шакунтала была взята из *ашрама* к царю, в то время лидер ашрама Карна Муни попросил двух *брахмачари*: «Завтра утром вы трое вместе с Шакунталой пойдете в столицу». И тогда утром они пробудились и увидели, и об этом говорится в *шлоке*:

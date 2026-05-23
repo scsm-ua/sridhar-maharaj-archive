@@ -13,13 +13,14 @@ refs:
   - ../../_full/1983/10/1983.10.29.B.md
   - ../../_full/1983/12/1983.12.29.A.md
   - ../../_full/1985/11/1985.11.07.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
-    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
   - title: Лагху-бхагаватамрита
     slug: laghu-bhagavatamrita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
 ---

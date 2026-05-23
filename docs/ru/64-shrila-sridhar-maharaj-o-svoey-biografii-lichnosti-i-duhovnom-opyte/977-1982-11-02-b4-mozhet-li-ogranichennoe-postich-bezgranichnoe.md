@@ -1,5 +1,5 @@
 ---
-slug: 977-1982-11-02-b4-mozhet-li-ogranichennoe-postich-bezgranichnoe
+slug: 1982-11-02-b4_mozhet_li_ogranichennoe_postich_bezgranichnoe
 record_id: 1982.11.02.B4
 title: Может ли ограниченное постичь Безграничное?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 977. 1982.11.02.B4. Может ли ограниченное постичь Безграничное?
   index: "977"
   filename: 977-1982-11-02-b4-mozhet-li-ogranichennoe-postich-bezgranichnoe.md
+  slug: 977-1982-11-02-b4-mozhet-li-ogranichennoe-postich-bezgranichnoe
 tags:
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
 ---

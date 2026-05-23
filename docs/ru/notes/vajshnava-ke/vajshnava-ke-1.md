@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/01/1982.01.29.md
   - ../../_full/1983/02/1983.02.11.md
   - ../../_full/1984/01/1984.01.25.A.md
-tags:
+scriptures:
   - title: Вайшнава ке
     slug: vajshnava-ke
+verses:
   - title: Вайшнава ке 1
     slug: vajshnava-ke-1
 ---

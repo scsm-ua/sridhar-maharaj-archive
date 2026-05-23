@@ -1,5 +1,5 @@
 ---
-slug: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah
+slug: 1982-05-06-a5_posvyashchenie_na_rasstoyanii_vozmozhno_v_znachitelnyh_i_isklyuchitelnyh_sluchayah
 record_id: 1982.05.06.A5
 title: Посвящение на расстоянии возможно в значительных и исключительных случаях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     исключительных случаях
   index: "330"
   filename: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah.md
+  slug: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah
 ---
 
 **Преданный:** Люди, которых я упоминал прежде в смысле *дикши*, — я не думаю, что они сумеют приехать в Индию, это невозможно для них всех.

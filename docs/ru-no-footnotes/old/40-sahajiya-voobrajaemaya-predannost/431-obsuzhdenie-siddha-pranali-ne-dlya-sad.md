@@ -1,5 +1,5 @@
 ---
-slug: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad
+slug: 1983-01-06-a2_obsuzhdenie_siddha-pranali_ne_dlya_sadhaki
 record_id: 1983.01.06.A2
 title: Обсуждение сиддха-пранали — не для садхаки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 431. Обсуждение сиддха-пранали — не для садхаки. 1983.01.06.A2
   index: "431"
   filename: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad.md
+  slug: 431-obsuzhdenie-siddha-pranali-ne-dlya-sad
 ---
 
 — Я читал, в Чайтанья Шикшамрите говорится о сита-пранали. И я уже задавал Вам об этом вопрос. Это необходимо, чтобы?..\

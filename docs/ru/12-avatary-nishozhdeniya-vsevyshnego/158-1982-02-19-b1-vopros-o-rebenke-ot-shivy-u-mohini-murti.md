@@ -1,5 +1,5 @@
 ---
-slug: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti
+slug: 1982-02-19-b1_vopros_o_rebenke_ot_shivy_u_mohini-murti
 record_id: 1982.02.19.B1
 title: Вопрос о ребенке от Шивы у Мохини-мурти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,12 +17,8 @@ tags:
     slug: mohini-murti
   - title: Шива
     slug: shiva
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 25.7
     slug: padma-purana-uttara-khanda-25-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.182
     slug: shri-chajtanya-charitamrita-madhya-lila-6-182
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.117–118
@@ -38,6 +34,7 @@ legacy:
   title: 158. 1982.02.19.B1. Вопрос о ребенке от Шивы у Мохини-мурти
   index: "158"
   filename: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti.md
+  slug: 158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti
 ---
 
 **Преданный:** Харе Кришна. В «Шримад-Бхагаватам» говорится: когда Вишну принял Мохини-*аватар*, Шива следовал за ним. В Южной Индии поклоняются сыну, рожденному Вишну от Шивы — Хари-Хара-путра. Это достоверно?

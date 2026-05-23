@@ -1,5 +1,5 @@
 ---
-slug: 932-1983-05-24-b3-istoriya-dzhayadeva-gosvami
+slug: 1983-05-24-b3_istoriya_dzhayadeva_gosvami
 record_id: 1983.05.24.B3
 title: История Джаядева Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 932. 1983.05.24.B3. История Джаядева Госвами
   index: "932"
   filename: 932-1983-05-24-b3-istoriya-dzhayadeva-gosvami.md
+  slug: 932-1983-05-24-b3-istoriya-dzhayadeva-gosvami
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.17
     slug: bhakti-rasamrita-sindhu-1-17
 ---

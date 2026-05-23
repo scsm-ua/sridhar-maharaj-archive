@@ -1,5 +1,5 @@
 ---
-slug: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa
+slug: 1982-07-27-a3_evolyutsionnyy_i_revolyutsionnyy_puti_progressa
 record_id: 1982.07.27.A3
 title: Эволюционный и революционный пути прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 734. 1982.07.27.A3. Эволюционный и революционный пути прогресса
   index: "734"
   filename: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa.md
+  slug: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.21.2
     slug: shrimad-bhagavatam-11-21-2
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63

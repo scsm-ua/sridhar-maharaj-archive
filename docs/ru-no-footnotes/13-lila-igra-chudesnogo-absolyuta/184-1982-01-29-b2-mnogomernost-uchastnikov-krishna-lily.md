@@ -1,5 +1,5 @@
 ---
-slug: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily
+slug: 1982-01-29-b2_mnogomernost_uchastnikov_krishna-lily
 record_id: 1982.01.29.B2
 title: Многомерность участников кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 184. 1982.01.29.B2. Многомерность участников кришна-лилы
   index: "184"
   filename: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
+  slug: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily
 ---
 
 **Преданный:** Вчера я читал «Кришна-сандарбху» в переводе Йати Махараджа, где говорится, что Деваки и Васудева были *ам̇ш́а-а̄виш̣т̣а*, воплощениями, частичными проявлениями двух личностей — Пришни и Сутапы.

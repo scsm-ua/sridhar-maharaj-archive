@@ -1,5 +1,5 @@
 ---
-slug: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym
+slug: 1982-07-02-b2_opisanie_vselennoy_v_vedicheskoy_literature_yavlyaetsya_subektivnym_a_ne_obektivnym
 record_id: 1982.07.02.B2
 title: Описание Вселенной в ведической литературе является субъективным, а не
   объективным
@@ -25,9 +25,8 @@ legacy:
     субъективным, а не объективным
   index: "636"
   filename: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym.md
+  slug: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
 ---

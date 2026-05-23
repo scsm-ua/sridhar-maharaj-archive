@@ -6,9 +6,10 @@ refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
   - ../../_full/1982/10/1982.10.08.A.B.md
   - ../../_full/1983/07/1983.07.28.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
     slug: shri-chajtanya-charitamrita-madhya-lila-19-137
 ---

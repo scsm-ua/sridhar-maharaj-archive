@@ -3,9 +3,10 @@ slug: padyavali-73
 refs:
   - ../../_full/1982/10/1982.10.08.A.B.md
   - ../../_full/1982/11/1982.11.26.A.B.md
-tags:
+scriptures:
   - title: Падьявали
     slug: padyavali
+verses:
   - title: Падьявали 73
     slug: padyavali-73
 ---

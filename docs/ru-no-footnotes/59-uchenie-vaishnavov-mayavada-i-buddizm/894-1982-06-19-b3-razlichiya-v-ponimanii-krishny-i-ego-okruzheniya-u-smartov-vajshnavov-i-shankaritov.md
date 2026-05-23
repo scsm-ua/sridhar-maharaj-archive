@@ -1,5 +1,5 @@
 ---
-slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
+slug: 1982-06-19-b3_razlichiya_v_ponimanii_krishny_i_ego_okruzheniya_u_smartov_vayshnavov_i_shankaritov
 record_id: 1982.06.19.B3
 title: Различия в понимании Кришны и Его окружения у смартов, вайшнавов и шанкаритов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     смартов, вайшнавов и шанкаритов
   index: "894"
   filename: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov.md
+  slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
 ---
 
 **Акхаянанда Махарадж:** Махарадж, нам говорят, что в Кали-югу — *харер на̄маива кевалам*[^_ftn1]. И *гуна-киртана*, *рупа-киртана*, *лила-киртана* — все это включено в *нама-киртан*?

@@ -29,13 +29,14 @@ refs:
   - ../../_full/1983/08/1983.08.30.A.B.md
   - ../../_full/1983/09/1983.09.22.A.B.md
   - ../../_full/1987/1987.XX.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
 ---

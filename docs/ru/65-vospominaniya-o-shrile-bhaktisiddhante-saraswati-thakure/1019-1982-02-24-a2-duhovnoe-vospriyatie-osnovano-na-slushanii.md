@@ -1,5 +1,5 @@
 ---
-slug: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii
+slug: 1982-02-24-a2_duhovnoe_vospriyatie_osnovano_na_slushanii
 record_id: 1982.02.24.A2
 title: Духовное восприятие основано на слушании
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1019. 1982.02.24.A2. Духовное восприятие основано на слушании
   index: "1019"
   filename: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii.md
+  slug: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii
 ---
 
 **Шрила Шридхар Махарадж:** Кто это стоит? Нет места?

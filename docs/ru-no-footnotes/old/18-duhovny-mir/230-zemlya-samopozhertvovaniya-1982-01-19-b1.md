@@ -1,5 +1,5 @@
 ---
-slug: 230-zemlya-samopozhertvovaniya-1982-01-19-b1
+slug: 1982-01-19-b1_zemlya_samopozhertvovaniya
 record_id: 1982.01.19.B1
 title: Земля самопожертвования
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 230. Земля самопожертвования. 1982.01.19.B1
   index: "230"
   filename: 230-zemlya-samopozhertvovaniya-1982-01-19-b1.md
+  slug: 230-zemlya-samopozhertvovaniya-1982-01-19-b1
 ---
 
 *#00:00:34#*

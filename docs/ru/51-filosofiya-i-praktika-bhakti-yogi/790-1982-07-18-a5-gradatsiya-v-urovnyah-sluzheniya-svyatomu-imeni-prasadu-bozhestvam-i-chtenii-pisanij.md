@@ -1,5 +1,5 @@
 ---
-slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
+slug: 1982-07-18-a5_gradatsiya_v_urovnyah_sluzheniya_svyatomu_imeni_prasadu_bozhestvam_i_chtenii_pisaniy
 record_id: 1982.07.18.A5
 title: Градация в уровнях служения Святому Имени, прасаду, Божествам и чтении Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Бхакти-йога
     slug: bhakti-joga
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.2.14
     slug: shrimad-bhagavatam-6-2-14
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 283
     slug: bhakti-sandarbha-283
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 links:
@@ -39,6 +33,7 @@ legacy:
     Божествам и чтении Писаний
   index: "790"
   filename: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
+  slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
 ---
 
 **Шрила Шридхар Махарадж:** Вы понимаете, нет?

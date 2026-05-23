@@ -1,5 +1,5 @@
 ---
-slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
+slug: 1982-11-22-b_maksimum_energii_dlya_dela_i_minimum_dlya_sozdaniya_blagopriyatnoy_obstanovki
 record_id: 1982.11.22.B
 title: Максимум энергии для дела – и минимум для создания благоприятной обстановки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Проповедь
     slug: propoved
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.25
     slug: bhagavad-gita-3-25
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.17.38
     slug: shrimad-bhagavatam-1-17-38
 links:
@@ -39,6 +33,7 @@ legacy:
     благоприятной обстановки
   index: "374"
   filename: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki.md
+  slug: 374-1982-11-22-b-maksimum-energii-dlya-dela-i-minimum-dlya-sozdaniya-blagopriyatnoj-obstanovki
 ---
 
 **Джагадиш Прабху:** Махарадж, могу я задать вопрос? Я недавно был инициирован — два года тому назад, но у меня есть некоторый опыт.

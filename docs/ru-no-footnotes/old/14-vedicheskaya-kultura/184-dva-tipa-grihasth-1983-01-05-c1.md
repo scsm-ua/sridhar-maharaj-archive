@@ -1,5 +1,5 @@
 ---
-slug: 184-dva-tipa-grihasth-1983-01-05-c1
+slug: 1983-01-05-c1_dva_tipa_grihasth
 record_id: 1983.01.05.C1
 title: Два типа грихастх
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 184. Два типа грихастх. 1983.01.05.C1
   index: "184"
   filename: 184-dva-tipa-grihasth-1983-01-05-c1.md
+  slug: 184-dva-tipa-grihasth-1983-01-05-c1
 ---
 
 **Преданный:** Махарадж.

@@ -30,9 +30,10 @@ refs:
   - ../../_full/1983/02/1983.02.14.md
   - ../../_full/1983/08/1983.08.28.B.C.md
   - ../../_full/1983/09/1983.09.21.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
 ---

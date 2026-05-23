@@ -1,5 +1,5 @@
 ---
-slug: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe
+slug: 1982-02-18-a1_pamyatovanie_o_stopah_krishny_razrushaet_vse_neblagopriyatnoe
 record_id: 1982.02.18.A1
 title: Памятование о стопах Кришны разрушает все неблагоприятное
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 409. 1982.02.18.A1. Памятование о стопах Кришны разрушает все неблагоприятное
   index: "409"
   filename: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe.md
+  slug: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe
 ---
 
 *«Онтология Прекрасной Реальности» (Часть 1.1)*

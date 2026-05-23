@@ -1,5 +1,5 @@
 ---
-slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
+slug: 1973-03-17-2_sovmestnaya_lektsiya_shrily_b_r_shridhara_maharadzha_i_a_ch_bhaktivedanty_svami_prabhupady
 record_id: 1973.03.17.2
 title: Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
   Свами Прабхупады.
@@ -25,29 +25,20 @@ legacy:
     А.Ч. Бхактиведанты Свами Прабхупады
   index: "1067"
   filename: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady.md
+  slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.88.8
     slug: shrimad-bhagavatam-10-88-8
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.218
     slug: shri-chajtanya-charitamrita-madhya-lila-1-218
   - title: Шримад-Бхагаватам 11.25.25
     slug: shrimad-bhagavatam-11-25-25
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
 ---

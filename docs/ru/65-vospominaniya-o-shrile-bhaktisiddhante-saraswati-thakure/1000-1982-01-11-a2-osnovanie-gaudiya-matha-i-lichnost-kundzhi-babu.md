@@ -1,5 +1,5 @@
 ---
-slug: 1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu
+slug: 1982-01-11-a2_osnovanie_gaudiya-matha_i_lichnost_kundzhi_babu
 record_id: 1982.01.11.A2
 title: Основание Гаудия-Матха и личность Кунджи Бабу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1000. 1982.01.11.A2. Основание Гаудия-Матха и личность Кунджи Бабу
   index: "1000"
   filename: 1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu.md
+  slug: 1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
     slug: shri-chajtanya-charitamrita-madhya-lila-22-144
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.42
     slug: shrimad-bhagavatam-11-5-42
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.141
@@ -42,8 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Шримад-Бхагаватам 5.5.18

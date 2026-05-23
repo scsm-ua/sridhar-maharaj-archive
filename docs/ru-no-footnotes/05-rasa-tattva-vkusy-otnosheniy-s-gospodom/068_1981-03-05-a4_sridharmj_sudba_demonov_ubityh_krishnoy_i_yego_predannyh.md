@@ -1,5 +1,5 @@
 ---
-slug: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh
+slug: 1981-03-05-a4_sudba_demonov_ubityh_krishnoy_i_ego_predannyh
 record_id: 1981.03.05.A4
 title: Судьба демонов, убитых Кришной, и Его преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 068. 1981.03.05.A4 Судьба демонов, убитых Кришной, и Его преданных
   index: "068"
   filename: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh.md
+  slug: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh
 ---
 
 **Шрила Госвами Махарадж:** Есть одна *шлока*, цитируемая в «Ади-лиле» «Чайтанья-чаритамриты». Она приводится в «Бхакти-расамрита-синдху» и в «Лагху-бхагаватамритам» Рупы Госвами:

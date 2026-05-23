@@ -1,5 +1,5 @@
 ---
-slug: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti
+slug: 1981-03-02-a3-b1_iskrennost_i_golos_sovesti_na_duhovnom_puti
 record_id: 1981.03.02.A3.B1
 title: Искренность и голос совести на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 730. 1981.03.02.A3.B1. Искренность и голос совести на духовном пути
   index: "730"
   filename: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti.md
+  slug: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
     slug: shri-chajtanya-charitamrita-madhya-lila-17-172
 ---

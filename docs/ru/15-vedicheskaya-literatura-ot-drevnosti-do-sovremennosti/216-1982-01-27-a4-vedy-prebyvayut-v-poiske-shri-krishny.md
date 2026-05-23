@@ -1,5 +1,5 @@
 ---
-slug: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny
+slug: 1982-01-27-a4_vedy_prebyvayut_v_poiske_shri_krishny
 record_id: 1982.01.27.A4
 title: Веды пребывают в поиске Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 216. 1982.01.27.A4. Веды пребывают в поиске Шри Кришны
   index: "216"
   filename: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny.md
+  slug: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
 ---

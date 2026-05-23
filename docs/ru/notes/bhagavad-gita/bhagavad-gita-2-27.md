@@ -3,9 +3,10 @@ slug: bhagavad-gita-2-27
 refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti.md
   - ../../_full/1982/07/1982.07.15.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.27
     slug: bhagavad-gita-2-27
 ---

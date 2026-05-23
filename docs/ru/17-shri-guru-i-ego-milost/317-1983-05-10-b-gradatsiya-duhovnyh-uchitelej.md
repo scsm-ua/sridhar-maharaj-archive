@@ -1,5 +1,5 @@
 ---
-slug: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej
+slug: 1983-05-10-b_gradatsiya_duhovnyh_uchiteley
 record_id: 1983.05.10.B
 title: Градация духовных учителей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
   - title: Бхагавад-гита 4.2
     slug: bhagavad-gita-4-2
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
 links:
@@ -36,6 +32,7 @@ legacy:
   title: 317. 1983.05.10.B. Градация духовных учителей
   index: "317"
   filename: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej.md
+  slug: 317-1983-05-10-b-gradatsiya-duhovnyh-uchitelej
 ---
 
 То, что, как мы видим, диктует универсальный интерес, мы должны читать во всем. Абсолютный интерес. Нам следует избавиться от мании локального интереса. Мы преданы Абсолюту. Градация присутствует в Нем, в вайшнавах. [В соответствии с тем,] насколько ты предан, [важна] интенсивность преданности.

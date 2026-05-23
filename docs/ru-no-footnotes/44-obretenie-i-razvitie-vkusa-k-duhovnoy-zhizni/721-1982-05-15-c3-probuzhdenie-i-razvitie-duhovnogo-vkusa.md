@@ -1,5 +1,5 @@
 ---
-slug: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa
+slug: 1982-05-15-c3_probuzhdenie_i_razvitie_duhovnogo_vkusa
 record_id: 1982.05.15.C3
 title: Пробуждение и развитие духовного вкуса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 721. 1982.05.15.C3. Пробуждение и развитие духовного вкуса
   index: "721"
   filename: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa.md
+  slug: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa
 ---
 
     ра̄джа-видйа̄ ра̄джа-гухйам̇ павитрам идам уттамам

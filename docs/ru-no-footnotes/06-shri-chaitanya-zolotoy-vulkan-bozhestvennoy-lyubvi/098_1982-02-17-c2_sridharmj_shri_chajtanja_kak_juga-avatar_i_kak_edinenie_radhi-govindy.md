@@ -1,5 +1,5 @@
 ---
-slug: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy
+slug: 1982-02-17-c2_shri_chaytanya_kak_yuga-avatar_i_kak_edinenie_radhi-govindy
 record_id: 1982.02.17.C2
 title: Шри Чайтанья как юга-аватар и как единение Радхи-Говинды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 098. 1982.02.17.C2 Шри Чайтанья как юга-аватар и как единение Радхи-Говинды
   index: "098"
   filename: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy.md
+  slug: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy
 ---
 
 **Преданный:** Махарадж?

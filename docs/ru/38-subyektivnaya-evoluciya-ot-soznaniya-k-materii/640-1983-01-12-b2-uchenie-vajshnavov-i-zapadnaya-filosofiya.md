@@ -1,5 +1,5 @@
 ---
-slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
+slug: 1983-01-12-b2_uchenie_vayshnavov_i_zapadnaya_filosofiya
 record_id: 1983.01.12.B2
 title: Учение вайшнавов и западная философия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 640. 1983.01.12.B2. Учение вайшнавов и западная философия
   index: "640"
   filename: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya.md
+  slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
     slug: shri-chajtanya-charitamrita-adi-lila-2-12
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9–11
     slug: mundaka-upanishad-2-2-9-11
 ---

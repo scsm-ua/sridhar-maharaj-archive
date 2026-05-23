@@ -4,9 +4,10 @@ refs:
   - ../../33-dharma-uchenie-o-dolge/532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma.md
   - ../../_full/1981/12/1981.12.14.A.B.md
   - ../../_full/1983/01/1983.01.07.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.13
     slug: bhagavad-gita-4-13
 ---

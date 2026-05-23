@@ -1,5 +1,5 @@
 ---
-slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
+slug: 1983-11-08-a-b1_opisanie_i_filosofskiy_smysl_govardhan-lily
 record_id: 1983.11.08.A.B1
 title: Описание и философский смысл Говардхан-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 664. 1983.11.08.A.B1. Описание и философский смысл Говардхан-лилы
   index: "664"
   filename: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily.md
+  slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
 ---
 
     [деве варш̣ати йаджн̃а-виплава-руш̣а̄] ваджра̄сма-варш̣а̄нилаих̣,

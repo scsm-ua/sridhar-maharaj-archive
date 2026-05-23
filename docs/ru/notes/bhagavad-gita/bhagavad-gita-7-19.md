@@ -30,9 +30,10 @@ refs:
   - ../../_full/1983/11/1983.11.26.A.B.md
   - ../../_full/1983/12/1983.12.22.B.C.md
   - ../../_full/1985/05/1985.05.01.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
 ---

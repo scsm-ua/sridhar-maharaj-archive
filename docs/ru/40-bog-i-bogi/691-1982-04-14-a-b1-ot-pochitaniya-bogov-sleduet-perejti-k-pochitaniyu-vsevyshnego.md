@@ -1,5 +1,5 @@
 ---
-slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
+slug: 1982-04-14-a-b1_ot_pochitaniya_bogov_sleduet_pereyti_k_pochitaniyu_vsevyshnego
 record_id: 1982.04.14.A.B1
 title: От почитания богов следует перейти к почитанию Всевышнего
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     Всевышнего
   index: "691"
   filename: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
+  slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
 tags:
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.50
     slug: shri-brahma-samhita-5-50
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.25
     slug: shri-chajtanya-charitamrita-antya-lila-20-25
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.23
     slug: bhagavad-gita-9-23
   - title: Бхагавад-гита 7.20
     slug: bhagavad-gita-7-20
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
     slug: shri-chajtanya-charitamrita-madhya-lila-11-31
 ---

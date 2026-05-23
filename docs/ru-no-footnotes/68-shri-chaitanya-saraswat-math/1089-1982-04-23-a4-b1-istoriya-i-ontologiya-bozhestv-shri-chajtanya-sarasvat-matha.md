@@ -1,5 +1,5 @@
 ---
-slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
+slug: 1982-04-23-a4-b1_istoriya_i_ontologiya_bozhestv_shri_chaytanya_sarasvat_matha
 record_id: 1982.04.23.A4.B1
 title: История и онтология Божеств «Шри Чайтанья Сарасват Матха»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Сарасват Матха»
   index: "1089"
   filename: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha.md
+  slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли другие вопросы у кого-то?

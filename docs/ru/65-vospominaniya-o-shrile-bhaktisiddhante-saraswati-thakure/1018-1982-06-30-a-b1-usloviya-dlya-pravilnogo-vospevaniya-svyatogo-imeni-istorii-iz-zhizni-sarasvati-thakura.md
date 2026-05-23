@@ -1,5 +1,5 @@
 ---
-slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
+slug: 1982-06-30-a-b1_usloviya_dlya_pravilnogo_vospevaniya_svyatogo_imeni_istorii_iz_zhizni_sarasvati_thakura
 record_id: 1982.06.30.A.B1
 title: Условия для правильного воспевания Святого Имени. Истории из жизни
   Сарасвати Тхакура.
@@ -25,43 +25,28 @@ legacy:
     Истории из жизни Сарасвати Тхакура
   index: "1018"
   filename: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura.md
+  slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.47
     slug: shri-chajtanya-charitamrita-adi-lila-1-47
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 8.5
     slug: kalyana-kalpataru-8-5
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.162
     slug: shri-chajtanya-charitamrita-madhya-lila-6-162
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
     slug: shri-chajtanya-charitamrita-antya-lila-17-27
   - title: Бхагавад-гита 4.16
@@ -76,8 +61,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-7-76
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
     slug: shri-chajtanya-charitamrita-madhya-lila-6-242
-  - title: Брихан-нарадия-пурана
-    slug: brihan-naradiya-purana
   - title: Брихан-нарадия-пурана 38.126
     slug: brihan-naradiya-purana-38-126
 ---

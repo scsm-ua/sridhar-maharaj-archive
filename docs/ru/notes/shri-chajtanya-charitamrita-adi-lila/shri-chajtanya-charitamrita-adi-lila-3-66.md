@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-adi-lila-3-66
 refs:
   - ../../_full/1983/03/1983.03.08.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.66
-    slug: shri-chajtanya-charitamrita-adi-lila-3-66
   - title: Шри Чайтаньяштака
     slug: shri-chajtanyashtaka
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.66
+    slug: shri-chajtanya-charitamrita-adi-lila-3-66
   - title: Шри Чайтаньяштака 1
     slug: shri-chajtanyashtaka-1
 ---

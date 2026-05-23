@@ -3,9 +3,10 @@ slug: manasa-deho-geho-5
 refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
   - ../../_full/1981/10/1981.10.04.A.B.md
-tags:
+scriptures:
   - title: Манаса дехо гехо
     slug: manasa-deho-geho
+verses:
   - title: Манаса дехо гехо 5
     slug: manasa-deho-geho-5
 ---

@@ -4,9 +4,10 @@ refs:
   - ../../_full/1981/11/1981.11.24.A.B.C.md
   - ../../_full/1982/11/1982.11.01.B.md
   - ../../_full/1983/09/1983.09.20.A.B.C.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 1.4
     slug: sharanagati-1-4
 ---

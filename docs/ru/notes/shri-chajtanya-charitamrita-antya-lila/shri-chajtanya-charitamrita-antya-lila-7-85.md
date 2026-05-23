@@ -5,9 +5,10 @@ refs:
   - ../../29-gayatri-mantra-i-mantra-om/491-1982-01-08-a-mantra-om.md
   - ../../_full/1982/01/1982.01.07.B.md
   - ../../_full/1982/01/1982.01.08.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.85
     slug: shri-chajtanya-charitamrita-antya-lila-7-85
 ---

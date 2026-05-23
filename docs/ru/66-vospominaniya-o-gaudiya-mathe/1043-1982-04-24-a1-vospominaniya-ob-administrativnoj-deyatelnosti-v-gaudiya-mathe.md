@@ -1,5 +1,5 @@
 ---
-slug: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe
+slug: 1982-04-24-a1_vospominaniya_ob_administrativnoy_deyatelnosti_v_gaudiya-mathe
 record_id: 1982.04.24.A1
 title: Воспоминания об административной деятельности в Гаудия-Матхе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Гаудия-Матхе
   index: "1043"
   filename: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe.md
+  slug: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe
 tags:
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

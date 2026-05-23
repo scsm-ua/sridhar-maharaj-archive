@@ -3,9 +3,10 @@ slug: shri-guru-parampara-8
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara.md
   - ../../_full/1983/06/1983.06.05.md
-tags:
+scriptures:
   - title: Шри Гуру-парампара
     slug: shri-guru-parampara
+verses:
   - title: Шри Гуру-парампара 8
     slug: shri-guru-parampara-8
 ---

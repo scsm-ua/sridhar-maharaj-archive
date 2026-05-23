@@ -1,5 +1,5 @@
 ---
-slug: 1013-1981-08-12-d2-shrila-sarasvati-thakur-o-brahmanah-i-vajshnavah
+slug: 1981-08-12-d2_shrila_sarasvati_thakur_o_brahmanah_i_vayshnavah
 record_id: 1981.08.12.D2
 title: Шрила Сарасвати Тхакур о брахманах и вайшнавах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 1013. 1981.08.12.D2. Шрила Сарасвати Тхакур о брахманах и вайшнавах
   index: "1013"
   filename: 1013-1981-08-12-d2-shrila-sarasvati-thakur-o-brahmanah-i-vajshnavah.md
+  slug: 1013-1981-08-12-d2-shrila-sarasvati-thakur-o-brahmanah-i-vajshnavah
 tags:
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 1
     slug: manah-shiksha-1
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
 ---

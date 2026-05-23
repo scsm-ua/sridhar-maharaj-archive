@@ -5,13 +5,14 @@ refs:
   - ../../_full/1981/09/1981.09.11.B.C.md
   - ../../_full/1981/11/1981.11.26.A.B.C.md
   - ../../_full/1981/12/1981.12.30.A.B.md
-tags:
+scriptures:
   - title: Джайва-дхарма
     slug: dzhajva-dharma
-  - title: Джайва-дхарма 7
-    slug: dzhajva-dharma-7
   - title: Према-виварта
     slug: prema-vivarta
+verses:
+  - title: Джайва-дхарма 7
+    slug: dzhajva-dharma-7
   - title: Према-виварта 6.13
     slug: prema-vivarta-6-13
 ---

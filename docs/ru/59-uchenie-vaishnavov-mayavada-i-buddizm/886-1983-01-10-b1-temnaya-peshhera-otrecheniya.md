@@ -1,5 +1,5 @@
 ---
-slug: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya
+slug: 1983-01-10-b1_temnaya_peshchera_otrecheniya
 record_id: 1983.01.10.B1
 title: Темная пещера отречения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 886. 1983.01.10.B1. Темная пещера отречения
   index: "886"
   filename: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya.md
+  slug: 886-1983-01-10-b1-temnaya-peshhera-otrecheniya
 tags:
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3.3
     slug: sharanagati-3-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257
     slug: shri-chajtanya-charitamrita-madhya-lila-8-257
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
@@ -40,8 +37,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.45

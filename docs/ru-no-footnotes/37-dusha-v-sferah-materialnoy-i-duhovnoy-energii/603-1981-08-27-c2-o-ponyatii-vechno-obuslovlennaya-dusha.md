@@ -1,5 +1,5 @@
 ---
-slug: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha
+slug: 1981-08-27-c2_o_ponyatii_vechno_obuslovlennaya_dusha
 record_id: 1981.08.27.C2
 title: О понятии «вечно обусловленная душа»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 603. 1981.08.27.C2. О понятии «вечно обусловленная душа»
   index: "603"
   filename: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha.md
+  slug: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha
 ---
 
 **Госвами Махарадж:** *Джива* — это атомарная частица, атом *чит-шакти*, фрагмент. Когда *джива* просветлена *чит-шакти*, *хладини* (этой энергией блаженства), может ли она оставить это положение?

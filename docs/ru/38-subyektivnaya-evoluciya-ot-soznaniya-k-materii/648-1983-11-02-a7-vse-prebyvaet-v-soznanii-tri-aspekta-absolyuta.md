@@ -1,5 +1,5 @@
 ---
-slug: 648-1983-11-02-a7-vse-prebyvaet-v-soznanii-tri-aspekta-absolyuta
+slug: 1983-11-02-a7_vse_prebyvaet_v_soznanii_tri_aspekta_absolyuta
 record_id: 1983.11.02.A7
 title: Все пребывает в сознании. Три аспекта Абсолюта.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 648. 1983.11.02.A7. Все пребывает в сознании. Три аспекта Абсолюта
   index: "648"
   filename: 648-1983-11-02-a7-vse-prebyvaet-v-soznanii-tri-aspekta-absolyuta.md
+  slug: 648-1983-11-02-a7-vse-prebyvaet-v-soznanii-tri-aspekta-absolyuta
 ---
 
 **Преданный:** Недавно наука открыла, что эти частицы — электроны — одновременно и частицы, и волна. Похоже на концепцию Махапрабху — *ачинтья бхедабхеда*.

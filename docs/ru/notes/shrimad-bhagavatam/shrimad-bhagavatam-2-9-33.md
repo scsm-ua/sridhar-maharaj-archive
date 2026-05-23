@@ -4,9 +4,10 @@ refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36.md
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.9.33
     slug: shrimad-bhagavatam-2-9-33
 ---

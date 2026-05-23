@@ -3,13 +3,14 @@ slug: shrimad-bhagavatam-11-19-21
 refs:
   - ../../_full/1981/08/1981.08.22.md
   - ../../_full/1983/12/1983.12.29.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.29
-    slug: shri-chajtanya-charitamrita-madhya-lila-11-29
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.29
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-29
   - title: Шримад-Бхагаватам 11.19.21
     slug: shrimad-bhagavatam-11-19-21
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane
+slug: 1982-06-08-a2_o_dozvolenii_na_upotreblenie_myasa_i_vina_v_nekotoryh_vedicheskih_pisaniyah_biblii_i_korane
 record_id: 1982.06.08.A2
 title: О дозволении на употребление мяса и вина в некоторых ведических Писаниях,
   Библии и Коране
@@ -25,6 +25,7 @@ legacy:
     ведических Писаниях, Библии и Коране
   index: "752"
   filename: 752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane.md
+  slug: 752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane
 ---
 
 **Видагдха Мадхава Прабху:** В районе Парматалы есть большой храм Кали под большим баньяновым деревом, и там…

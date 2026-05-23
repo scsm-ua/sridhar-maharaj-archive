@@ -7,13 +7,14 @@ refs:
   - ../../_full/1981/10/1981.10.01.B.md
   - ../../_full/1982/02/1982.02.24.A1.md
   - ../../_full/1983/07/1983.07.08.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-58
   - title: Вишну-пурана
     slug: vishnu-purana
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-58
   - title: Вишну-пурана 3.8.9
     slug: vishnu-purana-3-8-9
 ---

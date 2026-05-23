@@ -4,9 +4,10 @@ refs:
   - ../../21-prakticheskie-voprosy-propovedi/373-1983-03-31-b3-izvlech-naibolshuyu-vygodu-iz-durnoj-sdelki.md
   - ../../_full/1983/03/1983.03.31.md
   - ../../_full/1983/10/1983.10.14.A.B.md
-tags:
+scriptures:
   - title: Шуддха-бхаката
     slug: shuddha-bhakata
+verses:
   - title: Шуддха-бхаката 6
     slug: shuddha-bhakata-6
 ---

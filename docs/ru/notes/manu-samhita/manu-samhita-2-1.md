@@ -41,9 +41,10 @@ refs:
   - ../../_full/1983/11/1983.11.19.A.B.md
   - ../../_full/1983/12/1983.12.14.A.md
   - ../../_full/1984/01/1984.01.15.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
+verses:
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 ---

@@ -3,9 +3,10 @@ slug: bhagavad-gita-3-37
 refs:
   - ../../43-trudnosti-i-duhovnyy-put-ispytaniya-mayi/709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.37
     slug: bhagavad-gita-3-37
 ---

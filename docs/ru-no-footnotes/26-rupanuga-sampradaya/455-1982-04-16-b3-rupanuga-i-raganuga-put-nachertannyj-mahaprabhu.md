@@ -1,5 +1,5 @@
 ---
-slug: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu
+slug: 1982-04-16-b3_rupanuga_i_raganuga_put_nachertannyy_mahaprabhu
 record_id: 1982.04.16.B3
 title: Рупануга и рагануга – путь, начертанный Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 455. 1982.04.16.B3. Рупануга и рагануга – путь, начертанный Махапрабху
   index: "455"
   filename: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu.md
+  slug: 455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu
 ---
 
 Гаудия-вайшнавы, последователи Махапрабху, рекомендовали нам *рагануга* и *рупануга*. Прежде всего мы *рагануги*, мы не следуем пути закона, правил и предписаний, но в большей степени выбираем путь сердца, связь от сердца к сердцу. Это *рагануга*.

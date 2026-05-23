@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-25-25
 refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady.md
   - ../../_full/1973/03/1973.03.00.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.25.25
     slug: shrimad-bhagavatam-11-25-25
 ---

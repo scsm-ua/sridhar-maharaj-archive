@@ -1,5 +1,5 @@
 ---
-slug: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami
+slug: 1983-04-16-a5_svyaz_s_sakhya-rasoy_krishnadasa_babadzhi_i_bhaktivedanty_svami
 record_id: 1983.04.16.A5
 title: Связь с сакхья-расой Кришнадаса Бабаджи и Бхактиведанты Свами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактиведанты Свами
   index: "967"
   filename: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami.md
+  slug: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami
 ---
 
 **Преданный:** Махарадж, года три-четыре назад, возможно, я спрашивал вас: тождество моего Гуру Махараджа согласно вашей *вичаре*, вашим суждения может быть в духовном мире… Общий анализ показывает нечто… Я хотел спросить вас то же самое о Кришнадасе Бабаджи.

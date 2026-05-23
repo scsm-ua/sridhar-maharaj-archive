@@ -1,5 +1,5 @@
 ---
-slug: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami
+slug: 1982-04-18-a3_printsip_parakii_v_nastavlenii_raghunathu_dasu_gosvami
 record_id: 1982.04.18.A3
 title: Принцип паракии в наставлении Рагхунатху Дасу Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 949. 1982.04.18.A3. Принцип паракии в наставлении Рагхунатху Дасу Госвами
   index: "949"
   filename: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami.md
+  slug: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami
 ---
 
 Принцип *паракии* — понимаете ли вы его? Права, которые заявляет муж на свою жену, представлены нашей прошлой, предыдущей кармой, нашими обязательствами. Наша прошлая карма — мы уже не свободны, существуют *самскары*, ментальные импульсы, и они владеют нами, распоряжаются нашей свободой.

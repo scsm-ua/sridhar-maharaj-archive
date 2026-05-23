@@ -3,9 +3,10 @@ slug: bhakti-rasamrita-sindhu-1-2-259
 refs:
   - ../../_full/1982/12/1982.12.07.B.C.md
   - ../../_full/1983/09/1983.09.20.A.B.C.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.2.259
     slug: bhakti-rasamrita-sindhu-1-2-259
 ---

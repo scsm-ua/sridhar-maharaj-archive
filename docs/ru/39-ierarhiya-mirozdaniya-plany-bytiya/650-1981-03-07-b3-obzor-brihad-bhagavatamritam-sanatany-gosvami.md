@@ -1,5 +1,5 @@
 ---
-slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
+slug: 1981-03-07-b3_obzor_brihad_bhagavatamritam_sanatany_gosvami
 record_id: 1981.03.07.B3
 title: Обзор Брихад Бхагаватамритам Санатаны Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
   index: "650"
   filename: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami.md
+  slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15

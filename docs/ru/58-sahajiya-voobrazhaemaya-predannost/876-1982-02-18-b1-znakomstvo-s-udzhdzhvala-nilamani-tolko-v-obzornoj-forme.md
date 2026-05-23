@@ -1,5 +1,5 @@
 ---
-slug: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme
+slug: 1982-02-18-b1_znakomstvo_s_udzhdzhvala-nilamani_tolko_v_obzornoy_forme
 record_id: 1982.02.18.B1
 title: Знакомство с «Уджджвала-ниламани» — только в обзорной форме
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,15 +24,12 @@ legacy:
     форме
   index: "876"
   filename: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme.md
+  slug: 876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155

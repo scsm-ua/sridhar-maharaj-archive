@@ -1,5 +1,5 @@
 ---
-slug: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha
+slug: 1982-01-12-c2_ramananda-samvada_klyuch_k_ponimaniyu_ucheniya_shridhara_maharadzha
 record_id: 1982.01.12.C2
 title: Рамананда-самвада — ключ к пониманию учения Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,16 +17,10 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-  - title: Гауранга каруна коро
-    slug: gauranga-karuna-koro
   - title: Гауранга каруна коро 3
     slug: gauranga-karuna-koro-3
 links:
@@ -41,6 +35,7 @@ legacy:
     Махараджа
   index: "131"
   filename: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha.md
+  slug: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha
 ---
 
 Махапрабху и Рамананда Рай. Мое сердце внимательно следует за их беседой. Это мое любимое явление: развитие теистической концепции гаудия-вайшнавизма, школы Бхагавата, в беседе Рамананды Рая и Махапрабху. Это развитие сполна представлено в их дискуссии. Махапрабху задает вопросы, а Рамананда отвечает: так шаг за шагом мы восходим до вершины. Я с пристальным вниманием следую за их беседой, и это ключ ко всем моим работам.

@@ -1,5 +1,5 @@
 ---
-slug: 285-zhiznennyj-put-raghunatha-dasa-gosv
+slug: 1983-05-04-b1_zhiznennyy_put_raghunatha_dasa_gosvami
 record_id: 1983.05.04.B1
 title: Жизненный путь Рагхунатха Даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 285. Жизненный путь Рагхунатха Даса Госвами. 1983.05.04.B1
   index: "285"
   filename: 285-zhiznennyj-put-raghunatha-dasa-gosv.md
+  slug: 285-zhiznennyj-put-raghunatha-dasa-gosv
 ---
 
 **Преданный:** Мы видим, как Рагхунатх Дас Госвами принимал руководство Махапрабху, затем Сварупы Дамодара, затем Рупы и Санатаны…

@@ -1,5 +1,5 @@
 ---
-slug: 207-subektivnaya-evolyutsiya-i-svoboda-vol
+slug: 1981-03-01-a4_subektivnaya_evolyutsiya_i_svoboda_voli_dushi
 record_id: 1981.03.01.A4
 title: Субъективная эволюция и свобода воли души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 207. Субъективная эволюция и свобода воли души. 1981.03.01.A4
   index: "207"
   filename: 207-subektivnaya-evolyutsiya-i-svoboda-vol.md
+  slug: 207-subektivnaya-evolyutsiya-i-svoboda-vol
 ---
 
 **Шридхар Махарадж:** Да, субъективное взаимоотношение, не объективное. Субъективная эволюция. Это *вайчитра* – многообразие, результат субъективной эволюции. От тонкого к грубому – таким образом.

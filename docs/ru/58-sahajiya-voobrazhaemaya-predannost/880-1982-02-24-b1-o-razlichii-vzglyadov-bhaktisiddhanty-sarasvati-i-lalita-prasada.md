@@ -1,5 +1,5 @@
 ---
-slug: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada
+slug: 1982-02-24-b1_o_razlichii_vzglyadov_bhaktisiddhanty_sarasvati_i_lalita_prasada
 record_id: 1982.02.24.B1
 title: О различии взглядов Бхактисиддханты Сарасвати и Лалита Прасада
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Лалита Прасада
   index: "880"
   filename: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada.md
+  slug: 880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.20
     slug: bhagavad-gita-7-20
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 ---

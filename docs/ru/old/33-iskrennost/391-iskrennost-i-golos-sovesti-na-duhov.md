@@ -1,5 +1,5 @@
 ---
-slug: 391-iskrennost-i-golos-sovesti-na-duhov
+slug: 1981-03-02-a3-b1_iskrennost_i_golos_sovesti_na_duhovnom_puti
 record_id: 1981.03.02.A3.B1
 title: Искренность и голос совести на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 391. Искренность и голос совести на духовном пути. 1981.03.02.A3.B1
   index: "391"
   filename: 391-iskrennost-i-golos-sovesti-na-duhov.md
+  slug: 391-iskrennost-i-golos-sovesti-na-duhov
 ---
 
 **Шридхар Махарадж:** Искренность – лучшая квалификация. Искренность, чистота. Внутренняя чистота есть искренность. *Шраддха*.

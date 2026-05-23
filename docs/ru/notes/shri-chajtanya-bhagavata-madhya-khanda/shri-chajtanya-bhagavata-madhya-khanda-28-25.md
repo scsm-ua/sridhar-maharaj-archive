@@ -5,9 +5,10 @@ refs:
   - ../../_full/1982/01/1982.01.11.C.md
   - ../../_full/1982/05/1982.05.15.B2.md
   - ../../_full/1982/11/1982.11.14.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 26
     slug: shri-chajtanya-bhagavata-madhya-khanda-26
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28

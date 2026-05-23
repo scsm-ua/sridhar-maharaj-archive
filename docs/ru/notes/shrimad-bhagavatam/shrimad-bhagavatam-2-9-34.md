@@ -7,17 +7,18 @@ refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
   - ../../_full/1983/06/1983.06.27.md
   - ../../_full/1983/07/1983.07.28.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
-    slug: shri-chajtanya-charitamrita-adi-lila-1-54
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
-    slug: shri-chajtanya-charitamrita-madhya-lila-25-119
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
+    slug: shri-chajtanya-charitamrita-adi-lila-1-54
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-119
   - title: Шримад-Бхагаватам 2.9.34
     slug: shrimad-bhagavatam-2-9-34
 ---

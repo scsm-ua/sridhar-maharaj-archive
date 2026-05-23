@@ -1,5 +1,5 @@
 ---
-slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
+slug: 1982-03-30-b4_v_redkih_sluchayah_sadhu_mozhet_osvobodit_dushu_iz_brahmana
 record_id: 1982.03.30.B4
 title: В редких случаях садху может освободить душу из Брахмана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-154
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
 links:
@@ -36,6 +32,7 @@ legacy:
   title: 607. 1982.03.30.B4. В редких случаях садху может освободить душу из Брахмана
   index: "607"
   filename: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana.md
+  slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
 ---
 
 **Преданный:** Вот там, в задних рядах есть вопрос.

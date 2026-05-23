@@ -1,5 +1,5 @@
 ---
-slug: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity
+slug: 1982-07-04-a3_obyasnenie_stiha_o_slave_bhagavad-gity
 record_id: 1982.07.04.A3
 title: Объяснение стиха о славе «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 219. 1982.07.04.A3. Объяснение стиха о славе «Бхагавад-гиты»
   index: "219"
   filename: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity.md
+  slug: 219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity
 ---
 
 [Преданный говорит на бенгали.]

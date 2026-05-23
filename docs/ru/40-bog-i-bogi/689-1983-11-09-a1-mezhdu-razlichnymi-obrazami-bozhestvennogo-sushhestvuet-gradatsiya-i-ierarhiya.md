@@ -1,5 +1,5 @@
 ---
-slug: 689-1983-11-09-a1-mezhdu-razlichnymi-obrazami-bozhestvennogo-sushhestvuet-gradatsiya-i-ierarhiya
+slug: 1983-11-09-a1_mezhdu_razlichnymi_obrazami_bozhestvennogo_sushchestvuet_gradatsiya_i_ierarhiya
 record_id: 1983.11.09.A1
 title: Между различными образами Божественного существует градация и иерархия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     градация и иерархия
   index: "689"
   filename: 689-1983-11-09-a1-mezhdu-razlichnymi-obrazami-bozhestvennogo-sushhestvuet-gradatsiya-i-ierarhiya.md
+  slug: 689-1983-11-09-a1-mezhdu-razlichnymi-obrazami-bozhestvennogo-sushhestvuet-gradatsiya-i-ierarhiya
 tags:
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 ---

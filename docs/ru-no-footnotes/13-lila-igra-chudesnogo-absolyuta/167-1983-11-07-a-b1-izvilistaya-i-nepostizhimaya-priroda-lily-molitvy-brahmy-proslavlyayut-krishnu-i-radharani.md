@@ -1,5 +1,5 @@
 ---
-slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
+slug: 1983-11-07-a-b1_izvilistaya_i_nepostizhimaya_priroda_lily_molitvy_brahmy_proslavlyayut_krishnu_i_radharani
 record_id: 1983.11.07.A.B1
 title: Извилистая и непостижимая природа лилы. Молитвы Брахмы прославляют Кришну
   и Радхарани.
@@ -27,6 +27,7 @@ legacy:
     Брахмы прославляют Кришну и Радхарани
   index: "167"
   filename: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani.md
+  slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
 ---
 
 **Шрила Госвами Махарадж:** Махарадж, *Брахма*—*вимохана-лила*: после того, как Господь Брахма начинает возносить молитвы Кришне — *джн̃а̄не прайа̄сам удапа̄сйа наманта эва*[^_ftn1] — прославлять Кришну, он молится о том, чтобы находиться во Вриндаване в качестве кустика, растения. Эта молитва аналогична молитве Уддхавы? После того, как он начинает прославлять Кришну?

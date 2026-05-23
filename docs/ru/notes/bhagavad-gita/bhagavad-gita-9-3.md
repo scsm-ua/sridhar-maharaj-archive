@@ -2,9 +2,10 @@
 slug: bhagavad-gita-9-3
 refs:
   - ../../_full/1982/10/1982.10.17.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.3
     slug: bhagavad-gita-9-3
 ---

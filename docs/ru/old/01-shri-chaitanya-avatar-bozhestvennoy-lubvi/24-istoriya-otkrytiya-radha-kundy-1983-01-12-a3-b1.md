@@ -1,5 +1,5 @@
 ---
-slug: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1
+slug: 1983-01-12-a3-b1_istoriya_otkrytiya_radha-kundy
 record_id: 1983.01.12.A3.B1
 title: История открытия Радха-кунды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 24. История открытия Радха-кунды. 1983.01.12.A3.B1
   index: "24"
   filename: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1.md
+  slug: 24-istoriya-otkrytiya-radha-kundy-1983-01-12-a3-b1
 ---
 
 **Робин Шервуд:** Робин. Робин, так пишется мое имя.

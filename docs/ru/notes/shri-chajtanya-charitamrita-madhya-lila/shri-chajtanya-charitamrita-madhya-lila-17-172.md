@@ -6,9 +6,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma.md
   - ../../_full/1981/03/1981.03.02.md
   - ../../_full/1981/03/1981.03.04.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
     slug: shri-chajtanya-charitamrita-madhya-lila-17-172
 ---

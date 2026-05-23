@@ -1,5 +1,5 @@
 ---
-slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
+slug: 1982-11-06-b2_obyasnenie_pesni_shri_rupa-mandzhari-pada_narottama_dasa_thakura
 record_id: 1982.11.06.B2
 title: Объяснение песни Шри Рупа-Манджари-пада Нароттама Даса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Даса Тхакура
   index: "452"
   filename: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura.md
+  slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
 ---
 
 Другую специфическую черту мы находим в Нароттаме Тхакуре: тот, кто был столь непоколебим в преданности своему Гуру, Локанатху Госвами, кто был готов заплатить высочайшую цену за эту связь, не был слепым последователем. Хотя мы видим, что он, отвергая Дживу Госвами, Гопала Бхатту Госвами, отдал, вручил себя Локанатху Госвами и обрел его милость, тем не менее он не был слепым последователем. Как, почему?

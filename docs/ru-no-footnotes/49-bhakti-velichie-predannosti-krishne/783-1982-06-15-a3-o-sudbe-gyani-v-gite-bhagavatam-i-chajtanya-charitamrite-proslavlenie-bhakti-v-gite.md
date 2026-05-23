@@ -1,5 +1,5 @@
 ---
-slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
+slug: 1982-06-15-a3_o_sudbe_gyani_v_gite_bhagavatam_i_chaytanya-charitamrite_proslavlenie_bhakti_v_gite
 record_id: 1982.06.15.A3
 title: О судьбе гьяни в «Гите», «Бхагаватам» и «Чайтанья-чаритамрите».
   Прославление бхакти в «Гите».
@@ -28,6 +28,7 @@ legacy:
     «Чайтанья-чаритамрите». Прославление бхакти в «Гите»
   index: "783"
   filename: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite.md
+  slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
 ---
 
 **Акхаянанда Махарадж:** *Бхакти-йога* и *бхакти* как таковая: *бхакти-йога* — это то же самое, что *бхакти*, или присутствует тонкое различие?

@@ -1,5 +1,5 @@
 ---
-slug: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi
+slug: 1982-04-29-a1_milost_vayshnavov_i_sotrudnichestvo_s_nimi_put_k_istseleniyu_dushi
 record_id: 1982.04.29.A1
 title: Милость вайшнавов и сотрудничество с ними – путь к исцелению души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     исцелению души
   index: "263"
   filename: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi.md
+  slug: 263-1982-04-29-a1-milost-vajshnavov-i-sotrudnichestvo-s-nimi-put-k-istseleniyu-dushi
 ---
 
 **Госвами Махарадж:** Находится ли искренность в рамках свободной воли *дживы*?

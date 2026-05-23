@@ -1,5 +1,5 @@
 ---
-slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
+slug: 1982-04-18-b2-c_vrindavan_das_thakur_chaytanya_bhagavata_i_chaytanya_charitamrita
 record_id: 1982.04.18.B2.C
 title: Вриндаван Дас Тхакур, «Чайтанья Бхагавата» и «Чайтанья Чаритамрита»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,15 +24,12 @@ legacy:
     «Чайтанья Чаритамрита»
   index: "951"
   filename: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita.md
+  slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.2
     slug: shri-chajtanya-charitamrita-adi-lila-1-2
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.84
     slug: shri-chajtanya-charitamrita-adi-lila-1-84
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.2
     slug: shri-chajtanya-charitamrita-madhya-lila-1-2
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.35
@@ -49,16 +46,12 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-8-39
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
     slug: shri-chajtanya-charitamrita-adi-lila-8-78
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 17.158
     slug: shri-chajtanya-bhagavata-adi-khanda-17-158
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 9.225
     slug: shri-chajtanya-bhagavata-adi-khanda-9-225
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.1

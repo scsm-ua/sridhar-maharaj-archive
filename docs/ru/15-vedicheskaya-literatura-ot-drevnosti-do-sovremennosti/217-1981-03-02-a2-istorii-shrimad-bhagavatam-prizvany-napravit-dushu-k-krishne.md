@@ -1,5 +1,5 @@
 ---
-slug: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne
+slug: 1981-03-02-a2_istorii_shrimad-bhagavatam_prizvany_napravit_dushu_k_krishne
 record_id: 1981.03.02.A2
 title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     Кришне
   index: "217"
   filename: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne.md
+  slug: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.146
     slug: shri-chajtanya-charitamrita-madhya-lila-20-146
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.120
     slug: shri-chajtanya-charitamrita-madhya-lila-20-120
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
 ---

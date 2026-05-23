@@ -1,5 +1,5 @@
 ---
-slug: 1082-1983-11-09-c2-1-bhaktivedanta-svami-napravil-svoih-uchenikov-k-stopam-shridhara-maharadzha
+slug: 1983-11-09-c2-1_bhaktivedanta_svami_napravil_svoih_uchenikov_k_stopam_shridhara_maharadzha
 record_id: 1983.11.09.C2.1
 title: Бхактиведанта Свами направил своих учеников к стопам Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     стопам Шридхара Махараджа
   index: "1082"
   filename: 1082-1983-11-09-c2-1-bhaktivedanta-svami-napravil-svoih-uchenikov-k-stopam-shridhara-maharadzha.md
+  slug: 1082-1983-11-09-c2-1-bhaktivedanta-svami-napravil-svoih-uchenikov-k-stopam-shridhara-maharadzha
 ---
 
 **Шрила Шридхар Махарадж:** Который час?

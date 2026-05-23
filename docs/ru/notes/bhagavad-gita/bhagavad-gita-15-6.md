@@ -25,9 +25,10 @@ refs:
   - ../../_full/1983/09/1983.09.01.B.C.md
   - ../../_full/1983/09/1983.09.07.A.md
   - ../../_full/1983/12/1983.12.14.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 15.6
     slug: bhagavad-gita-15-6
 ---

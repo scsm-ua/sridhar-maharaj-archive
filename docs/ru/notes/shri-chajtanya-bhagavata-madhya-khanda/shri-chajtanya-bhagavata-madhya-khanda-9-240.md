@@ -3,9 +3,10 @@ slug: shri-chajtanya-bhagavata-madhya-khanda-9-240
 refs:
   - ../../_full/1982/01/1982.01.20.md
   - ../../_full/1982/08/1982.08.19.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 9.240
     slug: shri-chajtanya-bhagavata-madhya-khanda-9-240
 ---

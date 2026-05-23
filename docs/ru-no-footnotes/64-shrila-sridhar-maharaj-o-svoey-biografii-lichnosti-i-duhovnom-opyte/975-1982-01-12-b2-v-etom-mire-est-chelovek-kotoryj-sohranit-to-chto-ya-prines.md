@@ -1,5 +1,5 @@
 ---
-slug: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines
+slug: 1982-01-12-b2_v_etom_mire_est_chelovek_kotoryy_sohranit_to_chto_ya_prines
 record_id: 1982.01.12.B2
 title: «В этом мире есть человек, который сохранит то, что я принес»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     принес»
   index: "975"
   filename: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines.md
+  slug: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines
 ---
 
 **Преданный:** Кална — это место, где Гаура-Нитай пришли и стали Божествами?

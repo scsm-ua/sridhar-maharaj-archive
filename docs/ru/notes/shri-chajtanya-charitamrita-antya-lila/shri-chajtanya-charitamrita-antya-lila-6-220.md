@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-antya-lila-6-220
 refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne.md
   - ../../_full/1982/07/1982.07.09.A.B1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.220
     slug: shri-chajtanya-charitamrita-antya-lila-6-220
 ---

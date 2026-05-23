@@ -1,5 +1,5 @@
 ---
-slug: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy
+slug: 1982-06-08-b1_izbavitsya_ot_privyazannosti_k_forme_i_obresti_obshirnoe_videnie_guru-tattvy
 record_id: 1982.06.08.B1
 title: Избавиться от привязанности к форме и обрести обширное видение гуру-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     обширное видение гуру-таттвы
   index: "309"
   filename: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy.md
+  slug: 309-1982-06-08-b1-izbavitsya-ot-privyazannosti-k-forme-i-obresti-obshirnoe-videnie-guru-tattvy
 ---
 
 **Акхаянанда Махарадж:** Махарадж!

@@ -2,9 +2,10 @@
 slug: manu-samhita-1-8
 refs:
   - ../../_full/1982/02/1982.02.17.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
+verses:
   - title: Ману-самхита 1.8
     slug: manu-samhita-1-8
 ---

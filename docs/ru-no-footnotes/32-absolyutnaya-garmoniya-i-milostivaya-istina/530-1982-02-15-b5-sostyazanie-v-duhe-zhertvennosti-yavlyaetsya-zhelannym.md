@@ -1,5 +1,5 @@
 ---
-slug: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym
+slug: 1982-02-15-b5_sostyazanie_v_duhe_zhertvennosti_yavlyaetsya_zhelannym
 record_id: 1982.02.15.B5
 title: Состязание в духе жертвенности является желанным
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 530. 1982.02.15.B5. Состязание в духе жертвенности является желанным
   index: "530"
   filename: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym.md
+  slug: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym
 ---
 
 **Преданный:** Разные группы близких слуг?

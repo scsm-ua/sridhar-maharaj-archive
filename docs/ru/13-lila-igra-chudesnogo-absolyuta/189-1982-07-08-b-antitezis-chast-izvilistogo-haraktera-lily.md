@@ -1,5 +1,5 @@
 ---
-slug: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily
+slug: 1982-07-08-b_antitezis_chast_izvilistogo_haraktera_lily
 record_id: 1982.07.08.B
 title: Антитезис – часть извилистого характера лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 189. 1982.07.08.B. Антитезис – часть извилистого характера лилы
   index: "189"
   filename: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily.md
+  slug: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily
 tags:
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67

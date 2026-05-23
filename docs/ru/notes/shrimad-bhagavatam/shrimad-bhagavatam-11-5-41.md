@@ -4,13 +4,14 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu.md
   - ../../_full/1981/09/1981.09.20.A.B.md
   - ../../_full/1982/01/1982.01.11.A2.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.141
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-141
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-141
   - title: Шримад-Бхагаватам 11.5.41
     slug: shrimad-bhagavatam-11-5-41
 ---

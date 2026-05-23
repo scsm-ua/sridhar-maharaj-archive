@@ -1,5 +1,5 @@
 ---
-slug: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami
+slug: 1983-11-28-a1_velichie_krishna-kathi_istoriya_s_alvarami
 record_id: 1983.11.28.A1
 title: Величие кришна-катхи. История с Альварами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 239. 1983.11.28.A1. Величие кришна-катхи. История с Альварами
   index: "239"
   filename: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami.md
+  slug: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami
 ---
 
 *Кришна-катха*…

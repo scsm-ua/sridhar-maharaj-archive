@@ -1,5 +1,5 @@
 ---
-slug: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady
+slug: 1983-11-08-b2_muzhestvo_i_propoved_sarasvati_thakura_i_bhaktivedanty_svami_prabhupady
 record_id: 1983.11.08.B2
 title: Мужество и проповедь Сарасвати Тхакура и Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактиведанты Свами Прабхупады
   index: "1078"
   filename: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
+  slug: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady
 ---
 
 Бог творит чудеса, Его пути чудесны. Наш почитаемый Свами Махарадж… Мы не могли в целом понять, что он осуществит такую удивительную работу, или, скорее, Кришна осуществит через него, столь чудесную работу, служение Махапрабху. Мы не в состоянии были оценить по достоинству, но внезапно это случилось.

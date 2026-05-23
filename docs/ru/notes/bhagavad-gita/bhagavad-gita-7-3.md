@@ -14,9 +14,10 @@ refs:
   - ../../_full/1982/11/1982.11.08.C.md
   - ../../_full/1983/01/1983.01.04.md
   - ../../_full/1983/03/1983.03.02.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.3
     slug: bhagavad-gita-7-3
 ---

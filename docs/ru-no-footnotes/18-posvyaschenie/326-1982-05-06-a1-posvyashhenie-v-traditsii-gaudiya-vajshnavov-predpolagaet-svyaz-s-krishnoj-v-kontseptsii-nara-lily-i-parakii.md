@@ -1,5 +1,5 @@
 ---
-slug: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii
+slug: 1982-05-06-a1_posvyashchenie_v_traditsii_gaudiya-vayshnavov_predpolagaet_svyaz_s_krishnoy_v_kontseptsii_nara-lily_i_parakii
 record_id: 1982.05.06.A1
 title: Посвящение в традиции гаудия-вайшнавов предполагает связь с Кришной в
   концепции нара-лилы и паракии
@@ -28,6 +28,7 @@ legacy:
     связь с Кришной в концепции нара-лилы и паракии
   index: "326"
   filename: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii.md
+  slug: 326-1982-05-06-a1-posvyashhenie-v-traditsii-gaudiya-vajshnavov-predpolagaet-svyaz-s-krishnoj-v-kontseptsii-nara-lily-i-parakii
 ---
 
 **Госвами Махарадж:** Махарадж?

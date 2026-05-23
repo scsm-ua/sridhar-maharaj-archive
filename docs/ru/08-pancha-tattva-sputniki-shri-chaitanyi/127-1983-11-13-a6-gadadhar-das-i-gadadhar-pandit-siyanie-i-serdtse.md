@@ -1,5 +1,5 @@
 ---
-slug: 127-1983-11-13-a6-gadadhar-das-i-gadadhar-pandit-siyanie-i-serdtse
+slug: 1983-11-13-a6_gadadhar_das_i_gadadhar_pandit_siyanie_i_serdtse
 record_id: 1983.11.13.A6
 title: "Гададхар Дас и Гададхар Пандит: сияние и сердце"
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Гададхар Пандит
     slug: gadadhar-pandit
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
@@ -32,6 +30,7 @@ legacy:
   title: "127. 1983.11.13.A6. Гададхар Дас и Гададхар Пандит: сияние и сердце"
   index: "127"
   filename: 127-1983-11-13-a6-gadadhar-das-i-gadadhar-pandit-siyanie-i-serdtse.md
+  slug: 127-1983-11-13-a6-gadadhar-das-i-gadadhar-pandit-siyanie-i-serdtse
 ---
 
 Также сегодня — День Явления Дхананджая Пандита, Гададхара Даса и другого вайшнава. Кого? Гададхар Дас, Дхананджай Пандит…

@@ -1,5 +1,5 @@
 ---
-slug: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany
+slug: 1982-01-12-c4_razlichie_bhadzhana_i_archany
 record_id: 1982.01.12.C4
 title: Различие бхаджана и арчаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 806. 1982.01.12.C4. Различие бхаджана и арчаны
   index: "806"
   filename: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany.md
+  slug: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany
 ---
 
 **Преданный:** Махарадж?

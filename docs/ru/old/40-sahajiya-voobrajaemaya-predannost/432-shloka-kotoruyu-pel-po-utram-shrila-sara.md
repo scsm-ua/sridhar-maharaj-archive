@@ -1,5 +1,5 @@
 ---
-slug: 432-shloka-kotoruyu-pel-po-utram-shrila-sara
+slug: 1981-11-12-c1_shloka_kotoruyu_pel_po_utram_shrila_sarasvati_thakur
 record_id: 1981.11.12.C1
 title: Шлока, которую пел по утрам Шрила Сарасвати Тхакур
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 432. Шлока, которую пел по утрам Шрила Сарасвати Тхакур. 1981.11.12.C1
   index: "432"
   filename: 432-shloka-kotoruyu-pel-po-utram-shrila-sara.md
+  slug: 432-shloka-kotoruyu-pel-po-utram-shrila-sara
 ---
 
 **Ученик:** Махарадж, вы знаете этих двоих санньяси? Они оба ученики Свами Махараджа.

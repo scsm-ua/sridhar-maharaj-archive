@@ -1,5 +1,5 @@
 ---
-slug: 419-stremlenie-byt-slugoj-slugi-nastr
+slug: 1981-08-19-b_stremlenie_byt_slugoy_slugi_nastroenie_vayshnava
 record_id: 1981.08.19.B
 title: Стремление быть слугой слуги – настроение вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 419. Стремление быть слугой слуги – настроение вайшнава. 1981.08.19.B
   index: "419"
   filename: 419-stremlenie-byt-slugoj-slugi-nastr.md
+  slug: 419-stremlenie-byt-slugoj-slugi-nastr
 ---
 
 *#00:00:00#*

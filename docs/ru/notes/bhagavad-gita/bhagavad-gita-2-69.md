@@ -48,9 +48,10 @@ refs:
   - ../../_full/1983/10/1983.10.23.A.B.md
   - ../../_full/1983/10/1983.10.29.C1.md
   - ../../_full/1983/12/1983.12.20.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
 ---

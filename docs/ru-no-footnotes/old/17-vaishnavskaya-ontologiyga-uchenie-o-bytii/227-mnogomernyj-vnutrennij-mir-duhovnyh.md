@@ -1,5 +1,5 @@
 ---
-slug: 227-mnogomernyj-vnutrennij-mir-duhovnyh
+slug: 1983-01-04-a4_mnogomernyy_vnutrenniy_mir_duhovnyh_lichnostey
 record_id: 1983.01.04.A4
 title: Многомерный внутренний мир духовных личностей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 227. Многомерный внутренний мир духовных личностей. 1983.01.04.A4
   index: "227"
   filename: 227-mnogomernyj-vnutrennij-mir-duhovnyh.md
+  slug: 227-mnogomernyj-vnutrennij-mir-duhovnyh
 ---
 
 **Преданный:** Есть еще один вопрос. В Махабхарате говорится, что Юдхиштхира вместо Голоки отправился в рай.

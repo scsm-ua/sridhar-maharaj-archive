@@ -1,5 +1,5 @@
 ---
-slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
+slug: 1982-05-14-c3_sposoben_li_ty_pokinut_moe_serdtse
 record_id: 1982.05.14.C3
 title: Способен ли Ты покинуть мое сердце?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
     slug: shri-chajtanya-charitamrita-madhya-lila-10-178
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
     slug: shri-chajtanya-charitamrita-madhya-lila-24-133
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.1.44
     slug: bhakti-rasamrita-sindhu-3-1-44
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 links:
@@ -40,6 +34,7 @@ legacy:
   title: 768. 1982.05.14.C3. Способен ли Ты покинуть мое сердце?
   index: "768"
   filename: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse.md
+  slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
 ---
 
     [шлока]

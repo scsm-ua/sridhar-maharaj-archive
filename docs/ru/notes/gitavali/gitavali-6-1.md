@@ -2,9 +2,10 @@
 slug: gitavali-6-1
 refs:
   - ../../_full/1983/04/1983.04.15.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 6.1
     slug: gitavali-6-1
 ---

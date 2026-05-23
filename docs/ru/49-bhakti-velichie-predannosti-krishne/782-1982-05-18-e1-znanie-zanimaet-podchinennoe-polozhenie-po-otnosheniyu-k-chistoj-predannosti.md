@@ -1,5 +1,5 @@
 ---
-slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
+slug: 1982-05-18-e1_znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniyu_k_chistoy_predannosti
 record_id: 1982.05.18.E1
 title: Знание занимает подчиненное положение по отношению к чистой преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 links:
@@ -47,6 +39,7 @@ legacy:
     чистой преданности
   index: "782"
   filename: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti.md
+  slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
 ---
 
 **Преданный:** Я хотел бы знать: разные люди общаются друг с другом в материальном смысле со своими симпатиями, пристрастиями, и мы видим, что когда речь заходит об общении в смысле *бхаджана*, служения, то также присутствует тенденция группироваться.

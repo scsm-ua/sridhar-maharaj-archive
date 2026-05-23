@@ -6,9 +6,10 @@ refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku.md
   - ../../_full/1973/03/1973.03.00.A.B.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.88.8
     slug: shrimad-bhagavatam-10-88-8
 ---

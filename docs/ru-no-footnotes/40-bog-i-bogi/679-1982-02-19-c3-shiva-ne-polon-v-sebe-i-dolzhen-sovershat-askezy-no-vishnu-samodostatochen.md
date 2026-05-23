@@ -1,5 +1,5 @@
 ---
-slug: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen
+slug: 1982-02-19-c3_shiva_ne_polon_v_sebe_i_dolzhen_sovershat_askezy_no_vishnu_samodostatochen
 record_id: 1982.02.19.C3
 title: Шива не полон в себе и должен совершать аскезы, но Вишну самодостаточен
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Вишну самодостаточен
   index: "679"
   filename: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen.md
+  slug: 679-1982-02-19-c3-shiva-ne-polon-v-sebe-i-dolzhen-sovershat-askezy-no-vishnu-samodostatochen
 ---
 
 *«Мгновения Прекрасной Реальности» часть 8.1.2*

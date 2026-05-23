@@ -1,5 +1,5 @@
 ---
-slug: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh
+slug: 1982-06-19-a2_obsuzhdenie_imen_yuga-avatarov_dlya_razlichnyh_epoh
 record_id: 1982.06.19.A2
 title: Обсуждение имен юга-аватаров для различных эпох
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 162. 1982.06.19.A2. Обсуждение имен юга-аватаров для различных эпох
   index: "162"
   filename: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh.md
+  slug: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.332
     slug: shri-chajtanya-charitamrita-madhya-lila-20-332
 ---

@@ -2,9 +2,10 @@
 slug: bhagavad-gita-4-40
 refs:
   - ../../_full/1982/10/1982.10.17.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.40
     slug: bhagavad-gita-4-40
 ---

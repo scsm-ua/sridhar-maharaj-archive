@@ -1,5 +1,5 @@
 ---
-slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
+slug: 1981-03-12-b1_znanie_mozhet_ispolzovatsya_v_sluzhenii_no_fundament_eto_sharanagati
 record_id: 1981.03.12.B1
 title: Знание может использоваться в служении, но фундамент – это шаранагати
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     – это шаранагати
   index: "830"
   filename: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati.md
+  slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
 ---
 
     бхакти-мукха-нирӣкш̣ака карма-йога-джн̃а̄на

@@ -20,9 +20,10 @@ refs:
   - ../../_full/1982/12/1982.12.28.B.C.md
   - ../../_full/1983/08/1983.08.30.A.B.md
   - ../../_full/1983/09/1983.09.28.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
 ---

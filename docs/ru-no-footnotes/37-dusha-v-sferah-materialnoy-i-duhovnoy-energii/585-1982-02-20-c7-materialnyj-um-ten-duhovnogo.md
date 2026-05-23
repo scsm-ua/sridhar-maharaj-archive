@@ -1,5 +1,5 @@
 ---
-slug: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo
+slug: 1982-02-20-c7_materialnyy_um_ten_duhovnogo
 record_id: 1982.02.20.C7
 title: Материальный ум – тень духовного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 585. 1982.02.20.C7. Материальный ум – тень духовного
   index: "585"
   filename: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo.md
+  slug: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo
 ---
 
 **Преданный:** Махарадж!

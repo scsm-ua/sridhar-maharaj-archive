@@ -1,5 +1,5 @@
 ---
-slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
+slug: 1982-04-18-b2_sliyanie_s_absolyutom_mayavadi_i_sliyanie_s_nim_vayshnavov_chid-vilasa
 record_id: 1982.04.18.B2
 title: Слияние с Абсолютом майавади и слияние с Ним вайшнавов (чид-виласа)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     вайшнавов (чид-виласа)
   index: "893"
   filename: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa.md
+  slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.142
     slug: shri-chajtanya-charitamrita-madhya-lila-13-142
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
 ---

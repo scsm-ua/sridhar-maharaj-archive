@@ -8,17 +8,18 @@ refs:
   - ../../_full/1982/11/1982.11.15.A.B.md
   - ../../_full/1983/07/1983.07.08.md
   - ../../_full/1983/08/1983.08.08.B.md
-tags:
+scriptures:
   - title: Катха-Упанишада
     slug: katha-upanishada
-  - title: Катха-Упанишада 2.2.13
-    slug: katha-upanishada-2-2-13
   - title: Чхандогья-упанишада
     slug: chhandogya-upanishada
-  - title: Чхандогья-упанишада 6.2.3
-    slug: chhandogya-upanishada-6-2-3
   - title: Шветашватара-упанишада
     slug: shvetashvatara-upanishada
+verses:
+  - title: Катха-Упанишада 2.2.13
+    slug: katha-upanishada-2-2-13
+  - title: Чхандогья-упанишада 6.2.3
+    slug: chhandogya-upanishada-6-2-3
   - title: Шветашватара-упанишада 6.13
     slug: shvetashvatara-upanishada-6-13
 ---

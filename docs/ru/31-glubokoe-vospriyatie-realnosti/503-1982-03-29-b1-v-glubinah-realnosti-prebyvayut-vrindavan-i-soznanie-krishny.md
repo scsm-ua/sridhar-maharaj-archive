@@ -1,5 +1,5 @@
 ---
-slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
+slug: 1982-03-29-b1_v_glubinah_realnosti_prebyvayut_vrindavan_i_soznanie_krishny
 record_id: 1982.03.29.B1
 title: В глубинах реальности пребывают Вриндаван и Сознание Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     Кришны
   index: "503"
   filename: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny.md
+  slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
   - title: Бхагавад-гита 18.51–53

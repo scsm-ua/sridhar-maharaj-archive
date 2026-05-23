@@ -1,5 +1,5 @@
 ---
-slug: 432-1983-11-11-a-b1-guru-poslannik-mira-sluzheniya
+slug: 1983-11-11-a-b1_guru_poslannik_mira_sluzheniya
 record_id: 1983.11.11.A.B1
 title: Гуру – посланник мира служения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 432. 1983.11.11.A.B1. Гуру – посланник мира служения
   index: "432"
   filename: 432-1983-11-11-a-b1-guru-poslannik-mira-sluzheniya.md
+  slug: 432-1983-11-11-a-b1-guru-poslannik-mira-sluzheniya
 ---
 
 Вечером, накануне, он [Иисус] омыл стопы своих учеников. Нет? Было так?

@@ -19,9 +19,10 @@ refs:
   - ../../_full/1982/12/1982.12.10.B.md
   - ../../_full/1982/12/1982.12.17.A.B.md
   - ../../_full/1983/02/1983.02.14.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 10.9
     slug: bhagavad-gita-10-9
 ---

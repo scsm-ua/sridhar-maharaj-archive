@@ -1,5 +1,5 @@
 ---
-slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
+slug: 1982-01-26-a2_svyaz_s_duhovnym_mirom_pobezhdaet_materialnye_nesovershenstva
 record_id: 1982.01.26.A2
 title: Связь с духовным миром побеждает материальные несовершенства
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     несовершенства
   index: "700"
   filename: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva.md
+  slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
 ---
 
 **Преданный:** Если человек чувствует себя очень неквалифицированным, то каково его положение? Он желает принять большую ответственность в служение своему Гуру…

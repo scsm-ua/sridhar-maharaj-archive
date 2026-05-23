@@ -1,5 +1,5 @@
 ---
-slug: 083_1983-01-05-b1-2_sridharmj_spasenie_gopinatha_patanajaka_istorija_iz_zhizni_kumuda_babu
+slug: 1983-01-05-b1-2_spasenie_gopinatha_patanayaka_istoriya_iz_zhizni_kumuda_babu
 record_id: 1983.01.05.B1.2
 title: Спасение Гопинатха Патанаяка. История из жизни Кумуда Бабу.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -31,6 +31,7 @@ legacy:
     Кумуда Бабу
   index: "083"
   filename: 083_1983-01-05-b1-2_sridharmj_spasenie_gopinatha_patanajaka_istorija_iz_zhizni_kumuda_babu.md
+  slug: 083_1983-01-05-b1-2_sridharmj_spasenie_gopinatha_patanajaka_istorija_iz_zhizni_kumuda_babu
 ---
 
 **История спасения Гопинатха Паттанаика**

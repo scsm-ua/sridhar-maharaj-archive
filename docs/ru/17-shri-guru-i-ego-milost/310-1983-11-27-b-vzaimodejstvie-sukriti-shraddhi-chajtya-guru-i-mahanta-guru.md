@@ -1,5 +1,5 @@
 ---
-slug: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru
+slug: 1983-11-27-b_vzaimodeystvie_sukriti_shraddhi_chaytya-guru_i_mahanta-guru
 record_id: 1983.11.27.B
 title: Взаимодействие сукрити, шраддхи, чайтья-гуру и маханта-гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
   - title: Шримад-Бхагаватам 3.25.25
     slug: shrimad-bhagavatam-3-25-25
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
     slug: shri-chajtanya-charitamrita-madhya-lila-19-151
 links:
@@ -37,6 +33,7 @@ legacy:
     маханта-гуру
   index: "310"
   filename: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru.md
+  slug: 310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru
 ---
 
 Внутреннее руководство, это *шраддха*, должная оценка общества преданных придет изнутри, способность распознавать: где я могу обрести благо. Внутреннее руководство, *чайтья-гуру* или *шраддха*. Благодаря *шраддхе* мы обретаем некое внутреннее руководство, и это руководство *чайтья-гуру*. *Чайтья-гуру* — внутренний наставник, наставник внутри. Благодаря его руководству мы приходим к *маханта-гуру*, Гуру вовне, и от него мы принимаем наставления, руководство, советы, указания.

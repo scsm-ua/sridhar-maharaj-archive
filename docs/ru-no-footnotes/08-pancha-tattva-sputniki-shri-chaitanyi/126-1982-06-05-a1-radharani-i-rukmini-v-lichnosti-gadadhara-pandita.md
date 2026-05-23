@@ -1,5 +1,5 @@
 ---
-slug: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita
+slug: 1982-06-05-a1_radharani_i_rukmini_v_lichnosti_gadadhara_pandita
 record_id: 1982.06.05.A1
 title: Радхарани и Рукмини в личности Гададхара Пандита
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 126. 1982.06.05.A1. Радхарани и Рукмини в личности Гададхара Пандита
   index: "126"
   filename: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita.md
+  slug: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita
 ---
 
 **Акхаянанда Махарадж:** Могу я спросить вас, Махарадж? Иногда говорят, что Гададхар Пандит есть Шримати Радхарани, иногда говорят, что он — Лалита Сакхи.

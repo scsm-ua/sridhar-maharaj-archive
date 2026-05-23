@@ -10,9 +10,10 @@ refs:
   - ../../_full/1983/03/1983.03.30.md
   - ../../_full/1983/05/1983.05.08.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.26
     slug: bhagavad-gita-3-26
 ---

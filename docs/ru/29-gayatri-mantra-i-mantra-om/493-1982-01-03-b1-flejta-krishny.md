@@ -1,5 +1,5 @@
 ---
-slug: 493-1982-01-03-b1-flejta-krishny
+slug: 1982-01-03-b1_fleyta_krishny
 record_id: 1982.01.03.B1
 title: Флейта Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Гаятри-мантра
     slug: gayatri-mantra
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.15
     slug: bhagavad-gita-15-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 493. 1982.01.03.B1. Флейта Кришны
   index: "493"
   filename: 493-1982-01-03-b1-flejta-krishny.md
+  slug: 493-1982-01-03-b1-flejta-krishny
 ---
 
 **Преданный:** Махарадж, флейта Кришны, Вену…

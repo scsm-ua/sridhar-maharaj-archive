@@ -1,5 +1,5 @@
 ---
-slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
+slug: 1982-05-09-a6_poema_nayananandy_dasa_tot_kto_prinyal_gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznyah
 record_id: 1982.05.09.A6
 title: Поэма Наянананды Даса. Тот, кто принял Гаурангу, исчерпал все виды
   религиозных практик в прошлых жизнях.
@@ -28,6 +28,7 @@ legacy:
     исчерпал все виды религиозных практик в прошлых жизнях
   index: "117"
   filename: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
+  slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
 ---
 
 …В Коладвипе. Эта *виграха* была установлена учеником Гададхара Пандита, которого звали Ванинатх. Учеником Ванинатха был Наянананда. Этот вайшнав написал одну очень сладостную песню. Мне не известны другие его песни, но одна песня в высшей степени чарующа.

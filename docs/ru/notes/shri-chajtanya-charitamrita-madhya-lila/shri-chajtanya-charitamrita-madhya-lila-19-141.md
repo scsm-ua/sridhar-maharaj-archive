@@ -4,9 +4,10 @@ refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu.md
   - ../../_full/1982/05/1982.05.05.A.md
   - ../../_full/1982/12/1982.12.31.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.141
     slug: shri-chajtanya-charitamrita-madhya-lila-19-141
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya
+slug: 1982-02-27-b_dragotsennyy_nektar_nastavleniy_uchitelya
 record_id: 1982.02.27.B
 title: Драгоценный нектар наставлений учителя
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 278. 1982.02.27.B. Драгоценный нектар наставлений учителя
   index: "278"
   filename: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya.md
+  slug: 278-1982-02-27-b-dragotsennyj-nektar-nastavlenij-uchitelya
 ---
 
 *«Онтология Прекрасной Реальности», (часть 2.7)*

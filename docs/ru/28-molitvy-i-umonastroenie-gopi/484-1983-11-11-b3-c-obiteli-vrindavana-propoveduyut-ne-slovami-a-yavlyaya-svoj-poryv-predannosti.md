@@ -1,5 +1,5 @@
 ---
-slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
+slug: 1983-11-11-b3-c_obiteli_vrindavana_propoveduyut_ne_slovami_a_yavlyaya_svoy_poryv_predannosti
 record_id: 1983.11.11.B3.C
 title: Обители Вриндавана проповедуют не словами, а являя свой порыв преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     свой порыв преданности
   index: "484"
   filename: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
+  slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
     slug: shri-chajtanya-charitamrita-adi-lila-4-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
     slug: shri-chajtanya-charitamrita-madhya-lila-13-160
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.89
     slug: shri-chajtanya-charitamrita-madhya-lila-8-89
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.44
     slug: shrimad-bhagavatam-10-82-44
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141

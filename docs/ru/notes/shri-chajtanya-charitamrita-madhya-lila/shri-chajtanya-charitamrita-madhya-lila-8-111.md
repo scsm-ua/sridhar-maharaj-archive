@@ -34,13 +34,14 @@ refs:
   - ../../_full/1983/07/1983.07.19.md
   - ../../_full/1983/08/1983.08.09.C.D.md
   - ../../_full/1983/09/1983.09.01.A.md
-tags:
+scriptures:
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111

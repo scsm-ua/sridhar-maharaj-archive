@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/12/1981.12.27.A.B.C.md
   - ../../_full/1982/08/1982.08.27.A.B.C.md
   - ../../_full/1983/01/1983.01.26.B.C.md
-tags:
+scriptures:
   - title: Шри Лалита-аштака
     slug: shri-lalita-ashtaka
+verses:
   - title: Шри Лалита-аштака 1
     slug: shri-lalita-ashtaka-1
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany
+slug: 1983-11-02-a11-b1_devyat_protsessov_bhakti_vzaimosvyazany
 record_id: 1983.11.02.A11.B1
 title: Девять процессов бхакти взаимосвязаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 787. 1983.11.02.A11.B1. Девять процессов бхакти взаимосвязаны
   index: "787"
   filename: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany.md
+  slug: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany
 ---
 
 **Преданный:** А как преданный может совершить очень быстрый прогресс, быстро развиваться? Каков критерий быстрого прогресса?

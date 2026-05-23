@@ -1,5 +1,5 @@
 ---
-slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
+slug: 1982-05-14-c3_sposoben_li_ty_pokinut_moe_serdtse
 record_id: 1982.05.14.C3
 title: Способен ли Ты покинуть мое сердце?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 768. 1982.05.14.C3. Способен ли Ты покинуть мое сердце?
   index: "768"
   filename: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse.md
+  slug: 768-1982-05-14-c3-sposoben-li-ty-pokinut-moe-serdtse
 ---
 
     [шлока]

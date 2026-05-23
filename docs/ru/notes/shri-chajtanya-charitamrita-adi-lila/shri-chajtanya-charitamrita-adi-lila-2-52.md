@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-2-52
 refs:
   - ../../04-vrindavan-zhit-odnoy-semyey-s-bogom/042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.md
   - ../../_full/1981/11/1981.11.12.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.52
     slug: shri-chajtanya-charitamrita-adi-lila-2-52
 ---

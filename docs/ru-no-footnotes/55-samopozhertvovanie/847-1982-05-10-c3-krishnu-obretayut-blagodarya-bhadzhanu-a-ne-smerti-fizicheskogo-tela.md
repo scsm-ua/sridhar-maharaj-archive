@@ -1,5 +1,5 @@
 ---
-slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
+slug: 1982-05-10-c3_krishnu_obretayut_blagodarya_bhadzhanu_a_ne_smerti_fizicheskogo_tela
 record_id: 1982.05.10.C3
 title: Кришну обретают благодаря бхаджану, а не смерти физического тела
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     физического тела
   index: "847"
   filename: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela.md
+  slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
 ---
 
     джанма-мр̣тйу-джара̄-вйа̄дхи

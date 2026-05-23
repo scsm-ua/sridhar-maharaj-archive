@@ -3,9 +3,10 @@ slug: chhandogya-upanishad-8-13-1
 refs:
   - ../../_full/1981/10/1981.10.02.A.B.C.md
   - ../../_full/1981/10/1981.10.04.A.B.md
-tags:
+scriptures:
   - title: Чхандогья-упанишад
     slug: chhandogya-upanishad
+verses:
   - title: Чхандогья-упанишад 8.13.1
     slug: chhandogya-upanishad-8-13-1
 ---

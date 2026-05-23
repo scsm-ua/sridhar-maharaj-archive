@@ -5,9 +5,10 @@ refs:
   - ../../_full/1981/11/1981.11.06.A.md
   - ../../_full/1982/01/1982.01.09.A.md
   - ../../_full/1982/12/1982.12.03.A.B.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.44
     slug: shri-brahma-samhita-5-44
 ---

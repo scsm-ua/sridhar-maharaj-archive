@@ -1,5 +1,5 @@
 ---
-slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
+slug: 1983-07-19-b1-b3_duhovnye_organizatsii_konkuriruyut_stremyas_udovletvorit_krishnu
 record_id: 1983.07.19.B1.B3
 title: Духовные организации конкурируют, стремясь удовлетворить Кришну
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Проповедь
     slug: propoved
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -29,18 +25,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
@@ -65,6 +55,7 @@ legacy:
     удовлетворить Кришну
   index: "395"
   filename: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu.md
+  slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
 ---
 
 **Преданный:** Махарадж, я вижу: чем более интенсивен человек становится в своей преданности Кришне, тем в большей степени он разочаровывается.

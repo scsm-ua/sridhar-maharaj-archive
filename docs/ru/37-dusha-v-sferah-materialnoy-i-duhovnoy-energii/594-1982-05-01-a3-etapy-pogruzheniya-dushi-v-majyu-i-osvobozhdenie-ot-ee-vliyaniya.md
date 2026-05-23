@@ -1,5 +1,5 @@
 ---
-slug: 594-1982-05-01-a3-etapy-pogruzheniya-dushi-v-majyu-i-osvobozhdenie-ot-ee-vliyaniya
+slug: 1982-05-01-a3_etapy_pogruzheniya_dushi_v_mayyu_i_osvobozhdenie_ot_ee_vliyaniya
 record_id: 1982.05.01.A3
 title: Этапы погружения души в майю и освобождение от ее влияния
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,14 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
     slug: shri-chajtanya-charitamrita-madhya-lila-20-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
     slug: shri-chajtanya-charitamrita-madhya-lila-24-137
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
 links:
@@ -42,6 +36,7 @@ legacy:
   title: 594. 1982.05.01.A3. Этапы погружения души в майю и освобождение от ее влияния
   index: "594"
   filename: 594-1982-05-01-a3-etapy-pogruzheniya-dushi-v-majyu-i-osvobozhdenie-ot-ee-vliyaniya.md
+  slug: 594-1982-05-01-a3-etapy-pogruzheniya-dushi-v-majyu-i-osvobozhdenie-ot-ee-vliyaniya
 ---
 
 Единственная проблема *майи* — отсутствие связи с этим изначальным потоком. Это *майя*. И мы находимся под воздействием этой потенции, энергии. Подобно болезни, безумию: человек лишился своего богатства, своей собственности — это *майя*, *ма̄-йа̄* — «не то», то, что кажется одним, а является другим, *майате-анайа* — отдельный, сепаратный интерес служит причиной, *двитӣйа̄бхинивеш́атах̣ сйа̄д*[^_ftn1].

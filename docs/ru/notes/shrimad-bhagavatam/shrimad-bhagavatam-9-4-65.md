@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-9-4-65
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/765-1982-03-22-b1-istoriya-ambarisha-i-durvasy-gospod-zavisim-ot-svoih-predannyh.md
   - ../../49-bhakti-velichie-predannosti-krishne/766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 9.4.65
     slug: shrimad-bhagavatam-9-4-65
 ---

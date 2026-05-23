@@ -1,5 +1,5 @@
 ---
-slug: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
+slug: 1982-05-01-b2_istinnaya_krasota_eto_to_chto_privlekatelno_dlya_krishny
 record_id: 1982.05.01.B2
 title: Истинная красота – это то, что привлекательно для Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,14 @@ legacy:
   title: 429. 1982.05.01.B2. Истинная красота – это то, что привлекательно для Кришны
   index: "429"
   filename: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny.md
+  slug: 429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny
 tags:
-  - title: Бхакти-анукула-матра
-    slug: bhakti-anukula-matra
   - title: Бхакти-анукула-матра 4.7
     slug: bhakti-anukula-matra-4-7
   - title: Бхакти-анукула-матра 4.1
     slug: bhakti-anukula-matra-4-1
   - title: Бхакти-анукула-матра 4.2
     slug: bhakti-anukula-matra-4-2
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

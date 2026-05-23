@@ -1,5 +1,5 @@
 ---
-slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
+slug: 1983-11-13-b2_obshchenie_s_vayshnavami_put_iz_mira_zabluzhdeniy_nastavleniya_prahlada
 record_id: 1983.11.13.B2
 title: Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Наставления Прахлада
   index: "266"
   filename: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
+  slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
 ---
 
     ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а

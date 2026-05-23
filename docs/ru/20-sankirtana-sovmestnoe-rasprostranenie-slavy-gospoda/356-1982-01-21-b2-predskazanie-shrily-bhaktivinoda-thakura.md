@@ -1,5 +1,5 @@
 ---
-slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
+slug: 1982-01-21-b2_predskazanie_shrily_bhaktivinoda_thakura
 record_id: 1982.01.21.B2
 title: Предсказание Шрилы Бхактивинода Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.2
     slug: shrimad-bhagavatam-11-2-2
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 356. 1982.01.21.B2. Предсказание Шрилы Бхактивинода Тхакура
   index: "356"
   filename: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura.md
+  slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
 ---
 
 **Преданный:** Кто та личность, которая вдохновила Бхактивинода проповедовать на Западе?

@@ -1,5 +1,5 @@
 ---
-slug: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha
+slug: 1983-11-12-b5_my_ne_priznaem_lozhnyh_avatarov_lozung_gaudiya_matha
 record_id: 1983.11.12.B5
 title: «Мы не признаем ложных аватаров» — лозунг Гаудия Матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 916. 1983.11.12.B5. «Мы не признаем ложных аватаров» — лозунг Гаудия Матха
   index: "916"
   filename: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha.md
+  slug: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha
 ---
 
 О чем идет речь?

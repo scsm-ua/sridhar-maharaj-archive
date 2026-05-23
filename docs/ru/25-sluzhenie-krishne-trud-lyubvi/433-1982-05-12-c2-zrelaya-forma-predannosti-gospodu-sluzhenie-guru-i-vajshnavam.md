@@ -1,5 +1,5 @@
 ---
-slug: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam
+slug: 1982-05-12-c2_zrelaya_forma_predannosti_gospodu_sluzhenie_guru_i_vayshnavam
 record_id: 1982.05.12.C2
 title: Зрелая форма преданности Господу — служение Гуру и вайшнавам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
     slug: shri-chajtanya-charitamrita-antya-lila-8-28
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
     slug: shri-chajtanya-charitamrita-madhya-lila-22-74
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.47
     slug: shrimad-bhagavatam-11-2-47
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
@@ -41,6 +35,7 @@ legacy:
     вайшнавам
   index: "433"
   filename: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam.md
+  slug: 433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam
 ---
 
 Однажды Прабхупад сказал мне, что есть служение и что есть *карма*. Чтобы произвести на меня должное впечатление, он сказал мне: если *садху* дал указание: «Принеси цветок», а потом сказал: «Принеси воды», и ты заявляешь: «Возьмите цветок, ведь вы уже дали это указание», то ты навязываешь свою волю ему. То указание было дано первым, затем было дано другое указание: «Принеси мне воды». Если ты заявляешь: «Но ведь вы дали указание принести цветок. Пожалуйста, примите его». Если вы навязываете ему его прошлые желания — то будет *карма*. Он свободен: он сказал что-то, выразил желание, но затем он отверг это желание, отказался от него. Следовать прошлому будет *кармой*. Всегда в настроении ожидания последнего указания, нового указания.

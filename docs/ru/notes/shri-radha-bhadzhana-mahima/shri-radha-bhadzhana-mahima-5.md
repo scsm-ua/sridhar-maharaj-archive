@@ -2,9 +2,10 @@
 slug: shri-radha-bhadzhana-mahima-5
 refs:
   - ../../_full/1982/10/1982.10.12.B.md
-tags:
+scriptures:
   - title: Шри Радха-бхаджана махима
     slug: shri-radha-bhadzhana-mahima
+verses:
   - title: Шри Радха-бхаджана махима 5
     slug: shri-radha-bhadzhana-mahima-5
 ---

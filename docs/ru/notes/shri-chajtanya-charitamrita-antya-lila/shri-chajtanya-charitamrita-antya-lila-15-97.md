@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-antya-lila-15-97
 refs:
   - ../../_full/1983/03/1983.03.08.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.97
-    slug: shri-chajtanya-charitamrita-antya-lila-15-97
   - title: Шри Чайтаньяштака
     slug: shri-chajtanyashtaka
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.97
+    slug: shri-chajtanya-charitamrita-antya-lila-15-97
   - title: Шри Чайтаньяштака 6
     slug: shri-chajtanyashtaka-6
 ---

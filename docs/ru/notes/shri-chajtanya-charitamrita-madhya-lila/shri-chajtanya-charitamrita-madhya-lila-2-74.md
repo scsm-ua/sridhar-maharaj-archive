@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-2-74
 refs:
   - ../../_full/1982/11/1982.11.28.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.74
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-74
   - title: Кришна-карнамрита
     slug: krishna-karnamrita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.74
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-74
   - title: Кришна-карнамрита 68
     slug: krishna-karnamrita-68
 ---

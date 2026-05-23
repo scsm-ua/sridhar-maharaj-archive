@@ -3,9 +3,10 @@ slug: shri-shri-prapanna-dzhivanamritam-1-40
 refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu.md
   - ../../_full/1981/08/1981.08.31.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 1.40
     slug: shri-shri-prapanna-dzhivanamritam-1-40
 ---

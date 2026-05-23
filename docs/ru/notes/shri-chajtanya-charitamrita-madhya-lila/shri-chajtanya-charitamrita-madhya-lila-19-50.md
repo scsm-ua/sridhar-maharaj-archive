@@ -6,13 +6,14 @@ refs:
   - ../../_full/1982/12/1982.12.06.A.B.md
   - ../../_full/1983/05/1983.05.04.md
   - ../../_full/1983/08/1983.08.31.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 16.25
-    slug: shri-chajtanya-charitamrita-antya-lila-16-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 16.25
+    slug: shri-chajtanya-charitamrita-antya-lila-16-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.50
     slug: shri-chajtanya-charitamrita-madhya-lila-19-50
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.58

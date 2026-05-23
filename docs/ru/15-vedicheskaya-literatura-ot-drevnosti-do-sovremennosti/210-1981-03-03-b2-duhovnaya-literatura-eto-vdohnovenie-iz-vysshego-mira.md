@@ -1,5 +1,5 @@
 ---
-slug: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira
+slug: 1981-03-03-b2_duhovnaya_literatura_eto_vdohnovenie_iz_vysshego_mira
 record_id: 1981.03.03.B2
 title: Духовная литература — это вдохновение из высшего мира
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 210. 1981.03.03.B2. Духовная литература — это вдохновение из высшего мира
   index: "210"
   filename: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira.md
+  slug: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.1
     slug: bhagavad-gita-4-1
   - title: Бхагавад-гита 4.2

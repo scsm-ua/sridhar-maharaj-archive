@@ -8,9 +8,10 @@ refs:
   - ../../_full/1982/11/1982.11.28.A.B.md
   - ../../_full/1982/12/1982.12.19.B.C.md
   - ../../_full/1985/10/1985.10.04.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 5.14
     slug: shri-shri-prapanna-dzhivanamritam-5-14
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 633-1982-05-15-b2-bala-gyana-kriya-volya-myshlenie-i-chuvstva
+slug: 1982-05-15-b2_bala_gyana_kriya_volya_myshlenie_i_chuvstva
 record_id: 1982.05.15.B2
 title: Бала, гьяна, крия – воля, мышление и чувства
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 633. 1982.05.15.B2. Бала, гьяна, крия – воля, мышление и чувства
   index: "633"
   filename: 633-1982-05-15-b2-bala-gyana-kriya-volya-myshlenie-i-chuvstva.md
+  slug: 633-1982-05-15-b2-bala-gyana-kriya-volya-myshlenie-i-chuvstva
 ---
 
 **Шрила Шридхар Махарадж:** Махарадж явился в этом мире в день Джанмаштами (День Явления Кришны), Нандотсав. А его уход…

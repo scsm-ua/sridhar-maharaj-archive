@@ -1,5 +1,5 @@
 ---
-slug: 1012-1983-11-05-a1-sushhestvovala-li-sistema-ritvikov-vo-vremena-sarasvati-thakura
+slug: 1983-11-05-a1_sushchestvovala_li_sistema_ritvikov_vo_vremena_sarasvati_thakura
 record_id: 1983.11.05.A1
 title: Существовала ли система ритвиков во времена Сарасвати Тхакура?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Сарасвати Тхакура?
   index: "1012"
   filename: 1012-1983-11-05-a1-sushhestvovala-li-sistema-ritvikov-vo-vremena-sarasvati-thakura.md
+  slug: 1012-1983-11-05-a1-sushhestvovala-li-sistema-ritvikov-vo-vremena-sarasvati-thakura
 ---
 
 **Госвами Махарадж:** Я просто хотел спросить: Шрила Бхактисиддханта Сарасвати Тхакур назначал ли *ритвиков* при своей жизни?

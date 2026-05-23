@@ -1,5 +1,5 @@
 ---
-slug: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh
+slug: 1982-05-18-a2_zhertvennost_shrimati_radharani_ne_imeet_sebe_ravnyh
 record_id: 1982.05.18.A2
 title: Жертвенность Шримати Радхарани не имеет себе равных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
   index: "466"
   filename: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
+  slug: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh
 ---
 
 **Преданный:** *Амта-никшепа*?

@@ -1,5 +1,5 @@
 ---
-slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
+slug: 1983-02-12-a2_sornyaki_prepyatstvuyushchie_rostu_pobega_predannosti
 record_id: 1983.02.12.A2
 title: Сорняки, препятствующие росту побега преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 706. 1983.02.12.A2. Сорняки, препятствующие росту побега преданности
   index: "706"
   filename: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti.md
+  slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
 ---
 
 **Преданный:** Махарадж, похоже, что многие духовные братья уходят из общества, из ИССКОН. Но они не приходят к вам, чтобы слушать вас.

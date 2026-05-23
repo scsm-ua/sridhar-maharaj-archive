@@ -1,5 +1,5 @@
 ---
-slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
+slug: 1981-03-12-a3_propoved_bhakti_vysshaya_forma_blagotvoritelnosti
 record_id: 1981.03.12.A3
 title: Проповедь бхакти – высшая форма благотворительности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 362. 1981.03.12.A3. Проповедь бхакти – высшая форма благотворительности
   index: "362"
   filename: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
+  slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
 ---
 
     кр̣шн̣а твадӣйа-пада-пан̇каджа-пан̃джара̄нтам

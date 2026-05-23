@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-23-45
 refs:
   - ../../_full/1981/09/1981.09.11.B.C.md
   - ../../_full/1981/11/1981.11.17.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.23.45
     slug: shrimad-bhagavatam-11-23-45
 ---

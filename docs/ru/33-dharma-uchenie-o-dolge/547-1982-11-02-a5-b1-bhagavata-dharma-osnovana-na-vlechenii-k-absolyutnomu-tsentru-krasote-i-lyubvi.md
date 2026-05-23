@@ -1,5 +1,5 @@
 ---
-slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
+slug: 1982-11-02-a5-b1_bhagavata-dharma_osnovana_na_vlechenii_k_absolyutnomu_tsentru_krasote_i_lyubvi
 record_id: 1982.11.02.A5.B1
 title: Бхагавата-дхарма основана на влечении к Абсолютному Центру — Красоте и Любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
   - title: Шримад-Бхагаватам 4.31.14
@@ -33,12 +27,8 @@ tags:
     slug: shrimad-bhagavatam-1-3-28
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.75
     slug: shri-chajtanya-charitamrita-madhya-lila-22-75
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.41
     slug: bhagavad-gita-2-41
   - title: Шримад-Бхагаватам 10.14.29
@@ -49,8 +39,6 @@ tags:
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.93
@@ -71,8 +59,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -95,6 +81,7 @@ legacy:
     Абсолютному Центру — Красоте и Любви
   index: "547"
   filename: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
+  slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
 ---
 
     бхидйате хр̣дайа-грантхиш́

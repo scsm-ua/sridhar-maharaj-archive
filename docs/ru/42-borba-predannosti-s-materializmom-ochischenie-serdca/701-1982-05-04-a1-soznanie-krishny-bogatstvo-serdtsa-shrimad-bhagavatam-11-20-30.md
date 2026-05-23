@@ -1,5 +1,5 @@
 ---
-slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
+slug: 1982-05-04-a1_soznanie_krishny_bogatstvo_serdtsa_shrimad_bhagavatam_11_20_30
 record_id: 1982.05.04.A1
 title: Сознание Кришны – богатство сердца. «Шримад Бхагаватам» 11.20.30.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,18 @@ legacy:
     Бхагаватам» 11.20.30
   index: "701"
   filename: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30.md
+  slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.110
     slug: shri-chajtanya-charitamrita-madhya-lila-15-110
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 29
     slug: padyavali-29
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
   - title: Падьявали 14
     slug: padyavali-14
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
   - title: Бхагавад-гита 6.13–14

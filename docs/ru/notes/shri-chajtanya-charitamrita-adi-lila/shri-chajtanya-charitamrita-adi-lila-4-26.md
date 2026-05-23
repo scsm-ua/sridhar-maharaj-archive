@@ -5,9 +5,10 @@ refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi.md
   - ../../_full/1982/01/1982.01.24.B.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.26
     slug: shri-chajtanya-charitamrita-adi-lila-4-26
 ---

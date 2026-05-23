@@ -3,9 +3,10 @@ slug: gitavali-12
 refs:
   - ../../_full/1982/07/1982.07.08.A3.B.md
   - ../../_full/1983/11/1983.11.05.A.B.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 12
     slug: gitavali-12
 ---

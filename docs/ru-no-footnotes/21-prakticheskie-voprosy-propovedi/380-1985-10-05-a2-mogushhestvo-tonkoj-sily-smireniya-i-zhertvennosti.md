@@ -1,5 +1,5 @@
 ---
-slug: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti
+slug: 1985-10-05-a2_mogushchestvo_tonkoy_sily_smireniya_i_zhertvennosti
 record_id: 1985.10.05.A2
 title: Могущество тонкой силы смирения и жертвенности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 380. 1985.10.05.A2. Могущество тонкой силы смирения и жертвенности
   index: "380"
   filename: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti.md
+  slug: 380-1985-10-05-a2-mogushhestvo-tonkoj-sily-smireniya-i-zhertvennosti
 ---
 
 **Преданный:** Гуру Махарадж, мне очень трудно привести в гармонию дух «*тр̣на̄д апи сунӣчена*[^_ftn1]» и революционную борьбу против эксплуатации.

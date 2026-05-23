@@ -1,5 +1,5 @@
 ---
-slug: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi
+slug: 1982-05-18-e4_strogoe_sledovanie_pisaniyam_prodolzhaetsya_do_stadii_ruchi_i_prapana-dashi
 record_id: 1982.05.18.E4
 title: Строгое следование Писаниям продолжается до стадии ручи и прапана-даши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     ручи и прапана-даши
   index: "724"
   filename: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi.md
+  slug: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi
 ---
 
 **Преданный:** Махарадж, а какими должны быть усилия *садхаки*?

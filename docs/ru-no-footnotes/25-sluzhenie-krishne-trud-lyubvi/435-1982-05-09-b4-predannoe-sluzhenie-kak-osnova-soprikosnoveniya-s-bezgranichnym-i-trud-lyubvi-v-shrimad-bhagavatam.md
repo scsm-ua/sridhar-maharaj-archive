@@ -1,5 +1,5 @@
 ---
-slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
+slug: 1982-05-09-b4_predannoe_sluzhenie_kak_osnova_soprikosnoveniya_s_bezgranichnym_i_trud_lyubvi_v_shrimad_bhagavatam
 record_id: 1982.05.09.B4
 title: Преданное служение как основа соприкосновения с Безграничным и труд любви
   в «Шримад Бхагаватам»
@@ -28,6 +28,7 @@ legacy:
     Безграничным и труд любви в «Шримад Бхагаватам»
   index: "435"
   filename: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam.md
+  slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
 ---
 
     ачинтйа̄х̣ кхалу йе бха̄ва̄ на та̄м̇с таркен̣а йоджайет

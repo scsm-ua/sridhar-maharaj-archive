@@ -12,9 +12,10 @@ refs:
   - ../../_full/1982/05/1982.05.16.A.B.C.md
   - ../../_full/1982/12/1982.12.07.B.C.md
   - ../../_full/1983/01/1983.01.05.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
 ---

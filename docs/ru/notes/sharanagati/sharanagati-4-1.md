@@ -3,9 +3,10 @@ slug: sharanagati-4-1
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/469-1983-06-05-b2-izvilistye-puti-lyubvi.md
   - ../../_full/1983/06/1983.06.05.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 3
     slug: sharanagati-3
   - title: Шаранагати 4.1

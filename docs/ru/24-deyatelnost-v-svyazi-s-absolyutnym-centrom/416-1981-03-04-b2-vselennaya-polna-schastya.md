@@ -1,5 +1,5 @@
 ---
-slug: 416-1981-03-04-b2-vselennaya-polna-schastya
+slug: 1981-03-04-b2_vselennaya_polna_schastya
 record_id: 1981.03.04.B2
 title: Вселенная полна счастья
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 416. 1981.03.04.B2. Вселенная полна счастья
   index: "416"
   filename: 416-1981-03-04-b2-vselennaya-polna-schastya.md
+  slug: 416-1981-03-04-b2-vselennaya-polna-schastya
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.255–256
     slug: bhakti-rasamrita-sindhu-1-2-255-256
 ---

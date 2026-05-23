@@ -1,5 +1,5 @@
 ---
-slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
+slug: 1983-01-12-b2_uchenie_vayshnavov_i_zapadnaya_filosofiya
 record_id: 1983.01.12.B2
 title: Учение вайшнавов и западная философия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 640. 1983.01.12.B2. Учение вайшнавов и западная философия
   index: "640"
   filename: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya.md
+  slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
 ---
 
 **Шрила Шридхар Махарадж:** Чем вы занимаетесь в Америке, Робин? — спрашивает Шрила Гуру Махарадж.

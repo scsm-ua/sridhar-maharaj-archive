@@ -25,9 +25,10 @@ refs:
   - ../../_full/1983/05/1983.05.09.A.md
   - ../../_full/1983/10/1983.10.22.A.md
   - ../../_full/1983/10/1983.10.29.C1.md
-tags:
+scriptures:
   - title: Шри Вилапа-кусуманджали
     slug: shri-vilapa-kusumandzhali
+verses:
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
 ---

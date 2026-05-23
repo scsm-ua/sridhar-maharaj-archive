@@ -1,5 +1,5 @@
 ---
-slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
+slug: 1982-01-09-c5_imitatsiya_ne_est_realizatsiya_obraz_mahiravany_v_ramayane
 record_id: 1982.01.09.C5
 title: Имитация не есть реализация. Образ Махираваны в Рамаяне.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 883. 1982.01.09.C5. Имитация не есть реализация. Образ Махираваны в Рамаяне
   index: "883"
   filename: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane.md
+  slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.

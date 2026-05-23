@@ -1,5 +1,5 @@
 ---
-slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
+slug: 1982-02-20-b3_rupa_gosvami_o_pesne_shri_chaytani_pered_dzhagannathom
 record_id: 1982.02.20.B3
 title: Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 090. 1982.02.20.В3 Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
   index: "090"
   filename: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom.md
+  slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
 ---
 
 **Преданный:** Максимальный риск — максимальный выигрыш.

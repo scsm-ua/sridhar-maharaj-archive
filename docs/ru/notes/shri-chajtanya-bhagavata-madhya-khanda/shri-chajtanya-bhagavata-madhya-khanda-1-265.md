@@ -3,9 +3,10 @@ slug: shri-chajtanya-bhagavata-madhya-khanda-1-265
 refs:
   - ../../19-maha-mantra-svyatoe-imya/344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni.md
   - ../../_full/1983/04/1983.04.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.265
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-265
 ---

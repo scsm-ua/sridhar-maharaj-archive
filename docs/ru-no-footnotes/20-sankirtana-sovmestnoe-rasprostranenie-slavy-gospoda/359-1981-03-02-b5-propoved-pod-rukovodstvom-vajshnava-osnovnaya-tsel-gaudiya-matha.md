@@ -1,5 +1,5 @@
 ---
-slug: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha
+slug: 1981-03-02-b5_propoved_pod_rukovodstvom_vayshnava_osnovnaya_tsel_gaudiya-matha
 record_id: 1981.03.02.B5
 title: Проповедь под руководством вайшнава — основная цель Гаудия-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Гаудия-матха
   index: "359"
   filename: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha.md
+  slug: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha
 ---
 
 **Госвами Махарадж:** Когда наш Гуру Махарадж во время *дикши* просил следовать четырем принципам (отсутствие незаконного секса, отсутствие интоксикаций, запрет на мясоедение и запрет играть в азартные игры), он также просил нас повторять шестнадцать кругов. Во время посвящения в Гаудия Матхе, во времена Шрилы Бхактисиддханты, о чем он просил своих учеников?

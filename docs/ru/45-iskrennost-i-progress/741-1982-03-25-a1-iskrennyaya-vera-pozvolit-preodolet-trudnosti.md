@@ -1,5 +1,5 @@
 ---
-slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
+slug: 1982-03-25-a1_iskrennyaya_vera_pozvolit_preodolet_trudnosti
 record_id: 1982.03.25.A1
 title: Искренняя вера позволит преодолеть трудности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,33 +23,22 @@ legacy:
   title: 741. 1982.03.25.A1. Искренняя вера позволит преодолеть трудности
   index: "741"
   filename: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti.md
+  slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 4
     slug: shri-shikshashtakam-4
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Махабхараты», Вана-парва
-    slug: mahabharaty-vana-parva
   - title: «Махабхараты», Вана-парва 313.117
     slug: mahabharaty-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
     slug: shri-chajtanya-charitamrita-madhya-lila-25-57
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
 ---

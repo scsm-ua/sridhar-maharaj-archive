@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-3-31-35
 refs:
   - ../../_full/1982/11/1982.11.21.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.31.35
     slug: shrimad-bhagavatam-3-31-35
 ---

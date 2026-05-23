@@ -1,5 +1,5 @@
 ---
-slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
+slug: 1982-04-14-a-b1_ot_pochitaniya_bogov_sleduet_pereyti_k_pochitaniyu_vsevyshnego
 record_id: 1982.04.14.A.B1
 title: От почитания богов следует перейти к почитанию Всевышнего
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Всевышнего
   index: "691"
   filename: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
+  slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
 ---
 
 **Акхаянанда Махарадж:** [цитирует санскрит]: *Вигхнешама пуджайитва капалинам дриштва ва пуджанам*.

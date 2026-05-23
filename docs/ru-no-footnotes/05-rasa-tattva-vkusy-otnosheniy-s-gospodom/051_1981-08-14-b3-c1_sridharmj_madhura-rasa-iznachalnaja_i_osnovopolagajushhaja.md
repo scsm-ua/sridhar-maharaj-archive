@@ -1,5 +1,5 @@
 ---
-slug: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja
+slug: 1981-08-14-c1_madhura-rasa_iznachalnaya_i_osnovopolagayushchaya
 record_id: 1981.08.14.C1
 title: Мадхура-раса — изначальная и основополагающая
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 051. 1981.08.14.C1 Мадхура-раса — изначальная и основополагающая
   index: "051"
   filename: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja.md
+  slug: 051_1981-08-14-b3-c1_sridharmj_madhura-rasa-iznachalnaja_i_osnovopolagajushhaja
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай, Нитай, Нитай, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол.

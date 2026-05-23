@@ -31,9 +31,10 @@ refs:
   - ../../_full/1983/11/1983.11.19.A.B.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Веданта-сутра
     slug: vedanta-sutra
+verses:
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
 ---

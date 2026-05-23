@@ -5,9 +5,10 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
   - ../../_full/1983/07/1983.07.18.md
   - ../../_full/1985/06/1985.06.09.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.73
     slug: shri-chajtanya-charitamrita-adi-lila-7-73
 ---

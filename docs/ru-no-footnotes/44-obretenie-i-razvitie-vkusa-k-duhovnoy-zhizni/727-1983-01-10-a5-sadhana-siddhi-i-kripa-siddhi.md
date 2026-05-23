@@ -1,5 +1,5 @@
 ---
-slug: 727-1983-01-10-a5-sadhana-siddhi-i-kripa-siddhi
+slug: 1983-01-10-a5_sadhana-siddhi_i_kripa-siddhi
 record_id: 1983.01.10.A5
 title: Садхана-сиддхи и крипа-сиддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 727. 1983.01.10.A5. Садхана-сиддхи и крипа-сиддхи
   index: "727"
   filename: 727-1983-01-10-a5-sadhana-siddhi-i-kripa-siddhi.md
+  slug: 727-1983-01-10-a5-sadhana-siddhi-i-kripa-siddhi
 ---
 
 **Шрила Шридхар Махарадж:** Кто?

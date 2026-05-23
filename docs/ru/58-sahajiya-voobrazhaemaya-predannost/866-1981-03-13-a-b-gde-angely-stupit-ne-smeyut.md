@@ -1,5 +1,5 @@
 ---
-slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
+slug: 1981-03-13-a-b_gde_angely_stupit_ne_smeyut
 record_id: 1981.03.13.A.B
 title: Где ангелы ступить не смеют
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,45 +23,30 @@ legacy:
   title: 866. 1981.03.13.A.B. Где ангелы ступить не смеют
   index: "866"
   filename: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut.md
+  slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
 tags:
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155
     slug: shri-chajtanya-charitamrita-madhya-lila-19-155
-  - title: «Махабхараты», Бхишма-парва
-    slug: mahabharaty-bhishma-parva
   - title: «Махабхараты», Бхишма-парва 5.22
     slug: mahabharaty-bhishma-parva-5-22
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
     slug: shri-chajtanya-charitamrita-adi-lila-17-308
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 2.5.93
     slug: bhakti-rasamrita-sindhu-2-5-93
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 1
     slug: shri-upadeshamrita-1
   - title: Шри Упадешамрита 5
     slug: shri-upadeshamrita-5
   - title: Шри Упадешамрита 11
     slug: shri-upadeshamrita-11
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 5
     slug: shri-shikshashtakam-5
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
 ---

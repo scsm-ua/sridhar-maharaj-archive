@@ -1,5 +1,5 @@
 ---
-slug: 1040-1982-02-27-a4-budte-muzhestvennymi-i-bezzabotnymi
+slug: 1982-02-27-a4_budte_muzhestvennymi_i_bezzabotnymi
 record_id: 1982.02.27.A4
 title: «Будьте мужественными и беззаботными»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1040. 1982.02.27.A4. «Будьте мужественными и беззаботными»
   index: "1040"
   filename: 1040-1982-02-27-a4-budte-muzhestvennymi-i-bezzabotnymi.md
+  slug: 1040-1982-02-27-a4-budte-muzhestvennymi-i-bezzabotnymi
 ---
 
 *«Онтология Прекрасной Реальности» (часть 2.4)*

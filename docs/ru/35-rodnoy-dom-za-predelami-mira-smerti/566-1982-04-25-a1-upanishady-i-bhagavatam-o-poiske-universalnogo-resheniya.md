@@ -1,5 +1,5 @@
 ---
-slug: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya
+slug: 1982-04-25-a1_upanishady_i_bhagavatam_o_poiske_universalnogo_resheniya
 record_id: 1982.04.25.A1
 title: Упанишады и «Бхагаватам» о поиске универсального решения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 566. 1982.04.25.A1. Упанишады и «Бхагаватам» о поиске универсального решения
   index: "566"
   filename: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya.md
+  slug: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya
 tags:
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3

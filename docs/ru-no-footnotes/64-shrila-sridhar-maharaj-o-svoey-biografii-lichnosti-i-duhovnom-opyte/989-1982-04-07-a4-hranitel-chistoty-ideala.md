@@ -1,5 +1,5 @@
 ---
-slug: 989-1982-04-07-a4-hranitel-chistoty-ideala
+slug: 1982-04-07-a4_hranitel_chistoty_ideala
 record_id: 1982.04.07.A4
 title: Хранитель чистоты идеала
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 989. 1982.04.07.A4. Хранитель чистоты идеала
   index: "989"
   filename: 989-1982-04-07-a4-hranitel-chistoty-ideala.md
+  slug: 989-1982-04-07-a4-hranitel-chistoty-ideala
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Чайтанья, Нитай-доял…

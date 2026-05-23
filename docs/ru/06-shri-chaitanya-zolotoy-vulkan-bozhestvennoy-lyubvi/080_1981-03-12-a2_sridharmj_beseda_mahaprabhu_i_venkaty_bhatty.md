@@ -1,5 +1,5 @@
 ---
-slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
+slug: 1981-03-12-a2_beseda_mahaprabhu_i_venkaty_bhatty
 record_id: 1981.03.12.A2
 title: Беседа Махапрабху и Венкаты Бхатты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -21,22 +21,16 @@ tags:
     slug: istoriya
   - title: история о беседе с Венкатой Бхаттой
     slug: istoriya-o-besede-s-venkatoj-bhattoj
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.117
     slug: shri-chajtanya-charitamrita-madhya-lila-9-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.146
     slug: shri-chajtanya-charitamrita-madhya-lila-9-146
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.59
     slug: bhakti-rasamrita-sindhu-1-2-59
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
     slug: shri-chajtanya-charitamrita-madhya-lila-18-142
   - title: Бхакти-расамрита-синдху 1.1.1
     slug: bhakti-rasamrita-sindhu-1-1-1
-  - title: Тайттирия-упанишад
-    slug: tajttiriya-upanishad
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
 links:
@@ -50,6 +44,7 @@ legacy:
   title: 080. 1981.03.12.A2 Беседа Махапрабху и Венкаты Бхатты
   index: "080"
   filename: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty.md
+  slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
 ---
 
 **Госвами Махарадж:** Махарадж, я всегда задавался вопросом: я читал «Чайтанья-чаритамриту», Махапрабху путешествует по Южной Индии и когда Он возвращается в Пури, то вечером Он говорит своему спутнику и последователю…

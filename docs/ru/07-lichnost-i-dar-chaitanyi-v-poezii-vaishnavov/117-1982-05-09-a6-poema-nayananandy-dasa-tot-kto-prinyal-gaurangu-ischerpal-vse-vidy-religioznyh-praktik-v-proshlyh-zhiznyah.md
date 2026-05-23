@@ -1,5 +1,5 @@
 ---
-slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
+slug: 1982-05-09-a6_poema_nayananandy_dasa_tot_kto_prinyal_gaurangu_ischerpal_vse_vidy_religioznyh_praktik_v_proshlyh_zhiznyah
 record_id: 1982.05.09.A6
 title: Поэма Наянананды Даса. Тот, кто принял Гаурангу, исчерпал все виды
   религиозных практик в прошлых жизнях.
@@ -16,8 +16,6 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: Кали-гхора тимире
-    slug: kali-ghora-timire
   - title: Кали-гхора тимире 4
     slug: kali-ghora-timire-4
   - title: Кали-гхора тимире 1
@@ -26,20 +24,12 @@ tags:
     slug: kali-ghora-timire-2
   - title: Кали-гхора тимире 3
     slug: kali-ghora-timire-3
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 3.33.7
     slug: shrimad-bhagavatam-3-33-7
 links:
@@ -54,6 +44,7 @@ legacy:
     исчерпал все виды религиозных практик в прошлых жизнях
   index: "117"
   filename: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
+  slug: 117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah
 ---
 
 …В Коладвипе. Эта *виграха* была установлена учеником Гададхара Пандита, которого звали Ванинатх. Учеником Ванинатха был Наянананда. Этот вайшнав написал одну очень сладостную песню. Мне не известны другие его песни, но одна песня в высшей степени чарующа.

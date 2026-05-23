@@ -2,9 +2,10 @@
 slug: bhadzhana-lalasa-2-2
 refs:
   - ../../_full/1981/11/1981.11.24.A.B.C.md
-tags:
+scriptures:
   - title: Бхаджана-лаласа
     slug: bhadzhana-lalasa
+verses:
   - title: Бхаджана-лаласа 2.2
     slug: bhadzhana-lalasa-2-2
 ---

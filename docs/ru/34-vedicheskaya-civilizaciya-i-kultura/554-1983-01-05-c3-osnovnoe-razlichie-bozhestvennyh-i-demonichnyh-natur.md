@@ -1,5 +1,5 @@
 ---
-slug: 554-1983-01-05-c3-osnovnoe-razlichie-bozhestvennyh-i-demonichnyh-natur
+slug: 1983-01-05-c3_osnovnoe_razlichie_bozhestvennyh_i_demonichnyh_natur
 record_id: 1983.01.05.C3
 title: Основное различие божественных и демоничных натур
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,12 @@ category:
 tags:
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 links:
@@ -38,6 +34,7 @@ legacy:
   title: 554. 1983.01.05.C3. Основное различие божественных и демоничных натур
   index: "554"
   filename: 554-1983-01-05-c3-osnovnoe-razlichie-bozhestvennyh-i-demonichnyh-natur.md
+  slug: 554-1983-01-05-c3-osnovnoe-razlichie-bozhestvennyh-i-demonichnyh-natur
 ---
 
 **Шрила Шридхар Махарадж:** …в целом таково различие демонов и богов. Демоны могут быть более моральными, высоконравственными. Но боги склонны полагаться на Высшее начало, Высший авторитет. Ты понимаешь, нет?

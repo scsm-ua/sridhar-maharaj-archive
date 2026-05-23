@@ -1,5 +1,5 @@
 ---
-slug: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi
+slug: 1987-00-00-a2_blagodarnost_za_knigu_zolotoy_vulkan_bozhestvennoy_lyubvi
 record_id: 1987.00.00.A2
 title: Благодарность за книгу «Золотой вулкан божественной любви»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     любви»
   index: "1118"
   filename: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi.md
+  slug: 1118-1987-00-00-a2-blagodarnost-za-knigu-zolotoj-vulkan-bozhestvennoj-lyubvi
 ---
 
 **Шрила Шридхар Махарадж:** Тарун Кришна говорил о том, что очень любит эту книгу — «Золотой Вулкан Божественной Любви». Прикосновение твоих [Шрипада Бхакти Судхира Госвами Махараджа] рук и ума возымело волшебный эффект.

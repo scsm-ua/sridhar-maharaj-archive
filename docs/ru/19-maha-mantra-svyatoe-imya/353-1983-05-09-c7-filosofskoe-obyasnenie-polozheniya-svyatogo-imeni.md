@@ -1,5 +1,5 @@
 ---
-slug: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni
+slug: 1983-05-09-c7_filosofskoe_obyasnenie_polozheniya_svyatogo_imeni
 record_id: 1983.05.09.C7
 title: Философское объяснение положения Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 353. 1983.05.09.C7. Философское объяснение положения Святого Имени
   index: "353"
   filename: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni.md
+  slug: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni
 ---
 
 **Преданный:** Махарадж, некоторые люди не готовы принять воспевание Святого Имени, они склонны к *гьяне*.

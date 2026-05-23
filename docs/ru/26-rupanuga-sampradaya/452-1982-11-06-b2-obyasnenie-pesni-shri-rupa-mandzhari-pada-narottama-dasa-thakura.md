@@ -1,5 +1,5 @@
 ---
-slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
+slug: 1982-11-06-b2_obyasnenie_pesni_shri_rupa-mandzhari-pada_narottama_dasa_thakura
 record_id: 1982.11.06.B2
 title: Объяснение песни Шри Рупа-Манджари-пада Нароттама Даса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Даса Тхакура
   index: "452"
   filename: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura.md
+  slug: 452-1982-11-06-b2-obyasnenie-pesni-shri-rupa-mandzhari-pada-narottama-dasa-thakura
 tags:
-  - title: «Прартхана», Лаласа
-    slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
 ---

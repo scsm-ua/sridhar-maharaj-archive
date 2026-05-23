@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/04/1982.04.16.C2.D1.md
   - ../../_full/1982/04/1982.04.24.A.B.md
   - ../../_full/1982/11/1982.11.15.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.20
     slug: bhagavad-gita-2-20
 ---

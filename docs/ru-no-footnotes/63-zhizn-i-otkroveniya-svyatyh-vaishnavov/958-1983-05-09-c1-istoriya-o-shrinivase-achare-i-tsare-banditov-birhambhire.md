@@ -1,5 +1,5 @@
 ---
-slug: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire
+slug: 1983-05-09-c1_istoriya_o_shrinivase_achare_i_tsare_banditov_birhambhire
 record_id: 1983.05.09.C1
 title: История о Шринивасе Ачарье и царе бандитов Бирхамбхире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 958. 1983.05.09.C1. История о Шринивасе Ачарье и царе бандитов Бирхамбхире
   index: "958"
   filename: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire.md
+  slug: 958-1983-05-09-c1-istoriya-o-shrinivase-achare-i-tsare-banditov-birhambhire
 ---
 
 **Преданный:** Гуру Махарадж, Кришна уполномочивает некоторые души писать вайшнавскую литературу, другим дает уполномочия распространять эту литературу. Не могли бы вы объяснить: Шринивас Ачарья занимает очень возвышенное положение, поскольку он является великим распространителем вайшнавской литературы?

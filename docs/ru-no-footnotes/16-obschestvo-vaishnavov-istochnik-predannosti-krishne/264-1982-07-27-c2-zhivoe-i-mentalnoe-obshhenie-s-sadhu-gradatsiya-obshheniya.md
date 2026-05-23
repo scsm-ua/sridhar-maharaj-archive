@@ -1,5 +1,5 @@
 ---
-slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
+slug: 1982-07-27-c2_zhivoe_i_mentalnoe_obshchenie_s_sadhu_gradatsiya_obshcheniya
 record_id: 1982.07.27.C2
 title: Живое и ментальное общение с садху. Градация общения.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 264. 1982.07.27.C2. Живое и ментальное общение с садху. Градация общения
   index: "264"
   filename: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya.md
+  slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
 ---
 
 **Преданный:** Махарадж, есть еще один вопрос. Эти юноши хотят знать: когда они вернутся в Европу… Они понимают, что должны изучать *шастры*, но не могли бы вы объяснить принцип общения с *садху*? Как им знать, с кем им общаться?

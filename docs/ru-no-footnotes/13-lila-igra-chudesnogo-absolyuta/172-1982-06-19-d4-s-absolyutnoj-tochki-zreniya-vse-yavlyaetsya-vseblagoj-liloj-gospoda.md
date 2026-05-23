@@ -1,5 +1,5 @@
 ---
-slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
+slug: 1982-06-19-d4_s_absolyutnoy_tochki_zreniya_vse_yavlyaetsya_vseblagoy_liloy_gospoda
 record_id: 1982.06.19.D4
 title: С абсолютной точки зрения все является всеблагой лилой Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     лилой Господа
   index: "172"
   filename: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda.md
+  slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
 ---
 
     [шлока]

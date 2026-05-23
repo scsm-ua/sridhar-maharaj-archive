@@ -1,5 +1,5 @@
 ---
-slug: 960-1981-03-07-c2-dzhagannatha-das-babadzhi-i-bhaktivinod-thakur
+slug: 1981-03-07-c2_dzhagannatha_das_babadzhi_i_bhaktivinod_thakur
 record_id: 1981.03.07.C2
 title: Джаганнатха Дас Бабаджи и Бхактивинод Тхакур
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 960. 1981.03.07.C2. Джаганнатха Дас Бабаджи и Бхактивинод Тхакур
   index: "960"
   filename: 960-1981-03-07-c2-dzhagannatha-das-babadzhi-i-bhaktivinod-thakur.md
+  slug: 960-1981-03-07-c2-dzhagannatha-das-babadzhi-i-bhaktivinod-thakur
 ---
 
 **Госвами Махарадж:** Махарадж, сегодня день ухода Джаганнатха Даса Бабаджи.

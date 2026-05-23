@@ -16,8 +16,6 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Риг-веда
     slug: rig-veda
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.8.25
     slug: shrimad-bhagavatam-1-8-25
 links:

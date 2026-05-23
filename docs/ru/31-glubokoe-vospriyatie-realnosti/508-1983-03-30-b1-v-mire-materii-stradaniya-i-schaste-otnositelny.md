@@ -1,5 +1,5 @@
 ---
-slug: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny
+slug: 1983-03-30-b1_v_mire_materii_stradaniya_i_schaste_otnositelny
 record_id: 1983.03.30.B1
 title: В мире материи страдания и счастье относительны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 508. 1983.03.30.B1. В мире материи страдания и счастье относительны
   index: "508"
   filename: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny.md
+  slug: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.176
     slug: shri-chajtanya-charitamrita-antya-lila-4-176
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 ---

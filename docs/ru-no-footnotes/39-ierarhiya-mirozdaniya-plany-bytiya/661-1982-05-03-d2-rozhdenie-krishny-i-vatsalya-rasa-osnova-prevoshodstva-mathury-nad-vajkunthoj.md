@@ -1,5 +1,5 @@
 ---
-slug: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj
+slug: 1982-05-03-d2_rozhdenie_krishny_i_vatsalya-rasa_osnova_prevoshodstva_mathury_nad_vaykunthoy
 record_id: 1982.05.03.D2
 title: Рождение Кришны и ватсалья-раса – основа превосходства Матхуры над Вайкунтхой
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     превосходства Матхуры над Вайкунтхой
   index: "661"
   filename: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj.md
+  slug: 661-1982-05-03-d2-rozhdenie-krishny-i-vatsalya-rasa-osnova-prevoshodstva-mathury-nad-vajkunthoj
 ---
 
 **Госвами Махарадж:** Махарадж, Айодхья находится в Голоке Вриндавана?

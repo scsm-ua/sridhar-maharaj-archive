@@ -1,5 +1,5 @@
 ---
-slug: 251-dusha-ne-sposobna-neposredstvenno-sl
+slug: 1982-02-17-b2_dusha_ne_sposobna_neposredstvenno_sluzhit_krishne
 record_id: 1982.02.17.B2
 title: Душа не способна непосредственно служить Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 251. Душа не способна непосредственно служить Кришне. 1982.02.17.B2
   index: "251"
   filename: 251-dusha-ne-sposobna-neposredstvenno-sl.md
+  slug: 251-dusha-ne-sposobna-neposredstvenno-sl
 ---
 
 Солнце является источником бесконечно могущественного жара. Но такой бесконечно могущественный жар нам не нужен. Для нас достаточно только жара в определенной степени. Больше этого нам не нужно. Для нашей цели нет необходимости.

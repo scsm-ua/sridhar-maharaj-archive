@@ -1,5 +1,5 @@
 ---
-slug: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi
+slug: 1982-06-05-a3_podlinnyy_duhovnyy_vkus_vozmozhen_tolko_posle_stadii_nishthi
 record_id: 1982.06.05.A3
 title: Подлинный духовный вкус возможен только после стадии ништхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,18 @@ legacy:
     ништхи
   index: "718"
   filename: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi.md
+  slug: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42

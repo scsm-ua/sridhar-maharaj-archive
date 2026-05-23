@@ -1,5 +1,5 @@
 ---
-slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
+slug: 1982-02-23-c4_sambandha-gyana_eto_opredelenie_urovnya_yavleniy_na_osnove_vzglyada_bhagavatam
 record_id: 1982.02.23.C4
 title: Самбандха-гьяна – это определение уровня явлений на основе взгляда «Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     основе взгляда «Бхагаватам»
   index: "426"
   filename: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam.md
+  slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
 ---
 
 Мы должны соприкоснуться с истинной почвой, тогда мы сумеем почувствовать и различать. Мы должны утвердиться в истинном измерении, только тогда мы сумеем, оглядываясь по сторонам, понять: что и какое место занимает. *Самбандха-гьяна*. Санатана Госвами дал это в «Брихад-Бхагаватамритам». Мы должны вплотную следовать этому, тогда мы займем верную позицию. Мы должны утвердиться в определенном положении и затем осматриваться вокруг.

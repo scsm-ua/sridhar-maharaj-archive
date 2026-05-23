@@ -4,9 +4,10 @@ refs:
   - ../../19-maha-mantra-svyatoe-imya/333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
   - ../../19-maha-mantra-svyatoe-imya/333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
   - ../../_full/1982/01/1982.01.07.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.133
     slug: shri-chajtanya-charitamrita-madhya-lila-17-133
 ---

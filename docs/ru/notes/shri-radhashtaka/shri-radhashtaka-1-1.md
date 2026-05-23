@@ -2,9 +2,10 @@
 slug: shri-radhashtaka-1-1
 refs:
   - ../../_full/1982/01/1982.01.24.B.md
-tags:
+scriptures:
   - title: Шри Радхаштака
     slug: shri-radhashtaka
+verses:
   - title: Шри Радхаштака 1.1
     slug: shri-radhashtaka-1-1
 ---

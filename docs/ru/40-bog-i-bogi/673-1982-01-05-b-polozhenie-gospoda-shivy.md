@@ -1,5 +1,5 @@
 ---
-slug: 673-1982-01-05-b-polozhenie-gospoda-shivy
+slug: 1982-01-05-b_polozhenie_gospoda_shivy
 record_id: 1982.01.05.B
 title: Положение Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 673. 1982.01.05.B. Положение Господа Шивы
   index: "673"
   filename: 673-1982-01-05-b-polozhenie-gospoda-shivy.md
+  slug: 673-1982-01-05-b-polozhenie-gospoda-shivy
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.24.29
     slug: shrimad-bhagavatam-4-24-29
 ---

@@ -37,9 +37,10 @@ refs:
   - ../../_full/1983/08/1983.08.07.A.B.md
   - ../../_full/1983/08/1983.08.08.B.md
   - ../../_full/1983/10/1983.10.05.B.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
 ---

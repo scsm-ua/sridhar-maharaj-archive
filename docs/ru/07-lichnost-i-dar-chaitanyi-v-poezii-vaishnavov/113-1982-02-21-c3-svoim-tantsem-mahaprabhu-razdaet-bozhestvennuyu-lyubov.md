@@ -1,5 +1,5 @@
 ---
-slug: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov
+slug: 1982-02-21-c3_svoim_tantsem_mahaprabhu_razdaet_bozhestvennuyu_lyubov
 record_id: 1982.02.21.C3
 title: Своим танцем Махапрабху раздает божественную любовь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 113. 1982.02.21.C3. Своим танцем Махапрабху раздает божественную любовь
   index: "113"
   filename: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov.md
+  slug: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov
 ---
 
     гауранга сундара вара нитйам нидже намабхих

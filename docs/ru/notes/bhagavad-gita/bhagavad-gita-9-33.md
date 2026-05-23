@@ -5,9 +5,10 @@ refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/156-1982-05-06-b2-nrisimhadev-i-proshlaya-zhizn-prahlady-maharadzha.md
   - ../../_full/1982/05/1982.05.06.B.md
   - ../../_full/1983/05/1983.05.24.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.33
     slug: bhagavad-gita-9-33
 ---

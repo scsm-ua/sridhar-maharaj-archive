@@ -1,5 +1,5 @@
 ---
-slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
+slug: 1983-06-05-b2_izvilistye_puti_lyubvi
 record_id: 1983.06.05.B2
 title: Извилистые пути любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 469. 1983.06.05.B2. Извилистые пути любви
   index: "469"
   filename: 469-1983-06-05-b2-izvilistye-puti-lyubvi.md
+  slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
   - title: Шримад-Бхагаватам 2.9.36
@@ -34,20 +33,14 @@ tags:
     slug: shrimad-bhagavatam-9-4-63
   - title: Шримад-Бхагаватам 9.4.68
     slug: shrimad-bhagavatam-9-4-68
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3
     slug: sharanagati-3
   - title: Шаранагати 4.1
     slug: sharanagati-4-1
   - title: Шаранагати 4.5
     slug: sharanagati-4-5
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111

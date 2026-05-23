@@ -1,5 +1,5 @@
 ---
-slug: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha
+slug: 1982-02-01-a2_neskolko_podhodov_dlya_izdaniya_naslediya_shridhara_maharadzha
 record_id: 1982.02.01.A2
 title: Несколько подходов для издания наследия Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Махараджа
   index: "1124"
   filename: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha.md
+  slug: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha
 ---
 
 **Шрила Госвами Махарадж:** Я предложил Мукунде Мала Виласу Прабху [Бхакти Видхан Махайоги Махарадж] помочь мне в публикации этой книги. Также я хочу сообщить вам, что идея книги будет такой: собрать фрагменты из ваших речей, утренних бесед, посвященных различным темам. Вы постоянно говорите на различные темы в разных лекциях. Я хочу объединить эти беседы и создать отдельные главы.

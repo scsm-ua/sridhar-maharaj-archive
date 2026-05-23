@@ -1,5 +1,5 @@
 ---
-slug: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne
+slug: 1982-06-30-b2_iz_zhizni_v_zhizn_ya_pytalsya_predlozhit_tsvetok_krishne
 record_id: 1982.06.30.B2
 title: «Из жизни в жизнь я пытался предложить цветок Кришне…»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1034. 1982.06.30.B2. «Из жизни в жизнь я пытался предложить цветок Кришне…»
   index: "1034"
   filename: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne.md
+  slug: 1034-1982-06-30-b2-iz-zhizni-v-zhizn-ya-pytalsya-predlozhit-tsvetok-krishne
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 ---

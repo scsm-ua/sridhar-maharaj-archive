@@ -2,9 +2,10 @@
 slug: bhagavad-gita-7-25
 refs:
   - ../../_full/1983/10/1983.10.22.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.25
     slug: bhagavad-gita-7-25
 ---

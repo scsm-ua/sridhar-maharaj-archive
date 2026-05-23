@@ -1,5 +1,5 @@
 ---
-slug: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu
+slug: 1982-06-10-b9-c1_v_raznye_kalpy_yavlenie_shukadeva_proishodit_po-raznomu
 record_id: 1982.06.10.B9.C1
 title: В разные калпы явление Шукадева происходит по-разному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 195. 1982.06.10.B9.C1. В разные калпы явление Шукадева происходит по-разному
   index: "195"
   filename: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu.md
+  slug: 195-1982-06-10-b9-c1-v-raznye-kalpy-yavlenie-shukadeva-proishodit-po-raznomu
 ---
 
 **Преданный:** Махарадж, а когда Шукадев Госвами родился, то он сразу же покинул своего отца, немедленно?

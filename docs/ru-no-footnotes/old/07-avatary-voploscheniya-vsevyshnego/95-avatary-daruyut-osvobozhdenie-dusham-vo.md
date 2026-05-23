@@ -1,5 +1,5 @@
 ---
-slug: 95-avatary-daruyut-osvobozhdenie-dusham-vo
+slug: 1981-03-05-b4_avatary_daruyut_osvobozhdenie_dusham_vo_vsey_vselennoy
 record_id: 1981.03.05.B4
 title: Аватары даруют освобождение душам во всей вселенной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 95. Аватары даруют освобождение душам во всей вселенной. 1981.03.05.B4
   index: "95"
   filename: 95-avatary-daruyut-osvobozhdenie-dusham-vo.md
+  slug: 95-avatary-daruyut-osvobozhdenie-dusham-vo
 ---
 
 **Госвами Махарадж:** Когда Кришна был здесь, в этом мире лично, то были ли все освобождены? Это правда? Я так слышал.

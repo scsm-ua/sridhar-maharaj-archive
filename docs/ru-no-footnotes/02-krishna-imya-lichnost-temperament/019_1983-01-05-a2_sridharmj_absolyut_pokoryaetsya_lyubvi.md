@@ -1,5 +1,5 @@
 ---
-slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
+slug: 1983-01-05-a2_absolyut_pokoryaetsya_lyubvi
 record_id: 1983.01.05.A2
 title: Абсолют покоряется любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 019. 1983.01.05.A2 Абсолют покоряется любви
   index: "019"
   filename: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi.md
+  slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
 ---
 
 **Преданный:** Гуру Махарадж?

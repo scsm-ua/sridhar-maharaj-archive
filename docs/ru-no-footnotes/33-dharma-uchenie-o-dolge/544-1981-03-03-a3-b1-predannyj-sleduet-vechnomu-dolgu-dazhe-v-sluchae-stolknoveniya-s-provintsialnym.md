@@ -1,5 +1,5 @@
 ---
-slug: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym
+slug: 1981-03-03-a3-b1_predannyy_sleduet_vechnomu_dolgu_dazhe_v_sluchae_stolknoveniya_s_provintsialnym
 record_id: 1981.03.03.A3.B1
 title: Преданный следует вечному долгу даже в случае столкновения с провинциальным
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     столкновения с провинциальным
   index: "544"
   filename: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym.md
+  slug: 544-1981-03-03-a3-b1-predannyj-sleduet-vechnomu-dolgu-dazhe-v-sluchae-stolknoveniya-s-provintsialnym
 ---
 
 **Преданный:** Вопрос таков: когда мы мыслим в категориях, понятиях нашей жизни, что это значит: обусловленная деятельность?

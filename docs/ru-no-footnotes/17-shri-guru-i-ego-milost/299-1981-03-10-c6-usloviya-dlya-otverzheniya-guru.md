@@ -1,5 +1,5 @@
 ---
-slug: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru
+slug: 1981-03-10-c6_usloviya_dlya_otverzheniya_guru
 record_id: 1981.03.10.C6
 title: Условия для отвержения гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 299. 1981.03.10.C6. Условия для отвержения гуру
   index: "299"
   filename: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru.md
+  slug: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru
 ---
 
 **Госвами Махарадж:** Есть еще один вопрос. Прежде вы говорили, что возможно такое явление, как отвержение. На какой стадии возможно отвержение человека, преданного?

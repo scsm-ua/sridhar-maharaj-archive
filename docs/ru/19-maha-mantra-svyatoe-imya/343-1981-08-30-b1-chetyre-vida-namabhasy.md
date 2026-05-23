@@ -1,5 +1,5 @@
 ---
-slug: 343-1981-08-30-b1-chetyre-vida-namabhasy
+slug: 1981-08-30-b1_chetyre_vida_namabhasy
 record_id: 1981.08.30.B1
 title: Четыре вида намабхасы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: «Хари-бхакти-виласа», Прабхаса-кханда
-    slug: hari-bhakti-vilasa-prabhasa-khanda
   - title: «Хари-бхакти-виласа», Прабхаса-кханда 11.451
     slug: hari-bhakti-vilasa-prabhasa-khanda-11-451
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.2.14
     slug: shrimad-bhagavatam-6-2-14
-  - title: Пратхама-йама садхана - Шраддха
-    slug: prathama-jama-sadhana-shraddha
   - title: Пратхама-йама садхана - Шраддха 4
     slug: prathama-jama-sadhana-shraddha-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.178
     slug: shri-chajtanya-charitamrita-antya-lila-3-178
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.194
@@ -37,16 +29,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-3-182
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.181
     slug: shri-chajtanya-charitamrita-antya-lila-3-181
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 16
     slug: padyavali-16
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 links:
@@ -60,6 +46,7 @@ legacy:
   title: 343. 1981.08.30.B1. Четыре вида намабхасы
   index: "343"
   filename: 343-1981-08-30-b1-chetyre-vida-namabhasy.md
+  slug: 343-1981-08-30-b1-chetyre-vida-namabhasy
 ---
 
 **Преданный:** Вы говорили о четырех типах *намабхасы*…

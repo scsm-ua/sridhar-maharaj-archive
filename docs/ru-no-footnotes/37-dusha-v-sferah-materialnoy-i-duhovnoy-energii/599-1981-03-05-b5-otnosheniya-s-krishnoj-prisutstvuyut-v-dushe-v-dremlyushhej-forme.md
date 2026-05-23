@@ -1,5 +1,5 @@
 ---
-slug: 599-1981-03-05-b5-otnosheniya-s-krishnoj-prisutstvuyut-v-dushe-v-dremlyushhej-forme
+slug: 1981-03-05-b5_otnosheniya_s_krishnoy_prisutstvuyut_v_dushe_v_dremlyushchey_forme
 record_id: 1981.03.05.B5
 title: Отношения с Кришной присутствуют в душе в дремлющей форме
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 599. 1981.03.05.B5. Отношения с Кришной присутствуют в душе в дремлющей форме
   index: "599"
   filename: 599-1981-03-05-b5-otnosheniya-s-krishnoj-prisutstvuyut-v-dushe-v-dremlyushhej-forme.md
+  slug: 599-1981-03-05-b5-otnosheniya-s-krishnoj-prisutstvuyut-v-dushe-v-dremlyushhej-forme
 ---
 
 **Преданный:** У нас была здесь дискуссия в храме. кто-то сказал, что живое существо исходит из *Брахмаджйоти*, а другие говорили, что живое существо изначально находилось с Кришной, в мире сознания Кришны.

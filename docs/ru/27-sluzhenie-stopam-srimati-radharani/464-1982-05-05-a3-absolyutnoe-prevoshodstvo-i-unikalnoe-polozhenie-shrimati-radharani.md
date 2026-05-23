@@ -1,5 +1,5 @@
 ---
-slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
+slug: 1982-05-05-a3_absolyutnoe_prevoshodstvo_i_unikalnoe_polozhenie_shrimati_radharani
 record_id: 1982.05.05.A3
 title: Абсолютное превосходство и уникальное положение Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     Шримати Радхарани
   index: "464"
   filename: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani.md
+  slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
 tags:
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.116
     slug: shri-chajtanya-charitamrita-madhya-lila-8-116
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1.2
     slug: shri-gita-govinda-3-1-2
 ---

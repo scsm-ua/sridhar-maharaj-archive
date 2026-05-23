@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/11/1981.11.21.A.B.md
   - ../../_full/1982/01/1982.01.01.md
   - ../../_full/1982/01/1982.01.17.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.20.17
     slug: shrimad-bhagavatam-11-20-17
 ---

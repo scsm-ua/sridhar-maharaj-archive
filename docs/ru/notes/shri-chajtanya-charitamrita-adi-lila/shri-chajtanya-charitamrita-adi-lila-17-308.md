@@ -12,17 +12,18 @@ refs:
   - ../../_full/1982/11/1982.11.28.A.B.md
   - ../../_full/1982/12/1982.12.12.B.md
   - ../../_full/1983/09/1983.09.09.A.md
-tags:
+scriptures:
   - title: «Махабхараты», Бхишма-парва
     slug: mahabharaty-bhishma-parva
-  - title: «Махабхараты», Бхишма-парва 5.22
-    slug: mahabharaty-bhishma-parva-5-22
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
-    slug: shri-chajtanya-charitamrita-adi-lila-17-308
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Махабхараты», Бхишма-парва 5.22
+    slug: mahabharaty-bhishma-parva-5-22
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
+    slug: shri-chajtanya-charitamrita-adi-lila-17-308
   - title: Бхакти-расамрита-синдху 2.5.93
     slug: bhakti-rasamrita-sindhu-2-5-93
 ---

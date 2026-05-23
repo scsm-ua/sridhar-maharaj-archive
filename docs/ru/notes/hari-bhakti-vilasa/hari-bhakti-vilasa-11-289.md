@@ -2,9 +2,10 @@
 slug: hari-bhakti-vilasa-11-289
 refs:
   - ../../_full/1982/10/1982.10.01.A.B.md
-tags:
+scriptures:
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
+verses:
   - title: Хари-бхакти-виласа 11.289
     slug: hari-bhakti-vilasa-11-289
 ---

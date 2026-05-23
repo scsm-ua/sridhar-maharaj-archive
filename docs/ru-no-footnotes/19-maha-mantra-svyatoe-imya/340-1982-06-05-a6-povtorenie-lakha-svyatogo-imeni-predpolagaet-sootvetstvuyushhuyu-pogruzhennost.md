@@ -1,5 +1,5 @@
 ---
-slug: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost
+slug: 1982-06-05-a6_povtorenie_lakha_svyatogo_imeni_predpolagaet_sootvetstvuyushchuyu_pogruzhennost
 record_id: 1982.06.05.A6
 title: Повторение лакха Святого Имени предполагает соответствующую погруженность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     соответствующую погруженность
   index: "340"
   filename: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost.md
+  slug: 340-1982-06-05-a6-povtorenie-lakha-svyatogo-imeni-predpolagaet-sootvetstvuyushhuyu-pogruzhennost
 ---
 
 **Видагдха Мадхава Прабху:** Махарадж, почему Махапрабху так говорил, почему Он сказал, что будет принимать *прасадам* только в доме того, кто повторяет один *лакх*? Почему Он так сказал?

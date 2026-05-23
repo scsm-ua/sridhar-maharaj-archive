@@ -1,5 +1,5 @@
 ---
-slug: 398-1983-01-22-c2-o-kvalifikatsii-dlya-prinyatiya-sannyasy
+slug: 1983-01-22-c2_o_kvalifikatsii_dlya_prinyatiya_sannyasy
 record_id: 1983.01.22.C2
 title: О квалификации для принятия санньясы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Санньяса
     slug: sannyasa
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -29,8 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
   - title: Шримад-Бхагаватам 1.5.17
@@ -48,6 +42,7 @@ legacy:
   title: 398. 1983.01.22.C2. О квалификации для принятия санньясы
   index: "398"
   filename: 398-1983-01-22-c2-o-kvalifikatsii-dlya-prinyatiya-sannyasy.md
+  slug: 398-1983-01-22-c2-o-kvalifikatsii-dlya-prinyatiya-sannyasy
 ---
 
 **Преданный:** Возникает вопрос: когда я читаю комментарии Свами Махараджа, то из них явствует, что человек не должен принимать *санньясу* до тех пор, пока он не полностью свободен от *анартх*, было бы ошибкой для него преждевременно занимать это положение. Это правильно?

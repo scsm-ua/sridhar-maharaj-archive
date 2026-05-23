@@ -1,5 +1,5 @@
 ---
-slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
+slug: 1981-08-31-b1_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
 record_id: 1981.08.31.B1
 title: Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,16 @@ legacy:
     к поиску Шри Кришны
   index: "010"
   filename: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny.md
+  slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
     slug: shri-chajtanya-charitamrita-madhya-lila-13-141
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.120
     slug: shri-chajtanya-charitamrita-adi-lila-2-120
-  - title: Тайттирия-упанишад
-    slug: tajttiriya-upanishad
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

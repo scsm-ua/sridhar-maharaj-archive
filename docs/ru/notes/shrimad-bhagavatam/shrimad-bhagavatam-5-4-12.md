@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-5-4-12
 refs:
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 5.4.12
     slug: shrimad-bhagavatam-5-4-12
 ---

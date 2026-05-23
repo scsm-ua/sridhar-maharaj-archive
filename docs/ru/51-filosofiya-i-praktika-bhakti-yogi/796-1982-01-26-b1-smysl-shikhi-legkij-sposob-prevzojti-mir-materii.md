@@ -1,5 +1,5 @@
 ---
-slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
+slug: 1982-01-26-b1_smysl_shikhi_legkiy_sposob_prevzoyti_mir_materii
 record_id: 1982.01.26.B1
 title: Смысл шикхи. Легкий способ превзойти мир материи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 796. 1982.01.26.B1. Смысл шикхи. Легкий способ превзойти мир материи
   index: "796"
   filename: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii.md
+  slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
     slug: shri-chajtanya-charitamrita-madhya-lila-15-237
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.6.46
     slug: shrimad-bhagavatam-11-6-46
   - title: Шримад-Бхагаватам 1.13.47

@@ -4,9 +4,10 @@ refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste.md
   - ../../_full/1982/05/1982.05.10.B.C1.md
   - ../../_full/1982/11/1982.11.29.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.3.18
     slug: shrimad-bhagavatam-11-3-18
 ---

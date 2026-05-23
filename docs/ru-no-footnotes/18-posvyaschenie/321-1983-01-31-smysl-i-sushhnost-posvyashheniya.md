@@ -1,5 +1,5 @@
 ---
-slug: 321-1983-01-31-smysl-i-sushhnost-posvyashheniya
+slug: 1983-01-31_smysl_i_sushchnost_posvyashcheniya
 record_id: 1983.01.31
 title: Смысл и сущность посвящения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 321. 1983.01.31. Смысл и сущность посвящения
   index: "321"
   filename: 321-1983-01-31-smysl-i-sushhnost-posvyashheniya.md
+  slug: 321-1983-01-31-smysl-i-sushhnost-posvyashheniya
 ---
 
     дивйам̇ джн̃а̄нам̇ йато дадйа̄т

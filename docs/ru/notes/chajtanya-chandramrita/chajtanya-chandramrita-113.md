@@ -6,13 +6,14 @@ refs:
   - ../../_full/1981/11/1981.11.18.B.C.md
   - ../../_full/1983/03/1983.03.29.md
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.414–418
-    slug: shri-chajtanya-bhagavata-madhya-khanda-1-414-418
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.414–418
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-414-418
   - title: Чайтанья-чандрамрита 113
     slug: chajtanya-chandramrita-113
 ---

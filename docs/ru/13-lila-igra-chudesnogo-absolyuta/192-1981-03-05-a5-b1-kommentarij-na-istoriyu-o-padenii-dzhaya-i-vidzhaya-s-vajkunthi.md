@@ -1,5 +1,5 @@
 ---
-slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
+slug: 1981-03-05-a5-b1_kommentariy_na_istoriyu_o_padenii_dzhaya_i_vidzhaya_s_vaykunthi
 record_id: 1981.03.05.A5.B1
 title: Комментарий на историю о падении Джая и Виджая с Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Вайкунтхи
   index: "192"
   filename: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi.md
+  slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
 tags:
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111

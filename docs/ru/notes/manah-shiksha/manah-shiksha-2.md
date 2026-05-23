@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/01/1982.01.17.md
   - ../../_full/1982/10/1982.10.25.B.md
   - ../../_full/1983/10/1983.10.27.A.B.C.md
-tags:
+scriptures:
   - title: Манах-шикша
     slug: manah-shiksha
+verses:
   - title: Манах-шикша 2
     slug: manah-shiksha-2
 ---

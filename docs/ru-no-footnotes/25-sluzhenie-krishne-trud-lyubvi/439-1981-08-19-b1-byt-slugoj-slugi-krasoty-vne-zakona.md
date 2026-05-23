@@ -1,5 +1,5 @@
 ---
-slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
+slug: 1981-08-19-b1_byt_slugoy_slugi_krasoty_vne_zakona
 record_id: 1981.08.19.B1
 title: Быть слугой слуги Красоты вне закона
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 439. 1981.08.19.B1. Быть слугой слуги Красоты вне закона
   index: "439"
   filename: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona.md
+  slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
 ---
 
 **Шрила Шридхар Махарадж:**

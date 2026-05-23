@@ -1,5 +1,5 @@
 ---
-slug: 549-1983-11-24-a3-b-vysshaya-shkola-teizma
+slug: 1983-11-24-a3-b_vysshaya_shkola_teizma
 record_id: 1983.11.24.A3.B
 title: Высшая школа теизма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 549. 1983.11.24.A3.B. Высшая школа теизма
   index: "549"
   filename: 549-1983-11-24-a3-b-vysshaya-shkola-teizma.md
+  slug: 549-1983-11-24-a3-b-vysshaya-shkola-teizma
 ---
 
 **Преданный:** Гуру Махарадж, не могли бы вы рассказать нам о превосходстве ведической культуры?

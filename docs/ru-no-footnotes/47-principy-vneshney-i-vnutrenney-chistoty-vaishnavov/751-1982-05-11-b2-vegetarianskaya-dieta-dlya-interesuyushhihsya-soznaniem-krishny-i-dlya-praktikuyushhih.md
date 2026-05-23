@@ -1,5 +1,5 @@
 ---
-slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
+slug: 1982-05-11-b2_vegetarianskaya_dieta_dlya_interesuyushchihsya_soznaniem_krishny_i_dlya_praktikuyushchih
 record_id: 1982.05.11.B2
 title: Вегетарианская диета для интересующихся Сознанием Кришны и для практикующих
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кришны и для практикующих
   index: "751"
   filename: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih.md
+  slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
 ---
 
 Качество и количество. По мере возрастания количества, качество уменьшается. Они прямо пропорциональны, качество и количество. Этот факт мы не должны забывать. Если мы хотим иметь дело с явлениями высочайшего качества, то мы должны быть удовлетворены меньшим количеством. А если же мы хотим большего количества, больших масштабов, тогда неизбежным образом качеством придется пожертвовать.

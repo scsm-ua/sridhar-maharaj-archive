@@ -1,5 +1,5 @@
 ---
-slug: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile
+slug: 1982-02-22-b2_o_znachenii_govardhana_v_krishna-lile
 record_id: 1982.02.22.B2
 title: О значении Говардхана в Кришна-лиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 058. 1982.02.22.B2 О значении Говардхана в Кришна-лиле
   index: "058"
   filename: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile.md
+  slug: 058_1982-02-22-b2_sridharmj_o_znachenii_govardhana_v_krishna-lile
 ---
 
 **Преданный:** Вчера Вы сказали, что после *Радха-кунды* Говардхан — самое важное место для нас, но мы очень мало знаем о Кришна-*лиле* на Говардхане.

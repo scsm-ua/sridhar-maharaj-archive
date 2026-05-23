@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-6-11-26
 refs:
   - ../../_full/1981/09/1981.09.22.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.11.26
     slug: shrimad-bhagavatam-6-11-26
 ---

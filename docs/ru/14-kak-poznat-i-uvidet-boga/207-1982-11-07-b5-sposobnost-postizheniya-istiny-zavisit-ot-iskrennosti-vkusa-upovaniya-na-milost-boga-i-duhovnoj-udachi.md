@@ -1,5 +1,5 @@
 ---
-slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
+slug: 1982-11-07-b5_sposobnost_postizheniya_istiny_zavisit_ot_iskrennosti_vkusa_upovaniya_na_milost_boga_i_duhovnoy_udachi
 record_id: 1982.11.07.B5
 title: Способность постижения Истины зависит от искренности, вкуса, упования на
   милость Бога и духовной удачи
@@ -25,19 +25,14 @@ legacy:
     вкуса, упования на милость Бога и духовной удачи
   index: "207"
   filename: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
+  slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
     slug: shri-chajtanya-charitamrita-madhya-lila-6-89
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.88
     slug: shri-chajtanya-charitamrita-madhya-lila-6-88
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
@@ -52,8 +47,6 @@ tags:
     slug: shrimad-bhagavatam-2-1-9
   - title: Шримад-Бхагаватам 10.1.4
     slug: shrimad-bhagavatam-10-1-4
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.72
@@ -64,8 +57,6 @@ tags:
     slug: shrimad-bhagavatam-11-14-8
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94

@@ -1,5 +1,5 @@
 ---
-slug: 246-1982-02-23-b2-duhovnoe-obshhenie-put-k-chistomu-vospevaniyu-imeni
+slug: 1982-02-23-b2_duhovnoe_obshchenie_put_k_chistomu_vospevaniyu_imeni
 record_id: 1982.02.23.B2
 title: Духовное общение – путь к чистому воспеванию Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 246. 1982.02.23.B2. Духовное общение – путь к чистому воспеванию Имени
   index: "246"
   filename: 246-1982-02-23-b2-duhovnoe-obshhenie-put-k-chistomu-vospevaniyu-imeni.md
+  slug: 246-1982-02-23-b2-duhovnoe-obshhenie-put-k-chistomu-vospevaniyu-imeni
 ---
 
 **Преданный:** Вопрос о *шуддха-наме*…

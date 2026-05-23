@@ -1,5 +1,5 @@
 ---
-slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
+slug: 1981-11-12-c1_kvalifikatsiya_dlya_obsuzhdeniya_igr_krishny_i_gopi_v_stihah_shrimad_bhagavatam
 record_id: 1981.11.12.C1
 title: Квалификация для обсуждения игр Кришны и гопи в стихах Шримад Бхагаватам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     стихах Шримад Бхагаватам
   index: "871"
   filename: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam.md
+  slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.30
     slug: shrimad-bhagavatam-10-33-30
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
   - title: Шримад-Бхагаватам 10.33.39

@@ -1,5 +1,5 @@
 ---
-slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
+slug: 1983-11-05-a6-b_transtsendentnye_shpiony_chernyy_rynok_vysshey_realnosti
 record_id: 1983.11.05.A6.B
 title: Трансцендентные шпионы. «Черный рынок» высшей Реальности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -32,6 +32,7 @@ legacy:
   title: 044. 1983.11.05.A6.B Трансцендентные шпионы. «Черный рынок» высшей Реальности
   index: "044"
   filename: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti.md
+  slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
 ---
 
 **Госвами Махарадж:** Махарадж, иногда Вы говорили, что в свои последние дни Шрила Сарасвати Тхакур хотел построить хижину на Говардхане, просил своих учеников построить хижину на Говардхане, и хотел провести там свои последние дни.

@@ -18,9 +18,10 @@ refs:
   - ../../_full/1982/08/1982.08.22.B.md
   - ../../_full/1982/12/1982.12.06.A.B.md
   - ../../_full/1983/01/1983.01.21.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
 ---

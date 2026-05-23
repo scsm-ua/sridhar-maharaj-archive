@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/01/1982.01.28.md
   - ../../_full/1982/04/1982.04.28.A.B.md
   - ../../_full/1982/12/1982.12.25.C.md
-tags:
+scriptures:
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
+verses:
   - title: Шри Ишопанишад 5
     slug: shri-ishopanishad-5
 ---

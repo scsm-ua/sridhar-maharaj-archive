@@ -1,5 +1,5 @@
 ---
-slug: 659-1982-02-19-b2-gradatsiya-predannosti
+slug: 1982-02-19-b2_gradatsiya_predannosti
 record_id: 1982.02.19.B2
 title: Градация преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 659. 1982.02.19.B2. Градация преданности
   index: "659"
   filename: 659-1982-02-19-b2-gradatsiya-predannosti.md
+  slug: 659-1982-02-19-b2-gradatsiya-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
 ---

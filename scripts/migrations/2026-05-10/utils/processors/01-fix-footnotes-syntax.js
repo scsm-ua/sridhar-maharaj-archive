@@ -1,8 +1,11 @@
 const { warn } = require('../warnings');
 
 const ref_re = /(\[\^[^\]]+\])(\:?)/g;
+const footnote_def_re = /^\[\^[^\]]+\]:/m;
 
 function fixFootnotesSyntax(doc) {
+    const has_footnote_defs = footnote_def_re.test(doc.text);
+
     let lines = doc.text.split('\n');
     const refs_dict = {};
     let footnotes_mode = false;
@@ -15,7 +18,7 @@ function fixFootnotesSyntax(doc) {
             };
             const idx = line.indexOf(footnote_id);
 
-            if (!footnote_body && idx === 0 && ref_item.links > 0) {
+            if (!has_footnote_defs && !footnote_body && idx === 0 && ref_item.links > 0) {
                 line = line.replace(footnote_id, footnote_id + ':');
 
                 footnote_body = true;

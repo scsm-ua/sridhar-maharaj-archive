@@ -1,5 +1,5 @@
 ---
-slug: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva
+slug: 1983-01-02-a2-1_pravilnoe_ponimanie_printsipov_upovanie_na_zashchitu_gospoda_i_prinyatie_ego_pokrovitelstva
 record_id: 1983.01.02.A2.1
 title: Правильное понимание принципов «упование на защиту Господа» и «принятие
   Его покровительства»
@@ -16,8 +16,6 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
 links:
@@ -32,6 +30,7 @@ legacy:
     Господа» и «принятие Его покровительства»
   index: "827"
   filename: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva.md
+  slug: 827-1983-01-02-a2-1-pravilnoe-ponimanie-printsipov-upovaniya-na-zashhitu-gospoda-i-prinyatiya-ego-pokrovitelstva
 ---
 
 **Преданная:** Гуру Махарадж!

@@ -71,9 +71,10 @@ refs:
   - ../../_full/1983/10/1983.10.29.B.md
   - ../../_full/1985/05/1985.05.01.md
   - ../../_full/1985/10/1985.10.04.md
-tags:
+scriptures:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
+verses:
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 ---

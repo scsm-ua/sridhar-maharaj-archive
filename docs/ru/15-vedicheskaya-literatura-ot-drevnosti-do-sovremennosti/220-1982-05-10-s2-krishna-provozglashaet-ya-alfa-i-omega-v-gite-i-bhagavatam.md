@@ -1,5 +1,5 @@
 ---
-slug: 220-1982-05-10-s2-krishna-provozglashaet-ya-alfa-i-omega-v-gite-i-bhagavatam
+slug: 1982-05-10-c2_krishna_provozglashaet_ya_alfa_i_omega_v_gite_i_bhagavatam
 record_id: 1982.05.10.C2
 title: "Кришна провозглашает: «Я – Альфа и Омега» в «Гите» и «Бхагаватам»"
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     «Бхагаватам»"
   index: "220"
   filename: 220-1982-05-10-s2-krishna-provozglashaet-ya-alfa-i-omega-v-gite-i-bhagavatam.md
+  slug: 220-1982-05-10-s2-krishna-provozglashaet-ya-alfa-i-omega-v-gite-i-bhagavatam
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.65
     slug: bhagavad-gita-18-65
 ---

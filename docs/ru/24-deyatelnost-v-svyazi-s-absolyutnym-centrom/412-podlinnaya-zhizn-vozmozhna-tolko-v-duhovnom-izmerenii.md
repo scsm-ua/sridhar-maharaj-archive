@@ -13,8 +13,6 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
-  - title: Нитай гунамани амара
-    slug: nitaj-gunamani-amara
   - title: Нитай гунамани амара 3
     slug: nitaj-gunamani-amara-3
 links:

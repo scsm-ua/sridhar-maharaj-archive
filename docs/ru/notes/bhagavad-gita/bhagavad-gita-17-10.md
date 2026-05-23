@@ -2,9 +2,10 @@
 slug: bhagavad-gita-17-10
 refs:
   - ../../_full/1983/04/1983.04.29.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 17.10
     slug: bhagavad-gita-17-10
 ---

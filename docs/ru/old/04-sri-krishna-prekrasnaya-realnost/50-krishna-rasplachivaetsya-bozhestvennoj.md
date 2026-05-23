@@ -1,5 +1,5 @@
 ---
-slug: 50-krishna-rasplachivaetsya-bozhestvennoj
+slug: 1980-07-11-a3_krishna_rasplachivaetsya_bozhestvennoy_lyubovyu
 record_id: 1980.07.11.A3
 title: Кришна расплачивается божественной любовью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 50. Кришна расплачивается божественной любовью. 1980.07.11.A3
   index: "50"
   filename: 50-krishna-rasplachivaetsya-bozhestvennoj.md
+  slug: 50-krishna-rasplachivaetsya-bozhestvennoj
 ---
 
 **Преданный:** Он – возлюбленный слуга, возлюбленный ученик Хамсадута Махараджа. Радха Говинда Дас – особое имя.

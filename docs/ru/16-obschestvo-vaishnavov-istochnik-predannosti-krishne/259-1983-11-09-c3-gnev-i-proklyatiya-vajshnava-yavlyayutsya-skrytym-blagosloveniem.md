@@ -1,5 +1,5 @@
 ---
-slug: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem
+slug: 1983-11-09-c3_gnev_i_proklyatiya_vayshnava_yavlyayutsya_skrytym_blagosloveniem
 record_id: 1983.11.09.C3
 title: Гнев и проклятия вайшнава являются скрытым благословением
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 259. 1983.11.09.C3. Гнев и проклятия вайшнава являются скрытым благословением
   index: "259"
   filename: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem.md
+  slug: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.30
     slug: shri-chajtanya-charitamrita-adi-lila-1-30
 ---

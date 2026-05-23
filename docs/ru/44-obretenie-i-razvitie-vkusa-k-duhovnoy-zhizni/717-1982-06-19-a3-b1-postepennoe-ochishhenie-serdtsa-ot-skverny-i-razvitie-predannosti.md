@@ -1,5 +1,5 @@
 ---
-slug: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti
+slug: 1982-06-19-a3-b1_postepennoe_ochishchenie_serdtsa_ot_skverny_i_razvitie_predannosti
 record_id: 1982.06.19.A3.B1
 title: Постепенное очищение сердца от скверны и развитие преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,51 +24,36 @@ legacy:
     преданности
   index: "717"
   filename: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
+  slug: 717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
     slug: shri-chajtanya-charitamrita-madhya-lila-22-144
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.42
     slug: shrimad-bhagavatam-11-5-42
   - title: Шримад-Бхагаватам 2.8.5
     slug: shrimad-bhagavatam-2-8-5
   - title: Шримад-Бхагаватам 1.2.18
     slug: shrimad-bhagavatam-1-2-18
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
   - title: Бхагавад-гита 9.31
     slug: bhagavad-gita-9-31
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
-  - title: Гитавали
-    slug: gitavali
   - title: Гитавали 12.4.5
     slug: gitavali-12-4-5
   - title: Шримад-Бхагаватам 11.2.36
     slug: shrimad-bhagavatam-11-2-36
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
   - title: Падьявали 126
     slug: padyavali-126
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.34
     slug: shri-chajtanya-charitamrita-antya-lila-7-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
@@ -184,8 +169,9 @@ tags:
 
 *#00:09:53#*
 
-**йуватӣна̄м́ йатха̄ йӯни йӯнам́ ча йуватау йатха̄**\
-**мано** ’**бхирамате тадван мано ме рамата̄м́ твайи**[^_ftn11]
+    йуватӣна̄м́ йатха̄ йӯни йӯнам́ ча йуватау йатха̄
+    мано ’бхирамате тадван мано ме рамата̄м́ твайи
+[^_ftn11]
 
 В этом мире мы видим: высшая пленяющая сила — это супружеская любовь или влечение полов. И достичь такого идеала — всеобъемлющего, абсолютно пленительного, когда речь идет о полноте служения, — это явление должно быть высочайшим.
 

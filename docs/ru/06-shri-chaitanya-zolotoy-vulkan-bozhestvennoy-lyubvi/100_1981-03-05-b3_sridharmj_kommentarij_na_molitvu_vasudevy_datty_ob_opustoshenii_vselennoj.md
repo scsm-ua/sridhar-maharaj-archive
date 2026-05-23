@@ -1,5 +1,5 @@
 ---
-slug: 100_1981-03-05-b3_sridharmj_kommentarij_na_molitvu_vasudevy_datty_ob_opustoshenii_vselennoj
+slug: 1981-03-05-b3_kommentariy_na_molitvu_vasudevy_datty_ob_opustoshenii_vselennoy
 record_id: 1981.03.05.B3
 title: Комментарий на молитву Васудевы Датты об опустошении вселенной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: история о просьбе Васудевы Датты освободить всех
     slug: istoriya-o-prosbe-vasudevy-datty-osvo
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
     slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 links:
@@ -31,6 +29,7 @@ legacy:
     вселенной
   index: "100"
   filename: 100_1981-03-05-b3_sridharmj_kommentarij_na_molitvu_vasudevy_datty_ob_opustoshenii_vselennoj.md
+  slug: 100_1981-03-05-b3_sridharmj_kommentarij_na_molitvu_vasudevy_datty_ob_opustoshenii_vselennoj
 ---
 
 **Госвами Махарадж:** Что произошло? Васудева Датта попросил Махапрабху, взмолился, обращаясь к Махапрабху: «Пусть вся Вселенная освободится, все *дживы* будут спасены, а я приму бремя их *кармы* на себя».

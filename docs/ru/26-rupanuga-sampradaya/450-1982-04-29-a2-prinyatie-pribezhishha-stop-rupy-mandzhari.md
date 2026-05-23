@@ -1,5 +1,5 @@
 ---
-slug: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari
+slug: 1982-04-29-a2_prinyatie_pribezhishcha_stop_rupy_mandzhari
 record_id: 1982.04.29.A2
 title: Принятие прибежища стоп Рупы Манджари
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 450. 1982.04.29.A2. Принятие прибежища стоп Рупы Манджари
   index: "450"
   filename: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari.md
+  slug: 450-1982-04-29-a2-prinyatie-pribezhishha-stop-rupy-mandzhari
 tags:
-  - title: «Прартхана», Лаласа
-    slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
 ---

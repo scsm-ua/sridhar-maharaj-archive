@@ -3,9 +3,10 @@ slug: bhagavad-gita-13-34
 refs:
   - ../../29-gayatri-mantra-i-mantra-om/494-2012-07-27-1-gayatri-mantra.md
   - ../../_full/1982/02/1982.02.14.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.34
     slug: bhagavad-gita-13-34
 ---

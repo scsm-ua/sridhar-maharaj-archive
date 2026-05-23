@@ -1,5 +1,5 @@
 ---
-slug: 194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile
+slug: 1982-05-14-b2_vechnaya_priroda_tsiklichnyy_harakter_i_odnovremennoe_sosushchestvovanie_v_lile
 record_id: 1982.05.14.B2
 title: Вечная природа, цикличный характер и одновременное сосуществование в лиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     сосуществование в лиле
   index: "194"
   filename: 194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile.md
+  slug: 194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile
 ---
 
 Каждая *лила* Господа вечная, каждая часть Безграничного имеет вечную природу, вечную. Мне рассказывали, в «Махабхарате», в самом начале повествования, присутствует *Дхритараштра-вилаб*. Раздел *Дхритараштра*—*вилаб* — скорбь Дхритараштры, Дхритараштра выражает скорбь, он говорит: «Я знаю, что моя сторона потерпит поражение, я знаю, что такие-то и такие события произойдут, я испытываю разочарование».

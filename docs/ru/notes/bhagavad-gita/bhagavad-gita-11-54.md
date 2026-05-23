@@ -3,9 +3,10 @@ slug: bhagavad-gita-11-54
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu.md
   - ../../_full/1983/01/1983.01.05.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 11.54
     slug: bhagavad-gita-11-54
 ---

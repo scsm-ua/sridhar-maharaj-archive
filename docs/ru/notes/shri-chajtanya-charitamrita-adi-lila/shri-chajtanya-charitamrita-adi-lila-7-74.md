@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-7-74
 refs:
   - ../../73-povtory-i-variacii/1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii/1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
   - ../../_full/1982/01/1982.01.11.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.74
     slug: shri-chajtanya-charitamrita-adi-lila-7-74
 ---

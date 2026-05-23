@@ -1,5 +1,5 @@
 ---
-slug: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy
+slug: 1981-02-28-c4_krishna_tsel_vseh_zhertvoprinosheniy
 record_id: 1981.02.28.C4
 title: Кришна — цель всех жертвоприношений
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 018. 1981.02.28.C4 Кришна — цель всех жертвоприношений
   index: "018"
   filename: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy.md
+  slug: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Бхагавад-гита 9.24
@@ -42,16 +41,12 @@ tags:
     slug: bhagavad-gita-4-29
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
     slug: shri-chajtanya-charitamrita-madhya-lila-22-72
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
     slug: shri-chajtanya-charitamrita-madhya-lila-25-129
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
 ---

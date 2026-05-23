@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-10-22-35
 refs:
   - ../../_full/1983/01/1983.01.07.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.42
-    slug: shri-chajtanya-charitamrita-adi-lila-9-42
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.42
+    slug: shri-chajtanya-charitamrita-adi-lila-9-42
   - title: Шримад-Бхагаватам 10.22.35
     slug: shrimad-bhagavatam-10-22-35
 ---

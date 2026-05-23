@@ -1,5 +1,5 @@
 ---
-slug: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti
+slug: 1982-01-17-a2_arii_rassmatrivali_yavleniya_prirody_kak_lichnosti
 record_id: 1982.01.17.A2
 title: Арии рассматривали явления природы как личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 623. 1982.01.17.A2. Арии рассматривали явления природы как личности
   index: "623"
   filename: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
+  slug: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.5.2
     slug: shrimad-bhagavatam-12-5-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
     slug: shri-chajtanya-charitamrita-madhya-lila-3-28
-  - title: Шри Чайтанья-чандродая-натака
-    slug: shri-chajtanya-chandrodaya-nataka
   - title: Шри Чайтанья-чандродая-натака 5.13
     slug: shri-chajtanya-chandrodaya-nataka-5-13
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136

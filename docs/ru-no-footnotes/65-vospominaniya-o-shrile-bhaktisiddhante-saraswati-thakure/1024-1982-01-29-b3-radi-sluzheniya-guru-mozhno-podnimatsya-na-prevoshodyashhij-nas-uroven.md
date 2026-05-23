@@ -1,5 +1,5 @@
 ---
-slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
+slug: 1982-01-29-b3_radi_sluzheniya_guru_mozhno_podnimatsya_na_prevoshodyashchiy_nas_uroven
 record_id: 1982.01.29.B3
 title: Ради служения Гуру можно подниматься на превосходящий нас уровень
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     превосходящий нас уровень
   index: "1024"
   filename: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven.md
+  slug: 1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven
 ---
 
     пӯджала ра̄га-патха гаурава-бхан̇ге

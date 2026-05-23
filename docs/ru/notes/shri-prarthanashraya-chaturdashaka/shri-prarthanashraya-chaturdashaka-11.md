@@ -4,9 +4,10 @@ refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
   - ../../_full/1982/10/1982.10.10.A.B.C.md
   - ../../_full/1983/11/1983.11.08.B2.md
-tags:
+scriptures:
   - title: Шри Прартханашрая-чатурдашака
     slug: shri-prarthanashraya-chaturdashaka
+verses:
   - title: Шри Прартханашрая-чатурдашака 11
     slug: shri-prarthanashraya-chaturdashaka-11
 ---

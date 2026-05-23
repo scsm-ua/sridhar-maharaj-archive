@@ -5,9 +5,10 @@ refs:
   - ../../_full/1982/01/1982.01.18.md
   - ../../_full/1982/10/1982.10.20.A.B.md
   - ../../_full/1983/10/1983.10.16.C.md
-tags:
+scriptures:
   - title: Нама-санкиртан
     slug: nama-sankirtan
+verses:
   - title: Нама-санкиртан 8
     slug: nama-sankirtan-8
 ---

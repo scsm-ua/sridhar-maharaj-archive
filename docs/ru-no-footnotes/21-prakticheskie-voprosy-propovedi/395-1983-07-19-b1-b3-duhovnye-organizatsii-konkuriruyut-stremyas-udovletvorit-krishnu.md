@@ -1,5 +1,5 @@
 ---
-slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
+slug: 1983-07-19-b1-b3_duhovnye_organizatsii_konkuriruyut_stremyas_udovletvorit_krishnu
 record_id: 1983.07.19.B1.B3
 title: Духовные организации конкурируют, стремясь удовлетворить Кришну
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     удовлетворить Кришну
   index: "395"
   filename: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu.md
+  slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
 ---
 
 **Преданный:** Махарадж, я вижу: чем более интенсивен человек становится в своей преданности Кришне, тем в большей степени он разочаровывается.

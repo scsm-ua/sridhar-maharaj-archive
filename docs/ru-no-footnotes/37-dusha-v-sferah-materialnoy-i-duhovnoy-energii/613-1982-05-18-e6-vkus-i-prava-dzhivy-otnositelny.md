@@ -1,5 +1,5 @@
 ---
-slug: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny
+slug: 1982-05-18-e6_vkus_i_prava_dzhivy_otnositelny
 record_id: 1982.05.18.E6
 title: Вкус и права дживы относительны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 613. 1982.05.18.E6. Вкус и права дживы относительны
   index: "613"
   filename: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny.md
+  slug: 613-1982-05-18-e6-vkus-i-prava-dzhivy-otnositelny
 ---
 
 **Преданный:** Махарадж!

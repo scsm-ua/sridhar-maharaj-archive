@@ -1,5 +1,5 @@
 ---
-slug: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi
+slug: 1982-05-18-e3_dlya_otnosheniy_s_vysshim_nachalom_neobhodimo_proyavit_sebya_v_aspekte_shakti_a_ne_purushi
 record_id: 1982.05.18.E3
 title: Для отношений с Высшим Началом необходимо проявить себя в аспекте шакти,
   а не пуруши
@@ -25,6 +25,7 @@ legacy:
     себя в аспекте шакти, а не пуруши
   index: "063"
   filename: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
+  slug: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi
 ---
 
 *#00:09:29#*

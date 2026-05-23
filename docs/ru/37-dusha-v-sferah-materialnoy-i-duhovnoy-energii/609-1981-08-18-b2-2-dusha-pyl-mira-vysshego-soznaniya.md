@@ -1,5 +1,5 @@
 ---
-slug: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya
+slug: 1981-08-18-b2-2_dusha_pyl_mira_vysshego_soznaniya
 record_id: 1981.08.18.B2.2
 title: Душа — пыль мира высшего сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-сандарбха
-    slug: bhagavad-sandarbha
   - title: Бхагавад-сандарбха 16
     slug: bhagavad-sandarbha-16
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 609. 1981.08.18.B2.2. Душа — пыль мира высшего сознания
   index: "609"
   filename: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya.md
+  slug: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya
 ---
 
 **Госвами Махарадж:** В «Джайва-дхарме» Бхактивинод Тхакур говорит, что *джива-шакти* есть часть *сварупа-шакти*.

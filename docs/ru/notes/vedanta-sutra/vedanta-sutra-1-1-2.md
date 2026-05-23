@@ -2,9 +2,10 @@
 slug: vedanta-sutra-1-1-2
 refs:
   - ../../_full/1983/03/1983.03.29.md
-tags:
+scriptures:
   - title: Веданта-сутра
     slug: vedanta-sutra
+verses:
   - title: Веданта-сутра 1.1.2
     slug: vedanta-sutra-1-1-2
 ---

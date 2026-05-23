@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-7-8-17
 refs:
   - ../../_full/1982/08/1982.08.31.B.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.8.17
     slug: shrimad-bhagavatam-7-8-17
 ---

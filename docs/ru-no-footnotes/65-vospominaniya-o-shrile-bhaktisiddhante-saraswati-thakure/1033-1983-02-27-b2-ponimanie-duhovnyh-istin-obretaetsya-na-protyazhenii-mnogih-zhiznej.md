@@ -1,5 +1,5 @@
 ---
-slug: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej
+slug: 1983-02-27-b2_ponimanie_duhovnyh_istin_obretaetsya_na_protyazhenii_mnogih_zhizney
 record_id: 1983.02.27.B2
 title: Понимание духовных истин обретается на протяжении многих жизней
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     многих жизней
   index: "1033"
   filename: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej.md
+  slug: 1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej
 ---
 
 Сегодня день явления Нароттама Тхакура.

@@ -1,5 +1,5 @@
 ---
-slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
+slug: 1982-04-30-a1-b2_krishnadas_babadzhi_i_shridhar_maharadzh_velichie_sharanagati
 record_id: 1982.04.30.A1.B2
 title: Кришнадас Бабаджи и Шридхар Махарадж. Величие шаранагати.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     шаранагати
   index: "966"
   filename: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
+  slug: 966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
     slug: shri-chajtanya-charitamrita-antya-lila-4-71
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
   - title: Падьявали 386
     slug: padyavali-386
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55
     slug: shri-chajtanya-charitamrita-madhya-lila-17-55
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 6.123
     slug: shri-chajtanya-bhagavata-antya-khanda-6-123
 ---

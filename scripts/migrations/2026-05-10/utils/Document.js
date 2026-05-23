@@ -6,6 +6,8 @@ const { fixTitle } = require('./processors/04-fix-title');
 const { cleanupEnglishTags } = require('./processors/05-cleanup-english-tags');
 const { fixItalicBoundaries } = require('./processors/06-italic-boundaries');
 const { renameAudioMp3ToSrc } = require('./processors/07-rename-audio-mp3-to-src');
+const { boldVersesToCode } = require('./processors/08-bold-verses-to-code');
+const { fixSlug } = require('./processors/09-fix-slug');
 const { validateFootnotes } = require('./processors/10-validate-footnotes');
 
 const yml_re = /^---\n([\s\S]*?)\n---[ \t]*\n*/m;
@@ -29,6 +31,8 @@ class Document {
         cleanupEnglishTags(this);
         fixItalicBoundaries(this);
         renameAudioMp3ToSrc(this);
+        boldVersesToCode(this);
+        fixSlug(this);
         validateFootnotes(this);
     }
 

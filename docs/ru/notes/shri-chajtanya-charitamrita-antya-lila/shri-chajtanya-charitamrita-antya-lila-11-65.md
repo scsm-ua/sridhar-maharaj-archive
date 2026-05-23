@@ -4,9 +4,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
   - ../../_full/1981/11/1981.11.29.md
   - ../../_full/1983/03/1983.03.16.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 11.65
     slug: shri-chajtanya-charitamrita-antya-lila-11-65
 ---

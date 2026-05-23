@@ -1,5 +1,5 @@
 ---
-slug: 881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku
+slug: 1982-02-19-e3_zhal_chto_on_ne_popal_na_goloku
 record_id: 1982.02.19.E3
 title: «Жаль, что он не попал на Голоку…»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 881. 1982.02.19.E3. «Жаль, что он не попал на Голоку…»
   index: "881"
   filename: 881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku.md
+  slug: 881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku
 tags:
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
 ---

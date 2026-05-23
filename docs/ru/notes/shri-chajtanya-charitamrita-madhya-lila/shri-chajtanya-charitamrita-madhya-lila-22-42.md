@@ -7,15 +7,16 @@ refs:
   - ../../_full/1981/12/1981.12.14.A.B.md
   - ../../_full/1982/02/1982.02.15.md
   - ../../_full/1982/12/1982.12.06.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Хари-бхакти-судходая
+    slug: hari-bhakti-sudhodaya
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.42
     slug: shri-chajtanya-charitamrita-madhya-lila-22-42
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.219
     slug: shri-chajtanya-charitamrita-madhya-lila-24-219
-  - title: Хари-бхакти-судходая
-    slug: hari-bhakti-sudhodaya
   - title: Хари-бхакти-судходая 7.28
     slug: hari-bhakti-sudhodaya-7-28
 ---

@@ -4,9 +4,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami.md
   - ../../_full/1982/07/1982.07.07.A.B.md
   - ../../_full/1983/01/1983.01.07.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.3
     slug: shri-chajtanya-charitamrita-madhya-lila-20-3
 ---

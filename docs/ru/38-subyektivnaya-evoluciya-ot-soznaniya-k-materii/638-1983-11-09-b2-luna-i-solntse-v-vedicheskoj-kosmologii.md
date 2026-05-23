@@ -1,5 +1,5 @@
 ---
-slug: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii
+slug: 1983-11-09-b2_luna_i_solntse_v_vedicheskoy_kosmologii
 record_id: 1983.11.09.B2
 title: Луна и Солнце в ведической космологии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 638. 1983.11.09.B2. Луна и Солнце в ведической космологии
   index: "638"
   filename: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii.md
+  slug: 638-1983-11-09-b2-luna-i-solntse-v-vedicheskoj-kosmologii
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 8.25
     slug: bhagavad-gita-8-25
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
+slug: 1982-11-03-b2_o_vazhnosti_izucheniya_svyashchennyh_pisaniy_i_slushaniya_hari-kathi_vozvyshennyh_vayshnavov
 record_id: 1982.11.03.B2
 title: О важности изучения Священных Писаний и слушания хари-катхи возвышенных
   вайшнавов
@@ -25,6 +25,7 @@ legacy:
     хари-катхи возвышенных вайшнавов
   index: "208"
   filename: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov.md
+  slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
 ---
 
 **Шрила Джаджавар Махарадж:**

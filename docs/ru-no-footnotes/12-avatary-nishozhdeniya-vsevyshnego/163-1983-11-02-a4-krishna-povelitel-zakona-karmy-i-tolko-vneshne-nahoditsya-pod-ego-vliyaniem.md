@@ -1,5 +1,5 @@
 ---
-slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
+slug: 1983-11-02-a4_krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsya_pod_ego_vliyaniem
 record_id: 1983.11.02.A4
 title: Кришна повелитель закона кармы и только внешне находится под его «влиянием»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     находится под его «влиянием»
   index: "163"
   filename: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem.md
+  slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
 ---
 
 **Преданный:** Гуру Махарадж, а почему Бог берет на Себя кармические реакции? Как, скажем, Кришна был убит стрелой охотника…

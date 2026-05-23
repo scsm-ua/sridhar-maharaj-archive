@@ -1,5 +1,5 @@
 ---
-slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
+slug: 1982-01-17-c_lyubov_oznachaet_dobrovolnaya_zhertva
 record_id: 1982.01.17.C
 title: «Любовь» означает «добровольная жертва»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.35
     slug: shrimad-bhagavatam-2-9-35
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.4
     slug: bhagavad-gita-9-4
   - title: Бхагавад-гита 9.5
     slug: bhagavad-gita-9-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
@@ -42,6 +36,7 @@ legacy:
   title: 841. 1982.01.17.C. «Любовь» означает «добровольная жертва»
   index: "841"
   filename: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva.md
+  slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Махапрабху… Харе Кришна, Харе Кришна, Гаура-Харибол…

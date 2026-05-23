@@ -1,5 +1,5 @@
 ---
-slug: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily
+slug: 1982-05-11-b5_kratkiy_obzor_knig_soderzhashchih_opisanie_gaura-lily
 record_id: 1982.05.11.B5
 title: Краткий обзор книг, содержащих описание Гаура-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 223. 1982.05.11.B5. Краткий обзор книг, содержащих описание Гаура-лилы
   index: "223"
   filename: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily.md
+  slug: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily
 ---
 
 *Лила* Махапрабху была настолько интенсивна, что Махадев был растерян, поражен и отказался от своего ездового животного, буйвола Нанди, и взобрался на лебедя (лебедь — это птица, на которой летает Брахма), и поспешил туда, где происходила *лила* Махапрабху.

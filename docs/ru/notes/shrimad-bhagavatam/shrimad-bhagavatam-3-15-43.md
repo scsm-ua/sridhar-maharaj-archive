@@ -5,9 +5,10 @@ refs:
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
   - ../../_full/1982/12/1982.12.28.A.md
   - ../../_full/1983/06/1983.06.09.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.15.43
     slug: shrimad-bhagavatam-3-15-43
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
+slug: 1982-01-19-b3_pervyy_stih_shrimad_bhagavatam_vyrazhenie_sambadha-gyany
 record_id: 1982.01.19.B3
 title: Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 427. 1982.01.19.B3. Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
   index: "427"
   filename: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany.md
+  slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1

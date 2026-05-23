@@ -1,5 +1,5 @@
 ---
-slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
+slug: 1982-04-18-a1_obyasnenie_stihov_10_11_i_10_10_chaturshloki_bhagavad-gity
 record_id: 1982.04.18.A1
 title: Объяснение стихов 10.11 и 10.10 чатуршлоки «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     «Бхагавад-гиты»
   index: "499"
   filename: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity.md
+  slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
 ---
 
     теш̣̄ам эва̄нукампа̄ртхам ахам аджн̃а̄на-джам̇ тамах̣

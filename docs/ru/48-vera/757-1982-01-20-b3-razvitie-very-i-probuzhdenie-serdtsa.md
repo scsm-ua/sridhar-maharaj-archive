@@ -1,5 +1,5 @@
 ---
-slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
+slug: 1982-01-20-b3_razvitie_very_i_probuzhdenie_serdtsa
 record_id: 1982.01.20.B3
 title: Развитие веры и пробуждение сердца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,14 @@ category:
 tags:
   - title: Вера
     slug: vera
-  - title: «Махабхараты», Бхишма-парва
-    slug: mahabharaty-bhishma-parva
   - title: «Махабхараты», Бхишма-парва 5.22
     slug: mahabharaty-bhishma-parva-5-22
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
     slug: shri-chajtanya-charitamrita-adi-lila-17-308
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 2.5.93
     slug: bhakti-rasamrita-sindhu-2-5-93
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 links:
@@ -44,6 +36,7 @@ legacy:
   title: 757. 1982.01.20.B3. Развитие веры и пробуждение сердца
   index: "757"
   filename: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa.md
+  slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
 ---
 
 Харе Кришна, Гаурасундар, Гауранга Сундар.

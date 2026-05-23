@@ -1,5 +1,5 @@
 ---
-slug: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma
+slug: 1982-11-07-c7_neobhodimo_gluboko_osoznat_vysochayshee_polozhenie_shri_rupy_i_ego_ucheniya_na_osnove_sravnitelnogo_teizma
 record_id: 1982.11.07.C7
 title: «Необходимо глубоко осознать высочайшее положение Шри Рупы и его учения
   на основе сравнительного теизма»
@@ -25,6 +25,7 @@ legacy:
     Рупы и его учения на основе сравнительного теизма»
   index: "454"
   filename: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma.md
+  slug: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma
 ---
 
 **Преданный:** Махарадж, в «Гаруда-пуране» сказано, что чистый *бхакта* встречается крайне-крайне редко. И если вы говорите, что лишь горстка людей дает вам высокую оценку, то это объясняется тем, что то, что вы даете, — это крайне редкое явление и крайне специфическое, особенное.

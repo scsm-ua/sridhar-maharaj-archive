@@ -1,5 +1,5 @@
 ---
-slug: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti
+slug: 1982-02-21-a2_kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda_bhakti
 record_id: 1982.02.21.A2
 title: Когда совершаемая деятельность является кармой, а когда — бхакти?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,14 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
     slug: shri-chajtanya-charitamrita-madhya-lila-20-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
     slug: shri-chajtanya-charitamrita-madhya-lila-24-137
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
 links:
@@ -43,6 +37,7 @@ legacy:
     когда — бхакти?
   index: "779"
   filename: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti.md
+  slug: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti
 ---
 
 *«Мгновения Прекрасной реальности» (часть 1.2)*

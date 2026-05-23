@@ -1,5 +1,5 @@
 ---
-slug: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma
+slug: 1982-03-08-a1-b3_madhavendra_puri_rostok_gaudiya-vayshnavizma
 record_id: 1982.03.08.A1.B3
 title: Мадхавендра Пури – росток гаудия-вайшнавизма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,18 @@ legacy:
   title: 933. 1982.03.08.A1.B3. Мадхавендра Пури – росток гаудия-вайшнавизма
   index: "933"
   filename: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma.md
+  slug: 933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.34
     slug: shri-chajtanya-charitamrita-antya-lila-8-34
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 4.197
     slug: shri-chajtanya-charitamrita-madhya-lila-4-197
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.172
     slug: shri-chajtanya-charitamrita-madhya-lila-17-172
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
     slug: shri-chajtanya-charitamrita-antya-lila-8-28
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
 ---

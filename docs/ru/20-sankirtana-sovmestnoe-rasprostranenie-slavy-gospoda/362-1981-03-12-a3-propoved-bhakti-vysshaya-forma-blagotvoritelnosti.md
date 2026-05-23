@@ -1,5 +1,5 @@
 ---
-slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
+slug: 1981-03-12-a3_propoved_bhakti_vysshaya_forma_blagotvoritelnosti
 record_id: 1981.03.12.A3
 title: Проповедь бхакти – высшая форма благотворительности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,14 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 6.8
     slug: shri-shri-prapanna-dzhivanamritam-6-8
-  - title: Мукунда-мала-стотра
-    slug: mukunda-mala-stotra
   - title: Мукунда-мала-стотра 5
     slug: mukunda-mala-stotra-5
   - title: Шри Шри Прапанна-дживанамритам 4.3
     slug: shri-shri-prapanna-dzhivanamritam-4-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -39,22 +31,14 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
   - title: Бхагавад-гита 2.22
@@ -70,6 +54,7 @@ legacy:
   title: 362. 1981.03.12.A3. Проповедь бхакти – высшая форма благотворительности
   index: "362"
   filename: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
+  slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
 ---
 
     кр̣шн̣а твадӣйа-пада-пан̇каджа-пан̃джара̄нтам

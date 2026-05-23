@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/01/1982.01.11.A.md
   - ../../_full/1982/01/1982.01.11.A1.md
   - ../../_full/1983/03/1983.03.28.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
 ---

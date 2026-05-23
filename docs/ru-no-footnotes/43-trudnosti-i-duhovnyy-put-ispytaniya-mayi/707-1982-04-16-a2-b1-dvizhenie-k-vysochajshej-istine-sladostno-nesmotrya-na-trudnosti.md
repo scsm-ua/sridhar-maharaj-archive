@@ -1,5 +1,5 @@
 ---
-slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
+slug: 1982-04-16-a2-b1_dvizhenie_k_vysochayshey_istine_sladostno_nesmotrya_na_trudnosti
 record_id: 1982.04.16.A2.B1
 title: Движение к Высочайшей Истине сладостно, несмотря на трудности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     на трудности
   index: "707"
   filename: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti.md
+  slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
 ---
 
 Мы отправились на поиски Владыки любви, концепция, представление о котором дано в «Чайтанья-чаритамрите». Он — самодержец, но у Него есть сердце, которое полно безграничной любви. Мы отправились на поиски такого Владыки, Господина. Мы не должны думать, что путь усеян цветами, но он может быть усеян так же и шипами. Необходимо почувствовать, насколько мы искренни, насколько горячо наше стремление к этому Господу, Владыке.

@@ -1,5 +1,5 @@
 ---
-slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
+slug: 1983-11-02-b4_prinyatie_pribezhishcha_v_gospode_glavnyy_komponent_sharanagati
 record_id: 1983.11.02.B4
 title: Принятие прибежища в Господе – главный компонент шаранагати
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     шаранагати
   index: "823"
   filename: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati.md
+  slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
 ---
 
 **Преданный:** Махарадж, я читал в одной книге, что *шаранагати* — это ментальное настроение, отношение, а *атма-ниведанам*…

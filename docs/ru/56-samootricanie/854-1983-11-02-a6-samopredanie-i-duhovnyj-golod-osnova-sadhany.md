@@ -1,5 +1,5 @@
 ---
-slug: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany
+slug: 1983-11-02-a6_samopredanie_i_duhovnyy_golod_osnova_sadhany
 record_id: 1983.11.02.A6
 title: Самопредание и духовный голод – основа садханы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.20
     slug: bhagavad-gita-13-20
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 854. 1983.11.02.A6. Самопредание и духовный голод – основа садханы
   index: "854"
   filename: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany.md
+  slug: 854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany
 ---
 
 **Преданный:** Гуру Махарадж!

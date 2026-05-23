@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-9-31
 refs:
   - ../../_full/1981/11/1981.11.14.A.B.C.md
   - ../../_full/1982/11/1982.11.18.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.9.31
     slug: shrimad-bhagavatam-11-9-31
 ---

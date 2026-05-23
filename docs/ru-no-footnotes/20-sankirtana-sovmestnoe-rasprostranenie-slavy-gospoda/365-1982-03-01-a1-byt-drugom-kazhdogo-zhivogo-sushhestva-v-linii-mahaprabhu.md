@@ -1,5 +1,5 @@
 ---
-slug: 365-1982-03-01-a1-byt-drugom-kazhdogo-zhivogo-sushhestva-v-linii-mahaprabhu
+slug: 1982-03-01-a1_byt_drugom_kazhdogo_zhivogo_sushchestva_v_linii_mahaprabhu
 record_id: 1982.03.01.A1
 title: Быть другом каждого живого существа в линии Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 365. 1982.03.01.A1. Быть другом каждого живого существа в линии Махапрабху
   index: "365"
   filename: 365-1982-03-01-a1-byt-drugom-kazhdogo-zhivogo-sushhestva-v-linii-mahaprabhu.md
+  slug: 365-1982-03-01-a1-byt-drugom-kazhdogo-zhivogo-sushhestva-v-linii-mahaprabhu
 ---
 
 Вселенская воля работает, действует Своим Собственным сладостным образом, Универсальная воля. И мы должны постараться предаться Ей. Наше дело в том, чтобы предаться Божественной воле.

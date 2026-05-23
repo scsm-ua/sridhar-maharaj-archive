@@ -1,5 +1,5 @@
 ---
-slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
+slug: 1982-06-05-a7_rezultaty_poiska_shri_krishny
 record_id: 1982.06.05.A7
 title: Результаты поиска Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 008. 1982.06.05.A7 Результаты поиска Шри Кришны
   index: "008"
   filename: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny.md
+  slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.37–38
     slug: shri-chajtanya-charitamrita-madhya-lila-2-37-38
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
     slug: shri-chajtanya-charitamrita-antya-lila-17-27
 ---

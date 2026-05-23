@@ -1,5 +1,5 @@
 ---
-slug: 441-1983-05-09-b1-sleduj-za-angelami
+slug: 1983-05-09-b1_sleduy_za_angelami
 record_id: 1983.05.09.B1
 title: Следуй за ангелами!
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.185
     slug: shri-chajtanya-charitamrita-madhya-lila-8-185
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 441. 1983.05.09.B1. Следуй за ангелами!
   index: "441"
   filename: 441-1983-05-09-b1-sleduj-za-angelami.md
+  slug: 441-1983-05-09-b1-sleduj-za-angelami
 ---
 
 [Говорит на бенгали.]

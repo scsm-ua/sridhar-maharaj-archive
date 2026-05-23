@@ -1,5 +1,5 @@
 ---
-slug: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty
+slug: 1982-01-17-b1_protivorechiya_v_opisaniyah_chaytanya-charitamrity_i_chaytanya-bhagavaty
 record_id: 1982.01.17.B1
 title: Противоречия в описаниях «Чайтанья-Чаритамриты» и «Чайтанья-Бхагаваты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     «Чайтанья-Бхагаваты»
   index: "224"
   filename: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty.md
+  slug: 224-1982-01-17-b1-protivorechiya-v-opisaniyah-chajtanya-charitamrity-i-chajtanya-bhagavaty
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
 ---

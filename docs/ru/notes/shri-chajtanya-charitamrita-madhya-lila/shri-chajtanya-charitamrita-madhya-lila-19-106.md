@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-19-106
 refs:
   - ../../_full/1981/09/1981.09.29.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.106
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-106
   - title: Падьявали
     slug: padyavali
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.106
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-106
   - title: Падьявали 82
     slug: padyavali-82
 ---

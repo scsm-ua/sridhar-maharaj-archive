@@ -3,9 +3,10 @@ slug: bhagavad-gita-18-13
 refs:
   - ../../_full/1981/03/1981.03.01.md
   - ../../_full/1981/12/1981.12.24.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.13
     slug: bhagavad-gita-18-13
 ---

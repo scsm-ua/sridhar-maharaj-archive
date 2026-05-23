@@ -4,9 +4,10 @@ refs:
   - ../../17-shri-guru-i-ego-milost/310-1983-11-27-b-vzaimodejstvie-sukriti-shraddhi-chajtya-guru-i-mahanta-guru.md
   - ../../_full/1981/12/1981.12.22.A.B.C.md
   - ../../_full/1983/11/1983.11.27.B1.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.25.25
     slug: shrimad-bhagavatam-3-25-25
 ---

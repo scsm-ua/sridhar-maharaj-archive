@@ -1,5 +1,5 @@
 ---
-slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
+slug: 1983-11-19-a4-b1_zhizn_i_sluzhenie_bhugarbhi_gosvami_kashinatha_i_govindy
 record_id: 1983.11.19.A4.B1
 title: Жизнь и служение Бхугарбхи Госвами, Кашинатха и Говинды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Говинды
   index: "936"
   filename: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy.md
+  slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
 ---
 
 Сегодня, говорится, — День ухода Бхугарбхи Госвами и Кашинатха, или как его звали? Джагадиш Пандит? Бхугарбха Госвами и Кашинатх [Кашишвар]. Бхугарбха Госвами был другом Локанатха Госвами — Гурудева Нароттама. Они были родом с одного места, были земляками и жили во Вриндаване. Он был хорошим вайшнавом: почитаемым, непривязанной, отрешенной природы.

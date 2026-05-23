@@ -1,5 +1,5 @@
 ---
-slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
+slug: 1983-04-25-a1_osvobozhdenie_dushi_ot_vlasti_mayi
 record_id: 1983.04.25.A1
 title: Освобождение души от власти майи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 597. 1983.04.25.A1. Освобождение души от власти майи
   index: "597"
   filename: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji.md
+  slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
 ---
 
 **Шрила Шридхар Махарадж:** Каков вопрос?

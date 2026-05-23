@@ -1,5 +1,5 @@
 ---
-slug: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura
+slug: 1983-03-02_hari-katha_na_den_yavleniya_shrily_sarasvati_thakura
 record_id: 1983.03.02
 title: Хари-катха на день явления Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,18 @@ legacy:
   title: 1041. 1983.03.02. Хари-катха на день явления Шрилы Сарасвати Тхакура
   index: "1041"
   filename: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
+  slug: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
   - title: Бхагавад-гита 7.3
     slug: bhagavad-gita-7-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
@@ -60,18 +53,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
 ---

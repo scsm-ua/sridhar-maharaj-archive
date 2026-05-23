@@ -1,5 +1,5 @@
 ---
-slug: 75-odnovremennoe-sosushhestvovanie-lil-g
+slug: 1982-01-17-a3_odnovremennoe_sosushchestvovanie_lil_gospoda
 record_id: 1982.01.17.A3
 title: Одновременное сосуществование лил Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 75. Одновременное сосуществование лил Господа. 1982.01.17.A3
   index: "75"
   filename: 75-odnovremennoe-sosushhestvovanie-lil-g.md
+  slug: 75-odnovremennoe-sosushhestvovanie-lil-g
 ---
 
 Все Его игры вечны, сосуществуют во времени и пространстве. Не только сосуществование, одновременное существование. Когда я изучал философию, мне сказали, что сосуществование — это критерий, благодаря которому мы можем почувствовать, понять идею пространства.

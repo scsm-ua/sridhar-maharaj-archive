@@ -2,9 +2,10 @@
 slug: shri-shri-prapanna-dzhivanamritam-10-16
 refs:
   - ../../_full/1982/08/1982.08.27.A.B.C.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 10.16
     slug: shri-shri-prapanna-dzhivanamritam-10-16
 ---

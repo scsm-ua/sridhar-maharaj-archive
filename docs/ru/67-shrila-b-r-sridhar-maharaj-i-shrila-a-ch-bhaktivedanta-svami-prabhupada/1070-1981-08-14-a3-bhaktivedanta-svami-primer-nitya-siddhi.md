@@ -1,5 +1,5 @@
 ---
-slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
+slug: 1981-08-14-a3_bhaktivedanta_svami_primer_nitya-siddhi
 record_id: 1981.08.14.A3
 title: Бхактиведанта Свами — пример нитья-сиддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 1070. 1981.08.14.A3. Бхактиведанта Свами — пример нитья-сиддхи
   index: "1070"
   filename: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi.md
+  slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.6
     slug: bhagavad-gita-4-6
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
     slug: shri-chajtanya-charitamrita-madhya-lila-8-128
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 7
     slug: shri-gurvashtaka-7
 ---

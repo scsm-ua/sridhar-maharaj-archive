@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/03/1982.03.31.A.md
   - ../../_full/1983/01/1983.01.31.md
   - ../../_full/1983/10/1983.10.28.A.B.md
-tags:
+scriptures:
   - title: Чхандогья-упанишад
     slug: chhandogya-upanishad
+verses:
   - title: Чхандогья-упанишад 6.14.2
     slug: chhandogya-upanishad-6-14-2
 ---

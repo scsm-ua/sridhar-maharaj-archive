@@ -1,5 +1,5 @@
 ---
-slug: 18-kak-mahaprabhu-obratil-musulman-v-v
+slug: 1983-01-12-a1_kak_mahaprabhu_obratil_musulman_v_vayshnavov
 record_id: 1983.01.12.A1
 title: Как Махапрабху обратил мусульман в вайшнавов?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 18. Как Махапрабху обратил мусульман в вайшнавов? 1983.01.12.A1
   index: "18"
   filename: 18-kak-mahaprabhu-obratil-musulman-v-v.md
+  slug: 18-kak-mahaprabhu-obratil-musulman-v-v
 ---
 
 *#00:00:00#*

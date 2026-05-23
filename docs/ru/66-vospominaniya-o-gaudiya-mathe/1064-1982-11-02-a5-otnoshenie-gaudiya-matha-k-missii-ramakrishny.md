@@ -1,5 +1,5 @@
 ---
-slug: 1064-1982-11-02-a5-otnoshenie-gaudiya-matha-k-missii-ramakrishny
+slug: 1982-11-02-a5_otnoshenie_gaudiya_matha_k_missii_ramakrishny
 record_id: 1982.11.02.A5
 title: Отношение Гаудия Матха к миссии Рамакришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1064. 1982.11.02.A5. Отношение Гаудия Матха к миссии Рамакришны
   index: "1064"
   filename: 1064-1982-11-02-a5-otnoshenie-gaudiya-matha-k-missii-ramakrishny.md
+  slug: 1064-1982-11-02-a5-otnoshenie-gaudiya-matha-k-missii-ramakrishny
 ---
 
 Многие, многие явления присутствуют в религиозном мире, но все концепции не могут быть равноценными и равнозначными, как это пытается ошибочно утвердить (или заявить) миссия Рамакришны и навязать эту идею широким массам. Это чистой воды заблуждение.

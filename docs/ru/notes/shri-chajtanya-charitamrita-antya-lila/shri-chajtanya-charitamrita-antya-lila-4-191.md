@@ -4,9 +4,10 @@ refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel.md
   - ../../_full/1983/10/1983.10.31.A.md
   - ../../_full/1983/12/1983.12.04.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.191
     slug: shri-chajtanya-charitamrita-antya-lila-4-191
 ---

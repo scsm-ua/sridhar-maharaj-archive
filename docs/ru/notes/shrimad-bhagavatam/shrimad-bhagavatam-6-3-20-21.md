@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-6-3-20-21
 refs:
   - ../../_full/1981/12/1981.12.21.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.3.20–21
     slug: shrimad-bhagavatam-6-3-20-21
 ---

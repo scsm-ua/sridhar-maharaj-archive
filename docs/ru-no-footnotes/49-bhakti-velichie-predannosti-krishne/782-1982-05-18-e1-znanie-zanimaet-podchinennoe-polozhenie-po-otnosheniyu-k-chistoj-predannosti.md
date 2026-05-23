@@ -1,5 +1,5 @@
 ---
-slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
+slug: 1982-05-18-e1_znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniyu_k_chistoy_predannosti
 record_id: 1982.05.18.E1
 title: Знание занимает подчиненное положение по отношению к чистой преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     чистой преданности
   index: "782"
   filename: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti.md
+  slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
 ---
 
 **Преданный:** Я хотел бы знать: разные люди общаются друг с другом в материальном смысле со своими симпатиями, пристрастиями, и мы видим, что когда речь заходит об общении в смысле *бхаджана*, служения, то также присутствует тенденция группироваться.

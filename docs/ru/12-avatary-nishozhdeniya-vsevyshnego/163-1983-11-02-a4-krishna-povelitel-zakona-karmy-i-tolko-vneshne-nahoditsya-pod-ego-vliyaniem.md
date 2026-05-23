@@ -1,5 +1,5 @@
 ---
-slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
+slug: 1983-11-02-a4_krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsya_pod_ego_vliyaniem
 record_id: 1983.11.02.A4
 title: Кришна повелитель закона кармы и только внешне находится под его «влиянием»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     находится под его «влиянием»
   index: "163"
   filename: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem.md
+  slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.24
     slug: bhagavad-gita-3-24
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 ---

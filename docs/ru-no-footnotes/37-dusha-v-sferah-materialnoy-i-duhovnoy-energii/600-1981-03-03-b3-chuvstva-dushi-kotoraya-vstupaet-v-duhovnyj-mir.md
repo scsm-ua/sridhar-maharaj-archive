@@ -1,5 +1,5 @@
 ---
-slug: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir
+slug: 1981-03-03-b3_chuvstva_dushi_kotoraya_vstupaet_v_duhovnyy_mir
 record_id: 1981.03.03.B3
 title: Чувства души, которая вступает в духовный мир
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 600. 1981.03.03.B3. Чувства души, которая вступает в духовный мир
   index: "600"
   filename: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir.md
+  slug: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir
 ---
 
 **Преданный:** Падшие души как правило приходят из Брахма-локи, из *Брахмаджйоти*.

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-5-209
 refs:
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne.md
   - ../../_full/1981/11/1981.11.21.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.209
     slug: shri-chajtanya-charitamrita-adi-lila-5-209
 ---

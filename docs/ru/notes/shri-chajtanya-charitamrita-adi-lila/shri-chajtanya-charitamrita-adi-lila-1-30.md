@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-1-30
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem.md
   - ../../_full/1983/11/1983.11.09.C3.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.30
     slug: shri-chajtanya-charitamrita-adi-lila-1-30
 ---

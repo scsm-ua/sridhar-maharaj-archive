@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/01/1982.01.30.B.md
   - ../../_full/1982/12/1982.12.18.B.md
   - ../../_full/1983/08/1983.08.10.A.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 5.5
     slug: sharanagati-5-5
 ---

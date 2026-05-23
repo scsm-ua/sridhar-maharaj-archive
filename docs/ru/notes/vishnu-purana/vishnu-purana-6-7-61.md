@@ -3,9 +3,10 @@ slug: vishnu-purana-6-7-61
 refs:
   - ../../40-bog-i-bogi/677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
   - ../../_full/1982/03/1982.03.16.A.md
-tags:
+scriptures:
   - title: Вишну-пурана
     slug: vishnu-purana
+verses:
   - title: Вишну-пурана 6.7.61
     slug: vishnu-purana-6-7-61
 ---

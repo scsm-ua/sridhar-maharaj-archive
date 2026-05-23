@@ -1,5 +1,5 @@
 ---
-slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
+slug: 1983-11-23-b5_o_nazvanii_reki_godavari_simvolicheskie_smysly_obraza_korov
 record_id: 1983.11.23.B5
 title: О названии реки «Годавари». Символические смыслы образа коров.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,6 +29,7 @@ legacy:
     образа коров
   index: "139"
   filename: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov.md
+  slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
 ---
 
     бхаджа гаура̄н̇га каха гаура̄н̇га,

@@ -14,8 +14,6 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.9
     slug: bhagavad-gita-4-9
   - title: Бхагавад-гита 18.55

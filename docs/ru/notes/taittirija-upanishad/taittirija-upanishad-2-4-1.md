@@ -2,9 +2,10 @@
 slug: taittirija-upanishad-2-4-1
 refs:
   - ../../23-pamyatovanie-o-gospode-solnce-vishnu/406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy.md
-tags:
+scriptures:
   - title: Таиттирийа-упанишад
     slug: taittirija-upanishad
+verses:
   - title: Таиттирийа-упанишад 2.4.1
     slug: taittirija-upanishad-2-4-1
 ---

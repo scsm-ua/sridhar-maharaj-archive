@@ -1,5 +1,5 @@
 ---
-slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
+slug: 1983-01-26-c2_molitva_lality_devi_i_shloka_rupy_gosvami
 record_id: 1983.01.26.C2
 title: Молитва Лалиты Деви и шлока Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
   index: "037"
   filename: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami.md
+  slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
 ---
 
 Монополия, торговля неуместна, невозможна на этом рынке, ни один капиталист не может войти на этот рынок.

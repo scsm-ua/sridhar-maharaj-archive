@@ -1,5 +1,5 @@
 ---
-slug: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti
+slug: 1981-03-10-d1_pravo_predannyh_na_gospoda_kak_predstaviteley_svarupa-shakti
 record_id: 1981.03.10.D1
 title: Право преданных на Господа как представителей сварупа-шакти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     сварупа-шакти
   index: "766"
   filename: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti.md
+  slug: 766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна Харе Кришна, Кришна Кришна Харе Харе, Харе Рама Харе Рама…

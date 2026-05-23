@@ -4,9 +4,10 @@ refs:
   - ../../43-trudnosti-i-duhovnyy-put-ispytaniya-mayi/710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej.md
   - ../../_full/1981/11/1981.11.26.A.B.C.md
   - ../../_full/1982/02/1982.02.23.C.D.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.63
     slug: bhagavad-gita-18-63
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
+slug: 1983-06-05-b2_izvilistye_puti_lyubvi
 record_id: 1983.06.05.B2
 title: Извилистые пути любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 469. 1983.06.05.B2. Извилистые пути любви
   index: "469"
   filename: 469-1983-06-05-b2-izvilistye-puti-lyubvi.md
+  slug: 469-1983-06-05-b2-izvilistye-puti-lyubvi
 ---
 
     парокш̣а-ва̄до ведо ‘йам̇

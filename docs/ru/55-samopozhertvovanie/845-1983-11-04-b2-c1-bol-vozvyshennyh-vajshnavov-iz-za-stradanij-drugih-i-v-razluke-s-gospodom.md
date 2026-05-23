@@ -1,5 +1,5 @@
 ---
-slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
+slug: 1983-11-04-b2-c1_bol_vozvyshennyh_vayshnavov_iz-za_stradaniy_drugih_i_v_razluke_s_gospodom
 record_id: 1983.11.04.B2.C1
 title: Боль возвышенных вайшнавов — из-за страданий других и в разлуке с Господом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50
     slug: shri-chajtanya-charitamrita-madhya-lila-2-50
 links:
@@ -39,6 +33,7 @@ legacy:
     других и в разлуке с Господом
   index: "845"
   filename: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom.md
+  slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
 ---
 
 Махапрабху…

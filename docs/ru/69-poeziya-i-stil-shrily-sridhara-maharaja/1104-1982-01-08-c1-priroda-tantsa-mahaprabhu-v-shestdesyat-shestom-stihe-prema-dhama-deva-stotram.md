@@ -1,5 +1,5 @@
 ---
-slug: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram
+slug: 1982-01-08-c1_priroda_tantsa_mahaprabhu_v_shestdesyat_shestom_stihe_prema-dhama-deva-stotram
 record_id: 1982.01.08.C1
 title: Природа танца Махапрабху в шестьдесят шестом стихе «Према-дхама-дева-стотрам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     «Према-дхама-дева-стотрам»
   index: "1104"
   filename: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram.md
+  slug: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram
 tags:
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 66
     slug: prema-dhama-deva-stotram-66
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
+slug: 1983-01-15_sannyasa_mahaprabhu_chast_2
 record_id: 1983.01.15
 title: Санньяса Махапрабху, часть 2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,12 +19,8 @@ tags:
     slug: sannyasa
   - title: пратьякша-парокша-апарокша-адхокшаджа-апракрита
     slug: pratyaksha-paroksha-aparoksha-adhokshad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
     slug: shri-chajtanya-charitamrita-madhya-lila-3-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.57
     slug: shrimad-bhagavatam-11-23-57
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.7
@@ -33,8 +29,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-3-8
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.9
     slug: shri-chajtanya-charitamrita-madhya-lila-3-9
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
     slug: shri-chajtanya-charitamrita-adi-lila-4-66
   - title: Шримад-Бхагаватам 4.3.23
@@ -50,6 +44,7 @@ legacy:
   title: 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
   index: "074"
   filename: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2.md
+  slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
 ---
 
 **Как проходил обряд принятия санньясы Махапрабху?**

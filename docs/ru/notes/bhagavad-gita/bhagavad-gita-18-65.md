@@ -15,9 +15,10 @@ refs:
   - ../../_full/1983/03/1983.03.28.md
   - ../../_full/1983/03/1983.03.30.md
   - ../../_full/1983/11/1983.11.04.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.65
     slug: bhagavad-gita-18-65
 ---

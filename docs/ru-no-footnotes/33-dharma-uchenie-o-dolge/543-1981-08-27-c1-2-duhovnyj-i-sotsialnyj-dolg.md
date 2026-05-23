@@ -1,5 +1,5 @@
 ---
-slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
+slug: 1981-08-27-c1-2_duhovnyy_i_sotsialnyy_dolg
 record_id: 1981.08.27.C1.2
 title: Духовный и социальный долг
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 543. 1981.08.27.C1.2. Духовный и социальный долг
   index: "543"
   filename: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg.md
+  slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
 ---
 
 В *шастре* мы находим:

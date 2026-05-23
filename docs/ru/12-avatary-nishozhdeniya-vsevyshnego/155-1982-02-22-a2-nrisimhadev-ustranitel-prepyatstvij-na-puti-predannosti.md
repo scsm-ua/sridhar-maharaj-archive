@@ -1,5 +1,5 @@
 ---
-slug: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti
+slug: 1982-02-22-a2_nrisimhadev_ustranitel_prepyatstviy_na_puti_predannosti
 record_id: 1982.02.22.A2
 title: Нрисимхадев – устранитель препятствий на пути преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 155. 1982.02.22.A2. Нрисимхадев – устранитель препятствий на пути преданности
   index: "155"
   filename: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti.md
+  slug: 155-1982-02-22-a2-nrisimhadev-ustranitel-prepyatstvij-na-puti-predannosti
 ---
 
 **Преданный:** Махарадж, какую роль Господь Нрисимхадев играет в жизни преданности, помогает ли Он нам обрести чистую *бхакти*?

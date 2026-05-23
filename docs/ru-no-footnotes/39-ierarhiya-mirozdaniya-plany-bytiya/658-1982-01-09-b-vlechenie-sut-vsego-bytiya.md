@@ -1,5 +1,5 @@
 ---
-slug: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya
+slug: 1982-01-09-b_vlechenie_sut_vsego_bytiya
 record_id: 1982.01.09.B
 title: Влечение — суть всего бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 658. 1982.01.09.B. Влечение — суть всего бытия
   index: "658"
   filename: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya.md
+  slug: 658-1982-01-09-b-vlechenie-sut-vsego-bytiya
 ---
 
 Наш вкус растворяется, наш вкус растворяется там, когда мы измеряем вещи, опираясь на подобный стандарт нашего сердца.

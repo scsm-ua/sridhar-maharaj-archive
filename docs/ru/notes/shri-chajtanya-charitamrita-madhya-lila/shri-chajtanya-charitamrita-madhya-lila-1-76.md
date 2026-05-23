@@ -7,19 +7,20 @@ refs:
   - ../../28-molitvy-i-umonastroenie-gopi/481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
   - ../../_full/1981/10/1981.10.10.A.md
   - ../../_full/1982/01/1982.01.11.A1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Падьявали
+    slug: padyavali
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
 ---

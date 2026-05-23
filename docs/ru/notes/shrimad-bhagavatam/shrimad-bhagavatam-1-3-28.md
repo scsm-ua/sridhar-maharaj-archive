@@ -19,9 +19,10 @@ refs:
   - ../../_full/1983/01/1983.01.06.md
   - ../../_full/1983/02/1983.02.13.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
 ---

@@ -2,23 +2,24 @@
 slug: shrimad-bhagavatam-10-31-19
 refs:
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.173
-    slug: shri-chajtanya-charitamrita-adi-lila-4-173
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.40
-    slug: shri-chajtanya-charitamrita-antya-lila-7-40
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.173
+    slug: shri-chajtanya-charitamrita-adi-lila-4-173
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.40
+    slug: shri-chajtanya-charitamrita-antya-lila-7-40
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.65
     slug: shri-chajtanya-charitamrita-madhya-lila-18-65
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.219
     slug: shri-chajtanya-charitamrita-madhya-lila-8-219
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.19
     slug: shrimad-bhagavatam-10-31-19
 ---

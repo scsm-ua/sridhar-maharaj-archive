@@ -5,9 +5,10 @@ refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/585-1982-02-20-c7-materialnyj-um-ten-duhovnogo.md
   - ../../_full/1981/11/1981.11.17.A.md
   - ../../_full/1982/07/1982.07.05.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.137
     slug: shri-chajtanya-charitamrita-madhya-lila-13-137
 ---

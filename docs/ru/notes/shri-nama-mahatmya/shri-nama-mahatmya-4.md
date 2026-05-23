@@ -3,9 +3,10 @@ slug: shri-nama-mahatmya-4
 refs:
   - ../../_full/1981/10/1981.10.02.A.B.C.md
   - ../../_full/1983/12/1983.12.20.A.B.md
-tags:
+scriptures:
   - title: Шри Нама-Махатмья
     slug: shri-nama-mahatmya
+verses:
   - title: Шри Нама-Махатмья 4
     slug: shri-nama-mahatmya-4
 ---

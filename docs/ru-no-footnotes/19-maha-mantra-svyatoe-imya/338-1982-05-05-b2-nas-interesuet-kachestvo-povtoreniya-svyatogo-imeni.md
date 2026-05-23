@@ -1,5 +1,5 @@
 ---
-slug: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni
+slug: 1982-05-05-b2_nas_interesuet_kachestvo_povtoreniya_svyatogo_imeni
 record_id: 1982.05.05.B2
 title: Нас интересует качество повторения Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 338. 1982.05.05.B2. Нас интересует качество повторения Святого Имени
   index: "338"
   filename: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni.md
+  slug: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni
 ---
 
 **Госвами Махарадж:** Хираньягарбха и его друзья, Надия и Панду, говорят в «Чайтанья Бхагавате»: Махапрабху утверждает, Он однажды сказал: «Я не стану есть в доме бедного человека, Я хочу есть в доме богача, владыки одного *лакха, лакхешвари*». И далее они говорят: Махапрабху утверждает здесь, если ты не повторяешь *лакх*…

@@ -10,13 +10,14 @@ refs:
   - ../../_full/1981/08/1981.08.27.C.md
   - ../../_full/1982/12/1982.12.25.C.md
   - ../../_full/1983/02/1983.02.12.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-73
   - title: Шримад-Бхагаватам 11.2.46
     slug: shrimad-bhagavatam-11-2-46
 ---

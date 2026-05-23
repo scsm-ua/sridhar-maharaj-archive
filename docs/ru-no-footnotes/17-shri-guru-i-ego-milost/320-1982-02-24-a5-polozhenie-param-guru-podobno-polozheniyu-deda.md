@@ -1,5 +1,5 @@
 ---
-slug: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda
+slug: 1982-02-24-a5_polozhenie_param-guru_podobno_polozheniyu_deda
 record_id: 1982.02.24.A5
 title: Положение парам-гуру подобно положению деда
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 320. 1982.02.24.А5. Положение парам-гуру подобно положению деда
   index: "320"
   filename: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda.md
+  slug: 320-1982-02-24-a5-polozhenie-param-guru-podobno-polozheniyu-deda
 ---
 
 **Госвами Махарадж:** Также, Махарадж, в «Джайва-дхарме» Бхактивинода Тхакура в одном разделе мы видим: Гуру приводит своих учеников к своему Гуру.

@@ -1,5 +1,5 @@
 ---
-slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
+slug: 1982-01-03-a_sushchnost_otrecheniya_gosvami_vrindavana
 record_id: 1982.01.03.A
 title: Сущность отречения Госвами Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
   index: "742"
   filename: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
+  slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна, Нитай-Гаура Харибол, Нитай-Гаура Харибол.

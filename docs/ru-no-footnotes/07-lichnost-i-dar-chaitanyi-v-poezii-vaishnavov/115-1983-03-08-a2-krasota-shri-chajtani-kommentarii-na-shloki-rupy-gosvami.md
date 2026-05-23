@@ -1,5 +1,5 @@
 ---
-slug: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami
+slug: 1983-03-08-a2_krasota_shri_chaytani_kommentarii_na_shloki_rupy_gosvami
 record_id: 1983.03.08.A2
 title: Красота Шри Чайтаньи. Комментарии на шлоки Рупы Госвами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 115. 1983.03.08.A2. Красота Шри Чайтаньи. Комментарии на шлоки Рупы Госвами
   index: "115"
   filename: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami.md
+  slug: 115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami
 ---
 
     томаре бхулийа, авидйа-пидайа,

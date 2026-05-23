@@ -1,5 +1,5 @@
 ---
-slug: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu
+slug: 1982-05-05-a2_sharanagati_daruet_sovershenstvo_vo_vseh_vidah_sluzheniya_gospodu
 record_id: 1982.05.05.A2
 title: Шаранагати дарует совершенство во всех видах служения Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.141
@@ -45,6 +39,7 @@ legacy:
     Господу
   index: "822"
   filename: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu.md
+  slug: 822-1982-05-05-a2-sharanagati-daruet-sovershenstvo-vo-vseh-vidah-sluzheniya-gospodu
 ---
 
 Нечто непостижимое, непостижимое, немыслимое. Мы можем иметь дело лишь с отдаленным лучом. Невозможно обрести это «нечто» посредством интеллекта.

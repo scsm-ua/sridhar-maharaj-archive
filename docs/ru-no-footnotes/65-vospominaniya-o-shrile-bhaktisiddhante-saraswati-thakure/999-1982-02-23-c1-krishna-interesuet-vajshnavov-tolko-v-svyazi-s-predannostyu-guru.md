@@ -1,5 +1,5 @@
 ---
-slug: 999-1982-02-23-c1-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
+slug: 1982-02-23-c1_krishna_interesuet_vayshnavov_tolko_v_svyazi_s_predannostyu_guru
 record_id: 1982.02.23.C1
 title: Кришна интересует вайшнавов только в связи с преданностью Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     преданностью Гуру
   index: "999"
   filename: 999-1982-02-23-c1-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru.md
+  slug: 999-1982-02-23-c1-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
 ---
 
 **Шрила Шридхар Махарадж:** То, что наш Гуру Махарадж говорил, не все было понимаемо и принимаемо на начальной стадии. Но впоследствии мы осознавали: «О, то, что он говорил, — вот о чем идет речь!» В то время когда я управлял, стоял во главе *матха* в Мадрасе, я увидел, что в своем обращении на *вьяса-пуджу* профессор Саньял говорит: «Я не хочу Кришну. Но поскольку вы утверждаете, что наша потребность — в Кришне, я поклоняюсь Ему, я призываю Его Имя».

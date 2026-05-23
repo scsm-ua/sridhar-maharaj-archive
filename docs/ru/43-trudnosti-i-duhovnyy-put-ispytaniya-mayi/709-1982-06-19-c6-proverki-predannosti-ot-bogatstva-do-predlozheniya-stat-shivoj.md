@@ -1,5 +1,5 @@
 ---
-slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
+slug: 1982-06-19-c6_proverki_predannosti_ot_bogatstva_do_predlozheniya_stat_shivoy
 record_id: 1982.06.19.C6
 title: Проверки преданности — от богатства до предложения стать Шивой
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,16 @@ legacy:
     стать Шивой
   index: "709"
   filename: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj.md
+  slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.88.8
     slug: shrimad-bhagavatam-10-88-8
-  - title: Анйа-абхилаша чхади
-    slug: anja-abhilasha-chhadi
   - title: Анйа-абхилаша чхади 11
     slug: anja-abhilasha-chhadi-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.37
     slug: bhagavad-gita-3-37
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.255–256
     slug: bhakti-rasamrita-sindhu-1-2-255-256
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
   - title: Бхагавад-гита 7.14

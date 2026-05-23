@@ -1,5 +1,5 @@
 ---
-slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
+slug: 1983-11-13-a3_ne_sleduet_voproshat_pochemu_milost_dana_emu_a_ne_mne
 record_id: 1983.11.13.A3
 title: Не следует вопрошать «Почему милость дана ему, а не мне?»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 527. 1983.11.13.A3. Не следует вопрошать «Почему милость дана ему, а не мне?»
   index: "527"
   filename: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne.md
+  slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
 ---
 
     кр̣ш̣н̣а-бхакти-джанма-мӯла хайа ‘са̄дху-сан̇га’

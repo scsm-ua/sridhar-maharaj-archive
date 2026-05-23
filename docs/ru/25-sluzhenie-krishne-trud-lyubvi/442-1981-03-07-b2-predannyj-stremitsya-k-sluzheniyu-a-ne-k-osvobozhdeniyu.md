@@ -1,5 +1,5 @@
 ---
-slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
+slug: 1981-03-07-b2_predannyy_stremitsya_k_sluzheniyu_a_ne_k_osvobozhdeniyu
 record_id: 1981.03.07.B2
 title: Преданный стремится к служению, а не к освобождению
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 4
     slug: shri-shikshashtakam-4
-  - title: Манаса дехо гехо
-    slug: manasa-deho-geho
   - title: Манаса дехо гехо 5
     slug: manasa-deho-geho-5
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
   index: "442"
   filename: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
+  slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
 ---
 
 **Преданный:** Позвольте спросить еще?

@@ -1,5 +1,5 @@
 ---
-slug: 941-1982-06-14-a4-lichnost-i-miloserdie-virachandry-syna-nityanandy
+slug: 1982-06-14-a4_lichnost_i_miloserdie_virachandry_syna_nityanandy
 record_id: 1982.06.14.A4
 title: Личность и милосердие Вирачандры – сына Нитьянанды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 941. 1982.06.14.A4. Личность и милосердие Вирачандры – сына Нитьянанды
   index: "941"
   filename: 941-1982-06-14-a4-lichnost-i-miloserdie-virachandry-syna-nityanandy.md
+  slug: 941-1982-06-14-a4-lichnost-i-miloserdie-virachandry-syna-nityanandy
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 11.11
     slug: shri-chajtanya-charitamrita-adi-lila-11-11
 ---

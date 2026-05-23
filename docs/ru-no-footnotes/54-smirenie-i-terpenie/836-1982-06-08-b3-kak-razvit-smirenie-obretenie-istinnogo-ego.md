@@ -1,5 +1,5 @@
 ---
-slug: 836-1982-06-08-b3-kak-razvit-smirenie-obretenie-istinnogo-ego
+slug: 1982-06-08-b3_kak_razvit_smirenie_obretenie_istinnogo_ego
 record_id: 1982.06.08.B3
 title: Как развить смирение? Обретение истинного эго
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 836. 1982.06.08.B3. Как развить смирение? Обретение истинного эго
   index: "836"
   filename: 836-1982-06-08-b3-kak-razvit-smirenie-obretenie-istinnogo-ego.md
+  slug: 836-1982-06-08-b3-kak-razvit-smirenie-obretenie-istinnogo-ego
 ---
 
 **Преданный:** Когда человек пытается развить смирение, что помогает ему в наибольшей степени в этом?

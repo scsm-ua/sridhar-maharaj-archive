@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-5-5-1
 refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 5.5.1
     slug: shrimad-bhagavatam-5-5-1
 ---

@@ -2,9 +2,10 @@
 slug: mundaka-upanishad-3-1-3
 refs:
   - ../../_full/1981/11/1981.11.10.B1.2.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 3.1.3
     slug: mundaka-upanishad-3-1-3
 ---

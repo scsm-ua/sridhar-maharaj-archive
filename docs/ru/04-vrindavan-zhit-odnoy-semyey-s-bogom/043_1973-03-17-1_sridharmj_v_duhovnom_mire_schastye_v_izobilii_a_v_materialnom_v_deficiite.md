@@ -1,5 +1,5 @@
 ---
-slug: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite
+slug: 1973-03-17-1_v_duhovnom_mire_schaste_v_izobilii_a_v_materialnom_v_defitsite
 record_id: 1973.03.17.1
 title: В духовном мире счастье в изобилии, а в материальном — в дефиците
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -21,16 +21,10 @@ tags:
     slug: ganga
   - title: Духовный мир
     slug: duhovnyj-mir
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.56
     slug: shri-brahma-samhita-5-56
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 2.5
     slug: shri-shri-prapanna-dzhivanamritam-2-5
 links:
@@ -45,6 +39,7 @@ legacy:
     в дефиците
   index: "043"
   filename: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.md
+  slug: 043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite
 ---
 
 ## Часть совместной со Шрилой Бхактиведантой Свами лекции, прочитанной на открытии храма «Чандродая-мандир»

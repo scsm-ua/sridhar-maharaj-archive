@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-7-73
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne.md
   - ../../_full/1981/09/1981.09.11.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.73
     slug: shri-chajtanya-charitamrita-madhya-lila-7-73
 ---

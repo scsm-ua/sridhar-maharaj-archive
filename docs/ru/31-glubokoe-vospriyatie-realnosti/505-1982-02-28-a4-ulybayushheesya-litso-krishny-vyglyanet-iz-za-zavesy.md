@@ -1,5 +1,5 @@
 ---
-slug: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy
+slug: 1982-02-28-a4_ulybayushcheesya_litso_krishny_vyglyanet_iz-za_zavesy
 record_id: 1982.02.28.A4
 title: «Улыбающееся лицо Кришны выглянет из-за завесы»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 505. 1982.02.28.A4. «Улыбающееся лицо Кришны выглянет из-за завесы»
   index: "505"
   filename: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy.md
+  slug: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Шримад-Бхагаватам 9.4.63

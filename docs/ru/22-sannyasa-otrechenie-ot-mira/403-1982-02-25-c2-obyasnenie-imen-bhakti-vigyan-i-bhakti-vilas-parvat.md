@@ -1,5 +1,5 @@
 ---
-slug: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat
+slug: 1982-02-25-c2_obyasnenie_imen_bhakti_vigyan_i_bhakti_vilas_parvat
 record_id: 1982.02.25.C2
 title: Объяснение имен «Бхакти Вигьян» и «Бхакти Вилас Парват»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 403. 1982.02.25.C2. Объяснение имен «Бхакти Вигьян» и «Бхакти Вилас Парват»
   index: "403"
   filename: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat.md
+  slug: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.

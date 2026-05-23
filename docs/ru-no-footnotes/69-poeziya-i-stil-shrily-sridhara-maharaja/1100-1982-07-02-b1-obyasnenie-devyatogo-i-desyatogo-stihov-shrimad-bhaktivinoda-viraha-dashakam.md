@@ -1,5 +1,5 @@
 ---
-slug: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam
+slug: 1982-07-02-b1_obyasnenie_devyatogo_i_desyatogo_stihov_shrimad_bhaktivinoda-viraha_dashakam
 record_id: 1982.07.02.B1
 title: Объяснение девятого и десятого стихов «Шримад Бхактивинода-вираха Дашакам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактивинода-вираха Дашакам»
   index: "1100"
   filename: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam.md
+  slug: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam
 ---
 
 Ценность этого явления была понимаема единственно Сварупой Дамодаром, который является воплощением Лалиты Деви. *Рӯпа̄граджена̄др̣там̇*[^_ftn1] *Самбандха-гьяна-ачарья* — Санатана Госвами — давал должную оценку этому явлению, высокую. *Рӯпа̄дйаих̣ паривеш́итам̇* — а Шри Рупа и его последователи распространяли это явление. *Рагху-ган̣аир-а̄сва̄дитам̇ севитам* — а Рагхунатх, *ачарья прайоджаны*, со своими последователями переживал вкус этого явления, и также (как это будет?) развивал это явление, Рагхунатх.

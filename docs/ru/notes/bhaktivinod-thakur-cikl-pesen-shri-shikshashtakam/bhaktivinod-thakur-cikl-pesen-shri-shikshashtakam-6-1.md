@@ -2,9 +2,10 @@
 slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-6-1
 refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 6.1"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-6-1
 ---

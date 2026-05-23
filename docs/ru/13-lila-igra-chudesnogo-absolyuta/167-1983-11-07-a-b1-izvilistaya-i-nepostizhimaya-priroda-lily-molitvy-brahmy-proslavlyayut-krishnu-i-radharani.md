@@ -1,5 +1,5 @@
 ---
-slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
+slug: 1983-11-07-a-b1_izvilistaya_i_nepostizhimaya_priroda_lily_molitvy_brahmy_proslavlyayut_krishnu_i_radharani
 record_id: 1983.11.07.A.B1
 title: Извилистая и непостижимая природа лилы. Молитвы Брахмы прославляют Кришну
   и Радхарани.
@@ -27,23 +27,16 @@ legacy:
     Брахмы прославляют Кришну и Радхарани
   index: "167"
   filename: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani.md
+  slug: 167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61

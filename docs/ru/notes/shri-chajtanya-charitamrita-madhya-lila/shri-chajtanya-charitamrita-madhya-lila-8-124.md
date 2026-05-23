@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-8-124
 refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/886-1983-01-10-b1-temnaya-peshhera-otrecheniya.md
   - ../../_full/1983/01/1983.01.10.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.124
     slug: shri-chajtanya-charitamrita-madhya-lila-8-124
 ---

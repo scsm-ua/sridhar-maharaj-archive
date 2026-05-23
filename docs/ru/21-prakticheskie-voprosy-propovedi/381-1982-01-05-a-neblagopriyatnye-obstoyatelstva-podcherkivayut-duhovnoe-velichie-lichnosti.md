@@ -1,5 +1,5 @@
 ---
-slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
+slug: 1982-01-05-a_neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti
 record_id: 1982.01.05.A
 title: Неблагоприятные обстоятельства подчеркивают духовное величие личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Проповедь
     slug: propoved
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
     slug: shri-chajtanya-charitamrita-adi-lila-10-120
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
     slug: shri-chajtanya-charitamrita-madhya-lila-20-344
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.3.51
     slug: shrimad-bhagavatam-12-3-51
 links:
@@ -43,6 +35,7 @@ legacy:
     величие личности
   index: "381"
   filename: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti.md
+  slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
 ---
 
 Харе Кришна.

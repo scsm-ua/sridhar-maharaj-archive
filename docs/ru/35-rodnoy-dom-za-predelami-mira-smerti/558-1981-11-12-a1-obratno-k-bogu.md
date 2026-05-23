@@ -1,5 +1,5 @@
 ---
-slug: 558-1981-11-12-a1-obratno-k-bogu
+slug: 1981-11-12-a1_obratno_k_bogu
 record_id: 1981.11.12.A1
 title: Обратно к Богу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 558. 1981.11.12.A1. Обратно к Богу
   index: "558"
   filename: 558-1981-11-12-a1-obratno-k-bogu.md
+  slug: 558-1981-11-12-a1-obratno-k-bogu
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
   - title: Бхагавад-гита 8.16
@@ -40,12 +39,8 @@ tags:
     slug: bhagavad-gita-7-23
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
     slug: shri-chajtanya-charitamrita-madhya-lila-22-16
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35
     slug: bhakti-rasamrita-sindhu-3-2-35
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 622-1984-01-18-a2-v-izmerenii-very-my-obekty
+slug: 1984-01-18-a2_v_izmerenii_very_my_obekty
 record_id: 1984.01.18.A2
 title: В измерении веры мы — объекты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 622. 1984.01.18.A2. В измерении веры мы — объекты
   index: "622"
   filename: 622-1984-01-18-a2-v-izmerenii-very-my-obekty.md
+  slug: 622-1984-01-18-a2-v-izmerenii-very-my-obekty
 ---
 
 **Преданный:** Как *шраддха* связана с внутренним опытом, внутренним переживанием?

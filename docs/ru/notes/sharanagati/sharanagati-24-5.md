@@ -5,9 +5,10 @@ refs:
   - ../../_full/1982/11/1982.11.27.A.md
   - ../../_full/1983/03/1983.03.30.md
   - ../../_full/1985/06/1985.06.09.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 24.5
     slug: sharanagati-24-5
 ---

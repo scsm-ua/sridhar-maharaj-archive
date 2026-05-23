@@ -2,9 +2,10 @@
 slug: bhagavad-gita-2-14
 refs:
   - ../../_full/1981/12/1981.12.22.A.B.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.14
     slug: bhagavad-gita-2-14
 ---

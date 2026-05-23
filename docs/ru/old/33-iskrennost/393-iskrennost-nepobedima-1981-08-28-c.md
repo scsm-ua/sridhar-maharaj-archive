@@ -1,5 +1,5 @@
 ---
-slug: 393-iskrennost-nepobedima-1981-08-28-c
+slug: 1981-08-28-c_iskrennost_nepobedima
 record_id: 1981.08.28.C
 title: Искренность непобедима
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -34,6 +34,7 @@ legacy:
   title: 393. Искренность непобедима. 1981.08.28.C
   index: "393"
   filename: 393-iskrennost-nepobedima-1981-08-28-c.md
+  slug: 393-iskrennost-nepobedima-1981-08-28-c
 ---
 
 *#00:00:00#*

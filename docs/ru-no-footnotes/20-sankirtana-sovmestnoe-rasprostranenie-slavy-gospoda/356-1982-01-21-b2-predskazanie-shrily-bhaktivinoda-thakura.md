@@ -1,5 +1,5 @@
 ---
-slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
+slug: 1982-01-21-b2_predskazanie_shrily_bhaktivinoda_thakura
 record_id: 1982.01.21.B2
 title: Предсказание Шрилы Бхактивинода Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 356. 1982.01.21.B2. Предсказание Шрилы Бхактивинода Тхакура
   index: "356"
   filename: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura.md
+  slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
 ---
 
 **Преданный:** Кто та личность, которая вдохновила Бхактивинода проповедовать на Западе?

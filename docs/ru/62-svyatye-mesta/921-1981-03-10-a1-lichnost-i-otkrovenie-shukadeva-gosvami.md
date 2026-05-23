@@ -1,5 +1,5 @@
 ---
-slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
+slug: 1981-03-10-a1_lichnost_i_otkrovenie_shukadeva_gosvami
 record_id: 1981.03.10.A1
 title: Личность и откровение Шукадева Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,29 +23,22 @@ legacy:
   title: 921. 1981.03.10.A1. Личность и откровение Шукадева Госвами
   index: "921"
   filename: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami.md
+  slug: 921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
     slug: shri-chajtanya-charitamrita-madhya-lila-24-47
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
     slug: shri-chajtanya-charitamrita-madhya-lila-25-157
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
   - title: Шримад-Бхагаватам 1.19.9–10
     slug: shrimad-bhagavatam-1-19-9-10
   - title: Шримад-Бхагаватам 2.1.10
     slug: shrimad-bhagavatam-2-1-10
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.165
     slug: shri-chajtanya-charitamrita-adi-lila-4-165
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62

@@ -3,9 +3,10 @@ slug: bhagavad-gita-6-44
 refs:
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie.md
   - ../../_full/1983/05/1983.05.08.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.44
     slug: bhagavad-gita-6-44
 ---

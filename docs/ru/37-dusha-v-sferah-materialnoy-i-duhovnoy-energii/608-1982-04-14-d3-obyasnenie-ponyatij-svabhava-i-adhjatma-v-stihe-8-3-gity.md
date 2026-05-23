@@ -1,5 +1,5 @@
 ---
-slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
+slug: 1982-04-14-d3_obyasnenie_ponyatiy_svabhava_i_adhyatma_v_stihe_8_3_gity
 record_id: 1982.04.14.D3
 title: Объяснение понятий «свабхава» и «адхйатма» в стихе 8.3 «Гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,12 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 8.3
     slug: bhagavad-gita-8-3
   - title: Бхагавад-гита 8.4
     slug: bhagavad-gita-8-4
   - title: Бхагавад-гита 3.27
     slug: bhagavad-gita-3-27
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
   - title: Бхагавад-гита 8.1–2
@@ -41,6 +37,7 @@ legacy:
     8.3 «Гиты»
   index: "608"
   filename: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity.md
+  slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.

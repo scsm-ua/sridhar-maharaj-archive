@@ -5,9 +5,10 @@ refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam.md
   - ../../_full/1982/01/1982.01.24.A.md
   - ../../_full/1983/03/1983.03.31.md
-tags:
+scriptures:
   - title: Шримад Бхактивинода-вираха Дашакам
     slug: shrimad-bhaktivinoda-viraha-dashakam
+verses:
   - title: Шримад Бхактивинода-вираха Дашакам 10
     slug: shrimad-bhaktivinoda-viraha-dashakam-10
 ---

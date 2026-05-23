@@ -22,17 +22,18 @@ refs:
   - ../../_full/1983/10/1983.10.30.A.md
   - ../../_full/1983/11/1983.11.04.A1.md
   - ../../_full/1983/12/1983.12.29.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
-    slug: shri-chajtanya-charitamrita-antya-lila-4-194
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам 11.29.34
     slug: shrimad-bhagavatam-11-29-34
 ---

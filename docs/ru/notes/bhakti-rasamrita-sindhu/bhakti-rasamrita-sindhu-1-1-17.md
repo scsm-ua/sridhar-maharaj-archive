@@ -4,9 +4,10 @@ refs:
   - ../../_full/1983/02/1983.02.11.md
   - ../../_full/1983/05/1983.05.24.md
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.1.17
     slug: bhakti-rasamrita-sindhu-1-1-17
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
+slug: 1982-07-29-a-b1_subektivnaya_i_mnogomernaya_kosmologiya_shrimad_bhagavatam
 record_id: 1982.07.29.A.B1
 title: Субъективная и многомерная космология «Шримад Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхагаватам»
   index: "637"
   filename: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam.md
+  slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
 ---
 
 **Шрила Шридхар Махарадж:** Вишнупад Дас — ученик Бхавананды Свами. Он прочитал книги Садананды Брахмачари (нашего духовного брата). Книги написаны в соавторстве Садананды и другого джентльмена. И он говорит, что они представили «Бхагаватам» в определенном свете, а ИСККОН — в другом, и существуют различия в их подходе, в их описаниях.

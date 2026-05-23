@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-2-2-6
 refs:
   - ../../14-kak-poznat-i-uvidet-boga/201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti.md
   - ../../_full/1985/07/1985.07.03.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.2.6
     slug: shrimad-bhagavatam-2-2-6
 ---

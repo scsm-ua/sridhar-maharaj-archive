@@ -1,5 +1,5 @@
 ---
-slug: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom
+slug: 1982-01-11-a1_obyasnenie_poemy_ramanandy_raya_i_pesni_mahaprabhu_pered_dzhagannathom
 record_id: 1982.01.11.A1
 title: Объяснение поэмы Рамананды Рая и песни Махапрабху перед Джаганнатхом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     перед Джаганнатхом
   index: "136"
   filename: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom.md
+  slug: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom
 ---
 
 Эта максима была видоизменена Нитьянандой Прабху в Бенгалии: *йа̄ре декха, та̄ре каха ‘гаура’-упадеш́а*[^_ftn1], трансформирована.

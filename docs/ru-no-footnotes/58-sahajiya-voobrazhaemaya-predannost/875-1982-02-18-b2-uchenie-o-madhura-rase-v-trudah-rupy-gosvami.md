@@ -1,5 +1,5 @@
 ---
-slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
+slug: 1982-02-18-b2_uchenie_o_madhura-rase_v_trudah_rupy_gosvami
 record_id: 1982.02.18.B2
 title: Учение о мадхура-расе в трудах Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 875. 1982.02.18.B2. Учение о мадхура-расе в трудах Рупы Госвами
   index: "875"
   filename: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami.md
+  slug: 875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami
 ---
 
 ## «Онтология Прекрасной Реальности» (часть 1.6)

@@ -1,5 +1,5 @@
 ---
-slug: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe
+slug: 1982-05-14-c2_sozertsanie_lily_v_glubokom_transe
 record_id: 1982.05.14.C2
 title: Созерцание лилы в глубоком трансе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
   index: "178"
   filename: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
+  slug: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe
 tags:
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 130
     slug: chajtanya-chandramrita-130
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
     slug: shri-chajtanya-charitamrita-antya-lila-17-27
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 ---

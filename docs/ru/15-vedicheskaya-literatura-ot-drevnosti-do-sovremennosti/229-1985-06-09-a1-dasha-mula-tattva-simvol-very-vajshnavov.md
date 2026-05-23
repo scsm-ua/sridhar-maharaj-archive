@@ -1,5 +1,5 @@
 ---
-slug: 229-1985-06-09-a1-dasha-mula-tattva-simvol-very-vajshnavov
+slug: 1985-06-09-a1_dasha-mula-tattva_simvol_very_vayshnavov
 record_id: 1985.06.09.A1
 title: «Даша-мула-таттва» — символ веры вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Даша-мула-таттва
     slug: dasha-mula-tattva
-  - title: Джайва-дхарма
-    slug: dzhajva-dharma
   - title: Джайва-дхарма 13
     slug: dzhajva-dharma-13
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 229. 1985.06.09.A1. «Даша-мула-таттва» — символ веры вайшнавов
   index: "229"
   filename: 229-1985-06-09-a1-dasha-mula-tattva-simvol-very-vajshnavov.md
+  slug: 229-1985-06-09-a1-dasha-mula-tattva-simvol-very-vajshnavov
 ---
 
 *А̄мна̄йах̣ пра̄ха*[^_ftn1]. Нет ценности в любом другом мнении, помимо *а̄мна̄йах̣. А̄мна̄йах̣…* Мы должны понять, что это. Это истина откровения или писание, приходящее из надежного источника (Гуру-парампара), *а̄мна̄йах̣*. *А̄мна̄йах̣* означает «истина откровения, которую мы получаем в подлинной преемственности Гуру.

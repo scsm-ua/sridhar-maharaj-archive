@@ -1,5 +1,5 @@
 ---
-slug: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca
+slug: 1983-01-04-b1-3_rabstvo_u_absolyutnogo_blaga_i_absolyutnoy_krasoty_estestvennaya_sklonnost_serdtsa
 record_id: 1983.01.04.B1.3
 title: Рабство у Абсолютного Блага и Абсолютной Красоты — естественная
   склонность сердца
@@ -20,12 +20,8 @@ tags:
     slug: krishna-lila
   - title: Према-дхама-дева-стотрам
     slug: prema-dhama-deva-stotram
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
@@ -42,6 +38,7 @@ legacy:
     естественная склонность сердца
   index: "036"
   filename: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca.md
+  slug: 036_1983-01-04-b1-3_sridharmj_rabstvo_u_absoljutnogo_blaga_i_absoljutnoj_krasoty-estestvennaja_sklonnost_serdca
 ---
 
 Человеку свойственно ошибаться, а Богу свойственно прощать, такова Его природа — прощать. Прощение, милосердие — природа Божественного. А я рожден для того, чтобы совершать ошибки. Слабость, уязвимость, ущербность моей свободной воли, поэтому я всегда должен искать прибежище. Я не могу уповать, полагаться на себя, я всегда хочу иметь Хранителя. Я сам ненадежен, я не могу положиться на себя, поэтому мне всегда нужен Хранитель, прибежище, *ашрая*. *Шаранагати* — об этом идет речь. Поэтому Махапрабху говорит: твоя нормальная позиция — быть рабом Абсолютного Блага. Пытайся идти в этом направлении. Ты не должен ненавидеть рабство, речь идет о рабстве Абсолютному Благу. Подразумевается именно это.

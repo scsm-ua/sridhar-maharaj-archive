@@ -1,5 +1,5 @@
 ---
-slug: 247-1982-02-24-a4-obshhenie-obladaet-siloj-tolko-esli-sadhu-podlinnyj
+slug: 1982-02-24-a4_obshchenie_obladaet_siloy_tolko_esli_sadhu_podlinnyy
 record_id: 1982.02.24.A4
 title: Общение обладает силой только если садху подлинный
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 247. 1982.02.24.А4. Общение обладает силой только если садху подлинный
   index: "247"
   filename: 247-1982-02-24-a4-obshhenie-obladaet-siloj-tolko-esli-sadhu-podlinnyj.md
+  slug: 247-1982-02-24-a4-obshhenie-obladaet-siloj-tolko-esli-sadhu-podlinnyj
 ---
 
 **Госвами Махарадж:**

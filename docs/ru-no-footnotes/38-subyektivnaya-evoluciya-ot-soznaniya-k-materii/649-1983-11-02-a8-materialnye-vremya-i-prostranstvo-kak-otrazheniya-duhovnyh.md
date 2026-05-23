@@ -1,5 +1,5 @@
 ---
-slug: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh
+slug: 1983-11-02-a8_materialnye_vremya_i_prostranstvo_kak_otrazheniya_duhovnyh
 record_id: 1983.11.02.A8
 title: Материальные время и пространство как отражения духовных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 649. 1983.11.02.A8. Материальные время и пространство как отражения духовных
   index: "649"
   filename: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh.md
+  slug: 649-1983-11-02-a8-materialnye-vremya-i-prostranstvo-kak-otrazheniya-duhovnyh
 ---
 
 **Преданный:** Но также речь идет о пяти вечных элементах: *Бхагаван, кала, пракрити, карма…*

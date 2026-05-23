@@ -2,9 +2,10 @@
 slug: prema-dhama-deva-stotram-40
 refs:
   - ../../_full/1983/01/1983.01.12.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 40
     slug: prema-dhama-deva-stotram-40
 ---

@@ -3,9 +3,10 @@ slug: vajshnava-ke-12
 refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu.md
   - ../../_full/1982/04/1982.04.29.A4.md
-tags:
+scriptures:
   - title: Вайшнава ке
     slug: vajshnava-ke
+verses:
   - title: Вайшнава ке 12
     slug: vajshnava-ke-12
 ---

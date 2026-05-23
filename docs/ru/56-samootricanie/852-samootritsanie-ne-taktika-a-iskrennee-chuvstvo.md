@@ -15,16 +15,10 @@ tags:
     slug: samopredanie
   - title: без даты
     slug: bez-daty
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Гитамала», Ямуна-бхававали
-    slug: gitamala-yamuna-bhavavali
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
 links:

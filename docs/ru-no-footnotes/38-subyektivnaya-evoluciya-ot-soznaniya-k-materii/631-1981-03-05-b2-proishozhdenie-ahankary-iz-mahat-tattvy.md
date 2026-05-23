@@ -1,5 +1,5 @@
 ---
-slug: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy
+slug: 1981-03-05-b2_proishozhdenie_ahankary_iz_mahat-tattvy
 record_id: 1981.03.05.B2
 title: Происхождение аханкары из махат-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 631. 1981.03.05.B2. Происхождение аханкары из махат-таттвы
   index: "631"
   filename: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
+  slug: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy
 ---
 
 **Госвами Махарадж:** Есть одна *шлока* в «Бхагаватам»…

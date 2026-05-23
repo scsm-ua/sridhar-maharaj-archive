@@ -1,5 +1,5 @@
 ---
-slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
+slug: 1982-04-18-b2_sliyanie_s_absolyutom_mayavadi_i_sliyanie_s_nim_vayshnavov_chid-vilasa
 record_id: 1982.04.18.B2
 title: Слияние с Абсолютом майавади и слияние с Ним вайшнавов (чид-виласа)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     вайшнавов (чид-виласа)
   index: "893"
   filename: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa.md
+  slug: 893-1982-04-18-b2-sliyanie-s-absolyutom-majavadi-i-sliyanie-s-nim-vajshnavov-chid-vilasa
 ---
 
     деха-смр̣ти на̄хи йа̄ра, сам̇са̄ра-кӯпа ка̄ха̄н̇ та̄ра

@@ -1,5 +1,5 @@
 ---
-slug: 686-1982-01-31-b3-istoriya-i-polozhenie-vishvy
+slug: 1982-01-31-b3_istoriya_i_polozhenie_vishvy
 record_id: 1982.01.31.B3
 title: История и положение Вишвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 686. 1982.01.31.B3. История и положение Вишвы
   index: "686"
   filename: 686-1982-01-31-b3-istoriya-i-polozhenie-vishvy.md
+  slug: 686-1982-01-31-b3-istoriya-i-polozhenie-vishvy
 ---
 
 **Преданный:** Мне бы хотелось узнать о *васу*. Бхишма был одним из *васу*. Не могли бы вы рассказать эту историю?

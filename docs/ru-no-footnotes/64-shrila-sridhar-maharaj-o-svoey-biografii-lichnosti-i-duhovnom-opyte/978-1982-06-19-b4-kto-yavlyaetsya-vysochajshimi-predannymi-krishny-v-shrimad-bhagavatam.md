@@ -1,5 +1,5 @@
 ---
-slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
+slug: 1982-06-19-b4_kto_yavlyaetsya_vysochayshimi_predannymi_krishny_v_shrimad-bhagavatam
 record_id: 1982.06.19.B4
 title: Кто является высочайшими преданными Кришны в «Шримад-Бхагаватам»?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Шримад-Бхагаватам»?
   index: "978"
   filename: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam.md
+  slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
 ---
 
 «Бхагаватам» вымостил дорогу к этому высшему явлению.

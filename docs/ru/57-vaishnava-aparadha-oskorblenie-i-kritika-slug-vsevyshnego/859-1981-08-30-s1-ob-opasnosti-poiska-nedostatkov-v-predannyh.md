@@ -1,5 +1,5 @@
 ---
-slug: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh
+slug: 1981-08-30-c1_ob_opasnosti_poiska_nedostatkov_v_predannyh
 record_id: 1981.08.30.C1
 title: Об опасности поиска недостатков в преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 859. 1981.08.30.С1. Об опасности поиска недостатков в преданных
   index: "859"
   filename: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh.md
+  slug: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh
 ---
 
 **Преданный:** Махарадж?

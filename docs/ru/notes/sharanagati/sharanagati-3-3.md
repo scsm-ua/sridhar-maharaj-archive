@@ -2,9 +2,10 @@
 slug: sharanagati-3-3
 refs:
   - ../../_full/1982/05/1982.05.18.A.B.C1.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 3–3
     slug: sharanagati-3-3
 ---

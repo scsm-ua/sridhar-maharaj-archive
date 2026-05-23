@@ -1,5 +1,5 @@
 ---
-slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
+slug: 1982-05-11-b2_vegetarianskaya_dieta_dlya_interesuyushchihsya_soznaniem_krishny_i_dlya_praktikuyushchih
 record_id: 1982.05.11.B2
 title: Вегетарианская диета для интересующихся Сознанием Кришны и для практикующих
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Кришны и для практикующих
   index: "751"
   filename: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih.md
+  slug: 751-1982-05-11-b2-vegetarianskaya-dieta-dlya-interesuyushhihsya-soznaniem-krishny-i-dlya-praktikuyushhih
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.3
     slug: bhagavad-gita-7-3
   - title: Бхагавад-гита 7.19

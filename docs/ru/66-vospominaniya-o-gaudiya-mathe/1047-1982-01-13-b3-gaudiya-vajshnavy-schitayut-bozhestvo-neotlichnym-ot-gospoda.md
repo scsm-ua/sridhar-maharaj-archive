@@ -1,5 +1,5 @@
 ---
-slug: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda
+slug: 1982-01-13-b3_gaudiya-vayshnavy_schitayut_bozhestvo_neotlichnym_ot_gospoda
 record_id: 1982.01.13.B3
 title: Гаудия-вайшнавы считают Божество неотличным от Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 1047. 1982.01.13.B3. Гаудия-вайшнавы считают Божество неотличным от Господа
   index: "1047"
   filename: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda.md
+  slug: 1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.12
     slug: shrimad-bhagavatam-12-13-12
   - title: Шримад-Бхагаватам 1.2.11
     slug: shrimad-bhagavatam-1-2-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 283
     slug: bhakti-sandarbha-283
 ---
@@ -130,8 +125,12 @@ tags:
     тасмаи ш́рӣ-гураве намах̣]
 [^_ftn4]
 
-**дивйам̇ джн̃а̄нам̇ (?)** [означает]\
-**дивйам̇ джн̃а̄нам̇ йато дадйа̄т**[^_ftn5]
+    дивйам̇ джн̃а̄нам̇ (?)
+
+[означает]
+
+    дивйам̇ джн̃а̄нам̇ йато дадйа̄т
+[^_ftn5]
 
 Трансцендентное знание передается, процесс передачи трансцендентного знания, и это — *дикша* в подлинном смысле слова, передача *дивья-гьянам*. Не частичное знание, знание в категориях частного интереса, но центральное, знание в категориях центрального интереса, абсолютного интереса.
 

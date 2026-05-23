@@ -1,5 +1,5 @@
 ---
-slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
+slug: 1982-04-18-a2_molitva_raghupati_upadhyai_ukazyvaet_na_velichie_propovedi_mahaprabhu
 record_id: 1982.04.18.A2
 title: Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,26 +15,18 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
     slug: shri-chajtanya-charitamrita-madhya-lila-19-98
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 99
     slug: padyavali-99
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
   - title: Падьявали 126
     slug: padyavali-126
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.34
     slug: shri-chajtanya-charitamrita-antya-lila-7-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
     slug: shri-chajtanya-charitamrita-madhya-lila-8-77
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.8.46
     slug: shrimad-bhagavatam-10-8-46
   - title: Шримад-Бхагаватам 1.19.10
@@ -53,6 +45,7 @@ legacy:
     проповеди Махапрабху
   index: "116"
   filename: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu.md
+  slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
 ---
 
     кам̇ прати катхайитум ӣш́е сампрати ко ва̄ пратӣтим а̄йа̄ту

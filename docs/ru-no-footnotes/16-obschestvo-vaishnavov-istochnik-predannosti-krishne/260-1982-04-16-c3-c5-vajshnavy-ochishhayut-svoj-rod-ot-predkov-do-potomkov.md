@@ -1,5 +1,5 @@
 ---
-slug: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov
+slug: 1982-04-16-c3-c5_vayshnavy_ochishchayut_svoy_rod_ot_predkov_do_potomkov
 record_id: 1982.04.16.C3.C5
 title: Вайшнавы очищают свой род от предков до потомков
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 260. 1982.04.16.C3.C5. Вайшнавы очищают свой род от предков до потомков
   index: "260"
   filename: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov.md
+  slug: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov
 ---
 
 **Шрила Шридхар Махарадж:** Где мать Пхулангана?

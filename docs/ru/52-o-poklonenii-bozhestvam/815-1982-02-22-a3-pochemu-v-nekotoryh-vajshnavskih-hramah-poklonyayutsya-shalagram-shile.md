@@ -1,5 +1,5 @@
 ---
-slug: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile
+slug: 1982-02-22-a3_pochemu_v_nekotoryh_vayshnavskih_hramah_poklonyayutsya_shalagram-shile
 record_id: 1982.02.22.A3
 title: Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Арчана
     slug: archana
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 links:
@@ -31,6 +29,7 @@ legacy:
     шалаграм-шиле?
   index: "815"
   filename: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile.md
+  slug: 815-1982-02-22-a3-pochemu-v-nekotoryh-vajshnavskih-hramah-poklonyayutsya-shalagram-shile
 ---
 
 **Преданный:** Махарадж, вы сказали, что Махапрабху предпочитал поклонение *Говардхана-шиле* поклонению *Нараяна-шиле*. Почему мы видим, что в храмах Махапрабху (*гаудия-вайшнавских* храмах) также присутствует *Нараяна-шила*?

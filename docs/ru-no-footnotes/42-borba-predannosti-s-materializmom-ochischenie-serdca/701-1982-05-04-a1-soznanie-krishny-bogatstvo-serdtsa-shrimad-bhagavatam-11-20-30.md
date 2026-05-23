@@ -1,5 +1,5 @@
 ---
-slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
+slug: 1982-05-04-a1_soznanie_krishny_bogatstvo_serdtsa_shrimad_bhagavatam_11_20_30
 record_id: 1982.05.04.A1
 title: Сознание Кришны – богатство сердца. «Шримад Бхагаватам» 11.20.30.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхагаватам» 11.20.30
   index: "701"
   filename: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30.md
+  slug: 701-1982-05-04-a1-soznanie-krishny-bogatstvo-serdtsa-shrimad-bhagavatam-11-20-30
 ---
 
 Сознание Кришны будет распространяемо, и при этом не будут приниматься в расчет какие бы то ни было законы, *дикши*:

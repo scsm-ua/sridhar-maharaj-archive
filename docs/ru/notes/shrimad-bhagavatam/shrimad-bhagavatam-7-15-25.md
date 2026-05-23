@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/01/1982.01.27-v2.md
   - ../../_full/1982/01/1982.01.27.md
   - ../../_full/1982/10/1982.10.08.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.15.25
     slug: shrimad-bhagavatam-7-15-25
 ---

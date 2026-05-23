@@ -2,9 +2,10 @@
 slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5
 refs:
   - ../../66-vospominaniya-o-gaudiya-mathe/1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.5"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-5
 ---

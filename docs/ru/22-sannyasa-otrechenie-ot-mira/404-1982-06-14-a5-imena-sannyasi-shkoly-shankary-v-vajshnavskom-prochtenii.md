@@ -1,5 +1,5 @@
 ---
-slug: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii
+slug: 1982-06-14-a5_imena_sannyasi_shkoly_shankary_v_vayshnavskom_prochtenii
 record_id: 1982.06.14.A5
 title: Имена санньяси школы Шанкары в вайшнавском прочтении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 404. 1982.06.14.A5. Имена санньяси школы Шанкары в вайшнавском прочтении
   index: "404"
   filename: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii.md
+  slug: 404-1982-06-14-a5-imena-sannyasi-shkoly-shankary-v-vajshnavskom-prochtenii
 ---
 
 **Акхаянанда Махарадж:** На днях я спрашивал вас о десяти именах *санньяси*, я нашел этот комментарий. Похоже, что это утверждение — общего характера. [санскрит] И также, что касается имени «Аранья», здесь сказано: тот, кто приходит к *нанда-канане*… [санскрит]

@@ -7,19 +7,20 @@ refs:
   - ../../_full/1982/01/1982.01.11.A1.md
   - ../../_full/1982/12/1982.12.06.A.B.md
   - ../../_full/1983/11/1983.11.11.B2.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
-    slug: shri-chajtanya-charitamrita-adi-lila-4-23
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
+    slug: shri-chajtanya-charitamrita-adi-lila-4-23
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
     slug: shri-chajtanya-charitamrita-madhya-lila-13-160
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.89
     slug: shri-chajtanya-charitamrita-madhya-lila-8-89
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.44
     slug: shrimad-bhagavatam-10-82-44
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
+slug: 1981-11-12-a2-2-a2-4_dzhi-bi-si_vaykunthi_bhakti_rakshak_strazh_u_vrat
 record_id: 1981.11.12.A2.2.A2.4
 title: Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 988. 1981.11.12.A2.2.A2.4. Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат
   index: "988"
   filename: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat.md
+  slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
 ---
 
 **Преданный:** Я думаю, что вот каждый из нас является Джи-би-си какой-либо зоны, но вы являетесь Джи-би-си зоны Вайкунтхи.

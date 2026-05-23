@@ -1,5 +1,9 @@
 # Warnings: footnotes-multi-with-body
 
+ - more than 1 link found for footnote "[^12]" (2)
+   - 1982.01.09.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.09.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.09.md)
  - more than 1 link found for footnote "[^3]" (2)
    - 1982.01.11.A1.md
    - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A1.md)

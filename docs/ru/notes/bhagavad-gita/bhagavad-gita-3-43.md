@@ -7,9 +7,10 @@ refs:
   - ../../_full/1983/06/1983.06.27.md
   - ../../_full/1983/08/1983.08.31.A.B.md
   - ../../_full/1983/09/1983.09.11.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.43
     slug: bhagavad-gita-3-43
 ---

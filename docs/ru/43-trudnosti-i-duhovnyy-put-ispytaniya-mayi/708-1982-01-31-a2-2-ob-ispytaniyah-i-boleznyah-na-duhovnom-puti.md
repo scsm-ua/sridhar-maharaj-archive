@@ -1,5 +1,5 @@
 ---
-slug: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti
+slug: 1982-01-31-a2-2_ob_ispytaniyah_i_boleznyah_na_duhovnom_puti
 record_id: 1982.01.31.A2.2
 title: Об испытаниях и болезнях на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 708. 1982.01.31.A2.2. Об испытаниях и болезнях на духовном пути
   index: "708"
   filename: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti.md
+  slug: 708-1982-01-31-a2-2-ob-ispytaniyah-i-boleznyah-na-duhovnom-puti
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?

@@ -8,9 +8,10 @@ refs:
   - ../../_full/1983/08/1983.08.08.B.md
   - ../../_full/1983/08/1983.08.31.A.B.md
   - ../../_full/1983/10/1983.10.05.B.C.md
-tags:
+scriptures:
   - title: Катха-упанишад
     slug: katha-upanishad
+verses:
   - title: Катха-упанишад 1.3.10
     slug: katha-upanishad-1-3-10
 ---

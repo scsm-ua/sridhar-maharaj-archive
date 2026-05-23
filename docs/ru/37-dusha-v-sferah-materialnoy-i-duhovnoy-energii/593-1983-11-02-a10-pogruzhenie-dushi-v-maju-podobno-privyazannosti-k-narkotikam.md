@@ -1,5 +1,5 @@
 ---
-slug: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam
+slug: 1983-11-02-a10_pogruzhenie_dushi_v_mayu_podobno_privyazannosti_k_narkotikam
 record_id: 1983.11.02.A10
 title: Погружение души в майу подобно привязанности к наркотикам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     наркотикам
   index: "593"
   filename: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam.md
+  slug: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam
 ---
 
 **Преданный:** Махарадж, когда *джива* становится падшей, она может прекратить свое падение?

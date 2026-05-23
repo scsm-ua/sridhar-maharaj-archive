@@ -2,9 +2,10 @@
 slug: sharanagati-24-10
 refs:
   - ../../_full/1985/06/1985.06.09.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 24.10
     slug: sharanagati-24-10
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie
+slug: 1982-07-27-c1_vera_i_pokornost_absolyutu_sposobny_darovat_naivysshee_dostizhenie
 record_id: 1982.07.27.C1
 title: Вера и покорность Абсолюту способны даровать наивысшее достижение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
   - title: Бхакти-расамрита-синдху 1.1.11
@@ -39,6 +35,7 @@ legacy:
     наивысшее достижение
   index: "771"
   filename: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie.md
+  slug: 771-1982-07-27-c1-vera-i-pokornost-absolyutu-sposobny-darovat-naivysshee-dostizhenie
 ---
 
 Он высок, а я завишу от Него. И это сознание — истина. Если мы сумеем оказаться в этом измерении истины, тогда автоматически Он придет ко мне. Он придет, чтобы заключить меня в Свои объятья в соответствии с моей чистотой. А чистота — это негативность, то есть самоотрицание, не самоутверждение. Мы должны рассматривать себя таким образом: *шакти*, потенция — не владыка потенции. Владыка потенции есть Он, а мы — потенция, мы зависимые. Таково наше положение. Мы всегда должны зависеть от Кришны.

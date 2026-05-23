@@ -1,5 +1,5 @@
 ---
-slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
+slug: 1983-11-13-a3_ne_sleduet_voproshat_pochemu_milost_dana_emu_a_ne_mne
 record_id: 1983.11.13.A3
 title: Не следует вопрошать «Почему милость дана ему, а не мне?»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,31 +23,20 @@ legacy:
   title: 527. 1983.11.13.A3. Не следует вопрошать «Почему милость дана ему, а не мне?»
   index: "527"
   filename: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne.md
+  slug: 527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
     slug: shri-chajtanya-charitamrita-madhya-lila-22-83
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.209
     slug: shri-chajtanya-charitamrita-adi-lila-5-209
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 5.5
     slug: sharanagati-5-5
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 2.7
     slug: kalyana-kalpataru-2-7
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
   - title: Шримад-Бхагаватам 1.2.6

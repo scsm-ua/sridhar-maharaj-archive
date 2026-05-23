@@ -1,5 +1,5 @@
 ---
-slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
+slug: 1982-04-23-a4-b1_istoriya_i_ontologiya_bozhestv_shri_chaytanya_sarasvat_matha
 record_id: 1982.04.23.A4.B1
 title: История и онтология Божеств «Шри Чайтанья Сарасват Матха»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     Сарасват Матха»
   index: "1089"
   filename: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha.md
+  slug: 1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.17
     slug: shri-chajtanya-charitamrita-adi-lila-1-17
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.7
     slug: shri-chajtanya-charitamrita-antya-lila-1-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.5
     slug: shri-chajtanya-charitamrita-madhya-lila-1-5
 ---

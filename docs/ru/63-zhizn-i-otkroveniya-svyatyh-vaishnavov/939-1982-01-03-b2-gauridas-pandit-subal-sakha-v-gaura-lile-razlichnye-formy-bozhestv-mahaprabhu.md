@@ -1,5 +1,5 @@
 ---
-slug: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu
+slug: 1982-01-03-b2_gauridas_pandit_subal_sakha_v_gaura-lile_razlichnye_formy_bozhestv_mahaprabhu
 record_id: 1982.01.03.B2
 title: Гауридас Пандит – Субал Сакха в гаура-лиле. Различные формы Божеств Махапрабху.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     формы  Божеств Махапрабху
   index: "939"
   filename: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu.md
+  slug: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
     slug: shri-chajtanya-charitamrita-madhya-lila-8-194
 ---

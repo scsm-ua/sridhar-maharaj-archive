@@ -4,9 +4,10 @@ refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
   - ../../_full/1983/09/1983.09.21.A.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Даинья о прапатти
     slug: dainya-o-prapatti
+verses:
   - title: Даинья о прапатти 3
     slug: dainya-o-prapatti-3
 ---

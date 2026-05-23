@@ -5,9 +5,10 @@ refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi.md
   - ../../_full/1982/02/1982.02.19.E.md
   - ../../_full/1982/05/1982.05.15.A.B1.md
-tags:
+scriptures:
   - title: Бхакти-анукула-матра
     slug: bhakti-anukula-matra
+verses:
   - title: Бхакти-анукула-матра 3.6
     slug: bhakti-anukula-matra-3-6
 ---

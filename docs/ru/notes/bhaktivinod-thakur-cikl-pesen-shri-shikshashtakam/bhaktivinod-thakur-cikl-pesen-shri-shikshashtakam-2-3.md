@@ -2,9 +2,10 @@
 slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-3
 refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.3"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-3
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite
+slug: 1982-04-16-b4_uchenie_o_forme_i_suti_iskrennosti_i_progresse_v_gite
 record_id: 1982.04.16.B4
 title: Учение о форме и сути, искренности и прогрессе в «Гите»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 733. 1982.04.16.B4. Учение о форме и сути, искренности и прогрессе в  «Гите»
   index: "733"
   filename: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite.md
+  slug: 733-1982-04-16-b4-uchenie-o-forme-i-suti-iskrennosti-i-progresse-v-gite
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63

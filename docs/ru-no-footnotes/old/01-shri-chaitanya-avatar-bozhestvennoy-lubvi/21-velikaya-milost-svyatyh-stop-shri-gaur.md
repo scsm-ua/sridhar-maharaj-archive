@@ -1,5 +1,5 @@
 ---
-slug: 21-velikaya-milost-svyatyh-stop-shri-gaur
+slug: 1982-01-24-b1_velikaya_milost_svyatyh_stop_shri_gaurangi
 record_id: 1982.01.24.B1
 title: Великая милость святых стоп Шри Гауранги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 21. Великая милость святых стоп Шри Гауранги. 1982.01.24.B1
   index: "21"
   filename: 21-velikaya-milost-svyatyh-stop-shri-gaur.md
+  slug: 21-velikaya-milost-svyatyh-stop-shri-gaur
 ---
 
 *#00:00:00#*

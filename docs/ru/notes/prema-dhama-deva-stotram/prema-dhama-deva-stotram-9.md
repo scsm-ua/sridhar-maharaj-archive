@@ -2,9 +2,10 @@
 slug: prema-dhama-deva-stotram-9
 refs:
   - ../../_full/1982/08/1982.08.19.A.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 9
     slug: prema-dhama-deva-stotram-9
 ---

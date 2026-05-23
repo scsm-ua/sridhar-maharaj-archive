@@ -1,5 +1,5 @@
 ---
-slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
+slug: 1981-03-12-c2-d_bhagavatam_i_shri_chaytanya_o_prinyatii_voli_gospoda_sovet_ravany
 record_id: 1981.03.12.C2.D
 title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Господа. Совет Раваны
   index: "511"
   filename: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany.md
+  slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
 ---
 
 Божественная воля — мы должны принимать ее. Она работает по своему, ее пути независимы. Выражаясь языком Гегеля, «тезис, антитезис, синтез». Всякий раз, когда что-то происходит, то возникает оппозиционное явление, а затем вновь приходит синтез. Тезис, антитезис, синтез. Синтез — в будущем, как следствие столкновения тезиса и антитезиса. Мы должны принять неизбежное, мы вынуждены признать неизбежность неизбежного.

@@ -1,5 +1,5 @@
 ---
-slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
+slug: 1982-05-12-b2_chto_takoe_maya_stih_2_9_34_chaturshloki_shrimad-bhagavatam
 record_id: 1982.05.12.B2
 title: Что такое «майа»? Стих 2.9.34 чатуршлоки «Шримад-Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Чатур-шлока
     slug: chatur-shloka
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.18
     slug: bhagavad-gita-3-18
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
     slug: shri-chajtanya-charitamrita-adi-lila-1-54
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
     slug: shri-chajtanya-charitamrita-madhya-lila-25-119
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.34
     slug: shrimad-bhagavatam-2-9-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
@@ -43,8 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 52.1
     slug: tattva-sandarbha-52-1
   - title: Шримад-Бхагаватам 1.2.11
@@ -67,6 +57,7 @@ legacy:
     «Шримад-Бхагаватам»
   index: "502"
   filename: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
+  slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
 ---
 
 **Шрила Шридхар Махарадж:** Этот ответ готов?

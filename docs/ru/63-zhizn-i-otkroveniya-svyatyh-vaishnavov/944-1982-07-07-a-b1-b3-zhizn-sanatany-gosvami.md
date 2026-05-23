@@ -1,5 +1,5 @@
 ---
-slug: 944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami
+slug: 1982-07-07-a-b1-b3_zhizn_sanatany_gosvami
 record_id: 1982.07.07.A.B1.B3
 title: Жизнь Санатаны Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 944. 1982.07.07.A.B1.B3. Жизнь Санатаны Госвами
   index: "944"
   filename: 944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami.md
+  slug: 944-1982-07-07-a-b1-b3-zhizn-sanatany-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.211
     slug: shri-chajtanya-charitamrita-madhya-lila-1-211
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.3
@@ -40,24 +39,16 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
     slug: shri-chajtanya-charitamrita-madhya-lila-9-264
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.32
     slug: shrimad-bhagavatam-11-11-32
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-  - title: Шри Шад Госвами Аштакам
-    slug: shri-shad-gosvami-ashtakam
   - title: Шри Шад Госвами Аштакам 2
     slug: shri-shad-gosvami-ashtakam-2
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31

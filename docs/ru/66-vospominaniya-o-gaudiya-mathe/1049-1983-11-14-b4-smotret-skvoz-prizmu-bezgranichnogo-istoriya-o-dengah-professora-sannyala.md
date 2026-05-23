@@ -1,5 +1,5 @@
 ---
-slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
+slug: 1983-11-14-b4_smotret_skvoz_prizmu_bezgranichnogo_istoriya_o_dengah_professora_sannyala
 record_id: 1983.11.14.B4
 title: Смотреть сквозь призму Безграничного. История о деньгах профессора Санньяла.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     деньгах профессора Санньяла
   index: "1049"
   filename: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala.md
+  slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
     slug: shri-chajtanya-charitamrita-madhya-lila-22-72
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
     slug: shri-chajtanya-charitamrita-madhya-lila-25-129
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava
+slug: 1983-11-06-a1_individualnaya_lichnost_i_bogovdohnovennoe_nachalo_vayshnava
 record_id: 1983.11.06.A1
 title: «Индивидуальная личность» и «боговдохновенное начало» вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     вайшнава
   index: "251"
   filename: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava.md
+  slug: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари, Гаура-Хари.

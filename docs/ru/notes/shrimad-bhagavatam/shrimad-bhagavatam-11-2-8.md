@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-2-8
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
   - ../../_full/1982/01/1982.01.29.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.2.8
     slug: shrimad-bhagavatam-11-2-8
 ---

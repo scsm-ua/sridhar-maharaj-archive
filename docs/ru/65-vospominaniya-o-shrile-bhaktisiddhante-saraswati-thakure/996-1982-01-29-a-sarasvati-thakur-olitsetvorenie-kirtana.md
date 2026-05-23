@@ -1,5 +1,5 @@
 ---
-slug: 996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana
+slug: 1982-01-29-a_sarasvati_thakur_olitsetvorenie_kirtana
 record_id: 1982.01.29.A
 title: Сарасвати Тхакур — олицетворение киртана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,43 +23,30 @@ legacy:
   title: 996. 1982.01.29.A. Сарасвати Тхакур — олицетворение киртана
   index: "996"
   filename: 996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
+  slug: 996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana
 tags:
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 8
     slug: shri-shri-prabhupada-padma-stavakah-8
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.23–24
     slug: shrimad-bhagavatam-7-5-23-24
   - title: Шримад-Бхагаватам 11.5.38–40
     slug: shrimad-bhagavatam-11-5-38-40
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 2
     slug: shri-nama-mahatmya-2
   - title: Шримад-Бхагаватам 9.4.68
     slug: shrimad-bhagavatam-9-4-68
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.6
     slug: bhagavad-gita-4-6
   - title: Бхагавад-гита 9.11
     slug: bhagavad-gita-9-11
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 1
     slug: vajshnava-ke-1
   - title: Вайшнава ке 17
     slug: vajshnava-ke-17
   - title: Вайшнава ке 19
     slug: vajshnava-ke-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170

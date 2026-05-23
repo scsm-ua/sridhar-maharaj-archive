@@ -1,5 +1,5 @@
 ---
-slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
+slug: 1983-02-13-a4_sokrovennyy_smysl_molitvy_bhaktivedanty_svami
 record_id: 1983.02.13.A4
 title: Сокровенный смысл молитвы Бхактиведанты Свами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
   index: "1068"
   filename: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami.md
+  slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
 ---

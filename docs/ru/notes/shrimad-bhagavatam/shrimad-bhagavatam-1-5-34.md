@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-1-5-34
 refs:
   - ../../_full/1982/10/1982.10.23.A.md
   - ../../_full/1983/05/1983.05.12.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.5.34
     slug: shrimad-bhagavatam-1-5-34
 ---

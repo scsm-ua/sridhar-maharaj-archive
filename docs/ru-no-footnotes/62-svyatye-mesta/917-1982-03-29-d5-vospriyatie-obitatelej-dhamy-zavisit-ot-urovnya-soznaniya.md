@@ -1,5 +1,5 @@
 ---
-slug: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya
+slug: 1982-03-29-d5_vospriyatie_obitateley_dhamy_zavisit_ot_urovnya_soznaniya
 record_id: 1982.03.29.D5
 title: Восприятие обитателей дхамы зависит от уровня сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 917. 1982.03.29.D5. Восприятие обитателей дхамы зависит от уровня сознания
   index: "917"
   filename: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya.md
+  slug: 917-1982-03-29-d5-vospriyatie-obitatelej-dhamy-zavisit-ot-urovnya-soznaniya
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.

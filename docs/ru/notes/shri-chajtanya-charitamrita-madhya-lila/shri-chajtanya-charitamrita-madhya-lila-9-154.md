@@ -5,9 +5,10 @@ refs:
   - ../../68-shri-chaitanya-saraswat-math/1085-1981-08-31-b5-c1-obyasnenie-simvolicheskogo-smysla-lotosa-v-vode-pod-luchami-solntsa.md
   - ../../_full/1981/08/1981.08.31.md
   - ../../_full/1982/02/1982.02.17.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.154
     slug: shri-chajtanya-charitamrita-madhya-lila-9-154
 ---

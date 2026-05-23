@@ -5,9 +5,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane.md
   - ../../_full/1981/09/1981.09.23.A.md
   - ../../_full/1982/01/1982.01.30.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.111
     slug: shri-chajtanya-charitamrita-madhya-lila-10-111
 ---

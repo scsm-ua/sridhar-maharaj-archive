@@ -6,9 +6,10 @@ refs:
   - ../../26-rupanuga-sampradaya/455-1982-04-16-b3-rupanuga-i-raganuga-put-nachertannyj-mahaprabhu.md
   - ../../26-rupanuga-sampradaya/459-1987-00-00-b5-1-rupanuga-sampradaya.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta.md
-tags:
+scriptures:
   - title: «Прартхана», Лаласа
     slug: prarthana-lalasa
+verses:
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
 ---

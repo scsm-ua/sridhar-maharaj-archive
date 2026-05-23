@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-adi-lila-5-195
 refs:
   - ../../_full/1981/11/1981.11.15.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.195
     slug: shri-chajtanya-charitamrita-adi-lila-5-195
 ---

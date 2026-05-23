@@ -1,5 +1,5 @@
 ---
-slug: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni
+slug: 1982-05-18-c2_desyat_oskorbleniy_i_chetyre_vida_nama-bhasa_pri_vospevanii_svyatogo_imeni
 record_id: 1982.05.18.C2
 title: Десять оскорблений и четыре вида нама-бхаса при воспевании Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     воспевании Святого Имени
   index: "345"
   filename: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni.md
+  slug: 345-1982-05-18-c2-desyat-oskorblenij-i-chetyre-vida-nama-bhasa-pri-vospevanii-svyatogo-imeni
 ---
 
     [шри-кришна-чайтанья прабху-нитьянанда]
@@ -34,8 +35,8 @@ legacy:
 
 После того как произнесены эти имена *Панча-таттвы*, ты должен перебирать четки на этой *малике*:
 
-**Харе Кришна Харе Кришна Кришна Кришна Харе Харе**\
-**Харе Рама Харе Рама Рама Рама Харе Харе**
+    Харе Кришна Харе Кришна Кришна Кришна Харе Харе
+    Харе Рама Харе Рама Рама Рама Харе Харе
 
 Это *Харинама махамантра*, сейчас я расскажу о том, как воспевать Святое Имя. Это Имя присутствует в Калисантарана-упанишаде, а также в Агни-пуране и в Раманда(?)-пуране.
 

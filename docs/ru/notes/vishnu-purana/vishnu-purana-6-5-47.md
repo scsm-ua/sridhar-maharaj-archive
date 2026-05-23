@@ -2,9 +2,10 @@
 slug: vishnu-purana-6-5-47
 refs:
   - ../../_full/1981/12/1981.12.19.A.md
-tags:
+scriptures:
   - title: Вишну-пурана
     slug: vishnu-purana
+verses:
   - title: Вишну-пурана 6.5.47
     slug: vishnu-purana-6-5-47
 ---

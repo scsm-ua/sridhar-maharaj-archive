@@ -11,9 +11,10 @@ refs:
   - ../../_full/1981/11/1981.11.28.A.B.C.md
   - ../../_full/1982/01/1982.01.25.md
   - ../../_full/1983/05/1983.05.10.md
-tags:
+scriptures:
   - title: Враджа-виласа-става
     slug: vradzha-vilasa-stava
+verses:
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
 ---

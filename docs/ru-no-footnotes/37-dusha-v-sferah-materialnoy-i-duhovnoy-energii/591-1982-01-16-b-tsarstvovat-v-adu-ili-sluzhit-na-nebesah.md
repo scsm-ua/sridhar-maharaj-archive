@@ -1,5 +1,5 @@
 ---
-slug: 591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah
+slug: 1982-01-16-b_tsarstvovat_v_adu_ili_sluzhit_na_nebesah
 record_id: 1982.01.16.B
 title: Царствовать в аду или служить на небесах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 591. 1982.01.16.B. Царствовать в аду или служить на небесах
   index: "591"
   filename: 591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah.md
+  slug: 591-1982-01-16-b-tsarstvovat-v-adu-ili-sluzhit-na-nebesah
 ---
 
 Закон природы, закон эксплуатации таков — подобные реакции, реакция подобного рода. Даже творец этого мира не может избежать этой участи.

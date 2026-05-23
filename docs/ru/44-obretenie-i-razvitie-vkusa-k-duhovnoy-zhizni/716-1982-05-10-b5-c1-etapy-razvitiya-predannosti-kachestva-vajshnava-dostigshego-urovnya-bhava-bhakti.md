@@ -1,5 +1,5 @@
 ---
-slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
+slug: 1982-05-10-b5-c1_etapy_razvitiya_predannosti_kachestva_vayshnava_dostigshego_urovnya_bhava-bhakti
 record_id: 1982.05.10.B5.C1
 title: Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     достигшего уровня бхава-бхакти
   index: "716"
   filename: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
+  slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.18
     slug: shrimad-bhagavatam-1-2-18
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15
     slug: bhakti-rasamrita-sindhu-1-4-15
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху 1.3.25–26

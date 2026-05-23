@@ -1,5 +1,5 @@
 ---
-slug: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti
+slug: 1982-07-15-a1-a3-a6-b_neobhodimo_pokinut_mir_bolezney_starosti_i_smerti
 record_id: 1982.07.15.A1.A3.A6.B
 title: Необходимо покинуть мир болезней, старости и смерти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     смерти
   index: "576"
   filename: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti.md
+  slug: 576-1982-07-15-a1-a3-a6-b-neobhodimo-pokinut-mir-boleznej-starosti-i-smerti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.27
     slug: bhagavad-gita-2-27
   - title: Бхагавад-гита 17.3

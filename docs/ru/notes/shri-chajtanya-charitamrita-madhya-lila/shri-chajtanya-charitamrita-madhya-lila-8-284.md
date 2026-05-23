@@ -4,9 +4,10 @@ refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
   - ../../_full/1981/11/1981.11.11.A.B.C.md
   - ../../_full/1982/05/1982.05.13.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.284
     slug: shri-chajtanya-charitamrita-madhya-lila-8-284
 ---

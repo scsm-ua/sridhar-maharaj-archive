@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-antya-lila-13-37
 refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1079-1981-08-27-a1-1-predannost-dzhagadanandy-pandita-o-titulah-prabhupad-vishnupad-i-bhaktivinod.md
   - ../../_full/1981/08/1981.08.27.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.37
     slug: shri-chajtanya-charitamrita-antya-lila-13-37
 ---

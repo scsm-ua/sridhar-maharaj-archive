@@ -8,9 +8,10 @@ refs:
   - ../../_full/1982/05/1982.05.01.A.B1.md
   - ../../_full/1982/11/1982.11.21.A.B.md
   - ../../_full/1983/01/1983.01.05.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.64
     slug: bhagavad-gita-2-64
 ---

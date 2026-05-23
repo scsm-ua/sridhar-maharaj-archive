@@ -1,5 +1,5 @@
 ---
-slug: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku
+slug: 1981-03-10-a3_vospominaniya_o_bhaktivedante_svami_do_ego_otezda_v_ameriku
 record_id: 1981.03.10.A3
 title: Воспоминания о Бхактиведанте Свами до его отъезда в Америку
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Америку
   index: "1072"
   filename: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku.md
+  slug: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.88.8
     slug: shrimad-bhagavatam-10-88-8
 ---

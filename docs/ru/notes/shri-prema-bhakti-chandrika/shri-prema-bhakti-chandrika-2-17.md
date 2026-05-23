@@ -2,9 +2,10 @@
 slug: shri-prema-bhakti-chandrika-2-17
 refs:
   - ../../_full/1981/11/1981.11.02.B.md
-tags:
+scriptures:
   - title: Шри Према-бхакти-чандрика
     slug: shri-prema-bhakti-chandrika
+verses:
   - title: Шри Према-бхакти-чандрика 2.17
     slug: shri-prema-bhakti-chandrika-2-17
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
+slug: 1982-01-19-b3_pervyy_stih_shrimad_bhagavatam_vyrazhenie_sambadha-gyany
 record_id: 1982.01.19.B3
 title: Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 427. 1982.01.19.B3. Первый стих Шримад Бхагаватам – выражение самбадха-гьяны
   index: "427"
   filename: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany.md
+  slug: 427-1982-01-19-b3-pervyj-stih-shrimad-bhagavatam-vyrazhenie-sambadha-gyany
 ---
 
 «Сделай или умри». «Умереть, чтобы жить». «Сделай или умри». *Джанме асе кено нахи моила* — получив столь благоприятное, столь благополучное рождение, он совершает самоубийство. Не просто самоубийство: самоубийство было бы лучше, чем в таких обстоятельствах просто одурачивать самого себя. Самоубийство было бы лучшим исходом для тебя.

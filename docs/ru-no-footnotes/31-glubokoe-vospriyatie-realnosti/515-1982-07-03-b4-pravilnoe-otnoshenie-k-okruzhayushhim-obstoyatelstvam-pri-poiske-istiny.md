@@ -1,5 +1,5 @@
 ---
-slug: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny
+slug: 1982-07-03-b4_pravilnoe_otnoshenie_k_okruzhayushchim_obstoyatelstvam_pri_poiske_istiny
 record_id: 1982.07.03.B4
 title: Правильное отношение к окружающим обстоятельствам при поиске Истины
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     поиске Истины
   index: "515"
   filename: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny.md
+  slug: 515-1982-07-03-b4-pravilnoe-otnoshenie-k-okruzhayushhim-obstoyatelstvam-pri-poiske-istiny
 ---
 
 **Видагдха Мадхава Прабху:** Шрила Шридхар Махарадж, материальная энергия, *пракрити* — низшая энергия, она каким-либо образом когда-либо отражает высшее намерение или духовную энергию?

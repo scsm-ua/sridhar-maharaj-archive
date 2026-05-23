@@ -23,13 +23,14 @@ refs:
   - ../../_full/1983/04/1983.04.01.md
   - ../../_full/1983/06/1983.06.05.md
   - ../../_full/1983/07/1983.07.08.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
 ---

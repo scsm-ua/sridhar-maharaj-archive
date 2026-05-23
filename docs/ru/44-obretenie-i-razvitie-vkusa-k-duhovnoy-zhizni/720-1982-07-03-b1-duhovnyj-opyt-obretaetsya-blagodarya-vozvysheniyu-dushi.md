@@ -1,5 +1,5 @@
 ---
-slug: 720-1982-07-03-b1-duhovnyj-opyt-obretaetsya-blagodarya-vozvysheniyu-dushi
+slug: 1982-07-03-b1_duhovnyy_opyt_obretaetsya_blagodarya_vozvysheniyu_dushi
 record_id: 1982.07.03.B1
 title: Духовный опыт обретается благодаря возвышению души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 720. 1982.07.03.B1. Духовный опыт обретается благодаря возвышению души
   index: "720"
   filename: 720-1982-07-03-b1-duhovnyj-opyt-obretaetsya-blagodarya-vozvysheniyu-dushi.md
+  slug: 720-1982-07-03-b1-duhovnyj-opyt-obretaetsya-blagodarya-vozvysheniyu-dushi
 tags:
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 256
     slug: bhakti-sandarbha-256
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi
+slug: 1982-02-19-e1_kolichestvo_znaniy_vs_ponimanie_suti_bharagrahi_i_saragrahi
 record_id: 1982.02.19.E1
 title: Количество знаний VS понимание сути (бхараграхи и сараграхи)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     сараграхи)
   index: "253"
   filename: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi.md
+  slug: 253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi
 tags:
-  - title: Бхакти-анукула-матра
-    slug: bhakti-anukula-matra
   - title: Бхакти-анукула-матра 3.6
     slug: bhakti-anukula-matra-3-6
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
+slug: 1982-07-27-c3_praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii
 record_id: 1982.07.27.C3
 title: Практика сахаджиев происходит в ментальном, а не духовном измерении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     духовном измерении
   index: "877"
   filename: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii.md
+  slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
 tags:
-  - title: Брихад Бхагаватамрита
-    slug: brihad-bhagavatamrita
   - title: Брихад Бхагаватамрита 1.1.9
     slug: brihad-bhagavatamrita-1-1-9
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
     slug: shri-chajtanya-charitamrita-madhya-lila-8-59
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
+slug: 1982-02-26-a1_obshchenie_s_vayshnavami_istochnik_potrebnosti_v_soznanii_krishny
 record_id: 1982.02.26.A1
 title: Общение с вайшнавами – источник потребности в Сознании Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Сознании Кришны
   index: "714"
   filename: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny.md
+  slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
 ---
 
 **Преданный:** Махарадж, вначале, когда мы становимся преданными, говорится, что Кришна не принимает в расчет наши оскорбления, поэтому вначале мы можем совершать прогресс очень быстро, быстрыми темпами, но затем, по прошествии какого-то времени прогресс замедляется. Не могли бы вы объяснить какова причина? Каковы эти оскорбления?

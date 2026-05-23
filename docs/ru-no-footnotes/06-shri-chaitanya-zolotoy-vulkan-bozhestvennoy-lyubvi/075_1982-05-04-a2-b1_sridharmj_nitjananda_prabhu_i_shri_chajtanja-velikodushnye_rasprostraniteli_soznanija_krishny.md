@@ -1,5 +1,5 @@
 ---
-slug: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny
+slug: 1982-05-04-a2-b1_nityananda_prabhu_i_shri_chaytanya_velikodushnye_rasprostraniteli_soznaniya_krishny
 record_id: 1982.05.04.A2.B1
 title: Нитьянанда Прабху и Шри Чайтанья — великодушные распространители Сознания
   Кришны
@@ -32,6 +32,7 @@ legacy:
     распространители Сознания Кришны
   index: "075"
   filename: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny.md
+  slug: 075_1982-05-04-a2-b1_sridharmj_nitjananda_prabhu_i_shri_chajtanja-velikodushnye_rasprostraniteli_soznanija_krishny
 ---
 
 Нитьянанда Прабху… Тем, кто не хотят этого явления, отказываются от него, Он не позволяет уйти с пустыми руками. Он говорит им: «Попробуйте! Я прошу вас: сделайте шаг вперед! Я не позволю вам уйти с пустыми руками!» Если кто-то говорит: «Я не хочу этого явления», Нитьянанда Прабху не позволит ему. Он скажет ему: «Нет, ты должен хотеть, ты обязан. Я прошу тебя, умоляю: попробуй! И тогда ты сумеешь понять, почувствовать ценность этого явления».

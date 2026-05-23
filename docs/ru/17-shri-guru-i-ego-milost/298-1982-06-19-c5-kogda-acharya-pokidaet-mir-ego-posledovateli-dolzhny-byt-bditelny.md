@@ -1,5 +1,5 @@
 ---
-slug: 298-1982-06-19-c5-kogda-acharya-pokidaet-mir-ego-posledovateli-dolzhny-byt-bditelny
+slug: 1982-06-19-c5_kogda_acharya_pokidaet_mir_ego_posledovateli_dolzhny_byt_bditelny
 record_id: 1982.06.19.C5
 title: Когда ачарья покидает мир, его последователи должны быть бдительны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     быть бдительны
   index: "298"
   filename: 298-1982-06-19-c5-kogda-acharya-pokidaet-mir-ego-posledovateli-dolzhny-byt-bditelny.md
+  slug: 298-1982-06-19-c5-kogda-acharya-pokidaet-mir-ego-posledovateli-dolzhny-byt-bditelny
 ---
 
 **Преданный:** Прабхупад также говорил: после того как *Ачарья* покидает планету, мир, то начинается хаос.

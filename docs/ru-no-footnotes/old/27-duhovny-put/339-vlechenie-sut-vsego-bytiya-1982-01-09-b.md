@@ -1,5 +1,5 @@
 ---
-slug: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b
+slug: 1982-01-09-b_vlechenie_sut_vsego_bytiya
 record_id: 1982.01.09.B
 title: Влечение – суть всего бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 339. Влечение – суть всего бытия. 1982.01.09.B
   index: "339"
   filename: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b.md
+  slug: 339-vlechenie-sut-vsego-bytiya-1982-01-09-b
 ---
 
 *#00:00:10#*

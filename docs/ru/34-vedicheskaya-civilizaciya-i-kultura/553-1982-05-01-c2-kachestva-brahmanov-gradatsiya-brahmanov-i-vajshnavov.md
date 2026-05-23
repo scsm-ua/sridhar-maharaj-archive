@@ -1,5 +1,5 @@
 ---
-slug: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov
+slug: 1982-05-01-c2_kachestva_brahmanov_gradatsiya_brahmanov_i_vayshnavov
 record_id: 1982.05.01.C2
 title: Качества брахманов. Градация брахманов и вайшнавов.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-  - title: «Махабхарата», Ади-парва
-    slug: mahabharata-adi-parva
   - title: «Махабхарата», Ади-парва 174
     slug: mahabharata-adi-parva-174
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 553. 1982.05.01.C2. Качества брахманов. Градация брахманов и вайшнавов
   index: "553"
   filename: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov.md
+  slug: 553-1982-05-01-c2-kachestva-brahmanov-gradatsiya-brahmanov-i-vajshnavov
 ---
 
 *Брахманический* подход к Истине — явление более высокого порядка. Доллары и дипломатия могут быть использованы для достижения цели, но более высоким фундаментом должен быть *брахманизм*. Необходимо полагаться на характер, на реализацию, осознание, на полноту — на все эти явления, и тогда это явление сумеет утвердиться над остальными теологическими концепциями. Существуют в этом мире многочисленные теологические представления, и мы должны иметь с ними дело. Подобная пропаганда не может быть куплена лишь деньгами и внешней пышностью, роскошью.

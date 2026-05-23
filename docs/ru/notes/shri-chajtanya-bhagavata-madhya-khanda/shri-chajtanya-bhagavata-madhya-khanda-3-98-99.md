@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-madhya-khanda-3-98-99
 refs:
   - ../../_full/1982/01/1982.01.13.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 3.98–99
     slug: shri-chajtanya-bhagavata-madhya-khanda-3-98-99
 ---

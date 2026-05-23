@@ -1,5 +1,5 @@
 ---
-slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
+slug: 1981-08-30-a2_o_slozhnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy
 record_id: 1981.08.30.A2
 title: О сложности понимания гуру-таттвы, шива-таттвы и дхама-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     дхама-таттвы
   index: "694"
   filename: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy.md
+  slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
 ---
 
 **Преданный:** Я слышал вчера от Венкатты, что вы сказали: следующие реалии в вайшнавской философии трудно понять: *гуру-таттву*, *нама-таттву*, *дхама-таттву*, *шива-таттву*, *джива-таттву*.

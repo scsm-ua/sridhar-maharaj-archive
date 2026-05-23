@@ -1,5 +1,5 @@
 ---
-slug: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi
+slug: 1983-02-27-a-b1_milost_vayshnavov_vedet_v_izmerenie_prevoshodyashchee_mir_dushi
 record_id: 1983.02.27.A.B1
 title: Милость вайшнавов ведет в измерение, превосходящее мир души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,12 +25,8 @@ tags:
     slug: pratyaksha-paroksha-aparoksha-adhokshad
   - title: ступать по земле духовного мира
     slug: stupat-po-zemle-duhovnogo-mira
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.1.4
     slug: shrimad-bhagavatam-10-1-4
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
 links:
@@ -45,6 +41,7 @@ legacy:
     мир души
   index: "047"
   filename: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.md
+  slug: 047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi
 ---
 
 Рамакришна присутствовал на спектакле, он был очень очарован. Одна юная проститутка игра роль Шри Чайтаньи. Рамакришна был очень впечатлен, настолько, что на следующий день он нанес ей визит в ее собственным доме: «О, ты мне доставила огромную радость. Я очень впечатлен твоей игрой. Я хотел с тобой встретиться». Таким образом. Мы должны пытаться не искать пищу для ума или чувств, но пищу для души, мы должны стремиться к ней. Пища для души.

@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-10-87-1
 refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/154-1983-05-24-b1-gospod-narasimhadev.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.87.1
     slug: shrimad-bhagavatam-10-87-1
 ---

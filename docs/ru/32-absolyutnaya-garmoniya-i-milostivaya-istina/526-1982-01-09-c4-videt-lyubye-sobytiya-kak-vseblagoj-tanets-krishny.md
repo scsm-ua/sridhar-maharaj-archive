@@ -1,5 +1,5 @@
 ---
-slug: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny
+slug: 1982-01-09-c4_videt_lyubye_sobytiya_kak_vseblagoy_tanets_krishny
 record_id: 1982.01.09.C4
 title: Видеть любые события как всеблагой танец Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 526. 1982.01.09.C4. Видеть любые события как всеблагой танец Кришны
   index: "526"
   filename: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny.md
+  slug: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny
 ---
 
     гауранга сундара вара

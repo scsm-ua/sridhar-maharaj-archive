@@ -1,5 +1,5 @@
 ---
-slug: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode
+slug: 1981-11-12-a2-1_molitva_madhavendry_puri_prinyat_pribezhishche_v_gospode
 record_id: 1981.11.12.A2.1
 title: Молитва Мадхавендры Пури. Принять прибежище в Господе.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
     slug: shri-chajtanya-charitamrita-madhya-lila-22-16
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35
     slug: bhakti-rasamrita-sindhu-3-2-35
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 824. 1981.11.12.A2.1. Молитва Мадхавендры Пури. Принять прибежище в Господе
   index: "824"
   filename: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode.md
+  slug: 824-1981-11-12-a2-1-molitva-madhavendry-puri-prinyat-pribezhishhe-v-gospode
 ---
 
     [ка̄ма̄дӣна̄м̇ кати на катидха̄ па̄лита̄ дурнидеш́а̄с

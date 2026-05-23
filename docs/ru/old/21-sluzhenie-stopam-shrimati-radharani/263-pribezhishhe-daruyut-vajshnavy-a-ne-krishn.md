@@ -1,5 +1,5 @@
 ---
-slug: 263-pribezhishhe-daruyut-vajshnavy-a-ne-krishn
+slug: 1983-05-11-a_pribezhishche_daruyut_vayshnavy_a_ne_krishna
 record_id: 1983.05.11.A
 title: Прибежище даруют вайшнавы, а не Кришна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 263. Прибежище даруют вайшнавы, а не Кришна. 1983.05.11.A
   index: "263"
   filename: 263-pribezhishhe-daruyut-vajshnavy-a-ne-krishn.md
+  slug: 263-pribezhishhe-daruyut-vajshnavy-a-ne-krishn
 ---
 
 *#00:00:00#*

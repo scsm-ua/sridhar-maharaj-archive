@@ -1,5 +1,5 @@
 ---
-slug: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya
+slug: 1982-05-06-a6_tsel_dikshi_i_ognennoy_yagi_ukrepit_veru_v_svyatoe_imya
 record_id: 1982.05.06.A6
 title: Цель дикши и огненной ягьи – укрепить веру в Святое Имя
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 328. 1982.05.06.A6. Цель дикши и огненной ягьи – укрепить веру в Святое Имя
   index: "328"
   filename: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya.md
+  slug: 328-1982-05-06-a6-tsel-dikshi-i-ognennoj-yagi-ukrepit-veru-v-svyatoe-imya
 ---
 
 **Преданный:** Он [Шрила Бхактиведанта Свами Прабхупада] также проводил *агни-хотру* — *ягью*, для *Харинама*. Но обычно здесь, когда дают людям *Харинам*, то огненная *ягья* не проводится. Лишь в случае, когда дают *Гаятри*.

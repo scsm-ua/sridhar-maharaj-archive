@@ -1,5 +1,5 @@
 ---
-slug: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij
+slug: 1983-04-25-a2_o_chtenii_sokrovennyh_pisaniy
 record_id: 1983.04.25.A2
 title: О чтении сокровенных Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 870. 1983.04.25.A2. О чтении сокровенных Писаний
   index: "870"
   filename: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij.md
+  slug: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
 ---

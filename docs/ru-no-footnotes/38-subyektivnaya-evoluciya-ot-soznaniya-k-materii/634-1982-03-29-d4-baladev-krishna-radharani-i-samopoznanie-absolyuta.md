@@ -1,5 +1,5 @@
 ---
-slug: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta
+slug: 1982-03-29-d4_baladev_krishna_radharani_i_samopoznanie_absolyuta
 record_id: 1982.03.29.D4
 title: Баладев, Кришна, Радхарани и самопознание Абсолюта
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 634. 1982.03.29.D4. Баладев, Кришна, Радхарани и самопознание Абсолюта
   index: "634"
   filename: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta.md
+  slug: 634-1982-03-29-d4-baladev-krishna-radharani-i-samopoznanie-absolyuta
 ---
 
 **Пхулангана Деви Даси:** Я читала в *шастре* о том, что Бог не знает Себя.

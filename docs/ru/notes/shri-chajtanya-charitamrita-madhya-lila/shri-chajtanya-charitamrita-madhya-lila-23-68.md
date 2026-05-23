@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-23-68
 refs:
   - ../../_full/1983/08/1983.08.20.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.83
-    slug: shri-chajtanya-charitamrita-adi-lila-4-83
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.83
+    slug: shri-chajtanya-charitamrita-adi-lila-4-83
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.68
     slug: shri-chajtanya-charitamrita-madhya-lila-23-68
 ---

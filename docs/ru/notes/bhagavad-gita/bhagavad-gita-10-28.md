@@ -5,13 +5,14 @@ refs:
   - ../../_full/1981/11/1981.11.05.A.B.C.md
   - ../../_full/1981/12/1981.12.19.A.md
   - ../../_full/1982/12/1982.12.28.B.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
-  - title: Бхагавад-гита 10.28
-    slug: bhagavad-gita-10-28
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: Бхагавад-гита 10.28
+    slug: bhagavad-gita-10-28
   - title: Шримад-Бхагаватам 11.5.13
     slug: shrimad-bhagavatam-11-5-13
 ---

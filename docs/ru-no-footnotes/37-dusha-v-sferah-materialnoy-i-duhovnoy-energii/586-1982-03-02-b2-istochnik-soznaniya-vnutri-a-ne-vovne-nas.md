@@ -1,5 +1,5 @@
 ---
-slug: 586-1982-03-02-b2-istochnik-soznaniya-vnutri-a-ne-vovne-nas
+slug: 1982-03-02-b2_istochnik_soznaniya_vnutri_a_ne_vovne_nas
 record_id: 1982.03.02.B2
 title: Источник сознания внутри, а не вовне нас
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 586. 1982.03.02.B2. Источник сознания внутри, а не вовне нас
   index: "586"
   filename: 586-1982-03-02-b2-istochnik-soznaniya-vnutri-a-ne-vovne-nas.md
+  slug: 586-1982-03-02-b2-istochnik-soznaniya-vnutri-a-ne-vovne-nas
 ---
 
 **Преданный:** Как мы можем в качестве индивидуумов отличить ум от сознания?

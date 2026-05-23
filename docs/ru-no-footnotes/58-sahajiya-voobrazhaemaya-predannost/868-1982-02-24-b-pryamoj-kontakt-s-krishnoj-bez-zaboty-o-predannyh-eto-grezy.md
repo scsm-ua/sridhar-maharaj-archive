@@ -1,5 +1,5 @@
 ---
-slug: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy
+slug: 1982-02-24-b_pryamoy_kontakt_s_krishnoy_bez_zaboty_o_predannyh_eto_grezy
 record_id: 1982.02.24.B
 title: Прямой контакт с Кришной без заботы о преданных – это грезы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     грезы
   index: "868"
   filename: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy.md
+  slug: 868-1982-02-24-b-pryamoj-kontakt-s-krishnoj-bez-zaboty-o-predannyh-eto-grezy
 ---
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол]

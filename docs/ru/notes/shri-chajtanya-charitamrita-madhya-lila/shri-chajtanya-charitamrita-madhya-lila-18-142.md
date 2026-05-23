@@ -11,13 +11,14 @@ refs:
   - ../../_full/1983/10/1983.10.05.B.C.md
   - ../../_full/1983/11/1983.11.19.A.B.md
   - ../../_full/1983/11/1983.11.24.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
-    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
+    slug: shri-chajtanya-charitamrita-madhya-lila-18-142
   - title: Бхакти-расамрита-синдху 1.1.1
     slug: bhakti-rasamrita-sindhu-1-1-1
 ---

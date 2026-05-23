@@ -1,5 +1,5 @@
 ---
-slug: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami
+slug: 1982-11-07-c3_dva_varianta_gopala-mantry_ishvara_puri_i_sanatana_gosvami
 record_id: 1982.11.07.C3
 title: Два варианта гопала-мантры – Ишвара Пури и Санатана Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Госвами
   index: "495"
   filename: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami.md
+  slug: 495-1982-11-07-c3-dva-varianta-gopala-mantry-ishvara-puri-i-sanatana-gosvami
 ---
 
 **Преданный:** Вираха Пракаш Махарадж также говорит, что в «Брихад-Бхагаватамритам» Санатана Госвами упоминает *гопала-мантру*, а что это за мантра?

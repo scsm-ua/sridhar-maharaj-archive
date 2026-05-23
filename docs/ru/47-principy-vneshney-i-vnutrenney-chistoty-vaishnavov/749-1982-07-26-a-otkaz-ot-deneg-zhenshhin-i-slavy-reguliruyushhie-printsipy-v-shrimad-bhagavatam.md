@@ -1,5 +1,5 @@
 ---
-slug: 749-1982-07-26-a-otkaz-ot-deneg-zhenshhin-i-slavy-reguliruyushhie-printsipy-v-shrimad-bhagavatam
+slug: 1982-07-26-a_otkaz_ot_deneg_zhenshchin_i_slavy_reguliruyushchie_printsipy_v_shrimad_bhagavatam
 record_id: 1982.07.26.A
 title: Отказ от денег, женщин и славы. Регулирующие принципы в «Шримад Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     в «Шримад Бхагаватам»
   index: "749"
   filename: 749-1982-07-26-a-otkaz-ot-deneg-zhenshhin-i-slavy-reguliruyushhie-printsipy-v-shrimad-bhagavatam.md
+  slug: 749-1982-07-26-a-otkaz-ot-deneg-zhenshhin-i-slavy-reguliruyushhie-printsipy-v-shrimad-bhagavatam
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.6.35
     slug: shrimad-bhagavatam-1-6-35
 ---

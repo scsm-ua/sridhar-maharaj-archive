@@ -2,9 +2,10 @@
 slug: kalyana-kalpataru-4
 refs:
   - ../../_full/1982/10/1982.10.22.A.B.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 4
     slug: kalyana-kalpataru-4
 ---

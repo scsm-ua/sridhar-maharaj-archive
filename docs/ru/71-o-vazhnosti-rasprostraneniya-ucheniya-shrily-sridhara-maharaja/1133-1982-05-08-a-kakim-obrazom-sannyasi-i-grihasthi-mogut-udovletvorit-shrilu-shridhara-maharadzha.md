@@ -1,5 +1,5 @@
 ---
-slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
+slug: 1982-05-08-a_kakim_obrazom_sannyasi_i_grihasthi_mogut_udovletvorit_shrilu_shridhara_maharadzha
 record_id: 1982.05.08.A
 title: Каким образом санньяси и грихастхи могут удовлетворить Шрилу Шридхара
   Махараджа?
@@ -25,13 +25,10 @@ legacy:
     удовлетворить Шрилу Шридхара Махараджа?
   index: "1133"
   filename: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha.md
+  slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
   - title: Шри Лалита-аштака 7
     slug: shri-lalita-ashtaka-7
 ---

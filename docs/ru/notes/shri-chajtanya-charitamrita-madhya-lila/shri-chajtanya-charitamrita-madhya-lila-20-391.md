@@ -4,9 +4,10 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily.md
   - ../../13-lila-igra-chudesnogo-absolyuta/194-1982-05-14-b2-vechnaya-priroda-tsiklichnyj-harakter-i-odnovremennoe-sosushhestvovanie-v-lile.md
   - ../../_full/1983/01/1983.01.30.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.391
     slug: shri-chajtanya-charitamrita-madhya-lila-20-391
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
+slug: 1981-03-05-a5-b1_kommentariy_na_istoriyu_o_padenii_dzhaya_i_vidzhaya_s_vaykunthi
 record_id: 1981.03.05.A5.B1
 title: Комментарий на историю о падении Джая и Виджая с Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Вайкунтхи
   index: "192"
   filename: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi.md
+  slug: 192-1981-03-05-a5-b1-kommentarij-na-istoriyu-o-padenii-dzhaya-i-vidzhaya-s-vajkunthi
 ---
 
 **Госвами Махарадж:** В своей *бхашье* (комментарии) Прабхупада цитирует Парашару Муни, говорящего с Майтреей: «Не думай, что Джая и Виджая в каждом тысячелетии, эпоху, *югу* падают из Вайкунтхи и становятся *асурами*, демонами». Мы не должны думать так. Мой вопрос таков: возможно ли для *ваикунтха-баси* (или обитателей Вайкунтхи) упасть из Вайкунтхи в этот материальный, оскверненный мир? Это необычно, нетипично.

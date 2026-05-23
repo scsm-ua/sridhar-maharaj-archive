@@ -1,5 +1,5 @@
 ---
-slug: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved
+slug: 1982-07-09-b2_poznanie_krishny_sut_vseh_ved
 record_id: 1982.07.09.B2
 title: Познание Кришны — суть всех Вед
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 017. 1982.07.09.B2 Познание Кришны — суть всех Вед
   index: "017"
   filename: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved.md
+  slug: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.15
     slug: bhagavad-gita-15-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
   - title: Шримад-Бхагаватам 11.20.30

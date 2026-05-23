@@ -7,9 +7,10 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
   - ../../_full/1982/03/1982.03.25.A1.md
   - ../../_full/1983/02/1983.02.11.md
-tags:
+scriptures:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
+verses:
   - title: Шри Шикшаштакам 4
     slug: shri-shikshashtakam-4
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
+slug: 1982-05-06-a3_molitva_chistogo_predannogo
 record_id: 1982.05.06.A3
 title: Молитва чистого преданного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
-  - title: Брихад Бхагаватамрита
-    slug: brihad-bhagavatamrita
   - title: Брихад Бхагаватамрита 1.1.9
     slug: brihad-bhagavatamrita-1-1-9
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 774. 1982.05.06.A3. Молитва чистого преданного
   index: "774"
   filename: 774-1982-05-06-a3-molitva-chistogo-predannogo.md
+  slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
 ---
 
     пашу-пакши хойе тхаки сварге ба ниройе

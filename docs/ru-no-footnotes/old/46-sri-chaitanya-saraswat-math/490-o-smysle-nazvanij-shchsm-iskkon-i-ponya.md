@@ -1,5 +1,5 @@
 ---
-slug: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya
+slug: 1982-01-27-a2_o_smysle_nazvaniy_shchsm_iskkon_i_ponyatii_soznanie_krishny
 record_id: 1982.01.27.A2
 title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     1982.01.27.A2
   index: "490"
   filename: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya.md
+  slug: 490-o-smysle-nazvanij-shchsm-iskkon-i-ponya
 ---
 
 **Ученик:** Махарадж, вы назвали свой Матх «Шри Чайтанья Сарасват Матх». Каков смысл этого названия?

@@ -1,5 +1,5 @@
 ---
-slug: 1080-1982-06-19-c3-bhaktivedanta-svami-o-sakralnom-smysle-slova-iskkon
+slug: 1982-06-19-c3_bhaktivedanta_svami_o_sakralnom_smysle_slova_iskkon
 record_id: 1982.06.19.C3
 title: Бхактиведанта Свами о сакральном смысле слова «ИСККОН»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1080. 1982.06.19.C3. Бхактиведанта Свами о сакральном смысле слова «ИСККОН»
   index: "1080"
   filename: 1080-1982-06-19-c3-bhaktivedanta-svami-o-sakralnom-smysle-slova-iskkon.md
+  slug: 1080-1982-06-19-c3-bhaktivedanta-svami-o-sakralnom-smysle-slova-iskkon
 tags:
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno
+slug: 1983-11-02-a3_ispolzovanie_fisgarmonii_nezhelatelno
 record_id: 1983.11.02.A3
 title: Использование фисгармонии нежелательно
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1093. 1983.11.02.A3. Использование фисгармонии нежелательно
   index: "1093"
   filename: 1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno.md
+  slug: 1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno
 ---
 
 **Преданный:** Махарадж! Может быть, это не самый важный вопрос, но, когда мы поем *бхаджаны*, использование гармони, фисгармонии…

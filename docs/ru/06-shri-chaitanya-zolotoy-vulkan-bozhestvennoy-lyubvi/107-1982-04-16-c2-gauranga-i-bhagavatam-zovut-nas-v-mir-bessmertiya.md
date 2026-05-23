@@ -1,5 +1,5 @@
 ---
-slug: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya
+slug: 1982-04-16-c2_gauranga_i_bhagavatam_zovut_nas_v_mir_bessmertiya
 record_id: 1982.04.16.C2
 title: Гауранга и «Бхагаватам» зовут нас в мир бессмертия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
   - title: Шримад-Бхагаватам 12.5.2
@@ -32,6 +30,7 @@ legacy:
   title: 107. 1982.04.16.C2. Гауранга и «Бхагаватам» зовут нас в мир бессмертия
   index: "107"
   filename: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya.md
+  slug: 107-1982-04-16-c2-gauranga-i-bhagavatam-zovut-nas-v-mir-bessmertiya
 ---
 
 **Преданный:** Махарадж!

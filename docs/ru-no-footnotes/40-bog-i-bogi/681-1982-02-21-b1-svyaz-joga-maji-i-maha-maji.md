@@ -1,5 +1,5 @@
 ---
-slug: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji
+slug: 1982-02-21-b1_svyaz_yoga-mayi_i_maha-mayi
 record_id: 1982.02.21.B1
 title: Связь йога-майи и маха-майи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 681. 1982.02.21.B1. Связь йога-майи и маха-майи
   index: "681"
   filename: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji.md
+  slug: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji
 ---
 
 *Мгновения Прекрасной Реальности (часть 2.1)*

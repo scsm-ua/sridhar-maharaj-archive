@@ -5,9 +5,10 @@ refs:
   - ../../_full/1982/10/1982.10.23.A.md
   - ../../_full/1983/10/1983.10.20.A.B.md
   - ../../_full/1983/11/1983.11.22.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.25
     slug: bhagavad-gita-3-25
 ---

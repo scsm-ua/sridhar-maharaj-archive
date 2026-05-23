@@ -1,5 +1,5 @@
 ---
-slug: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni
+slug: 1982-02-21-b_ob_opasnosti_voobrazheniya_pri_vospevanii_svyatogo_imeni
 record_id: 1982.02.21.B
 title: Об опасности воображения при воспевании Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 347. 1982.02.21.B. Об опасности воображения при воспевании Святого Имени
   index: "347"
   filename: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni.md
+  slug: 347-1982-02-21-b-ob-opasnosti-voobrazheniya-pri-vospevanii-svyatogo-imeni
 ---
 
 *«Онтология Прекрасной Реальности» (часть 6.6)*

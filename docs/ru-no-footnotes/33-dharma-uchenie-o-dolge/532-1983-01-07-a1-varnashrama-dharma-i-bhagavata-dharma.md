@@ -1,5 +1,5 @@
 ---
-slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
+slug: 1983-01-07-a1_varnashrama-dharma_i_bhagavata-dharma
 record_id: 1983.01.07.A1
 title: Варнашрама-дхарма и Бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 532. 1983.01.07.A1. Варнашрама-дхарма и Бхагавата-дхарма
   index: "532"
   filename: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma.md
+  slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
 ---
 
 Это суровая истина, горькая истина. Мы должны встретиться с ней. Мы должны решить проблему в практическом смысле. Религия — это нечто практическое, практическая жизнь.

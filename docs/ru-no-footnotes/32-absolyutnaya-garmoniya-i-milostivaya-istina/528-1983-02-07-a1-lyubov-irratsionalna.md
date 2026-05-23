@@ -1,5 +1,5 @@
 ---
-slug: 528-1983-02-07-a1-lyubov-irratsionalna
+slug: 1983-02-07-a1_lyubov_irratsionalna
 record_id: 1983.02.07.A1
 title: Любовь иррациональна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 528. 1983.02.07.A1. Любовь иррациональна
   index: "528"
   filename: 528-1983-02-07-a1-lyubov-irratsionalna.md
+  slug: 528-1983-02-07-a1-lyubov-irratsionalna
 ---
 
 **Преданный:** Махарадж, материальный мир рационален?

@@ -3,9 +3,10 @@ slug: bhakti-anukula-matra-4-7
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/429-1982-05-01-b2-istinnaya-krasota-eto-to-chto-privlekatelno-dlya-krishny.md
   - ../../_full/1982/05/1982.05.01.A.B1.md
-tags:
+scriptures:
   - title: Бхакти-анукула-матра
     slug: bhakti-anukula-matra
+verses:
   - title: Бхакти-анукула-матра 4.7
     slug: bhakti-anukula-matra-4-7
 ---

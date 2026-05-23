@@ -1,5 +1,5 @@
 ---
-slug: 626-1982-01-20-b1-obekt-i-ego-potentsial
+slug: 1982-01-20-b1_obekt_i_ego_potentsial
 record_id: 1982.01.20.B1
 title: Объект и его потенциал
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 626. 1982.01.20.B1. Объект и его потенциал
   index: "626"
   filename: 626-1982-01-20-b1-obekt-i-ego-potentsial.md
+  slug: 626-1982-01-20-b1-obekt-i-ego-potentsial
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65

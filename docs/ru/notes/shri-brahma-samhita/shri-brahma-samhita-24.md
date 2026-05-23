@@ -2,9 +2,10 @@
 slug: shri-brahma-samhita-24
 refs:
   - ../../_full/1982/06/1982.06.10.A.B.C.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 24
     slug: shri-brahma-samhita-24
 ---

@@ -4,9 +4,10 @@ refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
   - ../../_full/1982/03/1982.03.02.A.B1.md
   - ../../_full/1982/11/1982.11.20.A.md
-tags:
+scriptures:
   - title: Наваграха стотра
     slug: navagraha-stotra
+verses:
   - title: Наваграха стотра 7
     slug: navagraha-stotra-7
 ---

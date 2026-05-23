@@ -1,5 +1,5 @@
 ---
-slug: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani
+slug: 1982-07-02-a1_na_kakoy_stadii_uchenik_mozhet_videt_svoego_guru_v_obraze_sakhi_radharani
 record_id: 1982.07.02.A1
 title: На какой стадии ученик может видеть своего Гуру в образе сакхи Радхарани?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
     slug: shri-gurvashtaka-6
   - title: Шри Гурваштака 1
     slug: shri-gurvashtaka-1
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху 1.3.25–26
@@ -45,6 +39,7 @@ legacy:
     образе сакхи Радхарани?
   index: "315"
   filename: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani.md
+  slug: 315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani
 ---
 
 Если он [Гуру] захочет переместить меня, изменить мою позицию, то я согласен, потому что он дал мне указание работать в этой связи, и я работаю. Если он захочет поменять мое положение, то я готов к этому также. Это ясное умонастроение служения мы будем культивировать, разрабатывать, всегда действовать от их имени. Не от собственного имени, не принимать ответственность на себя — ответственность на них. С чистыми руками получать, принимать все с чистыми руками. Принимать все: *пратиштху* (славу), *канаку* (деньги) и прочее ради служения, с чистыми руками.

@@ -1,5 +1,5 @@
 ---
-slug: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev
+slug: 1982-04-16-b5_sinteticheskiy_i_analiticheskiy_metody_v_nasledii_acharev
 record_id: 1982.04.16.B5
 title: Синтетический и аналитический методы в наследии ачарьев
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1011. 1982.04.16.B5. Синтетический и аналитический методы в наследии ачарьев
   index: "1011"
   filename: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev.md
+  slug: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?

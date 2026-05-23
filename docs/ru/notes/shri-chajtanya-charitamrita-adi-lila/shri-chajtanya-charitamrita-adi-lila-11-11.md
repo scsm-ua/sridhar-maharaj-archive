@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-11-11
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/941-1982-06-14-a4-lichnost-i-miloserdie-virachandry-syna-nityanandy.md
   - ../../_full/1982/06/1982.06.14.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 11.11
     slug: shri-chajtanya-charitamrita-adi-lila-11-11
 ---

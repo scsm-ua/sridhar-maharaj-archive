@@ -1,5 +1,5 @@
 ---
-slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
+slug: 1982-03-02-a-b1-b3-b5_obyasnenie_ponyatiy_chid-abhas_i_subektivnaya_evolyutsiya
 record_id: 1982.03.02.A.B1.B3.B5
 title: Объяснение понятий «чид-абхас» и «субъективная эволюция»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     «субъективная эволюция»
   index: "616"
   filename: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
+  slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.47
     slug: shri-chajtanya-charitamrita-madhya-lila-9-47
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.49
     slug: shri-chajtanya-charitamrita-madhya-lila-9-49
-  - title: Наваграха стотра
-    slug: navagraha-stotra
   - title: Наваграха стотра 7
     slug: navagraha-stotra-7
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
   - title: Бхагавад-гита 15.15

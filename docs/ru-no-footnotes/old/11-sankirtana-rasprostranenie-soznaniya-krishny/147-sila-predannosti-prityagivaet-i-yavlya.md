@@ -1,5 +1,5 @@
 ---
-slug: 147-sila-predannosti-prityagivaet-i-yavlya
+slug: 1981-08-14-a2_sila_predannosti_prityagivaet_i_yavlyaet_gospoda
 record_id: 1981.08.14.A2
 title: Сила преданности притягивает и являет Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 147. Сила преданности притягивает и являет Господа. 1981.08.14.A2
   index: "147"
   filename: 147-sila-predannosti-prityagivaet-i-yavlya.md
+  slug: 147-sila-predannosti-prityagivaet-i-yavlya
 ---
 
 Есть такое произведение «Шишупала-вада» Баладев Видьябхушана цитировал в одном из своих стихов комментариев к Веданте, стихов этого поэта, автора «Шишупала-вады», чтобы прояснить положение Брахмана, вот так это звучит:\

@@ -1,5 +1,5 @@
 ---
-slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
+slug: 1982-06-08-b4_raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii
 record_id: 1982.06.08.B4
 title: Раскрытие возвышенных тем должно происходить в должном умонастроении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     должном умонастроении
   index: "1004"
   filename: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii.md
+  slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
 tags:
-  - title: Радха-раса-судха-нидхи
-    slug: radha-rasa-sudha-nidhi
   - title: Радха-раса-судха-нидхи 1
     slug: radha-rasa-sudha-nidhi-1
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
 ---

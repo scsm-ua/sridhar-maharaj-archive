@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/05/1982.05.09.C.md
   - ../../_full/1982/05/1982.05.11.A.B1.md
   - ../../_full/1983/11/1983.11.22.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.13
     slug: bhagavad-gita-3-13
 ---

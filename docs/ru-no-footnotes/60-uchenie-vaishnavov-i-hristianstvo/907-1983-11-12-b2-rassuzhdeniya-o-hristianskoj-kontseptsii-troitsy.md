@@ -1,5 +1,5 @@
 ---
-slug: 907-1983-11-12-b2-rassuzhdeniya-o-hristianskoj-kontseptsii-troitsy
+slug: 1983-11-12-b2_rassuzhdeniya_o_hristianskoy_kontseptsii_troitsy
 record_id: 1983.11.12.B2
 title: Рассуждения о христианской концепции Троицы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 907. 1983.11.12.B2. Рассуждения о христианской концепции Троицы
   index: "907"
   filename: 907-1983-11-12-b2-rassuzhdeniya-o-hristianskoj-kontseptsii-troitsy.md
+  slug: 907-1983-11-12-b2-rassuzhdeniya-o-hristianskoj-kontseptsii-troitsy
 ---
 
 **Преданный:** Он спрашивает: «Существуют ли взаимоотношения между тем, что вы только объяснили (*гьяна*—*бала*—*крия ча*) и христианской троицей: Бог Отец, Бог Сын и Бог дух Святой?»

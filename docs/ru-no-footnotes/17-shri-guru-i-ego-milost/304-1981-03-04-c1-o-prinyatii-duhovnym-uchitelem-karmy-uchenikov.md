@@ -1,5 +1,5 @@
 ---
-slug: 304-1981-03-04-c1-o-prinyatii-duhovnym-uchitelem-karmy-uchenikov
+slug: 1981-03-04-c1_o_prinyatii_duhovnym_uchitelem_karmy_uchenikov
 record_id: 1981.03.04.C1
 title: О принятии духовным учителем кармы учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 304. 1981.03.04.C1. О принятии духовным учителем кармы учеников
   index: "304"
   filename: 304-1981-03-04-c1-o-prinyatii-duhovnym-uchitelem-karmy-uchenikov.md
+  slug: 304-1981-03-04-c1-o-prinyatii-duhovnym-uchitelem-karmy-uchenikov
 ---
 
 **Преданный:** Могу я вас спросить?

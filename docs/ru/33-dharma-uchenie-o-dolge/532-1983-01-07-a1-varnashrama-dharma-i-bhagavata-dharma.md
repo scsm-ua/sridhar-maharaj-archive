@@ -1,5 +1,5 @@
 ---
-slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
+slug: 1983-01-07-a1_varnashrama-dharma_i_bhagavata-dharma
 record_id: 1983.01.07.A1
 title: Варнашрама-дхарма и Бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,16 @@ legacy:
   title: 532. 1983.01.07.A1. Варнашрама-дхарма и Бхагавата-дхарма
   index: "532"
   filename: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma.md
+  slug: 532-1983-01-07-a1-varnashrama-dharma-i-bhagavata-dharma
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.13
     slug: bhagavad-gita-4-13
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
 ---

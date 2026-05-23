@@ -1,5 +1,5 @@
 ---
-slug: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu
+slug: 1983-11-24-a1_iskrennost_duh_sluzheniya_i_predannost_yavyat_nashu_vrozhdennuyu_prirodu
 record_id: 1983.11.24.A1
 title: Искренность, дух служения и преданность явят нашу врожденную природу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     врожденную природу
   index: "447"
   filename: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu.md
+  slug: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu
 ---
 
     муктир хитва̄нйатха̄-рӯпам̇

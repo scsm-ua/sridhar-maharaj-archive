@@ -2,9 +2,10 @@
 slug: kalyana-kalpataru-19-1
 refs:
   - ../../_full/1982/09/1982.09.06.B.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 19.1
     slug: kalyana-kalpataru-19-1
 ---

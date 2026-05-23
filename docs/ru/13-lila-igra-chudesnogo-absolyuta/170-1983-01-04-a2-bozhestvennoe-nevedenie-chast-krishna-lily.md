@@ -1,5 +1,5 @@
 ---
-slug: 170-1983-01-04-a2-bozhestvennoe-nevedenie-chast-krishna-lily
+slug: 1983-01-04-a2_bozhestvennoe_nevedenie_chast_krishna-lily
 record_id: 1983.01.04.A2
 title: Божественное неведение — часть Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 170. 1983.01.04.A2. Божественное неведение — часть Кришна-лилы
   index: "170"
   filename: 170-1983-01-04-a2-bozhestvennoe-nevedenie-chast-krishna-lily.md
+  slug: 170-1983-01-04-a2-bozhestvennoe-nevedenie-chast-krishna-lily
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна!

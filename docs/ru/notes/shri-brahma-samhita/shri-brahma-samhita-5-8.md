@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/08/1982.08.31.B.C.md
   - ../../_full/1982/10/1982.10.25.A.md
   - ../../_full/1983/02/1983.02.19.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.8
     slug: shri-brahma-samhita-5-8
 ---

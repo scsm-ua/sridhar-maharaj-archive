@@ -1,5 +1,5 @@
 ---
-slug: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon
+slug: 1983-11-04-a1_vayshnavy_podobny_metallu_pomeshchennomu_v_ogon
 record_id: 1983.11.04.A1
 title: Вайшнавы подобны металлу, помещенному в огонь
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 235. 1983.11.04.A1. Вайшнавы подобны металлу, помещенному в огонь
   index: "235"
   filename: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon.md
+  slug: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.32
     slug: shrimad-bhagavatam-7-5-32
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
     slug: shri-chajtanya-charitamrita-antya-lila-4-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам 11.29.34

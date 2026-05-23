@@ -1,5 +1,5 @@
 ---
-slug: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda
+slug: 1981-08-14-a2_besedy_predannyh_vlekut_i_yavlyayut_gospoda
 record_id: 1981.08.14.A2
 title: Беседы преданных влекут и являют Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 240. 1981.08.14.A2. Беседы преданных влекут и являют Господа
   index: "240"
   filename: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda.md
+  slug: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda
 ---
 
 Есть такое произведение — «Шишупала-вада». Баладева Видьябхушана цитировал один из стихов автора «Шишупала-вады» в своем комментарии к Веданте, чтобы прояснить положение *Брахмана*, Нараяны и так далее. Вот так это звучит:

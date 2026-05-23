@@ -3,9 +3,10 @@ slug: shri-upadeshamrita-3
 refs:
   - ../../_full/1982/12/1982.12.26.A.B.md
   - ../../_full/1982/12/1982.12.26.C.md
-tags:
+scriptures:
   - title: Шри Упадешамрита
     slug: shri-upadeshamrita
+verses:
   - title: Шри Упадешамрита 3
     slug: shri-upadeshamrita-3
 ---

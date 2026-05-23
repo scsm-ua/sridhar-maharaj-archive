@@ -1,5 +1,5 @@
 ---
-slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
+slug: 1982-01-20-b2_svyaz_s_krishnoy_istochnik_vseh_sovershenstv_stih_bilvamangala
 record_id: 1982.01.20.B2
 title: Связь с Кришной – источник всех совершенств. Стих Билвамангала.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Билвамангала
   index: "521"
   filename: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala.md
+  slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
 ---
 
 Холодно. То я чувствовал жару, теперь чувствую холод.

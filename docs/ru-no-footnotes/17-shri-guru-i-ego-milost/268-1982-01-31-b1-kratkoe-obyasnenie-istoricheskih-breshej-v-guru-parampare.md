@@ -1,5 +1,5 @@
 ---
-slug: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare
+slug: 1982-01-31-b1_kratkoe_obyasnenie_istoricheskih_breshey_v_guru-parampare
 record_id: 1982.01.31.B1
 title: Краткое объяснение исторических брешей в гуру-парампаре
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 268. 1982.01.31.B1. Краткое объяснение исторических брешей в гуру-парампаре
   index: "268"
   filename: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare.md
+  slug: 268-1982-01-31-b1-kratkoe-obyasnenie-istoricheskih-breshej-v-guru-parampare
 ---
 
 **Чидананда Прабху (Сиддханти Махарадж):** Махарадж, у меня есть вопрос, связанный с *шикша-гуру*.

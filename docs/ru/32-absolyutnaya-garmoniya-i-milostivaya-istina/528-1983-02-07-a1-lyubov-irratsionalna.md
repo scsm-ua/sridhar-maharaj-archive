@@ -1,5 +1,5 @@
 ---
-slug: 528-1983-02-07-a1-lyubov-irratsionalna
+slug: 1983-02-07-a1_lyubov_irratsionalna
 record_id: 1983.02.07.A1
 title: Любовь иррациональна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 528. 1983.02.07.A1. Любовь иррациональна
   index: "528"
   filename: 528-1983-02-07-a1-lyubov-irratsionalna.md
+  slug: 528-1983-02-07-a1-lyubov-irratsionalna
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 2.1.11
     slug: vedanta-sutra-2-1-11
 ---

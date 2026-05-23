@@ -1,5 +1,5 @@
 ---
-slug: 1079-1981-08-27-a1-1-predannost-dzhagadanandy-pandita-o-titulah-prabhupad-vishnupad-i-bhaktivinod
+slug: 1981-08-27-a1-1_predannost_dzhagadanandy_pandita_o_titulah_prabhupad_vishnupad_i_bhaktivinod
 record_id: 1981.08.27.A1.1
 title: Преданность Джагадананды Пандита. О титулах «Прабхупад», «Вишнупад» и
   «Бхактивинод».
@@ -25,9 +25,8 @@ legacy:
     «Прабхупад», «Вишнупад» и «Бхактивинод»
   index: "1079"
   filename: 1079-1981-08-27-a1-1-predannost-dzhagadanandy-pandita-o-titulah-prabhupad-vishnupad-i-bhaktivinod.md
+  slug: 1079-1981-08-27-a1-1-predannost-dzhagadanandy-pandita-o-titulah-prabhupad-vishnupad-i-bhaktivinod
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.39
     slug: shri-chajtanya-charitamrita-antya-lila-13-39
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.37

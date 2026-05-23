@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-1-218
 refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady.md
   - ../../_full/1973/03/1973.03.00.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.218
     slug: shri-chajtanya-charitamrita-madhya-lila-1-218
 ---

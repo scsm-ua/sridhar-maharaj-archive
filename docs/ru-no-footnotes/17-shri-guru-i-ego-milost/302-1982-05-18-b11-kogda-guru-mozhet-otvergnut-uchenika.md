@@ -1,5 +1,5 @@
 ---
-slug: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika
+slug: 1982-05-18-b11_kogda_guru_mozhet_otvergnut_uchenika
 record_id: 1982.05.18.B11
 title: Когда гуру может отвергнуть ученика?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 302. 1982.05.18.B11. Когда гуру может отвергнуть ученика?
   index: "302"
   filename: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika.md
+  slug: 302-1982-05-18-b11-kogda-guru-mozhet-otvergnut-uchenika
 ---
 
 Который час?

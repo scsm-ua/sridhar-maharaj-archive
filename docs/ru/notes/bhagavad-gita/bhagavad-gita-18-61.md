@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/09/1982.09.06.B.md
   - ../../_full/1982/12/1982.12.22.A.md
   - ../../_full/1982/12/1982.12.26.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.61
     slug: bhagavad-gita-18-61
 ---

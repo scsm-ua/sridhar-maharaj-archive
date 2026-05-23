@@ -1,5 +1,5 @@
 ---
-slug: 055_1983-02-06-b_sridharmj_ontologiya_lubvi
+slug: 1983-02-06-b_ontologiya_lyubvi
 record_id: 1983.02.06.B
 title: Онтология любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,16 @@ legacy:
   title: 055. 1983.02.06.B Онтология любви
   index: "055"
   filename: 055_1983-02-06-b_sridharmj_ontologiya_lubvi.md
+  slug: 055_1983-02-06-b_sridharmj_ontologiya_lubvi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 1.18.6
     slug: kalyana-kalpataru-1-18-6
   - title: Кальяна-калпатару 1.19.1

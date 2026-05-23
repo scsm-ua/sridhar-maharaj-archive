@@ -2,17 +2,18 @@
 slug: shrimad-bhagavatam-11-5-31
 refs:
   - ../../_full/1981/11/1981.11.10.B1.2.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.51
-    slug: shri-chajtanya-charitamrita-adi-lila-3-51
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.102
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-102
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.51
+    slug: shri-chajtanya-charitamrita-adi-lila-3-51
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.102
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-102
   - title: Шримад-Бхагаватам 11.5.31
     slug: shrimad-bhagavatam-11-5-31
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu
+slug: 1981-08-22-c2_bez_rukovodstva_vayshnava_dazhe_izuchenie_pisaniy_ne_yavlyaetsya_predannostyu
 record_id: 1981.08.22.C2
 title: Без руководства вайшнава даже изучение Писаний не является преданностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     является преданностью
   index: "1021"
   filename: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu.md
+  slug: 1021-1981-08-22-c2-bez-rukovodstva-vajshnava-dazhe-izuchenie-pisanij-ne-yavlyaetsya-predannostyu
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
 ---

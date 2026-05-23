@@ -36,13 +36,14 @@ refs:
   - ../../_full/1983/11/1983.11.11.A.B1.md
   - ../../_full/1983/11/1983.11.11.B2.C.md
   - ../../_full/1983/12/1983.12.09.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-65
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
 ---

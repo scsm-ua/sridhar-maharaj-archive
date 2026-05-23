@@ -5,9 +5,10 @@ refs:
   - ../../54-smirenie-i-terpenie/835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
   - ../../_full/1981/08/1981.08.28.C.md
   - ../../_full/1982/01/1982.01.26.md
-tags:
+scriptures:
   - title: Вайшнава ке
     slug: vajshnava-ke
+verses:
   - title: Вайшнава ке 4
     slug: vajshnava-ke-4
 ---

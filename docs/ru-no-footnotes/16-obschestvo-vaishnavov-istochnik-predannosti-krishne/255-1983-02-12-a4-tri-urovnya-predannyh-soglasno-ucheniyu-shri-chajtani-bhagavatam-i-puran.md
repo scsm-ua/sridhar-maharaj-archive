@@ -1,5 +1,5 @@
 ---
-slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
+slug: 1983-02-12-a4_tri_urovnya_predannyh_soglasno_ucheniyu_shri_chaytani_bhagavatam_i_puran
 record_id: 1983.02.12.A4
 title: Три уровня преданных согласно учению Шри Чайтаньи, Бхагаватам и Пуран
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхагаватам и Пуран
   index: "255"
   filename: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran.md
+  slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
 ---
 
 **Преданный:** Я не совсем понимаю, почему Свами Махарадж дал два разных ответа на один и тот же вопрос. Не могли бы вы объяснить?

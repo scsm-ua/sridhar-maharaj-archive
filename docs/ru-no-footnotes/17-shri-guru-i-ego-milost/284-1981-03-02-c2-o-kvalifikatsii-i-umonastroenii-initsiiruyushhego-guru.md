@@ -1,5 +1,5 @@
 ---
-slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
+slug: 1981-03-02-c2_o_kvalifikatsii_i_umonastroenii_initsiiruyushchego_guru
 record_id: 1981.03.02.C2
 title: О квалификации и умонастроении инициирующего Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 284. 1981.03.02.C2. О квалификации и умонастроении инициирующего Гуру
   index: "284"
   filename: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru.md
+  slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
 ---
 
 **Госвами Махарадж:** Вы утверждаете, что можно быть Гуру, стоя здесь, на этой земле, а взор устремлен в сторону Вайкунтхи.

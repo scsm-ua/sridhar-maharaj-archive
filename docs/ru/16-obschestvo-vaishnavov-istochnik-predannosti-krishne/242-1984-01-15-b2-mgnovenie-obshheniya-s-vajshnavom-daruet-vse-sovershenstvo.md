@@ -1,5 +1,5 @@
 ---
-slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
+slug: 1984-01-15-b2_mgnovenie_obshcheniya_s_vayshnavom_daruet_vse_sovershenstvo
 record_id: 1984.01.15.B2
 title: «Мгновение общения с вайшнавом дарует все совершенство»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 links:
@@ -42,6 +34,7 @@ legacy:
   title: 242. 1984.01.15.B2. «Мгновение общения с вайшнавом дарует все совершенство»
   index: "242"
   filename: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo.md
+  slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
 ---
 
 **Преданный:** Махарадж, в *шастре* сказано, что одного мгновения общения с чистым преданным достаточно, чтобы достичь высочайшей стадии.

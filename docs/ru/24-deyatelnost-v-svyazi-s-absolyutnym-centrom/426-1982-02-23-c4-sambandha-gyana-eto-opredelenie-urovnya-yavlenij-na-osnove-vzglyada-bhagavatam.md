@@ -1,5 +1,5 @@
 ---
-slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
+slug: 1982-02-23-c4_sambandha-gyana_eto_opredelenie_urovnya_yavleniy_na_osnove_vzglyada_bhagavatam
 record_id: 1982.02.23.C4
 title: Самбандха-гьяна – это определение уровня явлений на основе взгляда «Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     основе взгляда «Бхагаватам»
   index: "426"
   filename: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam.md
+  slug: 426-1982-02-23-c4-sambandha-gyana-eto-opredelenie-urovnya-yavlenij-na-osnove-vzglyada-bhagavatam
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.1
     slug: shri-brahma-samhita-5-1
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1–1
     slug: sharanagati-1-1
   - title: Шаранагати 1–2
@@ -45,8 +40,6 @@ tags:
     slug: sharanagati-1-4
   - title: Шримад-Бхагаватам 7.5.32
     slug: shrimad-bhagavatam-7-5-32
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 ---

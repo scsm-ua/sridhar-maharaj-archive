@@ -1,5 +1,5 @@
 ---
-slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
+slug: 1983-11-19-a1-a3_istorii_iz_zhizni_i_poema_proslavlyayushchaya_gaurakishora_dasa_babadzhi
 record_id: 1983.11.19.A1.A3
 title: Истории из жизни и поэма, прославляющая Гауракишора Даса Бабаджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     Гауракишора Даса Бабаджи
   index: "961"
   filename: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi.md
+  slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
     slug: shri-chajtanya-charitamrita-madhya-lila-18-142
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.1
     slug: bhakti-rasamrita-sindhu-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -49,18 +42,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: Шри Шримад Гауракишора-намаскара Дашакам
-    slug: shri-shrimad-gaurakishora-namaskara-dashakam
   - title: Шри Шримад Гауракишора-намаскара Дашакам 1
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-1
   - title: Шри Шримад Гауракишора-намаскара Дашакам 3

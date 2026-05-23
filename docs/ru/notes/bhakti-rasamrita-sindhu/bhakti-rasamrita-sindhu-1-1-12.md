@@ -2,9 +2,10 @@
 slug: bhakti-rasamrita-sindhu-1-1-12
 refs:
   - ../../_full/1982/04/1982.04.24.A.B.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
 ---

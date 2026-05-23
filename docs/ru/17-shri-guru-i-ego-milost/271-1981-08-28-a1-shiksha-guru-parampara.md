@@ -1,5 +1,5 @@
 ---
-slug: 271-1981-08-28-a1-shiksha-guru-parampara
+slug: 1981-08-28-a1_shiksha-guru_parampara
 record_id: 1981.08.28.A1
 title: Шикша-гуру парампара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,14 @@ category:
 tags:
   - title: Гуру-парампара
     slug: guru-parampara
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.7
     slug: bhagavad-gita-4-7
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
   - title: Бхагавад-гита 4.4
     slug: bhagavad-gita-4-4
   - title: Бхагавад-гита 4.2
     slug: bhagavad-gita-4-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -37,8 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
@@ -54,6 +46,7 @@ legacy:
   title: 271. 1981.08.28.A1. Шикша-гуру парампара
   index: "271"
   filename: 271-1981-08-28-a1-shiksha-guru-parampara.md
+  slug: 271-1981-08-28-a1-shiksha-guru-parampara
 ---
 
 **Преданный:** Когда мы слушаем кассеты, беседы, посвященные *гуру-парампаре*…

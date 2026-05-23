@@ -1,5 +1,5 @@
 ---
-slug: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu
+slug: 1982-02-19-c8_pochemu_bali_maharadzh_otverg_svoego_guru_shukracharyu
 record_id: 1982.02.19.C8
 title: Почему Бали Махарадж отверг своего гуру Шукрачарью?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 301. 1982.02.19.C8. Почему Бали Махарадж отверг своего гуру Шукрачарью?
   index: "301"
   filename: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu.md
+  slug: 301-1982-02-19-c8-pochemu-bali-maharadzh-otverg-svoego-guru-shukracharyu
 ---
 
 ## Мгновения Прекрасной Реальности» (часть 8.8)

@@ -1,5 +1,5 @@
 ---
-slug: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe
+slug: 1982-11-02-b2_duhovnoe_tsarstvo_za_predelami_intellekta_istoriya_o_ramanudzhe_i_kureshe
 record_id: 1982.11.02.B2
 title: Духовное царство за пределами интеллекта. История о Раманудже и Куреше.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Раманудже и Куреше
   index: "929"
   filename: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe.md
+  slug: 929-1982-11-02-b2-duhovnoe-tsarstvo-za-predelami-intellekta-istoriya-o-ramanudzhe-i-kureshe
 ---
 
 **Шрила Шридхар Махарадж:** Кто-то из вас, может быть, хочет задать вопрос?

@@ -1,5 +1,5 @@
 ---
-slug: 477-1982-05-09-a3-radharani-predaetsya-obrazu-imeni-i-zvuku-flejty-krishny
+slug: 1982-05-09-a3_radharani_predaetsya_obrazu_imeni_i_zvuku_fleyty_krishny
 record_id: 1982.05.09.A3
 title: Радхарани предается Образу, Имени и звуку флейты Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 477. 1982.05.09.A3. Радхарани предается Образу, Имени и звуку флейты Кришны
   index: "477"
   filename: 477-1982-05-09-a3-radharani-predaetsya-obrazu-imeni-i-zvuku-flejty-krishny.md
+  slug: 477-1982-05-09-a3-radharani-predaetsya-obrazu-imeni-i-zvuku-flejty-krishny
 ---
 
 [**Гуру Махарадж** обращается к **Шрипаду Бхакти Виджаю Тиртхе Махараджу**]: Твой *даршан* Гаура-Гададхара: каково твое впечатление?

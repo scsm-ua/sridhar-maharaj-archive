@@ -1,5 +1,5 @@
 ---
-slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
+slug: 1983-11-04-b2-c1_bol_vozvyshennyh_vayshnavov_iz-za_stradaniy_drugih_i_v_razluke_s_gospodom
 record_id: 1983.11.04.B2.C1
 title: Боль возвышенных вайшнавов — из-за страданий других и в разлуке с Господом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     других и в разлуке с Господом
   index: "845"
   filename: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom.md
+  slug: 845-1983-11-04-b2-c1-bol-vozvyshennyh-vajshnavov-iz-za-stradanij-drugih-i-v-razluke-s-gospodom
 ---
 
 Махапрабху…

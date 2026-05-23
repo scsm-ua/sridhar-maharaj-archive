@@ -1,5 +1,5 @@
 ---
-slug: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny
+slug: 1982-03-30-b3_pisaniya_vayshnavy_i_chuvstvo_v_serdtse_tri_priznaka_istiny
 record_id: 1982.03.30.B3
 title: Писания, вайшнавы и чувство в сердце – три признака истины
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 links:
@@ -31,6 +29,7 @@ legacy:
     истины
   index: "538"
   filename: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny.md
+  slug: 538-1982-03-30-b3-pisaniya-vajshnavy-i-chuvstvo-v-serdtse-tri-priznaka-istiny
 ---
 
 **Преданный:** Как нам понять, какого вайшнава следует слушать? Как нам судить о том, кого нам следует слушать, какого вайшнава?

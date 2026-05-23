@@ -1,5 +1,5 @@
 ---
-slug: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti
+slug: 1983-11-02-b2_sluzhenie_i_samopredanie_dve_storony_bhakti
 record_id: 1983.11.02.B2
 title: Служение и самопредание – две стороны бхакти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 789. 1983.11.02.B2. Служение и самопредание – две стороны бхакти
   index: "789"
   filename: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti.md
+  slug: 789-1983-11-02-b2-sluzhenie-i-samopredanie-dve-storony-bhakti
 ---
 
 **Преданный:** Гуру Махарадж, вы пишите в книге «Нектар бессмертия предавшейся души», что есть две колеи *бхакти*: служение и самопредание.

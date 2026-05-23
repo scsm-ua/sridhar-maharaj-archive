@@ -1,5 +1,5 @@
 ---
-slug: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny
+slug: 1981-03-03-a2_lyuboe_deystvie_mozhet_sovershatsya_v_izmerenii_nirguny
 record_id: 1981.03.03.A2
 title: Любое действие может совершаться в измерении ниргуны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 422. 1981.03.03.A2. Любое действие может совершаться в измерении ниргуны
   index: "422"
   filename: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny.md
+  slug: 422-1981-03-03-a2-lyuboe-dejstvie-mozhet-sovershatsya-v-izmerenii-nirguny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 ---

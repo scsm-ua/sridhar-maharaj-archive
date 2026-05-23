@@ -1,5 +1,5 @@
 ---
-slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
+slug: 1983-02-07-a2_transtsendentnoe_dzhiu-dzhitsu
 record_id: 1983.02.07.A2
 title: Трансцендентное джиу-джитсу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 506. 1983.02.07.A2. Трансцендентное джиу-джитсу
   index: "506"
   filename: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu.md
+  slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
     slug: shri-chajtanya-charitamrita-adi-lila-10-120
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj
+slug: 1982-02-25-b2_mozhno_li_sravnit_razluku_sity_s_ramoy_i_radhi_s_krishnoy
 record_id: 1982.02.25.B2
 title: Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 152. 1982.02.25.B2. Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
   index: "152"
   filename: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj.md
+  slug: 152-1982-02-25-b2-mozhno-li-sravnit-razluku-sity-s-ramoj-i-radhi-s-krishnoj
 ---
 
 Есть ли какие-то вопросы?

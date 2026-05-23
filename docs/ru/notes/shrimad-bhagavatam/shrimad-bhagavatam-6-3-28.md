@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-6-3-28
 refs:
   - ../../_full/1981/10/1981.10.04.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.3.28
     slug: shrimad-bhagavatam-6-3-28
 ---

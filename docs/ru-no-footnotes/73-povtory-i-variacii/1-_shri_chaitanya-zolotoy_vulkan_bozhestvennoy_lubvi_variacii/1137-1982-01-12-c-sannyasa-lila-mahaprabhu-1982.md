@@ -1,5 +1,5 @@
 ---
-slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+slug: 1982-01-12-c_sannyasa-lila_mahaprabhu
 record_id: 1982.01.12.C
 title: Санньяса-лила Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
   index: "1137"
   filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
+  slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
 ---
 
 «Я вечно остаюсь обязанным вам, у Меня нет ничего, чем Я мог бы отплатить вам». Кришна побежден.

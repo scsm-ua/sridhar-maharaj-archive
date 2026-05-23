@@ -1,5 +1,5 @@
 ---
-slug: 1050-1983-01-12-b4-vospominaniya-o-propovedi-sredi-musulman-kto-takoj-shudra
+slug: 1983-01-12-b4_vospominaniya_o_propovedi_sredi_musulman_kto_takoy_shudra
 record_id: 1983.01.12.B4
 title: Воспоминания о проповеди среди мусульман. Кто такой шудра?.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     шудра?
   index: "1050"
   filename: 1050-1983-01-12-b4-vospominaniya-o-propovedi-sredi-musulman-kto-takoj-shudra.md
+  slug: 1050-1983-01-12-b4-vospominaniya-o-propovedi-sredi-musulman-kto-takoj-shudra
 ---
 
 **Преданный:** Однажды вы встречались с большими мусульманскими лидерами в Пакистане. Они были очень впечатлены вашей проповедью. Я удивляюсь, задаюсь вопросом: как вам удавалось проповедовать мусульманам?

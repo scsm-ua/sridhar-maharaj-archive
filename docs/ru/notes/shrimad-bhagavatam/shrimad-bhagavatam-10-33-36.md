@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-10-33-36
 refs:
   - ../../_full/1981/11/1981.11.05.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.34
-    slug: shri-chajtanya-charitamrita-adi-lila-4-34
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.34
+    slug: shri-chajtanya-charitamrita-adi-lila-4-34
   - title: Шримад-Бхагаватам 10.33.36
     slug: shrimad-bhagavatam-10-33-36
 ---

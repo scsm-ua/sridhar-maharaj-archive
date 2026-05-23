@@ -3,17 +3,18 @@ slug: shrimad-bhagavatam-5-18-12
 refs:
   - ../../_full/1981/12/1981.12.13.A.md
   - ../../_full/1982/08/1982.08.05.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.58
-    slug: shri-chajtanya-charitamrita-adi-lila-8-58
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.76
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-76
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.58
+    slug: shri-chajtanya-charitamrita-adi-lila-8-58
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.76
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-76
   - title: Шримад-Бхагаватам 5.18.12
     slug: shrimad-bhagavatam-5-18-12
 ---

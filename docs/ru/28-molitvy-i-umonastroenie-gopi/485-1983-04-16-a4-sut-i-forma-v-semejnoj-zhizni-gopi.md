@@ -1,5 +1,5 @@
 ---
-slug: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi
+slug: 1983-04-16-a4_sut_i_forma_v_semeynoy_zhizni_gopi
 record_id: 1983.04.16.A4
 title: Суть и форма в семейной жизни гопи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 485. 1983.04.16.A4. Суть и форма в семейной жизни гопи
   index: "485"
   filename: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi.md
+  slug: 485-1983-04-16-a4-sut-i-forma-v-semejnoj-zhizni-gopi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
     slug: shri-chajtanya-charitamrita-madhya-lila-194
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8

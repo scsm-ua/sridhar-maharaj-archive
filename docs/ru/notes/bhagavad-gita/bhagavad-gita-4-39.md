@@ -2,9 +2,10 @@
 slug: bhagavad-gita-4-39
 refs:
   - ../../_full/1983/10/1983.10.14.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.39
     slug: bhagavad-gita-4-39
 ---

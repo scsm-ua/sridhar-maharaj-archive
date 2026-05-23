@@ -1,5 +1,5 @@
 ---
-slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
+slug: 1983-02-13-a2_dusha_chudesna_i_udivitelna_mir_vysshey_dushi
 record_id: 1983.02.13.A2
 title: Душа чудесна и удивительна. Мир Высшей Души.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 582. 1983.02.13.A2. Душа чудесна и удивительна. Мир Высшей Души
   index: "582"
   filename: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi.md
+  slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
 ---
 
     [шлока]

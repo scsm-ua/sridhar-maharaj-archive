@@ -1,5 +1,5 @@
 ---
-slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
+slug: 1981-08-30-a3_transtsendentnoe_videnie_shrily_gaurakishora_babadzhi
 record_id: 1981.08.30.A3
 title: Трансцендентное видение Шрилы Гауракишора Бабаджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 525. 1981.08.30.A3. Трансцендентное видение Шрилы Гауракишора Бабаджи
   index: "525"
   filename: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi.md
+  slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
 ---
 
 **Шрила Шридхар Махарадж:** [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]

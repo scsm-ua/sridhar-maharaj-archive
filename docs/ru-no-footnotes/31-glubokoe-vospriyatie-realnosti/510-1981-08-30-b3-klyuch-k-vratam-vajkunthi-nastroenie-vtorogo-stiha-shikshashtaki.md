@@ -1,5 +1,5 @@
 ---
-slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
+slug: 1981-08-30-b3_klyuch_k_vratam_vaykunthi_nastroenie_vtorogo_stiha_shikshashtaki
 record_id: 1981.08.30.B3
 title: Ключ к вратам Вайкунтхи. Настроение второго стиха Шикшаштаки.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Шикшаштаки
   index: "510"
   filename: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki.md
+  slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
 ---
 
 **Акхаянанда Махарадж:** Махарадж, Господь Чайтанья молится:

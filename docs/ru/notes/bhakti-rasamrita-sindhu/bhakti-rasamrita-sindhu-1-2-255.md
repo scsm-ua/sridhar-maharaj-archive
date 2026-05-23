@@ -3,9 +3,10 @@ slug: bhakti-rasamrita-sindhu-1-2-255
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra.md
   - ../../_full/1983/02/1983.02.13.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.2.255
     slug: bhakti-rasamrita-sindhu-1-2-255
 ---

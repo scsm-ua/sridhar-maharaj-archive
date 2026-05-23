@@ -2,9 +2,10 @@
 slug: sharanagati-27-3
 refs:
   - ../../_full/1981/12/1981.12.09.A.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 27.3
     slug: sharanagati-27-3
 ---

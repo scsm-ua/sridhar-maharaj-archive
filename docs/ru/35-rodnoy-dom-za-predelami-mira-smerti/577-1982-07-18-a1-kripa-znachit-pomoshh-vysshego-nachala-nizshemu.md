@@ -1,5 +1,5 @@
 ---
-slug: 577-1982-07-18-a1-kripa-znachit-pomoshh-vysshego-nachala-nizshemu
+slug: 1982-07-18-a1_kripa_znachit_pomoshch_vysshego_nachala_nizshemu
 record_id: 1982.07.18.A1
 title: «Крипа» значит «помощь высшего начала низшему»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 577. 1982.07.18.A1. «Крипа» значит «помощь высшего начала низшему»
   index: "577"
   filename: 577-1982-07-18-a1-kripa-znachit-pomoshh-vysshego-nachala-nizshemu.md
+  slug: 577-1982-07-18-a1-kripa-znachit-pomoshh-vysshego-nachala-nizshemu
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
 ---

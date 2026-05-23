@@ -1,5 +1,5 @@
 ---
-slug: 275-1982-05-14-d4-pravilnoe-ponimanie-utverzhdeniya-o-godichnom-ispytanii-guru-i-uchenika-v-hari-bhakti-vilase
+slug: 1982-05-14-d4_pravilnoe_ponimanie_utverzhdeniya_o_godichnom_ispytanii_guru_i_uchenika_v_hari-bhakti-vilase
 record_id: 1982.05.14.D4
 title: Правильное понимание утверждения о годичном испытании гуру и ученика в
   «Хари-бхакти-виласе»
@@ -25,6 +25,7 @@ legacy:
     гуру и ученика в «Хари-бхакти-виласе»
   index: "275"
   filename: 275-1982-05-14-d4-pravilnoe-ponimanie-utverzhdeniya-o-godichnom-ispytanii-guru-i-uchenika-v-hari-bhakti-vilase.md
+  slug: 275-1982-05-14-d4-pravilnoe-ponimanie-utverzhdeniya-o-godichnom-ispytanii-guru-i-uchenika-v-hari-bhakti-vilase
 ---
 
 **Преданный:** Как быть с утверждением в «Хари-бхакти-виласе»? Там говорится о годичном испытании — испытании в течение года, прежде чем Гуру принимает ученика.

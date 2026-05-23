@@ -1,5 +1,5 @@
 ---
-slug: 450-shrila-shridhar-maharadzh-o-svoej-biogr
+slug: 1983-07-25-c-d_shrila_shridhar_maharadzh_o_svoey_biografii_v_gaudiya-mathe
 record_id: 1983.07.25.C.D
 title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 450. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе. 1983.07.25.C.D
   index: "450"
   filename: 450-shrila-shridhar-maharadzh-o-svoej-biogr.md
+  slug: 450-shrila-shridhar-maharadzh-o-svoej-biogr
 ---
 
 *#00:00:00#*

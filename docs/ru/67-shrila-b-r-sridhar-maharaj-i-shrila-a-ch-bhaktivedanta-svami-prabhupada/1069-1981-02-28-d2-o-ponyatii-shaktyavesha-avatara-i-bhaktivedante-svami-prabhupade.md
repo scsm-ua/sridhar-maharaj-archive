@@ -1,5 +1,5 @@
 ---
-slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
+slug: 1981-02-28-d2_o_ponyatii_shaktyavesha-avatara_i_bhaktivedante_svami_prabhupade
 record_id: 1981.02.28.D2
 title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     Прабхупаде
   index: "1069"
   filename: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade.md
+  slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.208
     slug: shri-chajtanya-charitamrita-adi-lila-5-208
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
 ---

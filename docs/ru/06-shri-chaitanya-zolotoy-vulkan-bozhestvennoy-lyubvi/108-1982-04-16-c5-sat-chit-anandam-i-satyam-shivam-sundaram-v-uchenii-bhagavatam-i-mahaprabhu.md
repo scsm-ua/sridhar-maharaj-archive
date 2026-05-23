@@ -1,5 +1,5 @@
 ---
-slug: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu
+slug: 1982-04-16-c5_sat-chit-anandam_i_satyam-shivam-sundaram_v_uchenii_bhagavatam_i_mahaprabhu
 record_id: 1982.04.16.C5
 title: Сат-чит-анандам и сатьям-шивам-сундарам в учении «Бхагаватам» и Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,6 +29,7 @@ legacy:
     «Бхагаватам» и Махапрабху
   index: "108"
   filename: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu.md
+  slug: 108-1982-04-16-c5-sat-chit-anandam-i-satyam-shivam-sundaram-v-uchenii-bhagavatam-i-mahaprabhu
 ---
 
 *Адхокшаджа* — сверхсубъективное, сверхъестественное, трансцендентное явление. Такого рода тонкий субъект способен низойти в измерение нашего грубого опыта, но когда он уходит, то мы беспомощны. Мы не можем сами, своими силами обратиться, приблизиться к нему — тонкому субъективному существованию. Там находится Вайкунтха и Голока. Ты понимаешь?

@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-8-20
 refs:
   - ../../_full/1982/11/1982.11.15.C.D.md
   - ../../_full/1982/12/1982.12.26.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.8.20
     slug: shrimad-bhagavatam-11-8-20
 ---

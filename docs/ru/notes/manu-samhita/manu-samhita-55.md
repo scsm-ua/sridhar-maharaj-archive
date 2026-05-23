@@ -2,9 +2,10 @@
 slug: manu-samhita-55
 refs:
   - ../../_full/1982/09/1982.09.04.A.B.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
+verses:
   - title: Ману-самхита 55
     slug: manu-samhita-55
 ---

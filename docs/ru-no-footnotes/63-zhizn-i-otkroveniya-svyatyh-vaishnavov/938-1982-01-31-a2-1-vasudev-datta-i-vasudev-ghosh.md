@@ -1,5 +1,5 @@
 ---
-slug: 938-1982-01-31-a2-1-vasudev-datta-i-vasudev-ghosh
+slug: 1982-01-31-a2-1_vasudev_datta_i_vasudev_ghosh
 record_id: 1982.01.31.A2.1
 title: Васудев Датта и Васудев Гхош
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 938. 1982.01.31.A2.1. Васудев Датта и Васудев Гхош
   index: "938"
   filename: 938-1982-01-31-a2-1-vasudev-datta-i-vasudev-ghosh.md
+  slug: 938-1982-01-31-a2-1-vasudev-datta-i-vasudev-ghosh
 ---
 
 Пундарика Видьянидхи, Мукунда Датта, Васудева Датта — в одной деревне жили эти великие вайшнавы, последователи Махапрабху.

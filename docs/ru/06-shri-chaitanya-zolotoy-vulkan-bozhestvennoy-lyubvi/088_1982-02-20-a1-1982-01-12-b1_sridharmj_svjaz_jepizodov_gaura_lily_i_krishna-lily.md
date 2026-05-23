@@ -1,5 +1,5 @@
 ---
-slug: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily
+slug: 1982-02-20-a1_svyaz_epizodov_gaura-lily_i_krishna-lily
 record_id: 1982.02.20.A1
 title: Связь эпизодов Гаура-лилы и Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
   index: "088"
   comment: (+1982.01.12.B1)
   filename: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily.md
+  slug: 088_1982-02-20-a1-1982-01-12-b1_sridharmj_svjaz_jepizodov_gaura_lily_i_krishna-lily
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
 ---

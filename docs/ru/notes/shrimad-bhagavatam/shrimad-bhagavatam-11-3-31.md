@@ -30,9 +30,10 @@ refs:
   - ../../_full/1983/10/1983.10.14.A.B.md
   - ../../_full/1983/10/1983.10.29.C1.md
   - ../../_full/1983/11/1983.11.27.B1.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
 ---

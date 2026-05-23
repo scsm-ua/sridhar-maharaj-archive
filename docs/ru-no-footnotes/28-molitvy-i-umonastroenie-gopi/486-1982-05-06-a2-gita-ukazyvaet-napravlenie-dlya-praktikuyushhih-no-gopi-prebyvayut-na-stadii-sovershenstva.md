@@ -1,5 +1,5 @@
 ---
-slug: 486-1982-05-06-a2-gita-ukazyvaet-napravlenie-dlya-praktikuyushhih-no-gopi-prebyvayut-na-stadii-sovershenstva
+slug: 1982-05-06-a2_gita_ukazyvaet_napravlenie_dlya_praktikuyushchih_no_gopi_prebyvayut_na_stadii_sovershenstva
 record_id: 1982.05.06.A2
 title: Гита указывает направление для практикующих, но гопи пребывают на стадии
   совершенства
@@ -25,6 +25,7 @@ legacy:
     пребывают на стадии совершенства
   index: "486"
   filename: 486-1982-05-06-a2-gita-ukazyvaet-napravlenie-dlya-praktikuyushhih-no-gopi-prebyvayut-na-stadii-sovershenstva.md
+  slug: 486-1982-05-06-a2-gita-ukazyvaet-napravlenie-dlya-praktikuyushhih-no-gopi-prebyvayut-na-stadii-sovershenstva
 ---
 
 **Госвами Махарадж:** Когда Кришна говорит: «*Ман-мана̄ бхава мад-бхакто*»[^_ftn1], Он подразумевает, что следует думать о Нем определенным образом?

@@ -1,5 +1,5 @@
 ---
-slug: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha
+slug: 1982-11-07-c5_shrila_shridhar_maharadzh_kak_duhovnyy_nastavnik_gaudiya_matha
 record_id: 1982.11.07.C5
 title: Шрила Шридхар Махарадж как духовный наставник Гаудия Матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Матха
   index: "1044"
   filename: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha.md
+  slug: 1044-1982-11-07-c5-shrila-shridhar-maharadzh-kak-duhovnyj-nastavnik-gaudiya-matha
 ---
 
 **Преданный:** Гуру Махарадж, я слышал, что многие *санньяси* в Гаудия Матхе, называют вас «*шикша-гуру*». Они принимают вас в качестве авторитета, это правда? Я видел время от времени, как члены Гаудия Матха приходят иногда, задают вам вопросы.

@@ -3,9 +3,10 @@ slug: prema-dhama-deva-stotram-1
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1103-1983-03-08-a1-obyasnenie-pervogo-stiha-prema-dhama-deva-stotram.md
   - ../../_full/1983/03/1983.03.08.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 1
     slug: prema-dhama-deva-stotram-1
 ---

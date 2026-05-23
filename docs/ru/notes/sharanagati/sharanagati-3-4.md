@@ -12,9 +12,10 @@ refs:
   - ../../_full/1982/11/1982.11.02.B.md
   - ../../_full/1982/12/1982.12.10.A.md
   - ../../_full/1983/08/1983.08.28.B.C.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa
+slug: 1982-07-02-b5_razgovor_o_sekte_dzhima_dzhonsa
 record_id: 1982.07.02.B5
 title: Разговор о секте Джима Джонса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 915. 1982.07.02.B5. Разговор о секте Джима Джонса
   index: "915"
   filename: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa.md
+  slug: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa
 ---
 
 **Преданный:** Прабала Диди здесь. Она из Южноафриканской Республики. Она работает с Юдаманьей Прабху, Юдаманью Прабху должен представить ее вам, хорошо?

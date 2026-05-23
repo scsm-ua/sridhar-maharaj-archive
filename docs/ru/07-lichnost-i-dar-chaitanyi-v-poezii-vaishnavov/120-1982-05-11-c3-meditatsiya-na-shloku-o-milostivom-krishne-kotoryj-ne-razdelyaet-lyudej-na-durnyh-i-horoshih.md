@@ -1,5 +1,5 @@
 ---
-slug: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih
+slug: 1982-05-11-c3_meditatsiya_na_shloku_o_milostivom_krishne_kotoryy_ne_razdelyaet_lyudey_na_durnyh_i_horoshih
 record_id: 1982.05.11.C3
 title: Медитация на шлоку о милостивом Кришне, который не разделяет людей на
   дурных и хороших
@@ -25,6 +25,7 @@ legacy:
     разделяет людей на дурных и хороших
   index: "120"
   filename: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih.md
+  slug: 120-1982-05-11-c3-meditatsiya-na-shloku-o-milostivom-krishne-kotoryj-ne-razdelyaet-lyudej-na-durnyh-i-horoshih
 ---
 
 [шлока1]

@@ -1,5 +1,5 @@
 ---
-slug: 465-1983-05-09-c2-vysochajshee-polozhenie-shrimati-radharani
+slug: 1983-05-09-c2_vysochayshee_polozhenie_shrimati_radharani
 record_id: 1983.05.09.C2
 title: Высочайшее положение Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 465. 1983.05.09.C2. Высочайшее положение Шримати Радхарани
   index: "465"
   filename: 465-1983-05-09-c2-vysochajshee-polozhenie-shrimati-radharani.md
+  slug: 465-1983-05-09-c2-vysochajshee-polozhenie-shrimati-radharani
 ---
 
 **Преданный:** Гуру Махарадж, Вы говорили, что Шримати Радхарани занимает высочайшее положение, потому что она распространяет славу Кришны.

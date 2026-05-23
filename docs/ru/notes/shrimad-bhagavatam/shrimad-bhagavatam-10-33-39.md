@@ -27,13 +27,14 @@ refs:
   - ../../_full/1983/07/1983.07.25.md
   - ../../_full/1983/08/1983.08.25.B.md
   - ../../_full/1983/11/1983.11.11.A.B1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
-    slug: shri-chajtanya-charitamrita-antya-lila-5-48
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
 ---

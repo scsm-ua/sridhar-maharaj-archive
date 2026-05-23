@@ -1,5 +1,5 @@
 ---
-slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
+slug: 1982-05-09-b4_predannoe_sluzhenie_kak_osnova_soprikosnoveniya_s_bezgranichnym_i_trud_lyubvi_v_shrimad_bhagavatam
 record_id: 1982.05.09.B4
 title: Преданное служение как основа соприкосновения с Безграничным и труд любви
   в «Шримад Бхагаватам»
@@ -16,28 +16,16 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Махабхараты», Бхишма-парва
-    slug: mahabharaty-bhishma-parva
   - title: «Махабхараты», Бхишма-парва 5.22
     slug: mahabharaty-bhishma-parva-5-22
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
     slug: shri-chajtanya-charitamrita-adi-lila-17-308
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 2.5.93
     slug: bhakti-rasamrita-sindhu-2-5-93
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
@@ -56,8 +44,6 @@ tags:
     slug: shrimad-bhagavatam-12-13-18
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.49
     slug: bhagavad-gita-18-49
 links:
@@ -72,6 +58,7 @@ legacy:
     Безграничным и труд любви в «Шримад Бхагаватам»
   index: "435"
   filename: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam.md
+  slug: 435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam
 ---
 
     ачинтйа̄х̣ кхалу йе бха̄ва̄ на та̄м̇с таркен̣а йоджайет

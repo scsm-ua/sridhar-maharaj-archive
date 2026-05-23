@@ -1,5 +1,5 @@
 ---
-slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
+slug: 1982-11-07-a-b1_vladenie_psihicheskimi_silami_ne_mozhet_pobudit_gospoda_yavit_sebya
 record_id: 1982.11.07.A.B1
 title: Владение психическими силами не может побудить Господа явить Себя
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,18 @@ legacy:
     Господа явить Себя
   index: "911"
   filename: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
+  slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
 tags:
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 2.1.11
     slug: vedanta-sutra-2-1-11
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
     slug: shri-chajtanya-charitamrita-madhya-lila-22-22
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
     slug: shri-chajtanya-charitamrita-madhya-lila-24-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
     slug: shri-chajtanya-charitamrita-madhya-lila-25-131
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.4
     slug: shrimad-bhagavatam-10-14-4
   - title: Шримад-Бхагаватам 10.43.17

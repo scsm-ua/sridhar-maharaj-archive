@@ -1,5 +1,5 @@
 ---
-slug: 368-otlichie-mezhdu-obuslovennoj-i-duhovn
+slug: 1981-03-03-a3-b1_otlichie_mezhdu_obuslovennoy_i_duhovnoy_deyatelnostyu
 record_id: 1981.03.03.A3.B1
 title: Отличие между обусловенной и духовной деятельностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 368. Отличие между обусловенной и духовной деятельностью. 1981.03.03.A3.B1
   index: "368"
   filename: 368-otlichie-mezhdu-obuslovennoj-i-duhovn.md
+  slug: 368-otlichie-mezhdu-obuslovennoj-i-duhovn
 ---
 
 **Ученик:** Хорошо, да, вопрос таков: когда мы мыслим в категориях, понятиях нашей жизни, что это значит: обусловленная деятельность?

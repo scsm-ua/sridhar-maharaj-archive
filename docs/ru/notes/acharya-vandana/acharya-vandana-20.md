@@ -2,9 +2,10 @@
 slug: acharya-vandana-20
 refs:
   - ../../_full/1981/11/1981.11.14.A.B.C.md
-tags:
+scriptures:
   - title: Ачарья вандана
     slug: acharya-vandana
+verses:
   - title: Ачарья вандана 20
     slug: acharya-vandana-20
 ---

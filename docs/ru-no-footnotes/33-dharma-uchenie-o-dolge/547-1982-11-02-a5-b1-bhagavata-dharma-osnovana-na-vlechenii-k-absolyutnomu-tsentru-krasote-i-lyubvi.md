@@ -1,5 +1,5 @@
 ---
-slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
+slug: 1982-11-02-a5-b1_bhagavata-dharma_osnovana_na_vlechenii_k_absolyutnomu_tsentru_krasote_i_lyubvi
 record_id: 1982.11.02.A5.B1
 title: Бхагавата-дхарма основана на влечении к Абсолютному Центру — Красоте и Любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Абсолютному Центру — Красоте и Любви
   index: "547"
   filename: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
+  slug: 547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi
 ---
 
     бхидйате хр̣дайа-грантхиш́

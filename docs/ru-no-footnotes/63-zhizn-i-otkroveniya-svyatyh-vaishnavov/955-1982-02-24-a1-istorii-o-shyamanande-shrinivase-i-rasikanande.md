@@ -1,5 +1,5 @@
 ---
-slug: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande
+slug: 1982-02-24-a1_istorii_o_shyamanande_shrinivase_i_rasikanande
 record_id: 1982.02.24.A1
 title: Истории о Шьямананде, Шринивасе и Расикананде
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 955. 1982.02.24.A1. Истории о Шьямананде, Шринивасе и Расикананде
   index: "955"
   filename: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande.md
+  slug: 955-1982-02-24-a1-istorii-o-shyamanande-shrinivase-i-rasikanande
 ---
 
 ## «Онтология Прекрасной Реальности» (часть 6.1)

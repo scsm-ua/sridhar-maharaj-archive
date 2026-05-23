@@ -3,9 +3,10 @@ slug: shri-nama-3-5
 refs:
   - ../../19-maha-mantra-svyatoe-imya/348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij.md
   - ../../_full/1983/01/1983.01.12.md
-tags:
+scriptures:
   - title: Шри Нама
     slug: shri-nama
+verses:
   - title: Шри Нама 3.5
     slug: shri-nama-3-5
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 390-o-poklonenii-gaura-nitayu-radhe-krishn
+slug: 1984-01-08-b2-b4_o_poklonenii_gaura-nitayu_radhe-krishne_i_mahaprabhu
 record_id: 1984.01.08.B2.B4
 title: О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 390. О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху. 1984.01.08.B2.B4
   index: "390"
   filename: 390-o-poklonenii-gaura-nitayu-radhe-krishn.md
+  slug: 390-o-poklonenii-gaura-nitayu-radhe-krishn
 ---
 
 **Ученик:** Махарадж.

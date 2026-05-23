@@ -1,5 +1,5 @@
 ---
-slug: 2-smysl-sannyasy-mahaprabhu-vernut-d
+slug: 1984-01-15-b1_smysl_sannyasy_mahaprabhu_vernut_domoy_zabludshie_dushi
 record_id: 1984.01.15.B1
 title: Смысл санньясы Махапрабху — вернуть домой заблудшие души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 2. Смысл санньясы Махапрабху — вернуть домой заблудшие души. 1984.01.15.B1
   index: "2"
   filename: 2-smysl-sannyasy-mahaprabhu-vernut-d.md
+  slug: 2-smysl-sannyasy-mahaprabhu-vernut-d
 ---
 
 *#00:00:00#*

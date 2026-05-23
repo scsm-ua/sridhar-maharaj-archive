@@ -1,5 +1,5 @@
 ---
-slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
+slug: 1982-05-12-b3-c1_sluzhenie_osnova_duhovnogo_obshcheniya_i_vospevaniya_svyatogo_imeni
 record_id: 1982.05.12.B3.C1
 title: Служение – основа духовного общения и воспевания Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Святого Имени
   index: "248"
   filename: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
+  slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
 ---
 
     сиддха̄нта балийа̄ читте на̄ кара аласа

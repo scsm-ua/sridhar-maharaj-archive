@@ -1,5 +1,5 @@
 ---
-slug: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane
+slug: 1983-01-26-c3_charuyushchaya_krasota_krishny_vo_vrindavane
 record_id: 1983.01.26.C3
 title: Чарующая красота Кришны во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,8 +17,6 @@ tags:
     slug: brahma
   - title: Кришна
     slug: krishna
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
   - title: Шримад-Бхагаватам 10.14.14
@@ -34,6 +32,7 @@ legacy:
   title: 040. 1983.01.26.C3 Чарующая красота Кришны во Вриндаване
   index: "040"
   filename: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane.md
+  slug: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane
 ---
 
     вр̣нда̄ран̣йам̇ сва-пада-раман̣ам̇ пра̄виш́ад гӣта-кӣртих̣

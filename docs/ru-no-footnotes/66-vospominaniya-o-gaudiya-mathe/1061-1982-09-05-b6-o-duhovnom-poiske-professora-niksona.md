@@ -1,5 +1,5 @@
 ---
-slug: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona
+slug: 1982-09-05-b6_o_duhovnom_poiske_professora_niksona
 record_id: 1982.09.05.B6
 title: О духовном поиске профессора Никсона
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1061. 1982.09.05.B6. О духовном поиске профессора Никсона
   index: "1061"
   filename: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona.md
+  slug: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona
 ---
 
 [Говорят на бенгали]

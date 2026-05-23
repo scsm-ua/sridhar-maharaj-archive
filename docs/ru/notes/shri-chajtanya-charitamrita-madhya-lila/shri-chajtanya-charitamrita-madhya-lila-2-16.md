@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-2-16
 refs:
   - ../../01-poisk-shri-krishny-prekrasnoy-realnosti/007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.16
     slug: shri-chajtanya-charitamrita-madhya-lila-2-16
 ---

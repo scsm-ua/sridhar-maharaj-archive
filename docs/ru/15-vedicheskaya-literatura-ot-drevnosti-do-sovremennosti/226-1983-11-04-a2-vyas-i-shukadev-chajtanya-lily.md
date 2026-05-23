@@ -1,5 +1,5 @@
 ---
-slug: 226-1983-11-04-a2-vyas-i-shukadev-chajtanya-lily
+slug: 1983-11-04-a2_vyas_i_shukadev_chaytanya-lily
 record_id: 1983.11.04.A2
 title: Вьяс и Шукадев Чайтанья-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 226. 1983.11.04.A2. Вьяс и Шукадев Чайтанья-лилы
   index: "226"
   filename: 226-1983-11-04-a2-vyas-i-shukadev-chajtanya-lily.md
+  slug: 226-1983-11-04-a2-vyas-i-shukadev-chajtanya-lily
 ---
 
 **Госвами Махарадж:** Махарадж, вчера на пути в Хапанию, когда мы путешествовали, мы посетили деревню Вриндавана Даса Тхакура, место его явления.

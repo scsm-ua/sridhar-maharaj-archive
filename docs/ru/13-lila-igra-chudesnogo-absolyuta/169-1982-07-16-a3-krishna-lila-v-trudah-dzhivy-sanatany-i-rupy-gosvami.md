@@ -1,5 +1,5 @@
 ---
-slug: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami
+slug: 1982-07-16-a3_krishna-lila_v_trudah_dzhivy_sanatany_i_rupy_gosvami
 record_id: 1982.07.16.A3
 title: Кришна-лила в трудах Дживы, Санатаны и Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Кришна-лила
     slug: krishna-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
     slug: shri-chajtanya-charitamrita-antya-lila-1-67
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 169. 1982.07.16.A3. Кришна-лила в трудах Дживы, Санатаны и Рупы Госвами
   index: "169"
   filename: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami.md
+  slug: 169-1982-07-16-a3-krishna-lila-v-trudah-dzhivy-sanatany-i-rupy-gosvami
 ---
 
 Джива Госвами показал, что Кришна вернулся во Вриндаван [имеется в виду в «Гопала-чампу», в своем произведении.]

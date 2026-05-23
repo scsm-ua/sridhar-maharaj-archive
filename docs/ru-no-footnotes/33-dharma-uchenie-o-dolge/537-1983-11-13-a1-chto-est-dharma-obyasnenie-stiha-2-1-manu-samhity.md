@@ -1,5 +1,5 @@
 ---
-slug: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity
+slug: 1983-11-13-a1_chto_est_dharma_obyasnenie_stiha_2_1_manu-samhity
 record_id: 1983.11.13.A1
 title: Что есть дхарма? Объяснение стиха 2.1 «Ману-самхиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 537. 1983.11.13.A1. Что есть дхарма? Объяснение стиха 2.1 «Ману-самхиты»
   index: "537"
   filename: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity.md
+  slug: 537-1983-11-13-a1-chto-est-dharma-obyasnenie-stiha-2-1-manu-samhity
 ---
 
 **Госвами Махарадж:** Стих «*хридайена…*» — то, что содержится в твоем сердце…

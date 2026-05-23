@@ -4,13 +4,14 @@ refs:
   - ../../17-shri-guru-i-ego-milost/308-1983-07-30-a-b-mayaki-v-bezgranichnom.md
   - ../../_full/1982/09/1982.09.06.A.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.78
-    slug: shri-chajtanya-charitamrita-antya-lila-8-78
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.78
+    slug: shri-chajtanya-charitamrita-antya-lila-8-78
   - title: Шримад-Бхагаватам 11.28.1
     slug: shrimad-bhagavatam-11-28-1
 ---

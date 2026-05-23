@@ -1,5 +1,5 @@
 ---
-slug: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost
+slug: 1983-06-09-a4_realnaya_i_voobrazhaemaya_predannost
 record_id: 1983.06.09.A4
 title: Реальная и воображаемая преданность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 867. 1983.06.09.A4. Реальная и воображаемая преданность
   index: "867"
   filename: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost.md
+  slug: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost
 tags:
-  - title: Даинйа Прартхана Гити
-    slug: dainja-prarthana-giti
   - title: Даинйа Прартхана Гити 1
     slug: dainja-prarthana-giti-1
 ---

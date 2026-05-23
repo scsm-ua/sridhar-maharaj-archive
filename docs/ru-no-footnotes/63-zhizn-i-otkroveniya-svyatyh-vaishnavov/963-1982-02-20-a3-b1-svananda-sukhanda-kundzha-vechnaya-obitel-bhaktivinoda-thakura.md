@@ -1,5 +1,5 @@
 ---
-slug: 963-1982-02-20-a3-b1-svananda-sukhanda-kundzha-vechnaya-obitel-bhaktivinoda-thakura
+slug: 1982-02-20-a3-b1_svananda-sukhanda-kundzha_vechnaya_obitel_bhaktivinoda_thakura
 record_id: 1982.02.20.A3.B1
 title: Свананда-сукханда-кунджа – вечная обитель Бхактивинода Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактивинода Тхакура
   index: "963"
   filename: 963-1982-02-20-a3-b1-svananda-sukhanda-kundzha-vechnaya-obitel-bhaktivinoda-thakura.md
+  slug: 963-1982-02-20-a3-b1-svananda-sukhanda-kundzha-vechnaya-obitel-bhaktivinoda-thakura
 ---
 
 **Преданный:** Вечная резиденция Бхактивинода Тхакура находится в Годруме?

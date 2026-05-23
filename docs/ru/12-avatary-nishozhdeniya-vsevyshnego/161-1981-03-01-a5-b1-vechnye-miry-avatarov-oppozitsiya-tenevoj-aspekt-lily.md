@@ -1,5 +1,5 @@
 ---
-slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
+slug: 1981-03-01-a5-b1_vechnye_miry_avatarov_oppozitsiya_tenevoy_aspekt_lily
 record_id: 1981.03.01.A5.B1
 title: Вечные миры аватаров. Оппозиция – теневой аспект лилы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 161. 1981.03.01.A5.B1. Вечные миры аватаров. Оппозиция – теневой аспект лилы
   index: "161"
   filename: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily.md
+  slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
 ---
 
 **Преданный:** Я хочу спросить. Мы видим, как Кришна нисходит во многих воплощениях…

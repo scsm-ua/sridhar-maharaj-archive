@@ -1,5 +1,5 @@
 ---
-slug: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy
+slug: 1983-01-12-a3-b1_istoriya_otkrytiya_radha-kundy
 record_id: 1983.01.12.A3.B1
 title: История открытия Радха-кунды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 092. 1983.01.12.A3.B1 История открытия Радха-кунды
   index: "092"
   filename: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy.md
+  slug: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy
 ---
 
 **Преданная:** Робин. Робин — так произносится мое имя.

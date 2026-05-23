@@ -1,5 +1,5 @@
 ---
-slug: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya
+slug: 1983-11-28-a4_naslazhdenie_predannym_sluzheniem_dva_vida_schastya
 record_id: 1983.11.28.A4
 title: Наслаждение преданным служением. Два вида счастья.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
     slug: shri-chajtanya-charitamrita-antya-lila-20-37
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 445. 1983.11.28.A4. Наслаждение преданным служением. Два вида счастья
   index: "445"
   filename: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya.md
+  slug: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya
 ---
 
 **Преданный:** Гуру Махарадж, мы часто думаем, что мы являемся наслаждающимися этого процесса преданности. Это противоположная идея, представление — очень скверное отношение: «Я хочу наслаждаться преданным служением».

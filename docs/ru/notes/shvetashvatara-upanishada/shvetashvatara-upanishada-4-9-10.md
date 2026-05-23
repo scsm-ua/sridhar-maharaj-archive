@@ -2,9 +2,10 @@
 slug: shvetashvatara-upanishada-4-9-10
 refs:
   - ../../_full/1981/12/1981.12.21.A.B.md
-tags:
+scriptures:
   - title: Шветашватара-упанишада
     slug: shvetashvatara-upanishada
+verses:
   - title: Шветашватара-упанишада 4.9–10
     slug: shvetashvatara-upanishada-4-9-10
 ---

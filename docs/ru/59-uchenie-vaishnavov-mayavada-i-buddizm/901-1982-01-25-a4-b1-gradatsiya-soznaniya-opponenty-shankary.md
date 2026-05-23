@@ -1,5 +1,5 @@
 ---
-slug: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary
+slug: 1982-01-25-a4-b1_gradatsiya_soznaniya_opponenty_shankary
 record_id: 1982.01.25.A4.B1
 title: Градация сознания. Оппоненты Шанкары.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 901. 1982.01.25.A4.B1. Градация сознания. Оппоненты Шанкары
   index: "901"
   filename: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary.md
+  slug: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.5
     slug: bhagavad-gita-7-5
   - title: Бхагавад-гита 10.8
     slug: bhagavad-gita-10-8
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
   - title: Бхагавад-гита 4.8
     slug: bhagavad-gita-4-8
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.5.2
     slug: shrimad-bhagavatam-12-5-2
 ---

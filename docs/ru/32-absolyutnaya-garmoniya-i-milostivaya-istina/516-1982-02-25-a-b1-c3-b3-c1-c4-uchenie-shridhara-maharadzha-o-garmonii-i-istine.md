@@ -1,5 +1,5 @@
 ---
-slug: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine
+slug: 1982-02-25-a-b1-c3-b3-c1-c4_uchenie_shridhara_maharadzha_o_garmonii_i_istine
 record_id: 1982.02.25.A.B1.C3.B3.C1.C4
 title: Учение Шридхара Махараджа о гармонии и истине
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     истине
   index: "516"
   filename: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
+  slug: 516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 3.19
     slug: shvetashvatara-upanishad-3-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.141
@@ -51,26 +44,16 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 7
     slug: shri-gurvashtaka-7
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: Ману-смрити
-    slug: manu-smriti
   - title: Ману-смрити 4.138
     slug: manu-smriti-4-138
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
@@ -83,7 +66,7 @@ tags:
     slug: shrimad-bhagavatam-3-2-23
 ---
 
-**Прямое и косвенное начала дополняют друг друга**
+## Прямое и косвенное начала дополняют друг друга
 
 Гаура Харибол, Гаура Харибол, Гаура Харибол, Нитай…
 
@@ -105,9 +88,7 @@ tags:
 
 Временами демоны вступают в их круг в обличии одного из пастухов: Бхамасура, Праламбасура — они смешиваются с членами группы и стремятся схватить одного из мальчиков, посадить на плечи и унести. Бхамасура захотел унести Балараму в лесную чащу, Баларам понял, что перед ним демон, а не один из членов группы, и когда Он понял это, то ударил его по голове настолько сильно, что… Харе Кришна.
 
-**«Гармония возможна лишь в единстве» в учении Шанкары**\
-**VS**\
-**«Гармония существует как в единстве, так и в многообразии» в учении Шри Чайтаньи**
+## «Гармония возможна лишь в единстве» в учении Шанкары VS «Гармония существует как в единстве, так и в многообразии» в учении Шри Чайтаньи
 
 *#00:05:42#*
 

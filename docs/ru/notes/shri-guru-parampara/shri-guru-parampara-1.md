@@ -3,9 +3,10 @@ slug: shri-guru-parampara-1
 refs:
   - ../../_full/1982/10/1982.10.23.A.md
   - ../../_full/1982/10/1982.10.27.A.B.md
-tags:
+scriptures:
   - title: Шри Гуру-парампара
     slug: shri-guru-parampara
+verses:
   - title: Шри Гуру-парампара 1
     slug: shri-guru-parampara-1
 ---

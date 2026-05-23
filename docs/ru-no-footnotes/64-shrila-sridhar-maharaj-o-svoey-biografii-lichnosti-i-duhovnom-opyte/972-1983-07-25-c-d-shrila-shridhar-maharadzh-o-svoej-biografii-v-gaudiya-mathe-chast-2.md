@@ -1,5 +1,5 @@
 ---
-slug: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2
+slug: 1983-07-25-c-d_shrila_shridhar_maharadzh_o_svoey_biografii_v_gaudiya-mathe_chast_2
 record_id: 1983.07.25.C.D
 title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 2)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Гаудия-матхе (часть 2)
   index: "972"
   filename: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2.md
+  slug: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2
 ---
 
 **Преданный:** Васудев считал, что «Ананта-самхита» не есть настоящая *шастра*, подлинная, древняя?

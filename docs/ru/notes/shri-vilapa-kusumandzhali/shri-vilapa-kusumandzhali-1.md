@@ -3,9 +3,10 @@ slug: shri-vilapa-kusumandzhali-1
 refs:
   - ../../26-rupanuga-sampradaya/448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai.md
   - ../../26-rupanuga-sampradaya/456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi.md
-tags:
+scriptures:
   - title: Шри Вилапа-кусуманджали
     slug: shri-vilapa-kusumandzhali
+verses:
   - title: Шри Вилапа-кусуманджали 1
     slug: shri-vilapa-kusumandzhali-1
 ---

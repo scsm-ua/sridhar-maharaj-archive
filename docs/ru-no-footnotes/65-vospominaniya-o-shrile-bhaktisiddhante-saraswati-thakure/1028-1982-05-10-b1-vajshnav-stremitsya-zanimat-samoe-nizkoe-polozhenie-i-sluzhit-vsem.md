@@ -1,5 +1,5 @@
 ---
-slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
+slug: 1982-05-10-b1_vayshnav_stremitsya_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem
 record_id: 1982.05.10.B1
 title: Вайшнав стремится занимать самое низкое положение и служить всем
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     служить всем
   index: "1028"
   filename: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem.md
+  slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
 ---
 
 **Шрила Шридхар Махарадж:** Где он?

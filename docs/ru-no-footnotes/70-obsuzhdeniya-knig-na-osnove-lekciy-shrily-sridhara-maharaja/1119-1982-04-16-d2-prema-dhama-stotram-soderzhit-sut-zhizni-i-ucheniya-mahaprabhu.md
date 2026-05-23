@@ -1,5 +1,5 @@
 ---
-slug: 1119-1982-04-16-d2-prema-dhama-stotram-soderzhit-sut-zhizni-i-ucheniya-mahaprabhu
+slug: 1982-04-16-d2_prema-dhama-stotram_soderzhit_sut_zhizni_i_ucheniya_mahaprabhu
 record_id: 1982.04.16.D2
 title: «Према-дхама-стотрам» содержит суть жизни и учения Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Махапрабху
   index: "1119"
   filename: 1119-1982-04-16-d2-prema-dhama-stotram-soderzhit-sut-zhizni-i-ucheniya-mahaprabhu.md
+  slug: 1119-1982-04-16-d2-prema-dhama-stotram-soderzhit-sut-zhizni-i-ucheniya-mahaprabhu
 ---
 
 **Преданный:** Изначальная идея была представить это явление крайне пышным образом в международных масштабах. Как мы должны это сделать? Каким должно быть издание: более скромным или более роскошным?

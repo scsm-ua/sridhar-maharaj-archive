@@ -1,5 +1,5 @@
 ---
-slug: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij
+slug: 1983-07-19-a2_kirtan_znachit_srazhenie_protiv_zabluzhdeniy
 record_id: 1983.07.19.A2
 title: Киртан значит «сражение против заблуждений»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,28 +15,18 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
     slug: shri-chajtanya-charitamrita-madhya-lila-22-128
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.129
     slug: shri-chajtanya-charitamrita-madhya-lila-22-129
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
     slug: shri-chajtanya-charitamrita-antya-lila-4-71
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.38–40
     slug: shrimad-bhagavatam-11-5-38-40
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.81
     slug: shri-chajtanya-charitamrita-adi-lila-3-81
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
@@ -55,8 +45,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-6-236
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
     slug: shri-chajtanya-charitamrita-antya-lila-6-237
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 links:
@@ -70,6 +58,7 @@ legacy:
   title: 357. 1983.07.19.A2. Киртан значит «сражение против заблуждений»
   index: "357"
   filename: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij.md
+  slug: 357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij
 ---
 
 **Преданный:** Махарадж, позвольте смиренно задать вам вопрос. Впервые у меня выпала благая удача быть здесь. Я удивляюсь, что акцент ставиться на проповеди, нежели на *джапе*, подчеркивается необходимость проповеди. Меня это удивило, потому что мой духовный учитель говорил: «*Джапа* обладает первостепенным значением (повторение Святого Имени)». Я удивляюсь, как я должен понимать это?

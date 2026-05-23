@@ -1,5 +1,5 @@
 ---
-slug: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe
+slug: 1982-03-08-b4_o_govinda-kunde_v_navadvipe
 record_id: 1982.03.08.B4
 title: О Говинда-кунде в Навадвипе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1092. 1982.03.08.B4. О Говинда-кунде в Навадвипе
   index: "1092"
   filename: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe.md
+  slug: 1092-1982-03-08-b4-o-govinda-kunde-v-navadvipe
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.

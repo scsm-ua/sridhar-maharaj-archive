@@ -1,5 +1,5 @@
 ---
-slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
+slug: 1982-06-17-a_shkoly_sahadzhii_i_mayavady_prizvany_izolirovat_zabluzhdayushchihsya_ot_vayshnavov
 record_id: 1982.06.17.A
 title: Школы сахаджии и майавады призваны изолировать заблуждающихся от вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     заблуждающихся от вайшнавов
   index: "885"
   filename: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
+  slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
 ---
 
 Дешевый рынок, за одну ночь стать *гопи*… Каков путь?

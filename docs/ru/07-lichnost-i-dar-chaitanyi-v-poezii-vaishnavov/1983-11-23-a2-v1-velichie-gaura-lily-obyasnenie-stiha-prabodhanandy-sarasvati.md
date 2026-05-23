@@ -1,5 +1,5 @@
 ---
-slug: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati
+slug: 1983-11-23-a2-b1_velichie_gaura-lily_obyasnenie_stiha_prabodhanandy_sarasvati
 record_id: 1983.11.23.A2.B1
 title: Величие гаура-лилы. Объяснение стиха Прабодхананды Сарасвати.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Прабходананда Сарасвати
     slug: prabhodananda-sarasvati
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 95
     slug: chajtanya-chandramrita-95
 links:
@@ -31,6 +29,7 @@ legacy:
     Сарасвати
   index: "112"
   filename: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati.md
+  slug: 1983-11-23-a2-v1-velichie-gaura-lily-obyasnenie-stiha-prabodhanandy-sarasvati
 ---
 
 Гауранга пришел с подобными новостями, рассказал нам о подобной перспективе: «Ты — душа! У тебя есть подобная перспектива». Нитьянанда Прабху умолял от двери к двери очень искренне, горячо говорил: «Ваша перспектива столь высока!» Это Навадвип-дхам. Мы только должны проникнуть сквозь поверхность, глубоко погрузиться, найти внутренний Навадвип, Навадвип Гаура-Нитая.

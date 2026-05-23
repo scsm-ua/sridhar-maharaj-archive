@@ -1,5 +1,5 @@
 ---
-slug: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus
+slug: 1985-10-05-a3_kachestvo_protiv_kolichestva_o_ponyatii_vysshiy_vkus
 record_id: 1985.10.05.A3
 title: "Качество против количества: о понятии «высший вкус»"
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: "722. 1985.10.05.A3. Качество против количества: о понятии «высший вкус»"
   index: "722"
   filename: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus.md
+  slug: 722-1985-10-05-a3-kachestvo-protiv-kolichestva-o-ponyatii-vysshij-vkus
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
 ---

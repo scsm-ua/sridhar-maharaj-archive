@@ -1,5 +1,5 @@
 ---
-slug: 252-1982-02-23-v4-vapu-i-vani-postupki-i-nastavleniya-vajshnava
+slug: 1982-02-23-b4_vapu_i_vani_postupki_i_nastavleniya_vayshnava
 record_id: 1982.02.23.B4
 title: Вапу и вани – поступки и наставления вайшнава
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 252. 1982.02.23.В4. Вапу и вани – поступки и наставления вайшнава
   index: "252"
   filename: 252-1982-02-23-v4-vapu-i-vani-postupki-i-nastavleniya-vajshnava.md
+  slug: 252-1982-02-23-v4-vapu-i-vani-postupki-i-nastavleniya-vajshnava
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.31
     slug: shrimad-bhagavatam-10-33-31
 ---

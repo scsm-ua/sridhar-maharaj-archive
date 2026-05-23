@@ -2,9 +2,10 @@
 slug: kalyana-kalpataru-15-3
 refs:
   - ../../_full/1981/11/1981.11.17.B.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 15.3
     slug: kalyana-kalpataru-15-3
 ---

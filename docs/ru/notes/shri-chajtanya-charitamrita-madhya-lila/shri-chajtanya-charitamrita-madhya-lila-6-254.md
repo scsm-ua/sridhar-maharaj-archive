@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-6-254
 refs:
   - ../../_full/1981/11/1981.11.10.B1.2.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.254
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-254
   - title: Шри Чайтанья-чандродая-натака
     slug: shri-chajtanya-chandrodaya-nataka
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.254
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-254
   - title: Шри Чайтанья-чандродая-натака 6.74
     slug: shri-chajtanya-chandrodaya-nataka-6-74
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe
+slug: 1982-02-20-b4_kogda_net_uverennosti_luchshe_prervat_post_na_ekadashi_pozzhe
 record_id: 1982.02.20.B4
 title: Когда нет уверенности, лучше прервать пост на Экадаши позже
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     позже
   index: "799"
   filename: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe.md
+  slug: 799-1982-02-20-b4-kogda-net-uverennosti-luchshe-prervat-post-na-ekadashi-pozzhe
 ---
 
 **Преданный:** Шридхар Махарадж, а насколько важно прервать пост в день после *Экадаши*? Это очень важно?

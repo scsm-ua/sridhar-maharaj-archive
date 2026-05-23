@@ -1,5 +1,5 @@
 ---
-slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
+slug: 1982-06-19-b2_vayshnavy_nikogda_ne_schitayut_sebya_osvobodivshimisya_ot_aparadh_i_anarth
 record_id: 1982.06.19.B2
 title: Вайшнавы никогда не считают себя освободившимися от апарадх и анартх
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     апарадх и анартх
   index: "719"
   filename: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth.md
+  slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
 ---
 
 **Преданный:** Махарадж, а является ли оскорблением отсутствие достаточной любви к Божествам или отсутствие полноты уважения к Божествам? Есть ли это оскорбление?

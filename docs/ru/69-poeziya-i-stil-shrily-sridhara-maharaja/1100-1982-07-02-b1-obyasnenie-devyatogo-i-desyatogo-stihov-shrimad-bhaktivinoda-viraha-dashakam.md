@@ -1,5 +1,5 @@
 ---
-slug: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam
+slug: 1982-07-02-b1_obyasnenie_devyatogo_i_desyatogo_stihov_shrimad_bhaktivinoda-viraha_dashakam
 record_id: 1982.07.02.B1
 title: Объяснение девятого и десятого стихов «Шримад Бхактивинода-вираха Дашакам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Бхактивинода-вираха Дашакам»
   index: "1100"
   filename: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam.md
+  slug: 1100-1982-07-02-b1-obyasnenie-devyatogo-i-desyatogo-stihov-shrimad-bhaktivinoda-viraha-dashakam
 tags:
-  - title: Шримад Бхактивинода-вираха Дашакам
-    slug: shrimad-bhaktivinoda-viraha-dashakam
   - title: Шримад Бхактивинода-вираха Дашакам 9
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
   - title: Шримад Бхактивинода-вираха Дашакам 10

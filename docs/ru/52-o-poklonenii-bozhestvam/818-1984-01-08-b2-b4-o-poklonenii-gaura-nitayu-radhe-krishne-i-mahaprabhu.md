@@ -1,5 +1,5 @@
 ---
-slug: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu
+slug: 1984-01-08-b2-b4_o_poklonenii_gaura-nitayu_radhe-krishne_i_mahaprabhu
 record_id: 1984.01.08.B2.B4
 title: О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Арчана
     slug: archana
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 3
     slug: manah-shiksha-3
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 818. 1984.01.08.B2.B4. О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
   index: "818"
   filename: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu.md
+  slug: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu
 ---
 
 **Преданный:** Махарадж?

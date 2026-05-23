@@ -1,5 +1,5 @@
 ---
-slug: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom
+slug: 1982-04-14-b3-c1-c3_smirenie_i_nezavistlivost_put_k_blizkomu_obshcheniyu_s_vysshim_nachalom
 record_id: 1982.04.14.B3.C1.C3
 title: Смирение и независтливость – путь к близкому общению с Высшим Началом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     общению с Высшим Началом
   index: "203"
   filename: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom.md
+  slug: 203-1982-04-14-b3-c1-c3-smirenie-i-nezavistlivost-put-k-blizkomu-obshheniyu-s-vysshim-nachalom
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
     slug: shri-chajtanya-charitamrita-antya-lila-4-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
   - title: Шримад-Бхагаватам 11.23.34

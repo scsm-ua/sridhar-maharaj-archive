@@ -1,5 +1,5 @@
 ---
-slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
+slug: 1983-05-09-b2_meditatsiya_na_smysly_tretego_stiha_shikshashtaki_i_smezhnye_temy
 record_id: 1983.05.09.B2
 title: Медитация на смыслы третьего стиха Шикшаштаки и смежные темы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     смежные темы
   index: "837"
   filename: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
+  slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
 ---
 
     тр̣на̄д апи сунӣчена

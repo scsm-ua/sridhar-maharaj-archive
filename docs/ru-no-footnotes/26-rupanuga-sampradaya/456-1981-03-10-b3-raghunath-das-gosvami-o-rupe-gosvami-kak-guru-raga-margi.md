@@ -1,5 +1,5 @@
 ---
-slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
+slug: 1981-03-10-b3_raghunath_das_gosvami_o_rupe_gosvami_kak_guru_raga-margi
 record_id: 1981.03.10.B3
 title: Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 456. 1981.03.10.B3. Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
   index: "456"
   filename: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi.md
+  slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
 ---
 
 Однажды наш Гуру Махарадж сказал в этой связи: «Эти люди не хотят понять благородное, возвышенное положение, о котором говорит Рупа Госвами». Положение Рупы Госвами выше всех религиозных сантиментов настолько, что Гуру Махарадж привел следующий пример:

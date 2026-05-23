@@ -22,9 +22,10 @@ refs:
   - ../../_full/1983/01/1983.01.04.md
   - ../../_full/1983/03/1983.03.28.md
   - ../../_full/1983/10/1983.10.25.A.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

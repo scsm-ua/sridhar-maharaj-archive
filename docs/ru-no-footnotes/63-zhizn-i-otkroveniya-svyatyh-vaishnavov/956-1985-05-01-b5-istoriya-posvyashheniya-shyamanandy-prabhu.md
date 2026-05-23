@@ -1,5 +1,5 @@
 ---
-slug: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu
+slug: 1985-05-01-b5_istoriya_posvyashcheniya_shyamanandy_prabhu
 record_id: 1985.05.01.B5
 title: История посвящения Шьямананды Прабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 956. 1985.05.01.B5. История посвящения Шьямананды Прабху
   index: "956"
   filename: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu.md
+  slug: 956-1985-05-01-b5-istoriya-posvyashheniya-shyamanandy-prabhu
 ---
 
 [Гаура-Харибол, Гаура-Харибол]

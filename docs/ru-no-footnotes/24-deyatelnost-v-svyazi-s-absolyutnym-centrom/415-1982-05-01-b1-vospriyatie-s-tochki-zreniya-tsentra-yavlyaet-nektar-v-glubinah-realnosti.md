@@ -1,5 +1,5 @@
 ---
-slug: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti
+slug: 1982-05-01-b1_vospriyatie_s_tochki_zreniya_tsentra_yavlyaet_nektar_v_glubinah_realnosti
 record_id: 1982.05.01.B1
 title: Восприятие с точки зрения Центра являет нектар в глубинах реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     глубинах реальности
   index: "415"
   filename: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti.md
+  slug: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti
 ---
 
 Гармоничное существование, не отделенное существование. И что действительно необходимо для жизни в гармонии — это самоотдание, отдать себя. Жертвенность, преданность — твой друг, а стремление к независимости — твой враг. Мы должны понять эту истину. То, что на первый взгляд представляется нашим другом (независимость), — это твой настоящий враг, и ты должен научиться тому, как жить вместе.

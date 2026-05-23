@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-adi-khanda-14-85
 refs:
   - ../../_full/1981/10/1981.10.03.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 14.85
     slug: shri-chajtanya-bhagavata-adi-khanda-14-85
 ---

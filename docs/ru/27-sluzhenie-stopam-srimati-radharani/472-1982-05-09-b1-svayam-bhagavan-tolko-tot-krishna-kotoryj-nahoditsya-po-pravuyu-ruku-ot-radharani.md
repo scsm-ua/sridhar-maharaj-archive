@@ -1,5 +1,5 @@
 ---
-slug: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani
+slug: 1982-05-09-b1_svayam_bhagavan_tolko_tot_krishna_kotoryy_nahoditsya_po_pravuyu_ruku_ot_radharani
 record_id: 1982.05.09.B1
 title: Сваям Бхагаван – только тот Кришна, который находится по правую руку от
   Радхарани
@@ -25,6 +25,7 @@ legacy:
     по правую руку от Радхарани
   index: "472"
   filename: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani.md
+  slug: 472-1982-05-09-b1-svayam-bhagavan-tolko-tot-krishna-kotoryj-nahoditsya-po-pravuyu-ruku-ot-radharani
 ---
 
 Лишь этот Кришна *Свайам-Бхагаван*. Когда Тот Самый Кришна находится в других местах, стоит рядом с многочисленными *гопи* (две *гопи* и один Кришна посредине, как в *раса-лиле*) — этот Кришна не есть *Свайам-Бхагаван*. *Свайам-Бхагаван* — только Тот Кришна, который находится по правую руку от Радхарани.

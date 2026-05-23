@@ -1,5 +1,5 @@
 ---
-slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
+slug: 1982-02-27-a6_uvidet_volyu_gospoda_v_negativnyh_obstoyatelstvah
 record_id: 1982.02.27.A6
 title: Увидеть волю Господа в негативных обстоятельствах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
   index: "512"
   filename: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
+  slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
 ---
 
 Онтология Прекрасной Реальности (часть 2.6)

@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-adi-lila-8-17
 refs:
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.17
-    slug: shri-chajtanya-charitamrita-adi-lila-8-17
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.17
+    slug: shri-chajtanya-charitamrita-adi-lila-8-17
   - title: Бхакти-расамрита-синдху 1.1.36
     slug: bhakti-rasamrita-sindhu-1-1-36
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
+slug: 1982-01-27-b3_zabvenie_krishny_istinnaya_smert
 record_id: 1982.01.27.B3
 title: Забвение Кришны — истинная смерть
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Риг-веда
     slug: rig-veda
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.2
     slug: shrimad-bhagavatam-11-2-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
   - title: Бхагавад-гита 4.16
@@ -46,6 +40,7 @@ legacy:
   title: 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
   index: "410"
   filename: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
+  slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
 ---
 
     ко ну ра̄джанн индрийава̄н

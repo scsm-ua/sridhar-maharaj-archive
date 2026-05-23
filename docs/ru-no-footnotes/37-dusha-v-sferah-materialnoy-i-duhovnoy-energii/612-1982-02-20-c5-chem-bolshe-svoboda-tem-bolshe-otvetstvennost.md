@@ -1,5 +1,5 @@
 ---
-slug: 612-1982-02-20-c5-chem-bolshe-svoboda-tem-bolshe-otvetstvennost
+slug: 1982-02-20-c5_chem_bolshe_svoboda_tem_bolshe_otvetstvennost
 record_id: 1982.02.20.C5
 title: Чем больше свобода – тем больше ответственность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 612. 1982.02.20.C5. Чем больше свобода – тем больше ответственность
   index: "612"
   filename: 612-1982-02-20-c5-chem-bolshe-svoboda-tem-bolshe-otvetstvennost.md
+  slug: 612-1982-02-20-c5-chem-bolshe-svoboda-tem-bolshe-otvetstvennost
 ---
 
 **Преданный:** Махарадж, у меня есть вопрос, связанный с другим предметом. Когда *джива* находится в тисках *майи*, какой степенью независимости она в действительности обладает?

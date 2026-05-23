@@ -3,9 +3,10 @@ slug: bhagavad-gita-3-2
 refs:
   - ../../_full/1983/09/1983.09.16.A.md
   - ../../_full/1983/09/1983.09.16.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.2
     slug: bhagavad-gita-3-2
 ---

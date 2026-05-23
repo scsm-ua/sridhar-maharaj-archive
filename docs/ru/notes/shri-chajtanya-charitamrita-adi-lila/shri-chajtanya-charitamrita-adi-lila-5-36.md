@@ -13,17 +13,18 @@ refs:
   - ../../_full/1982/08/1982.08.22.B.md
   - ../../_full/1982/10/1982.10.17.A.md
   - ../../_full/1987/1987.XX.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
-    slug: shri-chajtanya-charitamrita-adi-lila-5-36
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.278
-    slug: bhakti-rasamrita-sindhu-1-2-278
   - title: Лагху-бхагаватамрита
     slug: laghu-bhagavatamrita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
+    slug: shri-chajtanya-charitamrita-adi-lila-5-36
+  - title: Бхакти-расамрита-синдху 1.2.278
+    slug: bhakti-rasamrita-sindhu-1-2-278
   - title: Лагху-бхагаватамрита 5.41
     slug: laghu-bhagavatamrita-5-41
 ---

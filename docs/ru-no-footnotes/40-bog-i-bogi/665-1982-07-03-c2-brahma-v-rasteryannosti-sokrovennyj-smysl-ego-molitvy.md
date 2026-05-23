@@ -1,5 +1,5 @@
 ---
-slug: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy
+slug: 1982-07-03-c2_brahma_v_rasteryannosti_sokrovennyy_smysl_ego_molitvy
 record_id: 1982.07.03.C2
 title: Брахма в растерянности. Сокровенный смысл его молитвы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 665. 1982.07.03.C2. Брахма в растерянности. Сокровенный смысл его молитвы
   index: "665"
   filename: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy.md
+  slug: 665-1982-07-03-c2-brahma-v-rasteryannosti-sokrovennyj-smysl-ego-molitvy
 ---
 
 По мере нашего приближения мы будем очарованы, увидев, познав Его пути, чудесный шаг. *Адбхута-крама*, *Урукрама* — Его шаги чудесны, немыслимы, неведомы и непостижимы. Шаги. Чудо.

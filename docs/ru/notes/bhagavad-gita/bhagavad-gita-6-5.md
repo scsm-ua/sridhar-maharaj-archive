@@ -10,9 +10,10 @@ refs:
   - ../../_full/1981/11/1981.11.26.A.B.C.md
   - ../../_full/1982/01/1982.01.18.md
   - ../../_full/1982/05/1982.05.06.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.5
     slug: bhagavad-gita-6-5
 ---

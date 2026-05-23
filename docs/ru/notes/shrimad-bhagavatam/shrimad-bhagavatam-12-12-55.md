@@ -6,9 +6,10 @@ refs:
   - ../../66-vospominaniya-o-gaudiya-mathe/1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
   - ../../_full/1983/08/1983.08.06.B.md
   - ../../_full/1983/09/1983.09.16.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.12.55
     slug: shrimad-bhagavatam-12-12-55
 ---

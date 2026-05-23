@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/10/1982.10.27.A.B.md
   - ../../_full/1982/12/1982.12.16.A.B.C.md
   - ../../_full/1985/06/1985.06.09.md
-tags:
+scriptures:
   - title: Джайва-дхарма
     slug: dzhajva-dharma
+verses:
   - title: Джайва-дхарма 13
     slug: dzhajva-dharma-13
 ---

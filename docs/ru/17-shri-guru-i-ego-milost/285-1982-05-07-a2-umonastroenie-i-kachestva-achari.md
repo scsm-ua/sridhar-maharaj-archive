@@ -1,5 +1,5 @@
 ---
-slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
+slug: 1982-05-07-a2_umonastroenie_i_kachestva_achari
 record_id: 1982.05.07.A2
 title: Умонастроение и качества ачарьи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
     slug: shri-chajtanya-charitamrita-madhya-lila-22-73
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.21
     slug: shrimad-bhagavatam-11-3-21
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.2.12
     slug: mundaka-upanishad-1-2-12
 links:
@@ -40,6 +34,7 @@ legacy:
   title: 285. 1982.05.07.A2. Умонастроение и качества ачарьи
   index: "285"
   filename: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari.md
+  slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
 ---
 
 **Преданный:** Однажды вы сказали, что если доступно семя высокого качества, особое семя, его следует сажать первым.

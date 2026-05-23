@@ -1,5 +1,5 @@
 ---
-slug: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane
+slug: 1983-11-11-b2_predannost_prevyshe_osvobozhdeniya_v_brahmane
 record_id: 1983.11.11.B2
 title: Преданность превыше освобождения в Брахмане
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 899. 1983.11.11.B2. Преданность превыше освобождения в Брахмане
   index: "899"
   filename: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
+  slug: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
     slug: shri-chajtanya-charitamrita-madhya-lila-8-59
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: Бхагавад-гита 9.32

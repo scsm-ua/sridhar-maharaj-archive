@@ -28,9 +28,10 @@ refs:
   - ../../_full/1983/01/1983.01.07.md
   - ../../_full/1983/01/1983.01.14.md
   - ../../_full/1983/05/1983.05.08.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
 ---

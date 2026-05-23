@@ -1,5 +1,5 @@
 ---
-slug: 985-1982-05-07-a3-tri-glavnye-planety-v-goroskope-shridhara-maharadzha
+slug: 1982-05-07-a3_tri_glavnye_planety_v_goroskope_shridhara_maharadzha
 record_id: 1982.05.07.A3
 title: Три главные планеты в гороскопе Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 985. 1982.05.07.A3. Три главные планеты в гороскопе Шридхара Махараджа
   index: "985"
   filename: 985-1982-05-07-a3-tri-glavnye-planety-v-goroskope-shridhara-maharadzha.md
+  slug: 985-1982-05-07-a3-tri-glavnye-planety-v-goroskope-shridhara-maharadzha
 ---
 
 **Преданный:** Вы говорили, что Брихаспати — одна из планет, благоприятных по отношению к вам. Но вы нам так и не сказали, откуда этот перстень?

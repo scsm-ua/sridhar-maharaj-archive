@@ -3,13 +3,14 @@ slug: shri-chajtanya-charitamrita-antya-lila-3-60
 refs:
   - ../../_full/1982/10/1982.10.25.A.md
   - ../../_full/1982/10/1982.10.25.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.60
-    slug: shri-chajtanya-charitamrita-antya-lila-3-60
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.60
+    slug: shri-chajtanya-charitamrita-antya-lila-3-60
   - title: Хари-бхакти-виласа 11.289
     slug: hari-bhakti-vilasa-11-289
 ---

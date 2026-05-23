@@ -1,5 +1,5 @@
 ---
-slug: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah
+slug: 1982-01-09-c6-d1-d3_poklonenie_govardhan-shile_shalagram-shile_i_osnovanie_shchsm_v_1941-1942_godah
 record_id: 1982.01.09.C6.D1.D3
 title: Поклонение Говардхан-шиле, Шалаграм-шиле и основание ШЧСМ в 1941-1942 годах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     основание ШЧСМ в 1941-1942 годах
   index: "1090"
   filename: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah.md
+  slug: 1090-1982-01-09-c6-d1-d3-poklonenie-govardhan-shile-shalagram-shile-i-osnovanie-shchsm-v-1941-1942-godah
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна…

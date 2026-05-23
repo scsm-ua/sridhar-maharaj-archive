@@ -1,5 +1,5 @@
 ---
-slug: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady
+slug: 1982-01-04-a2_gospod_nityananda_i_semya_bhaktivedanty_svami_prabhupady
 record_id: 1982.01.04.A2
 title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Прабхупады
   index: "1071"
   filename: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady.md
+  slug: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол. Есть ли какие-то вопросы от новичков?

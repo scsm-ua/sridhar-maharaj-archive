@@ -1,5 +1,5 @@
 ---
-slug: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu
+slug: 1981-08-31-b4_sharanagati_osnova_predannosti_bogu
 record_id: 1981.08.31.B4
 title: Шаранагати — основа преданности Богу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 1.40
     slug: shri-shri-prapanna-dzhivanamritam-1-40
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.24
     slug: shrimad-bhagavatam-7-5-24
   - title: Шримад-Бхагаватам 7.5.23–24
     slug: shrimad-bhagavatam-7-5-23-24
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
@@ -48,6 +42,7 @@ legacy:
   title: 821. 1981.08.31.B4. Шаранагати — основа преданности Богу
   index: "821"
   filename: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu.md
+  slug: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu
 ---
 
 **Шрила Шридхар Махарадж:** Нитай, Нитай, Нитай, Нитай…

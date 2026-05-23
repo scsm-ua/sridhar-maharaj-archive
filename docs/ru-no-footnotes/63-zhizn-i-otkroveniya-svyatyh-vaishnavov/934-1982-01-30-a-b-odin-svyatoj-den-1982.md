@@ -1,5 +1,5 @@
 ---
-slug: 934-1982-01-30-a-b-odin-svyatoj-den-1982
+slug: 1982-01-30-a-b_odin_svyatoy_den
 record_id: 1982.01.30.A.B
 title: Один святой день
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 934. 1982.01.30.A.B. Один святой день (1982)
   index: "934"
   filename: 934-1982-01-30-a-b-odin-svyatoj-den-1982.md
+  slug: 934-1982-01-30-a-b-odin-svyatoj-den-1982
 ---
 
 [Харе Кришна, Харе Кришна, Гаура Харибол]

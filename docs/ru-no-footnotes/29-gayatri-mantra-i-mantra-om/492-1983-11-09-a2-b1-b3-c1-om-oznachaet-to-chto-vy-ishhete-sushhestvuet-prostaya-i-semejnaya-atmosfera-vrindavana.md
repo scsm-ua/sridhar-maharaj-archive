@@ -1,5 +1,5 @@
 ---
-slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
+slug: 1983-11-09-a2-b1-b3-c1_om_oznachaet_to_chto_vy_ishchete_sushchestvuet_prostaya_i_semeynaya_atmosfera_vrindavana
 record_id: 1983.11.09.A2.B1.B3.C1
 title: «Ом» означает «То, что вы ищете, существует». Простая и семейная
   атмосфера Вриндавана.
@@ -30,6 +30,7 @@ legacy:
     существует». Простая и семейная атмосфера Вриндавана
   index: "492"
   filename: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
+  slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
 ---
 
     там эва бха̄нтам анубха̄ти сарвам̇

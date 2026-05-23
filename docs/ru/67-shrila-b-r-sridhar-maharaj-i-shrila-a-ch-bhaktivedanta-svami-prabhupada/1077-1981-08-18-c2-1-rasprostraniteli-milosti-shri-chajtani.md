@@ -1,5 +1,5 @@
 ---
-slug: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani
+slug: 1981-08-18-c2-1_rasprostraniteli_milosti_shri_chaytani
 record_id: 1981.08.18.C2.1
 title: Распространители милости Шри Чайтаньи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 1077. 1981.08.18.C2.1. Распространители милости Шри Чайтаньи
   index: "1077"
   filename: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani.md
+  slug: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani
 tags:
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.7
     slug: shrimad-bhagavatam-2-1-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
     slug: shri-chajtanya-charitamrita-madhya-lila-17-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
@@ -44,8 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-186
   - title: Шримад-Бхагаватам 1.7.10
     slug: shrimad-bhagavatam-1-7-10
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 1
     slug: manah-shiksha-1
 ---

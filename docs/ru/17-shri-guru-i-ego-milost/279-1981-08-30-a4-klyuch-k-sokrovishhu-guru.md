@@ -1,5 +1,5 @@
 ---
-slug: 279-1981-08-30-a4-klyuch-k-sokrovishhu-guru
+slug: 1981-08-30-a4_klyuch_k_sokrovishchu_guru
 record_id: 1981.08.30.A4
 title: Ключ к сокровищу Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 279. 1981.08.30.A4. Ключ к сокровищу Гуру
   index: "279"
   filename: 279-1981-08-30-a4-klyuch-k-sokrovishhu-guru.md
+  slug: 279-1981-08-30-a4-klyuch-k-sokrovishhu-guru
 tags:
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
 ---

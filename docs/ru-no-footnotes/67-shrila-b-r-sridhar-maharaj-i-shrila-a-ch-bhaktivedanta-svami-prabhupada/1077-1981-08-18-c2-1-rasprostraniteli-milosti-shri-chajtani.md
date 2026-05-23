@@ -1,5 +1,5 @@
 ---
-slug: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani
+slug: 1981-08-18-c2-1_rasprostraniteli_milosti_shri_chaytani
 record_id: 1981.08.18.C2.1
 title: Распространители милости Шри Чайтаньи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1077. 1981.08.18.C2.1. Распространители милости Шри Чайтаньи
   index: "1077"
   filename: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani.md
+  slug: 1077-1981-08-18-c2-1-rasprostraniteli-milosti-shri-chajtani
 ---
 
 **Преданный:** Махарадж?

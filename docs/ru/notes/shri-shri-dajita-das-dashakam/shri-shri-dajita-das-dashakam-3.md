@@ -3,9 +3,10 @@ slug: shri-shri-dajita-das-dashakam-3
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam.md
   - ../../_full/1983/08/1983.08.20.A.md
-tags:
+scriptures:
   - title: Шри Шри Дайита Дас Дашакам
     slug: shri-shri-dajita-das-dashakam
+verses:
   - title: Шри Шри Дайита Дас Дашакам 3
     slug: shri-shri-dajita-das-dashakam-3
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 970-1983-01-10-a2-amiya-nimaj-charit-i-gospod-gauranga-shishir-kumar-ghosha
+slug: 1983-01-10-a2_amiya_nimay_charit_i_gospod_gauranga_shishir_kumar_ghosha
 record_id: 1983.01.10.A2
 title: «Амия Нимай Чарит» и «Господь Гауранга» Шишир Кумар Гхоша
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 970. 1983.01.10.A2. «Амия Нимай Чарит» и «Господь Гауранга» Шишир Кумар Гхоша
   index: "970"
   filename: 970-1983-01-10-a2-amiya-nimaj-charit-i-gospod-gauranga-shishir-kumar-ghosha.md
+  slug: 970-1983-01-10-a2-amiya-nimaj-charit-i-gospod-gauranga-shishir-kumar-ghosha
 ---
 
 **Преданный:** Махарадж, книга, которую вы прочитали в молодости — то была книга «Господь Гауранга»?

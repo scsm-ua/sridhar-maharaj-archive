@@ -1,5 +1,5 @@
 ---
-slug: 144-1982-05-09-a5-dva-varianta-tretego-stiha-shikshashtaki
+slug: 1982-05-09-a5_dva_varianta_tretego_stiha_shikshashtaki
 record_id: 1982.05.09.A5
 title: Два варианта третьего стиха «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Шикшаштакам
     slug: shikshashtakam
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 144. 1982.05.09.A5. Два варианта третьего стиха «Шикшаштаки»
   index: "144"
   filename: 144-1982-05-09-a5-dva-varianta-tretego-stiha-shikshashtaki.md
+  slug: 144-1982-05-09-a5-dva-varianta-tretego-stiha-shikshashtaki
 ---
 
 **Преданный:** *Стих тр̣н̣а̄д апи сунӣчена, тарор апи сахиш̣н̣уна̄*[^_ftn1] иногда читается как «*апи сахиш̣н̣уна̄*», иногда как «*ива сахиш̣н̣уна̄*». Какова изначальная версия, и в чем различие?

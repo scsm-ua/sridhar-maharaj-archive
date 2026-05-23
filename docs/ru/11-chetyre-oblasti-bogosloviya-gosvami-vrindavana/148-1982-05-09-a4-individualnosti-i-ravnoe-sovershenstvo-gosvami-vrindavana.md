@@ -1,5 +1,5 @@
 ---
-slug: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana
+slug: 1982-05-09-a4_individualnosti_i_ravnoe_sovershenstvo_gosvami_vrindavana
 record_id: 1982.05.09.A4
 title: Индивидуальности и равное совершенство Госвами Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 148. 1982.05.09.A4. Индивидуальности и равное совершенство Госвами Вриндавана
   index: "148"
   filename: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana.md
+  slug: 148-1982-05-09-a4-individualnosti-i-ravnoe-sovershenstvo-gosvami-vrindavana
 ---
 
 Наш Гуру Махарадж, когда ему подавали *прасадам* и кто-то спрашивал: «Какой карри понравился Вам больше всего?», обычно отвечал: «Вкус каждого карри лучше вкусов всех остальных карри!» — таким был его ответ. [Смех.] От нас требуется именно эта позиция.

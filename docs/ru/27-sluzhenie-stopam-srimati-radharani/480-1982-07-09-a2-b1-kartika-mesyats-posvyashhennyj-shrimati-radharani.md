@@ -1,5 +1,5 @@
 ---
-slug: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani
+slug: 1982-07-09-a2-b1_kartika_mesyats_posvyashchennyy_shrimati_radharani
 record_id: 1982.07.09.A2.B1
 title: Картика – месяц, посвященный Шримати Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Радхарани
     slug: radharani
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.35
     slug: bhagavad-gita-10-35
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.22.4
     slug: shrimad-bhagavatam-10-22-4
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 480. 1982.07.09.A2.B1. Картика – месяц, посвященный Шримати Радхарани
   index: "480"
   filename: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani.md
+  slug: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani
 ---
 
 *#00:32:54#*

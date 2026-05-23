@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-11-5-36
 refs:
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.5.36
     slug: shrimad-bhagavatam-11-5-36
 ---

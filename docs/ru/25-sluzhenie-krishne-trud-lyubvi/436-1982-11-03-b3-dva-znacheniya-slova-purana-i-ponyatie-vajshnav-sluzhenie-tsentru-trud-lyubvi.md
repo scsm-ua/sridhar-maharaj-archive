@@ -1,5 +1,5 @@
 ---
-slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
+slug: 1982-11-03-b3_dva_znacheniya_slova_purana_i_ponyatie_vayshnav_sluzhenie_tsentru_trud_lyubvi
 record_id: 1982.11.03.B3
 title: Два значения слова Пурана и понятие «вайшнав». Служение Центру – труд любви.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,16 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.18
     slug: shrimad-bhagavatam-12-13-18
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Бхагавад-гита 6.30
@@ -55,6 +49,7 @@ legacy:
     Служение Центру – труд любви
   index: "436"
   filename: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi.md
+  slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
 ---
 
 [**Шрипад Джаджавар Махарадж** начал шлоку, а **Шрила Шридхар Махарадж** продолжил:]

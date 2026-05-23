@@ -1,5 +1,5 @@
 ---
-slug: 425-1983-04-25-a3-sambandha-gyana-znachit-kontseptsiya-absolyutnogo-tsentra
+slug: 1983-04-25-a3_sambandha-gyana_znachit_kontseptsiya_absolyutnogo_tsentra
 record_id: 1983.04.25.A3
 title: Самбандха-гьяна значит «концепция Абсолютного Центра»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 425. 1983.04.25.A3. Самбандха-гьяна значит «концепция Абсолютного Центра»
   index: "425"
   filename: 425-1983-04-25-a3-sambandha-gyana-znachit-kontseptsiya-absolyutnogo-tsentra.md
+  slug: 425-1983-04-25-a3-sambandha-gyana-znachit-kontseptsiya-absolyutnogo-tsentra
 ---
 
 **Преданный:** Махарадж, *кама*, *кродха* и *лобха* — мы пытаемся победить их, но труднее всего победить вожделение. Что делать с вожделением?

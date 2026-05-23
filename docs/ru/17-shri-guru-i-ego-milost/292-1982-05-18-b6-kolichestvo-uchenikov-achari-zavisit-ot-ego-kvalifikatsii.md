@@ -1,5 +1,5 @@
 ---
-slug: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii
+slug: 1982-05-18-b6_kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikatsii
 record_id: 1982.05.18.B6
 title: Количество учеников ачарьи зависит от его квалификации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 292. 1982.05.18.B6. Количество учеников ачарьи зависит от его квалификации
   index: "292"
   filename: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii.md
+  slug: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii
 ---
 
 **Преданный:** Как нам понять? Чайтанья Махапрабху советовал *Ачарьям* в *Кали-югу* не принимать многих учеников.

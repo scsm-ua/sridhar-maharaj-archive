@@ -1,5 +1,5 @@
 ---
-slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
+slug: 1982-06-30-a-b1_usloviya_dlya_pravilnogo_vospevaniya_svyatogo_imeni_istorii_iz_zhizni_sarasvati_thakura
 record_id: 1982.06.30.A.B1
 title: Условия для правильного воспевания Святого Имени. Истории из жизни
   Сарасвати Тхакура.
@@ -25,6 +25,7 @@ legacy:
     Истории из жизни Сарасвати Тхакура
   index: "1018"
   filename: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura.md
+  slug: 1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura
 ---
 
 То, что необходимо для нашего духовного возвышения, роста, прогресса, было рекомендовано, и мы попытаемся общаться с людьми, которые разделяют нашу природу, но стоят выше нас. Необходимо всегда искать общество тех, кто выше, нас превосходящих, святых преданных, которые следуют той же линии мысли (или линии вдохновения), что и мы, *сваджатийа-ашрайа-снигдха*.

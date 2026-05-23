@@ -1,5 +1,5 @@
 ---
-slug: 166-kultura-propovedi-1983-04-02
+slug: 1983-04-02_kultura_propovedi
 record_id: 1983.04.02
 title: Культура проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 166. Культура проповеди. 1983.04.02
   index: "166"
   filename: 166-kultura-propovedi-1983-04-02.md
+  slug: 166-kultura-propovedi-1983-04-02
 ---
 
 *#00:00:00#*

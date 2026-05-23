@@ -1,5 +1,5 @@
 ---
-slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
+slug: 1982-01-20-b3_razvitie_very_i_probuzhdenie_serdtsa
 record_id: 1982.01.20.B3
 title: Развитие веры и пробуждение сердца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 757. 1982.01.20.B3. Развитие веры и пробуждение сердца
   index: "757"
   filename: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa.md
+  slug: 757-1982-01-20-b3-razvitie-very-i-probuzhdenie-serdtsa
 ---
 
 Харе Кришна, Гаурасундар, Гауранга Сундар.

@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-1-7-8
 refs:
   - ../../40-bog-i-bogi/684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.7.8
     slug: shrimad-bhagavatam-1-7-8
 ---

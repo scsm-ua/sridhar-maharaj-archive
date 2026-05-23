@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-1-81
 refs:
   - ../../_full/1982/01/1982.01.11.A1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.81
-    slug: shri-chajtanya-charitamrita-madhya-lila-1-81
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.81
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-81
   - title: Шри Шри Прапанна-дживанамритам 8.26
     slug: shri-shri-prapanna-dzhivanamritam-8-26
 ---

@@ -2,9 +2,10 @@
 slug: bhagavad-gita-2-7
 refs:
   - ../../_full/1981/03/1981.03.02.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.7
     slug: bhagavad-gita-2-7
 ---

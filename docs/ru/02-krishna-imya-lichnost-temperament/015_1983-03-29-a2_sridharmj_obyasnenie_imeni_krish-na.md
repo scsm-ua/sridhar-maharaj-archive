@@ -1,5 +1,5 @@
 ---
-slug: 015_1983-03-29-a2_sridharmj_obyasnenie_imeni_krish-na
+slug: 1983-03-29_obyasnenie_imeni_krish-na
 record_id: 1983.03.29
 title: Объяснение имени «Криш-на»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 015. 1983.03.29 Объяснение имени «Криш-на»
   index: "015"
   filename: 015_1983-03-29-a2_sridharmj_obyasnenie_imeni_krish-na.md
+  slug: 015_1983-03-29-a2_sridharmj_obyasnenie_imeni_krish-na
 tags:
-  - title: «Махабхарата», Удьога-парва
-    slug: mahabharata-udoga-parva
   - title: «Махабхарата», Удьога-парва 71.4
     slug: mahabharata-udoga-parva-71-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.30
     slug: shri-chajtanya-charitamrita-madhya-lila-9-30
 ---

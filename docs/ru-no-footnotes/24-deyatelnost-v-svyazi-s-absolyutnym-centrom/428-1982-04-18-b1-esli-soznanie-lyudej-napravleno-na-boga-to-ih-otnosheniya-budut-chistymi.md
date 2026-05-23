@@ -1,5 +1,5 @@
 ---
-slug: 428-1982-04-18-b1-esli-soznanie-lyudej-napravleno-na-boga-to-ih-otnosheniya-budut-chistymi
+slug: 1982-04-18-b1_esli_soznanie_lyudey_napravleno_na_boga_to_ih_otnosheniya_budut_chistymi
 record_id: 1982.04.18.B1
 title: Если сознание людей направлено на Бога, то их отношения будут чистыми
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     отношения будут чистыми
   index: "428"
   filename: 428-1982-04-18-b1-esli-soznanie-lyudej-napravleno-na-boga-to-ih-otnosheniya-budut-chistymi.md
+  slug: 428-1982-04-18-b1-esli-soznanie-lyudej-napravleno-na-boga-to-ih-otnosheniya-budut-chistymi
 ---
 
 **Шрила Шридхар Махарадж:** Кто еще здесь?

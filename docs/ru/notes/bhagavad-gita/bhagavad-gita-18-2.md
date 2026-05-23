@@ -2,9 +2,10 @@
 slug: bhagavad-gita-18-2
 refs:
   - ../../_full/1982/12/1982.12.22.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.2
     slug: bhagavad-gita-18-2
 ---

@@ -5,9 +5,10 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
   - ../../_full/1982/01/1982.01.07.md
   - ../../_full/1982/01/1982.01.29.md
-tags:
+scriptures:
   - title: Шри Шри Прабхупада-падма Ставаках
     slug: shri-shri-prabhupada-padma-stavakah
+verses:
   - title: Шри Шри Прабхупада-падма Ставаках 8
     slug: shri-shri-prabhupada-padma-stavakah-8
 ---

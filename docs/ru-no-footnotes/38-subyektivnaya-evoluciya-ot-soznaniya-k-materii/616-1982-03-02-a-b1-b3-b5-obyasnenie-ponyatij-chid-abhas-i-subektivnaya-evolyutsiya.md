@@ -1,5 +1,5 @@
 ---
-slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
+slug: 1982-03-02-a-b1-b3-b5_obyasnenie_ponyatiy_chid-abhas_i_subektivnaya_evolyutsiya
 record_id: 1982.03.02.A.B1.B3.B5
 title: Объяснение понятий «чид-абхас» и «субъективная эволюция»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «субъективная эволюция»
   index: "616"
   filename: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
+  slug: 616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya
 ---
 
 **Дух — основа любой материи**

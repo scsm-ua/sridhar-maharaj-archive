@@ -1,5 +1,5 @@
 ---
-slug: 104-o-stradaniyah-guru-iz-za-karmy-ucheniko
+slug: 1983-04-17-a4_o_stradaniyah_guru_iz-za_karmy_uchenikov
 record_id: 1983.04.17.A4
 title: О страданиях гуру из-за кармы учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 104. О страданиях гуру из-за кармы учеников. 1983.04.17.A4
   index: "104"
   filename: 104-o-stradaniyah-guru-iz-za-karmy-ucheniko.md
+  slug: 104-o-stradaniyah-guru-iz-za-karmy-ucheniko
 ---
 
 **Ученик:** Махарадж, кажется, совершенно ясно, что некоторые люди принимают учеников, люди, которые возможно не готовы, и им даже приходится претерпевать некие физические страдания из-за того, что они принимают учеников. Это из-за кармы?

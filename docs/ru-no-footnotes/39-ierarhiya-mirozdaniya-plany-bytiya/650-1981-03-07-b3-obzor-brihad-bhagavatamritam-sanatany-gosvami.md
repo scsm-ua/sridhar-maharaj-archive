@@ -1,5 +1,5 @@
 ---
-slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
+slug: 1981-03-07-b3_obzor_brihad_bhagavatamritam_sanatany_gosvami
 record_id: 1981.03.07.B3
 title: Обзор Брихад Бхагаватамритам Санатаны Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
   index: "650"
   filename: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami.md
+  slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
 ---
 
 **Преданный:** Вы сказали: как Хануман?

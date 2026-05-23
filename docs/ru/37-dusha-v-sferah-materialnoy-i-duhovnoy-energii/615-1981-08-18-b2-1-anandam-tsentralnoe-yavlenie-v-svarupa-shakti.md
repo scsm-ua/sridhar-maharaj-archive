@@ -1,5 +1,5 @@
 ---
-slug: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti
+slug: 1981-08-18-b2-1_anandam_tsentralnoe_yavlenie_v_svarupa-shakti
 record_id: 1981.08.18.B2.1
 title: Анандам — центральное явление в сварупа-шакти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 615. 1981.08.18.B2.1. Анандам — центральное явление в сварупа-шакти
   index: "615"
   filename: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti.md
+  slug: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti
 ---
 
 **Преданный:** Махарадж, а *сварупа-шакти* — это *хладини*? Она происходит из *хладини*? Где находится эта *сварупа-шакти* в онтологии, эта *виласа*, внутреннее движение?

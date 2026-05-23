@@ -1,5 +1,5 @@
 ---
-slug: 919-1982-05-11-b4-slava-hrama-radha-damodara
+slug: 1982-05-11-b4_slava_hrama_radha-damodara
 record_id: 1982.05.11.B4
 title: Слава храма Радха-Дамодара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 919. 1982.05.11.B4. Слава храма Радха-Дамодара
   index: "919"
   filename: 919-1982-05-11-b4-slava-hrama-radha-damodara.md
+  slug: 919-1982-05-11-b4-slava-hrama-radha-damodara
 ---
 
 [Вопрос был задан на бенгали — *переводчик*]

@@ -12,9 +12,10 @@ refs:
   - ../../_full/1982/12/1982.12.28.B.C.md
   - ../../_full/1983/08/1983.08.28.B.C.md
   - ../../_full/1984/01/1984.01.08.md
-tags:
+scriptures:
   - title: «Гитамала», Ямуна-бхававали
     slug: gitamala-yamuna-bhavavali
+verses:
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
 ---

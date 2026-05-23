@@ -4,9 +4,10 @@ refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
   - ../../28-molitvy-i-umonastroenie-gopi/481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
   - ../../_full/1983/08/1983.08.28.B.C.md
-tags:
+scriptures:
   - title: Падьявали
     slug: padyavali
+verses:
   - title: Падьявали 385
     slug: padyavali-385
 ---

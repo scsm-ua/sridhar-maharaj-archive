@@ -1,5 +1,5 @@
 ---
-slug: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki
+slug: 1982-11-07-b3_duhovnyy_geniy_sposoben_vyyti_pobeditelem_iz_lyuboy_shvatki
 record_id: 1982.11.07.B3
 title: Духовный гений способен выйти победителем из любой схватки
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     схватки
   index: "316"
   filename: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki.md
+  slug: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki
 ---
 
 Духовный гений, избранник, за которым стоит Господь — подобный преданный, *Ачарья* — способен одержать победу над всеми и каждым. Преданный, которого поддерживает Верховный Господь, Верховный Авторитет, способен выйти победителем в любой схватке.

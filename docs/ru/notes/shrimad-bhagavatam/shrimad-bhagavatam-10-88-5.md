@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-10-88-5
 refs:
   - ../../_full/1982/01/1982.01.26.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.313
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-313
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.313
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-313
   - title: Шримад-Бхагаватам 10.88.5
     slug: shrimad-bhagavatam-10-88-5
 ---

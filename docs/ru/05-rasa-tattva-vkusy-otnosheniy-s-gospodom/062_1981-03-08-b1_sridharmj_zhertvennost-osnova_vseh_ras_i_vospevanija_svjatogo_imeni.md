@@ -1,5 +1,5 @@
 ---
-slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
+slug: 1981-03-08-b1_zhertvennost_osnova_vseh_ras_i_vospevaniya_svyatogo_imeni
 record_id: 1981.03.08.B1
 title: Жертвенность — основа всех рас и воспевания Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.138
     slug: shri-chajtanya-charitamrita-madhya-lila-20-138
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.136
     slug: shri-chajtanya-charitamrita-madhya-lila-25-136
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.21
     slug: shrimad-bhagavatam-11-14-21
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 links:
@@ -46,6 +38,7 @@ legacy:
   title: 062. 1981.03.08.B1 Жертвенность — основа всех рас и воспевания Святого Имени
   index: "062"
   filename: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni.md
+  slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
 ---
 
 **Преданный:** *Майя* представляет ловушку в той форме, что она предлагает, взаимоотношения, которые не чисты. Это *майя*?

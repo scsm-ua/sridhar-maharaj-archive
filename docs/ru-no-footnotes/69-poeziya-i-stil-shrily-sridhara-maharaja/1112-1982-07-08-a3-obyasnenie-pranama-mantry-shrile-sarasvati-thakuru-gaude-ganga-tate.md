@@ -1,5 +1,5 @@
 ---
-slug: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate
+slug: 1982-07-08-a3_obyasnenie_pranama-mantry_shrile_sarasvati_thakuru_gaude_ganga-tate
 record_id: 1982.07.08.A3
 title: Объяснение пранама-мантры Шриле Сарасвати Тхакуру (гауде ганга-тате…)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     (гауде ганга-тате…)
   index: "1112"
   filename: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate.md
+  slug: 1112-1982-07-08-a3-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-gaude-ganga-tate
 ---
 
 **Шрила Шридхар Махарадж:** Ты уедешь только для того, чтобы вернуться.

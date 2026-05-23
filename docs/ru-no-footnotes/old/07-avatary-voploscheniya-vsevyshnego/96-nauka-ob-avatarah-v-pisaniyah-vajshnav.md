@@ -1,5 +1,5 @@
 ---
-slug: 96-nauka-ob-avatarah-v-pisaniyah-vajshnav
+slug: 1982-01-18-a1_nauka_ob_avatarah_v_pisaniyah_vayshnavov
 record_id: 1982.01.18.A1
 title: Наука об аватарах в Писаниях вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 96. Наука об аватарах в Писаниях вайшнавов. 1982.01.18.A1
   index: "96"
   filename: 96-nauka-ob-avatarah-v-pisaniyah-vajshnav.md
+  slug: 96-nauka-ob-avatarah-v-pisaniyah-vajshnav
 ---
 
 *#00:00:04#*

@@ -1,5 +1,5 @@
 ---
-slug: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna
+slug: 1983-11-28-a2_chast_bezgranichnogo_takzhe_bezgranichna
 record_id: 1983.11.28.A2
 title: Часть Безграничного также безгранична
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 643. 1983.11.28.A2. Часть Безграничного также безгранична
   index: "643"
   filename: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna.md
+  slug: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna
 ---
 
 Имя Кришны есть Сам Кришна, Кришна-*катха* — это Сам Кришна.

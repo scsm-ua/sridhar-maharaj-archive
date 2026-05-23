@@ -1,5 +1,5 @@
 ---
-slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
+slug: 1981-03-08-a-b3_pobeda_nad_vozhdeleniem_soglasno_ucheniyu_gity
 record_id: 1981.03.08.A.B3
 title: Победа над вожделением согласно учению «Гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
   - title: Бхагавад-гита 3.43
     slug: bhagavad-gita-3-43
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.20.19
     slug: shrimad-bhagavatam-10-20-19
   - title: Бхагавад-гита 2.59
@@ -38,6 +34,7 @@ legacy:
   title: 587. 1981.03.08.A.B3. Победа над вожделением согласно учению «Гиты»
   index: "587"
   filename: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity.md
+  slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
 ---
 
 **Преданный:** У меня есть один вопрос.

@@ -1,5 +1,5 @@
 ---
-slug: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma
+slug: 1982-02-15-a1_sva-dharma_i_bhagavata-dharma
 record_id: 1982.02.15.A1
 title: Сва-дхарма и бхагавата-дхарма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -29,8 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.21.2
     slug: shrimad-bhagavatam-11-21-2
 links:
@@ -44,6 +38,7 @@ legacy:
   title: 540. 1982.02.15.A1. Сва-дхарма и бхагавата-дхарма
   index: "540"
   filename: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma.md
+  slug: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma
 ---
 
 **Преданный:** Гуру Махарадж, все, что мы воспринимаем здесь, является проявлением взаимодействия *гун* материальной природы. Когда преданный Господа занят какой-то деятельностью в этом мире, соприкасается с этой материальной природой, он тоже действует в различных *гунах*?

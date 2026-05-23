@@ -1,5 +1,5 @@
 ---
-slug: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve
+slug: 1982-06-08-a4_zhertvennost_iskrennost_i_sadhu-sanga_put_k_istinnoy_molitve
 record_id: 1982.06.08.A4
 title: Жертвенность, искренность и садху-санга – путь к истинной молитве
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     истинной молитве
   index: "801"
   filename: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve.md
+  slug: 801-1982-06-08-a4-zhertvennost-iskrennost-i-sadhu-sanga-put-k-istinnoj-molitve
 ---
 
 **Преданный:** Махарадж, как молиться?

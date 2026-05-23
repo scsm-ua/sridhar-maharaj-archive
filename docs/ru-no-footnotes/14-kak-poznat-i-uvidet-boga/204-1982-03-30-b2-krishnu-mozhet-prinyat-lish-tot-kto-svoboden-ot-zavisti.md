@@ -1,5 +1,5 @@
 ---
-slug: 204-1982-03-30-b2-krishnu-mozhet-prinyat-lish-tot-kto-svoboden-ot-zavisti
+slug: 1982-03-30-b2_krishnu_mozhet_prinyat_lish_tot_kto_svoboden_ot_zavisti
 record_id: 1982.03.30.B2
 title: Кришну может принять лишь тот, кто свободен от зависти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 204. 1982.03.30.B2. Кришну может принять лишь тот, кто свободен от зависти
   index: "204"
   filename: 204-1982-03-30-b2-krishnu-mozhet-prinyat-lish-tot-kto-svoboden-ot-zavisti.md
+  slug: 204-1982-03-30-b2-krishnu-mozhet-prinyat-lish-tot-kto-svoboden-ot-zavisti
 ---
 
 Есть ли у вас вопросы? Она здесь — Пхулангана?

@@ -1,5 +1,5 @@
 ---
-slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
+slug: 1982-06-19-b3_razlichiya_v_ponimanii_krishny_i_ego_okruzheniya_u_smartov_vayshnavov_i_shankaritov
 record_id: 1982.06.19.B3
 title: Различия в понимании Кришны и Его окружения у смартов, вайшнавов и шанкаритов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     смартов, вайшнавов и шанкаритов
   index: "894"
   filename: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov.md
+  slug: 894-1982-06-19-b3-razlichiya-v-ponimanii-krishny-i-ego-okruzheniya-u-smartov-vajshnavov-i-shankaritov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
     slug: shri-chajtanya-charitamrita-adi-lila-17-21
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.76
     slug: shri-chajtanya-charitamrita-adi-lila-7-76
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
     slug: shri-chajtanya-charitamrita-madhya-lila-6-242
-  - title: Брихан-нарадия-пурана
-    slug: brihan-naradiya-purana
   - title: Брихан-нарадия-пурана 38.126
     slug: brihan-naradiya-purana-38-126
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1
     slug: sharanagati-1
 ---

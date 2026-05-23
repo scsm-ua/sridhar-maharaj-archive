@@ -8,9 +8,10 @@ refs:
   - ../../_full/1982/01/1982.01.25.md
   - ../../_full/1983/01/1983.01.26.B.C.md
   - ../../_full/1983/04/1983.04.23.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
 ---

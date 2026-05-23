@@ -1,5 +1,5 @@
 ---
-slug: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne
+slug: 1982-06-14-a1_gopi_pribegayut_k_pomoshchi_bogov_i_svyatyh_mest_isklyuchitelno_s_tselyu_sluzheniya_krishne
 record_id: 1982.06.14.A1
 title: Гопи прибегают к помощи богов и святых мест исключительно с целью
   служения Кришне
@@ -25,9 +25,8 @@ legacy:
     исключительно с целью служения Кришне
   index: "687"
   filename: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne.md
+  slug: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.22.4
     slug: shrimad-bhagavatam-10-22-4
 ---

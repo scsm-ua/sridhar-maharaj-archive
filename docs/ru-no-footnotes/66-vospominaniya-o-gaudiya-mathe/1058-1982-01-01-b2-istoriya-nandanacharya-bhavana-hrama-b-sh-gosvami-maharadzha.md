@@ -1,5 +1,5 @@
 ---
-slug: 1058-1982-01-01-b2-istoriya-nandanacharya-bhavana-hrama-b-sh-gosvami-maharadzha
+slug: 1982-01-01-b2_istoriya_nandanacharya_bhavana_hrama_b_sh_gosvami_maharadzha
 record_id: 1982.01.01.B2
 title: История Нанданачарья Бхавана – храма Б.Ш. Госвами Махараджа.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Махараджа
   index: "1058"
   filename: 1058-1982-01-01-b2-istoriya-nandanacharya-bhavana-hrama-b-sh-gosvami-maharadzha.md
+  slug: 1058-1982-01-01-b2-istoriya-nandanacharya-bhavana-hrama-b-sh-gosvami-maharadzha
 ---
 
 **Преданный:** Махарадж?

@@ -1,5 +1,5 @@
 ---
-slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
+slug: 1982-02-18-b4_v_plenu_vysshego_soznaniya
 record_id: 1982.02.18.B4
 title: В плену высшего сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,15 +23,12 @@ legacy:
   title: 980. 1982.02.18.B4. В плену высшего сознания
   index: "980"
   filename: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya.md
+  slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.14
     slug: bhagavad-gita-13-14
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: Риг-веда
-    slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
 ---

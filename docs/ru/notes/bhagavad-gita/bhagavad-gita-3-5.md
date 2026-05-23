@@ -6,9 +6,10 @@ refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii.md
   - ../../_full/1982/04/1982.04.24.A.B.md
   - ../../_full/1982/07/1982.07.18.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.5
     slug: bhagavad-gita-3-5
 ---

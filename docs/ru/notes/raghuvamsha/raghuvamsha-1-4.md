@@ -3,9 +3,10 @@ slug: raghuvamsha-1-4
 refs:
   - ../../11-chetyre-oblasti-bogosloviya-gosvami-vrindavana/146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany.md
   - ../../_full/1982/01/1982.01.03.md
-tags:
+scriptures:
   - title: Рагхувамша
     slug: raghuvamsha
+verses:
   - title: Рагхувамша 1.4
     slug: raghuvamsha-1-4
 ---

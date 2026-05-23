@@ -1,5 +1,5 @@
 ---
-slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
+slug: 1982-06-05-a7_rezultaty_poiska_shri_krishny
 record_id: 1982.06.05.A7
 title: Результаты поиска Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 008. 1982.06.05.A7 Результаты поиска Шри Кришны
   index: "008"
   filename: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny.md
+  slug: 008_1982-06-05-a7_sridharmj_rezultaty_poiska_shri_krishny
 ---
 
 **Видагдха Мадхава Прабху:** Махарадж, а каков дух воспевания?

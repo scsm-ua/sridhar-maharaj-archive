@@ -1,5 +1,5 @@
 ---
-slug: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry
+slug: 1983-04-16-a1_dva_usloviya_dlya_podlinnogo_povtoreniya_maha-mantry
 record_id: 1983.04.16.A1
 title: Два условия для подлинного повторения маха-мантры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 341. 1983.04.16.A1. Два условия для подлинного повторения маха-мантры
   index: "341"
   filename: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry.md
+  slug: 341-1983-04-16-a1-dva-usloviya-dlya-podlinnogo-povtoreniya-maha-mantry
 ---
 
 **Преданный:** Это вопрос я задавал раз или два: мы вдохновляем каждого, воодушевляем каждого повторять Харе Кришна мантру, однако видим в «Падма-пуране» сказано: «Без должного посвящения мантра не имеет эффекта». Те, кто лишены подлинной, должной связи, могут ли получить некое благо от повторения мантры?

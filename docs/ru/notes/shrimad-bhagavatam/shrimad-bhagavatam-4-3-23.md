@@ -12,13 +12,14 @@ refs:
   - ../../_full/1983/04/1983.04.25.md
   - ../../_full/1983/07/1983.07.08.md
   - ../../_full/1983/08/1983.08.08.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
-    slug: shri-chajtanya-charitamrita-adi-lila-4-66
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
+    slug: shri-chajtanya-charitamrita-adi-lila-4-66
   - title: Шримад-Бхагаватам 4.3.23
     slug: shrimad-bhagavatam-4-3-23
 ---

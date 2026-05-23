@@ -1,5 +1,5 @@
 ---
-slug: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee
+slug: 1982-11-07-c1_shkola_obezyany_v_predanii_bogu_dusha_neset_otvetstvennost_za_svoe_proshloe_nastoyashchee_i_budushchee
 record_id: 1982.11.07.C1
 title: «Школа обезьяны» в предании Богу. Душа несет ответственность за свое
   прошлое, настоящее и будущее.
@@ -28,6 +28,7 @@ legacy:
     ответственность за свое прошлое, настоящее и будущее
   index: "590"
   filename: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee.md
+  slug: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee
 ---
 
     бхакти-марга, гйана-марга шрейо(?)

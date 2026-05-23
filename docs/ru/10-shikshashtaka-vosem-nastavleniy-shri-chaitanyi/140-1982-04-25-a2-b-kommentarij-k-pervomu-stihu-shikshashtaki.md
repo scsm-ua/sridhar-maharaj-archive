@@ -1,5 +1,5 @@
 ---
-slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
+slug: 1982-04-25-a2-b_kommentariy_k_pervomu_stihu_shikshashtaki
 record_id: 1982.04.25.A2.B
 title: Комментарий к первому стиху «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,32 +15,18 @@ category:
 tags:
   - title: Шикшаштакам
     slug: shikshashtakam
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Нитай-Пада-Камала
-    slug: nitaj-pada-kamala
   - title: Нитай-Пада-Камала 3
     slug: nitaj-pada-kamala-3
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.15
     slug: vidagdha-madhava-1-15
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.23
     slug: shrimad-bhagavatam-12-13-23
 links:
@@ -54,6 +40,7 @@ legacy:
   title: 140. 1982.04.25.A2.B. Комментарий к первому стиху «Шикшаштаки»
   index: "140"
   filename: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki.md
+  slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
 ---
 
 **Джаятиртха Махарадж:** Шридхардев Госвами!

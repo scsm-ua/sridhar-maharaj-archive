@@ -1,5 +1,5 @@
 ---
-slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
+slug: 1982-06-19-b6-c1_molitvy_gopi_v_razluke_raznoobraznye_smysly_stiha_tava_kathamritam
 record_id: 1982.06.19.B6.C1
 title: Молитвы гопи в разлуке. Разнообразные смыслы стиха «тава катхамритам…».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «тава катхамритам…»
   index: "482"
   filename: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam.md
+  slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
 ---
 
 **Преданный:** Махарадж, вы говорили, что «*тава катха̄мр̣там̇ тапта-джӣванам̇*[^_ftn1]» — эти описания имеют множество смыслов, значений.

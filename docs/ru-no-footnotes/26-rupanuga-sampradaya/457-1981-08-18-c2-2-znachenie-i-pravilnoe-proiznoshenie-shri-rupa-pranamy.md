@@ -1,5 +1,5 @@
 ---
-slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
+slug: 1981-08-18-c2-2_znachenie_i_pravilnoe_proiznoshenie_shri_rupa-pranamy
 record_id: 1981.08.18.C2.2
 title: Значение и правильное произношение Шри Рупа-пранамы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
   index: "457"
   filename: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
+  slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
 ---
 
 **Госвами Махарадж:** Махарадж?

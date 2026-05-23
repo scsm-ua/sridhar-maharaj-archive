@@ -4,13 +4,14 @@ refs:
   - ../../17-shri-guru-i-ego-milost/305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov.md
   - ../../18-posvyaschenie/325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha.md
   - ../../_full/1983/04/1983.04.17.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
-    slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
   - title: Шветашватара-упанишад 6.23
     slug: shvetashvatara-upanishad-6-23
 ---

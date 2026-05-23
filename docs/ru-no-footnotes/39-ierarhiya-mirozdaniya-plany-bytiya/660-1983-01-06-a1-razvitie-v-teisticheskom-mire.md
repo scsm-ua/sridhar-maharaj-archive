@@ -1,5 +1,5 @@
 ---
-slug: 660-1983-01-06-a1-razvitie-v-teisticheskom-mire
+slug: 1983-01-06-a1_razvitie_v_teisticheskom_mire
 record_id: 1983.01.06.A1
 title: Развитие в теистическом мире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 660. 1983.01.06.A1. Развитие в теистическом мире
   index: "660"
   filename: 660-1983-01-06-a1-razvitie-v-teisticheskom-mire.md
+  slug: 660-1983-01-06-a1-razvitie-v-teisticheskom-mire
 ---
 
 **Преданный:** Там есть один храм. Я его посещал.

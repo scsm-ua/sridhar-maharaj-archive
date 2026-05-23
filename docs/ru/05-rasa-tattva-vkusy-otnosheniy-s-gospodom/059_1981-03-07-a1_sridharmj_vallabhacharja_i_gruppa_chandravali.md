@@ -1,5 +1,5 @@
 ---
-slug: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali
+slug: 1981-03-07-a1_vallabhacharya_i_gruppa_chandravali
 record_id: 1981.03.07.A1
 title: Валлабхачарья и группа Чандравали
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 059. 1981.03.07.A1 Валлабхачарья и группа Чандравали
   index: "059"
   filename: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali.md
+  slug: 059_1981-03-07-a1_sridharmj_vallabhacharja_i_gruppa_chandravali
 ---
 
 **Шрила Шридхар Махарадж:** А из какой части Индии вы?

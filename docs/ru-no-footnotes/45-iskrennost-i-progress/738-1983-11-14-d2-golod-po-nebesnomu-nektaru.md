@@ -1,5 +1,5 @@
 ---
-slug: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru
+slug: 1983-11-14-d2_golod_po_nebesnomu_nektaru
 record_id: 1983.11.14.D2
 title: Голод по небесному нектару
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 738. 1983.11.14.D2. Голод по небесному нектару
   index: "738"
   filename: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru.md
+  slug: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru
 ---
 
 **Преданный:** Кажется, что *бхакти-марга* — это путь одиночки. Не так-то много людей, серьезно настроенных.

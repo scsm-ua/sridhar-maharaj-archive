@@ -16,8 +16,6 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.142
     slug: shri-chajtanya-charitamrita-adi-lila-5-142
 links:

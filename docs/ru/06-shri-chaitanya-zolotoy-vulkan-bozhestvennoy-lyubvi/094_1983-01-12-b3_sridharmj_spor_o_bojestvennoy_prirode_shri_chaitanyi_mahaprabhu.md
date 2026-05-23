@@ -1,5 +1,5 @@
 ---
-slug: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu
+slug: 1983-01-12-b3_spor_o_bozhestvennoy_prirode_shri_chaytani_mahaprabhu
 record_id: 1983.01.12.B3
 title: Спор о божественной природе Шри Чайтаньи Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 094. 1983.01.12.B3 Спор о божественной природе Шри Чайтаньи Махапрабху
   index: "094"
   filename: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu.md
+  slug: 094_1983-01-12-b3_sridharmj_spor_o_bojestvennoy_prirode_shri_chaitanyi_mahaprabhu
 ---
 
 **Преданный:** Когда я был во Вриндаване, Госвами храма Радха-Рамана сказал, что когда ваш Гуру Махарадж прибыл во Вриндаван, он вызвал там своими речами конфликт, поскольку проповедовал, что Шри Чайтанья Махапрабху — Бхагаван. И он сказал, что в Бенгалии разгорелся большой диспут в связи с идеей, что Махапрабху — Бог. В свое время в Бенгалии шли бурные диспуты. Не могли бы вы рассказать об этом?

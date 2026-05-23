@@ -1,5 +1,5 @@
 ---
-slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
+slug: 1982-04-23-a1_krishna_nikogda_ne_pokidaet_vrindavan
 record_id: 1982.04.23.A1
 title: Кришна никогда не покидает Вриндаван
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 049. 1982.04.23.A1 Кришна никогда не покидает Вриндаван
   index: "049"
   filename: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan.md
+  slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
     slug: shri-chajtanya-charitamrita-antya-lila-1-67
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
 ---

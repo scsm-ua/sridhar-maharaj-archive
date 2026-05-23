@@ -4,9 +4,10 @@ refs:
   - ../../17-shri-guru-i-ego-milost/299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru.md
   - ../../_full/1982/12/1982.12.14.B.md
   - ../../_full/1984/01/1984.01.08.A.B1.md
-tags:
+scriptures:
   - title: «Махабхарата», Удьога-парва
     slug: mahabharata-udoga-parva
+verses:
   - title: «Махабхарата», Удьога-парва 179.25
     slug: mahabharata-udoga-parva-179-25
 ---

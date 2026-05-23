@@ -1,5 +1,5 @@
 ---
-slug: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu
+slug: 1981-02-28-d4_podlinnyy_progress_dvizhenie_ot_smerti_k_bessmertiyu
 record_id: 1981.02.28.D4
 title: Подлинный прогресс — движение от смерти к бессмертию
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 557. 1981.02.28.D4. Подлинный прогресс — движение от смерти к бессмертию
   index: "557"
   filename: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu.md
+  slug: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu
 ---
 
 **Преданный:** Недавно была большая международная научная конференция в Торонто, в этом году, в январе. Я тоже присутствовал на этой конференции. Там участвовали пять тысяч ученых со всего мира.

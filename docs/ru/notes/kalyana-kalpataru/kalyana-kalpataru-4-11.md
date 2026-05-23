@@ -3,9 +3,10 @@ slug: kalyana-kalpataru-4-11
 refs:
   - ../../_full/1982/01/1982.01.05.A.md
   - ../../_full/1982/08/1982.08.31.B.C.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 4.11
     slug: kalyana-kalpataru-4-11
 ---

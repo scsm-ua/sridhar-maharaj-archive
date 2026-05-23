@@ -1,5 +1,5 @@
 ---
-slug: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress
+slug: 1982-01-31-b2_mnozhestvo_guru_i_duhovnyy_progress
 record_id: 1982.01.31.B2
 title: Множество гуру и духовный прогресс
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 306. 1982.01.31.B2. Множество гуру и духовный прогресс
   index: "306"
   filename: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress.md
+  slug: 306-1982-01-31-b2-mnozhestvo-guru-i-duhovnyj-progress
 ---
 
 **Преданный:** Каково положение вещей, когда речь идет о принятии одного или более наставляющих духовных учителей?

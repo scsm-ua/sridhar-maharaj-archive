@@ -1,5 +1,5 @@
 ---
-slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
+slug: 1982-07-15-a2_kalidas_pochitatel_ostatkov_pishchi_i_vody_so_stop_vayshnavov
 record_id: 1982.07.15.A2
 title: Калидас – почитатель остатков пищи и воды со стоп вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     вайшнавов
   index: "935"
   filename: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov.md
+  slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
     slug: shri-chajtanya-charitamrita-madhya-lila-15-237
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.6.46
     slug: shrimad-bhagavatam-11-6-46
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 ---

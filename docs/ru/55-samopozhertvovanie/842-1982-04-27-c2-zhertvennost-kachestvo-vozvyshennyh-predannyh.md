@@ -1,5 +1,5 @@
 ---
-slug: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh
+slug: 1982-04-27-c2_zhertvennost_kachestvo_vozvyshennyh_predannyh
 record_id: 1982.04.27.C2
 title: Жертвенность – качество возвышенных преданных
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 8
     slug: shri-nama-mahatmya-8
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 842. 1982.04.27.C2. Жертвенность – качество возвышенных преданных
   index: "842"
   filename: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh.md
+  slug: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh
 ---
 
 **Преданный:** У нас есть множество вопросов, которые мы хотели бы вам задать, но мы не хотим вас задерживать: вы уже одарили нас великой милостью. Мы не хотим задерживать вас.

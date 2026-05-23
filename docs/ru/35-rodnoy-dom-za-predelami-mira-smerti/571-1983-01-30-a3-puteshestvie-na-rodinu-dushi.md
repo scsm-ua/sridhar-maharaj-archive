@@ -1,5 +1,5 @@
 ---
-slug: 571-1983-01-30-a3-puteshestvie-na-rodinu-dushi
+slug: 1983-01-30-a3_puteshestvie_na_rodinu_dushi
 record_id: 1983.01.30.A3
 title: Путешествие на родину души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 571. 1983.01.30.A3. Путешествие на родину души
   index: "571"
   filename: 571-1983-01-30-a3-puteshestvie-na-rodinu-dushi.md
+  slug: 571-1983-01-30-a3-puteshestvie-na-rodinu-dushi
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
 ---

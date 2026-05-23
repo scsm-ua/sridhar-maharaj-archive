@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-22-99
 refs:
   - ../../40-bog-i-bogi/677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
   - ../../_full/1982/03/1982.03.16.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.99
     slug: shri-chajtanya-charitamrita-madhya-lila-22-99
 ---

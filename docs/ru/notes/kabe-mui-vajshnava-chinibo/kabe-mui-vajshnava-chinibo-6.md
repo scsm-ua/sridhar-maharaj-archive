@@ -5,9 +5,10 @@ refs:
   - ../../54-smirenie-i-terpenie/837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
   - ../../_full/1983/04/1983.04.02.md
   - ../../_full/1983/05/1983.05.09.A.md
-tags:
+scriptures:
   - title: Кабе муи вайшнава чинибо
     slug: kabe-mui-vajshnava-chinibo
+verses:
   - title: Кабе муи вайшнава чинибо 6
     slug: kabe-mui-vajshnava-chinibo-6
 ---

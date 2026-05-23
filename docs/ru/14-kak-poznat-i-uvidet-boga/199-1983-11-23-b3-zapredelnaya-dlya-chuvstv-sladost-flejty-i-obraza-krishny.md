@@ -1,5 +1,5 @@
 ---
-slug: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny
+slug: 1983-11-23-b3_zapredelnaya_dlya_chuvstv_sladost_fleyty_i_obraza_krishny
 record_id: 1983.11.23.B3
 title: Запредельная для чувств сладость флейты и образа Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 199. 1983.11.23.B3. Запредельная для чувств сладость флейты и образа Кришны
   index: "199"
   filename: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny.md
+  slug: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
 ---

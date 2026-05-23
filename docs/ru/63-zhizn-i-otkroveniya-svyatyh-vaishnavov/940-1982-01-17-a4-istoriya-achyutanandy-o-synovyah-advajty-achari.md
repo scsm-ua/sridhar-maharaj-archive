@@ -1,5 +1,5 @@
 ---
-slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
+slug: 1982-01-17-a4_istoriya_achyutanandy_o_synovyah_advayty_achari
 record_id: 1982.01.17.A4
 title: История Ачьютананды. О сыновьях Адвайты Ачарьи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
   index: "940"
   filename: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
+  slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
     slug: shri-chajtanya-charitamrita-madhya-lila-3-28
-  - title: Шри Чайтанья-чандродая-натака
-    slug: shri-chajtanya-chandrodaya-nataka
   - title: Шри Чайтанья-чандродая-натака 5.13
     slug: shri-chajtanya-chandrodaya-nataka-5-13
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.114
@@ -38,8 +35,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-3-125
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.126
     slug: shri-chajtanya-charitamrita-madhya-lila-3-126
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 2
     slug: manah-shiksha-2
   - title: Манах-шикша 1

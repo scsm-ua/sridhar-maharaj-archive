@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-2-7-42
 refs:
   - ../../_full/1982/12/1982.12.22.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.7.42
     slug: shrimad-bhagavatam-2-7-42
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya
+slug: 1982-01-25-a2_materiya_eto_aysberg_v_okeane_soznaniya
 record_id: 1982.01.25.A2
 title: Материя – это айсберг в океане сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 619. 1982.01.25.A2. Материя – это айсберг в океане сознания
   index: "619"
   filename: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya.md
+  slug: 619-1982-01-25-a2-materiya-eto-ajsberg-v-okeane-soznaniya
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
 ---

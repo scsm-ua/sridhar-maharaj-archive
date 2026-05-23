@@ -1,5 +1,5 @@
 ---
-slug: 246-kratkoe-obyasnenie-proishozhdeniya-du
+slug: 1982-01-09-a2_kratkoe_obyasnenie_proishozhdeniya_dushi
 record_id: 1982.01.09.A2
 title: Краткое объяснение происхождения души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 246. Краткое объяснение происхождения души. 1982.01.09.A2
   index: "246"
   filename: 246-kratkoe-obyasnenie-proishozhdeniya-du.md
+  slug: 246-kratkoe-obyasnenie-proishozhdeniya-du
 ---
 
 **Ученик:** Ваш вопрос в том, как мы попали в материальный мир? (переспрашивает Акшаянанда Махарадж — Шрипад Сагар Махарадж)

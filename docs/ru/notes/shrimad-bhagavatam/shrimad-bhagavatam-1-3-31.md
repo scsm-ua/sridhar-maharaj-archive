@@ -5,9 +5,10 @@ refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
   - ../../_full/1982/01/1982.01.04.md
   - ../../_full/1983/06/1983.06.05.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.3.31
     slug: shrimad-bhagavatam-1-3-31
 ---

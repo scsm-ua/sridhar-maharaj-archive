@@ -22,9 +22,10 @@ refs:
   - ../../_full/1983/08/1983.08.25.B.md
   - ../../_full/1983/10/1983.10.25.A.md
   - ../../_full/1983/11/1983.11.12.A.B.md
-tags:
+scriptures:
   - title: Риг-веда
     slug: rig-veda
+verses:
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
 ---

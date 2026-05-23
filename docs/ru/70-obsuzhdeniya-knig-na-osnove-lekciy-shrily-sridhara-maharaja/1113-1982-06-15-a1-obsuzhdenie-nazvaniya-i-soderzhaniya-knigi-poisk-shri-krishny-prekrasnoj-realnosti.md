@@ -1,5 +1,5 @@
 ---
-slug: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti
+slug: 1982-06-15-a1_obsuzhdenie_nazvaniya_i_soderzhaniya_knigi_poisk_shri_krishny_prekrasnoy_realnosti
 record_id: 1982.06.15.A1
 title: Обсуждение названия и содержания книги Поиск Шри Кришны, Прекрасной Реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Кришны, Прекрасной Реальности
   index: "1113"
   filename: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti.md
+  slug: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
 ---

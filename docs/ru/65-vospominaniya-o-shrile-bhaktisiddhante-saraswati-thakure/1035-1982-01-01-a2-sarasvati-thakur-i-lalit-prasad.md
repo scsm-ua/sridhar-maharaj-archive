@@ -1,5 +1,5 @@
 ---
-slug: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad
+slug: 1982-01-01-a2_sarasvati_thakur_i_lalit_prasad
 record_id: 1982.01.01.A2
 title: Сарасвати Тхакур и Лалит Прасад
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1035. 1982.01.01.A2. Сарасвати Тхакур и Лалит Прасад
   index: "1035"
   filename: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad.md
+  slug: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.3
     slug: bhagavad-gita-7-3
   - title: Бхагавад-гита 7.19
@@ -34,18 +33,12 @@ tags:
     slug: bhagavad-gita-6-46
   - title: Бхагавад-гита 6.47
     slug: bhagavad-gita-6-47
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
 ---

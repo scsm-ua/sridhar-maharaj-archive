@@ -1,5 +1,5 @@
 ---
-slug: 260-flejta-krishny-1982-01-03-b
+slug: 1982-01-03-b_fleyta_krishny
 record_id: 1982.01.03.B
 title: Флейта Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -36,6 +36,7 @@ legacy:
   title: 260. Флейта Кришны. 1982.01.03.B
   index: "260"
   filename: 260-flejta-krishny-1982-01-03-b.md
+  slug: 260-flejta-krishny-1982-01-03-b
 ---
 
 **Ученик:** Махарадж, флейта Кришны, вену?

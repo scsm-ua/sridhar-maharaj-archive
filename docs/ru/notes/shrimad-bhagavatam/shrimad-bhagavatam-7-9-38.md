@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-7-9-38
 refs:
   - ../../_full/1981/11/1981.11.10.B1.2.md
   - ../../_full/1983/04/1983.04.16.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.9.38
     slug: shrimad-bhagavatam-7-9-38
 ---

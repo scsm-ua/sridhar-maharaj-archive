@@ -1,5 +1,5 @@
 ---
-slug: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti
+slug: 1982-06-15-a1_obsuzhdenie_nazvaniya_i_soderzhaniya_knigi_poisk_shri_krishny_prekrasnoy_realnosti
 record_id: 1982.06.15.A1
 title: Обсуждение названия и содержания книги Поиск Шри Кришны, Прекрасной Реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кришны, Прекрасной Реальности
   index: "1113"
   filename: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti.md
+  slug: 1113-1982-06-15-a1-obsuzhdenie-nazvaniya-i-soderzhaniya-knigi-poisk-shri-krishny-prekrasnoj-realnosti
 ---
 
 Ее красота возрастала. Различные комментаторы дали свое толкование, но интерпретация была дана одним бенгальским ученым, Харинатхом Де. Его толкование понравилось мне больше всего. Он говорил о том, что звуковая красота превратилась в красоту визуальную. Красота слуховая, красота звука через слух достигала сердца и вносила свой вклад, порождая красоту образа.

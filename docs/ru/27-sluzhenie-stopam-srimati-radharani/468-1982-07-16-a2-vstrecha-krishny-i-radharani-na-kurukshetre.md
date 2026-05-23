@@ -1,5 +1,5 @@
 ---
-slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
+slug: 1982-07-16-a2_vstrecha_krishny_i_radharani_na_kurukshetre
 record_id: 1982.07.16.A2
 title: Встреча Кришны и Радхарани на Курукшетре
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
   index: "468"
   filename: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre.md
+  slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
     slug: shri-chajtanya-charitamrita-madhya-lila-13-159
 ---

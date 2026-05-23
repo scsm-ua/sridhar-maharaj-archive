@@ -1,5 +1,5 @@
 ---
-slug: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya
+slug: 1982-09-05-b2_prasad_reshenie_problemy_mirskogo_bytiya
 record_id: 1982.09.05.B2
 title: Прасад — решение проблемы мирского бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Прасад
     slug: prasad
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Бхагавад-гита 3.13
@@ -32,6 +30,7 @@ legacy:
   title: 794. 1982.09.05.B2. Прасад — решение проблемы мирского бытия
   index: "794"
   filename: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya.md
+  slug: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya
 ---
 
 **Преданный:** Слушая вас, мы наполняемся энергией, но мы боимся, что вы от общения с нами что-то теряете.

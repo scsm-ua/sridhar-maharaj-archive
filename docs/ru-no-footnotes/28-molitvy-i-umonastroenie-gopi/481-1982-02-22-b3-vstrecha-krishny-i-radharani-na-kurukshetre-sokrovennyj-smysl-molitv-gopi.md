@@ -1,5 +1,5 @@
 ---
-slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
+slug: 1982-02-22-b3_vstrecha_krishny_i_radharani_na_kurukshetre_sokrovennyy_smysl_molitv_gopi
 record_id: 1982.02.22.B3
 title: Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     смысл молитв гопи
   index: "481"
   filename: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
+  slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
 ---
 
 Когда Радхарани встречает Кришну на Курукшетре, Ее ум стремится во Вриндаван. Она говорит: «Ты здесь, но Мой ум стремится во Вриндаван». Почему? Вриндаван обладает значимой ролью в этой *лиле*. Вриндаван. Что такое Вриндаван? Это пейзажи. Это Ямуна, вода, лес, птицы, крики павлинов, коровы, пастухи, Говардхан, пещеры Говардхана, а также мать и иные родственники. Все это прекрасно устроено ради Их цели, Радхи и Кришны. Это сцена, и Радха стремится вновь быть на этой сцене в Его обществе.

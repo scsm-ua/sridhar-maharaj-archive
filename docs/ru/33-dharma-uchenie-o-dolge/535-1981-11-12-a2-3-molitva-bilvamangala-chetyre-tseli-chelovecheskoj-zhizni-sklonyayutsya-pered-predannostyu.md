@@ -1,5 +1,5 @@
 ---
-slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
+slug: 1981-11-12-a2-3_molitva_bilvamangala_chetyre_tseli_chelovecheskoy_zhizni_sklonyayutsya_pered_predannostyu
 record_id: 1981.11.12.A2.3
 title: Молитва Билвамангала. Четыре цели человеческой жизни склоняются перед
   преданностью.
@@ -18,12 +18,8 @@ tags:
     slug: varnashrama-dharma
   - title: Дхарма
     slug: dharma
-  - title: Кришна-карнамрита
-    slug: krishna-karnamrita
   - title: Кришна-карнамрита 107
     slug: krishna-karnamrita-107
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.31
     slug: shri-chajtanya-charitamrita-madhya-lila-22-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.117
@@ -40,6 +36,7 @@ legacy:
     жизни склоняются перед преданностью
   index: "535"
   filename: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu.md
+  slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
 ---
 
 Такой вывод: любая связь с тем миром *ниргуны* может принести нам полное успокоение. Что это за успокоение?

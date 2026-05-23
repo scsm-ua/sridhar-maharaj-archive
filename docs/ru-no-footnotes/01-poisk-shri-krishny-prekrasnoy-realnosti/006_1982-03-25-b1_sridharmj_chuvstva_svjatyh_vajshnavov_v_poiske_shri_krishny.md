@@ -1,5 +1,5 @@
 ---
-slug: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny
+slug: 1982-03-25-b1_chuvstva_svyatyh_vayshnavov_v_poiske_shri_krishny
 record_id: 1982.03.25.B1
 title: Чувства святых вайшнавов в поиске Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 006. 1982.03.25.B1 Чувства святых вайшнавов в поиске Шри Кришны
   index: "006"
   filename: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny.md
+  slug: 006_1982-03-25-b1_sridharmj_chuvstva_svjatyh_vajshnavov_v_poiske_shri_krishny
 ---
 
     …бахава иха вихан̇га̄ бхикш̣у-чарйа̄м̇ чаранти

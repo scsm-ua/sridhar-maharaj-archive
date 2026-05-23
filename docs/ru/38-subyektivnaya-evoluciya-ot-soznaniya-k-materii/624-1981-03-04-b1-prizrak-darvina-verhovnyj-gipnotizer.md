@@ -1,5 +1,5 @@
 ---
-slug: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer
+slug: 1981-03-04-b1_prizrak_darvina_verhovnyy_gipnotizer
 record_id: 1981.03.04.B1
 title: Призрак Дарвина. Верховный Гипнотизер.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 624. 1981.03.04.B1. Призрак Дарвина. Верховный Гипнотизер
   index: "624"
   filename: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer.md
+  slug: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
   - title: Бхагавад-гита 15.1
@@ -34,8 +33,6 @@ tags:
     slug: bhagavad-gita-4-34
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
 ---

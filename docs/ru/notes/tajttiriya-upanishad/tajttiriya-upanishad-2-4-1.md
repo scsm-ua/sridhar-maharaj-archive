@@ -3,9 +3,10 @@ slug: tajttiriya-upanishad-2-4-1
 refs:
   - ../../_full/1982/02/1982.02.17.md
   - ../../_full/1983/09/1983.09.20.A.B.C.md
-tags:
+scriptures:
   - title: Тайттирия-упанишад
     slug: tajttiriya-upanishad
+verses:
   - title: Тайттирия-упанишад 2.4.1
     slug: tajttiriya-upanishad-2-4-1
 ---

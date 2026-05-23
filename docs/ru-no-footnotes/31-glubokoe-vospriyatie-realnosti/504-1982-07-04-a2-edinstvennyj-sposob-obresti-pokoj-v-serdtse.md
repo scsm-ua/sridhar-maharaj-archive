@@ -1,5 +1,5 @@
 ---
-slug: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse
+slug: 1982-07-04-a2_edinstvennyy_sposob_obresti_pokoy_v_serdtse
 record_id: 1982.07.04.A2
 title: Единственный способ обрести покой в сердце
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 504. 1982.07.04.A2. Единственный способ обрести покой в сердце
   index: "504"
   filename: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse.md
+  slug: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse
 ---
 
 **Преданный:** И все сохраняет Сам Господь Кришна.

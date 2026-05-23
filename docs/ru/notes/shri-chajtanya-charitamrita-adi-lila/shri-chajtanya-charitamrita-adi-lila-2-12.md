@@ -3,13 +3,14 @@ slug: shri-chajtanya-charitamrita-adi-lila-2-12
 refs:
   - ../../29-gayatri-mantra-i-mantra-om/492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
-    slug: shri-chajtanya-charitamrita-adi-lila-2-12
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
+    slug: shri-chajtanya-charitamrita-adi-lila-2-12
   - title: Мундака Упанишад 2.2.9–11
     slug: mundaka-upanishad-2-2-9-11
 ---

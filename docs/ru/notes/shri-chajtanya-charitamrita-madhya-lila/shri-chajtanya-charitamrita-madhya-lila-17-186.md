@@ -9,13 +9,14 @@ refs:
   - ../../_full/1982/11/1982.11.26.A.B.md
   - ../../_full/1983/05/1983.05.12.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: «Махабхараты», Вана-парва
     slug: mahabharaty-vana-parva
-  - title: «Махабхараты», Вана-парва 313.117
-    slug: mahabharaty-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Махабхараты», Вана-парва 313.117
+    slug: mahabharaty-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57

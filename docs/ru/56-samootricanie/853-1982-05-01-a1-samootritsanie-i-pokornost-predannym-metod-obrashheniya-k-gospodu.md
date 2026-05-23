@@ -1,5 +1,5 @@
 ---
-slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
+slug: 1982-05-01-a1_samootritsanie_i_pokornost_predannym_metod_obrashcheniya_k_gospodu
 record_id: 1982.05.01.A1
 title: Самоотрицание и покорность преданным – метод обращения к Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: «Гитамала», Ямуна-бхававали
-    slug: gitamala-yamuna-bhavavali
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 9.4.63
@@ -45,6 +37,7 @@ legacy:
     обращения к Господу
   index: "853"
   filename: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu.md
+  slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
 ---
 
 Бесконечно малое и бесконечно великое, безграничное, тесно связаны.

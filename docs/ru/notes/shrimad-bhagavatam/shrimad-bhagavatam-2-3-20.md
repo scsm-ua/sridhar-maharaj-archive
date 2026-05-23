@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-2-3-20
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.3.20
     slug: shrimad-bhagavatam-2-3-20
 ---

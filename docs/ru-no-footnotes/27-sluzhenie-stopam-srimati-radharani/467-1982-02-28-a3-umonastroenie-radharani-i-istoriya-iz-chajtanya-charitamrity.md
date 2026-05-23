@@ -1,5 +1,5 @@
 ---
-slug: 467-1982-02-28-a3-umonastroenie-radharani-i-istoriya-iz-chajtanya-charitamrity
+slug: 1982-02-28-a3_umonastroenie_radharani_i_istoriya_iz_chaytanya-charitamrity
 record_id: 1982.02.28.A3
 title: Умонастроение Радхарани и история из Чайтанья-Чаритамриты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 467. 1982.02.28.A3. Умонастроение Радхарани и история из Чайтанья-Чаритамриты
   index: "467"
   filename: 467-1982-02-28-a3-umonastroenie-radharani-i-istoriya-iz-chajtanya-charitamrity.md
+  slug: 467-1982-02-28-a3-umonastroenie-radharani-i-istoriya-iz-chajtanya-charitamrity
 ---
 
 Онтология Прекрасной Реальности (часть 3.3)

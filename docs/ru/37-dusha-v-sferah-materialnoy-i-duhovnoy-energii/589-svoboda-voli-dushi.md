@@ -15,8 +15,6 @@ tags:
     slug: dusha
   - title: без даты
     slug: bez-daty
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.14
     slug: bhagavad-gita-5-14
 links:

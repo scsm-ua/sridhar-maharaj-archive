@@ -1,5 +1,5 @@
 ---
-slug: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty
+slug: 1982-05-10-b2_evropeyskie_filosofy-materialisty_i_idealisty
 record_id: 1982.05.10.B2
 title: Европейские философы-материалисты и идеалисты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 641. 1982.05.10.B2. Европейские философы-материалисты и идеалисты
   index: "641"
   filename: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty.md
+  slug: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty
 ---
 
 Мы скажем: «О, я пытался изо всех сил, жизнь за жизнью, я пытался зажать Его в кулаке, но не смог. О, все это ложно. Нет Бога, Бога нет».

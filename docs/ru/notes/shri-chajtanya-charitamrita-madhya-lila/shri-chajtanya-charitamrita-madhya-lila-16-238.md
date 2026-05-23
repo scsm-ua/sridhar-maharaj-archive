@@ -4,9 +4,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami.md
   - ../../_full/1982/04/1982.04.18.A2.B1.md
   - ../../_full/1982/10/1982.10.29.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.238
     slug: shri-chajtanya-charitamrita-madhya-lila-16-238
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
+slug: 1982-04-16-b2_druzya_i_vragi_krishny_obretayut_osvobozhdenie_no_raznogo_tipa
 record_id: 1982.04.16.B2
 title: Друзья и враги Кришны обретают освобождение, но разного типа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     но разного типа
   index: "067"
   filename: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa.md
+  slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
 ---
 
     на дханам̇ на джанам̇ на сундарӣм̇

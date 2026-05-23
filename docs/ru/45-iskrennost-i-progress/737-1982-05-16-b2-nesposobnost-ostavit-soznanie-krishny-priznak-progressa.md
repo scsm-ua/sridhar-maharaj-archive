@@ -1,5 +1,5 @@
 ---
-slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
+slug: 1982-05-16-b2_nesposobnost_ostavit_soznanie_krishny_priznak_progressa
 record_id: 1982.05.16.B2
 title: Неспособность оставить Сознание Кришны – признак прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     прогресса
   index: "737"
   filename: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa.md
+  slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 927-1982-04-27-a-b1-istoriya-valmiki-rishi
+slug: 1982-04-27-a-b1_istoriya_valmiki_rishi
 record_id: 1982.04.27.A.B1
 title: История Вальмики Риши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 927. 1982.04.27.A.B1. История Вальмики Риши
   index: "927"
   filename: 927-1982-04-27-a-b1-istoriya-valmiki-rishi.md
+  slug: 927-1982-04-27-a-b1-istoriya-valmiki-rishi
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.2.14
     slug: shrimad-bhagavatam-6-2-14
 ---

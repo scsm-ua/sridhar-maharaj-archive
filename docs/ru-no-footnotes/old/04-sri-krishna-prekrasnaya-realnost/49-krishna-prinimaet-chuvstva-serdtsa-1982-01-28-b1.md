@@ -1,5 +1,5 @@
 ---
-slug: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1
+slug: 1982-01-28-b1_krishna_prinimaet_chuvstva_serdtsa
 record_id: 1982.01.28.B1
 title: Кришна принимает чувства сердца
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 49. Кришна принимает чувства сердца. 1982.01.28.B1
   index: "49"
   filename: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1.md
+  slug: 49-krishna-prinimaet-chuvstva-serdtsa-1982-01-28-b1
 ---
 
 *#00:00:00#*

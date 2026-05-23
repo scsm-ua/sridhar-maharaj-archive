@@ -4,9 +4,10 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda.md
   - ../../_full/1981/11/1981.11.09.A.B.C.md
   - ../../_full/1982/05/1982.05.01.B2.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 3"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-3
 ---

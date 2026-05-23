@@ -1,5 +1,5 @@
 ---
-slug: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary
+slug: 1982-01-25-a4-b1_gradatsiya_soznaniya_opponenty_shankary
 record_id: 1982.01.25.A4.B1
 title: Градация сознания. Оппоненты Шанкары.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 901. 1982.01.25.A4.B1. Градация сознания. Оппоненты Шанкары
   index: "901"
   filename: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary.md
+  slug: 901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary
 ---
 
 **Шрила Шридхар Махарадж:** Что ты говоришь?

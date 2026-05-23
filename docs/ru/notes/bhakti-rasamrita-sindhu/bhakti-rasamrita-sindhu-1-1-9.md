@@ -3,9 +3,10 @@ slug: bhakti-rasamrita-sindhu-1-1-9
 refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany.md
   - ../../_full/1982/04/1982.04.24.A.B.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.1.9
     slug: bhakti-rasamrita-sindhu-1-1-9
 ---

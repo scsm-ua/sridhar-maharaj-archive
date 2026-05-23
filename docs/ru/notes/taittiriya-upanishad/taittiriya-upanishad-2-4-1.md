@@ -3,9 +3,10 @@ slug: taittiriya-upanishad-2-4-1
 refs:
   - ../../60-uchenie-vaishnavov-i-hristianstvo/909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase.md
   - ../../_full/1981/08/1981.08.31.md
-tags:
+scriptures:
   - title: Таиттирия-упанишад
     slug: taittiriya-upanishad
+verses:
   - title: Таиттирия-упанишад 2.4.1
     slug: taittiriya-upanishad-2-4-1
 ---

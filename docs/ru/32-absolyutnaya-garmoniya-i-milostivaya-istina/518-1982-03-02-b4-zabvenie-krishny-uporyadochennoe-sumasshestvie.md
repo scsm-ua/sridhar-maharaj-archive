@@ -1,5 +1,5 @@
 ---
-slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
+slug: 1982-03-02-b4_zabvenie_krishny_uporyadochennoe_sumasshestvie
 record_id: 1982.03.02.B4
 title: Забвение Кришны – упорядоченное сумасшествие
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 518. 1982.03.02.B4. Забвение Кришны – упорядоченное сумасшествие
   index: "518"
   filename: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie.md
+  slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
     slug: shri-chajtanya-charitamrita-madhya-lila-20-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
     slug: shri-chajtanya-charitamrita-madhya-lila-24-137
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
 ---

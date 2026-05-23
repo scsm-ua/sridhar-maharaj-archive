@@ -4,9 +4,10 @@ refs:
   - ../../_full/1981/11/1981.11.23.A.md
   - ../../_full/1982/05/1982.05.16.A.B.C.md
   - ../../_full/1982/05/1982.05.16.A.B.C.md
-tags:
+scriptures:
   - title: Бхаджана-лаласа
     slug: bhadzhana-lalasa
+verses:
   - title: Бхаджана-лаласа 7–4
     slug: bhadzhana-lalasa-7-4
 ---

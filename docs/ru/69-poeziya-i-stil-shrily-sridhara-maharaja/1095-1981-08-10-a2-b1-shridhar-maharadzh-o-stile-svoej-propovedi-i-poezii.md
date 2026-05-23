@@ -1,5 +1,5 @@
 ---
-slug: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii
+slug: 1981-08-10-a2-b1_shridhar_maharadzh_o_stile_svoey_propovedi_i_poezii
 record_id: 1981.08.10.A2.B1
 title: Шридхар Махарадж о стиле своей проповеди и поэзии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,41 +23,26 @@ legacy:
   title: 1095. 1981.08.10.A2.B1. Шридхар Махарадж о стиле своей проповеди и поэзии
   index: "1095"
   filename: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
+  slug: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii
 tags:
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-  - title: Шримад Бхактивинода-вираха Дашакам
-    slug: shrimad-bhaktivinoda-viraha-dashakam
   - title: Шримад Бхактивинода-вираха Дашакам 7
     slug: shrimad-bhaktivinoda-viraha-dashakam-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153-19-154
   - title: Шримад Бхактивинода-вираха Дашакам 9
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
-  - title: Шри Дайита Даса Пранати Панчакам
-    slug: shri-dajita-dasa-pranati-panchakam
   - title: Шри Дайита Даса Пранати Панчакам 4
     slug: shri-dajita-dasa-pranati-panchakam-4
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 5
     slug: shri-shri-prabhupada-padma-stavakah-5
   - title: Шри Шри Прабхупада-падма Ставаках 6
     slug: shri-shri-prabhupada-padma-stavakah-6
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78
     slug: shri-chajtanya-charitamrita-adi-lila-8-78
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 4.4
     slug: shri-shri-prapanna-dzhivanamritam-4-4
 ---

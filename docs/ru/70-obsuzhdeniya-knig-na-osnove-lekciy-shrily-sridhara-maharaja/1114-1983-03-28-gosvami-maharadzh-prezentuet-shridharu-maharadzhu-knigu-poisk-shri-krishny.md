@@ -1,5 +1,5 @@
 ---
-slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
+slug: 1983-03-28_gosvami_maharadzh_prezentuet_shridharu_maharadzhu_knigu_poisk_shri_krishny
 record_id: 1983.03.28
 title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     «Поиск Шри Кришны»
   index: "1114"
   filename: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
+  slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
 tags:
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1–1
     slug: sharanagati-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
@@ -47,46 +40,30 @@ tags:
     slug: shrimad-bhagavatam-2-8-5
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.15
     slug: vidagdha-madhava-1-15
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.204–205
     slug: shri-chajtanya-charitamrita-madhya-lila-8-204-205
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
     slug: shri-chajtanya-charitamrita-adi-lila-4-219
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
     slug: shri-chajtanya-charitamrita-madhya-lila-8-106
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1
     slug: shri-gita-govinda-3-1
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 66
     slug: prema-dhama-deva-stotram-66
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

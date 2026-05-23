@@ -3,9 +3,10 @@ slug: dzhanama-saphala-tara-1
 refs:
   - ../../02-krishna-imya-lichnost-temperament/025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu.md
   - ../../_full/1980/07/1980.07.11.md
-tags:
+scriptures:
   - title: Джанама сапхала тара
     slug: dzhanama-saphala-tara
+verses:
   - title: Джанама сапхала тара 1
     slug: dzhanama-saphala-tara-1
 ---

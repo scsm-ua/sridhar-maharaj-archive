@@ -1,5 +1,5 @@
 ---
-slug: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe
+slug: 1982-05-14-c2_sozertsanie_lily_v_glubokom_transe
 record_id: 1982.05.14.C2
 title: Созерцание лилы в глубоком трансе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 178. 1982.05.14.C2. Созерцание лилы в глубоком трансе
   index: "178"
   filename: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
+  slug: 178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe
 ---
 
     (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’

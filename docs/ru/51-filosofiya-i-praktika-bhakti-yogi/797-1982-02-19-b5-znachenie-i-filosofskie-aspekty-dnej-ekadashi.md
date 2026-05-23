@@ -1,5 +1,5 @@
 ---
-slug: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi
+slug: 1982-02-19-b5_znachenie_i_filosofskie_aspekty_dney_ekadashi
 record_id: 1982.02.19.B5
 title: Значение и философские аспекты дней Экадаши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 797. 1982.02.19.B5. Значение и философские аспекты дней Экадаши
   index: "797"
   filename: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi.md
+  slug: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi
 ---
 
 *(«Мгновения Прекрасной Реальности», часть 7.5)*

@@ -3,9 +3,10 @@ slug: bhakti-rasamrita-sindhu-3-89
 refs:
   - ../../_full/1981/11/1981.11.01.A.md
   - ../../_full/1983/05/1983.05.23.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 3.89
     slug: bhakti-rasamrita-sindhu-3-89
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 271-1981-08-28-a1-shiksha-guru-parampara
+slug: 1981-08-28-a1_shiksha-guru_parampara
 record_id: 1981.08.28.A1
 title: Шикша-гуру парампара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 271. 1981.08.28.A1. Шикша-гуру парампара
   index: "271"
   filename: 271-1981-08-28-a1-shiksha-guru-parampara.md
+  slug: 271-1981-08-28-a1-shiksha-guru-parampara
 ---
 
 **Преданный:** Когда мы слушаем кассеты, беседы, посвященные *гуру-парампаре*…

@@ -1,5 +1,5 @@
 ---
-slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
+slug: 1982-05-14-b5_kogda_krishna_pokidaet_vrindavan_on_ostaetsya_tam_v_skrytoy_forme
 record_id: 1982.05.14.B5
 title: Когда Кришна покидает Вриндаван, Он остается там в скрытой форме
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,12 +17,8 @@ tags:
     slug: vrindavan
   - title: Кришна
     slug: krishna
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
     slug: shri-chajtanya-charitamrita-antya-lila-1-67
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
 links:
@@ -37,6 +33,7 @@ legacy:
     в скрытой форме
   index: "050"
   filename: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme.md
+  slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
 ---
 
     кришна-нама дхаре ката бала

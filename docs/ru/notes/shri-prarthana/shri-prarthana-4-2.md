@@ -2,9 +2,10 @@
 slug: shri-prarthana-4-2
 refs:
   - ../../68-shri-chaitanya-saraswat-math/1093-1983-11-02-a3-ispolzovanie-fisgarmonii-nezhelatelno.md
-tags:
+scriptures:
   - title: Шри Прартхана
     slug: shri-prarthana
+verses:
   - title: Шри Прартхана 4.2
     slug: shri-prarthana-4-2
 ---

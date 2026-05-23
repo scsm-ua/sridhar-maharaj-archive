@@ -5,13 +5,14 @@ refs:
   - ../../_full/1982/10/1982.10.27.A.B.md
   - ../../_full/1982/11/1982.11.01.B.md
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: «Падма-пурана», Уттара-кханда
     slug: padma-purana-uttara-khanda
-  - title: «Падма-пурана», Уттара-кханда 62.31
-    slug: padma-purana-uttara-khanda-62-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Падма-пурана», Уттара-кханда 62.31
+    slug: padma-purana-uttara-khanda-62-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.181
     slug: shri-chajtanya-charitamrita-madhya-lila-6-181
 ---

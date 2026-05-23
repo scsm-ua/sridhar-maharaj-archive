@@ -2,9 +2,10 @@
 slug: dzhajva-dharma-40
 refs:
   - ../../_full/1982/11/1982.11.02.A.md
-tags:
+scriptures:
   - title: Джайва-дхарма
     slug: dzhajva-dharma
+verses:
   - title: Джайва-дхарма 40
     slug: dzhajva-dharma-40
 ---

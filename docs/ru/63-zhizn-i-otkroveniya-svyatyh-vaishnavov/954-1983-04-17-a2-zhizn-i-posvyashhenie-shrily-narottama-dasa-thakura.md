@@ -1,5 +1,5 @@
 ---
-slug: 954-1983-04-17-a2-zhizn-i-posvyashhenie-shrily-narottama-dasa-thakura
+slug: 1983-04-17-a2_zhizn_i_posvyashchenie_shrily_narottama_dasa_thakura
 record_id: 1983.04.17.A2
 title: Жизнь и посвящение Шрилы Нароттама Даса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 954. 1983.04.17.A2. Жизнь и посвящение Шрилы Нароттама Даса Тхакура
   index: "954"
   filename: 954-1983-04-17-a2-zhizn-i-posvyashhenie-shrily-narottama-dasa-thakura.md
+  slug: 954-1983-04-17-a2-zhizn-i-posvyashhenie-shrily-narottama-dasa-thakura
 ---
 
 **Преданный:** Не могли бы рассказать нам о жизни Нароттама Даса Тхакура.

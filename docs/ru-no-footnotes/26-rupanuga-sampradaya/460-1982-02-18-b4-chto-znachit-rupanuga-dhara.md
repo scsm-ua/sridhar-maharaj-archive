@@ -1,5 +1,5 @@
 ---
-slug: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara
+slug: 1982-02-18-b4_chto_znachit_rupanuga-dhara
 record_id: 1982.02.18.B4
 title: Что значит «рупануга-дхара»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 460. 1982.02.18.B4. Что значит «рупануга-дхара»
   index: "460"
   filename: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara.md
+  slug: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara
 ---
 
 «Онтология Прекрасной Реальности» (часть 1.9)

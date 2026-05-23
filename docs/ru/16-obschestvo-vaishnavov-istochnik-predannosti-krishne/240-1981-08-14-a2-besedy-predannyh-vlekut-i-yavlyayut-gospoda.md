@@ -1,5 +1,5 @@
 ---
-slug: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda
+slug: 1981-08-14-a2_besedy_predannyh_vlekut_i_yavlyayut_gospoda
 record_id: 1981.08.14.A2
 title: Беседы преданных влекут и являют Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 240. 1981.08.14.A2. Беседы преданных влекут и являют Господа
   index: "240"
   filename: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda.md
+  slug: 240-1981-08-14-a2-besedy-predannyh-vlekut-i-yavlyayut-gospoda
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.85
     slug: shri-chajtanya-charitamrita-madhya-lila-22-85
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.30
     slug: shrimad-bhagavatam-11-2-30
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
 ---

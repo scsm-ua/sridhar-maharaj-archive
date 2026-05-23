@@ -1,5 +1,5 @@
 ---
-slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
+slug: 1981-08-30-a2_o_slozhnosti_ponimaniya_guru-tattvy_shiva-tattvy_i_dhama-tattvy
 record_id: 1981.08.30.A2
 title: О сложности понимания гуру-таттвы, шива-таттвы и дхама-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     дхама-таттвы
   index: "694"
   filename: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy.md
+  slug: 694-1981-08-30-a2-o-slozhnosti-ponimaniya-guru-tattvy-shiva-tattvy-i-dhama-tattvy
 tags:
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 7
     slug: shri-gurvashtaka-7
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
 ---

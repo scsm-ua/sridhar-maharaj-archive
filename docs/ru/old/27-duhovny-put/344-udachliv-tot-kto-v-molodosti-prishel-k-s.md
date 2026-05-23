@@ -1,5 +1,5 @@
 ---
-slug: 344-udachliv-tot-kto-v-molodosti-prishel-k-s
+slug: 1980-07-11-b3_udachliv_tot_kto_v_molodosti_prishel_k_sluzheniyu_guru_i_vayshnavam
 record_id: 1980.07.11.B3
 title: Удачлив тот, кто в молодости пришел к служению Гуру и вайшнавам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -20,6 +20,7 @@ legacy:
     1980.07.11.B3
   index: "344"
   filename: 344-udachliv-tot-kto-v-molodosti-prishel-k-s.md
+  slug: 344-udachliv-tot-kto-v-molodosti-prishel-k-s
 ---
 
 **Преданный:** Да. Мы должны привезти сюда специалиста, чтобы он проверил ваше зрение.

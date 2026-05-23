@@ -1,5 +1,5 @@
 ---
-slug: 283-odin-svyatoj-den-1982-01-30-a-b
+slug: 1982-01-30-a-b_odin_svyatoy_den
 record_id: 1982.01.30.A.B
 title: Один святой день
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -36,6 +36,7 @@ legacy:
   title: 283. Один святой день. 1982.01.30.A.B
   index: "283"
   filename: 283-odin-svyatoj-den-1982-01-30-a-b.md
+  slug: 283-odin-svyatoj-den-1982-01-30-a-b
 ---
 
 *#00:00:13#*

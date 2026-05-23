@@ -1,5 +1,5 @@
 ---
-slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
+slug: 1982-05-16-b2_nesposobnost_ostavit_soznanie_krishny_priznak_progressa
 record_id: 1982.05.16.B2
 title: Неспособность оставить Сознание Кришны – признак прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     прогресса
   index: "737"
   filename: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa.md
+  slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
 ---
 
 **Преданный:** Махарадж, я очень несовершенным образом следовал этому процессу на протяжении одиннадцати лет в качестве преданного. Но я по-прежнему чувствую, что не совершаю прогресс. Прогресс отсутствует.

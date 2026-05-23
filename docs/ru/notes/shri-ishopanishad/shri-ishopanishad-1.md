@@ -46,9 +46,10 @@ refs:
   - ../../_full/1983/10/1983.10.25.A.md
   - ../../_full/1983/11/1983.11.22.A.B.md
   - ../../_full/1984/01/1984.01.08.md
-tags:
+scriptures:
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
+verses:
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

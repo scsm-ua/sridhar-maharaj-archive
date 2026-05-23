@@ -1,5 +1,5 @@
 ---
-slug: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna
+slug: 1983-05-11-a_pribezhishche_daruyut_vayshnavy_a_ne_krishna
 record_id: 1983.05.11.A
 title: Прибежище даруют вайшнавы, а не Кришна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 243. 1983.05.11.A. Прибежище даруют вайшнавы, а не Кришна
   index: "243"
   filename: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
+  slug: 243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna
 ---
 
 [Махапрабху(?):] «Под землей находятся драгоценные минералы — субстанции в тебе, и они — для Меня. Я пришел, чтобы открыть их тебе».

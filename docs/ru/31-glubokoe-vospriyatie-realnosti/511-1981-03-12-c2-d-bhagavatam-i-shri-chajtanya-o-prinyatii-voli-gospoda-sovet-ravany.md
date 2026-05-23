@@ -1,5 +1,5 @@
 ---
-slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
+slug: 1981-03-12-c2-d_bhagavatam_i_shri_chaytanya_o_prinyatii_voli_gospoda_sovet_ravany
 record_id: 1981.03.12.C2.D
 title: «Бхагаватам» и Шри Чайтанья о принятии воли Господа. Совет Раваны.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     Господа. Совет Раваны
   index: "511"
   filename: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany.md
+  slug: 511-1981-03-12-c2-d-bhagavatam-i-shri-chajtanya-o-prinyatii-voli-gospoda-sovet-ravany
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
 ---

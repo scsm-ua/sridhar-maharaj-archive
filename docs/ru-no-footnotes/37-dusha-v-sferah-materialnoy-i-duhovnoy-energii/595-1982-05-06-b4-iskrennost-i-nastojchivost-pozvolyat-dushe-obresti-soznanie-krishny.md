@@ -1,5 +1,5 @@
 ---
-slug: 595-1982-05-06-b4-iskrennost-i-nastojchivost-pozvolyat-dushe-obresti-soznanie-krishny
+slug: 1982-05-06-b4_iskrennost_i_nastoychivost_pozvolyat_dushe_obresti_soznanie_krishny
 record_id: 1982.05.06.B4
 title: Искренность и настойчивость позволят душе обрести Сознание Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Сознание Кришны
   index: "595"
   filename: 595-1982-05-06-b4-iskrennost-i-nastojchivost-pozvolyat-dushe-obresti-soznanie-krishny.md
+  slug: 595-1982-05-06-b4-iskrennost-i-nastojchivost-pozvolyat-dushe-obresti-soznanie-krishny
 ---
 
 Речь идет о другом мире, в который мы можем войти, если мы захотим, если мы питаем искреннее почтение, если мы искренне молим, тогда нам могут позволить туда войти. Такой мир есть, это не есть некая ненаучная выдумка. Но в настоящее время это естественное достижение очень далеко для нас.

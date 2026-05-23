@@ -1,5 +1,5 @@
 ---
-slug: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni
+slug: 1983-04-01-a2_namabhas_tenevoe_vospevanie_svyatogo_imeni
 record_id: 1983.04.01.A2
 title: Намабхас — теневое воспевание Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.265
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-265
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 344. 1983.04.01.A2. Намабхас — теневое воспевание Святого Имени
   index: "344"
   filename: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni.md
+  slug: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni
 ---
 
 **Преданный:** Гуру Махарадж!

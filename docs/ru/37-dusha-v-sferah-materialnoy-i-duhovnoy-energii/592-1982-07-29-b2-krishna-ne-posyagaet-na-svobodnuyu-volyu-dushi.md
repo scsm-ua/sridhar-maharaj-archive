@@ -1,5 +1,5 @@
 ---
-slug: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi
+slug: 1982-07-29-b2_krishna_ne_posyagaet_na_svobodnuyu_volyu_dushi
 record_id: 1982.07.29.B2
 title: Кришна не посягает на свободную волю души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
   - title: Бхагавад-гита 5.14
@@ -32,6 +30,7 @@ legacy:
   title: 592. 1982.07.29.B2. Кришна не посягает на свободную волю души
   index: "592"
   filename: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi.md
+  slug: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi
 ---
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол]

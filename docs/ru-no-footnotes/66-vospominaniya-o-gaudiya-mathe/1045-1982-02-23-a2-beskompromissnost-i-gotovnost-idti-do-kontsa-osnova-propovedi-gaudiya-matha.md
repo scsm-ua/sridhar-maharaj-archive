@@ -1,5 +1,5 @@
 ---
-slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
+slug: 1982-02-23-a2_beskompromissnost_i_gotovnost_idti_do_kontsa_osnova_propovedi_gaudiya-matha
 record_id: 1982.02.23.A2
 title: Бескомпромиссность и готовность идти до конца – основа проповеди Гаудия-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     основа проповеди Гаудия-матха
   index: "1045"
   filename: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
+  slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
 ---
 
 ## «Мгновения Прекрасной Реальности» (часть 5.2)

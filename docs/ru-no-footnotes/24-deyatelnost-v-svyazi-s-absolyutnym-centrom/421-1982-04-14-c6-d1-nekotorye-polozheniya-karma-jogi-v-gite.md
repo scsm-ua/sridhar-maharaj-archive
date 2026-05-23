@@ -1,5 +1,5 @@
 ---
-slug: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite
+slug: 1982-04-14-c6-d1_nekotorye_polozheniya_karma-yogi_v_gite
 record_id: 1982.04.14.C6.D1
 title: Некоторые положения карма-йоги в «Гите»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 421. 1982.04.14.C6.D1. Некоторые положения карма-йоги в «Гите»
   index: "421"
   filename: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite.md
+  slug: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite
 ---
 
 **Преданный:** В Бхагавад-Гите Кришна говорит, что вначале Он открыл эту науку богу Солнца. А разве он не наставил в этой науке первым Брахму? Разве Брахма не был первым?

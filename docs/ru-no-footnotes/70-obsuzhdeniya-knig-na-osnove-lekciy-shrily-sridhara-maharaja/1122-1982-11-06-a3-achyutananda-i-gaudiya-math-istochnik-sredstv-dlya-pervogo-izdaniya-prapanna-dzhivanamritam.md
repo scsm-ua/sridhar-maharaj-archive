@@ -1,5 +1,5 @@
 ---
-slug: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam
+slug: 1982-11-06-a3_achyutananda_i_gaudiya_math_istochnik_sredstv_dlya_pervogo_izdaniya_prapanna-dzhivanamritam
 record_id: 1982.11.06.A3
 title: Ачьютананда и Гаудия Матх. Источник средств для первого издания
   «Прапанна-дживанамритам».
@@ -25,6 +25,7 @@ legacy:
     первого издания «Прапанна-дживанамритам»
   index: "1122"
   filename: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam.md
+  slug: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam
 ---
 
 **Преданный:** В своей проповеди Ачьютананда Свами не опирался на проповедь Свами Махараджа, но никто не жаловался на то, что то, что он говорит, не заимствовано из книг Свами Махараджа, потому что *катха* была очень высокого уровня.

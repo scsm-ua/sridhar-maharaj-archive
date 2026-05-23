@@ -1,5 +1,5 @@
 ---
-slug: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij
+slug: 1981-03-08-b7_duhovnaya_praktika_dolzhna_osnovyvatsya_na_nastavleniyah_pisaniy
 record_id: 1981.03.08.B7
 title: Духовная практика должна основываться на наставлениях Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Писаний
   index: "913"
   filename: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij.md
+  slug: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij
 ---
 
 **Госвами Махарадж:** Был такой поэт Гхош — бенгальский поэт.

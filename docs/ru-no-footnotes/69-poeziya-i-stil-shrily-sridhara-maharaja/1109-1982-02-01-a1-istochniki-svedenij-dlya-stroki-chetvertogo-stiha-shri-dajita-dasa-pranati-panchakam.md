@@ -1,5 +1,5 @@
 ---
-slug: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam
+slug: 1982-02-01-a1_istochniki_svedeniy_dlya_stroki_chetvertogo_stiha_shri_dayita-dasa-pranati-panchakam
 record_id: 1982.02.01.A1
 title: Источники сведений для строки четвертого стиха «Шри
   Дайита-Даса-пранати-панчакам»
@@ -25,6 +25,7 @@ legacy:
     Дайита-Даса-пранати-панчакам»
   index: "1109"
   filename: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam.md
+  slug: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam
 ---
 
 **Шрила Госвами Махарадж:** В ваших стихах вы говорите: «*камалаприйанайанам*[^_ftn1]»…

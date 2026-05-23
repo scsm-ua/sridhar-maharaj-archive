@@ -10,9 +10,10 @@ refs:
   - ../../_full/1981/11/1981.11.02.B.md
   - ../../_full/1981/11/1981.11.02.C.md
   - ../../_full/1981/11/1981.11.05.A.B.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 15.1
     slug: bhagavad-gita-15-1
 ---

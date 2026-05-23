@@ -1,5 +1,5 @@
 ---
-slug: 735-1982-02-23-c3-sohranyat-dostignutoe-polozhenie-i-dvigatsya-vpered
+slug: 1982-02-23-c3_sohranyat_dostignutoe_polozhenie_i_dvigatsya_vpered
 record_id: 1982.02.23.C3
 title: Сохранять достигнутое положение — и двигаться вперед
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 735. 1982.02.23.C3. Сохранять достигнутое положение — и двигаться вперед
   index: "735"
   filename: 735-1982-02-23-c3-sohranyat-dostignutoe-polozhenie-i-dvigatsya-vpered.md
+  slug: 735-1982-02-23-c3-sohranyat-dostignutoe-polozhenie-i-dvigatsya-vpered
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
     slug: shri-chajtanya-charitamrita-madhya-lila-9-264
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.32
     slug: shrimad-bhagavatam-11-11-32
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
   - title: Бхагавад-гита 6.40

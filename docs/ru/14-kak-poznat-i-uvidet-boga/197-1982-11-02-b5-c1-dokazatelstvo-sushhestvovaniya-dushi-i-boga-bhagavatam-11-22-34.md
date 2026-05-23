@@ -1,5 +1,5 @@
 ---
-slug: 197-1982-11-02-b5-c1-dokazatelstvo-sushhestvovaniya-dushi-i-boga-bhagavatam-11-22-34
+slug: 1982-11-02-b5-c1_dokazatelstvo_sushchestvovaniya_dushi_i_boga_bhagavatam_11_22_34
 record_id: 1982.11.02.B5.C1
 title: Доказательство существования души и Бога. «Бхагаватам» 11.22.34.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     «Бхагаватам» 11.22.34
   index: "197"
   filename: 197-1982-11-02-b5-c1-dokazatelstvo-sushhestvovaniya-dushi-i-boga-bhagavatam-11-22-34.md
+  slug: 197-1982-11-02-b5-c1-dokazatelstvo-sushhestvovaniya-dushi-i-boga-bhagavatam-11-22-34
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
 ---

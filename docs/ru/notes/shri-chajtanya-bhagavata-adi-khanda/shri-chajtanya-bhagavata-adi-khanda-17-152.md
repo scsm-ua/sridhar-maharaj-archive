@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-adi-khanda-17-152
 refs:
   - ../../_full/1982/10/1982.10.22.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 17.152
     slug: shri-chajtanya-bhagavata-adi-khanda-17-152
 ---

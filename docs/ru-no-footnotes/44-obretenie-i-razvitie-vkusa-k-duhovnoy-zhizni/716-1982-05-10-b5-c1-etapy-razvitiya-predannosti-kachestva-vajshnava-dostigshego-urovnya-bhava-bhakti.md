@@ -1,5 +1,5 @@
 ---
-slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
+slug: 1982-05-10-b5-c1_etapy_razvitiya_predannosti_kachestva_vayshnava_dostigshego_urovnya_bhava-bhakti
 record_id: 1982.05.10.B5.C1
 title: Этапы развития преданности. Качества вайшнава, достигшего уровня бхава-бхакти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     достигшего уровня бхава-бхакти
   index: "716"
   filename: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
+  slug: 716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti
 ---
 
 **Преданный:** Махарадж?

@@ -1,5 +1,5 @@
 ---
-slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
+slug: 1982-03-16-a_obyasnenie_molitvy_shivy_v_bhagavatam_4_24_29
 record_id: 1982.03.16.A
 title: Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 677. 1982.03.16.A. Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
   index: "677"
   filename: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
+  slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.24.29
     slug: shrimad-bhagavatam-4-24-29
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 1.5
     slug: manu-samhita-1-5
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 6.7.61
     slug: vishnu-purana-6-7-61
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.4
     slug: bhagavad-gita-7-4
   - title: Бхагавад-гита 7.5
@@ -46,8 +39,6 @@ tags:
     slug: bhagavad-gita-8-16
   - title: Бхагавад-гита 15.6
     slug: bhagavad-gita-15-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.99
     slug: shri-chajtanya-charitamrita-madhya-lila-22-99
 ---

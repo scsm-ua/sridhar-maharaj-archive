@@ -1,5 +1,5 @@
 ---
-slug: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu
+slug: 1983-04-16-b2-c_predskazaniya_o_prihode_mahaprabhu
 record_id: 1983.04.16.B2.C
 title: Предсказания о приходе Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 070. 1983.04.16.B2.С Предсказания о приходе Махапрабху
   index: "070"
   filename: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu.md
+  slug: 070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu
 ---
 
 Кто является инкарнацией, *аватарой* Кали-юги? «Бхагаватам» неожиданно начинает прославлять этого великого *юга-аватара*, утвердив прежде, кто Он, каковы характеристики этого *юга-аватара*.

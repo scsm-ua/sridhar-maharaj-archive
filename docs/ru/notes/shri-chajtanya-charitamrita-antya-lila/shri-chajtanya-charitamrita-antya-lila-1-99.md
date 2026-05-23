@@ -12,13 +12,14 @@ refs:
   - ../../_full/1982/07/1982.07.09.A.B1.md
   - ../../_full/1983/01/1983.01.26.B.C.md
   - ../../_full/1983/03/1983.03.28.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
-    slug: shri-chajtanya-charitamrita-antya-lila-1-99
   - title: Видагдха-мадхава
     slug: vidagdha-madhava
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
+    slug: shri-chajtanya-charitamrita-antya-lila-1-99
   - title: Видагдха-мадхава 1.15
     slug: vidagdha-madhava-1-15
 ---

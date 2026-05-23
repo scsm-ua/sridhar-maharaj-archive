@@ -1,5 +1,5 @@
 ---
-slug: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase
+slug: 1982-05-11-c2_vayshnavizm_i_hristianstvo_s_tochki_zreniya_ucheniya_o_rase
 record_id: 1982.05.11.C2
 title: Вайшнавизм и христианство с точки зрения учения о расе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 909. 1982.05.11.C2. Вайшнавизм и христианство с точки зрения учения о расе
   index: "909"
   filename: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase.md
+  slug: 909-1982-05-11-c2-vajshnavizm-i-hristianstvo-s-tochki-zreniya-ucheniya-o-rase
 ---
 
 **Госвами Махарадж:** А вот христиане? У них есть представление о ревнивом Боге, мстительном.

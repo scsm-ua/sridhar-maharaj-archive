@@ -14,8 +14,6 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.27–28
     slug: shrimad-bhagavatam-11-20-27-28
   - title: Шримад-Бхагаватам 11.20.29

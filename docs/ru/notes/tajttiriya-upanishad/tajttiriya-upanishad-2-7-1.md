@@ -16,9 +16,10 @@ refs:
   - ../../_full/1983/05/1983.05.11.md
   - ../../_full/1983/06/1983.06.21.md
   - ../../_full/1983/10/1983.10.05.B.C.md
-tags:
+scriptures:
   - title: Тайттирия-упанишад
     slug: tajttiriya-upanishad
+verses:
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
 ---

@@ -2,9 +2,10 @@
 slug: bhagavad-gita-3-20
 refs:
   - ../../_full/1982/10/1982.10.23.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.20
     slug: bhagavad-gita-3-20
 ---

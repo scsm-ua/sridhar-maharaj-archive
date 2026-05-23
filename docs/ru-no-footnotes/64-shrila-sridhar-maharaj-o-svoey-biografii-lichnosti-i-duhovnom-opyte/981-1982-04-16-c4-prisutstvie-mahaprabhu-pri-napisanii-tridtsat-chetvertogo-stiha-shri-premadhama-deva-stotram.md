@@ -1,5 +1,5 @@
 ---
-slug: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram
+slug: 1982-04-16-c4_prisutstvie_mahaprabhu_pri_napisanii_tridtsat_chetvertogo_stiha_shri_prema-dhama-deva-stotram
 record_id: 1982.04.16.C4
 title: Присутствие Махапрабху при написании тридцать четвертого стиха «Шри
   Према-дхама-дева-стотрам»
@@ -25,6 +25,7 @@ legacy:
     четвертого стиха «Шри Према-дхама-дева-стотрам»
   index: "981"
   filename: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram.md
+  slug: 981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram
 ---
 
 **Шрила Шридхар Махарадж:** Спаситель… Не только спаситель, но даритель высочайшего блага в жизни, открывший двери, позволяющий войти. Особенно *Апарадха-бхаджан-пат* — особая часть Навадвипа, где все оскорбления были прощены Господом без каких-либо ограничений.

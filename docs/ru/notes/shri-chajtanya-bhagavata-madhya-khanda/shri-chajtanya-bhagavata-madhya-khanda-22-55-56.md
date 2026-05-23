@@ -3,9 +3,10 @@ slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
 refs:
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki.md
   - ../../_full/1983/03/1983.03.30.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56
     slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
 ---

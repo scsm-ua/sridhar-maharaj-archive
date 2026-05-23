@@ -1,5 +1,5 @@
 ---
-slug: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti
+slug: 1983-01-07-b2_shrila_shridhar_maharadzh_o_svoem_zhiznennom_puti
 record_id: 1983.01.07.B2
 title: Шрила Шридхар Махарадж о своем жизненном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 968. 1983.01.07.B2. Шрила Шридхар Махарадж о своем жизненном пути
   index: "968"
   filename: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti.md
+  slug: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti
 ---
 
 **Преданный:** Махарадж, а можно я задам вам личный вопрос? Я надеюсь, что это не слишком личный вопрос. Скажите, был ли период в вашей жизни, когда вы находились на интеллектуальном уровне, а впоследствии вы пришли к *бхакти*, или на протяжении всей жизни вы были привержены *бхакти*?

@@ -1,5 +1,5 @@
 ---
-slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
+slug: 1982-05-10-b4_obyasnenie_shlok_opredeleniy_chistoy_predannosti_narada_i_rupa_gosvami
 record_id: 1982.05.10.B4
 title: Объяснение шлок — определений чистой преданности (Нарада и Рупа Госвами)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,32 +15,22 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
     slug: shri-chajtanya-charitamrita-madhya-lila-22-128
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.24
     slug: shrimad-bhagavatam-7-5-24
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
     slug: shri-chajtanya-charitamrita-adi-lila-5-35
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
     slug: shri-chajtanya-charitamrita-adi-lila-5-36
   - title: Бхакти-расамрита-синдху 1.2.278
     slug: bhakti-rasamrita-sindhu-1-2-278
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 5.41
     slug: laghu-bhagavatamrita-5-41
 links:
@@ -55,6 +45,7 @@ legacy:
     (Нарада и Рупа Госвами)
   index: "770"
   filename: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami.md
+  slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
 ---
 
 Махапрабху говорит:

@@ -1,5 +1,5 @@
 ---
-slug: 228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha
+slug: 1982-11-02-a1_prema-vivarta_podderzhivaet_filosofiyu_gaudiya-matha
 record_id: 1982.11.02.A1
 title: «Према-виварта» поддерживает философию Гаудия-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 228. 1982.11.02.A1. «Према-виварта» поддерживает философию Гаудия-матха
   index: "228"
   filename: 228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha.md
+  slug: 228-1982-11-02-a1-prema-vivarta-podderzhivaet-filosofiyu-gaudiya-matha
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.114
     slug: shri-chajtanya-charitamrita-madhya-lila-11-114
 ---

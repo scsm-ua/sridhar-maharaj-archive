@@ -1,5 +1,5 @@
 ---
-slug: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva
+slug: 1982-06-19-d3_v_lile_gospoda_oppozitsiya_eto_osvobozhdennye_zhivye_sushchestva
 record_id: 1982.06.19.D3
 title: В лиле Господа оппозиция – это освобожденные живые существа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     существа
   index: "187"
   filename: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva.md
+  slug: 187-1982-06-19-d3-v-lile-gospoda-oppozitsiya-eto-osvobozhdennye-zhivye-sushhestva
 tags:
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1
     slug: sharanagati-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
     slug: shri-chajtanya-charitamrita-adi-lila-10-120
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
+slug: 1982-07-27-a2_tretya_mirovaya_voyna_postaraytes_zhit_v_vechnosti
 record_id: 1982.07.27.A2
 title: Третья мировая война. Постарайтесь жить в вечности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 560. 1982.07.27.A2. Третья мировая война. Постарайтесь жить в вечности
   index: "560"
   filename: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti.md
+  slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
 ---
 
 **Видагдха Мадхава Прабху:** Махарадж, у них есть один вопрос: на западе многие люди боятся войны. Они думают, что вскоре произойдет война.

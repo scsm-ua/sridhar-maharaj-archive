@@ -1,5 +1,5 @@
 ---
-slug: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom
+slug: 1983-04-16-a2_povtorenie_oshchushcheniya_ne_yavlyaetsya_opytom
 record_id: 1983.04.16.A2
 title: Повторение ощущения не является опытом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 642. 1983.04.16.A2. Повторение ощущения не является опытом
   index: "642"
   filename: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom.md
+  slug: 642-1983-04-16-a2-povtorenie-oshhushheniya-ne-yavlyaetsya-opytom
 ---
 
     бхактйа̄ сан̃джа̄тайа̄ бхактйа

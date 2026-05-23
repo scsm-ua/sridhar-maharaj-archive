@@ -4,9 +4,10 @@ refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity.md
   - ../../_full/1981/09/1981.09.20.A.B.md
   - ../../_full/1981/11/1981.11.24.A.B.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.27
     slug: bhagavad-gita-3-27
 ---

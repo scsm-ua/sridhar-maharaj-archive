@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-10-68-31
 refs:
   - ../../_full/1982/01/1982.01.13.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.68.31
     slug: shrimad-bhagavatam-10-68-31
 ---

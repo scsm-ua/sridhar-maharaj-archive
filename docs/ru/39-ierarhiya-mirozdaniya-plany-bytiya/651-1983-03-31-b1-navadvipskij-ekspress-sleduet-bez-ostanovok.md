@@ -1,5 +1,5 @@
 ---
-slug: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok
+slug: 1983-03-31-b1_navadvipskiy_ekspress_sleduet_bez_ostanovok
 record_id: 1983.03.31.B1
 title: Навадвипский экспресс следует без остановок
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,16 @@ legacy:
   title: 651. 1983.03.31.B1. Навадвипский экспресс следует без остановок
   index: "651"
   filename: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok.md
+  slug: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.52
     slug: shri-chajtanya-charitamrita-madhya-lila-22-52
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.12.12
     slug: shrimad-bhagavatam-5-12-12
   - title: Шримад-Бхагаватам 7.5.30

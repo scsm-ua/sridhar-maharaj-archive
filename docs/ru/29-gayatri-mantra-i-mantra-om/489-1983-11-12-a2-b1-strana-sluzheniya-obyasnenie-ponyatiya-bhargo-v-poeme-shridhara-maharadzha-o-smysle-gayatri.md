@@ -1,5 +1,5 @@
 ---
-slug: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri
+slug: 1983-11-12-a2-b1_strana_sluzheniya_obyasnenie_ponyatiya_bhargo_v_poeme_shridhara_maharadzha_o_smysle_gayatri
 record_id: 1983.11.12.A2.B1
 title: Страна служения. Объяснение понятия «бхарго» в поэме Шридхара Махараджа о
   смысле Гаятри.
@@ -28,6 +28,7 @@ legacy:
     поэме Шридхара Махараджа о смысле Гаятри
   index: "489"
   filename: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri.md
+  slug: 489-1983-11-12-a2-b1-strana-sluzheniya-obyasnenie-ponyatiya-bhargo-v-poeme-shridhara-maharadzha-o-smysle-gayatri
 ---
 
 **Преданный:** Махарадж, эта строка: *бхарго ваи вришабхануджа-атма-вибхава-эка-арадхана-шри-пурам*.

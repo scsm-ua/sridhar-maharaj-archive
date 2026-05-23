@@ -1,5 +1,5 @@
 ---
-slug: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily
+slug: 1982-01-29-b2_mnogomernost_uchastnikov_krishna-lily
 record_id: 1982.01.29.B2
 title: Многомерность участников кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,14 @@ legacy:
   title: 184. 1982.01.29.B2. Многомерность участников кришна-лилы
   index: "184"
   filename: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
+  slug: 184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.8.48–50
     slug: shrimad-bhagavatam-10-8-48-50
   - title: Шримад-Бхагаватам 10.3.32–46
     slug: shrimad-bhagavatam-10-3-32-46
   - title: Шримад-Бхагаватам 11.2.8
     slug: shrimad-bhagavatam-11-2-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.166
     slug: shri-chajtanya-charitamrita-madhya-lila-20-166
   - title: Шримад-Бхагаватам 10.8.47

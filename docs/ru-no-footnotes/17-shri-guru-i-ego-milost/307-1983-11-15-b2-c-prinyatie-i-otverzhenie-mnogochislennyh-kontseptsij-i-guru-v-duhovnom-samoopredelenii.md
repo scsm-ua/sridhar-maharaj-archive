@@ -1,5 +1,5 @@
 ---
-slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
+slug: 1983-11-15-b2-c_prinyatie_i_otverzhenie_mnogochislennyh_kontseptsiy_i_guru_v_duhovnom_samoopredelenii
 record_id: 1983.11.15.B2.C
 title: Принятие и отвержение многочисленных концепций и гуру в духовном
   самоопределении
@@ -25,6 +25,7 @@ legacy:
     гуру в духовном самоопределении
   index: "307"
   filename: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii.md
+  slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?

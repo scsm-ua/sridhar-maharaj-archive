@@ -1,5 +1,5 @@
 ---
-slug: 41-zhit-odnoj-semej-s-bogom-1983-01-11-a-b
+slug: 1983-01-11-a-b_zhit_odnoy_semey_s_bogom
 record_id: 1983.01.11.A.B
 title: Жить одной семьей с Богом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 41. Жить одной семьей с Богом. 1983.01.11.A.B
   index: "41"
   filename: 41-zhit-odnoj-semej-s-bogom-1983-01-11-a-b.md
+  slug: 41-zhit-odnoj-semej-s-bogom-1983-01-11-a-b
 ---
 
 *#00:00:00#*

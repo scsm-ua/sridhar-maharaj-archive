@@ -1,5 +1,5 @@
 ---
-slug: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov
+slug: 1982-05-18-b3-b5_acharya_kotoryy_polnostyu_otdal_sebya_krishne_ne_budet_zatronut_karmoy_uchenikov
 record_id: 1982.05.18.B3.B5
 title: Ачарья, который полностью отдал себя Кришне, не будет затронут кармой учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     будет затронут кармой учеников
   index: "295"
   filename: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov.md
+  slug: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov
 ---
 
 **Преданный:** Еще один момент трудно понять: в какой степени *Ачарья* ответственен за карму своих *шишья*?

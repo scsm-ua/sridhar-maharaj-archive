@@ -1,5 +1,5 @@
 ---
-slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
+slug: 1982-02-18-b4_v_plenu_vysshego_soznaniya
 record_id: 1982.02.18.B4
 title: В плену высшего сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 980. 1982.02.18.B4. В плену высшего сознания
   index: "980"
   filename: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya.md
+  slug: 980-1982-02-18-b4-v-plenu-vysshego-soznaniya
 ---
 
 *«Онтология Прекрасной Реальности» (часть 1.8)*

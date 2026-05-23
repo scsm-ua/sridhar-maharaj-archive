@@ -3,9 +3,10 @@ slug: shri-chajtanya-bhagavata-adi-khanda-15-28-30
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov.md
   - ../../_full/1983/02/1983.02.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 15.28–30
     slug: shri-chajtanya-bhagavata-adi-khanda-15-28-30
 ---

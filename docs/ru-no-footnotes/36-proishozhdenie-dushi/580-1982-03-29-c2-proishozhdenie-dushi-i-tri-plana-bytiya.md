@@ -1,5 +1,5 @@
 ---
-slug: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya
+slug: 1982-03-29-c2_proishozhdenie_dushi_i_tri_plana_bytiya
 record_id: 1982.03.29.C2
 title: Происхождение души и три плана бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 580. 1982.03.29.C2. Происхождение души и три плана бытия
   index: "580"
   filename: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya.md
+  slug: 580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол… Нет вопросов. В таком случае наш Бхарати Махарадж может выступить.

@@ -1,5 +1,5 @@
 ---
-slug: 37-vysochajshie-otkroveniya-ramanda-samva
+slug: 1982-01-11-a_vysochayshie_otkroveniya_ramanda-samvada
 record_id: 1982.01.11.A
 title: Высочайшие откровения Раманда-самвада
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 37. Высочайшие откровения Раманда-самвада. 1982.01.11.А
   index: "37"
   filename: 37-vysochajshie-otkroveniya-ramanda-samva.md
+  slug: 37-vysochajshie-otkroveniya-ramanda-samva
 ---
 
 *#00:00:00#*

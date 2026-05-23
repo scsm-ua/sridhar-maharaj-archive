@@ -1,5 +1,5 @@
 ---
-slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
+slug: 1981-03-12-b3_pisaniya_vysshego_urovnya_sovmeshchayut_poetichnost_i_filosofskuyu_glubinu
 record_id: 1981.03.12.B3
 title: Писания высшего уровня совмещают поэтичность и философскую глубину
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     философскую глубину
   index: "1096"
   filename: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
+  slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.16
     slug: shrimad-bhagavatam-12-13-16
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 10
     slug: shri-shri-prabhupada-padma-stavakah-10
-  - title: Шримад Бхактивинода-вираха Дашакам
-    slug: shrimad-bhaktivinoda-viraha-dashakam
   - title: Шримад Бхактивинода-вираха Дашакам 6
     slug: shrimad-bhaktivinoda-viraha-dashakam-6
   - title: Шримад Бхактивинода-вираха Дашакам 7
     slug: shrimad-bhaktivinoda-viraha-dashakam-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
     slug: shri-chajtanya-charitamrita-madhya-lila-14-13
   - title: Шримад-Бхагаватам 10.31.9

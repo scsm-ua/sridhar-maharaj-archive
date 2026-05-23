@@ -1,5 +1,5 @@
 ---
-slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
+slug: 1982-04-23-a1_krishna_nikogda_ne_pokidaet_vrindavan
 record_id: 1982.04.23.A1
 title: Кришна никогда не покидает Вриндаван
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 049. 1982.04.23.A1 Кришна никогда не покидает Вриндаван
   index: "049"
   filename: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan.md
+  slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
 ---
 
 Его уход, исчезновение было основанием для Дварака-*лилы*, уход из Вриндавана. Вриндаванская *лила* ушла [буквально] в подполье. После того как Кришна покинул Вриндаван. Гопендра-нандана.

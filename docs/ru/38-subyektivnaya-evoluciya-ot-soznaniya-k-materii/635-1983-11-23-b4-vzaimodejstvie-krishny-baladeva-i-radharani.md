@@ -1,5 +1,5 @@
 ---
-slug: 635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani
+slug: 1983-11-23-b4_vzaimodeystvie_krishny_baladeva_i_radharani
 record_id: 1983.11.23.B4
 title: Взаимодействие Кришны, Баладева и Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 635. 1983.11.23.B4. Взаимодействие Кришны, Баладева и Радхарани
   index: "635"
   filename: 635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani.md
+  slug: 635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.252
     slug: shri-chajtanya-charitamrita-madhya-lila-20-252
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.8
     slug: shvetashvatara-upanishad-6-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
 ---

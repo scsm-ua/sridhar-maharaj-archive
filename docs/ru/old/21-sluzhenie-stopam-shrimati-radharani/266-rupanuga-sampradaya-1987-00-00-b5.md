@@ -1,5 +1,5 @@
 ---
-slug: 266-rupanuga-sampradaya-1987-00-00-b5
+slug: 1987-00-00-b5_rupanuga-sampradaya
 record_id: 1987.00.00.B5
 title: Рупануга-сампрадая
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 266. Рупануга-сампрадая. 1987.00.00.B5
   index: "266"
   filename: 266-rupanuga-sampradaya-1987-00-00-b5.md
+  slug: 266-rupanuga-sampradaya-1987-00-00-b5
 ---
 
 **Ученик:** Все же подчеркивается рупа-нуга, рупа-нуга-сампрадая.

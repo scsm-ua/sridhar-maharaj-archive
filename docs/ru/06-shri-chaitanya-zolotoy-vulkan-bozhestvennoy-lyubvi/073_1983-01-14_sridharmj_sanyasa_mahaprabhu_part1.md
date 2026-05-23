@@ -1,5 +1,5 @@
 ---
-slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
+slug: 1983-01-14_sannyasa_mahaprabhu_chast_1
 record_id: 1983.01.14
 title: Санньяса Махапрабху, часть 1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,12 +19,8 @@ tags:
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.165
     slug: shri-chajtanya-charitamrita-madhya-lila-1-165
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
@@ -40,6 +36,7 @@ legacy:
   title: 073. 1983.01.14 Санньяса Махапрабху, часть 1. (1983)
   index: "073"
   filename: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1.md
+  slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
 ---
 
 **Махапрабху уходит в Катву принять санньясу**

@@ -1,5 +1,5 @@
 ---
-slug: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami
+slug: 1982-02-21-a4_prevratnoe_istolkovanie_ucheniya_vayshnavov_materialistami
 record_id: 1982.02.21.A4
 title: Превратное истолкование учения вайшнавов материалистами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1066. 1982.02.21.A4. Превратное истолкование учения вайшнавов материалистами
   index: "1066"
   filename: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami.md
+  slug: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami
 ---
 
 *Мгновения Прекрасной Реальности (часть 1.4)*

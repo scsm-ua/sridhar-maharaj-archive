@@ -7,13 +7,14 @@ refs:
   - ../../_full/1982/09/1982.09.04.A.B.md
   - ../../_full/1982/12/1982.12.18.B.md
   - ../../_full/1982/12/1982.12.31.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
-    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
   - title: Шри Брахма-самхита 5.56
     slug: shri-brahma-samhita-5-56
 ---

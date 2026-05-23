@@ -1,5 +1,5 @@
 ---
-slug: 310-podlinnoe-smirenie-1983-01-02-a2
+slug: 1983-01-02-a2_podlinnoe_smirenie
 record_id: 1983.01.02.A2
 title: Подлинное смирение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 310. Подлинное смирение. 1983.01.02.A2
   index: "310"
   filename: 310-podlinnoe-smirenie-1983-01-02-a2.md
+  slug: 310-podlinnoe-smirenie-1983-01-02-a2
 ---
 
 **Ученица:** Гуру Махарадж.

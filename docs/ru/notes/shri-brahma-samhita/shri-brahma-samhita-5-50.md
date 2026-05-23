@@ -2,9 +2,10 @@
 slug: shri-brahma-samhita-5-50
 refs:
   - ../../40-bog-i-bogi/691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.50
     slug: shri-brahma-samhita-5-50
 ---

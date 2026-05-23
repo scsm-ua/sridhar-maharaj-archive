@@ -1,5 +1,5 @@
 ---
-slug: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste
+slug: 1982-02-23-c2_vyskazyvaniya_vayshnavov_sleduet_ponimat_v_pravilnom_kontekste
 record_id: 1982.02.23.C2
 title: Высказывания вайшнавов следует понимать в правильном контексте
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     контексте
   index: "250"
   filename: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste.md
+  slug: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
 ---

@@ -2,9 +2,10 @@
 slug: mundaka-upanishad-2-2-10
 refs:
   - ../../_full/1981/11/1981.11.24.A.B.C.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 2.2.10
     slug: mundaka-upanishad-2-2-10
 ---

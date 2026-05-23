@@ -1,5 +1,5 @@
 ---
-slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
+slug: 1981-03-03-c5_nadmirnaya_priroda_vayshnava_beseda_s_satsvarupoy_maharadzhem
 record_id: 1981.03.03.C5
 title: Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Махараджем
   index: "258"
   filename: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem.md
+  slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
 ---
 
 **Преданный:** Я думаю, что нам сейчас надо идти, и мы вернемся.

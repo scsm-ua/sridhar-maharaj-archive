@@ -1,5 +1,5 @@
 ---
-slug: 656-1982-04-24-a2-poisk-rasy-i-tri-plana-bytiya-v-bhagavad-gite
+slug: 1982-04-24-a2_poisk_rasy_i_tri_plana_bytiya_v_bhagavad-gite
 record_id: 1982.04.24.A2
 title: Поиск расы и три плана бытия в «Бхагавад-гите»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 656. 1982.04.24.A2. Поиск расы и три плана бытия в «Бхагавад-гите»
   index: "656"
   filename: 656-1982-04-24-a2-poisk-rasy-i-tri-plana-bytiya-v-bhagavad-gite.md
+  slug: 656-1982-04-24-a2-poisk-rasy-i-tri-plana-bytiya-v-bhagavad-gite
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.20–23
     slug: bhagavad-gita-6-20-23
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.2.13
     slug: katha-upanishad-2-2-13
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
   - title: Бхагавад-гита 18.54

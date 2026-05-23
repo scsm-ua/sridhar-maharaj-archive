@@ -1,5 +1,5 @@
 ---
-slug: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy
+slug: 1982-11-02-c2_stopy_vishnu_podobny_solntsu_glavnaya_mantra_rigvedy
 record_id: 1982.11.02.C2
 title: Стопы Вишну подобны Солнцу. Главная мантра Ригведы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,12 +17,8 @@ tags:
     slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
     slug: shri-chajtanya-charitamrita-antya-lila-5-123
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.342
     slug: laghu-bhagavatamrita-1-5-342
 links:
@@ -36,6 +32,7 @@ legacy:
   title: 411. 1982.11.02.C2. Стопы Вишну подобны Солнцу. Главная мантра Ригведы
   index: "411"
   filename: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy.md
+  slug: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy
 ---
 
 *Вишну-парам-пада* — святые стопы Нараяны, нас просят рассматривать их как солнце.

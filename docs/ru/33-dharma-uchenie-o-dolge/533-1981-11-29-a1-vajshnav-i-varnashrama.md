@@ -1,5 +1,5 @@
 ---
-slug: 533-1981-11-29-a1-vajshnav-i-varnashrama
+slug: 1981-11-29-a1_vayshnav_i_varnashrama
 record_id: 1981.11.29.A1
 title: Вайшнав и варнашрама
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
     slug: shri-chajtanya-charitamrita-madhya-lila-22-17
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.18
     slug: shri-chajtanya-charitamrita-madhya-lila-22-18
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
   - title: Бхагавад-гита 3.9
@@ -48,6 +42,7 @@ legacy:
   title: 533. 1981.11.29.A1. Вайшнав и варнашрама
   index: "533"
   filename: 533-1981-11-29-a1-vajshnav-i-varnashrama.md
+  slug: 533-1981-11-29-a1-vajshnav-i-varnashrama
 ---
 
 Преданный: Гуру Махарадж, сейчас остро стоит вопрос об отношениях индусов и мусульман. Мы не являемся хинду, но в каком-то смысле мы можем говорить от лица хинду. Это так?

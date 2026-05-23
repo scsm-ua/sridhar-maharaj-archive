@@ -11,9 +11,10 @@ refs:
   - ../../_full/1982/04/1982.04.28.A.B.md
   - ../../_full/1982/06/1982.06.15.A2.md
   - ../../_full/1982/07/1982.07.09.A.B1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 10.8
     slug: bhagavad-gita-10-8
 ---

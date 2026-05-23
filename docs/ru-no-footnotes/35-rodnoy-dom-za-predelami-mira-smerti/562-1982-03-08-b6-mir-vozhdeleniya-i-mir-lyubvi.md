@@ -1,5 +1,5 @@
 ---
-slug: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi
+slug: 1982-03-08-b6_mir_vozhdeleniya_i_mir_lyubvi
 record_id: 1982.03.08.B6
 title: Мир вожделения и мир любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 562. 1982.03.08.B6. Мир вожделения и мир любви
   index: "562"
   filename: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi.md
+  slug: 562-1982-03-08-b6-mir-vozhdeleniya-i-mir-lyubvi
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол.

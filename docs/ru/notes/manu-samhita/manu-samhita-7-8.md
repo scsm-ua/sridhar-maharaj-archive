@@ -3,13 +3,14 @@ slug: manu-samhita-7-8
 refs:
   - ../../_full/1983/02/1983.02.21-v2.md
   - ../../_full/1983/02/1983.02.21.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
-  - title: Ману-самхита 7.8
-    slug: manu-samhita-7-8
   - title: Хитопадеша
     slug: hitopadesha
+verses:
+  - title: Ману-самхита 7.8
+    slug: manu-samhita-7-8
   - title: Хитопадеша 2.82
     slug: hitopadesha-2-82
 ---

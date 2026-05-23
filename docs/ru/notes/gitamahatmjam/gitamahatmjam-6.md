@@ -5,9 +5,10 @@ refs:
   - ../../68-shri-chaitanya-saraswat-math/1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
   - ../../_full/1982/07/1982.07.04.A1.md
   - ../../_full/1985/11/1985.11.07.md
-tags:
+scriptures:
   - title: Гитамахатмйам
     slug: gitamahatmjam
+verses:
   - title: Гитамахатмйам 6
     slug: gitamahatmjam-6
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani
+slug: 1982-05-09-a2_vzor_krishny_na_vershine_holma_govardhan_vsegda_obrashchen_v_storonu_radharani
 record_id: 1982.05.09.A2
 title: Взор Кришны на вершине холма Говардхан всегда обращен в сторону Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Радхарани
     slug: radharani
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.14
     slug: bhagavad-gita-13-14
   - title: Бхагавад-гита 9.29
@@ -33,6 +31,7 @@ legacy:
     в сторону Радхарани
   index: "475"
   filename: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani.md
+  slug: 475-1982-05-09-a2-vzor-krishny-na-vershine-holma-govardhan-vsegda-obrashhen-v-storonu-radharani
 ---
 
 **Госвами Махарадж:** Махарадж!

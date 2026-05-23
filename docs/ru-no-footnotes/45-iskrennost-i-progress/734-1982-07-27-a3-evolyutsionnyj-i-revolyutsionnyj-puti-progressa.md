@@ -1,5 +1,5 @@
 ---
-slug: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa
+slug: 1982-07-27-a3_evolyutsionnyy_i_revolyutsionnyy_puti_progressa
 record_id: 1982.07.27.A3
 title: Эволюционный и революционный пути прогресса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 734. 1982.07.27.A3. Эволюционный и революционный пути прогресса
   index: "734"
   filename: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa.md
+  slug: 734-1982-07-27-a3-evolyutsionnyj-i-revolyutsionnyj-puti-progressa
 ---
 
     све све ‘дхика̄ре йа̄ ниш̣т̣ха

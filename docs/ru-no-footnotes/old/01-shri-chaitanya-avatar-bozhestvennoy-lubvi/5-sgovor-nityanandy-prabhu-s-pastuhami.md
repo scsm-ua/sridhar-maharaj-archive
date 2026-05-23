@@ -1,5 +1,5 @@
 ---
-slug: 5-sgovor-nityanandy-prabhu-s-pastuhami
+slug: 1982-01-17-a1_sgovor_nityanandy_prabhu_s_pastuhami
 record_id: 1982.01.17.A1
 title: Сговор Нитьянанды Прабху с пастухами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 5. Сговор Нитьянанды Прабху с пастухами. 1982.01.17.A1
   index: "5"
   filename: 5-sgovor-nityanandy-prabhu-s-pastuhami.md
+  slug: 5-sgovor-nityanandy-prabhu-s-pastuhami
 ---
 
 *#00:00:00#*

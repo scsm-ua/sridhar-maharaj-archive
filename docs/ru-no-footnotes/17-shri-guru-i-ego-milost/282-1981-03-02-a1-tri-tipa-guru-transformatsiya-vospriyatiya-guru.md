@@ -1,5 +1,5 @@
 ---
-slug: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru
+slug: 1981-03-02-a1_tri_tipa_guru_transformatsiya_vospriyatiya_guru
 record_id: 1981.03.02.A1
 title: Три типа Гуру. Трансформация восприятия Гуру.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 282. 1981.03.02.A1. Три типа Гуру. Трансформация восприятия Гуру
   index: "282"
   filename: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru.md
+  slug: 282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru
 ---
 
 **Госвами Махарадж:** Когда я приезжал к вам в прошлом…

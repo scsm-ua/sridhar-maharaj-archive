@@ -1,5 +1,5 @@
 ---
-slug: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv
+slug: 1982-07-03-a2-a1-a3_istoriya_bilvamangala_duhovnyy_opyt_ne_zavisit_ot_materialnyh_organov_chuvstv
 record_id: 1982.07.03.A2.A1.A3
 title: История Билвамангала. Духовный опыт не зависит от материальных органов чувств.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     от материальных органов чувств
   index: "931"
   filename: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv.md
+  slug: 931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.57
     slug: shri-chajtanya-charitamrita-adi-lila-1-57
 ---

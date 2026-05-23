@@ -1,5 +1,5 @@
 ---
-slug: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady
+slug: 1983-07-08-a2_kratkiy_obzor_ramananda-samvady
 record_id: 1983.07.08.A2
 title: Краткий обзор Рамананда-самвады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 132. 1983.07.08.A2. Краткий обзор Рамананда-самвады
   index: "132"
   filename: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady.md
+  slug: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady
 ---
 
 Махапрабху спрашивает в «Чайтанья-чаритамрите» Рая Рамананду: «Каково наше место назначения, и как достичь нашей цели?» Рамананда начинает с концепции *варнашрамы*.

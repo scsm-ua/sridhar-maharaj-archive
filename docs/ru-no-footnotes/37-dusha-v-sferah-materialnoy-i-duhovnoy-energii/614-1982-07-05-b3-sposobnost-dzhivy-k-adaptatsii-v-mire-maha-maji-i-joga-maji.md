@@ -1,5 +1,5 @@
 ---
-slug: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji
+slug: 1982-07-05-b3_sposobnost_dzhivy_k_adaptatsii_v_mire_maha-mayi_i_yoga-mayi
 record_id: 1982.07.05.B3
 title: Способность дживы к адаптации в мире маха-майи и йога-майи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     йога-майи
   index: "614"
   filename: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji.md
+  slug: 614-1982-07-05-b3-sposobnost-dzhivy-k-adaptatsii-v-mire-maha-maji-i-joga-maji
 ---
 
 **Преданный:** Махарадж!

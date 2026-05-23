@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/01/1982.01.26.md
   - ../../_full/1982/12/1982.12.10.A.md
   - ../../_full/1983/10/1983.10.29.A.md
-tags:
+scriptures:
   - title: Пратхама-йама садхана - Шраддха
     slug: prathama-jama-sadhana-shraddha
+verses:
   - title: Пратхама-йама садхана - Шраддха 4
     slug: prathama-jama-sadhana-shraddha-4
 ---

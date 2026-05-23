@@ -1,5 +1,5 @@
 ---
-slug: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom
+slug: 1982-07-18-a4_sluzhenie_bozhestvam_ne_yavlyaetsya_idolopoklonnichestvom
 record_id: 1982.07.18.A4
 title: Служение Божествам не является идолопоклонничеством
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 910. 1982.07.18.A4. Служение Божествам не является идолопоклонничеством
   index: "910"
   filename: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom.md
+  slug: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom
 tags:
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
 ---

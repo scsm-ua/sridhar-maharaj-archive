@@ -1,5 +1,5 @@
 ---
-slug: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math
+slug: 1982-02-20-c8_stihotvorenie_proslavlyayushchee_shri_chaytanya_sarasvat_math
 record_id: 1982.02.20.C8
 title: Стихотворение, прославляющее «Шри Чайтанья Сарасват Матх»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Матх»
   index: "1084"
   filename: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math.md
+  slug: 1084-1982-02-20-c8-stihotvorenie-proslavlyayushhee-shri-chajtanya-sarasvat-math
 ---
 
 Это Гупта-Говардхан-Гиридхари в Навадвипе.

@@ -1,5 +1,5 @@
 ---
-slug: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika
+slug: 1981-02-28-c1_kachestva_duhovnogo_uchitelya_i_uchenika
 record_id: 1981.02.28.C1
 title: Качества духовного учителя и ученика
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 274. 1981.02.28.C1. Качества духовного учителя и ученика
   index: "274"
   filename: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika.md
+  slug: 274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika
 ---
 
 [Разговор на бенгали]

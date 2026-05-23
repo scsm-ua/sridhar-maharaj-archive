@@ -2,9 +2,10 @@
 slug: bhagavad-gita-3-08
 refs:
   - ../../_full/1981/11/1981.11.23.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.08
     slug: bhagavad-gita-3-08
 ---

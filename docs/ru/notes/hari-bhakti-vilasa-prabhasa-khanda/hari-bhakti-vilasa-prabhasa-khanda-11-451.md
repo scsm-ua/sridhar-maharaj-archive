@@ -3,9 +3,10 @@ slug: hari-bhakti-vilasa-prabhasa-khanda-11-451
 refs:
   - ../../19-maha-mantra-svyatoe-imya/343-1981-08-30-b1-chetyre-vida-namabhasy.md
   - ../../_full/1981/08/1981.08.30.B.md
-tags:
+scriptures:
   - title: «Хари-бхакти-виласа», Прабхаса-кханда
     slug: hari-bhakti-vilasa-prabhasa-khanda
+verses:
   - title: «Хари-бхакти-виласа», Прабхаса-кханда 11.451
     slug: hari-bhakti-vilasa-prabhasa-khanda-11-451
 ---

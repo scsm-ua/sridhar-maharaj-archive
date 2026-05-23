@@ -1,5 +1,5 @@
 ---
-slug: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah
+slug: 1982-05-09-a1_obyasnenie_desyatogo_stiha_shri_shri_prabhupada-padma_stavakah
 record_id: 1982.05.09.A1
 title: Объяснение десятого стиха Шри Шри Прабхупада-падма Ставаках
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Ставаках
   index: "1106"
   filename: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah.md
+  slug: 1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah
 tags:
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 10
     slug: shri-shri-prabhupada-padma-stavakah-10
 ---

@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/09/1982.09.06.A.md
   - ../../_full/1983/12/1983.12.20.A.B.md
   - ../../_full/1984/01/1984.01.08.A.B1.md
-tags:
+scriptures:
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
+verses:
   - title: Бхакти-сандарбха 256
     slug: bhakti-sandarbha-256
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
+slug: 1982-05-01-a1_samootritsanie_i_pokornost_predannym_metod_obrashcheniya_k_gospodu
 record_id: 1982.05.01.A1
 title: Самоотрицание и покорность преданным – метод обращения к Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     обращения к Господу
   index: "853"
   filename: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu.md
+  slug: 853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu
 ---
 
 Бесконечно малое и бесконечно великое, безграничное, тесно связаны.

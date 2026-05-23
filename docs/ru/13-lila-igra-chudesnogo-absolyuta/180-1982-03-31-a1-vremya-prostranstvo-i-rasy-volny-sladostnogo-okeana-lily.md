@@ -1,5 +1,5 @@
 ---
-slug: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily
+slug: 1982-03-31-a1_vremya_prostranstvo_i_rasy_volny_sladostnogo_okeana_lily
 record_id: 1982.03.31.A1
 title: Время, пространство и расы – волны сладостного океана лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     лилы
   index: "180"
   filename: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily.md
+  slug: 180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 7
     slug: shri-shikshashtakam-7
 ---

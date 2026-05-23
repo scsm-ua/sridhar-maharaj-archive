@@ -2,9 +2,10 @@
 slug: bhagavad-gita-7-8
 refs:
   - ../../_full/1981/12/1981.12.29.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.8
     slug: bhagavad-gita-7-8
 ---

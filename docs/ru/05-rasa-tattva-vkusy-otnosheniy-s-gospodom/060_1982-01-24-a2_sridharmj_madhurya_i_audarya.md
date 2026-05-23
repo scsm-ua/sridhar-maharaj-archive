@@ -1,5 +1,5 @@
 ---
-slug: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya
+slug: 1982-01-24-a2_madhurya_i_audarya
 record_id: 1982.01.24.A2
 title: Мадхурья и аударья
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 060. 1982.01.24.A2 Мадхурья и аударья
   index: "060"
   filename: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya.md
+  slug: 060_1982-01-24-a2_sridharmj_madhurya_i_audarya
 ---
 
 **Ученик:** Шридхар Махарадж, каково различие между *мадхурья-расой* и *аударья-расой*? *Мадхурья-аударья*.

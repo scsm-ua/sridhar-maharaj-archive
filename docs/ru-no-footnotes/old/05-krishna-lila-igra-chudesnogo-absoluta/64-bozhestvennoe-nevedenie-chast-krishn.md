@@ -1,5 +1,5 @@
 ---
-slug: 64-bozhestvennoe-nevedenie-chast-krishn
+slug: 1983-01-04-a2_bozhestvennoe_nevedenie_chast_krishna-lily
 record_id: 1983.01.04.A2
 title: Божественное неведение — часть кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 64. Божественное неведение — часть кришна-лилы. 1983.01.04.A2
   index: "64"
   filename: 64-bozhestvennoe-nevedenie-chast-krishn.md
+  slug: 64-bozhestvennoe-nevedenie-chast-krishn
 ---
 
 **Преданный:** Я слышал от кого-то: когда душа возвращается на Кришна-локу, то Гуру лично представляет эту душу Кришне. Это правда?

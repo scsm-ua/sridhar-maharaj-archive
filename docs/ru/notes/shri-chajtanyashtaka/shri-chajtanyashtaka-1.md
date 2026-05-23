@@ -2,9 +2,10 @@
 slug: shri-chajtanyashtaka-1
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami.md
-tags:
+scriptures:
   - title: Шри Чайтаньяштака
     slug: shri-chajtanyashtaka
+verses:
   - title: Шри Чайтаньяштака 1
     slug: shri-chajtanyashtaka-1
 ---

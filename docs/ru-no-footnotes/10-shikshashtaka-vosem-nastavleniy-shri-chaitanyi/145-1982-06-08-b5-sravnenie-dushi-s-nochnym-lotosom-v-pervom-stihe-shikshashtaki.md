@@ -1,5 +1,5 @@
 ---
-slug: 145-1982-06-08-b5-sravnenie-dushi-s-nochnym-lotosom-v-pervom-stihe-shikshashtaki
+slug: 1982-06-08-b5_sravnenie_dushi_s_nochnym_lotosom_v_pervom_stihe_shikshashtaki
 record_id: 1982.06.08.B5
 title: Сравнение души с ночным лотосом в первом стихе «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     «Шикшаштаки»
   index: "145"
   filename: 145-1982-06-08-b5-sravnenie-dushi-s-nochnym-lotosom-v-pervom-stihe-shikshashtaki.md
+  slug: 145-1982-06-08-b5-sravnenie-dushi-s-nochnym-lotosom-v-pervom-stihe-shikshashtaki
 ---
 
 **Шрила Шридхар Махарадж:** [Гаура-Хари, Гаура-Хари, Гаура-Хари]

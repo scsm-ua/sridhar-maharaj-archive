@@ -1,5 +1,5 @@
 ---
-slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
+slug: 1982-01-25-a3_shanta-rasa_vo_vrindavane
 record_id: 1982.01.25.A3
 title: Шанта-раса во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 053. 1982.01.25.A3 Шанта-раса во Вриндаване
   index: "053"
   filename: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3.md
+  slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
 ---
 
 **Преданный:** То есть восемьдесят четыре *лакха* форм жизни — это всего лишь идеи?

@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/10/1982.10.10.A.B.C.md
   - ../../_full/1982/12/1982.12.06.A.B.md
   - ../../_full/1983/10/1983.10.22.A.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 18.4
     slug: kalyana-kalpataru-18-4
 ---

@@ -3,13 +3,14 @@ slug: shrimad-bhagavatam-11-2-29
 refs:
   - ../../_full/1981/11/1981.11.18.B.C.md
   - ../../_full/1981/11/1981.11.26.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.91
-    slug: shri-chajtanya-charitamrita-adi-lila-2-91
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.91
+    slug: shri-chajtanya-charitamrita-adi-lila-2-91
   - title: Шримад-Бхагаватам 11.2.29
     slug: shrimad-bhagavatam-11-2-29
 ---

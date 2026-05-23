@@ -1,5 +1,5 @@
 ---
-slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
+slug: 1981-03-02-c2_o_kvalifikatsii_i_umonastroenii_initsiiruyushchego_guru
 record_id: 1981.03.02.C2
 title: О квалификации и умонастроении инициирующего Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 284. 1981.03.02.C2. О квалификации и умонастроении инициирующего Гуру
   index: "284"
   filename: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru.md
+  slug: 284-1981-03-02-c2-o-kvalifikatsii-i-umonastroenii-initsiiruyushhego-guru
 ---
 
 **Госвами Махарадж:** Вы утверждаете, что можно быть Гуру, стоя здесь, на этой земле, а взор устремлен в сторону Вайкунтхи.

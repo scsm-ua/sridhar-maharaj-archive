@@ -1,5 +1,5 @@
 ---
-slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
+slug: 1983-11-11-b3-c_obiteli_vrindavana_propoveduyut_ne_slovami_a_yavlyaya_svoy_poryv_predannosti
 record_id: 1983.11.11.B3.C
 title: Обители Вриндавана проповедуют не словами, а являя свой порыв преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     свой порыв преданности
   index: "484"
   filename: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
+  slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
 ---
 
 Все могут не знать, как объяснить Его положение в качестве Верховного. *Гьяна-шунья-бхакти*. Но *Ачарьи* приходят и обращаются к массам, показывая своими произведениями, своей проповедью каким образом Кришна-концепция занимает верховное положение. Не все преданные обязательно сумеют объяснить, почему Кришна занимает верховное положение: «Мне нравится, я не могу объяснить, почему. Я не могу объяснить». Только когда по особой воле Кришны такого рода способность дается, возможность объяснения присутствует.

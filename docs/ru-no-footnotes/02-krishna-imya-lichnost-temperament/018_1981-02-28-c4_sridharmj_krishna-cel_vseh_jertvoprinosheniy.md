@@ -1,5 +1,5 @@
 ---
-slug: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy
+slug: 1981-02-28-c4_krishna_tsel_vseh_zhertvoprinosheniy
 record_id: 1981.02.28.C4
 title: Кришна — цель всех жертвоприношений
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 018. 1981.02.28.C4 Кришна — цель всех жертвоприношений
   index: "018"
   filename: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy.md
+  slug: 018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy
 ---
 
 **Преданный:** В четвертой главе Бхагавад-гиты есть один стих. Я не помню его на санскрите, но перевод таков: «Те, кто совершает *ягью* с пониманием ее смысла, ее значения…» Вы помните эту *шлоку*?

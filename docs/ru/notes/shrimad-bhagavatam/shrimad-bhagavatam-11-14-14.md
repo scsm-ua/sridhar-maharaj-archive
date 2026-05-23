@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-11-14-14
 refs:
   - ../../_full/1981/11/1981.11.02.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.14.14
     slug: shrimad-bhagavatam-11-14-14
 ---

@@ -13,8 +13,6 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 links:

@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/05/1982.05.14.C2.D1.md
   - ../../_full/1982/06/1982.06.08.A2.B.md
   - ../../_full/1982/08/1982.08.27.A.B.C.md
-tags:
+scriptures:
   - title: Радха-раса-судха-нидхи
     slug: radha-rasa-sudha-nidhi
+verses:
   - title: Радха-раса-судха-нидхи 1
     slug: radha-rasa-sudha-nidhi-1
 ---

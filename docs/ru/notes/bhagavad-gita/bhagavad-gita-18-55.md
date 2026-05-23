@@ -17,9 +17,10 @@ refs:
   - ../../_full/1983/10/1983.10.23.A.B.md
   - ../../_full/1983/10/1983.10.30.A.md
   - ../../_full/1983/12/1983.12.29.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.55
     slug: bhagavad-gita-18-55
 ---

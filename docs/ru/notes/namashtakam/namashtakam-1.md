@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/01/1982.01.07.md
   - ../../_full/1983/03/1983.03.28.md
   - ../../_full/1983/12/1983.12.09.A.B.md
-tags:
+scriptures:
   - title: Намаштакам
     slug: namashtakam
+verses:
   - title: Намаштакам 1
     slug: namashtakam-1
 ---

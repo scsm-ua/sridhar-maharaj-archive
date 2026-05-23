@@ -1,5 +1,5 @@
 ---
-slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
+slug: 1981-08-19-b1_byt_slugoy_slugi_krasoty_vne_zakona
 record_id: 1981.08.19.B1
 title: Быть слугой слуги Красоты вне закона
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 3.13
     slug: shri-shri-prapanna-dzhivanamritam-3-13
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -33,12 +27,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Нитай-Пада-Камала
-    slug: nitaj-pada-kamala
   - title: Нитай-Пада-Камала 3
     slug: nitaj-pada-kamala-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
@@ -54,6 +44,7 @@ legacy:
   title: 439. 1981.08.19.B1. Быть слугой слуги Красоты вне закона
   index: "439"
   filename: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona.md
+  slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
 ---
 
 **Шрила Шридхар Махарадж:**

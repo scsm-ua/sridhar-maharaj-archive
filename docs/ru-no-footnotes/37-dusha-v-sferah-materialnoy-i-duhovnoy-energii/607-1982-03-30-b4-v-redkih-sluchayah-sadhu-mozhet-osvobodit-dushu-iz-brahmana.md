@@ -1,5 +1,5 @@
 ---
-slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
+slug: 1982-03-30-b4_v_redkih_sluchayah_sadhu_mozhet_osvobodit_dushu_iz_brahmana
 record_id: 1982.03.30.B4
 title: В редких случаях садху может освободить душу из Брахмана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 607. 1982.03.30.B4. В редких случаях садху может освободить душу из Брахмана
   index: "607"
   filename: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana.md
+  slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
 ---
 
 **Преданный:** Вот там, в задних рядах есть вопрос.

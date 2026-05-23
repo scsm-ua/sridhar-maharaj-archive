@@ -5,9 +5,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa.md
   - ../../_full/1982/05/1982.05.09.A.md
-tags:
+scriptures:
   - title: Кали-гхора тимире
     slug: kali-ghora-timire
+verses:
   - title: Кали-гхора тимире 1
     slug: kali-ghora-timire-1
 ---

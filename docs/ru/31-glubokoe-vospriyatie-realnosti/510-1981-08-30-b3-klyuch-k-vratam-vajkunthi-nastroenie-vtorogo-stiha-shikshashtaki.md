@@ -1,5 +1,5 @@
 ---
-slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
+slug: 1981-08-30-b3_klyuch_k_vratam_vaykunthi_nastroenie_vtorogo_stiha_shikshashtaki
 record_id: 1981.08.30.B3
 title: Ключ к вратам Вайкунтхи. Настроение второго стиха Шикшаштаки.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,16 @@ legacy:
     Шикшаштаки
   index: "510"
   filename: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki.md
+  slug: 510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 2
     slug: shri-shikshashtakam-2
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2
 ---

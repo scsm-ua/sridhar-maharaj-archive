@@ -1,5 +1,5 @@
 ---
-slug: 13-kommentarij-na-molitvu-vasudevy-datt
+slug: 1981-03-05-b3_kommentariy_na_molitvu_vasudevy_datty
 record_id: 1981.03.05.B3
 title: Комментарий на молитву Васудевы Датты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 13. Комментарий на молитву Васудевы Датты. 1981.03.05.B3
   index: "13"
   filename: 13-kommentarij-na-molitvu-vasudevy-datt.md
+  slug: 13-kommentarij-na-molitvu-vasudevy-datt
 ---
 
 **Госвами Махарадж:** Что произошло? Васудева Датта попросил Махапрабху, взмолился, обращаясь к Махапрабху, сказал: «Пусть вся Вселенная освободится, все дживы будут спасены, а я приму бремя их кармы на себя».

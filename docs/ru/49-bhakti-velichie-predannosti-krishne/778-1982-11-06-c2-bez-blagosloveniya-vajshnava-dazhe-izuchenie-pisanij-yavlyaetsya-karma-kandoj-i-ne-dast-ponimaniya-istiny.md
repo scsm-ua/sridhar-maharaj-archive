@@ -1,5 +1,5 @@
 ---
-slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
+slug: 1982-11-06-c2_bez_blagosloveniya_vayshnava_dazhe_izuchenie_pisaniy_yavlyaetsya_karma-kandoy_i_ne_dast_ponimaniya_istiny
 record_id: 1982.11.06.C2
 title: Без благословения Вайшнава даже изучение Писаний является карма-кандой и
   не даст понимания истины
@@ -16,18 +16,12 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.4
     slug: bhagavad-gita-9-4
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
   - title: Бхагавад-гита 4.1
@@ -46,6 +40,7 @@ legacy:
     является карма-кандой и не даст понимания истины
   index: "778"
   filename: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny.md
+  slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли у кого-то вопросы?

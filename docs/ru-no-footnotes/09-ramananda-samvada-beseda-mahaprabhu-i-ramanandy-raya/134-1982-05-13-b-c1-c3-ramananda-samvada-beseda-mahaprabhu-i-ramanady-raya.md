@@ -1,5 +1,5 @@
 ---
-slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
+slug: 1982-05-13-b-c1-c3_ramananda-samvada_beseda_mahaprabhu_i_ramanady_raya
 record_id: 1982.05.13.B.C1.C3
 title: Рамананда-самвада. Беседа Махапрабху и Раманады Рая.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 134. 1982.05.13.B.C1.C3. Рамананда-самвада. Беседа Махапрабху и Раманады Рая
   index: "134"
   filename: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
+  slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
 ---
 
 Харе Кришна, Харе Кришна.

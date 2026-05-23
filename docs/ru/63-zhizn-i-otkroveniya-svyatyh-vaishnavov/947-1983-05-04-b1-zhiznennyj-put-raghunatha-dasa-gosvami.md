@@ -1,5 +1,5 @@
 ---
-slug: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami
+slug: 1983-05-04-b1_zhiznennyy_put_raghunatha_dasa_gosvami
 record_id: 1983.05.04.B1
 title: Жизненный путь Рагхунатха Даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 947. 1983.05.04.B1. Жизненный путь Рагхунатха Даса Госвами
   index: "947"
   filename: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
+  slug: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
     slug: shri-chajtanya-charitamrita-antya-lila-6-236
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
     slug: shri-chajtanya-charitamrita-antya-lila-6-237
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.78

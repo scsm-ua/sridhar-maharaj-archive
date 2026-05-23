@@ -1,5 +1,5 @@
 ---
-slug: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv
+slug: 1982-05-15-b4_dva_prizyva_mahaprabhu_o_kultivirovanii_i_propovedi_soznaniya_krishny
 record_id: 1982.05.15.B4
 title: Два призыва Махапрабху о культивировании и проповеди Сознания Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,20 +17,14 @@ tags:
     slug: istoriya
   - title: история о знании Тамильского языка
     slug: istoriya-o-znanii-tamilskogo-yazyka
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.38
     slug: bhagavad-gita-2-38
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 26
     slug: shri-chajtanya-bhagavata-madhya-khanda-26
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28
     slug: shri-chajtanya-bhagavata-madhya-khanda-28
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25
     slug: shri-chajtanya-bhagavata-madhya-khanda-28-25
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 links:
@@ -45,6 +39,7 @@ legacy:
     Сознания Кришны
   index: "077"
   filename: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv.md
+  slug: 077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv
 ---
 
 Когда Свами Махарадж находился в Америке, он написал, выразил опасение, что скоро покинет мир. Он написал (так я слышал): «Если я умру, то не падайте духом. Думайте о вашем дедушке [имеется в виду Шрила Бхактисиддханта Сарасвати]. Ваш дед жив. Не падайте духом, продолжайте. Продолжайте бесстрашно. Мужественно продолжайте пропаганду, ваш дед позаботится о вас». Милость, благодать присутствует в различных формах.

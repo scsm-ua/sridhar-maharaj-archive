@@ -7,9 +7,10 @@ refs:
   - ../../_full/1982/02/1982.02.25.A.B.C.md
   - ../../_full/1982/10/1982.10.25.A.md
   - ../../_full/1982/11/1982.11.12.B.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 3.19
     slug: shvetashvatara-upanishad-3-19
 ---

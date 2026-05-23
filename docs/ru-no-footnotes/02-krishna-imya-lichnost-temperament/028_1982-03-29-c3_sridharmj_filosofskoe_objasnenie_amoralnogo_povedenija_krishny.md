@@ -1,5 +1,5 @@
 ---
-slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
+slug: 1982-03-29-c3_filosofskoe_obyasnenie_amoralnogo_povedeniya_krishny
 record_id: 1982.03.29.C3
 title: Философское объяснение «аморального» поведения Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 028. 1982.03.29.C3 Философское объяснение «аморального» поведения Кришны
   index: "028"
   filename: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny.md
+  slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
 ---
 
 Там кто-то что-то говорит?

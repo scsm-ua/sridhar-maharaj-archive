@@ -1,5 +1,5 @@
 ---
-slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
+slug: 1982-07-02-a4_shrila_shridhar_maharadzh_delaet_sokrovennye_istiny_o_soznanii_krishny_bolee_otchetlivymi
 record_id: 1982.07.02.A4
 title: Шрила Шридхар Махарадж делает сокровенные истины о Сознании Кришны более
   отчетливыми
@@ -25,6 +25,7 @@ legacy:
     Сознании Кришны более отчетливыми
   index: "1134"
   filename: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
+  slug: 1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi
 ---
 
 **Преданный:** Мы говорили вчера с преданными, и у нас возникло сомнение, поскольку некоторые преданные в большей степени чувствуют: Шрила Прабхупада подчеркивал в обращении к нам *самбандху* и *абхидею*. И мы чувствуем, что вы открываете двери *прайоджаны*. Поэтому зашел разговор о том, что вас можно рассматривать (некоторые из нас рассматривают) как *прайоджана-ачарью*. Будет ли такое понимание правильным? Похоже, что вы демонстрируете нам высочайшее явление.

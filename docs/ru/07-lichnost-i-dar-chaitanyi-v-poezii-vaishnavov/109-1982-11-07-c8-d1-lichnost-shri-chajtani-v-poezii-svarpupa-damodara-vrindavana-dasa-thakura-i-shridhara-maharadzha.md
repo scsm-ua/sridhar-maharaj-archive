@@ -1,5 +1,5 @@
 ---
-slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
+slug: 1982-11-07-c8-d1_lichnost_shri_chaytani_v_poezii_svarpupa_damodara_vrindavana_dasa_thakura_i_shridhara_maharadzha
 record_id: 1982.11.07.C8.D1
 title: Личность Шри Чайтаньи в поэзии Сварпупа Дамодара, Вриндавана даса Тхакура
   и Шридхара Махараджа
@@ -16,14 +16,10 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.71
     slug: shri-chajtanya-bhagavata-adi-khanda-1-71
 links:
@@ -38,6 +34,7 @@ legacy:
     Вриндавана даса Тхакура и Шридхара Махараджа
   index: "109"
   filename: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha.md
+  slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
 ---
 
 **Слушатель:** Гуру Махарадж, в «Нектаре преданности» наш Гурудев [Шрила Бхактиведанта Свами] написал: «Было время, когда Кришна захотел разделить Себя на Радху и Кришну». Выходит, что было время, когда Они не были разделены. Было ли такое время, когда Радха и Кришна не были разделены?

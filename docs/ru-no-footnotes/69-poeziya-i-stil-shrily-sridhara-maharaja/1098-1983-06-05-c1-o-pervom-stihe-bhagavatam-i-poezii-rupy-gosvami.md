@@ -1,5 +1,5 @@
 ---
-slug: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami
+slug: 1983-06-05-c1_o_pervom_stihe_bhagavatam_i_poezii_rupy_gosvami
 record_id: 1983.06.05.C1
 title: О первом стихе «Бхагаватам» и поэзии Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1098. 1983.06.05.C1. О первом стихе «Бхагаватам» и поэзии Рупы Госвами
   index: "1098"
   filename: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami.md
+  slug: 1098-1983-06-05-c1-o-pervom-stihe-bhagavatam-i-poezii-rupy-gosvami
 ---
 
 **Преданный:** Таким образом, Бхактивинод Тхакур… его подлинная связь — через *шикшу*?

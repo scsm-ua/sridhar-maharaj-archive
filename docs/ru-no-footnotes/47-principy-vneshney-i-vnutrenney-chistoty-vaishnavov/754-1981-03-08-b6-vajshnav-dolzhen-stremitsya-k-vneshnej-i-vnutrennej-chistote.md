@@ -1,5 +1,5 @@
 ---
-slug: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote
+slug: 1981-03-08-b6_vayshnav_dolzhen_stremitsya_k_vneshney_i_vnutrenney_chistote
 record_id: 1981.03.08.B6
 title: Вайшнав должен стремиться к внешней и внутренней чистоте
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 754. 1981.03.08.B6. Вайшнав должен стремиться к внешней и внутренней чистоте
   index: "754"
   filename: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote.md
+  slug: 754-1981-03-08-b6-vajshnav-dolzhen-stremitsya-k-vneshnej-i-vnutrennej-chistote
 ---
 
 **Госвами Махарадж:** …И точно так же мы должны удовлетворять Гуру и следовать его указанию. Если мы становимся непослушными указанию Гуру и не выполняем клятвы, которые мы дали (служить Гуру), тогда какова наша участь, судьба?

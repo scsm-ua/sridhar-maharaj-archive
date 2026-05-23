@@ -1,5 +1,5 @@
 ---
-slug: 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva
+slug: 1983-11-07-b2-c_poisk_shri_krishny_vysochayshaya_potrebnost_i_tsel_vsego_chelovechestva
 record_id: 1983.11.07.B2.C
 title: Поиск Шри Кришны — высочайшая потребность и цель всего человечества
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     всего человечества
   index: "004"
   filename: 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva.md
+  slug: 004_1983-11-07-b2-c_sridharmj_poisk_shri_krishny-vysochajshaja_potrebnost_i_cel_vsego_chelovechestva
 ---
 
 Влечение. Влечение — это наиболее фундаментальный элемент повсюду. Все остальное может быть отвергнуто, проигнорировано, забыто, если мы соприкасаемся с влечением, любовью. Все может быть отвергнуто, если мы связаны с любовью. Гаура-Хари, Гаура-Хари.

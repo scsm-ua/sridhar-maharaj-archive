@@ -15,12 +15,8 @@ tags:
     slug: bhakti
   - title: без даты
     slug: bez-daty
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 links:

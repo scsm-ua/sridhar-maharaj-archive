@@ -8,9 +8,10 @@ refs:
   - ../../_full/1981/11/1981.11.12.md
   - ../../_full/1981/11/1981.11.12.md
   - ../../_full/1982/01/1982.01.24.A.md
-tags:
+scriptures:
   - title: Кришна-карнамрита
     slug: krishna-karnamrita
+verses:
   - title: Кришна-карнамрита 107
     slug: krishna-karnamrita-107
 ---

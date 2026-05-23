@@ -5,9 +5,10 @@ refs:
   - ../../55-samopozhertvovanie/843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
   - ../../_full/1983/01/1983.01.04.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 6.8
     slug: shvetashvatara-upanishad-6-8
 ---

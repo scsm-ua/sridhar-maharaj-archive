@@ -1,5 +1,5 @@
 ---
-slug: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov
+slug: 1983-11-14-a-b1_oblozhka_i_kartinki_vnutri_knig_shchsm_pravilnyy_aktsent_pri_publikatsii_biografiy_vayshnavov
 record_id: 1983.11.14.A.B1
 title: Обложка и картинки внутри книг ШЧСМ. Правильный акцент при публикации
   биографий вайшнавов.
@@ -25,21 +25,16 @@ legacy:
     акцент при публикации биографий вайшнавов
   index: "1126"
   filename: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov.md
+  slug: 1126-1983-11-14-a-b1-oblozhka-i-kartinki-vnutri-knig-shchsm-pravilnyj-aktsent-pri-publikatsii-biografij-vajshnavov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.192
     slug: shri-chajtanya-charitamrita-madhya-lila-9-192
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.39
     slug: shri-chajtanya-charitamrita-madhya-lila-23-39
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
 ---

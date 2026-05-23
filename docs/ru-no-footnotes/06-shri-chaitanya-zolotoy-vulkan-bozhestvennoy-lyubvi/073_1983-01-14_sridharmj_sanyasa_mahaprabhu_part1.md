@@ -1,5 +1,5 @@
 ---
-slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
+slug: 1983-01-14_sannyasa_mahaprabhu_chast_1
 record_id: 1983.01.14
 title: Санньяса Махапрабху, часть 1
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 073. 1983.01.14 Санньяса Махапрабху, часть 1. (1983)
   index: "073"
   filename: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1.md
+  slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
 ---
 
 **Махапрабху уходит в Катву принять санньясу**

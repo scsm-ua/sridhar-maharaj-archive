@@ -1,5 +1,5 @@
 ---
-slug: 1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya
+slug: 1982-01-25-b3_shrila_shridhar_maharadzh_ob_ustroystve_vedicheskogo_planetariya
 record_id: 1982.01.25.B3
 title: Шрила Шридхар Махарадж об устройстве ведического планетария
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     планетария
   index: "1139"
   filename: 1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya.md
+  slug: 1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.13.16
     slug: shrimad-bhagavatam-12-13-16
 ---

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-9-289
 refs:
   - ../../08-pancha-tattva-sputniki-shri-chaitanyi/126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita.md
   - ../../_full/1982/06/1982.06.05.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.289
     slug: shri-chajtanya-charitamrita-madhya-lila-9-289
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
+slug: 1981-08-14-a3_bhaktivedanta_svami_primer_nitya-siddhi
 record_id: 1981.08.14.A3
 title: Бхактиведанта Свами — пример нитья-сиддхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1070. 1981.08.14.A3. Бхактиведанта Свами — пример нитья-сиддхи
   index: "1070"
   filename: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi.md
+  slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
 ---
 
 **Шрила Шридхар Махарадж:** Что ты говоришь?

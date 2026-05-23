@@ -2,9 +2,10 @@
 slug: vajshnava-ke-11
 refs:
   - ../../_full/1982/12/1982.12.10.B.md
-tags:
+scriptures:
   - title: Вайшнава ке
     slug: vajshnava-ke
+verses:
   - title: Вайшнава ке 11
     slug: vajshnava-ke-11
 ---

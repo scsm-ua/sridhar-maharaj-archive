@@ -6,9 +6,10 @@ refs:
   - ../../22-sannyasa-otrechenie-ot-mira/400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu.md
   - ../../_full/1982/01/1982.01.04.md
   - ../../_full/1983/02/1983.02.14.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.13.27
     slug: shrimad-bhagavatam-1-13-27
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii
+slug: 1982-04-16-b8-c1_krasota_ideala_vs_ocharovanie_materii
 record_id: 1982.04.16.B8.C1
 title: Красота идеала VS очарование материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 695. 1982.04.16.B8.C1. Красота идеала VS очарование материи
   index: "695"
   filename: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii.md
+  slug: 695-1982-04-16-b8-c1-krasota-ideala-vs-ocharovanie-materii
 tags:
-  - title: Акродха парамананда
-    slug: akrodha-paramananda
   - title: Акродха парамананда 4
     slug: akrodha-paramananda-4
 ---

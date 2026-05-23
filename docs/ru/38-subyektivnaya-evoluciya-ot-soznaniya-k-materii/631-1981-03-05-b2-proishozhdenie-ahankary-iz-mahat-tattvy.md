@@ -1,5 +1,5 @@
 ---
-slug: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy
+slug: 1981-03-05-b2_proishozhdenie_ahankary_iz_mahat-tattvy
 record_id: 1981.03.05.B2
 title: Происхождение аханкары из махат-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,35 +23,22 @@ legacy:
   title: 631. 1981.03.05.B2. Происхождение аханкары из махат-таттвы
   index: "631"
   filename: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
+  slug: 631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 3.26.23–24
     slug: shrimad-bhagavatam-3-26-23-24
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.10
     slug: bhagavad-gita-9-10
   - title: Бхагавад-гита 14.4
     slug: bhagavad-gita-14-4
-  - title: Катха-Упанишада
-    slug: katha-upanishada
   - title: Катха-Упанишада 2.2.13
     slug: katha-upanishada-2-2-13
-  - title: Чхандогья-упанишада
-    slug: chhandogya-upanishada
   - title: Чхандогья-упанишада 6.2.3
     slug: chhandogya-upanishada-6-2-3
-  - title: Шветашватара-упанишада
-    slug: shvetashvatara-upanishada
   - title: Шветашватара-упанишада 6.13
     slug: shvetashvatara-upanishada-6-13
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.1.11
     slug: katha-upanishad-2-1-11
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
 ---

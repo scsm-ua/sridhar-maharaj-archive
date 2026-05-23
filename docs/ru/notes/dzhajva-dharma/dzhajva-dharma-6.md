@@ -2,13 +2,14 @@
 slug: dzhajva-dharma-6
 refs:
   - ../../_full/1983/12/1983.12.09.A.B.md
-tags:
+scriptures:
   - title: «Хари-бхакти-виласа», Прабхаса-кханда
     slug: hari-bhakti-vilasa-prabhasa-khanda
-  - title: «Хари-бхакти-виласа», Прабхаса-кханда 11.451
-    slug: hari-bhakti-vilasa-prabhasa-khanda-11-451
   - title: Джайва-дхарма
     slug: dzhajva-dharma
+verses:
+  - title: «Хари-бхакти-виласа», Прабхаса-кханда 11.451
+    slug: hari-bhakti-vilasa-prabhasa-khanda-11-451
   - title: Джайва-дхарма 6
     slug: dzhajva-dharma-6
 ---

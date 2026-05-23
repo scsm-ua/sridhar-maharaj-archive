@@ -1,5 +1,5 @@
 ---
-slug: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi
+slug: 1985-10-05-a1_kak_obezopasit_sebya_ot_vayshnava-aparadhi
 record_id: 1985.10.05.A1
 title: Как обезопасить себя от вайшнава-апарадхи?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
   index: "863"
   filename: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi.md
+  slug: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -34,12 +33,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 ---

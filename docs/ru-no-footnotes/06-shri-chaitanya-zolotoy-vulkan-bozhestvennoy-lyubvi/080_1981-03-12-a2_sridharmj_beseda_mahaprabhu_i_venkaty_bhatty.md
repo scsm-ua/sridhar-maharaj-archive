@@ -1,5 +1,5 @@
 ---
-slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
+slug: 1981-03-12-a2_beseda_mahaprabhu_i_venkaty_bhatty
 record_id: 1981.03.12.A2
 title: Беседа Махапрабху и Венкаты Бхатты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -32,6 +32,7 @@ legacy:
   title: 080. 1981.03.12.A2 Беседа Махапрабху и Венкаты Бхатты
   index: "080"
   filename: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty.md
+  slug: 080_1981-03-12-a2_sridharmj_beseda_mahaprabhu_i_venkaty_bhatty
 ---
 
 **Госвами Махарадж:** Махарадж, я всегда задавался вопросом: я читал «Чайтанья-чаритамриту», Махапрабху путешествует по Южной Индии и когда Он возвращается в Пури, то вечером Он говорит своему спутнику и последователю…

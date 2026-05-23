@@ -1,5 +1,5 @@
 ---
-slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
+slug: 1982-03-29-c3_filosofskoe_obyasnenie_amoralnogo_povedeniya_krishny
 record_id: 1982.03.29.C3
 title: Философское объяснение «аморального» поведения Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,16 +19,12 @@ tags:
     slug: moral
   - title: Паракийа
     slug: parakija
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
     slug: shri-chajtanya-charitamrita-madhya-lila-20-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
     slug: shri-chajtanya-charitamrita-madhya-lila-24-137
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
 links:
@@ -42,6 +38,7 @@ legacy:
   title: 028. 1982.03.29.C3 Философское объяснение «аморального» поведения Кришны
   index: "028"
   filename: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny.md
+  slug: 028_1982-03-29-c3_sridharmj_filosofskoe_objasnenie_amoralnogo_povedenija_krishny
 ---
 
 Там кто-то что-то говорит?

@@ -1,5 +1,5 @@
 ---
-slug: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda
+slug: 1982-02-21-c2_razvitie_i_novizna_dve_harakteristiki_lily_gospoda
 record_id: 1982.02.21.C2
 title: Развитие и новизна – две характеристики лилы Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 179. 1982.02.21.C2. Развитие и новизна – две характеристики лилы Господа
   index: "179"
   filename: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda.md
+  slug: 179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
     slug: shri-chajtanya-charitamrita-madhya-lila-8-291
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
 ---

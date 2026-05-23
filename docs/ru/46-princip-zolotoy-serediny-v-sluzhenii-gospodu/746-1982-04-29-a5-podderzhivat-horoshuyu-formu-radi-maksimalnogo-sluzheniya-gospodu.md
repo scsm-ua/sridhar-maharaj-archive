@@ -1,5 +1,5 @@
 ---
-slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
+slug: 1982-04-29-a5_podderzhivat_horoshuyu_formu_radi_maksimalnogo_sluzheniya_gospodu
 record_id: 1982.04.29.A5
 title: Поддерживать хорошую форму ради максимального служения Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     служения Господу
   index: "746"
   filename: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu.md
+  slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 12
     slug: vajshnava-ke-12
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.256
     slug: bhakti-rasamrita-sindhu-1-2-256
 ---

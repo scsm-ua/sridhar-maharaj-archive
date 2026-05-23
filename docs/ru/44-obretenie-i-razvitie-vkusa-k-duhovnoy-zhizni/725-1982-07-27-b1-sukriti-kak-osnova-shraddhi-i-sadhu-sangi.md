@@ -1,5 +1,5 @@
 ---
-slug: 725-1982-07-27-b1-sukriti-kak-osnova-shraddhi-i-sadhu-sangi
+slug: 1982-07-27-b1_sukriti_kak_osnova_shraddhi_i_sadhu-sangi
 record_id: 1982.07.27.B1
 title: Сукрити как основа шраддхи и садху-санги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 725. 1982.07.27.B1. Сукрити как основа шраддхи и садху-санги
   index: "725"
   filename: 725-1982-07-27-b1-sukriti-kak-osnova-shraddhi-i-sadhu-sangi.md
+  slug: 725-1982-07-27-b1-sukriti-kak-osnova-shraddhi-i-sadhu-sangi
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
 ---

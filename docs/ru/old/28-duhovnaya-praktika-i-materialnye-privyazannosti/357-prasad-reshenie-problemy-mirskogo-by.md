@@ -1,5 +1,5 @@
 ---
-slug: 357-prasad-reshenie-problemy-mirskogo-by
+slug: 1982-09-05-b2_prasad_reshenie_problemy_mirskogo_bytiya
 record_id: 1982.09.05.B2
 title: Прасад — решение проблемы мирского бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 357. Прасад — решение проблемы мирского бытия. 1982.09.05.B2
   index: "357"
   filename: 357-prasad-reshenie-problemy-mirskogo-by.md
+  slug: 357-prasad-reshenie-problemy-mirskogo-by
 ---
 
 **Ученик:** Слушая вас, мы наполняемся энергией, но мы боимся, что вы от общения с нами что-то теряете.

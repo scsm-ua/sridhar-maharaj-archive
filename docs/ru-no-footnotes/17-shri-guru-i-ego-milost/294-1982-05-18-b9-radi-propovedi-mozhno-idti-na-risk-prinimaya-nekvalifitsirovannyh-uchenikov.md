@@ -1,5 +1,5 @@
 ---
-slug: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov
+slug: 1982-05-18-b9_radi_propovedi_mozhno_idti_na_risk_prinimaya_nekvalifitsirovannyh_uchenikov
 record_id: 1982.05.18.B9
 title: Ради проповеди можно идти на риск, принимая неквалифицированных учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     неквалифицированных учеников
   index: "294"
   filename: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov.md
+  slug: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov
 ---
 
 **Преданный:** Когда мы видим, что *Ачарья* как будто бы страдает на поверхностный взгляд от неких реакций, это вина *Ачарьи* или вина *шишьи*?

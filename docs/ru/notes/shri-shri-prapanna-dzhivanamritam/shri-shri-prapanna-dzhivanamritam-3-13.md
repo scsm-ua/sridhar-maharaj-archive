@@ -12,9 +12,10 @@ refs:
   - ../../_full/1982/01/1982.01.26.md
   - ../../_full/1983/06/1983.06.10.md
   - ../../_full/1985/11/1985.11.07.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 3.13
     slug: shri-shri-prapanna-dzhivanamritam-3-13
 ---

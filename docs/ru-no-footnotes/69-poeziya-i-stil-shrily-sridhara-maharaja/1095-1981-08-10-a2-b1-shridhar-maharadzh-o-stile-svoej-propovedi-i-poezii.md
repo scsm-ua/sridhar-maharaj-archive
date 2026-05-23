@@ -1,5 +1,5 @@
 ---
-slug: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii
+slug: 1981-08-10-a2-b1_shridhar_maharadzh_o_stile_svoey_propovedi_i_poezii
 record_id: 1981.08.10.A2.B1
 title: Шридхар Махарадж о стиле своей проповеди и поэзии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1095. 1981.08.10.A2.B1. Шридхар Махарадж о стиле своей проповеди и поэзии
   index: "1095"
   filename: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
+  slug: 1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii
 ---
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Нитай-Чайтанья]

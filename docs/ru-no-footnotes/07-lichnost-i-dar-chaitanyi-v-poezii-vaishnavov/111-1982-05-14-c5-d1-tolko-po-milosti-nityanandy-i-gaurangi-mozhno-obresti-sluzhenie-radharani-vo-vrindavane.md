@@ -1,5 +1,5 @@
 ---
-slug: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane
+slug: 1982-05-14-c5-d1_tolko_po_milosti_nityanandy_i_gaurangi_mozhno_obresti_sluzhenie_radharani_vo_vrindavane
 record_id: 1982.05.14.C5.D1
 title: Только по милости Нитьянанды и Гауранги можно обрести служение Радхарани
   во Вриндаване
@@ -30,6 +30,7 @@ legacy:
     обрести служение Радхарани во Вриндаване
   index: "111"
   filename: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane.md
+  slug: 111-1982-05-14-c5-d1-tolko-po-milosti-nityanandy-i-gaurangi-mozhno-obresti-sluzhenie-radharani-vo-vrindavane
 ---
 
     йатха̄ йатха̄ гаура-пада̄равинде

@@ -1,5 +1,5 @@
 ---
-slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
+slug: 1981-03-03-c5_nadmirnaya_priroda_vayshnava_beseda_s_satsvarupoy_maharadzhem
 record_id: 1981.03.03.C5
 title: Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     Махараджем
   index: "258"
   filename: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem.md
+  slug: 258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.1
     slug: shrimad-bhagavatam-2-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101

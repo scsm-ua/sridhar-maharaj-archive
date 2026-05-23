@@ -1,5 +1,5 @@
 ---
-slug: 302-razyasnenie-pervogo-stiha-shrimad-bh
+slug: 1982-01-19-b3_razyasnenie_pervogo_stiha_shrimad_bhagavatam
 record_id: 1982.01.19.B3
 title: Разъяснение первого стиха Шримад Бхагаватам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 302. Разъяснение первого стиха Шримад Бхагаватам. 1982.01.19.B3
   index: "302"
   filename: 302-razyasnenie-pervogo-stiha-shrimad-bh.md
+  slug: 302-razyasnenie-pervogo-stiha-shrimad-bh
 ---
 
 *#00:00:00#*

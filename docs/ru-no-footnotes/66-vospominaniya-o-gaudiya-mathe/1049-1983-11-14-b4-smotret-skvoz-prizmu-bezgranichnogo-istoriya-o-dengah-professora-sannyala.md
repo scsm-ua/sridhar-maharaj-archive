@@ -1,5 +1,5 @@
 ---
-slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
+slug: 1983-11-14-b4_smotret_skvoz_prizmu_bezgranichnogo_istoriya_o_dengah_professora_sannyala
 record_id: 1983.11.14.B4
 title: Смотреть сквозь призму Безграничного. История о деньгах профессора Санньяла.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     деньгах профессора Санньяла
   index: "1049"
   filename: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala.md
+  slug: 1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala
 ---
 
 **Госвами Махарадж:** Да. Также еще один момент, который не совсем ясен для меня, а именно: Вы говорили, что вдохновленная сторона вайшнава — это Гуру. Это понятно. Две стороны, но его другая сторона… Для меня неясно следующее: похоже, что эта другая сторона не вполне абсолютная.

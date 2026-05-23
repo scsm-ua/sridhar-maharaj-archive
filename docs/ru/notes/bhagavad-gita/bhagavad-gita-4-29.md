@@ -3,9 +3,10 @@ slug: bhagavad-gita-4-29
 refs:
   - ../../02-krishna-imya-lichnost-temperament/018_1981-02-28-c4_sridharmj_krishna-cel_vseh_jertvoprinosheniy.md
   - ../../_full/1981/02/1981.02.28.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.29
     slug: bhagavad-gita-4-29
 ---

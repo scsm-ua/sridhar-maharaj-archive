@@ -1,5 +1,5 @@
 ---
-slug: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami
+slug: 1982-11-07-c2_urovni_vidov_sluzheniya_rupy_sanatany_i_dzhivy_gosvami
 record_id: 1982.11.07.C2
 title: Уровни видов служения Рупы, Санатаны и Дживы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 147. 1982.11.07.C2. Уровни видов служения Рупы, Санатаны и Дживы Госвами
   index: "147"
   filename: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami.md
+  slug: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami
 ---
 
 **Преданный:** Гуру Махарадж!

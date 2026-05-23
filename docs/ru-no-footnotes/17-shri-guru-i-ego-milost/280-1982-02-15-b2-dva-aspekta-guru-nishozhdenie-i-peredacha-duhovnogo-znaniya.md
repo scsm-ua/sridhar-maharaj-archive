@@ -1,5 +1,5 @@
 ---
-slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+slug: 1982-02-15-b2_dva_aspekta_guru_nishozhdenie_i_peredacha_duhovnogo_znaniya
 record_id: 1982.02.15.B2
 title: Два аспекта гуру. Нисхождение и передача духовного знания.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
   index: "280"
   filename: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
+  slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
 ---
 
 **Шрила Госвами Махарадж:** Духовный учитель иногда зовется *ашрая-виграха*.

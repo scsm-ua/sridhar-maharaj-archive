@@ -3,9 +3,10 @@ slug: bhadzhana-lalasa-5-1
 refs:
   - ../../_full/1981/10/1981.10.02.A.B.C.md
   - ../../_full/1982/06/1982.06.08.A2.B.md
-tags:
+scriptures:
   - title: Бхаджана-лаласа
     slug: bhadzhana-lalasa
+verses:
   - title: Бхаджана-лаласа 5–1
     slug: bhadzhana-lalasa-5-1
 ---

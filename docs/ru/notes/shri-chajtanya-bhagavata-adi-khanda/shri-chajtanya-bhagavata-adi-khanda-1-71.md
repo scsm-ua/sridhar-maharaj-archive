@@ -5,9 +5,10 @@ refs:
   - ../../21-prakticheskie-voprosy-propovedi/388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya.md
   - ../../_full/1981/12/1981.12.30.C.md
   - ../../_full/1982/03/1982.03.29.B.C.D.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 1.71
     slug: shri-chajtanya-bhagavata-adi-khanda-1-71
 ---

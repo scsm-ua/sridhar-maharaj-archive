@@ -3,9 +3,10 @@ slug: bhagavad-gita-7-22
 refs:
   - ../../_full/1982/12/1982.12.19.B.C.md
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.22
     slug: bhagavad-gita-7-22
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste
+slug: 1982-05-10-b3_trud_kotoryy_prinosit_stradaniya_i_trud_kotoryy_darit_schaste
 record_id: 1982.05.10.B3
 title: Труд, который приносит страдания, и труд, который дарит счастье
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     дарит счастье
   index: "446"
   filename: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste.md
+  slug: 446-1982-05-10-b3-trud-kotoryj-prinosit-stradaniya-i-trud-kotoryj-darit-schaste
 ---
 
 Харе Кришна.

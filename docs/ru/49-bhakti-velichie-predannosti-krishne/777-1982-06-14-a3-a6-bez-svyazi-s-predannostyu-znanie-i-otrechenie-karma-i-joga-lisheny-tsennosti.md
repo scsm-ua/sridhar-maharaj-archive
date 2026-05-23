@@ -1,5 +1,5 @@
 ---
-slug: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti
+slug: 1982-06-14-a3-a6_bez_svyazi_s_predannostyu_znanie_i_otrechenie_karma_i_yoga_lisheny_tsennosti
 record_id: 1982.06.14.A3.A6
 title: Без связи с преданностью знание и отречение, карма и йога лишены ценности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
     slug: shri-chajtanya-charitamrita-madhya-lila-22-17
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.18
@@ -29,8 +25,6 @@ tags:
     slug: shrimad-bhagavatam-1-2-7
   - title: Шримад-Бхагаватам 1.2.8
     slug: shrimad-bhagavatam-1-2-8
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
 links:
@@ -45,6 +39,7 @@ legacy:
     и йога лишены ценности
   index: "777"
   filename: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti.md
+  slug: 777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti
 ---
 
 То явление, которое столь высоко ценится, драгоценно в юрисдикции *карми* и *гьяни*, обладает собственной важностью в рамках своей юрисдикции, но когда речь идет об *ананья-бхакти*, то эти явления не обладают ценностью. *Бхакти* есть все и вся, *бхакти* — это полнота, это целое. *Бхакти* не зависит ни от чего иного.

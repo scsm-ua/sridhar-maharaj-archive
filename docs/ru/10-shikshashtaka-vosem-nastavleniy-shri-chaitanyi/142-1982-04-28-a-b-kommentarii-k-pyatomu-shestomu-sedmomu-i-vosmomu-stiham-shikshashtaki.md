@@ -1,5 +1,5 @@
 ---
-slug: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki
+slug: 1982-04-28-a-b_kommentarii_k_pyatomu_shestomu_sedmomu_i_vosmomu_stiham_shikshashtaki
 record_id: 1982.04.28.A.B
 title: Комментарии к пятому, шестому, седьмому и восьмому стихам «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,40 +15,26 @@ category:
 tags:
   - title: Шикшаштакам
     slug: shikshashtakam
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.53
     slug: shri-chajtanya-charitamrita-madhya-lila-19-53
-  - title: Кабе шри чаитанйа море корибена дойа
-    slug: kabe-shri-chaitanja-more-koribena-doja
   - title: Кабе шри чаитанйа море корибена дойа 1
     slug: kabe-shri-chaitanja-more-koribena-doja-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 5
     slug: shri-shikshashtakam-5
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 126
     slug: padyavali-126
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.34
     slug: shri-chajtanya-charitamrita-antya-lila-7-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
     slug: shri-chajtanya-charitamrita-madhya-lila-8-77
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.8.46
     slug: shrimad-bhagavatam-10-8-46
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.9
     slug: shri-chajtanya-charitamrita-madhya-lila-22-9
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.7
     slug: bhagavad-gita-15-7
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
@@ -57,8 +43,6 @@ tags:
     slug: shri-shikshashtakam-6
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
   - title: Падьявали 385
@@ -75,28 +59,20 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-2-50
   - title: Бхагавад-гита 2.60
     slug: bhagavad-gita-2-60
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: Бхагавад-гита 6.22
     slug: bhagavad-gita-6-22
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
   - title: Бхагавад-гита 9.29
     slug: bhagavad-gita-9-29
   - title: Шримад-Бхагаватам 9.4.63
     slug: shrimad-bhagavatam-9-4-63
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 5
     slug: shri-ishopanishad-5
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
     slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
@@ -113,6 +89,7 @@ legacy:
     стихам «Шикшаштаки»
   index: "142"
   filename: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
+  slug: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki
 ---
 
     намо маха̄-вада̄нйа̄йа кр̣ш̣н̣а-према-прада̄йа те

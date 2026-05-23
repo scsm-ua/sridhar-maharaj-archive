@@ -1,5 +1,5 @@
 ---
-slug: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni
+slug: 1983-04-01-a2_namabhas_tenevoe_vospevanie_svyatogo_imeni
 record_id: 1983.04.01.A2
 title: Намабхас — теневое воспевание Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 344. 1983.04.01.A2. Намабхас — теневое воспевание Святого Имени
   index: "344"
   filename: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni.md
+  slug: 344-1983-04-01-a2-namabhas-tenevoe-vospevanie-svyatogo-imeni
 ---
 
 **Преданный:** Гуру Махарадж!

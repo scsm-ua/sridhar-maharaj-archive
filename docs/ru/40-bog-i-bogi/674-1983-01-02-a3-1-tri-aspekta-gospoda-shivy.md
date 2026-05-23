@@ -1,5 +1,5 @@
 ---
-slug: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy
+slug: 1983-01-02-a3-1_tri_aspekta_gospoda_shivy
 record_id: 1983.01.02.A3.1
 title: Три аспекта Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 674. 1983.01.02.A3.1. Три аспекта Господа Шивы
   index: "674"
   filename: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy.md
+  slug: 674-1983-01-02-a3-1-tri-aspekta-gospoda-shivy
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.24.29
     slug: shrimad-bhagavatam-4-24-29
 ---

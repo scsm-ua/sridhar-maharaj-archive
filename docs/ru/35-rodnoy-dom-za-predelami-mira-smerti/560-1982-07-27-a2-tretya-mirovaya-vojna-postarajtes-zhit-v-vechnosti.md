@@ -1,5 +1,5 @@
 ---
-slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
+slug: 1982-07-27-a2_tretya_mirovaya_voyna_postaraytes_zhit_v_vechnosti
 record_id: 1982.07.27.A2
 title: Третья мировая война. Постарайтесь жить в вечности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 560. 1982.07.27.A2. Третья мировая война. Постарайтесь жить в вечности
   index: "560"
   filename: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti.md
+  slug: 560-1982-07-27-a2-tretya-mirovaya-vojna-postarajtes-zhit-v-vechnosti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.6
     slug: bhagavad-gita-15-6
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.120
     slug: shri-chajtanya-charitamrita-madhya-lila-20-120
   - title: Бхагавад-гита 2.69

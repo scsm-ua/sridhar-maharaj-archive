@@ -1,5 +1,5 @@
 ---
-slug: 959-1982-02-24-a2-o-dzhagannathe-dase-babadzhi
+slug: 1982-02-24-a2_o_dzhagannathe_dase_babadzhi
 record_id: 1982.02.24.A2
 title: О Джаганнатхе Дасе Бабаджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 959. 1982.02.24.A2. О Джаганнатхе Дасе Бабаджи
   index: "959"
   filename: 959-1982-02-24-a2-o-dzhagannathe-dase-babadzhi.md
+  slug: 959-1982-02-24-a2-o-dzhagannathe-dase-babadzhi
 ---
 
 **«Онтология Прекрасной Реальности» (Часть 6.2)**

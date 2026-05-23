@@ -1,5 +1,5 @@
 ---
-slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
+slug: 1982-05-14-b5_kogda_krishna_pokidaet_vrindavan_on_ostaetsya_tam_v_skrytoy_forme
 record_id: 1982.05.14.B5
 title: Когда Кришна покидает Вриндаван, Он остается там в скрытой форме
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -29,6 +29,7 @@ legacy:
     в скрытой форме
   index: "050"
   filename: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme.md
+  slug: 050_1982-05-14-b5_sridharmj_kogda_krishna_pokidaet_vrindavan_on_ostaetsja_tam_v_skrytoj_forme
 ---
 
     кришна-нама дхаре ката бала

@@ -1,5 +1,5 @@
 ---
-slug: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu
+slug: 1982-05-04-b3_ochishchenie_serdets_bremya_lezhashchee_na_plechah_sadhu
 record_id: 1982.05.04.B3
 title: Очищение сердец – бремя, лежащее на плечах садху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1054. 1982.05.04.B3. Очищение сердец – бремя, лежащее на плечах садху
   index: "1054"
   filename: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu.md
+  slug: 1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu
 ---
 
     …манда натха! бхага хамара

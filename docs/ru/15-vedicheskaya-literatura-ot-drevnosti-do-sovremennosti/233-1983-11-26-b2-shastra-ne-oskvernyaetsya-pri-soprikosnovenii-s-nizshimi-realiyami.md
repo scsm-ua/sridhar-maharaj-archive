@@ -1,5 +1,5 @@
 ---
-slug: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami
+slug: 1983-11-26-b2_shastra_ne_oskvernyaetsya_pri_soprikosnovenii_s_nizshimi_realiyami
 record_id: 1983.11.26.B2
 title: Шастра не оскверняется при соприкосновении с низшими реалиями
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     реалиями
   index: "233"
   filename: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami.md
+  slug: 233-1983-11-26-b2-shastra-ne-oskvernyaetsya-pri-soprikosnovenii-s-nizshimi-realiyami
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.17.38
     slug: shrimad-bhagavatam-1-17-38
 ---

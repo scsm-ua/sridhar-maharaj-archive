@@ -13,9 +13,10 @@ refs:
   - ../../_full/1982/01/1982.01.27.md
   - ../../_full/1982/04/1982.04.16.B2.C1.md
   - ../../_full/1982/04/1982.04.25.A2.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда
     slug: shri-chajtanya-bhagavata-antya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
 ---

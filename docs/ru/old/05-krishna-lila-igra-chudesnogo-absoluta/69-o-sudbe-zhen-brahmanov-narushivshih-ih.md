@@ -1,5 +1,5 @@
 ---
-slug: 69-o-sudbe-zhen-brahmanov-narushivshih-ih
+slug: 1982-01-27-b6_o_sudbe_zhen_brahmanov_narushivshih_ih_volyu_radi_krishny
 record_id: 1982.01.27.B6
 title: О судьбе жен брахманов, нарушивших их волю ради Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 69. О судьбе жен брахманов, нарушивших их волю ради Кришны. 1982.01.27.B6
   index: "69"
   filename: 69-o-sudbe-zhen-brahmanov-narushivshih-ih.md
+  slug: 69-o-sudbe-zhen-brahmanov-narushivshih-ih
 ---
 
 **Ученик:** Махарадж, жены – ягья патни – жены браминов (ягья патни) не могли быть с Кришной, и они оставили тела, похоже, как будто бы?

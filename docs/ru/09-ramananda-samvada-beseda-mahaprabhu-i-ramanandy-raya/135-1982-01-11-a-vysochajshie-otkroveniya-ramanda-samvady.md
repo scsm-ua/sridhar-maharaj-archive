@@ -1,5 +1,5 @@
 ---
-slug: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady
+slug: 1982-01-11-a_vysochayshie_otkroveniya_ramanda-samvady
 record_id: 1982.01.11.A
 title: Высочайшие откровения Раманда-самвады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
@@ -27,8 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-191
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
 links:
@@ -42,6 +38,7 @@ legacy:
   title: 135. 1982.01.11.A. Высочайшие откровения Раманда-самвады
   index: "135"
   filename: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady.md
+  slug: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady
 ---
 
 Эта максима была изменена Нитьянандой Прабху в Бенгалии[^_ftn1].

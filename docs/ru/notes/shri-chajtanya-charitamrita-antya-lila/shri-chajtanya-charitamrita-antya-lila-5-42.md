@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-5-42
 refs:
   - ../../_full/1982/09/1982.09.08.A1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.42
     slug: shri-chajtanya-charitamrita-antya-lila-5-42
 ---

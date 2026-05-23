@@ -1,5 +1,5 @@
 ---
-slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
+slug: 1985-05-01-b3_obshchenie_s_duhami_privodit_k_rozhdeniyu_v_ih_mirah
 record_id: 1985.05.01.B3
 title: Общение с духами приводит к рождению в их мирах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 912. 1985.05.01.B3. Общение с духами приводит к рождению в их мирах
   index: "912"
   filename: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah.md
+  slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 ---

@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-5-167
 refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/368-1982-02-27-a2-rasprostraniteli-kapel-nektara.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 5.167
     slug: shri-chajtanya-charitamrita-madhya-lila-5-167
 ---

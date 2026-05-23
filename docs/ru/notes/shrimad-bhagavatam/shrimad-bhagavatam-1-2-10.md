@@ -5,9 +5,10 @@ refs:
   - ../../33-dharma-uchenie-o-dolge/534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
   - ../../_full/1981/10/1981.10.03.A.B.md
   - ../../_full/1983/07/1983.07.08.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.2.10
     slug: shrimad-bhagavatam-1-2-10
 ---

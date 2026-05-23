@@ -1,5 +1,5 @@
 ---
-slug: 683-1982-02-19-c3-polozhenie-ganesha
+slug: 1982-02-19-c3_polozhenie_ganesha
 record_id: 1982.02.19.C3
 title: Положение Ганеша
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 683. 1982.02.19.C3. Положение Ганеша
   index: "683"
   filename: 683-1982-02-19-c3-polozhenie-ganesha.md
+  slug: 683-1982-02-19-c3-polozhenie-ganesha
 ---
 
 **Преданный:** Махарадж, Хануманджи, Ганеш и Субраманья являются *амшами* или *дживами*?

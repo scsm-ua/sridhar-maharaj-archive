@@ -1,5 +1,5 @@
 ---
-slug: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6
+slug: 1982-07-03-b3_vysshiy_dolg_obresti_svyaz_s_potokom_predannosti_gospodu_shrimad_bhagavatam_1_2_6
 record_id: 1982.07.03.B3
 title: Высший долг — обрести связь с потоком преданности Господу. Шримад
   Бхагаватам 1.2.6.
@@ -28,6 +28,7 @@ legacy:
     Господу. Шримад Бхагаватам 1.2.6
   index: "536"
   filename: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6.md
+  slug: 536-1982-07-03-b3-vysshij-dolg-obresti-svyaz-s-potokom-predannosti-gospodu-shrimad-bhagavatam-1-2-6
 ---
 
 Принять Первопричину в качестве Самодержца. Он является Высочайшим Благом, Высочайшим Благом и Самодержцем. Если мы способны принять это, связь с этой истиной, то подобная концепция истины — высочайшая, и также в ней присутствует градация — но это уже предмет отдельного разговора.

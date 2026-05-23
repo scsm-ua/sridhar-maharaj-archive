@@ -5,9 +5,10 @@ refs:
   - ../../_full/1981/09/1981.09.20.A.B.md
   - ../../_full/1981/12/1981.12.14.A.B.md
   - ../../_full/1983/10/1983.10.20.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.21
     slug: bhagavad-gita-3-21
 ---

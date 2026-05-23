@@ -6,17 +6,18 @@ refs:
   - ../../_full/1981/11/1981.11.13.A.B.md
   - ../../_full/1982/05/1982.05.18.A.B.C1.md
   - ../../_full/1983/03/1983.03.28.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
-    slug: shri-chajtanya-charitamrita-adi-lila-4-219
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
   - title: Шри Гита-Говинда
     slug: shri-gita-govinda
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
+    slug: shri-chajtanya-charitamrita-adi-lila-4-219
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
   - title: Шри Гита-Говинда 3.1
     slug: shri-gita-govinda-3-1
 ---

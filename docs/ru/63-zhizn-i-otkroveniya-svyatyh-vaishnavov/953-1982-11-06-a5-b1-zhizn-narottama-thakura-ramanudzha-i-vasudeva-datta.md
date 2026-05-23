@@ -1,5 +1,5 @@
 ---
-slug: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta
+slug: 1982-11-06-a5-b1_zhizn_narottama_thakura_ramanudzha_i_vasudeva_datta
 record_id: 1982.11.06.A5.B1
 title: Жизнь Нароттама Тхакура. Рамануджа и Васудева Датта.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 953. 1982.11.06.A5.B1. Жизнь Нароттама Тхакура. Рамануджа и Васудева Датта
   index: "953"
   filename: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta.md
+  slug: 953-1982-11-06-a5-b1-zhizn-narottama-thakura-ramanudzha-i-vasudeva-datta
 tags:
-  - title: «Прартхана», Лаласа
-    slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
 ---

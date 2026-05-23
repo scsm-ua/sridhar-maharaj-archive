@@ -1,5 +1,5 @@
 ---
-slug: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily
+slug: 1982-01-28-a_shukadev_shri_chaytanya_i_gaudiya_math_yavlyayut_chistotu_krishna-lily
 record_id: 1982.01.28.A
 title: Шукадев, Шри Чайтанья и Гаудия Матх являют чистоту Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,49 +24,36 @@ legacy:
     Кришна-лилы
   index: "164"
   filename: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
+  slug: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
     slug: shri-chajtanya-charitamrita-madhya-lila-8-291
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.3
     slug: shrimad-bhagavatam-1-1-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
     slug: shri-chajtanya-charitamrita-madhya-lila-19-98
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 99
     slug: padyavali-99
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
   - title: Падьявали 126
     slug: padyavali-126
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.34
     slug: shri-chajtanya-charitamrita-antya-lila-7-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.77
     slug: shri-chajtanya-charitamrita-madhya-lila-8-77
   - title: Шримад-Бхагаватам 10.8.46
     slug: shrimad-bhagavatam-10-8-46
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
-  - title: Сарвасва томара
-    slug: sarvasva-tomara
   - title: Сарвасва томара 2
     slug: sarvasva-tomara-2
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3
     slug: sharanagati-3
   - title: Шаранагати 4
@@ -75,14 +62,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-8-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 4.197
     slug: shri-chajtanya-charitamrita-madhya-lila-4-197
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
   - title: Бхагавад-гита 9.22
     slug: bhagavad-gita-9-22
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: Бхагавад-гита 6.40

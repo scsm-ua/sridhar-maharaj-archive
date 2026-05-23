@@ -7,9 +7,10 @@ refs:
   - ../../_full/1981/10/1981.10.02.A.B.C.md
   - ../../_full/1982/01/1982.01.07.md
   - ../../_full/1983/12/1983.12.09.A.B.md
-tags:
+scriptures:
   - title: Брихад Бхагаватамрита
     slug: brihad-bhagavatamrita
+verses:
   - title: Брихад Бхагаватамрита 1.1.9
     slug: brihad-bhagavatamrita-1-1-9
 ---

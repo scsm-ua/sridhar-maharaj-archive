@@ -1,5 +1,5 @@
 ---
-slug: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty
+slug: 1982-05-01-a4_obyasnenie_ponyatiya_prekrasnaya_realnost_bytie_i_soznanie_v_poiskah_schastya
 record_id: 1982.05.01.A4
 title: Объяснение понятия «Прекрасная Реальность». Бытие и сознание в поисках счастья.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: ШБ 7.5.31
     slug: shb-7-5-31
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
 links:
@@ -31,6 +29,7 @@ legacy:
     и сознание в поисках счастья
   index: "001"
   filename: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty.md
+  slug: 001_1982-05-01-a4_sridharmj_objasnenie_vyrazhenija_prekrasnaja_realnost_bytie_i_soznanie_v_poiske_krasoty
 ---
 
 Ложное понимание есть, заблуждение, но оно не слишком могущественно, оно не самодостаточно, оно не независимо. Она не поддерживает себя. Заблуждение зависит от Истины, Истина занимает превосходящее положение, а не заблуждение, поэтому твоя транзакция, взаимодействие должно быть всегда с Истиной, с позитивным началом. И что есть позитивное начало, Истина? *Сат-чит-ананда* — таковы характеристики: бессмертное существование, вечное бытие; затем самоосознание; и затем полнота насыщения, удовлетворенность в себе, это Начало удовлетворено в Себе, Оно полное.

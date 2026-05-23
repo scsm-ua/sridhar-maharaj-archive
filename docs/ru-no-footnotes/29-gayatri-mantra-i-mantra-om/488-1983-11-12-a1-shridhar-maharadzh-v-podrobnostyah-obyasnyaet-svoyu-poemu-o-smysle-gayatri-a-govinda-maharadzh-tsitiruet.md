@@ -1,5 +1,5 @@
 ---
-slug: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet
+slug: 1983-11-12-a1_shridhar_maharadzh_v_podrobnostyah_obyasnyaet_svoyu_poemu_o_smysle_gayatri_a_govinda_maharadzh_tsitiruet
 record_id: 1983.11.12.A1
 title: Шридхар Махарадж в подробностях объясняет свою поэму о смысле Гаятри, а
   Говинда Махарадж цитирует
@@ -28,6 +28,7 @@ legacy:
     о смысле Гаятри, а Говинда Махарадж цитирует
   index: "488"
   filename: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet.md
+  slug: 488-1983-11-12-a1-shridhar-maharadzh-v-podrobnostyah-obyasnyaet-svoyu-poemu-o-smysle-gayatri-a-govinda-maharadzh-tsitiruet
 ---
 
 **Шрила Говинда Махарадж:** [*шри шримад бхагавата дхарайа гайатри сварупартха ваичитра*(?)] Вы осуществили перевод *шлоки*: *никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ*[^_ftn1]?
@@ -178,8 +179,8 @@ legacy:
 **Шрила Говинда Махарадж:**
 
 …\
-**девасйамрита-рупа-лила-расадхерарадха-дхих преринах**\
-**девасйамрита-рупа-лила-пурушасйарадха-дхих прешинах**
+    девасйамрита-рупа-лила-расадхерарадха-дхих преринах
+    девасйамрита-рупа-лила-пурушасйарадха-дхих прешинах
 
     девасйа дйути-сундараика-
     пурушасйарадха-дхих прешинах…

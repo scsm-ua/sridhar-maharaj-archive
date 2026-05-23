@@ -10,9 +10,10 @@ refs:
   - ../../_full/1982/05/1982.05.15.A.B1.md
   - ../../_full/1982/10/1982.10.17.A.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
-tags:
+scriptures:
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
   - title: Чайтанья-чандрамрита 95
     slug: chajtanya-chandramrita-95
 ---

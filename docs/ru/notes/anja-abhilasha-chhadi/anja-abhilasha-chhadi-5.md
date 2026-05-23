@@ -3,9 +3,10 @@ slug: anja-abhilasha-chhadi-5
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/245-1982-01-04-c-obshhenie-s-vajshnavami-daruet-podlinnoe-vospriyatie-bozhestva.md
   - ../../_full/1982/01/1982.01.04.C.md
-tags:
+scriptures:
   - title: Анйа-абхилаша чхади
     slug: anja-abhilasha-chhadi
+verses:
   - title: Анйа-абхилаша чхади 5
     slug: anja-abhilasha-chhadi-5
 ---

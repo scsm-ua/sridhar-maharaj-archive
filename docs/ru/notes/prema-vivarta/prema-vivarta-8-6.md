@@ -4,9 +4,10 @@ refs:
   - ../../_full/1982/12/1982.12.09.B.C.md
   - ../../_full/1982/12/1982.12.22.A.md
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: Према-виварта
     slug: prema-vivarta
+verses:
   - title: Према-виварта 8.6
     slug: prema-vivarta-8-6
 ---

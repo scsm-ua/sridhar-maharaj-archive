@@ -1,5 +1,5 @@
 ---
-slug: 027_1983-01-25-a_sridharmj_transcendentalistam_vse_okrujayuwee_napominaet_o_krishne
+slug: 1983-01-25-a_transtsendentalistam_vse_okruzhayushchee_napominaet_o_krishne
 record_id: 1983.01.25.A
 title: Трансценденталистам все окружающее напоминает о Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 027. 1983.01.25.A Трансценденталистам все окружающее напоминает о Кришне
   index: "027"
   filename: 027_1983-01-25-a_sridharmj_transcendentalistam_vse_okrujayuwee_napominaet_o_krishne.md
+  slug: 027_1983-01-25-a_sridharmj_transcendentalistam_vse_okrujayuwee_napominaet_o_krishne
 ---
 
 Необходим слух, способный уловить этот нектарный, сладостный звук, слух соответствующего типа. Звук, что сладок для одного, может быть горьким для другого, в соответствии с его вкусом.

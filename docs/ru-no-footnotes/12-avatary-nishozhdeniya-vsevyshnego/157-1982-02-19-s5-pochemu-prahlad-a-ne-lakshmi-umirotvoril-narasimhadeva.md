@@ -1,5 +1,5 @@
 ---
-slug: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva
+slug: 1982-02-19-c5_pochemu_prahlad_a_ne_lakshmi_umirotvoril_narasimhadeva
 record_id: 1982.02.19.C5
 title: Почему Прахлад, а не Лакшми умиротворил Нарасимхадева?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 157. 1982.02.19.С5. Почему Прахлад, а не Лакшми умиротворил Нарасимхадева?
   index: "157"
   filename: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva.md
+  slug: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva
 ---
 
 **Преданный:** Махарадж, после того как [Господь] Нрисимхадев убил Хираньякашипу, Прахлада Махарадж обратился к Господу, чтобы утихомирить Его. Почему не Лакшми Деви сделала это?

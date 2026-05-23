@@ -1,5 +1,5 @@
 ---
-slug: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit
+slug: 1983-11-13-a2_nezavistlivost_znachit_umeret_chtoby_zhit
 record_id: 1983.11.13.A2
 title: «Независтливость» значит «умереть, чтобы жить»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
@@ -42,6 +36,7 @@ legacy:
   title: 850. 1983.11.13.A2. «Независтливость» значит «умереть, чтобы жить»
   index: "850"
   filename: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit.md
+  slug: 850-1983-11-13-a2-nezavistlivost-znachit-umeret-chtoby-zhit
 ---
 
 *Видьяватам бхагавате парикша* — это другая часть. Насколько бы велики ни были академические познания человека, следует все измерять полнотой истины, данной в «Бхагаватам». *Мухйанти йат сӯрайах̣*[^_ftn1]. Великие так называемые «ученые мужи» не в состоянии найти врата, ведущие к истине, данной в «Бхагаватам». *Видьяватам бхагавате парикша*, *мухйанти йат сурайах*. Вначале — то, что сказано во введении: «То, что я собираюсь дать здесь, в «Бхагаватам». Что говорить об обычных людях? Великие ученые потеряют дар речи. Они будут поражены, поняв природу той истины, которую я озвучиваю здесь».

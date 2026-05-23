@@ -1,5 +1,5 @@
 ---
-slug: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi
+slug: 1982-01-27-a5-b1_voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi
 record_id: 1982.01.27.A5.B1
 title: Войны и стихийные бедствия как материал для проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1052. 1982.01.27.A5.B1. Войны и стихийные бедствия как материал для проповеди
   index: "1052"
   filename: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi.md
+  slug: 1052-1982-01-27-a5-b1-vojny-i-stihijnye-bedstviya-kak-material-dlya-propovedi
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари.

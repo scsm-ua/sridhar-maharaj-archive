@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-19-153-19-154
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153-19-154
 ---

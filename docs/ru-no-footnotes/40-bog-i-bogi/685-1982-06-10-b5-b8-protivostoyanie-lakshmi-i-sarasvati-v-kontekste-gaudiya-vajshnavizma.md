@@ -1,5 +1,5 @@
 ---
-slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
+slug: 1982-06-10-b5-b8_protivostoyanie_lakshmi_i_sarasvati_v_kontekste_gaudiya-vayshnavizma
 record_id: 1982.06.10.B5.B8
 title: Противостояние Лакшми и Сарасвати в контексте гаудия-вайшнавизма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     гаудия-вайшнавизма
   index: "685"
   filename: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
+  slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
 ---
 
 **Акхаянанда Махарадж:** Да, еще один вопрос. Иногда говорится, что Сарасвати находится в оппозиции к Лакшми. В чем здесь дело?

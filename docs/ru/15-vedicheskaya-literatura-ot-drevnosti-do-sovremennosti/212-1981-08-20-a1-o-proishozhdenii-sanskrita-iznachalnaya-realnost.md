@@ -1,5 +1,5 @@
 ---
-slug: 212-1981-08-20-a1-o-proishozhdenii-sanskrita-iznachalnaya-realnost
+slug: 1981-08-20-a1_o_proishozhdenii_sanskrita_iznachalnaya_realnost
 record_id: 1981.08.20.A1
 title: О происхождении санскрита. Изначальная Реальность.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 212. 1981.08.20.A1. О происхождении санскрита. Изначальная Реальность
   index: "212"
   filename: 212-1981-08-20-a1-o-proishozhdenii-sanskrita-iznachalnaya-realnost.md
+  slug: 212-1981-08-20-a1-o-proishozhdenii-sanskrita-iznachalnaya-realnost
 ---
 
 **Преданный:** В трансцендентном мире, особенно на Голоке, обитатели Голоки говорят на *бриджа-баси*, на языке Враджа, а в области Махапрабху — на Бенгали. А где место санскриту, Махарадж?

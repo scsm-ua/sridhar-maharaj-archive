@@ -1,5 +1,5 @@
 ---
-slug: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu
+slug: 1982-06-08-a1_na_stadii_paramahamsy_sannyasi_mozhet_ne_nosit_tridandu
 record_id: 1982.06.08.A1
 title: На стадии парамахамсы санньяси может не носить триданду
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 402. 1982.06.08.A1. На стадии парамахамсы санньяси может не носить триданду
   index: "402"
   filename: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu.md
+  slug: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu
 ---
 
 **Акхаянанда Махарадж:** Относительно правил, согласно которым *санньяси* должен носить *триданду*, — это вопрос общего характера. Кто-то говорит, что ее следует носить десять лет, кто-то — двенадцать лет, кто-то — пятнадцать лет. Существуют ли какие-то конкретные [указания?]

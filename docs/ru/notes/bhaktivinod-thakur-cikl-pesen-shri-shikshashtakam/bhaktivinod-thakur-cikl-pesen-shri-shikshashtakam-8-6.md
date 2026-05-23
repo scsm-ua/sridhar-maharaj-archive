@@ -3,9 +3,10 @@ slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-6
 refs:
   - ../../55-samopozhertvovanie/844-1982-11-06-a1-predannyj-gotov-zhit-i-umirat-radi-lily-bezgranichnogo.md
   - ../../60-uchenie-vaishnavov-i-hristianstvo/904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.6"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-6
 ---

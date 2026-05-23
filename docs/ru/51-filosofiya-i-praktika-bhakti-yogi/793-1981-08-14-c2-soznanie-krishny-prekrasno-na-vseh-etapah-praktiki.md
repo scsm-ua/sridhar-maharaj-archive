@@ -1,5 +1,5 @@
 ---
-slug: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki
+slug: 1981-08-14-c2_soznanie_krishny_prekrasno_na_vseh_etapah_praktiki
 record_id: 1981.08.14.C2
 title: Сознание Кришны прекрасно на всех этапах практики
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Бхакти-йога
     slug: bhakti-joga
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 793. 1981.08.14.C2. Сознание Кришны прекрасно на всех этапах практики
   index: "793"
   filename: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki.md
+  slug: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki
 ---
 
 **Госвами Махарадж:** Махарадж, сознание Кришны настолько прекрасно с самого начала, что если тебе дают каплю безграничного, то это также безгранично. Разве не так?

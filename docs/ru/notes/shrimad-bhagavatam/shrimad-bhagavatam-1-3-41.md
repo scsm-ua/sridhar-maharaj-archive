@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-1-3-41
 refs:
   - ../../_full/1981/11/1981.11.17.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.3.41
     slug: shrimad-bhagavatam-1-3-41
 ---

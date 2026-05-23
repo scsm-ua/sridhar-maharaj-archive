@@ -1,5 +1,5 @@
 ---
-slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
+slug: 1983-04-01-a1_gradatsiya_svyashchennyh_pisaniy_velichie_shrimad-bhagavatam
 record_id: 1983.04.01.A1
 title: Градация священных писаний. Величие «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,18 @@ legacy:
   title: 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
   index: "214"
   filename: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
+  slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
     slug: shri-chajtanya-charitamrita-adi-lila-2-86
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
     slug: shri-chajtanya-charitamrita-adi-lila-7-10
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
     slug: shri-chajtanya-charitamrita-adi-lila-7-107
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.11
     slug: shrimad-bhagavatam-1-2-11
 ---

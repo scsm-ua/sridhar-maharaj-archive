@@ -3,13 +3,14 @@ slug: shri-chajtanya-charitamrita-antya-lila-3-181
 refs:
   - ../../19-maha-mantra-svyatoe-imya/343-1981-08-30-b1-chetyre-vida-namabhasy.md
   - ../../_full/1981/08/1981.08.30.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.181
-    slug: shri-chajtanya-charitamrita-antya-lila-3-181
   - title: Падьявали
     slug: padyavali
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.181
+    slug: shri-chajtanya-charitamrita-antya-lila-3-181
   - title: Падьявали 16
     slug: padyavali-16
 ---

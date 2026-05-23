@@ -1,5 +1,5 @@
 ---
-slug: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3
+slug: 1981-08-30-b3_klyuch_k_vratam_vaykunthi
 record_id: 1981.08.30.B3
 title: Ключ к вратам Вайкунтхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 317. Ключ к вратам Вайкунтхи. 1981.08.30.B3
   index: "317"
   filename: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3.md
+  slug: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3
 ---
 
 **Ученик:** Махарадж? Да. Господь Чайтанья молится, говорит:\

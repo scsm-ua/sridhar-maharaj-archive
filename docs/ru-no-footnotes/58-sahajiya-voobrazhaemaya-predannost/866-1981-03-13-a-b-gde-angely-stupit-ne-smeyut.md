@@ -1,5 +1,5 @@
 ---
-slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
+slug: 1981-03-13-a-b_gde_angely_stupit_ne_smeyut
 record_id: 1981.03.13.A.B
 title: Где ангелы ступить не смеют
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 866. 1981.03.13.A.B. Где ангелы ступить не смеют
   index: "866"
   filename: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut.md
+  slug: 866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut
 ---
 
 [Говорит со Шрилой Говиндой Махараджем на бенгали]

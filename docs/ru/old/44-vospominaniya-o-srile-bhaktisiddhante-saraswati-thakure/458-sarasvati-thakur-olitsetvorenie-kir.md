@@ -1,5 +1,5 @@
 ---
-slug: 458-sarasvati-thakur-olitsetvorenie-kir
+slug: 1982-01-29-a_sarasvati_thakur_olitsetvorenie_kirtana
 record_id: 1982.01.29.A
 title: Сарасвати Тхакур — олицетворение киртана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 458. Сарасвати Тхакур — олицетворение киртана. 1982.01.29.A
   index: "458"
   filename: 458-sarasvati-thakur-olitsetvorenie-kir.md
+  slug: 458-sarasvati-thakur-olitsetvorenie-kir
 ---
 
 *#00:00:00#*

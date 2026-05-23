@@ -1,5 +1,5 @@
 ---
-slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
+slug: 1982-03-30-a-b1-b5_duhovnaya_chistota_vayshnava_za_predelami_fizicheskogo_i_mentalnogo_tel
 record_id: 1982.03.30.A.B1.B5
 title: Духовная чистота вайшнава — за пределами физического и ментального тел
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     физического и ментального тел
   index: "257"
   filename: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel.md
+  slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
 tags:
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 6
     slug: shri-upadeshamrita-6
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.191
     slug: shri-chajtanya-charitamrita-antya-lila-4-191
 ---

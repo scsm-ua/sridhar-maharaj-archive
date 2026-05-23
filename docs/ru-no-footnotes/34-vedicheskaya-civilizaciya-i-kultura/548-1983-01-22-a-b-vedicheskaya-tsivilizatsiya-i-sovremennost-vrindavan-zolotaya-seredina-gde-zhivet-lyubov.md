@@ -1,5 +1,5 @@
 ---
-slug: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov
+slug: 1983-01-22-a-b_vedicheskaya_tsivilizatsiya_i_sovremennost_vrindavan_zolotaya_seredina_gde_zhivet_lyubov
 record_id: 1983.01.22.A.B
 title: Ведическая цивилизация и современность. Вриндаван — «золотая середина»,
   где живет любовь.
@@ -28,6 +28,7 @@ legacy:
     «золотая середина», где живет любовь
   index: "548"
   filename: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov.md
+  slug: 548-1983-01-22-a-b-vedicheskaya-tsivilizatsiya-i-sovremennost-vrindavan-zolotaya-seredina-gde-zhivet-lyubov
 ---
 
 Внутренняя потенция, высшая потенция Голоки, Вайкунтхи. Они [жители духовного мира] черпают вдохновение в этом потоке и используют его с целью служения Центру. *Йога-майя* (или *Сварупа-шакти*) — ее смысл в этом, они черпают вдохновение в ней. А здесь источником вдохновения являются различные измерения, уровни духа наслаждения. В мире преданности есть также измерения: Вайкунтха, Голока, различные *расы* и вдохновение, соответственно которому обитатели тех измерений поступают, действуют.

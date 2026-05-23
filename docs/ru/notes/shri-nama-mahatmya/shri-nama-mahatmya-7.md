@@ -9,9 +9,10 @@ refs:
   - ../../_full/1983/01/1983.01.26.B.C.md
   - ../../_full/1983/01/1983.01.30.md
   - ../../_full/1983/12/1983.12.20.A.B.md
-tags:
+scriptures:
   - title: Шри Нама-Махатмья
     slug: shri-nama-mahatmya
+verses:
   - title: Шри Нама-Махатмья 7
     slug: shri-nama-mahatmya-7
 ---

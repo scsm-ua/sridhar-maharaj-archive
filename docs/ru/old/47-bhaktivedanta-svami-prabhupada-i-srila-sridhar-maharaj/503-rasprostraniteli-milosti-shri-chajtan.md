@@ -1,5 +1,5 @@
 ---
-slug: 503-rasprostraniteli-milosti-shri-chajtan
+slug: 1981-08-18-c2_rasprostraniteli_milosti_shri_chaytani
 record_id: 1981.08.18.C2
 title: Распространители милости Шри Чайтаньи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 503. Распространители милости Шри Чайтаньи. 1981.08.18.C2
   index: "503"
   filename: 503-rasprostraniteli-milosti-shri-chajtan.md
+  slug: 503-rasprostraniteli-milosti-shri-chajtan
 ---
 
 *#00:00:00#*

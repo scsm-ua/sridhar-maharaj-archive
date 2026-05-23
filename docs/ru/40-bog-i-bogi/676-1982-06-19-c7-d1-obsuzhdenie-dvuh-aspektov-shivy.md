@@ -1,5 +1,5 @@
 ---
-slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
+slug: 1982-06-19-c7-d1_obsuzhdenie_dvuh_aspektov_shivy
 record_id: 1982.06.19.C7.D1
 title: Обсуждение двух аспектов Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 676. 1982.06.19.C7.D1. Обсуждение двух аспектов Шивы
   index: "676"
   filename: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy.md
+  slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -34,8 +33,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: Шримад-Бхагаватам 4.24.29

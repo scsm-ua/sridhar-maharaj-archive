@@ -8,9 +8,10 @@ refs:
   - ../../_full/1983/08/1983.08.07.A.B.md
   - ../../_full/1983/10/1983.10.05.B.C.md
   - ../../_full/1984/01/1984.01.25.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.21
     slug: bhagavad-gita-13-21
 ---

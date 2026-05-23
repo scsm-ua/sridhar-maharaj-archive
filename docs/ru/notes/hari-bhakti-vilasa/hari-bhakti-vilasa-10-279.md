@@ -3,13 +3,14 @@ slug: hari-bhakti-vilasa-10-279
 refs:
   - ../../_full/1982/12/1982.12.23.B.C.md
   - ../../_full/1983/02/1983.02.14.md
-tags:
+scriptures:
   - title: Брихан-нарадия-пурана
     slug: brihan-naradiya-purana
-  - title: Брихан-нарадия-пурана 4.33
-    slug: brihan-naradiya-purana-4-33
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
+verses:
+  - title: Брихан-нарадия-пурана 4.33
+    slug: brihan-naradiya-purana-4-33
   - title: Хари-бхакти-виласа 10.279
     slug: hari-bhakti-vilasa-10-279
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
+slug: 1982-01-17-a4_istoriya_achyutanandy_o_synovyah_advayty_achari
 record_id: 1982.01.17.A4
 title: История Ачьютананды. О сыновьях Адвайты Ачарьи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 940. 1982.01.17.A4. История Ачьютананды. О сыновьях Адвайты Ачарьи
   index: "940"
   filename: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
+  slug: 940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari
 ---
 
     [чид-а̄нанда-бха̄нох̣ сада̄ нанда-сӯнох̣

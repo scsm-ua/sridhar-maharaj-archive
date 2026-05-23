@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-1-8-26
 refs:
   - ../../_full/1981/08/1981.08.14.md
   - ../../_full/1981/08/1981.08.28.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.8.26
     slug: shrimad-bhagavatam-1-8-26
 ---

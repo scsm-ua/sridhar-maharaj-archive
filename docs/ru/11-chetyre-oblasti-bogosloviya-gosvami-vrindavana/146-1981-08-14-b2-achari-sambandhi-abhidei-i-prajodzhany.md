@@ -1,5 +1,5 @@
 ---
-slug: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany
+slug: 1981-08-14-b2_achari_sambandhi_abhidei_i_prayodzhany
 record_id: 1981.08.14.B2
 title: Ачарьи самбандхи, абхидеи и прайоджаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Шикшаштакам
     slug: shikshashtakam
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
     slug: shri-chajtanya-charitamrita-madhya-lila-20-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.107
     slug: shri-chajtanya-charitamrita-madhya-lila-20-107
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 102
     slug: shri-vilapa-kusumandzhali-102
-  - title: Рагхувамша
-    slug: raghuvamsha
   - title: Рагхувамша 1.4
     slug: raghuvamsha-1-4
 links:
@@ -46,6 +38,7 @@ legacy:
   title: 146. 1981.08.14.B2. Ачарьи самбандхи, абхидеи и прайоджаны
   index: "146"
   filename: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany.md
+  slug: 146-1981-08-14-b2-achari-sambandhi-abhidei-i-prajodzhany
 ---
 
 **Преданный:** Махарадж, а кто *ачарьи самбандха*- и *абхидея-таттв*?
@@ -54,8 +47,9 @@ legacy:
 
 *#00:00:17#*
 
-**‘ке а̄ми’, ‘кене а̄ма̄йа джа̄ре та̄па-трайа’**\
-**иха̄ на̄хи джа̄ни** — **‘кемане хита хайа’**[^_ftn1]
+    ‘ке а̄ми’, ‘кене а̄ма̄йа джа̄ре та̄па-трайа’
+    иха̄ на̄хи джа̄ни — ‘кемане хита хайа’
+[^_ftn1]
 
     [йогйа-па̄тра хао туми бхакти праварта̄ите]
     краме саба таттва ш́уна, кахийе тома̄те

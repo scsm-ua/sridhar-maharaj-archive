@@ -13,9 +13,10 @@ refs:
   - ../../_full/1983/01/1983.01.25.md
   - ../../_full/1983/01/1983.01.31.md
   - ../../_full/1983/05/1983.05.23.md
-tags:
+scriptures:
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
+verses:
   - title: Бхакти-сандарбха 283
     slug: bhakti-sandarbha-283
 ---

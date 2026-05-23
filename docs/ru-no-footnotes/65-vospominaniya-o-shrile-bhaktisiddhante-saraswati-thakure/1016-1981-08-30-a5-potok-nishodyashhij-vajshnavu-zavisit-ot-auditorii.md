@@ -1,5 +1,5 @@
 ---
-slug: 1016-1981-08-30-a5-potok-nishodyashhij-vajshnavu-zavisit-ot-auditorii
+slug: 1981-08-30-a5_potok_nishodyashchiy_vayshnavu_zavisit_ot_auditorii
 record_id: 1981.08.30.A5
 title: Поток, нисходящий вайшнаву, зависит от аудитории
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1016. 1981.08.30.A5. Поток, нисходящий вайшнаву, зависит от аудитории
   index: "1016"
   filename: 1016-1981-08-30-a5-potok-nishodyashhij-vajshnavu-zavisit-ot-auditorii.md
+  slug: 1016-1981-08-30-a5-potok-nishodyashhij-vajshnavu-zavisit-ot-auditorii
 ---
 
 **Преданный:** Речь идет о столь о глубоких и высоких вещах…

@@ -1,5 +1,5 @@
 ---
-slug: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary
+slug: 1982-01-25-a1_pochemu_shri_chaytanya_otverg_uchenie_buddy_i_shankary
 record_id: 1982.01.25.A1
 title: Почему Шри Чайтанья отверг учение Будды и Шанкары?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 887. 1982.01.25.A1. Почему Шри Чайтанья отверг учение Будды и Шанкары?
   index: "887"
   filename: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary.md
+  slug: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary
 tags:
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.1.11
     slug: katha-upanishad-2-1-11
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 2.1.11
     slug: vedanta-sutra-2-1-11
 ---

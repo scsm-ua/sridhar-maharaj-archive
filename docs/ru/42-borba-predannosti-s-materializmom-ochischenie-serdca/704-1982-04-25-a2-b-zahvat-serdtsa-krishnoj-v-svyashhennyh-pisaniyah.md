@@ -1,5 +1,5 @@
 ---
-slug: 704-1982-04-25-a2-b-zahvat-serdtsa-krishnoj-v-svyashhennyh-pisaniyah
+slug: 1982-04-25-a2-b_zahvat_serdtsa_krishnoy_v_svyashchennyh_pisaniyah
 record_id: 1982.04.25.A2.B
 title: Захват сердца Кришной в Священных Писаниях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 704. 1982.04.25.A2.B. Захват сердца Кришной в Священных Писаниях
   index: "704"
   filename: 704-1982-04-25-a2-b-zahvat-serdtsa-krishnoj-v-svyashhennyh-pisaniyah.md
+  slug: 704-1982-04-25-a2-b-zahvat-serdtsa-krishnoj-v-svyashhennyh-pisaniyah
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.8.5
     slug: shrimad-bhagavatam-2-8-5
   - title: Шримад-Бхагаватам 1.2.17

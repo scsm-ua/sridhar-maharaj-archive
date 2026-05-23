@@ -1,5 +1,5 @@
 ---
-slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
+slug: 1983-04-29-b_o_vazhnosti_soblyudeniya_reguliruyushchih_printsipov
 record_id: 1983.04.29.B
 title: О важности соблюдения регулирующих принципов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,18 @@ legacy:
   title: 750. 1983.04.29.B. О важности соблюдения регулирующих принципов
   index: "750"
   filename: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov.md
+  slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.17.38
     slug: shrimad-bhagavatam-1-17-38
   - title: Шримад-Бхагаватам 1.17.39
     slug: shrimad-bhagavatam-1-17-39
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Шримад-Бхагаватам 1.2.6

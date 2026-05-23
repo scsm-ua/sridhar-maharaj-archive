@@ -2,9 +2,10 @@
 slug: bhagavad-gita-3-14
 refs:
   - ../../_full/1982/12/1982.12.10.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.14
     slug: bhagavad-gita-3-14
 ---

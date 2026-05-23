@@ -7,9 +7,10 @@ refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
   - ../../_full/1982/02/1982.02.01.B.md
   - ../../_full/1983/09/1983.09.20.A.B.C.md
-tags:
+scriptures:
   - title: Шримад Бхактивинода-вираха Дашакам
     slug: shrimad-bhaktivinoda-viraha-dashakam
+verses:
   - title: Шримад Бхактивинода-вираха Дашакам 7
     slug: shrimad-bhaktivinoda-viraha-dashakam-7
 ---

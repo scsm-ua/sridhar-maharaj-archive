@@ -1,5 +1,5 @@
 ---
-slug: 605-1980-07-11-a6-o-kontseptsii-krishna-mozhet-prekratit-sushhestvovanie-dzhivy
+slug: 1980-07-11-a6_o_kontseptsii_krishna_mozhet_prekratit_sushchestvovanie_dzhivy
 record_id: 1980.07.11.A6
 title: О концепции «Кришна может прекратить существование дживы»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
     slug: shri-chajtanya-charitamrita-madhya-lila-15-179
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 605. 1980.07.11.A6. О концепции «Кришна может прекратить существование дживы»
   index: "605"
   filename: 605-1980-07-11-a6-o-kontseptsii-krishna-mozhet-prekratit-sushhestvovanie-dzhivy.md
+  slug: 605-1980-07-11-a6-o-kontseptsii-krishna-mozhet-prekratit-sushhestvovanie-dzhivy
 ---
 
 **Преданный:** Однажды Бхактивинод Тхакур сказал: «Если Кришна пожелает, то Он может прекратить существование *дживы*.

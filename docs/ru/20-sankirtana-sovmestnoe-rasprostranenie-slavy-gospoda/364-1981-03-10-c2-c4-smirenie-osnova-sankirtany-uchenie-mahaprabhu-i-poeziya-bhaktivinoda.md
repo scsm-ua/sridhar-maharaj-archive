@@ -1,5 +1,5 @@
 ---
-slug: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda
+slug: 1981-03-10-c2-c4_smirenie_osnova_sankirtany_uchenie_mahaprabhu_i_poeziya_bhaktivinoda
 record_id: 1981.03.10.C2.C4
 title: Смирение – основа санкиртаны. Учение Махапрабху и поэзия Бхактивинода.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 3"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-3
 links:
@@ -35,6 +31,7 @@ legacy:
     поэзия Бхактивинода
   index: "364"
   filename: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda.md
+  slug: 364-1981-03-10-c2-c4-smirenie-osnova-sankirtany-uchenie-mahaprabhu-i-poeziya-bhaktivinoda
 ---
 
 Характеристики вайшнава таковы, что он связан с безграничным, с тем, что не имеет предела, и по мере своего прогресса преданный находит, что он беспомощен, что он никто и ничто. Но все же он будет убежден, подобно Ньютону, в том, что «я более учен, чем вы все, потому что вы думаете, что вы исчерпали знание, а я утверждаю, что лишь стою на берегу океана знания и касаюсь этих вод. Поэтому в этом смысле я более учен, нежели вы все». Таким образом, он будет думать: «Я ничего не знаю», поскольку объект познания подобной безграничной природы. То, что они говорят, — неправда, поэтому я могу попросить их принять мою концепцию. Таким образом он может принять линию проповеди трансцендентной истины. Ты понимаешь?

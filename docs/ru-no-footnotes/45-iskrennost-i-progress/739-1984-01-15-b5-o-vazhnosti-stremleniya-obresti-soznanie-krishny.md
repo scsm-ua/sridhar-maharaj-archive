@@ -1,5 +1,5 @@
 ---
-slug: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny
+slug: 1984-01-15-b5_o_vazhnosti_stremleniya_obresti_soznanie_krishny
 record_id: 1984.01.15.B5
 title: О важности стремления обрести Сознание Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 739. 1984.01.15.B5. О важности стремления обрести Сознание Кришны
   index: "739"
   filename: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny.md
+  slug: 739-1984-01-15-b5-o-vazhnosti-stremleniya-obresti-soznanie-krishny
 ---
 
 **Преданный:** [Кто-то совершает] путешествие к Кришне, но он останавливается. Остановка, прекращение движения вызвано его прошлой кармой, или оскорблениями на пути преданности?

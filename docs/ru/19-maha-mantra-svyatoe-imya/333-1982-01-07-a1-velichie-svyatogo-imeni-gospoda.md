@@ -1,5 +1,5 @@
 ---
-slug: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda
+slug: 1982-01-07-a1_velichie_svyatogo_imeni_gospoda
 record_id: 1982.01.07.A1
 title: Величие Святого Имени Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,46 +15,28 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 8
     slug: shri-shri-prabhupada-padma-stavakah-8
-  - title: Брихад Бхагаватамрита
-    slug: brihad-bhagavatamrita
   - title: Брихад Бхагаватамрита 1.1.9
     slug: brihad-bhagavatamrita-1-1-9
-  - title: Намаштакам
-    slug: namashtakam
   - title: Намаштакам 1
     slug: namashtakam-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.133
     slug: shri-chajtanya-charitamrita-madhya-lila-17-133
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.38
     slug: bhagavad-gita-4-38
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.19
     slug: shri-chajtanya-charitamrita-madhya-lila-22-19
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.12
     slug: shrimad-bhagavatam-1-5-12
   - title: Шримад-Бхагаватам 12.13.18
     slug: shrimad-bhagavatam-12-13-18
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
     slug: shri-chajtanya-charitamrita-antya-lila-5-123
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.342
     slug: laghu-bhagavatamrita-1-5-342
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.15
     slug: vidagdha-madhava-1-15
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
@@ -72,6 +54,7 @@ legacy:
   title: 333. 1982.01.07.A1. Величие Святого Имени Господа
   index: "333"
   filename: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
+  slug: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda
 ---
 
 Сарасвати Тхакур практически всегда говорил о Махапрабху, настолько, что я написал о нем:

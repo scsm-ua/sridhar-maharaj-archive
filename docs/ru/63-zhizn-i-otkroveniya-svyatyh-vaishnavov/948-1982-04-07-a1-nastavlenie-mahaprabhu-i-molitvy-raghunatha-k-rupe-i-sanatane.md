@@ -1,5 +1,5 @@
 ---
-slug: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane
+slug: 1982-04-07-a1_nastavlenie_mahaprabhu_i_molitvy_raghunatha_k_rupe_i_sanatane
 record_id: 1982.04.07.A1
 title: Наставление Махапрабху и молитвы Рагхунатха к Рупе и Санатане
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,29 +24,18 @@ legacy:
     Санатане
   index: "948"
   filename: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane.md
+  slug: 948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.111
     slug: shri-chajtanya-charitamrita-madhya-lila-10-111
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236–237
     slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
-  - title: Шри Дана-кели Чинтамани
-    slug: shri-dana-keli-chintamani
   - title: Шри Дана-кели Чинтамани 175
     slug: shri-dana-keli-chintamani-175
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 4.27
     slug: shri-shri-prapanna-dzhivanamritam-4-27
-  - title: Кали-гхора тимире
-    slug: kali-ghora-timire
   - title: Кали-гхора тимире 1
     slug: kali-ghora-timire-1
 ---

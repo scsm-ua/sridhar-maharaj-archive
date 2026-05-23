@@ -1,5 +1,5 @@
 ---
-slug: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu
+slug: 1983-01-05-a1_pochemu_vayshnavy_ne_ispolzuyut_misticheskuyu_yogu
 record_id: 1983.01.05.A1
 title: Почему вайшнавы не используют мистическую йогу?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,14 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.6.35
     slug: shrimad-bhagavatam-1-6-35
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
   - title: Бхагавад-гита 11.54
     slug: bhagavad-gita-11-54
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -37,8 +31,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
   - title: Бхагавад-гита 9.26
@@ -54,6 +46,7 @@ legacy:
   title: 784. 1983.01.05.A1. Почему вайшнавы не используют мистическую йогу?
   index: "784"
   filename: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu.md
+  slug: 784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu
 ---
 
 **Преданный:** Мне хотелось бы знать, почему *гаудия-вайшнавы* не используют в своей практике йогу (*асаны*) в своем служении Кришне? Скажем, в Рамануджа-линии, в *Рамануджа-сампрадайе*, в некоторых сектах используются йогические упражнения и тому подобное: *асаны*, *пранаяма*.

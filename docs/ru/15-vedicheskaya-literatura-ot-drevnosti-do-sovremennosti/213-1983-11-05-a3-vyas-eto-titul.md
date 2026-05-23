@@ -1,5 +1,5 @@
 ---
-slug: 213-1983-11-05-a3-vyas-eto-titul
+slug: 1983-11-05-a3_vyas_eto_titul
 record_id: 1983.11.05.A3
 title: Вьяс – это титул
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 213. 1983.11.05.A3 Вьяс – это титул
   index: "213"
   filename: 213-1983-11-05-a3-vyas-eto-titul.md
+  slug: 213-1983-11-05-a3-vyas-eto-titul
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
     slug: shri-chajtanya-charitamrita-madhya-lila-25-143
 ---

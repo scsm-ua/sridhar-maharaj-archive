@@ -1,5 +1,5 @@
 ---
-slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
+slug: 1982-04-24-a4-b1_sluzhenie_absolyutnomu_tsentru_edinstvennyy_vyhod_iz_krugovorota_karmy
 record_id: 1982.04.24.A4.B1
 title: Служение Абсолютному Центру – единственный выход из круговорота кармы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     из круговорота кармы
   index: "419"
   filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
+  slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
 ---
 
     ахаста̄ни сахаста̄на̄м

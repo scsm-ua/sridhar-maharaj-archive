@@ -1,5 +1,5 @@
 ---
-slug: 1022-1982-07-04-a6-a8-blizost-k-duhovnomu-uchitelyu-eto-pokornost-ego-vole
+slug: 1982-07-04-a6-a8_blizost_k_duhovnomu_uchitelyu_eto_pokornost_ego_vole
 record_id: 1982.07.04.A6.A8
 title: Близость к духовному учителю — это покорность его воле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     воле
   index: "1022"
   filename: 1022-1982-07-04-a6-a8-blizost-k-duhovnomu-uchitelyu-eto-pokornost-ego-vole.md
+  slug: 1022-1982-07-04-a6-a8-blizost-k-duhovnomu-uchitelyu-eto-pokornost-ego-vole
 ---
 
 **Преданный:** Мы видим, что иногда даже в случае ограниченных существ, если мы любим кого-то, нас отталкивают. Так как же мы можем пленить Безграничное своей нежностью?

@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-9-30
 refs:
   - ../../02-krishna-imya-lichnost-temperament/015_1983-03-29-a2_sridharmj_obyasnenie_imeni_krish-na.md
-tags:
+scriptures:
   - title: «Махабхарата», Удьога-парва
     slug: mahabharata-udoga-parva
-  - title: «Махабхарата», Удьога-парва 71.4
-    slug: mahabharata-udoga-parva-71-4
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Махабхарата», Удьога-парва 71.4
+    slug: mahabharata-udoga-parva-71-4
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.30
     slug: shri-chajtanya-charitamrita-madhya-lila-9-30
 ---

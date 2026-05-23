@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-10-47-67
 refs:
   - ../../_full/1983/07/1983.07.19.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.61
-    slug: shri-chajtanya-charitamrita-adi-lila-6-61
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.61
+    slug: shri-chajtanya-charitamrita-adi-lila-6-61
   - title: Шримад-Бхагаватам 10.47.67
     slug: shrimad-bhagavatam-10-47-67
 ---

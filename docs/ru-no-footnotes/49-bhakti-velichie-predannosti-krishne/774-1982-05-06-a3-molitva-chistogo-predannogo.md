@@ -1,5 +1,5 @@
 ---
-slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
+slug: 1982-05-06-a3_molitva_chistogo_predannogo
 record_id: 1982.05.06.A3
 title: Молитва чистого преданного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 774. 1982.05.06.A3. Молитва чистого преданного
   index: "774"
   filename: 774-1982-05-06-a3-molitva-chistogo-predannogo.md
+  slug: 774-1982-05-06-a3-molitva-chistogo-predannogo
 ---
 
     пашу-пакши хойе тхаки сварге ба ниройе

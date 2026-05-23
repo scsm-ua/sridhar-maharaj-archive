@@ -3,9 +3,10 @@ slug: bhagavad-gita-18-60
 refs:
   - ../../_full/1982/12/1982.12.14.A.md
   - ../../_full/1984/01/1984.01.15.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 18.60
     slug: bhagavad-gita-18-60
 ---

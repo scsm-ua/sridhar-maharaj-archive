@@ -15,9 +15,10 @@ refs:
   - ../../_full/1983/01/1983.01.01.md
   - ../../_full/1983/01/1983.01.26.B.C.md
   - ../../_full/1983/02/1983.02.07.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.13.16
     slug: shrimad-bhagavatam-12-13-16
 ---

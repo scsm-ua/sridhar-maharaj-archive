@@ -1,5 +1,5 @@
 ---
-slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
+slug: 1981-08-30-c2_filosofskie_aspekty_sankirtany
 record_id: 1981.08.30.C2
 title: Философские аспекты санкиртаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 355. 1981.08.30.С2. Философские аспекты санкиртаны
   index: "355"
   filename: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany.md
+  slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
 ---
 
 **Преданный:** Махарадж?

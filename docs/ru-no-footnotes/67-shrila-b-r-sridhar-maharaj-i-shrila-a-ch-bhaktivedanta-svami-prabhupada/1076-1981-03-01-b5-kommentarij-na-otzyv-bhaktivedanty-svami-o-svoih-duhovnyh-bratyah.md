@@ -1,5 +1,5 @@
 ---
-slug: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah
+slug: 1981-03-01-b5_kommentariy_na_otzyv_bhaktivedanty_svami_o_svoih_duhovnyh_bratyah
 record_id: 1981.03.01.B5
 title: Комментарий на отзыв Бхактиведанты Свами о своих духовных братьях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     духовных братьях
   index: "1076"
   filename: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah.md
+  slug: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah
 ---
 
 …С такой великой нежностью… И он обрел подобную веру в собственного Гуру, он обрел его благословение, и мы должны донести это. «Вдохновленный моим Гурудевом, я отправлюсь по городам и весям и буду нести это послание». И тому была дана высокая оценка.

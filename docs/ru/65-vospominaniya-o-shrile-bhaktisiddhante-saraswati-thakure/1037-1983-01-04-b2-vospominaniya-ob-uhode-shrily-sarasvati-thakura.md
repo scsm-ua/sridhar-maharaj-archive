@@ -1,5 +1,5 @@
 ---
-slug: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura
+slug: 1983-01-04-b2_vospominaniya_ob_uhode_shrily_sarasvati_thakura
 record_id: 1983.01.04.B2
 title: Воспоминания об уходе Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1037. 1983.01.04.B2. Воспоминания об уходе Шрилы Сарасвати Тхакура
   index: "1037"
   filename: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura.md
+  slug: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна.

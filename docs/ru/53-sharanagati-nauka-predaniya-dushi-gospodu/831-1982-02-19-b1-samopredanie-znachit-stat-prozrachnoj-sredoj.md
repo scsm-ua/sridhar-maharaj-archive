@@ -1,5 +1,5 @@
 ---
-slug: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj
+slug: 1982-02-19-b1_samopredanie_znachit_stat_prozrachnoy_sredoy
 record_id: 1982.02.19.B1
 title: «Самопредание» значит «стать прозрачной средой»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 831. 1982.02.19.B1. «Самопредание» значит «стать прозрачной средой»
   index: "831"
   filename: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj.md
+  slug: 831-1982-02-19-b1-samopredanie-znachit-stat-prozrachnoj-sredoj
 ---
 
 *Мгновения Прекрасной Реальности (часть 7.3)*

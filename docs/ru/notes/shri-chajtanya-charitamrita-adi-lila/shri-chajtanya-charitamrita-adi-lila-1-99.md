@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-1-99
 refs:
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
   - ../../_full/1981/08/1981.08.20.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.99
     slug: shri-chajtanya-charitamrita-adi-lila-1-99
 ---

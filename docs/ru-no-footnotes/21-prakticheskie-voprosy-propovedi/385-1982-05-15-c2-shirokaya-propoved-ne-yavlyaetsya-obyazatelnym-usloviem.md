@@ -1,5 +1,5 @@
 ---
-slug: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem
+slug: 1982-05-15-c2_shirokaya_propoved_ne_yavlyaetsya_obyazatelnym_usloviem
 record_id: 1982.05.15.C2
 title: Широкая проповедь не является обязательным условием
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 385. 1982.05.15.C2. Широкая проповедь не является обязательным условием
   index: "385"
   filename: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem.md
+  slug: 385-1982-05-15-c2-shirokaya-propoved-ne-yavlyaetsya-obyazatelnym-usloviem
 ---
 
 **Преданный:** Существует два типа *санньяси*, *санньяси* двух типов. Одни интровертны, не склонны к широкомасштабной деятельности. А немногие более экстравертны, стремятся к широкомасштабной пропаганде.

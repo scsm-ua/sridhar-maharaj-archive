@@ -1,5 +1,5 @@
 ---
-slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
+slug: 1983-07-28-a1_milost_vyshe_spravedlivosti_i_oppozitsiya_chast_garmonii_v_hristianstve_i_vayshnavizme
 record_id: 1983.07.28.A1
 title: «Милость выше справедливости» и «оппозиция – часть гармонии» в
   христианстве и вайшнавизме
@@ -25,6 +25,7 @@ legacy:
     гармонии» в христианстве и вайшнавизме
   index: "904"
   filename: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
+  slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
 ---
 
 Насколько глубокой может быть наша реализация?

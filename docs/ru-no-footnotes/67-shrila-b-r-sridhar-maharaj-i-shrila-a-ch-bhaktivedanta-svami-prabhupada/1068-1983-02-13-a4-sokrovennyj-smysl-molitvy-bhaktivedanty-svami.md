@@ -1,5 +1,5 @@
 ---
-slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
+slug: 1983-02-13-a4_sokrovennyy_smysl_molitvy_bhaktivedanty_svami
 record_id: 1983.02.13.A4
 title: Сокровенный смысл молитвы Бхактиведанты Свами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
   index: "1068"
   filename: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami.md
+  slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
 ---
 
 **Преданный:** Гуру Махарадж, говорится, что Свами Махарадж испытывал влечение к *сакхья-расе*.

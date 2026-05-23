@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-20-52
 refs:
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.52
     slug: shri-chajtanya-charitamrita-antya-lila-20-52
 ---

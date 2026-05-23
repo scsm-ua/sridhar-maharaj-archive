@@ -1,5 +1,5 @@
 ---
-slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
+slug: 1982-05-15-a-b1_znamya_bozhestvennoy_lyubvi
 record_id: 1982.05.15.A.B1
 title: Знамя божественной любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -21,24 +21,14 @@ tags:
     slug: poisk-shri-krishny-prekrasnoj-realnos
   - title: Проповедь
     slug: propoved
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.256
     slug: bhakti-rasamrita-sindhu-1-2-256
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: Бхакти-анукула-матра
-    slug: bhakti-anukula-matra
   - title: Бхакти-анукула-матра 3.6
     slug: bhakti-anukula-matra-3-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 95
     slug: chajtanya-chandramrita-95
   - title: Бхагавад-гита 2.29
@@ -47,8 +37,6 @@ tags:
     slug: bhagavad-gita-7-2
   - title: Бхагавад-гита 7.5
     slug: bhagavad-gita-7-5
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.1.64
     slug: shrimad-bhagavatam-4-1-64
   - title: Бхагавад-гита 2.69
@@ -57,8 +45,6 @@ tags:
     slug: shrimad-bhagavatam-11-2-42
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -80,6 +66,7 @@ legacy:
   title: 034. 1982.05.15.А.В1 Знамя божественной любви
   index: "034"
   filename: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
+  slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
 ---
 
 **Шрила Шридхар Махарадж:**

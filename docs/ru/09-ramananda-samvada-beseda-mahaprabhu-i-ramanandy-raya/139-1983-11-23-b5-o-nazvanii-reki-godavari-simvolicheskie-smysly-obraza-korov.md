@@ -1,5 +1,5 @@
 ---
-slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
+slug: 1983-11-23-b5_o_nazvanii_reki_godavari_simvolicheskie_smysly_obraza_korov
 record_id: 1983.11.23.B5
 title: О названии реки «Годавари». Символические смыслы образа коров.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,8 +17,6 @@ tags:
     slug: godavari
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
 links:
@@ -33,6 +31,7 @@ legacy:
     образа коров
   index: "139"
   filename: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov.md
+  slug: 139-1983-11-23-b5-o-nazvanii-reki-godavari-simvolicheskie-smysly-obraza-korov
 ---
 
     бхаджа гаура̄н̇га каха гаура̄н̇га,

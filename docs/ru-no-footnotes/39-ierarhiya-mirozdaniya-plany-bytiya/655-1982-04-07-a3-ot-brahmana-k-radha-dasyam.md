@@ -1,5 +1,5 @@
 ---
-slug: 655-1982-04-07-a3-ot-brahmana-k-radha-dasyam
+slug: 1982-04-07-a3_ot_brahmana_k_radha-dasyam
 record_id: 1982.04.07.A3
 title: От Брахмана к Радха-дасьям
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 655. 1982.04.07.A3. От Брахмана к Радха-дасьям
   index: "655"
   filename: 655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
+  slug: 655-1982-04-07-a3-ot-brahmana-k-radha-dasyam
 ---
 
     …дарпане андхе киба кадже

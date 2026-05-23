@@ -1,5 +1,5 @@
 ---
-slug: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne
+slug: 1984-01-25-a1_slava_prinadlezhit_guru_dengi_narayane_a_zhenshchiny_krishne
 record_id: 1984.01.25.A1
 title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     — Кришне»
   index: "424"
   filename: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne.md
+  slug: 424-1984-01-25-a1-slava-prinadlezhit-guru-dengi-narayane-a-zhenshhiny-krishne
 ---
 
 …Для Него, для Центра. Бескорыстие высочайшей степени. Самозабвение не в смысле крайнего отречения — это просто отстранение от негативной стороны, — но существует позитивная сторона божественности. И на вершине этого — Кришна, Самодержец, единственный Наслаждающийся.

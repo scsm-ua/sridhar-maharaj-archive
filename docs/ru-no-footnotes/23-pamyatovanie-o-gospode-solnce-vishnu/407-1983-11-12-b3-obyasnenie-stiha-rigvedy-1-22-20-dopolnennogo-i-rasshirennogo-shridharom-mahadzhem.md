@@ -1,5 +1,5 @@
 ---
-slug: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem
+slug: 1983-11-12-b3_obyasnenie_stiha_rigvedy_1_22_20_dopolnennogo_i_rasshirennogo_shridharom_mahadzhem
 record_id: 1983.11.12.B3
 title: Объяснение стиха Ригведы 1.22.20, дополненного и расширенного Шридхаром
   Махаджем
@@ -28,6 +28,7 @@ legacy:
     расширенного Шридхаром Махаджем
   index: "407"
   filename: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem.md
+  slug: 407-1983-11-12-b3-obyasnenie-stiha-rigvedy-1-22-20-dopolnennogo-i-rasshirennogo-shridharom-mahadzhem
 ---
 
 **Преданный:** Махарадж?

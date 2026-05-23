@@ -1,5 +1,5 @@
 ---
-slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+slug: 1982-02-18-b3_my_ne_ateisty_ob_izuchenii_trudov_shesti_gosvami
 record_id: 1982.02.18.B3
 title: «Мы не атеисты». Об изучении трудов шести Госвами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
   index: "873"
   filename: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami.md
+  slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
 ---
 
 *«Онтология Прекрасной Реальности», (часть 1.7)*

@@ -1,5 +1,5 @@
 ---
-slug: 900-1981-08-19-b2-satyam-shivam-advayam-vs-satyam-shivam-sundaram
+slug: 1981-08-19-b2_satyam_shivam_advayam_vs_satyam_shivam_sundaram
 record_id: 1981.08.19.B2
 title: Сатьям, шивам, адваям VS Сатьям, Шивам, Сундарам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 900. 1981.08.19.B2. Сатьям, шивам, адваям VS Сатьям, Шивам, Сундарам
   index: "900"
   filename: 900-1981-08-19-b2-satyam-shivam-advayam-vs-satyam-shivam-sundaram.md
+  slug: 900-1981-08-19-b2-satyam-shivam-advayam-vs-satyam-shivam-sundaram
 ---
 
     [вируддха дхармам] тасмин на читрам

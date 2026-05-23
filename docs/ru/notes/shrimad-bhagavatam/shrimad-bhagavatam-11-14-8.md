@@ -14,9 +14,10 @@ refs:
   - ../../_full/1981/12/1981.12.16.B.md
   - ../../_full/1983/06/1983.06.05.md
   - ../../_full/1983/07/1983.07.08.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
 ---

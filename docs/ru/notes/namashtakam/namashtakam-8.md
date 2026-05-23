@@ -3,9 +3,10 @@ slug: namashtakam-8
 refs:
   - ../../_full/1981/12/1981.12.30.A.B.md
   - ../../_full/1981/12/1981.12.30.A.B.md
-tags:
+scriptures:
   - title: Намаштакам
     slug: namashtakam
+verses:
   - title: Намаштакам 1
     slug: namashtakam-1
   - title: Намаштакам 4

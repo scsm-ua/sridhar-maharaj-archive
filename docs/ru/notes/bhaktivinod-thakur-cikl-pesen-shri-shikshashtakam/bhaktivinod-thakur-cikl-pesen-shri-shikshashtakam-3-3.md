@@ -3,9 +3,10 @@ slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-3-3
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki.md
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 3.3"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-3-3
 ---

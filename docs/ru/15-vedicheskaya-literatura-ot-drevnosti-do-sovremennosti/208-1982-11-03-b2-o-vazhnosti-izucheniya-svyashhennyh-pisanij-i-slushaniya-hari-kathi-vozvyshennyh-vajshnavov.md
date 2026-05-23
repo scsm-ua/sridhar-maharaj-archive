@@ -1,5 +1,5 @@
 ---
-slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
+slug: 1982-11-03-b2_o_vazhnosti_izucheniya_svyashchennyh_pisaniy_i_slushaniya_hari-kathi_vozvyshennyh_vayshnavov
 record_id: 1982.11.03.B2
 title: О важности изучения Священных Писаний и слушания хари-катхи возвышенных
   вайшнавов
@@ -25,27 +25,18 @@ legacy:
     хари-катхи возвышенных вайшнавов
   index: "208"
   filename: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov.md
+  slug: 208-1982-11-03-b2-o-vazhnosti-izucheniya-svyashhennyh-pisanij-i-slushaniya-hari-kathi-vozvyshennyh-vajshnavov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.117
     slug: shri-chajtanya-charitamrita-adi-lila-2-117
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.9
     slug: bhagavad-gita-10-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
 ---

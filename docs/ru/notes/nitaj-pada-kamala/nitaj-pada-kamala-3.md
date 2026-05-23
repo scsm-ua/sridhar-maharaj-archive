@@ -3,9 +3,10 @@ slug: nitaj-pada-kamala-3
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki.md
   - ../../25-sluzhenie-krishne-trud-lyubvi/439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona.md
-tags:
+scriptures:
   - title: Нитай-Пада-Камала
     slug: nitaj-pada-kamala
+verses:
   - title: Нитай-Пада-Камала 3
     slug: nitaj-pada-kamala-3
 ---

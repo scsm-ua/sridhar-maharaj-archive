@@ -1,5 +1,5 @@
 ---
-slug: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda
+slug: 1981-03-05-a1_istinnyy_smysl_vedanty_prabodhananda_i_prakashananda
 record_id: 1981.03.05.A1
 title: Истинный смысл Веданты. Прабодхананда и Пракашананда.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 891. 1981.03.05.A1. Истинный смысл Веданты. Прабодхананда и Пракашананда
   index: "891"
   filename: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
+  slug: 891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda
 tags:
-  - title: Шад-Госвами-аштака
-    slug: shad-gosvami-ashtaka
   - title: Шад-Госвами-аштака 2
     slug: shad-gosvami-ashtaka-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.72
     slug: shri-chajtanya-charitamrita-adi-lila-7-72
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.40
     slug: shrimad-bhagavatam-11-2-40
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1–2
     slug: vedanta-sutra-1-1-1-2
 ---

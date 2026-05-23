@@ -1,5 +1,5 @@
 ---
-slug: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi
+slug: 1982-05-18-b8_ya_hochu_umeret_v_upryazhi
 record_id: 1982.05.18.B8
 title: «Я хочу умереть в упряжи»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1055. 1982.05.18.B8. «Я хочу умереть в упряжи»
   index: "1055"
   filename: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi.md
+  slug: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.14
     slug: bhagavad-gita-13-14
 ---

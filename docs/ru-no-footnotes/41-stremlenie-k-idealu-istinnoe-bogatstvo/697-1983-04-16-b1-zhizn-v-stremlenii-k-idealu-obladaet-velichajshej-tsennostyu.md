@@ -1,5 +1,5 @@
 ---
-slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
+slug: 1983-04-16-b1_zhizn_v_stremlenii_k_idealu_obladaet_velichayshey_tsennostyu
 record_id: 1983.04.16.B1
 title: Жизнь в стремлении к идеалу обладает величайшей ценностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
   index: "697"
   filename: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu.md
+  slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
 ---
 
     [шлока]

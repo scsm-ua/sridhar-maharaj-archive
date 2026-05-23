@@ -1,5 +1,5 @@
 ---
-slug: 974-1982-07-02-a2-ruchi-pariksha-ispytanie-vkusa-uchenika
+slug: 1982-07-02-a2_ruchi-pariksha_ispytanie_vkusa_uchenika
 record_id: 1982.07.02.A2
 title: Ручи-парикша – испытание вкуса ученика
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 974. 1982.07.02.A2. Ручи-парикша – испытание вкуса ученика
   index: "974"
   filename: 974-1982-07-02-a2-ruchi-pariksha-ispytanie-vkusa-uchenika.md
+  slug: 974-1982-07-02-a2-ruchi-pariksha-ispytanie-vkusa-uchenika
 ---
 
 **Преданный:** Махарадж, вы говорили о том, что желания — это семя. Это желание…

@@ -1,5 +1,5 @@
 ---
-slug: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam
+slug: 1982-07-18-a2_uchenie_o_karme_vikarme_i_akarme_v_bhagavad-gite_i_shrimad_bhagavatam
 record_id: 1982.07.18.A2
 title: Учение о карме, викарме и акарме в «Бхагавад-гите» и «Шримад Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Шримад Бхагаватам»
   index: "420"
   filename: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam.md
+  slug: 420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam
 ---
 
 **Преданный:** Стих Бхагавад-гиты:

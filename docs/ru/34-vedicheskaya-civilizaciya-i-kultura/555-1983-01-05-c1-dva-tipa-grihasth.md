@@ -1,5 +1,5 @@
 ---
-slug: 555-1983-01-05-c1-dva-tipa-grihasth
+slug: 1983-01-05-c1_dva_tipa_grihasth
 record_id: 1983.01.05.C1
 title: Два типа грихастх
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.64
     slug: bhagavad-gita-2-64
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.5.18
     slug: shrimad-bhagavatam-5-5-18
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -46,6 +40,7 @@ legacy:
   title: 555. 1983.01.05.C1. Два типа грихастх
   index: "555"
   filename: 555-1983-01-05-c1-dva-tipa-grihasth.md
+  slug: 555-1983-01-05-c1-dva-tipa-grihasth
 ---
 
 **Преданный:** Махарадж!

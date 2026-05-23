@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-8-15
 refs:
   - ../../_full/1982/01/1982.01.17.md
   - ../../_full/1983/02/1983.02.13.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 8.15
     slug: shri-chajtanya-charitamrita-adi-lila-8-15
 ---

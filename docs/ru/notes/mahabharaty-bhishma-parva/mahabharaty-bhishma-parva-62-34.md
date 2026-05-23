@@ -2,9 +2,10 @@
 slug: mahabharaty-bhishma-parva-62-34
 refs:
   - ../../_full/1983/01/1983.01.05.md
-tags:
+scriptures:
   - title: «Махабхараты», Бхишма-парва
     slug: mahabharaty-bhishma-parva
+verses:
   - title: «Махабхараты», Бхишма-парва 62.34
     slug: mahabharaty-bhishma-parva-62-34
 ---

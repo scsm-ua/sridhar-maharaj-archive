@@ -1,5 +1,5 @@
 ---
-slug: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi
+slug: 1982-07-27-b2_osobyy_dar_padshim_lyudyam_kali-yugi
 record_id: 1982.07.27.B2
 title: Особый дар падшим людям Кали-юги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
     slug: shri-chajtanya-charitamrita-madhya-lila-20-344
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.3.51
     slug: shrimad-bhagavatam-12-3-51
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.21
     slug: shri-chajtanya-charitamrita-adi-lila-17-21
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.76
     slug: shri-chajtanya-charitamrita-adi-lila-7-76
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.242
     slug: shri-chajtanya-charitamrita-madhya-lila-6-242
-  - title: Брихан-нарадия-пурана
-    slug: brihan-naradiya-purana
   - title: Брихан-нарадия-пурана 38.126
     slug: brihan-naradiya-purana-38-126
 links:
@@ -46,6 +38,7 @@ legacy:
   title: 336. 1982.07.27.B2. Особый дар падшим людям Кали-юги
   index: "336"
   filename: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi.md
+  slug: 336-1982-07-27-b2-osobyj-dar-padshim-lyudyam-kali-yugi
 ---
 
 Это результат следствия кармы, коллективной, групповой. Карма-*пхала* — плод кармы. Не индивидуальный, но коллективный результат, следствие кармы, кармы группы людей. Обстоятельства порождаются этими людьми коллективно. В то же время даже люди, которые в действительности способны понять суть вещей, а не внешние покрытия, оболочку, жившие в *Сатья-югу*, молились о том, чтобы родиться в *Кали-югу*, поскольку в *Кали-югу* человечеству дается особый дар.

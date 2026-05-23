@@ -1,5 +1,5 @@
 ---
-slug: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah
+slug: 1982-06-19-c4_prichiny_konfliktov_predannyh_na_vysokoy_i_nizkoy_stadiyah
 record_id: 1982.06.19.C4
 title: Причины конфликтов преданных на высокой и низкой стадиях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Проповедь
     slug: propoved
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.159
     slug: shri-chajtanya-charitamrita-madhya-lila-19-159
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
@@ -38,6 +34,7 @@ legacy:
   title: 396. 1982.06.19.C4. Причины конфликтов преданных на высокой и низкой стадиях
   index: "396"
   filename: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah.md
+  slug: 396-1982-06-19-c4-prichiny-konfliktov-predannyh-na-vysokoj-i-nizkoj-stadiyah
 ---
 
 **Преданный:** Махарадж, когда возникают несогласия или конфликты в среде преданных, что служит их причиной? Почему это происходит?

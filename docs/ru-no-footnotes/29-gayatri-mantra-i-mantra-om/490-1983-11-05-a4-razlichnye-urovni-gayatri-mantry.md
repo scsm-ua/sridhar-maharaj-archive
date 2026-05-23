@@ -1,5 +1,5 @@
 ---
-slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
+slug: 1983-11-05-a4_razlichnye_urovni_gayatri-mantry
 record_id: 1983.11.05.A4
 title: Различные уровни гаятри-мантры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 490. 1983.11.05.A4. Различные уровни гаятри-мантры
   index: "490"
   filename: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry.md
+  slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
 ---
 
 **Госвами Махарадж:** Вы — живой представитель *Вьясадева*, поскольку Вы извлекаете смысл из глубины, открываете его.

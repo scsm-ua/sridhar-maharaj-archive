@@ -1,5 +1,5 @@
 ---
-slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
+slug: 1982-04-24-a3_oproverzheniya_kontseptsii_shankary_o_vremennom_sushchestvovanii_dushi
 record_id: 1982.04.24.A3
 title: Опровержения концепции Шанкары о временном существовании души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     существовании души
   index: "889"
   filename: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi.md
+  slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
 tags:
-  - title: Катха-Упанишада
-    slug: katha-upanishada
   - title: Катха-Упанишада 2.2.13
     slug: katha-upanishada-2-2-13
-  - title: Чхандогья-упанишада
-    slug: chhandogya-upanishada
   - title: Чхандогья-упанишада 6.2.3
     slug: chhandogya-upanishada-6-2-3
-  - title: Шветашватара-упанишада
-    slug: shvetashvatara-upanishada
   - title: Шветашватара-упанишада 6.13
     slug: shvetashvatara-upanishada-6-13
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.20
     slug: bhagavad-gita-2-20
   - title: Бхагавад-гита 15.7

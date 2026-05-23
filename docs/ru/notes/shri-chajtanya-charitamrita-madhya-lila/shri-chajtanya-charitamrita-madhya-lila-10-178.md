@@ -5,15 +5,16 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1024-1982-01-29-b3-radi-sluzheniya-guru-mozhno-podnimatsya-na-prevoshodyashhij-nas-uroven.md
   - ../../_full/1981/11/1981.11.23.C.md
   - ../../_full/1982/01/1982.01.29.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Бхакти-расамрита-синдху
+    slug: bhakti-rasamrita-sindhu
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
     slug: shri-chajtanya-charitamrita-madhya-lila-10-178
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
     slug: shri-chajtanya-charitamrita-madhya-lila-24-133
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.1.44
     slug: bhakti-rasamrita-sindhu-3-1-44
 ---

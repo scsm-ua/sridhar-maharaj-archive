@@ -1,5 +1,5 @@
 ---
-slug: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile
+slug: 1982-01-09-c6-d2_sokrovennaya_sushchnost_pokloneniya_govardhan-shile
 record_id: 1982.01.09.C6.D2
 title: Сокровенная сущность поклонения Говардхан-шиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Арчана
     slug: archana
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 102
     slug: shri-vilapa-kusumandzhali-102
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 814. 1982.01.09.C6.D2. Сокровенная сущность поклонения Говардхан-шиле
   index: "814"
   filename: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile.md
+  slug: 814-1982-01-09-c6-d2-sokrovennaya-sushhnost-pokloneniya-govardhan-shile
 ---
 
 Махапрабху дал *Говардхана-шилу* Рагхунатху Дасу Госвами. Поклонение *Говардхана-шиле* это *рага-марг*, *Шалаграм-шила* — это поклонение в духе Вайкунтхи, поклонение Вайкунтхи. Наш Гуру Махарадж хотел показать, что Голока выше Вайкунтхи. Тот, кто достиг Голоки, быстро проходит Вайкунтху, оставляет ее позади, это не есть наша цель, это нечто провинциальное. Вайкунтха.

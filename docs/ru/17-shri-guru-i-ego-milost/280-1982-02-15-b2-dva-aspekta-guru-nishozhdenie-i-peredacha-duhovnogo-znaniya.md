@@ -1,5 +1,5 @@
 ---
-slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+slug: 1982-02-15-b2_dva_aspekta_guru_nishozhdenie_i_peredacha_duhovnogo_znaniya
 record_id: 1982.02.15.B2
 title: Два аспекта гуру. Нисхождение и передача духовного знания.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,16 @@ legacy:
   title: 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
   index: "280"
   filename: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
+  slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 6.14.2
     slug: chhandogya-upanishad-6-14-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Бхагавад-гита 4.7

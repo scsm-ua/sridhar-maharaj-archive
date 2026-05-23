@@ -2,9 +2,10 @@
 slug: hitopadesha-3
 refs:
   - ../../_full/1982/12/1982.12.14.A.md
-tags:
+scriptures:
   - title: Хитопадеша
     slug: hitopadesha
+verses:
   - title: Хитопадеша 3
     slug: hitopadesha-3
 ---

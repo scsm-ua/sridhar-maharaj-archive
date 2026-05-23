@@ -1,5 +1,5 @@
 ---
-slug: 618-1981-02-28-c2-mirozdanie-razvivaetsya-ot-soznaniya-k-materii
+slug: 1981-02-28-c2_mirozdanie_razvivaetsya_ot_soznaniya_k_materii
 record_id: 1981.02.28.C2
 title: Мироздание развивается от сознания к материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 618. 1981.02.28.C2. Мироздание развивается от сознания к материи
   index: "618"
   filename: 618-1981-02-28-c2-mirozdanie-razvivaetsya-ot-soznaniya-k-materii.md
+  slug: 618-1981-02-28-c2-mirozdanie-razvivaetsya-ot-soznaniya-k-materii
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.1
     slug: bhagavad-gita-15-1
 ---

@@ -13,9 +13,10 @@ refs:
   - ../../_full/1982/09/1982.09.03.A.md
   - ../../_full/1982/11/1982.11.14.A.md
   - ../../_full/1983/08/1983.08.30.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда
     slug: shri-chajtanya-bhagavata-antya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
     slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 ---

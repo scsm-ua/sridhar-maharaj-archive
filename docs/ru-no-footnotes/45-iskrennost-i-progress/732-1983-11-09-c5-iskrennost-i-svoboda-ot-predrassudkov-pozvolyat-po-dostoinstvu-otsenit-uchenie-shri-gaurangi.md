@@ -1,5 +1,5 @@
 ---
-slug: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi
+slug: 1983-11-09-c5_iskrennost_i_svoboda_ot_predrassudkov_pozvolyat_po_dostoinstvu_otsenit_uchenie_shri_gaurangi
 record_id: 1983.11.09.C5
 title: Искренность и свобода от предрассудков позволят по достоинству оценить
   учение Шри Гауранги
@@ -25,6 +25,7 @@ legacy:
     достоинству оценить учение Шри Гауранги
   index: "732"
   filename: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi.md
+  slug: 732-1983-11-09-c5-iskrennost-i-svoboda-ot-predrassudkov-pozvolyat-po-dostoinstvu-otsenit-uchenie-shri-gaurangi
 ---
 
     на хи калйа̄н̣а-кр̣т каш́чид

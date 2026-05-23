@@ -2,9 +2,10 @@
 slug: shri-shri-prabhupada-padma-stavakah-5
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
-tags:
+scriptures:
   - title: Шри Шри Прабхупада-падма Ставаках
     slug: shri-shri-prabhupada-padma-stavakah
+verses:
   - title: Шри Шри Прабхупада-падма Ставаках 5
     slug: shri-shri-prabhupada-padma-stavakah-5
 ---

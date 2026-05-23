@@ -3,9 +3,10 @@ slug: shri-shri-dajita-das-dashakam-1
 refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
   - ../../_full/1982/01/1982.01.01.md
-tags:
+scriptures:
   - title: Шри Шри Дайита Дас Дашакам
     slug: shri-shri-dajita-das-dashakam
+verses:
   - title: Шри Шри Дайита Дас Дашакам 1
     slug: shri-shri-dajita-das-dashakam-1
 ---

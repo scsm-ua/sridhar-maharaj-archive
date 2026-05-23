@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-10-2-33
 refs:
   - ../../41-stremlenie-k-idealu-istinnoe-bogatstvo/699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 2.241
-    slug: shri-chajtanya-bhagavata-madhya-khanda-2-241
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 2.241
+    slug: shri-chajtanya-bhagavata-madhya-khanda-2-241
   - title: Шримад-Бхагаватам 10.2.33
     slug: shrimad-bhagavatam-10-2-33
 ---

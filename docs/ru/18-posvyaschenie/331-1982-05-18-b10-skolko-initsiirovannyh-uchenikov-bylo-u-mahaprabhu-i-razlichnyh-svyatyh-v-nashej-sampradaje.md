@@ -1,5 +1,5 @@
 ---
-slug: 331-1982-05-18-b10-skolko-initsiirovannyh-uchenikov-bylo-u-mahaprabhu-i-razlichnyh-svyatyh-v-nashej-sampradaje
+slug: 1982-05-18-b10_skolko_initsiirovannyh_uchenikov_bylo_u_mahaprabhu_i_razlichnyh_svyatyh_v_nashey_sampradaye
 record_id: 1982.05.18.B10
 title: Сколько инициированных учеников было у Махапрабху и различных святых в
   нашей сампрадайе?
@@ -28,6 +28,7 @@ legacy:
     различных святых в нашей сампрадайе?
   index: "331"
   filename: 331-1982-05-18-b10-skolko-initsiirovannyh-uchenikov-bylo-u-mahaprabhu-i-razlichnyh-svyatyh-v-nashej-sampradaje.md
+  slug: 331-1982-05-18-b10-skolko-initsiirovannyh-uchenikov-bylo-u-mahaprabhu-i-razlichnyh-svyatyh-v-nashej-sampradaje
 ---
 
 **Госвами Махарадж:** Гуру Махарадж!

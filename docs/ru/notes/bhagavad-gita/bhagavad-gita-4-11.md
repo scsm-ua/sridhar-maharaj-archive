@@ -21,9 +21,10 @@ refs:
   - ../../_full/1983/08/1983.08.30.A.B.md
   - ../../_full/1983/12/1983.12.23.C.D.md
   - ../../_full/1983/12/1983.12.29.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.11
     slug: bhagavad-gita-4-11
 ---

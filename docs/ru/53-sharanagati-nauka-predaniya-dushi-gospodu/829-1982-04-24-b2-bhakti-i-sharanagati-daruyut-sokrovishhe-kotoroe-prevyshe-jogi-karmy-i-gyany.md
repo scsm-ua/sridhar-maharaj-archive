@@ -1,5 +1,5 @@
 ---
-slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
+slug: 1982-04-24-b2_bhakti_i_sharanagati_daruyut_sokrovishche_kotoroe_prevyshe_yogi_karmy_i_gyany
 record_id: 1982.04.24.B2
 title: Бхакти и шаранагати даруют сокровище, которое превыше йоги, кармы и гьяны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.6.35
     slug: shrimad-bhagavatam-1-6-35
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
   - title: Бхагавад-гита 6.46
     slug: bhagavad-gita-6-46
   - title: Бхагавад-гита 6.47
     slug: bhagavad-gita-6-47
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 194
     slug: shri-chajtanya-charitamrita-madhya-lila-194
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8
@@ -51,8 +43,6 @@ tags:
     slug: bhakti-rasamrita-sindhu-1-1-11-12
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.192
     slug: shri-chajtanya-charitamrita-antya-lila-4-192
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.193
@@ -71,6 +61,7 @@ legacy:
     йоги, кармы и гьяны
   index: "829"
   filename: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany.md
+  slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
 ---
 
 **Преданный:** Махарадж, а проявление психических сил — это плохо для духовной жизни?

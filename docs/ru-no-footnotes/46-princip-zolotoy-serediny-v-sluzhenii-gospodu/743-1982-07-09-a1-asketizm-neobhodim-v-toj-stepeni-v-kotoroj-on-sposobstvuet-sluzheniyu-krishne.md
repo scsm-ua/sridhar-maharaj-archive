@@ -1,5 +1,5 @@
 ---
-slug: 743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne
+slug: 1982-07-09-a1_asketizm_neobhodim_v_toy_stepeni_v_kotoroy_on_sposobstvuet_sluzheniyu_krishne
 record_id: 1982.07.09.A1
 title: Аскетизм необходим в той степени, в которой он способствует служению Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     способствует служению Кришне
   index: "743"
   filename: 743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne.md
+  slug: 743-1982-07-09-a1-asketizm-neobhodim-v-toj-stepeni-v-kotoroj-on-sposobstvuet-sluzheniyu-krishne
 ---
 
 Нас просят соблюдать некие ограничения в наших действиях таким образом, чтобы это было благоприятно для нашей жизни в преданности. В целом голод не есть цель нашей жизни.

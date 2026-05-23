@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-20-59
 refs:
   - ../../_full/1982/10/1982.10.23.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.59
     slug: shri-chajtanya-charitamrita-antya-lila-20-59
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
+slug: 1982-07-15-a2_kalidas_pochitatel_ostatkov_pishchi_i_vody_so_stop_vayshnavov
 record_id: 1982.07.15.A2
 title: Калидас – почитатель остатков пищи и воды со стоп вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     вайшнавов
   index: "935"
   filename: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov.md
+  slug: 935-1982-07-15-a2-kalidas-pochitatel-ostatkov-pishhi-i-vody-so-stop-vajshnavov
 ---
 
 **Преданный:** …никаких взаимодействий, никакой *кришна*—*катхи*? Он все время произносил «Кришна, Кришна, Кришна»? Как это понимать?

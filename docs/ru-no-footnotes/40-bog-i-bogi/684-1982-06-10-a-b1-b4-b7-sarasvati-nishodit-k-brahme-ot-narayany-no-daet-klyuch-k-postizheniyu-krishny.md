@@ -1,5 +1,5 @@
 ---
-slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
+slug: 1982-06-10-a-b1-b4-b7_sarasvati_nishodit_k_brahme_ot_narayany_no_daet_klyuch_k_postizheniyu_krishny
 record_id: 1982.06.10.A.B1.B4.B7
 title: Сарасвати нисходит к Брахме от Нараяны, но дает ключ к постижению Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     дает ключ к постижению Кришны
   index: "684"
   filename: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
+  slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
 ---
 
 **Преданный:** В «Брахма-самхите» есть стих:

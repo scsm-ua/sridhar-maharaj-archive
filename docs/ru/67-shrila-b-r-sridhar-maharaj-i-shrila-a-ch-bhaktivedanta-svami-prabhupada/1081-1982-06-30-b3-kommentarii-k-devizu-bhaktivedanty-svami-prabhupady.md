@@ -1,5 +1,5 @@
 ---
-slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
+slug: 1982-06-30-b3_kommentarii_k_devizu_bhaktivedanty_svami_prabhupady
 record_id: 1982.06.30.B3
 title: Комментарии к девизу Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1081. 1982.06.30.B3. Комментарии к девизу Бхактиведанты Свами Прабхупады
   index: "1081"
   filename: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady.md
+  slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.255–256
     slug: bhakti-rasamrita-sindhu-1-2-255-256
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
   - title: Бхакти-расамрита-синдху 1.1.12

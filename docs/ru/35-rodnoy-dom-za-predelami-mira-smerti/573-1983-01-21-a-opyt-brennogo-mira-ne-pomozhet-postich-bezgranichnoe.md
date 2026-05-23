@@ -1,5 +1,5 @@
 ---
-slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
+slug: 1983-01-21-a_opyt_brennogo_mira_ne_pomozhet_postich_bezgranichnoe
 record_id: 1983.01.21.A
 title: Опыт бренного мира не поможет постичь Безграничное
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,27 +23,18 @@ legacy:
   title: 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
   index: "573"
   filename: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe.md
+  slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
 tags:
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 7
     slug: shri-nama-mahatmya-7
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.93
     slug: shri-chajtanya-charitamrita-adi-lila-1-93
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-154
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
@@ -58,26 +49,16 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-  - title: Брихан-нарадия-пурана
-    slug: brihan-naradiya-purana
   - title: Брихан-нарадия-пурана 4.33
     slug: brihan-naradiya-purana-4-33
-  - title: Джайва-дхарма
-    slug: dzhajva-dharma
   - title: Джайва-дхарма 3
     slug: dzhajva-dharma-3
   - title: Джайва-дхарма 6
     slug: dzhajva-dharma-6
-  - title: Хари-бхакти-виласа
-    slug: hari-bhakti-vilasa
   - title: Хари-бхакти-виласа 10.279
     slug: hari-bhakti-vilasa-10-279
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: Шримад-Бхагаватам 1.2.6

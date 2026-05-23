@@ -1,5 +1,5 @@
 ---
-slug: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara
+slug: 1987-00-00-a1_obyasnenie_shloki_krishna-lila_amrita_sara
 record_id: 1987.00.00.A1
 title: Объяснение шлоки «кришна-лила амрита сара…»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
 links:
@@ -40,6 +34,7 @@ legacy:
   title: 121. 1987.00.00.A1. Объяснение шлоки «кришна-лила амрита сара…»
   index: "121"
   filename: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara.md
+  slug: 121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara
 ---
 
 *Чаитанйа-дева — амр̣та-са̄ра*. Здесь Чайтаньядев сравнивается не с горой и не с холмом, но с озером. Он — источник, вместилище всего сознания Кришны, *амр̣та-са̄ра*, нектара сознания Кришны. Он — субстанция, суть нектара *кришна-лилы*. *Та̄ра ш́ата ш́ата дха̄ра*… Сотни ручьев берут начало в Нем. Это *чайтанья-лила*. *Даш́а-дике вахе йа̄ха̄ хаите*… Этот поток течет во всех десяти направлениях, сотни ручьев, многочисленные потоки этого нектара расходятся в десять сторон света.

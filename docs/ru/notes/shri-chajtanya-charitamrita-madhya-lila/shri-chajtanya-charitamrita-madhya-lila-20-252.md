@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-252
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/635-1983-11-23-b4-vzaimodejstvie-krishny-baladeva-i-radharani.md
   - ../../_full/1983/11/1983.11.23.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.252
     slug: shri-chajtanya-charitamrita-madhya-lila-20-252
 ---

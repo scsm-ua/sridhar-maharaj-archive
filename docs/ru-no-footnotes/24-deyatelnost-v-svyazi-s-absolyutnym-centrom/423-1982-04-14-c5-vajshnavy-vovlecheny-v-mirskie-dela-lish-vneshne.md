@@ -1,5 +1,5 @@
 ---
-slug: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne
+slug: 1982-04-14-c5_vayshnavy_vovlecheny_v_mirskie_dela_lish_vneshne
 record_id: 1982.04.14.C5
 title: Вайшнавы вовлечены в мирские дела лишь внешне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 423. 1982.04.14.C5. Вайшнавы вовлечены в мирские дела лишь внешне
   index: "423"
   filename: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne.md
+  slug: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne
 ---
 
 **Преданный:** Могу ли я задать вопрос?

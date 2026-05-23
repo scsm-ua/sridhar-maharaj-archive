@@ -1,5 +1,5 @@
 ---
-slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
+slug: 1983-11-23-b2_tri_gruppy_predannyh_vo_vrindavane_lalita_i_vishakha
 record_id: 1983.11.23.B2
 title: Три группы преданных во Вриндаване. Лалита и Вишакха.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 057. 1983.11.23.В2 Три группы преданных во Вриндаване. Лалита и Вишакха
   index: "057"
   filename: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha.md
+  slug: 057_1983-11-23-b2_sridharmj_tri_gruppy_predannyh_vo_vrindavane___lalita_i_vishakha
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
 ---

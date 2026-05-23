@@ -1,5 +1,5 @@
 ---
-slug: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad
+slug: 1982-01-29-b1_o_literaturnyh_trudah_gosvami_obyasnenie_ponyatiya_brihad
 record_id: 1982.01.29.B1
 title: О литературных трудах Госвами. Объяснение понятия «Брихад».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Брихад»
   index: "227"
   filename: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad.md
+  slug: 227-1982-01-29-b1-o-literaturnyh-trudah-gosvami-obyasnenie-ponyatiya-brihad
 ---
 
 **Преданный:** Джива Госвами написал комментарий на десятую песню «Бхагаватам» — «Крама-сандарбха».

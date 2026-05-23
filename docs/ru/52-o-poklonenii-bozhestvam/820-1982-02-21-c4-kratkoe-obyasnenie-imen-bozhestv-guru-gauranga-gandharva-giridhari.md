@@ -1,5 +1,5 @@
 ---
-slug: 820-1982-02-21-c4-kratkoe-obyasnenie-imen-bozhestv-guru-gauranga-gandharva-giridhari
+slug: 1982-02-21-c4_kratkoe_obyasnenie_imen_bozhestv_guru-gauranga-gandharva-giridhari
 record_id: 1982.02.21.C4
 title: Краткое объяснение имен Божеств Гуру-Гауранга-Гандхарва-Гиридхари
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Гуру-Гауранга-Гандхарва-Гиридхари
   index: "820"
   filename: 820-1982-02-21-c4-kratkoe-obyasnenie-imen-bozhestv-guru-gauranga-gandharva-giridhari.md
+  slug: 820-1982-02-21-c4-kratkoe-obyasnenie-imen-bozhestv-guru-gauranga-gandharva-giridhari
 ---
 
 **Преданный:** Иногда мы слышим выражение Гуру-Гауранга…

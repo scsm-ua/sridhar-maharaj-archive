@@ -1,5 +1,5 @@
 ---
-slug: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah
+slug: 1981-11-12-b3_printsip_sankirtany_v_svyashchennyh_pisaniyah
 record_id: 1981.11.12.B3
 title: Принцип санкиртаны в Священных Писаниях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,26 +15,16 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.14
     slug: bhagavad-gita-9-14
   - title: Бхагавад-гита 10.9
     slug: bhagavad-gita-10-9
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
     slug: shri-chajtanya-charitamrita-antya-lila-20-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.344
     slug: shri-chajtanya-charitamrita-madhya-lila-20-344
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.3.51
     slug: shrimad-bhagavatam-12-3-51
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
 links:
@@ -48,6 +38,7 @@ legacy:
   title: 354. 1981.11.12.B3. Принцип санкиртаны в Священных Писаниях
   index: "354"
   filename: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah.md
+  slug: 354-1981-11-12-b3-printsip-sankirtany-v-svyashhennyh-pisaniyah
 ---
 
 В «Чайтанья Бхагавате» Вриндаван Дас Тхакур говорит: «Один человек кормит самого себя. Другой человек не только самого себя кормит, но и сотню людей вокруг. Кто из них лучше, первый или второй?» Когда совершается *санкиртан*, благо получают много людей, а когда человек совершает *джапу* (повторяет Святые Имена для самого себя), то он приносит благо только самому себе. *Санкиртана* означает «проповедь», истинное значение *санкиртаны* — это не только громко петь под музыку, под инструменты, нет, это означает проповедовать, более широкий смысл. *Санкиртана* — это проповедь, отдавать всего себя, все свои способности совершению *киртана*, проповеди *киртана*, утверждения *киртана*.

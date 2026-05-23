@@ -1,5 +1,5 @@
 ---
-slug: 459-1987-00-00-b5-1-rupanuga-sampradaya
+slug: 1987-00-00-b5-1_rupanuga-sampradaya
 record_id: 1987.00.00.B5.1
 title: Рупануга-сампрадая
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 459. 1987.00.00.B5.1. Рупануга-сампрадая
   index: "459"
   filename: 459-1987-00-00-b5-1-rupanuga-sampradaya.md
+  slug: 459-1987-00-00-b5-1-rupanuga-sampradaya
 tags:
-  - title: «Прартхана», Лаласа
-    slug: prarthana-lalasa
   - title: «Прартхана», Лаласа 17.4
     slug: prarthana-lalasa-17-4
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
+slug: 1982-06-19-c2_dostatochno_odin_raz_proiznesti_hare_krishna
 record_id: 1982.06.19.C2
 title: Достаточно один раз произнести «Харе Кришна»…
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 705. 1982.06.19.C2. Достаточно один раз произнести «Харе Кришна»…
   index: "705"
   filename: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna.md
+  slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
 ---
 
 **Бхакти Чару Махарадж:** Вы знаете, Махарадж, пару месяцев тому назад Брежнев заявил, что основную угрозу советской молодежи представляют американская поп-музыка и «Харе Кришна».

@@ -1,5 +1,5 @@
 ---
-slug: 448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai
+slug: 1981-08-14-b1_sokrovennyy_smysl_rupanuga-sampradai
 record_id: 1981.08.14.B1
 title: Сокровенный смысл Рупануга-сампрадаи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 448. 1981.08.14.B1. Сокровенный смысл Рупануга-сампрадаи
   index: "448"
   filename: 448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai.md
+  slug: 448-1981-08-14-b1-sokrovennyj-smysl-rupanuga-sampradai
 tags:
-  - title: Даинйа Прартхана Гити
-    slug: dainja-prarthana-giti
   - title: Даинйа Прартхана Гити 1
     slug: dainja-prarthana-giti-1
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 1
     slug: shri-vilapa-kusumandzhali-1
 ---

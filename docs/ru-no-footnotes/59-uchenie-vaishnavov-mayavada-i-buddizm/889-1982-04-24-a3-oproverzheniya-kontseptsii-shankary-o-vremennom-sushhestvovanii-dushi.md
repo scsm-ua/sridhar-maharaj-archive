@@ -1,5 +1,5 @@
 ---
-slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
+slug: 1982-04-24-a3_oproverzheniya_kontseptsii_shankary_o_vremennom_sushchestvovanii_dushi
 record_id: 1982.04.24.A3
 title: Опровержения концепции Шанкары о временном существовании души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     существовании души
   index: "889"
   filename: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi.md
+  slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
 ---
 
 **Шукадев Прабху:** Я десять лет был *майявади*.

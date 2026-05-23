@@ -1,5 +1,5 @@
 ---
-slug: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni
+slug: 1981-11-12-b2_obshchenie_s_sadhu_daruet_blagosloveniya_v_treh_periodah_vremeni
 record_id: 1981.11.12.B2
 title: Общение с садху дарует благословения в трех периодах времени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     времени
   index: "241"
   filename: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni.md
+  slug: 241-1981-11-12-b2-obshhenie-s-sadhu-daruet-blagosloveniya-v-treh-periodah-vremeni
 ---
 
     [шлока]

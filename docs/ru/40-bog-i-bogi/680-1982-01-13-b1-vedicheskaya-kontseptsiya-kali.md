@@ -1,5 +1,5 @@
 ---
-slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
+slug: 1982-01-13-b1_vedicheskaya_kontseptsiya_kali
 record_id: 1982.01.13.B1
 title: Ведическая концепция Кали
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 680. 1982.01.13.B1. Ведическая концепция Кали
   index: "680"
   filename: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali.md
+  slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
     slug: shri-chajtanya-charitamrita-madhya-lila-20-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.137
     slug: shri-chajtanya-charitamrita-madhya-lila-24-137
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.138
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
   - title: Бхагавад-гита 15.18

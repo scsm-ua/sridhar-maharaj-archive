@@ -1,5 +1,5 @@
 ---
-slug: 141-duhovnyj-zvuk-privedet-na-zemlyu-lyubv
+slug: 1983-04-23-a_duhovnyy_zvuk_privedet_na_zemlyu_lyubvi
 record_id: 1983.04.23.A
 title: Духовный звук приведет на землю любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 141. Духовный звук приведет на землю любви. 1983.04.23.A
   index: "141"
   filename: 141-duhovnyj-zvuk-privedet-na-zemlyu-lyubv.md
+  slug: 141-duhovnyj-zvuk-privedet-na-zemlyu-lyubv
 ---
 
 *#00:00:00#*

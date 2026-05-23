@@ -3,9 +3,10 @@ slug: shri-prarthana-3-3
 refs:
   - ../../17-shri-guru-i-ego-milost/267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai.md
   - ../../_full/1982/10/1982.10.29.A.B.C.md
-tags:
+scriptures:
   - title: Шри Прартхана
     slug: shri-prarthana
+verses:
   - title: Шри Прартхана 3.3
     slug: shri-prarthana-3-3
 ---

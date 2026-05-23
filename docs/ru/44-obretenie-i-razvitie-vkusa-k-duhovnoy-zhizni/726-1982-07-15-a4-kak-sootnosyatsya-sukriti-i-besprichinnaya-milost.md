@@ -1,5 +1,5 @@
 ---
-slug: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost
+slug: 1982-07-15-a4_kak_sootnosyatsya_sukriti_i_besprichinnaya_milost
 record_id: 1982.07.15.A4
 title: Как соотносятся сукрити и беспричинная милость?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 726. 1982.07.15.A4. Как соотносятся сукрити и беспричинная милость?
   index: "726"
   filename: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost.md
+  slug: 726-1982-07-15-a4-kak-sootnosyatsya-sukriti-i-besprichinnaya-milost
 ---
 
 **Преданный:** Махарадж, вы говорили о том, что для того, чтобы обрести Гуру, человеку нужна *сукрити*.

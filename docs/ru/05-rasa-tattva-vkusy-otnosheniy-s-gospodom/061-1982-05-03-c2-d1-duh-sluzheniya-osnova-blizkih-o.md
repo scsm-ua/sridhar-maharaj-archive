@@ -1,5 +1,5 @@
 ---
-slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
+slug: 1982-05-03-c2-d1_duh_sluzheniya_osnova_blizkih_otnosheniy_s_absolyutom_vo_vrindavane
 record_id: 1982.05.03.C2.D1
 title: Дух служения — основа близких отношений с Абсолютом во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     во Вриндаване
   index: "061"
   filename: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o.md
+  slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
 ---

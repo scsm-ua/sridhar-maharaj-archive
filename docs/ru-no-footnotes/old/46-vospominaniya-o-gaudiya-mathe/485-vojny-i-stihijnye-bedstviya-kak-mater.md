@@ -1,5 +1,5 @@
 ---
-slug: 485-vojny-i-stihijnye-bedstviya-kak-mater
+slug: 1982-01-27-a5-b1_voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi
 record_id: 1982.01.27.A5.B1
 title: Войны и стихийные бедствия как материал для проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 485. Войны и стихийные бедствия как материал для проповеди. 1982.01.27.A5.B1
   index: "485"
   filename: 485-vojny-i-stihijnye-bedstviya-kak-mater.md
+  slug: 485-vojny-i-stihijnye-bedstviya-kak-mater
 ---
 
 **Ученик:** У Сатьянанды Прабху есть вопрос…

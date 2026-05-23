@@ -1,5 +1,5 @@
 ---
-slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
+slug: 1983-06-09-a2_agressiya_krishny_eto_ego_sluzhenie
 record_id: 1983.06.09.A2
 title: Агрессия Кришны — это Его служение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,16 +19,12 @@ tags:
     slug: mahaprabhu
   - title: Рамачандра
     slug: ramachandra
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 links:
@@ -42,6 +38,7 @@ legacy:
   title: 023. 1983.06.09.A2 Агрессия Кришны — это Его служение
   index: "023"
   filename: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie.md
+  slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
 ---
 
 **Преданный:** О Шриле Бхактивиноде Тхакуре говорится, что до поклонения Чайтанье Махапрабху он испытывал сильную склонность к Рамачандре.

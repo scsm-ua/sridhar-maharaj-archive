@@ -1,5 +1,5 @@
 ---
-slug: 56-gopi-bhagavatam-gayatri-i-mantra-om-p
+slug: 1981-08-31-b1_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
 record_id: 1981.08.31.B1
 title: Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     Кришны. 1981.08.31.B1
   index: "56"
   filename: 56-gopi-bhagavatam-gayatri-i-mantra-om-p.md
+  slug: 56-gopi-bhagavatam-gayatri-i-mantra-om-p
 ---
 
 *#00:00:00#*

@@ -2,9 +2,10 @@
 slug: shvetashvatara-upanishad-3-12
 refs:
   - ../../_full/1982/10/1982.10.23.B.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 3.12
     slug: shvetashvatara-upanishad-3-12
 ---

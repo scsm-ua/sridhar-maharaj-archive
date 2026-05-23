@@ -1,5 +1,5 @@
 ---
-slug: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved
+slug: 1982-07-09-b2_poznanie_krishny_sut_vseh_ved
 record_id: 1982.07.09.B2
 title: Познание Кришны — суть всех Вед
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 017. 1982.07.09.B2 Познание Кришны — суть всех Вед
   index: "017"
   filename: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved.md
+  slug: 017_1982-07-09-b2_sridharmj_poznanie_krishny-sut_vseh_ved
 ---
 
     ведаиш́ ча сарваир ахам эва ведйо

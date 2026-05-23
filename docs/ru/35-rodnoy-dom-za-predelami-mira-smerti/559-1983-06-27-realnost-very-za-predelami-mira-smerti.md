@@ -1,5 +1,5 @@
 ---
-slug: 559-1983-06-27-realnost-very-za-predelami-mira-smerti
+slug: 1983-06-27_realnost_very_za_predelami_mira_smerti
 record_id: 1983.06.27
 title: Реальность веры за пределами мира смерти
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,49 +23,34 @@ legacy:
   title: 559. 1983.06.27. Реальность веры за пределами мира смерти
   index: "559"
   filename: 559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
+  slug: 559-1983-06-27-realnost-very-za-predelami-mira-smerti
 tags:
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 4.6
     slug: shvetashvatara-upanishad-4-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.6
     slug: shrimad-bhagavatam-11-11-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
   - title: Шримад-Бхагаватам 10.14.22
     slug: shrimad-bhagavatam-10-14-22
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
     slug: shri-chajtanya-charitamrita-adi-lila-1-54
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
     slug: shri-chajtanya-charitamrita-madhya-lila-25-119
   - title: Шримад-Бхагаватам 2.9.34
     slug: shrimad-bhagavatam-2-9-34
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Бхагавад-гита 4.33
     slug: bhagavad-gita-4-33
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50
     slug: shri-chajtanya-charitamrita-madhya-lila-2-50
-  - title: Риг-веда
-    slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
@@ -76,8 +61,6 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-7-107
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 3.57
     slug: shri-shri-prapanna-dzhivanamritam-3-57
   - title: Бхагавад-гита 6.21

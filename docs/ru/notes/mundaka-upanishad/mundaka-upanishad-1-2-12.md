@@ -11,9 +11,10 @@ refs:
   - ../../_full/1982/05/1982.05.07.A.md
   - ../../_full/1982/12/1982.12.23.B.C.md
   - ../../_full/1983/10/1983.10.23.A.B.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 1.2.12
     slug: mundaka-upanishad-1-2-12
 ---

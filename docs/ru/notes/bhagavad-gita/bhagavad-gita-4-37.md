@@ -3,9 +3,10 @@ slug: bhagavad-gita-4-37
 refs:
   - ../../_full/1982/12/1982.12.19.B.C.md
   - ../../_full/1983/10/1983.10.23.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.37
     slug: bhagavad-gita-4-37
 ---

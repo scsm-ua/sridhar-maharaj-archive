@@ -5,9 +5,10 @@ refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym.md
   - ../../_full/1981/11/1981.11.26.A.B.C.md
   - ../../_full/1983/03/1983.03.17.md
-tags:
+scriptures:
   - title: Нитай гунамани амара
     slug: nitaj-gunamani-amara
+verses:
   - title: Нитай гунамани амара 3
     slug: nitaj-gunamani-amara-3
 ---

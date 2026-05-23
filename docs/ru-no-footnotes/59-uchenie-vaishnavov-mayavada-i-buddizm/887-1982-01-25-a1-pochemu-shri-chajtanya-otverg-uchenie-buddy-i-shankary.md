@@ -1,5 +1,5 @@
 ---
-slug: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary
+slug: 1982-01-25-a1_pochemu_shri_chaytanya_otverg_uchenie_buddy_i_shankary
 record_id: 1982.01.25.A1
 title: Почему Шри Чайтанья отверг учение Будды и Шанкары?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 887. 1982.01.25.A1. Почему Шри Чайтанья отверг учение Будды и Шанкары?
   index: "887"
   filename: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary.md
+  slug: 887-1982-01-25-a1-pochemu-shri-chajtanya-otverg-uchenie-buddy-i-shankary
 ---
 
 …Неотъемлемо связано: относительное, абсолютное, как вы можете избавиться от этого? Тезис-антитезис-синтез.

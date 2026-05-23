@@ -1,5 +1,5 @@
 ---
-slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+slug: 1982-02-18-b3_my_ne_ateisty_ob_izuchenii_trudov_shesti_gosvami
 record_id: 1982.02.18.B3
 title: «Мы не атеисты». Об изучении трудов шести Госвами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
   index: "873"
   filename: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami.md
+  slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 7
     slug: shri-shri-prabhupada-padma-stavakah-7
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
 ---

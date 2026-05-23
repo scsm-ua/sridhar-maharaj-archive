@@ -1,5 +1,5 @@
 ---
-slug: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost
+slug: 1982-01-26-a1_temperament_vayshnava_sochetaet_smirenie_i_reshitelnost
 record_id: 1982.01.26.A1
 title: Темперамент вайшнава сочетает смирение и решительность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 835. 1982.01.26.A1. Темперамент вайшнава сочетает смирение и решительность
   index: "835"
   filename: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
+  slug: 835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost
 ---
 
 *Пратьякша*, *парокша*, *апарокша*, *адхокшаджа*, *апракрита* — пять стадий знания, концепций. *Пратьякша* — опыт чувств, тот аспект мира, который воспринимается с помощью чувств. [*Парокша*] — знание, которое получено благодаря опыту других людей. Не прямой опыт чувств, но вторичное знание, заимствованное из чужих рук.

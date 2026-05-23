@@ -1,5 +1,5 @@
 ---
-slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+slug: 1982-07-27-a1_glavnyy_sovet_bhagavad-gity_karma-yoga_i_probuzhdenie_istinnogo_ego
 record_id: 1982.07.27.A1
 title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,16 @@ legacy:
     пробуждение истинного эго
   index: "418"
   filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
+  slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu
+slug: 1982-05-06-a7_svyaz_imeni_vayshnava_s_kontseptsiey_sluzheniya_vishnu
 record_id: 1982.05.06.A7
 title: Связь имени вайшнава с концепцией служения Вишну
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 329. 1982.05.06.A7. Связь имени вайшнава с концепцией служения Вишну
   index: "329"
   filename: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu.md
+  slug: 329-1982-05-06-a7-svyaz-imeni-vajshnava-s-kontseptsiej-sluzheniya-vishnu
 ---
 
 **Преданный:** Махарадж, также Свами Махарадж менял имена преданным, когда давал *Харинам*, но здесь вы не делаете этого.

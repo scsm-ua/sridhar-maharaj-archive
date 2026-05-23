@@ -1,5 +1,5 @@
 ---
-slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
+slug: 1982-04-24-a4-b1_sluzhenie_absolyutnomu_tsentru_edinstvennyy_vyhod_iz_krugovorota_karmy
 record_id: 1982.04.24.A4.B1
 title: Служение Абсолютному Центру – единственный выход из круговорота кармы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     из круговорота кармы
   index: "419"
   filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
+  slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.13.47
     slug: shrimad-bhagavatam-1-13-47
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.9
     slug: bhagavad-gita-3-9
   - title: Бхагавад-гита 3.5
     slug: bhagavad-gita-3-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27

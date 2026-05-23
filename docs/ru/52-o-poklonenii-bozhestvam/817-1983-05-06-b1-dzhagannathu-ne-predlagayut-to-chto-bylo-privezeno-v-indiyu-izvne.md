@@ -1,5 +1,5 @@
 ---
-slug: 817-1983-05-06-b1-dzhagannathu-ne-predlagayut-to-chto-bylo-privezeno-v-indiyu-izvne
+slug: 1983-05-06-b1_dzhagannathu_ne_predlagayut_to_chto_bylo_privezeno_v_indiyu_izvne
 record_id: 1983.05.06.B1
 title: Джаганнатху не предлагают то, что было привезено в Индию извне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Индию извне
   index: "817"
   filename: 817-1983-05-06-b1-dzhagannathu-ne-predlagayut-to-chto-bylo-privezeno-v-indiyu-izvne.md
+  slug: 817-1983-05-06-b1-dzhagannathu-ne-predlagayut-to-chto-bylo-privezeno-v-indiyu-izvne
 ---
 
 …и сказал: «Пососи эту бороду и ты получишь представление о том, каков вкус манго», поскольку смесь этих вкусов — тамаринда, сахара и волосы бороды — все это вместе дает представление о вкусе и консистенции манго. Поэтому он сказал: «Пососи мою бороду», обмокнув ее в этот раствор (тамаринда, сахара, воды).

@@ -1,5 +1,5 @@
 ---
-slug: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math
+slug: 1981-08-20-a4_glaza_chtoby_uvidet_boga_prihod_madhava_maharadzha_v_gaudiya-math
 record_id: 1981.08.20.A4
 title: Глаза, чтобы увидеть Бога. Приход Мадхава Махараджа в Гаудия-Матх.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Гаудия-Матх
   index: "200"
   filename: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math.md
+  slug: 200-1981-08-20-a4-glaza-chtoby-uvidet-boga-prihod-madhava-maharadzha-v-gaudiya-math
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
   - title: Бхагавад-гита 11.52

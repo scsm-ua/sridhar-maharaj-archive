@@ -8,9 +8,10 @@ refs:
   - ../../_full/1981/10/1981.10.28.md
   - ../../_full/1982/01/1982.01.29.md
   - ../../_full/1983/06/1983.06.05.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 9.4.68
     slug: shrimad-bhagavatam-9-4-68
 ---

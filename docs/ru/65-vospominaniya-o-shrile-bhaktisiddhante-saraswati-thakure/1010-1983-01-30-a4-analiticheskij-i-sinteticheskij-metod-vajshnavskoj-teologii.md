@@ -1,5 +1,5 @@
 ---
-slug: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii
+slug: 1983-01-30-a4_analiticheskiy_i_sinteticheskiy_metod_vayshnavskoy_teologii
 record_id: 1983.01.30.A4
 title: Аналитический и синтетический метод вайшнавской теологии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1010. 1983.01.30.A4. Аналитический и синтетический метод вайшнавской теологии
   index: "1010"
   filename: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii.md
+  slug: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii
 ---
 
 **Шрила Шридхар Махарадж:** Каков скрытый смысл слова «*партха*», каков корень?

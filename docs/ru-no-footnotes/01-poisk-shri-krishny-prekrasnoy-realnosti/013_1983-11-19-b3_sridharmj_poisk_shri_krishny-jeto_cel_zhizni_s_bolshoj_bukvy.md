@@ -1,5 +1,5 @@
 ---
-slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
+slug: 1983-11-19-b3_poisk_shri_krishny_eto_tsel_zhizni_s_bolshoy_bukvy
 record_id: 1983.11.19.B3
 title: Поиск Шри Кришны — это Цель жизни с большой буквы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
   index: "013"
   filename: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy.md
+  slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
 editors:
   - Транскрипция: Гандхарва Д.Д.
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu
+slug: 1983-05-06-b4_kakim_dolzhno_byt_nastroenie_obrashcheniya_k_gospodu
 record_id: 1983.05.06.B4
 title: Каким должно быть настроение обращения к Господу?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 826. 1983.05.06.B4. Каким должно быть настроение обращения к Господу?
   index: "826"
   filename: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu.md
+  slug: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна.

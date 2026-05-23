@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-12-167
 refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/745-1982-01-19-c2-o-pitanii-i-rezhime-dnya.md
   - ../../_full/1982/01/1982.01.19.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 12.167
     slug: shri-chajtanya-charitamrita-madhya-lila-12-167
 ---

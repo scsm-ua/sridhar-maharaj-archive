@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-4-1-64
 refs:
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
   - ../../_full/1982/05/1982.05.15.A.B1.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 4.1.64
     slug: shrimad-bhagavatam-4-1-64
 ---

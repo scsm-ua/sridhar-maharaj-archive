@@ -1,5 +1,5 @@
 ---
-slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
+slug: 1982-03-29-b1_v_glubinah_realnosti_prebyvayut_vrindavan_i_soznanie_krishny
 record_id: 1982.03.29.B1
 title: В глубинах реальности пребывают Вриндаван и Сознание Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кришны
   index: "503"
   filename: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny.md
+  slug: 503-1982-03-29-b1-v-glubinah-realnosti-prebyvayut-vrindavan-i-soznanie-krishny
 ---
 
 На стадии коллапса это лекарство может помочь нам, по крайней мере, я пришел к такому заключению. И во многих местах, во многих случаях я получил опыт такого рода, опыт того, что этот принцип работает.

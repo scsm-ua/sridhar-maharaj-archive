@@ -1,5 +1,5 @@
 ---
-slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
+slug: 1982-06-08-b4_raskrytie_vozvyshennyh_tem_dolzhno_proishodit_v_dolzhnom_umonastroenii
 record_id: 1982.06.08.B4
 title: Раскрытие возвышенных тем должно происходить в должном умонастроении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     должном умонастроении
   index: "1004"
   filename: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii.md
+  slug: 1004-1982-06-08-b4-raskrytie-vozvyshennyh-tem-dolzhno-proishodit-v-dolzhnom-umonastroenii
 ---
 
 **Акхаянанда Махарадж:** Махарадж, Шрила Бхактисиддханта Сарасвати Тхакур… Возможно, вы однажды сказали, что никогда не видели, как он поет или танцует. Танец и пение. Он очень мало пел и танцевал, или почти не танцевал?

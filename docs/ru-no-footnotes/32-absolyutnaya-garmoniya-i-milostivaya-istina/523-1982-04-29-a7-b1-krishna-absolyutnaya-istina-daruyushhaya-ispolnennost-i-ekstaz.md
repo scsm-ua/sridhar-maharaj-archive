@@ -1,5 +1,5 @@
 ---
-slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
+slug: 1982-04-29-a7-b1_krishna_absolyutnaya_istina_daruyushchaya_ispolnennost_i_ekstaz
 record_id: 1982.04.29.A7.B1
 title: Кришна – Абсолютная Истина, дарующая исполненность и экстаз
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     и экстаз
   index: "523"
   filename: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz.md
+  slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
 ---
 
 Джива Госвами критиковал всех грамматистов. *Какалапа-калапа* — если отсутствует связь с Кришной, тогда *калапа* [павлиний хвост] значит *какалапа. Кака* — это ворона. Воронье карканье. [?] Единственным следствием будут раны, вред. Все связано с Кришной. Если все связано с Кришной, тогда все в порядке, это шлока «Бхагаваты».

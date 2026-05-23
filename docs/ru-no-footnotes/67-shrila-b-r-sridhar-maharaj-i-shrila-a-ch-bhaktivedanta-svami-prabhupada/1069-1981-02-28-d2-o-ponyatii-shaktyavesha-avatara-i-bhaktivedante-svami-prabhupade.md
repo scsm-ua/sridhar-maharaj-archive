@@ -1,5 +1,5 @@
 ---
-slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
+slug: 1981-02-28-d2_o_ponyatii_shaktyavesha-avatara_i_bhaktivedante_svami_prabhupade
 record_id: 1981.02.28.D2
 title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Прабхупаде
   index: "1069"
   filename: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade.md
+  slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
 ---
 
 **Госвами Махарадж:** Махарадж, я хотел вам задать один вопрос насчет *шакти-авеша-аватары*. Как правильно понять *шакти-авеша-аватару*? Это индивидуальная, отдельная *джива*, которая действует в положении, в роли *шакти-авеша-аватары*? То есть это *джива* нисходит из того мира, или же *шакти-авеша* нисходит в эту *дживу*?

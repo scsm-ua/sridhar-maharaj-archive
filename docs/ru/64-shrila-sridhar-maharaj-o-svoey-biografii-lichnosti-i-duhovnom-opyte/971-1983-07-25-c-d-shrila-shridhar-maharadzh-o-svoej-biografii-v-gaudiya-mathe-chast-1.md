@@ -1,5 +1,5 @@
 ---
-slug: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1
+slug: 1983-07-25-c-d_shrila_shridhar_maharadzh_o_svoey_biografii_v_gaudiya-mathe_chast_1
 record_id: 1983.07.25.C.D
 title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 1)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,18 @@ legacy:
     Гаудия-матхе (часть 1)
   index: "971"
   filename: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1.md
+  slug: 971-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-1
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 ---

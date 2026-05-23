@@ -1,5 +1,5 @@
 ---
-slug: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai
+slug: 1982-11-06-b2-c1_kommentarii_k_pesne_guru-parampara_vydayushchiesya_uchitelya_rupanuga-sampradai
 record_id: 1982.11.06.B2.C1
 title: Комментарии к песне «Гуру-парампара». Выдающиеся учителя рупануга-сампрадаи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     учителя рупануга-сампрадаи
   index: "267"
   filename: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai.md
+  slug: 267-1982-11-06-b2-c1-kommentarii-k-pesne-guru-parampara-vydayushhiesya-uchitelya-rupanuga-sampradai
 ---
 
 В нашей *гуру*—*парампаре* мы находим:

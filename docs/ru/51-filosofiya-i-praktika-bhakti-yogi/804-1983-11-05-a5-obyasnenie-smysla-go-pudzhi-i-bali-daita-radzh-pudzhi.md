@@ -1,5 +1,5 @@
 ---
-slug: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi
+slug: 1983-11-05-a5_obyasnenie_smysla_go-pudzhi_i_bali-daita-radzh_pudzhi
 record_id: 1983.11.05.A5
 title: Объяснение смысла го-пуджи и Бали-даита-радж пуджи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 804. 1983.11.05.A5. Объяснение смысла го-пуджи и Бали-даита-радж пуджи
   index: "804"
   filename: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi.md
+  slug: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi
 ---
 
 **Преданный:** Махарадж, позвольте спросить о *го-пудже*: она указана в календаре.

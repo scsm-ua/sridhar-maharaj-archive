@@ -1,5 +1,5 @@
 ---
-slug: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti
+slug: 1983-11-12-b4_interes_k_ontologii_predpolagaet_stremlenie_k_realnosti
 record_id: 1983.11.12.B4
 title: Интерес к онтологии предполагает стремление к Реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1097. 1983.11.12.B4. Интерес к онтологии предполагает стремление к Реальности
   index: "1097"
   filename: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti.md
+  slug: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti
 ---
 
 **Преданный:** То, что вы говорите, ваши объяснения — где еще люди могут услышать их? Нет места, где люди могли бы услышать подобные объяснения.

@@ -1,5 +1,5 @@
 ---
-slug: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki
+slug: 1982-04-28-a-b_kommentarii_k_pyatomu_shestomu_sedmomu_i_vosmomu_stiham_shikshashtaki
 record_id: 1982.04.28.A.B
 title: Комментарии к пятому, шестому, седьмому и восьмому стихам «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     стихам «Шикшаштаки»
   index: "142"
   filename: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
+  slug: 142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki
 ---
 
     намо маха̄-вада̄нйа̄йа кр̣ш̣н̣а-према-прада̄йа те

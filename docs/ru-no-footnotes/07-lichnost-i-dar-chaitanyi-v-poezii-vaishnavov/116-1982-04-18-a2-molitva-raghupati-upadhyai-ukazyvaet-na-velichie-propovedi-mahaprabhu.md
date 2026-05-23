@@ -1,5 +1,5 @@
 ---
-slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
+slug: 1982-04-18-a2_molitva_raghupati_upadhyai_ukazyvaet_na_velichie_propovedi_mahaprabhu
 record_id: 1982.04.18.A2
 title: Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     проповеди Махапрабху
   index: "116"
   filename: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu.md
+  slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
 ---
 
     кам̇ прати катхайитум ӣш́е сампрати ко ва̄ пратӣтим а̄йа̄ту

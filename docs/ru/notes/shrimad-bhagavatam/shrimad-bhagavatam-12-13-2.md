@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-12-13-2
 refs:
   - ../../_full/1983/10/1983.10.29.C2.D.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.13.2
     slug: shrimad-bhagavatam-12-13-2
 ---

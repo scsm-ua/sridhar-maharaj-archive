@@ -1,5 +1,5 @@
 ---
-slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+slug: 1981-08-20-a2_o_kvalifikatsii_dlya_chteniya_i_napisanii_shri_shri_prapanna-dzhivanamritam
 record_id: 1981.08.20.A2
 title: О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Прапанна-дживанамритам»
   index: "1121"
   filename: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
+  slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
 ---
 
 **Преданный:** Безоговорочно и совершено спонтанно… нектар самопредания…

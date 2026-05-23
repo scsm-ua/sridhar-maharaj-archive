@@ -5,9 +5,10 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite.md
   - ../../_full/1982/05/1982.05.15.C3.md
   - ../../_full/1982/06/1982.06.15.A2.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.2
     slug: bhagavad-gita-9-2
 ---

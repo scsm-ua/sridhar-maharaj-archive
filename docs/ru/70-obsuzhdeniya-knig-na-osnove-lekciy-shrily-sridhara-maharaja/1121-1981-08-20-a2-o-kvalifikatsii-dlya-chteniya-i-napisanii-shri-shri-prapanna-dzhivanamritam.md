@@ -1,5 +1,5 @@
 ---
-slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+slug: 1981-08-20-a2_o_kvalifikatsii_dlya_chteniya_i_napisanii_shri_shri_prapanna-dzhivanamritam
 record_id: 1981.08.20.A2
 title: О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,29 +24,18 @@ legacy:
     Прапанна-дживанамритам»
   index: "1121"
   filename: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
+  slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
     slug: shri-chajtanya-bhagavata-antya-khanda-3-541
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.99
     slug: shri-chajtanya-charitamrita-adi-lila-1-99
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 5
     slug: sharanagati-5
 ---

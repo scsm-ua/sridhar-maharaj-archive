@@ -3,9 +3,10 @@ slug: gitavali-1
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/243-1983-05-11-a-pribezhishhe-daruyut-vajshnavy-a-ne-krishna.md
   - ../../_full/1983/05/1983.05.11.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 1
     slug: gitavali-1
 ---

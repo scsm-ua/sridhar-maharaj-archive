@@ -1,5 +1,5 @@
 ---
-slug: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut
+slug: 1983-11-15-a_lyuboy_dolg_kotoryy_ne_svyazan_s_krishnoy_dolzhen_byt_otvergnut
 record_id: 1983.11.15.A
 title: Любой долг, который не связан с Кришной, должен быть отвергнут
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,12 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 links:
@@ -39,6 +35,7 @@ legacy:
     отвергнут
   index: "545"
   filename: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut.md
+  slug: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut
 ---
 
 Этот аспект — всепривлекающий — преобладает в школе преданности. Всеобъемлющий, всепронизывающий аспекты — *Брахман*, *Параматма*. И *Бхагаван* — всепривлекающий. Высочайший принцип — всепривлекающий. Настолько, что все — для Него. Его сила привлекательности управляет всем и заставляет все существовать ради Него, для Него. Настолько привлекательный, что все и вся становится предназначенным для Него, стремится служить Ему — настолько чарующий, такая сила очарования. Очарование означает, что все становится покорным, подчиненным источнику очарования. Он — Цель, Он — Источник смысла существования для всех и вся.

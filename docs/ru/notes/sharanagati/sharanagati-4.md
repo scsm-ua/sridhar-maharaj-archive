@@ -4,9 +4,10 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../_full/1982/05/1982.05.01.A.B1.md
   - ../../_full/1982/05/1982.05.01.A.B1.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 4
     slug: sharanagati-4
 ---

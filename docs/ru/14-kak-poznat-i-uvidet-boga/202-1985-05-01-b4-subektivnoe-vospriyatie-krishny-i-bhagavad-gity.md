@@ -1,5 +1,5 @@
 ---
-slug: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity
+slug: 1985-05-01-b4_subektivnoe_vospriyatie_krishny_i_bhagavad-gity
 record_id: 1985.05.01.B4
 title: Субъективное восприятие Кришны и «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 202. 1985.05.01.B4. Субъективное восприятие Кришны и «Бхагавад-гиты»
   index: "202"
   filename: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity.md
+  slug: 202-1985-05-01-b4-subektivnoe-vospriyatie-krishny-i-bhagavad-gity
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
 ---

@@ -21,9 +21,10 @@ refs:
   - ../../_full/1982/09/1982.09.03.A.md
   - ../../_full/1983/10/1983.10.30.C.md
   - ../../_full/1984/01/1984.01.08.md
-tags:
+scriptures:
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
 ---

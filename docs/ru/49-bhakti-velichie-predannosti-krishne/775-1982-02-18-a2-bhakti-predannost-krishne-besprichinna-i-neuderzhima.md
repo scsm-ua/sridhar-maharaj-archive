@@ -1,5 +1,5 @@
 ---
-slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
+slug: 1982-02-18-a2_bhakti_predannost_krishne_besprichinna_i_neuderzhima
 record_id: 1982.02.18.A2
 title: Бхакти, преданность Кришне, беспричинна и неудержима
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.12.55
     slug: shrimad-bhagavatam-12-12-55
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
@@ -33,8 +27,6 @@ tags:
     slug: shrimad-bhagavatam-1-2-6
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
 links:
@@ -48,6 +40,7 @@ legacy:
   title: 775. 1982.02.18.A2. Бхакти, преданность Кришне, беспричинна и неудержима
   index: "775"
   filename: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima.md
+  slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
 ---
 
 **«Онтология Прекрасной Реальности» (часть 1.2)**

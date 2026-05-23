@@ -3,9 +3,10 @@ slug: shri-brahma-samhita-5-32
 refs:
   - ../../_full/1981/09/1981.09.01.B.C.md
   - ../../_full/1981/12/1981.12.09.B.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.32
     slug: shri-brahma-samhita-5-32
 ---

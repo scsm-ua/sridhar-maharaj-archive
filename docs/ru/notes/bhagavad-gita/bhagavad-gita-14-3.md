@@ -4,9 +4,10 @@ refs:
   - ../../36-proishozhdenie-dushi/580-1982-03-29-c2-proishozhdenie-dushi-i-tri-plana-bytiya.md
   - ../../_full/1982/03/1982.03.29.B.C.D.md
   - ../../_full/1983/06/1983.06.21.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 14.3
     slug: bhagavad-gita-14-3
 ---

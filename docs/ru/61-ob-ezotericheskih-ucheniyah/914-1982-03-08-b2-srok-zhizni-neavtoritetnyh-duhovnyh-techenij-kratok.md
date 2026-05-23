@@ -1,5 +1,5 @@
 ---
-slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+slug: 1982-03-08-b2_srok_zhizni_neavtoritetnyh_duhovnyh_techeniy_kratok
 record_id: 1982.03.08.B2
 title: Срок жизни неавторитетных духовных течений краток
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
   index: "914"
   filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
+  slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.101
     slug: bhakti-rasamrita-sindhu-1-2-101
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 ---

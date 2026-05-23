@@ -2,9 +2,10 @@
 slug: hari-bhakti-vilasa-110
 refs:
   - ../../_full/1982/12/1982.12.23.B.C.md
-tags:
+scriptures:
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
+verses:
   - title: Хари-бхакти-виласа 110
     slug: hari-bhakti-vilasa-110
 ---

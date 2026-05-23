@@ -3,9 +3,10 @@ slug: bhagavad-gita-4-3
 refs:
   - ../../17-shri-guru-i-ego-milost/282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru.md
   - ../../_full/1981/03/1981.03.02.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.3
     slug: bhagavad-gita-4-3
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 1110-1983-02-20-a1-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-nikhila-bhuvana-maji
+slug: 1983-02-20-a1_obyasnenie_pranama-mantry_shrile_sarasvati_thakuru_nikhila-bhuvana-mayi
 record_id: 1983.02.20.A1
 title: Объяснение пранама-мантры Шриле Сарасвати Тхакуру (никхила-бхувана-майи…)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     (никхила-бхувана-майи…)
   index: "1110"
   filename: 1110-1983-02-20-a1-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-nikhila-bhuvana-maji.md
+  slug: 1110-1983-02-20-a1-obyasnenie-pranama-mantry-shrile-sarasvati-thakuru-nikhila-bhuvana-maji
 ---
 
 Я написал поэму о моем Гуру Махарадже. Она начинается так:

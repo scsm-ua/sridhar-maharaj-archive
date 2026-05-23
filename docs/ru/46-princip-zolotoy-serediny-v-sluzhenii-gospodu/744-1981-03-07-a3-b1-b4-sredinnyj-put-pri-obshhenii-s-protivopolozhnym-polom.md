@@ -1,5 +1,5 @@
 ---
-slug: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom
+slug: 1981-03-07-a3-b1-b4_sredinnyy_put_pri_obshchenii_s_protivopolozhnym_polom
 record_id: 1981.03.07.A3.B1.B4
 title: Срединный путь при общении с противоположным полом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,35 +23,22 @@ legacy:
   title: 744. 1981.03.07.A3.B1.B4. Срединный путь при общении с противоположным полом
   index: "744"
   filename: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom.md
+  slug: 744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: Риг-веда
-    slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72

@@ -1,5 +1,5 @@
 ---
-slug: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii
+slug: 1983-01-12-c3-d_narkotik_nikogda_ne_dast_duhovnoy_realizatsii
 record_id: 1983.01.12.C3.D
 title: Наркотик никогда не даст духовной реализации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 753. 1983.01.12.C3.D. Наркотик никогда не даст духовной реализации
   index: "753"
   filename: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii.md
+  slug: 753-1983-01-12-c3-d-narkotik-nikogda-ne-dast-duhovnoj-realizatsii
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 ---

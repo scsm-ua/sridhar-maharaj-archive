@@ -1,5 +1,5 @@
 ---
-slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
+slug: 1983-07-08-b2_budda_shankara_ramanudzha_i_shri_chaytanya_ob_izmereniyah_duhovnogo_bytiya
 record_id: 1983.07.08.B2
 title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     измерениях духовного бытия
   index: "652"
   filename: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
+  slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
 ---
 
 Рупа Госвами говорит:

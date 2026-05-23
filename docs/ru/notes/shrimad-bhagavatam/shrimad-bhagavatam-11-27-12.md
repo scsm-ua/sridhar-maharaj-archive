@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-11-27-12
 refs:
   - ../../52-o-poklonenii-bozhestvam/809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami.md
   - ../../_full/1982/07/1982.07.29.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.27.12
     slug: shrimad-bhagavatam-11-27-12
 ---

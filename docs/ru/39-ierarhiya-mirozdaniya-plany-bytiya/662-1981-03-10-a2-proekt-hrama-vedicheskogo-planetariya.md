@@ -1,5 +1,5 @@
 ---
-slug: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya
+slug: 1981-03-10-a2_proekt_hrama_vedicheskogo_planetariya
 record_id: 1981.03.10.A2
 title: Проект Храма ведического планетария
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 662. 1981.03.10.A2. Проект Храма ведического планетария
   index: "662"
   filename: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya.md
+  slug: 662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
@@ -42,8 +39,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
   - title: Бхагавад-гита 6.46

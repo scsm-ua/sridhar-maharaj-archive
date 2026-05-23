@@ -1,5 +1,5 @@
 ---
-slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
+slug: 1982-07-03-a4_berkli_vs_gegel_vse_prebyvaet_ne_v_nashem_a_vo_vselenskom_ume
 record_id: 1982.07.03.A4
 title: Беркли VS Гегель. Все пребывает не в нашем, а во Вселенском Уме.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Вселенском Уме
   index: "621"
   filename: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume.md
+  slug: 621-1982-07-03-a4-berkli-vs-gegel-vse-prebyvaet-ne-v-nashem-a-vo-vselenskom-ume
 ---
 
 То, что мы воспринимаем как физическое — все наши чувственные переживания вращаются вокруг внутреннего центра более тонкой природы. Более тонкое начало порождает грубые реалии.

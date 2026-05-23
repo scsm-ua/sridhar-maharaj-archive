@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-2-1-4
 refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.1.4
     slug: shrimad-bhagavatam-2-1-4
 ---

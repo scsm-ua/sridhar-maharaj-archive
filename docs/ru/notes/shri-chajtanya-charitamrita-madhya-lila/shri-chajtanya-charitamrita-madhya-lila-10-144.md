@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-10-144
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy.md
   - ../../_full/1983/11/1983.11.19.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.144
     slug: shri-chajtanya-charitamrita-madhya-lila-10-144
 ---

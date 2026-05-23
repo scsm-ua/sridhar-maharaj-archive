@@ -1,5 +1,5 @@
 ---
-slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
+slug: 1982-02-15-a1_samopredanie_put_k_probuzhdeniyu_istinnogo_ya
 record_id: 1982.02.15.A1
 title: Самопредание – путь к пробуждению истинного «я»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 843. 1982.02.15.A1. Самопредание – путь к пробуждению истинного «я»
   index: "843"
   filename: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
+  slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
 ---
 
 *На ганасйаргато кашчит* — существует это моральное учение в Индии.

@@ -5,9 +5,10 @@ refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
   - ../../_full/1982/05/1982.05.05.A.md
   - ../../_full/1982/05/1982.05.10.B.C1.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.4.15
     slug: bhakti-rasamrita-sindhu-1-4-15
 ---

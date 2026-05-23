@@ -1,5 +1,5 @@
 ---
-slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
+slug: 1982-02-23-a2_beskompromissnost_i_gotovnost_idti_do_kontsa_osnova_propovedi_gaudiya-matha
 record_id: 1982.02.23.A2
 title: Бескомпромиссность и готовность идти до конца – основа проповеди Гаудия-матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     основа проповеди Гаудия-матха
   index: "1045"
   filename: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
+  slug: 1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
     slug: shri-chajtanya-charitamrita-madhya-lila-15-237
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.6.46
     slug: shrimad-bhagavatam-11-6-46
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
   - title: Шримад-Бхагаватам 12.12.55

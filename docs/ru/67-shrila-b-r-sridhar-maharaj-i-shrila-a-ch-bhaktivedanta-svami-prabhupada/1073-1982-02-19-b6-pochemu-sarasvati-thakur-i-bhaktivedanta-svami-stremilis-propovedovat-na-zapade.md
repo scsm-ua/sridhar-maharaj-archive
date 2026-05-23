@@ -1,5 +1,5 @@
 ---
-slug: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade
+slug: 1982-02-19-b6_pochemu_sarasvati_thakur_i_bhaktivedanta_svami_stremilis_propovedovat_na_zapade
 record_id: 1982.02.19.B6
 title: Почему Сарасвати Тхакур и Бхактиведанта Свами стремились проповедовать на
   западе?
@@ -25,9 +25,8 @@ legacy:
     стремились проповедовать на западе?
   index: "1073"
   filename: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade.md
+  slug: 1073-1982-02-19-b6-pochemu-sarasvati-thakur-i-bhaktivedanta-svami-stremilis-propovedovat-na-zapade
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.36
     slug: shrimad-bhagavatam-11-5-36
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov
+slug: 1983-04-17-a4_o_stradaniyah_guru_iz-za_karmy_uchenikov
 record_id: 1983.04.17.A4
 title: О страданиях гуру из-за кармы учеников
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 305. 1983.04.17.A4. О страданиях гуру из-за кармы учеников
   index: "305"
   filename: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov.md
+  slug: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov
 tags:
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.23
     slug: shvetashvatara-upanishad-6-23
 ---

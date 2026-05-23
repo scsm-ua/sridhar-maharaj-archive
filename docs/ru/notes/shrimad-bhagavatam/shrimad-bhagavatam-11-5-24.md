@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-11-5-24
 refs:
   - ../../_full/1982/11/1982.11.16.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.333
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-333
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.333
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-333
   - title: Шримад-Бхагаватам 11.5.24
     slug: shrimad-bhagavatam-11-5-24
 ---

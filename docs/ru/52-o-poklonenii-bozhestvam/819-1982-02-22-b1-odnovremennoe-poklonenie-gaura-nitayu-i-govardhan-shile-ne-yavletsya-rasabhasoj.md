@@ -1,5 +1,5 @@
 ---
-slug: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj
+slug: 1982-02-22-b1_odnovremennoe_poklonenie_gaura-nitayu_i_govardhan-shile_ne_yavletsya_rasabhasoy
 record_id: 1982.02.22.B1
 title: Одновременное поклонение Гаура-Нитаю и Говардхан-шиле не явлется расабхасой
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     не явлется расабхасой
   index: "819"
   filename: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj.md
+  slug: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj
 ---
 
 **Преданный:** Махарадж, поклоняться Гаура-Нитаю и *Говардхана-шиле* одновременно это *расабхаса*?

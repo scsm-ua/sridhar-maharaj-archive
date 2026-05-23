@@ -1,5 +1,5 @@
 ---
-slug: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur
+slug: 1982-05-14-b6_pochemu_krishna_pokinul_radharani_sarasvati_thakur_i_bhaktivinod_thakur
 record_id: 1982.05.14.B6
 title: Почему Кришна покинул Радхарани. Сарасвати Тхакур и Бхактивинод Тхакур.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Бхактивинод Тхакур
   index: "470"
   filename: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur.md
+  slug: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.30.38
     slug: shrimad-bhagavatam-10-30-38
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 4.5
     slug: sharanagati-4-5
 ---

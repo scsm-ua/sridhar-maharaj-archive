@@ -16,9 +16,10 @@ refs:
   - ../../_full/1981/12/1981.12.21.A.B.md
   - ../../_full/1983/06/1983.06.27.md
   - ../../_full/1983/12/1983.12.09.A.B.md
-tags:
+scriptures:
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
+verses:
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
 ---

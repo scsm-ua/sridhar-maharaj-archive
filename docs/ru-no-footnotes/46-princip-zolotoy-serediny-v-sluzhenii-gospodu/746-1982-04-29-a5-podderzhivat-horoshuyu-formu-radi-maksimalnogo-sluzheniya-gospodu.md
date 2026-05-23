@@ -1,5 +1,5 @@
 ---
-slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
+slug: 1982-04-29-a5_podderzhivat_horoshuyu_formu_radi_maksimalnogo_sluzheniya_gospodu
 record_id: 1982.04.29.A5
 title: Поддерживать хорошую форму ради максимального служения Господу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     служения Господу
   index: "746"
   filename: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu.md
+  slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
 ---
 
 Все принадлежит Ему, Кришне, но поскольку я должен служить Ему, поэтому то, что необходимо мне для того, чтобы поддерживать себя в необходимой форме, я принимаю как *прасадам. Прасадам* — какой-то дар от Него. Если я не буду этого делать, то возникнут препятствия в служении, и я окажусь на ложном пути, поэтому — *йукта̄ха̄ра-виха̄расйа*[^_ftn1].

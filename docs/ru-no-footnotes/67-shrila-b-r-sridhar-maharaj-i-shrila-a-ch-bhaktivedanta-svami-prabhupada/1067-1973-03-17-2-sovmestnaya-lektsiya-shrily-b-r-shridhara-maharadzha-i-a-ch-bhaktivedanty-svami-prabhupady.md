@@ -1,5 +1,5 @@
 ---
-slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
+slug: 1973-03-17-2_sovmestnaya_lektsiya_shrily_b_r_shridhara_maharadzha_i_a_ch_bhaktivedanty_svami_prabhupady
 record_id: 1973.03.17.2
 title: Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
   Свами Прабхупады.
@@ -25,6 +25,7 @@ legacy:
     А.Ч. Бхактиведанты Свами Прабхупады
   index: "1067"
   filename: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady.md
+  slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.

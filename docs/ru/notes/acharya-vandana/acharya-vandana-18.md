@@ -4,9 +4,10 @@ refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
   - ../../_full/1982/04/1982.04.30.A.B.md
-tags:
+scriptures:
   - title: Ачарья вандана
     slug: acharya-vandana
+verses:
   - title: Ачарья вандана 18
     slug: acharya-vandana-18
 ---

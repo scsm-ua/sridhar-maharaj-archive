@@ -2,9 +2,10 @@
 slug: shri-shri-prapanna-dzhivanamritam-9
 refs:
   - ../../_full/1981/12/1981.12.29.B.C.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 9
     slug: shri-shri-prapanna-dzhivanamritam-9
 ---

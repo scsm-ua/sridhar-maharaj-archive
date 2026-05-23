@@ -1,5 +1,5 @@
 ---
-slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
+slug: 1982-06-10-b5-b8_protivostoyanie_lakshmi_i_sarasvati_v_kontekste_gaudiya-vayshnavizma
 record_id: 1982.06.10.B5.B8
 title: Противостояние Лакшми и Сарасвати в контексте гаудия-вайшнавизма
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     гаудия-вайшнавизма
   index: "685"
   filename: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
+  slug: 685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.35
     slug: shrimad-bhagavatam-2-9-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
     slug: shri-chajtanya-charitamrita-madhya-lila-24-135
   - title: Шримад-Бхагаватам 2.10.6
     slug: shrimad-bhagavatam-2-10-6
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
 ---

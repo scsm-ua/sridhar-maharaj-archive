@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-adi-lila-5-35
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami.md
   - ../../_full/1982/05/1982.05.10.B.C1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
     slug: shri-chajtanya-charitamrita-adi-lila-5-35
 ---

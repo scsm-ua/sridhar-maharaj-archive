@@ -1,5 +1,5 @@
 ---
-slug: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura
+slug: 1982-06-08-a3_stih_rupy_gosvami_o_pochitanii_predannyh_raznogo_urovnya_zamechanie_bhaktivinoda_thakura
 record_id: 1982.06.08.A3
 title: Стих Рупы Госвами о почитании преданных разного уровня. Замечание
   Бхактивинода Тхакура.
@@ -25,13 +25,10 @@ legacy:
     уровня. Замечание Бхактивинода Тхакура
   index: "256"
   filename: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura.md
+  slug: 256-1982-06-08-a3-stih-rupy-gosvami-o-pochitanii-predannyh-raznogo-urovnya-zamechanie-bhaktivinoda-thakura
 tags:
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 5
     slug: shri-upadeshamrita-5
-  - title: Бхаджана-лаласа
-    slug: bhadzhana-lalasa
   - title: Бхаджана-лаласа 5.1
     slug: bhadzhana-lalasa-5-1
 ---

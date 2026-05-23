@@ -4,17 +4,18 @@ refs:
   - ../../68-shri-chaitanya-saraswat-math/1089-1982-04-23-a4-b1-istoriya-i-ontologiya-bozhestv-shri-chajtanya-sarasvat-matha.md
   - ../../_full/1982/04/1982.04.23.A.B.md
   - ../../_full/1982/10/1982.10.17.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.17
-    slug: shri-chajtanya-charitamrita-adi-lila-1-17
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.7
-    slug: shri-chajtanya-charitamrita-antya-lila-1-7
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.17
+    slug: shri-chajtanya-charitamrita-adi-lila-1-17
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.7
+    slug: shri-chajtanya-charitamrita-antya-lila-1-7
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.5
     slug: shri-chajtanya-charitamrita-madhya-lila-1-5
 ---

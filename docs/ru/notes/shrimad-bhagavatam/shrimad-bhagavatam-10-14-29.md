@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-10-14-29
 refs:
   - ../../33-dharma-uchenie-o-dolge/547-1982-11-02-a5-b1-bhagavata-dharma-osnovana-na-vlechenii-k-absolyutnomu-tsentru-krasote-i-lyubvi.md
   - ../../_full/1982/11/1982.11.02.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.14.29
     slug: shrimad-bhagavatam-10-14-29
 ---

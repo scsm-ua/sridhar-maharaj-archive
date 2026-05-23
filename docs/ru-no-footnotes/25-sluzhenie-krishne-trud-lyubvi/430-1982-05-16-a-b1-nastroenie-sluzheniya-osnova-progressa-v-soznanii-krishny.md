@@ -1,5 +1,5 @@
 ---
-slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
+slug: 1982-05-16-a-b1_nastroenie_sluzheniya_osnova_progressa_v_soznanii_krishny
 record_id: 1982.05.16.A.B1
 title: Настроение служения – основа прогресса в Сознании Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Кришны
   index: "430"
   filename: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny.md
+  slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
 ---
 
 **Преданный:** Гурудев!

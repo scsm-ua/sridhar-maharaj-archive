@@ -1,5 +1,5 @@
 ---
-slug: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne
+slug: 1981-03-02-a2_istorii_shrimad-bhagavatam_prizvany_napravit_dushu_k_krishne
 record_id: 1981.03.02.A2
 title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кришне
   index: "217"
   filename: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne.md
+  slug: 217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne
 ---
 
 **Госвами Махарадж:** У меня был один вопрос. В «Чайтанья-чаритамрите» Махапрабху говорит Санатане: «Каждая буква «Шримад-Бхагаватам» есть Кришна». Но некоторые утверждения «Шримад-Бхагаватам» — суть утверждения Хираньякши, Хираньякашипу, некоторые утверждения Шукрачарьи, Шишупалы… Как это возможно? Мы, слыша этот звук…

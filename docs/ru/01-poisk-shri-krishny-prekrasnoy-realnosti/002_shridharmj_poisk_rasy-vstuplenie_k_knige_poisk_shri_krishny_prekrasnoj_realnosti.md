@@ -1,5 +1,5 @@
 ---
-slug: 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti
+slug: 1981-08-00_poisk_rasy_vstuplenie_k_knige_poisk_shri_krishny_prekrasnoy_realnosti
 record_id: 1981.08.00
 title: Поиск расы — вступление к книге «Поиск Шри Кришны, Прекрасной Реальности»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Реальности»
   index: "002"
   filename: 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti.md
+  slug: 002_shridharmj_poisk_rasy-vstuplenie_k_knige_poisk_shri_krishny_prekrasnoj_realnosti
 tags:
-  - title: Тайттирия-упанишад
-    slug: tajttiriya-upanishad
   - title: Тайттирия-упанишад 2.7.1
     slug: tajttiriya-upanishad-2-7-1
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

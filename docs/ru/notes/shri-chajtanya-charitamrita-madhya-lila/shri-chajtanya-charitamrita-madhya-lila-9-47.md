@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-9-47
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/616-1982-03-02-a-b1-b3-b5-obyasnenie-ponyatij-chid-abhas-i-subektivnaya-evolyutsiya.md
   - ../../_full/1982/03/1982.03.02.A.B1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.47
     slug: shri-chajtanya-charitamrita-madhya-lila-9-47
 ---

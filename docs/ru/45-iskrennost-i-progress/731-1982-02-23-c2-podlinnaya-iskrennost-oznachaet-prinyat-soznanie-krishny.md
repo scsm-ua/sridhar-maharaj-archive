@@ -1,5 +1,5 @@
 ---
-slug: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny
+slug: 1982-02-23-c2_podlinnaya_iskrennost_oznachaet_prinyat_soznanie_krishny
 record_id: 1982.02.23.C2
 title: Подлинная искренность означает «принять Сознание Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1
     slug: shri-chajtanya-charitamrita-adi-lila-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.34
@@ -32,6 +30,7 @@ legacy:
   title: 731. 1982.02.23.C2. Подлинная искренность означает «принять Сознание Кришны»
   index: "731"
   filename: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny.md
+  slug: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny
 ---
 
 ## Мгновения Прекрасной Реальности (часть 6.6)

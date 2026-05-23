@@ -1,5 +1,5 @@
 ---
-slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
+slug: 1981-03-12-c1_slushanie_duhovnyh_istin_probuzhdaet_i_ochishchaet_serdtse
 record_id: 1981.03.12.C1
 title: Слушание духовных истин пробуждает и очищает сердце
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 565. 1981.03.12.С1. Слушание духовных истин пробуждает и очищает сердце
   index: "565"
   filename: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse.md
+  slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
 ---
 
 [Кришна, Кришна, Кришна, Гаура-Харибол, Гаура-Харибол]

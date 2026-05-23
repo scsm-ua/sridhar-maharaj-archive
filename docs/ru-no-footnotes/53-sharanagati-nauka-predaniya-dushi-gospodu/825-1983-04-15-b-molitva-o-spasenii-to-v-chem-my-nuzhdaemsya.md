@@ -1,5 +1,5 @@
 ---
-slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
+slug: 1983-04-15-b_molitva_o_spasenii_to_v_chem_my_nuzhdaemsya
 record_id: 1983.04.15.B
 title: Молитва о спасении – то, в чем мы нуждаемся
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 825. 1983.04.15.B. Молитва о спасении – то, в чем мы нуждаемся
   index: "825"
   filename: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya.md
+  slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
 ---
 
 [Гаура-Харибол, Гаура-Харибол]

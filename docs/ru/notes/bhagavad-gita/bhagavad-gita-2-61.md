@@ -2,9 +2,10 @@
 slug: bhagavad-gita-2-61
 refs:
   - ../../_full/1981/11/1981.11.02.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.61
     slug: bhagavad-gita-2-61
   - title: Бхагавад-гита 6.14

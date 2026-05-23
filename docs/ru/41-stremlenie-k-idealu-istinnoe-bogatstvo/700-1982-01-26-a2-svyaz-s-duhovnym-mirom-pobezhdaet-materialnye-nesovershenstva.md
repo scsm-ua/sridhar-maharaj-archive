@@ -1,5 +1,5 @@
 ---
-slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
+slug: 1982-01-26-a2_svyaz_s_duhovnym_mirom_pobezhdaet_materialnye_nesovershenstva
 record_id: 1982.01.26.A2
 title: Связь с духовным миром побеждает материальные несовершенства
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,15 +24,12 @@ legacy:
     несовершенства
   index: "700"
   filename: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva.md
+  slug: 700-1982-01-26-a2-svyaz-s-duhovnym-mirom-pobezhdaet-materialnye-nesovershenstva
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
     slug: shri-chajtanya-charitamrita-madhya-lila-8-59
 ---

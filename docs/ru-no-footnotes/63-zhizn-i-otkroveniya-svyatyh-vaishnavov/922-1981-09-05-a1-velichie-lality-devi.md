@@ -1,5 +1,5 @@
 ---
-slug: 922-1981-09-05-a1-velichie-lality-devi
+slug: 1981-09-05-a1_velichie_lality_devi
 record_id: 1981.09.05.A1
 title: Величие Лалиты Деви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 922. 1981.09.05.A1. Величие Лалиты Деви
   index: "922"
   filename: 922-1981-09-05-a1-velichie-lality-devi.md
+  slug: 922-1981-09-05-a1-velichie-lality-devi
 ---
 
 Рупа Госвами написал:

@@ -1,5 +1,5 @@
 ---
-slug: 504-gosvami-maharadzh-prezentuet-shridhar
+slug: 1983-03-28_gosvami_maharadzh_prezentuet_shridharu_maharadzhu_knigu_poisk_shri_krishny
 record_id: 1983.03.28
 title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     Кришны». 1983.03.28
   index: "504"
   filename: 504-gosvami-maharadzh-prezentuet-shridhar.md
+  slug: 504-gosvami-maharadzh-prezentuet-shridhar
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij
+slug: 1983-01-10-a3_shridhar_maharadzh_o_neobhodimosti_sistemnyh_kommentariev_k_bhagavad-gite_na_osnove_ego_lektsiy
 record_id: 1983.01.10.A3
 title: Шридхар Махарадж о необходимости системных комментариев к «Бхагавад-гите»
   на основе его лекций
@@ -25,6 +25,7 @@ legacy:
     комментариев к «Бхагавад-гите» на основе его лекций
   index: "1128"
   filename: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij.md
+  slug: 1128-1983-01-10-a3-shridhar-maharadzh-o-neobhodimosti-sistemnyh-kommentariev-k-bhagavad-gite-na-osnove-ego-lektsij
 ---
 
 **Преданный:** Гуру Махарадж, возвращаясь к Бхагавад-гите: вы говорили о вашем переводе Бхагавад-гиты, о том, что он может быть напечатан…

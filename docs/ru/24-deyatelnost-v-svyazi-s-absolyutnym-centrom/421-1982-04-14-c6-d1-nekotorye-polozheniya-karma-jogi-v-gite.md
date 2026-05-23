@@ -1,5 +1,5 @@
 ---
-slug: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite
+slug: 1982-04-14-c6-d1_nekotorye_polozheniya_karma-yogi_v_gite
 record_id: 1982.04.14.C6.D1
 title: Некоторые положения карма-йоги в «Гите»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 421. 1982.04.14.C6.D1. Некоторые положения карма-йоги в «Гите»
   index: "421"
   filename: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite.md
+  slug: 421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.1
     slug: bhagavad-gita-4-1
   - title: Бхагавад-гита 4.2
     slug: bhagavad-gita-4-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Бхагавад-гита 2.47

@@ -1,5 +1,5 @@
 ---
-slug: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi
+slug: 1981-03-01-a4_subektivnaya_evolyutsiya_i_svoboda_voli_dushi
 record_id: 1981.03.01.A4
 title: Субъективная эволюция и свобода воли души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 646. 1981.03.01.A4. Субъективная эволюция и свобода воли души
   index: "646"
   filename: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi.md
+  slug: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.1
     slug: bhagavad-gita-15-1
   - title: Бхагавад-гита 15.2

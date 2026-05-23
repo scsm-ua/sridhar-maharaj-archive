@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-10-20-19
 refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.20.19
     slug: shrimad-bhagavatam-10-20-19
 ---

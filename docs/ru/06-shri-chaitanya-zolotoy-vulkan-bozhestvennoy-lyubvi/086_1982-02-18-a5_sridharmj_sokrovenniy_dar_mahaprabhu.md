@@ -13,30 +13,18 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.7
     slug: shrimad-bhagavatam-2-1-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
     slug: shri-chajtanya-charitamrita-madhya-lila-17-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
@@ -57,14 +45,10 @@ tags:
     slug: shrimad-bhagavatam-3-15-43
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
     slug: shri-chajtanya-charitamrita-madhya-lila-8-58
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 3.8.9
     slug: vishnu-purana-3-8-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
@@ -99,8 +83,6 @@ tags:
     slug: shrimad-bhagavatam-9-5-16
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 links:

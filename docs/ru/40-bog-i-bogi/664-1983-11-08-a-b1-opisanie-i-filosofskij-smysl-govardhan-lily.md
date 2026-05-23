@@ -1,5 +1,5 @@
 ---
-slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
+slug: 1983-11-08-a-b1_opisanie_i_filosofskiy_smysl_govardhan-lily
 record_id: 1983.11.08.A.B1
 title: Описание и философский смысл Говардхан-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,16 @@ legacy:
   title: 664. 1983.11.08.A.B1. Описание и философский смысл Говардхан-лилы
   index: "664"
   filename: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily.md
+  slug: 664-1983-11-08-a-b1-opisanie-i-filosofskij-smysl-govardhan-lily
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.26.25
     slug: shrimad-bhagavatam-10-26-25
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 ---

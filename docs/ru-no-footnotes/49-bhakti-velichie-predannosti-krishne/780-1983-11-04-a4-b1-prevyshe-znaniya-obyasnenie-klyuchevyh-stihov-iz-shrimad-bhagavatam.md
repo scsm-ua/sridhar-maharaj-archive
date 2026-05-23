@@ -1,5 +1,5 @@
 ---
-slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
+slug: 1983-11-04-a4-b1_prevyshe_znaniya_obyasnenie_klyuchevyh_stihov_iz_shrimad-bhagavatam
 record_id: 1983.11.04.A4.B1
 title: Превыше знания. Объяснение ключевых стихов из «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     «Шримад-Бхагаватам»
   index: "780"
   filename: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam.md
+  slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
 ---
 
 …Чтобы понять принципы Шри Чайтаньядева, Гаудия Матха с открытым умом, поэтому считалось вначале, что я не понимаю, что такое дипломатия или тактичность, такт. Но я пришел, чтобы с открытым умом понять, каково истинное учение Шри Чайтаньядева.

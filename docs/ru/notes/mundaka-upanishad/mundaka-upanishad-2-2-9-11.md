@@ -8,9 +8,10 @@ refs:
   - ../../_full/1983/10/1983.10.22.B.md
   - ../../_full/1983/10/1983.10.29.C1.md
   - ../../_full/1983/11/1983.11.09.A.B.C1.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 2.2.9–11
     slug: mundaka-upanishad-2-2-9-11
 ---

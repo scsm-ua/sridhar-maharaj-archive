@@ -1,5 +1,5 @@
 ---
-slug: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny
+slug: 1982-03-08-b5_ramananda_ray_kak_voploshchenie_vishakhi_i_ardzhuny
 record_id: 1982.03.08.B5
 title: Рамананда Рай как воплощение Вишакхи и Арджуны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Рамананда Рай
     slug: ramananda-raj
-  - title: Шри Гуру-парампара
-    slug: shri-guru-parampara
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 137. 1982.03.08.B5. Рамананда Рай как воплощение Вишакхи и Арджуны
   index: "137"
   filename: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny.md
+  slug: 137-1982-03-08-b5-ramananda-raj-kak-voploshhenie-vishakhi-i-ardzhuny
 ---
 
 **Преданный:** *шри-чайтанйа, радха-кришна нахе анйа*[^_ftn1] — когда мы слышим о том, что некоторые из Его преданных являются двойными воплощениями…Например, я слышал (я не знаю, правда ли это), что Рамананда Рай является инкарнацией Вишакхи и также инкарнацией Арджуны. Существуют ли двойные воплощения спутников Господа?

@@ -2,9 +2,10 @@
 slug: bhagavad-gita-9-21
 refs:
   - ../../_full/1981/12/1981.12.13.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.21
     slug: bhagavad-gita-9-21
 ---

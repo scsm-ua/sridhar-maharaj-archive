@@ -4,9 +4,10 @@ refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye.md
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/630-1982-02-17-b3-tvorenie.md
   - ../../_full/1982/02/1982.02.17.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 8.26
     slug: bhagavad-gita-8-26
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 816-1983-05-06-b3-dlya-pokloneniya-shalagramu-neobhodima-osobaya-kvalifikatsiya
+slug: 1983-05-06-b3_dlya_pokloneniya_shalagramu_neobhodima_osobaya_kvalifikatsiya
 record_id: 1983.05.06.B3
 title: Для поклонения Шалаграму необходима особая квалификация
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 816. 1983.05.06.B3. Для поклонения Шалаграму необходима особая квалификация
   index: "816"
   filename: 816-1983-05-06-b3-dlya-pokloneniya-shalagramu-neobhodima-osobaya-kvalifikatsiya.md
+  slug: 816-1983-05-06-b3-dlya-pokloneniya-shalagramu-neobhodima-osobaya-kvalifikatsiya
 ---
 
 Конечно, может возникнуть вопрос: насколько мы способны призывать Святое Имя? Вопрос *нама-апарадхи*, *нама-абхасы* может возникнуть. *Нама-апарадха* присутствует, и насколько мы свободны от *нама-апарадхи*? Без *нама-апарадхи* мы способны призывать Имя? В целом поклонение *Шалаграму* носит строгий характер, существуют трудности во многих случаях.

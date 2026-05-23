@@ -15,9 +15,10 @@ refs:
   - ../../_full/1982/10/1982.10.23.B.md
   - ../../_full/1982/12/1982.12.17.A.B.md
   - ../../_full/1983/03/1983.03.28.md
-tags:
+scriptures:
   - title: Таттва-сандарбха
     slug: tattva-sandarbha
+verses:
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
 ---

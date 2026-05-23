@@ -1,5 +1,5 @@
 ---
-slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
+slug: 1981-03-12-b3_pisaniya_vysshego_urovnya_sovmeshchayut_poetichnost_i_filosofskuyu_glubinu
 record_id: 1981.03.12.B3
 title: Писания высшего уровня совмещают поэтичность и философскую глубину
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     философскую глубину
   index: "1096"
   filename: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
+  slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
 ---
 
 **Госвами Махарадж:** Свами, Трипурари Свами.

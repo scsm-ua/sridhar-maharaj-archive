@@ -1,5 +1,5 @@
 ---
-slug: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa
+slug: 1982-05-15-c3_probuzhdenie_i_razvitie_duhovnogo_vkusa
 record_id: 1982.05.15.C3
 title: Пробуждение и развитие духовного вкуса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 721. 1982.05.15.C3. Пробуждение и развитие духовного вкуса
   index: "721"
   filename: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa.md
+  slug: 721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.2
     slug: bhagavad-gita-9-2
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 7
     slug: shri-upadeshamrita-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
 ---

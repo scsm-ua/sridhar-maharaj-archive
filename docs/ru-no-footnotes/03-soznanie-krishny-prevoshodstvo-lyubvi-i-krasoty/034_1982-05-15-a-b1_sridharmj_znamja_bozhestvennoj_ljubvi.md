@@ -1,5 +1,5 @@
 ---
-slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
+slug: 1982-05-15-a-b1_znamya_bozhestvennoy_lyubvi
 record_id: 1982.05.15.A.B1
 title: Знамя божественной любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -32,6 +32,7 @@ legacy:
   title: 034. 1982.05.15.А.В1 Знамя божественной любви
   index: "034"
   filename: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
+  slug: 034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi
 ---
 
 **Шрила Шридхар Махарадж:**

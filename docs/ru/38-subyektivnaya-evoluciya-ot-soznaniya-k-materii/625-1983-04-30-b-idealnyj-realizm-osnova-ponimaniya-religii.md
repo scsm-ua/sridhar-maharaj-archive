@@ -1,5 +1,5 @@
 ---
-slug: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii
+slug: 1983-04-30-b_idealnyy_realizm_osnova_ponimaniya_religii
 record_id: 1983.04.30.B
 title: Идеальный реализм — основа понимания религии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,14 @@ legacy:
   title: 625. 1983.04.30.B. Идеальный реализм — основа понимания религии
   index: "625"
   filename: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii.md
+  slug: 625-1983-04-30-b-idealnyj-realizm-osnova-ponimaniya-religii
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
     slug: shri-chajtanya-charitamrita-adi-lila-2-86
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
     slug: shri-chajtanya-charitamrita-adi-lila-7-10
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
     slug: shri-chajtanya-charitamrita-adi-lila-7-107
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
 ---

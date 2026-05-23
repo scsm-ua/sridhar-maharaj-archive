@@ -1,5 +1,5 @@
 ---
-slug: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov
+slug: 1982-05-14-d5_glavnyy_kapital_propovednika_eto_iskrennost_postupkov
 record_id: 1982.05.14.D5
 title: Главный капитал проповедника – это искренность поступков
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 387. 1982.05.14.D5. Главный капитал проповедника – это искренность поступков
   index: "387"
   filename: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov.md
+  slug: 387-1982-05-14-d5-glavnyj-kapital-propovednika-eto-iskrennost-postupkov
 ---
 
 **Шрила Шридхар Махарадж:** Есть какие-то вопросы?

@@ -1,5 +1,5 @@
 ---
-slug: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe
+slug: 1982-02-24-a3_gruppa_sarasvati_thakura_v_gaudiya-mathe
 record_id: 1982.02.24.A3
 title: «Группа Сарасвати Тхакура» в Гаудия-Матхе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 1042. 1982.02.24.A3. «Группа Сарасвати Тхакура» в Гаудия-Матхе
   index: "1042"
   filename: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe.md
+  slug: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe
 ---
 
 *«Онтология Прекрасной Реальности» (часть 6.3)*

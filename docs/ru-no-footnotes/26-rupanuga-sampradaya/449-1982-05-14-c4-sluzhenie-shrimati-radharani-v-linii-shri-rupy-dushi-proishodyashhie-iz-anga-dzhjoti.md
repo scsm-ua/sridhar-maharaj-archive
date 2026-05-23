@@ -1,5 +1,5 @@
 ---
-slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+slug: 1982-05-14-c4_sluzhenie_shrimati_radharani_v_linii_shri_rupy_dushi_proishodyashchie_iz_anga-dzhyoti
 record_id: 1982.05.14.C4
 title: Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     происходящие из анга-джйоти
   index: "449"
   filename: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti.md
+  slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
 ---
 
 **Преданный:** Махарадж, а Джаядев жил до Билвамангала?

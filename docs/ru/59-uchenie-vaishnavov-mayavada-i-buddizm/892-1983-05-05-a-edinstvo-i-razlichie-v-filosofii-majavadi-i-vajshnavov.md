@@ -1,5 +1,5 @@
 ---
-slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
+slug: 1983-05-05-a_edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov
 record_id: 1983.05.05.A
 title: Единство и различие в философии майавади и вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 892. 1983.05.05.A. Единство и различие в философии майавади и вайшнавов
   index: "892"
   filename: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov.md
+  slug: 892-1983-05-05-a-edinstvo-i-razlichie-v-filosofii-majavadi-i-vajshnavov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
   - title: Бхагавад-гита 15.7

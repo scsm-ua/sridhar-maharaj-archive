@@ -1,5 +1,5 @@
 ---
-slug: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse
+slug: 1983-11-14-d1_sravnitelnyy_teizm_obretaya_odno_obretaesh_vse
 record_id: 1983.11.14.D1
 title: Сравнительный теизм. Обретая Одно – обретаешь все.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1116. 1983.11.14.D1. Сравнительный теизм. Обретая Одно – обретаешь все
   index: "1116"
   filename: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse.md
+  slug: 1116-1983-11-14-d1-sravnitelnyj-teizm-obretaya-odno-obretaesh-vse
 ---
 
 **Шрила Шридхар Махарадж:** Почему вы оставили Бангладеш?

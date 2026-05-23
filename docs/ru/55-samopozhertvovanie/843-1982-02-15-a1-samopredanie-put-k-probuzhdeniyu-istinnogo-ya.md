@@ -1,5 +1,5 @@
 ---
-slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
+slug: 1982-02-15-a1_samopredanie_put_k_probuzhdeniyu_istinnogo_ya
 record_id: 1982.02.15.A1
 title: Самопредание – путь к пробуждению истинного «я»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,14 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: Хитопадеша
-    slug: hitopadesha
   - title: Хитопадеша 2.29
     slug: hitopadesha-2-29
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 8
     slug: shri-nama-mahatmya-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 5
     slug: shri-ishopanishad-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -41,20 +31,14 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
   - title: Бхагавад-гита 9.24
     slug: bhagavad-gita-9-24
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.8
     slug: shvetashvatara-upanishad-6-8
 links:
@@ -68,6 +52,7 @@ legacy:
   title: 843. 1982.02.15.A1. Самопредание – путь к пробуждению истинного «я»
   index: "843"
   filename: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
+  slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
 ---
 
 *На ганасйаргато кашчит* — существует это моральное учение в Индии.

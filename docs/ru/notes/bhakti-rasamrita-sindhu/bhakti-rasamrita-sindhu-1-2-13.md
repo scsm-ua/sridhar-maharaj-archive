@@ -2,9 +2,10 @@
 slug: bhakti-rasamrita-sindhu-1-2-13
 refs:
   - ../../_full/1983/02/1983.02.12.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.2.13
     slug: bhakti-rasamrita-sindhu-1-2-13
 ---

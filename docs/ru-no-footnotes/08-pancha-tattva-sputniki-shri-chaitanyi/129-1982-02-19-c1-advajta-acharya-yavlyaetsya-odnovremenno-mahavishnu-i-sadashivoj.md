@@ -1,5 +1,5 @@
 ---
-slug: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj
+slug: 1982-02-19-c1_advayta_acharya_yavlyaetsya_odnovremenno_mahavishnu_i_sadashivoy
 record_id: 1982.02.19.C1
 title: Адвайта Ачарья является одновременно Махавишну и Садашивой
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -31,6 +31,7 @@ legacy:
     Садашивой
   index: "129"
   filename: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj.md
+  slug: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj
 ---
 
 *(«Мгновения Прекрасной Реальности», часть 8.1)*

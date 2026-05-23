@@ -1,5 +1,5 @@
 ---
-slug: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju
+slug: 1982-04-29-a6_krishna_prinimaet_predannost_a_ne_materiyu
 record_id: 1982.04.29.A6
 title: Кришна принимает преданность, а не материю
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 026. 1982.04.29.A6 Кришна принимает преданность, а не материю
   index: "026"
   filename: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju.md
+  slug: 026_1982-04-29-a6_sridharmj_krishna_prinimaet_predannost_a_ne_materiju
 ---
 
 Видура отсутствовал. Жена Видуры совершала в то время омовение. Когда она узнала о том, что пришел Кришна в ее дом (она также была преданной высокого уровня), она забыла себя в своем экстазе. «Кришна пришел в мой дом. Мой муж…»

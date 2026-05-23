@@ -2,9 +2,10 @@
 slug: gitamala-yamuna-bhavavali-19-2
 refs:
   - ../../_full/1983/02/1983.02.26.md
-tags:
+scriptures:
   - title: «Гитамала», Ямуна-бхававали
     slug: gitamala-yamuna-bhavavali
+verses:
   - title: «Гитамала», Ямуна-бхававали 19.2
     slug: gitamala-yamuna-bhavavali-19-2
 ---

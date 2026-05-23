@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-11-3-19
 refs:
   - ../../_full/1982/11/1982.11.29.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.3.19
     slug: shrimad-bhagavatam-11-3-19
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa
+slug: 1981-08-10-b2_v_rupanuga-sampradae_rasprostranyaetsya_preimushchestvenno_madhura-rasa
 record_id: 1981.08.10.B2
 title: В Рупануга-сампрадае распространяется преимущественно мадхура-раса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,19 +24,14 @@ legacy:
     мадхура-раса
   index: "453"
   filename: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa.md
+  slug: 453-1981-08-10-b2-v-rupanuga-sampradae-rasprostranyaetsya-preimushhestvenno-madhura-rasa
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
 ---

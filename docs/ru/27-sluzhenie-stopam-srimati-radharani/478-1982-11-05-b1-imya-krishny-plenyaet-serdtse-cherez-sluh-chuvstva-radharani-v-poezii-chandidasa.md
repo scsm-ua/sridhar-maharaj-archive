@@ -1,5 +1,5 @@
 ---
-slug: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa
+slug: 1982-11-05-b1_imya_krishny_plenyaet_serdtse_cherez_sluh_chuvstva_radharani_v_poezii_chandidasa
 record_id: 1982.11.05.B1
 title: Имя Кришны пленяет сердце через слух. Чувства Радхарани в поэзии Чандидаса.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Радхарани
     slug: radharani
-  - title: Саи, Кева Сунаило Шйама-нама
-    slug: sai-keva-sunailo-shjama-nama
   - title: Саи, Кева Сунаило Шйама-нама 1
     slug: sai-keva-sunailo-shjama-nama-1
   - title: Саи, Кева Сунаило Шйама-нама 2
     slug: sai-keva-sunailo-shjama-nama-2
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
 links:
@@ -37,6 +33,7 @@ legacy:
     Радхарани в поэзии Чандидаса
   index: "478"
   filename: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa.md
+  slug: 478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa
 ---
 
 Внутренняя реализация присутствует, и прогресс подразумевает путь жертвы, самопожертвования, не самоутверждения, самовозвеличивания. Харе Кришна, Харе Кришна.

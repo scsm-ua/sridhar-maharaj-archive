@@ -1,5 +1,5 @@
 ---
-slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
+slug: 1983-05-04-a_rabstvo_u_absolyuta_vysochayshaya_svoboda
 record_id: 1983.05.04.A
 title: Рабство у Абсолюта — высочайшая свобода
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -34,6 +34,7 @@ legacy:
   title: 022. 1983.05.04.A Рабство у Абсолюта — высочайшая свобода
   index: "022"
   filename: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda.md
+  slug: 022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda
 ---
 
 **Представление о подлинной свободе**

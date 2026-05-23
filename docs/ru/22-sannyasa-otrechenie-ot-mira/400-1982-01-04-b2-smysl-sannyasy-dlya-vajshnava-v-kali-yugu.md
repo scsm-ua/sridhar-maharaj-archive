@@ -1,5 +1,5 @@
 ---
-slug: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu
+slug: 1982-01-04-b2_smysl_sannyasy_dlya_vayshnava_v_kali-yugu
 record_id: 1982.01.04.B2
 title: Смысл санньясы для вайшнава в Кали-югу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Санньяса
     slug: sannyasa
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.13.27
     slug: shrimad-bhagavatam-1-13-27
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 400. 1982.01.04.B2. Смысл санньясы для вайшнава в Кали-югу
   index: "400"
   filename: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu.md
+  slug: 400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли еще вопросы?

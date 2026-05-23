@@ -1,5 +1,5 @@
 ---
-slug: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan
+slug: 1982-01-18-b2_o_prirode_krishna-lily_i_ponyatii_svayam_bhagavan
 record_id: 1982.01.18.B2
 title: О природе кришна-лилы и понятии «Сваям Бхагаван»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 193. 1982.01.18.B2. О природе кришна-лилы и понятии «Сваям Бхагаван»
   index: "193"
   filename: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan.md
+  slug: 193-1982-01-18-b2-o-prirode-krishna-lily-i-ponyatii-svayam-bhagavan
 tags:
-  - title: Нама-санкиртан
-    slug: nama-sankirtan
   - title: Нама-санкиртан 8
     slug: nama-sankirtan-8
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1
     slug: sharanagati-1
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
     slug: shri-chajtanya-charitamrita-antya-lila-1-67
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
 ---

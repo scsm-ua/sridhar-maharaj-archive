@@ -1,5 +1,5 @@
 ---
-slug: 178-tsentry-drevnej-arijskoj-tsivilizatsii
+slug: 1983-01-12-b6_tsentry_drevney_ariyskoy_tsivilizatsii
 record_id: 1983.01.12.B6
 title: Центры древней арийской цивилизации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 178. Центры древней арийской цивилизации. 1983.01.12.B6
   index: "178"
   filename: 178-tsentry-drevnej-arijskoj-tsivilizatsii.md
+  slug: 178-tsentry-drevnej-arijskoj-tsivilizatsii
 ---
 
 — Махарадж, некоторые ученые верят, что… считают, что арии пришли в Индию. Вышли из Индии и вернулись в Индию. Две с лишним тысячи лет тому назад, но не пять тысяч лет.

@@ -1,5 +1,5 @@
 ---
-slug: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov
+slug: 1983-11-14-b6_proekt_bhagavad-gita_v_svete_bhagavatam_i_kniga_posvyashchennaya_biografiyam_vayshnavov
 record_id: 1983.11.14.B6
 title: Проект «Бхагавад-гита» в свете «Бхагаватам» и книга, посвященная
   биографиям вайшнавов
@@ -25,6 +25,7 @@ legacy:
     посвященная биографиям вайшнавов
   index: "1129"
   filename: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov.md
+  slug: 1129-1983-11-14-b6-proekt-bhagavad-gita-v-svete-bhagavatam-i-kniga-posvyashhennaya-biografiyam-vajshnavov
 ---
 
 **Госвами Махарадж:** Это — книга, посвященная жизни великих преданных.

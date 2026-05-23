@@ -1,5 +1,5 @@
 ---
-slug: 119-1982-05-09-b2-dlya-mahaprabhu-kazhdyj-holm-byl-govardhanom-a-kazhdyj-les-vrindavanom
+slug: 1982-05-09-b2_dlya_mahaprabhu_kazhdyy_holm_byl_govardhanom_a_kazhdyy_les_vrindavanom
 record_id: 1982.05.09.B2
 title: Для Махапрабху каждый холм был Говардханом, а каждый лес — Вриндаваном
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     лес — Вриндаваном
   index: "119"
   filename: 119-1982-05-09-b2-dlya-mahaprabhu-kazhdyj-holm-byl-govardhanom-a-kazhdyj-les-vrindavanom.md
+  slug: 119-1982-05-09-b2-dlya-mahaprabhu-kazhdyj-holm-byl-govardhanom-a-kazhdyj-les-vrindavanom
 ---
 
     вана декхи’ бхрама хайа— эи ‘вр̣нда̄вана’

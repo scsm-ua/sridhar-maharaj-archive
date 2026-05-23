@@ -1,5 +1,5 @@
 ---
-slug: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo
+slug: 1982-02-20-c7_materialnyy_um_ten_duhovnogo
 record_id: 1982.02.20.C7
 title: Материальный ум – тень духовного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.65
     slug: bhagavad-gita-18-65
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.137
     slug: shri-chajtanya-charitamrita-madhya-lila-13-137
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 585. 1982.02.20.C7. Материальный ум – тень духовного
   index: "585"
   filename: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo.md
+  slug: 585-1982-02-20-c7-materialnyj-um-ten-duhovnogo
 ---
 
 **Преданный:** Махарадж!

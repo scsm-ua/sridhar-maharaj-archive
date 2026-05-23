@@ -1,5 +1,5 @@
 ---
-slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
+slug: 1981-03-10-b4_gospod_odnovremenno_dalek_i_blizok
 record_id: 1981.03.10.B4
 title: Господь одновременно далек и близок
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,15 +23,12 @@ legacy:
   title: 969. 1981.03.10.B4. Господь одновременно далек и близок
   index: "969"
   filename: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok.md
+  slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.4
     slug: bhagavad-gita-9-4
   - title: Бхагавад-гита 9.5
     slug: bhagavad-gita-9-5
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.35
     slug: shrimad-bhagavatam-2-9-35
 ---

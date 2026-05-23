@@ -1,5 +1,5 @@
 ---
-slug: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti
+slug: 1983-01-10-a4_dva_tipa_naslazhdeniya_otrecheniya_i_predannosti
 record_id: 1983.01.10.A4
 title: Два типа наслаждения, отречения и преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 657. 1983.01.10.A4. Два типа наслаждения, отречения и преданности
   index: "657"
   filename: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti.md
+  slug: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 ---

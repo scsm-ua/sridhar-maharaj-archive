@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-302
 refs:
   - ../../40-bog-i-bogi/693-1981-03-01-b4-filosofskie-aspekty-lichnosti-brahmy.md
   - ../../_full/1981/03/1981.03.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.302
     slug: shri-chajtanya-charitamrita-madhya-lila-20-302
 ---

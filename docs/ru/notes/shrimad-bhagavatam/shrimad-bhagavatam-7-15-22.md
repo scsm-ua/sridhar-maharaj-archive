@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-7-15-22
 refs:
   - ../../_full/1981/12/1981.12.29.B.C.md
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.15.22
     slug: shrimad-bhagavatam-7-15-22
 ---

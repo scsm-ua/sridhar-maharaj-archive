@@ -1,5 +1,5 @@
 ---
-slug: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami
+slug: 1982-04-18-a3_printsip_parakii_v_nastavlenii_raghunathu_dasu_gosvami
 record_id: 1982.04.18.A3
 title: Принцип паракии в наставлении Рагхунатху Дасу Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 949. 1982.04.18.A3. Принцип паракии в наставлении Рагхунатху Дасу Госвами
   index: "949"
   filename: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami.md
+  slug: 949-1982-04-18-a3-printsip-parakii-v-nastavlenii-raghunathu-dasu-gosvami
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.238
     slug: shri-chajtanya-charitamrita-madhya-lila-16-238
 ---

@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/04/1982.04.28.A.B.md
   - ../../_full/1982/12/1982.12.09.B.C.md
   - ../../_full/1982/12/1982.12.25.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.22
     slug: bhagavad-gita-6-22
 ---

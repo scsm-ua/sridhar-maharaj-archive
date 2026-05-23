@@ -1,5 +1,5 @@
 ---
-slug: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry
+slug: 1981-08-14-a1_o_poluchenii_gayatri-mantry
 record_id: 1981.08.14.A1
 title: О получении гаятри-мантры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 496. 1981.08.14.A1. О получении гаятри-мантры
   index: "496"
   filename: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry.md
+  slug: 496-1981-08-14-a1-o-poluchenii-gayatri-mantry
 ---
 
 **Преданный читает письмо:**

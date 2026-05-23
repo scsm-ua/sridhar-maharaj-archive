@@ -1,5 +1,5 @@
 ---
-slug: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye
+slug: 1982-02-20-b5-c1_nishozhdenie_chaytani_v_raznye_epohi_opustoshenie_vselennoy
 record_id: 1982.02.20.B5.C1
 title: Нисхождение Чайтаньи в разные эпохи. Опустошение вселенной.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     вселенной
   index: "099"
   filename: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye.md
+  slug: 099-1982-02-20-v5-s1-nishozhdenie-chajtani-v-raznye
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.

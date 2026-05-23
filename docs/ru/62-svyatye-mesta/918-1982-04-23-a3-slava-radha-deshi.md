@@ -1,5 +1,5 @@
 ---
-slug: 918-1982-04-23-a3-slava-radha-deshi
+slug: 1982-04-23-a3_slava_radha-deshi
 record_id: 1982.04.23.A3
 title: Слава Радха-деши
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 918. 1982.04.23.A3. Слава Радха-деши
   index: "918"
   filename: 918-1982-04-23-a3-slava-radha-deshi.md
+  slug: 918-1982-04-23-a3-slava-radha-deshi
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?

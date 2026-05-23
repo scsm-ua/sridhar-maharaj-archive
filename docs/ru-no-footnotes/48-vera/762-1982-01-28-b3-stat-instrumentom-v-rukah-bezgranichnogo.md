@@ -1,5 +1,5 @@
 ---
-slug: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo
+slug: 1982-01-28-b3_stat_instrumentom_v_rukah_bezgranichnogo
 record_id: 1982.01.28.B3
 title: Стать инструментом в руках Безграничного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 762. 1982.01.28.B3. Стать инструментом в руках Безграничного
   index: "762"
   filename: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo.md
+  slug: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo
 ---
 
 Его воля.

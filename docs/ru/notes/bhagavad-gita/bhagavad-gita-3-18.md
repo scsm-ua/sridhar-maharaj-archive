@@ -5,9 +5,10 @@ refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity.md
   - ../../_full/1982/05/1982.05.11.B2.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.18
     slug: bhagavad-gita-3-18
 ---

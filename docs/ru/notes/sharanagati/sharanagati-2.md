@@ -2,9 +2,10 @@
 slug: sharanagati-2
 refs:
   - ../../_full/1983/08/1983.08.19.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 2
     slug: sharanagati-2
 ---

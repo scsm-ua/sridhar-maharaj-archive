@@ -6,9 +6,10 @@ refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati.md
   - ../../_full/1981/11/1981.11.29.md
   - ../../_full/1982/06/1982.06.14.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
     slug: shri-chajtanya-charitamrita-madhya-lila-22-17
 ---

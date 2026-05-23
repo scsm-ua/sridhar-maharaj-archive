@@ -5,9 +5,10 @@ refs:
   - ../../51-filosofiya-i-praktika-bhakti-yogi/790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
   - ../../51-filosofiya-i-praktika-bhakti-yogi/792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 ---

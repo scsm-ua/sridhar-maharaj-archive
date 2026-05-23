@@ -1,5 +1,5 @@
 ---
-slug: 141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki
+slug: 1982-04-27-b2-c1_kommentarii_ko_vtoromu_tretemu_i_chetvertomu_stiham_shikshashtaki
 record_id: 1982.04.27.B2.C1
 title: Комментарии ко второму, третьему и четвертому стихам «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     стихам «Шикшаштаки»
   index: "141"
   filename: 141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki.md
+  slug: 141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki
 ---
 
 Сегодня меня попросили рассказать о второй *шлоке* «Шикшаштаки». Я начну с этого.

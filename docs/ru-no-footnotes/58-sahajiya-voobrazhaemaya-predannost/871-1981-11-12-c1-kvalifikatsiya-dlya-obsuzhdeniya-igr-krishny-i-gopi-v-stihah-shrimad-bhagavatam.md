@@ -1,5 +1,5 @@
 ---
-slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
+slug: 1981-11-12-c1_kvalifikatsiya_dlya_obsuzhdeniya_igr_krishny_i_gopi_v_stihah_shrimad_bhagavatam
 record_id: 1981.11.12.C1
 title: Квалификация для обсуждения игр Кришны и гопи в стихах Шримад Бхагаватам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     стихах Шримад Бхагаватам
   index: "871"
   filename: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam.md
+  slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
 ---
 
 **Преданный:** Махарадж, вы знаете этих двоих *санньяси*? Они оба ученики Свами Махараджа.

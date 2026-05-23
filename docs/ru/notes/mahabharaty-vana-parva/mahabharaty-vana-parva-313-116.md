@@ -2,9 +2,10 @@
 slug: mahabharaty-vana-parva-313-116
 refs:
   - ../../_full/1982/12/1982.12.14.B.md
-tags:
+scriptures:
   - title: «Махабхараты», Вана-парва
     slug: mahabharaty-vana-parva
+verses:
   - title: «Махабхараты», Вана-парва 313.116
     slug: mahabharaty-vana-parva-313-116
 ---

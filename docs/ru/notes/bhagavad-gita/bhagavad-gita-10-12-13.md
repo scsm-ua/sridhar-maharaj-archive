@@ -3,9 +3,10 @@ slug: bhagavad-gita-10-12-13
 refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity.md
   - ../../_full/1982/04/1982.04.18.A1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 10.12–13
     slug: bhagavad-gita-10-12-13
 ---

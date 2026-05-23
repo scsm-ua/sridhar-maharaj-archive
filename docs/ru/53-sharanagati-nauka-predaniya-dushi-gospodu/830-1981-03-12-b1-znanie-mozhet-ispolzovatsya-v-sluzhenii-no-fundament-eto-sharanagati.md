@@ -1,5 +1,5 @@
 ---
-slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
+slug: 1981-03-12-b1_znanie_mozhet_ispolzovatsya_v_sluzhenii_no_fundament_eto_sharanagati
 record_id: 1981.03.12.B1
 title: Знание может использоваться в служении, но фундамент – это шаранагати
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,30 +15,20 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
     slug: shri-chajtanya-charitamrita-madhya-lila-22-17
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.7
     slug: shrimad-bhagavatam-1-2-7
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.117
     slug: shri-chajtanya-charitamrita-adi-lila-2-117
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.8
     slug: shri-chajtanya-charitamrita-madhya-lila-11-8
-  - title: Шри Чайтанья-чандродая-натака
-    slug: shri-chajtanya-chandrodaya-nataka
   - title: Шри Чайтанья-чандродая-натака 8.23
     slug: shri-chajtanya-chandrodaya-nataka-8-23
 links:
@@ -53,6 +43,7 @@ legacy:
     – это шаранагати
   index: "830"
   filename: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati.md
+  slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
 ---
 
     бхакти-мукха-нирӣкш̣ака карма-йога-джн̃а̄на

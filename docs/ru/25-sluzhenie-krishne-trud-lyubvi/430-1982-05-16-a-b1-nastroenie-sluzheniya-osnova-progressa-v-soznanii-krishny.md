@@ -1,5 +1,5 @@
 ---
-slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
+slug: 1982-05-16-a-b1_nastroenie_sluzheniya_osnova_progressa_v_soznanii_krishny
 record_id: 1982.05.16.A.B1
 title: Настроение служения – основа прогресса в Сознании Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,14 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: Гоптритве варана
-    slug: goptritve-varana
   - title: Гоптритве варана 1–5
     slug: goptritve-varana-1-5
   - title: Шримад-Бхагаватам 2.1.2
@@ -47,6 +39,7 @@ legacy:
     Кришны
   index: "430"
   filename: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny.md
+  slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
 ---
 
 **Преданный:** Гурудев!

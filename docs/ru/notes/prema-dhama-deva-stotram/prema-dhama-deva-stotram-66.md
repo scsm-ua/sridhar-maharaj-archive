@@ -6,9 +6,10 @@ refs:
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
   - ../../_full/1982/05/1982.05.13.B.C.md
   - ../../_full/1983/03/1983.03.28.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 66
     slug: prema-dhama-deva-stotram-66
 ---

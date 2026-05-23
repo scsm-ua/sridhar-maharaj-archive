@@ -1,5 +1,5 @@
 ---
-slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
+slug: 1983-01-02-b_mir_mnozhestva_hristov_kommentariy_k_istorii_padeniya_adama_i_evy
 record_id: 1983.01.02.B
 title: Мир множества Христов. Комментарий к истории падения Адама и Евы.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,33 +24,24 @@ legacy:
     Адама и Евы
   index: "903"
   filename: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy.md
+  slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.19.18
     slug: shrimad-bhagavatam-11-19-18
   - title: Шримад-Бхагаватам 1.1.1–3
     slug: shrimad-bhagavatam-1-1-1-3
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.57

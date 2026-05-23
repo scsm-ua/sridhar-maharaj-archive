@@ -2,9 +2,10 @@
 slug: shri-guru-parampara-5
 refs:
   - ../../_full/1981/10/1981.10.10.B1.md
-tags:
+scriptures:
   - title: Шри Гуру-парампара
     slug: shri-guru-parampara
+verses:
   - title: Шри Гуру-парампара 5
     slug: shri-guru-parampara-5
 ---

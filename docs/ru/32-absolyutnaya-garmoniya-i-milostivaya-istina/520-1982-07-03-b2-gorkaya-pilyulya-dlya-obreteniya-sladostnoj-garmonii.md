@@ -1,5 +1,5 @@
 ---
-slug: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii
+slug: 1982-07-03-b2_gorkaya_pilyulya_dlya_obreteniya_sladostnoy_garmonii
 record_id: 1982.07.03.B2
 title: Горькая пилюля для обретения сладостной гармонии
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,16 @@ legacy:
   title: 520. 1982.07.03.B2. Горькая пилюля для обретения сладостной гармонии
   index: "520"
   filename: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii.md
+  slug: 520-1982-07-03-b2-gorkaya-pilyulya-dlya-obreteniya-sladostnoj-garmonii
 tags:
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
     slug: shri-chajtanya-charitamrita-madhya-lila-22-16
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35
     slug: bhakti-rasamrita-sindhu-3-2-35
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
+slug: 1982-02-22-b3_vstrecha_krishny_i_radharani_na_kurukshetre_sokrovennyy_smysl_molitv_gopi
 record_id: 1982.02.22.B3
 title: Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,38 +15,24 @@ category:
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.81
     slug: shri-chajtanya-charitamrita-madhya-lila-1-81
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.136
     slug: shri-chajtanya-charitamrita-madhya-lila-13-136
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 8.26
     slug: shri-shri-prapanna-dzhivanamritam-8-26
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.48
     slug: shrimad-bhagavatam-10-82-48
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
     slug: shri-chajtanya-charitamrita-adi-lila-4-23
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
@@ -77,6 +63,7 @@ legacy:
     смысл молитв гопи
   index: "481"
   filename: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
+  slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
 ---
 
 Когда Радхарани встречает Кришну на Курукшетре, Ее ум стремится во Вриндаван. Она говорит: «Ты здесь, но Мой ум стремится во Вриндаван». Почему? Вриндаван обладает значимой ролью в этой *лиле*. Вриндаван. Что такое Вриндаван? Это пейзажи. Это Ямуна, вода, лес, птицы, крики павлинов, коровы, пастухи, Говардхан, пещеры Говардхана, а также мать и иные родственники. Все это прекрасно устроено ради Их цели, Радхи и Кришны. Это сцена, и Радха стремится вновь быть на этой сцене в Его обществе.

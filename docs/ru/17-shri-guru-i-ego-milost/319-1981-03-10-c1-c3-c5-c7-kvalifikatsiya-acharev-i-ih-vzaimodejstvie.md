@@ -1,5 +1,5 @@
 ---
-slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
+slug: 1981-03-10-c1-c3-c5-c7_kvalifikatsiya_acharev_i_ih_vzaimodeystvie
 record_id: 1981.03.10.C1.C3.C5.C7
 title: Квалификация ачарьев и их взаимодействие
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.21
     slug: shrimad-bhagavatam-11-3-21
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.2.12
     slug: mundaka-upanishad-1-2-12
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 319. 1981.03.10.C1.C3.C5.C7. Квалификация ачарьев и их взаимодействие
   index: "319"
   filename: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie.md
+  slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
 ---
 
 **Госвами Махарадж:** Другой вопрос таков: говорится, что гуру выше дисциплины.

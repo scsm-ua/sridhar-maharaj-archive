@@ -1,5 +1,5 @@
 ---
-slug: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu
+slug: 1982-06-17-b_nastroenie_shrily_dzhivy_gosvami_prisushche_vsemu_gaudiya_mathu
 record_id: 1982.06.17.B
 title: Настроение Шрилы Дживы Госвами присуще всему Гаудия Матху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 950. 1982.06.17.B. Настроение Шрилы Дживы Госвами присуще всему Гаудия Матху
   index: "950"
   filename: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu.md
+  slug: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu
 tags:
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 7
     slug: shri-shri-prabhupada-padma-stavakah-7
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
+slug: 1983-01-30-a1_metod_dlya_obreteniya_svyazi_s_vysshim_mirom
 record_id: 1983.01.30.A1
 title: Метод для обретения связи с высшим миром
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 444. 1983.01.30.A1. Метод для обретения связи с высшим миром
   index: "444"
   filename: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom.md
+  slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
 ---
 
 **Преданный:** Гуру Махарадж, существует ли какая-то интересная история о том, как Божества Вриндавана — Радха-Говиндаджи, Радха-Гопинатх, Радха-Дамодар — все были перевезены в Джайпур?

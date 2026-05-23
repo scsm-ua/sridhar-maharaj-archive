@@ -2,9 +2,10 @@
 slug: acharya-vandana-15
 refs:
   - ../../_full/1981/03/1981.03.06.md
-tags:
+scriptures:
   - title: Ачарья вандана
     slug: acharya-vandana
+verses:
   - title: Ачарья вандана 15
     slug: acharya-vandana-15
 ---

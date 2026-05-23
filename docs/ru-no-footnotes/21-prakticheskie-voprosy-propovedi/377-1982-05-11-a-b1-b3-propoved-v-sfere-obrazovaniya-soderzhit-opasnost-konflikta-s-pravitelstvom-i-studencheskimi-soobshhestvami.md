@@ -1,5 +1,5 @@
 ---
-slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
+slug: 1982-05-11-a-b1-b3_propoved_v_sfere_obrazovaniya_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshchestvami
 record_id: 1982.05.11.A.B1.B3
 title: Проповедь в сфере образования содержит опасность конфликта с
   правительством и студенческими сообществами
@@ -28,6 +28,7 @@ legacy:
     конфликта с правительством и студенческими сообществами
   index: "377"
   filename: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami.md
+  slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
 ---
 
 **Шрила Шридхар Махарадж:** Ты хотел поговорить о его предполагаемом университете, да?

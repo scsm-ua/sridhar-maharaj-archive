@@ -1,5 +1,5 @@
 ---
-slug: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej
+slug: 1982-02-23-c5-d_maya_mozhet_deystvovat_ne_tolko_cherez_vragov_no_i_cherez_druzey
 record_id: 1982.02.23.C5.D
 title: Майа может действовать не только через врагов, но и через друзей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     через друзей
   index: "710"
   filename: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej.md
+  slug: 710-1982-02-23-c5-d-maja-mozhet-dejstvovat-ne-tolko-cherez-vragov-no-i-cherez-druzej
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.63
     slug: bhagavad-gita-18-63
 ---

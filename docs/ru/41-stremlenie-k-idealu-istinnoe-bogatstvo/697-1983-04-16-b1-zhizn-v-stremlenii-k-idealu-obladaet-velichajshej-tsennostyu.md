@@ -1,5 +1,5 @@
 ---
-slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
+slug: 1983-04-16-b1_zhizn_v_stremlenii_k_idealu_obladaet_velichayshey_tsennostyu
 record_id: 1983.04.16.B1
 title: Жизнь в стремлении к идеалу обладает величайшей ценностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 697. 1983.04.16.B1. Жизнь в стремлении к идеалу обладает величайшей ценностью
   index: "697"
   filename: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu.md
+  slug: 697-1983-04-16-b1-zhizn-v-stremlenii-k-idealu-obladaet-velichajshej-tsennostyu
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.80
     slug: shri-chajtanya-charitamrita-antya-lila-4-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
@@ -46,16 +39,10 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
     slug: shri-chajtanya-charitamrita-madhya-lila-19-98
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 99
     slug: padyavali-99
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
   - title: Бхагавад-гита 4.16

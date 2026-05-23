@@ -1,5 +1,5 @@
 ---
-slug: 86-shanta-rasa-i-parakiya-bhava-vo-vrindav
+slug: 1982-01-25-a3_shanta-rasa_i_parakiya-bhava_vo_vrindavane
 record_id: 1982.01.25.A3
 title: Шанта-раса и паракия-бхава во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 86. Шанта-раса и паракия-бхава во Вриндаване. 1982.01.25.A3
   index: "86"
   filename: 86-shanta-rasa-i-parakiya-bhava-vo-vrindav.md
+  slug: 86-shanta-rasa-i-parakiya-bhava-vo-vrindav
 ---
 
 **Преданный:** То есть восемьдесят четыре лакха форм жизни — это всего лишь идеи?

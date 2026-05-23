@@ -1,5 +1,5 @@
 ---
-slug: 209-1981-12-01-chto-takoe-vedy
+slug: 1981-12-01_chto_takoe_vedy
 record_id: 1981.12.01
 title: Что такое Веды?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 209. 1981.12.01. Что такое Веды?
   index: "209"
   filename: 209-1981-12-01-chto-takoe-vedy.md
+  slug: 209-1981-12-01-chto-takoe-vedy
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
 ---

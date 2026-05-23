@@ -3,6 +3,7 @@
 /// TODO: – use short between 1-2 => 1–2 
 
 const { Footnote } = require("./Footnote");
+const fs = require('fs');
 const { stringify, parse } = require('yaml');
 
 const yml_re = /^---\n([\s\S]*?)\n---[ \t]*\n*/m;
@@ -33,6 +34,10 @@ class DocumentFile {
 
         var lines = content.split('\n');
         this.nodes = this.getLevel1Nodes(lines);
+
+        // if (this.filename === '../docs/ru/_full/1982/01/1982.01.09.md') {
+        //     fs.writeFileSync('debug-nodes.json', JSON.stringify(this.nodes, null, 4));
+        // }
         
         var footnotes_nodes = this.getFootnotesNodes(this.nodes);
         footnotes_nodes.forEach(nodes => {
@@ -94,7 +99,7 @@ class DocumentFile {
 
             if (f.file) {
                 this.meta.tags = this.meta.tags || [];
-                var tags = f.file.getTags();
+                var tags = f.file.getVersesTags();
                 tags.forEach(tag => {
                     if (!this.meta.tags.find(t => t.slug === tag.slug)) {
                         this.meta.tags.push(tag);

@@ -1,5 +1,5 @@
 ---
-slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+slug: 1982-03-08-b2_srok_zhizni_neavtoritetnyh_duhovnyh_techeniy_kratok
 record_id: 1982.03.08.B2
 title: Срок жизни неавторитетных духовных течений краток
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
   index: "914"
   filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
+  slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
 ---
 
 Есть еще одна шлока в «Нарада-панчаратре» или в аналогичном произведении:

@@ -1,5 +1,5 @@
 ---
-slug: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam
+slug: 1982-02-19-e2_duhovnaya_gordynya_tri_priznaka_progressa_v_bhagavatam
 record_id: 1982.02.19.E2
 title: Духовная гордыня. Три признака прогресса в «Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 736. 1982.02.19.E2. Духовная гордыня. Три признака прогресса в «Бхагаватам»
   index: "736"
   filename: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam.md
+  slug: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
 ---

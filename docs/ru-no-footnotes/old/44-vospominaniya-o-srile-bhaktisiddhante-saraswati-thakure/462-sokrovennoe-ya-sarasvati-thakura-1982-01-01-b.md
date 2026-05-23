@@ -1,5 +1,5 @@
 ---
-slug: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b
+slug: 1982-01-01-b_sokrovennoe_ya_sarasvati_thakura
 record_id: 1982.01.01.B
 title: Сокровенное «Я» Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 462. Сокровенное «Я» Сарасвати Тхакура. 1982.01.01.B
   index: "462"
   filename: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b.md
+  slug: 462-sokrovennoe-ya-sarasvati-thakura-1982-01-01-b
 ---
 
 *#00:00:00#*

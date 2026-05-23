@@ -1,5 +1,5 @@
 ---
-slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
+slug: 1981-08-31-b1_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
 record_id: 1981.08.31.B1
 title: Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     к поиску Шри Кришны
   index: "010"
   filename: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny.md
+  slug: 010_1981-08-31-b1_sridharmj_gopi_bhagavatam_gayatri_i_mantra_om_prizyvayut_k_poisku_shri_krishny
 ---
 
 Поиск *расы*, *анандам*, красоты, очарования, а не знания, основанного на расчете, подобно знанию Параматмы.

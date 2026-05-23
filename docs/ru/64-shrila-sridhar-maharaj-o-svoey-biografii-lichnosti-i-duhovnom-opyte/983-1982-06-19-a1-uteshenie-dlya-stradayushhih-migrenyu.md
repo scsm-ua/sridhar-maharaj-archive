@@ -1,5 +1,5 @@
 ---
-slug: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu
+slug: 1982-06-19-a1_uteshenie_dlya_stradayushchih_migrenyu
 record_id: 1982.06.19.A1
 title: Утешение для страдающих мигренью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,16 @@ legacy:
   title: 983. 1982.06.19.A1. Утешение для страдающих мигренью
   index: "983"
   filename: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu.md
+  slug: 983-1982-06-19-a1-uteshenie-dlya-stradayushhih-migrenyu
 tags:
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.138
     slug: shri-chajtanya-charitamrita-madhya-lila-20-138
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.136
     slug: shri-chajtanya-charitamrita-madhya-lila-25-136
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.21
     slug: shrimad-bhagavatam-11-14-21
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.53
     slug: bhagavad-gita-11-53
 ---

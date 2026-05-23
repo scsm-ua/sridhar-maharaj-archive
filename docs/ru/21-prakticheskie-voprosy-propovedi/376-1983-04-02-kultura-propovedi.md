@@ -1,5 +1,5 @@
 ---
-slug: 376-1983-04-02-kultura-propovedi
+slug: 1983-04-02_kultura_propovedi
 record_id: 1983.04.02
 title: Культура проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Проповедь
     slug: propoved
-  - title: Кабе муи вайшнава чинибо
-    slug: kabe-mui-vajshnava-chinibo
   - title: Кабе муи вайшнава чинибо 6
     slug: kabe-mui-vajshnava-chinibo-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 376. 1983.04.02. Культура проповеди
   index: "376"
   filename: 376-1983-04-02-kultura-propovedi.md
+  slug: 376-1983-04-02-kultura-propovedi
 ---
 
 **Госвами Махарадж:** Когда Шрилу Бхактисиддханту Сарасвати Тхакура сопровождали во Вриндаване его спутники, которые были одеты в западные одежды (в западные пиджаки и прочее), какой была идея, что стояло за этим?

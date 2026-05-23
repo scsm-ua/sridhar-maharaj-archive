@@ -1,5 +1,5 @@
 ---
-slug: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy
+slug: 1982-02-17-a1_vzor_lyubyashchego_hranitelya_glavnaya_mantra_rigvedy
 record_id: 1982.02.17.A1
 title: «Взор любящего Хранителя» — главная мантра Ригведы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,8 +17,6 @@ tags:
     slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
-  - title: Таиттирийа-упанишад
-    slug: taittirija-upanishad
   - title: Таиттирийа-упанишад 2.4.1
     slug: taittirija-upanishad-2-4-1
 links:
@@ -32,6 +30,7 @@ legacy:
   title: 406. 1982.02.17.A1. «Взор любящего Хранителя» — главная мантра Ригведы
   index: "406"
   filename: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy.md
+  slug: 406-1982-02-17-a1-vzor-lyubyashhego-hranitelya-glavnaya-mantra-rigvedy
 ---
 
 Ригведа-мантра гласит:

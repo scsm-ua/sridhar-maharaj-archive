@@ -10,9 +10,10 @@ refs:
   - ../../_full/1982/12/1982.12.14.B.md
   - ../../_full/1983/10/1983.10.31.A.md
   - ../../_full/1983/12/1983.12.22.B.C.md
-tags:
+scriptures:
   - title: Мукта Чаритра
     slug: mukta-charitra
+verses:
   - title: Мукта Чаритра 4
     slug: mukta-charitra-4
 ---

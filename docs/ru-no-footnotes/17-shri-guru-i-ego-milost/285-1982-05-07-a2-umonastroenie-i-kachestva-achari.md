@@ -1,5 +1,5 @@
 ---
-slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
+slug: 1982-05-07-a2_umonastroenie_i_kachestva_achari
 record_id: 1982.05.07.A2
 title: Умонастроение и качества ачарьи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 285. 1982.05.07.A2. Умонастроение и качества ачарьи
   index: "285"
   filename: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari.md
+  slug: 285-1982-05-07-a2-umonastroenie-i-kachestva-achari
 ---
 
 **Преданный:** Однажды вы сказали, что если доступно семя высокого качества, особое семя, его следует сажать первым.

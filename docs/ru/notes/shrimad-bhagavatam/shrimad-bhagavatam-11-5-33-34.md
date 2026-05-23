@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-11-5-33-34
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/070_1983-04-16-b2-c_sridharmj_predskazaniya_o_prihode_mahaprabhu.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.5.33–34
     slug: shrimad-bhagavatam-11-5-33-34
 ---

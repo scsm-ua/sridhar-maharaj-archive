@@ -1,5 +1,5 @@
 ---
-slug: 984-1982-01-02-a-shrila-shridhar-maharadzh-o-svoej-lichnosti-i-goroskope
+slug: 1982-01-02-a_shrila_shridhar_maharadzh_o_svoey_lichnosti_i_goroskope
 record_id: 1982.01.02.A
 title: Шрила Шридхар Махарадж о своей личности и гороскопе
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 984. 1982.01.02.A. Шрила Шридхар Махарадж о своей личности и гороскопе
   index: "984"
   filename: 984-1982-01-02-a-shrila-shridhar-maharadzh-o-svoej-lichnosti-i-goroskope.md
+  slug: 984-1982-01-02-a-shrila-shridhar-maharadzh-o-svoej-lichnosti-i-goroskope
 ---
 
 **Преданный:** Махарадж, я всегда думал: наш Гурудев имел некое особое сокровище, но он не открывал это сокровище. Я думаю, что он оставил это сокровище у вас.

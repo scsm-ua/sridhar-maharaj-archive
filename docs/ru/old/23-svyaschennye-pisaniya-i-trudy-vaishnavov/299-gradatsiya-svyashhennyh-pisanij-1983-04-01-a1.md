@@ -1,5 +1,5 @@
 ---
-slug: 299-gradatsiya-svyashhennyh-pisanij-1983-04-01-a1
+slug: 1983-04-01-a1_gradatsiya_svyashchennyh_pisaniy
 record_id: 1983.04.01.A1
 title: Градация священных писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 299. Градация священных писаний. 1983.04.01.A1
   index: "299"
   filename: 299-gradatsiya-svyashhennyh-pisanij-1983-04-01-a1.md
+  slug: 299-gradatsiya-svyashhennyh-pisanij-1983-04-01-a1
 ---
 
 *#00:00:00#*

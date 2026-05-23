@@ -11,9 +11,10 @@ refs:
   - ../../_full/1982/12/1982.12.06.A.B.md
   - ../../_full/1983/10/1983.10.27.A.B.C.md
   - ../../_full/1983/11/1983.11.09.A.B.C1.md
-tags:
+scriptures:
   - title: Акродха парамананда
     slug: akrodha-paramananda
+verses:
   - title: Акродха парамананда 4
     slug: akrodha-paramananda-4
 ---

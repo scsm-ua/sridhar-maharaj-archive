@@ -5,9 +5,10 @@ refs:
   - ../../_full/1981/08/1981.08.28.C.md
   - ../../_full/1983/10/1983.10.27.A.B.C.md
   - ../../_full/1987/1987.XX.01.md
-tags:
+scriptures:
   - title: Шри рупануга-махатмья
     slug: shri-rupanuga-mahatmya
+verses:
   - title: Шри рупануга-махатмья 17.4
     slug: shri-rupanuga-mahatmya-17-4
 ---

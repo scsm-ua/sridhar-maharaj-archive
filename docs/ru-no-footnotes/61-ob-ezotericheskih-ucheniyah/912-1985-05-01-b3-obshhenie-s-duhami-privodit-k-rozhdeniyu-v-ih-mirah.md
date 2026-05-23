@@ -1,5 +1,5 @@
 ---
-slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
+slug: 1985-05-01-b3_obshchenie_s_duhami_privodit_k_rozhdeniyu_v_ih_mirah
 record_id: 1985.05.01.B3
 title: Общение с духами приводит к рождению в их мирах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 912. 1985.05.01.B3. Общение с духами приводит к рождению в их мирах
   index: "912"
   filename: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah.md
+  slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
 ---
 
 **Деви Даси Тунгавидья:** У меня есть вопрос.

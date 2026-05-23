@@ -1,5 +1,5 @@
 ---
-slug: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany
+slug: 1982-06-05-a2-b_napadeniya_na_propovednikov_gaudiya_matha_vo_vremya_sankirtany
 record_id: 1982.06.05.A2.B
 title: Нападения на проповедников Гаудия Матха во время санкиртаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     санкиртаны
   index: "1015"
   filename: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany.md
+  slug: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany
 ---
 
 **Шрила Шридхар Махарадж:** Вы слышали о том, что вчера вечером приходили они, некие люди, и какие-то мальчишки бросили, швырнули большой камень или кусок чего-то в голову Дашаратхи Суты?

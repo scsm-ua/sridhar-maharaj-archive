@@ -5,9 +5,10 @@ refs:
   - ../../_full/1983/07/1983.07.08.md
   - ../../_full/1983/08/1983.08.08.B.md
   - ../../_full/1983/10/1983.10.21.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.24
     slug: bhagavad-gita-2-24
 ---

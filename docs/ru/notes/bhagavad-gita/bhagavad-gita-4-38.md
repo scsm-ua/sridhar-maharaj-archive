@@ -9,9 +9,10 @@ refs:
   - ../../_full/1983/07/1983.07.30.md
   - ../../_full/1983/10/1983.10.14.A.B.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.38
     slug: bhagavad-gita-4-38
 ---

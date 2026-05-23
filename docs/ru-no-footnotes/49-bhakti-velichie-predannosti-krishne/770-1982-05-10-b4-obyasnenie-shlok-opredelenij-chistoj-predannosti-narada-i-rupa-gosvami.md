@@ -1,5 +1,5 @@
 ---
-slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
+slug: 1982-05-10-b4_obyasnenie_shlok_opredeleniy_chistoy_predannosti_narada_i_rupa_gosvami
 record_id: 1982.05.10.B4
 title: Объяснение шлок — определений чистой преданности (Нарада и Рупа Госвами)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     (Нарада и Рупа Госвами)
   index: "770"
   filename: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami.md
+  slug: 770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami
 ---
 
 Махапрабху говорит:

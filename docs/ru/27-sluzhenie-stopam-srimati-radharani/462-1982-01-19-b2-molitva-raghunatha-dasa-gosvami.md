@@ -1,5 +1,5 @@
 ---
-slug: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami
+slug: 1982-01-19-b2_molitva_raghunatha_dasa_gosvami
 record_id: 1982.01.19.B2
 title: Молитва Рагхунатха даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 462. 1982.01.19.B2. Молитва Рагхунатха даса Госвами
   index: "462"
   filename: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami.md
+  slug: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami
 tags:
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
 ---

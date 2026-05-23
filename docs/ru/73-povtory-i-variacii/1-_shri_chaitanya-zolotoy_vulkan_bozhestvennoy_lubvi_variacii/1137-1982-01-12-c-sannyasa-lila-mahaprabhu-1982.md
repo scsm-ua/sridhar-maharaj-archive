@@ -1,5 +1,5 @@
 ---
-slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+slug: 1982-01-12-c_sannyasa-lila_mahaprabhu
 record_id: 1982.01.12.C
 title: Санньяса-лила Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,33 +23,24 @@ legacy:
   title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
   index: "1137"
   filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
+  slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.11
     slug: bhagavad-gita-4-11
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
   - title: Бхагавад-гита 10.8
     slug: bhagavad-gita-10-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
     slug: shri-chajtanya-charitamrita-madhya-lila-3-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.57
     slug: shrimad-bhagavatam-11-23-57
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25–26
     slug: shri-chajtanya-bhagavata-madhya-khanda-28-25-26
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.202
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-202
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.74
     slug: shri-chajtanya-charitamrita-adi-lila-7-74
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34

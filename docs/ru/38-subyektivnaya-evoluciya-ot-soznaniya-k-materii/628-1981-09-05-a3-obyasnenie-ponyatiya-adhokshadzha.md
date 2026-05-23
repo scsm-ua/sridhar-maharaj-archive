@@ -1,5 +1,5 @@
 ---
-slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
+slug: 1981-09-05-a3_obyasnenie_ponyatiya_adhokshadzha
 record_id: 1981.09.05.A3
 title: Объяснение понятия «Адхокшаджа»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,23 +23,16 @@ legacy:
   title: 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
   index: "628"
   filename: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
+  slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
     slug: shri-chajtanya-charitamrita-madhya-lila-19-137
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 1.1.5–6
     slug: manu-samhita-1-1-5-6
   - title: Шримад-Бхагаватам 1.13.47
@@ -57,7 +50,8 @@ tags:
 
 Не смешивай это явление с опытом твоих чувств, будь очень осторожен, очень осторожен. Не смешивай это явление с реалиями или событиями этого бренного мира. Вновь и вновь это предостережение повторяется.
 
-**Йато бхактир адхокш̣адже**[^_ftn2]
+    йато бхактир адхокш̣адже
+[^_ftn2]
 
 В полной мере осознавай: Тот, с кем ты собираешься иметь дело, никогда не может быть ограничен. Это явление обладает независимой природой.
 

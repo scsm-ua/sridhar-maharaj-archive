@@ -1,5 +1,5 @@
 ---
-slug: 1031-1983-11-06-a2-b-sokrovennoe-pismo-kundzhe-babu-ot-sarasvati-thakura
+slug: 1983-11-06-a2-b_sokrovennoe_pismo_kundzhe_babu_ot_sarasvati_thakura
 record_id: 1983.11.06.A2.B
 title: Сокровенное письмо Кундже Бабу от Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 1031. 1983.11.06.A2.B. Сокровенное письмо Кундже Бабу от Сарасвати Тхакура
   index: "1031"
   filename: 1031-1983-11-06-a2-b-sokrovennoe-pismo-kundzhe-babu-ot-sarasvati-thakura.md
+  slug: 1031-1983-11-06-a2-b-sokrovennoe-pismo-kundzhe-babu-ot-sarasvati-thakura
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.31
     slug: bhagavad-gita-9-31
 ---

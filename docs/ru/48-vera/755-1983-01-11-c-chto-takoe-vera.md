@@ -1,5 +1,5 @@
 ---
-slug: 755-1983-01-11-c-chto-takoe-vera
+slug: 1983-01-11-c_chto_takoe_vera
 record_id: 1983.01.11.C
 title: Что такое вера?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,26 +15,16 @@ category:
 tags:
   - title: Вера
     slug: vera
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.3.20
     slug: katha-upanishad-2-3-20
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
 links:
@@ -48,6 +38,7 @@ legacy:
   title: 755. 1983.01.11.C. Что такое вера?
   index: "755"
   filename: 755-1983-01-11-c-chto-takoe-vera.md
+  slug: 755-1983-01-11-c-chto-takoe-vera
 ---
 
 Что это? Что такое вера?

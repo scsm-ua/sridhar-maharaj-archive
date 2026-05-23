@@ -1,5 +1,5 @@
 ---
-slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
+slug: 1982-06-19-b6-c1_molitvy_gopi_v_razluke_raznoobraznye_smysly_stiha_tava_kathamritam
 record_id: 1982.06.19.B6.C1
 title: Молитвы гопи в разлуке. Разнообразные смыслы стиха «тава катхамритам…».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     «тава катхамритам…»
   index: "482"
   filename: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam.md
+  slug: 482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
     slug: shri-chajtanya-charitamrita-madhya-lila-14-13
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
@@ -43,16 +40,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-186
   - title: Шримад-Бхагаватам 1.7.10
     slug: shrimad-bhagavatam-1-7-10
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.93
     slug: shri-chajtanya-charitamrita-adi-lila-1-93
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
@@ -61,8 +52,6 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50

@@ -1,5 +1,5 @@
 ---
-slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
+slug: 1982-06-15-a3_o_sudbe_gyani_v_gite_bhagavatam_i_chaytanya-charitamrite_proslavlenie_bhakti_v_gite
 record_id: 1982.06.15.A3
 title: О судьбе гьяни в «Гите», «Бхагаватам» и «Чайтанья-чаритамрите».
   Прославление бхакти в «Гите».
@@ -16,14 +16,10 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 12.2
     slug: bhagavad-gita-12-2
   - title: Бхагавад-гита 12.5
     slug: bhagavad-gita-12-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -32,8 +28,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257
@@ -58,6 +52,7 @@ legacy:
     «Чайтанья-чаритамрите». Прославление бхакти в «Гите»
   index: "783"
   filename: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite.md
+  slug: 783-1982-06-15-a3-o-sudbe-gyani-v-gite-bhagavatam-i-chajtanya-charitamrite-proslavlenie-bhakti-v-gite
 ---
 
 **Акхаянанда Махарадж:** *Бхакти-йога* и *бхакти* как таковая: *бхакти-йога* — это то же самое, что *бхакти*, или присутствует тонкое различие?

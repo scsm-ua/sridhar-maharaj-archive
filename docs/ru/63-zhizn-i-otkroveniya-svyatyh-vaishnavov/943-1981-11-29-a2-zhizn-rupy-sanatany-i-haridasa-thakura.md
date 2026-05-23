@@ -1,5 +1,5 @@
 ---
-slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
+slug: 1981-11-29-a2_zhizn_rupy_sanatany_i_haridasa_thakura
 record_id: 1981.11.29.A2
 title: Жизнь Рупы, Санатаны и Харидаса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 943. 1981.11.29.A2. Жизнь Рупы, Санатаны и Харидаса Тхакура
   index: "943"
   filename: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
+  slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.211
     slug: shri-chajtanya-charitamrita-madhya-lila-1-211
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 11.65
     slug: shri-chajtanya-charitamrita-antya-lila-11-65
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94

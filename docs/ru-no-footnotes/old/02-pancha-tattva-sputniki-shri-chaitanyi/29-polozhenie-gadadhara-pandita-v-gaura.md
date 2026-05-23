@@ -1,5 +1,5 @@
 ---
-slug: 29-polozhenie-gadadhara-pandita-v-gaura
+slug: 1983-05-12-c1_polozhenie_gadadhara_pandita_v_gaura-lile
 record_id: 1983.05.12.C1
 title: Положение Гададхара Пандита в гаура-лиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -32,6 +32,7 @@ legacy:
   title: 29. Положение Гададхара Пандита в гаура-лиле. 1983.05.12.C1
   index: "29"
   filename: 29-polozhenie-gadadhara-pandita-v-gaura.md
+  slug: 29-polozhenie-gadadhara-pandita-v-gaura
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy
+slug: 1982-02-28-a4_ulybayushcheesya_litso_krishny_vyglyanet_iz-za_zavesy
 record_id: 1982.02.28.A4
 title: «Улыбающееся лицо Кришны выглянет из-за завесы»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 505. 1982.02.28.A4. «Улыбающееся лицо Кришны выглянет из-за завесы»
   index: "505"
   filename: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy.md
+  slug: 505-1982-02-28-a4-ulybayushheesya-litso-krishny-vyglyanet-iz-za-zavesy
 ---
 
 Онтология Прекрасной Реальности (часть 3.4)

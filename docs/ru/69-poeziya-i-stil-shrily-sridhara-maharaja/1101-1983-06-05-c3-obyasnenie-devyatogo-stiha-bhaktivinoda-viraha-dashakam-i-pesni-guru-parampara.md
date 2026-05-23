@@ -1,5 +1,5 @@
 ---
-slug: 1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara
+slug: 1983-06-05-c3_obyasnenie_devyatogo_stiha_bhaktivinoda-viraha-dashakam_i_pesni_guru-parampara
 record_id: 1983.06.05.C3
 title: Объяснение девятого стиха «Бхактивинода-вираха-дашакам» и песни
   «Гуру-парампара»
@@ -25,13 +25,10 @@ legacy:
     «Бхактивинода-вираха-дашакам» и песни «Гуру-парампара»
   index: "1101"
   filename: 1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara.md
+  slug: 1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara
 tags:
-  - title: Шримад Бхактивинода-вираха Дашакам
-    slug: shrimad-bhaktivinoda-viraha-dashakam
   - title: Шримад Бхактивинода-вираха Дашакам 9
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
-  - title: Шри Гуру-парампара
-    slug: shri-guru-parampara
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
   - title: Шри Гуру-парампара 7
@@ -40,8 +37,6 @@ tags:
     slug: shri-guru-parampara-8
   - title: Шри Гуру-парампара 9
     slug: shri-guru-parampara-9
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
 ---

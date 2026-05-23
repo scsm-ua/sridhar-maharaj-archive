@@ -1,5 +1,5 @@
 ---
-slug: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi
+slug: 1982-06-05-a3_podlinnyy_duhovnyy_vkus_vozmozhen_tolko_posle_stadii_nishthi
 record_id: 1982.06.05.A3
 title: Подлинный духовный вкус возможен только после стадии ништхи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     ништхи
   index: "718"
   filename: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi.md
+  slug: 718-1982-06-05-a3-podlinnyj-duhovnyj-vkus-vozmozhen-tolko-posle-stadii-nishthi
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.

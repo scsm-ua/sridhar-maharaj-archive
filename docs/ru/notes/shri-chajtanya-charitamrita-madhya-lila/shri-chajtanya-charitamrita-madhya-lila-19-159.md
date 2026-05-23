@@ -6,9 +6,10 @@ refs:
   - ../../43-trudnosti-i-duhovnyy-put-ispytaniya-mayi/706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
   - ../../_full/1983/02/1983.02.12.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.159
     slug: shri-chajtanya-charitamrita-madhya-lila-19-159
 ---

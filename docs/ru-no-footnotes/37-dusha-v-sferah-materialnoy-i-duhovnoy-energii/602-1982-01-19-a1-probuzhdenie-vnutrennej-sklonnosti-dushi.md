@@ -1,5 +1,5 @@
 ---
-slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
+slug: 1982-01-19-a1_probuzhdenie_vnutrenney_sklonnosti_dushi
 record_id: 1982.01.19.A1
 title: Пробуждение внутренней склонности души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 602. 1982.01.19.A1. Пробуждение внутренней склонности души
   index: "602"
   filename: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi.md
+  slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
 ---
 
 **Преданный:** Махарадж, Дас Госвами является *прайоджана-ачарьей*?

@@ -1,5 +1,5 @@
 ---
-slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
+slug: 1982-02-23-b1_poznav_odno_poznaesh_vse
 record_id: 1982.02.23.B1
 title: Познав Одно – познаешь все
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Вера
     slug: vera
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
@@ -44,6 +36,7 @@ legacy:
   title: 756. 1982.02.23.B1. Познав Одно – познаешь все
   index: "756"
   filename: 756-1982-02-23-b1-poznav-odno-poznaesh-vse.md
+  slug: 756-1982-02-23-b1-poznav-odno-poznaesh-vse
 ---
 
 *«Мгновения Прекрасной Реальности» (часть 6.1)*

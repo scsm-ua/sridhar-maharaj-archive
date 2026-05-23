@@ -1,5 +1,5 @@
 ---
-slug: 349-pochemu-vajshnavy-ne-ispolzuyut-misti
+slug: 1983-01-05-a1_pochemu_vayshnavy_ne_ispolzuyut_misticheskuyu_yogu
 record_id: 1983.01.05.A1
 title: Почему вайшнавы не используют мистическую йогу?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 349. Почему вайшнавы не используют мистическую йогу? 1983.01.05.A1
   index: "349"
   filename: 349-pochemu-vajshnavy-ne-ispolzuyut-misti.md
+  slug: 349-pochemu-vajshnavy-ne-ispolzuyut-misti
 ---
 
 *#00:00:00#*

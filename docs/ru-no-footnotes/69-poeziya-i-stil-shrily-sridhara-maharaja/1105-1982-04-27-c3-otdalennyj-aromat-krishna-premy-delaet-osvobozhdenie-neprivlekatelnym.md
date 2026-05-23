@@ -1,5 +1,5 @@
 ---
-slug: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym
+slug: 1982-04-27-c3_otdalennyy_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym
 record_id: 1982.04.27.C3
 title: Отдаленный аромат кришна-премы делает освобождение непривлекательным
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     непривлекательным
   index: "1105"
   filename: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym.md
+  slug: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол.

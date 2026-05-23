@@ -1,5 +1,5 @@
 ---
-slug: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti
+slug: 1982-07-16-b_govorit_iz_izmereniya_realnosti
 record_id: 1982.07.16.B
 title: Говорить из измерения Реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 772. 1982.07.16.B. Говорить из измерения Реальности
   index: "772"
   filename: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti.md
+  slug: 772-1982-07-16-b-govorit-iz-izmereniya-realnosti
 ---
 
 Мой Гуру Махарадж хотел, чтобы я поехал на Запад, но я не поехал.

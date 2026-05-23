@@ -3,9 +3,10 @@ slug: sharanagati-5
 refs:
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
   - ../../_full/1981/08/1981.08.20.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 5
     slug: sharanagati-5
 ---

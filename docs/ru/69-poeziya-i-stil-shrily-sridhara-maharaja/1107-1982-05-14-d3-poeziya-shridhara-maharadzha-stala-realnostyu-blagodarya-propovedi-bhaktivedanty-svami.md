@@ -1,5 +1,5 @@
 ---
-slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
+slug: 1982-05-14-d3_poeziya_shridhara_maharadzha_stala_realnostyu_blagodarya_propovedi_bhaktivedanty_svami
 record_id: 1982.05.14.D3
 title: Поэзия Шридхара Махараджа стала реальностью благодаря проповеди
   Бхактиведанты Свами
@@ -25,9 +25,8 @@ legacy:
     благодаря проповеди Бхактиведанты Свами
   index: "1107"
   filename: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami.md
+  slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
 tags:
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 11
     slug: shri-shri-prabhupada-padma-stavakah-11
 ---

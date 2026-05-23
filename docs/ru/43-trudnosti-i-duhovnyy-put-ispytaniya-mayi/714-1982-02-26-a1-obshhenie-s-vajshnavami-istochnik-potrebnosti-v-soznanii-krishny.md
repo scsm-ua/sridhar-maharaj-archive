@@ -1,5 +1,5 @@
 ---
-slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
+slug: 1982-02-26-a1_obshchenie_s_vayshnavami_istochnik_potrebnosti_v_soznanii_krishny
 record_id: 1982.02.26.A1
 title: Общение с вайшнавами – источник потребности в Сознании Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     Сознании Кришны
   index: "714"
   filename: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny.md
+  slug: 714-1982-02-26-a1-obshhenie-s-vajshnavami-istochnik-potrebnosti-v-soznanii-krishny
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.131
     slug: shri-chajtanya-charitamrita-madhya-lila-22-131
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.91
     slug: bhakti-rasamrita-sindhu-1-2-91
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.9.29
     slug: shrimad-bhagavatam-11-9-29
 ---

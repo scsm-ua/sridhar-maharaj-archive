@@ -1,5 +1,5 @@
 ---
-slug: 811-1982-02-21-a1-kirtan-prevoshodit-poklonenie-bozhestvam
+slug: 1982-02-21-a1_kirtan_prevoshodit_poklonenie_bozhestvam
 record_id: 1982.02.21.A1
 title: Киртан превосходит поклонение Божествам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 811. 1982.02.21.A1. Киртан превосходит поклонение Божествам
   index: "811"
   filename: 811-1982-02-21-a1-kirtan-prevoshodit-poklonenie-bozhestvam.md
+  slug: 811-1982-02-21-a1-kirtan-prevoshodit-poklonenie-bozhestvam
 ---
 
 *(Мгновения Прекрасной Реальности, часть 1.1)*

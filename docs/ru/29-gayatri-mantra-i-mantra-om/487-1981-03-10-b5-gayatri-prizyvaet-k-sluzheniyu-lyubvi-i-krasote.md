@@ -1,5 +1,5 @@
 ---
-slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
+slug: 1981-03-10-b5_gayatri_prizyvaet_k_sluzheniyu_lyubvi_i_krasote
 record_id: 1981.03.10.B5
 title: Гаятри призывает к служению Любви и Красоте
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Гаятри-мантра
     slug: gayatri-mantra
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
     slug: shri-chajtanya-charitamrita-madhya-lila-24-135
   - title: Шримад-Бхагаватам 2.10.6
@@ -40,6 +34,7 @@ legacy:
   title: 487. 1981.03.10.B5. Гаятри призывает к служению Любви и Красоте
   index: "487"
   filename: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote.md
+  slug: 487-1981-03-10-b5-gayatri-prizyvaet-k-sluzheniyu-lyubvi-i-krasote
 ---
 
     (йади) гаура на̄ хаита, табе ки хаита, кемане дхарита̄м де’

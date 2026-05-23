@@ -1,5 +1,5 @@
 ---
-slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
+slug: 1981-03-07-b2_predannyy_stremitsya_k_sluzheniyu_a_ne_k_osvobozhdeniyu
 record_id: 1981.03.07.B2
 title: Преданный стремится к служению, а не к освобождению
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
   index: "442"
   filename: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
+  slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
 ---
 
 **Преданный:** Позвольте спросить еще?

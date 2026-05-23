@@ -1,5 +1,5 @@
 ---
-slug: 314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy
+slug: 1983-06-10_uglublennoe_vospriyatie_guru-tattvy
 record_id: 1983.06.10
 title: Углубленное восприятие гуру-таттвы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,28 +15,18 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 10.15
     slug: shri-chajtanya-charitamrita-antya-lila-10-15
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
@@ -47,8 +37,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
@@ -68,6 +56,7 @@ legacy:
   title: 314. 1983.06.10. Углубленное восприятие гуру-таттвы
   index: "314"
   filename: 314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy.md
+  slug: 314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy
 ---
 
 Одни более преданны *кришна-лиле*, другие более склонны к *навадвипа-лиле*, третьи склонны принимать оба места. В *кришна-лиле* также: одни привлечены лагерем Радхарани, другие — лагерем Кришны, а третьи занимают промежуточное положение. Такого рода разделение мы находим, оно необходимо для *лилы*. Это устройство *Йога-майи*. В высочайшем измерении два вида обители мы находим: *кришна-лила* и *гаура-лила*, одинаковой ценности. В одной происходит транзакция (взаимодействие) в ограниченном круге, а в другом — транзакция, смыслом которой является распространение первого явления всем и каждому.

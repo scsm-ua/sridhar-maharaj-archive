@@ -2,9 +2,10 @@
 slug: prema-dhama-deva-stotram-67
 refs:
   - ../../_full/1981/11/1981.11.25.B.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 67
     slug: prema-dhama-deva-stotram-67
 ---

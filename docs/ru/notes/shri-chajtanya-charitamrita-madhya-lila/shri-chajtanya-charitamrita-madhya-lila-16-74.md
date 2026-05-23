@@ -4,9 +4,10 @@ refs:
   - ../../17-shri-guru-i-ego-milost/282-1981-03-02-a1-tri-tipa-guru-transformatsiya-vospriyatiya-guru.md
   - ../../_full/1981/03/1981.03.02.md
   - ../../_full/1981/10/1981.10.02.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.74
     slug: shri-chajtanya-charitamrita-madhya-lila-16-74
 ---

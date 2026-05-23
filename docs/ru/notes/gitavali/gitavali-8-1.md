@@ -8,9 +8,10 @@ refs:
   - ../../_full/1983/10/1983.10.22.A.md
   - ../../_full/1983/10/1983.10.29.B.md
   - ../../_full/1983/11/1983.11.12.A.B.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 2
     slug: gitavali-2
   - title: Гитавали 8–1

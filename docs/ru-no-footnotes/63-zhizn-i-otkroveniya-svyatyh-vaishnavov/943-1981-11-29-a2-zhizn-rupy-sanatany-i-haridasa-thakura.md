@@ -1,5 +1,5 @@
 ---
-slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
+slug: 1981-11-29-a2_zhizn_rupy_sanatany_i_haridasa_thakura
 record_id: 1981.11.29.A2
 title: Жизнь Рупы, Санатаны и Харидаса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 943. 1981.11.29.A2. Жизнь Рупы, Санатаны и Харидаса Тхакура
   index: "943"
   filename: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
+  slug: 943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura
 ---
 
 **Преданный:** Только что вы объяснили, как привести индусов, хинду к высшей цели — Кришне. Но что касается мусульман? Мусульман мы ведь тоже хотим привести к этой высшей цели — к Кришне.

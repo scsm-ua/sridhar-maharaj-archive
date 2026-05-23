@@ -1,5 +1,5 @@
 ---
-slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
+slug: 1982-01-01-b1_sokrovennoe_ya_sarasvati_thakura
 record_id: 1982.01.01.B1
 title: Сокровенное «Я» Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
   index: "1032"
   filename: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
+  slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол,

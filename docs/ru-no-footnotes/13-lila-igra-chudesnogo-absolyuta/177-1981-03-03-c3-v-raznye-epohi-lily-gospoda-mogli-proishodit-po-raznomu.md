@@ -1,5 +1,5 @@
 ---
-slug: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu
+slug: 1981-03-03-c3_v_raznye_epohi_lily_gospoda_mogli_proishodit_po-raznomu
 record_id: 1981.03.03.C3
 title: В разные эпохи лилы Господа могли происходить по-разному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 177. 1981.03.03.C3. В разные эпохи лилы Господа могли происходить по-разному
   index: "177"
   filename: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu.md
+  slug: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu
 ---
 
 **Преданный:** Хираньякашипу захватил планету Индры.

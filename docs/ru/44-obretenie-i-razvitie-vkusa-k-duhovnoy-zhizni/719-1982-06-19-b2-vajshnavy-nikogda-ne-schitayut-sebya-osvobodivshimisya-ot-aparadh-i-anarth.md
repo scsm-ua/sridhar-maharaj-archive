@@ -1,5 +1,5 @@
 ---
-slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
+slug: 1982-06-19-b2_vayshnavy_nikogda_ne_schitayut_sebya_osvobodivshimisya_ot_aparadh_i_anarth
 record_id: 1982.06.19.B2
 title: Вайшнавы никогда не считают себя освободившимися от апарадх и анартх
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     апарадх и анартх
   index: "719"
   filename: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth.md
+  slug: 719-1982-06-19-b2-vajshnavy-nikogda-ne-schitayut-sebya-osvobodivshimisya-ot-aparadh-i-anarth
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48

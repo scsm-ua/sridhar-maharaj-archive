@@ -1,5 +1,5 @@
 ---
-slug: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti
+slug: 1983-01-10-a4_dva_tipa_naslazhdeniya_otrecheniya_i_predannosti
 record_id: 1983.01.10.A4
 title: Два типа наслаждения, отречения и преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 657. 1983.01.10.A4. Два типа наслаждения, отречения и преданности
   index: "657"
   filename: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti.md
+  slug: 657-1983-01-10-a4-dva-tipa-naslazhdeniya-otrecheniya-i-predannosti
 ---
 
 **Преданный:** На днях вы говорили о том, как людей привлекает роскошь.

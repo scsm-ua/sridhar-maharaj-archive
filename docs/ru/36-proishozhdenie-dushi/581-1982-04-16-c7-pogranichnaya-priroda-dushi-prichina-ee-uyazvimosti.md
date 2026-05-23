@@ -1,5 +1,5 @@
 ---
-slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
+slug: 1982-04-16-c7_pogranichnaya_priroda_dushi_prichina_ee_uyazvimosti
 record_id: 1982.04.16.C7
 title: Пограничная природа души – причина ее уязвимости
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 581. 1982.04.16.C7. Пограничная природа души – причина ее уязвимости
   index: "581"
   filename: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti.md
+  slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
 ---

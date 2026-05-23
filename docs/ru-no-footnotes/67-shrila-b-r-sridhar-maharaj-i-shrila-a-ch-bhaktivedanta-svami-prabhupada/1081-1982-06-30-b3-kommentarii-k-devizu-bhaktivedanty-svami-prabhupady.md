@@ -1,5 +1,5 @@
 ---
-slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
+slug: 1982-06-30-b3_kommentarii_k_devizu_bhaktivedanty_svami_prabhupady
 record_id: 1982.06.30.B3
 title: Комментарии к девизу Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1081. 1982.06.30.B3. Комментарии к девизу Бхактиведанты Свами Прабхупады
   index: "1081"
   filename: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady.md
+  slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Харибол, Гаура-Харибол.

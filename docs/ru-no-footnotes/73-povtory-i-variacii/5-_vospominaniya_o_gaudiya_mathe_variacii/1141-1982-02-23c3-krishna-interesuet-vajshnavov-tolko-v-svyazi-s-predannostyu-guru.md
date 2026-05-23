@@ -1,5 +1,5 @@
 ---
-slug: 1141-1982-02-23c3-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
+slug: 1982-02-23_c3_krishna_interesuet_vayshnavov_tolko_v_svyazi_s_predannostyu_guru
 record_id: 1982.02.23
 title: C3. Кришна интересует вайшнавов только в связи с преданностью Гуру.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     преданностью Гуру
   index: "1141"
   filename: 1141-1982-02-23c3-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru.md
+  slug: 1141-1982-02-23c3-krishna-interesuet-vajshnavov-tolko-v-svyazi-s-predannostyu-guru
 ---
 
 *(«Мгновения Прекрасной Реальности», часть 6.7)*

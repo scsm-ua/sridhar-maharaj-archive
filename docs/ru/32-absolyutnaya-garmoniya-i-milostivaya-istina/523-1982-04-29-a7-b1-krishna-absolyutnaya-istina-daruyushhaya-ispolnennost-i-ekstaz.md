@@ -1,5 +1,5 @@
 ---
-slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
+slug: 1982-04-29-a7-b1_krishna_absolyutnaya_istina_daruyushchaya_ispolnennost_i_ekstaz
 record_id: 1982.04.29.A7.B1
 title: Кришна – Абсолютная Истина, дарующая исполненность и экстаз
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,18 @@ legacy:
     и экстаз
   index: "523"
   filename: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz.md
+  slug: 523-1982-04-29-a7-b1-krishna-absolyutnaya-istina-daruyushhaya-ispolnennost-i-ekstaz
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.10
     slug: shrimad-bhagavatam-1-5-10
   - title: Шримад-Бхагаватам 1.5.11
     slug: shrimad-bhagavatam-1-5-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 ---

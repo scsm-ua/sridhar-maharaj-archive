@@ -1,5 +1,5 @@
 ---
-slug: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha
+slug: 1981-08-27-a1-2_revolyutsionnost_i_konservatizm_v_nastroenii_bhaktivinoda_thakura_sarasvati_thakura_bhaktivedanty_svami_i_shridhara_maharadzha
 record_id: 1981.08.27.A1.2
 title: Революционность и консерватизм в настроении Бхактивинода Тхакура,
   Сарасвати Тхакура, Бхактиведанты Свами и Шридхара Махараджа
@@ -29,6 +29,7 @@ legacy:
     Махараджа
   index: "375"
   filename: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha.md
+  slug: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha
 ---
 
 Трудно, трудно занять правильную позицию по отношению к относительному и абсолютному суждениям (или началам), трудно расставить все на свои места, когда речь идет об относительном и абсолютном. В целом мы будем принимать относительное положение, но также помня, храня сознание абсолютной оценки. Абсолютная оценка (или абсолютное суждение) всегда выше, превосходит суждение (или платформу) относительного характера, но это рискованно. Относительное положение позволяет нам не опуститься, не деградировать.

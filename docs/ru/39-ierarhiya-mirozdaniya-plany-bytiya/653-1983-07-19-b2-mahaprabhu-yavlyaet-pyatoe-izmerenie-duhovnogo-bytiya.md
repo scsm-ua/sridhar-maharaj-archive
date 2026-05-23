@@ -1,5 +1,5 @@
 ---
-slug: 653-1983-07-19-b2-mahaprabhu-yavlyaet-pyatoe-izmerenie-duhovnogo-bytiya
+slug: 1983-07-19-b2_mahaprabhu_yavlyaet_pyatoe_izmerenie_duhovnogo_bytiya
 record_id: 1983.07.19.B2
 title: Махапрабху являет пятое измерение духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 653. 1983.07.19.B2. Махапрабху являет пятое измерение духовного бытия
   index: "653"
   filename: 653-1983-07-19-b2-mahaprabhu-yavlyaet-pyatoe-izmerenie-duhovnogo-bytiya.md
+  slug: 653-1983-07-19-b2-mahaprabhu-yavlyaet-pyatoe-izmerenie-duhovnogo-bytiya
 tags:
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.1.11
     slug: katha-upanishad-2-1-11
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
 ---

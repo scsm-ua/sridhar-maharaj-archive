@@ -1,5 +1,5 @@
 ---
-slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
+slug: 1982-04-16-a2-b1_dvizhenie_k_vysochayshey_istine_sladostno_nesmotrya_na_trudnosti
 record_id: 1982.04.16.A2.B1
 title: Движение к Высочайшей Истине сладостно, несмотря на трудности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     на трудности
   index: "707"
   filename: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti.md
+  slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
 ---

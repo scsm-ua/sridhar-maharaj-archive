@@ -1,5 +1,5 @@
 ---
-slug: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha
+slug: 1982-05-06-a4_kratkoe_obsuzhdenie_sambadhi_abhidei_i_prayodzhany_v_uchenii_shridhara_maharadzha
 record_id: 1982.05.06.A4
 title: Краткое обсуждение самбадхи, абхидеи и прайоджаны в учении Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     учении Шридхара Махараджа
   index: "1125"
   filename: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha.md
+  slug: 1125-1982-05-06-a4-kratkoe-obsuzhdenie-sambadhi-abhidei-i-prajodzhany-v-uchenii-shridhara-maharadzha
 ---
 
 **Госвами Махарадж:** Махарадж? Мы сейчас готовим публикацию этой книги, и вы сказали однажды, что мы можем сделать три раздела в этой книге: *самбандха, абхидея, прайоджана*. Я думаю, что я способен понять *самбандха-гьяну*. Вы говорите о мире эксплуатации, затрагиваете подобные темы. Но, *абхидея*—*гьяна*: я не понимаю, как различить…

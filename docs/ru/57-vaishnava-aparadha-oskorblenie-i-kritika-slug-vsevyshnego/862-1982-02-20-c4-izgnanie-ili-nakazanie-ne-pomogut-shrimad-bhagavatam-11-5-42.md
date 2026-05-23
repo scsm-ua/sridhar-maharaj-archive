@@ -1,5 +1,5 @@
 ---
-slug: 862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42
+slug: 1982-02-20-c4_izgnanie_ili_nakazanie_ne_pomogut_shrimad_bhagavatam_11_5_42
 record_id: 1982.02.20.C4
 title: Изгнание или наказание не помогут. Шримад Бхагаватам 11.5.42.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,14 @@ legacy:
     11.5.42
   index: "862"
   filename: 862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42.md
+  slug: 862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
     slug: shri-chajtanya-charitamrita-madhya-lila-22-144
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.42
     slug: shrimad-bhagavatam-11-5-42
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

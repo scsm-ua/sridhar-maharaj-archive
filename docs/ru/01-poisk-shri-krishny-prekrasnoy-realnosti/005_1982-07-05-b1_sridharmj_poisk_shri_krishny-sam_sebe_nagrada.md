@@ -1,5 +1,5 @@
 ---
-slug: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada
+slug: 1982-07-05-b1_poisk_shri_krishny_sam_sebe_nagrada
 record_id: 1982.07.05.B1
 title: Поиск Шри Кришны — сам себе награда
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 005. 1982.07.05.B1 Поиск Шри Кришны — сам себе награда
   index: "005"
   filename: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada.md
+  slug: 005_1982-07-05-b1_sridharmj_poisk_shri_krishny-sam_sebe_nagrada
 tags:
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
 ---

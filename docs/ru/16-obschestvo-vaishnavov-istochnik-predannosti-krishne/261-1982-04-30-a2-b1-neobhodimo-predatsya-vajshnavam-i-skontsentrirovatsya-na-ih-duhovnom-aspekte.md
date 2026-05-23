@@ -1,5 +1,5 @@
 ---
-slug: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte
+slug: 1982-04-30-a2-b1_neobhodimo_predatsya_vayshnavam_i_skontsentrirovatsya_na_ih_duhovnom_aspekte
 record_id: 1982.04.30.A2.B1
 title: Необходимо предаться вайшнавам и сконцентрироваться на их духовном аспекте
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     сконцентрироваться на их духовном аспекте
   index: "261"
   filename: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte.md
+  slug: 261-1982-04-30-a2-b1-neobhodimo-predatsya-vajshnavam-i-skontsentrirovatsya-na-ih-duhovnom-aspekte
 tags:
-  - title: Ачарья вандана
-    slug: acharya-vandana
   - title: Ачарья вандана 18
     slug: acharya-vandana-18
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
 ---

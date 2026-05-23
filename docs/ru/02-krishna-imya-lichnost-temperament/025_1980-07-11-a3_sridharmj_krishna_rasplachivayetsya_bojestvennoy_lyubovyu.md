@@ -1,5 +1,5 @@
 ---
-slug: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu
+slug: 1980-07-11-a3_krishna_rasplachivaetsya_bozhestvennoy_lyubovyu
 record_id: 1980.07.11.A3
 title: Кришна расплачивается божественной любовью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Кришна
     slug: krishna
-  - title: Джанама сапхала тара
-    slug: dzhanama-saphala-tara
   - title: Джанама сапхала тара 1
     slug: dzhanama-saphala-tara-1
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 025. 1980.07.11.A3 Кришна расплачивается божественной любовью
   index: "025"
   filename: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu.md
+  slug: 025_1980-07-11-a3_sridharmj_krishna_rasplachivayetsya_bojestvennoy_lyubovyu
 ---
 
 **Преданный (о другом преданном):** Он возлюбленный слуга, возлюбленный ученик Хамсадуты Махараджа. Радха Говинда Дас — особое имя.

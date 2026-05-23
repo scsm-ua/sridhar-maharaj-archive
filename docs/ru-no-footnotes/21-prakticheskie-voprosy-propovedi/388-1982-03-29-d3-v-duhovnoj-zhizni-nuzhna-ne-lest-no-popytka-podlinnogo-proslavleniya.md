@@ -1,5 +1,5 @@
 ---
-slug: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya
+slug: 1982-03-29-d3_v_duhovnoy_zhizni_nuzhna_ne_lest_no_popytka_podlinnogo_proslavleniya
 record_id: 1982.03.29.D3
 title: В духовной жизни нужна не лесть, но попытка подлинного прославления
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     подлинного прославления
   index: "388"
   filename: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya.md
+  slug: 388-1982-03-29-d3-v-duhovnoj-zhizni-nuzhna-ne-lest-no-popytka-podlinnogo-proslavleniya
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Харибол.

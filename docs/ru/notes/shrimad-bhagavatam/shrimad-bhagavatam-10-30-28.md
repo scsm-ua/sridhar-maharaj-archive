@@ -2,17 +2,18 @@
 slug: shrimad-bhagavatam-10-30-28
 refs:
   - ../../_full/1981/08/1981.08.22.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.88
-    slug: shri-chajtanya-charitamrita-adi-lila-4-88
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.100
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-100
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.88
+    slug: shri-chajtanya-charitamrita-adi-lila-4-88
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.100
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-100
   - title: Шримад-Бхагаватам 10.30.28
     slug: shrimad-bhagavatam-10-30-28
 ---

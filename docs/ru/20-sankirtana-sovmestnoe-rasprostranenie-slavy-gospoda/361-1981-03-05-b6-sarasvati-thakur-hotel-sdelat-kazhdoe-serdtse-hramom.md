@@ -1,5 +1,5 @@
 ---
-slug: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom
+slug: 1981-03-05-b6_sarasvati_thakur_hotel_sdelat_kazhdoe_serdtse_hramom
 record_id: 1981.03.05.B6
 title: Сарасвати Тхакур хотел сделать каждое сердце храмом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 361. 1981.03.05.B6. Сарасвати Тхакур хотел сделать каждое сердце храмом
   index: "361"
   filename: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom.md
+  slug: 361-1981-03-05-b6-sarasvati-thakur-hotel-sdelat-kazhdoe-serdtse-hramom
 ---
 
 **Преданный:** Удивительно то, что Прабхупада [Бхактиведанта Свами] написал столь великое множество книг.

@@ -1,5 +1,5 @@
 ---
-slug: 221-tri-aspekta-gospoda-shivy-1983-01-02-a3
+slug: 1983-01-02-a3_tri_aspekta_gospoda_shivy
 record_id: 1983.01.02.A3
 title: Три аспекта Господа Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,5 +26,6 @@ legacy:
   title: 221. Три аспекта Господа Шивы. 1983.01.02.A3
   index: "221"
   filename: 221-tri-aspekta-gospoda-shivy-1983-01-02-a3.md
+  slug: 221-tri-aspekta-gospoda-shivy-1983-01-02-a3
 ---
 

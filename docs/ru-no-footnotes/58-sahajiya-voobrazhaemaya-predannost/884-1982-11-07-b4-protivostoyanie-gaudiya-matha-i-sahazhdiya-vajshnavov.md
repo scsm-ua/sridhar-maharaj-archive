@@ -1,5 +1,5 @@
 ---
-slug: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov
+slug: 1982-11-07-b4_protivostoyanie_gaudiya_matha_i_sahazhdiya-vayshnavov
 record_id: 1982.11.07.B4
 title: Противостояние Гаудия Матха и сахаждия-вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 884. 1982.11.07.B4. Противостояние Гаудия Матха и сахаждия-вайшнавов
   index: "884"
   filename: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov.md
+  slug: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov
 ---
 
 **Преданный:** Гуру Махарадж, когда люди, которые во всяком случае на словах размахивают стягом Махапрабху, не согласны друг с другом и зачастую нападают на своих противников, то как это следует рассматривать?

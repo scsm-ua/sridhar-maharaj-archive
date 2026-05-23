@@ -1,5 +1,5 @@
 ---
-slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
+slug: 1981-11-12-a2-3_molitva_bilvamangala_chetyre_tseli_chelovecheskoy_zhizni_sklonyayutsya_pered_predannostyu
 record_id: 1981.11.12.A2.3
 title: Молитва Билвамангала. Четыре цели человеческой жизни склоняются перед
   преданностью.
@@ -30,6 +30,7 @@ legacy:
     жизни склоняются перед преданностью
   index: "535"
   filename: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu.md
+  slug: 535-1981-11-12-a2-3-molitva-bilvamangala-chetyre-tseli-chelovecheskoj-zhizni-sklonyayutsya-pered-predannostyu
 ---
 
 Такой вывод: любая связь с тем миром *ниргуны* может принести нам полное успокоение. Что это за успокоение?

@@ -1,5 +1,5 @@
 ---
-slug: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam
+slug: 1982-02-20-c2_istoriya_chhota_haridasa_predosterezhenie_propovednikam
 record_id: 1982.02.20.C2
 title: История Чхота Харидаса — предостережение проповедникам
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 391. 1982.02.20.C2. История Чхота Харидаса — предостережение проповедникам
   index: "391"
   filename: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam.md
+  slug: 391-1982-02-20-c2-istoriya-chhota-haridasa-predosterezhenie-propovednikam
 ---
 
 **Преданный:** Махарадж, а как возможно, что Мадхави Деви была близкой спутницей Махапрабху?

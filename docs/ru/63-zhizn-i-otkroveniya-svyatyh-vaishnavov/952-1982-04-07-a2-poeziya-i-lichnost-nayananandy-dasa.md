@@ -1,5 +1,5 @@
 ---
-slug: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa
+slug: 1982-04-07-a2_poeziya_i_lichnost_nayananandy_dasa
 record_id: 1982.04.07.A2
 title: Поэзия и личность Наянананды Даса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 952. 1982.04.07.A2. Поэзия и личность Наянананды Даса
   index: "952"
   filename: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa.md
+  slug: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa
 tags:
-  - title: Кали-гхора тимире
-    slug: kali-ghora-timire
   - title: Кали-гхора тимире 1
     slug: kali-ghora-timire-1
 ---

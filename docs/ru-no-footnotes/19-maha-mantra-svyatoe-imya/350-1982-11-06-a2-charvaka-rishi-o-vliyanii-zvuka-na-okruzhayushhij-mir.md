@@ -1,5 +1,5 @@
 ---
-slug: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir
+slug: 1982-11-06-a2_charvaka_rishi_o_vliyanii_zvuka_na_okruzhayushchiy_mir
 record_id: 1982.11.06.A2
 title: Чарвака Риши о влиянии звука на окружающий мир
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 350. 1982.11.06.A2. Чарвака Риши о влиянии звука на окружающий мир
   index: "350"
   filename: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir.md
+  slug: 350-1982-11-06-a2-charvaka-rishi-o-vliyanii-zvuka-na-okruzhayushhij-mir
 ---
 
 Однажды Ачьютананда беседовал со мной, задавал вопросы о Святом Имени, Божественном Имени, и я отвечал. Он делал заметки, записи и послал затем в журнал «Назад к Богу» статью.

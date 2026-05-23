@@ -1,5 +1,5 @@
 ---
-slug: 551-1983-01-12-b6-tsentry-drevnej-arijskoj-tsivilizatsii
+slug: 1983-01-12-b6_tsentry_drevney_ariyskoy_tsivilizatsii
 record_id: 1983.01.12.B6
 title: Центры древней арийской цивилизации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 551. 1983.01.12.B6. Центры древней арийской цивилизации
   index: "551"
   filename: 551-1983-01-12-b6-tsentry-drevnej-arijskoj-tsivilizatsii.md
+  slug: 551-1983-01-12-b6-tsentry-drevnej-arijskoj-tsivilizatsii
 ---
 
 **Преданный:** Махарадж, некоторые ученые считают, что арии вышли из Индии и вернулись в Индию две с лишним тысячи лет тому назад, но не пять тысяч лет.

@@ -20,9 +20,10 @@ refs:
   - ../../_full/1983/08/1983.08.10.A.md
   - ../../_full/1984/01/1984.01.15.md
   - ../../_full/1985/10/1985.10.04.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
 ---

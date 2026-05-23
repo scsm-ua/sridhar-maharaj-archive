@@ -1,5 +1,5 @@
 ---
-slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
+slug: 1982-01-13-b2_soznanie_osnova_mira_materii
 record_id: 1982.01.13.B2
 title: Сознание — основа мира материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 644. 1982.01.13.B2. Сознание — основа мира материи
   index: "644"
   filename: 644-1982-01-13-b2-soznanie-osnova-mira-materii.md
+  slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
 ---
 
 **Преданный:** Махарадж, а личность Кали — это *джива*? Или какая-то иная личность?

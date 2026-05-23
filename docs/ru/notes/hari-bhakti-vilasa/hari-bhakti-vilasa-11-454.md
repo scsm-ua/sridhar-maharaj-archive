@@ -2,9 +2,10 @@
 slug: hari-bhakti-vilasa-11-454
 refs:
   - ../../_full/1983/02/1983.02.18.md
-tags:
+scriptures:
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
+verses:
   - title: Хари-бхакти-виласа 11.454
     slug: hari-bhakti-vilasa-11-454
 ---

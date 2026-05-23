@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-7-5-5
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
   - ../../_full/1981/09/1981.09.29.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.5.5
     slug: shrimad-bhagavatam-7-5-5
 ---

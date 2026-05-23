@@ -1,5 +1,5 @@
 ---
-slug: 284-zhizn-rupy-sanatany-i-haridasa-thaku
+slug: 1981-11-29-a2_zhizn_rupy_sanatany_i_haridasa_thakura
 record_id: 1981.11.29.A2
 title: Жизнь Рупы, Санатаны и Харидаса Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 284. Жизнь Рупы, Санатаны и Харидаса Тхакура. 1981.11.29.A2
   index: "284"
   filename: 284-zhizn-rupy-sanatany-i-haridasa-thaku.md
+  slug: 284-zhizn-rupy-sanatany-i-haridasa-thaku
 ---
 
 **Ученик:** Только что вы объяснили, как привести, индусов, хинду к высшей цели (Кришне), но что касается мусульман, мусульман мы ведь тоже хотим привести к этой высшей цели – к Кришне.

@@ -1,5 +1,5 @@
 ---
-slug: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah
+slug: 1980-07-11-a4_shrila_shridhar_maharadzh_kratko_rasskazyvaet_o_svoih_proizvedeniyah
 record_id: 1980.07.11.A4
 title: Шрила Шридхар Махарадж кратко рассказывает о своих произведениях
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     произведениях
   index: "1123"
   filename: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah.md
+  slug: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah
 ---
 
     га̄йатрӣ муралӣш̣т̣а-кӣртана-дханам̣ ра̄дха̄падам̣ дхӣмахи

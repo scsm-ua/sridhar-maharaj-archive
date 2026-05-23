@@ -2,9 +2,10 @@
 slug: manu-samhita-12-10
 refs:
   - ../../_full/1983/02/1983.02.20.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
+verses:
   - title: Ману-самхита 12.10
     slug: manu-samhita-12-10
 ---

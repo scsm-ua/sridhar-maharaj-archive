@@ -1,5 +1,5 @@
 ---
-slug: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov
+slug: 1983-02-01-a-b_o_zhizni_i_nasledii_svyatyh_vayshnavov
 record_id: 1983.02.01.A.B
 title: О жизни и наследии святых вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 942. 1983.02.01.A.B. О жизни и наследии святых вайшнавов
   index: "942"
   filename: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov.md
+  slug: 942-1983-02-01-a-b-o-zhizni-i-nasledii-svyatyh-vajshnavov
 tags:
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 15.28–30
     slug: shri-chajtanya-bhagavata-adi-khanda-15-28-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
 ---

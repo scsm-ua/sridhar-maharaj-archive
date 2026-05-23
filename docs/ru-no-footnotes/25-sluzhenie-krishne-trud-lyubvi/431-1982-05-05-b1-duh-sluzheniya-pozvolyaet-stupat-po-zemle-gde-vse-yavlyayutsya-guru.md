@@ -1,5 +1,5 @@
 ---
-slug: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru
+slug: 1982-05-05-b1_duh_sluzheniya_pozvolyaet_stupat_po_zemle_gde_vse_yavlyayutsya_guru
 record_id: 1982.05.05.B1
 title: Дух служения позволяет ступать по земле, где все являются Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     являются Гуру
   index: "431"
   filename: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru.md
+  slug: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru
 ---
 
 *Ваикун̣т̣хера пр̣тхивй-а̄ди сакала чинмайа…* Это не есть воображение.

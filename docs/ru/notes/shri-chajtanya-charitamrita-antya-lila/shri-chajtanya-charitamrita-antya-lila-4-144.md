@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-4-144
 refs:
   - ../../_full/1982/11/1982.11.19.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.144
     slug: shri-chajtanya-charitamrita-antya-lila-4-144
 ---

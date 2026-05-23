@@ -1,5 +1,5 @@
 ---
-slug: 747-1981-03-10-d2-printsip-zolotoj-serediny-v-pyshnosti-pokloneniya-i-odezhde-vajshnavov
+slug: 1981-03-10-d2_printsip_zolotoy_serediny_v_pyshnosti_pokloneniya_i_odezhde_vayshnavov
 record_id: 1981.03.10.D2
 title: Принцип «золотой середины» в пышности поклонения и одежде вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     одежде вайшнавов
   index: "747"
   filename: 747-1981-03-10-d2-printsip-zolotoj-serediny-v-pyshnosti-pokloneniya-i-odezhde-vajshnavov.md
+  slug: 747-1981-03-10-d2-printsip-zolotoj-serediny-v-pyshnosti-pokloneniya-i-odezhde-vajshnavov
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 ---

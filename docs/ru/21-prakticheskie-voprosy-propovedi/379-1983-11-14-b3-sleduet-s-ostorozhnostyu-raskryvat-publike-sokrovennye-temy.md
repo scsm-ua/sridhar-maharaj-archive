@@ -1,5 +1,5 @@
 ---
-slug: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy
+slug: 1983-11-14-b3_sleduet_s_ostorozhnostyu_raskryvat_publike_sokrovennye_temy
 record_id: 1983.11.14.B3
 title: Следует с осторожностью раскрывать публике сокровенные темы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     сокровенные темы
   index: "379"
   filename: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy.md
+  slug: 379-1983-11-14-b3-sleduet-s-ostorozhnostyu-raskryvat-publike-sokrovennye-temy
 ---
 
 **Госвами Махарадж:** Вы говорили, что не нужно использовать чрезмерно часто, чересчур либерально использовать термин «*манджари*».

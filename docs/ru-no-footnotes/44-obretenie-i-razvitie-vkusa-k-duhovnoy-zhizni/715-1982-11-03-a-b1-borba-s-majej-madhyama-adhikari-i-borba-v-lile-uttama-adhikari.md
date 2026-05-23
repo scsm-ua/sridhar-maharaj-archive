@@ -1,5 +1,5 @@
 ---
-slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
+slug: 1982-11-03-a-b1_borba_s_mayey_madhyama-adhikari_i_borba_v_lile_uttama-adhikari
 record_id: 1982.11.03.A.B1
 title: Борьба с майей мадхьяма-адхикари и борьба в лиле уттама-адхикари
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     уттама-адхикари
   index: "715"
   filename: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari.md
+  slug: 715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari
 ---
 
 **Преданный:** Гуру Махарадж, иногда мне приходилось слышать: если человек не сражается, не ведет упорную борьбу в сознании Кришны, то это плохо. Таким должно быть состояние человека, стремящегося к сознанию Кришны — состояние борьбы, сражения.

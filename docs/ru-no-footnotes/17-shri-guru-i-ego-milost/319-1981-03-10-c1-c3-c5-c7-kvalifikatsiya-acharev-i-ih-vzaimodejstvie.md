@@ -1,5 +1,5 @@
 ---
-slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
+slug: 1981-03-10-c1-c3-c5-c7_kvalifikatsiya_acharev_i_ih_vzaimodeystvie
 record_id: 1981.03.10.C1.C3.C5.C7
 title: Квалификация ачарьев и их взаимодействие
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 319. 1981.03.10.C1.C3.C5.C7. Квалификация ачарьев и их взаимодействие
   index: "319"
   filename: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie.md
+  slug: 319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie
 ---
 
 **Госвами Махарадж:** Другой вопрос таков: говорится, что гуру выше дисциплины.

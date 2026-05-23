@@ -1,5 +1,5 @@
 ---
-slug: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily
+slug: 1982-07-08-b_antitezis_chast_izvilistogo_haraktera_lily
 record_id: 1982.07.08.B
 title: Антитезис – часть извилистого характера лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 189. 1982.07.08.B. Антитезис – часть извилистого характера лилы
   index: "189"
   filename: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily.md
+  slug: 189-1982-07-08-b-antitezis-chast-izvilistogo-haraktera-lily
 ---
 
 **Видагдха Мадхава Прабху:** Это Видагдха Мадхава Дас. У меня есть вопрос.

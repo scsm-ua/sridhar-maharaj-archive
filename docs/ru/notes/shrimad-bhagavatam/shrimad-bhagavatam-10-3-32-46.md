@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-10-3-32-46
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/184-1982-01-29-b2-mnogomernost-uchastnikov-krishna-lily.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.3.32–46
     slug: shrimad-bhagavatam-10-3-32-46
 ---

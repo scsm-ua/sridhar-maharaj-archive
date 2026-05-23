@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-antya-lila-1-164
 refs:
   - ../../_full/1981/12/1981.12.12.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.164
-    slug: shri-chajtanya-charitamrita-antya-lila-1-164
   - title: Видагдха-мадхава
     slug: vidagdha-madhava
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.164
+    slug: shri-chajtanya-charitamrita-antya-lila-1-164
   - title: Видагдха-мадхава 1.27
     slug: vidagdha-madhava-1-27
 ---

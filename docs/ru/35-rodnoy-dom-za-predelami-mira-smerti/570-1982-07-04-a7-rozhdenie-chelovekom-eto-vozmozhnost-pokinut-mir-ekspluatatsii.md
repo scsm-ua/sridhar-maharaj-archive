@@ -1,5 +1,5 @@
 ---
-slug: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii
+slug: 1982-07-04-a7_rozhdenie_chelovekom_eto_vozmozhnost_pokinut_mir_ekspluatatsii
 record_id: 1982.07.04.A7
 title: Рождение человеком – это возможность покинуть мир эксплуатации
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     эксплуатации
   index: "570"
   filename: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii.md
+  slug: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.5
     slug: bhagavad-gita-3-5
   - title: Бхагавад-гита 6.6

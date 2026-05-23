@@ -1,5 +1,5 @@
 ---
-slug: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2
+slug: 1982-01-19-b2_molitva_raghunatha_dasa_gosvami
 record_id: 1982.01.19.B2
 title: Молитва Рагхунатха Даса Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -40,6 +40,7 @@ legacy:
   title: 262. Молитва Рагхунатха Даса Госвами. 1982.01.19.B2
   index: "262"
   filename: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2.md
+  slug: 262-molitva-raghunatha-dasa-gosvami-1982-01-19-b2
 ---
 
 *#00:00:00#*

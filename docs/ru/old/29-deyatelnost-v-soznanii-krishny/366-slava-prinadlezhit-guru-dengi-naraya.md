@@ -1,5 +1,5 @@
 ---
-slug: 366-slava-prinadlezhit-guru-dengi-naraya
+slug: 1984-01-25-a_slava_prinadlezhit_guru_dengi_narayane_a_zhenshchiny_krishne
 record_id: 1984.01.25.A
 title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     1984.01.25.A
   index: "366"
   filename: 366-slava-prinadlezhit-guru-dengi-naraya.md
+  slug: 366-slava-prinadlezhit-guru-dengi-naraya
 ---
 
 *#00:00:00#*

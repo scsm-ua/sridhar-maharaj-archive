@@ -1,5 +1,5 @@
 ---
-slug: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny
+slug: 1982-05-05-a1_potok_lily_gospoda_i_ego_glubiny
 record_id: 1982.05.05.A1
 title: Поток лилы Господа и его глубины
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 165. 1982.05.05.A1. Поток лилы Господа и его глубины
   index: "165"
   filename: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny.md
+  slug: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny
 tags:
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.111
     slug: shri-chajtanya-charitamrita-madhya-lila-8-111
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -44,12 +39,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15
     slug: bhakti-rasamrita-sindhu-1-4-15
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59

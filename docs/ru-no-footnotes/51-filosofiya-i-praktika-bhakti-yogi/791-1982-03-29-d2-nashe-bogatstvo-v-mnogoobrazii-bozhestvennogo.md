@@ -1,5 +1,5 @@
 ---
-slug: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo
+slug: 1982-03-29-d2_nashe_bogatstvo_v_mnogoobrazii_bozhestvennogo
 record_id: 1982.03.29.D2
 title: Наше богатство — в многообразии Божественного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 791. 1982.03.29.D2. Наше богатство — в многообразии Божественного
   index: "791"
   filename: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo.md
+  slug: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo
 ---
 
 **Преданный:** Другой вопрос, Махарадж.

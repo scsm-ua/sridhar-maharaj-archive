@@ -1,5 +1,5 @@
 ---
-slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
+slug: 1983-07-08-a1-2_bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_varnashrama_dolzhna_byt_svyazana_s_krishna-bhakti
 record_id: 1983.07.08.A1.2
 title: Бхагаватам о правильном взаимоотношении камы, артхи, дхармы и мокши.
   Варнашрама должна быть связана с кришна-бхакти.
@@ -16,20 +16,14 @@ category:
 tags:
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.9
     slug: shrimad-bhagavatam-1-2-9
   - title: Шримад-Бхагаватам 1.2.10
     slug: shrimad-bhagavatam-1-2-10
   - title: Шримад-Бхагаватам 1.2.8
     slug: shrimad-bhagavatam-1-2-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.46
     slug: bhagavad-gita-18-46
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27
@@ -48,6 +42,7 @@ legacy:
     артхи, дхармы и мокши. Варнашрама должна быть связана с кришна-бхакти
   index: "534"
   filename: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
+  slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
 ---
 
 **Шрила Шридхар Махарадж:** Нам говорили, что у вас есть вопросы.

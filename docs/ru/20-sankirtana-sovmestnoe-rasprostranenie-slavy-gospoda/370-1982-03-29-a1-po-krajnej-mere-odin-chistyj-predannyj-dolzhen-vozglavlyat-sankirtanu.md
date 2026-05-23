@@ -1,5 +1,5 @@
 ---
-slug: 370-1982-03-29-a1-po-krajnej-mere-odin-chistyj-predannyj-dolzhen-vozglavlyat-sankirtanu
+slug: 1982-03-29-a1_po_krayney_mere_odin_chistyy_predannyy_dolzhen_vozglavlyat_sankirtanu
 record_id: 1982.03.29.A1
 title: По крайней мере один чистый преданный должен возглавлять санкиртану
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     возглавлять санкиртану
   index: "370"
   filename: 370-1982-03-29-a1-po-krajnej-mere-odin-chistyj-predannyj-dolzhen-vozglavlyat-sankirtanu.md
+  slug: 370-1982-03-29-a1-po-krajnej-mere-odin-chistyj-predannyj-dolzhen-vozglavlyat-sankirtanu
 ---
 
 **Преданный:** Если они попросят нас совершать *ашта-прахара-лила-киртан*?

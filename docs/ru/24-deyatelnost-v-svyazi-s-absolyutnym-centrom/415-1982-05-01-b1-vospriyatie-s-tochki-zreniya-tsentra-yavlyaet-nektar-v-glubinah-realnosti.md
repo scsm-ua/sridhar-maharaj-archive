@@ -1,5 +1,5 @@
 ---
-slug: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti
+slug: 1982-05-01-b1_vospriyatie_s_tochki_zreniya_tsentra_yavlyaet_nektar_v_glubinah_realnosti
 record_id: 1982.05.01.B1
 title: Восприятие с точки зрения Центра являет нектар в глубинах реальности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,31 +24,24 @@ legacy:
     глубинах реальности
   index: "415"
   filename: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti.md
+  slug: 415-1982-05-01-b1-vospriyatie-s-tochki-zreniya-tsentra-yavlyaet-nektar-v-glubinah-realnosti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.64
     slug: bhagavad-gita-2-64
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72
     slug: shri-chajtanya-charitamrita-madhya-lila-22-72
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.129
     slug: shri-chajtanya-charitamrita-madhya-lila-25-129
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.275
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj
+slug: 1982-01-09-c2_obitateli_duhovnogo_mira_ne_stremyatsya_k_lichnomu_obshcheniyu_s_krishnoy
 record_id: 1982.01.09.C2
 title: Обитатели духовного мира не стремятся к личному общению с Кришной
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     общению с Кришной
   index: "463"
   filename: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj.md
+  slug: 463-1982-01-09-c2-obitateli-duhovnogo-mira-ne-stremyatsya-k-lichnomu-obshheniyu-s-krishnoj
 ---
 
 …прямой контакт с Кришной. Сама природа этих *сакхи*, подруг Радхарани такова, что они никогда не хотят непосредственного контакта с Кришной. Сама их природа служения такова, что они стремятся к максимальному удовлетворению Кришны и в полной мере осознают то обстоятельство, что только Радхарани может быть источником такого счастья для Кришны.

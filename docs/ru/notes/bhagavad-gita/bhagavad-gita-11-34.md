@@ -2,9 +2,10 @@
 slug: bhagavad-gita-11-34
 refs:
   - ../../_full/1983/01/1983.01.05.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 11.34
     slug: bhagavad-gita-11-34
 ---

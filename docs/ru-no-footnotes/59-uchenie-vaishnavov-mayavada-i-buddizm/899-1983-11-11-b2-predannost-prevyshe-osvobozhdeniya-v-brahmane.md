@@ -1,5 +1,5 @@
 ---
-slug: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane
+slug: 1983-11-11-b2_predannost_prevyshe_osvobozhdeniya_v_brahmane
 record_id: 1983.11.11.B2
 title: Преданность превыше освобождения в Брахмане
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 899. 1983.11.11.B2. Преданность превыше освобождения в Брахмане
   index: "899"
   filename: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane.md
+  slug: 899-1983-11-11-b2-predannost-prevyshe-osvobozhdeniya-v-brahmane
 ---
 
 [Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари, Гаура-Хари]

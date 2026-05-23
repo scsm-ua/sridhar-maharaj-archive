@@ -1,5 +1,5 @@
 ---
-slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
+slug: 1982-01-26-b1_smysl_shikhi_legkiy_sposob_prevzoyti_mir_materii
 record_id: 1982.01.26.B1
 title: Смысл шикхи. Легкий способ превзойти мир материи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 796. 1982.01.26.B1. Смысл шикхи. Легкий способ превзойти мир материи
   index: "796"
   filename: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii.md
+  slug: 796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii
 ---
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Махапрабху…]

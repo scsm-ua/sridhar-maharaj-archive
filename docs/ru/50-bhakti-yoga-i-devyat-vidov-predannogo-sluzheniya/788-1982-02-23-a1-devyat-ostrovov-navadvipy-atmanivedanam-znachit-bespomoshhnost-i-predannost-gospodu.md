@@ -1,5 +1,5 @@
 ---
-slug: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu
+slug: 1982-02-23-a1_devyat_ostrovov_navadvipy_atmanivedanam_znachit_bespomoshchnost_i_predannost_gospodu
 record_id: 1982.02.23.A1
 title: Девять островов Навадвипы. Атманиведанам значит «беспомощность и
   преданность Господу».
@@ -30,6 +30,7 @@ legacy:
     «беспомощность и преданность Господу»
   index: "788"
   filename: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu.md
+  slug: 788-1982-02-23-a1-devyat-ostrovov-navadvipy-atmanivedanam-znachit-bespomoshhnost-i-predannost-gospodu
 ---
 
 *Мгновения Прекрасной реальности (часть 5.1)*

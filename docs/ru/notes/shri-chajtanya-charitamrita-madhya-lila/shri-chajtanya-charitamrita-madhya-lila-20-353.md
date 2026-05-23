@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-353
 refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya.md
   - ../../_full/1982/05/1982.05.13.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.353
     slug: shri-chajtanya-charitamrita-madhya-lila-20-353
 ---

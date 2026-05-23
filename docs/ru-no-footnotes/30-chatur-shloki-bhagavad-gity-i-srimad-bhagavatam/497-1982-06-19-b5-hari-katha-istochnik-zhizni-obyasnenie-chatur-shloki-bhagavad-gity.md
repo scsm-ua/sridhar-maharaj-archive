@@ -1,5 +1,5 @@
 ---
-slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
+slug: 1982-06-19-b5_hari-katha_istochnik_zhizni_obyasnenie_chatur-shloki_bhagavad-gity
 record_id: 1982.06.19.B5
 title: Хари-катха – источник жизни. Объяснение чатур-шлоки Бхагавад-гиты.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Бхагавад-гиты
   index: "497"
   filename: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity.md
+  slug: 497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity
 ---
 
     йа̄ ниш́а̄ сарва-бхӯта̄на̄м̇, тасйа̄м̇ джа̄гарти сам̇йамӣ

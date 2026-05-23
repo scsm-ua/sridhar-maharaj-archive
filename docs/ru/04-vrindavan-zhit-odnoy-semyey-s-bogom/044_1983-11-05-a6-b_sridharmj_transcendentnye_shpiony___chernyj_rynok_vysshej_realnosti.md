@@ -1,5 +1,5 @@
 ---
-slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
+slug: 1983-11-05-a6-b_transtsendentnye_shpiony_chernyy_rynok_vysshey_realnosti
 record_id: 1983.11.05.A6.B
 title: Трансцендентные шпионы. «Черный рынок» высшей Реальности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -21,16 +21,10 @@ tags:
     slug: upadeshamrita-9
   - title: ШБ 9.4.63
     slug: shb-9-4-63
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 9.4.63
     slug: shrimad-bhagavatam-9-4-63
 links:
@@ -44,6 +38,7 @@ legacy:
   title: 044. 1983.11.05.A6.B Трансцендентные шпионы. «Черный рынок» высшей Реальности
   index: "044"
   filename: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti.md
+  slug: 044_1983-11-05-a6-b_sridharmj_transcendentnye_shpiony___chernyj_rynok_vysshej_realnosti
 ---
 
 **Госвами Махарадж:** Махарадж, иногда Вы говорили, что в свои последние дни Шрила Сарасвати Тхакур хотел построить хижину на Говардхане, просил своих учеников построить хижину на Говардхане, и хотел провести там свои последние дни.

@@ -2,15 +2,16 @@
 slug: shrimad-bhagavatam-3-33-6
 refs:
   - ../../_full/1981/11/1981.11.28.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 16.186
     slug: shri-chajtanya-charitamrita-madhya-lila-16-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.125
     slug: shri-chajtanya-charitamrita-madhya-lila-18-125
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 3.33.6
     slug: shrimad-bhagavatam-3-33-6
 ---

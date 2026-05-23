@@ -1,5 +1,5 @@
 ---
-slug: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie
+slug: 1981-08-18-b1_vasudev_neoskvernennoe_soznanie
 record_id: 1981.08.18.B1
 title: Васудев — неоскверненное сознание
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 671. 1981.08.18.B1. Васудев — неоскверненное сознание
   index: "671"
   filename: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie.md
+  slug: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
 ---

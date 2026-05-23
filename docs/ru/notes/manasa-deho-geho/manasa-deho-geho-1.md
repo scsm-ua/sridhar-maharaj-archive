@@ -2,9 +2,10 @@
 slug: manasa-deho-geho-1
 refs:
   - ../../_full/1981/10/1981.10.04.A.B.md
-tags:
+scriptures:
   - title: Манаса дехо гехо
     slug: manasa-deho-geho
+verses:
   - title: Манаса дехо гехо 1
     slug: manasa-deho-geho-1
 ---

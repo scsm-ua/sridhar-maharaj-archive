@@ -1,5 +1,5 @@
 ---
-slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
+slug: 1982-03-16-a_obyasnenie_molitvy_shivy_v_bhagavatam_4_24_29
 record_id: 1982.03.16.A
 title: Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 677. 1982.03.16.A. Объяснение молитвы Шивы в «Бхагаватам» (4.24.29)
   index: "677"
   filename: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
+  slug: 677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29
 ---
 
     сва-дхарма-ниш̣т̣хах̣ ш́ата-джанмабхих̣ пума̄н

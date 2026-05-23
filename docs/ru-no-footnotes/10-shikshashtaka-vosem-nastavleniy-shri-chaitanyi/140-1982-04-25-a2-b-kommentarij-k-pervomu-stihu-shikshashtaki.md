@@ -1,5 +1,5 @@
 ---
-slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
+slug: 1982-04-25-a2-b_kommentariy_k_pervomu_stihu_shikshashtaki
 record_id: 1982.04.25.A2.B
 title: Комментарий к первому стиху «Шикшаштаки»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 140. 1982.04.25.A2.B. Комментарий к первому стиху «Шикшаштаки»
   index: "140"
   filename: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki.md
+  slug: 140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki
 ---
 
 **Джаятиртха Махарадж:** Шридхардев Госвами!

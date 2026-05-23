@@ -7,9 +7,10 @@ refs:
   - ../../71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja/1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
   - ../../_full/1982/07/1982.07.18.A.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.8
     slug: bhagavad-gita-3-8
 ---

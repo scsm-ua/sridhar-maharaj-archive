@@ -1,5 +1,5 @@
 ---
-slug: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi
+slug: 1985-10-05-a1_kak_obezopasit_sebya_ot_vayshnava-aparadhi
 record_id: 1985.10.05.A1
 title: Как обезопасить себя от вайшнава-апарадхи?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 863. 1985.10.05.A1. Как обезопасить себя от вайшнава-апарадхи?
   index: "863"
   filename: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi.md
+  slug: 863-1985-10-05-a1-kak-obezopasit-sebya-ot-vajshnava-aparadhi
 ---
 
     йе ‘нйе ‘равинда̄кша вимукта-ма̄нинас

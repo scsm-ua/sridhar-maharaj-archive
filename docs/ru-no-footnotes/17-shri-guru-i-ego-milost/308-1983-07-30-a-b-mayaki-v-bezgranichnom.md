@@ -1,5 +1,5 @@
 ---
-slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
+slug: 1983-07-30-a-b_mayaki_v_bezgranichnom
 record_id: 1983.07.30.A.B
 title: Маяки в Безграничном
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 308. 1983.07.30.A.B. Маяки в Безграничном
   index: "308"
   filename: 308-1983-07-30-a-b-mayaki-v-bezgranichnom.md
+  slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
 ---
 
 **Преданный: [читает стихи на санскрите].**

@@ -1,5 +1,5 @@
 ---
-slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
+slug: 1982-11-07-a-b1_vladenie_psihicheskimi_silami_ne_mozhet_pobudit_gospoda_yavit_sebya
 record_id: 1982.11.07.A.B1
 title: Владение психическими силами не может побудить Господа явить Себя
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Господа явить Себя
   index: "911"
   filename: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
+  slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
 ---
 
 **Преданный:** Гуру Махарадж, на одном из *даршанов* вы говорили о Наполеоне: когда Наполеон находился на поле битвы, то никто не в силах был его победить, когда он присутствовал на поле боя. Мой вопрос таков: на западе людей интересует оккультное знание…

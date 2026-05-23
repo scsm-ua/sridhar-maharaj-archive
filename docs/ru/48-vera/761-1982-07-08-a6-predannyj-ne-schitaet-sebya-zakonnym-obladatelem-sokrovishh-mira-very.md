@@ -1,5 +1,5 @@
 ---
-slug: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very
+slug: 1982-07-08-a6_predannyy_ne_schitaet_sebya_zakonnym_obladatelem_sokrovishch_mira_very
 record_id: 1982.07.08.A6
 title: Преданный не считает себя «законным обладателем» сокровищ мира веры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,12 @@ category:
 tags:
   - title: Вера
     slug: vera
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 1
     slug: manah-shiksha-1
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 3.57
     slug: shri-shri-prapanna-dzhivanamritam-3-57
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155
     slug: shri-chajtanya-charitamrita-madhya-lila-19-155
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
 links:
@@ -43,6 +35,7 @@ legacy:
     сокровищ мира веры
   index: "761"
   filename: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very.md
+  slug: 761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very
 ---
 
 **Преданный:** Гуру Махарадж, у меня есть вопрос: в двадцать третьем стихе третьей главы «Прапанна-дживанамритам» описан комментарий Шрилы Бхактивинода Тхакура, в котором говорится: «Отвергая все эти процессы, я прославляю качества личности веры, по милости которой можно достичь преданности». Не могли бы вы объяснить…

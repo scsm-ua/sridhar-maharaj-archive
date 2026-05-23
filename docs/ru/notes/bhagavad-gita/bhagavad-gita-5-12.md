@@ -2,9 +2,10 @@
 slug: bhagavad-gita-5-12
 refs:
   - ../../_full/1982/12/1982.12.25.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 5.12
     slug: bhagavad-gita-5-12
 ---

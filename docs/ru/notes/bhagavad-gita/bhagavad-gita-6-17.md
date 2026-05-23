@@ -14,9 +14,10 @@ refs:
   - ../../_full/1982/02/1982.02.26.B2.md
   - ../../_full/1982/04/1982.04.29.A4.md
   - ../../_full/1982/08/1982.08.05.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
 ---

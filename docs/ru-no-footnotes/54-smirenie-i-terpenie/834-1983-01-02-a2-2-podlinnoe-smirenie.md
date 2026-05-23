@@ -1,5 +1,5 @@
 ---
-slug: 834-1983-01-02-a2-2-podlinnoe-smirenie
+slug: 1983-01-02-a2-2_podlinnoe_smirenie
 record_id: 1983.01.02.A2.2
 title: Подлинное смирение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 834. 1983.01.02.A2.2. Подлинное смирение
   index: "834"
   filename: 834-1983-01-02-a2-2-podlinnoe-smirenie.md
+  slug: 834-1983-01-02-a2-2-podlinnoe-smirenie
 ---
 
 **Преданная:** Гуру Махарадж, как мы можем развить искреннее смирение?

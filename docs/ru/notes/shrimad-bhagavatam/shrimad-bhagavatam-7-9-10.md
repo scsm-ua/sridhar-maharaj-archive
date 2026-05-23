@@ -2,19 +2,20 @@
 slug: shrimad-bhagavatam-7-9-10
 refs:
   - ../../_full/1981/12/1981.12.14.A.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
+    slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 16.26
     slug: shri-chajtanya-charitamrita-antya-lila-16-26
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.69
     slug: shri-chajtanya-charitamrita-antya-lila-4-69
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.59
     slug: shri-chajtanya-charitamrita-madhya-lila-20-59
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.9.10
     slug: shrimad-bhagavatam-7-9-10
 ---

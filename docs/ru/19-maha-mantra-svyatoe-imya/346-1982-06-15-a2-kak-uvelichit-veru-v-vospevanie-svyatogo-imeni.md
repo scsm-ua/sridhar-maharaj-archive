@@ -1,5 +1,5 @@
 ---
-slug: 346-1982-06-15-a2-kak-uvelichit-veru-v-vospevanie-svyatogo-imeni
+slug: 1982-06-15-a2_kak_uvelichit_veru_v_vospevanie_svyatogo_imeni
 record_id: 1982.06.15.A2
 title: Как увеличить веру в воспевание Святого Имени?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 346. 1982.06.15.A2. Как увеличить веру в воспевание Святого Имени?
   index: "346"
   filename: 346-1982-06-15-a2-kak-uvelichit-veru-v-vospevanie-svyatogo-imeni.md
+  slug: 346-1982-06-15-a2-kak-uvelichit-veru-v-vospevanie-svyatogo-imeni
 ---
 
 **Преданный:** Как человек может увеличить свою веру в воспевание Святого Имени?

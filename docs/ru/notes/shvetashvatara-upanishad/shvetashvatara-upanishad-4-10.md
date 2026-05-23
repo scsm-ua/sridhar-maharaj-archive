@@ -3,9 +3,10 @@ slug: shvetashvatara-upanishad-4-10
 refs:
   - ../../_full/1982/08/1982.08.31.B.C.md
   - ../../_full/1983/02/1983.02.19.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 4.10
     slug: shvetashvatara-upanishad-4-10
 ---

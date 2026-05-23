@@ -1,5 +1,5 @@
 ---
-slug: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti
+slug: 1983-02-11-a1_pomoshch_vayshnavov_pomozhet_preodolet_trudnosti_puti
 record_id: 1983.02.11.A1
 title: Помощь вайшнавов поможет преодолеть трудности пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 713. 1983.02.11.A1. Помощь вайшнавов поможет преодолеть трудности пути
   index: "713"
   filename: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti.md
+  slug: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
@@ -46,8 +39,6 @@ tags:
     slug: vajshnava-ke-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
 ---

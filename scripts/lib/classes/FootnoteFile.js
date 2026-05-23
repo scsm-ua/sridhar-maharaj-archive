@@ -8,7 +8,9 @@ class FootnoteFile {
         this.group = group;
         this.title = title;
         this.slug = slug;
-        this.tags = [];
+        this.tags = new Set();
+        this.scriptureNames = new Set();
+        this.scriptureVerses = new Set();
         this.footnotes = [];
         this.dir = dir;
     }
@@ -18,11 +20,12 @@ class FootnoteFile {
 
         footnote.file = this;
 
-        [...footnote.getUsedScripturesNamesWithNubmers() || [], ...footnote.getUsedScripturesNames() || []].forEach(tag => {
-            if (this.tags.indexOf(tag) === -1) {
-                this.tags.push(tag);
-            }
-        });
+        const names = footnote.getUsedScripturesNames() || [];
+        const verses = footnote.getUsedScripturesNamesWithNubmers() || [];
+
+        names.forEach(n => this.scriptureNames.add(n));
+        verses.forEach(v => this.scriptureVerses.add(v));
+        [...verses, ...names].forEach(t => this.tags.add(t));
     }
 
     renderFootnotes() {
@@ -30,7 +33,8 @@ class FootnoteFile {
         var uniqueTexts = {};
         if (this.footnotes.length) {
             this.footnotes.forEach(footnote => {
-                var md = footnote.getMD().trim();
+                // Strip leading newlines but preserve first-line indentation (code blocks), trim trailing whitespace
+                var md = footnote.getMD().replace(/^[\r\n]+/, '').trimEnd();
                 var md_trim = md.replace(/\u00A0/g, ' ');
                 if (!uniqueTexts[md_trim]) {
                     uniqueTexts[md_trim] = 1;
@@ -63,25 +67,28 @@ class FootnoteFile {
         return this.getDir() + this.getFileSlug() + '.md';
     }
 
-    getTags() {
-        return this.tags.map(tag => {
-            return {
-                title: tag,
-                slug: transliterate(tag)
-            }
-        })
+    _toTags(set) {
+        return [...set].sort().map(tag => ({
+            title: tag,
+            slug: transliterate(tag)
+        }));
+    }
+
+    getVersesTags() {
+        return this._toTags(this.scriptureVerses);
     }
 
     renderFile() {
         if (this.footnotes.length) {
-            this.tags.sort();
             var meta = {
                 slug: this.getFileSlug(),
                 refs: this.footnotes.map(f => relative(this.getDir(), f.documentFile.filename)),
             };
-            var tags = this.getTags();
-            if (tags.length) {
-                meta.tags = tags;
+            if (this.scriptureNames.size) {
+                meta.scriptures = this._toTags(this.scriptureNames);
+            }
+            if (this.scriptureVerses.size) {
+                meta.verses = this._toTags(this.scriptureVerses);
             }
 
             var meta_str = stringify(meta);

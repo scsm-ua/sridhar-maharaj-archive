@@ -6,19 +6,20 @@ refs:
   - ../../41-stremlenie-k-idealu-istinnoe-bogatstvo/699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
   - ../../_full/1983/01/1983.01.21.A.md
   - ../../_full/1983/12/1983.12.23.C.D.md
-tags:
+scriptures:
   - title: Брихан-нарадия-пурана
     slug: brihan-naradiya-purana
-  - title: Брихан-нарадия-пурана 4.33
-    slug: brihan-naradiya-purana-4-33
   - title: Джайва-дхарма
     slug: dzhajva-dharma
+  - title: Хари-бхакти-виласа
+    slug: hari-bhakti-vilasa
+verses:
+  - title: Брихан-нарадия-пурана 4.33
+    slug: brihan-naradiya-purana-4-33
   - title: Джайва-дхарма 3
     slug: dzhajva-dharma-3
   - title: Джайва-дхарма 6
     slug: dzhajva-dharma-6
-  - title: Хари-бхакти-виласа
-    slug: hari-bhakti-vilasa
   - title: Хари-бхакти-виласа 10.279
     slug: hari-bhakti-vilasa-10-279
 ---

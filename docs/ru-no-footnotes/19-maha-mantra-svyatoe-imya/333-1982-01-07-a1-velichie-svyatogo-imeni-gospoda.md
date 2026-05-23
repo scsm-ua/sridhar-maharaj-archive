@@ -1,5 +1,5 @@
 ---
-slug: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda
+slug: 1982-01-07-a1_velichie_svyatogo_imeni_gospoda
 record_id: 1982.01.07.A1
 title: Величие Святого Имени Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 333. 1982.01.07.A1. Величие Святого Имени Господа
   index: "333"
   filename: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
+  slug: 333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda
 ---
 
 Сарасвати Тхакур практически всегда говорил о Махапрабху, настолько, что я написал о нем:

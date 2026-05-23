@@ -1,5 +1,5 @@
 ---
-slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
+slug: 1981-03-12-b2_svyaz_s_mirom_nirguny_prevyshe_mirskogo_znaniya_i_tsennostey
 record_id: 1981.03.12.B2
 title: Связь с миром ниргуны превыше мирского знания и ценностей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
   index: "572"
   filename: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej.md
+  slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
 ---
 
 **Госвами Махарадж:** Поскольку это необходимо для проповеди, Рамешвара Свами хотел, чтобы я задал вам один вопрос. «Бхактиведанта Бук Траст» собирается опубликовать книгу под названием «Реинкарнация». И он говорит, что нам необходимо описать западному рациональному уму, как душа переносится из одного тела в другое, как душа входит в семя отца.

@@ -1,5 +1,5 @@
 ---
-slug: 1039-1981-08-12-b2-poslednie-ukazaniya-sarasvati-thakura
+slug: 1981-08-12-b2_poslednie_ukazaniya_sarasvati_thakura
 record_id: 1981.08.12.B2
 title: Последние указания Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1039. 1981.08.12.B2. Последние указания Сарасвати Тхакура
   index: "1039"
   filename: 1039-1981-08-12-b2-poslednie-ukazaniya-sarasvati-thakura.md
+  slug: 1039-1981-08-12-b2-poslednie-ukazaniya-sarasvati-thakura
 ---
 
 **Госвами Махарадж:** А Шрила Бхактисиддханта Сарасвати Тхакур обозначил кого-то в качестве *ачарьи* Гаудия Миссии?

@@ -28,9 +28,10 @@ refs:
   - ../../_full/1983/05/1983.05.24.md
   - ../../_full/1983/11/1983.11.11.B2.C.md
   - ../../_full/1983/12/1983.12.04.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 ---

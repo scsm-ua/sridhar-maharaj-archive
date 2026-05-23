@@ -2,13 +2,14 @@
 slug: shrimad-bhagavatam-11-3-48
 refs:
   - ../../_full/1982/12/1982.12.14.B.md
-tags:
+scriptures:
   - title: Хари-бхакти-виласа
     slug: hari-bhakti-vilasa
-  - title: Хари-бхакти-виласа 4.366
-    slug: hari-bhakti-vilasa-4-366
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: Хари-бхакти-виласа 4.366
+    slug: hari-bhakti-vilasa-4-366
   - title: Шримад-Бхагаватам 11.3.48
     slug: shrimad-bhagavatam-11-3-48
 ---

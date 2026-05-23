@@ -1,5 +1,5 @@
 ---
-slug: 313-1983-06-21-a1-guru-v-linii-rupanuga
+slug: 1983-06-21-a1_guru_v_linii_rupanuga
 record_id: 1983.06.21.A1
 title: Гуру в линии Рупануга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 313. 1983.06.21.A1. Гуру в линии Рупануга
   index: "313"
   filename: 313-1983-06-21-a1-guru-v-linii-rupanuga.md
+  slug: 313-1983-06-21-a1-guru-v-linii-rupanuga
 ---
 
 **Преданный:** *Гопи*? Или это относится к Радхарани? *Твам-гопика*…

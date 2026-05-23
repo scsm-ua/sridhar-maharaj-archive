@@ -1,5 +1,5 @@
 ---
-slug: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura
+slug: 1982-06-14-a2-a7_vozvyshennye_duhovnye_emotsii_sarasvati_thakura_i_bhaktivinoda_thakura
 record_id: 1982.06.14.A2.A7
 title: Возвышенные духовные эмоции Сарасвати Тхакура и Бхактивинода Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактивинода Тхакура
   index: "1003"
   filename: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura.md
+  slug: 1003-1982-06-14-a2-a7-vozvyshennye-duhovnye-emotsii-sarasvati-thakura-i-bhaktivinoda-thakura
 ---
 
 **Шрила Шридхар Махарадж:** Он публиковал «Чайтанья-чаритамриту» и другие книги в одиночку, независимо, с помощью печатного станка. Он не мог жить без печатного станка, Бхактисиддханта Сарасвати. Типографский станок служит ему оружием.

@@ -1,5 +1,5 @@
 ---
-slug: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura
+slug: 1984-01-08-b5_revolyutsionnyy_metod_propovedi_shrily_sarasvati_thakura
 record_id: 1984.01.08.B5
 title: Революционный метод проповеди Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1009. 1984.01.08.B5. Революционный метод проповеди Шрилы Сарасвати Тхакура
   index: "1009"
   filename: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura.md
+  slug: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura
 tags:
-  - title: «Гитамала», Ямуна-бхававали
-    slug: gitamala-yamuna-bhavavali
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

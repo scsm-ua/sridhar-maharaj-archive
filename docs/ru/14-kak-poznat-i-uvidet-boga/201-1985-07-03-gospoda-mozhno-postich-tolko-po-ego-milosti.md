@@ -1,5 +1,5 @@
 ---
-slug: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti
+slug: 1985-07-03_gospoda_mozhno_postich_tolko_po_ego_milosti
 record_id: 1985.07.03
 title: Господа можно постичь только по Его милости
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 201. 1985.07.03. Господа можно постичь только по Его милости
   index: "201"
   filename: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti.md
+  slug: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
     slug: shri-chajtanya-charitamrita-madhya-lila-6-89
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.2.6
     slug: shrimad-bhagavatam-2-2-6
 ---

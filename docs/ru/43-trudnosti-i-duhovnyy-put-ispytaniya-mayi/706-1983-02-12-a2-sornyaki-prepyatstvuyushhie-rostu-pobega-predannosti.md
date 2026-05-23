@@ -1,5 +1,5 @@
 ---
-slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
+slug: 1983-02-12-a2_sornyaki_prepyatstvuyushchie_rostu_pobega_predannosti
 record_id: 1983.02.12.A2
 title: Сорняки, препятствующие росту побега преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,15 +23,12 @@ legacy:
   title: 706. 1983.02.12.A2. Сорняки, препятствующие росту побега преданности
   index: "706"
   filename: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti.md
+  slug: 706-1983-02-12-a2-sornyaki-prepyatstvuyushhie-rostu-pobega-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
     slug: shri-chajtanya-charitamrita-madhya-lila-19-151
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.159
     slug: shri-chajtanya-charitamrita-madhya-lila-19-159
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 ---

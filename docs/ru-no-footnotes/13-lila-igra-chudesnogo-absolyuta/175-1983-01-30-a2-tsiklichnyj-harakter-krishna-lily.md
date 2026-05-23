@@ -1,5 +1,5 @@
 ---
-slug: 175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily
+slug: 1983-01-30-a2_tsiklichnyy_harakter_krishna-lily
 record_id: 1983.01.30.A2
 title: Цикличный характер Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 175. 1983.01.30.A2. Цикличный характер Кришна-лилы
   index: "175"
   filename: 175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily.md
+  slug: 175-1983-01-30-a2-tsiklichnyj-harakter-krishna-lily
 ---
 
 **Преданный:** В одной книге написано, что однажды Шри Кришна произнес речь, находясь на луне, и по прошествии многих тысяч лет американцы сделали некие записи этой речи…

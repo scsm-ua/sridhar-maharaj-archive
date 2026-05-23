@@ -1,5 +1,5 @@
 ---
-slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
+slug: 1982-05-08-a_kakim_obrazom_sannyasi_i_grihasthi_mogut_udovletvorit_shrilu_shridhara_maharadzha
 record_id: 1982.05.08.A
 title: Каким образом санньяси и грихастхи могут удовлетворить Шрилу Шридхара
   Махараджа?
@@ -25,6 +25,7 @@ legacy:
     удовлетворить Шрилу Шридхара Махараджа?
   index: "1133"
   filename: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha.md
+  slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
 ---
 
 **Шрила Шридхар Махарадж:** Есть какие-то вопросы? Я очень устал — я так много говорил, мне это не по силам. Только один вопрос — на один вопрос я попытаюсь ответить и отправлюсь в постель, чтобы лечь горизонтально. Харе Кришна.

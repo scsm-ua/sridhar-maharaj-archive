@@ -1,5 +1,5 @@
 ---
-slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
+slug: 1982-06-19-b4_kto_yavlyaetsya_vysochayshimi_predannymi_krishny_v_shrimad-bhagavatam
 record_id: 1982.06.19.B4
 title: Кто является высочайшими преданными Кришны в «Шримад-Бхагаватам»?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     «Шримад-Бхагаватам»?
   index: "978"
   filename: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam.md
+  slug: 978-1982-06-19-b4-kto-yavlyaetsya-vysochajshimi-predannymi-krishny-v-shrimad-bhagavatam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61

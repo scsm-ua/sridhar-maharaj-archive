@@ -5,9 +5,10 @@ refs:
   - ../../_full/1981/11/1981.11.09.A.B.C.md
   - ../../_full/1982/04/1982.04.27.B2.C1.md
   - ../../_full/1982/05/1982.05.06.A2.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-7
 ---

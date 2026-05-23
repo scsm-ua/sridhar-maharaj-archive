@@ -9,9 +9,10 @@ refs:
   - ../../_full/1983/01/1983.01.30.md
   - ../../_full/1983/01/1983.01.30.md
   - ../../_full/1983/11/1983.11.09.A.B.C1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 8.25
     slug: bhagavad-gita-8-25
 ---

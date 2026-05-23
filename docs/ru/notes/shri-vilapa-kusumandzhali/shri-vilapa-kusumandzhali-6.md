@@ -10,9 +10,10 @@ refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
   - ../../_full/1983/04/1983.04.17.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Шри Вилапа-кусуманджали
     slug: shri-vilapa-kusumandzhali
+verses:
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
 ---

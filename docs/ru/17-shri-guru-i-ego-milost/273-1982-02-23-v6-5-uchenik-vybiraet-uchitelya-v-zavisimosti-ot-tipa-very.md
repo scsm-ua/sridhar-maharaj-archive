@@ -1,5 +1,5 @@
 ---
-slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
+slug: 1982-02-23-b6-5_uchenik_vybiraet_uchitelya_v_zavisimosti_ot_tipa_very
 record_id: 1982.02.23.B6.5
 title: Ученик выбирает учителя в зависимости от типа веры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,16 +17,10 @@ tags:
     slug: guru-parampara
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
 links:
@@ -40,6 +34,7 @@ legacy:
   title: 273. 1982.02.23.В6.5. Ученик выбирает учителя в зависимости от типа веры
   index: "273"
   filename: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very.md
+  slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
 ---
 
 *«Мгновения Прекрасной Реальности», (часть 6.5)*

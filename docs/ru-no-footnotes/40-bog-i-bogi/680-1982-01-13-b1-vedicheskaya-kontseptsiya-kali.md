@@ -1,5 +1,5 @@
 ---
-slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
+slug: 1982-01-13-b1_vedicheskaya_kontseptsiya_kali
 record_id: 1982.01.13.B1
 title: Ведическая концепция Кали
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 680. 1982.01.13.B1. Ведическая концепция Кали
   index: "680"
   filename: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali.md
+  slug: 680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali
 ---
 
 **Преданный:** Махарадж, каким образом концепция добра и зла явилась, возникла? Концепция добра и зла — как она появилась, эта концепция?

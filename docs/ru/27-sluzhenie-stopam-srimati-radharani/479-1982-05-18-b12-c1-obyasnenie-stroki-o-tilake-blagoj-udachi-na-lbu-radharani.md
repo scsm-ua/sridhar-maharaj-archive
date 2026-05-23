@@ -1,5 +1,5 @@
 ---
-slug: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani
+slug: 1982-05-18-b12-c1_obyasnenie_stroki_o_tilake_blagoy_udachi_na_lbu_radharani
 record_id: 1982.05.18.B12.C1
 title: Объяснение строки о тилаке благой удачи на лбу Радхарани
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Радхарани
     slug: radharani
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.176
     slug: shri-chajtanya-charitamrita-madhya-lila-8-176
 links:
@@ -31,6 +29,7 @@ legacy:
     Радхарани
   index: "479"
   filename: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani.md
+  slug: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani
 ---
 
 **Джаятиртха Махарадж:** Я пришел поздно, я заслуживаю ответа на один вопрос. В «Чайтанья-чаритамрите» говорится, что Шримати Радхарани носит *тилак* благой удачи.

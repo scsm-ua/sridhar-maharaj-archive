@@ -1,5 +1,5 @@
 ---
-slug: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny
+slug: 1982-05-12-c4_filosofskie_aspekty_yavleniya_krishny
 record_id: 1982.05.12.C4
 title: Философские аспекты Явления Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 030. 1982.05.12.С4 Философские аспекты Явления Кришны
   index: "030"
   filename: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny.md
+  slug: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny
 ---
 
 **Преданный:** Шрила Шридхар Махарадж, не могли бы Вы описать явление Кришны?

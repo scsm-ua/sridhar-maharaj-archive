@@ -3,9 +3,10 @@ slug: bhagavad-gita-4-9
 refs:
   - ../../43-trudnosti-i-duhovnyy-put-ispytaniya-mayi/711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya.md
   - ../../_full/1982/07/1982.07.09.A.B1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.9
     slug: bhagavad-gita-4-9
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
+slug: 1982-02-28-a2_velikodushie_mahaprabhu_put_k_sokrovennoy_kontseptsii_bozhestvennogo
 record_id: 1982.02.28.A2
 title: Великодушие Махапрабху — путь к сокровенной концепции Божественного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Божественного
   index: "105"
   filename: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo.md
+  slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
 ---
 
 Мы должны искать великодушия Махапрабху — того, к чему стремятся Шива и Брахма. Они молят лишь о капле этого. Махапрабху затопил потоком этого нектара всю вселенную. Даже каплю этого нектара трудно обрести. Мы должны обратиться к этому с горячим желанием. Это нечто столь великое, столь великодушное! Что это такое? Харе Кришна!

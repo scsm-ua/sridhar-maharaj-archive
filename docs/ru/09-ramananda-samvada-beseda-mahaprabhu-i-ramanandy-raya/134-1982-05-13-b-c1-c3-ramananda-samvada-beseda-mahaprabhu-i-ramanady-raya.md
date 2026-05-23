@@ -1,5 +1,5 @@
 ---
-slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
+slug: 1982-05-13-b-c1-c3_ramananda-samvada_beseda_mahaprabhu_i_ramanady_raya
 record_id: 1982.05.13.B.C1.C3
 title: Рамананда-самвада. Беседа Махапрабху и Раманады Рая.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.57
     slug: shri-chajtanya-charitamrita-madhya-lila-8-57
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
@@ -27,8 +25,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
@@ -43,24 +39,16 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-159
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
     slug: shri-chajtanya-charitamrita-madhya-lila-6-186
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.7.10
     slug: shrimad-bhagavatam-1-7-10
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1.2
     slug: shri-gita-govinda-3-1-2
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
@@ -73,8 +61,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-273
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.278
     slug: shri-chajtanya-charitamrita-madhya-lila-8-278
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.38
     slug: shri-brahma-samhita-5-38
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
@@ -85,20 +71,14 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-284
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.62
     slug: shri-chajtanya-charitamrita-madhya-lila-7-62
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 66
     slug: prema-dhama-deva-stotram-66
 links:
@@ -112,6 +92,7 @@ legacy:
   title: 134. 1982.05.13.B.C1.C3. Рамананда-самвада. Беседа Махапрабху и Раманады Рая
   index: "134"
   filename: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
+  slug: 134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya
 ---
 
 Харе Кришна, Харе Кришна.

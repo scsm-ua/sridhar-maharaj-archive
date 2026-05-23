@@ -11,9 +11,10 @@ refs:
   - ../../_full/1982/09/1982.09.08.A.md
   - ../../_full/1983/06/1983.06.05.md
   - ../../_full/1983/10/1983.10.13.A.B.md
-tags:
+scriptures:
   - title: Шри Гуру-парампара
     slug: shri-guru-parampara
+verses:
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
 ---

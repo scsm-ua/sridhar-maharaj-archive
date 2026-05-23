@@ -1,5 +1,5 @@
 ---
-slug: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter
+slug: 1983-11-05-a2_dlya_sputnikov_gospoda_initsiatsiya_nosit_formalnyy_harakter
 record_id: 1983.11.05.A2
 title: Для спутников Господа инициация носит формальный характер
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Посвящение
     slug: posvyashhenie
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.7
     slug: bhagavad-gita-4-7
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 332. 1983.11.05.A2. Для спутников Господа инициация носит формальный характер
   index: "332"
   filename: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter.md
+  slug: 332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter
 ---
 
 **Госвами Махарадж:** Также Тхакур Бхактивинод — его формальная связь была с Бипином Бихари Госвами. Мы всегда говорим, что необходима связь с подлинным *вайшнавом*, реальным *вайшнавом*.

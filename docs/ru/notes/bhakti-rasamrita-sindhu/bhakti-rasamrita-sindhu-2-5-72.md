@@ -2,9 +2,10 @@
 slug: bhakti-rasamrita-sindhu-2-5-72
 refs:
   - ../../_full/1981/11/1981.11.21.A.B.md
-tags:
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 2.5.72
     slug: bhakti-rasamrita-sindhu-2-5-72
 ---

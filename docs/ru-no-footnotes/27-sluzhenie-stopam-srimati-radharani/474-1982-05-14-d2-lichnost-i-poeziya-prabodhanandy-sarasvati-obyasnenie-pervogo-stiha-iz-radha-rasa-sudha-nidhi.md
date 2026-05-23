@@ -1,5 +1,5 @@
 ---
-slug: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi
+slug: 1982-05-14-d2_lichnost_i_poeziya_prabodhanandy_sarasvati_obyasnenie_pervogo_stiha_iz_radha-rasa-sudha-nidhi
 record_id: 1982.05.14.D2
 title: Личность и поэзия Прабодхананды Сарасвати. Объяснение первого стиха из
   «Радха-раса-судха-нидхи».
@@ -28,6 +28,7 @@ legacy:
     первого стиха из «Радха-раса-судха-нидхи»
   index: "474"
   filename: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi.md
+  slug: 474-1982-05-14-d2-lichnost-i-poeziya-prabodhanandy-sarasvati-obyasnenie-pervogo-stiha-iz-radha-rasa-sudha-nidhi
 ---
 
     йатха̄ йатха̄ гаура-пада̄равинде

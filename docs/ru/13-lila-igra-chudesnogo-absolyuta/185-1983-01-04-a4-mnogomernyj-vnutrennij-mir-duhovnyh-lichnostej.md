@@ -1,5 +1,5 @@
 ---
-slug: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej
+slug: 1983-01-04-a4_mnogomernyy_vnutrenniy_mir_duhovnyh_lichnostey
 record_id: 1983.01.04.A4
 title: Многомерный внутренний мир духовных личностей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 185. 1983.01.04.A4. Многомерный внутренний мир духовных личностей
   index: "185"
   filename: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej.md
+  slug: 185-1983-01-04-a4-mnogomernyj-vnutrennij-mir-duhovnyh-lichnostej
 tags:
-  - title: Шри Шад Госвами Аштакам
-    slug: shri-shad-gosvami-ashtakam
   - title: Шри Шад Госвами Аштакам 2
     slug: shri-shad-gosvami-ashtakam-2
 ---

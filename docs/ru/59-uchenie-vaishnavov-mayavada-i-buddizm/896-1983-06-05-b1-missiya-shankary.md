@@ -1,5 +1,5 @@
 ---
-slug: 896-1983-06-05-b1-missiya-shankary
+slug: 1983-06-05-b1_missiya_shankary
 record_id: 1983.06.05.B1
 title: Миссия Шанкары
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 896. 1983.06.05.B1. Миссия Шанкары
   index: "896"
   filename: 896-1983-06-05-b1-missiya-shankary.md
+  slug: 896-1983-06-05-b1-missiya-shankary
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.168
     slug: shri-chajtanya-charitamrita-madhya-lila-6-168
 ---

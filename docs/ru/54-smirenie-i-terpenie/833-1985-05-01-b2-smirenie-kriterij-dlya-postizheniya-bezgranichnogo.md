@@ -1,5 +1,5 @@
 ---
-slug: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo
+slug: 1985-05-01-b2_smirenie_kriteriy_dlya_postizheniya_bezgranichnogo
 record_id: 1985.05.01.B2
 title: Смирение — критерий для постижения Безграничного
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 833. 1985.05.01.B2. Смирение — критерий для постижения Безграничного
   index: "833"
   filename: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo.md
+  slug: 833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
     slug: shri-chajtanya-charitamrita-madhya-lila-14-13
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 134-velichie-svyatogo-imeni-1982-01-07-a
+slug: 1982-01-07-a_velichie_svyatogo_imeni
 record_id: 1982.01.07.A
 title: Величие Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 134. Величие Святого Имени. 1982.01.07.A
   index: "134"
   filename: 134-velichie-svyatogo-imeni-1982-01-07-a.md
+  slug: 134-velichie-svyatogo-imeni-1982-01-07-a
 ---
 
 *#00:00:00#*

@@ -1,5 +1,5 @@
 ---
-slug: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe
+slug: 1981-11-12-c2_gde_nahoditsya_gupta_radha-kunda_v_navadvipe
 record_id: 1981.11.12.C2
 title: Где находится гупта Радха-кунда в Навадвипе?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 093. 1981.11.12.C2 Где находится гупта Радха-кунда в Навадвипе?
   index: "093"
   filename: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe.md
+  slug: 093_1981-11-12-c2_sridharmj_gde_nahoditsya_gupta_radha-kunda_v_navadvipe
 ---
 
 **Ученик:** Гуру Махарадж, у меня следующий вопрос: это место в Навадвипе считается *гупта* Говардханом [скрытым Говардханом]. Это означает, что здесь в Навадвипе также есть Сева-кунджа и Радха-кунда?

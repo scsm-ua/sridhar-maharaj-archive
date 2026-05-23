@@ -1,5 +1,5 @@
 ---
-slug: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu
+slug: 1982-02-19-c3_pochemu_ramachandra_sovershal_shiva-pudzhu
 record_id: 1982.02.19.C3
 title: Почему Рамачандра совершал Шива-пуджу?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Рамачандра
     slug: ramachandra
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.21
     slug: bhagavad-gita-3-21
   - title: Бхагавад-гита 3.24
@@ -32,6 +30,7 @@ legacy:
   title: 153. 1982.02.19.С3. Почему Рамачандра совершал Шива-пуджу?
   index: "153"
   filename: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu.md
+  slug: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu
 ---
 
 **Преданный:** Махарадж, правда ли, что Рамачандра совершал *шива-пуджу*?

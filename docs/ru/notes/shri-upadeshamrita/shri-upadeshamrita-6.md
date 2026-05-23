@@ -6,9 +6,10 @@ refs:
   - ../../_full/1982/10/1982.10.25.B.md
   - ../../_full/1983/09/1983.09.23.A.md
   - ../../_full/1983/12/1983.12.04.A.md
-tags:
+scriptures:
   - title: Шри Упадешамрита
     slug: shri-upadeshamrita
+verses:
   - title: Шри Упадешамрита 6
     slug: shri-upadeshamrita-6
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 4-sannyasa-mahaprabhu-chast-2-1983-01-15
+slug: 1983-01-15_sannyasa_mahaprabhu_chast_2
 record_id: 1983.01.15
 title: Санньяса Махапрабху, часть 2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 4. Санньяса Махапрабху, часть 2. 1983.01.15
   index: "4"
   filename: 4-sannyasa-mahaprabhu-chast-2-1983-01-15.md
+  slug: 4-sannyasa-mahaprabhu-chast-2-1983-01-15
 ---
 
 *#00:00:00#*

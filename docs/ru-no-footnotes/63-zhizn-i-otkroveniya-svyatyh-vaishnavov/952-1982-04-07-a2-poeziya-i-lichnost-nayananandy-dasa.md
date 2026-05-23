@@ -1,5 +1,5 @@
 ---
-slug: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa
+slug: 1982-04-07-a2_poeziya_i_lichnost_nayananandy_dasa
 record_id: 1982.04.07.A2
 title: Поэзия и личность Наянананды Даса
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 952. 1982.04.07.A2. Поэзия и личность Наянананды Даса
   index: "952"
   filename: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa.md
+  slug: 952-1982-04-07-a2-poeziya-i-lichnost-nayananandy-dasa
 ---
 
 Не могу видеть… *Дарпане андхе киба кадже* — для того, у кого нет глаз, какой прок в зеркале? Очень-очень сладостный и глубокий смысл здесь. Наянананда. Очень сладостный.

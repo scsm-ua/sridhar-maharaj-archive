@@ -3,9 +3,10 @@ slug: shri-nama-2
 refs:
   - ../../21-prakticheskie-voprosy-propovedi/373-1983-03-31-b3-izvlech-naibolshuyu-vygodu-iz-durnoj-sdelki.md
   - ../../_full/1983/03/1983.03.31.md
-tags:
+scriptures:
   - title: Шри Нама
     slug: shri-nama
+verses:
   - title: Шри Нама 2
     slug: shri-nama-2
 ---

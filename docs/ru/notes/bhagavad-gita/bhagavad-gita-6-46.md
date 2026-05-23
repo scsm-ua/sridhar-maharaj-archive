@@ -17,9 +17,10 @@ refs:
   - ../../_full/1982/12/1982.12.17.A.B.md
   - ../../_full/1983/03/1983.03.02.md
   - ../../_full/1983/07/1983.07.30.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.46
     slug: bhagavad-gita-6-46
 ---

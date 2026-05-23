@@ -1,5 +1,5 @@
 ---
-slug: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha
+slug: 1985-11-07_proslavlenie_shrily_b_s_govindy_maharadzha
 record_id: 1985.11.07
 title: Прославление Шрилы Б.С. Говинды Махараджа.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,33 +23,22 @@ legacy:
   title: 1086. 1985.11.07. Прославление Шрилы Б.С. Говинды Махараджа
   index: "1086"
   filename: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
+  slug: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha
 tags:
-  - title: Гитамахатмйам
-    slug: gitamahatmjam
   - title: Гитамахатмйам 6
     slug: gitamahatmjam-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
     slug: shri-chajtanya-charitamrita-madhya-lila-19-98
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 99
     slug: padyavali-99
-  - title: Сарвасва томара
-    slug: sarvasva-tomara
   - title: Сарвасва томара 1
     slug: sarvasva-tomara-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
     slug: shri-chajtanya-charitamrita-madhya-lila-11-31
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
     slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 3.13
     slug: shri-shri-prapanna-dzhivanamritam-3-13
 ---

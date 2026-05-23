@@ -1,5 +1,5 @@
 ---
-slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
+slug: 1982-04-18-b2-c_vrindavan_das_thakur_chaytanya_bhagavata_i_chaytanya_charitamrita
 record_id: 1982.04.18.B2.C
 title: Вриндаван Дас Тхакур, «Чайтанья Бхагавата» и «Чайтанья Чаритамрита»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Чайтанья Чаритамрита»
   index: "951"
   filename: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita.md
+  slug: 951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita
 ---
 
     ванде ш́рӣ-кр̣ш̣н̣а-чаитанйа-, нитйа̄нандау саходитау

@@ -1,5 +1,5 @@
 ---
-slug: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali
+slug: 1980-07-11-a7_v_nashih_sladchayshih_pesnyah_poetsya_o_pechali
 record_id: 1980.07.11.A7
 title: «В наших сладчайших песнях поется о печали….»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 188. 1980.07.11.A7. «В наших сладчайших песнях поется о печали….»
   index: "188"
   filename: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali.md
+  slug: 188-1980-07-11-a7-v-nashih-sladchajshih-pesnyah-poetsya-o-pechali
 ---
 
 **Преданный:** Необходимо позитивное. Позитивное может быть прямым и косвенным.

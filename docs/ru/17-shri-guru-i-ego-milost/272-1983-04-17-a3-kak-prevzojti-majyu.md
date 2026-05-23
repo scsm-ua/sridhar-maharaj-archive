@@ -1,5 +1,5 @@
 ---
-slug: 272-1983-04-17-a3-kak-prevzojti-majyu
+slug: 1983-04-17-a3_kak_prevzoyti_mayyu
 record_id: 1983.04.17.A3
 title: Как превзойти майю?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Гуру-парампара
     slug: guru-parampara
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 272. 1983.04.17.A3. Как превзойти майю?
   index: "272"
   filename: 272-1983-04-17-a3-kak-prevzojti-majyu.md
+  slug: 272-1983-04-17-a3-kak-prevzojti-majyu
 ---
 
 **Преданный:** Я хочу понять. Скажем, когда *мадхьяма-адхикари*, может быть, даже *каништха-адхикари*, принимает учеников (*шишья*), до какой степени он берет на себя *карму* *шишьи* (учеников)?

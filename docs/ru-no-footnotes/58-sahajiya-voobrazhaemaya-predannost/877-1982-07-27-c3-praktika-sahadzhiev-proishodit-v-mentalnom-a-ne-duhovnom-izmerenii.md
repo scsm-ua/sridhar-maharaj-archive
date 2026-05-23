@@ -1,5 +1,5 @@
 ---
-slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
+slug: 1982-07-27-c3_praktika_sahadzhiev_proishodit_v_mentalnom_a_ne_duhovnom_izmerenii
 record_id: 1982.07.27.C3
 title: Практика сахаджиев происходит в ментальном, а не духовном измерении
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     духовном измерении
   index: "877"
   filename: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii.md
+  slug: 877-1982-07-27-c3-praktika-sahadzhiev-proishodit-v-mentalnom-a-ne-duhovnom-izmerenii
 ---
 
 **Преданный:** У одного из членов этой группы есть проблемы. Он получил посвящение от Кришнадаса Бабаджи из Радха-кунды.

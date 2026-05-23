@@ -1,5 +1,5 @@
 ---
-slug: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty
+slug: 1982-03-31-a2_praktika_bhakti-yogi_9_vidov_predannogo_sluzheniya_i_drugie_aspekty
 record_id: 1982.03.31.A2
 title: Практика бхакти-йоги — 9 видов преданного служения и другие аспекты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Бхакти-йога
     slug: bhakti-joga
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -29,20 +25,14 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
   - title: Бхагавад-гита 4.34
@@ -61,6 +51,7 @@ legacy:
     другие аспекты
   index: "786"
   filename: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
+  slug: 786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли у вас вопросы? У кого-то есть вопросы?

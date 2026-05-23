@@ -1,5 +1,5 @@
 ---
-slug: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim
+slug: 1983-11-24-a2_chelovek_dolzhen_stremitsya_poznat_istinu_i_zatem_pomogat_obresti_drugim
 record_id: 1983.11.24.A2
 title: Человек должен стремиться познать Истину и затем помогать обрести другим
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     помогать обрести другим
   index: "392"
   filename: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim.md
+  slug: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim
 ---
 
 **Преданный:** Гуру Махарадж, как мне следует понять мою связь с таким местом как Венесуэла? И обязанности мои в проповеди…

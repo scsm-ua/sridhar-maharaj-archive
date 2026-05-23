@@ -1,5 +1,5 @@
 ---
-slug: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae
+slug: 1983-11-02-b3_samopredanie_vysochayshego_kachestva_dostizhimo_v_rupanuga-sampradae
 record_id: 1983.11.02.B3
 title: Самопредание высочайшего качества достижимо в рупануга-сампрадае
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     рупануга-сампрадае
   index: "458"
   filename: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae.md
+  slug: 458-1983-11-02-b3-samopredanie-vysochajshego-kachestva-dostizhimo-v-rupanuga-sampradae
 ---
 
 **Преданный:** А какое самопредание — высочайшего качества?

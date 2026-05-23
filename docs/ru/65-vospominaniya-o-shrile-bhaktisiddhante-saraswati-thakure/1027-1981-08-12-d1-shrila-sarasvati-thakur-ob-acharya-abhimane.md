@@ -1,5 +1,5 @@
 ---
-slug: 1027-1981-08-12-d1-shrila-sarasvati-thakur-ob-acharya-abhimane
+slug: 1981-08-12-d1_shrila_sarasvati_thakur_ob_acharya-abhimane
 record_id: 1981.08.12.D1
 title: Шрила Сарасвати Тхакур об ачарья-абхимане
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1027. 1981.08.12.D1. Шрила Сарасвати Тхакур об ачарья-абхимане
   index: "1027"
   filename: 1027-1981-08-12-d1-shrila-sarasvati-thakur-ob-acharya-abhimane.md
+  slug: 1027-1981-08-12-d1-shrila-sarasvati-thakur-ob-acharya-abhimane
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
 ---

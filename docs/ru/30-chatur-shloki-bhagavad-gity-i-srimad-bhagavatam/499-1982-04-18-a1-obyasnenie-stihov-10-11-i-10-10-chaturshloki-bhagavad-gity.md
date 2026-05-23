@@ -1,5 +1,5 @@
 ---
-slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
+slug: 1982-04-18-a1_obyasnenie_stihov_10_11_i_10_10_chaturshloki_bhagavad-gity
 record_id: 1982.04.18.A1
 title: Объяснение стихов 10.11 и 10.10 чатуршлоки «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Чатур-шлока
     slug: chatur-shloka
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.11
     slug: bhagavad-gita-10-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.57
     slug: shri-chajtanya-charitamrita-madhya-lila-15-57
   - title: Бхагавад-гита 10.9
@@ -29,8 +25,6 @@ tags:
     slug: bhagavad-gita-10-10
   - title: Бхагавад-гита 10.12–13
     slug: bhagavad-gita-10-12-13
-  - title: Шри Чаураграганья-пуруша-аштака
-    slug: shri-chauragraganya-purusha-ashtaka
   - title: Шри Чаураграганья-пуруша-аштака 1
     slug: shri-chauragraganya-purusha-ashtaka-1
 links:
@@ -45,6 +39,7 @@ legacy:
     «Бхагавад-гиты»
   index: "499"
   filename: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity.md
+  slug: 499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity
 ---
 
     теш̣̄ам эва̄нукампа̄ртхам ахам аджн̃а̄на-джам̇ тамах̣

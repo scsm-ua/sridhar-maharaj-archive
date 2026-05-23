@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-antya-lila-20-39
 refs:
   - ../../_full/1982/03/1982.03.31.A.md
   - ../../_full/1982/11/1982.11.12.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.39
     slug: shri-chajtanya-charitamrita-antya-lila-20-39
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
+slug: 1982-11-07-c8-d1_lichnost_shri_chaytani_v_poezii_svarpupa_damodara_vrindavana_dasa_thakura_i_shridhara_maharadzha
 record_id: 1982.11.07.C8.D1
 title: Личность Шри Чайтаньи в поэзии Сварпупа Дамодара, Вриндавана даса Тхакура
   и Шридхара Махараджа
@@ -28,6 +28,7 @@ legacy:
     Вриндавана даса Тхакура и Шридхара Махараджа
   index: "109"
   filename: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha.md
+  slug: 109-1982-11-07-c8-d1-lichnost-shri-chajtani-v-poezii-svarpupa-damodara-vrindavana-dasa-thakura-i-shridhara-maharadzha
 ---
 
 **Слушатель:** Гуру Махарадж, в «Нектаре преданности» наш Гурудев [Шрила Бхактиведанта Свами] написал: «Было время, когда Кришна захотел разделить Себя на Радху и Кришну». Выходит, что было время, когда Они не были разделены. Было ли такое время, когда Радха и Кришна не были разделены?

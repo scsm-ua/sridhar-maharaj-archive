@@ -1,5 +1,5 @@
 ---
-slug: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily
+slug: 1982-01-28-a_shukadev_shri_chaytanya_i_gaudiya_math_yavlyayut_chistotu_krishna-lily
 record_id: 1982.01.28.A
 title: Шукадев, Шри Чайтанья и Гаудия Матх являют чистоту Кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кришна-лилы
   index: "164"
   filename: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
+  slug: 164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily
 ---
 
 В свое время я читал английский роман «Монастырь и сердце», написанный неким мистером Ридом. Джерард и Маргарет. Их сын Иасмас(?) считается гением западной культуры. Вся европейская литература была обогащена его высоким образом мыслей, так нам говорили. Отца Иасмаса звали Джерард, мать — Маргарет. И он был родом из Голландии.

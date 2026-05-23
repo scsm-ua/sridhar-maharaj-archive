@@ -1,5 +1,5 @@
 ---
-slug: 221-1982-11-02-a4-v-bhagavad-gite-i-shrimad-bhagavatam-pokazano-kak-raznoobraznye-yavleniya-svyazany-s-predannostyu
+slug: 1982-11-02-a4_v_bhagavad-gite_i_shrimad_bhagavatam_pokazano_kak_raznoobraznye_yavleniya_svyazany_s_predannostyu
 record_id: 1982.11.02.A4
 title: В «Бхагавад-гите» и «Шримад Бхагаватам» показано, как разнообразные
   явления связаны с преданностью
@@ -25,6 +25,7 @@ legacy:
     разнообразные явления связаны с преданностью
   index: "221"
   filename: 221-1982-11-02-a4-v-bhagavad-gite-i-shrimad-bhagavatam-pokazano-kak-raznoobraznye-yavleniya-svyazany-s-predannostyu.md
+  slug: 221-1982-11-02-a4-v-bhagavad-gite-i-shrimad-bhagavatam-pokazano-kak-raznoobraznye-yavleniya-svyazany-s-predannostyu
 ---
 
 Существуют столь многие явления под именем религии, но каково положение этих религий, как они могут быть приведены в гармонию с преданностью? Если мы будем изучать Бхагавад-гиту, то мы увидим, что там присутствуют столь многие явления: йога, *санкхья*, *гьяна*, *веданта*, преданность также описана, карма представлена. Столь многие явления представлены в Бхагавад-гите, и как они связаны с чистой, высшей преданностью. Если мы изучим детально это, то мы сумеем приобрести знания сравнительного анализа всего религиозного мира, мира религиозных идей, по большому счету.

@@ -2,9 +2,10 @@
 slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2
 refs:
   - ../../31-glubokoe-vospriyatie-realnosti/510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2
 ---

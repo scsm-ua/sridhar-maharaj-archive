@@ -2,9 +2,10 @@
 slug: prema-dhama-deva-stotram-34
 refs:
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/981-1982-04-16-c4-prisutstvie-mahaprabhu-pri-napisanii-tridtsat-chetvertogo-stiha-shri-premadhama-deva-stotram.md
-tags:
+scriptures:
   - title: Према-Дхама-Дева-стотрам
     slug: prema-dhama-deva-stotram
+verses:
   - title: Према-Дхама-Дева-стотрам 34
     slug: prema-dhama-deva-stotram-34
 ---

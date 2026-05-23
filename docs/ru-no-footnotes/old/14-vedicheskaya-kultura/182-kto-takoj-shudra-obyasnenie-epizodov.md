@@ -1,5 +1,5 @@
 ---
-slug: 182-kto-takoj-shudra-obyasnenie-epizodov
+slug: 1981-03-04-b3_kto_takoy_shudra_obyasnenie_epizodov_ramayany
 record_id: 1981.03.04.B3
 title: Кто такой шудра? Объяснение эпизодов Рамаяны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 182. Кто такой шудра? Объяснение эпизодов Рамаяны. 1981.03.04.B3
   index: "182"
   filename: 182-kto-takoj-shudra-obyasnenie-epizodov.md
+  slug: 182-kto-takoj-shudra-obyasnenie-epizodov
 ---
 
 **Преданный:** Махарадж, есть вопрос о том, как духовный учитель принимает карму ученика. Поскольку, вначале харинама, посвящение, на этой стадии он принимает карму. Затем, мантра, дикша.

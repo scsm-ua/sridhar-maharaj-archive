@@ -13,8 +13,6 @@ category:
 tags:
   - title: Рамачандра
     slug: ramachandra
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
 links:

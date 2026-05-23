@@ -1,5 +1,5 @@
 ---
-slug: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura
+slug: 1982-02-01-b_nepokolebimaya_vera_shrily_sarasvati_thakura
 record_id: 1982.02.01.B
 title: Непоколебимая вера Шрилы Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
   index: "1006"
   filename: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
+  slug: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura
 ---
 
 **Преданный:** Речь Шрилы Бхактисиддханты Сарасвати Тхакура, обращенная к *санньяси*, которые отправлялись на запад, в этой речи он говорит: «Чайтанья Матх — это проявление Божественности». Он просит распространить это явление повсюду.

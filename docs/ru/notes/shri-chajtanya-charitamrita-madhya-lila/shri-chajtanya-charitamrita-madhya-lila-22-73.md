@@ -4,9 +4,10 @@ refs:
   - ../../17-shri-guru-i-ego-milost/285-1982-05-07-a2-umonastroenie-i-kachestva-achari.md
   - ../../25-sluzhenie-krishne-trud-lyubvi/433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam.md
   - ../../_full/1982/05/1982.05.07.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
     slug: shri-chajtanya-charitamrita-madhya-lila-22-73
 ---

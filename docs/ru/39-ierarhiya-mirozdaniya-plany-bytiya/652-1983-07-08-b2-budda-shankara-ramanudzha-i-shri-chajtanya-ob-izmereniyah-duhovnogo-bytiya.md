@@ -1,5 +1,5 @@
 ---
-slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
+slug: 1983-07-08-b2_budda_shankara_ramanudzha_i_shri_chaytanya_ob_izmereniyah_duhovnogo_bytiya
 record_id: 1983.07.08.B2
 title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     измерениях духовного бытия
   index: "652"
   filename: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
+  slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
   - title: Бхагавад-гита 8.3
@@ -45,12 +40,8 @@ tags:
     slug: bhagavad-gita-15-16
   - title: Бхагавад-гита 15.18
     slug: bhagavad-gita-15-18
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
     slug: shri-chajtanya-charitamrita-adi-lila-4-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.3.23
     slug: shrimad-bhagavatam-4-3-23
   - title: Бхагавад-гита 14.27
@@ -61,8 +52,6 @@ tags:
     slug: bhagavad-gita-8-16
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
     slug: shri-chajtanya-charitamrita-antya-lila-20-37
   - title: Бхагавад-гита 3.42

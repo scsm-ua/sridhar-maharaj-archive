@@ -1,5 +1,5 @@
 ---
-slug: 286-1981-03-12-s2-proverka-iskrennosti-achari
+slug: 1981-03-12-c2_proverka_iskrennosti_achari
 record_id: 1981.03.12.C2
 title: Проверка искренности ачарьи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 286. 1981.03.12.С2. Проверка искренности ачарьи
   index: "286"
   filename: 286-1981-03-12-s2-proverka-iskrennosti-achari.md
+  slug: 286-1981-03-12-s2-proverka-iskrennosti-achari
 ---
 
 **Преданный:** У меня есть вопрос.

@@ -1,5 +1,5 @@
 ---
-slug: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie
+slug: 1981-11-12-b4-2_otnosheniya_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimayut_naivysshee_polozhenie
 record_id: 1981.11.12.B4.2
 title: Отношения с Господом в образе, подобном человеческому, занимают наивысшее
   положение
@@ -36,6 +36,7 @@ legacy:
     человеческому, занимают наивысшее положение
   index: "042"
   filename: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie.md
+  slug: 042_1981-11-12-b4-2_sridharmj_otnoshenija_s_gospodom_v_obraze_podobnom_chelovecheskomu_zanimajut_naivysshee_polozhenie
 ---
 
 Только через служение, только через самопредание мы можем двигаться вверх. Наслаждение и сухое отречение — эти два принципа являются нашими врагами. Наслаждение означает «эксплуатация», так называемый «прогресс», и также дух сухого отречения.

@@ -1,5 +1,5 @@
 ---
-slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
+slug: 1983-02-12-a4_tri_urovnya_predannyh_soglasno_ucheniyu_shri_chaytani_bhagavatam_i_puran
 record_id: 1983.02.12.A4
 title: Три уровня преданных согласно учению Шри Чайтаньи, Бхагаватам и Пуран
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Бхагаватам и Пуран
   index: "255"
   filename: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran.md
+  slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
     slug: shri-chajtanya-charitamrita-madhya-lila-22-74
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.47
     slug: shrimad-bhagavatam-11-2-47
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
@@ -45,8 +42,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-275
   - title: Шримад-Бхагаватам 11.2.45
     slug: shrimad-bhagavatam-11-2-45
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.200
     slug: bhakti-rasamrita-sindhu-1-2-200
   - title: Бхакти-расамрита-синдху 1.2.187

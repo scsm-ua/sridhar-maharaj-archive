@@ -1,5 +1,5 @@
 ---
-slug: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti
+slug: 1983-11-22-a2_poklonenie_shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti
 record_id: 1983.11.22.A2
 title: Поклонение Шакти приводит к различным результатам в зависимости от искренности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     зависимости от искренности
   index: "682"
   filename: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti.md
+  slug: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti
 tags:
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -39,12 +36,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
 ---

@@ -2,9 +2,10 @@
 slug: bhakti-sandarbha-173
 refs:
   - ../../_full/1981/09/1981.09.11.B.C.md
-tags:
+scriptures:
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
+verses:
   - title: Бхакти-сандарбха 173
     slug: bhakti-sandarbha-173
 ---

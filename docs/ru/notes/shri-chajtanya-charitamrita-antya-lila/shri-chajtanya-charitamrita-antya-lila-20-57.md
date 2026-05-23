@@ -5,9 +5,10 @@ refs:
   - ../../60-uchenie-vaishnavov-i-hristianstvo/903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy.md
   - ../../_full/1982/09/1982.09.05.A.md
   - ../../_full/1983/01/1983.01.02.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.57
     slug: shri-chajtanya-charitamrita-antya-lila-20-57
 ---

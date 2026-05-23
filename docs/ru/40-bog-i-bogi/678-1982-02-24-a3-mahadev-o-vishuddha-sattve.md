@@ -1,5 +1,5 @@
 ---
-slug: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve
+slug: 1982-02-24-a3_mahadev_o_vishuddha-sattve
 record_id: 1982.02.24.A3
 title: Махадев о вишуддха-саттве
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 678. 1982.02.24.А3. Махадев о вишуддха-саттве
   index: "678"
   filename: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve.md
+  slug: 678-1982-02-24-a3-mahadev-o-vishuddha-sattve
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
     slug: shri-chajtanya-charitamrita-adi-lila-4-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.3.23
     slug: shrimad-bhagavatam-4-3-23
 ---

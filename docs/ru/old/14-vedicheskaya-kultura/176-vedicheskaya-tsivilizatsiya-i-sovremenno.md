@@ -1,5 +1,5 @@
 ---
-slug: 176-vedicheskaya-tsivilizatsiya-i-sovremenno
+slug: 1983-01-22-a-b_vedicheskaya_tsivilizatsiya_i_sovremennost
 record_id: 1983.01.22.A.B
 title: Ведическая цивилизация и современность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 176. Ведическая цивилизация и современность. 1983.01.22.A.B
   index: "176"
   filename: 176-vedicheskaya-tsivilizatsiya-i-sovremenno.md
+  slug: 176-vedicheskaya-tsivilizatsiya-i-sovremenno
 ---
 
 *#00:00:00#*

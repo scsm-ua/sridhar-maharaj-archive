@@ -1,5 +1,5 @@
 ---
-slug: 282-istorii-zhizni-i-uchenie-madhava-achar
+slug: 1983-02-21_istorii_zhizni_i_uchenie_madhava_achari_ramanudzha_achari_i_yamuna_achari_-22
 record_id: 1983.02.21
 title: Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи. -22.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -33,6 +33,7 @@ legacy:
     Ачарьи. 1983.02.21-22
   index: "282"
   filename: 282-istorii-zhizni-i-uchenie-madhava-achar.md
+  slug: 282-istorii-zhizni-i-uchenie-madhava-achar
 ---
 
 *#00:00:22#*

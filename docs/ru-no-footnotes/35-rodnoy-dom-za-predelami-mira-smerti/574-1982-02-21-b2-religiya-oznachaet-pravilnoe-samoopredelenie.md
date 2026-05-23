@@ -1,5 +1,5 @@
 ---
-slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
+slug: 1982-02-21-b2_religiya_oznachaet_pravilnoe_samoopredelenie
 record_id: 1982.02.21.B2
 title: Религия означает «правильное самоопределение»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
   index: "574"
   filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
+  slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
 ---
 
 ## Мгновения Прекрасной Реальности (часть 2.2)

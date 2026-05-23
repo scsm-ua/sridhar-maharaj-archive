@@ -10,9 +10,10 @@ refs:
   - ../../_full/1983/02/1983.02.11.md
   - ../../_full/1983/03/1983.03.17.md
   - ../../_full/1983/08/1983.08.13.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
     slug: shri-chajtanya-charitamrita-madhya-lila-22-83
 ---

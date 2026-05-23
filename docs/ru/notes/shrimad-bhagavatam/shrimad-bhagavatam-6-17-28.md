@@ -3,15 +3,16 @@ slug: shrimad-bhagavatam-6-17-28
 refs:
   - ../../_full/1983/08/1983.08.07.A.B.md
   - ../../_full/1983/10/1983.10.29.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.216
     slug: shri-chajtanya-charitamrita-madhya-lila-19-216
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.270
     slug: shri-chajtanya-charitamrita-madhya-lila-9-270
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.17.28
     slug: shrimad-bhagavatam-6-17-28
 ---

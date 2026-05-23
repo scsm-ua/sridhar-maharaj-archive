@@ -4,9 +4,10 @@ refs:
   - ../../26-rupanuga-sampradaya/457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
   - ../../_full/1981/08/1981.08.18.md
   - ../../_full/1982/12/1982.12.03.A.B.md
-tags:
+scriptures:
   - title: Шри Према-бхакти-чандрика
     slug: shri-prema-bhakti-chandrika
+verses:
   - title: Шри Према-бхакти-чандрика 2
     slug: shri-prema-bhakti-chandrika-2
 ---

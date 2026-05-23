@@ -1,5 +1,5 @@
 ---
-slug: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom
+slug: 1982-07-02-b3_kak_sambandha_abhideya_i_prayodzhana_svyazany_s_viddhi-i_raga-margom
 record_id: 1982.07.02.B3
 title: Как самбандха, абхидея и прайоджана связаны с виддхи- и рага-маргом?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -31,6 +31,7 @@ legacy:
     и рага-маргом?
   index: "150"
   filename: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom.md
+  slug: 150-1982-07-02-b3-kak-sambandha-abhideya-i-prajodzhana-svyazany-s-viddhi-i-raga-margom
 ---
 
 **Преданный:** Махарадж, различные стадии развития — *абхидея*, *самбандха* и *прайоджана* — это так же различные стадии преданного служения, как, скажем, *виддхи-бхакти*, *рагануга-бхакти*?

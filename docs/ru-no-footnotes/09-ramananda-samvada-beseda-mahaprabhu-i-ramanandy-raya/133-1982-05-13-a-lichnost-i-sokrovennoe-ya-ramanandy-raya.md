@@ -1,5 +1,5 @@
 ---
-slug: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya
+slug: 1982-05-13-a_lichnost_i_sokrovennoe_ya_ramanandy_raya
 record_id: 1982.05.13.A
 title: Личность и сокровенное «я» Рамананды Рая
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 133. 1982.05.13.A. Личность и сокровенное «я» Рамананды Рая
   index: "133"
   filename: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya.md
+  slug: 133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya
 ---
 
 Он [Рамананда Рай] был *грихастхой*, однако имел «сертификат» от Махапрабху. По мнению Махапрабху он являлся владыкой своих чувств, абсолютным, совершенным владыкой.

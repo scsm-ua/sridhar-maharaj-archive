@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/10/1982.10.21.A.B.md
   - ../../_full/1983/10/1983.10.14.A.B.md
   - ../../_full/1983/10/1983.10.22.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.42
     slug: shri-chajtanya-charitamrita-madhya-lila-23-42
 ---

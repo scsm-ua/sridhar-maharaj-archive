@@ -1,5 +1,5 @@
 ---
-slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
+slug: 1983-02-13-a2_dusha_chudesna_i_udivitelna_mir_vysshey_dushi
 record_id: 1983.02.13.A2
 title: Душа чудесна и удивительна. Мир Высшей Души.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.29
     slug: bhagavad-gita-2-29
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 582. 1983.02.13.A2. Душа чудесна и удивительна. Мир Высшей Души
   index: "582"
   filename: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi.md
+  slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
 ---
 
     [шлока]

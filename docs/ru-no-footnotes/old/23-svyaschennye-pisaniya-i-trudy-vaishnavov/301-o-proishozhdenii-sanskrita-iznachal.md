@@ -1,5 +1,5 @@
 ---
-slug: 301-o-proishozhdenii-sanskrita-iznachal
+slug: 1981-08-20-a1_o_proishozhdenii_sanskrita_iznachalnaya_realnost
 record_id: 1981.08.20.A1
 title: О происхождении санскрита. Изначальная Реальность.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 301. О происхождении санскрита. Изначальная Реальность. 1981.08.20.A1
   index: "301"
   filename: 301-o-proishozhdenii-sanskrita-iznachal.md
+  slug: 301-o-proishozhdenii-sanskrita-iznachal
 ---
 
 *#00:00:00#*

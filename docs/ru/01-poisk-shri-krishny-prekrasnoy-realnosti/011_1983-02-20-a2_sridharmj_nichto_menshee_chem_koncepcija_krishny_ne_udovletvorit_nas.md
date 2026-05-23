@@ -1,5 +1,5 @@
 ---
-slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
+slug: 1983-02-20-a2_nichto_menshee_chem_kontseptsiya_krishny_ne_udovletvorit_nas
 record_id: 1983.02.20.A2
 title: Ничто меньшее, чем концепция Кришны не удовлетворит нас
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,14 @@ legacy:
   title: 011. 1983.02.20.A2 Ничто меньшее, чем концепция Кришны не удовлетворит нас
   index: "011"
   filename: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas.md
+  slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Бхагавад-гита 6.40

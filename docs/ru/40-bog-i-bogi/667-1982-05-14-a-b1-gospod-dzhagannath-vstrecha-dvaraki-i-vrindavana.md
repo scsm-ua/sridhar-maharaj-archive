@@ -1,5 +1,5 @@
 ---
-slug: 667-1982-05-14-a-b1-gospod-dzhagannath-vstrecha-dvaraki-i-vrindavana
+slug: 1982-05-14-a-b1_gospod_dzhagannath_vstrecha_dvaraki_i_vrindavana
 record_id: 1982.05.14.A.B1
 title: Господь Джаганнатх — встреча Двараки и Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 667. 1982.05.14.A.B1. Господь Джаганнатх — встреча Двараки и Вриндавана
   index: "667"
   filename: 667-1982-05-14-a-b1-gospod-dzhagannath-vstrecha-dvaraki-i-vrindavana.md
+  slug: 667-1982-05-14-a-b1-gospod-dzhagannath-vstrecha-dvaraki-i-vrindavana
 ---
 
 **Преданный:** Махарадж, однажды вы рассказывали о форме, об образе Господа Джаганнатха. Как Он обрел этот образ и почему? Почему Баладев и Субхадра также находятся рядом с Ним в *дварака*—*лиле*, не могли бы вы рассказать нам об этом?

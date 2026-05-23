@@ -12,9 +12,10 @@ refs:
   - ../../_full/1982/11/1982.11.12.B.md
   - ../../_full/1983/01/1983.01.26.B.C.md
   - ../../_full/1983/07/1983.07.19.md
-tags:
+scriptures:
   - title: Чхандогья-упанишад
     slug: chhandogya-upanishad
+verses:
   - title: Чхандогья-упанишад 3.14.1
     slug: chhandogya-upanishad-3-14-1
 ---

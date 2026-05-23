@@ -1,5 +1,5 @@
 ---
-slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
+slug: 1983-11-15-b2-c_prinyatie_i_otverzhenie_mnogochislennyh_kontseptsiy_i_guru_v_duhovnom_samoopredelenii
 record_id: 1983.11.15.B2.C
 title: Принятие и отвержение многочисленных концепций и гуру в духовном
   самоопределении
@@ -25,17 +25,12 @@ legacy:
     гуру в духовном самоопределении
   index: "307"
   filename: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii.md
+  slug: 307-1983-11-15-b2-c-prinyatie-i-otverzhenie-mnogochislennyh-kontseptsij-i-guru-v-duhovnom-samoopredelenii
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.11
     slug: bhagavad-gita-4-11
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -46,8 +41,6 @@ tags:
     slug: bhagavad-gita-18-66
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.4.17
     slug: shrimad-bhagavatam-2-4-17
 ---

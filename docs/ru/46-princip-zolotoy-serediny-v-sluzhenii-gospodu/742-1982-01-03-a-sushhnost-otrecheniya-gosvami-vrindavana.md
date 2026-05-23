@@ -1,5 +1,5 @@
 ---
-slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
+slug: 1982-01-03-a_sushchnost_otrecheniya_gosvami_vrindavana
 record_id: 1982.01.03.A
 title: Сущность отречения Госвами Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,25 +23,18 @@ legacy:
   title: 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
   index: "742"
   filename: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
+  slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
     slug: shri-chajtanya-charitamrita-madhya-lila-24-47
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
     slug: shri-chajtanya-charitamrita-madhya-lila-25-157
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
     slug: shri-chajtanya-charitamrita-antya-lila-6-236
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 12.18–19
     slug: bhagavad-gita-12-18-19
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237

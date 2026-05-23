@@ -1,5 +1,5 @@
 ---
-slug: 1026-1982-05-18-b2-b4-b6-padenie-uchenika-vremennoe-yavlenie
+slug: 1982-05-18-b2-b4-b6_padenie_uchenika_vremennoe_yavlenie
 record_id: 1982.05.18.B2.B4.B6
 title: Падение ученика – временное явление
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1026. 1982.05.18.B2.B4.B6. Падение ученика – временное явление
   index: "1026"
   filename: 1026-1982-05-18-b2-b4-b6-padenie-uchenika-vremennoe-yavlenie.md
+  slug: 1026-1982-05-18-b2-b4-b6-padenie-uchenika-vremennoe-yavlenie
 ---
 
 **Преданный:** Махарадж?

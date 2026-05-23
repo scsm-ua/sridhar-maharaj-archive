@@ -1,5 +1,5 @@
 ---
-slug: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne
+slug: 1983-06-05-c2_nastroenie_gopi_ideal_predannosti_krishne
 record_id: 1983.06.05.C2
 title: Настроение гопи — идеал преданности Кришне
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 483. 1983.06.05.C2. Настроение гопи — идеал преданности Кришне
   index: "483"
   filename: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne.md
+  slug: 483-1983-06-05-c2-nastroenie-gopi-ideal-predannosti-krishne
 ---
 
 *#00:57:00#*

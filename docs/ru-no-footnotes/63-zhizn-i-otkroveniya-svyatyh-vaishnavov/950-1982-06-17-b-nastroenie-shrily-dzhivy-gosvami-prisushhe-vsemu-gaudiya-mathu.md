@@ -1,5 +1,5 @@
 ---
-slug: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu
+slug: 1982-06-17-b_nastroenie_shrily_dzhivy_gosvami_prisushche_vsemu_gaudiya_mathu
 record_id: 1982.06.17.B
 title: Настроение Шрилы Дживы Госвами присуще всему Гаудия Матху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 950. 1982.06.17.B. Настроение Шрилы Дживы Госвами присуще всему Гаудия Матху
   index: "950"
   filename: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu.md
+  slug: 950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu
 ---
 
 **Акхаянанда Махарадж:** Махарадж, я читал о том, что Рупа Госвами работал во Вриндаване над переводом книг, и некто Валлабха Бхатта заявил ему: «Я поправлю твои книги, внесу исправления». И Джива Госвами был разгневан.

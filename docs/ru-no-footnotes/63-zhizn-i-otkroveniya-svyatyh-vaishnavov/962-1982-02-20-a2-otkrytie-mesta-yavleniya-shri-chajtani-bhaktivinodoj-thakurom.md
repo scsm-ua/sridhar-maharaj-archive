@@ -1,5 +1,5 @@
 ---
-slug: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom
+slug: 1982-02-20-a2_otkrytie_mesta_yavleniya_shri_chaytani_bhaktivinodoy_thakurom
 record_id: 1982.02.20.A2
 title: Открытие места Явления Шри Чайтаньи Бхактивинодой Тхакуром
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Тхакуром
   index: "962"
   filename: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom.md
+  slug: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom
 ---
 
 **Преданный:** Бхактивинод Тхакур, когда он занимался правительственной службой, планировал быть переведенным в этом округ?

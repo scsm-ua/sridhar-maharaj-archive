@@ -31,9 +31,10 @@ refs:
   - ../../_full/1983/10/1983.10.16.A.B.md
   - ../../_full/1983/10/1983.10.29.B.md
   - ../../_full/1984/01/1984.01.08.A.B1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
 ---

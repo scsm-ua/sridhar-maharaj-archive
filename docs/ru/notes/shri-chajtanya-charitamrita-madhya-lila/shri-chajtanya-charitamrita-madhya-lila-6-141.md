@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-6-141
 refs:
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
   - ../../_full/1982/02/1982.02.25.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.141
     slug: shri-chajtanya-charitamrita-madhya-lila-6-141
 ---

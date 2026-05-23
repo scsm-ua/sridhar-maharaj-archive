@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-3-33-7
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
   - ../../_full/1982/05/1982.05.09.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.33.7
     slug: shrimad-bhagavatam-3-33-7
 ---

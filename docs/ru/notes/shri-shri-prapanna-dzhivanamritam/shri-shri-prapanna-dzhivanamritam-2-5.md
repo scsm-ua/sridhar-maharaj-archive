@@ -3,9 +3,10 @@ slug: shri-shri-prapanna-dzhivanamritam-2-5
 refs:
   - ../../04-vrindavan-zhit-odnoy-semyey-s-bogom/043_1973-03-17-1_sridharmj_v_duhovnom_mire_schastye_v_izobilii_a_v_materialnom_v_deficiite.md
   - ../../_full/1973/03/1973.03.00.A.B.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 2.5
     slug: shri-shri-prapanna-dzhivanamritam-2-5
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
+slug: 1982-11-07-c4_otverzhenie_posrednika_mezhdu_predannym_i_gospodom_vozmozhno_lish_na_vneshnem_urovne
 record_id: 1982.11.07.C4
 title: Отвержение посредника между преданным и Господом возможно лишь на внешнем
   уровне
@@ -25,21 +25,16 @@ legacy:
     возможно лишь на внешнем уровне
   index: "300"
   filename: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne.md
+  slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.29.46
     slug: shrimad-bhagavatam-4-29-46
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
   - title: Шримад-Бхагаватам 11.5.11
     slug: shrimad-bhagavatam-11-5-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.15
     slug: bhagavad-gita-15-15
 ---

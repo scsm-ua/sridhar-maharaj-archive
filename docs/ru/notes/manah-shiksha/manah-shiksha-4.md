@@ -2,9 +2,10 @@
 slug: manah-shiksha-4
 refs:
   - ../../_full/1982/10/1982.10.23.B.md
-tags:
+scriptures:
   - title: Манах-шикша
     slug: manah-shiksha
+verses:
   - title: Манах-шикша 4
     slug: manah-shiksha-4
 ---

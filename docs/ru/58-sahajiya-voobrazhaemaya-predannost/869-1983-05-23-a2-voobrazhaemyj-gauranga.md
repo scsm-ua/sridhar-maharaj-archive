@@ -1,5 +1,5 @@
 ---
-slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
+slug: 1983-05-23-a2_voobrazhaemyy_gauranga
 record_id: 1983.05.23.A2
 title: Воображаемый Гауранга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 869. 1983.05.23.A2. Воображаемый Гауранга
   index: "869"
   filename: 869-1983-05-23-a2-voobrazhaemyj-gauranga.md
+  slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 ---

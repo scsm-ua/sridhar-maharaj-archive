@@ -1,5 +1,5 @@
 ---
-slug: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti
+slug: 1983-11-22-a2_poklonenie_shakti_privodit_k_razlichnym_rezultatam_v_zavisimosti_ot_iskrennosti
 record_id: 1983.11.22.A2
 title: Поклонение Шакти приводит к различным результатам в зависимости от искренности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     зависимости от искренности
   index: "682"
   filename: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti.md
+  slug: 682-1983-11-22-a2-poklonenie-shakti-privodit-k-razlichnym-rezultatam-v-zavisimosti-ot-iskrennosti
 ---
 
 **Преданный:** Гуру Махарадж, есть такое специфическое место в мире, где богине Кали поклоняются на каждом шагу, и похоже, что нигде в мире люди настолько не страдают, как в Калькутте.

@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-6-45
 refs:
   - ../../_full/1981/11/1981.11.24.A.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.45
     slug: shri-chajtanya-charitamrita-madhya-lila-6-45
 ---

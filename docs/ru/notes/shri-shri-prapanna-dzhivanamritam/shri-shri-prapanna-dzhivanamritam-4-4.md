@@ -2,9 +2,10 @@
 slug: shri-shri-prapanna-dzhivanamritam-4-4
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 4.4
     slug: shri-shri-prapanna-dzhivanamritam-4-4
 ---

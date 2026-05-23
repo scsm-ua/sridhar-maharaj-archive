@@ -5,9 +5,10 @@ refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/629-1982-02-18-a3-gyana-i-vigyana.md
   - ../../_full/1982/05/1982.05.15.A.B1.md
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.2
     slug: bhagavad-gita-7-2
 ---

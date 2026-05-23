@@ -1,5 +1,5 @@
 ---
-slug: 1127-1983-11-14-b5-b7-obsuzhdenie-knig-posvyashhennyh-shikshashtake-i-dasha-mula-tattve
+slug: 1983-11-14-b5-b7_obsuzhdenie_knig_posvyashchennyh_shikshashtake_i_dasha-mula-tattve
 record_id: 1983.11.14.B5.B7
 title: Обсуждение книг, посвященных «Шикшаштаке» и «Даша-мула-таттве»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     «Даша-мула-таттве»
   index: "1127"
   filename: 1127-1983-11-14-b5-b7-obsuzhdenie-knig-posvyashhennyh-shikshashtake-i-dasha-mula-tattve.md
+  slug: 1127-1983-11-14-b5-b7-obsuzhdenie-knig-posvyashhennyh-shikshashtake-i-dasha-mula-tattve
 ---
 
 **Госвами Махарадж:** Мы думали о книге, посвященной «Шикшаштакам», как вы предложили, «Шикшаштакам» с вашими комментариями…

@@ -1,5 +1,5 @@
 ---
-slug: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija
+slug: 1982-07-04-a1_absolyutnoe_blago_i_krasota_naibolee_tonkie_vseobemlyushchie_glubokie_i_mogushchestvennye_yavleniya
 record_id: 1982.07.04.A1
 title: Абсолютное Благо и Красота — наиболее тонкие, всеобъемлющие, глубокие и
   могущественные явления
@@ -28,6 +28,7 @@ legacy:
     всеобъемлющие, глубокие и могущественные явления
   index: "038"
   filename: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija.md
+  slug: 038_1982-07-04-a1_sridharmj_absoljutnoe_blago_i_krasota-naibolee_tonkie_vseobemljushhie_glubokie_i_mogushhestvennye_javlenija
 ---
 
 Эфир находится повсюду здесь, и также за пределами этого остается лишь эфир. Таким образом, грубое начало и более тонкие реалии: *Бхува-лока*, *Бхур*, *Бхува*, *Джана*, *Тапа*, *Махар*, *Сатья* — все это присутствует в тонком вечном существовании. И затем *Вираджа*, *Пракрити*, затем *Брахмалока*, и это так же внутри и вовне всего, затем *Паравйома*. И *Паравйома* так же находится внутри и вовне всего. Затем Голока, и Голока находится внутри и вовне *Паравйомы* так же, что говорить о более грубых измерениях.

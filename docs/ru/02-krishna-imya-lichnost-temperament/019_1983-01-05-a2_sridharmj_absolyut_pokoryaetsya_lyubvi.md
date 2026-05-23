@@ -1,5 +1,5 @@
 ---
-slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
+slug: 1983-01-05-a2_absolyut_pokoryaetsya_lyubvi
 record_id: 1983.01.05.A2
 title: Абсолют покоряется любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,20 +17,12 @@ tags:
     slug: vera
   - title: Любовь
     slug: lyubov
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.62
     slug: shri-chajtanya-charitamrita-madhya-lila-22-62
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 9.4.63
     slug: shrimad-bhagavatam-9-4-63
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
 links:
@@ -44,6 +36,7 @@ legacy:
   title: 019. 1983.01.05.A2 Абсолют покоряется любви
   index: "019"
   filename: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi.md
+  slug: 019_1983-01-05-a2_sridharmj_absolyut_pokoryaetsya_lyubvi
 ---
 
 **Преданный:** Гуру Махарадж?

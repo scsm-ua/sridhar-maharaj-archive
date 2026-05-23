@@ -9,13 +9,14 @@ refs:
   - ../../_full/1982/04/1982.04.23.A.B.md
   - ../../_full/1982/07/1982.07.16.A.md
   - ../../_full/1982/12/1982.12.12.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
-    slug: shri-chajtanya-charitamrita-antya-lila-1-67
   - title: Лагху-бхагаватамрита
     slug: laghu-bhagavatamrita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
   - title: Лагху-бхагаватамрита 1.5.461
     slug: laghu-bhagavatamrita-1-5-461
 ---

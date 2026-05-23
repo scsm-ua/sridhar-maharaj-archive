@@ -1,5 +1,5 @@
 ---
-slug: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago
+slug: 1981-03-08-b4_kratkoe_soprikosnovenie_s_soznaniem_krishny_daruet_velikoe_blago
 record_id: 1981.03.08.B4
 title: Краткое соприкосновение с Сознанием Кришны дарует великое благо
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     великое благо
   index: "698"
   filename: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago.md
+  slug: 698-1981-03-08-b4-kratkoe-soprikosnovenie-s-soznaniem-krishny-daruet-velikoe-blago
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.17
     slug: shrimad-bhagavatam-1-5-17
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
 ---

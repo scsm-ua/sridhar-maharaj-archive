@@ -1,5 +1,5 @@
 ---
-slug: 167-o-napisanii-i-rasprostranenii-knig-1983-05-0
+slug: 1983-05-09-c3_o_napisanii_i_rasprostranenii_knig
 record_id: 1983.05.09.C3
 title: О написании и распространении книг
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,6 +19,7 @@ legacy:
   title: 167. О написании и распространении книг. 1983.05.09.C3
   index: "167"
   filename: 167-o-napisanii-i-rasprostranenii-knig-1983-05-0.md
+  slug: 167-o-napisanii-i-rasprostranenii-knig-1983-05-0
 ---
 
 **Преданный:** Что более важно: писать литературу, составлять литературу или распространять эти книги? Проповедовать и давать людям книги или писать книги?

@@ -1,5 +1,5 @@
 ---
-slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
+slug: 1983-07-30-a-b_mayaki_v_bezgranichnom
 record_id: 1983.07.30.A.B
 title: Маяки в Безграничном
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
   - title: Шримад-Бхагаватам 11.5.11
     slug: shrimad-bhagavatam-11-5-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.26
     slug: bhagavad-gita-3-26
   - title: Бхагавад-гита 6.46
@@ -35,34 +29,22 @@ tags:
     slug: bhagavad-gita-6-47
   - title: Бхагавад-гита 3.8
     slug: bhagavad-gita-3-8
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.78
     slug: shri-chajtanya-charitamrita-antya-lila-8-78
   - title: Шримад-Бхагаватам 11.28.1
     slug: shrimad-bhagavatam-11-28-1
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 6
     slug: shri-vilapa-kusumandzhali-6
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: «Махабхараты», Вана-парва
-    slug: mahabharaty-vana-parva
   - title: «Махабхараты», Вана-парва 313.117
     slug: mahabharaty-vana-parva-313-117
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
     slug: shri-chajtanya-charitamrita-madhya-lila-25-57
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 17.27
     slug: shri-chajtanya-charitamrita-antya-lila-17-27
-  - title: Веданта-сутра
-    slug: vedanta-sutra
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
 links:
@@ -76,6 +58,7 @@ legacy:
   title: 308. 1983.07.30.A.B. Маяки в Безграничном
   index: "308"
   filename: 308-1983-07-30-a-b-mayaki-v-bezgranichnom.md
+  slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
 ---
 
 **Преданный: [читает стихи на санскрите].**

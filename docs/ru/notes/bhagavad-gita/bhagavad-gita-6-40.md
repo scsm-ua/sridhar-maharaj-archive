@@ -71,9 +71,10 @@ refs:
   - ../../_full/1983/11/1983.11.15.A.B.C.md
   - ../../_full/1983/11/1983.11.22.A.B.md
   - ../../_full/1983/12/1983.12.14.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
 ---

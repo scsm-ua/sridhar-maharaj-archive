@@ -1,5 +1,5 @@
 ---
-slug: 922-1981-09-05-a1-velichie-lality-devi
+slug: 1981-09-05-a1_velichie_lality_devi
 record_id: 1981.09.05.A1
 title: Величие Лалиты Деви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 922. 1981.09.05.A1. Величие Лалиты Деви
   index: "922"
   filename: 922-1981-09-05-a1-velichie-lality-devi.md
+  slug: 922-1981-09-05-a1-velichie-lality-devi
 tags:
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
   - title: Шри Лалита-аштака 1
     slug: shri-lalita-ashtaka-1
-  - title: Шри Лалита-аштакам
-    slug: shri-lalita-ashtakam
   - title: Шри Лалита-аштакам 7
     slug: shri-lalita-ashtakam-7
-  - title: Шри Гуру-парампара
-    slug: shri-guru-parampara
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
 ---

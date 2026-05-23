@@ -1,5 +1,5 @@
 ---
-slug: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni
+slug: 1982-05-04-b2_kakov_smysl_posvyashcheniya_v_vospevanie_svyatogo_imeni
 record_id: 1982.05.04.B2
 title: Каков смысл посвящения в воспевание Святого Имени?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 327. 1982.05.04.B2. Каков смысл посвящения в воспевание Святого Имени?
   index: "327"
   filename: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni.md
+  slug: 327-1982-05-04-b2-kakov-smysl-posvyashheniya-v-vospevanie-svyatogo-imeni
 ---
 
 **Госвами Махарадж:** Махарадж!

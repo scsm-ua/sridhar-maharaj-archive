@@ -1,5 +1,5 @@
 ---
-slug: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
+slug: 1984-01-08-b3_poklonyaetsya_li_dzhiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
 record_id: 1984.01.08.B3
 title: Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     одновременно?
   index: "096"
   filename: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno.md
+  slug: 096_1984-01-08-b3_sridharmj_poklonyayetsya_li_djiva_v_duhovnom_mire_krishne_i_gaurange_odnovremenno
 ---
 
 **Преданный:** Махарадж!

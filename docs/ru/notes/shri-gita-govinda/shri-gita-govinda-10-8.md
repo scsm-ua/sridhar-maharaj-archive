@@ -3,9 +3,10 @@ slug: shri-gita-govinda-10-8
 refs:
   - ../../_full/1983/01/1983.01.25.md
   - ../../_full/1983/05/1983.05.24.md
-tags:
+scriptures:
   - title: Шри Гита-Говинда
     slug: shri-gita-govinda
+verses:
   - title: Шри Гита-Говинда 10.8
     slug: shri-gita-govinda-10-8
 ---

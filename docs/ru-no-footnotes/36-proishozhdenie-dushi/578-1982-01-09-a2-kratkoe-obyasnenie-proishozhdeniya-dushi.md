@@ -1,5 +1,5 @@
 ---
-slug: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi
+slug: 1982-01-09-a2_kratkoe_obyasnenie_proishozhdeniya_dushi
 record_id: 1982.01.09.A2
 title: Краткое объяснение происхождения души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 578. 1982.01.09.A2. Краткое объяснение происхождения души
   index: "578"
   filename: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi.md
+  slug: 578-1982-01-09-a2-kratkoe-obyasnenie-proishozhdeniya-dushi
 ---
 
 **Шрила Шридхар Махарадж:** Что он спрашивает?

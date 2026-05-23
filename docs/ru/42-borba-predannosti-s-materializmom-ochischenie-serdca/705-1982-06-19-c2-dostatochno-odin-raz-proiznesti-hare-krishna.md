@@ -1,5 +1,5 @@
 ---
-slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
+slug: 1982-06-19-c2_dostatochno_odin_raz_proiznesti_hare_krishna
 record_id: 1982.06.19.C2
 title: Достаточно один раз произнести «Харе Кришна»…
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 705. 1982.06.19.C2. Достаточно один раз произнести «Харе Кришна»…
   index: "705"
   filename: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna.md
+  slug: 705-1982-06-19-c2-dostatochno-odin-raz-proiznesti-hare-krishna
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
     slug: shri-chajtanya-charitamrita-adi-lila-5-35
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.1.30
     slug: shrimad-bhagavatam-7-1-30
   - title: Шримад-Бхагаватам 6.2.14

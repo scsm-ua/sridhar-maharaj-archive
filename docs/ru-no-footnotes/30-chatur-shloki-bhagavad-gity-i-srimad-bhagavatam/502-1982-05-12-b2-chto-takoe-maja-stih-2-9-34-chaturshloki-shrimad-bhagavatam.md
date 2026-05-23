@@ -1,5 +1,5 @@
 ---
-slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
+slug: 1982-05-12-b2_chto_takoe_maya_stih_2_9_34_chaturshloki_shrimad-bhagavatam
 record_id: 1982.05.12.B2
 title: Что такое «майа»? Стих 2.9.34 чатуршлоки «Шримад-Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     «Шримад-Бхагаватам»
   index: "502"
   filename: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam.md
+  slug: 502-1982-05-12-b2-chto-takoe-maja-stih-2-9-34-chaturshloki-shrimad-bhagavatam
 ---
 
 **Шрила Шридхар Махарадж:** Этот ответ готов?

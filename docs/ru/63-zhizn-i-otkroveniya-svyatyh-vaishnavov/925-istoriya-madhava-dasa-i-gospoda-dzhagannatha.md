@@ -13,8 +13,6 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 links:

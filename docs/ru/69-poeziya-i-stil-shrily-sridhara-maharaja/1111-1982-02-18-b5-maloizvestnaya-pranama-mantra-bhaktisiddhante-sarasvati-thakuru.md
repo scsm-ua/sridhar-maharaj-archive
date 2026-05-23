@@ -1,5 +1,5 @@
 ---
-slug: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru
+slug: 1982-02-18-b5_maloizvestnaya_pranama-mantra_bhaktisiddhante_sarasvati_thakuru
 record_id: 1982.02.18.B5
 title: Малоизвестная пранама-мантра Бхактисиддханте Сарасвати Тхакуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     Сарасвати Тхакуру
   index: "1111"
   filename: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru.md
+  slug: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru
 tags:
-  - title: Шри Гуру-парампара
-    slug: shri-guru-parampara
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
   - title: Шри Гуру-парампара 7
     slug: shri-guru-parampara-7
   - title: Шри Гуру-парампара 9
     slug: shri-guru-parampara-9
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
 ---

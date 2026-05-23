@@ -1,5 +1,5 @@
 ---
-slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
+slug: 1982-04-16-b2_druzya_i_vragi_krishny_obretayut_osvobozhdenie_no_raznogo_tipa
 record_id: 1982.04.16.B2
 title: Друзья и враги Кришны обретают освобождение, но разного типа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,32 +15,20 @@ category:
 tags:
   - title: освобождение
     slug: osvobozhdenie
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 4
     slug: shri-shikshashtakam-4
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.29
     slug: bhagavad-gita-9-29
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
     slug: shri-chajtanya-charitamrita-adi-lila-5-35
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.1.30
     slug: shrimad-bhagavatam-7-1-30
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
     slug: shri-chajtanya-charitamrita-adi-lila-5-36
   - title: Бхакти-расамрита-синдху 1.2.278
     slug: bhakti-rasamrita-sindhu-1-2-278
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 5.41
     slug: laghu-bhagavatamrita-5-41
 links:
@@ -55,6 +43,7 @@ legacy:
     но разного типа
   index: "067"
   filename: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa.md
+  slug: 067_1982-04-16-b2_sridharmj_druzja_i_vragi_krishny_obretajut_osvobozhdenie_no_raznogo_tipa
 ---
 
     на дханам̇ на джанам̇ на сундарӣм̇

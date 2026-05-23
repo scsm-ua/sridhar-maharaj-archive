@@ -1,5 +1,5 @@
 ---
-slug: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu
+slug: 1982-07-04-a5_blagodarya_bhakti_bezgranichnoe_stanovitsya_podchinennym_ogranichennomu
 record_id: 1982.07.04.A5
 title: Благодаря бхакти Безграничное становится подчиненным ограниченному
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.17
     slug: bhakti-rasamrita-sindhu-1-17
 links:
@@ -31,6 +29,7 @@ legacy:
     ограниченному
   index: "767"
   filename: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu.md
+  slug: 767-1982-07-04-a5-blagodarya-bhakti-bezgranichnoe-stanovitsya-podchinennym-ogranichennomu
 ---
 
 «…словно Я не являюсь Абсолютом. Они взаимодействуют со Мной таким образом, что Я также отвечаю им взаимностью так, словно у Меня нет свободы, от их рук и от их обращения так, словно Я контролируем им». Любовь имеет такую природу. Нежность есть настолько чудесное «нечто», что способно контролировать Абсолют, Безграничное подчинять контролю ограниченного, и это преданность, *сева*, служение, то, что делает невозможное возможным. Что это такое? Безграничное контролируется в интересах ограниченного — это возможно благодаря преданности.

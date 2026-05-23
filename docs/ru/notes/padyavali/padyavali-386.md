@@ -5,9 +5,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
   - ../../_full/1982/05/1982.05.09.C.md
   - ../../_full/1985/06/1985.06.09.md
-tags:
+scriptures:
   - title: Падьявали
     slug: padyavali
+verses:
   - title: Падьявали 386
     slug: padyavali-386
 ---

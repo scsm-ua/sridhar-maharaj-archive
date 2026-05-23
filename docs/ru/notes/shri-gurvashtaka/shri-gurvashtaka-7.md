@@ -12,9 +12,10 @@ refs:
   - ../../_full/1981/10/1981.10.08.A.md
   - ../../_full/1981/12/1981.12.31.B.C.md
   - ../../_full/1982/02/1982.02.25.A.B.C.md
-tags:
+scriptures:
   - title: Шри Гурваштака
     slug: shri-gurvashtaka
+verses:
   - title: Шри Гурваштака 7
     slug: shri-gurvashtaka-7
 ---

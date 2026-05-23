@@ -1,5 +1,5 @@
 ---
-slug: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym
+slug: 1982-07-02-b2_opisanie_vselennoy_v_vedicheskoy_literature_yavlyaetsya_subektivnym_a_ne_obektivnym
 record_id: 1982.07.02.B2
 title: Описание Вселенной в ведической литературе является субъективным, а не
   объективным
@@ -25,6 +25,7 @@ legacy:
     субъективным, а не объективным
   index: "636"
   filename: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym.md
+  slug: 636-1982-07-02-b2-opisanie-vselennoj-v-vedicheskoj-literature-yavlyaetsya-subektivnym-a-ne-obektivnym
 ---
 
 **Преданный:** У меня есть некоторый вопрос о мироздании. В настоящее время мы обращаемся к научному сообществу и обсуждаем с ними устройство Вселенной. В каком духе мы должны представлять им должным образом…

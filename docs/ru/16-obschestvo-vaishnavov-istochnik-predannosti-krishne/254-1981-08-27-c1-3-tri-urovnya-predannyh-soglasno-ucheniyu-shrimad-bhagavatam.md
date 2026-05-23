@@ -1,5 +1,5 @@
 ---
-slug: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam
+slug: 1981-08-27-c1-3_tri_urovnya_predannyh_soglasno_ucheniyu_shrimad_bhagavatam
 record_id: 1981.08.27.C1.3
 title: Три уровня преданных согласно учению «Шримад Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Бхагаватам»
   index: "254"
   filename: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam.md
+  slug: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.73
     slug: shri-chajtanya-charitamrita-madhya-lila-22-73
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.46
     slug: shrimad-bhagavatam-11-2-46
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.72

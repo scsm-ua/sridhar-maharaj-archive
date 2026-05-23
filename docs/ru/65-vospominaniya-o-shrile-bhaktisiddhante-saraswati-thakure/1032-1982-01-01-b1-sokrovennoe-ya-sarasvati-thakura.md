@@ -1,5 +1,5 @@
 ---
-slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
+slug: 1982-01-01-b1_sokrovennoe_ya_sarasvati_thakura
 record_id: 1982.01.01.B1
 title: Сокровенное «Я» Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,37 +23,24 @@ legacy:
   title: 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
   index: "1032"
   filename: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
+  slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
 tags:
-  - title: Шри Шри Дайита Дас Дашакам
-    slug: shri-shri-dajita-das-dashakam
   - title: Шри Шри Дайита Дас Дашакам 1
     slug: shri-shri-dajita-das-dashakam-1
   - title: Шри Шри Дайита Дас Дашакам 5
     slug: shri-shri-dajita-das-dashakam-5
   - title: Шри Шри Дайита Дас Дашакам 4
     slug: shri-shri-dajita-das-dashakam-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
     slug: shri-chajtanya-charitamrita-madhya-lila-14-227
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.56
     slug: shri-brahma-samhita-5-56
-  - title: Мукта Чаритра
-    slug: mukta-charitra
   - title: Мукта Чаритра 4
     slug: mukta-charitra-4
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.17
     slug: shrimad-bhagavatam-11-20-17
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 1
     slug: manah-shiksha-1
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
 ---

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-antya-lila-3-85
 refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/133-1982-05-13-a-lichnost-i-sokrovennoe-ya-ramanandy-raya.md
   - ../../_full/1983/03/1983.03.16.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.85
     slug: shri-chajtanya-charitamrita-antya-lila-3-85
 ---

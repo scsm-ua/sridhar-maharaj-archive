@@ -1,5 +1,5 @@
 ---
-slug: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu
+slug: 1982-07-08-a4_na_stadii_anartha-nivritti_povtorenie_svyatogo_imeni_blizko_k_nama-bhasu
 record_id: 1982.07.08.A4
 title: На стадии анартха-нивритти повторение Святого Имени близко к нама-бхасу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     близко к нама-бхасу
   index: "723"
   filename: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu.md
+  slug: 723-1982-07-08-a4-na-stadii-anartha-nivritti-povtorenie-svyatogo-imeni-blizko-k-nama-bhasu
 ---
 
 **Преданный:** Существует ли стадия между *намабхасой* и *ручи*?

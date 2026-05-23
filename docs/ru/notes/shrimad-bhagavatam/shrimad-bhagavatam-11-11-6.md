@@ -4,9 +4,10 @@ refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
   - ../../_full/1981/10/1981.10.07.A.B.md
   - ../../_full/1983/06/1983.06.27.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.11.6
     slug: shrimad-bhagavatam-11-11-6
 ---

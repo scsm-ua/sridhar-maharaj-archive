@@ -1,5 +1,5 @@
 ---
-slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
+slug: 1981-03-07-a2_propoved_i_duh_sluzheniya_osnova_sankirtany
 record_id: 1981.03.07.A2
 title: Проповедь и дух служения – основа санкиртаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Санкиртана
     slug: sankirtana
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
     slug: shri-chajtanya-charitamrita-adi-lila-3-52
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.10
     slug: shri-chajtanya-charitamrita-antya-lila-20-10
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.100
     slug: shri-chajtanya-charitamrita-madhya-lila-11-100
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.342
     slug: shri-chajtanya-charitamrita-madhya-lila-20-342
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.103
     slug: shri-chajtanya-charitamrita-madhya-lila-6-103
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.5.32
     slug: shrimad-bhagavatam-11-5-32
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
@@ -41,8 +33,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
 links:
@@ -56,6 +46,7 @@ legacy:
   title: 358. 1981.03.07.A2. Проповедь и дух служения – основа санкиртаны
   index: "358"
   filename: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany.md
+  slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
 ---
 
 **Преданный:** У нас есть множество вопросов, которые мы хотели бы задать, у Сатсварупы Махараджа есть множество вопросов.

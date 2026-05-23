@@ -1,5 +1,5 @@
 ---
-slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
+slug: 1982-01-19-a1_probuzhdenie_vnutrenney_sklonnosti_dushi
 record_id: 1982.01.19.A1
 title: Пробуждение внутренней склонности души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,20 +15,14 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.42
     slug: shri-chajtanya-charitamrita-madhya-lila-2-42
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.43
     slug: shri-chajtanya-charitamrita-madhya-lila-2-43
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.105
     slug: shri-chajtanya-charitamrita-madhya-lila-22-105
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.2
     slug: bhakti-rasamrita-sindhu-1-2-2
   - title: Бхагавад-гита 15.16
@@ -46,6 +40,7 @@ legacy:
   title: 602. 1982.01.19.A1. Пробуждение внутренней склонности души
   index: "602"
   filename: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi.md
+  slug: 602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi
 ---
 
 **Преданный:** Махарадж, Дас Госвами является *прайоджана-ачарьей*?

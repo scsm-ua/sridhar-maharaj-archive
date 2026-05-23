@@ -1,5 +1,5 @@
 ---
-slug: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie
+slug: 1983-01-25-b4_podlinnaya_poterya_i_priobretenie
 record_id: 1983.01.25.B4
 title: Подлинная потеря и приобретение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 509. 1983.01.25.B4. Подлинная потеря и приобретение
   index: "509"
   filename: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie.md
+  slug: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
+slug: 1982-05-03-c2-d1_duh_sluzheniya_osnova_blizkih_otnosheniy_s_absolyutom_vo_vrindavane
 record_id: 1982.05.03.C2.D1
 title: Дух служения — основа близких отношений с Абсолютом во Вриндаване
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     во Вриндаване
   index: "061"
   filename: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o.md
+  slug: 061-1982-05-03-c2-d1-duh-sluzheniya-osnova-blizkih-o
 ---
 
 Да, каким был твой вопрос?

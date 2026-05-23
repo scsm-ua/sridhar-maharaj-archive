@@ -4,9 +4,10 @@ refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut.md
   - ../../_full/1981/03/1981.03.13.md
   - ../../_full/1981/09/1981.09.15.A.md
-tags:
+scriptures:
   - title: Шри Упадешамрита
     slug: shri-upadeshamrita
+verses:
   - title: Шри Упадешамрита 11
     slug: shri-upadeshamrita-11
 ---

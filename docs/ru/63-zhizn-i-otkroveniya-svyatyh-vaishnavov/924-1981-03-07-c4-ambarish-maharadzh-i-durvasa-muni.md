@@ -1,5 +1,5 @@
 ---
-slug: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni
+slug: 1981-03-07-c4_ambarish_maharadzh_i_durvasa_muni
 record_id: 1981.03.07.C4
 title: Амбариш Махарадж и Дурваса Муни
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 924. 1981.03.07.C4. Амбариш Махарадж и Дурваса Муни
   index: "924"
   filename: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni.md
+  slug: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 9.5.14
     slug: shrimad-bhagavatam-9-5-14
 ---

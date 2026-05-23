@@ -1,5 +1,5 @@
 ---
-slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
+slug: 1982-06-10-a-b1-b4-b7_sarasvati_nishodit_k_brahme_ot_narayany_no_daet_klyuch_k_postizheniyu_krishny
 record_id: 1982.06.10.A.B1.B4.B7
 title: Сарасвати нисходит к Брахме от Нараяны, но дает ключ к постижению Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,29 +24,20 @@ legacy:
     дает ключ к постижению Кришны
   index: "684"
   filename: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
+  slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
 tags:
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.24
     slug: shri-brahma-samhita-5-24
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
   - title: Шримад-Бхагаватам 10.14.14
     slug: shrimad-bhagavatam-10-14-14
   - title: Шримад-Бхагаватам 2.4.22
     slug: shrimad-bhagavatam-2-4-22
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.59
     slug: shri-chajtanya-charitamrita-madhya-lila-1-59
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
@@ -59,8 +50,6 @@ tags:
     slug: shrimad-bhagavatam-2-1-10
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 126
     slug: padyavali-126
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe
+slug: 1982-02-19-c5_pochemu_vo_vrindavane_sarasvati_thakur_govoril_o_prahlade_maharadzhe
 record_id: 1982.02.19.C5
 title: Почему во Вриндаване Сарасвати Тхакур говорил о Прахладе Махарадже?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Прахладе Махарадже?
   index: "872"
   filename: 872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe.md
+  slug: 872-1982-02-19-c5-pochemu-vo-vrindavane-sarasvati-thakur-govoril-o-prahlade-maharadzhe
 ---
 
 *«Мгновения Прекрасной Реальности», часть 8.5*

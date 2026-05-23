@@ -3,9 +3,10 @@ slug: shvetashvatara-upanishad-4-6
 refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
   - ../../_full/1983/06/1983.06.27.md
-tags:
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 4.6
     slug: shvetashvatara-upanishad-4-6
 ---

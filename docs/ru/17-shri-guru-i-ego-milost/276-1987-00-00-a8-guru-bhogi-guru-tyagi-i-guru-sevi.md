@@ -1,5 +1,5 @@
 ---
-slug: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi
+slug: 1987-00-00-a8_guru-bhogi_guru-tyagi_i_guru-sevi
 record_id: 1987.00.00.A8
 title: Гуру-бхоги, гуру-тьяги и гуру-севи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 276. 1987.00.00.A8. Гуру-бхоги, гуру-тьяги и гуру-севи
   index: "276"
   filename: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi.md
+  slug: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi
 ---
 
 **Шрила Шридхар Махарадж:** Ты понимаешь различие между лестью и прославлением?

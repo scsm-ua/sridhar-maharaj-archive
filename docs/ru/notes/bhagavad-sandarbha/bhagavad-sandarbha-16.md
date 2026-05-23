@@ -3,9 +3,10 @@ slug: bhagavad-sandarbha-16
 refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya.md
   - ../../_full/1981/08/1981.08.18.md
-tags:
+scriptures:
   - title: Бхагавад-сандарбха
     slug: bhagavad-sandarbha
+verses:
   - title: Бхагавад-сандарбха 16
     slug: bhagavad-sandarbha-16
 ---

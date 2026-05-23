@@ -2,9 +2,10 @@
 slug: chajtanya-chandramrita-54
 refs:
   - ../../_full/1982/12/1982.12.08.A.B.md
-tags:
+scriptures:
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
   - title: Чайтанья-чандрамрита 54
     slug: chajtanya-chandramrita-54
 ---

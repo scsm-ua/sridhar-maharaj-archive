@@ -15,9 +15,10 @@ refs:
   - ../../_full/1983/03/1983.03.17.md
   - ../../_full/1983/09/1983.09.22.A.B.md
   - ../../_full/1983/09/1983.09.22.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
     slug: shri-chajtanya-bhagavata-adi-khanda-11-108
 ---

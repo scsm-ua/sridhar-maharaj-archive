@@ -1,5 +1,5 @@
 ---
-slug: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz
+slug: 1982-05-16-b3-c_poeziya_kalidasa_guru_kak_teleskopicheskaya_sistema_linz
 record_id: 1982.05.16.B3.C
 title: Поэзия Калидаса. Гуру как телескопическая система линз.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 270. 1982.05.16.B3.C. Поэзия Калидаса. Гуру как телескопическая система линз
   index: "270"
   filename: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
+  slug: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz
 ---
 
     кришна се томара, кришна дите паро

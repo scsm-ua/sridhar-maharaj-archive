@@ -1,5 +1,5 @@
 ---
-slug: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij
+slug: 1983-02-11-b1_dary_bhakti_molitva_vozvyshennyh_predannyh_primery_iz_pisaniy
 record_id: 1983.02.11.B1
 title: Дары бхакти. Молитва возвышенных преданных – примеры из Писаний.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,14 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.17
     slug: bhakti-rasamrita-sindhu-1-17
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
-  - title: Мукунда-мала-стотра
-    slug: mukunda-mala-stotra
   - title: Мукунда-мала-стотра 5
     slug: mukunda-mala-stotra-5
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 4.3
     slug: shri-shri-prapanna-dzhivanamritam-4-3
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 4
     slug: shri-shikshashtakam-4
   - title: Шри Шикшаштакам 5
@@ -49,6 +39,7 @@ legacy:
     из Писаний
   index: "773"
   filename: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij.md
+  slug: 773-1983-02-11-b1-dary-bhakti-molitva-vozvyshennyh-predannyh-primery-iz-pisanij
 ---
 
 Если мы обретем *бхакти*, тогда автоматически все неблагоприятное уходит, устраняется. В целом преданность подразумевает:

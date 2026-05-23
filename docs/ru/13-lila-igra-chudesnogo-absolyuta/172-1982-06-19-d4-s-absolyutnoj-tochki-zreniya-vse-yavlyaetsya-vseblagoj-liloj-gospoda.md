@@ -1,5 +1,5 @@
 ---
-slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
+slug: 1982-06-19-d4_s_absolyutnoy_tochki_zreniya_vse_yavlyaetsya_vseblagoy_liloy_gospoda
 record_id: 1982.06.19.D4
 title: С абсолютной точки зрения все является всеблагой лилой Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     лилой Господа
   index: "172"
   filename: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda.md
+  slug: 172-1982-06-19-d4-s-absolyutnoj-tochki-zreniya-vse-yavlyaetsya-vseblagoj-liloj-gospoda
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -35,14 +34,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.257
     slug: shri-chajtanya-charitamrita-madhya-lila-8-257
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
 ---

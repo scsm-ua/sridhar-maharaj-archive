@@ -2,9 +2,10 @@
 slug: chajtanya-chandramrita-90
 refs:
   - ../../_full/1983/12/1983.12.19.A.B.md
-tags:
+scriptures:
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
   - title: Чайтанья-чандрамрита 90
     slug: chajtanya-chandramrita-90
 ---

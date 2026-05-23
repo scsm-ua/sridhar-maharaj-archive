@@ -3,9 +3,10 @@ slug: bhagavad-gita-2-22
 refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
   - ../../_full/1981/12/1981.12.29.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.22
     slug: bhagavad-gita-2-22
 ---

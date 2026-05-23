@@ -4,9 +4,10 @@ refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/433-1982-05-12-c2-zrelaya-forma-predannosti-gospodu-sluzhenie-guru-i-vajshnavam.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/933-1982-03-08-a1-b3-madhavendra-puri-rostok-gaudiya-vajshnavizma.md
   - ../../_full/1982/01/1982.01.28.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.28
     slug: shri-chajtanya-charitamrita-antya-lila-8-28
 ---

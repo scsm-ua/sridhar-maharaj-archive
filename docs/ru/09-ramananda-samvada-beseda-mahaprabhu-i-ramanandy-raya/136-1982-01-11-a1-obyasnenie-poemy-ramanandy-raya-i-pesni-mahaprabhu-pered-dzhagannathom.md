@@ -1,5 +1,5 @@
 ---
-slug: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom
+slug: 1982-01-11-a1_obyasnenie_poemy_ramanandy_raya_i_pesni_mahaprabhu_pered_dzhagannathom
 record_id: 1982.01.11.A1
 title: Объяснение поэмы Рамананды Рая и песни Махапрабху перед Джаганнатхом
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,24 +15,16 @@ category:
 tags:
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.194
     slug: shri-chajtanya-charitamrita-madhya-lila-8-194
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
@@ -41,16 +33,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-10-111
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.59
     slug: shri-chajtanya-charitamrita-madhya-lila-1-59
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
@@ -59,8 +47,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-1-81
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.136
     slug: shri-chajtanya-charitamrita-madhya-lila-13-136
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 8.26
     slug: shri-shri-prapanna-dzhivanamritam-8-26
   - title: Шримад-Бхагаватам 10.82.48
@@ -73,8 +59,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-89
   - title: Шримад-Бхагаватам 10.82.44
     slug: shrimad-bhagavatam-10-82-44
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
   - title: Падьявали 386
@@ -91,6 +75,7 @@ legacy:
     перед Джаганнатхом
   index: "136"
   filename: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom.md
+  slug: 136-1982-01-11-a1-obyasnenie-poemy-ramanandy-raya-i-pesni-mahaprabhu-pered-dzhagannathom
 ---
 
 Эта максима была видоизменена Нитьянандой Прабху в Бенгалии: *йа̄ре декха, та̄ре каха ‘гаура’-упадеш́а*[^_ftn1], трансформирована.

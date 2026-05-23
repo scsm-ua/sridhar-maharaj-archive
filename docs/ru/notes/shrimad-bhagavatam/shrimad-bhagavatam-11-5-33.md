@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-11-5-33
 refs:
   - ../../_full/1983/04/1983.04.16.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.5.33
     slug: shrimad-bhagavatam-11-5-33
   - title: Шримад-Бхагаватам 34

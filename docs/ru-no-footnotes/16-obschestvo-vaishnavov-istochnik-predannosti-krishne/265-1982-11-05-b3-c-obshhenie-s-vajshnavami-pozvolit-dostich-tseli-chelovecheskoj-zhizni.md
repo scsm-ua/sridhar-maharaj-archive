@@ -1,5 +1,5 @@
 ---
-slug: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni
+slug: 1982-11-05-b3-c_obshchenie_s_vayshnavami_pozvolit_dostich_tseli_chelovecheskoy_zhizni
 record_id: 1982.11.05.B3.C
 title: Общение с вайшнавами позволит достичь цели человеческой жизни
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     человеческой жизни
   index: "265"
   filename: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni.md
+  slug: 265-1982-11-05-b3-c-obshhenie-s-vajshnavami-pozvolit-dostich-tseli-chelovecheskoj-zhizni
 ---
 
 **Шрипад Джаджавар Махарадж:**

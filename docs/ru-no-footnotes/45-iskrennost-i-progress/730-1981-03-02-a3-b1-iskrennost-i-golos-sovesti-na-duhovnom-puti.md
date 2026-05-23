@@ -1,5 +1,5 @@
 ---
-slug: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti
+slug: 1981-03-02-a3-b1_iskrennost_i_golos_sovesti_na_duhovnom_puti
 record_id: 1981.03.02.A3.B1
 title: Искренность и голос совести на духовном пути
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 730. 1981.03.02.A3.B1. Искренность и голос совести на духовном пути
   index: "730"
   filename: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti.md
+  slug: 730-1981-03-02-a3-b1-iskrennost-i-golos-sovesti-na-duhovnom-puti
 ---
 
 **Госвами Махарадж:** Ради служения Махапрабху мы должны заниматься многочисленными делами в материальном мире, поэтому трудно сохранять наше сознание чистым и свободным от личных мотивов.

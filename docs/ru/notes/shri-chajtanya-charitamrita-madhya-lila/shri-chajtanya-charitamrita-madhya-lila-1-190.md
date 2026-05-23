@@ -4,13 +4,14 @@ refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu.md
   - ../../_full/1981/11/1981.11.13.A.B.md
   - ../../_full/1983/05/1983.05.06.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.190
-    slug: shri-chajtanya-charitamrita-madhya-lila-1-190
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.190
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-190
   - title: Бхакти-расамрита-синдху 1.2.154
     slug: bhakti-rasamrita-sindhu-1-2-154
 ---

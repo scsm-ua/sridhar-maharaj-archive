@@ -13,13 +13,14 @@ refs:
   - ../../_full/1983/09/1983.09.01.B.C.md
   - ../../_full/1983/12/1983.12.19.A.B.md
   - ../../_full/1985/11/1985.11.07.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-98
   - title: Падьявали
     slug: padyavali
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-98
   - title: Падьявали 99
     slug: padyavali-99
 ---

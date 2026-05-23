@@ -1,5 +1,5 @@
 ---
-slug: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha
+slug: 1982-07-03-c1_istorii_iz_zhizni_bhakti_sharangi_gosvami_maharadzha
 record_id: 1982.07.03.C1
 title: Истории из жизни Бхакти Шаранги Госвами Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1056. 1982.07.03.C1. Истории из жизни Бхакти Шаранги Госвами Махараджа
   index: "1056"
   filename: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha.md
+  slug: 1056-1982-07-03-c1-istorii-iz-zhizni-bhakti-sharangi-gosvami-maharadzha
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
 ---

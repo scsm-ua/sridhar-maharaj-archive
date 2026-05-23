@@ -1,5 +1,5 @@
 ---
-slug: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty
+slug: 1983-01-04-b1-2_plohoy_rabotnik_zhaluetsya_na_svoi_instrumenty
 record_id: 1983.01.04.B1.2
 title: Плохой работник жалуется на свои инструменты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 514. 1983.01.04.B1.2. Плохой работник жалуется на свои инструменты
   index: "514"
   filename: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty.md
+  slug: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty
 ---
 
 **Шрила Шридхар Махарадж:** Как его зовут, кто это?

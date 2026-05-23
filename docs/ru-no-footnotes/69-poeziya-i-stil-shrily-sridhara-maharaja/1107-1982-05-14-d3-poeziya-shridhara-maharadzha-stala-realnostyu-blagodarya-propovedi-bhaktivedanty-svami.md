@@ -1,5 +1,5 @@
 ---
-slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
+slug: 1982-05-14-d3_poeziya_shridhara_maharadzha_stala_realnostyu_blagodarya_propovedi_bhaktivedanty_svami
 record_id: 1982.05.14.D3
 title: Поэзия Шридхара Махараджа стала реальностью благодаря проповеди
   Бхактиведанты Свами
@@ -25,6 +25,7 @@ legacy:
     благодаря проповеди Бхактиведанты Свами
   index: "1107"
   filename: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami.md
+  slug: 1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami
 ---
 
 Я не могу не вспоминать то обстоятельство, что Прабхупад хотел отправить проповедовать меня на запад. То было искреннее желание, возможно, очень искреннее, сердечное. Но как это возможно? Как возможно, что вы все пришли? Через Свами Махараджа. И Прабхупад также ценил, высоко ценил мою *сиддханту*. Конечно, она была дана им. Так или иначе, он давал высокую оценку. Харе Кришна.

@@ -1,5 +1,5 @@
 ---
-slug: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami
+slug: 1987-00-00-b4_o_protivorechiyah_opisaniya_krishna-lily_v_trudah_gosvami
 record_id: 1987.00.00.B4
 title: О противоречиях описания Кришна-лилы в трудах Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 191. 1987.00.00.B4. О противоречиях описания Кришна-лилы в трудах Госвами
   index: "191"
   filename: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami.md
+  slug: 191-1987-00-00-b4-o-protivorechiyah-opisaniya-krishna-lily-v-trudah-gosvami
 ---
 
 *Адхокшаджа*[^_ftn1]. Он [Господь Кришна] *адхокшаджа*. Излюбленный термин, встречаемый на страницах «Шримад-Бхагаватам», — *адхокшаджа*. Господь всегда пребывает в положении, превосходящем наше.

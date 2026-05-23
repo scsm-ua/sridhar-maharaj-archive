@@ -1,5 +1,5 @@
 ---
-slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
+slug: 1982-01-20-b2_svyaz_s_krishnoy_istochnik_vseh_sovershenstv_stih_bilvamangala
 record_id: 1982.01.20.B2
 title: Связь с Кришной – источник всех совершенств. Стих Билвамангала.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     Билвамангала
   index: "521"
   filename: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala.md
+  slug: 521-1982-01-20-b2-svyaz-s-krishnoj-istochnik-vseh-sovershenstv-stih-bilvamangala
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.136
     slug: shri-chajtanya-charitamrita-madhya-lila-21-136
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.35
     slug: shri-chajtanya-charitamrita-madhya-lila-23-35
-  - title: Кришна-карнамрита
-    slug: krishna-karnamrita
   - title: Кришна-карнамрита 92
     slug: krishna-karnamrita-92
 ---

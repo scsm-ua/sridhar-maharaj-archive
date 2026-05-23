@@ -1,5 +1,5 @@
 ---
-slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
+slug: 1983-11-04-a4-b1_prevyshe_znaniya_obyasnenie_klyuchevyh_stihov_iz_shrimad-bhagavatam
 record_id: 1983.11.04.A4.B1
 title: Превыше знания. Объяснение ключевых стихов из «Шримад-Бхагаватам».
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
@@ -39,14 +33,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-19
   - title: Шримад-Бхагаватам 1.5.12
     slug: shrimad-bhagavatam-1-5-12
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.69
     slug: bhagavad-gita-2-69
 links:
@@ -61,6 +51,7 @@ legacy:
     «Шримад-Бхагаватам»
   index: "780"
   filename: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam.md
+  slug: 780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam
 ---
 
 …Чтобы понять принципы Шри Чайтаньядева, Гаудия Матха с открытым умом, поэтому считалось вначале, что я не понимаю, что такое дипломатия или тактичность, такт. Но я пришел, чтобы с открытым умом понять, каково истинное учение Шри Чайтаньядева.

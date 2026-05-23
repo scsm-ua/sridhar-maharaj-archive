@@ -1,5 +1,5 @@
 ---
-slug: 19-pochemu-shri-chajtanya-mnogo-puteshestvo
+slug: 1980-07-11-a2_pochemu_shri_chaytanya_mnogo_puteshestvoval_po_yuzhnoy_indii_a_ne_po_severnoy
 record_id: 1980.07.11.A2
 title: Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     северной? 1980.07.11.A2
   index: "19"
   filename: 19-pochemu-shri-chajtanya-mnogo-puteshestvo.md
+  slug: 19-pochemu-shri-chajtanya-mnogo-puteshestvo
 ---
 
 **Преданный:** Почему Чайтанья Махапрабху много путешествовал по Южной Индии, а не по Северной Индии?

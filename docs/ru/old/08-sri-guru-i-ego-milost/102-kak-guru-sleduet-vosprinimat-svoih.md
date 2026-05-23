@@ -1,5 +1,5 @@
 ---
-slug: 102-kak-guru-sleduet-vosprinimat-svoih
+slug: 1981-03-04-c2_kak_guru_sleduet_vosprinimat_svoih_uchenikov
 record_id: 1981.03.04.C2
 title: Как гуру следует воспринимать своих учеников?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 102. Как гуру следует воспринимать своих учеников? 1981.03.04.C2
   index: "102"
   filename: 102-kak-guru-sleduet-vosprinimat-svoih.md
+  slug: 102-kak-guru-sleduet-vosprinimat-svoih
 ---
 
 **Шридхар Махарадж:** Каков смысл слова «спасибо»? Вы всегда используете это слово, но у меня не слишком хорошее отношение к подобному слову. Это выражение благодарности?

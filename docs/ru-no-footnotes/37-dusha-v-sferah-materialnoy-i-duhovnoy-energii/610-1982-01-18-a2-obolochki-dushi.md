@@ -1,5 +1,5 @@
 ---
-slug: 610-1982-01-18-a2-obolochki-dushi
+slug: 1982-01-18-a2_obolochki_dushi
 record_id: 1982.01.18.A2
 title: Оболочки души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 610. 1982.01.18.A2. Оболочки души
   index: "610"
   filename: 610-1982-01-18-a2-obolochki-dushi.md
+  slug: 610-1982-01-18-a2-obolochki-dushi
 ---
 
 **Преданный:** В Бхагавад-гите Кришна говорит:

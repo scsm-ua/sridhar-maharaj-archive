@@ -1,5 +1,5 @@
 ---
-slug: 659-1982-02-19-b2-gradatsiya-predannosti
+slug: 1982-02-19-b2_gradatsiya_predannosti
 record_id: 1982.02.19.B2
 title: Градация преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 659. 1982.02.19.B2. Градация преданности
   index: "659"
   filename: 659-1982-02-19-b2-gradatsiya-predannosti.md
+  slug: 659-1982-02-19-b2-gradatsiya-predannosti
 ---
 
 *«Мгновения Прекрасной Реальности» (часть 7.2)*

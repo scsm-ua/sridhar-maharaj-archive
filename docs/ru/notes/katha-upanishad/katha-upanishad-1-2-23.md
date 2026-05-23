@@ -50,9 +50,10 @@ refs:
   - ../../_full/1983/10/1983.10.28.A.B.md
   - ../../_full/1983/12/1983.12.23.C.D.md
   - ../../_full/1985/07/1985.07.03.md
-tags:
+scriptures:
   - title: Катха-упанишад
     slug: katha-upanishad
+verses:
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 ---

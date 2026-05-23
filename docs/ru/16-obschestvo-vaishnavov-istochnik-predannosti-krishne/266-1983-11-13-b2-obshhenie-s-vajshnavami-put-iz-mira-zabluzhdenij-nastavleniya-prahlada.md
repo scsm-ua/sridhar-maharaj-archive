@@ -1,5 +1,5 @@
 ---
-slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
+slug: 1983-11-13-b2_obshchenie_s_vayshnavami_put_iz_mira_zabluzhdeniy_nastavleniya_prahlada
 record_id: 1983.11.13.B2
 title: Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: Ачарья вандана
-    slug: acharya-vandana
   - title: Ачарья вандана 18
     slug: acharya-vandana-18
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.32
     slug: shrimad-bhagavatam-7-5-32
   - title: Шримад-Бхагаватам 7.5.23–24
@@ -29,8 +25,6 @@ tags:
     slug: shrimad-bhagavatam-7-5-5
   - title: Шримад-Бхагаватам 7.5.30
     slug: shrimad-bhagavatam-7-5-30
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 7
     slug: shri-upadeshamrita-7
 links:
@@ -45,6 +39,7 @@ legacy:
     Наставления Прахлада
   index: "266"
   filename: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
+  slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
 ---
 
     ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а

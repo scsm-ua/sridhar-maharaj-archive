@@ -1,5 +1,5 @@
 ---
-slug: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya
+slug: 1982-01-19-c2_o_pitanii_i_rezhime_dnya
 record_id: 1982.01.19.C2
 title: О питании и режиме дня
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 745. 1982.01.19.C2. О питании и режиме дня
   index: "745"
   filename: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya.md
+  slug: 745-1982-01-19-c2-o-pitanii-i-rezhime-dnya
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 12.167
     slug: shri-chajtanya-charitamrita-madhya-lila-12-167
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
 ---

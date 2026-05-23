@@ -1,5 +1,5 @@
 ---
-slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
+slug: 1982-02-27-a6_uvidet_volyu_gospoda_v_negativnyh_obstoyatelstvah
 record_id: 1982.02.27.A6
 title: Увидеть волю Господа в негативных обстоятельствах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,21 +23,14 @@ legacy:
   title: 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
   index: "512"
   filename: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
+  slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
   - title: Шримад-Бхагаватам 10.14.8

@@ -1,5 +1,5 @@
 ---
-slug: 997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura
+slug: 1981-03-13-b_samootritsanie_i_deviz_sarasvati_thakura
 record_id: 1981.03.13.B
 title: Самоотрицание и девиз Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 997. 1981.03.13.В. Самоотрицание и девиз Сарасвати Тхакура
   index: "997"
   filename: 997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura.md
+  slug: 997-1981-03-13-v-samootritsanie-i-deviz-sarasvati-thakura
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
 ---

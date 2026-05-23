@@ -1,5 +1,5 @@
 ---
-slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
+slug: 1982-01-17-c_lyubov_oznachaet_dobrovolnaya_zhertva
 record_id: 1982.01.17.C
 title: «Любовь» означает «добровольная жертва»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 841. 1982.01.17.C. «Любовь» означает «добровольная жертва»
   index: "841"
   filename: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva.md
+  slug: 841-1982-01-17-c-lyubov-oznachaet-dobrovolnaya-zhertva
 ---
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Махапрабху… Харе Кришна, Харе Кришна, Гаура-Харибол…

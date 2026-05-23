@@ -1,5 +1,5 @@
 ---
-slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
+slug: 1982-11-06-c2_bez_blagosloveniya_vayshnava_dazhe_izuchenie_pisaniy_yavlyaetsya_karma-kandoy_i_ne_dast_ponimaniya_istiny
 record_id: 1982.11.06.C2
 title: Без благословения Вайшнава даже изучение Писаний является карма-кандой и
   не даст понимания истины
@@ -28,6 +28,7 @@ legacy:
     является карма-кандой и не даст понимания истины
   index: "778"
   filename: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny.md
+  slug: 778-1982-11-06-c2-bez-blagosloveniya-vajshnava-dazhe-izuchenie-pisanij-yavlyaetsya-karma-kandoj-i-ne-dast-ponimaniya-istiny
 ---
 
 **Шрила Шридхар Махарадж:** Есть ли у кого-то вопросы?

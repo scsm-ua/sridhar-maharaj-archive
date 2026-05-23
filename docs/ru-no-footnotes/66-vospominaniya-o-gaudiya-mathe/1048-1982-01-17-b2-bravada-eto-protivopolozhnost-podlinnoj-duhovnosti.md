@@ -1,5 +1,5 @@
 ---
-slug: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti
+slug: 1982-01-17-b2_bravada_eto_protivopolozhnost_podlinnoy_duhovnosti
 record_id: 1982.01.17.B2
 title: Бравада — это противоположность подлинной духовности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1048. 1982.01.17.B2. Бравада — это противоположность подлинной духовности
   index: "1048"
   filename: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti.md
+  slug: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti
 ---
 
 *#00:41:59#*

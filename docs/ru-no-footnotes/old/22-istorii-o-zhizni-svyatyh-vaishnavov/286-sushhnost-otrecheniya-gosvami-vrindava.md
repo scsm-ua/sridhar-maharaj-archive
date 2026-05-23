@@ -1,5 +1,5 @@
 ---
-slug: 286-sushhnost-otrecheniya-gosvami-vrindava
+slug: 1982-01-03-a_sushchnost_otrecheniya_gosvami_vrindavana
 record_id: 1982.01.03.A
 title: Сущность отречения Госвами Вриндавана
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -34,6 +34,7 @@ legacy:
   title: 286. Сущность отречения Госвами Вриндавана. 1982.01.03.A
   index: "286"
   filename: 286-sushhnost-otrecheniya-gosvami-vrindava.md
+  slug: 286-sushhnost-otrecheniya-gosvami-vrindava
 ---
 
 *#00:00:00#*

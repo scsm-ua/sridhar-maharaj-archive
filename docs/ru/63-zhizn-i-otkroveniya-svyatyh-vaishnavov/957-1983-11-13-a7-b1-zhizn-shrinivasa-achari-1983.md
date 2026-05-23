@@ -1,5 +1,5 @@
 ---
-slug: 957-1983-11-13-a7-b1-zhizn-shrinivasa-achari-1983
+slug: 1983-11-13-a7-b1_zhizn_shrinivasa_achari
 record_id: 1983.11.13.A7.B1
 title: Жизнь Шриниваса Ачарьи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 957. 1983.11.13.A7.B1. Жизнь Шриниваса Ачарьи (1983)
   index: "957"
   filename: 957-1983-11-13-a7-b1-zhizn-shrinivasa-achari-1983.md
+  slug: 957-1983-11-13-a7-b1-zhizn-shrinivasa-achari-1983
 tags:
-  - title: Шри Шад Госвами Аштакам
-    slug: shri-shad-gosvami-ashtakam
   - title: Шри Шад Госвами Аштакам 2
     slug: shri-shad-gosvami-ashtakam-2
 ---

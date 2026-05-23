@@ -1,5 +1,5 @@
 ---
-slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
+slug: 1982-06-19-c6_proverki_predannosti_ot_bogatstva_do_predlozheniya_stat_shivoy
 record_id: 1982.06.19.C6
 title: Проверки преданности — от богатства до предложения стать Шивой
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     стать Шивой
   index: "709"
   filename: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj.md
+  slug: 709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj
 ---
 
 **Преданный:** Махарадж, Кришна говорит: *йасйа̄хам анугр̣хн̣а̄ми, хариш̣йе тад-дханам̇ ш́анаих̣*[^_ftn1]. [Вопрос непонятен.]

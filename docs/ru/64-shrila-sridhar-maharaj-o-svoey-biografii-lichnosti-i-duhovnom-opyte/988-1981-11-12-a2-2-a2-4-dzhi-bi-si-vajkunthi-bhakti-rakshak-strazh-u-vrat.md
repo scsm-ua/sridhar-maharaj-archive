@@ -1,5 +1,5 @@
 ---
-slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
+slug: 1981-11-12-a2-2-a2-4_dzhi-bi-si_vaykunthi_bhakti_rakshak_strazh_u_vrat
 record_id: 1981.11.12.A2.2.A2.4
 title: Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 988. 1981.11.12.A2.2.A2.4. Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат
   index: "988"
   filename: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat.md
+  slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
 tags:
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 5
     slug: shri-shikshashtakam-5
-  - title: Сарвасва томара
-    slug: sarvasva-tomara
   - title: Сарвасва томара 2
     slug: sarvasva-tomara-2
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3
     slug: sharanagati-3
 ---

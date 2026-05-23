@@ -1,5 +1,5 @@
 ---
-slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
+slug: 1983-11-19-a4-b1_zhizn_i_sluzhenie_bhugarbhi_gosvami_kashinatha_i_govindy
 record_id: 1983.11.19.A4.B1
 title: Жизнь и служение Бхугарбхи Госвами, Кашинатха и Говинды
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,13 +24,10 @@ legacy:
     Говинды
   index: "936"
   filename: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy.md
+  slug: 936-1983-11-19-a4-b1-zhizn-i-sluzhenie-bhugarbhi-gosvami-kashinatha-i-govindy
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.144
     slug: shri-chajtanya-charitamrita-madhya-lila-10-144
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 8.49
     slug: shri-chajtanya-charitamrita-antya-lila-8-49
 ---

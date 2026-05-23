@@ -7,15 +7,16 @@ refs:
   - ../../_full/1982/10/1982.10.08.A.B.md
   - ../../_full/1983/09/1983.09.01.A.md
   - ../../_full/1983/12/1983.12.22.B.C.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Кришна-карнамрита
+    slug: krishna-karnamrita
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.136
     slug: shri-chajtanya-charitamrita-madhya-lila-21-136
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.35
     slug: shri-chajtanya-charitamrita-madhya-lila-23-35
-  - title: Кришна-карнамрита
-    slug: krishna-karnamrita
   - title: Кришна-карнамрита 92
     slug: krishna-karnamrita-92
 ---

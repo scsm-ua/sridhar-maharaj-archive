@@ -1,5 +1,5 @@
 ---
-slug: 1053-1982-11-02-a3-v-nachale-spora-nemalovazhno-vyslushat-i-uchest-mnenie-oppozitsii
+slug: 1982-11-02-a3_v_nachale_spora_nemalovazhno_vyslushat_i_uchest_mnenie_oppozitsii
 record_id: 1982.11.02.A3
 title: В начале спора немаловажно выслушать и учесть мнение оппозиции
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     оппозиции
   index: "1053"
   filename: 1053-1982-11-02-a3-v-nachale-spora-nemalovazhno-vyslushat-i-uchest-mnenie-oppozitsii.md
+  slug: 1053-1982-11-02-a3-v-nachale-spora-nemalovazhno-vyslushat-i-uchest-mnenie-oppozitsii
 ---
 
 [Звучит голос **Шрипад Бхакти Вичара Джаджавара Махараджа** — *переводчик*]

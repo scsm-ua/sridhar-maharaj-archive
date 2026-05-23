@@ -2,13 +2,14 @@
 slug: shri-chajtanya-charitamrita-antya-lila-1-142
 refs:
   - ../../_full/1982/10/1982.10.12.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.142
-    slug: shri-chajtanya-charitamrita-antya-lila-1-142
   - title: Видагдха-мадхава
     slug: vidagdha-madhava
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.142
+    slug: shri-chajtanya-charitamrita-antya-lila-1-142
   - title: Видагдха-мадхава 2.9
     slug: vidagdha-madhava-2-9
 ---

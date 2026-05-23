@@ -1,5 +1,5 @@
 ---
-slug: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov
+slug: 1983-01-12-a1_kak_mahaprabhu_obratil_musulman_v_vayshnavov
 record_id: 1983.01.12.A1
 title: Как Махапрабху обратил мусульман в вайшнавов?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 082. 1983.01.12.A1 Как Махапрабху обратил мусульман в вайшнавов?
   index: "082"
   filename: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov.md
+  slug: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov
 ---
 
 **Вопрос:** Махапрабху обратил некоторых мусульман в *патхана-вайшнавов*. Как Ему удалось обратить мусульман в вайшнавизм?

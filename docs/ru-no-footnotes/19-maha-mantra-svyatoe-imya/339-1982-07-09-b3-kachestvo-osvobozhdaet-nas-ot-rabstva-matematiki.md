@@ -1,5 +1,5 @@
 ---
-slug: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki
+slug: 1982-07-09-b3_kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki
 record_id: 1982.07.09.B3
 title: Качество освобождает нас от рабства математики
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 339. 1982.07.09.B3. Качество освобождает нас от рабства математики
   index: "339"
   filename: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki.md
+  slug: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki
 ---
 
 **Преданный:** Гуру Махарадж, правда ли это, что если соблюдать обет *чатурмасьи* в месяц Картика в святой *дхаме*, то можно обрести благо соблюдения всего обета в течение всей *чатурмасьи*, как если бы практиковать этот обет в течение четырех месяцев? Это правда?

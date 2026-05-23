@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-3-26-23-24
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
   - ../../_full/1981/03/1981.03.06.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.26.23–24
     slug: shrimad-bhagavatam-3-26-23-24
 ---

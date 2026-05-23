@@ -1,5 +1,5 @@
 ---
-slug: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati
+slug: 1982-01-09-c1_o_poezii_prabodhanandy_sarasvati
 record_id: 1982.01.09.C1
 title: О поэзии Прабодхананды Сарасвати
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 114. 1982.01.09.C1. О поэзии Прабодхананды Сарасвати
   index: "114"
   filename: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati.md
+  slug: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati
 ---
 
     махапрабху гауранга-сундара-вара нитйам нидже намабхих

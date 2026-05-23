@@ -1,5 +1,5 @@
 ---
-slug: 987-1982-02-17-b1-hranitel-predannosti
+slug: 1982-02-17-b1_hranitel_predannosti
 record_id: 1982.02.17.B1
 title: Хранитель Преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 987. 1982.02.17.B1. Хранитель Преданности
   index: "987"
   filename: 987-1982-02-17-b1-hranitel-predannosti.md
+  slug: 987-1982-02-17-b1-hranitel-predannosti
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128

@@ -1,5 +1,5 @@
 ---
-slug: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom
+slug: 1982-04-14-d4_pravilnoe_voproshanie_o_bezgranichnom
 record_id: 1982.04.14.D4
 title: Правильное вопрошание о Безграничном
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
@@ -42,6 +38,7 @@ legacy:
   title: 434. 1982.04.14.D4. Правильное вопрошание о Безграничном
   index: "434"
   filename: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom.md
+  slug: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom
 ---
 
 **Преданный:** Еще один вопрос, с вашего позволения: чтобы этот материальный мир функционировал должным образом, установлено множество законов, а какие законы присутствую в духовном существовании?

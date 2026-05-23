@@ -1,5 +1,5 @@
 ---
-slug: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya
+slug: 1982-04-25-a1_upanishady_i_bhagavatam_o_poiske_universalnogo_resheniya
 record_id: 1982.04.25.A1
 title: Упанишады и «Бхагаватам» о поиске универсального решения
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 566. 1982.04.25.A1. Упанишады и «Бхагаватам» о поиске универсального решения
   index: "566"
   filename: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya.md
+  slug: 566-1982-04-25-a1-upanishady-i-bhagavatam-o-poiske-universalnogo-resheniya
 ---
 
     …йасмин прапте сарвам идам праптам бхавати

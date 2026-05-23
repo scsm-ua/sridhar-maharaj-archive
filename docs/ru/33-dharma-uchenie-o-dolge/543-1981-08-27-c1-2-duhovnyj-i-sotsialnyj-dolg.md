@@ -1,5 +1,5 @@
 ---
-slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
+slug: 1981-08-27-c1-2_duhovnyy_i_sotsialnyy_dolg
 record_id: 1981.08.27.C1.2
 title: Духовный и социальный долг
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Дхарма
     slug: dharma
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.200
     slug: bhakti-rasamrita-sindhu-1-2-200
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 543. 1981.08.27.C1.2. Духовный и социальный долг
   index: "543"
   filename: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg.md
+  slug: 543-1981-08-27-c1-2-duhovnyj-i-sotsialnyj-dolg
 ---
 
 В *шастре* мы находим:

@@ -1,5 +1,5 @@
 ---
-slug: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity
+slug: 1982-05-11-b6-c1_put_prevyshe_pravednosti_stihi_9_30-31_bhagavad-gity
 record_id: 1982.05.11.B6.C1
 title: Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 861. 1982.05.11.B6.C1. Путь превыше праведности. Стихи 9.30-31 Бхагавад-гиты
   index: "861"
   filename: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity.md
+  slug: 861-1982-05-11-b6-c1-put-prevyshe-pravednosti-stihi-9-30-31-bhagavad-gity
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -42,8 +39,6 @@ tags:
     slug: bhagavad-gita-9-31
   - title: Бхагавад-гита 18.17
     slug: bhagavad-gita-18-17
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.176
     slug: shri-chajtanya-charitamrita-antya-lila-4-176
   - title: Бхагавад-гита 3.18
@@ -52,8 +47,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
     slug: shri-chajtanya-charitamrita-madhya-lila-9-264
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.32
     slug: shrimad-bhagavatam-11-11-32
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47

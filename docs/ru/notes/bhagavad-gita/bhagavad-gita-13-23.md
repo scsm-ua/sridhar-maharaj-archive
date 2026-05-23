@@ -3,9 +3,10 @@ slug: bhagavad-gita-13-23
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
   - ../../_full/1982/05/1982.05.18.E.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.23
     slug: bhagavad-gita-13-23
 ---

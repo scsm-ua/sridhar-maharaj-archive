@@ -1,5 +1,5 @@
 ---
-slug: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi
+slug: 1982-02-21-b4_aparadha-bhandzhan-pat_mesto_gde_proshchayutsya_vse_grehi
 record_id: 1982.02.21.B4
 title: Апарадха-бханджан-пат — место, где прощаются все грехи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1087. 1982.02.21.B4. Апарадха-бханджан-пат — место, где прощаются все грехи
   index: "1087"
   filename: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi.md
+  slug: 1087-1982-02-21-b4-aparadha-bhandzhan-pat-mesto-gde-proshhayutsya-vse-grehi
 ---
 
 ## «Мгновения Прекрасной Реальности» (часть 2.4)

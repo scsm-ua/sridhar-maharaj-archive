@@ -1,5 +1,5 @@
 ---
-slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
+slug: 1983-01-30-a1_metod_dlya_obreteniya_svyazi_s_vysshim_mirom
 record_id: 1983.01.30.A1
 title: Метод для обретения связи с высшим миром
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
     slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
   - title: Бхагавад-гита 8.25
@@ -42,6 +36,7 @@ legacy:
   title: 444. 1983.01.30.A1. Метод для обретения связи с высшим миром
   index: "444"
   filename: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom.md
+  slug: 444-1983-01-30-a1-metod-dlya-obreteniya-svyazi-s-vysshim-mirom
 ---
 
 **Преданный:** Гуру Махарадж, существует ли какая-то интересная история о том, как Божества Вриндавана — Радха-Говиндаджи, Радха-Гопинатх, Радха-Дамодар — все были перевезены в Джайпур?

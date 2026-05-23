@@ -1,5 +1,5 @@
 ---
-slug: 370-obshhenie-s-sadhu-daruet-blagosloveni
+slug: 1981-11-12-b2_obshchenie_s_sadhu_daruet_blagosloveniya_v_treh_periodah_vremeni
 record_id: 1981.11.12.B2
 title: Общение с садху дарует благословения в трех периодах времени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     1981.11.12.B2
   index: "370"
   filename: 370-obshhenie-s-sadhu-daruet-blagosloveni.md
+  slug: 370-obshhenie-s-sadhu-daruet-blagosloveni
 ---
 
 Великая поэма, написанная одним поэтом, которого звали Шишупал Гхот. В этой поэме есть одна шлока: варнатикалах… «Общение с садху, — говорит этот поэт, — обещает нам приобретение, благо в трех периодах времени: в прошлом, настоящем и будущем. Общение с садху дает нам благо в трех периодах времени.

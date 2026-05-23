@@ -1,5 +1,5 @@
 ---
-slug: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni
+slug: 1982-01-07-b_10_oskorbleniy_svyatogo_imeni
 record_id: 1982.01.07.B
 title: 10 оскорблений Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.85
     slug: shri-chajtanya-charitamrita-antya-lila-7-85
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 342. 1982.01.07.B. 10 оскорблений Святого Имени
   index: "342"
   filename: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni.md
+  slug: 342-1982-01-07-b-10-oskorblenij-svyatogo-imeni
 ---
 
 В «Падма-Пуране» мы находим десять оскорблений в адрес Святого Имени. Тот, кто воспевает Святое Имя и с помощью этого Святого Имени желает вступить в эту святую обитель, должен быть осторожен в отношении этих десяти оскорблений. Каковы они? Я перечислю их одно за другим.

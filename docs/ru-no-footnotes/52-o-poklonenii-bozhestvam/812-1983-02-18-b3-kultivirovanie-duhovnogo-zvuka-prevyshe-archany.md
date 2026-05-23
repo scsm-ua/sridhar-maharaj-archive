@@ -1,5 +1,5 @@
 ---
-slug: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany
+slug: 1983-02-18-b3_kultivirovanie_duhovnogo_zvuka_prevyshe_archany
 record_id: 1983.02.18.B3
 title: Культивирование духовного звука превыше арчаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 812. 1983.02.18.B3. Культивирование духовного звука превыше арчаны
   index: "812"
   filename: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany.md
+  slug: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany
 ---
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.

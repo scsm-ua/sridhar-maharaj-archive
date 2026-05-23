@@ -1,5 +1,5 @@
 ---
-slug: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti
+slug: 1981-11-12-b1_podlinnyy_vayshnav_schitaet_u_menya_net_bhakti
 record_id: 1981.11.12.B1
 title: "Подлинный вайшнав считает: «у меня нет бхакти»"
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
 links:
@@ -30,6 +28,7 @@ legacy:
   title: "851. 1981.11.12.B1. Подлинный вайшнав считает: «у меня нет бхакти»"
   index: "851"
   filename: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti.md
+  slug: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti
 ---
 
 **Шрила Шридхар Махарадж** (рассказывает о каком-то вайшнаве [возможно, профессор Ниши Канта Саньял]): Он носил белую одежду, но он занимал положение выше, чем многие *санньяси*, он был выше многих *санньяси*. Мы слышали это непосредственно от нашего Гуру Махараджа. И также своими глазами мы видели, как он живет, как он совершает *бхаджан* практическим образом в своей жизни.

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-8-176
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani.md
   - ../../_full/1982/05/1982.05.18.A.B.C1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.176
     slug: shri-chajtanya-charitamrita-madhya-lila-8-176
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi
+slug: 1984-01-15-b4_o_razlichii_kachestva_propovedi
 record_id: 1984.01.15.B4
 title: О различии качества проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 384. 1984.01.15.B4. О различии качества проповеди
   index: "384"
   filename: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi.md
+  slug: 384-1984-01-15-b4-o-razlichii-kachestva-propovedi
 ---
 
 **Преданный:** Махарадж, когда преданный пытается проповедовать, скажем, на Западе или в любой опасной ситуации, то в этом случае Махапрабху защищает его в большей степени?

@@ -1,5 +1,5 @@
 ---
-slug: 930-1983-01-05-b1-1-zhizn-bilvanmangala-duhovnyj-put-i-materialnye-privyazannosti
+slug: 1983-01-05-b1-1_zhizn_bilvanmangala_duhovnyy_put_i_materialnye_privyazannosti
 record_id: 1983.01.05.B1.1
 title: Жизнь Билванмангала. Духовный путь и материальные привязанности.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     привязанности
   index: "930"
   filename: 930-1983-01-05-b1-1-zhizn-bilvanmangala-duhovnyj-put-i-materialnye-privyazannosti.md
+  slug: 930-1983-01-05-b1-1-zhizn-bilvanmangala-duhovnyj-put-i-materialnye-privyazannosti
 ---
 
 **Преданный:** Махарадж?

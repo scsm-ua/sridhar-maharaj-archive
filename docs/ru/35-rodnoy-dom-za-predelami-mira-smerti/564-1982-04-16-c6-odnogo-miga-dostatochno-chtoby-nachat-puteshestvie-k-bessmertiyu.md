@@ -1,5 +1,5 @@
 ---
-slug: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu
+slug: 1982-04-16-c6_odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiyu
 record_id: 1982.04.16.C6
 title: Одного мига достаточно, чтобы начать путешествие к бессмертию
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,15 +24,12 @@ legacy:
     бессмертию
   index: "564"
   filename: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu.md
+  slug: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.20
     slug: bhagavad-gita-2-20
   - title: Бхагавад-гита 2.23
     slug: bhagavad-gita-2-23
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.12
     slug: shrimad-bhagavatam-2-1-12
 ---

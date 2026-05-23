@@ -1,5 +1,5 @@
 ---
-slug: 154-1983-05-24-b1-gospod-narasimhadev
+slug: 1983-05-24-b1_gospod_narasimhadev
 record_id: 1983.05.24.B1
 title: Господь Нарасимхадев
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Нарасимха
     slug: narasimha
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.5
     slug: shri-chajtanya-charitamrita-madhya-lila-8-5
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.87.1
     slug: shrimad-bhagavatam-10-87-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.6
     slug: shri-chajtanya-charitamrita-madhya-lila-8-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
   - title: Бхагавад-гита 9.33
@@ -44,6 +38,7 @@ legacy:
   title: 154. 1983.05.24.B1. Господь Нарасимхадев
   index: "154"
   filename: 154-1983-05-24-b1-gospod-narasimhadev.md
+  slug: 154-1983-05-24-b1-gospod-narasimhadev
 ---
 
 [*Хари-катха* Его Божественной Милости Шрилы Бхакти Ракшака Шридхара Дев-Госвами Махараджа 24 мая 1983 года в день явления Шри Нрисимхадева, Шри Навадвип Дхам, Чайтанья Сарасват Матх.]

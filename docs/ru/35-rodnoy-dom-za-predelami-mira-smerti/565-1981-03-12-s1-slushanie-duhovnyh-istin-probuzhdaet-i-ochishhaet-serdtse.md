@@ -1,5 +1,5 @@
 ---
-slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
+slug: 1981-03-12-c1_slushanie_duhovnyh_istin_probuzhdaet_i_ochishchaet_serdtse
 record_id: 1981.03.12.C1
 title: Слушание духовных истин пробуждает и очищает сердце
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 565. 1981.03.12.С1. Слушание духовных истин пробуждает и очищает сердце
   index: "565"
   filename: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse.md
+  slug: 565-1981-03-12-s1-slushanie-duhovnyh-istin-probuzhdaet-i-ochishhaet-serdtse
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
   - title: Таиттирия-упанишад 3.1.1
     slug: taittiriya-upanishad-3-1-1
 ---

@@ -8,9 +8,10 @@ refs:
   - ../../_full/1982/02/1982.02.17.md
   - ../../_full/1982/03/1982.03.16.A.md
   - ../../_full/1983/11/1983.11.13.A1.md
-tags:
+scriptures:
   - title: Ману-самхита
     slug: manu-samhita
+verses:
   - title: Ману-самхита 1.5
     slug: manu-samhita-1-5
 ---

@@ -3,9 +3,10 @@ slug: bhagavad-gita-4-17
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam.md
   - ../../_full/1982/07/1982.07.18.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.17
     slug: bhagavad-gita-4-17
 ---

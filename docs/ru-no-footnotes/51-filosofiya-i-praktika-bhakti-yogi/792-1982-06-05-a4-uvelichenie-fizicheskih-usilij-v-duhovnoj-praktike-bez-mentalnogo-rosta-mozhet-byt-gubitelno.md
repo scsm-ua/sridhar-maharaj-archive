@@ -1,5 +1,5 @@
 ---
-slug: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno
+slug: 1982-06-05-a4_uvelichenie_fizicheskih_usiliy_v_duhovnoy_praktike_bez_mentalnogo_rosta_mozhet_byt_gubitelno
 record_id: 1982.06.05.A4
 title: Увеличение физических усилий в духовной практике без ментального роста
   может быть губительно
@@ -28,6 +28,7 @@ legacy:
     ментального роста может быть губительно
   index: "792"
   filename: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno.md
+  slug: 792-1982-06-05-a4-uvelichenie-fizicheskih-usilij-v-duhovnoj-praktike-bez-mentalnogo-rosta-mozhet-byt-gubitelno
 ---
 
 **Акхаянанда Махарадж:** Махарадж, в прошлом вы говорили о том, что *эка-лакха-нама* значит… *лакха* — тот, у кого есть одна цель.

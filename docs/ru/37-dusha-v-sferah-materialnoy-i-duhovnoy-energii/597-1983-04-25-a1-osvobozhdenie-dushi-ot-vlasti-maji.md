@@ -1,5 +1,5 @@
 ---
-slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
+slug: 1983-04-25-a1_osvobozhdenie_dushi_ot_vlasti_mayi
 record_id: 1983.04.25.A1
 title: Освобождение души от власти майи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,18 +15,12 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.55
     slug: shri-chajtanya-charitamrita-adi-lila-2-55
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.87
     slug: shri-chajtanya-charitamrita-adi-lila-5-87
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.11.38
     slug: shrimad-bhagavatam-1-11-38
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.14
     slug: bhagavad-gita-7-14
   - title: Бхагавад-гита 9.31
@@ -42,6 +36,7 @@ legacy:
   title: 597. 1983.04.25.A1. Освобождение души от власти майи
   index: "597"
   filename: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji.md
+  slug: 597-1983-04-25-a1-osvobozhdenie-dushi-ot-vlasti-maji
 ---
 
 **Шрила Шридхар Махарадж:** Каков вопрос?

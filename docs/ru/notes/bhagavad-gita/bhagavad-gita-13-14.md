@@ -6,9 +6,10 @@ refs:
   - ../../66-vospominaniya-o-gaudiya-mathe/1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi.md
   - ../../_full/1982/05/1982.05.09.A.md
   - ../../_full/1982/05/1982.05.18.A.B.C1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.14
     slug: bhagavad-gita-13-14
 ---

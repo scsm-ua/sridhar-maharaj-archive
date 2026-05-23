@@ -1,5 +1,5 @@
 ---
-slug: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah
+slug: 1982-01-25-b2_fleyta_krishny_proyavlyaet_sebya_v_raznyh_rasah
 record_id: 1982.01.25.B2
 title: Флейта Кришны проявляет себя в разных расах
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Флейта Кришны
     slug: flejta-krishny
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
 links:
@@ -36,6 +32,7 @@ legacy:
   title: 054. 1982.01.25.B2 Флейта Кришны проявляет себя в разных расах
   index: "054"
   filename: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah.md
+  slug: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah
 ---
 
 **Шрила Шридхар Махарадж:** Махапрабху Гауранга Сундар!

@@ -4,9 +4,10 @@ refs:
   - ../../48-vera/760-1983-01-02-a1-doverie-vysshemu-miru-osnova-duhovnoj-zhizni.md
   - ../../_full/1982/10/1982.10.20.A.B.md
   - ../../_full/1983/01/1983.01.01.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.78–79
     slug: shri-chajtanya-charitamrita-antya-lila-3-78-79
 ---

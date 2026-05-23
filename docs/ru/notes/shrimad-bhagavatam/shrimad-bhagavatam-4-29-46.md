@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-4-29-46
 refs:
   - ../../17-shri-guru-i-ego-milost/300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 4.29.46
     slug: shrimad-bhagavatam-4-29-46
 ---

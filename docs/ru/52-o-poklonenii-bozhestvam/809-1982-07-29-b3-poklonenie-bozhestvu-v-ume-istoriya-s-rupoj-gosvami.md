@@ -1,5 +1,5 @@
 ---
-slug: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami
+slug: 1982-07-29-b3_poklonenie_bozhestvu_v_ume_istoriya_s_rupoy_gosvami
 record_id: 1982.07.29.B3
 title: Поклонение Божеству в уме. История с Рупой Госвами.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Арчана
     slug: archana
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.27.12
     slug: shrimad-bhagavatam-11-27-12
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 809. 1982.07.29.B3. Поклонение Божеству в уме. История с Рупой Госвами
   index: "809"
   filename: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami.md
+  slug: 809-1982-07-29-b3-poklonenie-bozhestvu-v-ume-istoriya-s-rupoj-gosvami
 ---
 
 **Преданный:** Махарадж?

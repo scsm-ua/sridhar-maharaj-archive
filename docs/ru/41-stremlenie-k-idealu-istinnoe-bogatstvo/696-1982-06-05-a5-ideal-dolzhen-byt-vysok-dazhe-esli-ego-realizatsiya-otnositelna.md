@@ -1,5 +1,5 @@
 ---
-slug: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna
+slug: 1982-06-05-a5_ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizatsiya_otnositelna
 record_id: 1982.06.05.A5
 title: Идеал должен быть высок, даже если его реализация относительна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     относительна
   index: "696"
   filename: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna.md
+  slug: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 ---

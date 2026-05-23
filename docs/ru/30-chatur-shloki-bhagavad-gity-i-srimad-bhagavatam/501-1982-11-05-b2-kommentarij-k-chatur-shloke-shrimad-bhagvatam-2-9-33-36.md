@@ -1,5 +1,5 @@
 ---
-slug: 501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36
+slug: 1982-11-05-b2_kommentariy_k_chatur-shloke_shrimad_bhagvatam_2_9_33-36
 record_id: 1982.11.05.B2
 title: Комментарий к чатур-шлоке «Шримад Бхагватам» (2.9.33-36)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,26 +15,18 @@ category:
 tags:
   - title: Чатур-шлока
     slug: chatur-shloka
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.9.35
     slug: shrimad-bhagavatam-2-9-35
   - title: Шримад-Бхагаватам 2.9.33
     slug: shrimad-bhagavatam-2-9-33
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.54
     slug: shri-chajtanya-charitamrita-adi-lila-1-54
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.119
     slug: shri-chajtanya-charitamrita-madhya-lila-25-119
   - title: Шримад-Бхагаватам 2.9.34
     slug: shrimad-bhagavatam-2-9-34
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
   - title: Шримад-Бхагаватам 2.9.36
@@ -52,6 +44,7 @@ legacy:
   title: 501. 1982.11.05.B2. Комментарий к чатур-шлоке «Шримад Бхагватам» (2.9.33-36)
   index: "501"
   filename: 501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36.md
+  slug: 501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36
 ---
 
 В материальном мире, возможно, эфир присутствует повсюду. Эфир — связующее звено, которое соединяет все реалии: Чандралоку, Мангал (Луну, Марс), Солнце, и благодаря этому, электрическая волна… Ухо не может достичь, но *акаша* — эфир — всепронизывающ, присутствует повсюду, наиболее тонкое начало, элемент. Он покрывает все и находится в середине всего.

@@ -1,5 +1,5 @@
 ---
-slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
+slug: 1982-11-03-b3_dva_znacheniya_slova_purana_i_ponyatie_vayshnav_sluzhenie_tsentru_trud_lyubvi
 record_id: 1982.11.03.B3
 title: Два значения слова Пурана и понятие «вайшнав». Служение Центру – труд любви.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Служение Центру – труд любви
   index: "436"
   filename: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi.md
+  slug: 436-1982-11-03-b3-dva-znacheniya-slova-purana-i-ponyatie-vajshnav-sluzhenie-tsentru-trud-lyubvi
 ---
 
 [**Шрипад Джаджавар Махарадж** начал шлоку, а **Шрила Шридхар Махарадж** продолжил:]

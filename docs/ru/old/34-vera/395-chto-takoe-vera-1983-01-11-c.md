@@ -1,5 +1,5 @@
 ---
-slug: 395-chto-takoe-vera-1983-01-11-c
+slug: 1983-01-11-c_chto_takoe_vera
 record_id: 1983.01.11.C
 title: Что такое вера?
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 395. Что такое вера? 1983.01.11.C
   index: "395"
   filename: 395-chto-takoe-vera-1983-01-11-c.md
+  slug: 395-chto-takoe-vera-1983-01-11-c
 ---
 
 *#00:00:00#*

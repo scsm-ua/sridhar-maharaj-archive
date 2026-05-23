@@ -1,5 +1,5 @@
 ---
-slug: 1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost
+slug: 1983-05-23-a1_obsuzhdenie_knigi_shri_guru_i_ego_milost
 record_id: 1983.05.23.A1
 title: Обсуждение книги «Шри Гуру и его милость»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1117. 1983.05.23.A1. Обсуждение книги «Шри Гуру и его милость»
   index: "1117"
   filename: 1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost.md
+  slug: 1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost
 ---
 
 **Преданный:** Не могли бы вы объяснить это на английском?

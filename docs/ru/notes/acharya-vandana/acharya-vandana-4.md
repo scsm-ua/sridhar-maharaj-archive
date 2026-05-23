@@ -2,9 +2,10 @@
 slug: acharya-vandana-4
 refs:
   - ../../_full/1983/10/1983.10.27.A.B.C.md
-tags:
+scriptures:
   - title: Ачарья вандана
     slug: acharya-vandana
+verses:
   - title: Ачарья вандана 4
     slug: acharya-vandana-4
 ---

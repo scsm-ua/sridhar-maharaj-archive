@@ -1,5 +1,5 @@
 ---
-slug: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit
+slug: 1982-06-08-b2_istoriya_o_golovnoy_boli_krishny_kak_illyustratsiya_printsipa_umeret_chtoby_zhit
 record_id: 1982.06.08.B2
 title: История о головной боли Кришны как иллюстрация принципа «умереть, чтобы жить»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     принципа «умереть, чтобы жить»
   index: "849"
   filename: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit.md
+  slug: 849-1982-06-08-b2-istoriya-o-golovnoj-boli-krishny-kak-illyustratsiya-printsipa-umeret-chtoby-zhit
 ---
 
 **Преданный:** Махарадж, рассказывается история о головной боли Кришны: вайшнавы должны были дать пыль своих стоп — то было лекарство для Кришны. А *гопи*, которые дали пыль своих стоп, попали в ад за это?

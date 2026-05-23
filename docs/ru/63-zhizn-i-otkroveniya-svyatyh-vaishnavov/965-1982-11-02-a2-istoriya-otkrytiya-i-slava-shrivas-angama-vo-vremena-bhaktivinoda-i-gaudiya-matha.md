@@ -1,5 +1,5 @@
 ---
-slug: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha
+slug: 1982-11-02-a2_istoriya_otkrytiya_i_slava_shrivas-angama_vo_vremena_bhaktivinoda_i_gaudiya_matha
 record_id: 1982.11.02.A2
 title: История открытия и слава Шривас-ангама во времена Бхактивинода и Гаудия Матха
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Бхактивинода и Гаудия Матха
   index: "965"
   filename: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha.md
+  slug: 965-1982-11-02-a2-istoriya-otkrytiya-i-slava-shrivas-angama-vo-vremena-bhaktivinoda-i-gaudiya-matha
 ---
 
 Маяпур находится рядом с Баладхи(?), там упоминается это обстоятельство, дом Махапрабху.

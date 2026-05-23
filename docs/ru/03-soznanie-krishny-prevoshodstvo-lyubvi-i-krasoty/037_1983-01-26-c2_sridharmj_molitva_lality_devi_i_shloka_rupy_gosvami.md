@@ -1,5 +1,5 @@
 ---
-slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
+slug: 1983-01-26-c2_molitva_lality_devi_i_shloka_rupy_gosvami
 record_id: 1983.01.26.C2
 title: Молитва Лалиты Деви и шлока Рупы Госвами
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,20 +19,12 @@ tags:
     slug: samopozhertvovanie
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
   - title: Шри Лалита-аштака 1
     slug: shri-lalita-ashtaka-1
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 7
     slug: shri-nama-mahatmya-7
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.15
     slug: vidagdha-madhava-1-15
 links:
@@ -46,6 +38,7 @@ legacy:
   title: 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
   index: "037"
   filename: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami.md
+  slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
 ---
 
 Монополия, торговля неуместна, невозможна на этом рынке, ни один капиталист не может войти на этот рынок.

@@ -1,5 +1,5 @@
 ---
-slug: 73-oppozitsiya-tenevoj-aspekt-lily-go
+slug: 1981-03-01-a5-b1_oppozitsiya_tenevoy_aspekt_lily_gospoda
 record_id: 1981.03.01.A5.B1
 title: Оппозиция – «теневой» аспект лилы Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -22,6 +22,7 @@ legacy:
   title: 73. Оппозиция – «теневой» аспект лилы Господа. 1981.03.01.A5.B1
   index: "73"
   filename: 73-oppozitsiya-tenevoj-aspekt-lily-go.md
+  slug: 73-oppozitsiya-tenevoj-aspekt-lily-go
 ---
 
 **Ученик:** Я хочу спросить. Мы видим, когда Кришна… Кришна приходит во многих воплощениях…

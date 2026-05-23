@@ -3,9 +3,10 @@ slug: shri-shikshashtakam-7
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/180-1982-03-31-a1-vremya-prostranstvo-i-rasy-volny-sladostnogo-okeana-lily.md
   - ../../_full/1982/11/1982.11.12.A.md
-tags:
+scriptures:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
+verses:
   - title: Шри Шикшаштакам 7
     slug: shri-shikshashtakam-7
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
+slug: 1982-01-13-b2_soznanie_osnova_mira_materii
 record_id: 1982.01.13.B2
 title: Сознание — основа мира материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 644. 1982.01.13.B2. Сознание — основа мира материи
   index: "644"
   filename: 644-1982-01-13-b2-soznanie-osnova-mira-materii.md
+  slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
 ---

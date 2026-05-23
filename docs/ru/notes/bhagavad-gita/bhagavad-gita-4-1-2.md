@@ -2,9 +2,10 @@
 slug: bhagavad-gita-4-1-2
 refs:
   - ../../17-shri-guru-i-ego-milost/280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.1–2
     slug: bhagavad-gita-4-1-2
 ---

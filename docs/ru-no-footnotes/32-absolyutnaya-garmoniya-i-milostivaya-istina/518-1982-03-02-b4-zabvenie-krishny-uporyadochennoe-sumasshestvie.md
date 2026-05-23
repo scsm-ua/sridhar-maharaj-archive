@@ -1,5 +1,5 @@
 ---
-slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
+slug: 1982-03-02-b4_zabvenie_krishny_uporyadochennoe_sumasshestvie
 record_id: 1982.03.02.B4
 title: Забвение Кришны – упорядоченное сумасшествие
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 518. 1982.03.02.B4. Забвение Кришны – упорядоченное сумасшествие
   index: "518"
   filename: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie.md
+  slug: 518-1982-03-02-b4-zabvenie-krishny-uporyadochennoe-sumasshestvie
 ---
 
 Безумец, сумасшедший — его мозг расстроен. В состоянии безумия он лишен друзей, но когда он возвращается в нормальное состояние, то он видит тех же самых людей и понимает, что они друзья. Необходимо избавиться лишь от заблуждения, от болезни. С реалиями окружающего мира все в порядке, а болезнь — это…

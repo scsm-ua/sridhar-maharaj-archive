@@ -13,13 +13,14 @@ refs:
   - ../../_full/1982/07/1982.07.03.A.B1.md
   - ../../_full/1983/11/1983.11.19.A.B.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
-  - title: Мундака Упанишад 2.2.9
-    slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: Мундака Упанишад 2.2.9
+    slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
 ---

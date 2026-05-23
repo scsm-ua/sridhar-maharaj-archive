@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/09/1981.09.23.A.md
   - ../../_full/1982/05/1982.05.09.A.md
   - ../../_full/1982/05/1982.05.09.A.md
-tags:
+scriptures:
   - title: Кали-гхора тимире
     slug: kali-ghora-timire
+verses:
   - title: Кали-гхора тимире 4
     slug: kali-ghora-timire-4
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo
+slug: 1984-01-23-b2-b4_uchenoe_nevezhestvo
 record_id: 1984.01.23.B2.B4
 title: Ученое невежество
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 11
     slug: shri-ishopanishad-11
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 781. 1984.01.23.B2.B4. Ученое невежество
   index: "781"
   filename: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo.md
+  slug: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo
 ---
 
 **Преданный:** Гуру Махарадж, в «Шри Ишопанишад» присутствует мантра, которая утверждает, что знание и невежество следует культивировать одновременно. Что это означает?

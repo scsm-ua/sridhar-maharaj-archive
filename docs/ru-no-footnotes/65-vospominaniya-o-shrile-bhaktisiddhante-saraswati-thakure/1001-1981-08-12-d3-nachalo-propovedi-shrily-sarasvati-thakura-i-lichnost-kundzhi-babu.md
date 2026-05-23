@@ -1,5 +1,5 @@
 ---
-slug: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu
+slug: 1981-08-12-d3_nachalo_propovedi_shrily_sarasvati_thakura_i_lichnost_kundzhi_babu
 record_id: 1981.08.12.D3
 title: Начало проповеди Шрилы Сарасвати Тхакура и личность Кунджи Бабу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     Кунджи Бабу
   index: "1001"
   filename: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu.md
+  slug: 1001-1981-08-12-d3-nachalo-propovedi-shrily-sarasvati-thakura-i-lichnost-kundzhi-babu
 ---
 
 **Преданный:** Ваш Гуру Махарадж вначале повторял какое-то время три *лакха*, триста тысяч [Святых Имен] каждый день.

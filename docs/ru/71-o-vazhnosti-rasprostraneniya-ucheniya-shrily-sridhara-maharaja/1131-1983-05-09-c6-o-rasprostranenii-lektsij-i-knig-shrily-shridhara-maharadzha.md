@@ -1,5 +1,5 @@
 ---
-slug: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha
+slug: 1983-05-09-c6_o_rasprostranenii_lektsiy_i_knig_shrily_shridhara_maharadzha
 record_id: 1983.05.09.C6
 title: О распространении лекций и книг Шрилы Шридхара Махараджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1131. 1983.05.09.C6. О распространении лекций и книг Шрилы Шридхара Махараджа
   index: "1131"
   filename: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha.md
+  slug: 1131-1983-05-09-c6-o-rasprostranenii-lektsij-i-knig-shrily-shridhara-maharadzha
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.26
     slug: bhagavad-gita-3-26
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
 ---

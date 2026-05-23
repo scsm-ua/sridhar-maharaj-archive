@@ -34,9 +34,10 @@ refs:
   - ../../_full/1983/11/1983.11.02.A2.B.md
   - ../../_full/1983/11/1983.11.07.A.B.C.md
   - ../../_full/1983/11/1983.11.26.A.B.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 1.3
     slug: mundaka-upanishad-1-3
 ---

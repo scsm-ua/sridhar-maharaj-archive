@@ -1,5 +1,5 @@
 ---
-slug: 169-nadmirnaya-priroda-vajshnava-beseda-s
+slug: 1981-03-03-c5_nadmirnaya_priroda_vayshnava_beseda_s_satsvarupoy_maharadzhem
 record_id: 1981.03.03.C5
 title: Надмирная природа вайшнава. Беседа с Сатсварупой Махараджем.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     1981.03.03.C5
   index: "169"
   filename: 169-nadmirnaya-priroda-vajshnava-beseda-s.md
+  slug: 169-nadmirnaya-priroda-vajshnava-beseda-s
 ---
 
 **Ученик:** Я думаю, что нам сейчас надо идти, и мы вернемся.

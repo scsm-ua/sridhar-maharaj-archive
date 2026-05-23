@@ -3,9 +3,10 @@ slug: bhagavad-gita-13-20
 refs:
   - ../../56-samootricanie/854-1983-11-02-a6-samopredanie-i-duhovnyj-golod-osnova-sadhany.md
   - ../../_full/1983/11/1983.11.02.A1.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.20
     slug: bhagavad-gita-13-20
 ---

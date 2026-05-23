@@ -1,5 +1,5 @@
 ---
-slug: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha
+slug: 1982-02-23-a3_soznanie_krishny_i_soznanie_gaurangi_molitva_krishnadasa_kaviradzha
 record_id: 1982.02.23.A3
 title: Сознание Кришны и сознание Гауранги — молитва Кришнадаса Кавираджа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -19,8 +19,6 @@ tags:
     slug: mahaprabhu
   - title: Чайтанья-лила
     slug: chajtanya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.272
@@ -39,6 +37,7 @@ legacy:
     Кришнадаса Кавираджа
   index: "110"
   filename: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha.md
+  slug: 110-1982-02-23-a3-soznanie-krishny-i-soznanie-gaurangi-molitva-krishnadasa-kaviradzha
 ---
 
 Сейчас наше понимание нашей собственной жизни осквернено. Ум и разум — энергия всевозможной эксплуатации, все это осквернено. Наше нынешнее существование не чисто, но когда это изменится, наше подлинное существование, наше подлинное «я» восстанет в своей первозданной славе. Мы обретем связь с Высшей Душой и подлинным знанием, не каким-то смутным, имперсональным знанием, но с самим Господом — таким, какой Он есть, со всеми Своими параферналиями.

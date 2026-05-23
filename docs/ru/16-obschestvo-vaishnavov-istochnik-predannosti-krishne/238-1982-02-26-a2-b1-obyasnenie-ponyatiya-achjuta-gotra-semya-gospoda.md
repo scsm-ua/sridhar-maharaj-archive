@@ -1,5 +1,5 @@
 ---
-slug: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda
+slug: 1982-02-26-a2-b1_obyasnenie_ponyatiya_achyuta-gotra_semya_gospoda
 record_id: 1982.02.26.A2.B1
 title: Объяснение понятия ачйута-готра (семья Господа)
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 238. 1982.02.26.A2.B1. Объяснение понятия ачйута-готра (семья Господа)
   index: "238"
   filename: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda.md
+  slug: 238-1982-02-26-a2-b1-obyasnenie-ponyatiya-achjuta-gotra-semya-gospoda
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
 ---

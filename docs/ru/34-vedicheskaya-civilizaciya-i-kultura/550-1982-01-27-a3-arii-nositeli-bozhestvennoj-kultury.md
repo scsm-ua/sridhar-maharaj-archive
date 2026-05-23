@@ -1,5 +1,5 @@
 ---
-slug: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury
+slug: 1982-01-27-a3_arii_nositeli_bozhestvennoy_kultury
 record_id: 1982.01.27.A3
 title: Арии — носители божественной культуры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 550. 1982.01.27.A3. Арии — носители божественной культуры
   index: "550"
   filename: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury.md
+  slug: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury
 ---
 
 **Шрила Шридхар Махарадж:** [Гаурасундар, Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол.]

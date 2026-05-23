@@ -1,5 +1,5 @@
 ---
-slug: 995-1982-03-25-b2-blagodarnost-shridharu-maharadzhu-ot-slushatelej-i-ego-otvet
+slug: 1982-03-25-b2_blagodarnost_shridharu_maharadzhu_ot_slushateley_i_ego_otvet
 record_id: 1982.03.25.B2
 title: Благодарность Шридхару Махараджу от слушателей и его ответ
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     ответ
   index: "995"
   filename: 995-1982-03-25-b2-blagodarnost-shridharu-maharadzhu-ot-slushatelej-i-ego-otvet.md
+  slug: 995-1982-03-25-b2-blagodarnost-shridharu-maharadzhu-ot-slushatelej-i-ego-otvet
 ---
 
 **Преданный:**

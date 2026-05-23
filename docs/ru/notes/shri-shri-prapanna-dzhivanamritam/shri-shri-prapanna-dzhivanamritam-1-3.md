@@ -3,9 +3,10 @@ slug: shri-shri-prapanna-dzhivanamritam-1-3
 refs:
   - ../../_full/1981/11/1981.11.30.A.md
   - ../../_full/1981/12/1981.12.30.C.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 1.3
     slug: shri-shri-prapanna-dzhivanamritam-1-3
 ---

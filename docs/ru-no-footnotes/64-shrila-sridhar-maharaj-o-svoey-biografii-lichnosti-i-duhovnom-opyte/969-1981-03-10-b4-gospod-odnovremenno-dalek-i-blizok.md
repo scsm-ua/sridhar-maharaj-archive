@@ -1,5 +1,5 @@
 ---
-slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
+slug: 1981-03-10-b4_gospod_odnovremenno_dalek_i_blizok
 record_id: 1981.03.10.B4
 title: Господь одновременно далек и близок
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 969. 1981.03.10.B4. Господь одновременно далек и близок
   index: "969"
   filename: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok.md
+  slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
 ---
 
     майа̄ татам идам̇ сарвам̇

@@ -3,9 +3,10 @@ slug: shri-radhashtaka-1
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/473-1982-11-08-b2-vrindavan-eto-to-mesto-kotoroe-hranit-na-sebe-sledy-stop-shrimati-radharani.md
   - ../../_full/1981/09/1981.09.15.A.md
-tags:
+scriptures:
   - title: Шри Радхаштака
     slug: shri-radhashtaka
+verses:
   - title: Шри Радхаштака 1
     slug: shri-radhashtaka-1
 ---

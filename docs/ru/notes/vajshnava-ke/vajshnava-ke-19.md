@@ -4,9 +4,10 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
   - ../../_full/1982/01/1982.01.29.md
   - ../../_full/1983/05/1983.05.09.A.md
-tags:
+scriptures:
   - title: Вайшнава ке
     slug: vajshnava-ke
+verses:
   - title: Вайшнава ке 19
     slug: vajshnava-ke-19
 ---

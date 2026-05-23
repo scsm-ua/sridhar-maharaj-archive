@@ -1,5 +1,5 @@
 ---
-slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
+slug: 1983-01-21-a_opyt_brennogo_mira_ne_pomozhet_postich_bezgranichnoe
 record_id: 1983.01.21.A
 title: Опыт бренного мира не поможет постичь Безграничное
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 573. 1983.01.21.A. Опыт бренного мира не поможет постичь Безграничное
   index: "573"
   filename: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe.md
+  slug: 573-1983-01-21-a-opyt-brennogo-mira-ne-pomozhet-postich-bezgranichnoe
 ---
 
 **Научное знание — это деградация духовности**

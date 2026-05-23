@@ -1,5 +1,5 @@
 ---
-slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
+slug: 1982-07-18-a5_gradatsiya_v_urovnyah_sluzheniya_svyatomu_imeni_prasadu_bozhestvam_i_chtenii_pisaniy
 record_id: 1982.07.18.A5
 title: Градация в уровнях служения Святому Имени, прасаду, Божествам и чтении Писаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     Божествам и чтении Писаний
   index: "790"
   filename: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
+  slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
 ---
 
 **Шрила Шридхар Махарадж:** Вы понимаете, нет?

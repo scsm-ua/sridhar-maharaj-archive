@@ -1,5 +1,5 @@
 ---
-slug: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu
+slug: 1983-11-14-c2_reklama_duhovnyh_dvizheniy_mozhet_ne_sootvetstvovat_ih_kapitalu
 record_id: 1983.11.14.C2
 title: Реклама духовных движений может не соответствовать их капиталу
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     их капиталу
   index: "1065"
   filename: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu.md
+  slug: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu
 ---
 
 **Преданный:** Махарадж, в Бангладеш есть множество гуру, и один гуру — его зовут Джагат-Бандху. Они говорят…

@@ -1,5 +1,5 @@
 ---
-slug: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile
+slug: 1982-05-09-b3-b5_transformatsiya_vrindavana-lily_v_dvaraka-lile
 record_id: 1982.05.09.B3.B5
 title: Трансформация Вриндавана-лилы в Дварака-лиле
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 168. 1982.05.09.B3.B5. Трансформация Вриндавана-лилы в Дварака-лиле
   index: "168"
   filename: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile.md
+  slug: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 ---

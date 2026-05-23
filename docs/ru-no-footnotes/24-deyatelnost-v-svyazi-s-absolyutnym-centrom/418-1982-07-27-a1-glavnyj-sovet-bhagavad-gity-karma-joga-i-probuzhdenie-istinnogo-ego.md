@@ -1,5 +1,5 @@
 ---
-slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+slug: 1982-07-27-a1_glavnyy_sovet_bhagavad-gity_karma-yoga_i_probuzhdenie_istinnogo_ego
 record_id: 1982.07.27.A1
 title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     пробуждение истинного эго
   index: "418"
   filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
+  slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
 ---
 
 **Шрила Шридхар Махарадж:** Эти двое?

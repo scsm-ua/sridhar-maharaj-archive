@@ -3,9 +3,10 @@ slug: shri-prema-bhakti-chandrika-1-10
 refs:
   - ../../_full/1982/12/1982.12.26.A.B.md
   - ../../_full/1983/02/1983.02.13.md
-tags:
+scriptures:
   - title: Шри Према-бхакти-чандрика
     slug: shri-prema-bhakti-chandrika
+verses:
   - title: Шри Према-бхакти-чандрика 1.10
     slug: shri-prema-bhakti-chandrika-1-10
 ---

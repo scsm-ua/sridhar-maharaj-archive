@@ -1,5 +1,5 @@
 ---
-slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
+slug: 1982-03-30-a-b1-b5_duhovnaya_chistota_vayshnava_za_predelami_fizicheskogo_i_mentalnogo_tel
 record_id: 1982.03.30.A.B1.B5
 title: Духовная чистота вайшнава — за пределами физического и ментального тел
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     физического и ментального тел
   index: "257"
   filename: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel.md
+  slug: 257-1982-03-30-a-b1-b5-duhovnaya-chistota-vajshnava-za-predelami-fizicheskogo-i-mentalnogo-tel
 ---
 
 Если мы видим в вайшнаве какой-то физический дефект, то это не лишает его внутренней очищающей способности, поскольку речь идет об измерении души, которая связана с высшей душой и высшей-высшей душой, Кришной, Нараяной.

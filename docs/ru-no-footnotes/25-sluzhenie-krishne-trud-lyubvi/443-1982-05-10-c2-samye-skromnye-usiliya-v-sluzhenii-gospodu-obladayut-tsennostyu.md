@@ -1,5 +1,5 @@
 ---
-slug: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu
+slug: 1982-05-10-c2_samye_skromnye_usiliya_v_sluzhenii_gospodu_obladayut_tsennostyu
 record_id: 1982.05.10.C2
 title: Самые скромные усилия в служении Господу обладают ценностью
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     ценностью
   index: "443"
   filename: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu.md
+  slug: 443-1982-05-10-c2-samye-skromnye-usiliya-v-sluzhenii-gospodu-obladayut-tsennostyu
 ---
 
 Харе Кришна! Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол. [Смеется.]

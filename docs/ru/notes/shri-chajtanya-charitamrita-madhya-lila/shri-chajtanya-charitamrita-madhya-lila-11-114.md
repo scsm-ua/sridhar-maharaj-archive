@@ -5,9 +5,10 @@ refs:
   - ../../_full/1981/12/1981.12.30.C.md
   - ../../_full/1982/11/1982.11.02.A.md
   - ../../_full/1982/11/1982.11.02.A1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.114
     slug: shri-chajtanya-charitamrita-madhya-lila-11-114
 ---

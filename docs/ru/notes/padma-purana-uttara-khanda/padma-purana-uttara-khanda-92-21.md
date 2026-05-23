@@ -3,6 +3,7 @@ slug: padma-purana-uttara-khanda-92-21
 refs:
   - ../../_full/1981/08/1981.08.14.md
   - ../../_full/1981/11/1981.11.12.md
+  - ../../_full/1982/04/1982.04.23.A.B.md
   - ../../_full/1982/04/1982.04.28.A.B.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
   - ../../_full/1982/11/1982.11.13.C.D.md
@@ -11,9 +12,10 @@ refs:
   - ../../_full/1983/01/1983.01.22.B.md
   - ../../_full/1983/11/1983.11.28.A.md
   - ../../_full/1985/05/1985.05.01.md
-tags:
+scriptures:
   - title: «Падма-пурана», Уттара-кханда
     slug: padma-purana-uttara-khanda
+verses:
   - title: «Падма-пурана», Уттара-кханда 22
     slug: padma-purana-uttara-khanda-22
   - title: «Падма-пурана», Уттара-кханда 92.21

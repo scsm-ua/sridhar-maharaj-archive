@@ -1,5 +1,5 @@
 ---
-slug: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam
+slug: 1982-02-15-a2_predannost_gospodu_oznachaet_predannost_ego_slugam
 record_id: 1982.02.15.A2
 title: «Преданность Господу» означает «преданность Его слугам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
     slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
 links:
@@ -34,6 +30,7 @@ legacy:
   title: 769. 1982.02.15.A2. «Преданность Господу» означает «преданность Его слугам»
   index: "769"
   filename: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam.md
+  slug: 769-1982-02-15-a2-predannost-gospodu-oznachaet-predannost-ego-slugam
 ---
 
 В «Чайтанья-Чаритамрите», возможно, в четвертой главе описаны Радхарани и Кришна, Их взаимоотношения и Их поведение описаны там. Кришна словно получает Свою силу в связи с Ней, оба взаимозависимы, неотъемлемо связаны. Половина властвующего начала и подчиненная Половина, одно начало не может существовать независимо от другого.

@@ -1,5 +1,5 @@
 ---
-slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
+slug: 1981-03-12-b2_svyaz_s_mirom_nirguny_prevyshe_mirskogo_znaniya_i_tsennostey
 record_id: 1981.03.12.B2
 title: Связь с миром ниргуны превыше мирского знания и ценностей
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
   index: "572"
   filename: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej.md
+  slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63

@@ -2,13 +2,16 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-6-154
 refs:
   - ../../_full/1982/09/1982.09.06.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.119
-    slug: shri-chajtanya-charitamrita-adi-lila-7-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Вишну-пурана
+    slug: vishnu-purana
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.119
+    slug: shri-chajtanya-charitamrita-adi-lila-7-119
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.112
     slug: shri-chajtanya-charitamrita-madhya-lila-20-112
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.308
@@ -17,8 +20,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-154
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.153
     slug: shri-chajtanya-charitamrita-madhya-lila-8-153
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 6.7.61
     slug: vishnu-purana-6-7-61
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi
+slug: 1981-08-18-c2-4_acharya_vysochayshey_madhura-rasy_vzyvaet_k_polozheniyu_slugi
 record_id: 1981.08.18.C2.4
 title: Ачарья высочайшей мадхура-расы взывает к положению слуги
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     слуги
   index: "440"
   filename: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi.md
+  slug: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi
 ---
 
 **Преданный:** Махарадж, а вот этот стих: *дасйасйа те*… Как он звучит?

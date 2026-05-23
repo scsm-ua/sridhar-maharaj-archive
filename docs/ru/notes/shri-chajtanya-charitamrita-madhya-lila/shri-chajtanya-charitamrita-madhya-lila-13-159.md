@@ -6,9 +6,10 @@ refs:
   - ../../28-molitvy-i-umonastroenie-gopi/481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
   - ../../_full/1981/11/1981.11.06.B.md
   - ../../_full/1982/07/1982.07.16.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.159
     slug: shri-chajtanya-charitamrita-madhya-lila-13-159
 ---

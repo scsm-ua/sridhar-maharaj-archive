@@ -5,9 +5,10 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha.md
   - ../../_full/1981/03/1981.03.02.md
   - ../../_full/1981/08/1981.08.27.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.129
     slug: shri-chajtanya-charitamrita-madhya-lila-7-129
 ---

@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-6-3-19
 refs:
   - ../../19-maha-mantra-svyatoe-imya/337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.3.19
     slug: shrimad-bhagavatam-6-3-19
 ---

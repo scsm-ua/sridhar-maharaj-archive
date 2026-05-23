@@ -1,5 +1,5 @@
 ---
-slug: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi
+slug: 1983-04-23-a_duhovnyy_zvuk_privedet_na_zemlyu_lyubvi
 record_id: 1983.04.23.A
 title: Духовный звук приведет на землю любви
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,22 +15,16 @@ category:
 tags:
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
   - title: Шримад-Бхагаватам 1.13.47
     slug: shrimad-bhagavatam-1-13-47
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Бхагавад-гита 6.40
@@ -46,6 +40,7 @@ legacy:
   title: 349. 1983.04.23.A. Духовный звук приведет на землю любви
   index: "349"
   filename: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi.md
+  slug: 349-1983-04-23-a-duhovnyj-zvuk-privedet-na-zemlyu-lyubvi
 ---
 
 Он идет, шаг за шагом, плавно, и земля Вриндавана испытывает экстаз, радость, *рамана-сукха*. *Вр̣нда̄ран̣йам̇ сва-пада-раман̣ам̇*[^_ftn1]. Высочайшую форму экстаза, красоты благодаря прикосновению стоп Шри Кришны испытывает земля, чувствует полноту, удовлетворенность, насыщенность, такую великую радость удовлетворения, что забывает себя. Каждое прикосновение таково. Роскоши, величия никто не хочет, и никаких расчетов. Желанное — Всеобъемлющий (или Всехприемлющий), нам говорят, что это цель нашей жизни.

@@ -1,5 +1,5 @@
 ---
-slug: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki
+slug: 1983-03-30-a4_o_vayshnava_aparadhe_i_opasnosti_kritiki
 record_id: 1983.03.30.A4
 title: О вайшнава апарадхе и опасности критики
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 860. 1983.03.30.A4. О вайшнава апарадхе и опасности критики
   index: "860"
   filename: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki.md
+  slug: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki
 tags:
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 22.55–56
     slug: shri-chajtanya-bhagavata-madhya-khanda-22-55-56
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
 ---

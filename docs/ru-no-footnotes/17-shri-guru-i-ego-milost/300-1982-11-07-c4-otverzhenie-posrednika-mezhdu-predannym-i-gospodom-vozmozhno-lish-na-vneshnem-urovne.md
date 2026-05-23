@@ -1,5 +1,5 @@
 ---
-slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
+slug: 1982-11-07-c4_otverzhenie_posrednika_mezhdu_predannym_i_gospodom_vozmozhno_lish_na_vneshnem_urovne
 record_id: 1982.11.07.C4
 title: Отвержение посредника между преданным и Господом возможно лишь на внешнем
   уровне
@@ -25,6 +25,7 @@ legacy:
     возможно лишь на внешнем уровне
   index: "300"
   filename: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne.md
+  slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
 ---
 
 **Преданный:** Гуру Махарадж, на какой стадии преданный может отказаться от авторитета, когда речь идет о его прогрессе в сознании Кришны?

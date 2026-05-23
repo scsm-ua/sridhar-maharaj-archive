@@ -1,5 +1,5 @@
 ---
-slug: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii
+slug: 1984-01-25-a2_prakriti_i_purusha_dusha_passivna_v_mire_materii
 record_id: 1984.01.25.A2
 title: Пракрити и пуруша. Душа пассивна в мире материи.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.21
     slug: bhagavad-gita-13-21
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 588. 1984.01.25.A2. Пракрити и пуруша. Душа пассивна в мире материи
   index: "588"
   filename: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii.md
+  slug: 588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii
 ---
 
 Один наш духовный брат, Васудев Прабху, имел обыкновение говорить саркастически: «Давайте жить в гармонии: вы будете работать, а я буду брать; вы будете готовить, а я буду есть; вы будете служить, а я буду принимать служение. Давайте работать сообща! Вы будете работать, а я буду наслаждаться». *Пракрити-Пуруша* подобно этому. Один — Наслаждающийся, а Другая — Поставщик наслаждения.

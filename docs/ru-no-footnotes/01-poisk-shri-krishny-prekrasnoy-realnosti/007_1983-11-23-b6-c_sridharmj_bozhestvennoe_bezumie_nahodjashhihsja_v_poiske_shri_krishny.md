@@ -1,5 +1,5 @@
 ---
-slug: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny
+slug: 1983-11-23-b6-c_bozhestvennoe_bezumie_nahodyashchihsya_v_poiske_shri_krishny
 record_id: 1983.11.23.B6.C
 title: Божественное безумие находящихся в поиске Шри Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 007. 1983.11.23.В6.С Божественное безумие находящихся в поиске Шри Кришны
   index: "007"
   filename: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny.md
+  slug: 007_1983-11-23-b6-c_sridharmj_bozhestvennoe_bezumie_nahodjashhihsja_v_poiske_shri_krishny
 ---
 
     а̄ми — эка ба̄тула, туми — двитӣйа ба̄тула

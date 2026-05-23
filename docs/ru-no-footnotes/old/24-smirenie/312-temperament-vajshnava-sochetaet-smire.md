@@ -1,5 +1,5 @@
 ---
-slug: 312-temperament-vajshnava-sochetaet-smire
+slug: 1982-01-26-a1_temperament_vayshnava_sochetaet_smirenie_i_reshitelnost
 record_id: 1982.01.26.A1
 title: Темперамент вайшнава сочетает смирение и решительность
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 312. Темперамент вайшнава сочетает смирение и решительность. 1982.01.26.A1
   index: "312"
   filename: 312-temperament-vajshnava-sochetaet-smire.md
+  slug: 312-temperament-vajshnava-sochetaet-smire
 ---
 
 *#00:00:00#*

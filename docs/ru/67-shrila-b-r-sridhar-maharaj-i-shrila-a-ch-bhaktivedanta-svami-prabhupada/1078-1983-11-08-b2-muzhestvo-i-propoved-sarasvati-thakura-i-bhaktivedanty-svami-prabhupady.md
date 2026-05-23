@@ -1,5 +1,5 @@
 ---
-slug: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady
+slug: 1983-11-08-b2_muzhestvo_i_propoved_sarasvati_thakura_i_bhaktivedanty_svami_prabhupady
 record_id: 1983.11.08.B2
 title: Мужество и проповедь Сарасвати Тхакура и Бхактиведанты Свами Прабхупады
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,23 +24,16 @@ legacy:
     Бхактиведанты Свами Прабхупады
   index: "1078"
   filename: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
+  slug: 1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
     slug: shri-chajtanya-charitamrita-antya-lila-13-61
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.56
     slug: shri-chajtanya-charitamrita-madhya-lila-20-56
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.248
     slug: shri-chajtanya-charitamrita-madhya-lila-8-248
-  - title: Шри Прартханашрая-чатурдашака
-    slug: shri-prarthanashraya-chaturdashaka
   - title: Шри Прартханашрая-чатурдашака 11
     slug: shri-prarthanashraya-chaturdashaka-11
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
   - title: Шри Гурваштака 6
     slug: shri-gurvashtaka-6
 ---

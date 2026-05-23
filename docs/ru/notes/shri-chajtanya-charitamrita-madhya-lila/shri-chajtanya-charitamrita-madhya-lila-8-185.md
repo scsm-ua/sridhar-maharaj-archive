@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-8-185
 refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/441-1983-05-09-b1-sleduj-za-angelami.md
   - ../../_full/1983/05/1983.05.09.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.185
     slug: shri-chajtanya-charitamrita-madhya-lila-8-185
 ---

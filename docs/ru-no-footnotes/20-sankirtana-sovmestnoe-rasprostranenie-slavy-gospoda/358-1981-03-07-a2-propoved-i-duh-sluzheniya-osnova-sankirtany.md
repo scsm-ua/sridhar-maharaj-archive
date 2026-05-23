@@ -1,5 +1,5 @@
 ---
-slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
+slug: 1981-03-07-a2_propoved_i_duh_sluzheniya_osnova_sankirtany
 record_id: 1981.03.07.A2
 title: Проповедь и дух служения – основа санкиртаны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 358. 1981.03.07.A2. Проповедь и дух служения – основа санкиртаны
   index: "358"
   filename: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany.md
+  slug: 358-1981-03-07-a2-propoved-i-duh-sluzheniya-osnova-sankirtany
 ---
 
 **Преданный:** У нас есть множество вопросов, которые мы хотели бы задать, у Сатсварупы Махараджа есть множество вопросов.

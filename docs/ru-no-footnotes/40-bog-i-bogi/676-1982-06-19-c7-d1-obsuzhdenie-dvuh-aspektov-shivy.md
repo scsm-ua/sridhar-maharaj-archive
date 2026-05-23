@@ -1,5 +1,5 @@
 ---
-slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
+slug: 1982-06-19-c7-d1_obsuzhdenie_dvuh_aspektov_shivy
 record_id: 1982.06.19.C7.D1
 title: Обсуждение двух аспектов Шивы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 676. 1982.06.19.C7.D1. Обсуждение двух аспектов Шивы
   index: "676"
   filename: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy.md
+  slug: 676-1982-06-19-c7-d1-obsuzhdenie-dvuh-aspektov-shivy
 ---
 
 **Преданный:** А *шивата* — эта платформа [буквально] — это нечто более высокое, чем состояние порабощенности *майей*?

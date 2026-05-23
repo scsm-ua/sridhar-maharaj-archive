@@ -1,5 +1,5 @@
 ---
-slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
+slug: 1983-05-23-a2_voobrazhaemyy_gauranga
 record_id: 1983.05.23.A2
 title: Воображаемый Гауранга
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 869. 1983.05.23.A2. Воображаемый Гауранга
   index: "869"
   filename: 869-1983-05-23-a2-voobrazhaemyj-gauranga.md
+  slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
 ---
 
 **Шрила Шридхар Махарадж:** Каковы последствия вашего путешествия в Калькутту? Результат? Принтер?

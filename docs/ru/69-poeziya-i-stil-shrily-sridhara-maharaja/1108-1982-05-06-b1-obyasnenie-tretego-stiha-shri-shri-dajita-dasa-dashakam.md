@@ -1,5 +1,5 @@
 ---
-slug: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam
+slug: 1982-05-06-b1_obyasnenie_tretego_stiha_shri_shri_dayita_dasa_dashakam
 record_id: 1982.05.06.B1
 title: Объяснение третьего стиха «Шри Шри Дайита Даса дашакам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,13 +23,10 @@ legacy:
   title: 1108. 1982.05.06.B1. Объяснение третьего стиха «Шри Шри Дайита Даса дашакам»
   index: "1108"
   filename: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam.md
+  slug: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam
 tags:
-  - title: Шри Шри Дайита Дас Дашакам
-    slug: shri-shri-dajita-das-dashakam
   - title: Шри Шри Дайита Дас Дашакам 3
     slug: shri-shri-dajita-das-dashakam-3
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.5.18
     slug: shrimad-bhagavatam-5-5-18
 ---

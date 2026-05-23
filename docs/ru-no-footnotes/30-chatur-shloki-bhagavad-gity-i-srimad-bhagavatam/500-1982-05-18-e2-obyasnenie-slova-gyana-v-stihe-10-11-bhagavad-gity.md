@@ -1,5 +1,5 @@
 ---
-slug: 500-1982-05-18-e2-obyasnenie-slova-gyana-v-stihe-10-11-bhagavad-gity
+slug: 1982-05-18-e2_obyasnenie_slova_gyana_v_stihe_10_11_bhagavad-gity
 record_id: 1982.05.18.E2
 title: Объяснение слова «гьяна» в стихе 10.11 «Бхагавад-гиты»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 500. 1982.05.18.E2. Объяснение слова «гьяна» в стихе 10.11 «Бхагавад-гиты»
   index: "500"
   filename: 500-1982-05-18-e2-obyasnenie-slova-gyana-v-stihe-10-11-bhagavad-gity.md
+  slug: 500-1982-05-18-e2-obyasnenie-slova-gyana-v-stihe-10-11-bhagavad-gity
 ---
 
 **Шрила Шридхар Махарадж:** Кто здесь?

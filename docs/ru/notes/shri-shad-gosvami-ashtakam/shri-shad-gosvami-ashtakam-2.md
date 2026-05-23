@@ -9,9 +9,10 @@ refs:
   - ../../_full/1982/11/1982.11.24.A.B.md
   - ../../_full/1983/01/1983.01.04.md
   - ../../_full/1983/05/1983.05.09.A.md
-tags:
+scriptures:
   - title: Шри Шад Госвами Аштакам
     slug: shri-shad-gosvami-ashtakam
+verses:
   - title: Шри Шад Госвами Аштакам 2
     slug: shri-shad-gosvami-ashtakam-2
 ---

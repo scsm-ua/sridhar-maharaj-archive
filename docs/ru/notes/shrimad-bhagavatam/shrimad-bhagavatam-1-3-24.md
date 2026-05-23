@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-1-3-24
 refs:
   - ../../_full/1983/01/1983.01.12.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.3.24
     slug: shrimad-bhagavatam-1-3-24
 ---

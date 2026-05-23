@@ -5,9 +5,10 @@ refs:
   - ../../55-samopozhertvovanie/839-1983-01-25-b3-pravo-gruppy-smertnikov.md
   - ../../56-samootricanie/856-1983-11-04-c2-skorb-o-nesposobnosti-predatsya-krishne.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1054-1982-05-04-b3-ochishhenie-serdets-bremya-lezhashhee-na-plechah-sadhu.md
-tags:
+scriptures:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
+verses:
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.4"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-4
 ---

@@ -3,9 +3,10 @@ slug: shri-ishopanishad-11
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/781-1984-01-23-b2-b4-uchenoe-nevezhestvo.md
   - ../../_full/1984/01/1984.01.23.md
-tags:
+scriptures:
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
+verses:
   - title: Шри Ишопанишад 11
     slug: shri-ishopanishad-11
 ---

@@ -29,9 +29,10 @@ refs:
   - ../../_full/1983/08/1983.08.31.A.B.md
   - ../../_full/1983/10/1983.10.05.B.C.md
   - ../../_full/1984/01/1984.01.08.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
 ---

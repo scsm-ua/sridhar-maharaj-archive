@@ -1,5 +1,5 @@
 ---
-slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
+slug: 1982-07-29-a-b1_subektivnaya_i_mnogomernaya_kosmologiya_shrimad_bhagavatam
 record_id: 1982.07.29.A.B1
 title: Субъективная и многомерная космология «Шримад Бхагаватам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,25 +24,16 @@ legacy:
     Бхагаватам»
   index: "637"
   filename: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam.md
+  slug: 637-1982-07-29-a-b1-subektivnaya-i-mnogomernaya-kosmologiya-shrimad-bhagavatam
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
     slug: shri-chajtanya-charitamrita-madhya-lila-18-142
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.1
     slug: bhakti-rasamrita-sindhu-1-1-1
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 1.52
     slug: manu-samhita-1-52
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.2
     slug: bhagavad-gita-15-2
 ---

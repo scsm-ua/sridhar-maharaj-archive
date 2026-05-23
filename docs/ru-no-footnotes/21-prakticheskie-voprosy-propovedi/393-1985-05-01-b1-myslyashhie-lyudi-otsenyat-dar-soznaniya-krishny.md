@@ -1,5 +1,5 @@
 ---
-slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
+slug: 1985-05-01-b1_myslyashchie_lyudi_otsenyat_dar_soznaniya_krishny
 record_id: 1985.05.01.B1
 title: Мыслящие люди оценят дар Сознания Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 393. 1985.05.01.B1. Мыслящие люди оценят дар Сознания Кришны
   index: "393"
   filename: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny.md
+  slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
 ---
 
 …Они говорили в темноте, они не видели друг друга, но один из них сказал в конце концов: «Не чувствуете ли вы присутствие четвертого человека здесь?» И его собеседники подтвердили: «Да, Четвертый присутствует — Тот, о ком мы говорим, Сам Господь».

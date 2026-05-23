@@ -1,5 +1,5 @@
 ---
-slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
+slug: 1982-05-15-b3_v_otlichie_ot_goloy_pravdy_istina_obladaet_kachestvami_milosti_i_krasoty
 record_id: 1982.05.15.B3
 title: В отличие от «голой правды» Истина обладает качествами милости и красоты
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     качествами милости и красоты
   index: "517"
   filename: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty.md
+  slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Ману-смрити
-    slug: manu-smriti
   - title: Ману-смрити 4.138
     slug: manu-smriti-4-138
 ---

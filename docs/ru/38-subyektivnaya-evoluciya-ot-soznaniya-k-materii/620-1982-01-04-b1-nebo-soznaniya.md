@@ -1,5 +1,5 @@
 ---
-slug: 620-1982-01-04-b1-nebo-soznaniya
+slug: 1982-01-04-b1_nebo_soznaniya
 record_id: 1982.01.04.B1
 title: Небо сознания
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 620. 1982.01.04.B1. Небо сознания
   index: "620"
   filename: 620-1982-01-04-b1-nebo-soznaniya.md
+  slug: 620-1982-01-04-b1-nebo-soznaniya
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.5.2
     slug: shrimad-bhagavatam-12-5-2
   - title: Шримад-Бхагаватам 1.3.31

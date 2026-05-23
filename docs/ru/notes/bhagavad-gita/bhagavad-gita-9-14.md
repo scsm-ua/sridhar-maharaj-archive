@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/11/1981.11.12.md
   - ../../_full/1983/02/1983.02.14.md
   - ../../_full/1983/10/1983.10.29.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.14
     slug: bhagavad-gita-9-14
 ---

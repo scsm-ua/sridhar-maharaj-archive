@@ -6,9 +6,10 @@ refs:
   - ../../_full/1981/10/1981.10.08.B.md
   - ../../_full/1982/01/1982.01.29.md
   - ../../_full/1983/07/1983.07.19.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.5.38–40
     slug: shrimad-bhagavatam-11-5-38-40
 ---

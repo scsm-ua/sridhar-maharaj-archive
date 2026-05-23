@@ -1,5 +1,5 @@
 ---
-slug: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi
+slug: 1982-03-13-a_mahaprabhu_provozglashaet_smirenie_i_terpenie_osnovoy_propovedi
 record_id: 1982.03.13.A
 title: Махапрабху провозглашает смирение и терпение основой проповеди
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     проповеди
   index: "363"
   filename: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi.md
+  slug: 363-1982-03-13-a-mahaprabhu-provozglashaet-smirenie-i-terpenie-osnovoj-propovedi
 ---
 
 Существует высказывание: мерилом, критерием учености ученых служит понимание наставлений «Бхагаватам». «Бхагаватам» не позволяет ученым проводить их время в праздных разговорах. «Бхагаватам» призывает всех ученых к служению. Служение необходимо, не воображаемая спекуляция является целью жизни, но *сева*, служение. Это критерий, благодаря которому возможно измерить степень прогресса, развития.

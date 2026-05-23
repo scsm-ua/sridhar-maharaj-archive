@@ -2,9 +2,10 @@
 slug: shri-shri-prapanna-dzhivanamritam-3-16
 refs:
   - ../../_full/1982/11/1982.11.26.A.B.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 3.16
     slug: shri-shri-prapanna-dzhivanamritam-3-16
 ---

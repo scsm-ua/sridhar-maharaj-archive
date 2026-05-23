@@ -3,9 +3,10 @@ slug: shri-brahma-samhita-5-38
 refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/134-1982-05-13-b-c1-c3-ramananda-samvada-beseda-mahaprabhu-i-ramanady-raya.md
   - ../../_full/1982/05/1982.05.13.B.C.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.38
     slug: shri-brahma-samhita-5-38
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost
+slug: 1983-02-12-a3_obshchestvo_vayshnava_znachit_pokornost_emu_a_ne_fizicheskaya_blizost
 record_id: 1983.02.12.A3
 title: Общество вайшнава – значит покорность ему, а не физическая близость
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     физическая близость
   index: "249"
   filename: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost.md
+  slug: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost
 ---
 
 **Преданный:** Махарадж, у меня есть вопрос, он скорее носит личный характер. Я приехал сюда, намереваясь оставаться до Гаура Пурнимы в вашем обществе. Я хочу знать [чем мне заниматься], я не уверен, что могу остаться надолго, на этот срок.

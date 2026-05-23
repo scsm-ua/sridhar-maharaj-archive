@@ -1,5 +1,5 @@
 ---
-slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+slug: 1982-05-14-c4_sluzhenie_shrimati_radharani_v_linii_shri_rupy_dushi_proishodyashchie_iz_anga-dzhyoti
 record_id: 1982.05.14.C4
 title: Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,29 +24,18 @@ legacy:
     происходящие из анга-джйоти
   index: "449"
   filename: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti.md
+  slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 9.4.63
     slug: shrimad-bhagavatam-9-4-63
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 102
     slug: shri-vilapa-kusumandzhali-102
-  - title: Мукта Чаритра
-    slug: mukta-charitra
   - title: Мукта Чаритра 4
     slug: mukta-charitra-4
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.15
     slug: shri-chajtanya-charitamrita-adi-lila-1-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.5
     slug: shri-chajtanya-charitamrita-antya-lila-1-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.3
     slug: shri-chajtanya-charitamrita-madhya-lila-1-3
 ---

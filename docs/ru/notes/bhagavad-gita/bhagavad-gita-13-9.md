@@ -38,9 +38,10 @@ refs:
   - ../../_full/1983/08/1983.08.07.A.B.md
   - ../../_full/1983/08/1983.08.08.B.md
   - ../../_full/1983/09/1983.09.07.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
 ---

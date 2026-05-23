@@ -1,5 +1,5 @@
 ---
-slug: 123-podlinnyj-predannyj-ne-uveren-v-svoe
+slug: 1981-03-02-b3_podlinnyy_predannyy_ne_uveren_v_svoem_ponimanii_duhovnyh_istin
 record_id: 1981.03.02.B3
 title: Подлинный преданный не уверен в своем понимании духовных истин
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -25,6 +25,7 @@ legacy:
     1981.03.02.B3
   index: "123"
   filename: 123-podlinnyj-predannyj-ne-uveren-v-svoe.md
+  slug: 123-podlinnyj-predannyj-ne-uveren-v-svoe
 ---
 
 **Госвами Махарадж:** *Ясья прасадам бхагават прасадам*. Кришна есть гуру. Как мы можем узнать, что удовлетворяет Кришну без гуру?

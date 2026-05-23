@@ -1,5 +1,5 @@
 ---
-slug: 1005-1981-08-18-b3-vysshaya-realnost-ne-mozhet-byt-predmetom-opytov
+slug: 1981-08-18-b3_vysshaya_realnost_ne_mozhet_byt_predmetom_opytov
 record_id: 1981.08.18.B3
 title: Высшая Реальность не может быть предметом опытов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1005. 1981.08.18.B3. Высшая Реальность не может быть предметом опытов
   index: "1005"
   filename: 1005-1981-08-18-b3-vysshaya-realnost-ne-mozhet-byt-predmetom-opytov.md
+  slug: 1005-1981-08-18-b3-vysshaya-realnost-ne-mozhet-byt-predmetom-opytov
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари.

@@ -1,5 +1,5 @@
 ---
-slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
+slug: 1983-06-09-a2_agressiya_krishny_eto_ego_sluzhenie
 record_id: 1983.06.09.A2
 title: Агрессия Кришны — это Его служение
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 023. 1983.06.09.A2 Агрессия Кришны — это Его служение
   index: "023"
   filename: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie.md
+  slug: 023_1983-06-09-a2_sridharmj_agressiya_krishny_eto_ego_slujenie
 ---
 
 **Преданный:** О Шриле Бхактивиноде Тхакуре говорится, что до поклонения Чайтанье Махапрабху он испытывал сильную склонность к Рамачандре.

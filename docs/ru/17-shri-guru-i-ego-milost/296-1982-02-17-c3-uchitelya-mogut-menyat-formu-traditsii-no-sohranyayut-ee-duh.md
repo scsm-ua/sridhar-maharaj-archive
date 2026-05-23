@@ -1,5 +1,5 @@
 ---
-slug: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh
+slug: 1982-02-17-c3_uchitelya_mogut_menyat_formu_traditsii_no_sohranyayut_ee_duh
 record_id: 1982.02.17.C3
 title: Учителя могут менять форму традиции, но сохраняют ее дух
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 296. 1982.02.17.C3. Учителя могут менять форму традиции, но сохраняют ее дух
   index: "296"
   filename: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh.md
+  slug: 296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
     slug: shri-chajtanya-charitamrita-antya-lila-13-61
 ---

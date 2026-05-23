@@ -1,5 +1,5 @@
 ---
-slug: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru
+slug: 1982-01-26-b2_pranama-mantra_shrile_sarasvati_thakuru
 record_id: 1982.01.26.B2
 title: Пранама-мантра Шриле Сарасвати Тхакуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1002. 1982.01.26.B2. Пранама-мантра Шриле Сарасвати Тхакуру
   index: "1002"
   filename: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
+  slug: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru
 ---
 
 **Преданный:** Махарадж, эта женщина занимается типографией?

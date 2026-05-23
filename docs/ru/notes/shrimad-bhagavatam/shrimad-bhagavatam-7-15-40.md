@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-7-15-40
 refs:
   - ../../_full/1982/10/1982.10.29.A.B.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.15.40
     slug: shrimad-bhagavatam-7-15-40
 ---

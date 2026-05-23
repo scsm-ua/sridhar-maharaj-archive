@@ -1,5 +1,5 @@
 ---
-slug: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu
+slug: 1982-04-14-b2_velichie_i_znanie_dolzhny_ispolzovatsya_v_sluzhenii_vrindavanu
 record_id: 1982.04.14.B2
 title: Величие и знание должны использоваться в служении Вриндавану
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     Вриндавану
   index: "1014"
   filename: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu.md
+  slug: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu
 tags:
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
   - title: Шри Шри Прабхупада-падма Ставаках 7
     slug: shri-shri-prabhupada-padma-stavakah-7
 ---

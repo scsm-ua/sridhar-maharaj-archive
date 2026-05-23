@@ -1,5 +1,5 @@
 ---
-slug: 629-1982-02-18-a3-gyana-i-vigyana
+slug: 1982-02-18-a3_gyana_i_vigyana
 record_id: 1982.02.18.A3
 title: Гьяна и вигьяна
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 629. 1982.02.18.A3. Гьяна и вигьяна
   index: "629"
   filename: 629-1982-02-18-a3-gyana-i-vigyana.md
+  slug: 629-1982-02-18-a3-gyana-i-vigyana
 ---
 
 Онтология Прекрасной Реальности (часть 1.3)

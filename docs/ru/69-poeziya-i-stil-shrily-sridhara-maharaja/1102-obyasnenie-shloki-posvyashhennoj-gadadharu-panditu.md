@@ -13,8 +13,6 @@ category:
 tags:
   - title: без даты
     slug: bez-daty
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
 links:

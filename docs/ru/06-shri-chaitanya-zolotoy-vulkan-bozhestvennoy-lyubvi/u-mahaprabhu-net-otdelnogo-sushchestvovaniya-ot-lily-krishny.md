@@ -1,5 +1,5 @@
 ---
-slug: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny
+slug: 1982-05-14-b4_u_mahaprabhu_net_otdelnogo_sushchestvovaniya_ot_lily_krishny
 record_id: 1982.05.14.B4
 title: У Махапрабху нет отдельного существования от лилы Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
 links:
@@ -30,6 +28,7 @@ legacy:
   title: 101. 1982.05.14.B4 У Махапрабху нет отдельного существования от лилы Кришны
   index: "101"
   filename: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny.md
+  slug: u-mahaprabhu-net-otdelnogo-sushchestvovaniya-ot-lily-krishny
 ---
 
 **Преданный:** Махарадж, иногда говорится, что *кришна-лилы* растекаются во всех десяти направлениях.

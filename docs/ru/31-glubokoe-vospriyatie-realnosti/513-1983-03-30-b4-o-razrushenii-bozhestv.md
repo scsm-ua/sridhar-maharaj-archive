@@ -1,5 +1,5 @@
 ---
-slug: 513-1983-03-30-b4-o-razrushenii-bozhestv
+slug: 1983-03-30-b4_o_razrushenii_bozhestv
 record_id: 1983.03.30.B4
 title: О разрушении Божеств
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 513. 1983.03.30.B4. О разрушении Божеств
   index: "513"
   filename: 513-1983-03-30-b4-o-razrushenii-bozhestv.md
+  slug: 513-1983-03-30-b4-o-razrushenii-bozhestv
 ---
 
 Харе Кришна.

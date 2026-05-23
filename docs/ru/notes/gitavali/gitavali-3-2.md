@@ -3,9 +3,10 @@ slug: gitavali-3-2
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu.md
   - ../../_full/1981/08/1981.08.31.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 3.2
     slug: gitavali-3-2
 ---

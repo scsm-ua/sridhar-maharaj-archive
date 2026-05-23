@@ -1,5 +1,5 @@
 ---
-slug: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu
+slug: 1982-11-07-c6-d2_dlya_sozdaniya_hrama_vedicheskogo_planetariya_neobhodim_spetsialist_po_sravnitelnomu_teizmu
 record_id: 1982.11.07.C6.D2
 title: «Для создания Храма ведического планетария необходим специалист по
   сравнительному теизму»
@@ -25,6 +25,7 @@ legacy:
     необходим специалист по сравнительному теизму»
   index: "663"
   filename: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu.md
+  slug: 663-1982-11-07-c6-d2-dlya-sozdaniya-hrama-vedicheskogo-planetariya-neobhodim-spetsialist-po-sravnitelnomu-teizmu
 ---
 
 **Преданный:** Наш Гурудев [Шрила Бхактиведанта Свами Махарадж] сказал, что концепцию, понимание храма следует разработать под вашим руководством, следуя вашим философским наставлениям. И я прошу у вас позволения задать вам некоторые вопросы, относящиеся к различным уровням, которые описаны в «Брихад-Бхагаватамритам». Если бы вы могли описать нам картины (или диорамы), которые должны присутствовать в этом храме (*Джанар-лока*, *Махар-лока* и так далее: различные *локи*, *Вираджа*, Шива-лока, Вайкунтха, различные измерения бытия).

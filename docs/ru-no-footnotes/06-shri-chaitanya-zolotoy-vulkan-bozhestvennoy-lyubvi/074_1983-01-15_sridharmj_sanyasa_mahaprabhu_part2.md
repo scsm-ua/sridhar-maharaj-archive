@@ -1,5 +1,5 @@
 ---
-slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
+slug: 1983-01-15_sannyasa_mahaprabhu_chast_2
 record_id: 1983.01.15
 title: Санньяса Махапрабху, часть 2
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
   index: "074"
   filename: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2.md
+  slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
 ---
 
 **Как проходил обряд принятия санньясы Махапрабху?**

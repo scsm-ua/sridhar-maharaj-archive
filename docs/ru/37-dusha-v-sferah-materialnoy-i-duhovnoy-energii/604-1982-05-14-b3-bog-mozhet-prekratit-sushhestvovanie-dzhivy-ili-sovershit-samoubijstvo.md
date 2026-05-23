@@ -1,5 +1,5 @@
 ---
-slug: 604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo
+slug: 1982-05-14-b3_bog_mozhet_prekratit_sushchestvovanie_dzhivy_ili_sovershit_samoubiystvo
 record_id: 1982.05.14.B3
 title: Бог может прекратить существование дживы или совершить самоубийство
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.4
     slug: bhagavad-gita-9-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
     slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 links:
@@ -35,6 +31,7 @@ legacy:
     совершить самоубийство
   index: "604"
   filename: 604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo.md
+  slug: 604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кришна.

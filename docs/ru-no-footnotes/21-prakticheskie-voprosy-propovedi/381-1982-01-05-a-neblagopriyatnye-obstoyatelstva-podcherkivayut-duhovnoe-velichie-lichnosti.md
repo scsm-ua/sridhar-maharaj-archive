@@ -1,5 +1,5 @@
 ---
-slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
+slug: 1982-01-05-a_neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti
 record_id: 1982.01.05.A
 title: Неблагоприятные обстоятельства подчеркивают духовное величие личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     величие личности
   index: "381"
   filename: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti.md
+  slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
 ---
 
 Харе Кришна.

@@ -1,5 +1,5 @@
 ---
-slug: 1007-1982-02-20-b2-strastnoe-stremlenie-propovedovat-sarasvati-thakura
+slug: 1982-02-20-b2_strastnoe_stremlenie_propovedovat_sarasvati_thakura
 record_id: 1982.02.20.B2
 title: Страстное стремление проповедовать Сарасвати Тхакура
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1007. 1982.02.20.B2. Страстное стремление проповедовать Сарасвати Тхакура
   index: "1007"
   filename: 1007-1982-02-20-b2-strastnoe-stremlenie-propovedovat-sarasvati-thakura.md
+  slug: 1007-1982-02-20-b2-strastnoe-stremlenie-propovedovat-sarasvati-thakura
 ---
 
 **Преданный:** Тенденция, склонность распространять славу Господа окружающим будет расти естественным образом наряду с развитием преданности во внутреннем измерении, внутри.

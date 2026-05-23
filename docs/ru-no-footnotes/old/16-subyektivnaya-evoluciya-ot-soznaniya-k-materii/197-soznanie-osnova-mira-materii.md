@@ -1,5 +1,5 @@
 ---
-slug: 197-soznanie-osnova-mira-materii
+slug: 1982-01-13-b2_soznanie_osnova_mira_materii
 record_id: 1982.01.13.B2
 title: Сознание — основа мира материи
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 197. Сознание — основа мира материи. 1982.01.13.B2
   index: "197"
   filename: 197-soznanie-osnova-mira-materii.md
+  slug: 197-soznanie-osnova-mira-materii
 ---
 
 *#00:00:00#*

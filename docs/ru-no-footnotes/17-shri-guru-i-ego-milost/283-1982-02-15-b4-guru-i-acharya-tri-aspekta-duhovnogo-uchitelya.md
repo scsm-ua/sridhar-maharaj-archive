@@ -1,5 +1,5 @@
 ---
-slug: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya
+slug: 1982-02-15-b4_guru_i_acharya_tri_aspekta_duhovnogo_uchitelya
 record_id: 1982.02.15.B4
 title: Гуру и ачарья. Три аспекта духовного учителя.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 283. 1982.02.15.B4. Гуру и ачарья. Три аспекта духовного учителя
   index: "283"
   filename: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya.md
+  slug: 283-1982-02-15-b4-guru-i-acharya-tri-aspekta-duhovnogo-uchitelya
 ---
 
 **Шрила Шридхар Махарадж:** Харе Кршина, Харе Кршина, Харе Кршина.

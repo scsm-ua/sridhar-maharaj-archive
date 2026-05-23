@@ -4,9 +4,10 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/922-1981-09-05-a1-velichie-lality-devi.md
   - ../../_full/1982/05/1982.05.08.A.md
   - ../../_full/1982/08/1982.08.27.A.B.C.md
-tags:
+scriptures:
   - title: Шри Лалита-аштакам
     slug: shri-lalita-ashtakam
+verses:
   - title: Шри Лалита-аштакам 7
     slug: shri-lalita-ashtakam-7
 ---

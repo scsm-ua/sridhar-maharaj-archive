@@ -1,5 +1,5 @@
 ---
-slug: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny
+slug: 1982-05-15-c1_neobhodimo_prilagat_maksimalnye_usiliya_dlya_rasprostraneniya_soznaniya_krishny
 record_id: 1982.05.15.C1
 title: Необходимо прилагать максимальные усилия для распространения Сознания Кришны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     распространения Сознания Кришны
   index: "386"
   filename: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny.md
+  slug: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny
 ---
 
 Любая мысль… коммунистическая мысль… Коммунистическое движение не было начато с помощью денег. Но постепенно эта идея, идеология захватила мир, поскольку нашла место в сердцах многих, столь многих. Сознание Кришны не столь легко принять широким массам, но тем не менее мы будем пытаться, прилагать максимум усилий, чтобы распространять его, а результаты в Его руках. Но мы должны использовать себя самих максимально.

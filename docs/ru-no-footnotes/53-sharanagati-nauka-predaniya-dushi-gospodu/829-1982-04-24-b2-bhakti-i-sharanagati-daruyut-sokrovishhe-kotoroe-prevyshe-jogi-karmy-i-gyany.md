@@ -1,5 +1,5 @@
 ---
-slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
+slug: 1982-04-24-b2_bhakti_i_sharanagati_daruyut_sokrovishche_kotoroe_prevyshe_yogi_karmy_i_gyany
 record_id: 1982.04.24.B2
 title: Бхакти и шаранагати даруют сокровище, которое превыше йоги, кармы и гьяны
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     йоги, кармы и гьяны
   index: "829"
   filename: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany.md
+  slug: 829-1982-04-24-b2-bhakti-i-sharanagati-daruyut-sokrovishhe-kotoroe-prevyshe-jogi-karmy-i-gyany
 ---
 
 **Преданный:** Махарадж, а проявление психических сил — это плохо для духовной жизни?

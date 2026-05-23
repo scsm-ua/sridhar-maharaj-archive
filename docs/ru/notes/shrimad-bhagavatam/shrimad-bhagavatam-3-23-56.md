@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-3-23-56
 refs:
   - ../../_full/1981/11/1981.11.13.C.md
   - ../../_full/1982/10/1982.10.23.A.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.23.56
     slug: shrimad-bhagavatam-3-23-56
 ---

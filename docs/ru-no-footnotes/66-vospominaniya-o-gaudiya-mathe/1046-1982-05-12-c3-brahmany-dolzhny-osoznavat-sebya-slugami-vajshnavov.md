@@ -1,5 +1,5 @@
 ---
-slug: 1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov
+slug: 1982-05-12-c3_brahmany_dolzhny_osoznavat_sebya_slugami_vayshnavov
 record_id: 1982.05.12.C3
 title: Брахманы должны осознавать себя слугами вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 1046. 1982.05.12.C3. Брахманы должны осознавать себя слугами вайшнавов
   index: "1046"
   filename: 1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov.md
+  slug: 1046-1982-05-12-c3-brahmany-dolzhny-osoznavat-sebya-slugami-vajshnavov
 ---
 
 **Преданный:** Махарадж, позвольте спросить о том эпизоде, когда вы получили посвящение в *Гаятри (упавиту)*. Вам был задан вопрос…

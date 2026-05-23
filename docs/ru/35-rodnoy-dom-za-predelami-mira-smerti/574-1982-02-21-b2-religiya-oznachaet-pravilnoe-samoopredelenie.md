@@ -1,5 +1,5 @@
 ---
-slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
+slug: 1982-02-21-b2_religiya_oznachaet_pravilnoe_samoopredelenie
 record_id: 1982.02.21.B2
 title: Религия означает «правильное самоопределение»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
   index: "574"
   filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
+  slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
     slug: shri-chajtanya-charitamrita-madhya-lila-20-102
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54

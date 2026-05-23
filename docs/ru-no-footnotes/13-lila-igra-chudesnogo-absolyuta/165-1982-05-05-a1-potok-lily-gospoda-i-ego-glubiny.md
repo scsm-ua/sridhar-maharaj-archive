@@ -1,5 +1,5 @@
 ---
-slug: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny
+slug: 1982-05-05-a1_potok_lily_gospoda_i_ego_glubiny
 record_id: 1982.05.05.A1
 title: Поток лилы Господа и его глубины
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 165. 1982.05.05.A1. Поток лилы Господа и его глубины
   index: "165"
   filename: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny.md
+  slug: 165-1982-05-05-a1-potok-lily-gospoda-i-ego-glubiny
 ---
 
 [Харе Кришна, Харе Кришна, Гаура-Харибол, Гаура-Харибол.]

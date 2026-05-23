@@ -1,5 +1,5 @@
 ---
-slug: 1083-1982-01-27-a2-o-smysle-nazvanij-shchsm-iskkon-i-ponyatii-soznanie-krishny
+slug: 1982-01-27-a2_o_smysle_nazvaniy_shchsm_iskkon_i_ponyatii_soznanie_krishny
 record_id: 1982.01.27.A2
 title: О смысле названий «ШЧСМ», «ИСККОН» и понятии «Сознание Кришны»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,9 +24,8 @@ legacy:
     «Сознание Кришны»
   index: "1083"
   filename: 1083-1982-01-27-a2-o-smysle-nazvanij-shchsm-iskkon-i-ponyatii-soznanie-krishny.md
+  slug: 1083-1982-01-27-a2-o-smysle-nazvanij-shchsm-iskkon-i-ponyatii-soznanie-krishny
 tags:
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
 ---

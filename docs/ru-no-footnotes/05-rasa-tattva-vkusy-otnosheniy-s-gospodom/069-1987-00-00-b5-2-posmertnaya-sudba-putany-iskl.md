@@ -1,5 +1,5 @@
 ---
-slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
+slug: 1987-00-00-b5-2_posmertnaya_sudba_putany_isklyuchitelnyy_sluchay
 record_id: 1987.00.00.B5.2
 title: Посмертная судьба Путаны — исключительный случай
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
   index: "069"
   filename: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
+  slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
 ---
 
 Учение Рупы Госвами. Как он дал эту *сиддханту*? Целостное, полное явление.

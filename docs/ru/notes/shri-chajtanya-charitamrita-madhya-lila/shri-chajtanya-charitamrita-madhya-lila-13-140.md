@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-13-140
 refs:
   - ../../28-molitvy-i-umonastroenie-gopi/482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.140
     slug: shri-chajtanya-charitamrita-madhya-lila-13-140
 ---

@@ -3,9 +3,10 @@ slug: mundaka-upanishad-2-2-8
 refs:
   - ../../_full/1982/10/1982.10.20.A.B.md
   - ../../_full/1983/10/1983.10.23.A.B.md
-tags:
+scriptures:
   - title: Мундака Упанишад
     slug: mundaka-upanishad
+verses:
   - title: Мундака Упанишад 2.2.8
     slug: mundaka-upanishad-2-2-8
 ---

@@ -1,5 +1,5 @@
 ---
-slug: 964-1982-06-19-d2-zhizni-vozvyshennyh-vajshnavov-do-momenta-ih-raskrytiya-ne-sleduet-pridavat-osoboe-znachenie
+slug: 1982-06-19-d2_zhizni_vozvyshennyh_vayshnavov_do_momenta_ih_raskrytiya_ne_sleduet_pridavat_osoboe_znachenie
 record_id: 1982.06.19.D2
 title: Жизни возвышенных вайшнавов до момента их раскрытия не следует придавать
   особое значение
@@ -25,6 +25,7 @@ legacy:
     не следует придавать особое значение
   index: "964"
   filename: 964-1982-06-19-d2-zhizni-vozvyshennyh-vajshnavov-do-momenta-ih-raskrytiya-ne-sleduet-pridavat-osoboe-znachenie.md
+  slug: 964-1982-06-19-d2-zhizni-vozvyshennyh-vajshnavov-do-momenta-ih-raskrytiya-ne-sleduet-pridavat-osoboe-znachenie
 ---
 
 Когда прозвучала речь [имеется в виду — Бхактивинода Тхакура — *переводчик*] в Динаджпуре (лекция, посвященная «Бхагаватам»), то они были разочарованы [имеются в виду члены сообщества «Брахма-самадж» — *переводчик*]. Когда речь идет о человеке его калибра, его масштаба, то члены Брахма-общества хотели видеть его в своих рядах, но они были разочарованны, последователи этого движения. Один мистер Далл (англичанин, который был главой шотландского церковного колледжа) после того, как Бхактивинод написал статью, в которой выступил с атеистических позиций, то этот Далл, этот англичанин-христианин, опроверг суждения Бхактивинода, которого в ту пору звали Кедаранатх.

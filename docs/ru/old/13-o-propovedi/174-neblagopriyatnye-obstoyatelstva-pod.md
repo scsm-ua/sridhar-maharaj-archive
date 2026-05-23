@@ -1,5 +1,5 @@
 ---
-slug: 174-neblagopriyatnye-obstoyatelstva-pod
+slug: 1982-01-05-a_neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti
 record_id: 1982.01.05.A
 title: Неблагоприятные обстоятельства подчеркивают духовное величие личности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
     личности. 1982.01.05.A
   index: "174"
   filename: 174-neblagopriyatnye-obstoyatelstva-pod.md
+  slug: 174-neblagopriyatnye-obstoyatelstva-pod
 ---
 
 *#00:00:00#*

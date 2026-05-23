@@ -1,5 +1,5 @@
 ---
-slug: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire
+slug: 1983-01-04-a3_istoriya_o_sobake_predavsheysya_maharadzhu_yudhishthire
 record_id: 1983.01.04.A3
 title: История о собаке, предавшейся Махараджу Юдхиштхире
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 832. 1983.01.04.A3. История о собаке, предавшейся Махараджу Юдхиштхире
   index: "832"
   filename: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire.md
+  slug: 832-1983-01-04-a3-istoriya-o-sobake-predavshejsya-maharadzhu-yudhishthire
 ---
 
 **Преданный:** У меня есть вопрос о привязанности. Бхарата Махарадж был привязан к олененку; Юдхиштхира Махарадж был привязан к собаке…

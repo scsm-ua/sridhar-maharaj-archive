@@ -1,5 +1,5 @@
 ---
-slug: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja
+slug: 1983-11-14-c1_poisk_bezgranichnogo_kotoryy_mozhet_byt_zakonchen_eto_maya
 record_id: 1983.11.14.C1
 title: Поиск Безграничного, который может быть закончен – это майа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Самопредание
     slug: samopredanie
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
     slug: shri-chajtanya-charitamrita-madhya-lila-2-15
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
     slug: shri-chajtanya-charitamrita-madhya-lila-14-13
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
 links:
@@ -37,6 +33,7 @@ legacy:
     это майа
   index: "857"
   filename: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja.md
+  slug: 857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja
 ---
 
 Если голод отсутствует — то это болезнь. Быть голодным — это хорошее качество, и оно простирается в безграничное — *випраламбха*.

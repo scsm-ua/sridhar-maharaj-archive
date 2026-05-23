@@ -1,5 +1,5 @@
 ---
-slug: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery
+slug: 1982-05-01-b4_zhit_v_ozhidanii_ukazaniy_iz_vysshey_sfery
 record_id: 1982.05.01.B4
 title: Жить в ожидании указаний из Высшей Сферы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1023. 1982.05.01.B4. Жить в ожидании указаний из Высшей Сферы
   index: "1023"
   filename: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery.md
+  slug: 1023-1982-05-01-b4-zhit-v-ozhidanii-ukazanij-iz-vysshej-sfery
 tags:
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 2.3"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-2-3
 ---

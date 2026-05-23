@@ -1,5 +1,5 @@
 ---
-slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
+slug: 1983-07-18_astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti
 record_id: 1983.07.18
 title: Астрология, кавачи, единоборства и путь чистой преданности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 785. 1983.07.18. Астрология, кавачи, единоборства и путь чистой преданности
   index: "785"
   filename: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
+  slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
 ---
 
 **Преданный:** В «Брахма-вайварта-пуране» (в «Ганеша-кханде») одна *кавача* была дана Господом Шивой Парашураме, *кришна-кавача*. И также он слышал, что в Кали-югу только *нрисимха-кавача* действенна, поэтому практически может ли он принимать это? Это правильно или нет? Нужно ли, практично ли использовать *кавачи*?

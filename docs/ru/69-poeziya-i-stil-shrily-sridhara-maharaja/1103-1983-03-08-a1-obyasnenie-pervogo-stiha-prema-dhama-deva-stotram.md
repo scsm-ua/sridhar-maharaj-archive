@@ -1,5 +1,5 @@
 ---
-slug: 1103-1983-03-08-a1-obyasnenie-pervogo-stiha-prema-dhama-deva-stotram
+slug: 1983-03-08-a1_obyasnenie_pervogo_stiha_prema-dhama-deva-stotram
 record_id: 1983.03.08.A1
 title: Объяснение первого стиха «Према-дхама-дева-стотрам»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 1103. 1983.03.08.A1. Объяснение первого стиха «Према-дхама-дева-стотрам»
   index: "1103"
   filename: 1103-1983-03-08-a1-obyasnenie-pervogo-stiha-prema-dhama-deva-stotram.md
+  slug: 1103-1983-03-08-a1-obyasnenie-pervogo-stiha-prema-dhama-deva-stotram
 tags:
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 1
     slug: prema-dhama-deva-stotram-1
 ---

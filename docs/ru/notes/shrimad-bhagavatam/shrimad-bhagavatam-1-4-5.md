@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-1-4-5
 refs:
   - ../../_full/1982/01/1982.01.28.md
   - ../../_full/1982/10/1982.10.22.A.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.4.5
     slug: shrimad-bhagavatam-1-4-5
 ---

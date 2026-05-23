@@ -8,9 +8,10 @@ refs:
   - ../../_full/1981/12/1981.12.13.A.md
   - ../../_full/1982/01/1982.01.17.md
   - ../../_full/1983/09/1983.09.22.C.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.5
     slug: bhagavad-gita-9-5
 ---

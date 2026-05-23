@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-1-4-8
 refs:
   - ../../_full/1981/12/1981.12.27.A.B.C.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.4.8
     slug: shrimad-bhagavatam-1-4-8
 ---

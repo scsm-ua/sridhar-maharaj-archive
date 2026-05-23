@@ -3,9 +3,10 @@ slug: shrimad-bhagavatam-12-13-23
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/140-1982-04-25-a2-b-kommentarij-k-pervomu-stihu-shikshashtaki.md
   - ../../_full/1982/04/1982.04.25.A2.B.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.13.23
     slug: shrimad-bhagavatam-12-13-23
 ---

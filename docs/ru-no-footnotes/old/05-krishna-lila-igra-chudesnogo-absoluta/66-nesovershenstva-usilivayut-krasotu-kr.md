@@ -1,5 +1,5 @@
 ---
-slug: 66-nesovershenstva-usilivayut-krasotu-kr
+slug: 1982-01-22-a1_nesovershenstva_usilivayut_krasotu_krishna-lily
 record_id: 1982.01.22.A1
 title: Несовершенства усиливают красоту кришна-лилы
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
   title: 66. Несовершенства усиливают красоту кришна-лилы. 1982.01.22.A1
   index: "66"
   filename: 66-nesovershenstva-usilivayut-krasotu-kr.md
+  slug: 66-nesovershenstva-usilivayut-krasotu-kr
 ---
 
 *#00:00:00#*

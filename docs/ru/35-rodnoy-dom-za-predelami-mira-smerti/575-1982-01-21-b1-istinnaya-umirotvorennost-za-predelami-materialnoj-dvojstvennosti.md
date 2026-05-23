@@ -1,5 +1,5 @@
 ---
-slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
+slug: 1982-01-21-b1_istinnaya_umirotvorennost_za_predelami_materialnoy_dvoystvennosti
 record_id: 1982.01.21.B1
 title: Истинная умиротворенность — за пределами материальной двойственности
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,29 +24,20 @@ legacy:
     двойственности
   index: "575"
   filename: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
+  slug: 575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.64
     slug: bhagavad-gita-2-64
   - title: Бхагавад-гита 2.38
     slug: bhagavad-gita-2-38
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.158
     slug: shri-chajtanya-charitamrita-madhya-lila-8-158
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
   - title: Бхагавад-гита 4.34

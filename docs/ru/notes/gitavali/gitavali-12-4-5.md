@@ -3,9 +3,10 @@ slug: gitavali-12-4-5
 refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: Гитавали
     slug: gitavali
+verses:
   - title: Гитавали 12.4.5
     slug: gitavali-12-4-5
 ---

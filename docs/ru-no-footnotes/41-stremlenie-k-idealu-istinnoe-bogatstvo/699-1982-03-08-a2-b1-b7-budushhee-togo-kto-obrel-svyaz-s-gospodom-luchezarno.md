@@ -1,5 +1,5 @@
 ---
-slug: 699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno
+slug: 1982-03-08-a2-b1-b7_budushchee_togo_kto_obrel_svyaz_s_gospodom_luchezarno
 record_id: 1982.03.08.A2.B1.B7
 title: Будущее того, кто обрел связь с Господом, лучезарно
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 699. 1982.03.08.A2.B1.B7. Будущее того, кто обрел связь с Господом, лучезарно
   index: "699"
   filename: 699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno.md
+  slug: 699-1982-03-08-a2-b1-b7-budushhee-togo-kto-obrel-svyaz-s-gospodom-luchezarno
 ---
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол]

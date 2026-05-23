@@ -1,5 +1,5 @@
 ---
-slug: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij
+slug: 1983-01-12-b7-c1_maha-mantra_i_ispolnenie_materialnyh_zhelaniy
 record_id: 1983.01.12.B7.C1
 title: Маха-мантра и исполнение материальных желаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,16 +17,10 @@ tags:
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шри Нама
-    slug: shri-nama
   - title: Шри Нама 3.5
     slug: shri-nama-3-5
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.20
     slug: bhagavad-gita-7-20
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
     slug: shri-chajtanya-charitamrita-madhya-lila-22-38
 links:
@@ -40,6 +34,7 @@ legacy:
   title: 348. 1983.01.12.B7.C1. Маха-мантра и исполнение материальных желаний
   index: "348"
   filename: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij.md
+  slug: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij
 ---
 
 **Преданный:** Махарадж.

@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-antya-khanda-7-23
 refs:
   - ../../_full/1982/08/1982.08.22.B.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда
     slug: shri-chajtanya-bhagavata-antya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 7.23
     slug: shri-chajtanya-bhagavata-antya-khanda-7-23
 ---

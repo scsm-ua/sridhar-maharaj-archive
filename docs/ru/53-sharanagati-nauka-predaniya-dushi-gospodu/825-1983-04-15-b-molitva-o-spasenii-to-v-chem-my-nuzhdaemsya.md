@@ -1,5 +1,5 @@
 ---
-slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
+slug: 1983-04-15-b_molitva_o_spasenii_to_v_chem_my_nuzhdaemsya
 record_id: 1983.04.15.B
 title: Молитва о спасении – то, в чем мы нуждаемся
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,16 +15,10 @@ category:
 tags:
   - title: Шаранагати
     slug: sharanagati
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 6.1"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-6-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
     slug: shri-chajtanya-charitamrita-madhya-lila-22-16
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35
     slug: bhakti-rasamrita-sindhu-3-2-35
 links:
@@ -38,6 +32,7 @@ legacy:
   title: 825. 1983.04.15.B. Молитва о спасении – то, в чем мы нуждаемся
   index: "825"
   filename: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya.md
+  slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
 ---
 
 [Гаура-Харибол, Гаура-Харибол]

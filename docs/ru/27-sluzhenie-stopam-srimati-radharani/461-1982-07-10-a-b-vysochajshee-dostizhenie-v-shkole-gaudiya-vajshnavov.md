@@ -1,5 +1,5 @@
 ---
-slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
+slug: 1982-07-10-a-b_vysochayshee_dostizhenie_v_shkole_gaudiya-vayshnavov
 record_id: 1982.07.10.A.B
 title: Высочайшее достижение в школе гаудия-вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,19 +23,14 @@ legacy:
   title: 461. 1982.07.10.A.B. Высочайшее достижение в школе гаудия-вайшнавов
   index: "461"
   filename: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov.md
+  slug: 461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov
 tags:
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 102
     slug: shri-vilapa-kusumandzhali-102
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: Шри Упадешамрита 10
     slug: shri-upadeshamrita-10
-  - title: Шри Радха-бхаджана махима
-    slug: shri-radha-bhadzhana-mahima
   - title: Шри Радха-бхаджана махима 1
     slug: shri-radha-bhadzhana-mahima-1
   - title: Шри Радха-бхаджана махима 2
@@ -44,20 +39,14 @@ tags:
     slug: shri-radha-bhadzhana-mahima-7
   - title: Шри Радха-бхаджана махима 8
     slug: shri-radha-bhadzhana-mahima-8
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.99
     slug: shri-chajtanya-charitamrita-adi-lila-10-99
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
 ---

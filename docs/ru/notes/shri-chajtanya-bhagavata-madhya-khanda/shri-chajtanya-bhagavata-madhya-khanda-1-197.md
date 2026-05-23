@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-madhya-khanda-1-197
 refs:
   - ../../_full/1981/11/1981.11.23.A.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
     slug: shri-chajtanya-bhagavata-madhya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.197
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-197
 ---

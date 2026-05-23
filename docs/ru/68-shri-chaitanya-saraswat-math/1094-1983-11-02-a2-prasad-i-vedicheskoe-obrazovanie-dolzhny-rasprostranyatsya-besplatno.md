@@ -1,5 +1,5 @@
 ---
-slug: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno
+slug: 1983-11-02-a2_prasad_i_vedicheskoe_obrazovanie_dolzhny_rasprostranyatsya_besplatno
 record_id: 1983.11.02.A2
 title: Прасад и ведическое образование должны распространяться бесплатно
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,6 +24,7 @@ legacy:
     распространяться бесплатно
   index: "1094"
   filename: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno.md
+  slug: 1094-1983-11-02-a2-prasad-i-vedicheskoe-obrazovanie-dolzhny-rasprostranyatsya-besplatno
 ---
 
 **Преданный:** Гуру Махарадж, у меня есть вопрос. Если *прасадам* дается с презрительным чувством, как вот в Тирупати, в одном храме: я попросил *прасад*, и человек дал мне *прасадам*, но пренебрежительно… И есть ли плохая, дурная реакция от почитания такого *прасада*? Я должен принимать весь *прасад*, который дается в любой манере или выборочно, избирательно?

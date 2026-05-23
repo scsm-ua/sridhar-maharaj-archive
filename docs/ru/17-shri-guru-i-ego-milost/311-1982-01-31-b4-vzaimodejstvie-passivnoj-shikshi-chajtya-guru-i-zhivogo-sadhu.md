@@ -1,5 +1,5 @@
 ---
-slug: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu
+slug: 1982-01-31-b4_vzaimodeystvie_passivnoy_shikshi_chaytya-guru_i_zhivogo_sadhu
 record_id: 1982.01.31.B4
 title: Взаимодействие пассивной шикши, чайтья-гуру и живого садху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
     slug: shri-chajtanya-charitamrita-antya-lila-5-131
 links:
@@ -31,6 +29,7 @@ legacy:
     садху
   index: "311"
   filename: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu.md
+  slug: 311-1982-01-31-b4-vzaimodejstvie-passivnoj-shikshi-chajtya-guru-i-zhivogo-sadhu
 ---
 
 **Преданный:** Махарадж, позвольте задать еще один вопрос.

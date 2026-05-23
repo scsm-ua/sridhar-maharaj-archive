@@ -1,5 +1,5 @@
 ---
-slug: 579-1981-03-05-a2-proishozhdenie-dushi
+slug: 1981-03-05-a2_proishozhdenie_dushi
 record_id: 1981.03.05.A2
 title: Происхождение души
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,9 +23,8 @@ legacy:
   title: 579. 1981.03.05.A2. Происхождение души
   index: "579"
   filename: 579-1981-03-05-a2-proishozhdenie-dushi.md
+  slug: 579-1981-03-05-a2-proishozhdenie-dushi
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.117
     slug: shri-chajtanya-charitamrita-madhya-lila-20-117
 ---

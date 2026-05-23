@@ -1,5 +1,5 @@
 ---
-slug: 447-gradatsiya-soznaniya-opponenty-shankar
+slug: 1982-01-25-a4-b1_gradatsiya_soznaniya_opponenty_shankary
 record_id: 1982.01.25.A4.B1
 title: Градация сознания. Оппоненты Шанкары.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 447. Градация сознания. Оппоненты Шанкары. 1982.01.25.A4.B1
   index: "447"
   filename: 447-gradatsiya-soznaniya-opponenty-shankar.md
+  slug: 447-gradatsiya-soznaniya-opponenty-shankar
 ---
 
 **Преданный:** В «Бхагавад-гите» Господь говорит (санскрит)

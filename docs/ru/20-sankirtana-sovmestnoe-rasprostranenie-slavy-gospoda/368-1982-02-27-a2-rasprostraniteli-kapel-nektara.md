@@ -1,5 +1,5 @@
 ---
-slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
+slug: 1982-02-27-a2_rasprostraniteli_kapel_nektara
 record_id: 1982.02.27.A2
 title: Распространители капель нектара
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -17,14 +17,10 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.13.27
     slug: shrimad-bhagavatam-1-13-27
   - title: Шримад-Бхагаватам 10.47.18
     slug: shrimad-bhagavatam-10-47-18
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 5.167
     slug: shri-chajtanya-charitamrita-madhya-lila-5-167
 links:
@@ -38,6 +34,7 @@ legacy:
   title: 368. 1982.02.27.A2. Распространители капель нектара
   index: "368"
   filename: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara.md
+  slug: 368-1982-02-27-a2-rasprostraniteli-kapel-nektara
 ---
 
 *«Онтология Прекрасной Реальности» (Часть 2.2)*

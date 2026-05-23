@@ -1,5 +1,5 @@
 ---
-slug: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij
+slug: 1983-01-12-b7-c1_maha-mantra_i_ispolnenie_materialnyh_zhelaniy
 record_id: 1983.01.12.B7.C1
 title: Маха-мантра и исполнение материальных желаний
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -28,6 +28,7 @@ legacy:
   title: 348. 1983.01.12.B7.C1. Маха-мантра и исполнение материальных желаний
   index: "348"
   filename: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij.md
+  slug: 348-1983-01-12-b7-c1-maha-mantra-i-ispolnenie-materialnyh-zhelanij
 ---
 
 **Преданный:** Махарадж.

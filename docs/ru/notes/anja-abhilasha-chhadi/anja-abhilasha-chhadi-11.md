@@ -4,9 +4,10 @@ refs:
   - ../../43-trudnosti-i-duhovnyy-put-ispytaniya-mayi/709-1982-06-19-c6-proverki-predannosti-ot-bogatstva-do-predlozheniya-stat-shivoj.md
   - ../../_full/1981/10/1981.10.06.B.C.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
-tags:
+scriptures:
   - title: Анйа-абхилаша чхади
     slug: anja-abhilasha-chhadi
+verses:
   - title: Анйа-абхилаша чхади 11
     slug: anja-abhilasha-chhadi-11
 ---

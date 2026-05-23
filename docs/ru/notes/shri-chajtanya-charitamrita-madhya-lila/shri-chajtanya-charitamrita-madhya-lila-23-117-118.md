@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-23-117-118
 refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/158-1982-02-19-b1-vopros-o-rebenke-ot-shivy-u-mohini-murti.md
   - ../../_full/1982/02/1982.02.19.B1.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.117–118
     slug: shri-chajtanya-charitamrita-madhya-lila-23-117-118
 ---

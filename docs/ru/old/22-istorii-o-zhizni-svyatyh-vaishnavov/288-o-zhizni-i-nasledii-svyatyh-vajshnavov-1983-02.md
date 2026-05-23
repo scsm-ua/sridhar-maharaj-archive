@@ -1,5 +1,5 @@
 ---
-slug: 288-o-zhizni-i-nasledii-svyatyh-vajshnavov-1983-02
+slug: 1983-02-01-a-b_o_zhizni_i_nasledii_svyatyh_vayshnavov
 record_id: 1983.02.01.A.B
 title: О жизни и наследии святых вайшнавов
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -30,6 +30,7 @@ legacy:
   title: 288. О жизни и наследии святых вайшнавов. 1983.02.01.A.B
   index: "288"
   filename: 288-o-zhizni-i-nasledii-svyatyh-vajshnavov-1983-02.md
+  slug: 288-o-zhizni-i-nasledii-svyatyh-vajshnavov-1983-02
 ---
 
 *#00:00:00#*

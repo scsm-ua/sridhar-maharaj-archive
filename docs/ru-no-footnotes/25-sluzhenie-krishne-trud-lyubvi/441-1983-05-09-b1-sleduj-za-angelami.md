@@ -1,5 +1,5 @@
 ---
-slug: 441-1983-05-09-b1-sleduj-za-angelami
+slug: 1983-05-09-b1_sleduy_za_angelami
 record_id: 1983.05.09.B1
 title: Следуй за ангелами!
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 441. 1983.05.09.B1. Следуй за ангелами!
   index: "441"
   filename: 441-1983-05-09-b1-sleduj-za-angelami.md
+  slug: 441-1983-05-09-b1-sleduj-za-angelami
 ---
 
 [Говорит на бенгали.]

@@ -1,5 +1,5 @@
 ---
-slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
+slug: 1983-11-05-a4_razlichnye_urovni_gayatri-mantry
 record_id: 1983.11.05.A4
 title: Различные уровни гаятри-мантры
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,14 +15,10 @@ category:
 tags:
   - title: Гаятри-мантра
     slug: gayatri-mantra
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.143
     slug: shri-chajtanya-charitamrita-madhya-lila-25-143
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
     slug: shri-chajtanya-charitamrita-madhya-lila-24-135
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.10.6
     slug: shrimad-bhagavatam-2-10-6
 links:
@@ -36,6 +32,7 @@ legacy:
   title: 490. 1983.11.05.A4. Различные уровни гаятри-мантры
   index: "490"
   filename: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry.md
+  slug: 490-1983-11-05-a4-razlichnye-urovni-gayatri-mantry
 ---
 
 **Госвами Махарадж:** Вы — живой представитель *Вьясадева*, поскольку Вы извлекаете смысл из глубины, открываете его.

@@ -1,5 +1,5 @@
 ---
-slug: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda
+slug: 1983-02-18-b1_o_vseblagoy_prirode_lily_gospoda
 record_id: 1983.02.18.B1
 title: О всеблагой природе лилы Господа
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,17 +23,12 @@ legacy:
   title: 171. 1983.02.18.B1. О всеблагой природе лилы Господа
   index: "171"
   filename: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda.md
+  slug: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda
 tags:
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80

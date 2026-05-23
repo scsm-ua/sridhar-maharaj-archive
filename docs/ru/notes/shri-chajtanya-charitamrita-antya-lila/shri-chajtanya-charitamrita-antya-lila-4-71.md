@@ -7,9 +7,10 @@ refs:
   - ../../_full/1981/09/1981.09.11.B.C.md
   - ../../_full/1982/04/1982.04.30.A.B.md
   - ../../_full/1983/07/1983.07.19.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
     slug: shri-chajtanya-charitamrita-antya-lila-4-71
 ---

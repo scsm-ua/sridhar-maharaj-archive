@@ -3,9 +3,10 @@ slug: bhadzhana-lalasa-8-1
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/115-1983-03-08-a2-krasota-shri-chajtani-kommentarii-na-shloki-rupy-gosvami.md
   - ../../_full/1983/03/1983.03.08.md
-tags:
+scriptures:
   - title: Бхаджана-лаласа
     slug: bhadzhana-lalasa
+verses:
   - title: Бхаджана-лаласа 8.1
     slug: bhadzhana-lalasa-8-1
 ---

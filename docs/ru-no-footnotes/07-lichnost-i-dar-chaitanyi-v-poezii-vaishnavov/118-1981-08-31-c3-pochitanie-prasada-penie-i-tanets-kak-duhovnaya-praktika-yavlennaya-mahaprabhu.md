@@ -1,5 +1,5 @@
 ---
-slug: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu
+slug: 1981-08-31-c3_pochitanie_prasada_penie_i_tanets_kak_duhovnaya_praktika_yavlennaya_mahaprabhu
 record_id: 1981.08.31.C3
 title: Почитание прасада, пение и танец как духовная практика, явленная Махапрабху
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -27,6 +27,7 @@ legacy:
     практика, явленная Махапрабху
   index: "118"
   filename: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu.md
+  slug: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu
 ---
 
 Связь с Махапрабху…

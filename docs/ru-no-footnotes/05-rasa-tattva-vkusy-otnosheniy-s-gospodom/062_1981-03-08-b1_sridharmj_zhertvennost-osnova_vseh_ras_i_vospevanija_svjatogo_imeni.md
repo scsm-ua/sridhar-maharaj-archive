@@ -1,5 +1,5 @@
 ---
-slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
+slug: 1981-03-08-b1_zhertvennost_osnova_vseh_ras_i_vospevaniya_svyatogo_imeni
 record_id: 1981.03.08.B1
 title: Жертвенность — основа всех рас и воспевания Святого Имени
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 062. 1981.03.08.B1 Жертвенность — основа всех рас и воспевания Святого Имени
   index: "062"
   filename: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni.md
+  slug: 062_1981-03-08-b1_sridharmj_zhertvennost-osnova_vseh_ras_i_vospevanija_svjatogo_imeni
 ---
 
 **Преданный:** *Майя* представляет ловушку в той форме, что она предлагает, взаимоотношения, которые не чисты. Это *майя*?

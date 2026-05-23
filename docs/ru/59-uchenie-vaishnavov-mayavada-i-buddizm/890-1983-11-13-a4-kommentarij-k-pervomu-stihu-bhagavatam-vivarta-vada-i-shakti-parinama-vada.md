@@ -1,5 +1,5 @@
 ---
-slug: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada
+slug: 1983-11-13-a4_kommentariy_k_pervomu_stihu_bhagavatam_vivarta-vada_i_shakti-parinama-vada
 record_id: 1983.11.13.A4
 title: Комментарий к первому стиху Бхагаватам. Виварта-вада и шакти-паринама-вада.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,17 +24,12 @@ legacy:
     и шакти-паринама-вада
   index: "890"
   filename: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada.md
+  slug: 890-1983-11-13-a4-kommentarij-k-pervomu-stihu-bhagavatam-vivarta-vada-i-shakti-parinama-vada
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
 ---

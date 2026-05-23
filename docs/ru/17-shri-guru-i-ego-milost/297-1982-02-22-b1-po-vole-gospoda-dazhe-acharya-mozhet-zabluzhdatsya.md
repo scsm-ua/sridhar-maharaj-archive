@@ -1,5 +1,5 @@
 ---
-slug: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya
+slug: 1982-02-22-b1_po_vole_gospoda_dazhe_acharya_mozhet_zabluzhdatsya
 record_id: 1982.02.22.B1
 title: По воле Господа даже ачарья может заблуждаться
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -23,6 +23,7 @@ legacy:
   title: 297. 1982.02.22.B1. По воле Господа даже ачарья может заблуждаться
   index: "297"
   filename: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya.md
+  slug: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya
 ---
 
 *«Мгновения Прекрасной Реальности», (часть 3.1)*

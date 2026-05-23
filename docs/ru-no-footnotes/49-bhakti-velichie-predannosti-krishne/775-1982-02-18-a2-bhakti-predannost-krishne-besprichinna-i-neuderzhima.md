@@ -1,5 +1,5 @@
 ---
-slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
+slug: 1982-02-18-a2_bhakti_predannost_krishne_besprichinna_i_neuderzhima
 record_id: 1982.02.18.A2
 title: Бхакти, преданность Кришне, беспричинна и неудержима
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -26,6 +26,7 @@ legacy:
   title: 775. 1982.02.18.A2. Бхакти, преданность Кришне, беспричинна и неудержима
   index: "775"
   filename: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima.md
+  slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
 ---
 
 **«Онтология Прекрасной Реальности» (часть 1.2)**

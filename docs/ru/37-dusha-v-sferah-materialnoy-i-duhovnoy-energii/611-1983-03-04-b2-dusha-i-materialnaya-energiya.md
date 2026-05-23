@@ -1,5 +1,5 @@
 ---
-slug: 611-1983-03-04-b2-dusha-i-materialnaya-energiya
+slug: 1983-03-04-b2_dusha_i_materialnaya_energiya
 record_id: 1983.03.04.B2
 title: Душа и материальная энергия
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,8 +15,6 @@ category:
 tags:
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.4
     slug: bhagavad-gita-7-4
   - title: Бхагавад-гита 7.5
@@ -32,6 +30,7 @@ legacy:
   title: 611. 1983.03.04.B2. Душа и материальная энергия
   index: "611"
   filename: 611-1983-03-04-b2-dusha-i-materialnaya-energiya.md
+  slug: 611-1983-03-04-b2-dusha-i-materialnaya-energiya
 ---
 
 Вриндаван находится в составе Матхура-мандалы, затем есть Дварака. Матхура Кришна иногда находится в Матхуре, и заключительная часть игр происходит в Двараке. Матхура[-мандала] делится на Матхуру, Вриндаван и Двараку. Подобная концепция. Что-то еще?

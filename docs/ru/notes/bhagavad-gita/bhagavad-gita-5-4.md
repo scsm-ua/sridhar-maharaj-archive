@@ -2,9 +2,10 @@
 slug: bhagavad-gita-5-4
 refs:
   - ../../_full/1983/09/1983.09.16.A.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 5.4
     slug: bhagavad-gita-5-4
 ---

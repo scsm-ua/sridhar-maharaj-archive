@@ -1,5 +1,5 @@
 ---
-slug: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines
+slug: 1982-01-12-b2_v_etom_mire_est_chelovek_kotoryy_sohranit_to_chto_ya_prines
 record_id: 1982.01.12.B2
 title: «В этом мире есть человек, который сохранит то, что я принес»
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -24,21 +24,16 @@ legacy:
     принес»
   index: "975"
   filename: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines.md
+  slug: 975-1982-01-12-b2-v-etom-mire-est-chelovek-kotoryj-sohranit-to-chto-ya-prines
 tags:
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 2.1.11
     slug: katha-upanishad-2-1-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
 ---

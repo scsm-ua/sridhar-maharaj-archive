@@ -17,9 +17,10 @@ refs:
   - ../../_full/1983/06/1983.06.27.md
   - ../../_full/1983/07/1983.07.28.md
   - ../../_full/1983/08/1983.08.25.B.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.29
     slug: bhagavad-gita-2-29
 ---

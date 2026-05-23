@@ -1,5 +1,5 @@
 ---
-slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
+slug: 1983-11-19-b2_krishna_i_ego_okruzhenie_tsar_ne_mozhet_byt_v_odinochestve
 record_id: 1983.11.19.B2
 title: Кришна и Его окружение. Царь не может быть в одиночестве.
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
@@ -15,12 +15,8 @@ category:
 tags:
   - title: Спутники
     slug: sputniki
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
     slug: shri-chajtanya-charitamrita-madhya-lila-17-80
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 1.2.11
@@ -36,6 +32,7 @@ legacy:
   title: 031. 1983.11.19.B2 Кришна и Его окружение. Царь не может быть в одиночестве
   index: "031"
   filename: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve.md
+  slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
 ---
 
 Столь многие вайшнавы представляют различные виды, склонности служения. Олицетворением этих склонностей являются различные вайшнавы. *Вайчитра* — этому нет конца. Таким образом.
@@ -54,10 +51,11 @@ legacy:
 
 *#00:02:33#*
 
-**ваданти тат таттва-видас**\
-**таттвам̇ йадж джн̃а̄нам адвайам**\
-[**брахмети парама̄тмети**\
-**бхагава̄н ити ш́абдйате**][^_ftn2]
+    ваданти тат таттва-видас
+    таттвам̇ йадж джн̃а̄нам адвайам
+    [брахмети парама̄тмети
+    бхагава̄н ити ш́абдйате]
+[^_ftn2]
 
 Целостная, всеобъемлющая концепция реальности, которая включает обе стороны: главную и дополнительную.
 

@@ -1,5 +1,5 @@
 ---
-slug: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi
+slug: 1982-05-18-e3_dlya_otnosheniy_s_vysshim_nachalom_neobhodimo_proyavit_sebya_v_aspekte_shakti_a_ne_purushi
 record_id: 1982.05.18.E3
 title: Для отношений с Высшим Началом необходимо проявить себя в аспекте шакти,
   а не пуруши
@@ -25,19 +25,14 @@ legacy:
     себя в аспекте шакти, а не пуруши
   index: "063"
   filename: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi.md
+  slug: 063_1982-05-18-e3_sridharmj_dlja_otnoshenij_s_vysshim_nachalom_neobhodimo_projavit_sebja_v_aspekte_shakti_a_ne_purushi
 tags:
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.23
     slug: bhagavad-gita-13-23
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
   - title: Бхагавад-гита 4.34
     slug: bhagavad-gita-4-34
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.93
     slug: shri-chajtanya-charitamrita-adi-lila-1-93
 ---

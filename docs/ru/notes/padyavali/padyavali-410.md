@@ -13,9 +13,10 @@ refs:
   - ../../_full/1982/05/1982.05.05.A.md
   - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
   - ../../_full/1982/07/1982.07.18.A.md
-tags:
+scriptures:
   - title: Падьявали
     slug: padyavali
+verses:
   - title: Падьявали 410
     slug: padyavali-410
 ---

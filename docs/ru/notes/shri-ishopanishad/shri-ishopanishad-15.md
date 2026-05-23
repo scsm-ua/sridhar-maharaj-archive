@@ -2,9 +2,10 @@
 slug: shri-ishopanishad-15
 refs:
   - ../../_full/1982/12/1982.12.31.B.md
-tags:
+scriptures:
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
+verses:
   - title: Шри Ишопанишад 15
     slug: shri-ishopanishad-15
 ---
