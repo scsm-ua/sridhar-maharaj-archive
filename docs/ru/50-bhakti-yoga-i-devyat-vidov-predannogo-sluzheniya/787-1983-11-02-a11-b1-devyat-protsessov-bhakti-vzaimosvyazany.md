@@ -1,18 +1,22 @@
 ---
-slug: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany
+slug: 1983-11-02-a11-b1_devyat_protsessov_bhakti_vzaimosvyazany
+record_id: 1983.11.02.A11.B1
+title: Девять процессов бхакти взаимосвязаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6533058
+  duration: 00:05:20
+  src: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.mp3
+date: 1983-11-02
 category:
   title: 50. Бхакти-йога и девять видов преданного служения
   slug: 50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Бхакти-йога
     slug: bhakti-joga
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.30
     slug: shrimad-bhagavatam-11-20-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.mp3
     title: аудиозапись в MP3 (5 мин. 20 сек., 6,3 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/50._Bhakti-yoga_i_devyat_vidov_predannogo_sluzheniya/787_1983.11.02.A11.B1_SridharMj_Devjat_processov_bhakti_vzaimosvjazany.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 787. 1983.11.02.A11.B1. Девять процессов бхакти взаимосвязаны
+  index: "787"
+  filename: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany.md
+  slug: 787-1983-11-02-a11-b1-devyat-protsessov-bhakti-vzaimosvyazany
 ---
-
-# 787. 1983.11.02.A11.B1. Девять процессов бхакти взаимосвязаны
 
 **Преданный:** А как преданный может совершить очень быстрый прогресс, быстро развиваться? Каков критерий быстрого прогресса?
 
@@ -36,7 +43,7 @@ links:
 
 **Преданный:** *Атма-ниведана*?
 
-**Шридхар Махарадж:** После *атма-ниведана, шраван, киртан, смаран,* *вандан* — столь многие явления, но *атма-ниведана* — это фундамент.
+**Шридхар Махарадж:** После *атма-ниведана, шраван, киртан, смаран*, *вандан* — столь многие явления, но *атма-ниведана* — это фундамент.
 
 **Преданный:** А почему *атма-ниведана* стоит в конце? *Атма-ниведана* — последнее в этом списке девяти процессов.
 

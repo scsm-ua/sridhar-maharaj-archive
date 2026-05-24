@@ -1,22 +1,26 @@
 ---
-slug: 091_1982-01-13-a3_sridharmj_ogon_razluki_mahaprabhu
+slug: 1982-01-13-a3_ogon_razluki_mahaprabhu
+record_id: 1982.01.13.A3
+title: Огонь разлуки Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7896951
+  duration: 00:14:38
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
+date: 1982-01-13
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Санньяса
     slug: sannyasa
   - title: история
     slug: istoriya
   - title: история о санньясе Махапрабху
     slug: istoriya-o-sannyase-mahaprabhu
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 13
     slug: padyavali-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
     title: аудиозапись в MP3 (14 мин. 37 сек., 7.5 МБ)
@@ -24,9 +28,12 @@ links:
     title: транскрипцию в RTF (125 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/091_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 091. 1982.01.13.A3 Огонь разлуки Махапрабху
+  index: "091"
+  filename: 091_1982-01-13-a3_sridharmj_ogon_razluki_mahaprabhu.md
+  slug: 091_1982-01-13-a3_sridharmj_ogon_razluki_mahaprabhu
 ---
-
-# 091. 1982.01.13.A3 Огонь разлуки Махапрабху
 
 Место рождения Кавираджа Госвами находится рядом с Катвой, там находится *сахаджия-матх*. Я посетил однажды это место. Кавирадж Госвами, тот Кавирадж Госвами, который дал лучшее писание в мире — «Чайтанья-чаритамриту», которая содержит Рай-Рамананда-*самваду*, Рупа-*шикшу*, Санатана-*шикшу*.
 

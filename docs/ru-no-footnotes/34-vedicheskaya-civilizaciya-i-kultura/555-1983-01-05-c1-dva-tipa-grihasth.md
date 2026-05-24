@@ -1,14 +1,20 @@
 ---
-slug: 555-1983-01-05-c1-dva-tipa-grihasth
+slug: 1983-01-05-c1_dva_tipa_grihasth
+record_id: 1983.01.05.C1
+title: Два типа грихастх
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7173822
+  duration: 00:13:34
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3
+date: 1983-01-05
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.mp3
     title: аудиозапись в MP3 (13 мин. 33 сек., 6,9 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/555_1983.01.05.C1_SridharMj_Dva_tipa_grihasth.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 555. 1983.01.05.C1. Два типа грихастх
+  index: "555"
+  filename: 555-1983-01-05-c1-dva-tipa-grihasth.md
+  slug: 555-1983-01-05-c1-dva-tipa-grihasth
 ---
-
-# 555. 1983.01.05.C1. Два типа грихастх
 
 **Преданный:** Махарадж!
 

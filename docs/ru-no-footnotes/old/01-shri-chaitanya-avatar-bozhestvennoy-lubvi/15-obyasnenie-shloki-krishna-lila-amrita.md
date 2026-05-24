@@ -1,5 +1,14 @@
 ---
 slug: 15-obyasnenie-shloki-krishna-lila-amrita
+record_id: 1987.00.00.A1
+title: Объяснение шлоки «кришна-лила амрита сара…»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3438874
+  duration: 00:06:52
+  src: /wp-content/uploads/2012/08/015_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
+date: 1987-00-00
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +17,14 @@ tags:
     slug: "1987"
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/015_1987.00.00.A1_SridharMj_Obyasneniye_shloki_krishna-lila_amrita_sara.mp3
     title: Скачать аудиозапись в mp3 (6 мин 52 сек, размер 3 Мб)
+legacy:
+  title: 15. Объяснение шлоки «кришна-лила амрита сара…». 1987.00.00.A1
+  index: "15"
+  filename: 15-obyasnenie-shloki-krishna-lila-amrita.md
 ---
-
-# 15. Объяснение шлоки «кришна-лила амрита сара…». 1987.00.00.A1
 
 *#00:00:07#*
 

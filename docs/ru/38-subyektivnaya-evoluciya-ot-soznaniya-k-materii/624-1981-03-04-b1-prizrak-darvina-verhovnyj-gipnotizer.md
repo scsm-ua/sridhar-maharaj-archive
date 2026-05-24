@@ -1,13 +1,30 @@
 ---
-slug: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer
+slug: 1981-03-04-b1_prizrak_darvina_verhovnyy_gipnotizer
+record_id: 1981.03.04.B1
+title: Призрак Дарвина. Верховный Гипнотизер.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9338285
+  duration: 00:17:30
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3
+date: 1981-03-04
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3
+    title: аудиозапись в MP3 (17 мин. 30 сек., 9,0 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.rtf
+    title: транскрипцию в RTF (173 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.pdf
+    title: транскрипцию в PDF (202 КБ)
+legacy:
+  title: 624. 1981.03.04.B1. Призрак Дарвина. Верховный Гипнотизер
+  index: "624"
+  filename: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer.md
+  slug: 624-1981-03-04-b1-prizrak-darvina-verhovnyj-gipnotizer
 tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 11.8
     slug: bhagavad-gita-11-8
   - title: Бхагавад-гита 15.1
@@ -16,21 +33,9 @@ tags:
     slug: bhagavad-gita-4-34
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.mp3
-    title: аудиозапись в MP3 (17 мин. 30 сек., 9,0 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.rtf
-    title: транскрипцию в RTF (173 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/624_1981.03.04.B1_SridharMj_Prizrak_Darvina_Verhovnyj_Gipnotizer.pdf
-    title: транскрипцию в PDF (202 КБ)
 ---
-
-# 624. 1981.03.04.B1. Призрак Дарвина. Верховный Гипнотизер
 
 **Госвами Махарадж:** Махарадж, был один вопрос, связанный с одним произведением Шрилы Бхактивинода Тхакура — «Бхагават». Он сделал определенные утверждения. Вам известно, как он точно выразился в этой лекции по «Бхагаватам»? Он сказал, что описание Пятой песни «Бхагаватам» — аллегорическое (то есть описание адов и так далее). Как это все понимать?
 

@@ -1,12 +1,17 @@
 ---
-slug: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe
+slug: 1982-04-24-a1_vospominaniya_ob_administrativnoy_deyatelnosti_v_gaudiya-mathe
+record_id: 1982.04.24.A1
+title: Воспоминания об административной деятельности в Гаудия-Матхе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9899687
+  duration: 00:09:47
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3
+date: 1982-04-24
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.mp3
     title: аудиозапись в MP3 (9 мин. 46 сек., 9,5 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (110 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1043_1982.04.24.A1_SridharMj_Vospominanija_ob_administrativnoj_dejatelnosti_v_Gaudija-Mathe.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 1043. 1982.04.24.A1. Воспоминания об административной деятельности в
+    Гаудия-Матхе
+  index: "1043"
+  filename: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe.md
+  slug: 1043-1982-04-24-a1-vospominaniya-ob-administrativnoj-deyatelnosti-v-gaudiya-mathe
 ---
-
-# 1043. 1982.04.24.A1. Воспоминания об административной деятельности в Гаудия-Матхе
 
 **Шрила Шридхар Махарадж:** Как вас зовут сейчас?
 

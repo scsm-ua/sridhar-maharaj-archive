@@ -1,28 +1,28 @@
 ---
-slug: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha
+slug: 1982-01-12-c2_ramananda-samvada_klyuch_k_ponimaniyu_ucheniya_shridhara_maharadzha
+record_id: 1982.01.12.C2
+title: Рамананда-самвада — ключ к пониманию учения Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5605199
+  duration: 00:11:10
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
+date: 1982-01-12
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-  - title: Гауранга каруна коро
-    slug: gauranga-karuna-koro
   - title: Гауранга каруна коро 3
     slug: gauranga-karuna-koro-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.mp3
     title: аудиозапись в MP3 (7 мин. 52 сек., 5 МБ)
@@ -30,9 +30,13 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/131_1982.01.12.C2_SridharMj_Ramananda-samvada--klyuch_k_ponimaniyu_ucheniya_Sridhara_Maharaja.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 131. 1982.01.12.C2. Рамананда-самвада — ключ к пониманию учения Шридхара
+    Махараджа
+  index: "131"
+  filename: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha.md
+  slug: 131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha
 ---
-
-# 131. 1982.01.12.C2. Рамананда-самвада — ключ к пониманию учения Шридхара Махараджа
 
 Махапрабху и Рамананда Рай. Мое сердце внимательно следует за их беседой. Это мое любимое явление: развитие теистической концепции гаудия-вайшнавизма, школы Бхагавата, в беседе Рамананды Рая и Махапрабху. Это развитие сполна представлено в их дискуссии. Махапрабху задает вопросы, а Рамананда отвечает: так шаг за шагом мы восходим до вершины. Я с пристальным вниманием следую за их беседой, и это ключ ко всем моим работам.
 

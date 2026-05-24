@@ -1,0 +1,122 @@
+# Warnings: footnotes-multi-with-body
+
+ - more than 1 link found for footnote "[^12]" (2)
+   - 1982.01.09.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.09.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.09.md)
+ - more than 1 link found for footnote "[^3]" (2)
+   - 1982.01.11.A1.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A1.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.11.A1.md)
+ - more than 1 link found for footnote "[^7]" (2)
+   - 1982.01.11.A1.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A1.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.11.A1.md)
+ - more than 1 link found for footnote "[^1]" (2)
+   - 1982.01.11.A2.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A2.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.11.A2.md)
+ - more than 1 link found for footnote "[^3]" (3)
+   - 1982.01.11.A2.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.11.A2.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.11.A2.md)
+ - more than 1 link found for footnote "[^12]" (2)
+   - 1982.01.29.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/01/1982.01.29.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/01/1982.01.29.md)
+ - more than 1 link found for footnote "[^1]" (3)
+   - 1982.02.25.A.B.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/02/1982.02.25.A.B.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/02/1982.02.25.A.B.C.md)
+ - more than 1 link found for footnote "[^3]" (6)
+   - 1982.02.25.A.B.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/02/1982.02.25.A.B.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/02/1982.02.25.A.B.C.md)
+ - more than 1 link found for footnote "[^1]" (2)
+   - 1982.04.24.A.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.24.A.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.24.A.B.md)
+ - more than 1 link found for footnote "[^10]" (2)
+   - 1982.04.24.A.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.24.A.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.24.A.B.md)
+ - more than 1 link found for footnote "[^11]" (3)
+   - 1982.04.24.A.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.24.A.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.24.A.B.md)
+ - more than 1 link found for footnote "[^14]" (2)
+   - 1982.04.24.A.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.24.A.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.24.A.B.md)
+ - more than 1 link found for footnote "[^20]" (4)
+   - 1982.04.24.A.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.24.A.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.24.A.B.md)
+ - more than 1 link found for footnote "[^2]" (5)
+   - 1982.04.25.A1.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.25.A1.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.25.A1.md)
+ - more than 1 link found for footnote "[^3]" (2)
+   - 1982.04.25.A2.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.25.A2.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.25.A2.B.md)
+ - more than 1 link found for footnote "[^4]" (2)
+   - 1982.04.25.A2.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.25.A2.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.25.A2.B.md)
+ - more than 1 link found for footnote "[^5]" (2)
+   - 1982.04.25.A2.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/04/1982.04.25.A2.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/04/1982.04.25.A2.B.md)
+ - more than 1 link found for footnote "[^1]" (2)
+   - 1982.05.03.A.B.C.D.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.03.A.B.C.D.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.03.A.B.C.D.md)
+ - more than 1 link found for footnote "[^3]" (3)
+   - 1982.05.06.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.06.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.06.B.md)
+ - more than 1 link found for footnote "[^4]" (2)
+   - 1982.05.06.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.06.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.06.B.md)
+ - more than 1 link found for footnote "[^6]" (2)
+   - 1982.05.06.B.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.06.B.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.06.B.md)
+ - more than 1 link found for footnote "[^1]" (5)
+   - 1982.05.11.B2.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.11.B2.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.11.B2.C.md)
+ - more than 1 link found for footnote "[^2]" (3)
+   - 1982.05.11.B2.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.11.B2.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.11.B2.C.md)
+ - more than 1 link found for footnote "[^3]" (2)
+   - 1982.05.11.B2.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.11.B2.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.11.B2.C.md)
+ - more than 1 link found for footnote "[^1]" (3)
+   - 1982.05.18.E.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.18.E.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.18.E.md)
+ - more than 1 link found for footnote "[^2]" (2)
+   - 1982.05.18.E.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.18.E.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.18.E.md)
+ - more than 1 link found for footnote "[^3]" (2)
+   - 1982.05.18.E.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.18.E.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.18.E.md)
+ - more than 1 link found for footnote "[^10]" (2)
+   - 1982.05.18.E.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1982/05/1982.05.18.E.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1982/05/1982.05.18.E.md)
+ - more than 1 link found for footnote "[^2]" (2)
+   - 1983.11.14.B3.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1983/11/1983.11.14.B3.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1983/11/1983.11.14.B3.md)
+ - more than 1 link found for footnote "[^1]" (2)
+   - 1983.11.15.A.B.C.md
+   - [source](../../../../docs/ru-no-footnotes-migration-2026-05-10/_full/1983/11/1983.11.15.A.B.C.md)
+   - [output](../../../../docs/ru-no-footnotes/_full/1983/11/1983.11.15.A.B.C.md)

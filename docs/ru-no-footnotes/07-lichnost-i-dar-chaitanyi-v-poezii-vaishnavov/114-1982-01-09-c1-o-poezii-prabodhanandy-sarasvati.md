@@ -1,16 +1,22 @@
 ---
-slug: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati
+slug: 1982-01-09-c1_o_poezii_prabodhanandy_sarasvati
+record_id: 1982.01.09.C1
+title: О поэзии Прабодхананды Сарасвати
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3179928
+  duration: 00:03:34
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.mp3
+date: 1982-01-09
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Прабодхананда Сарасвати
     slug: prabodhananda-sarasvati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.mp3
     title: аудиозапись в MP3 (3 мин. 34 сек., 3,1 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/114_1982.01.09.C1_SridharMj_O_poezii_Prabodhanandy_Sarasvati.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 114. 1982.01.09.C1. О поэзии Прабодхананды Сарасвати
+  index: "114"
+  filename: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati.md
+  slug: 114-1982-01-09-c1-o-poezii-prabodhanandy-sarasvati
 ---
-
-# 114. 1982.01.09.C1. О поэзии Прабодхананды Сарасвати
 
     махапрабху гауранга-сундара-вара нитйам нидже намабхих
 

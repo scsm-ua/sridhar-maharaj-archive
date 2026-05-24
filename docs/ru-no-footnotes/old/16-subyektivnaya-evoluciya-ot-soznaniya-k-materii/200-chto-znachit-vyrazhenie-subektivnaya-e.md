@@ -1,22 +1,30 @@
 ---
 slug: 200-chto-znachit-vyrazhenie-subektivnaya-e
+record_id: 1981.02.28.D3
+title: Что значит выражение «субъективная эволюция»?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3526464
+  duration: 00:07:12
+  src: /wp-content/uploads/2012/08/200_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
+date: 1981-02-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Материальный мир
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/200_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
     title: Скачать аудиозапись в mp3 (7 мин 12 сек, размер 3 Мб)
+legacy:
+  title: 200. Что значит выражение «субъективная эволюция»? 1981.02.28.D3
+  index: "200"
+  filename: 200-chto-znachit-vyrazhenie-subektivnaya-e.md
 ---
-
-# 200. Что значит выражение «субъективная эволюция»? 1981.02.28.D3
 
 **Преданный:** Что такое субъективная эволюция и объективная эволюция?
 

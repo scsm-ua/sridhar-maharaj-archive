@@ -24,9 +24,25 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/772-1982-07-16-b-govorit-iz-izmereniya-realnosti.md
   - ../../56-samootricanie/853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/880-1982-02-24-b1-o-razlichii-vzglyadov-bhaktisiddhanty-sarasvati-i-lalita-prasada.md
-tags:
+  - ../../_full/1982/02/1982.02.23.C.D.md
+  - ../../_full/1982/03/1982.03.25.A1.md
+  - ../../_full/1982/03/1982.03.31.A.md
+  - ../../_full/1982/04/1982.04.16.A2.B1.md
+  - ../../_full/1982/04/1982.04.28.A.B.md
+  - ../../_full/1982/05/1982.05.01.A.B1.md
+  - ../../_full/1982/05/1982.05.10.B.C1.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1982/07/1982.07.03.B2.md
+  - ../../_full/1982/07/1982.07.05.B.md
+  - ../../_full/1982/07/1982.07.09.B2.md
+  - ../../_full/1982/07/1982.07.16.B.md
+  - ../../_full/1982/07/1982.07.27.C.md
+  - ../../_full/1983/11/1983.11.11.A.B1.md
+  - ../../_full/1983/11/1983.11.12.A.B.md
+scriptures:
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
 ---

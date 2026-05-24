@@ -1,12 +1,17 @@
 ---
-slug: 882-1983-05-09-c5-otnoshenie-shrily-sarasvati-thakura-k-bipinu-gosvami
+slug: 1983-05-09-c5_otnoshenie_shrily_sarasvati_thakura_k_bipinu_gosvami
+record_id: 1983.05.09.C5
+title: Отношение Шрилы Сарасвати Тхакура к Бипину Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4371905
+  duration: 00:04:34
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
+date: 1983-05-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.mp3
     title: аудиозапись в MP3 (4 мин. 33 сек., 4,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/882_1983.05.09.C5_SridharMj_Otnosheniye_Shrily_Sarasvati_Thakura_k_Bipinu_Gosvami.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 882. 1983.05.09.C5. Отношение Шрилы Сарасвати Тхакура к Бипину Госвами
+  index: "882"
+  filename: 882-1983-05-09-c5-otnoshenie-shrily-sarasvati-thakura-k-bipinu-gosvami.md
+  slug: 882-1983-05-09-c5-otnoshenie-shrily-sarasvati-thakura-k-bipinu-gosvami
 ---
-
-# 882. 1983.05.09.C5. Отношение Шрилы Сарасвати Тхакура к Бипину Госвами
 
 Бхактивинод Тхакур принял посвящение от Бипина Госвами. В «Чайтанья-чаритамрите» и в других *бхашьям* [комментариях] его имя мы находим, имя этого Гуру Бхактивинода Тхакура. До тех пор пока Бипин Бихари Госвами был жив, Бхактивинод Тхакура оказывал почтение этому джентльмену. Но наш Гуру Махарадж считал, что Бипин Бихари Госвами неуважительно отозвался от Дасе Госвами. Поскольку он заявил: «Мы можем благословить Даса Госвами, поскольку он был из семьи *шудр*, а мы из семей *браминов*».
 

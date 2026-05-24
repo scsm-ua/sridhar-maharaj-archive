@@ -1,14 +1,20 @@
 ---
-slug: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim
+slug: 1983-11-24-a2_chelovek_dolzhen_stremitsya_poznat_istinu_i_zatem_pomogat_obresti_drugim
+record_id: 1983.11.24.A2
+title: Человек должен стремиться познать Истину и затем помогать обрести другим
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4258324
+  duration: 00:03:33
+  src: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3
+date: 1983-11-24
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.mp3
     title: аудиозапись в MP3 (3 мин. 33 сек., 4,1 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/392_1983.11.24.A2_SridharMj_Chelovek_dolzhen_stremitsja_poznat_Istinu_i_zatem_pomogat_obresti_drugim.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 392. 1983.11.24.A2. Человек должен стремиться познать Истину и затем
+    помогать обрести другим
+  index: "392"
+  filename: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim.md
+  slug: 392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim
 ---
-
-# 392. 1983.11.24.A2. Человек должен стремиться познать Истину и затем помогать обрести другим
 
 **Преданный:** Гуру Махарадж, как мне следует понять мою связь с таким местом как Венесуэла? И обязанности мои в проповеди…
 

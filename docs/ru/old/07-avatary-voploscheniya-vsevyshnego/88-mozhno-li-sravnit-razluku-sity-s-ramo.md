@@ -1,18 +1,26 @@
 ---
 slug: 88-mozhno-li-sravnit-razluku-sity-s-ramo
+title: Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8016623
+  duration: 00:12:08
+  src: /wp-content/uploads/2012/08/088_2012.07.23.2_SridharMj_Mojno_li_sravnit_razluku_Sity_s_Ramoy_i_Radhi_s_Krishnoy.mp3
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
   - title: Рамачандра
     slug: ramachandra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/088_2012.07.23.2_SridharMj_Mojno_li_sravnit_razluku_Sity_s_Ramoy_i_Radhi_s_Krishnoy.mp3
     title: Скачать аудиозапись в mp3 (12 мин 8 сек, размер 8 Мб)
+legacy:
+  title: 88. Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
+  index: "88"
+  filename: 88-mozhno-li-sravnit-razluku-sity-s-ramo.md
 ---
-
-# 88. Можно ли сравнить разлуку Ситы с Рамой и Радхи с Кришной?
 
 **Шрила Шридхар Махарадж:** У вас есть какие-то вопросы?
 

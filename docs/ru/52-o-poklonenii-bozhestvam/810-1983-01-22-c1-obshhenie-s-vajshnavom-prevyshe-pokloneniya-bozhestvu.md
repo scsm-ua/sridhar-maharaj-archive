@@ -1,26 +1,30 @@
 ---
-slug: 810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu
+slug: 1983-01-22-c1_obshchenie_s_vayshnavom_prevyshe_pokloneniya_bozhestvu
+record_id: 1983.01.22.C1
+title: Общение с вайшнавом превыше поклонения Божеству
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12653787
+  duration: 00:24:22
+  src: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
+date: 1983-01-22
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Арчана
     slug: archana
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.74
     slug: shri-chajtanya-charitamrita-madhya-lila-22-74
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.47
     slug: shrimad-bhagavatam-11-2-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.55
     slug: shri-chajtanya-charitamrita-madhya-lila-17-55
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.mp3
     title: аудиозапись в MP3 (24 мин. 22 сек., 12,1 МБ)
@@ -28,9 +32,12 @@ links:
     title: транскрипцию в RTF (203 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/810_1983.01.22.C1_SridharMj_Obwenie_s_vayshnavom_prevyshe_pokloneniya_Bojestvu.pdf
     title: транскрипцию в PDF (172 КБ)
+legacy:
+  title: 810. 1983.01.22.C1. Общение с вайшнавом превыше поклонения Божеству
+  index: "810"
+  filename: 810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu.md
+  slug: 810-1983-01-22-c1-obshhenie-s-vajshnavom-prevyshe-pokloneniya-bozhestvu
 ---
-
-# 810. 1983.01.22.C1. Общение с вайшнавом превыше поклонения Божеству
 
 **Преданный:** На Западе Свами Махарадж дал нам поклонение Божествам, но величественным, пышным образом.
 

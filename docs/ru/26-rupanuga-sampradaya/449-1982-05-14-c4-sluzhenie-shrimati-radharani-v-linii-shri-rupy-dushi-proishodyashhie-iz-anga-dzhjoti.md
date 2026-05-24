@@ -1,36 +1,17 @@
 ---
-slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+slug: 1982-05-14-c4_sluzhenie_shrimati_radharani_v_linii_shri_rupy_dushi_proishodyashchie_iz_anga-dzhyoti
+record_id: 1982.05.14.C4
+title: Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16471417
+  duration: 00:16:32
+  src: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
+date: 1982-05-14
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 9.4.63
-    slug: shrimad-bhagavatam-9-4-63
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
-  - title: Шри Вилапа-кусуманджали 102
-    slug: shri-vilapa-kusumandzhali-102
-  - title: Мукта Чаритра
-    slug: mukta-charitra
-  - title: Мукта Чаритра 4
-    slug: mukta-charitra-4
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.15
-    slug: shri-chajtanya-charitamrita-adi-lila-1-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.5
-    slug: shri-chajtanya-charitamrita-antya-lila-1-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.3
-    slug: shri-chajtanya-charitamrita-madhya-lila-1-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.mp3
     title: аудиозапись в MP3 (16 мин. 31 сек., 15,8 МБ)
@@ -38,9 +19,26 @@ links:
     title: транскрипцию в RTF (165 КБ)
   - href: /dl/26._Rupanuga-sampradaya/449_1982.05.14.C4_SridharMj_Sluzhenie_Shrimati_Radharani_v_linii_Shri_Rupy_Dushi__proishodjashhie_iz_anga-dzhjoti.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 449. 1982.05.14.C4. Служение Шримати Радхарани в линии Шри Рупы. Души,
+    происходящие из анга-джйоти
+  index: "449"
+  filename: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti.md
+  slug: 449-1982-05-14-c4-sluzhenie-shrimati-radharani-v-linii-shri-rupy-dushi-proishodyashhie-iz-anga-dzhjoti
+tags:
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
+  - title: Шри Вилапа-кусуманджали 102
+    slug: shri-vilapa-kusumandzhali-102
+  - title: Мукта Чаритра 4
+    slug: mukta-charitra-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.15
+    slug: shri-chajtanya-charitamrita-adi-lila-1-15
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.5
+    slug: shri-chajtanya-charitamrita-antya-lila-1-5
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.3
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-3
 ---
-
-# 449. 1982.05.14.C4. Служение Шримати Радхарани в линии Шри Рупы. Души, происходящие из анга-джйоти
 
 **Преданный:** Махарадж, а Джаядев жил до Билвамангала?
 
@@ -129,7 +127,7 @@ links:
 
 *#00:11:23#*
 
-*Раса,* которую Радхарани способна извлечь из Кришны качественно и количественно — подобную *расу* невозможно найти нигде, ни в каком другом месте. Та *раса*, которую Радхарани способна извлечь из Кришны, не только количественно, но и качественно. Никакая иная личность не способна извлечь подобную высокую *расу* из Кришны, наиболее полную, наиболее высокую, Он отдает Себя целиком и полностью, глубоко во взаимоотношениях с Ней. Те, кто принадлежат к этой группе (группе Шри Рупы), способны чувствовать, переживать вкус этой *расы*.
+*Раса*, которую Радхарани способна извлечь из Кришны качественно и количественно — подобную *расу* невозможно найти нигде, ни в каком другом месте. Та *раса*, которую Радхарани способна извлечь из Кришны, не только количественно, но и качественно. Никакая иная личность не способна извлечь подобную высокую *расу* из Кришны, наиболее полную, наиболее высокую, Он отдает Себя целиком и полностью, глубоко во взаимоотношениях с Ней. Те, кто принадлежат к этой группе (группе Шри Рупы), способны чувствовать, переживать вкус этой *расы*.
 
 *#00:12:19#*
 
@@ -153,7 +151,7 @@ links:
 
     рупануга хоите сеи дой(?)
 
-Бхактивинод Тхакур написал: он стремится, бежит в эту сторону, чтобы получить доступ, чтобы стать под начало Рупы Госвами. Он бежит, потому что настолько страстное стремление он испытывает. Бхактивинод Тхакур говорит: *рупануга хоите сеи дой.* Он бежит, отчаянно стремиться, стремиться быть зачисленным в группу, список последователей Шри Рупы, наделенных подобной перспективой.
+Бхактивинод Тхакур написал: он стремится, бежит в эту сторону, чтобы получить доступ, чтобы стать под начало Рупы Госвами. Он бежит, потому что настолько страстное стремление он испытывает. Бхактивинод Тхакур говорит: *рупануга хоите сеи дой*. Он бежит, отчаянно стремиться, стремиться быть зачисленным в группу, список последователей Шри Рупы, наделенных подобной перспективой.
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол. Я хочу закончить на этом, я уже давно начал. Нитай-Гаура Харибол, Нитай-Гаура Харибол].
 

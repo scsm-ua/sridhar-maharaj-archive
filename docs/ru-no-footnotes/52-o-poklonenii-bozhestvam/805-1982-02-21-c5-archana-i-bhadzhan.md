@@ -1,14 +1,20 @@
 ---
-slug: 805-1982-02-21-c5-archana-i-bhadzhan
+slug: 1982-02-21-c5_archana_i_bhadzhan
+record_id: 1982.02.21.C5
+title: Арчана и бхаджан
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2142532
+  duration: 00:02:29
+  src: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.mp3
+date: 1982-02-21
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.mp3
     title: аудиозапись в MP3 (2 мин. 28 сек., 2,1 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (15 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/805_1982.02.21.C5_SridharMj_Archana_i_bhadzhan.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 805. 1982.02.21.C5. Арчана и бхаджан
+  index: "805"
+  filename: 805-1982-02-21-c5-archana-i-bhadzhan.md
+  slug: 805-1982-02-21-c5-archana-i-bhadzhan
 ---
-
-# 805. 1982.02.21.C5. Арчана и бхаджан
 
 **Госвами Махарадж:** В *арчане* также присутствуют Гуру-Гауранга на начальной стадии?
 

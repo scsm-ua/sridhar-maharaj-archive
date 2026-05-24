@@ -1,20 +1,28 @@
 ---
 slug: 23-ogon-razluki-mahaprabhu-1982-01-13-a3
+record_id: 1982.01.13.A3
+title: Огонь разлуки Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7161207
+  duration: 00:14:38
+  src: /wp-content/uploads/2012/08/023_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
+date: 1982-01-13
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/023_1982.01.13.A3_SridharMj_Ogon_razluki_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (14 мин 38 сек, размер 7 Мб)
+legacy:
+  title: 23. Огонь разлуки Махапрабху. 1982.01.13.A3
+  index: "23"
+  filename: 23-ogon-razluki-mahaprabhu-1982-01-13-a3.md
 ---
-
-# 23. Огонь разлуки Махапрабху. 1982.01.13.A3
 
 *#00:00:00#*
 

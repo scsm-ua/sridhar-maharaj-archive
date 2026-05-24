@@ -1,22 +1,30 @@
 ---
 slug: 432-shloka-kotoruyu-pel-po-utram-shrila-sara
+record_id: 1981.11.12.C1
+title: Шлока, которую пел по утрам Шрила Сарасвати Тхакур
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7675977
+  duration: 00:09:56
+  src: /wp-content/uploads/2012/08/432_1981.11.12.C1_SridharMj_Shloka_kotoruyu_pel_po_utram_Shrila_Sarasvati_Thakur.mp3
+date: 1981-11-12
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/432_1981.11.12.C1_SridharMj_Shloka_kotoruyu_pel_po_utram_Shrila_Sarasvati_Thakur.mp3
     title: Скачать аудиозапись в mp3 (9 мин 56 сек, размер 7 Мб)
+legacy:
+  title: 432. Шлока, которую пел по утрам Шрила Сарасвати Тхакур. 1981.11.12.C1
+  index: "432"
+  filename: 432-shloka-kotoruyu-pel-po-utram-shrila-sara.md
 ---
-
-# 432. Шлока, которую пел по утрам Шрила Сарасвати Тхакур. 1981.11.12.C1
 
 **Ученик:** Махарадж, вы знаете этих двоих санньяси? Они оба ученики Свами Махараджа.
 

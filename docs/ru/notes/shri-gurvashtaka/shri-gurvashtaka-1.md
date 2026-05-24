@@ -2,9 +2,11 @@
 slug: shri-gurvashtaka-1
 refs:
   - ../../17-shri-guru-i-ego-milost/315-1982-07-02-a1-na-kakoj-stadii-uchenik-mozhet-videt-svoego-guru-v-obraze-sakhi-radharani.md
-tags:
+  - ../../_full/1982/07/1982.07.02.A.md
+scriptures:
   - title: Шри Гурваштака
     slug: shri-gurvashtaka
+verses:
   - title: Шри Гурваштака 1
     slug: shri-gurvashtaka-1
 ---

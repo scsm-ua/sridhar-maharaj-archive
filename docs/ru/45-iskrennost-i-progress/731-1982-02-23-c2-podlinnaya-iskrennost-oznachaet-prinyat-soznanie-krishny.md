@@ -1,20 +1,24 @@
 ---
-slug: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny
+slug: 1982-02-23-c2_podlinnaya_iskrennost_oznachaet_prinyat_soznanie_krishny
+record_id: 1982.02.23.C2
+title: Подлинная искренность означает «принять Сознание Кришны»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3237240
+  duration: 00:06:22
+  src: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
+date: 1982-02-23
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1
     slug: shri-chajtanya-charitamrita-adi-lila-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.34
     slug: shri-chajtanya-charitamrita-adi-lila-1-1-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 3,1 МБ)
@@ -22,11 +26,14 @@ links:
     title: транскрипцию в RTF (125 КБ)
   - href: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 731. 1982.02.23.C2. Подлинная искренность означает «принять Сознание Кришны»
+  index: "731"
+  filename: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny.md
+  slug: 731-1982-02-23-c2-podlinnaya-iskrennost-oznachaet-prinyat-soznanie-krishny
 ---
 
-# 731. 1982.02.23.C2. Подлинная искренность означает «принять Сознание Кришны»
-
-Мгновения Прекрасной Реальности (часть 6.6)
+## Мгновения Прекрасной Реальности (часть 6.6)
 
 **Преданный:** Махарадж, каково значение верности для подлинного, истинного ученика?
 

@@ -1,14 +1,20 @@
 ---
-slug: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj
+slug: 1982-02-22-b1_odnovremennoe_poklonenie_gaura-nitayu_i_govardhan-shile_ne_yavletsya_rasabhasoy
+record_id: 1982.02.22.B1
+title: Одновременное поклонение Гаура-Нитаю и Говардхан-шиле не явлется расабхасой
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1922267
+  duration: 00:01:01
+  src: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.mp3
+date: 1982-02-22
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.mp3
     title: аудиозапись в MP3 (1 мин. 00 сек., 1,9 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (38 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/819_1982.02.22.B1_SridharMj_Odnovremennoe_poklonenie_Gaura-Nitaju_i_Govardhan-shile_ne_javletsja_rasabhasoj.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 819. 1982.02.22.B1. Одновременное поклонение Гаура-Нитаю и Говардхан-шиле
+    не явлется расабхасой
+  index: "819"
+  filename: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj.md
+  slug: 819-1982-02-22-b1-odnovremennoe-poklonenie-gaura-nitayu-i-govardhan-shile-ne-yavletsya-rasabhasoj
 ---
-
-# 819. 1982.02.22.B1. Одновременное поклонение Гаура-Нитаю и Говардхан-шиле не явлется расабхасой
 
 **Преданный:** Махарадж, поклоняться Гаура-Нитаю и *Говардхана-шиле* одновременно это *расабхаса*?
 

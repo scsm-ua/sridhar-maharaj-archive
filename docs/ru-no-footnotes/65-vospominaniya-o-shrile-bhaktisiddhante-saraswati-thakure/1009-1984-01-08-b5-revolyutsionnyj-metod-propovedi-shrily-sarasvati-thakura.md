@@ -1,12 +1,17 @@
 ---
-slug: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura
+slug: 1984-01-08-b5_revolyutsionnyy_metod_propovedi_shrily_sarasvati_thakura
+record_id: 1984.01.08.B5
+title: Революционный метод проповеди Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5828128
+  duration: 00:10:54
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
+date: 1984-01-08
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1984.01"
-    slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (10 мин. 53 сек., 5,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1009_1984.01.08.B5_SridharMj_Revolyutsionniy_metod_propovedi_Shrily_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 1009. 1984.01.08.B5. Революционный метод проповеди Шрилы Сарасвати Тхакура
+  index: "1009"
+  filename: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura.md
+  slug: 1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura
 ---
-
-# 1009. 1984.01.08.B5. Революционный метод проповеди Шрилы Сарасвати Тхакура
 
 **Преданный:** Мы должны служить вайшнаву, который служит Нитьянанде и Господу Чайтанье?
 

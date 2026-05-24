@@ -1,12 +1,19 @@
 ---
-slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
+slug: ontologiya_pr_ch_4_4_o_propovedi_sarasvati_thakura_shridhara_maharadzha_i_bhaktivedandy_svami
+title: Онтология ПР. Ч. 4.4. О проповеди Сарасвати Тхакура, Шридхара Махараджа и
+  Бхактиведанды Свами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5716992
+  duration: 00:10:40
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.mp3
     title: аудиозапись в MP3 (10 мин. 39 сек., 5,5 МБ)
@@ -14,9 +21,13 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1008_OntologiyaPR_4.4_SridharMj_O_propovedi_Sarasvati_Thakura_Sridhara_Maharaja_i_Bhaktivedandy_Svami.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 1008. Онтология ПР. Ч. 4.4.  О проповеди Сарасвати Тхакура, Шридхара
+    Махараджа и Бхактиведанды Свами
+  index: "1008"
+  filename: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami.md
+  slug: 1008-ontologiya-pr-ch-4-4-o-propovedi-sarasvati-thakura-shridhara-maharadzha-i-bhaktivedandy-svami
 ---
-
-# 1008. Онтология ПР. Ч. 4.4.  О проповеди Сарасвати Тхакура, Шридхара Махараджа и Бхактиведанды Свами
 
 *«Онтология Прекрасной Реальности» (часть 4.4)*
 

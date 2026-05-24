@@ -2,9 +2,10 @@
 slug: prarthana-lalasa-7-6
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/141-1982-04-27-b2-c1-kommentarii-ko-vtoromu-tretemu-i-chetvertomu-stiham-shikshashtaki.md
-tags:
+scriptures:
   - title: «Прартхана», Лаласа
     slug: prarthana-lalasa
+verses:
   - title: «Прартхана», Лаласа 7.6
     slug: prarthana-lalasa-7-6
 ---

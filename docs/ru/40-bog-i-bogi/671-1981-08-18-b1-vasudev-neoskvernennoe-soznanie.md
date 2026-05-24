@@ -1,16 +1,17 @@
 ---
-slug: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie
+slug: 1981-08-18-b1_vasudev_neoskvernennoe_soznanie
+record_id: 1981.08.18.B1
+title: Васудев — неоскверненное сознание
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5154419
+  duration: 00:09:08
+  src: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
+date: 1981-08-18
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 7.19
-    slug: bhagavad-gita-7-19
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 5,0 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/40._Bog_i_bogi/671_1981.08.18.B1_SridharMj_Vasudev_neoskvernennoe_soznanie.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 671. 1981.08.18.B1. Васудев — неоскверненное сознание
+  index: "671"
+  filename: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie.md
+  slug: 671-1981-08-18-b1-vasudev-neoskvernennoe-soznanie
+tags:
+  - title: Бхагавад-гита 7.19
+    slug: bhagavad-gita-7-19
 ---
-
-# 671. 1981.08.18.B1. Васудев — неоскверненное сознание
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Нитай-Чайтанья…
 

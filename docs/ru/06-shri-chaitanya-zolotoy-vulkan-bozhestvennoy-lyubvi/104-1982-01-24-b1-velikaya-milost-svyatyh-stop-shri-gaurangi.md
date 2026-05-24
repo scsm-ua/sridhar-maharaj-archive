@@ -1,33 +1,30 @@
 ---
-slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
+slug: 1982-01-24-b1_velikaya_milost_svyatyh_stop_shri_gaurangi
+record_id: 1982.01.24.B1
+title: Великая милость святых стоп Шри Гауранги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17708543
+  duration: 00:41:15
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
+date: 1982-01-24
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
     slug: shri-chajtanya-charitamrita-antya-lila-5-48
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.39
     slug: shrimad-bhagavatam-10-33-39
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 1
     slug: manah-shiksha-1
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
@@ -36,13 +33,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.26
     slug: shri-chajtanya-charitamrita-adi-lila-4-26
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
     title: аудиозапись в MP3 (35 мин. 4 сек., 16,9 МБ)
@@ -50,9 +44,12 @@ links:
     title: транскрипцию в RTF (159 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/104_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 104. 1982.01.24.B1 Великая милость святых стоп Шри Гауранги
+  index: "104"
+  filename: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi.md
+  slug: 104-1982-01-24-b1-velikaya-milost-svyatyh-stop-shri-gaurangi
 ---
-
-# 104. 1982.01.24.B1 Великая милость святых стоп Шри Гауранги
 
 Гурудев Гопала Бхатты Госвами, брат Венкаты Бхатты[^_ftn1], имел обыкновение жить в Шри Кундже Камьяване[^_ftn2]. Он был носителем возвышенного поэтического языка. Его поэзия была горячей, пламенной и впечатляющей, очень сладостной. Его идеи были всеобъемлющими.
 
@@ -84,7 +81,7 @@ links:
 
 *#00:03:01#*
 
-Иногда происходит так, что одежды Радхарани развеваются и создают ветерок. Дуновение этого ветерка касается тела Кришны, и Кришна считает Себя столь удачливым: «Меня коснулось дуновение, создаваемое одеждами Радхарани!». Он считает Себя неимоверно удачливым. *Йасйа̄х̣ када̄пи васана̄н̃чала-кхеланоттха-* *дханйа̄тидханйа-паванена*… Сам ветерок, дуновение этого ветерка чувствует величайшую признательность, благодарность: «Я в высшей степени удачлив!», и Кришна чувствует Свою величайшую удачу, когда Его касается дуновение ветерка, Он думает: «Сколь великая удача выпала мне!».
+Иногда происходит так, что одежды Радхарани развеваются и создают ветерок. Дуновение этого ветерка касается тела Кришны, и Кришна считает Себя столь удачливым: «Меня коснулось дуновение, создаваемое одеждами Радхарани!». Он считает Себя неимоверно удачливым. *Йасйа̄х̣ када̄пи васана̄н̃чала-кхеланоттха*- *дханйа̄тидханйа-паванена*… Сам ветерок, дуновение этого ветерка чувствует величайшую признательность, благодарность: «Я в высшей степени удачлив!», и Кришна чувствует Свою величайшую удачу, когда Его касается дуновение ветерка, Он думает: «Сколь великая удача выпала мне!».
 
 *#00:04:12#*
 

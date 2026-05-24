@@ -1,14 +1,17 @@
 ---
-slug: 085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu
+slug: 1982-03-29-b2_parakiya_v_madhura-rase_unikalnyy_dar_mahaprabhu
+record_id: 1982.03.29.B2
+title: Паракия в мадхура-расе — уникальный дар Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10251733
+  duration: 00:09:46
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/085_1982.03.29.B2_SridharMj_Parakija_v_madhura-rase--unikalnyj_dar_Mahaprabhu.mp3
+date: 1982-03-29
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-  - title: with English audio
-    slug: with-english-audio
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/085_1982.03.29.B2_SridharMj_Parakija_v_madhura-rase--unikalnyj_dar_Mahaprabhu.mp3
     title: аудиозапись в MP3 (09 мин. 46 сек., 9.8 МБ)
@@ -16,9 +19,12 @@ links:
     title: транскрипцию в DOCX (18 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/085_1982.03.29.B2_SridharMj_Parakija_v_madhura-rase--unikalnyj_dar_Mahaprabhu.pdf
     title: транскрипцию в PDF (681 КБ)
+legacy:
+  title: 085. 1982.03.29.B2 Паракия в мадхура-расе — уникальный дар Махапрабху
+  index: "085"
+  filename: 085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu.md
+  slug: 085_1982-03-29-b2_sridharmj_parakija_v_madhura-rase-unikalnyj_dar_mahaprabhu
 ---
-
-# 085. 1982.03.29.B2 Паракия в мадхура-расе — уникальный дар Махапрабху
 
 Сознание Кришны не только порождает отсутствие беспокойств, но оно порождает любовь, не только справедливость, но земля милости, земля любви. Любовь означает явление, которое способно компенсировать изъяны, недостатки других, это любовь. Благодаря самоотданию, самопожертвованию мы можем компенсировать изъяны других, ущербность. И это — земля любви, земля милости, милосердие, это во Вриндаване, в глубинах существования сознания Кришны. А на поверхности, на более поверхностном уровне присутствует Вайкунтха, земля справедливости, а здесь, в этом *майическом* мире — столкновение несправедливости: *Бхур*, *Бхувах*, *Свах*, вплоть до *Сатья-локи* — *Брахманда*, столкновение различных типов сознаний, различных интересов. Но за пределами *Брахмалоки*, если мы пройдем сквозь *Брахмалоку*, этот эквилибриум, то мы достигнем Вайкунтхи, земли справедливости.
 

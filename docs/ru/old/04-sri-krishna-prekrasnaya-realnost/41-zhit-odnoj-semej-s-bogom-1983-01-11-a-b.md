@@ -1,18 +1,25 @@
 ---
 slug: 41-zhit-odnoj-semej-s-bogom-1983-01-11-a-b
+record_id: 1983.01.11.A.B
+title: Жить одной семьей с Богом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23045717
+  duration: 00:44:56
+  src: /wp-content/uploads/2012/08/041_1983.01.11.A.B_SridharMj_Jit_s_Bogom_odnoy_semyoy.mp3
+date: 1983-01-11
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/041_1983.01.11.A.B_SridharMj_Jit_s_Bogom_odnoy_semyoy.mp3
     title: Скачать аудиозапись в mp3 (44 мин 56 сек, размер 23 Мб)
+legacy:
+  title: 41. Жить одной семьей с Богом. 1983.01.11.A.B
+  index: "41"
+  filename: 41-zhit-odnoj-semej-s-bogom-1983-01-11-a-b.md
 ---
-
-# 41. Жить одной семьей с Богом. 1983.01.11.A.B
 
 *#00:00:00#*
 

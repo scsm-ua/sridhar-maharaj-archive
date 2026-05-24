@@ -4,9 +4,12 @@ refs:
   - ../../33-dharma-uchenie-o-dolge/533-1981-11-29-a1-vajshnav-i-varnashrama.md
   - ../../49-bhakti-velichie-predannosti-krishne/777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti.md
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati.md
-tags:
+  - ../../_full/1981/11/1981.11.29.md
+  - ../../_full/1982/06/1982.06.14.A.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.17
     slug: shri-chajtanya-charitamrita-madhya-lila-22-17
 ---

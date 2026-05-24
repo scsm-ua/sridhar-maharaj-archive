@@ -1,9 +1,17 @@
 ---
-slug: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany
+slug: 1982-06-05-a2-b_napadeniya_na_propovednikov_gaudiya_matha_vo_vremya_sankirtany
+record_id: 1982.06.05.A2.B
+title: Нападения на проповедников Гаудия Матха во время санкиртаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7432253
+  duration: 00:07:07
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.mp3
+date: 1982-06-05
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.mp3
     title: аудиозапись в MP3 (7 мин. 07 сек., 7,1 МБ)
@@ -11,9 +19,13 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1015_1982.06.05.A2.B_SridharMj_Napadenija_na_propovednikov_Gaudija_Matha_vo_vremja_sankirtany.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 1015. 1982.06.05.A2.B. Нападения на проповедников Гаудия Матха во время
+    санкиртаны
+  index: "1015"
+  filename: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany.md
+  slug: 1015-1982-06-05-a2-b-napadeniya-na-propovednikov-gaudiya-matha-vo-vremya-sankirtany
 ---
-
-# 1015. 1982.06.05.A2.B. Нападения на проповедников Гаудия Матха во время санкиртаны
 
 **Шрила Шридхар Махарадж:** Вы слышали о том, что вчера вечером приходили они, некие люди, и какие-то мальчишки бросили, швырнули большой камень или кусок чего-то в голову Дашаратхи Суты?
 
@@ -67,7 +79,7 @@ links:
 
 *#00:06:05#*
 
-Но здесь деньги зарабатываются в основном посредством прялки — ткацкие фабрики. Это главный источник средств. Здесь, в Навадвипе, нет *панд.* Если бы здесь создать такую группу *пандов*, то они бы зарабатывали большие деньги, демонстрируя людям священные места, *тиртхи*, и тогда эти *гунды*, эти бандиты получили бы по заслугам.
+Но здесь деньги зарабатываются в основном посредством прялки — ткацкие фабрики. Это главный источник средств. Здесь, в Навадвипе, нет *панд*. Если бы здесь создать такую группу *пандов*, то они бы зарабатывали большие деньги, демонстрируя людям священные места, *тиртхи*, и тогда эти *гунды*, эти бандиты получили бы по заслугам.
 
 [Гаура-Харибол, Гаура-Хари, Нитай-Гаура Харибол]
 

@@ -7,9 +7,13 @@ refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/121-1987-00-00-a1-obyasnenie-shloki-krishna-lila-amrita-sara.md
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha.md
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/131-1982-01-12-c2-ramananda-samvada-klyuch-k-ponimaniyu-ucheniya-shridhara-maharadzha.md
-tags:
+  - ../../_full/1982/01/1982.01.12.C.md
+  - ../../_full/1982/05/1982.05.04.A.B1.md
+  - ../../_full/1987/1987.XX.02.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.271
     slug: shri-chajtanya-charitamrita-madhya-lila-25-271
 ---

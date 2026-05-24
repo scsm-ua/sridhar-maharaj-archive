@@ -1,14 +1,20 @@
 ---
-slug: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti
+slug: 1982-02-21-a2_kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda_bhakti
+record_id: 1982.02.21.A2
+title: Когда совершаемая деятельность является кармой, а когда — бхакти?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3198696
+  duration: 00:07:47
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
+date: 1982-02-21
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.mp3
     title: аудиозапись в MP3 (7 мин. 47 сек., 3,1 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/779_1982.02.21.A2_SridharMj_Kogda_sovershaemaya_deyatelnost_yavlyaetsya_karmoy_a_kogda-bhakti.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 779. 1982.02.21.A2. Когда совершаемая деятельность является кармой, а
+    когда — бхакти?
+  index: "779"
+  filename: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti.md
+  slug: 779-1982-02-21-a2-kogda-sovershaemaya-deyatelnost-yavlyaetsya-karmoj-a-kogda-bhakti
 ---
-
-# 779. 1982.02.21.A2. Когда совершаемая деятельность является кармой, а когда — бхакти?
 
 *«Мгновения Прекрасной реальности» (часть 1.2)*
 

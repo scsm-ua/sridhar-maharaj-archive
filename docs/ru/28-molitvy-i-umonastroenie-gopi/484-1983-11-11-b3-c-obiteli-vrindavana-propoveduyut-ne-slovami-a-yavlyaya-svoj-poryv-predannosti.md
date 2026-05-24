@@ -1,28 +1,17 @@
 ---
-slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
+slug: 1983-11-11-b3-c_obiteli_vrindavana_propoveduyut_ne_slovami_a_yavlyaya_svoy_poryv_predannosti
+record_id: 1983.11.11.B3.C
+title: Обители Вриндавана проповедуют не словами, а являя свой порыв преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7247224
+  duration: 00:07:18
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
+date: 1983-11-11
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
-    slug: shri-chajtanya-charitamrita-adi-lila-4-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
-    slug: shri-chajtanya-charitamrita-madhya-lila-13-160
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.89
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-89
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.82.44
-    slug: shrimad-bhagavatam-10-82-44
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
-    slug: shri-chajtanya-charitamrita-madhya-lila-13-141
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 7,0 МБ)
@@ -30,9 +19,24 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/484_1983.11.11.B3.C_SridharMj_Obiteli_Vrindavana_propovedujut_ne_slovami_a_javljaja_svoj_poryv_predannosti.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 484. 1983.11.11.B3.C. Обители Вриндавана проповедуют не словами, а являя
+    свой порыв преданности
+  index: "484"
+  filename: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti.md
+  slug: 484-1983-11-11-b3-c-obiteli-vrindavana-propoveduyut-ne-slovami-a-yavlyaya-svoj-poryv-predannosti
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
+    slug: shri-chajtanya-charitamrita-adi-lila-4-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-160
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.89
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-89
+  - title: Шримад-Бхагаватам 10.82.44
+    slug: shrimad-bhagavatam-10-82-44
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.141
+    slug: shri-chajtanya-charitamrita-madhya-lila-13-141
 ---
-
-# 484. 1983.11.11.B3.C. Обители Вриндавана проповедуют не словами, а являя свой порыв преданности
 
 Все могут не знать, как объяснить Его положение в качестве Верховного. *Гьяна-шунья-бхакти*. Но *Ачарьи* приходят и обращаются к массам, показывая своими произведениями, своей проповедью каким образом Кришна-концепция занимает верховное положение. Не все преданные обязательно сумеют объяснить, почему Кришна занимает верховное положение: «Мне нравится, я не могу объяснить, почему. Я не могу объяснить». Только когда по особой воле Кришны такого рода способность дается, возможность объяснения присутствует.
 
@@ -42,7 +46,7 @@ links:
 
 *#00:01:48#*
 
-Но иногда мы видим: их порыв настолько велик, что ученые теряют дар речи. Как на Курукшетре, когда Сам Кришна сказал: «Люди в целом питают ко Мне любовь в надежде на вечное блаженство — *амр̣татва̄йа калпате*[^_ftn1]. Вы обрели некую любовь ко Мне, к счастью для вас. Ваше будущее гарантировано» — сказал Кришна. *Бхаватӣна̄м̇ мад-а̄панах̣.*
+Но иногда мы видим: их порыв настолько велик, что ученые теряют дар речи. Как на Курукшетре, когда Сам Кришна сказал: «Люди в целом питают ко Мне любовь в надежде на вечное блаженство — *амр̣татва̄йа калпате*[^_ftn1]. Вы обрели некую любовь ко Мне, к счастью для вас. Ваше будущее гарантировано» — сказал Кришна. *Бхаватӣна̄м̇ мад-а̄панах̣*.
 
 *#00:02:37#*
 

@@ -1,20 +1,28 @@
 ---
 slug: 421-ob-opasnosti-poiska-nedostatkov-v-pr
+record_id: 1981.08.30.C1
+title: Об опасности поиска недостатков в преданных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1862978
+  duration: 00:03:13
+  src: /wp-content/uploads/2012/08/421_1981.08.30.С1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
+date: 1981-08-30
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/421_1981.08.30.С1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
     title: Скачать аудиозапись в mp3 (3 мин 13 сек, размер 1 Мб)
+legacy:
+  title: 421. Об опасности поиска недостатков в преданных. 1981.08.30.C1
+  index: "421"
+  filename: 421-ob-opasnosti-poiska-nedostatkov-v-pr.md
 ---
-
-# 421. Об опасности поиска недостатков в преданных. 1981.08.30.C1
 
 Махарадж? Да. Не могли бы вы пояснить один момент. Если мы находим недостатки в других людях, когда…в других людях, то эти недостатки неизбежно перейдут к нам? Да. Они вернуться к нам. Связь с изъянами, через эту связь влияние, осквернение придет к нам. Но подобно хранителю, если человек хочет устранить эти недостатки, любящим образом, то они к нему не придут, изъяны. Указывая на них.
 

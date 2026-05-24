@@ -1,12 +1,17 @@
 ---
-slug: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij
+slug: 1981-03-08-b7_duhovnaya_praktika_dolzhna_osnovyvatsya_na_nastavleniyah_pisaniy
+record_id: 1981.03.08.B7
+title: Духовная практика должна основываться на наставлениях Писаний
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4587488
+  duration: 00:07:57
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3
+date: 1981-03-08
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.mp3
     title: аудиозапись в MP3 (7 мин. 56 сек., 4,4 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/913_1981.03.08.B7_SridharMj_Duhovnaja_praktika_dolzhna_osnovyvatsja_na_nastavlenijah_Pisanij.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 913. 1981.03.08.B7. Духовная практика должна основываться на наставлениях
+    Писаний
+  index: "913"
+  filename: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij.md
+  slug: 913-1981-03-08-b7-duhovnaya-praktika-dolzhna-osnovyvatsya-na-nastavleniyah-pisanij
 ---
-
-# 913. 1981.03.08.B7. Духовная практика должна основываться на наставлениях Писаний
 
 **Госвами Махарадж:** Был такой поэт Гхош — бенгальский поэт.
 

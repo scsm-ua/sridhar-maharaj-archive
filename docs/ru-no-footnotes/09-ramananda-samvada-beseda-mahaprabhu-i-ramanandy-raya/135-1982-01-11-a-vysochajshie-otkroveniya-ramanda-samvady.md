@@ -1,14 +1,20 @@
 ---
-slug: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady
+slug: 1982-01-11-a_vysochayshie_otkroveniya_ramanda-samvady
+record_id: 1982.01.11.A
+title: Высочайшие откровения Раманда-самвады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4910549
+  duration: 00:09:43
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3
+date: 1982-01-11
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.mp3
     title: аудиозапись в MP3 (9 мин. 43 сек., 4,7 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/135_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvady.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 135. 1982.01.11.A. Высочайшие откровения Раманда-самвады
+  index: "135"
+  filename: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady.md
+  slug: 135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady
 ---
-
-# 135. 1982.01.11.A. Высочайшие откровения Раманда-самвады
 
 Эта максима была изменена Нитьянандой Прабху в Бенгалии[^_ftn1].
 

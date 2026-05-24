@@ -1,14 +1,20 @@
 ---
-slug: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi
+slug: 1982-02-19-b5_znachenie_i_filosofskie_aspekty_dney_ekadashi
+record_id: 1982.02.19.B5
+title: Значение и философские аспекты дней Экадаши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7289536
+  duration: 00:13:19
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
+date: 1982-02-19
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Экадаши
     slug: ekadashi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.mp3
     title: аудиозапись в MP3 (13 мин. 19 сек., 7,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/797_1982.02.19.B5_SridharMj_Znacheniye_i_filosofskiye_aspekty_dney_Ekadashi.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 797. 1982.02.19.B5. Значение и философские аспекты дней Экадаши
+  index: "797"
+  filename: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi.md
+  slug: 797-1982-02-19-b5-znachenie-i-filosofskie-aspekty-dnej-ekadashi
 ---
-
-# 797. 1982.02.19.B5. Значение и философские аспекты дней Экадаши
 
 *(«Мгновения Прекрасной Реальности», часть 7.5)*
 

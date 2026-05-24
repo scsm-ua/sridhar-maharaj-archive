@@ -4,9 +4,18 @@ refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona.md
   - ../../54-smirenie-i-terpenie/835-1982-01-26-a1-temperament-vajshnava-sochetaet-smirenie-i-reshitelnost.md
   - ../../68-shri-chaitanya-saraswat-math/1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
-tags:
+  - ../../_full/1981/08/1981.08.19.md
+  - ../../_full/1981/10/1981.10.04.A.B.md
+  - ../../_full/1981/11/1981.11.17.A.md
+  - ../../_full/1981/12/1981.12.29.B.C.md
+  - ../../_full/1981/12/1981.12.30.A.B.md
+  - ../../_full/1982/01/1982.01.26.md
+  - ../../_full/1983/06/1983.06.10.md
+  - ../../_full/1985/11/1985.11.07.md
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 3.13
     slug: shri-shri-prapanna-dzhivanamritam-3-13
 ---

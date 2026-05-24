@@ -1,12 +1,17 @@
 ---
-slug: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha
+slug: 1982-02-01-a2_neskolko_podhodov_dlya_izdaniya_naslediya_shridhara_maharadzha
+record_id: 1982.02.01.A2
+title: Несколько подходов для издания наследия Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3101998
+  duration: 00:02:42
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1124_1982.02.01.A2_SridharMj_Neskolko_podhodov_dlja_izdanija_nasledija_Shridhara_Maharadzha.mp3
+date: 1982-02-01
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1124_1982.02.01.A2_SridharMj_Neskolko_podhodov_dlja_izdanija_nasledija_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (2 мин. 41 сек., 3,0 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (56 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1124_1982.02.01.A2_SridharMj_Neskolko_podhodov_dlja_izdanija_nasledija_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 1124. 1982.02.01.A2. Несколько подходов для издания наследия Шридхара
+    Махараджа
+  index: "1124"
+  filename: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha.md
+  slug: 1124-1982-02-01-a2-neskolko-podhodov-dlya-izdaniya-naslediya-shridhara-maharadzha
 ---
-
-# 1124. 1982.02.01.A2. Несколько подходов для издания наследия Шридхара Махараджа
 
 **Шрила Госвами Махарадж:** Я предложил Мукунде Мала Виласу Прабху [Бхакти Видхан Махайоги Махарадж] помочь мне в публикации этой книги. Также я хочу сообщить вам, что идея книги будет такой: собрать фрагменты из ваших речей, утренних бесед, посвященных различным темам. Вы постоянно говорите на различные темы в разных лекциях. Я хочу объединить эти беседы и создать отдельные главы.
 

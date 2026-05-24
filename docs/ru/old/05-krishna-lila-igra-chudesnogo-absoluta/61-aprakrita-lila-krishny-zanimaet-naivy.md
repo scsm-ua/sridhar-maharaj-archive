@@ -1,20 +1,28 @@
 ---
 slug: 61-aprakrita-lila-krishny-zanimaet-naivy
+record_id: 1981.11.12.B4
+title: Апракрита-лила Кришны занимает наивысшее положение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8294097
+  duration: 00:15:52
+  src: /wp-content/uploads/2012/08/061_1981.11.12.B4_SridharMj_Aprakrita-lila_Krishny_zanimayet_naivyssheye_polojeniye1.mp3
+date: 1981-11-12
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/061_1981.11.12.B4_SridharMj_Aprakrita-lila_Krishny_zanimayet_naivyssheye_polojeniye1.mp3
     title: Скачать аудиозапись в mp3 (15 мин 56 сек, размер 8 Мб)
+legacy:
+  title: 61. Апракрита-лила Кришны занимает наивысшее положение. 1981.11.12.B4
+  index: "61"
+  filename: 61-aprakrita-lila-krishny-zanimaet-naivy.md
 ---
-
-# 61. Апракрита-лила Кришны занимает наивысшее положение. 1981.11.12.B4
 
 Калькута – это Кали-стхан, обитель Кали. Прабхупада Сарасвати Тхакур, хотя он жил в Калькуте, это не означает, что он жил в обители Кали. Нет, он в обитель Кали принес дхаму-вани (послание святой дхамы). И он очень сильный акцент делал на этом принципе севан-мукхата (дух служения). Один только физический звук – это еще не звук Вайкунтхи, не истинное Святое Имя. Истинная нама…
 

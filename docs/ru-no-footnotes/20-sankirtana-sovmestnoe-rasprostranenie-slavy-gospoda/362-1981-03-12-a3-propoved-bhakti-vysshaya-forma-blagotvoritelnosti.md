@@ -1,14 +1,20 @@
 ---
-slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
+slug: 1981-03-12-a3_propoved_bhakti_vysshaya_forma_blagotvoritelnosti
+record_id: 1981.03.12.A3
+title: Проповедь бхакти – высшая форма благотворительности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10679117
+  duration: 00:21:49
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.mp3
+date: 1981-03-12
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.mp3
     title: аудиозапись в MP3 (21 мин. 49 сек., 10,2 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (37 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/362_1981.03.12.A3_SridharMj_Propoved_bhakti--vysshaja_forma_blagotvoritelnosti.pdf
     title: транскрипцию в PDF (179 КБ)
+legacy:
+  title: 362. 1981.03.12.A3. Проповедь бхакти – высшая форма благотворительности
+  index: "362"
+  filename: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
+  slug: 362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti
 ---
-
-# 362. 1981.03.12.A3. Проповедь бхакти – высшая форма благотворительности
 
     кр̣шн̣а твадӣйа-пада-пан̇каджа-пан̃джара̄нтам
     адйаива ме виш́ату ма̄наса-ра̄джа-хам̇сах̣

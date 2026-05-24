@@ -1,12 +1,17 @@
 ---
-slug: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur
+slug: 1982-05-14-b6_pochemu_krishna_pokinul_radharani_sarasvati_thakur_i_bhaktivinod_thakur
+record_id: 1982.05.14.B6
+title: Почему Кришна покинул Радхарани. Сарасвати Тхакур и Бхактивинод Тхакур.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7400375
+  duration: 00:07:18
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
+date: 1982-05-14
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.mp3
     title: аудиозапись в MP3 (7 мин. 18 сек., 7,1 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/470_1982.05.14.B6_SridharMj_Pochemu_Krishna_pokinul_Radharani__Sarasvati_Thakur_i_Bhaktivinod_Thakur.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 470. 1982.05.14.B6. Почему Кришна покинул Радхарани. Сарасвати Тхакур и
+    Бхактивинод Тхакур
+  index: "470"
+  filename: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur.md
+  slug: 470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur
 ---
-
-# 470. 1982.05.14.B6. Почему Кришна покинул Радхарани. Сарасвати Тхакур и Бхактивинод Тхакур
 
 Однажды я слышал от Парвата Махараджа, тот спросил у Прабхупады: «Когда *раса*—*лила* была завершена, Кришна внезапно обнаружил, что Радхарани отсутствует, тогда качество *раса-лилы* понизилось, и Кришна отправился на поиски Радхарани. Когда по прошествии какого-то времени Кришна сумел найти Радхарани, то, пройдя некоторое расстояние, Радхарани сказала: «Я не могу идти дальше. Если Ты хочешь, Ты можешь нести Меня». И тогда внезапно Кришна исчез». Парват Махарадж спросил Гуру Махараджа: «Почему Кришна исчез?»
 

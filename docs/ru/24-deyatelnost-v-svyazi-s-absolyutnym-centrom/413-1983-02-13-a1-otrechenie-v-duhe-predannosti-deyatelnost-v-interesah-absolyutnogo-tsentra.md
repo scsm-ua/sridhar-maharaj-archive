@@ -1,17 +1,33 @@
 ---
-slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
+slug: 1983-02-13-a1_otrechenie_v_duhe_predannosti_deyatelnost_v_interesah_absolyutnogo_tsentra
+record_id: 1983.02.13.A1
+title: Отречение в духе преданности – деятельность в интересах Абсолютного Центра
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10539939
+  duration: 00:20:18
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
+date: 1983-02-13
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
+links:
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
+    title: аудиозапись в MP3 (20 мин. 17 сек., 10,1 МБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.rtf
+    title: транскрипцию в RTF (178 КБ)
+  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.pdf
+    title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 413. 1983.02.13.A1. Отречение в духе преданности – деятельность в
+    интересах Абсолютного Центра
+  index: "413"
+  filename: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra.md
+  slug: 413-1983-02-13-a1-otrechenie-v-duhe-predannosti-deyatelnost-v-interesah-absolyutnogo-tsentra
 tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.256
     slug: bhakti-rasamrita-sindhu-1-2-256
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -20,8 +36,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-24-141
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.32
     slug: shri-chajtanya-charitamrita-madhya-lila-25-32
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.2.32
     slug: shrimad-bhagavatam-10-2-32
   - title: Бхакти-расамрита-синдху 1.2.255
@@ -30,21 +44,9 @@ tags:
     slug: shrimad-bhagavatam-1-3-28
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
     slug: shri-chajtanya-charitamrita-madhya-lila-19-151
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.mp3
-    title: аудиозапись в MP3 (20 мин. 17 сек., 10,1 МБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.rtf
-    title: транскрипцию в RTF (178 КБ)
-  - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/413_1983.02.13.A1_SridharMj_Otrechenie_v_duhe_predannosti--dejatelnost_v_interesah_Absoljutnogo_Centra.pdf
-    title: транскрипцию в PDF (169 КБ)
 ---
-
-# 413. 1983.02.13.A1. Отречение в духе преданности – деятельность в интересах Абсолютного Центра
 
 В свои последние дни наш Шрила Гуру Махарадж имел обыкновение говорить, он говорил вновь и вновь: «Религия подразумевает занятие правильное позиции». В настоящее время наша позиция по отношению к окружающему мира неправильная, ошибочна.
 
@@ -78,7 +80,7 @@ links:
 
 *#00:04:51#*
 
-Положение стремящегося к освобождению — часть органического целого, положение частицы органического тела, поэтому его связь (или отсутствие связи) и то, каким образом он связан с органическим Целым, контролирует не он сам, не эта частица, но Центр, Источник частицы. *Твайй аста-бха̄ва̄д* — но эта частица считает себя независимой от Центра, поскольку они, — говорит Брахма, — не принимают в расчет Тебя. Возникает стена, и они не в силах пройти сквозь эту стену, преодолеть это препятствие, барьер, поэтому они совершают подобную ошибку, *авиш́уддха-буддхайах̣.*
+Положение стремящегося к освобождению — часть органического целого, положение частицы органического тела, поэтому его связь (или отсутствие связи) и то, каким образом он связан с органическим Целым, контролирует не он сам, не эта частица, но Центр, Источник частицы. *Твайй аста-бха̄ва̄д* — но эта частица считает себя независимой от Центра, поскольку они, — говорит Брахма, — не принимают в расчет Тебя. Возникает стена, и они не в силах пройти сквозь эту стену, преодолеть это препятствие, барьер, поэтому они совершают подобную ошибку, *авиш́уддха-буддхайах̣*.
 
 *#00:05:54#*
 

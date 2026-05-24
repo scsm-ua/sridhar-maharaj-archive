@@ -1,20 +1,28 @@
 ---
 slug: 264-nomer-5-v-otnosheniyah-s-krishnoj-1981-08-27-c3
+record_id: 1981.08.27.C3
+title: «Номер 5» в отношениях с Кришной
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3940509
+  duration: 00:07:33
+  src: /wp-content/uploads/2012/08/264_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
+date: 1981-08-27
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/264_1981.08.27.C3_SridharMj_Nomer_5_v_otnosheniyah_s_Krishnoy.mp3
     title: Скачать аудиозапись в mp3 (7 мин 33 сек, размер 3 Мб)
+legacy:
+  title: 264. «Номер 5» в отношениях с Кришной. 1981.08.27.C3
+  index: "264"
+  filename: 264-nomer-5-v-otnosheniyah-s-krishnoj-1981-08-27-c3.md
 ---
-
-# 264. «Номер 5» в отношениях с Кришной. 1981.08.27.C3
 
 **Госвами Махарадж:** На Джанмаштами я читал «Шримад-Бхагаватам», десятую Песнь нашего Гуру Махараджа, Шрилы Свами Махараджа. В одном месте он описывает явление Дурги, йога-майи. Йога-майя в образе Дурги деви, когда она является в качестве дочери Деваки. Вы знаете эту часть?
 

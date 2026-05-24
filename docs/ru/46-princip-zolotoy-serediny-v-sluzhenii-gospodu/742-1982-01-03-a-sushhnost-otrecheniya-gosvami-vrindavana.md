@@ -1,25 +1,40 @@
 ---
-slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
+slug: 1982-01-03-a_sushchnost_otrecheniya_gosvami_vrindavana
+record_id: 1982.01.03.A
+title: Сущность отречения Госвами Вриндавана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17984700
+  duration: 00:34:13
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+date: 1982-01-03
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
+links:
+  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
+    title: аудиозапись в MP3 (34 мин. 13 сек., 17,2 МБ)
+  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.rtf
+    title: транскрипцию в RTF (273 КБ)
+  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.pdf
+    title: транскрипцию в PDF (184 КБ)
+legacy:
+  title: 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
+  index: "742"
+  filename: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
+  slug: 742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana
 tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-157
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
     slug: shri-chajtanya-charitamrita-antya-lila-6-236
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 12.18–19
     slug: bhagavad-gita-12-18-19
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
@@ -36,17 +51,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.mp3
-    title: аудиозапись в MP3 (34 мин. 13 сек., 17,2 МБ)
-  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.rtf
-    title: транскрипцию в RTF (273 КБ)
-  - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/742_1982.01.03.A_SridharMj_Suwnost_otrecheniya_Goswami_Vrindavana.pdf
-    title: транскрипцию в PDF (184 КБ)
 ---
-
-# 742. 1982.01.03.A. Сущность отречения Госвами Вриндавана
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна, Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 
@@ -103,7 +108,7 @@ links:
     аникетах̣ стхира-матир
 [^_ftn4]
 
-В Бхагавад-гите сказано: отсутствие постоянного места жительства (*аникетах̣*, комнаты или места): сегодня здесь, завтра там, отсутствие привязанности к пяди земли. «Я должен жить здесь, убирать здесь — нет. Отсутствие постоянного рациона, диеты. Если в этот день ко мне что-то пришло, какая-то пища, я принимаю. *Аникетах̣, акаша-вритти(?).* Все, что приходит само собой, они принимают. Отсутствие фиксированной, определенной диеты. Все, что приходит: в один день — одно, в другой день — другое. Мы удовлетворены этим. И отсутствие фиксированной резиденции, постоянного места жительства, места для жизни. Это Вайкунтха. Время, пространство, пища — все, что приходит по воле Господа, — это мой *прасад*, Он заботится обо мне в любое время, в любом месте. Я не должен использовать Их время, энергию ради собственного комфорта: нет пищи — хорошо, сегодня я не буду есть. Все, что приходит в виде подаяния, милостыни: *чана* (горошек), сухой хлеб (не свежий хлеб, но сухой, черствый).
+В Бхагавад-гите сказано: отсутствие постоянного места жительства (*аникетах̣*, комнаты или места): сегодня здесь, завтра там, отсутствие привязанности к пяди земли. «Я должен жить здесь, убирать здесь — нет. Отсутствие постоянного рациона, диеты. Если в этот день ко мне что-то пришло, какая-то пища, я принимаю. *Аникетах̣, акаша-вритти*(?). Все, что приходит само собой, они принимают. Отсутствие фиксированной, определенной диеты. Все, что приходит: в один день — одно, в другой день — другое. Мы удовлетворены этим. И отсутствие фиксированной резиденции, постоянного места жительства, места для жизни. Это Вайкунтха. Время, пространство, пища — все, что приходит по воле Господа, — это мой *прасад*, Он заботится обо мне в любое время, в любом месте. Я не должен использовать Их время, энергию ради собственного комфорта: нет пищи — хорошо, сегодня я не буду есть. Все, что приходит в виде подаяния, милостыни: *чана* (горошек), сухой хлеб (не свежий хлеб, но сухой, черствый).
 
 *#00:13:57#*
 

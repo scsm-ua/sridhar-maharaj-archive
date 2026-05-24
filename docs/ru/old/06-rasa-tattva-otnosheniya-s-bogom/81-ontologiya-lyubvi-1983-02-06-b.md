@@ -1,20 +1,28 @@
 ---
 slug: 81-ontologiya-lyubvi-1983-02-06-b
+record_id: 1983.02.06.B
+title: Онтология любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9159104
+  duration: 00:16:20
+  src: /wp-content/uploads/2012/08/081_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
+date: 1983-02-06
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Любовь
     slug: lyubov
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/081_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
     title: Скачать аудиозапись в mp3 (16 мин 20 сек, размер 9 Мб)
+legacy:
+  title: 81. Онтология любви. 1983.02.06.B
+  index: "81"
+  filename: 81-ontologiya-lyubvi-1983-02-06-b.md
 ---
-
-# 81. Онтология любви. 1983.02.06.B
 
 *#00:00:00#*
 

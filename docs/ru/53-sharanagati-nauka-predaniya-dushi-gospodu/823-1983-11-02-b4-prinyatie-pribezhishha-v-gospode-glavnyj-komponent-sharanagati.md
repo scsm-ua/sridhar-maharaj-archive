@@ -1,22 +1,24 @@
 ---
-slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
+slug: 1983-11-02-b4_prinyatie_pribezhishcha_v_gospode_glavnyy_komponent_sharanagati
+record_id: 1983.11.02.B4
+title: Принятие прибежища в Господе – главный компонент шаранагати
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6423803
+  duration: 00:06:06
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
+date: 1983-11-02
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Шаранагати
     slug: sharanagati
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
-  - title: Гоптритве варана
-    slug: goptritve-varana
   - title: Гоптритве варана 4
     slug: goptritve-varana-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.mp3
     title: аудиозапись в MP3 (6 мин. 05 сек., 6,2 МБ)
@@ -24,9 +26,13 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/823_1983.11.02.B4_SridharMj_Prinjatie_pribezhishha_v_Gospode--glavnyj_komponent_sharanagati.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 823. 1983.11.02.B4. Принятие прибежища в Господе – главный компонент
+    шаранагати
+  index: "823"
+  filename: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati.md
+  slug: 823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati
 ---
-
-# 823. 1983.11.02.B4. Принятие прибежища в Господе – главный компонент шаранагати
 
 **Преданный:** Махарадж, я читал в одной книге, что *шаранагати* — это ментальное настроение, отношение, а *атма-ниведанам*…
 
@@ -72,7 +78,7 @@ links:
 
 *#00:05:03#*
 
-Физическое влечение. Солнце привлекает Землю, Земля привлекает столь многие предметы — это физическое влечение. Но, когда влечение наделено жизнью в духовном мире — это *Према,* Любовь. И это — Высочайшее Существо, и все принадлежат олицетворению этой силы влечения — Всепривлекающему, и мы принадлежим Ему. Любовь включает милость, гармонию, красоту — все подчиненно Любви. Это высочайшая концепция Божественности — Любовь.
+Физическое влечение. Солнце привлекает Землю, Земля привлекает столь многие предметы — это физическое влечение. Но, когда влечение наделено жизнью в духовном мире — это *Према*, Любовь. И это — Высочайшее Существо, и все принадлежат олицетворению этой силы влечения — Всепривлекающему, и мы принадлежим Ему. Любовь включает милость, гармонию, красоту — все подчиненно Любви. Это высочайшая концепция Божественности — Любовь.
 
 Который час? Я хочу на этом остановиться.
 

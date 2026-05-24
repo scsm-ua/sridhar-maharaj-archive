@@ -1,20 +1,24 @@
 ---
-slug: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi
+slug: 1982-07-29-b2_krishna_ne_posyagaet_na_svobodnuyu_volyu_dushi
+record_id: 1982.07.29.B2
+title: Кришна не посягает на свободную волю души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13066240
+  duration: 00:11:55
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3
+date: 1982-07-29
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
   - title: Бхагавад-гита 5.14
     slug: bhagavad-gita-5-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.mp3
     title: аудиозапись в MP3 (11 мин. 54 сек., 12,5 МБ)
@@ -22,9 +26,12 @@ links:
     title: транскрипцию в RTF (99 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/592_1982.07.29.B2_SridharMj_Krishna_ne_posjagaet_na_svobodnuju_volju_dushi.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 592. 1982.07.29.B2. Кришна не посягает на свободную волю души
+  index: "592"
+  filename: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi.md
+  slug: 592-1982-07-29-b2-krishna-ne-posyagaet-na-svobodnuyu-volyu-dushi
 ---
-
-# 592. 1982.07.29.B2. Кришна не посягает на свободную волю души
 
 [Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол]
 

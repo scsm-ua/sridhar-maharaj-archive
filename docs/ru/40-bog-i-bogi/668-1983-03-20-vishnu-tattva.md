@@ -1,12 +1,18 @@
 ---
-slug: 668-1983-03-20-vishnu-tattva
+slug: 1983-03-20-v2_vishnu-tattva
+record_id: 1983.03.20
+variant: 2
+title: Вишну-таттва
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3627822
+  duration: 00:05:57
+  src: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3
+date: 1983-03-20
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.mp3
     title: аудиозапись в MP3 (5 мин. 57 сек., 3,5 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/40._Bog_i_bogi/668_1983.03.20_SridharMj_Vishnu_tattva.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 668. 1983.03.20. Вишну-таттва
+  index: "668"
+  filename: 668-1983-03-20-vishnu-tattva.md
+  slug: 668-1983-03-20-vishnu-tattva
 ---
-
-# 668. 1983.03.20. Вишну-таттва
 
 …Различие в темпераменте. Затем, Кришна Вриндавана, Баларама Вриндавана. Нет присутствия Прадьюмны, Анируддхи, в Матхуре также нет Прадьюмны, нет Анируддхи. В Двараке присутствуют Прадьюмна, Анируддха и Кришна, Баларама, но Они другого типа.
 

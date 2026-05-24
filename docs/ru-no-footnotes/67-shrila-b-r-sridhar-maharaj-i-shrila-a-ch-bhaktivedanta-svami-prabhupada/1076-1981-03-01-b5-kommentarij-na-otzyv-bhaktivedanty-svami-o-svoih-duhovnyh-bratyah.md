@@ -1,12 +1,17 @@
 ---
-slug: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah
+slug: 1981-03-01-b5_kommentariy_na_otzyv_bhaktivedanty_svami_o_svoih_duhovnyh_bratyah
+record_id: 1981.03.01.B5
+title: Комментарий на отзыв Бхактиведанты Свами о своих духовных братьях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2825488
+  duration: 00:02:37
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1076_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
+date: 1981-03-01
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1076_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.mp3
     title: аудиозапись в MP3 (2 мин. 36 сек., 2,7 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1076_1981.03.01.B5_SridharMj_Kommentariy_na_otzyv_Bhaktivedanty_Svami_o_svoih_duhovnyh_bratyah.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 1076. 1981.03.01.B5. Комментарий на отзыв Бхактиведанты Свами о своих
+    духовных братьях
+  index: "1076"
+  filename: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah.md
+  slug: 1076-1981-03-01-b5-kommentarij-na-otzyv-bhaktivedanty-svami-o-svoih-duhovnyh-bratyah
 ---
-
-# 1076. 1981.03.01.B5. Комментарий на отзыв Бхактиведанты Свами о своих духовных братьях
 
 …С такой великой нежностью… И он обрел подобную веру в собственного Гуру, он обрел его благословение, и мы должны донести это. «Вдохновленный моим Гурудевом, я отправлюсь по городам и весям и буду нести это послание». И тому была дана высокая оценка.
 

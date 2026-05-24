@@ -1,5 +1,12 @@
 ---
-slug: 1145-shri-shri-dajita-dasa-dashakam
+slug: shri_shri_dayita_dasa_dashakam
+title: Шри Шри Дайита Даса Дашакам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12556046
+  duration: 00:05:13
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1145_Shri_Dayita_Das_Dasakam.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа
@@ -7,7 +14,6 @@ category:
 tags:
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1145_Shri_Dayita_Das_Dasakam.mp3
     title: аудиозапись в MP3 (5 мин. 12 сек., 12,0 МБ)
@@ -15,9 +21,12 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1145_Shri_Dayita_Das_Dasakam.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 1145. Шри Шри Дайита Даса Дашакам
+  index: "1145"
+  filename: 1145-shri-shri-dajita-dasa-dashakam.md
+  slug: 1145-shri-shri-dajita-dasa-dashakam
 ---
-
-# 1145. Шри Шри Дайита Даса Дашакам
 
 (молитва Шриле Бхактисиддханте Сарасвати Тхакуру, составленная после завершения его проявленных игр Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем)
 

@@ -1,12 +1,17 @@
 ---
-slug: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah
+slug: 1980-07-11-a4_shrila_shridhar_maharadzh_kratko_rasskazyvaet_o_svoih_proizvedeniyah
+record_id: 1980.07.11.A4
+title: Шрила Шридхар Махарадж кратко рассказывает о своих произведениях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9129447
+  duration: 00:14:22
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
+date: 1980-07-11
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1980.07"
-    slug: 1980-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.mp3
     title: аудиозапись в MP3 (14 мин. 22 сек., 8,8 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (136 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1123_1980.07.11.A4_SridharMj_Shrila_Sridhar_Maharaj_kratko_rasskazyvayet_o_svoih_proizvedeniyah.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 1123. 1980.07.11.A4. Шрила Шридхар Махарадж кратко рассказывает о своих
+    произведениях
+  index: "1123"
+  filename: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah.md
+  slug: 1123-1980-07-11-a4-shrila-shridhar-maharadzh-kratko-rasskazyvaet-o-svoih-proizvedeniyah
 ---
-
-# 1123. 1980.07.11.A4. Шрила Шридхар Махарадж кратко рассказывает о своих произведениях
 
     га̄йатрӣ муралӣш̣т̣а-кӣртана-дханам̣ ра̄дха̄падам̣ дхӣмахи
 [^_ftn1]
@@ -32,7 +41,7 @@ links:
     сварӯпе саба̄ра хайа голокете стхити
 [^_ftn3]
 
-Наша истинная цель, место назначения — там, *ра̄дха̄падам̣ дхӣмахи.*
+Наша истинная цель, место назначения — там, *ра̄дха̄падам̣ дхӣмахи*.
 
 [Гаура-Харибол, Гаура-Харибол]
 

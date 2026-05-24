@@ -2,9 +2,13 @@
 slug: bhagavad-gita-14-18
 refs:
   - ../../47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov/750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov.md
-tags:
+  - ../../_full/1982/09/1982.09.04.A.B.md
+  - ../../_full/1983/04/1983.04.29.md
+  - ../../_full/1983/08/1983.08.25.B.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 14.18
     slug: bhagavad-gita-14-18
 ---

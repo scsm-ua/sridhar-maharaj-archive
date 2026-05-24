@@ -1,19 +1,22 @@
 ---
-slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
+slug: 1985-05-01-b1_myslyashchie_lyudi_otsenyat_dar_soznaniya_krishny
+record_id: 1985.05.01.B1
+title: Мыслящие люди оценят дар Сознания Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7161678
+  duration: 00:13:09
+  src: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
+date: 1985-05-01
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1985.05"
-    slug: 1985-05
   - title: Проповедь
     slug: propoved
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 92.21–22
     slug: padma-purana-uttara-khanda-92-21-22
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
     slug: shri-chajtanya-charitamrita-madhya-lila-17-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
@@ -22,19 +25,18 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-159
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.186
     slug: shri-chajtanya-charitamrita-madhya-lila-6-186
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.7.10
     slug: shrimad-bhagavatam-1-7-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-157
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
     title: аудиозапись в MP3 (13 мин. 09 сек., 6,9 МБ)
@@ -42,9 +44,12 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/393_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 393. 1985.05.01.B1. Мыслящие люди оценят дар Сознания Кришны
+  index: "393"
+  filename: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny.md
+  slug: 393-1985-05-01-b1-myslyashhie-lyudi-otsenyat-dar-soznaniya-krishny
 ---
-
-# 393. 1985.05.01.B1. Мыслящие люди оценят дар Сознания Кришны
 
 …Они говорили в темноте, они не видели друг друга, но один из них сказал в конце концов: «Не чувствуете ли вы присутствие четвертого человека здесь?» И его собеседники подтвердили: «Да, Четвертый присутствует — Тот, о ком мы говорим, Сам Господь».
 

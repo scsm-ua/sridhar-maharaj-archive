@@ -1,12 +1,18 @@
 ---
-slug: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam
+slug: 1982-11-06-a3_achyutananda_i_gaudiya_math_istochnik_sredstv_dlya_pervogo_izdaniya_prapanna-dzhivanamritam
+record_id: 1982.11.06.A3
+title: Ачьютананда и Гаудия Матх. Источник средств для первого издания
+  «Прапанна-дживанамритам».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4681467
+  duration: 00:04:21
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.mp3
+date: 1982-11-06
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.mp3
     title: аудиозапись в MP3 (4 мин. 20 сек., 4,5 МБ)
@@ -14,9 +20,13 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1122_1982.11.06.A3_SridharMj_Achjutananda_i_Gaudija_Math__Istochnik_sredstv_dlja_pervogo_izdanija_Prapanna-dzhivanamritam.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 1122. 1982.11.06.A3. Ачьютананда и Гаудия Матх. Источник средств для
+    первого издания «Прапанна-дживанамритам»
+  index: "1122"
+  filename: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam.md
+  slug: 1122-1982-11-06-a3-achyutananda-i-gaudiya-math-istochnik-sredstv-dlya-pervogo-izdaniya-prapanna-dzhivanamritam
 ---
-
-# 1122. 1982.11.06.A3. Ачьютананда и Гаудия Матх. Источник средств для первого издания «Прапанна-дживанамритам»
 
 **Преданный:** В своей проповеди Ачьютананда Свами не опирался на проповедь Свами Махараджа, но никто не жаловался на то, что то, что он говорит, не заимствовано из книг Свами Махараджа, потому что *катха* была очень высокого уровня.
 
@@ -24,7 +34,7 @@ links:
 
 *#00:01:24#*
 
-Я спросил Ачьютананду: «А что же произошло? Где вы оставались в течение недели, пяти-шести дней?» Он сказал, что жил в *дхарма-шале.* Я спросил: «Ты был там, разве ты не считаешь, что должен служить только Гуру-Махараджу?» — «Да, да, — сказал он, — я так считаю». — «Хорошо». И тогда я порекомендовал Мадхава Махараджа. Я сказал: «Оставайся, живи в *матхе* Мадхава Махараджа, и ты будешь собирать пожертвования, проповедовать в Калькутте. В Калькутте есть множество англоязычных людей, и ты сумеешь им проповедовать, найти там землю».
+Я спросил Ачьютананду: «А что же произошло? Где вы оставались в течение недели, пяти-шести дней?» Он сказал, что жил в *дхарма-шале*. Я спросил: «Ты был там, разве ты не считаешь, что должен служить только Гуру-Махараджу?» — «Да, да, — сказал он, — я так считаю». — «Хорошо». И тогда я порекомендовал Мадхава Махараджа. Я сказал: «Оставайся, живи в *матхе* Мадхава Махараджа, и ты будешь собирать пожертвования, проповедовать в Калькутте. В Калькутте есть множество англоязычных людей, и ты сумеешь им проповедовать, найти там землю».
 
 *#00:02:32#*
 

@@ -1,5 +1,13 @@
 ---
 slug: 525-shri-shri-prabhupada-padma-stavakah
+record_id: null
+title: Шри Шри Прабхупада-падма Ставаках
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21707294
+  duration: 00:08:48
+  src: /wp-content/uploads/2012/08/525_Sri_Sri_Prabhupada-padma_Stavakah.mp3
 category:
   title: (50. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа)
@@ -11,15 +19,16 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/525_Sri_Sri_Prabhupada-padma_Stavakah.mp3
     title: Скачать аудиозапись в mp3 (8 мин 48 сек, размер 21 Мб)
+legacy:
+  title: 525. Шри Шри Прабхупада-падма Ставаках
+  index: "525"
+  filename: 525-shri-shri-prabhupada-padma-stavakah.md
 ---
 
-# 525. Шри Шри Прабхупада-падма Ставаках
-
-*(Молитва лотосоподобным стопам моего господина и учителя [Шрилы Бхактисиддханты Сарасвати Тхакура Прабхупады](http://harekrishna.ru/mission/teachers/sarasvati-tkr/))*
+## (Молитва лотосоподобным стопам моего господина и учителя [Шрилы Бхактисиддханты Сарасвати Тхакура Прабхупады](http://harekrishna.ru/mission/teachers/sarasvati-tkr/))
 
     суджана̄рвуда-ра̄дхита-па̄да-йугам̇
     йуга-дхарма-дхурандхара-па̄тра-варам

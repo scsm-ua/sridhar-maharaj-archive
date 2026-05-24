@@ -1,20 +1,17 @@
 ---
-slug: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam
+slug: 1982-05-06-b1_obyasnenie_tretego_stiha_shri_shri_dayita_dasa_dashakam
+record_id: 1982.05.06.B1
+title: Объяснение третьего стиха «Шри Шри Дайита Даса дашакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6911007
+  duration: 00:06:59
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1108_1982.05.06.B1_SridharMj_Objasnenie_tretego_stiha_Shri_Shri_Dajita_Dasa_dashakam.mp3
+date: 1982-05-06
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Шри Шри Дайита Дас Дашакам
-    slug: shri-shri-dajita-das-dashakam
-  - title: Шри Шри Дайита Дас Дашакам 3
-    slug: shri-shri-dajita-das-dashakam-3
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 5.5.18
-    slug: shrimad-bhagavatam-5-5-18
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1108_1982.05.06.B1_SridharMj_Objasnenie_tretego_stiha_Shri_Shri_Dajita_Dasa_dashakam.mp3
     title: аудиозапись в MP3 (6 мин. 58 сек., 6,6 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1108_1982.05.06.B1_SridharMj_Objasnenie_tretego_stiha_Shri_Shri_Dajita_Dasa_dashakam.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 1108. 1982.05.06.B1. Объяснение третьего стиха «Шри Шри Дайита Даса дашакам»
+  index: "1108"
+  filename: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam.md
+  slug: 1108-1982-05-06-b1-obyasnenie-tretego-stiha-shri-shri-dajita-dasa-dashakam
+tags:
+  - title: Шри Шри Дайита Дас Дашакам 3
+    slug: shri-shri-dajita-das-dashakam-3
+  - title: Шримад-Бхагаватам 5.5.18
+    slug: shrimad-bhagavatam-5-5-18
 ---
-
-# 1108. 1982.05.06.B1. Объяснение третьего стиха «Шри Шри Дайита Даса дашакам»
 
 Он [Прахлада Махарадж] страдал — испытывал нестерпимые страдания в руках своего дорогого отца. Что есть отец, и что есть мать, и другие друзья в этом мире — все это показано, объяснено здесь. Отец пытался изо всех сил убить сына, поскольку сын был преданным Вишну, то был его изъян. Мир таков, таковы пути этого мира. И для тех, кого не интересует все это, жизнь в этом мире невозможна, поскольку здесь за всем стоит некая бренная цель, мирская цель. И семейная жизнь: мать, отец и другие родственники — они связаны некими взаимоотношениями, но цель их порочна. Преследуя эту порочную цель, они объединяются, подобно банде, подобно преступной группировке. В преступной среде также есть некие правила, законы. Я написал в свое время «Стотрам», прославление Прабхупады, в котором я написал следующее:
 

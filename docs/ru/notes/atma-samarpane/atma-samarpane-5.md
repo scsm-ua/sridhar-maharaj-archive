@@ -3,9 +3,10 @@ slug: atma-samarpane-5
 refs:
   - ../../02-krishna-imya-lichnost-temperament/020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi.md
   - ../../02-krishna-imya-lichnost-temperament/020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi.md
-tags:
+scriptures:
   - title: Атма-самарпане
     slug: atma-samarpane
+verses:
   - title: Атма-самарпане 10
     slug: atma-samarpane-10
   - title: Атма-самарпане 5

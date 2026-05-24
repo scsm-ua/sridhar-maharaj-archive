@@ -1,15 +1,25 @@
 ---
 slug: 69-o-sudbe-zhen-brahmanov-narushivshih-ih
+record_id: 1982.01.27.B6
+title: О судьбе жен брахманов, нарушивших их волю ради Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1634753
+  duration: 00:02:00
+  src: /wp-content/uploads/2012/08/069_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
+date: 1982-01-27
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/069_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
     title: Скачать аудиозапись в mp3 (2 мин 0 сек, размер 1 Мб)
+legacy:
+  title: 69. О судьбе жен брахманов, нарушивших их волю ради Кришны. 1982.01.27.B6
+  index: "69"
+  filename: 69-o-sudbe-zhen-brahmanov-narushivshih-ih.md
 ---
-
-# 69. О судьбе жен брахманов, нарушивших их волю ради Кришны. 1982.01.27.B6
 
 **Ученик:** Махарадж, жены – ягья патни – жены браминов (ягья патни) не могли быть с Кришной, и они оставили тела, похоже, как будто бы?
 

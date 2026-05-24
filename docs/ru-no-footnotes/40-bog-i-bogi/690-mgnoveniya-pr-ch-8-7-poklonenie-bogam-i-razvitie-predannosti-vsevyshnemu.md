@@ -1,12 +1,18 @@
 ---
-slug: 690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu
+slug: mgnoveniya_pr_ch_8_7_poklonenie_bogam_i_razvitie_predannosti_vsevyshnemu
+title: Мгновения ПР. Ч. 8.7. Поклонение богам и развитие преданности Всевышнему.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2413800
+  duration: 00:06:33
+  src: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
     title: аудиозапись в MP3 (6 мин. 33 сек., 2,4 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/40._Bog_i_bogi/690_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 690. Мгновения ПР. Ч. 8.7. Поклонение богам и развитие преданности Всевышнему
+  index: "690"
+  filename: 690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu.md
+  slug: 690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu
 ---
-
-# 690. Мгновения ПР. Ч. 8.7. Поклонение богам и развитие преданности Всевышнему
 
 «Мгновения Прекрасной Реальности» (часть 8.7)
 

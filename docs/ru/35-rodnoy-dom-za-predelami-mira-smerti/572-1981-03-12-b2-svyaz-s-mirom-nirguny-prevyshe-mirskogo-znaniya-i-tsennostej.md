@@ -1,23 +1,36 @@
 ---
-slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
+slug: 1981-03-12-b2_svyaz_s_mirom_nirguny_prevyshe_mirskogo_znaniya_i_tsennostey
+record_id: 1981.03.12.B2
+title: Связь с миром ниргуны превыше мирского знания и ценностей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7549157
+  duration: 00:09:43
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
+date: 1981-03-12
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
+    title: аудиозапись в MP3 (9 мин. 42 сек., 7,3 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.docx
+    title: транскрипцию в DOCX (26 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.pdf
+    title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
+  index: "572"
+  filename: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej.md
+  slug: 572-1981-03-12-b2-svyaz-s-mirom-nirguny-prevyshe-mirskogo-znaniya-i-tsennostej
 tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 9.30
     slug: bhagavad-gita-9-30
   - title: Бхагавад-гита 8.16
     slug: bhagavad-gita-8-16
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -26,17 +39,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.mp3
-    title: аудиозапись в MP3 (9 мин. 42 сек., 7,3 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.docx
-    title: транскрипцию в DOCX (26 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/572_1981.03.12.B2_SridharMj_Svjaz_s_mirom_nirguny_prevyshe_mirskogo_znanija_i_cennostej.pdf
-    title: транскрипцию в PDF (156 КБ)
 ---
-
-# 572. 1981.03.12.B2. Связь с миром ниргуны превыше мирского знания и ценностей
 
 **Госвами Махарадж:** Поскольку это необходимо для проповеди, Рамешвара Свами хотел, чтобы я задал вам один вопрос. «Бхактиведанта Бук Траст» собирается опубликовать книгу под названием «Реинкарнация». И он говорит, что нам необходимо описать западному рациональному уму, как душа переносится из одного тела в другое, как душа входит в семя отца.
 
@@ -50,7 +53,7 @@ links:
 
 *#00:02:11#*
 
-*Саттва-раджа-тама-гуна-майя*. Ложное понимание не может привести [нас в *ниргуну*], даже *саттва-гуна*. *Саттва-гуна* — высочайшее положение, но *саттва-гуна* также не может привести нас в измерение *ниргуна*. Поэтому говорится: *ахаитукй апратихата̄,* *саи ваи пум̇са̄м̇ паро дхармо йато бхактир адхокш̣адже*[^_ftn1]. И каково происхождение этого явления? *Ахаитукй апратихата̄*: Оно беспричинно, оно не имеет причины. Причину этого явления невозможно обнаружить в этом *майическом* мире, мире ложных представлений. Нечто за пределами этого мира — *сукрити*, приходящее от посредника Господа, *бхакты*, и когда это *сукрити* накоплено в достаточной мере, аккумулировано, тогда может возникнуть вера. Вовсе не так, что часть невежества может рассеять невежество. Истина, *ниргуна* может спасти нас и привести в *ниргуну*, спасти нас ото всех измерений *сагуна*, *майи* — мира ложных представлений.
+*Саттва-раджа-тама-гуна-майя*. Ложное понимание не может привести [нас в *ниргуну*], даже *саттва-гуна*. *Саттва-гуна* — высочайшее положение, но *саттва-гуна* также не может привести нас в измерение *ниргуна*. Поэтому говорится: *ахаитукй апратихата̄*, *саи ваи пум̇са̄м̇ паро дхармо йато бхактир адхокш̣адже*[^_ftn1]. И каково происхождение этого явления? *Ахаитукй апратихата̄*: Оно беспричинно, оно не имеет причины. Причину этого явления невозможно обнаружить в этом *майическом* мире, мире ложных представлений. Нечто за пределами этого мира — *сукрити*, приходящее от посредника Господа, *бхакты*, и когда это *сукрити* накоплено в достаточной мере, аккумулировано, тогда может возникнуть вера. Вовсе не так, что часть невежества может рассеять невежество. Истина, *ниргуна* может спасти нас и привести в *ниргуну*, спасти нас ото всех измерений *сагуна*, *майи* — мира ложных представлений.
 
 *#00:03:47#*
 

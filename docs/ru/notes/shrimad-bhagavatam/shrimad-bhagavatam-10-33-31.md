@@ -3,9 +3,13 @@ slug: shrimad-bhagavatam-10-33-31
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/252-1982-02-23-v4-vapu-i-vani-postupki-i-nastavleniya-vajshnava.md
   - ../../45-iskrennost-i-progress/729-1981-08-28-c-iskrennost-nepobedima.md
-tags:
+  - ../../_full/1981/08/1981.08.12.md
+  - ../../_full/1981/08/1981.08.28.C.md
+  - ../../_full/1981/12/1981.12.22.A.B.C.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.33.31
     slug: shrimad-bhagavatam-10-33-31
 ---

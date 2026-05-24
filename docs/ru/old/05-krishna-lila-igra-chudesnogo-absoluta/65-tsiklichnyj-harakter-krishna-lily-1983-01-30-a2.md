@@ -1,20 +1,28 @@
 ---
 slug: 65-tsiklichnyj-harakter-krishna-lily-1983-01-30-a2
+record_id: 1983.01.30.A2
+title: Цикличный характер кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4885640
+  duration: 00:08:46
+  src: /wp-content/uploads/2012/08/065_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
+date: 1983-01-30
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/065_1983.01.30.A2_SridharMj_Ciklichniy_harakter_Krishna-lily.mp3
     title: Скачать аудиозапись в mp3 (8 мин 46 сек, размер 4 Мб)
+legacy:
+  title: 65. Цикличный характер кришна-лилы. 1983.01.30.A2
+  index: "65"
+  filename: 65-tsiklichnyj-harakter-krishna-lily-1983-01-30-a2.md
 ---
-
-# 65. Цикличный характер кришна-лилы. 1983.01.30.A2
 
 В одной книге написано, что однажды Шри Кришна произнес речь, находясь на луне, и американцы сделали какие-то записи этой речи, по прошествии многих тысяч лет. — Нет, об этом нигде не сказано. Но речь идет о том, что Кришна путешествует по брахмандам. Солнце восходит здесь, а спустя час оно восходит за тысячу миль отсюда.
 

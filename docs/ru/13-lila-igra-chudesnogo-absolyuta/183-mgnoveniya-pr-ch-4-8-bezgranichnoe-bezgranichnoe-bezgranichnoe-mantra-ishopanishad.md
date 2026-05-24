@@ -1,12 +1,19 @@
 ---
-slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
+slug: mgnoveniya_pr_ch_4_8_bezgranichnoe_bezgranichnoe_bezgranichnoe_mantra_ishopanishad
+title: Мгновения ПР. Ч. 4.8. «Безграничное – Безграничное = Безграничное».
+  Мантра Ишопанишад.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1422328
+  duration: 00:03:02
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.mp3
     title: аудиозапись в MP3 (3 мин. 02 сек., 1,4 МБ)
@@ -14,9 +21,13 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/183_MgnoveniyaPR_4.8_SridharMj_Bezgranichnye_minus_Bezgranichnoe_ravno_Bezgranichnoe_Mantra_Ishopanishad.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 183. Мгновения ПР. Ч. 4.8. «Безграничное – Безграничное = Безграничное».
+    Мантра Ишопанишад
+  index: "183"
+  filename: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad.md
+  slug: 183-mgnoveniya-pr-ch-4-8-bezgranichnoe-bezgranichnoe-bezgranichnoe-mantra-ishopanishad
 ---
-
-# 183. Мгновения ПР. Ч. 4.8. «Безграничное – Безграничное = Безграничное». Мантра Ишопанишад
 
 *(из цикла «Мгновения Прекрасной Реальности», часть 4.8. Навадвип Дхам, Индия)*
 

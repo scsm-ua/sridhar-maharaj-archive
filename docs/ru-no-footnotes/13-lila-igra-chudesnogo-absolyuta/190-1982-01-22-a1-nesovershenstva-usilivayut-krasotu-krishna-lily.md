@@ -1,14 +1,20 @@
 ---
-slug: 190-1982-01-22-a1-nesovershenstva-usilivayut-krasotu-krishna-lily
+slug: 1982-01-22-a1_nesovershenstva_usilivayut_krasotu_krishna-lily
+record_id: 1982.01.22.A1
+title: Несовершенства усиливают красоту кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4194095
+  duration: 00:07:56
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
+date: 1982-01-22
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
     title: аудиозапись в MP3 (7 мин. 56 сек., 4 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/190_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 190. 1982.01.22.A1. Несовершенства усиливают красоту кришна-лилы
+  index: "190"
+  filename: 190-1982-01-22-a1-nesovershenstva-usilivayut-krasotu-krishna-lily.md
+  slug: 190-1982-01-22-a1-nesovershenstva-usilivayut-krasotu-krishna-lily
 ---
-
-# 190. 1982.01.22.A1. Несовершенства усиливают красоту кришна-лилы
 
 Оппозиция также дает нам энергию косвенным образом. Это часть изначальной системы. В оппозиции есть смысл и польза. Столкновение позитивного и негативного, косвенного и прямого, непосредственного. Это необходимо. Тезис, антитезис, синтез. Необходим синтез. Это необходимая часть прогресса. Эта часть *лилы* обладает вечной ценностью. Не только несовершенное улучшается благодаря этому процессу, но этот процесс осуществляется в *лиле* в совершенном, динамичном развитии. Это не путь от несовершенства к совершенству. Когда речь идет о совершенстве, оппозиция занимает естественное положение. Оппозиция усиливает красоту гармонии, вносит свой вклад в гармонию. Так мы должны думать: «Это *лила*». Мы принимаем это в качестве *лилы*.
 

@@ -1,26 +1,17 @@
 ---
-slug: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti
+slug: 1982-01-17-a2_arii_rassmatrivali_yavleniya_prirody_kak_lichnosti
+record_id: 1982.01.17.A2
+title: Арии рассматривали явления природы как личности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5254615
+  duration: 00:09:00
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
+date: 1982-01-17
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 12.5.2
-    slug: shrimad-bhagavatam-12-5-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
-    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
-  - title: Шри Чайтанья-чандродая-натака
-    slug: shri-chajtanya-chandrodaya-nataka
-  - title: Шри Чайтанья-чандродая-натака 5.13
-    slug: shri-chajtanya-chandrodaya-nataka-5-13
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136
-    slug: shri-chajtanya-charitamrita-madhya-lila-15-136
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 5,1 МБ)
@@ -28,9 +19,21 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/623_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 623. 1982.01.17.A2. Арии рассматривали явления природы как личности
+  index: "623"
+  filename: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
+  slug: 623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti
+tags:
+  - title: Шримад-Бхагаватам 12.5.2
+    slug: shrimad-bhagavatam-12-5-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
+  - title: Шри Чайтанья-чандродая-натака 5.13
+    slug: shri-chajtanya-chandrodaya-nataka-5-13
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-15-136
 ---
-
-# 623. 1982.01.17.A2. Арии рассматривали явления природы как личности
 
 В ведической культуре люди имеют обыкновение все реалии рассматривать в их личностном аспекте. Вода Ганги: тело состоит из воды, но внутри заключена личность. Ямуна наделена телом из воды. Когда Рамачандра захотел построить мост на Ланку, то стал совершать аскезы, постился, поклоняясь океану (богу моря, личности, представляющей море). Но море не ответило на Его молитвы. Тогда Рамачандра разгневался и сказал: «Мой брат Лакшман, дай Мне лук и стрелы. Весь день я постился, поклоняясь морю, и молил море прийти ко Мне на помощь, помочь Мне в строительстве моста, просил, чтобы море милостиво позволило, но оно отказалось. Я почтительно просил его, но Я не в силах терпеть это равнодушие, пренебрежение, высокомерие. Я осушу все море, осушу весь океан, поглощу всю воду с помощью стрелы». И тогда бог моря испугался и поспешил к Рамачандре: «Что Ты говоришь, мой Владыка? Я не мог понять, что Ты — Нараяна». — «Я хочу построить через тебя мост. Пожалуйста, не возражай. Это крайне Мне необходимо». — «Да-да, я помогу Тебе во всех отношениях».
 

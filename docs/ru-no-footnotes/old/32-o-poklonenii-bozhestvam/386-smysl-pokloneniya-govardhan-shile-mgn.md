@@ -1,5 +1,12 @@
 ---
 slug: 386-smysl-pokloneniya-govardhan-shile-mgn
+title: Смысл поклонения Говардхан-шиле. Мгновения прекрасной реальности, часть 4.1.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3440320
+  duration: 00:09:55
+  src: /wp-content/uploads/2012/08/386_MgnoveniyaPR_4.1_SridharMj_Smysl_pokloneniya_Govardhan-shile.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -8,13 +15,15 @@ tags:
     slug: bozhestvo
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/386_MgnoveniyaPR_4.1_SridharMj_Smysl_pokloneniya_Govardhan-shile.mp3
     title: Скачать аудиозапись в mp3 (9 мин 55 сек, размер 3 Мб)
+legacy:
+  title: 386. Смысл поклонения Говардхан-шиле. Мгновения прекрасной реальности,
+    часть 4.1
+  index: "386"
+  filename: 386-smysl-pokloneniya-govardhan-shile-mgn.md
 ---
-
-# 386. Смысл поклонения Говардхан-шиле. Мгновения прекрасной реальности, часть 4.1
 
 *#00:00:03#*
 

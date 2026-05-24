@@ -1,12 +1,17 @@
 ---
-slug: 879-1983-01-06-a2-obsuzhdenie-siddha-pranali-ne-dlya-sadhaki
+slug: 1983-01-06-a2_obsuzhdenie_siddha-pranali_ne_dlya_sadhaki
+record_id: 1983.01.06.A2
+title: Обсуждение сиддха-пранали — не для садхаки
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2813921
+  duration: 00:01:19
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/879_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
+date: 1983-01-06
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/879_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/879_1983.01.06.A2_SridharMj_Obsujdenie_sidha-pranali_ne_dlya_sadhaki.pdf
     title: транскрипцию в PDF (133КБ)
+legacy:
+  title: 879. 1983.01.06.A2. Обсуждение сиддха-пранали — не для садхаки
+  index: "879"
+  filename: 879-1983-01-06-a2-obsuzhdenie-siddha-pranali-ne-dlya-sadhaki.md
+  slug: 879-1983-01-06-a2-obsuzhdenie-siddha-pranali-ne-dlya-sadhaki
 ---
-
-# 879. 1983.01.06.A2. Обсуждение сиддха-пранали — не для садхаки
 
 **Преданный:** В «Чайтанья-шикшамрите» говорится о *сита-пранали*, и я уже задавал вам об этом вопрос: это необходимо, чтобы?..
 

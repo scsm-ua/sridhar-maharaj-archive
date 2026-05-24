@@ -1,26 +1,17 @@
 ---
-slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
+slug: 1981-03-07-b3_obzor_brihad_bhagavatamritam_sanatany_gosvami
+record_id: 1981.03.07.B3
+title: Обзор Брихад Бхагаватамритам Санатаны Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8250608
+  duration: 00:14:44
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
+date: 1981-03-07
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
-    slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.47.61
-    slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
-    slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам 11.14.15
-    slug: shrimad-bhagavatam-11-14-15
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.mp3
     title: аудиозапись в MP3 (14 мин. 44 сек., 7,9 МБ)
@@ -28,9 +19,21 @@ links:
     title: транскрипцию в DOCX (31 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/650_1981.03.07.B3_SridharMj_Obzor_Brihad_Bhagavatamritam_Sanatany_Gosvami.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
+  index: "650"
+  filename: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami.md
+  slug: 650-1981-03-07-b3-obzor-brihad-bhagavatamritam-sanatany-gosvami
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
+    slug: shri-chajtanya-charitamrita-adi-lila-6-102
+  - title: Шримад-Бхагаватам 11.14.15
+    slug: shrimad-bhagavatam-11-14-15
 ---
-
-# 650. 1981.03.07.B3. Обзор Брихад Бхагаватамритам Санатаны Госвами
 
 **Преданный:** Вы сказали: как Хануман?
 

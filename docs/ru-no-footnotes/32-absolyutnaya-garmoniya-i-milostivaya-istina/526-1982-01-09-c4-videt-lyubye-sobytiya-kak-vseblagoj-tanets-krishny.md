@@ -1,12 +1,17 @@
 ---
-slug: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny
+slug: 1982-01-09-c4_videt_lyubye_sobytiya_kak_vseblagoy_tanets_krishny
+record_id: 1982.01.09.C4
+title: Видеть любые события как всеблагой танец Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3896999
+  duration: 00:03:17
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3
+date: 1982-01-09
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.mp3
     title: аудиозапись в MP3 (3 мин. 16 сек., 3,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/526_1982.01.09.C4_SridharMj_Videt_lyubye_sobytiya_kak_vseblagoy_tanec_Krishny.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 526. 1982.01.09.C4. Видеть любые события как всеблагой танец Кришны
+  index: "526"
+  filename: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny.md
+  slug: 526-1982-01-09-c4-videt-lyubye-sobytiya-kak-vseblagoj-tanets-krishny
 ---
-
-# 526. 1982.01.09.C4. Видеть любые события как всеблагой танец Кришны
 
     гауранга сундара вара
     нитйам нидже намабхих

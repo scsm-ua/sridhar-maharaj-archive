@@ -1,12 +1,18 @@
 ---
-slug: 1075-miloserdie-vajshnava
+slug: miloserdie_vayshnava
+title: Милосердие Вайшнава
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2864802
+  duration: 00:03:28
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1075_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.mp3
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1075_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.mp3
     title: аудиозапись в MP3 (3 мин. 28 сек., 2,8 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1075_2012.07.25.20_ShridharMj_Miloserdiye_Vaishnava.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 1075. Милосердие Вайшнава
+  index: "1075"
+  filename: 1075-miloserdie-vajshnava.md
+  slug: 1075-miloserdie-vajshnava
 ---
-
-# 1075. Милосердие Вайшнава
 
 «Из любого положения ты можешь прийти ко Мне, и ты не будешь испытывать беспокойства откуда был то ни было, — такое заверение. — Ты — Мой».
 

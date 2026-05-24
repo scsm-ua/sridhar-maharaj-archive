@@ -2,9 +2,11 @@
 slug: shri-brahma-samhita-5-37
 refs:
   - ../../22-sannyasa-otrechenie-ot-mira/405-1982-06-14-a8-ananda-eto-lichnost-obyasnenie-imeni-sannyasi-akhayananda.md
-tags:
+  - ../../_full/1982/06/1982.06.14.A.md
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.37
     slug: shri-brahma-samhita-5-37
 ---

@@ -2,9 +2,10 @@
 slug: bhagavad-gita-10-37
 refs:
   - ../../51-filosofiya-i-praktika-bhakti-yogi/802-1982-11-06-a4-slava-mesyatsa-kartika.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 10.37
     slug: bhagavad-gita-10-37
 ---

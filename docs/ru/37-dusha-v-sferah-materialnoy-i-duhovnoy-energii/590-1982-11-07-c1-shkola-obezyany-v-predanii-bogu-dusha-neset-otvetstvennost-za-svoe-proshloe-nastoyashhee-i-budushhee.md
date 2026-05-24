@@ -1,18 +1,23 @@
 ---
-slug: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee
+slug: 1982-11-07-c1_shkola_obezyany_v_predanii_bogu_dusha_neset_otvetstvennost_za_svoe_proshloe_nastoyashchee_i_budushchee
+record_id: 1982.11.07.C1
+title: «Школа обезьяны» в предании Богу. Душа несет ответственность за свое
+  прошлое, настоящее и будущее.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10439858
+  duration: 00:09:11
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.mp3
+date: 1982-11-07
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.14
     slug: bhagavad-gita-5-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.mp3
     title: аудиозапись в MP3 (9 мин. 54 сек., 10,0 МБ)
@@ -20,9 +25,13 @@ links:
     title: транскрипцию в RTF (102 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/590_1982.11.07.C1_SridharMj_Shkola_obezjany_v_predanii_Bogu_Dusha_neset_otvetstvennost_za_svoe_proshloe_nastojashhee_i_budushhee.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 590. 1982.11.07.C1. «Школа обезьяны» в предании Богу. Душа несет
+    ответственность за свое прошлое, настоящее и будущее
+  index: "590"
+  filename: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee.md
+  slug: 590-1982-11-07-c1-shkola-obezyany-v-predanii-bogu-dusha-neset-otvetstvennost-za-svoe-proshloe-nastoyashhee-i-budushhee
 ---
-
-# 590. 1982.11.07.C1. «Школа обезьяны» в предании Богу. Душа несет ответственность за свое прошлое, настоящее и будущее
 
     бхакти-марга, гйана-марга шрейо(?)
 

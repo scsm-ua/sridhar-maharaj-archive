@@ -1,22 +1,31 @@
 ---
 slug: 303-istorii-shrimad-bhagavatam-prizvany
+record_id: 1981.03.02.A2
+title: Истории «Шримад-Бхагаватам» призваны направить душу к Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5477574
+  duration: 00:10:11
+  src: /wp-content/uploads/2012/08/303_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
+date: 1981-03-02
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Священные писания
     slug: svyashhennye-pisaniya
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/303_1981.03.02.A2_SridharMj_Istorii_Shrimad-Bhagavatam_prizvany_napravit_dushu_k_Krishne.mp3
     title: Скачать аудиозапись в mp3 (10 мин 11 сек, размер 5 Мб)
+legacy:
+  title: 303. Истории «Шримад-Бхагаватам» призваны направить душу к Кришне.
+    1981.03.02.A2
+  index: "303"
+  filename: 303-istorii-shrimad-bhagavatam-prizvany.md
 ---
-
-# 303. Истории «Шримад-Бхагаватам» призваны направить душу к Кришне. 1981.03.02.A2
 
 **Госвами Махарадж:** У меня был один вопрос. В «Чайтанья-чаритамрите» Махапрабху говорит Санатане: «Каждая буква «Шримад-Бхагаватам» есть Кришна». Но некоторые утверждения «Шримад-Бхагаватам» — суть утверждений Хираньякши, Хираньякашипу, некоторые утверждения Шукрачарьи, Шишупалы. Поэтому как это возможно? Мы слыша этот звук…
 

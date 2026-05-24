@@ -1,5 +1,14 @@
 ---
 slug: 504-gosvami-maharadzh-prezentuet-shridhar
+record_id: 1983.03.28
+title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15185587
+  duration: 00:31:03
+  src: /wp-content/uploads/2012/08/504_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
+date: 1983-03-28
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
@@ -8,13 +17,15 @@ tags:
     slug: b-s-gosvami-maharadzh
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/504_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
     title: Скачать аудиозапись в mp3 (31 мин 3 сек, размер 15 Мб)
+legacy:
+  title: 504. Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри
+    Кришны». 1983.03.28
+  index: "504"
+  filename: 504-gosvami-maharadzh-prezentuet-shridhar.md
 ---
-
-# 504. Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны». 1983.03.28
 
 *#00:00:00#*
 

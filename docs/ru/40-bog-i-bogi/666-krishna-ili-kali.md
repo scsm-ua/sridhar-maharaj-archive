@@ -1,16 +1,20 @@
 ---
-slug: 666-krishna-ili-kali
+slug: krishna_ili_kali
+title: Кришна или Кали?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4527751
+  duration: 00:09:56
+  src: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
 tags:
   - title: без даты
     slug: bez-daty
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.mp3
     title: аудиозапись в MP3 (9 мин. 55 сек., 4,4 МБ)
@@ -18,9 +22,12 @@ links:
     title: транскрипцию в RTF (96 КБ)
   - href: /dl/40._Bog_i_bogi/666_2012.07.25.21_ShridharMj_Krishna_ili_Kali.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 666. Кришна или Кали?
+  index: "666"
+  filename: 666-krishna-ili-kali.md
+  slug: 666-krishna-ili-kali
 ---
-
-# 666. Кришна или Кали?
 
 Нам рассказывали историю из времен правления императора Акбара. Он был мусульманином по вероисповеданию, но был очень веротерпимым, великодушным человеком, толерантным по отношению ко всем религиозным концепциям. Однажды была устроена выставка, на которой демонстрировались различные индуистские боги. Акбар посетил эту выставку, осматривал экспонаты, любопытствовал, расспрашивал: «Кто этот бог? Как его зовут, как он низошел на землю? Чем он занимается? Какова его обитель?»
 

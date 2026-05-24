@@ -1,5 +1,13 @@
 ---
 slug: 63-razvitie-i-novizna-dve-harakterist
+title: Развитие и новизна – две характеристики лилы Господа. Мгновения
+  прекрасной реальности, часть 2.5.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2378056
+  duration: 00:05:12
+  src: /wp-content/uploads/2012/08/063_MgnoveniyaPR_2.5_SridharMj_Razvitiye_i_novizna–dve_harakteristiki_lily_Gospoda.mp3
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -10,13 +18,15 @@ tags:
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/063_MgnoveniyaPR_2.5_SridharMj_Razvitiye_i_novizna–dve_harakteristiki_lily_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (5 мин 12 сек, размер 2 Мб)
+legacy:
+  title: 63. Развитие и новизна – две характеристики лилы Господа. Мгновения
+    прекрасной реальности, часть 2.5
+  index: "63"
+  filename: 63-razvitie-i-novizna-dve-harakterist.md
 ---
-
-# 63. Развитие и новизна – две характеристики лилы Господа. Мгновения прекрасной реальности, часть 2.5
 
 Есть прогресс. Прогресс – это движение, всегда движение, такова его природа. *Лила*. Концепция Безграничного такова, что Безграничное – не статично, там нет места застою, стагнации. Безграничное всегда динамично. В этом трудность – понять, как Безграничное может быть динамичным, развивающимся. Но Безграничное не статично, а динамично. 9:30 уже.
 

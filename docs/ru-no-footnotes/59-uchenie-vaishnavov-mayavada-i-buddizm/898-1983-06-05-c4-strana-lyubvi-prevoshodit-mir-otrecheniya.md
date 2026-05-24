@@ -1,12 +1,17 @@
 ---
-slug: 898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya
+slug: 1983-06-05-c4_strana_lyubvi_prevoshodit_mir_otrecheniya
+record_id: 1983.06.05.C4
+title: Страна любви превосходит мир отречения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4747398
+  duration: 00:09:40
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
+date: 1983-06-05
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.06"
-    slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.mp3
     title: аудиозапись в MP3 (9 мин. 40 сек., 4,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (109 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/898_1983.06.05.C4_SridharMj_Strana_lubvi_prevoshodit_mir_otrecheniya.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 898. 1983.06.05.C4. Страна любви превосходит мир отречения
+  index: "898"
+  filename: 898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya.md
+  slug: 898-1983-06-05-c4-strana-lyubvi-prevoshodit-mir-otrecheniya
 ---
-
-# 898. 1983.06.05.C4. Страна любви превосходит мир отречения
 
 Мы в измерении эксплуатации навлекаем определенные реакции, наши действия вызывают определенные следствия. Мы очищаемся, избавляемся от них и обретаем удовлетворение, *анандам*. То удовлетворение, которое невозможно сравнить с любой радостью, удовлетворением здесь, проистекающим из эксплуатации. Наслаждение, эксплуатация способны дать некоторое удовлетворение, также отречение способно принести некое удовлетворение. И затем, благодаря призыву Высшего начала, мы обретаем удовлетворение и очищаемся.
 

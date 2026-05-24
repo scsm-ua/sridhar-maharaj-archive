@@ -1,20 +1,28 @@
 ---
 slug: 420-oskorblenie-vajshnava-i-duhovnoe-raz
+record_id: 1983.05.09.C4
+title: Оскорбление вайшнава и духовное развитие
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4449312
+  duration: 00:08:37
+  src: /wp-content/uploads/2012/08/420_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
+date: 1983-05-09
 category:
   title: (39. Вайшнава-апарадха - оскорбление и критика вайшнавов)
   slug: 39-vaishnava-aparadha-oskorblenie-i-kritika-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/420_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
     title: Скачать аудиозапись в mp3 (8 мин 37 сек, размер 4 Мб)
+legacy:
+  title: 420. Оскорбление вайшнава и духовное развитие. 1983.05.09.C4
+  index: "420"
+  filename: 420-oskorblenie-vajshnava-i-duhovnoe-raz.md
 ---
-
-# 420. Оскорбление вайшнава и духовное развитие. 1983.05.09.C4
 
 Ученик: В Бхагаватам… Шридхар Махарадж: В Гите. Это светлая сторона. Арджуна спросил: «Если человек не достигает сиддхи, полноту реализации, в процессе реализации если он умирает, то, что он накопил, то, что он приобрел, теряется?» Господь сказал: «Нет, все, что ты обрел, в следующем рождении придет к тебе на помощь». Так сказано.
 

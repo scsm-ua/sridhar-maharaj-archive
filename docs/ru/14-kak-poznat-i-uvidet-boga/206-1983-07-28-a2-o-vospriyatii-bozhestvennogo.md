@@ -1,34 +1,17 @@
 ---
-slug: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo
+slug: 1983-07-28-a2_o_vospriyatii_bozhestvennogo
+record_id: 1983.07.28.A2
+title: О восприятии Божественного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7461867
+  duration: 00:14:06
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
+date: 1983-07-28
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-137
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
-    slug: shri-chajtanya-charitamrita-antya-lila-15-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
-    slug: shri-chajtanya-charitamrita-adi-lila-2-86
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
-    slug: shri-chajtanya-charitamrita-adi-lila-7-10
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
-    slug: shri-chajtanya-charitamrita-adi-lila-7-107
-  - title: Катха-упанишад
-    slug: katha-upanishad
-  - title: Катха-упанишад 1.2.23
-    slug: katha-upanishad-1-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.mp3
     title: аудиозапись в MP3 (14 мин. 05 сек., 7,2 МБ)
@@ -36,9 +19,27 @@ links:
     title: транскрипцию в RTF (154 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/206_1983.07.28.A2_SridharMj_O_vospriyatii_Bojestvennogo.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 206. 1983.07.28.A2. О восприятии Божественного
+  index: "206"
+  filename: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo.md
+  slug: 206-1983-07-28-a2-o-vospriyatii-bozhestvennogo
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-137
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
+    slug: shri-chajtanya-charitamrita-adi-lila-2-86
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
+    slug: shri-chajtanya-charitamrita-adi-lila-7-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
+    slug: shri-chajtanya-charitamrita-adi-lila-7-107
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
 ---
-
-# 206. 1983.07.28.A2. О восприятии Божественного
 
 Как бы то ни было, они подчиняют все некоему закону, но здесь ведическая, *пураническая* концепция такова: Он — *лила-майя*, сладостная воля. И Махапрабху пришел с этой идеей *ачинтья-бхедабхеда*, *адхокшаджа*, гармония за пределами наших представлений. Мы должны прежде всего понять эту природу, эту характеристику. Это «нечто» никогда не может быть заключено в рамки нашего понимания, *ачинтья* — нечто немыслимое. И это прилагательное (непостижимое, *ачинтья*) всегда следует помнить. Неподвластное вашему разуму, уму.
 

@@ -1,25 +1,26 @@
 ---
-slug: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu
+slug: 1983-11-24-a1_iskrennost_duh_sluzheniya_i_predannost_yavyat_nashu_vrozhdennuyu_prirodu
+record_id: 1983.11.24.A1
+title: Искренность, дух служения и преданность явят нашу врожденную природу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10696401
+  duration: 00:10:29
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.mp3
+date: 1983-11-24
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.135
     slug: shri-chajtanya-charitamrita-madhya-lila-24-135
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.10.6
     slug: shrimad-bhagavatam-2-10-6
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -28,11 +29,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.mp3
     title: аудиозапись в MP3 (10 мин. 29 сек., 10,3 МБ)
@@ -40,9 +38,13 @@ links:
     title: транскрипцию в RTF (104 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/447_1983.11.24.A1_SridharMj_Iskrennost_duh_sluzhenija_i_predannost_javjat_nashu_vrozhdennuju_prirodu.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 447. 1983.11.24.A1. Искренность, дух служения и преданность явят нашу
+    врожденную природу
+  index: "447"
+  filename: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu.md
+  slug: 447-1983-11-24-a1-iskrennost-duh-sluzheniya-i-predannost-yavyat-nashu-vrozhdennuyu-prirodu
 ---
-
-# 447. 1983.11.24.A1. Искренность, дух служения и преданность явят нашу врожденную природу
 
     муктир хитва̄нйатха̄-рӯпам̇
     сварӯпен̣а вйавастхитих̣

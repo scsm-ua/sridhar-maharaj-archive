@@ -1,26 +1,17 @@
 ---
-slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
+slug: 1981-08-14-a3_bhaktivedanta_svami_primer_nitya-siddhi
+record_id: 1981.08.14.A3
+title: Бхактиведанта Свами — пример нитья-сиддхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10246353
+  duration: 00:18:04
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
+date: 1981-08-14
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 4.6
-    slug: bhagavad-gita-4-6
-  - title: Бхагавад-гита 9.30
-    slug: bhagavad-gita-9-30
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-128
-  - title: Шри Гурваштака
-    slug: shri-gurvashtaka
-  - title: Шри Гурваштака 7
-    slug: shri-gurvashtaka-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.mp3
     title: аудиозапись в MP3 (18 мин. 04 сек., 9,8 МБ)
@@ -28,9 +19,21 @@ links:
     title: транскрипцию в RTF (183 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1070_1981.08.14.A3_SridharMj_BhaktivedantaSwami_primer_nitya-siddhi.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 1070. 1981.08.14.A3. Бхактиведанта Свами — пример нитья-сиддхи
+  index: "1070"
+  filename: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi.md
+  slug: 1070-1981-08-14-a3-bhaktivedanta-svami-primer-nitya-siddhi
+tags:
+  - title: Бхагавад-гита 4.6
+    slug: bhagavad-gita-4-6
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-128
+  - title: Шри Гурваштака 7
+    slug: shri-gurvashtaka-7
 ---
-
-# 1070. 1981.08.14.A3. Бхактиведанта Свами — пример нитья-сиддхи
 
 **Шрила Шридхар Махарадж:** Что ты говоришь?
 

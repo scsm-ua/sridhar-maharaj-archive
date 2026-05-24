@@ -2,9 +2,12 @@
 slug: shri-chajtanya-charitamrita-adi-lila-17-157
 refs:
   - ../../47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov/752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane.md
-tags:
+  - ../../_full/1981/09/1981.09.02.A.md
+  - ../../_full/1982/06/1982.06.08.A2.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.157
     slug: shri-chajtanya-charitamrita-adi-lila-17-157
 ---

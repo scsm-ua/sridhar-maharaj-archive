@@ -1,22 +1,30 @@
 ---
 slug: 245-dusha-chastitsa-soznaniya-1981-03-01-a3
+record_id: 1981.03.01.A3
+title: Душа — частица сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4752906
+  duration: 00:05:31
+  src: /wp-content/uploads/2012/08/245_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
+date: 1981-03-01
 category:
   title: (19. Феноменальный мир души)
   slug: 19-fenomenalny-mir-dushi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/245_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
     title: Скачать аудиозапись в mp3 (5 мин 31 сек, размер 4 Мб)
+legacy:
+  title: 245. Душа — частица сознания. 1981.03.01.A3
+  index: "245"
+  filename: 245-dusha-chastitsa-soznaniya-1981-03-01-a3.md
 ---
-
-# 245. Душа — частица сознания. 1981.03.01.A3
 
 **Шридхар Махарадж:** Существуют различные типы форм жизни. И процессы могут быть разными, но это не имеет значения. Но в целом, какие именно индивидуальные особенности… *Атма* – душа. Без души ничто не может быть утверждено или проявиться в бытии. *Атма*…
 

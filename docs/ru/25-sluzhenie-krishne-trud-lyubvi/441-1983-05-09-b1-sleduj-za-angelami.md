@@ -1,22 +1,24 @@
 ---
-slug: 441-1983-05-09-b1-sleduj-za-angelami
+slug: 1983-05-09-b1_sleduy_za_angelami
+record_id: 1983.05.09.B1
+title: Следуй за ангелами!
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7520957
+  duration: 00:14:21
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
+date: 1983-05-09
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.185
     slug: shri-chajtanya-charitamrita-madhya-lila-8-185
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.mp3
     title: аудиозапись в MP3 (14 мин. 21 сек., 7,2 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/441_1983.05.09.B1_SridharMj_Sleduy_za_angelami.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 441. 1983.05.09.B1. Следуй за ангелами!
+  index: "441"
+  filename: 441-1983-05-09-b1-sleduj-za-angelami.md
+  slug: 441-1983-05-09-b1-sleduj-za-angelami
 ---
-
-# 441. 1983.05.09.B1. Следуй за ангелами!
 
 [Говорит на бенгали.]
 
@@ -39,7 +44,7 @@ links:
     …кемане дхарита̄м де’
 [^_ftn1]
 
-У нас уже есть тело. Будущее приближается, чтобы оказать влияние на прошлое. *Кемане дхарита̄м де’*. Я уже существовал. Перспектива такова, он говорит: если бы подобное ценное явление, богатство не явилось бы ко мне, не пришло бы ко мне, то как бы я в прошлом мог иметь тело? *Кемане дхарита̄м де’.* Это означает, это показывает, что Он полон. Скажем, Он — *паршада*. Он уже послан.
+У нас уже есть тело. Будущее приближается, чтобы оказать влияние на прошлое. *Кемане дхарита̄м де’*. Я уже существовал. Перспектива такова, он говорит: если бы подобное ценное явление, богатство не явилось бы ко мне, не пришло бы ко мне, то как бы я в прошлом мог иметь тело? *Кемане дхарита̄м де’*. Это означает, это показывает, что Он полон. Скажем, Он — *паршада*. Он уже послан.
 
 *#00:01:57#*
 
@@ -89,6 +94,6 @@ links:
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 8.185](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-8-185.md)
 
-[^_ftn3]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn3]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn4]: [Шри Вилапа-кусуманджали 16](../notes/shri-vilapa-kusumandzhali/shri-vilapa-kusumandzhali-16.md)

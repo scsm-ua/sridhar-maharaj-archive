@@ -4,9 +4,14 @@ refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu.md
-tags:
+  - ../../_full/1982/04/1982.04.16.C2.D1.md
+  - ../../_full/1982/04/1982.04.16.C2.D1.md
+  - ../../_full/1982/11/1982.11.14.A.md
+  - ../../_full/1983/11/1983.11.26.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.1.12
     slug: shrimad-bhagavatam-2-1-12
 ---
@@ -18,3 +23,7 @@ tags:
 ---
 
 «Какой смысл в долгой жизни, если она проходит впустую и прожитые годы не прибавляют опыта? Лучше прожить один миг, но в полном сознании, ибо с этого момента начинаются поиски высшего блага жизни» («Шримад-Бхагаватам», 2.1.12).
+
+---
+
+(«Шримад-Бхагаватам», 2.1.12).

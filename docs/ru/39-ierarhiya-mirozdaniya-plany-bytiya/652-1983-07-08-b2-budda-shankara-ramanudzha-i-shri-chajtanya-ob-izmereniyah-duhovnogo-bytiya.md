@@ -1,21 +1,35 @@
 ---
-slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
+slug: 1983-07-08-b2_budda_shankara_ramanudzha_i_shri_chaytanya_ob_izmereniyah_duhovnogo_bytiya
+record_id: 1983.07.08.B2
+title: Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19645106
+  duration: 00:38:28
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+date: 1983-07-08
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
+links:
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
+    title: аудиозапись в MP3 (38 мин. 28 сек., 18,8 МБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.rtf
+    title: транскрипцию в RTF (355 КБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.pdf
+    title: транскрипцию в PDF (204 КБ)
+legacy:
+  title: 652. 1983.07.08.B2. Будда, Шанкара, Рамануджа и Шри Чайтанья об
+    измерениях духовного бытия
+  index: "652"
+  filename: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
+  slug: 652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya
 tags:
-  - title: "1983.07"
-    slug: 1983-07
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
   - title: Бхагавад-гита 8.3
@@ -26,12 +40,8 @@ tags:
     slug: bhagavad-gita-15-16
   - title: Бхагавад-гита 15.18
     slug: bhagavad-gita-15-18
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.66
     slug: shri-chajtanya-charitamrita-adi-lila-4-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.3.23
     slug: shrimad-bhagavatam-4-3-23
   - title: Бхагавад-гита 14.27
@@ -42,8 +52,6 @@ tags:
     slug: bhagavad-gita-8-16
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
     slug: shri-chajtanya-charitamrita-antya-lila-20-37
   - title: Бхагавад-гита 3.42
@@ -58,17 +66,7 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.mp3
-    title: аудиозапись в MP3 (38 мин. 28 сек., 18,8 МБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.rtf
-    title: транскрипцию в RTF (355 КБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/652_1983.07.08.B2_SridharMj_Budda_Shankara_Ramanuja_i_Shri_Chaitaniya_o_izmereniya_duhovnogo_bytiya.pdf
-    title: транскрипцию в PDF (204 КБ)
 ---
-
-# 652. 1983.07.08.B2. Будда, Шанкара, Рамануджа и Шри Чайтанья об измерениях духовного бытия
 
 Рупа Госвами говорит:
 
@@ -116,7 +114,7 @@ links:
     джива брахмайва напарах
 [^_ftn3]
 
-Шанкара говорит: «В *крорах* (то есть сотнях миллионов) книг объясняется истина, но я, — говорит он, — всего лишь половиной *шлоки*, половиной стиха передаю самую суть всех этих писаний. *Кроры*, то есть миллионы книг, то, что в них было сказано… Я передаю истинную суть этих истин всего лишь половиной стиха. И какова же эта истина? *Джива брахмайва напарах.*
+Шанкара говорит: «В *крорах* (то есть сотнях миллионов) книг объясняется истина, но я, — говорит он, — всего лишь половиной *шлоки*, половиной стиха передаю самую суть всех этих писаний. *Кроры*, то есть миллионы книг, то, что в них было сказано… Я передаю истинную суть этих истин всего лишь половиной стиха. И какова же эта истина? *Джива брахмайва напарах*.
 
     [первая часть шлоки]
 
@@ -222,7 +220,7 @@ links:
     брахман̣о хи прастиш̣т̣ха̄хам
 [^_ftn9]
 
-В другом месте Бхагавад-гиты сказано: «Я являюсь оплотом так называемого *Брахмана*. Я поддерживаю, Я являюсь Его причиной, источником, основанием этого Брахмана. *Прастиш̣т̣ха̄хам амр̣тасйа̄вйайасйа ча ш́а̄ш́ватасйа ча дхармасйа.* Я стою за ним, Я стою за этими реалиями».
+В другом месте Бхагавад-гиты сказано: «Я являюсь оплотом так называемого *Брахмана*. Я поддерживаю, Я являюсь Его причиной, источником, основанием этого Брахмана. *Прастиш̣т̣ха̄хам амр̣тасйа̄вйайасйа ча ш́а̄ш́ватасйа ча дхармасйа*. Я стою за ним, Я стою за этими реалиями».
 
 Рамануджа и другие вайшнавские *ачарьи* утверждают: концепция, что дал Шанкара, — смутная, туманная. Неясное, несовершенное представление. Выше *Брахмана* есть *Парабрахман*, который обладает личной природой. Он Личность, Он для Себя, и Гегель сказал: все предназначено для Него. Мы должны служить Ему.
 

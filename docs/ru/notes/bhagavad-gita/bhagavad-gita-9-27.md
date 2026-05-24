@@ -11,13 +11,26 @@ refs:
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/662-1981-03-10-a2-proekt-hrama-vedicheskogo-planetariya.md
   - ../../40-bog-i-bogi/690-mgnoveniya-pr-ch-8-7-poklonenie-bogam-i-razvitie-predannosti-vsevyshnemu.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/943-1981-11-29-a2-zhizn-rupy-sanatany-i-haridasa-thakura.md
-tags:
+  - ../../_full/1981/10/1981.10.01.B.md
+  - ../../_full/1981/11/1981.11.29.md
+  - ../../_full/1982/01/1982.01.20.md
+  - ../../_full/1982/01/1982.01.27.md
+  - ../../_full/1982/04/1982.04.24.A.B.md
+  - ../../_full/1982/10/1982.10.08.A.B.md
+  - ../../_full/1982/10/1982.10.23.A.md
+  - ../../_full/1982/10/1982.10.30.A.B.md
+  - ../../_full/1982/11/1982.11.14.A.md
+  - ../../_full/1983/04/1983.04.01.md
+  - ../../_full/1983/06/1983.06.05.md
+  - ../../_full/1983/07/1983.07.08.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
 ---

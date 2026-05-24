@@ -1,27 +1,28 @@
 ---
-slug: 271-1981-08-28-a1-shiksha-guru-parampara
+slug: 1981-08-28-a1_shiksha-guru_parampara
+record_id: 1981.08.28.A1
+title: Шикша-гуру парампара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21217678
+  duration: 00:41:26
+  src: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
+date: 1981-08-28
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гуру-парампара
     slug: guru-parampara
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.7
     slug: bhagavad-gita-4-7
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
   - title: Бхагавад-гита 4.4
     slug: bhagavad-gita-4-4
   - title: Бхагавад-гита 4.2
     slug: bhagavad-gita-4-2
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -30,13 +31,10 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.128
     slug: shri-chajtanya-charitamrita-madhya-lila-8-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
     title: аудиозапись в MP3 (41 мин. 25 сек., 20,3 МБ)
@@ -44,9 +42,12 @@ links:
     title: транскрипцию в RTF (342 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 271. 1981.08.28.A1. Шикша-гуру парампара
+  index: "271"
+  filename: 271-1981-08-28-a1-shiksha-guru-parampara.md
+  slug: 271-1981-08-28-a1-shiksha-guru-parampara
 ---
-
-# 271. 1981.08.28.A1. Шикша-гуру парампара
 
 **Преданный:** Когда мы слушаем кассеты, беседы, посвященные *гуру-парампаре*…
 

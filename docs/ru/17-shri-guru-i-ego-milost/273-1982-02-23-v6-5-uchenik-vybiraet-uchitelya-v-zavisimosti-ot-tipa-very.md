@@ -1,28 +1,28 @@
 ---
-slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
+slug: 1982-02-23-b6-5_uchenik_vybiraet_uchitelya_v_zavisimosti_ot_tipa_very
+record_id: 1982.02.23.B6.5
+title: Ученик выбирает учителя в зависимости от типа веры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5550424
+  duration: 00:11:21
+  src: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
+date: 1982-02-23
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Гуру-парампара
     slug: guru-parampara
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.mp3
     title: аудиозапись в MP3 (11 мин. 21 сек., 5,3 МБ)
@@ -30,9 +30,12 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/273_1982.02.23.B6.5_SridharMj_Uchenik_vybirayet_uchitelya_v_zavisimosti_ot_tipa_very.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 273. 1982.02.23.В6.5. Ученик выбирает учителя в зависимости от типа веры
+  index: "273"
+  filename: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very.md
+  slug: 273-1982-02-23-v6-5-uchenik-vybiraet-uchitelya-v-zavisimosti-ot-tipa-very
 ---
-
-# 273. 1982.02.23.В6.5. Ученик выбирает учителя в зависимости от типа веры
 
 *«Мгновения Прекрасной Реальности», (часть 6.5)*
 
@@ -94,6 +97,6 @@ links:
 
 [^_ftn2]: [*бхукти*](../notes/term/bhukti.md)
 
-[^_ftn3]: [*никхила-бхувана-ма̄йа̄-чинна̄виччинна-картрӣ / вибудха-бахула-мр̣гйа̄-мукти-моханта-дха̄три*](../notes/shloka/nikhila-bhuvana-maja-chinnavichchinna-kartri.md)
+[^_ftn3]: [*никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ, вибудха-бахула-мр̣гйа̄-мукти-моха̄нта-да̄трӣ / ш́итхилита-видхи-ра̄га̄ра̄дхйа-ра̄дхеш́а-дха̄нӣ, виласату хр̣ди нитйам̇ бхакти-сиддха̄нта-ва̄н̣ӣ*](../notes/shloka/nikhila-bhuvana-maja-chhinna-vichchhinna.md)
 
 [^_ftn4]: [Шримад-Бхагаватам 1.2.21](../notes/shrimad-bhagavatam/shrimad-bhagavatam-1-2-21.md)

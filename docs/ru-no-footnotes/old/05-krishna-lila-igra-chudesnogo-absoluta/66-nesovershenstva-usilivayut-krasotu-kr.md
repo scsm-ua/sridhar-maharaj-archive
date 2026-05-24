@@ -1,22 +1,30 @@
 ---
 slug: 66-nesovershenstva-usilivayut-krasotu-kr
+record_id: 1982.01.22.A1
+title: Несовершенства усиливают красоту кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4484399
+  duration: 00:07:56
+  src: /wp-content/uploads/2012/08/066_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
+date: 1982-01-22
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гармония
     slug: garmoniya
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/066_1982.01.22.A1_SridharMj_Nesovershenstva_usilivayut_krasotu_krishna-lily.mp3
     title: Скачать аудиозапись в mp3 (7 мин 56 сек, размер 4 Мб)
+legacy:
+  title: 66. Несовершенства усиливают красоту кришна-лилы. 1982.01.22.A1
+  index: "66"
+  filename: 66-nesovershenstva-usilivayut-krasotu-kr.md
 ---
-
-# 66. Несовершенства усиливают красоту кришна-лилы. 1982.01.22.A1
 
 *#00:00:00#*
 

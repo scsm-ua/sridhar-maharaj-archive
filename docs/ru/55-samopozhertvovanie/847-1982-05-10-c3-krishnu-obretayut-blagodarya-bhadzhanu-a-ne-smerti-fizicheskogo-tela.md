@@ -1,22 +1,24 @@
 ---
-slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
+slug: 1982-05-10-c3_krishnu_obretayut_blagodarya_bhadzhanu_a_ne_smerti_fizicheskogo_tela
+record_id: 1982.05.10.C3
+title: Кришну обретают благодаря бхаджану, а не смерти физического тела
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4982794
+  duration: 00:04:07
+  src: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3
+date: 1982-05-10
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Самопредание
     slug: samopredanie
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.mp3
     title: аудиозапись в MP3 (4 мин. 06 сек., 4,8 МБ)
@@ -24,9 +26,13 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/55._Samopozhertvovanie/847_1982.05.10.C3_SridharMj_Krishnu_obretajut_blagodarja_bhadzhanu_a_ne_smerti_fizicheskogo_tela.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 847. 1982.05.10.C3. Кришну обретают благодаря бхаджану, а не смерти
+    физического тела
+  index: "847"
+  filename: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela.md
+  slug: 847-1982-05-10-c3-krishnu-obretayut-blagodarya-bhadzhanu-a-ne-smerti-fizicheskogo-tela
 ---
-
-# 847. 1982.05.10.C3. Кришну обретают благодаря бхаджану, а не смерти физического тела
 
     джанма-мр̣тйу-джара̄-вйа̄дхи
 [^_ftn1]

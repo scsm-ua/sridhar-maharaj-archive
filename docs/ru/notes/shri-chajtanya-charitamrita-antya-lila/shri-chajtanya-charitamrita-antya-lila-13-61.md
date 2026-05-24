@@ -3,9 +3,11 @@ slug: shri-chajtanya-charitamrita-antya-lila-13-61
 refs:
   - ../../17-shri-guru-i-ego-milost/296-1982-02-17-c3-uchitelya-mogut-menyat-formu-traditsii-no-sohranyayut-ee-duh.md
   - ../../67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada/1078-1983-11-08-b2-muzhestvo-i-propoved-sarasvati-thakura-i-bhaktivedanty-svami-prabhupady.md
-tags:
+  - ../../_full/1981/09/1981.09.20.A.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 13.61
     slug: shri-chajtanya-charitamrita-antya-lila-13-61
 ---

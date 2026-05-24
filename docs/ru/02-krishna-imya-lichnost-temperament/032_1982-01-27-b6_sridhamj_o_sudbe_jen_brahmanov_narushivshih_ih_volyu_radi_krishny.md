@@ -1,12 +1,17 @@
 ---
-slug: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny
+slug: 1982-01-27-b6_o_sudbe_zhen_brahmanov_narushivshih_ih_volyu_radi_krishny
+record_id: 1982.01.27.B6
+title: О судьбе жен брахманов, нарушивших их волю ради Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1057729
+  duration: 00:02:00
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
+date: 1982-01-27
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.mp3
     title: аудиозапись в MP3 (01 мин. 59 сек., 1.0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (40 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/032_1982.01.27.B6_SridhaMj_O_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_Krishny.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 032. 1982.01.27.B6 О судьбе жен брахманов, нарушивших их волю ради Кришны
+  index: "032"
+  filename: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny.md
+  slug: 032_1982-01-27-b6_sridhamj_o_sudbe_jen_brahmanov_narushivshih_ih_volyu_radi_krishny
 ---
-
-# 032. 1982.01.27.B6 О судьбе жен брахманов, нарушивших их волю ради Кришны
 
 **Ученик:** Махарадж, жены *браминов* — *ягья-патни* — не могли быть с Кришной и оставили тела. Это так?
 

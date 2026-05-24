@@ -1,20 +1,17 @@
 ---
-slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
+slug: 1982-05-15-b3_v_otlichie_ot_goloy_pravdy_istina_obladaet_kachestvami_milosti_i_krasoty
+record_id: 1982.05.15.B3
+title: В отличие от «голой правды» Истина обладает качествами милости и красоты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8520673
+  duration: 00:06:27
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3
+date: 1982-05-15
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-  - title: Ману-смрити
-    slug: manu-smriti
-  - title: Ману-смрити 4.138
-    slug: manu-smriti-4-138
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.mp3
     title: аудиозапись в MP3 (6 мин. 27 сек., 8,2 МБ)
@@ -22,9 +19,20 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/517_1982.05.15.B3_SridharMj_V_otlichie_ot_goloj_pravdy_Istina_obladaet_kachestvami_milosti_i_krasoty.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 517. 1982.05.15.B3. В отличие от «голой правды» Истина обладает
+    качествами милости и красоты
+  index: "517"
+  filename: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty.md
+  slug: 517-1982-05-15-b3-v-otlichie-ot-goloj-pravdy-istina-obladaet-kachestvami-milosti-i-krasoty
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Ману-смрити 4.138
+    slug: manu-smriti-4-138
 ---
-
-# 517. 1982.05.15.B3. В отличие от «голой правды» Истина обладает качествами милости и красоты
 
 *#00:06:09#*
 
@@ -45,7 +53,7 @@ links:
     эш̣а дхармах̣ сана̄танах̣
 [^_ftn2]
 
-*Сатйам̣ брӯйа̄т* — говори истину, говори правду, не говори ложь, не лги. Но в то же время помни, будь осторожен: ты не должен говорить неприятную правду, *на брӯйа̄т сатйам априйам. Прийам̣ ча на̄нр̣там̣ брӯйа̄д* — и это не означает, что ты будешь лгать, потому что ложь приятна. Не думай так, *эш̣а дхармах̣ сана̄танах̣.*
+*Сатйам̣ брӯйа̄т* — говори истину, говори правду, не говори ложь, не лги. Но в то же время помни, будь осторожен: ты не должен говорить неприятную правду, *на брӯйа̄т сатйам априйам. Прийам̣ ча на̄нр̣там̣ брӯйа̄д* — и это не означает, что ты будешь лгать, потому что ложь приятна. Не думай так, *эш̣а дхармах̣ сана̄танах̣*.
 
 *#00:02:30#*
 

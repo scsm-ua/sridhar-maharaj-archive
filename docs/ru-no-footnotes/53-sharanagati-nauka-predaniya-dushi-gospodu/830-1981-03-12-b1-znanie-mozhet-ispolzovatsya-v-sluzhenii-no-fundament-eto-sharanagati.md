@@ -1,14 +1,20 @@
 ---
-slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
+slug: 1981-03-12-b1_znanie_mozhet_ispolzovatsya_v_sluzhenii_no_fundament_eto_sharanagati
+record_id: 1981.03.12.B1
+title: Знание может использоваться в служении, но фундамент – это шаранагати
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5598332
+  duration: 00:10:28
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.mp3
+date: 1981-03-12
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.mp3
     title: аудиозапись в MP3 (10 мин. 27 сек., 5,4 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/830_1981.03.12.B1_SridharMj_Znanie_mozhet_ispolzovatsja_v_sluzhenii_no_fundament--jeto_sharanagati.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 830. 1981.03.12.B1. Знание может использоваться в служении, но фундамент
+    – это шаранагати
+  index: "830"
+  filename: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati.md
+  slug: 830-1981-03-12-b1-znanie-mozhet-ispolzovatsya-v-sluzhenii-no-fundament-eto-sharanagati
 ---
-
-# 830. 1981.03.12.B1. Знание может использоваться в служении, но фундамент – это шаранагати
 
     бхакти-мукха-нирӣкш̣ака карма-йога-джн̃а̄на
 [^_ftn1]

@@ -1,18 +1,25 @@
 ---
 slug: 225-vishnu-tattva-1983-03-20
+record_id: 1983.03.20
+title: Вишну-таттва
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3077422
+  duration: 00:05:57
+  src: /wp-content/uploads/2012/08/225_1983.03.20_SridharMj_Vishnu_tattva.mp3
+date: 1983-03-20
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/225_1983.03.20_SridharMj_Vishnu_tattva.mp3
     title: Скачать аудиозапись в mp3 (5 мин 57 сек, размер 3 Мб)
+legacy:
+  title: 225. Вишну-таттва. 1983.03.20
+  index: "225"
+  filename: 225-vishnu-tattva-1983-03-20.md
 ---
-
-# 225. Вишну-таттва. 1983.03.20
 
 *#00:00:00#*
 

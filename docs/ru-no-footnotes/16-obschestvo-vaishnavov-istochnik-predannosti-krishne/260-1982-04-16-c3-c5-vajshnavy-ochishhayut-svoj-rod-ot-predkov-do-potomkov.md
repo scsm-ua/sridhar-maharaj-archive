@@ -1,12 +1,17 @@
 ---
-slug: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov
+slug: 1982-04-16-c3-c5_vayshnavy_ochishchayut_svoy_rod_ot_predkov_do_potomkov
+record_id: 1982.04.16.C3.C5
+title: Вайшнавы очищают свой род от предков до потомков
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5960943
+  duration: 00:05:02
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
+date: 1982-04-16
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.mp3
     title: аудиозапись в MP3 (5 мин. 01 сек., 5,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (80 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/260_1982.04.16.C3.C5_SridharMj_Vajshnavy_ochishhajut_svoj_rod_ot_predkov_do_potomkov.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 260. 1982.04.16.C3.C5. Вайшнавы очищают свой род от предков до потомков
+  index: "260"
+  filename: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov.md
+  slug: 260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov
 ---
-
-# 260. 1982.04.16.C3.C5. Вайшнавы очищают свой род от предков до потомков
 
 **Шрила Шридхар Махарадж:** Где мать Пхулангана?
 

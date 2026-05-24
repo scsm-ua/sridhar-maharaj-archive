@@ -1,12 +1,17 @@
 ---
-slug: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura
+slug: 1983-03-02_hari-katha_na_den_yavleniya_shrily_sarasvati_thakura
+record_id: 1983.03.02
+title: Хари-катха на день явления Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14920828
+  duration: 00:29:50
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1041_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3
+date: 1983-03-02
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1041_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (29 мин. 50 сек., 14,3 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (299 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1041_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 1041. 1983.03.02. Хари-катха на день явления Шрилы Сарасвати Тхакура
+  index: "1041"
+  filename: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
+  slug: 1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura
 ---
-
-# 1041. 1983.03.02. Хари-катха на день явления Шрилы Сарасвати Тхакура
 
 **Преданный:** …*дивья*, *ниргуна*. Он должен стараться вопрошать, задавать вопросы, и он должен быть покорен и проявлять готовность совершать служение. Это классификация, которая делает ученика bone fide, подлинным учеником. Когда ученик хочет вопрошать об Истине, он покорен и совершает достаточное служение. Отсутствие квалификации не делает его не bone fide учеником…
 

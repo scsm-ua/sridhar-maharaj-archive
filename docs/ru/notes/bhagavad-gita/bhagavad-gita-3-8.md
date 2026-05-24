@@ -5,9 +5,12 @@ refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam.md
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite.md
   - ../../71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja/1134-1982-07-02-a4-shrila-shridhar-maharadzh-delaet-sokrovennye-istiny-o-soznanii-krishny-bolee-otchetlivymi.md
-tags:
+  - ../../_full/1982/07/1982.07.18.A.md
+  - ../../_full/1983/07/1983.07.30.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.8
     slug: bhagavad-gita-3-8
 ---

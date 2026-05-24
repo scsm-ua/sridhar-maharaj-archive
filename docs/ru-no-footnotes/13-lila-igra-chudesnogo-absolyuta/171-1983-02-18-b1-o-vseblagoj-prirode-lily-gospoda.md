@@ -1,12 +1,17 @@
 ---
-slug: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda
+slug: 1983-02-18-b1_o_vseblagoy_prirode_lily_gospoda
+record_id: 1983.02.18.B1
+title: О всеблагой природе лилы Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8222972
+  duration: 00:16:20
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
+date: 1983-02-18
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.mp3
     title: аудиозапись в MP3 (16 мин. 09 сек., 8,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/171_1983.02.18.B1_SridharMj_O_Vseblagoy_prirode_lily_Gospoda.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 171. 1983.02.18.B1. О всеблагой природе лилы Господа
+  index: "171"
+  filename: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda.md
+  slug: 171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda
 ---
-
-# 171. 1983.02.18.B1. О всеблагой природе лилы Господа
 
 Несмотря на весь обман, все в порядке. Как это возможно? Обман [в духовном мире] также является милостью, не является обманом. Скажем, мать обманывает своего ребенка, движимая любовью. Если он, заболев, питается неправильно, не соблюдает диету, она может давать ему один вид пищи, а другому своему ребенку — иной. И за этим стоит ее любовь.*#00:01:14#*
 

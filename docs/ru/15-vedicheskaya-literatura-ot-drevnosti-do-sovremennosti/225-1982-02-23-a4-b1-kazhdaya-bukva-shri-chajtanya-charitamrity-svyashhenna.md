@@ -1,12 +1,17 @@
 ---
-slug: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna
+slug: 1982-02-23-a4-b1_kazhdaya_bukva_shri_chaytanya_charitamrity_svyashchenna
+record_id: 1982.02.23.A4.B1
+title: Каждая буква «Шри Чайтанья Чаритамриты» священна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1908640
+  duration: 00:03:43
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/225_1982.02.23.A4.B1_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
+date: 1982-02-23
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/225_1982.02.23.A4.B1_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
     title: аудиозапись в MP3 (3 мин. 43 сек., 1,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (43 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/225_1982.02.23.A4.B1_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 225. 1982.02.23.A4.B1. Каждая буква «Шри Чайтанья Чаритамриты» священна
+  index: "225"
+  filename: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna.md
+  slug: 225-1982-02-23-a4-b1-kazhdaya-bukva-shri-chajtanya-charitamrity-svyashhenna
 ---
-
-# 225. 1982.02.23.A4.B1. Каждая буква «Шри Чайтанья Чаритамриты» священна
 
 Прабхупад Гуру Махарадж говорил, что каждая буква «Чайтанья-чаритамриты» *апракрита* — состоит из высшей и лучшей субстанции. Ничто в этом писании не является менее ценным по сравнению с другими частями, все обладает одинаковой ценностью.
 

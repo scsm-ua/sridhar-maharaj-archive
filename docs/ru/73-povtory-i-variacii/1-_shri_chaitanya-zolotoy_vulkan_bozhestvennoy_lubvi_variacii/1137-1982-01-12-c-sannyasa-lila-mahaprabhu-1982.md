@@ -1,42 +1,17 @@
 ---
-slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+slug: 1982-01-12-c_sannyasa-lila_mahaprabhu
+record_id: 1982.01.12.C
+title: Санньяса-лила Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18922672
+  duration: 00:34:15
+  src: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
+date: 1982-01-12
 category:
   title: 1. Шри Чайтанья — Золотой Вулкан Божественной Любви (вариации)
   slug: 1-_shri_chaitanya-zolotoy_vulkan_bozhestvennoy_lubvi_variacii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 4.11
-    slug: bhagavad-gita-4-11
-  - title: Бхагавад-гита 5.29
-    slug: bhagavad-gita-5-29
-  - title: Бхагавад-гита 10.8
-    slug: bhagavad-gita-10-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
-    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.23.57
-    slug: shrimad-bhagavatam-11-23-57
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25–26
-    slug: shri-chajtanya-bhagavata-madhya-khanda-28-25-26
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.202
-    slug: shri-chajtanya-bhagavata-madhya-khanda-1-202
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.74
-    slug: shri-chajtanya-charitamrita-adi-lila-7-74
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34
-    slug: shri-chajtanya-charitamrita-madhya-lila-3-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.mp3
     title: аудиозапись в MP3 (34 мин. 14 сек., 18,1 МБ)
@@ -44,9 +19,33 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/73._Povtory_i_variacii/1._Shri_Chaitanya--Zolotoy_Vulkan_Bozhestvennoy_Lubvi_(variacii)/1137_1982.01.11.C_SridharMj_Sanyasa_lila_Mahaprabhu_1982.pdf
     title: транскрипцию в PDF (182 КБ)
+legacy:
+  title: 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
+  index: "1137"
+  filename: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982.md
+  slug: 1137-1982-01-12-c-sannyasa-lila-mahaprabhu-1982
+tags:
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
+  - title: Бхагавад-гита 10.8
+    slug: bhagavad-gita-10-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.6
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-6
+  - title: Шримад-Бхагаватам 11.23.57
+    slug: shrimad-bhagavatam-11-23-57
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 28.25–26
+    slug: shri-chajtanya-bhagavata-madhya-khanda-28-25-26
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.202
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-202
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.74
+    slug: shri-chajtanya-charitamrita-adi-lila-7-74
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.34
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-34
 ---
-
-# 1137. 1982.01.12.C. Санньяса-лила  Махапрабху (1982)
 
 «Я вечно остаюсь обязанным вам, у Меня нет ничего, чем Я мог бы отплатить вам». Кришна побежден.
 
@@ -66,7 +65,7 @@ links:
     маттах̣ сарвам̇ правартате
 [^_ftn3]
 
-«Иными словами, Я, видя вашу *джогьята(?)*… (как это будет?) …качество, квалификацию, Я отдал вам все, и Мне больше нечего вам дать, у Меня нет ничего, чем Я Мог бы выплатить вам этот долг. Моя кладовая, Мои запасы исчерпаны. Хотя Я владелец кладовой безграничного, но эта кладовая пуста, не осталось ничего… Не осталось ничего, и Я не могу выплатить долг».
+«Иными словами, Я, видя вашу *джогьята*(?)… (как это будет?) …качество, квалификацию, Я отдал вам все, и Мне больше нечего вам дать, у Меня нет ничего, чем Я Мог бы выплатить вам этот долг. Моя кладовая, Мои запасы исчерпаны. Хотя Я владелец кладовой безграничного, но эта кладовая пуста, не осталось ничего… Не осталось ничего, и Я не могу выплатить долг».
 
 **Преданный:** Махабхава.
 

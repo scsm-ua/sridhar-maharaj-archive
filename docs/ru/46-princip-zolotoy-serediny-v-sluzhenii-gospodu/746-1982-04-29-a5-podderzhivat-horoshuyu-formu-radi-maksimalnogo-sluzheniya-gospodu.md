@@ -1,24 +1,17 @@
 ---
-slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
+slug: 1982-04-29-a5_podderzhivat_horoshuyu_formu_radi_maksimalnogo_sluzheniya_gospodu
+record_id: 1982.04.29.A5
+title: Поддерживать хорошую форму ради максимального служения Господу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4240530
+  duration: 00:02:47
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
+date: 1982-04-29
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.17
-    slug: bhagavad-gita-6-17
-  - title: Вайшнава ке
-    slug: vajshnava-ke
-  - title: Вайшнава ке 12
-    slug: vajshnava-ke-12
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.256
-    slug: bhakti-rasamrita-sindhu-1-2-256
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.mp3
     title: аудиозапись в MP3 (2 мин. 47 сек., 4,1 МБ)
@@ -26,9 +19,20 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/746_1982.04.29.A5_SridharMj_Podderzhivat_horoshuju_formu_radi_maksimalnogo_sluzhenija_Gospodu.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 746. 1982.04.29.A5. Поддерживать хорошую форму ради максимального
+    служения Господу
+  index: "746"
+  filename: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu.md
+  slug: 746-1982-04-29-a5-podderzhivat-horoshuyu-formu-radi-maksimalnogo-sluzheniya-gospodu
+tags:
+  - title: Бхагавад-гита 6.17
+    slug: bhagavad-gita-6-17
+  - title: Вайшнава ке 12
+    slug: vajshnava-ke-12
+  - title: Бхакти-расамрита-синдху 1.2.256
+    slug: bhakti-rasamrita-sindhu-1-2-256
 ---
-
-# 746. 1982.04.29.A5. Поддерживать хорошую форму ради максимального служения Господу
 
 Все принадлежит Ему, Кришне, но поскольку я должен служить Ему, поэтому то, что необходимо мне для того, чтобы поддерживать себя в необходимой форме, я принимаю как *прасадам. Прасадам* — какой-то дар от Него. Если я не буду этого делать, то возникнут препятствия в служении, и я окажусь на ложном пути, поэтому — *йукта̄ха̄ра-виха̄расйа*[^_ftn1].
 

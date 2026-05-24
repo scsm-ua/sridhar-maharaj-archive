@@ -4,9 +4,15 @@ refs:
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/218-1981-03-03-a1-dva-kachestva-sovershennogo-voprosa-v-shrimad-bhagavatam.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/258-1981-03-03-c5-nadmirnaya-priroda-vajshnava-beseda-s-satsvarupoj-maharadzhem.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/563-1983-11-26-a-b1-glavnyj-vopros-beseda-tsarya-parikshita-so-svyatym-shukadevom.md
-tags:
+  - ../../_full/1981/03/1981.03.03.md
+  - ../../_full/1981/03/1981.03.04.md
+  - ../../_full/1981/03/1981.03.06.md
+  - ../../_full/1982/11/1982.11.20.A.md
+  - ../../_full/1983/11/1983.11.26.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.1.1
     slug: shrimad-bhagavatam-2-1-1
 ---
@@ -22,3 +28,11 @@ tags:
 ---
 
 Шри Шукадева сказал: «О царь, твой вопрос достоин всяческих похвал, ибо он важен для каждого. Все, кто постиг свою истинную суть, единодушны во мнении, что ответ на этот вопрос — важнейшее из всего, о чем следует знать («Шримад-Бхагаватам», 2.1.1).
+
+---
+
+«На благо всех живых существ» (см. «Шримад-Бхагаватам», 2.1.1).
+
+---
+
+«Шримад-Бхагаватам», 2.1.1.

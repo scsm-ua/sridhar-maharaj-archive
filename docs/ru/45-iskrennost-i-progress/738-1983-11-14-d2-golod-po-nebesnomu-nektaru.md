@@ -1,24 +1,17 @@
 ---
-slug: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru
+slug: 1983-11-14-d2_golod_po_nebesnomu_nektaru
+record_id: 1983.11.14.D2
+title: Голод по небесному нектару
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10584283
+  duration: 00:10:07
+  src: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3
+date: 1983-11-14
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
-  - title: Шри Шри Прапанна-дживанамритам 7.21
-    slug: shri-shri-prapanna-dzhivanamritam-7-21
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
-    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.31.9
-    slug: shrimad-bhagavatam-10-31-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.mp3
     title: аудиозапись в MP3 (10 мин. 07 сек., 10,1 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (111 КБ)
   - href: /dl/45._Iskrennost_i_progress/738_1983.11.14.D2_SridharMj_Golod_po_nebesnomu_nektaru.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 738. 1983.11.14.D2. Голод по небесному нектару
+  index: "738"
+  filename: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru.md
+  slug: 738-1983-11-14-d2-golod-po-nebesnomu-nektaru
+tags:
+  - title: Шри Шри Прапанна-дживанамритам 7.21
+    slug: shri-shri-prapanna-dzhivanamritam-7-21
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
+  - title: Шримад-Бхагаватам 10.31.9
+    slug: shrimad-bhagavatam-10-31-9
 ---
-
-# 738. 1983.11.14.D2. Голод по небесному нектару
 
 **Преданный:** Кажется, что *бхакти-марга* — это путь одиночки. Не так-то много людей, серьезно настроенных.
 

@@ -1,45 +1,38 @@
 ---
-slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
+slug: 1982-02-22-b3_vstrecha_krishny_i_radharani_na_kurukshetre_sokrovennyy_smysl_molitv_gopi
+record_id: 1982.02.22.B3
+title: Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16955792
+  duration: 00:44:40
+  src: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
+date: 1982-02-22
 category:
   title: 28. Молитвы и умонастроение гопи
   slug: 28-molitvy-i-umonastroenie-gopi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.114
     slug: shri-chajtanya-charitamrita-antya-lila-1-114
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.79
     slug: shri-chajtanya-charitamrita-antya-lila-1-79
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.76
     slug: shri-chajtanya-charitamrita-madhya-lila-1-76
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 387
     slug: padyavali-387
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.81
     slug: shri-chajtanya-charitamrita-madhya-lila-1-81
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.136
     slug: shri-chajtanya-charitamrita-madhya-lila-13-136
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 8.26
     slug: shri-shri-prapanna-dzhivanamritam-8-26
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.82.48
     slug: shrimad-bhagavatam-10-82-48
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.23
     slug: shri-chajtanya-charitamrita-adi-lila-4-23
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.160
@@ -58,7 +51,6 @@ tags:
     slug: padyavali-385
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.mp3
     title: аудиозапись в MP3 (44 мин. 40 сек., 16,2 МБ)
@@ -66,9 +58,13 @@ links:
     title: транскрипцию в RTF (257 КБ)
   - href: /dl/28._Molitvy_i_umonastroenie_gopi/481_1982.02.22.B3_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre_Sokrovennyj_smysl_molitv_gopi.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 481. 1982.02.22.B3. Встреча Кришны и Радхарани на Курукшетре. Сокровенный
+    смысл молитв гопи
+  index: "481"
+  filename: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi.md
+  slug: 481-1982-02-22-b3-vstrecha-krishny-i-radharani-na-kurukshetre-sokrovennyj-smysl-molitv-gopi
 ---
-
-# 481. 1982.02.22.B3. Встреча Кришны и Радхарани на Курукшетре. Сокровенный смысл молитв гопи
 
 Когда Радхарани встречает Кришну на Курукшетре, Ее ум стремится во Вриндаван. Она говорит: «Ты здесь, но Мой ум стремится во Вриндаван». Почему? Вриндаван обладает значимой ролью в этой *лиле*. Вриндаван. Что такое Вриндаван? Это пейзажи. Это Ямуна, вода, лес, птицы, крики павлинов, коровы, пастухи, Говардхан, пещеры Говардхана, а также мать и иные родственники. Все это прекрасно устроено ради Их цели, Радхи и Кришны. Это сцена, и Радха стремится вновь быть на этой сцене в Его обществе.
 
@@ -255,7 +251,7 @@ links:
 
     ким паданте лутхаси виманах свамино хи сватантрах…
 
-*Кинчит калам* — какое-то время Ты провел вдали от Меня, но что в этом дурного? *вачид абхираташ* — это не преступление для Тебя, *татра каш те ‘парадхах. Агаш-каринй ахам* — Я преступница, преступление совершила Я, *агаш-каринй ахам иха йайа.* Почему, как? *Дживитам твад-вийоге* — Я все еще живу в Моем теле, Я не смогла умереть в разлуке с Тобой. Я не смогла умереть, Я показываю Свое лицо на людях. Я не имею любви к Тебе, Я не смогла умереть в разлуке с Тобой и показываюсь на людях. *Агаш-каринй ахам* — Я первостатейная преступница. *Агаш-каринй ахам иха йайа дживитам твад-вийоге*».
+*Кинчит калам* — какое-то время Ты провел вдали от Меня, но что в этом дурного? *вачид абхираташ* — это не преступление для Тебя, *татра каш те ‘парадхах. Агаш-каринй ахам* — Я преступница, преступление совершила Я, *агаш-каринй ахам иха йайа*. Почему, как? *Дживитам твад-вийоге* — Я все еще живу в Моем теле, Я не смогла умереть в разлуке с Тобой. Я не смогла умереть, Я показываю Свое лицо на людях. Я не имею любви к Тебе, Я не смогла умереть в разлуке с Тобой и показываюсь на людях. *Агаш-каринй ахам* — Я первостатейная преступница. *Агаш-каринй ахам иха йайа дживитам твад-вийоге*».
 
 *#00:38:41#*
 

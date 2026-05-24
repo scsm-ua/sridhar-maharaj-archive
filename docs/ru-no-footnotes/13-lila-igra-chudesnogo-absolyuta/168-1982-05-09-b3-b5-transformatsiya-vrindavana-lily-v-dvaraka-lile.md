@@ -1,12 +1,17 @@
 ---
-slug: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile
+slug: 1982-05-09-b3-b5_transformatsiya_vrindavana-lily_v_dvaraka-lile
+record_id: 1982.05.09.B3.B5
+title: Трансформация Вриндавана-лилы в Дварака-лиле
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9198529
+  duration: 00:09:11
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/168_1982.05.09.B3.B5_SridharMj_Transformacija_Vrindavana_lily_v_Dvaraka-lile.mp3
+date: 1982-05-09
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/168_1982.05.09.B3.B5_SridharMj_Transformacija_Vrindavana_lily_v_Dvaraka-lile.mp3
     title: аудиозапись в MP3 (9 мин. 30 сек., 8,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/168_1982.05.09.B3.B5_SridharMj_Transformacija_Vrindavana_lily_v_Dvaraka-lile.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 168. 1982.05.09.B3.B5. Трансформация Вриндавана-лилы в Дварака-лиле
+  index: "168"
+  filename: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile.md
+  slug: 168-1982-05-09-b3-b5-transformatsiya-vrindavana-lily-v-dvaraka-lile
 ---
-
-# 168. 1982.05.09.B3.B5. Трансформация Вриндавана-лилы в Дварака-лиле
 
 Различные проявления в *сакхья-расе*, *ватсалья-расе*, *шанта-расе*, *дасья-расе*. Его [преданного] умонастроение в каждой *расе* будет соответствовать умонастроению определенного слуги, сотрудничества между ними. Это явление дано нам таким образом. Очень тонкие реалии — тем не менее мы должны знать их до известной степени. Знать, что это может быть, это возможно. Кришна един, но в то же время — *йа̄н̇ра йеи раса сеи сарвоттама*[^_ftn1] — Яшода никогда не скажет, что ее *раса* неполна, несовершенна, что чего-то не хватает. Она не признает, она скажет: «Это — высочайшее». *Сакхьи* — друзья — наслаждаются игрой, обществом Кришны, они думают: «Наши достижения высочайшие, максимальные. Это, — считают они, — высочайшее — то, что мы чувствуем, переживаем в Его обществе».
 

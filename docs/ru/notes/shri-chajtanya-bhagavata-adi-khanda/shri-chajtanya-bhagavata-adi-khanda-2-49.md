@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/260-1982-04-16-c3-c5-vajshnavy-ochishhayut-svoj-rod-ot-predkov-do-potomkov.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда
     slug: shri-chajtanya-bhagavata-adi-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Ади-кханда 2.49
     slug: shri-chajtanya-bhagavata-adi-khanda-2-49
 ---

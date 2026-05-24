@@ -1,14 +1,20 @@
 ---
-slug: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir
+slug: 1981-03-03-b3_chuvstva_dushi_kotoraya_vstupaet_v_duhovnyy_mir
+record_id: 1981.03.03.B3
+title: Чувства души, которая вступает в духовный мир
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5127503
+  duration: 00:07:17
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/600_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3
+date: 1981-03-03
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/600_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.mp3
     title: аудиозапись в MP3 (7 мин. 17 сек., 4,9 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/600_1981.03.03.B3_SridharMj_Chuvstva_dushi_kotoraya_vstupaet_v_duhovniy_mir.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 600. 1981.03.03.B3. Чувства души, которая вступает в духовный мир
+  index: "600"
+  filename: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir.md
+  slug: 600-1981-03-03-b3-chuvstva-dushi-kotoraya-vstupaet-v-duhovnyj-mir
 ---
-
-# 600. 1981.03.03.B3. Чувства души, которая вступает в духовный мир
 
 **Преданный:** Падшие души как правило приходят из Брахма-локи, из *Брахмаджйоти*.
 

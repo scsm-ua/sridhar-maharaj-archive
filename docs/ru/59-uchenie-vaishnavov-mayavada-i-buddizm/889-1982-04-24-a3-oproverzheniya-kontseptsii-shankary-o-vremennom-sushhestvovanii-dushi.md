@@ -1,30 +1,17 @@
 ---
-slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
+slug: 1982-04-24-a3_oproverzheniya_kontseptsii_shankary_o_vremennom_sushchestvovanii_dushi
+record_id: 1982.04.24.A3
+title: Опровержения концепции Шанкары о временном существовании души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12293862
+  duration: 00:12:42
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3
+date: 1982-04-24
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Катха-Упанишада
-    slug: katha-upanishada
-  - title: Катха-Упанишада 2.2.13
-    slug: katha-upanishada-2-2-13
-  - title: Чхандогья-упанишада
-    slug: chhandogya-upanishada
-  - title: Чхандогья-упанишада 6.2.3
-    slug: chhandogya-upanishada-6-2-3
-  - title: Шветашватара-упанишада
-    slug: shvetashvatara-upanishada
-  - title: Шветашватара-упанишада 6.13
-    slug: shvetashvatara-upanishada-6-13
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 2.20
-    slug: bhagavad-gita-2-20
-  - title: Бхагавад-гита 15.7
-    slug: bhagavad-gita-15-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.mp3
     title: аудиозапись в MP3 (12 мин. 41 сек., 11,8 МБ)
@@ -32,9 +19,24 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/889_1982.04.24.A3_SridharMj_Oproverzhenija_koncepcii_Shankary_o_vremennom_sushhestvovanii_dushi.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 889. 1982.04.24.A3. Опровержения концепции Шанкары о временном
+    существовании души
+  index: "889"
+  filename: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi.md
+  slug: 889-1982-04-24-a3-oproverzheniya-kontseptsii-shankary-o-vremennom-sushhestvovanii-dushi
+tags:
+  - title: Катха-Упанишада 2.2.13
+    slug: katha-upanishada-2-2-13
+  - title: Чхандогья-упанишада 6.2.3
+    slug: chhandogya-upanishada-6-2-3
+  - title: Шветашватара-упанишада 6.13
+    slug: shvetashvatara-upanishada-6-13
+  - title: Бхагавад-гита 2.20
+    slug: bhagavad-gita-2-20
+  - title: Бхагавад-гита 15.7
+    slug: bhagavad-gita-15-7
 ---
-
-# 889. 1982.04.24.A3. Опровержения концепции Шанкары о временном существовании души
 
 **Шукадев Прабху:** Я десять лет был *майявади*.
 

@@ -1,19 +1,22 @@
 ---
-slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
+slug: 1983-11-13-b2_obshchenie_s_vayshnavami_put_iz_mira_zabluzhdeniy_nastavleniya_prahlada
+record_id: 1983.11.13.B2
+title: Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10530910
+  duration: 00:09:47
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
+date: 1983-11-13
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: Ачарья вандана
-    slug: acharya-vandana
   - title: Ачарья вандана 18
     slug: acharya-vandana-18
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.32
     slug: shrimad-bhagavatam-7-5-32
   - title: Шримад-Бхагаватам 7.5.23–24
@@ -22,11 +25,8 @@ tags:
     slug: shrimad-bhagavatam-7-5-5
   - title: Шримад-Бхагаватам 7.5.30
     slug: shrimad-bhagavatam-7-5-30
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 7
     slug: shri-upadeshamrita-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.mp3
     title: аудиозапись в MP3 (9 мин. 47 сек., 10,1 МБ)
@@ -34,9 +34,13 @@ links:
     title: транскрипцию в DOCX (28 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/266_1983.11.13.B2_SridharMj_Obshhenie_s_vajshnavami--put_iz_mira_zabluzhdenij__Nastavlenija_Prahlada.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 266. 1983.11.13.B2. Общение с вайшнавами – путь из мира заблуждений.
+    Наставления Прахлада
+  index: "266"
+  filename: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada.md
+  slug: 266-1983-11-13-b2-obshhenie-s-vajshnavami-put-iz-mira-zabluzhdenij-nastavleniya-prahlada
 ---
-
-# 266. 1983.11.13.B2. Общение с вайшнавами – путь из мира заблуждений. Наставления Прахлада
 
     ваиш̣н̣авера гун̣а-га̄на кориле джӣвера тра̄н̣а
     ш́унийа̄чхи са̄дху гуру мукхе
@@ -46,7 +50,7 @@ links:
 
 *#00:00:51#*
 
-*Вайшнава-чаритра.* Вайшнавы — это многочисленные врата, ворота, через которые мы можем вступить в это царство. Их пример, их жизнь, их поведение, их учение, их движение — это наше богатство, на это мы уповаем и обращаем на эти явление наше внимание. Мы можем обрести определенное представление о природе Божественного, судя по их словам и поступкам. Для чего они живут, игнорируя столь многие чарующие явления внешнего мира? Что представлено в их характере, в их попытках, в их усилиях, в их словах, в их жестах, позах? Это все может помочь нам понять природу того Божественного мира. И это — врата, они — суть, врата.
+*Вайшнава-чаритра*. Вайшнавы — это многочисленные врата, ворота, через которые мы можем вступить в это царство. Их пример, их жизнь, их поведение, их учение, их движение — это наше богатство, на это мы уповаем и обращаем на эти явление наше внимание. Мы можем обрести определенное представление о природе Божественного, судя по их словам и поступкам. Для чего они живут, игнорируя столь многие чарующие явления внешнего мира? Что представлено в их характере, в их попытках, в их усилиях, в их словах, в их жестах, позах? Это все может помочь нам понять природу того Божественного мира. И это — врата, они — суть, врата.
 
 *#00:02:12#*
 

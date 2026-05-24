@@ -1,12 +1,17 @@
 ---
-slug: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat
+slug: 1982-04-14-d2_koladvip_kak_mesto_pada-sevanam_i_aparadh-bhandzhan-pat
+record_id: 1982.04.14.D2
+title: Коладвип как место пада-севанам и апарадх-бханджан-пат
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4990924
+  duration: 00:03:22
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3
+date: 1982-04-14
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.mp3
     title: аудиозапись в MP3 (3 мин. 22 сек., 4,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1088_1982.04.14.D2_SridharMj_Koladvip_kak_mesto_pada-sevanam_i_aparadh-bhadzhan-pat.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 1088. 1982.04.14.D2. Коладвип как место пада-севанам и апарадх-бханджан-пат
+  index: "1088"
+  filename: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat.md
+  slug: 1088-1982-04-14-d2-koladvip-kak-mesto-pada-sevanam-i-aparadh-bhandzhan-pat
 ---
-
-# 1088. 1982.04.14.D2. Коладвип как место пада-севанам и апарадх-бханджан-пат
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Гаура-Хари, Гаура-Хари.
 

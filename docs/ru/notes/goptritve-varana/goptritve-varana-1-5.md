@@ -2,9 +2,12 @@
 slug: goptritve-varana-1-5
 refs:
   - ../../25-sluzhenie-krishne-trud-lyubvi/430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny.md
-tags:
+  - ../../_full/1981/11/1981.11.26.A.B.C.md
+  - ../../_full/1982/05/1982.05.16.A.B.C.md
+scriptures:
   - title: Гоптритве варана
     slug: goptritve-varana
+verses:
   - title: Гоптритве варана 1–5
     slug: goptritve-varana-1-5
 ---

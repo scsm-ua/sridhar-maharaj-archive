@@ -1,22 +1,30 @@
 ---
 slug: 259-o-poluchenii-gayatri-mantry-1981-08-14-a1
+record_id: 1981.08.14.A1
+title: О получении гаятри-мантры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10405512
+  duration: 00:16:12
+  src: /wp-content/uploads/2012/08/259_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
+date: 1981-08-14
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Гаятри-мантра
     slug: gayatri-mantra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/259_1981.08.14.A1_SridharMj_O_poluchenii_gayatri-mantry.mp3
     title: Скачать аудиозапись в mp3 (16 мин 12 сек, размер 10 Мб)
+legacy:
+  title: 259. О получении гаятри-мантры. 1981.08.14.A1
+  index: "259"
+  filename: 259-o-poluchenii-gayatri-mantry-1981-08-14-a1.md
 ---
-
-# 259. О получении гаятри-мантры. 1981.08.14.A1
 
 Дорогой Шрила Шридхар Махарадж, пожалуйста, примите мои поклоны, вся слава Гуру и Гауранге. Пожалуйста, позвольте представиться. Мое инициационное имя Даялу даса Адхикари. Я получил Харинама-дикшу от Шрилы Бхактиведанта Свами Прабхупады в 77 году, в 1977 году.
 

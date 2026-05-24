@@ -1,24 +1,26 @@
 ---
-slug: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah
+slug: 1982-01-25-b2_fleyta_krishny_proyavlyaet_sebya_v_raznyh_rasah
+record_id: 1982.01.25.B2
+title: Флейта Кришны проявляет себя в разных расах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6126059
+  duration: 00:07:27
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
+date: 1982-01-25
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Флейта Кришны
     slug: flejta-krishny
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.43.17
     slug: shrimad-bhagavatam-10-43-17
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 17.3
     slug: bhagavad-gita-17-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.mp3
     title: аудиозапись в MP3 (7 мин. 26 сек., 64 кбит/сек, 5.8 МБ)
@@ -26,9 +28,12 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/054_1982.01.25.B2_SridharMj_Fleyta_Krishny_proyavlyayet_sebya_v_raznyh_rasah.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 054. 1982.01.25.B2 Флейта Кришны проявляет себя в разных расах
+  index: "054"
+  filename: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah.md
+  slug: 054_1982-01-25-b2_sridharmj_fleyta_krishny_proyavlyayet_sebya_v_raznyh_rasah
 ---
-
-# 054. 1982.01.25.B2 Флейта Кришны проявляет себя в разных расах
 
 **Шрила Шридхар Махарадж:** Махапрабху Гауранга Сундар!
 

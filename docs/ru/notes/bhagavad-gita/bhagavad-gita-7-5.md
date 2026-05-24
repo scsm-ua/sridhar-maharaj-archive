@@ -6,9 +6,19 @@ refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/611-1983-03-04-b2-dusha-i-materialnaya-energiya.md
   - ../../40-bog-i-bogi/677-1982-03-16-a-obyasnenie-molitvy-shivy-v-bhagavatam-4-24-29.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/901-1982-01-25-a4-b1-gradatsiya-soznaniya-opponenty-shankary.md
-tags:
+  - ../../_full/1981/03/1981.03.06.md
+  - ../../_full/1982/01/1982.01.25.md
+  - ../../_full/1982/03/1982.03.16.A.md
+  - ../../_full/1982/04/1982.04.16.C2.D1.md
+  - ../../_full/1982/05/1982.05.15.A.B1.md
+  - ../../_full/1982/08/1982.08.29.A.B.C.md
+  - ../../_full/1982/11/1982.11.20.A.md
+  - ../../_full/1983/03/1983.03.04.md
+  - ../../_full/1983/06/1983.06.21.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 7.5
     slug: bhagavad-gita-7-5
 ---

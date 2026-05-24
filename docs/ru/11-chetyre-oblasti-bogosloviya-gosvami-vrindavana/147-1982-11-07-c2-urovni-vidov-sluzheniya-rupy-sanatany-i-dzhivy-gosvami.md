@@ -1,18 +1,24 @@
 ---
-slug: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami
+slug: 1982-11-07-c2_urovni_vidov_sluzheniya_rupy_sanatany_i_dzhivy_gosvami
+record_id: 1982.11.07.C2
+title: Уровни видов служения Рупы, Санатаны и Дживы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5782058
+  duration: 00:04:14
+  src: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.mp3
+date: 1982-11-07
 category:
   title: 11. Четыре области богословия Госвами Вриндавана
   slug: 11-chetyre-oblasti-bogosloviya-gosvami-vrindavana
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Джива Госвами
     slug: dzhiva-gosvami
   - title: Рупа Госвами
     slug: rupa-gosvami
   - title: Санатана Госвами
     slug: sanatana-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.mp3
     title: аудиозапись в MP3 (4 мин. 13 сек., 5,6 МБ)
@@ -20,9 +26,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/11._Chetyre_oblasti_bogosloviya_Gosvami_Vrindavana/147_1982.11.07.C2_SridharMj_Urovni_vidov_sluzhenija_Rupy_Sanatany_i_Dzhivy_Gosvami.pdf
     title: транскрипцию в PDF (125 КБ)
+legacy:
+  title: 147. 1982.11.07.C2. Уровни видов служения Рупы, Санатаны и Дживы Госвами
+  index: "147"
+  filename: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami.md
+  slug: 147-1982-11-07-c2-urovni-vidov-sluzheniya-rupy-sanatany-i-dzhivy-gosvami
 ---
-
-# 147. 1982.11.07.C2. Уровни видов служения Рупы, Санатаны и Дживы Госвами
 
 **Преданный:** Гуру Махарадж!
 
@@ -50,7 +59,7 @@ links:
 
 *#00:03:09#*
 
-*Данда-самадж(?)* — правила сочетания слов. Соответственно степени уважения определяется то, что идет первым, — таково грамматическое правило. Рупа-Санатана. Рупа идет первым, поскольку он был первым учеником, он стал учеником ранее Санатана, хотя и на несколько дней, но все же. Ему был доверен *рага-марг*, тогда как Санатане Госвами — *виддхи-марг* и лишь касание, прикосновение к *рага-маргу*.
+*Данда-самадж*(?) — правила сочетания слов. Соответственно степени уважения определяется то, что идет первым, — таково грамматическое правило. Рупа-Санатана. Рупа идет первым, поскольку он был первым учеником, он стал учеником ранее Санатана, хотя и на несколько дней, но все же. Ему был доверен *рага-марг*, тогда как Санатане Госвами — *виддхи-марг* и лишь касание, прикосновение к *рага-маргу*.
 
 *#00:03:52#*
 

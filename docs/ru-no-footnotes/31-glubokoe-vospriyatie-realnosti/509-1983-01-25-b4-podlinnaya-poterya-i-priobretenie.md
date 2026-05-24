@@ -1,12 +1,17 @@
 ---
-slug: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie
+slug: 1983-01-25-b4_podlinnaya_poterya_i_priobretenie
+record_id: 1983.01.25.B4
+title: Подлинная потеря и приобретение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2412012
+  duration: 00:03:40
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
+date: 1983-01-25
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.mp3
     title: аудиозапись в MP3 (3 мин. 40 сек., 2,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/509_1983.01.25.B4_SridharMj_Podlinnaya_poterya_i_priobreteniye.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 509. 1983.01.25.B4. Подлинная потеря и приобретение
+  index: "509"
+  filename: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie.md
+  slug: 509-1983-01-25-b4-podlinnaya-poterya-i-priobretenie
 ---
-
-# 509. 1983.01.25.B4. Подлинная потеря и приобретение
 
 **Преданный:** Временами мы говорим: «Нет риска — нет выигрыша».
 

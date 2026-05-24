@@ -1,12 +1,17 @@
 ---
-slug: 620-1982-01-04-b1-nebo-soznaniya
+slug: 1982-01-04-b1_nebo_soznaniya
+record_id: 1982.01.04.B1
+title: Небо сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9520514
+  duration: 00:17:53
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
+date: 1982-01-04
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.mp3
     title: аудиозапись в MP3 (17 мин. 53 сек., 9,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/620_1982.01.04.B1_SridharMj_Nebo_soznaniya.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 620. 1982.01.04.B1. Небо сознания
+  index: "620"
+  filename: 620-1982-01-04-b1-nebo-soznaniya.md
+  slug: 620-1982-01-04-b1-nebo-soznaniya
 ---
-
-# 620. 1982.01.04.B1. Небо сознания
 
 **Шрила Шридхар Махарадж:** Нитай-Чайтанья, Нитай-Чайтанья…
 

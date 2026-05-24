@@ -1,22 +1,24 @@
 ---
-slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
+slug: 1982-01-21-b2_predskazanie_shrily_bhaktivinoda_thakura
+record_id: 1982.01.21.B2
+title: Предсказание Шрилы Бхактивинода Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6016993
+  duration: 00:12:06
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
+date: 1982-01-21
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Санкиртана
     slug: sankirtana
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
     slug: shri-chajtanya-bhagavata-antya-khanda-4-126
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.2
     slug: shrimad-bhagavatam-11-2-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.mp3
     title: аудиозапись в MP3 (12 мин. 06 сек., 5,8 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/356_1982.01.21.B2_SridharMj_Predskazanie_Shrily_Bhaktivinoda_Thakura.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 356. 1982.01.21.B2. Предсказание Шрилы Бхактивинода Тхакура
+  index: "356"
+  filename: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura.md
+  slug: 356-1982-01-21-b2-predskazanie-shrily-bhaktivinoda-thakura
 ---
-
-# 356. 1982.01.21.B2. Предсказание Шрилы Бхактивинода Тхакура
 
 **Преданный:** Кто та личность, которая вдохновила Бхактивинода проповедовать на Западе?
 

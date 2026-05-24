@@ -1,14 +1,20 @@
 ---
-slug: 844-1982-11-06-a1-predannyj-gotov-zhit-i-umirat-radi-lily-bezgranichnogo
+slug: 1982-11-06-a1_predannyy_gotov_zhit_i_umirat_radi_lily_bezgranichnogo
+record_id: 1982.11.06.A1
+title: Преданный готов жить и умирать ради лилы Безграничного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8162209
+  duration: 00:07:25
+  src: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3
+date: 1982-11-06
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.mp3
     title: аудиозапись в MP3 (9 мин. 42 сек., 7,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/55._Samopozhertvovanie/844_1982.11.06.A1_SridharMj_Predannyj_gotov_zhit_i_umirat_radi_lily_Bezgranichnogo.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 844. 1982.11.06.A1. Преданный готов жить и умирать ради лилы Безграничного
+  index: "844"
+  filename: 844-1982-11-06-a1-predannyj-gotov-zhit-i-umirat-radi-lily-bezgranichnogo.md
+  slug: 844-1982-11-06-a1-predannyj-gotov-zhit-i-umirat-radi-lily-bezgranichnogo
 ---
-
-# 844. 1982.11.06.A1. Преданный готов жить и умирать ради лилы Безграничного
 
 Ачьютананда был вынужден поститься там полтора дня, после чего пришел в наш Матх и объяснил, что ему нечего было есть: «Дамодар Махарадж ушел, не оставил мне пищи. Я постился весь вчерашний день, и сегодня также я ничего не ел». Он провел здесь несколько дней, и Говинда Махарадж спросил у него: «Как вы относитесь к этому происшествию?» На что он дал очень хороший ответ. Он сказал: «Я не жалуюсь, Кришна танцует. Кришна вовлечен в Свой безумный танец, и волны, порождаемые Его танцем, расходятся во все стороны. У Кришны нет времени на то, чтобы заботиться о ком-то, особенно о таких незначительных личностях, как мы. Голодаем мы или нет — Он об этом не заботится, Он следует Своим Собственным путям. Кришна танцует, и нас разбрасывают в разные стороны волны, порождаемые Его танцем, у Него нет времени на то, чтобы уделить нам внимание, позаботиться о нас».
 

@@ -1,5 +1,13 @@
 ---
 slug: 321-ulybayushheesya-litso-krishny-vyglyanet-iz
+title: «Улыбающееся лицо Кришны выглянет из-за завесы». Онтология прекрасной
+  реальности, часть 3.4.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6318272
+  duration: 00:12:46
+  src: /wp-content/uploads/2012/08/321_OntologiyaPR_3.4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
@@ -8,13 +16,15 @@ tags:
     slug: garmoniya
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/321_OntologiyaPR_3.4_SridharMj_Ulybayuweyesya_lico_Krishny_vyglyanet_iz-za_zavesy.mp3
     title: Скачать аудиозапись в mp3 (12 мин 46 сек, размер 6 Мб)
+legacy:
+  title: 321. «Улыбающееся лицо Кришны выглянет из-за завесы». Онтология
+    прекрасной реальности, часть 3.4
+  index: "321"
+  filename: 321-ulybayushheesya-litso-krishny-vyglyanet-iz.md
 ---
-
-# 321. «Улыбающееся лицо Кришны выглянет из-за завесы». Онтология прекрасной реальности, часть 3.4
 
 Всякий раз, когда возникают неблагоприятные обстоятельства (дурдайва-виласа). Ничто не должно быть оставлено вовне. Таково отношение, позиция подлинного преданного Кришны. Таким образом, мы сумеем призвать хорошие идеи, благие идеи. Мы привлечем благое, установим связь с благими реалиями в окружающем мире, которые очистят меня и мое положение.
 

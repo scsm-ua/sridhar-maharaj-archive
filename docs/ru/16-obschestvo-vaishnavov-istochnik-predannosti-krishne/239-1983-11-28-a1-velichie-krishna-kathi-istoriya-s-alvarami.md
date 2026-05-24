@@ -1,16 +1,17 @@
 ---
-slug: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami
+slug: 1983-11-28-a1_velichie_krishna-kathi_istoriya_s_alvarami
+record_id: 1983.11.28.A1
+title: Величие кришна-катхи. История с Альварами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4799853
+  duration: 00:03:49
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
+date: 1983-11-28
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
-  - title: «Падма-пурана», Уттара-кханда 92.21–22
-    slug: padma-purana-uttara-khanda-92-21-22
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,6 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/239_1983.11.28.A1_SridharMj_Velichie_krishna-kathi__Istorija_s_Alvarami.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 239. 1983.11.28.A1. Величие кришна-катхи. История с Альварами
+  index: "239"
+  filename: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami.md
+  slug: 239-1983-11-28-a1-velichie-krishna-kathi-istoriya-s-alvarami
+tags:
+  - title: «Падма-пурана», Уттара-кханда 92.21–22
+    slug: padma-purana-uttara-khanda-92-21-22
 ---
-
-# 239. 1983.11.28.A1. Величие кришна-катхи. История с Альварами
 
 *Кришна-катха*…
 
@@ -32,7 +39,7 @@ links:
 
 *#00:00:26#*
 
-В некой Пуране сказано: «*На̄хам̇ тиш́т̣ха̄ми ваикун̣т̣хе.* Нарада, Я не живу в трансцендентном мире, на Вайкунтхе. Меня также не найти в концепции безграничного, *йогина̄м хр̣дайе на ча* — равно как Я не существую, не пребываю в сердце мыслителя, в сердце *йогина*, то есть мыслящего о мельчайшей части бытия, тончайшей части, наиболее тонком аспекте мира, — Меня там нет. *Мад-бхакта̄х̣ йатра га̄йанти*: но везде, где Мои преданные прославляют Меня, там Я пребываю. Где Мои преданные говорят обо Мне, там Я есть».
+В некой Пуране сказано: «*На̄хам̇ тиш́т̣ха̄ми ваикун̣т̣хе*. Нарада, Я не живу в трансцендентном мире, на Вайкунтхе. Меня также не найти в концепции безграничного, *йогина̄м хр̣дайе на ча* — равно как Я не существую, не пребываю в сердце мыслителя, в сердце *йогина*, то есть мыслящего о мельчайшей части бытия, тончайшей части, наиболее тонком аспекте мира, — Меня там нет. *Мад-бхакта̄х̣ йатра га̄йанти*: но везде, где Мои преданные прославляют Меня, там Я пребываю. Где Мои преданные говорят обо Мне, там Я есть».
 
 *#00:01:33#*
 

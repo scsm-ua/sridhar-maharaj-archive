@@ -1,20 +1,17 @@
 ---
-slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
+slug: 1982-04-16-c7_pogranichnaya_priroda_dushi_prichina_ee_uyazvimosti
+record_id: 1982.04.16.C7
+title: Пограничная природа души – причина ее уязвимости
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5497344
+  duration: 00:04:22
+  src: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
+date: 1982-04-16
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 15.16
-    slug: bhagavad-gita-15-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.mp3
     title: аудиозапись в MP3 (4 мин. 22 сек., 5,3 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/36._Proishozhdenie_dushi/581_1982.04.16.C7_SridharMj_Pogranichnaja_priroda_dushi--prichina_ee_ujazvimosti.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 581. 1982.04.16.C7. Пограничная природа души – причина ее уязвимости
+  index: "581"
+  filename: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti.md
+  slug: 581-1982-04-16-c7-pogranichnaya-priroda-dushi-prichina-ee-uyazvimosti
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.108
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-108
+  - title: Бхагавад-гита 15.16
+    slug: bhagavad-gita-15-16
 ---
-
-# 581. 1982.04.16.C7. Пограничная природа души – причина ее уязвимости
 
 **Преданный:** Почему мы являемся обманщиками?
 
@@ -43,7 +48,7 @@ links:
     два̄в имау пурушау локе(?)
 [^_ftn2]
 
-Два вида творения, в бытии мы находим два вида реалий, *кшара* и *акшара.* Статичная часть бытия также может прийти в движение в динамичном измерении эксплуатации, и также составляющие частицы этого статичного измерения могут вступить в измерение преданности. Такие объяснения нам даны, мы должны их принять и идти вперед с этой информацией, опираясь на нее.
+Два вида творения, в бытии мы находим два вида реалий, *кшара* и *акшара*. Статичная часть бытия также может прийти в движение в динамичном измерении эксплуатации, и также составляющие частицы этого статичного измерения могут вступить в измерение преданности. Такие объяснения нам даны, мы должны их принять и идти вперед с этой информацией, опираясь на нее.
 
 
 

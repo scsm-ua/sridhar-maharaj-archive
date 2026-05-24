@@ -1,14 +1,20 @@
 ---
-slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
+slug: 1982-07-18-a5_gradatsiya_v_urovnyah_sluzheniya_svyatomu_imeni_prasadu_bozhestvam_i_chtenii_pisaniy
+record_id: 1982.07.18.A5
+title: Градация в уровнях служения Святому Имени, прасаду, Божествам и чтении Писаний
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10372201
+  duration: 00:09:52
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3
+date: 1982-07-18
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Бхакти-йога
     slug: bhakti-joga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.mp3
     title: аудиозапись в MP3 (9 мин. 52 сек., 9,9 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (115 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/790_1982.07.18.A5_SridharMj_Gradacija_v_urovnjah_sluzhenija_Svjatomu_Imeni_prasadu_Bozhestvam_i_chtenii_Pisanij.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 790. 1982.07.18.A5. Градация в уровнях служения Святому Имени, прасаду,
+    Божествам и чтении Писаний
+  index: "790"
+  filename: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
+  slug: 790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij
 ---
-
-# 790. 1982.07.18.A5. Градация в уровнях служения Святому Имени, прасаду, Божествам и чтении Писаний
 
 **Шрила Шридхар Махарадж:** Вы понимаете, нет?
 

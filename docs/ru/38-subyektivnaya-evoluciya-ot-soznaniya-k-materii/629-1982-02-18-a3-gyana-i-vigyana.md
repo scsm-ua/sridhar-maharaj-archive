@@ -1,20 +1,17 @@
 ---
-slug: 629-1982-02-18-a3-gyana-i-vigyana
+slug: 1982-02-18-a3_gyana_i_vigyana
+record_id: 1982.02.18.A3
+title: Гьяна и вигьяна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4929600
+  duration: 00:08:19
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.mp3
+date: 1982-02-18
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 12.12.55
-    slug: shrimad-bhagavatam-12-12-55
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 7.2
-    slug: bhagavad-gita-7-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.mp3
     title: аудиозапись в MP3 (8 мин. 19 сек., 4,8 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/629_1982.02.18.A3_SridharMj_Gyana_i_vigyana.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 629. 1982.02.18.A3. Гьяна и вигьяна
+  index: "629"
+  filename: 629-1982-02-18-a3-gyana-i-vigyana.md
+  slug: 629-1982-02-18-a3-gyana-i-vigyana
+tags:
+  - title: Шримад-Бхагаватам 12.12.55
+    slug: shrimad-bhagavatam-12-12-55
+  - title: Бхагавад-гита 7.2
+    slug: bhagavad-gita-7-2
 ---
-
-# 629. 1982.02.18.A3. Гьяна и вигьяна
 
 Онтология Прекрасной Реальности (часть 1.3)
 

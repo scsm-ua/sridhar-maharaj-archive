@@ -1,18 +1,25 @@
 ---
 slug: 147-sila-predannosti-prityagivaet-i-yavlya
+record_id: 1981.08.14.A2
+title: Сила преданности притягивает и являет Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6107972
+  duration: 00:08:18
+  src: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3
+date: 1981-08-14
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/147_1981.08.14.A2_SridharMj_Sila_predannosti_prityagivaet_i_yavlyaet_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (8 мин 18 сек, размер 6 Мб)
+legacy:
+  title: 147. Сила преданности притягивает и являет Господа. 1981.08.14.A2
+  index: "147"
+  filename: 147-sila-predannosti-prityagivaet-i-yavlya.md
 ---
-
-# 147. Сила преданности притягивает и являет Господа. 1981.08.14.A2
 
 Есть такое произведение «Шишупала-вада» Баладев Видьябхушана цитировал в одном из своих стихов комментариев к Веданте, стихов этого поэта, автора «Шишупала-вады», чтобы прояснить положение Брахмана, вот так это звучит:\
 [Санскрит]

@@ -1,12 +1,17 @@
 ---
-slug: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii
+slug: 1982-07-04-a7_rozhdenie_chelovekom_eto_vozmozhnost_pokinut_mir_ekspluatatsii
+record_id: 1982.07.04.A7
+title: Рождение человеком – это возможность покинуть мир эксплуатации
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6977693
+  duration: 00:04:16
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3
+date: 1982-07-04
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.mp3
     title: аудиозапись в MP3 (4 мин. 15 сек., 6,7 МБ)
@@ -14,11 +19,15 @@ links:
     title: транскрипцию в RTF (76 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/570_1982.07.04.A7_SridharMj_Rozhdenie_chelovekom--jeto_vozmozhnost_pokinut_mir_jekspluatacii.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 570. 1982.07.04.A7. Рождение человеком – это возможность покинуть мир
+    эксплуатации
+  index: "570"
+  filename: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii.md
+  slug: 570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii
 ---
 
-# 570. 1982.07.04.A7. Рождение человеком – это возможность покинуть мир эксплуатации
-
-Это мир, в который посылают преступников, и здесь, в этом мире, мы находим *садху.* Мы пленены очарованием чувственного опыта, и это положение заключенных. Заключенный: слово может быть очень оскорбительным, но когда мы говорим, что мы пленены чувственным наслаждением, то здесь уместно использовать такой термин как «заключенный». Тогда каждый скажет: «Да, у меня нет возражений». Мы — пленники чувственных наслаждений, мы хотим чувственных наслаждений, мы хотим эксплуатации, мы не можем отрицать: мы эксплуататоры.
+Это мир, в который посылают преступников, и здесь, в этом мире, мы находим *садху*. Мы пленены очарованием чувственного опыта, и это положение заключенных. Заключенный: слово может быть очень оскорбительным, но когда мы говорим, что мы пленены чувственным наслаждением, то здесь уместно использовать такой термин как «заключенный». Тогда каждый скажет: «Да, у меня нет возражений». Мы — пленники чувственных наслаждений, мы хотим чувственных наслаждений, мы хотим эксплуатации, мы не можем отрицать: мы эксплуататоры.
 
 *#00:00:57#*
 

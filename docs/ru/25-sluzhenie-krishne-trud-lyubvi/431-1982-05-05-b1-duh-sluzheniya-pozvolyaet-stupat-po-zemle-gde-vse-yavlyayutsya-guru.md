@@ -1,26 +1,26 @@
 ---
-slug: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru
+slug: 1982-05-05-b1_duh_sluzheniya_pozvolyaet_stupat_po_zemle_gde_vse_yavlyayutsya_guru
+record_id: 1982.05.05.B1
+title: Дух служения позволяет ступать по земле, где все являются Гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3655877
+  duration: 00:03:09
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3
+date: 1982-05-05
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.mp3
     title: аудиозапись в MP3 (3 мин. 09 сек., 3,5 МБ)
@@ -28,9 +28,13 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/431_1982.05.05.B1_SridharMj_Duh_sluzhenija_pozvoljaet_stupat_po_zemle_gde_vse_javljajutsja_Guru.pdf
     title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 431. 1982.05.05.B1. Дух служения позволяет ступать по земле, где все
+    являются Гуру
+  index: "431"
+  filename: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru.md
+  slug: 431-1982-05-05-b1-duh-sluzheniya-pozvolyaet-stupat-po-zemle-gde-vse-yavlyayutsya-guru
 ---
-
-# 431. 1982.05.05.B1. Дух служения позволяет ступать по земле, где все являются Гуру
 
 *Ваикун̣т̣хера пр̣тхивй-а̄ди сакала чинмайа…* Это не есть воображение.
 

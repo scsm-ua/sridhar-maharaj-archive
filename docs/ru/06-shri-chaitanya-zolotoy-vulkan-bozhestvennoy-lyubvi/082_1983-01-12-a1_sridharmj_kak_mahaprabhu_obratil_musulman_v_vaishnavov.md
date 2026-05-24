@@ -1,16 +1,22 @@
 ---
-slug: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov
+slug: 1983-01-12-a1_kak_mahaprabhu_obratil_musulman_v_vayshnavov
+record_id: 1983.01.12.A1
+title: Как Махапрабху обратил мусульман в вайшнавов?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5216294
+  duration: 00:09:03
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
+date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: история
     slug: istoriya
   - title: история о патхана-вайшнавах
     slug: istoriya-o-pathana-vajshnavah
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
     title: аудиозапись в MP3 (9 мин. 02 сек., 5.0 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/082_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 082. 1983.01.12.A1 Как Махапрабху обратил мусульман в вайшнавов?
+  index: "082"
+  filename: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov.md
+  slug: 082_1983-01-12-a1_sridharmj_kak_mahaprabhu_obratil_musulman_v_vaishnavov
 ---
-
-# 082. 1983.01.12.A1 Как Махапрабху обратил мусульман в вайшнавов?
 
 **Вопрос:** Махапрабху обратил некоторых мусульман в *патхана-вайшнавов*. Как Ему удалось обратить мусульман в вайшнавизм?
 

@@ -3,9 +3,12 @@ slug: shri-chajtanya-charitamrita-madhya-lila-20-146
 refs:
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/217-1981-03-02-a2-istorii-shrimad-bhagavatam-prizvany-napravit-dushu-k-krishne.md
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha.md
-tags:
+  - ../../_full/1981/03/1981.03.02.md
+  - ../../_full/1981/03/1981.03.02.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.146
     slug: shri-chajtanya-charitamrita-madhya-lila-20-146
 ---

@@ -1,26 +1,17 @@
 ---
-slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
+slug: 1982-02-21-b2_religiya_oznachaet_pravilnoe_samoopredelenie
+record_id: 1982.02.21.B2
+title: Религия означает «правильное самоопределение»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5789688
+  duration: 00:08:31
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
+date: 1982-02-21
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-102
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 3.42
-    slug: bhagavad-gita-3-42
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
-    slug: shri-chajtanya-charitamrita-adi-lila-9-41
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
     title: аудиозапись в MP3 (8 мин. 31 сек., 5,6 МБ)
@@ -28,11 +19,23 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/574_1982.02.21.B2_SridharMj__Religiya_oznachayet_pravilnoye_samoopredeleniye.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
+  index: "574"
+  filename: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
+  slug: 574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.102
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-102
+  - title: Бхагавад-гита 3.42
+    slug: bhagavad-gita-3-42
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
+    slug: shri-chajtanya-charitamrita-adi-lila-9-41
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
 ---
 
-# 574. 1982.02.21.B2. Религия означает «правильное самоопределение»
-
-Мгновения Прекрасной Реальности (часть 2.2)
+## Мгновения Прекрасной Реальности (часть 2.2)
 
 От следствия к причине и от причины к следствию. Мы должны понять это. «Религия означает занять верное положение» — таким было выражение нашего Гуру Махараджа. Он всегда говорил: религия означает занятие верной позиции или правильного положения. Занять верное положение и исполнять свой долг. *Самбандха-гьяна* — полностью знать свое положение и исполнять свой долг. Если Вы исполняете свой долг совершенным образом, тогда соответственно придет достижение высшей цели — *прайоджана-таттва*, *према*, не может не прийти. Но необходимо занятие верного положения.
 

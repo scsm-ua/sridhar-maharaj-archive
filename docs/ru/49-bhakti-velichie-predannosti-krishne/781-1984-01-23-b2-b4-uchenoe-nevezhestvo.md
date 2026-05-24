@@ -1,18 +1,22 @@
 ---
-slug: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo
+slug: 1984-01-23-b2-b4_uchenoe_nevezhestvo
+record_id: 1984.01.23.B2.B4
+title: Ученое невежество
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5862900
+  duration: 00:11:05
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3
+date: 1984-01-23
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Бхакти
     slug: bhakti
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 11
     slug: shri-ishopanishad-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.mp3
     title: аудиозапись в MP3 (11 мин. 04 сек., 5,6 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/781_1984.01.23.B2.B4_SridharMj_Uchenoe_nevejestvo.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 781. 1984.01.23.B2.B4. Ученое невежество
+  index: "781"
+  filename: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo.md
+  slug: 781-1984-01-23-b2-b4-uchenoe-nevezhestvo
 ---
-
-# 781. 1984.01.23.B2.B4. Ученое невежество
 
 **Преданный:** Гуру Махарадж, в «Шри Ишопанишад» присутствует мантра, которая утверждает, что знание и невежество следует культивировать одновременно. Что это означает?
 

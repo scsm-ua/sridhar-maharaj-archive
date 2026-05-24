@@ -3,9 +3,12 @@ slug: bhakti-anukula-matra-3-6
 refs:
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/034_1982-05-15-a-b1_sridharmj_znamja_bozhestvennoj_ljubvi.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/253-1982-02-19-e1-kolichestvo-znanij-vs-ponimanie-suti-bharagrahi-i-saragrahi.md
-tags:
+  - ../../_full/1982/02/1982.02.19.E.md
+  - ../../_full/1982/05/1982.05.15.A.B1.md
+scriptures:
   - title: Бхакти-анукула-матра
     slug: bhakti-anukula-matra
+verses:
   - title: Бхакти-анукула-матра 3.6
     slug: bhakti-anukula-matra-3-6
 ---

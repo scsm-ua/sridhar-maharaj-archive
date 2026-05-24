@@ -1,14 +1,20 @@
 ---
-slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
+slug: 1981-03-01-a5-b1_vechnye_miry_avatarov_oppozitsiya_tenevoy_aspekt_lily
+record_id: 1981.03.01.A5.B1
+title: Вечные миры аватаров. Оппозиция – теневой аспект лилы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8602843
+  duration: 00:16:34
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.mp3
+date: 1981-03-01
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Нарасимха
     slug: narasimha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.mp3
     title: аудиозапись в MP3 (16 мин. 34 сек., 8,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (151 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/161_1981.03.01.A5.B1_SridharMj_Vechnye_miry_avatarov___Oppozicija_tenevoj_aspekt_lily.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 161. 1981.03.01.A5.B1. Вечные миры аватаров. Оппозиция – теневой аспект лилы
+  index: "161"
+  filename: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily.md
+  slug: 161-1981-03-01-a5-b1-vechnye-miry-avatarov-oppozitsiya-tenevoj-aspekt-lily
 ---
-
-# 161. 1981.03.01.A5.B1. Вечные миры аватаров. Оппозиция – теневой аспект лилы
 
 **Преданный:** Я хочу спросить. Мы видим, как Кришна нисходит во многих воплощениях…
 

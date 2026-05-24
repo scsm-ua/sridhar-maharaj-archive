@@ -1,18 +1,25 @@
 ---
-slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
+slug: 1983-01-15-v2_sannyasa_mahaprabhu_chast_2
+record_id: 1983.01.15
+variant: 2
+title: Санньяса Махапрабху, часть 2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17525685
+  duration: 00:34:41
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
+date: 1983-01-15
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
   - title: пратьякша-парокша-апарокша-адхокшаджа-апракрита
     slug: pratyaksha-paroksha-aparoksha-adhokshad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
     title: аудиозапись в MP3 (34 мин. 41 сек., 64 кбит/сек, 17 МБ)
@@ -20,9 +27,12 @@ links:
     title: транскрипцию в RTF (176 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/074_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.pdf
     title: транскрипцию в PDF (199 КБ)
+legacy:
+  title: 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
+  index: "074"
+  filename: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2.md
+  slug: 074_1983-01-15_sridharmj_sanyasa_mahaprabhu_part2
 ---
-
-# 074. 1983.01.15 Санньяса Махапрабху, часть 2. (1983)
 
 **Как проходил обряд принятия санньясы Махапрабху?**
 
@@ -150,7 +160,7 @@ links:
 
 *#00:20:28#*
 
-Кто есть Васудева? Этому дано ясное объяснение. *Саттвам̇ виш́уддхам̇ васудева-ш́абдитам̇.*
+Кто есть Васудева? Этому дано ясное объяснение. *Саттвам̇ виш́уддхам̇ васудева-ш́абдитам̇*.
 
 Далее: *тама*, *раджа*, *саттва* — от невежества к знанию, от неведения к чистому сознанию. *Вишудха-саттва*, чистое, неоскверненное сознание, независимое от любого соприкосновения с материей. Это сознание известно как Васудева. Кто есть Васудева? Отец Кришны. От него происходит Кришна-Васудева и Его имя также. Он есть неоскверненное, чистое сознание. Полнота сознания, свободного от любого материального осквернения. Это и есть Васудева, такова Его природа. В этом измерении сознания Он пребывает в качестве Наслаждающегося всем сущим. Он есть Васудева.
 

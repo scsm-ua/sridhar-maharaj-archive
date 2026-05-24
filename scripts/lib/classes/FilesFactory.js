@@ -38,9 +38,32 @@ class FilesFactory {
             this.documents.push(doc);
         });
 
+        this.validateSlugs();
+
         this.createFootnoteFiles();
 
         // analyzeFootnotes2(this.footnotes);
+    }
+
+    validateSlugs() {
+        var seen = {};
+        this.documents.forEach(doc => {
+            var slug = doc.meta && doc.meta.slug;
+            if (!slug) {
+                console.warn(`[slug] No slug in: ${doc.filename}`);
+                return;
+            }
+            if (!seen[slug]) {
+                seen[slug] = [];
+            }
+            seen[slug].push(doc.filename);
+        });
+        Object.entries(seen).forEach(([slug, files]) => {
+            if (files.length > 1) {
+                console.warn(`[slug] Duplicate slug "${slug}" found in ${files.length} files:`);
+                files.forEach(f => console.warn('  -', f));
+            }
+        });
     }
 
     createFootnoteFiles() {
@@ -236,11 +259,10 @@ class FilesFactory {
 
         this.documents.forEach(doc => {
             var md = doc.renderFile();
-            // var filename = doc.filename.replace('/ru/', '/ru-2/');
-            // var dir = dirname(filename);
-            // if (!fs.existsSync(dir)) {
-            //     fs.mkdirSync(dir, { recursive: true });
-            // }
+            var dir = dirname(doc.filename);
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
             fs.writeFileSync(doc.filename, md);
 
             (doc.meta.tags || []).forEach(t => {

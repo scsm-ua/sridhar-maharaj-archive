@@ -1,14 +1,20 @@
 ---
-slug: 611-1983-03-04-b2-dusha-i-materialnaya-energiya
+slug: 1983-03-04-b2_dusha_i_materialnaya_energiya
+record_id: 1983.03.04.B2
+title: Душа и материальная энергия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6559222
+  duration: 00:10:16
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/611_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
+date: 1983-03-04
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/611_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.mp3
     title: аудиозапись в MP3 (10 мин. 16 сек., 6,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (106 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/611_1983.03.04.B2_SridharMj_Dusha_i_materialnaya_energiya.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 611. 1983.03.04.B2. Душа и материальная энергия
+  index: "611"
+  filename: 611-1983-03-04-b2-dusha-i-materialnaya-energiya.md
+  slug: 611-1983-03-04-b2-dusha-i-materialnaya-energiya
 ---
-
-# 611. 1983.03.04.B2. Душа и материальная энергия
 
 Вриндаван находится в составе Матхура-мандалы, затем есть Дварака. Матхура Кришна иногда находится в Матхуре, и заключительная часть игр происходит в Двараке. Матхура[-мандала] делится на Матхуру, Вриндаван и Двараку. Подобная концепция. Что-то еще?
 
@@ -84,7 +93,7 @@ links:
 
 **Шрила Шридхар Махарадж:** *Сагуна-брахман*, *ниргуна-брахман*.
 
-**Джая Гауранга Прабху:** Не могли бы вы объяснить смысл этих терминов, разницу между *сагуна-* и *ниргуна-брахманом*?
+**Джая Гауранга Прабху:** Не могли бы вы объяснить смысл этих терминов, разницу между *сагуна*- и *ниргуна-брахманом*?
 
 *#00:07:52#*
 

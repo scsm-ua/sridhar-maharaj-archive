@@ -1,5 +1,12 @@
 ---
 slug: 28-ontologiya-pancha-tattvy
+title: Онтология панча-таттвы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11996442
+  duration: 00:24:46
+  src: /wp-content/uploads/2012/08/028_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -12,13 +19,14 @@ tags:
     slug: mahaprabhu
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/028_2012.07.27.2_SridharMj_Ontologiya_pancha-tattvy.mp3
     title: Скачать аудиозапись в mp3 (24 мин 46 сек, размер 12 Мб)
+legacy:
+  title: 28. Онтология панча-таттвы.
+  index: "28"
+  filename: 28-ontologiya-pancha-tattvy.md
 ---
-
-# 28. Онтология панча-таттвы.
 
 **Ученик:** Гуру Махарадж, не могли бы вы объяснить онтологические различия между ипостасями Панча-таттвы?
 

@@ -1,14 +1,20 @@
 ---
-slug: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya
+slug: 1982-09-05-b2_prasad_reshenie_problemy_mirskogo_bytiya
+record_id: 1982.09.05.B2
+title: Прасад — решение проблемы мирского бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2032661
+  duration: 00:02:22
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
+date: 1982-09-05
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Прасад
     slug: prasad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
     title: аудиозапись в MP3 (7 мин. 49 сек., 2,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/794_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 794. 1982.09.05.B2. Прасад — решение проблемы мирского бытия
+  index: "794"
+  filename: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya.md
+  slug: 794-1982-09-05-b2-prasad-reshenie-problemy-mirskogo-bytiya
 ---
-
-# 794. 1982.09.05.B2. Прасад — решение проблемы мирского бытия
 
 **Преданный:** Слушая вас, мы наполняемся энергией, но мы боимся, что вы от общения с нами что-то теряете.
 

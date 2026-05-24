@@ -1,12 +1,17 @@
 ---
-slug: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii
+slug: 1982-02-24-a2_duhovnoe_vospriyatie_osnovano_na_slushanii
+record_id: 1982.02.24.A2
+title: Духовное восприятие основано на слушании
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2936684
+  duration: 00:02:26
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.mp3
+date: 1982-02-24
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.mp3
     title: аудиозапись в MP3 (2 мин. 26 сек., 2,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (42 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1019_1982.02.24.A2_SridharMj_Duhovnoe_vosprijatie_osnovano_na_slushanii.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 1019. 1982.02.24.A2. Духовное восприятие основано на слушании
+  index: "1019"
+  filename: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii.md
+  slug: 1019-1982-02-24-a2-duhovnoe-vospriyatie-osnovano-na-slushanii
 ---
-
-# 1019. 1982.02.24.A2. Духовное восприятие основано на слушании
 
 **Шрила Шридхар Махарадж:** Кто это стоит? Нет места?
 

@@ -1,12 +1,17 @@
 ---
-slug: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi
+slug: 1983-11-05-a5_obyasnenie_smysla_go-pudzhi_i_bali-daita-radzh_pudzhi
+record_id: 1983.11.05.A5
+title: Объяснение смысла го-пуджи и Бали-даита-радж пуджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4096544
+  duration: 00:03:20
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.mp3
+date: 1983-11-05
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.mp3
     title: аудиозапись в MP3 (3 мин. 20 сек., 4,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/804_1983.11.05.A5_SridharMj_Objasnenie_smysla_go-pudzhi_i_Bali-daita-radzh_pudzhi.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 804. 1983.11.05.A5. Объяснение смысла го-пуджи и Бали-даита-радж пуджи
+  index: "804"
+  filename: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi.md
+  slug: 804-1983-11-05-a5-obyasnenie-smysla-go-pudzhi-i-bali-daita-radzh-pudzhi
 ---
-
-# 804. 1983.11.05.A5. Объяснение смысла го-пуджи и Бали-даита-радж пуджи
 
 **Преданный:** Махарадж, позвольте спросить о *го-пудже*: она указана в календаре.
 
@@ -34,7 +42,7 @@ links:
 
 *#00:02:38#*
 
-Скорей всего, сегодня эта *пуджа*, сегодня Бали дайтья-радж*-пуджа.* Бали дайтья-радж предался Вамане в этот день, сегодня. Таким образом, ему следует в целом оказывать почтение, мы должны поклоняться ему. Это явление не связано с *вриндаван-лилой* Говардхана: это отдельное явление, оно произошло сегодня.
+Скорей всего, сегодня эта *пуджа*, сегодня Бали дайтья-радж-*пуджа*. Бали дайтья-радж предался Вамане в этот день, сегодня. Таким образом, ему следует в целом оказывать почтение, мы должны поклоняться ему. Это явление не связано с *вриндаван-лилой* Говардхана: это отдельное явление, оно произошло сегодня.
 
 [Харе Кришна, Харе Кришна, Харе Кришна]
 

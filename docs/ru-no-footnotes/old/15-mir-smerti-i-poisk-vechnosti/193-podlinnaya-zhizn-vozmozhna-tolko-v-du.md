@@ -1,5 +1,12 @@
 ---
 slug: 193-podlinnaya-zhizn-vozmozhna-tolko-v-du
+title: Подлинная жизнь возможна только в духовном измерении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3509471
+  duration: 00:06:01
+  src: /wp-content/uploads/2012/08/193_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
@@ -8,13 +15,14 @@ tags:
     slug: lyubov
   - title: Самопожертвование
     slug: samopozhertvovanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/193_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
     title: Скачать аудиозапись в mp3 (6 мин 1 сек, размер 3 Мб)
+legacy:
+  title: 193. Подлинная жизнь возможна только в духовном измерении.
+  index: "193"
+  filename: 193-podlinnaya-zhizn-vozmozhna-tolko-v-du.md
 ---
-
-# 193. Подлинная жизнь возможна только в духовном измерении.
 
 *#00:00:00#*
 

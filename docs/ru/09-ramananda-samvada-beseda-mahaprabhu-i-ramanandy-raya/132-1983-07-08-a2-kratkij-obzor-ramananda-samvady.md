@@ -1,21 +1,24 @@
 ---
-slug: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady
+slug: 1983-07-08-a2_kratkiy_obzor_ramananda-samvady
+record_id: 1983.07.08.A2
+title: Краткий обзор Рамананда-самвады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6530978
+  duration: 00:13:06
+  src: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.mp3
+date: 1983-07-08
 category:
   title: 09. Рамананда-самвада — беседа Махапрабху и Рамананды Рая
   slug: 09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
     slug: shri-chajtanya-charitamrita-madhya-lila-8-58
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 3.8.9
     slug: vishnu-purana-3-8-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.59
@@ -26,16 +29,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264
     slug: shri-chajtanya-charitamrita-madhya-lila-9-264
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.11.32
     slug: shrimad-bhagavatam-11-11-32
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.64
@@ -50,7 +49,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.mp3
     title: аудиозапись в MP3 (13 мин. 05 сек., 6.3 МБ)
@@ -58,9 +56,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/09._Ramananda-samvada--beseda_Mahaprabhu_i_Ramanandy_Raya/132_1983.07.08.A2_SridharMj_Kratkiy_obzor_Ramananda-samvady.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 132. 1983.07.08.A2. Краткий обзор Рамананда-самвады
+  index: "132"
+  filename: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady.md
+  slug: 132-1983-07-08-a2-kratkij-obzor-ramananda-samvady
 ---
-
-# 132. 1983.07.08.A2. Краткий обзор Рамананда-самвады
 
 Махапрабху спрашивает в «Чайтанья-чаритамрите» Рая Рамананду: «Каково наше место назначения, и как достичь нашей цели?» Рамананда начинает с концепции *варнашрамы*.
 

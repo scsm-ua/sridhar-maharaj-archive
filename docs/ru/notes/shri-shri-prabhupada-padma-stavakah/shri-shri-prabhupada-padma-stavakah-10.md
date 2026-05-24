@@ -3,9 +3,10 @@ slug: shri-shri-prabhupada-padma-stavakah-10
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1106-1982-05-09-a1-obyasnenie-desyatogo-stiha-shri-shri-prabhupada-padma-stavakah.md
-tags:
+scriptures:
   - title: Шри Шри Прабхупада-падма Ставаках
     slug: shri-shri-prabhupada-padma-stavakah
+verses:
   - title: Шри Шри Прабхупада-падма Ставаках 10
     slug: shri-shri-prabhupada-padma-stavakah-10
 ---

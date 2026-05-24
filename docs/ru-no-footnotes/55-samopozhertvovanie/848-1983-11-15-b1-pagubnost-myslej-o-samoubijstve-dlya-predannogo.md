@@ -1,14 +1,20 @@
 ---
-slug: 848-1983-11-15-b1-pagubnost-myslej-o-samoubijstve-dlya-predannogo
+slug: 1983-11-15-b1_pagubnost_mysley_o_samoubiystve_dlya_predannogo
+record_id: 1983.11.15.B1
+title: Пагубность мыслей о самоубийстве для преданного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7148241
+  duration: 00:06:22
+  src: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.mp3
+date: 1983-11-15
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.mp3
     title: аудиозапись в MP3 (6 мин. 22 сек., 6,9 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/55._Samopozhertvovanie/848_1983.11.15.B1_SridharMj_Pagubnost_myslej_o_samoubijstve_dlja_predannogo.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 848. 1983.11.15.B1. Пагубность мыслей о самоубийстве для преданного
+  index: "848"
+  filename: 848-1983-11-15-b1-pagubnost-myslej-o-samoubijstve-dlya-predannogo.md
+  slug: 848-1983-11-15-b1-pagubnost-myslej-o-samoubijstve-dlya-predannogo
 ---
-
-# 848. 1983.11.15.B1. Пагубность мыслей о самоубийстве для преданного
 
 Это очень плохо. Когда дается шанс человеческой жизни, очень ценной, особенно когда эта человеческая жизнь связана с сознанием Кришны, — то это очень-очень ценный, драгоценный шанс. И отвергнуть, испытывать отвращение к такого рода жизни значит испытывать отвращение к Кришне. Вы понимаете? Преданные всегда пытаются использовать это время для того, чтобы установить связь с Кришной. В высшей степени ценный шанс. Если человек его теряет, то это — очень плохо. Никогда не следует позволять подобному представлению проникать в вашу ментальную сферу, никогда не следует потворствовать подобным мыслям. То будет проклятие не только в этой жизни, но и во многих жизнях, в будущих жизнях также подобная идея будет охотиться за вами, поэтому никогда не следует потворствовать таким мыслям.
 

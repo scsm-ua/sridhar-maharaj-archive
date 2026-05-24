@@ -1,12 +1,17 @@
 ---
-slug: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti
+slug: 1982-01-17-b2_bravada_eto_protivopolozhnost_podlinnoy_duhovnosti
+record_id: 1982.01.17.B2
+title: Бравада — это противоположность подлинной духовности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2472667
+  duration: 00:04:05
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
+date: 1982-01-17
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
     title: аудиозапись в MP3 (4 мин. 05 сек., 2,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1048_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.pdf
     title: транскрипцию в PDF (69 КБ)
+legacy:
+  title: 1048. 1982.01.17.B2. Бравада — это противоположность подлинной духовности
+  index: "1048"
+  filename: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti.md
+  slug: 1048-1982-01-17-b2-bravada-eto-protivopolozhnost-podlinnoj-duhovnosti
 ---
-
-# 1048. 1982.01.17.B2. Бравада — это противоположность подлинной духовности
 
 *#00:41:59#*
 

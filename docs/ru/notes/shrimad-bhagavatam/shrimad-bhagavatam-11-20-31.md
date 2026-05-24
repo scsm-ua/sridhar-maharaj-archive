@@ -2,13 +2,15 @@
 slug: shrimad-bhagavatam-11-20-31
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
-tags:
+  - ../../_full/1983/07/1983.07.18.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.146
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-146
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.146
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-146
   - title: Шримад-Бхагаватам 11.20.31
     slug: shrimad-bhagavatam-11-20-31
 ---

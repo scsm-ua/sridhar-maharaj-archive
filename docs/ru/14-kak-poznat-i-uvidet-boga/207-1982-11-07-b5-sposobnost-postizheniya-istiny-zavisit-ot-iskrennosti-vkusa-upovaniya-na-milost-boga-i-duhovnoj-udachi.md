@@ -1,35 +1,52 @@
 ---
-slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
+slug: 1982-11-07-b5_sposobnost_postizheniya_istiny_zavisit_ot_iskrennosti_vkusa_upovaniya_na_milost_boga_i_duhovnoy_udachi
+record_id: 1982.11.07.B5
+title: Способность постижения Истины зависит от искренности, вкуса, упования на
+  милость Бога и духовной удачи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25952381
+  duration: 00:26:19
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
+date: 1982-11-07
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
+links:
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
+    title: аудиозапись в MP3 (26 мин. 18 сек., 24,8 МБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.rtf
+    title: транскрипцию в RTF (336 КБ)
+  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.pdf
+    title: транскрипцию в PDF (195 КБ)
+legacy:
+  title: 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности,
+    вкуса, упования на милость Бога и духовной удачи
+  index: "207"
+  filename: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
+  slug: 207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi
 tags:
-  - title: "1982.11"
-    slug: 1982-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.89
     slug: shri-chajtanya-charitamrita-madhya-lila-6-89
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.88
     slug: shri-chajtanya-charitamrita-madhya-lila-6-88
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
   - title: Шримад-Бхагаватам 3.15.43
     slug: shrimad-bhagavatam-3-15-43
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-157
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
   - title: Шримад-Бхагаватам 10.1.4
     slug: shrimad-bhagavatam-10-1-4
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.72
@@ -40,8 +57,6 @@ tags:
     slug: shrimad-bhagavatam-11-14-8
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -56,17 +71,7 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.mp3
-    title: аудиозапись в MP3 (26 мин. 18 сек., 24,8 МБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.rtf
-    title: транскрипцию в RTF (336 КБ)
-  - href: /dl/14._Kak_poznat_i_uvidet_Boga/207_1982.11.07.B5_SridharMj_Sposobnost_postizhenija_Istiny_zavisit_ot_iskrennosti_vkusa_upovanija_na_milost_Boga_i_duhovnoj_udachi.pdf
-    title: транскрипцию в PDF (195 КБ)
 ---
-
-# 207. 1982.11.07.B5. Способность постижения Истины зависит от искренности, вкуса, упования на милость Бога и духовной удачи
 
 Существуют тонкие положения, и все зависит от искренности души, которая способна знать, что есть что.
 
@@ -115,7 +120,7 @@ links:
 
 *#00:04:39#*
 
-Преданные *шанта-расы:*
+Преданные *шанта-расы*:
 
     [тасйа̄равинда-найанасйа пада̄равинда-]
     кин̃джалка-миш́ра-туласӣ-макаранда-ва̄йух̣
@@ -247,7 +252,7 @@ links:
 
 *#00:24:40#*
 
-Вопрос энергии *карми(?).* Существует множество военачальников, генералов — Ганнибал, Александр Македонский; существует множество ученых — Ньютон, Эйнштейн и так далее. Высочайшим критерием служит преданность, покорность Абсолютному, Одному. Он — один, и любовь к Нему, вера в Него — вот высочайший критерий, с помощью которого можно судить о том, кто есть кто. Этим высочайшим критерием служит наше искреннее самоотдание, отдание себя Ему, привязанность, преданность Высочайшему Центру, а не способность знать, интеллект, не говоря уже о грубой [буквально] сырой энергии.
+Вопрос энергии *карми*(?). Существует множество военачальников, генералов — Ганнибал, Александр Македонский; существует множество ученых — Ньютон, Эйнштейн и так далее. Высочайшим критерием служит преданность, покорность Абсолютному, Одному. Он — один, и любовь к Нему, вера в Него — вот высочайший критерий, с помощью которого можно судить о том, кто есть кто. Этим высочайшим критерием служит наше искреннее самоотдание, отдание себя Ему, привязанность, преданность Высочайшему Центру, а не способность знать, интеллект, не говоря уже о грубой [буквально] сырой энергии.
 
 *#00:24:40#*
 

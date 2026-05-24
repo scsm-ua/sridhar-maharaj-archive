@@ -1,12 +1,17 @@
 ---
-slug: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu
+slug: 1981-02-28-d4_podlinnyy_progress_dvizhenie_ot_smerti_k_bessmertiyu
+record_id: 1981.02.28.D4
+title: Подлинный прогресс — движение от смерти к бессмертию
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8447040
+  duration: 00:11:35
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
+date: 1981-02-28
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1981.02"
-    slug: 1981-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.mp3
     title: аудиозапись в MP3 (11 мин. 34 сек., 8,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (125 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/557_1981.02.28.D4_SridharMj_Podlinniy_progress-dvijenie_ot_smerti_k_bessmertiyu.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 557. 1981.02.28.D4. Подлинный прогресс — движение от смерти к бессмертию
+  index: "557"
+  filename: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu.md
+  slug: 557-1981-02-28-d4-podlinnyj-progress-dvizhenie-ot-smerti-k-bessmertiyu
 ---
-
-# 557. 1981.02.28.D4. Подлинный прогресс — движение от смерти к бессмертию
 
 **Преданный:** Недавно была большая международная научная конференция в Торонто, в этом году, в январе. Я тоже присутствовал на этой конференции. Там участвовали пять тысяч ученых со всего мира.
 

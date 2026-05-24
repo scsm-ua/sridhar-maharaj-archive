@@ -1,11 +1,18 @@
 ---
 slug: 260-flejta-krishny-1982-01-03-b
+record_id: 1982.01.03.B
+title: Флейта Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15408693
+  duration: 00:26:37
+  src: /wp-content/uploads/2012/08/260_1982.01.03.B_SridharMj_Fleyta_Krishny.mp3
+date: 1982-01-03
 category:
   title: (20. Гаятри-мантра и мантра "ОМ")
   slug: 20-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Божество
     slug: bozhestvo
   - title: Вишнуприя Деви
@@ -22,13 +29,14 @@ tags:
     slug: nityananda-prabhu
   - title: Субал Сакха
     slug: subal-sakha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/260_1982.01.03.B_SridharMj_Fleyta_Krishny.mp3
     title: Скачать аудиозапись в mp3 (26 мин 37 сек, размер 15 Мб)
+legacy:
+  title: 260. Флейта Кришны. 1982.01.03.B
+  index: "260"
+  filename: 260-flejta-krishny-1982-01-03-b.md
 ---
-
-# 260. Флейта Кришны. 1982.01.03.B
 
 **Ученик:** Махарадж, флейта Кришны, вену?
 

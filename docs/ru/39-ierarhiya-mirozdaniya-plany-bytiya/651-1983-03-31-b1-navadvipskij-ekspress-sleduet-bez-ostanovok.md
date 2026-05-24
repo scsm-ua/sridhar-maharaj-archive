@@ -1,27 +1,38 @@
 ---
-slug: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok
+slug: 1983-03-31-b1_navadvipskiy_ekspress_sleduet_bez_ostanovok
+record_id: 1983.03.31.B1
+title: Навадвипский экспресс следует без остановок
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10025902
+  duration: 00:18:01
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
+date: 1983-03-31
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
+links:
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
+    title: аудиозапись в MP3 (18 мин. 01 сек., 9,6 МБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.rtf
+    title: транскрипцию в RTF (163 КБ)
+  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.pdf
+    title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 651. 1983.03.31.B1. Навадвипский экспресс следует без остановок
+  index: "651"
+  filename: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok.md
+  slug: 651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok
 tags:
-  - title: "1983.03"
-    slug: 1983-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.80
     slug: shri-chajtanya-charitamrita-madhya-lila-13-80
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 74
     slug: padyavali-74
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.52
     slug: shri-chajtanya-charitamrita-madhya-lila-22-52
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.12.12
     slug: shrimad-bhagavatam-5-12-12
   - title: Шримад-Бхагаватам 7.5.30
@@ -32,17 +43,7 @@ tags:
     slug: bhagavad-gita-4-34
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.282
     slug: shri-chajtanya-charitamrita-madhya-lila-8-282
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
-    title: аудиозапись в MP3 (18 мин. 01 сек., 9,6 МБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.rtf
-    title: транскрипцию в RTF (163 КБ)
-  - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/651_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.pdf
-    title: транскрипцию в PDF (171 КБ)
 ---
-
-# 651. 1983.03.31.B1. Навадвипский экспресс следует без остановок
 
 «В действительности Я есть все. Все ваши чаяния не могут быть вне Меня. Высочайшее стремление обращено ко Мне, невозможно искать его вне Меня». Столь дружественный, близкий, любящий во всех отношениях. Самый-самый, Ты мой. Подобная любящая сфера, или служение, взаимоотношения (или назовите это как угодно) мы обрели с Ним, с Кришной. Он чудесен, занимает такое положение в абсолютном смысле. Свобода воли и маргинальное положение. Самоопределение, «умереть чтобы жить», все для Него — это условие. Он для Себя. Примите это, и тогда взаимоотношения начинаются. Вначале вы должны признать, что все для Него, затем начинаются взаимоотношения: «Как и почему Ты для меня?»
 

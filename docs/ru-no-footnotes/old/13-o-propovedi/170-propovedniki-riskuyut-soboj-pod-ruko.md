@@ -1,18 +1,28 @@
 ---
 slug: 170-propovedniki-riskuyut-soboj-pod-ruko
+title: Проповедники рискуют собой под руководством квалифицированных вайшнавов.
+  Онтология прекрасной реальности, 7.5.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7032414
+  duration: 00:04:53
+  src: /wp-content/uploads/2012/08/170_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/170_OntologiyaPR_7.5_SridharMj_Propovedniki_riskuyut_soboy_pod_rukovodstvom_kvalifitsirovannyh_vaishnavov.mp3
     title: Скачать аудиозапись в mp3 (4 мин 53 сек, размер 7 Мб)
+legacy:
+  title: 170. Проповедники рискуют собой под руководством квалифицированных
+    вайшнавов. Онтология прекрасной реальности, 7.5
+  index: "170"
+  filename: 170-propovedniki-riskuyut-soboj-pod-ruko.md
 ---
-
-# 170. Проповедники рискуют собой под руководством квалифицированных вайшнавов. Онтология прекрасной реальности, 7.5
 
 **Ученик:** Да, когда мы совершаем *прачар*, то есть проповедуем в западных странах, там настолько скверная атмосфера, что мы вновь загрязняемся. И как мы всегда можем оставаться чистыми, всегда?
 

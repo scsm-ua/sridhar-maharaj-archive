@@ -3,9 +3,13 @@ slug: shri-ishopanishad-5
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
   - ../../55-samopozhertvovanie/843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
-tags:
+  - ../../_full/1982/01/1982.01.28.md
+  - ../../_full/1982/04/1982.04.28.A.B.md
+  - ../../_full/1982/12/1982.12.25.C.md
+scriptures:
   - title: Шри Ишопанишад
     slug: shri-ishopanishad
+verses:
   - title: Шри Ишопанишад 5
     slug: shri-ishopanishad-5
 ---

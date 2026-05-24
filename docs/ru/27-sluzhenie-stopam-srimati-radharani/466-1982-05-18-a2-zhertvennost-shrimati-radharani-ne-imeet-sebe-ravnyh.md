@@ -1,28 +1,17 @@
 ---
-slug: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh
+slug: 1982-05-18-a2_zhertvennost_shrimati_radharani_ne_imeet_sebe_ravnyh
+record_id: 1982.05.18.A2
+title: Жертвенность Шримати Радхарани не имеет себе равных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8326155
+  duration: 00:08:16
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
+date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.110
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-110
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
-    slug: shri-chajtanya-charitamrita-adi-lila-4-219
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
-  - title: Шри Гита-Говинда 3.1
-    slug: shri-gita-govinda-3-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.mp3
     title: аудиозапись в MP3 (8 мин. 16 сек., 8,0 МБ)
@@ -30,9 +19,23 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/466_1982.05.18.A2_SridharMj_Zhertvennost_Shrimati_Radharani_ne_imeet_sebe_ravnyh.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
+  index: "466"
+  filename: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
+  slug: 466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.287
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-287
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.110
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-110
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
+    slug: shri-chajtanya-charitamrita-adi-lila-4-219
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-106
+  - title: Шри Гита-Говинда 3.1
+    slug: shri-gita-govinda-3-1
 ---
-
-# 466. 1982.05.18.A2. Жертвенность Шримати Радхарани не имеет себе равных
 
 **Преданный:** *Амта-никшепа*?
 

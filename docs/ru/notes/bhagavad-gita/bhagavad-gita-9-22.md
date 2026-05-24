@@ -3,9 +3,14 @@ slug: bhagavad-gita-9-22
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/211-1981-03-02-b3-ardzhuna-ardzhuna-acharya-i-dzhayadev-provodniki-otkrovenij-gospoda.md
-tags:
+  - ../../_full/1981/03/1981.03.02.md
+  - ../../_full/1981/09/1981.09.20.A.B.md
+  - ../../_full/1981/11/1981.11.13.A.B.md
+  - ../../_full/1982/01/1982.01.28.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.22
     slug: bhagavad-gita-9-22
 ---
@@ -17,3 +22,7 @@ tags:
 ---
 
 Господь Кришна провозглашает: «Но те, кто постоянно занят мыслями лишь обо Мне и с любовью поклоняется Мне, всегда связаны со Мной. Я сохраняю то, что они уже имеют, и наделяю их тем, чего им недостает» (Бхагавад-гита, 9.22).
+
+---
+
+«Но те, кто постоянно занят мыслями лишь обо Мне и с любовью поклоняется Мне, всегда связаны со Мной. Я сохраняю то, что они уже имеют, и наделяю их тем, чего им недостает» (Бхагавад-гита, 9.22).

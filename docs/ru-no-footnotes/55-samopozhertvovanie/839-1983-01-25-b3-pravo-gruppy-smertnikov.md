@@ -1,14 +1,20 @@
 ---
-slug: 839-1983-01-25-b3-pravo-gruppy-smertnikov
+slug: 1983-01-25-b3_pravo_gruppy_smertnikov
+record_id: 1983.01.25.B3
+title: Право «группы смертников»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11848610
+  duration: 00:22:32
+  src: /dl/55._Samopozhertvovanie/839_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3
+date: 1983-01-25
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/839_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.mp3
     title: аудиозапись в MP3 (22 мин. 31 сек., 11,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/55._Samopozhertvovanie/839_1983.01.25.B3_SridharMj_Pravo_gruppy_smertnikov.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 839. 1983.01.25.B3. Право «группы смертников»
+  index: "839"
+  filename: 839-1983-01-25-b3-pravo-gruppy-smertnikov.md
+  slug: 839-1983-01-25-b3-pravo-gruppy-smertnikov
 ---
-
-# 839. 1983.01.25.B3. Право «группы смертников»
 
 **Преданный:** Махарадж, я вот только что болел: несколько дней тому назад у меня была очень высокая температура, и похоже было, что это состояние сражалось с моей верой в Господа. Я задавался вопросом: почему я страдаю таким жестоким, немилосердным образом? У меня была горячка, я был словно в бреду, я не знал, как поддерживать, сохранять веру. Я не знал, как поверить в то, что все к нам приходит ради нашего блага.
 

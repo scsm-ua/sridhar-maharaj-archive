@@ -1,20 +1,24 @@
 ---
-slug: 289-1981-08-27-a3-tsar-i-nishhij-v-nastroenii-achari
+slug: 1981-08-27-a3_tsar_i_nishchiy_v_nastroenii_achari
+record_id: 1981.08.27.A3
+title: Царь и нищий в настроении ачарьи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3010748
+  duration: 00:03:30
+  src: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.mp3
+date: 1981-08-27
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гуру-таттва
     slug: guru-tattva
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.129
     slug: shri-chajtanya-charitamrita-madhya-lila-7-129
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.mp3
     title: аудиозапись в MP3 (3 мин. 29 сек., 2,9 МБ)
@@ -22,9 +26,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/289_1981.08.27.A3_SridharMj_Car_i_nishhij_v_nastroenii_achari.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 289. 1981.08.27.A3. Царь и нищий в настроении ачарьи
+  index: "289"
+  filename: 289-1981-08-27-a3-tsar-i-nishhij-v-nastroenii-achari.md
+  slug: 289-1981-08-27-a3-tsar-i-nishhij-v-nastroenii-achari
 ---
-
-# 289. 1981.08.27.A3. Царь и нищий в настроении ачарьи
 
 **Преданный:** Махарадж, такой преданный как Бхактивинод Тхакур утверждает подобное, что мы должны думать?
 

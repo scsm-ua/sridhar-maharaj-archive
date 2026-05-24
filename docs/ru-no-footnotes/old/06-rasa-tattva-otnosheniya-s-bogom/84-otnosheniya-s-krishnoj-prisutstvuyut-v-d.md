@@ -1,22 +1,30 @@
 ---
 slug: 84-otnosheniya-s-krishnoj-prisutstvuyut-v-d
+record_id: 1981.03.05.B5
+title: Отношения с Кришной присутствуют в душе в дремлющей форме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4009430
+  duration: 00:05:36
+  src: /wp-content/uploads/2012/08/084_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
+date: 1981-03-05
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/084_1981.03.05.B5_SridharMj_Otnosheniya_s_Krishnoy_prisutstvuyut_v_dushe_v_dremlyuwey_forme.mp3
     title: Скачать аудиозапись в mp3 (5 мин 36 сек, размер 4 Мб)
+legacy:
+  title: 84. Отношения с Кришной присутствуют в душе в дремлющей форме. 1981.03.05.B5
+  index: "84"
+  filename: 84-otnosheniya-s-krishnoj-prisutstvuyut-v-d.md
 ---
-
-# 84. Отношения с Кришной присутствуют в душе в дремлющей форме. 1981.03.05.B5
 
 **Ученик:** Мы обсуждали в нашем храме, у нас была здесь дискуссия в храме, кто-то сказал, что живое существо исходит из *брахмаджьоти*, а другие говорили, что живое существо изначально находилось с Кришной в мире сознания Кришны.
 

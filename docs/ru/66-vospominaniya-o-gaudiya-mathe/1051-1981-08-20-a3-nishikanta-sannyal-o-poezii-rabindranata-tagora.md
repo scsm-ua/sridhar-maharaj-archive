@@ -1,12 +1,17 @@
 ---
-slug: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora
+slug: 1981-08-20-a3_nishikanta_sannyal_o_poezii_rabindranata_tagora
+record_id: 1981.08.20.A3
+title: Нишиканта Санньял о поэзии Рабиндраната Тагора
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2744550
+  duration: 00:04:39
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.mp3
+date: 1981-08-20
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 2,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1051_1981.08.20.A3_SridharMj_Nishikanta_Sannyal_o_poezii_Rabindranata_Tagora.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 1051. 1981.08.20.A3. Нишиканта Санньял о поэзии Рабиндраната Тагора
+  index: "1051"
+  filename: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora.md
+  slug: 1051-1981-08-20-a3-nishikanta-sannyal-o-poezii-rabindranata-tagora
 ---
-
-# 1051. 1981.08.20.A3. Нишиканта Санньял о поэзии Рабиндраната Тагора
 
 **Преданный:** [бенгали]
 

@@ -1,20 +1,28 @@
 ---
 slug: 64-bozhestvennoe-nevedenie-chast-krishn
+record_id: 1983.01.04.A2
+title: Божественное неведение — часть кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2824148
+  duration: 00:04:04
+  src: /wp-content/uploads/2012/08/064_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_krishna-lily.mp3
+date: 1983-01-04
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/064_1983.01.04.A2_SridharMj_Bojestvennoe_nevedenie-chast_krishna-lily.mp3
     title: Скачать аудиозапись в mp3 (4 мин 4 сек, размер 2 Мб)
+legacy:
+  title: 64. Божественное неведение — часть кришна-лилы. 1983.01.04.A2
+  index: "64"
+  filename: 64-bozhestvennoe-nevedenie-chast-krishn.md
 ---
-
-# 64. Божественное неведение — часть кришна-лилы. 1983.01.04.A2
 
 **Преданный:** Я слышал от кого-то: когда душа возвращается на Кришна-локу, то Гуру лично представляет эту душу Кришне. Это правда?
 

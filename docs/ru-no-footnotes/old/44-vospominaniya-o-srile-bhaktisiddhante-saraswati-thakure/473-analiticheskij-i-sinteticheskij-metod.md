@@ -1,20 +1,28 @@
 ---
 slug: 473-analiticheskij-i-sinteticheskij-metod
+record_id: 1983.01.30.A4
+title: Аналитический и синтетический метод вайшнавской теологии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2501078
+  duration: 00:04:44
+  src: /wp-content/uploads/2012/08/473_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
+date: 1983-01-30
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/473_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
     title: Скачать аудиозапись в mp3 (4 мин 44 сек, размер 2 Мб)
+legacy:
+  title: 473. Аналитический и синтетический метод вайшнавской теологии. 1983.01.30.А4
+  index: "473"
+  filename: 473-analiticheskij-i-sinteticheskij-metod.md
 ---
-
-# 473. Аналитический и синтетический метод вайшнавской теологии. 1983.01.30.А4
 
 **Шридхар Махарадж:** Каков скрытый смысл слова «Партха», каков корень?
 

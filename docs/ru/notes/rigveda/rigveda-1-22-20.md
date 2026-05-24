@@ -2,9 +2,10 @@
 slug: rigveda-1-22-20
 refs:
   - ../../02-krishna-imya-lichnost-temperament/022_1983-05-04-a_sridharmj_rabstvo_u_absoluta-vysochayshaya_svoboda.md
-tags:
+scriptures:
   - title: Ригведа
     slug: rigveda
+verses:
   - title: Ригведа 1.22.20
     slug: rigveda-1-22-20
 ---

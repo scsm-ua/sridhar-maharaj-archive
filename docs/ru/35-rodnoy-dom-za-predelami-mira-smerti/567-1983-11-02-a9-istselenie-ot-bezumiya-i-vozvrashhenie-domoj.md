@@ -1,12 +1,17 @@
 ---
-slug: 567-1983-11-02-a9-istselenie-ot-bezumiya-i-vozvrashhenie-domoj
+slug: 1983-11-02-a9_istselenie_ot_bezumiya_i_vozvrashchenie_domoy
+record_id: 1983.11.02.A9
+title: Исцеление от безумия и возвращение домой
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7322091
+  duration: 00:04:37
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.mp3
+date: 1983-11-02
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.mp3
     title: аудиозапись в MP3 (4 мин. 37 сек., 7,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/567_1983.11.02.A9_SridharMj_Iscelenie_ot_bezumija_i_vozvrashhenie_domoj.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 567. 1983.11.02.A9. Исцеление от безумия и возвращение домой
+  index: "567"
+  filename: 567-1983-11-02-a9-istselenie-ot-bezumiya-i-vozvrashhenie-domoj.md
+  slug: 567-1983-11-02-a9-istselenie-ot-bezumiya-i-vozvrashhenie-domoj
 ---
-
-# 567. 1983.11.02.A9. Исцеление от безумия и возвращение домой
 
 Что помогает нам совершать прогресс в направлении Истины [Господа] — это истина, все остальное — ложь, ложно. То, что помогает мне идти домой, — это настоящая помощь мне, все остальные движения ложны. Безумец может иметь множество представлений, но то, что помогает ему вернуться к нормальной жизни, — это истина, то, что помогает ему вернуться к реальной жизни. Все остальное, все, что удовлетворяет его прихоти, — все это не есть помощь. Подлинная помощь — это помощь, позволяющая вернуться к его нормальной жизни.
 

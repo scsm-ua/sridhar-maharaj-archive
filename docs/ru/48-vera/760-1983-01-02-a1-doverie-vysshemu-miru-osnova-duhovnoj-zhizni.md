@@ -1,30 +1,28 @@
 ---
-slug: 760-1983-01-02-a1-doverie-vysshemu-miru-osnova-duhovnoj-zhizni
+slug: 1983-01-02-a1_doverie_vysshemu_miru_osnova_duhovnoy_zhizni
+record_id: 1983.01.02.A1
+title: Доверие высшему миру — основа духовной жизни
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7301831
+  duration: 00:12:56
+  src: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
+date: 1983-01-02
 category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Вера
     slug: vera
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.78–79
     slug: shri-chajtanya-charitamrita-antya-lila-3-78-79
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.mp3
     title: аудиозапись в MP3 (12 мин. 56 сек., 7,0 МБ)
@@ -32,9 +30,12 @@ links:
     title: транскрипцию в RTF (112 КБ)
   - href: /dl/48._Vera/760_1983.01.02.A1_SridharMj_Doverie_vysshemu_miru-osnova_duhovnoy_jizni.pdf
     title: транскрипцию в PDF (155 КБ)
+legacy:
+  title: 760. 1983.01.02.A1. Доверие высшему миру  — основа духовной жизни
+  index: "760"
+  filename: 760-1983-01-02-a1-doverie-vysshemu-miru-osnova-duhovnoj-zhizni.md
+  slug: 760-1983-01-02-a1-doverie-vysshemu-miru-osnova-duhovnoj-zhizni
 ---
-
-# 760. 1983.01.02.A1. Доверие высшему миру  — основа духовной жизни
 
 …Зависит от природы человека, который приходит с прошением. Существует секция, группа людей, которым Майя Деви говорит: «Нет-нет, вы отправляйтесь на Вайкунтху, ваш срок окончен». Но это редкий случай, редкая группа. С абсолютной точки зрения ее положение таково: тюремщик, надзиратель в тюрьме, главный надзиратель не должен стремиться к тому, чтобы все вышли раньше срока. Он должен помогать заключенному таким образом, чтобы по истечении определенного времени он мог выйти из тюрьмы, но не так, чтобы, выйдя на свободу, человек вновь взялся за старое. Разумный тюремщик видит, что срок человека окончен реальным образом, настало время выйти на свободу, но не так, что если он выйдет на свободу, то он вновь начнет беспокоить мирных граждан и вновь угодит в тюрьму. В таком случае ему лучше еще посидеть в тюрьме. Каждый случай индивидуален.
 

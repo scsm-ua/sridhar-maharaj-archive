@@ -1,14 +1,20 @@
 ---
-slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
+slug: 1981-08-19-b1_byt_slugoy_slugi_krasoty_vne_zakona
+record_id: 1981.08.19.B1
+title: Быть слугой слуги Красоты вне закона
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16220567
+  duration: 00:32:29
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3
+date: 1981-08-19
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.mp3
     title: аудиозапись в MP3 (32 мин. 28 сек., 15,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (257 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/439_1981.08.19.B1_SridharMj_Byt_slugoj_slugi_Krasoty_vne_zakona.pdf
     title: транскрипцию в PDF (189 КБ)
+legacy:
+  title: 439. 1981.08.19.B1. Быть слугой слуги Красоты вне закона
+  index: "439"
+  filename: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona.md
+  slug: 439-1981-08-19-b1-byt-slugoj-slugi-krasoty-vne-zakona
 ---
-
-# 439. 1981.08.19.B1. Быть слугой слуги Красоты вне закона
 
 **Шрила Шридхар Махарадж:**
 

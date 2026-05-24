@@ -1,22 +1,26 @@
 ---
-slug: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita
+slug: 1982-06-05-a1_radharani_i_rukmini_v_lichnosti_gadadhara_pandita
+record_id: 1982.06.05.A1
+title: Радхарани и Рукмини в личности Гададхара Пандита
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5181701
+  duration: 00:03:53
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
+date: 1982-06-05
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Гададхар Пандит
     slug: gadadhar-pandit
   - title: Радхарани
     slug: radharani
   - title: Рукмини
     slug: rukmini
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.289
     slug: shri-chajtanya-charitamrita-madhya-lila-9-289
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.mp3
     title: аудиозапись в MP3 (3 мин. 53 сек., 5 МБ)
@@ -24,9 +28,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/126_1982.06.05.A1_SridharMj_Radharani_i_Rukmini_v_lichnosti_Gadadhara_Pandita.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 126. 1982.06.05.A1. Радхарани и Рукмини в личности Гададхара Пандита
+  index: "126"
+  filename: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita.md
+  slug: 126-1982-06-05-a1-radharani-i-rukmini-v-lichnosti-gadadhara-pandita
 ---
-
-# 126. 1982.06.05.A1. Радхарани и Рукмини в личности Гададхара Пандита
 
 **Акхаянанда Махарадж:** Могу я спросить вас, Махарадж? Иногда говорят, что Гададхар Пандит есть Шримати Радхарани, иногда говорят, что он — Лалита Сакхи.
 
@@ -34,7 +41,7 @@ links:
 
 *#00:00:41#*
 
-Есть *бхава*, и есть *канти.* Аспект, ипостась *бхавы* это Гададхар Пандит, а аспект *канти* (сияние) — это Гададхар Дас. Радхарани была [буквально] экстрагирована Махапрабху, и Рукмини была добавлена в эту «пустую оболочку», и это — Гададхар.
+Есть *бхава*, и есть *канти*. Аспект, ипостась *бхавы* это Гададхар Пандит, а аспект *канти* (сияние) — это Гададхар Дас. Радхарани была [буквально] экстрагирована Махапрабху, и Рукмини была добавлена в эту «пустую оболочку», и это — Гададхар.
 
 *#00:01:13#*
 

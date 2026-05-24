@@ -2,9 +2,10 @@
 slug: shri-shikshashtakam-6
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
-tags:
+scriptures:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
+verses:
   - title: Шри Шикшаштакам 6
     slug: shri-shikshashtakam-6
 ---

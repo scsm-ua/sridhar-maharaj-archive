@@ -1,16 +1,20 @@
 ---
-slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
+slug: obyasnenie_shloki_posvyashchennoy_gadadharu_panditu
+title: Объяснение шлоки, посвященной Гададхару Пандиту
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1815144
+  duration: 00:06:42
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
 tags:
   - title: без даты
     slug: bez-daty
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 300
     slug: shrimad-bhagavatam-300
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 1,8 МБ)
@@ -18,9 +22,12 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1102_2012.07.27.3_SridharMj_Obyasneniye_shloki_posvyawennoy_Gadadharu_Panditu.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 1102. Объяснение шлоки, посвященной Гададхару Пандиту
+  index: "1102"
+  filename: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu.md
+  slug: 1102-obyasnenie-shloki-posvyashhennoj-gadadharu-panditu
 ---
-
-# 1102. Объяснение шлоки, посвященной Гададхару Пандиту
 
 **Преданный:** Гуру Махарадж, у меня вопрос на другую тему. Если кто-то принимает *кшетра-санньясу*, это как правило можно делать в старости? Ведь *санньяси* должен проповедовать. *Кшетра-санньясу* обычно принимают в старости?
 
@@ -54,7 +61,5 @@ links:
     …сан̃джӣвайам бха̄ти йах̣
 
 Он дает Ему жизнь, угощая Его вином *кришна-катхи*, *мадира. Ш́рӣмад-бха̄гаватам̇ сада̄ сва-найана̄ш́рӯ-па̄йанаих̣* — и он (Гададхар) всегда поклоняется «Бхагаватам» своими слезами. *Ашру-упаян*, *упаян* означает «предметы поклонения». Чем же он поклоняется «Бхагаватам»? Своими собственными слезами, он совершает поклонение «Бхагаватам» своими слезами. *Пӯджайан госва̄ми-праваро гада̄дхара-вибхур-бхӯйа̄т…* Пусть же этот Гададхар Прабху благословит меня своей милостью, ведь он знаток «Бхагаватам». Ведь от него Сам Махапрабху слушает «Бхагаватам». Я прошу его о милости. Таким образом, я собираюсь составить для преданных книгу, где отражалась бы самая суть «Бхагаватам». Гададхар Пандит был известен этим. Таково было его положение.
-
-
 
 [^_ftn1]: [Шримад-Бхагаватам 300](../notes/shrimad-bhagavatam/shrimad-bhagavatam-300.md)

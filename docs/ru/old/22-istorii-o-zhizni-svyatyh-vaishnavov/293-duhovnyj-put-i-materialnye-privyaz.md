@@ -1,11 +1,18 @@
 ---
 slug: 293-duhovnyj-put-i-materialnye-privyaz
+record_id: 1983.01.05.B1
+title: Духовный путь и материальные привязанности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9455868
+  duration: 00:19:22
+  src: /wp-content/uploads/2012/08/293_1983.01.05.B1_SridharMj_Duhovniy_put_i_materialnye_privyazannosti.mp3
+date: 1983-01-05
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Билвамангал Тхакур
     slug: bilvamangal-thakur
   - title: Васту-сиддхи
@@ -14,13 +21,14 @@ tags:
     slug: istorii-o-vajshnavah
   - title: Сварупа-сиддхи
     slug: svarupa-siddhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/293_1983.01.05.B1_SridharMj_Duhovniy_put_i_materialnye_privyazannosti.mp3
     title: Скачать аудиозапись в mp3 (19 мин 22 сек, размер 9 Мб)
+legacy:
+  title: 293. Духовный путь и материальные привязанности. 1983.01.05.B1
+  index: "293"
+  filename: 293-duhovnyj-put-i-materialnye-privyaz.md
 ---
-
-# 293. Духовный путь и материальные привязанности. 1983.01.05.B1
 
 **Преданный:** Махарадж.
 

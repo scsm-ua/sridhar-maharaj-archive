@@ -1,18 +1,25 @@
 ---
 slug: 350-astrologiya-kavachi-edinoborstva-i-pu
+record_id: 1983.07.18
+title: Астрология, кавачи, единоборства и путь чистой преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15388833
+  duration: 00:24:10
+  src: /wp-content/uploads/2012/08/350_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
+date: 1983-07-18
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/350_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
     title: Скачать аудиозапись в mp3 (24 мин 10 сек, размер 15 Мб)
+legacy:
+  title: 350. Астрология, кавачи, единоборства и путь чистой преданности. 1983.07.18
+  index: "350"
+  filename: 350-astrologiya-kavachi-edinoborstva-i-pu.md
 ---
-
-# 350. Астрология, кавачи, единоборства и путь чистой преданности. 1983.07.18
 
 *#00:00:00#*
 

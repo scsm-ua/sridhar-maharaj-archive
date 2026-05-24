@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-2-42
 refs:
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/602-1982-01-19-a1-probuzhdenie-vnutrennej-sklonnosti-dushi.md
-tags:
+  - ../../_full/1982/01/1982.01.19.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.42
     slug: shri-chajtanya-charitamrita-madhya-lila-2-42
 ---

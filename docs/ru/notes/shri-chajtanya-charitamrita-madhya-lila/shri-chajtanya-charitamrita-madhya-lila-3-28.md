@@ -3,13 +3,16 @@ slug: shri-chajtanya-charitamrita-madhya-lila-3-28
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/623-1982-01-17-a2-arii-rassmatrivali-yavleniya-prirody-kak-lichnosti.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
-tags:
+  - ../../_full/1981/11/1981.11.25.B.md
+  - ../../_full/1982/01/1982.01.17.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
-    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
   - title: Шри Чайтанья-чандродая-натака
     slug: shri-chajtanya-chandrodaya-nataka
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-3-28
   - title: Шри Чайтанья-чандродая-натака 5.13
     slug: shri-chajtanya-chandrodaya-nataka-5-13
 ---

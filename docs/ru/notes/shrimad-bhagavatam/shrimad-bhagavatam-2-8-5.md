@@ -5,9 +5,13 @@ refs:
   - ../../42-borba-predannosti-s-materializmom-ochischenie-serdca/704-1982-04-25-a2-b-zahvat-serdtsa-krishnoj-v-svyashhennyh-pisaniyah.md
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
-tags:
+  - ../../_full/1982/04/1982.04.25.A2.B.md
+  - ../../_full/1983/03/1983.03.28.md
+  - ../../_full/1983/08/1983.08.30.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.8.5
     slug: shrimad-bhagavatam-2-8-5
 ---
@@ -19,6 +23,10 @@ tags:
 ---
 
 «Звуковое воплощение Господа Шри Кришны, Верховной Души [«Шримад-Бхагаватам»], входит в сердце осознавшего себя преданного и, располагаясь на лотосе его любви, очищает сердце от пыли, накопившейся в нем от соприкосновения с материей — вожделения, гнева и желаний. Оно подобно осенним дождям, делающим мутную воду в водоемах прозрачной» («Шримад-Бхагаватам», 2.8.5).
+
+---
+
+«Звуковое воплощение Господа Шри Кришны, Верховной Души [„Шримад-Бхагаватам"], входит в сердце осознавшего себя преданного и, располагаясь на лотосе его любви, очищает сердце от пыли, накопившейся в нем от соприкосновения с материей — вожделения, гнева и желаний. Оно подобно осенним дождям, делающим мутную воду в водоемах прозрачной» («Шримад-Бхагаватам», 2.8.5).
 
 ---
 

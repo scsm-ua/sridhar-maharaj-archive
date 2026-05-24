@@ -1,23 +1,24 @@
 ---
-slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
+slug: 1982-02-18-a2_bhakti_predannost_krishne_besprichinna_i_neuderzhima
+record_id: 1982.02.18.A2
+title: Бхакти, преданность Кришне, беспричинна и неудержима
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3442752
+  duration: 00:06:02
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
+date: 1982-02-18
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Бхакти
     slug: bhakti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 12.12.55
     slug: shrimad-bhagavatam-12-12-55
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
@@ -26,11 +27,8 @@ tags:
     slug: shrimad-bhagavatam-1-2-6
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.mp3
     title: аудиозапись в MP3 (6 мин. 02 сек., 3,3 МБ)
@@ -38,9 +36,12 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/775_1982.02.18.A2_SridharMj_Bhakti_predannost_Krishne_besprichinna_i_neuderjima.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 775. 1982.02.18.A2. Бхакти, преданность Кришне, беспричинна и неудержима
+  index: "775"
+  filename: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima.md
+  slug: 775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima
 ---
-
-# 775. 1982.02.18.A2. Бхакти, преданность Кришне, беспричинна и неудержима
 
 **«Онтология Прекрасной Реальности» (часть 1.2)**
 
@@ -88,7 +89,7 @@ links:
     пратйава̄йо на видйате
 [^_ftn6]
 
-Может возникнуть временная оппозиция, или это явление может быть на какое-то время сдержано, но оно никогда не оставит тебя. На какое-то время оно может быть скрыто, до известной степени, но оно не может быть исчерпано, оно — вечной природы, оно связанно с вечным аспектом вселенной. Поэтому — *апратихата.*
+Может возникнуть временная оппозиция, или это явление может быть на какое-то время сдержано, но оно никогда не оставит тебя. На какое-то время оно может быть скрыто, до известной степени, но оно не может быть исчерпано, оно — вечной природы, оно связанно с вечным аспектом вселенной. Поэтому — *апратихата*.
 
 
 

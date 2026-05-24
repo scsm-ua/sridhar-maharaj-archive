@@ -3,13 +3,15 @@ slug: shri-chajtanya-charitamrita-madhya-lila-14-163
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/167-1983-11-07-a-b1-izvilistaya-i-nepostizhimaya-priroda-lily-molitvy-brahmy-proslavlyayut-krishnu-i-radharani.md
   - ../../13-lila-igra-chudesnogo-absolyuta/171-1983-02-18-b1-o-vseblagoj-prirode-lily-gospoda.md
-tags:
+  - ../../_full/1983/11/1983.11.07.A.B.C.md
+scriptures:
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
+  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
+    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
     slug: shri-chajtanya-charitamrita-madhya-lila-14-163
 ---

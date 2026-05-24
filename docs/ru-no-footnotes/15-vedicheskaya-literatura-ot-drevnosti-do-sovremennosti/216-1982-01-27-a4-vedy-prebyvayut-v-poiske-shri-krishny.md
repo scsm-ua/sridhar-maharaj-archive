@@ -1,12 +1,17 @@
 ---
-slug: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny
+slug: 1982-01-27-a4_vedy_prebyvayut_v_poiske_shri_krishny
+record_id: 1982.01.27.A4
+title: Веды пребывают в поиске Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4204638
+  duration: 00:07:22
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
+date: 1982-01-27
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.mp3
     title: аудиозапись в MP3 (7 мин. 21 сек., 4,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/216_1982.01.27.A4_SridharMj_Vedy_prebyvayut_v_poiske_Shri_Krishny.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 216. 1982.01.27.A4. Веды пребывают в поиске Шри Кришны
+  index: "216"
+  filename: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny.md
+  slug: 216-1982-01-27-a4-vedy-prebyvayut-v-poiske-shri-krishny
 ---
-
-# 216. 1982.01.27.A4. Веды пребывают в поиске Шри Кришны
 
 *Дикша-гуру* и *шикша-гуру* — то же самое. Относительная позиция, положение и абсолютное положение. В этой связи я иногда цитирую юриста по имени Нортон. Ауробиндо Гхош был очень плодовитым, талантливым писателем, он прекрасно владел английским языком, он был очень выдающимся писателем на английском языке. И когда его искали власти, Нортон — один юрист, он был наделен здравым смыслом — читал газеты, увидел некую статью и признал авторство. Он сказал: «Вот мистер Гхош: он автор этой статьи».
 

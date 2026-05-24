@@ -1,58 +1,45 @@
 ---
-slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
+slug: 1983-11-09-a2-b1-b3-c1_om_oznachaet_to_chto_vy_ishchete_sushchestvuet_prostaya_i_semeynaya_atmosfera_vrindavana
+record_id: 1983.11.09.A2.B1.B3.C1
+title: «Ом» означает «То, что вы ищете, существует». Простая и семейная
+  атмосфера Вриндавана.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 34157651
+  duration: 00:34:36
+  src: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
+date: 1983-11-09
 category:
   title: 29. Гаятри-мантра и мантра ОМ
   slug: 29-gayatri-mantra-i-mantra-om
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Гаятри-мантра
     slug: gayatri-mantra
   - title: Мантра ОМ
     slug: mantra-om
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
     slug: shri-chajtanya-charitamrita-adi-lila-2-12
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9–11
     slug: mundaka-upanishad-2-2-9-11
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-  - title: Катха-Упанишада
-    slug: katha-upanishada
   - title: Катха-Упанишада 2.2.13
     slug: katha-upanishada-2-2-13
-  - title: Чхандогья-упанишада
-    slug: chhandogya-upanishada
   - title: Чхандогья-упанишада 6.2.3
     slug: chhandogya-upanishada-6-2-3
-  - title: Шветашватара-упанишада
-    slug: shvetashvatara-upanishada
   - title: Шветашватара-упанишада 6.13
     slug: shvetashvatara-upanishada-6-13
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
   - title: Шримад-Бхагаватам 9.4.63
     slug: shrimad-bhagavatam-9-4-63
-  - title: Акродха парамананда
-    slug: akrodha-paramananda
   - title: Акродха парамананда 4
     slug: akrodha-paramananda-4
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 5
     slug: shri-shikshashtakam-5
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.mp3
     title: аудиозапись в MP3 (34 мин. 36 сек., 32,6 МБ)
@@ -60,9 +47,13 @@ links:
     title: транскрипцию в RTF (251 КБ)
   - href: /dl/29._Gayatri-mantra_i_mantra_OM/492_1983.11.09.A2.B1.B3.C1_SridharMj_OM_oznachaet_To_chto_vy_ishhete_sushhestvuet__Prostaja_i_semejnaja_atmosfera_Vrindavana.pdf
     title: транскрипцию в PDF (193 КБ)
+legacy:
+  title: 492. 1983.11.09.A2.B1.B3.C1. «Ом» означает «То, что вы ищете,
+    существует». Простая и семейная атмосфера Вриндавана
+  index: "492"
+  filename: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana.md
+  slug: 492-1983-11-09-a2-b1-b3-c1-om-oznachaet-to-chto-vy-ishhete-sushhestvuet-prostaya-i-semejnaya-atmosfera-vrindavana
 ---
-
-# 492. 1983.11.09.A2.B1.B3.C1. «Ом» означает «То, что вы ищете, существует». Простая и семейная атмосфера Вриндавана
 
     там эва бха̄нтам анубха̄ти сарвам̇
     тасйа бха̄са̄ сарвам идам̇ вибха̄ти
@@ -90,7 +81,7 @@ links:
 
 Вриндаван — это место, которое способно осуществить все наши внутренние чаяния в полнейшей степени, место окончательного достижения. И это естественно, возможно, позволительно. Сравнительное изучение, сравнительный анализ — не слепая вера, речь не идет о слепой вере, нет.
 
-*Сатьям-шивам-сундарам.* Вначале — существование, неуязвимое существование, вечная жизнь. Затем, далее — *шивам* — удовлетворение общего порядка, выше смерти, за пределами смерти, бессмертие, за пределами атак негативной стороны, безопасное положение. И затем — позитивное достижение, *сундарам*. *Шивам* подразумевает свободу от негативной стороны, атак негативной стороны, трудностей, страданий. *Сатьям, шивам*. И *сундарам* — сладость, красота, движение в этом направлении.
+*Сатьям-шивам-сундарам*. Вначале — существование, неуязвимое существование, вечная жизнь. Затем, далее — *шивам* — удовлетворение общего порядка, выше смерти, за пределами смерти, бессмертие, за пределами атак негативной стороны, безопасное положение. И затем — позитивное достижение, *сундарам*. *Шивам* подразумевает свободу от негативной стороны, атак негативной стороны, трудностей, страданий. *Сатьям, шивам*. И *сундарам* — сладость, красота, движение в этом направлении.
 
 *#00:07:11#*
 
@@ -149,7 +140,7 @@ links:
     ракш̣иш̣йатӣти виш́ва̄со
 [^_ftn5]
 
-*Шаранагати* — процесс предания, самопредания. Есть одна великая часть: «Он защитит меня. Меня никто не интересует, я никого не боюсь. Мой Владыка защитит меня, я не испытываю опасения». В *сакхья-расе* это очень-очень ясно. *Ракш̣иш̣йатӣти виш́ва̄со.* И в тоже время они бросают вызов во время игры: «Я победил Тебя! Ты проиграл». Подобная домашняя, дружественная игра. Владыка и слуга находятся практически в одном, равном положении. Сладостная семейная жизнь.
+*Шаранагати* — процесс предания, самопредания. Есть одна великая часть: «Он защитит меня. Меня никто не интересует, я никого не боюсь. Мой Владыка защитит меня, я не испытываю опасения». В *сакхья-расе* это очень-очень ясно. *Ракш̣иш̣йатӣти виш́ва̄со*. И в тоже время они бросают вызов во время игры: «Я победил Тебя! Ты проиграл». Подобная домашняя, дружественная игра. Владыка и слуга находятся практически в одном, равном положении. Сладостная семейная жизнь.
 
 *#00:20:20#*
 

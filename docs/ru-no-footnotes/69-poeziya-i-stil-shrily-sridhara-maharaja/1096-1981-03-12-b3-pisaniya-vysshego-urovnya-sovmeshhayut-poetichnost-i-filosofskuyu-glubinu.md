@@ -1,12 +1,17 @@
 ---
-slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
+slug: 1981-03-12-b3_pisaniya_vysshego_urovnya_sovmeshchayut_poetichnost_i_filosofskuyu_glubinu
+record_id: 1981.03.12.B3
+title: Писания высшего уровня совмещают поэтичность и философскую глубину
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8743548
+  duration: 00:17:47
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
+date: 1981-03-12
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.mp3
     title: аудиозапись в MP3 (17 мин. 47 сек., 8,4 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в DOCX (30 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1096_1981.03.12.B3_SridharMj_Pisanija_vysshego_urovnja_sovmeshhajut_pojetichnost_i_filosofskuju_glubinu.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 1096. 1981.03.12.B3. Писания высшего уровня совмещают поэтичность и
+    философскую глубину
+  index: "1096"
+  filename: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
+  slug: 1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu
 ---
-
-# 1096. 1981.03.12.B3. Писания высшего уровня совмещают поэтичность и философскую глубину
 
 **Госвами Махарадж:** Свами, Трипурари Свами.
 
@@ -50,13 +59,13 @@ links:
     пранама̄ми сада̄ прабхупа̄да-падам
 [^_ftn2]
 
-Вы все — Бхактиведанта*-паривара*, группа Бхактиведанты. *Паривара* означает «группа». Вы все принадлежите к Бхактиведанта*-париваре*, группе Бхактиведанты.
+Вы все — Бхактиведанта-*паривара*, группа Бхактиведанты. *Паривара* означает «группа». Вы все принадлежите к Бхактиведанта-*париваре*, группе Бхактиведанты.
 
 [Харе Кришна, Харе Кришна, Гаура-Харибол, Нитай-Чайтанья-доял, Доял-Нитай-Чайтанья]
 
 *#00:04:19#*
 
-**Госвами Махарадж:** Махарадж, *пранама̄ми сада̄ прабхупа̄да-падам..*. Когда вы написали это произведение?
+**Госвами Махарадж:** Махарадж, *пранама̄ми сада̄ прабхупа̄да-падам*... Когда вы написали это произведение?
 
 **Шрила Шридхар Махарадж:** После ухода Прабхупады. При жизни Прабхупады я написал только одну поэму о Бхактивиноде Тхакуре, и Прабхупад дал ей очень высокую оценку. Поэма о Бхактивиноде Тхакуре, в ней я написал:
 

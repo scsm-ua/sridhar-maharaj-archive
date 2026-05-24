@@ -1,5 +1,12 @@
 ---
-slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
+slug: ontologiya_pr_ch_5_4_tantricheskaya_i_vayshnavskaya_diksha
+title: Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3506240
+  duration: 00:06:46
+  src: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
@@ -8,33 +15,20 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Посвящение
     slug: posvyashhenie
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
   - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
     slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.23
     slug: shvetashvatara-upanishad-6-23
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
     slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.17.27
     slug: shrimad-bhagavatam-11-17-27
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.73
     slug: shri-chajtanya-charitamrita-adi-lila-7-73
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.mp3
     title: аудиозапись в MP3 (6 мин. 45 сек., 3,4 МБ)
@@ -42,9 +36,12 @@ links:
     title: транскрипцию в RTF (110 КБ)
   - href: /dl/18._Posvyaschenie/325_OntologiyaPR_5.4_SridharMj_Tantricheskaya_i_vaishnavskaya_diksha.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 325.  Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
+  index: "325"
+  filename: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha.md
+  slug: 325-ontologiyapr_5-4-tantricheskaya-i-vajshnavskaya-diksha
 ---
-
-# 325.  Онтология ПР. Ч. 5.4. Тантрическая и вайшнавская дикша
 
 «Онтология Прекрасной Реальности» (часть 5.4)
 
@@ -94,7 +91,7 @@ links:
 
 *#00:04:56#*
 
-*Вайшнава-дикша* имеет особые качества, особые критерии. Она дается тому, кто испытывает, имеет почтение к Кришне, к Нараяне и к Вишну. Это посвящение имеет универсальный характер, за пределами *мукти*. В целом *тантрическая* *дикша* ведет нас к *мукти.*
+*Вайшнава-дикша* имеет особые качества, особые критерии. Она дается тому, кто испытывает, имеет почтение к Кришне, к Нараяне и к Вишну. Это посвящение имеет универсальный характер, за пределами *мукти*. В целом *тантрическая* *дикша* ведет нас к *мукти*.
 
 *#00:05:25#*
 

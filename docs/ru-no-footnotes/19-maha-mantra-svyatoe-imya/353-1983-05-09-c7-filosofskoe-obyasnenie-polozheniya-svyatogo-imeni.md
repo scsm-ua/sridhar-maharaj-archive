@@ -1,14 +1,20 @@
 ---
-slug: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni
+slug: 1983-05-09-c7_filosofskoe_obyasnenie_polozheniya_svyatogo_imeni
+record_id: 1983.05.09.C7
+title: Философское объяснение положения Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1836231
+  duration: 00:03:10
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
+date: 1983-05-09
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
     title: аудиозапись в MP3 (3 мин. 10 сек., 1,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/353_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 353. 1983.05.09.C7. Философское объяснение положения Святого Имени
+  index: "353"
+  filename: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni.md
+  slug: 353-1983-05-09-c7-filosofskoe-obyasnenie-polozheniya-svyatogo-imeni
 ---
-
-# 353. 1983.05.09.C7. Философское объяснение положения Святого Имени
 
 **Преданный:** Махарадж, некоторые люди не готовы принять воспевание Святого Имени, они склонны к *гьяне*.
 

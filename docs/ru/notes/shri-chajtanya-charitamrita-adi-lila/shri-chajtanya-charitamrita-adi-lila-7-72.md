@@ -4,9 +4,13 @@ refs:
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
-tags:
+  - ../../_full/1981/03/1981.03.06.md
+  - ../../_full/1981/03/1981.03.06.md
+  - ../../_full/1981/11/1981.11.07.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.72
     slug: shri-chajtanya-charitamrita-adi-lila-7-72
 ---
@@ -17,4 +21,12 @@ tags:
 
 ---
 
+«„Ты глупец, — сказал он Мне, — Ты не способен изучать философию Веданты и потому должен всегда повторять Святое Имя Кришны. В нем суть всех мантр и гимнов Вед"» («Шри Чайтанья-чаритамрита», Ади-лила, 7.72).
+
+---
+
 „Ты глупец, — сказал он Мне, — Ты не способен изучать философию веданты и потому должен всегда повторять святое Имя Кришны. В нем суть всех мантр и гимнов Вед“ («Шри Чайтанья-чаритамрита», Ади-лила, 7.72).
+
+---
+
+„Ты глупец, — сказал он Мне, — Ты не способен изучать философию веданты и потому должен всегда повторять святое Имя Кришны. В нем суть всех мантр и гимнов Вед" («Шри Чайтанья-чаритамрита», Ади-лила, 7.72).

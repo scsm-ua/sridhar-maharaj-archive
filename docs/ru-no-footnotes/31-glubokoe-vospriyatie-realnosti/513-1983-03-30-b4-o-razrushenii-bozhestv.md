@@ -1,12 +1,17 @@
 ---
-slug: 513-1983-03-30-b4-o-razrushenii-bozhestv
+slug: 1983-03-30-b4_o_razrushenii_bozhestv
+record_id: 1983.03.30.B4
+title: О разрушении Божеств
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4302357
+  duration: 00:07:12
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3
+date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.mp3
     title: аудиозапись в MP3 (7 мин. 11 сек., 4,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/513_1983.03.30.B4_SridharMj_O_razrushenii_Bojestv.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 513. 1983.03.30.B4. О разрушении Божеств
+  index: "513"
+  filename: 513-1983-03-30-b4-o-razrushenii-bozhestv.md
+  slug: 513-1983-03-30-b4-o-razrushenii-bozhestv
 ---
-
-# 513. 1983.03.30.B4. О разрушении Божеств
 
 Харе Кришна.
 

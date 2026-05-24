@@ -1,20 +1,28 @@
 ---
 slug: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3
+record_id: 1981.08.30.B3
+title: Ключ к вратам Вайкунтхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4563549
+  duration: 00:09:06
+  src: /wp-content/uploads/2012/08/317_1981.08.30.B3_SridharMj_Klyuch_k_vratam_Vaykunthi.mp3
+date: 1981-08-30
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/317_1981.08.30.B3_SridharMj_Klyuch_k_vratam_Vaykunthi.mp3
     title: Скачать аудиозапись в mp3 (9 мин 6 сек, размер 4 Мб)
+legacy:
+  title: 317. Ключ к вратам Вайкунтхи. 1981.08.30.B3
+  index: "317"
+  filename: 317-klyuch-k-vratam-vajkunthi-1981-08-30-b3.md
 ---
-
-# 317. Ключ к вратам Вайкунтхи. 1981.08.30.B3
 
 **Ученик:** Махарадж? Да. Господь Чайтанья молится, говорит:\
 намнам акари бахудха ниджа-сарва-шактис\

@@ -1,12 +1,17 @@
 ---
-slug: 928-1983-02-21-22-istorii-zhizni-i-uchenie-madhava-achari-ramanudzha-achari-i-yamuna-achari
+slug: 1983-02-21_22_istorii_zhizni_i_uchenie_madhava_achari_ramanudzha_achari_i_yamuna_achari
+record_id: 1983.02.21
+title: -22. Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14336732
+  duration: 00:47:44
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
+date: 1983-02-21
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.mp3
     title: аудиозапись в MP3 (47 мин. 43 сек., 13,7 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (345 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/928_1983.02.21-22_SridharMj_Istorii_jizni_i_uchenie_MadhavaAcharyi_YamunaAcharyi_i_RamanujaAcharyi.pdf
     title: транскрипцию в PDF (201 КБ)
+legacy:
+  title: 928. 1983.02.21-22. Истории жизни и учение Мадхава Ачарьи, Рамануджа
+    Ачарьи и Ямуна Ачарьи
+  index: "928"
+  filename: 928-1983-02-21-22-istorii-zhizni-i-uchenie-madhava-achari-ramanudzha-achari-i-yamuna-achari.md
+  slug: 928-1983-02-21-22-istorii-zhizni-i-uchenie-madhava-achari-ramanudzha-achari-i-yamuna-achari
 ---
-
-# 928. 1983.02.21–22. Истории жизни и учение Мадхава Ачарьи, Рамануджа Ачарьи и Ямуна Ачарьи
 
 Есть такое мнение, что Шанкарачарья был в прошлом демоном Маниманом. Есть такое мнение, но мы не принимаем этого. То, что говорил Махапрабху, — мы Его слова несем на своей голове прежде всего. Мадхвачарья также говорил, что *гопи* Вриндавана это *апсары* с райских планет. Конечно, упоминается, что какие-то *апсары* вошли в *гопи*. Точно так же, как Дрона вошел в Нанду Махараджа, Дхара в Яшоду. В одной трансцендентной личности может быть еще несколько *джив*, не только одна, когда эта трансцендентная личность приходит сюда. Это возможно, это упоминается во многих местах.
 

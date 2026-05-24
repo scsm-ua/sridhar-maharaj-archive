@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-6-88
 refs:
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.88
     slug: shri-chajtanya-charitamrita-madhya-lila-6-88
 ---

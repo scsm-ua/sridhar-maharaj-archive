@@ -1,5 +1,13 @@
 ---
 slug: 32-advajta-acharya-yavlyaetsya-odnovremenn
+title: Адвайта Ачарья является одновременно Махавишну и Садашивой. Мгновения
+  прекрасной реальности, часть 8.1.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1614384
+  duration: 00:06:07
+  src: /wp-content/uploads/2012/08/032_MgnoveniyaPR_8.1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
 category:
   title: (02. Панча-таттва, спутники Шри Чайтаньи)
   slug: 02-pancha-tattva-sputniki-shri-chaitanyi
@@ -12,13 +20,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/032_MgnoveniyaPR_8.1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
     title: Скачать аудиозапись в mp3 (6 мин 7 сек, размер 1 Мб)
+legacy:
+  title: 32. Адвайта Ачарья является одновременно Махавишну и Садашивой. Мгновения
+    прекрасной реальности, часть 8.1
+  index: "32"
+  filename: 32-advajta-acharya-yavlyaetsya-odnovremenn.md
 ---
-
-# 32. Адвайта Ачарья является одновременно Махавишну и Садашивой. Мгновения прекрасной реальности, часть 8.1
 
 *#00:00:00#*
 

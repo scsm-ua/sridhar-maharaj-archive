@@ -1,24 +1,26 @@
 ---
-slug: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy
+slug: 1982-11-02-c2_stopy_vishnu_podobny_solntsu_glavnaya_mantra_rigvedy
+record_id: 1982.11.02.C2
+title: Стопы Вишну подобны Солнцу. Главная мантра Ригведы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7952937
+  duration: 00:07:00
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3
+date: 1982-11-02
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - title: "1982.11"
-    slug: 1982-11
   - title: Риг-веда
     slug: rig-veda
   - title: Риг-веда 1.22.20
     slug: rig-veda-1-22-20
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
     slug: shri-chajtanya-charitamrita-antya-lila-5-123
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 1.5.342
     slug: laghu-bhagavatamrita-1-5-342
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.mp3
     title: аудиозапись в MP3 (6 мин. 59 сек., 7,6 МБ)
@@ -26,9 +28,12 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/411_1982.11.02.C2_SridharMj_Stopy_Vishnu_podobny_Solncu__Glavnaja_mantra_Rigvedy.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 411. 1982.11.02.C2. Стопы Вишну подобны Солнцу. Главная мантра Ригведы
+  index: "411"
+  filename: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy.md
+  slug: 411-1982-11-02-c2-stopy-vishnu-podobny-solntsu-glavnaya-mantra-rigvedy
 ---
-
-# 411. 1982.11.02.C2. Стопы Вишну подобны Солнцу. Главная мантра Ригведы
 
 *Вишну-парам-пада* — святые стопы Нараяны, нас просят рассматривать их как солнце.
 
@@ -45,7 +50,7 @@ links:
     неш́варе видйате квачит“
 [^_ftn2]
 
-Тем не менее то, что есть для нас низшая часть, — начало реализации для нас. Это нечто подобное Солнцу — Видящее. Поэтому мы должны пытаться видеть все и вся благодаря лучам, свету святых стоп Вишну. *Чакшур а̄татам.* Иначе говоря, мы должны думать, что эти стопы подобны огромному оку, которое пребывает в небе, и это око видит все, что мы делаем. Бдительное око Хранителя, что бы мы ни делали, пребывает над нашими головами, Он — *парам-пада*, Его святые стопы способны видеть подобно солнцу, подобно глазу.
+Тем не менее то, что есть для нас низшая часть, — начало реализации для нас. Это нечто подобное Солнцу — Видящее. Поэтому мы должны пытаться видеть все и вся благодаря лучам, свету святых стоп Вишну. *Чакшур а̄татам*. Иначе говоря, мы должны думать, что эти стопы подобны огромному оку, которое пребывает в небе, и это око видит все, что мы делаем. Бдительное око Хранителя, что бы мы ни делали, пребывает над нашими головами, Он — *парам-пада*, Его святые стопы способны видеть подобно солнцу, подобно глазу.
 
 *#00:02:06#*
 

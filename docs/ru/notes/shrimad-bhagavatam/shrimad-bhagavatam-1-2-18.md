@@ -3,9 +3,11 @@ slug: shrimad-bhagavatam-1-2-18
 refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
-tags:
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.2.18
     slug: shrimad-bhagavatam-1-2-18
 ---

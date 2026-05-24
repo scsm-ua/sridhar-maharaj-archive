@@ -1,26 +1,17 @@
 ---
-slug: 858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie
+slug: 1983-05-09-c4_oskorblenie_vayshnava_i_duhovnoe_razvitie
+record_id: 1983.05.09.C4
+title: Оскорбление вайшнава и духовное развитие
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4416032
+  duration: 00:08:37
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
+date: 1983-05-09
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.44
-    slug: bhagavad-gita-6-44
-  - title: Бхагавад-гита 6.43
-    slug: bhagavad-gita-6-43
-  - title: Бхагавад-гита 2.40
-    slug: bhagavad-gita-2-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.156
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-156
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.157
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-157
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.mp3
     title: аудиозапись в MP3 (8 мин. 36 сек., 4,3 МБ)
@@ -28,9 +19,23 @@ links:
     title: транскрипцию в RTF (99 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/858_1983.05.09.C4_SridharMj_Oskorblenie_vaisnava_i_duhovnoe_razvitie.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 858. 1983.05.09.C4. Оскорбление вайшнава и духовное развитие
+  index: "858"
+  filename: 858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie.md
+  slug: 858-1983-05-09-c4-oskorblenie-vajshnava-i-duhovnoe-razvitie
+tags:
+  - title: Бхагавад-гита 6.44
+    slug: bhagavad-gita-6-44
+  - title: Бхагавад-гита 6.43
+    slug: bhagavad-gita-6-43
+  - title: Бхагавад-гита 2.40
+    slug: bhagavad-gita-2-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.156
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-156
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-157
 ---
-
-# 858. 1983.05.09.C4. Оскорбление вайшнава и духовное развитие
 
     хрийате хй аваш́о ’пи сах̣…
     пӯрва̄бхйа̄сена…

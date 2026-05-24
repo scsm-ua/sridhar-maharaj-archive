@@ -1,12 +1,19 @@
 ---
-slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
+slug: mgnovenie_pr_ch_8_6_istoriya_vishnuchitty_padenie_vozmozhno_iz_vozvyshennogo_polozheniya
+title: Мгновение ПР. Ч. 8.6. История Вишнучитты. Падение возможно из
+  возвышенного положения.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4789192
+  duration: 00:18:21
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.mp3
     title: аудиозапись в MP3 (5 мин. 03 сек., 4,6 МБ)
@@ -14,9 +21,13 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/711_MgnoveniyaPR_8.6_SridharMj_Istorija_Vishnuchitty_Padenie_vozmozhno_iz_vozvyshennogo_polozhenija.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 711. Мгновение ПР. Ч. 8.6. История Вишнучитты. Падение возможно  из
+    возвышенного положения
+  index: "711"
+  filename: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya.md
+  slug: 711-mgnovenie-pr-ch-8-6-istoriya-vishnuchitty-padenie-vozmozhno-iz-vozvyshennogo-polozheniya
 ---
-
-# 711. Мгновение ПР. Ч. 8.6. История Вишнучитты. Падение возможно  из возвышенного положения
 
 *Мгновения Прекрасной Реальности (часть 8.6)*
 

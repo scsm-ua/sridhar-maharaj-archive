@@ -1,14 +1,20 @@
 ---
-slug: 271-1981-08-28-a1-shiksha-guru-parampara
+slug: 1981-08-28-a1_shiksha-guru_parampara
+record_id: 1981.08.28.A1
+title: Шикша-гуру парампара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21217678
+  duration: 00:41:26
+  src: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
+date: 1981-08-28
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гуру-парампара
     slug: guru-parampara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
     title: аудиозапись в MP3 (41 мин. 25 сек., 20,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (342 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/271_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 271. 1981.08.28.A1. Шикша-гуру парампара
+  index: "271"
+  filename: 271-1981-08-28-a1-shiksha-guru-parampara.md
+  slug: 271-1981-08-28-a1-shiksha-guru-parampara
 ---
-
-# 271. 1981.08.28.A1. Шикша-гуру парампара
 
 **Преданный:** Когда мы слушаем кассеты, беседы, посвященные *гуру-парампаре*…
 

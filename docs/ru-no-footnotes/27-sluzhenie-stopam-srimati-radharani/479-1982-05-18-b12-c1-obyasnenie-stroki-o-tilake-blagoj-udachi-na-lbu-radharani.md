@@ -1,14 +1,20 @@
 ---
-slug: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani
+slug: 1982-05-18-b12-c1_obyasnenie_stroki_o_tilake_blagoy_udachi_na_lbu_radharani
+record_id: 1982.05.18.B12.C1
+title: Объяснение строки о тилаке благой удачи на лбу Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3608649
+  duration: 00:03:22
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.mp3
+date: 1982-05-18
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.mp3
     title: аудиозапись в MP3 (3 мин. 21 сек., 3,5 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/479_1982.05.18.B12.C1_SridharMj_Objasnenie_stroki_o_tilake_blagoj_udachi_na_lbu_Radharani.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 479. 1982.05.18.B12.C1. Объяснение строки о тилаке благой удачи на лбу
+    Радхарани
+  index: "479"
+  filename: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani.md
+  slug: 479-1982-05-18-b12-c1-obyasnenie-stroki-o-tilake-blagoj-udachi-na-lbu-radharani
 ---
-
-# 479. 1982.05.18.B12.C1. Объяснение строки о тилаке благой удачи на лбу Радхарани
 
 **Джаятиртха Махарадж:** Я пришел поздно, я заслуживаю ответа на один вопрос. В «Чайтанья-чаритамрите» говорится, что Шримати Радхарани носит *тилак* благой удачи.
 

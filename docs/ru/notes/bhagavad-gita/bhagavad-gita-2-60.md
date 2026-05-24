@@ -2,9 +2,10 @@
 slug: bhagavad-gita-2-60
 refs:
   - ../../10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi/142-1982-04-28-a-b-kommentarii-k-pyatomu-shestomu-sedmomu-i-vosmomu-stiham-shikshashtaki.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.60
     slug: bhagavad-gita-2-60
 ---

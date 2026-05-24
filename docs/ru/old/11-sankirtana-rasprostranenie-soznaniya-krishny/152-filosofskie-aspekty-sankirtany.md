@@ -1,5 +1,14 @@
 ---
 slug: 152-filosofskie-aspekty-sankirtany
+record_id: 1981.08.30.C2
+title: Философские аспекты санкиртаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4437483
+  duration: 00:04:49
+  src: /wp-content/uploads/2012/08/152_1981.08.30.С2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
+date: 1981-08-30
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -10,13 +19,14 @@ tags:
     slug: svyashhennye-pisaniya
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/152_1981.08.30.С2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
     title: Скачать аудиозапись в mp3 (4 мин 49 сек, размер 4 Мб)
+legacy:
+  title: 152. Философские аспекты санкиртаны. 1981.08.30.C2
+  index: "152"
+  filename: 152-filosofskie-aspekty-sankirtany.md
 ---
-
-# 152. Философские аспекты санкиртаны. 1981.08.30.C2
 
 Махарадж? Да. Я слышал однажды следующее: Повторение Харе Кришна и Шримад Бхагаватам (видимо имеется в виду изучение или Шримад Бхагаватам), эти два явления должны сопутствовать друг другу. Их следует совершать одновременно. А только лишь повторение Харе Кришна будет иметь определенный эффект, но без Шримад Бхагаватам, то есть знание Бхагаватам должно присутствовать.
 

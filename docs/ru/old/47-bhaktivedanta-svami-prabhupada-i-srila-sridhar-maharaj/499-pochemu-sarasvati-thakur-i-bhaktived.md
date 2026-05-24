@@ -1,5 +1,13 @@
 ---
 slug: 499-pochemu-sarasvati-thakur-i-bhaktived
+title: Почему Сарасвати Тхакур и Бхактиведанта Свами стремились проповедовать на
+  западе? Мгновения прекрасной реальности, часть 7.6
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6663744
+  duration: 00:12:51
+  src: /wp-content/uploads/2012/08/499_MgnoveniyaPR_7.6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
@@ -10,13 +18,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/499_MgnoveniyaPR_7.6_SridharMj_Pochemu_Sarasvati_Thakur_i_Bhaktivedanta_Svami_stremilis_propovedovat_na_zapade.mp3
     title: Скачать аудиозапись в mp3 (12 мин 51 сек, размер 6 Мб)
+legacy:
+  title: 499. Почему Сарасвати Тхакур и Бхактиведанта Свами стремились
+    проповедовать на западе? Мгновения прекрасной реальности, часть 7.6
+  index: "499"
+  filename: 499-pochemu-sarasvati-thakur-i-bhaktived.md
 ---
-
-# 499. Почему Сарасвати Тхакур и Бхактиведанта Свами стремились проповедовать на западе? Мгновения прекрасной реальности, часть 7.6
 
 **Ученик:** Этот беспроводный микрофон, то есть его можно поместить куда угодно?
 

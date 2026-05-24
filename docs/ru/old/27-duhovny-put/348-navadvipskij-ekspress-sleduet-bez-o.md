@@ -1,20 +1,28 @@
 ---
 slug: 348-navadvipskij-ekspress-sleduet-bez-o
+record_id: 1983.03.31.B1
+title: Навадвипский экспресс следует без остановок
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9137070
+  duration: 00:18:01
+  src: /wp-content/uploads/2012/08/348_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
+date: 1983-03-31
 category:
   title: (27. Духовный путь)
   slug: 27-duhovny-put
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Навадвип
     slug: navadvip
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/348_1983.03.31.B1_SridharMj_Navadvipskiy_ekspress_sleduyet_bez_ostanovok.mp3
     title: Скачать аудиозапись в mp3 (18 мин 1 сек, размер 9 Мб)
+legacy:
+  title: 348. Навадвипский экспресс следует без остановок. 1983.03.31.B1
+  index: "348"
+  filename: 348-navadvipskij-ekspress-sleduet-bez-o.md
 ---
-
-# 348. Навадвипский экспресс следует без остановок. 1983.03.31.B1
 
 *#00:00:00#*
 

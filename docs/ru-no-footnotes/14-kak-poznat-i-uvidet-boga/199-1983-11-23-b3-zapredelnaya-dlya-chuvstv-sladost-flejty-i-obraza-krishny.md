@@ -1,12 +1,17 @@
 ---
-slug: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny
+slug: 1983-11-23-b3_zapredelnaya_dlya_chuvstv_sladost_fleyty_i_obraza_krishny
+record_id: 1983.11.23.B3
+title: Запредельная для чувств сладость флейты и образа Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7121230
+  duration: 00:06:42
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
+date: 1983-11-23
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.mp3
     title: аудиозапись в MP3 (6 мин. 41 сек., 6,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/199_1983.11.23.B3_SridharMj_Zapredelnaja_dlja_chuvstv_sladost_flejty_i_obraza_Krishny.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 199. 1983.11.23.B3. Запредельная для чувств сладость флейты и образа Кришны
+  index: "199"
+  filename: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny.md
+  slug: 199-1983-11-23-b3-zapredelnaya-dlya-chuvstv-sladost-flejty-i-obraza-krishny
 ---
-
-# 199. 1983.11.23.B3. Запредельная для чувств сладость флейты и образа Кришны
 
 *Раса*, экстаз, радость, сладость. *Раса* — сладость, *раса* — красота для зрения, сладость для языка, мягкость для осязания. Можем назвать все, что угодно, но речь идет о сладости, красоте — *раса*. Как на празднике, на фестивале: можно приготовить множество вкусных блюд, роскошных изысканных яств, так и в *расе* в целом. Это общее измерение, в котором *раса* проявляется Кришной в целом. *Мадхура-раса* — такова ее природа.
 

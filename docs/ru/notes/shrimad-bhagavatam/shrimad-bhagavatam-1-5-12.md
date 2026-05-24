@@ -4,13 +4,18 @@ refs:
   - ../../19-maha-mantra-svyatoe-imya/333-1982-01-07-a1-velichie-svyatogo-imeni-gospoda.md
   - ../../25-sluzhenie-krishne-trud-lyubvi/435-1982-05-09-b4-predannoe-sluzhenie-kak-osnova-soprikosnoveniya-s-bezgranichnym-i-trud-lyubvi-v-shrimad-bhagavatam.md
   - ../../49-bhakti-velichie-predannosti-krishne/780-1983-11-04-a4-b1-prevyshe-znaniya-obyasnenie-klyuchevyh-stihov-iz-shrimad-bhagavatam.md
-tags:
+  - ../../_full/1981/10/1981.10.02.A.B.C.md
+  - ../../_full/1981/12/1981.12.13.C.md
+  - ../../_full/1982/01/1982.01.07.md
+  - ../../_full/1982/05/1982.05.09.B1.B3.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.19
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-19
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.19
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-19
   - title: Шримад-Бхагаватам 1.5.12
     slug: shrimad-bhagavatam-1-5-12
 ---

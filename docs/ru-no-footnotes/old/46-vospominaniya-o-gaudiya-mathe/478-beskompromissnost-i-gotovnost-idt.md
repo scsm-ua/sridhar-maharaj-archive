@@ -1,5 +1,14 @@
 ---
 slug: 478-beskompromissnost-i-gotovnost-idt
+record_id: null
+title: Бескомпромиссность и готовность идти до конца – основа проповеди
+  Гаудия-матха. Мгновения прекрасной реальности, часть 5.2.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7761344
+  duration: 00:21:30
+  src: /wp-content/uploads/2012/08/478_MgnoveniyaPR_5.2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca–osnova_propovedi_Gaudiya-matha.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
@@ -10,13 +19,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/478_MgnoveniyaPR_5.2_SridharMj_Beskompromissnost_i_gotovnost_idti_do_konca–osnova_propovedi_Gaudiya-matha.mp3
     title: Скачать аудиозапись в mp3 (21 мин 30 сек, размер 7 Мб)
+legacy:
+  title: 478. Бескомпромиссность и готовность идти до конца – основа проповеди
+    Гаудия-матха. Мгновения прекрасной реальности, часть 5.2
+  index: "478"
+  filename: 478-beskompromissnost-i-gotovnost-idt.md
 ---
-
-# 478. Бескомпромиссность и готовность идти до конца – основа проповеди Гаудия-матха. Мгновения прекрасной реальности, часть 5.2
 
 Посвящение, принятие исходит из центра абсолютного блага. Это внешне мы можем казаться людьми этого мира, этого плана бытия, но поскольку в сердце есть связь с абсолютным благом, то ценности совершенно иные и качество жизни совершенно иное. Хотя внешне то как живут преданные, и то как живут люди этого мира очень схоже. Преданные едят, и они едят, но в действительности они не едят, а служат остаткам трапезы Господа.
 

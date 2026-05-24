@@ -1,12 +1,17 @@
 ---
-slug: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom
+slug: 1982-02-20-a2_otkrytie_mesta_yavleniya_shri_chaytani_bhaktivinodoy_thakurom
+record_id: 1982.02.20.A2
+title: Открытие места Явления Шри Чайтаньи Бхактивинодой Тхакуром
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13542608
+  duration: 00:11:06
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
+date: 1982-02-20
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.mp3
     title: аудиозапись в MP3 (11 мин. 06 сек., 13,0 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/962_1982.02.20.A2_SridharMj_Otkrytie_mesta_Javlenija_Shri_Chajtani_Bhaktivinodoj_Thakurom.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 962. 1982.02.20.A2. Открытие места Явления Шри Чайтаньи Бхактивинодой
+    Тхакуром
+  index: "962"
+  filename: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom.md
+  slug: 962-1982-02-20-a2-otkrytie-mesta-yavleniya-shri-chajtani-bhaktivinodoj-thakurom
 ---
-
-# 962. 1982.02.20.A2. Открытие места Явления Шри Чайтаньи Бхактивинодой Тхакуром
 
 **Преданный:** Бхактивинод Тхакур, когда он занимался правительственной службой, планировал быть переведенным в этом округ?
 

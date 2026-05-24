@@ -1,12 +1,17 @@
 ---
-slug: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo
+slug: 1982-03-29-d2_nashe_bogatstvo_v_mnogoobrazii_bozhestvennogo
+record_id: 1982.03.29.D2
+title: Наше богатство — в многообразии Божественного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3681091
+  duration: 00:02:54
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3
+date: 1982-03-29
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.mp3
     title: аудиозапись в MP3 (2 мин. 54 сек., 3,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в DOCX (15 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/791_1982.03.29.D2_SridharMj_Nashe_bogatstvo--v_mnogoobrazii_Bozhestvennogo.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 791. 1982.03.29.D2. Наше богатство — в многообразии Божественного
+  index: "791"
+  filename: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo.md
+  slug: 791-1982-03-29-d2-nashe-bogatstvo-v-mnogoobrazii-bozhestvennogo
 ---
-
-# 791. 1982.03.29.D2. Наше богатство — в многообразии Божественного
 
 **Преданный:** Другой вопрос, Махарадж.
 

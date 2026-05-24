@@ -1,12 +1,17 @@
 ---
-slug: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura
+slug: 1983-01-04-b2_vospominaniya_ob_uhode_shrily_sarasvati_thakura
+record_id: 1983.01.04.B2
+title: Воспоминания об уходе Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6622435
+  duration: 00:12:08
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1037_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Shrily_Saraswati_Thakura.mp3
+date: 1983-01-04
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1037_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Shrily_Saraswati_Thakura.mp3
     title: аудиозапись в MP3 (12 мин. 08 сек., 6,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1037_1983.01.04.B2_SridharMj_Vospominaniya_ob_uhode_Shrily_Saraswati_Thakura.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 1037. 1983.01.04.B2. Воспоминания об уходе Шрилы Сарасвати Тхакура
+  index: "1037"
+  filename: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura.md
+  slug: 1037-1983-01-04-b2-vospominaniya-ob-uhode-shrily-sarasvati-thakura
 ---
-
-# 1037. 1983.01.04.B2. Воспоминания об уходе Шрилы Сарасвати Тхакура
 
 **Шрила Шридхар Махарадж:** Харе Кришна.
 

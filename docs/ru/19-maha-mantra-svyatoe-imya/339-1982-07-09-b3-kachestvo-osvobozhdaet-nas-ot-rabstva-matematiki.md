@@ -1,18 +1,24 @@
 ---
-slug: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki
+slug: 1982-07-09-b3_kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki
+record_id: 1982.07.09.B3
+title: Качество освобождает нас от рабства математики
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3677550
+  duration: 00:03:30
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3
+date: 1982-07-09
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.mp3
     title: аудиозапись в MP3 (3 мин. 30 сек., 3,6 МБ)
@@ -20,9 +26,12 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/339_1982.07.09.B3_SridharMj_Kachestvo_osvobozhdaet_nas_ot_rabstva_matematiki.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 339. 1982.07.09.B3. Качество освобождает нас от рабства математики
+  index: "339"
+  filename: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki.md
+  slug: 339-1982-07-09-b3-kachestvo-osvobozhdaet-nas-ot-rabstva-matematiki
 ---
-
-# 339. 1982.07.09.B3. Качество освобождает нас от рабства математики
 
 **Преданный:** Гуру Махарадж, правда ли это, что если соблюдать обет *чатурмасьи* в месяц Картика в святой *дхаме*, то можно обрести благо соблюдения всего обета в течение всей *чатурмасьи*, как если бы практиковать этот обет в течение четырех месяцев? Это правда?
 

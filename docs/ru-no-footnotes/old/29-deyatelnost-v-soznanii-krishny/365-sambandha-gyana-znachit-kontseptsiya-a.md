@@ -1,20 +1,28 @@
 ---
 slug: 365-sambandha-gyana-znachit-kontseptsiya-a
+record_id: 1983.04.25.A3
+title: Самбандха-гьяна значит «концепция Абсолютного Центра»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4122216
+  duration: 00:08:13
+  src: /wp-content/uploads/2012/08/365_1983.04.25.A3_SridharMj_Sambandha-gyana.mp3
+date: 1983-04-25
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/365_1983.04.25.A3_SridharMj_Sambandha-gyana.mp3
     title: Скачать аудиозапись в mp3 (8 мин 13 сек, размер 4 Мб)
+legacy:
+  title: 365. Самбандха-гьяна значит  «концепция Абсолютного Центра». 1983.04.25.A3
+  index: "365"
+  filename: 365-sambandha-gyana-znachit-kontseptsiya-a.md
 ---
-
-# 365. Самбандха-гьяна значит  «концепция Абсолютного Центра». 1983.04.25.A3
 
 *#00:00:00#*
 

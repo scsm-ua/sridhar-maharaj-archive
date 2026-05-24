@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-8-6
 refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/154-1983-05-24-b1-gospod-narasimhadev.md
-tags:
+  - ../../_full/1983/05/1983.05.24.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.6
     slug: shri-chajtanya-charitamrita-madhya-lila-8-6
 ---

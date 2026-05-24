@@ -2,9 +2,11 @@
 slug: shrimad-bhagavatam-7-5-23
 refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/065_1982-05-03-b2_sridharmj_otnoshenija_garudy_i_hanumana_slava_dasja-rasy.md
-tags:
+  - ../../_full/1982/05/1982.05.03.A.B.C.D.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.5.23
     slug: shrimad-bhagavatam-7-5-23
 ---

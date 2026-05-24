@@ -1,18 +1,26 @@
 ---
 slug: 90-ramachandra-primer-bezropotnogo-sle
+title: Рамачандра — пример безропотного следования долгу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4417122
+  duration: 00:06:42
+  src: /wp-content/uploads/2012/08/090_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
 tags:
   - title: Рамачандра
     slug: ramachandra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/090_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 42 сек, размер 4 Мб)
+legacy:
+  title: 90. Рамачандра — пример безропотного следования долгу
+  index: "90"
+  filename: 90-ramachandra-primer-bezropotnogo-sle.md
 ---
-
-# 90. Рамачандра — пример безропотного следования долгу
 
 Когда Рамачандре сообщили, что Он будет коронован, отец передаст Ему власть, престол, Рамачандра оставался невозмутимым, Он сохранял спокойствие. Но когда Он услышал, что нет, вместо коронации, Он отправится в лес, в изгнание на 14 лет, Он оставался столь же невозмутимым. Он не радовался, услышав о том, что Ему предстоит взойти на трон, сесть на трон.
 

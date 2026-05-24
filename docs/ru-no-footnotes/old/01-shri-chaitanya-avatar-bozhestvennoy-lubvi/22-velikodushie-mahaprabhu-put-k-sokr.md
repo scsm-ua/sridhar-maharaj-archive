@@ -1,5 +1,13 @@
 ---
 slug: 22-velikodushie-mahaprabhu-put-k-sokr
+title: Великодушие Махапрабху – путь к сокровенной концепции Божественного.
+  Мгновения прекрасной реальности, часть 3.2.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2077128
+  duration: 00:05:14
+  src: /wp-content/uploads/2012/08/022_MgnoveniyaPR_3.2_SridharMj_Velikodushiye_Mahaprabhu–put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -8,13 +16,15 @@ tags:
     slug: mahaprabhu
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/022_MgnoveniyaPR_3.2_SridharMj_Velikodushiye_Mahaprabhu–put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
     title: Скачать аудиозапись в mp3 (5 мин 14 сек, размер 2 Мб)
+legacy:
+  title: 22. Великодушие Махапрабху – путь к сокровенной концепции Божественного.
+    Мгновения прекрасной реальности, часть 3.2
+  index: "22"
+  filename: 22-velikodushie-mahaprabhu-put-k-sokr.md
 ---
-
-# 22. Великодушие Махапрабху – путь к сокровенной концепции Божественного. Мгновения прекрасной реальности, часть 3.2
 
 Великодушие. Мы должны искать великодушия Махапрабху. То, к чему стремятся Шива и Брахма. Только капля этого. Они молят об этой капле. Он затопил потоком этого нектара всю вселенную. Даже каплю нектара, даже каплю которого трудно обрести. Мы должны обратиться с таким отношением и желанием. Это нечто столь великое, столь великодушное. Что это такое?
 

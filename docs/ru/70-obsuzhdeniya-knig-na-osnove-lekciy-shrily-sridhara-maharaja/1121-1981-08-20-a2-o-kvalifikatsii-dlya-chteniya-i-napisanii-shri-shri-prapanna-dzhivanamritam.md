@@ -1,36 +1,17 @@
 ---
-slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+slug: 1981-08-20-a2_o_kvalifikatsii_dlya_chteniya_i_napisanii_shri_shri_prapanna-dzhivanamritam
+record_id: 1981.08.20.A2
+title: О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11542058
+  duration: 00:22:59
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
+date: 1981-08-20
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.3.44
-    slug: shrimad-bhagavatam-11-3-44
-  - title: Веданта-сутра
-    slug: vedanta-sutra
-  - title: Веданта-сутра 1.1.1
-    slug: vedanta-sutra-1-1-1
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
-    slug: shri-chajtanya-charitamrita-antya-lila-5-131
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
-    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.99
-    slug: shri-chajtanya-charitamrita-adi-lila-1-99
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 5
-    slug: sharanagati-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.mp3
     title: аудиозапись в MP3 (22 мин. 58 сек., 11,1 МБ)
@@ -38,9 +19,26 @@ links:
     title: транскрипцию в DOCX (38 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1121_1981.08.20.A2_SridharMj_O_kvalifikacii_dlya_chteniya_i_napisanii_Shri_Shri_Prapanna-jivanamritam.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 1121. 1981.08.20.A2. О квалификации для чтения и написании «Шри Шри
+    Прапанна-дживанамритам»
+  index: "1121"
+  filename: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
+  slug: 1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam
+tags:
+  - title: Шримад-Бхагаватам 11.3.44
+    slug: shrimad-bhagavatam-11-3-44
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.99
+    slug: shri-chajtanya-charitamrita-adi-lila-1-99
+  - title: Шаранагати 5
+    slug: sharanagati-5
 ---
-
-# 1121. 1981.08.20.A2. О квалификации для чтения и написании «Шри Шри Прапанна-дживанамритам»
 
 **Преданный:** Безоговорочно и совершено спонтанно… нектар самопредания…
 
@@ -145,7 +143,7 @@ links:
 
 *#00:14:57#*
 
-*Адхикар*. «Бхагаватам» и *сат-санга*, качества и *сат-санга.* *Брамин* может не находится в положении, позволяющем ему понять, изучать священные писания, лишь *садху-санга*: хороший учитель необходим для того, чтобы понять *шастру*. Махапрабху попросил Рагхунатха Бхатту (он жил в Бенаресе, был сыном Тапана Мишры)… Тапана Мишра был преданным и ученым также. Когда Рагхунатх Бхатта посетил Махапрабху в Пури, то Махапрабху сказал ему: «Не женись, служи своим родителям (они вайшнавы), а когда они покинут мир, то приходи во Вриндаван, и живи в обществе Рупы и Санатаны. А в это время, пока суд да дело, ты изучай «Шримад Бхагаватам» под началом учителя-вайшнава. *Йа̄ха, бха̄гавата пад̣а вайш̣н̣авера стха̄не*. Обрети подлинную точку зрения, правильный угол зрения, как понять тему, как понять цель, смысл «Бхагаватам» — все эти реалии. Вайшнав даст тебе истинное направление, истинные указания».
+*Адхикар*. «Бхагаватам» и *сат-санга*, качества и *сат-санга*. *Брамин* может не находится в положении, позволяющем ему понять, изучать священные писания, лишь *садху-санга*: хороший учитель необходим для того, чтобы понять *шастру*. Махапрабху попросил Рагхунатха Бхатту (он жил в Бенаресе, был сыном Тапана Мишры)… Тапана Мишра был преданным и ученым также. Когда Рагхунатх Бхатта посетил Махапрабху в Пури, то Махапрабху сказал ему: «Не женись, служи своим родителям (они вайшнавы), а когда они покинут мир, то приходи во Вриндаван, и живи в обществе Рупы и Санатаны. А в это время, пока суд да дело, ты изучай «Шримад Бхагаватам» под началом учителя-вайшнава. *Йа̄ха, бха̄гавата пад̣а вайш̣н̣авера стха̄не*. Обрети подлинную точку зрения, правильный угол зрения, как понять тему, как понять цель, смысл «Бхагаватам» — все эти реалии. Вайшнав даст тебе истинное направление, истинные указания».
 
 *#00:16:23#*
 

@@ -1,5 +1,13 @@
 ---
 slug: 14-soznanie-krishny-i-soznanie-gaurangi
+title: Сознание Кришны и Сознание Гауранги. Мгновения прекрасной реальности,
+  часть 5.3.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5888688
+  duration: 00:17:11
+  src: /wp-content/uploads/2012/08/014_MgnoveniyaPR_5.3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +18,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Чайтанья-чаритамрита
     slug: chajtanya-charitamrita
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/014_MgnoveniyaPR_5.3_SridharMj_Soznanie_Krishny_i_Soznanie_Gaurangi.mp3
     title: Скачать аудиозапись в mp3 (17 мин 11 сек, размер 5 Мб)
+legacy:
+  title: 14. Сознание Кришны и Сознание Гауранги. Мгновения прекрасной реальности,
+    часть 5.3
+  index: "14"
+  filename: 14-soznanie-krishny-i-soznanie-gaurangi.md
 ---
-
-# 14. Сознание Кришны и Сознание Гауранги. Мгновения прекрасной реальности, часть 5.3
 
 Сейчас наше понимание нашей собственной жизни осквернено. Ум и этот разум – энергия эксплуатации разных видов, это все оскверняет. Наше нынешнее существование не является чистым, но когда это уйдет наше подлинное существование, наше подлинное я восстанет в своей первозданной славе.
 

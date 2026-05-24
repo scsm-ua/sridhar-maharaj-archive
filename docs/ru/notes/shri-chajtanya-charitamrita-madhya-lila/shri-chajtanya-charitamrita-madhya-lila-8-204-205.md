@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-8-204-205
 refs:
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
-tags:
+  - ../../_full/1983/03/1983.03.28.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.204–205
     slug: shri-chajtanya-charitamrita-madhya-lila-8-204-205
 ---

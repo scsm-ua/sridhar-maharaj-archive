@@ -1,14 +1,20 @@
 ---
-slug: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu
+slug: 1982-06-08-a1_na_stadii_paramahamsy_sannyasi_mozhet_ne_nosit_tridandu
+record_id: 1982.06.08.A1
+title: На стадии парамахамсы санньяси может не носить триданду
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2549894
+  duration: 00:01:34
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/402_1982.06.08.A1_SridharMj_Na_stadii_paramahamsy_sannjasi_mozhet_ne_nosit_tridandu.mp3
+date: 1982-06-08
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/402_1982.06.08.A1_SridharMj_Na_stadii_paramahamsy_sannjasi_mozhet_ne_nosit_tridandu.mp3
     title: аудиозапись в MP3 (1 мин. 33 сек., 2,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/402_1982.06.08.A1_SridharMj_Na_stadii_paramahamsy_sannjasi_mozhet_ne_nosit_tridandu.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 402. 1982.06.08.A1. На стадии парамахамсы санньяси может не носить триданду
+  index: "402"
+  filename: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu.md
+  slug: 402-1982-06-08-a1-na-stadii-paramahamsy-sannyasi-mozhet-ne-nosit-tridandu
 ---
-
-# 402. 1982.06.08.A1. На стадии парамахамсы санньяси может не носить триданду
 
 **Акхаянанда Махарадж:** Относительно правил, согласно которым *санньяси* должен носить *триданду*, — это вопрос общего характера. Кто-то говорит, что ее следует носить десять лет, кто-то — двенадцать лет, кто-то — пятнадцать лет. Существуют ли какие-то конкретные [указания?]
 

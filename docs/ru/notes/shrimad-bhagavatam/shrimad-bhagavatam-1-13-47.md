@@ -8,9 +8,20 @@ refs:
   - ../../47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov/752-1982-06-08-a2-o-dozvolenii-na-upotreblenie-myasa-i-vina-v-nekotoryh-vedicheskih-pisaniyah-biblii-i-korane.md
   - ../../51-filosofiya-i-praktika-bhakti-yogi/796-1982-01-26-b1-smysl-shikhi-legkij-sposob-prevzojti-mir-materii.md
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/900-1981-08-19-b2-satyam-shivam-advayam-vs-satyam-shivam-sundaram.md
-tags:
+  - ../../_full/1981/08/1981.08.19.md
+  - ../../_full/1981/11/1981.11.05.A.B.C.md
+  - ../../_full/1981/12/1981.12.13.C.md
+  - ../../_full/1982/01/1982.01.26.md
+  - ../../_full/1982/04/1982.04.24.A.B.md
+  - ../../_full/1982/06/1982.06.08.A2.B.md
+  - ../../_full/1982/09/1982.09.04.A.B.md
+  - ../../_full/1983/04/1983.04.23.md
+  - ../../_full/1983/07/1983.07.08.md
+  - ../../_full/1983/08/1983.08.08.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.13.47
     slug: shrimad-bhagavatam-1-13-47
 ---
@@ -26,3 +37,7 @@ tags:
 ---
 
 «Лишенные рук — добыча имеющих руки, лишенные ног — добыча четвероногих. Слабые служат пищей для сильного. Общий закон гласит: одно живое существо является пищей для другого» («Шримад-Бхагаватам», 1.13.47).
+
+---
+
+«Шримад-Бхагаватам», 1.13.47.

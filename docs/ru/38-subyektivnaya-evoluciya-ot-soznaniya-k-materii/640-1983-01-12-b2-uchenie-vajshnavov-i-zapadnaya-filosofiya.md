@@ -1,20 +1,17 @@
 ---
-slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
+slug: 1983-01-12-b2_uchenie_vayshnavov_i_zapadnaya_filosofiya
+record_id: 1983.01.12.B2
+title: Учение вайшнавов и западная философия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4523526
+  duration: 00:07:28
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
+date: 1983-01-12
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
-    slug: shri-chajtanya-charitamrita-adi-lila-2-12
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
-  - title: Мундака Упанишад 2.2.9–11
-    slug: mundaka-upanishad-2-2-9-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.mp3
     title: аудиозапись в MP3 (7 мин. 28 сек., 4,4 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/640_1983.01.12.B2_SridharMj_Uchenie_vaishnavov_i_zapadnaya_filosofiya.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 640. 1983.01.12.B2. Учение вайшнавов и западная философия
+  index: "640"
+  filename: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya.md
+  slug: 640-1983-01-12-b2-uchenie-vajshnavov-i-zapadnaya-filosofiya
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.12
+    slug: shri-chajtanya-charitamrita-adi-lila-2-12
+  - title: Мундака Упанишад 2.2.9–11
+    slug: mundaka-upanishad-2-2-9-11
 ---
-
-# 640. 1983.01.12.B2. Учение вайшнавов и западная философия
 
 **Шрила Шридхар Махарадж:** Чем вы занимаетесь в Америке, Робин? — спрашивает Шрила Гуру Махарадж.
 

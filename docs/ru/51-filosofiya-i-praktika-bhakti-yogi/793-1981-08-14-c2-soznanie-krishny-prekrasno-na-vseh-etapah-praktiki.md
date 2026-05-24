@@ -1,18 +1,22 @@
 ---
-slug: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki
+slug: 1981-08-14-c2_soznanie_krishny_prekrasno_na_vseh_etapah_praktiki
+record_id: 1981.08.14.C2
+title: Сознание Кришны прекрасно на всех этапах практики
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3213186
+  duration: 00:04:50
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3
+date: 1981-08-14
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Бхакти-йога
     slug: bhakti-joga
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.mp3
     title: аудиозапись в MP3 (4 мин. 49 сек., 3,1 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (21 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/793_1981.08.14.C2_SridharMj_Soznanie_Krishny_prekrasno_na_vseh_jetapah_praktiki.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 793. 1981.08.14.C2. Сознание Кришны прекрасно на всех этапах практики
+  index: "793"
+  filename: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki.md
+  slug: 793-1981-08-14-c2-soznanie-krishny-prekrasno-na-vseh-etapah-praktiki
 ---
-
-# 793. 1981.08.14.C2. Сознание Кришны прекрасно на всех этапах практики
 
 **Госвами Махарадж:** Махарадж, сознание Кришны настолько прекрасно с самого начала, что если тебе дают каплю безграничного, то это также безгранично. Разве не так?
 

@@ -1,14 +1,20 @@
 ---
-slug: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz
+slug: 1982-05-16-b3-c_poeziya_kalidasa_guru_kak_teleskopicheskaya_sistema_linz
+record_id: 1982.05.16.B3.C
+title: Поэзия Калидаса. Гуру как телескопическая система линз.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23195345
+  duration: 00:22:46
+  src: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3
+date: 1982-05-16
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Гуру-парампара
     slug: guru-parampara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.mp3
     title: аудиозапись в MP3 (22 мин. 46 сек., 22,2 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (31 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/270_1982.05.16.B3.C_SridharMj_Pojezija_Kalidasa__Guru_kak_teleskopicheskaja_sistema_linz.pdf
     title: транскрипцию в PDF (183 КБ)
+legacy:
+  title: 270. 1982.05.16.B3.C. Поэзия Калидаса. Гуру как телескопическая система линз
+  index: "270"
+  filename: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
+  slug: 270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz
 ---
-
-# 270. 1982.05.16.B3.C. Поэзия Калидаса. Гуру как телескопическая система линз
 
     кришна се томара, кришна дите паро
     томара шакати ачхе
@@ -137,7 +146,7 @@ links:
     тад виджиджн̃а̄сасва тад эва брахма
 [^_ftn6]
 
-В Веданте также говорится: *брахма̄-джиджн̃а̄са̄:* «Пытайся обрести опыт Первоисточника всего сущего. Тогда все будет в твоей власти». *Кришна-анусандхан*. Что есть этот *Брахман*? *Брахман*, *Параматма*. Кришна — сама суть всего этого, этих реалий, сознание Кришны. Все есть Его монополия. Поэтому — поиск Кришны. Он самодержец, Он вор, Он обманщик.
+В Веданте также говорится: *брахма̄-джиджн̃а̄са̄*: «Пытайся обрести опыт Первоисточника всего сущего. Тогда все будет в твоей власти». *Кришна-анусандхан*. Что есть этот *Брахман*? *Брахман*, *Параматма*. Кришна — сама суть всего этого, этих реалий, сознание Кришны. Все есть Его монополия. Поэтому — поиск Кришны. Он самодержец, Он вор, Он обманщик.
 
 *#00:19:40#*
 

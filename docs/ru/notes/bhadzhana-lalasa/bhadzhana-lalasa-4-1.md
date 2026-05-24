@@ -2,9 +2,10 @@
 slug: bhadzhana-lalasa-4-1
 refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
-tags:
+scriptures:
   - title: Бхаджана-лаласа
     slug: bhadzhana-lalasa
+verses:
   - title: Бхаджана-лаласа 4.1
     slug: bhadzhana-lalasa-4-1
 ---

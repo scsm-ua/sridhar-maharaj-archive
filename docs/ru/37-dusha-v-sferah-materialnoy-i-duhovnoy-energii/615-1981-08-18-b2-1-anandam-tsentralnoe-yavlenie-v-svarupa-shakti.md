@@ -1,14 +1,20 @@
 ---
-slug: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti
+slug: 1981-08-18-b2-1_anandam_tsentralnoe_yavlenie_v_svarupa-shakti
+record_id: 1981.08.18.B2.1
+title: Анандам — центральное явление в сварупа-шакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2824547
+  duration: 00:02:29
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.mp3
+date: 1981-08-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.mp3
     title: аудиозапись в MP3 (2 мин. 29 сек., 2,7 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/615_1981.08.18.B2.1_SridharMj_Anandam_centralnoe_javlenie_v_svarupa-shakti.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 615. 1981.08.18.B2.1. Анандам — центральное явление в сварупа-шакти
+  index: "615"
+  filename: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti.md
+  slug: 615-1981-08-18-b2-1-anandam-tsentralnoe-yavlenie-v-svarupa-shakti
 ---
-
-# 615. 1981.08.18.B2.1. Анандам — центральное явление в сварупа-шакти
 
 **Преданный:** Махарадж, а *сварупа-шакти* — это *хладини*? Она происходит из *хладини*? Где находится эта *сварупа-шакти* в онтологии, эта *виласа*, внутреннее движение?
 

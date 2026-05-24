@@ -1,12 +1,17 @@
 ---
-slug: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami
+slug: 1983-05-04-b1_zhiznennyy_put_raghunatha_dasa_gosvami
+record_id: 1983.05.04.B1
+title: Жизненный путь Рагхунатха Даса Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13702061
+  duration: 00:22:32
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
+date: 1983-05-04
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
     title: аудиозапись в MP3 (22 мин. 32 сек., 13,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (199 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/947_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 947. 1983.05.04.B1. Жизненный путь Рагхунатха Даса Госвами
+  index: "947"
+  filename: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
+  slug: 947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami
 ---
-
-# 947. 1983.05.04.B1. Жизненный путь Рагхунатха Даса Госвами
 
 **Преданный:** Мы видим, как Рагхунатх Дас Госвами принимал руководство Махапрабху, затем Сварупы Дамодара, затем Рупы и Санатаны…
 

@@ -1,21 +1,25 @@
 ---
-slug: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha
+slug: 1981-08-27-a1-2_revolyutsionnost_i_konservatizm_v_nastroenii_bhaktivinoda_thakura_sarasvati_thakura_bhaktivedanty_svami_i_shridhara_maharadzha
+record_id: 1981.08.27.A1.2
+title: Революционность и консерватизм в настроении Бхактивинода Тхакура,
+  Сарасвати Тхакура, Бхактиведанты Свами и Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5426615
+  duration: 00:09:32
+  src: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3
+date: 1981-08-27
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Проповедь
     slug: propoved
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
   - title: Бхагавад-гита 18.46
     slug: bhagavad-gita-18-46
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -24,7 +28,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (9 мин. 32 сек., 5,2 МБ)
@@ -32,9 +35,14 @@ links:
     title: транскрипцию в RTF (117 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/375_1981.08.27.A1.2_SridharMj_Revoljucionnost_i_konservatizm_v_nastroenii_Bhaktivinoda_Thakura_Sarasvati_Thakura_Bhaktivedanty_Svami_i_Shridhara.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 375. 1981.08.27.A1.2. Революционность и консерватизм в настроении
+    Бхактивинода Тхакура, Сарасвати Тхакура, Бхактиведанты Свами и Шридхара
+    Махараджа
+  index: "375"
+  filename: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha.md
+  slug: 375-1981-08-27-a1-2-revolyutsionnost-i-konservatizm-v-nastroenii-bhaktivinoda-thakura-sarasvati-thakura-bhaktivedanty-svami-i-shridhara-maharadzha
 ---
-
-# 375. 1981.08.27.A1.2. Революционность и консерватизм в настроении Бхактивинода Тхакура, Сарасвати Тхакура, Бхактиведанты Свами и Шридхара Махараджа
 
 Трудно, трудно занять правильную позицию по отношению к относительному и абсолютному суждениям (или началам), трудно расставить все на свои места, когда речь идет об относительном и абсолютном. В целом мы будем принимать относительное положение, но также помня, храня сознание абсолютной оценки. Абсолютная оценка (или абсолютное суждение) всегда выше, превосходит суждение (или платформу) относительного характера, но это рискованно. Относительное положение позволяет нам не опуститься, не деградировать.
 

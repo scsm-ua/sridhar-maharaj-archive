@@ -1,26 +1,26 @@
 ---
-slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
+slug: 1983-02-13-a2_dusha_chudesna_i_udivitelna_mir_vysshey_dushi
+record_id: 1983.02.13.A2
+title: Душа чудесна и удивительна. Мир Высшей Души.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9698054
+  duration: 00:16:49
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.mp3
+date: 1983-02-13
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.29
     slug: bhagavad-gita-2-29
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.mp3
     title: аудиозапись в MP3 (16 мин. 48 сек., 9,3 МБ)
@@ -28,9 +28,12 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/582_1983.02.13.A2_SridharMj_Dusha_chudesna_i_udivitelna_Mir_Vysshej_Dushi.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 582. 1983.02.13.A2. Душа чудесна и удивительна. Мир Высшей Души
+  index: "582"
+  filename: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi.md
+  slug: 582-1983-02-13-a2-dusha-chudesna-i-udivitelna-mir-vysshej-dushi
 ---
-
-# 582. 1983.02.13.A2. Душа чудесна и удивительна. Мир Высшей Души
 
     [шлока]
 

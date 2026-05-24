@@ -1,37 +1,47 @@
 ---
-slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
+slug: 1983-01-02-b_mir_mnozhestva_hristov_kommentariy_k_istorii_padeniya_adama_i_evy
+record_id: 1983.01.02.B
+title: Мир множества Христов. Комментарий к истории падения Адама и Евы.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22910358
+  duration: 00:44:11
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
+date: 1983-01-02
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
+links:
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
+    title: аудиозапись в MP3 (44 мин. 11 сек., 21,9 МБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.rtf
+    title: транскрипцию в RTF (320 КБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.pdf
+    title: транскрипцию в PDF (219 КБ)
+legacy:
+  title: 903. 1983.01.02.B. Мир множества Христов. Комментарий к истории падения
+    Адама и Евы
+  index: "903"
+  filename: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy.md
+  slug: 903-1983-01-02-b-mir-mnozhestva-hristov-kommentarij-k-istorii-padeniya-adama-i-evy
 tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.19.18
     slug: shrimad-bhagavatam-11-19-18
   - title: Шримад-Бхагаватам 1.1.1–3
     slug: shrimad-bhagavatam-1-1-1-3
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
     slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.57
@@ -40,17 +50,7 @@ tags:
     slug: shri-chajtanya-charitamrita-adi-lila-4-165
   - title: Шримад-Бхагаватам 6.11.25
     slug: shrimad-bhagavatam-6-11-25
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.mp3
-    title: аудиозапись в MP3 (44 мин. 11 сек., 21,9 МБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.rtf
-    title: транскрипцию в RTF (320 КБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/903_1983.01.02.B_SridharMj_Mir_mnozhestva_Hristov__Kommentarij_k_istorii_padenija_Adama_i_Evy.pdf
-    title: транскрипцию в PDF (219 КБ)
 ---
-
-# 903. 1983.01.02.B. Мир множества Христов. Комментарий к истории падения Адама и Евы
 
 Мы должны отчаянно стремиться считать себя рабами раба рабов. Это столь высокое достижение. Состязание в концепции рабства: раб раба раба. Подобная возвышенная сфера, высокая сфера, такова она. Если у нас есть достаточно смелости, жертвенности, тогда мы можем войти, вступить в эту сферу и жить в ней. Жертва, жертвенность в крайней, высочайшей степени. Вновь и вновь к нам приходит этот призыв: «умереть, чтобы жить». Это очень обширное, всеобъемлющее явление и также глубокое, осмысленное.
 

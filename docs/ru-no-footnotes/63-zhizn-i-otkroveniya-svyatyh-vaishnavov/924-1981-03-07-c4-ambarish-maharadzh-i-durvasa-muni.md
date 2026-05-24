@@ -1,12 +1,17 @@
 ---
-slug: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni
+slug: 1981-03-07-c4_ambarish_maharadzh_i_durvasa_muni
+record_id: 1981.03.07.C4
+title: Амбариш Махарадж и Дурваса Муни
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22566764
+  duration: 00:20:30
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3
+date: 1981-03-07
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.mp3
     title: аудиозапись в MP3 (20 мин. 30 сек., 21,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (179 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/924_1981.03.07.C4_SridharMj_Ambarish_Maharadzh_i_Durvasa_Muni.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 924. 1981.03.07.C4. Амбариш Махарадж и Дурваса Муни
+  index: "924"
+  filename: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni.md
+  slug: 924-1981-03-07-c4-ambarish-maharadzh-i-durvasa-muni
 ---
-
-# 924. 1981.03.07.C4. Амбариш Махарадж и Дурваса Муни
 
 **Преданный:** В «Бхагаватам» есть история Амбариши Махараджа и Дурвасы Муни. Не могли бы вы объяснить, какой была природа Амбариши Махараджа, как он сумел остаться столь терпимым, сталкиваясь с такими трудностями?
 

@@ -1,24 +1,27 @@
 ---
-slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
+slug: 1982-05-11-a-b1-b3_propoved_v_sfere_obrazovaniya_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshchestvami
+record_id: 1982.05.11.A.B1.B3
+title: Проповедь в сфере образования содержит опасность конфликта с
+  правительством и студенческими сообществами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18343967
+  duration: 00:18:14
+  src: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
+date: 1982-05-11
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Проповедь
     slug: propoved
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.mp3
     title: аудиозапись в MP3 (18 мин. 13 сек., 17,5 МБ)
@@ -26,9 +29,13 @@ links:
     title: транскрипцию в RTF (140 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/377_1982.05.11.A.B1.B3_SridharMj_Propoved_v_sfere_obrazovanija_soderzhit_opasnost_konflikta_s_pravitelstvom_i_studencheskimi_soobshhestvami.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 377. 1982.05.11.A.B1.B3. Проповедь в сфере образования содержит опасность
+    конфликта с правительством и студенческими сообществами
+  index: "377"
+  filename: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami.md
+  slug: 377-1982-05-11-a-b1-b3-propoved-v-sfere-obrazovaniya-soderzhit-opasnost-konflikta-s-pravitelstvom-i-studencheskimi-soobshhestvami
 ---
-
-# 377. 1982.05.11.A.B1.B3. Проповедь в сфере образования содержит опасность конфликта с правительством и студенческими сообществами
 
 **Шрила Шридхар Махарадж:** Ты хотел поговорить о его предполагаемом университете, да?
 
@@ -94,7 +101,7 @@ links:
 
 *#00:10:11#*
 
-Джйотир Гхош(?), премьер-министр Бенгалии, хотел изменить всю систему образования. Как это будет по-английски? Древнюю санскритскую культуру. По его мнению, эта культура прогнила, ее следует отправить на помойку, это зло, и новая культура должна быть доносима до масс. Это все *апасамскрити*, это все — дурная культура, по его мнению, низкая культура. Так или иначе, я не говорю, что мы должны стоять в стороне и сохранять роль пассивных наблюдателей. Мы должны сражаться, но делать это следует крайне осторожно. Свами Махарадж учредил систему *гурукулы.* Возможно, это лучшая система.
+Джйотир Гхош(?), премьер-министр Бенгалии, хотел изменить всю систему образования. Как это будет по-английски? Древнюю санскритскую культуру. По его мнению, эта культура прогнила, ее следует отправить на помойку, это зло, и новая культура должна быть доносима до масс. Это все *апасамскрити*, это все — дурная культура, по его мнению, низкая культура. Так или иначе, я не говорю, что мы должны стоять в стороне и сохранять роль пассивных наблюдателей. Мы должны сражаться, но делать это следует крайне осторожно. Свами Махарадж учредил систему *гурукулы*. Возможно, это лучшая система.
 
 *#00:11:32#*
 

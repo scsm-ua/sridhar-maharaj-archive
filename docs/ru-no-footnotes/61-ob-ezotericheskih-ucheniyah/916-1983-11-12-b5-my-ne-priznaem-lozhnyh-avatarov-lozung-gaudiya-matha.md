@@ -1,12 +1,17 @@
 ---
-slug: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha
+slug: 1983-11-12-b5_my_ne_priznaem_lozhnyh_avatarov_lozung_gaudiya_matha
+record_id: 1983.11.12.B5
+title: «Мы не признаем ложных аватаров» — лозунг Гаудия Матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3656997
+  duration: 00:03:00
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3
+date: 1983-11-12
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.mp3
     title: аудиозапись в MP3 (3 мин. 00 сек., 3,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/916_1983.11.12.B5_SridharMj_My_ne_priznaem_lozhnyh_avatarov--lozung_Gaudija_Matha.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 916. 1983.11.12.B5. «Мы не признаем ложных аватаров» — лозунг Гаудия Матха
+  index: "916"
+  filename: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha.md
+  slug: 916-1983-11-12-b5-my-ne-priznaem-lozhnyh-avatarov-lozung-gaudiya-matha
 ---
-
-# 916. 1983.11.12.B5. «Мы не признаем ложных аватаров» — лозунг Гаудия Матха
 
 О чем идет речь?
 

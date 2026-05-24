@@ -1,25 +1,38 @@
 ---
-slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
+slug: 1983-03-28-v2_gosvami_maharadzh_prezentuet_shridharu_maharadzhu_knigu_poisk_shri_krishny
+record_id: 1983.03.28
+variant: 2
+title: Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15416499
+  duration: 00:31:03
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
+date: 1983-03-28
 category:
   title: 70. Обсуждения книг на основе лекций Шрилы Шридхара Махараджа
   slug: 70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja
+links:
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
+    title: аудиозапись в MP3 (31 мин. 03 сек., 14,8 МБ)
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.rtf
+    title: транскрипцию в RTF (342 КБ)
+  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.pdf
+    title: транскрипцию в PDF (202 КБ)
+legacy:
+  title: 1114. 1983.03.28. Госвами Махарадж презентует Шридхару Махараджу книгу
+    «Поиск Шри Кришны»
+  index: "1114"
+  filename: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
+  slug: 1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny
 tags:
-  - title: "1983.03"
-    slug: 1983-03
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 1–1
     slug: sharanagati-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
@@ -28,55 +41,33 @@ tags:
     slug: shrimad-bhagavatam-2-8-5
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
   - title: Шри Шикшаштакам 1
     slug: shri-shikshashtakam-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.204–205
     slug: shri-chajtanya-charitamrita-madhya-lila-8-204-205
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.219
     slug: shri-chajtanya-charitamrita-adi-lila-4-219
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.106
     slug: shri-chajtanya-charitamrita-madhya-lila-8-106
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
   - title: Шри Гита-Говинда 3.1
     slug: shri-gita-govinda-3-1
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-  - title: Таттва-сандарбха
-    slug: tattva-sandarbha
   - title: Таттва-сандарбха 63.6
     slug: tattva-sandarbha-63-6
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
   - title: Према-Дхама-Дева-стотрам 66
     slug: prema-dhama-deva-stotram-66
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.mp3
-    title: аудиозапись в MP3 (31 мин. 03 сек., 14,8 МБ)
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.rtf
-    title: транскрипцию в RTF (342 КБ)
-  - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1114_1983.03.28_SridharMj_GoswamiMj_prezentuet_Sridharu_Maharaju_knigu_Poisk_Shri_Krishny.pdf
-    title: транскрипцию в PDF (202 КБ)
 ---
-
-# 1114. 1983.03.28. Госвами Махарадж презентует Шридхару Махараджу книгу «Поиск Шри Кришны»
 
 **Госвами Махарадж:** Она начинается с предисловия Шрилы Бхактивиноды Тхакура, его речь, посвященная «Бхагаватам», о принципе нового откровения. Затем после Бхактивинода Тхакура идет его изображение и его предисловие. Затемч — предисловие, написанное нашим Гуру Махараджем [А.Ч. Бхактиведантой Свами Прабхупадой], он говорит в нем о вас. Далее — изображение нашего Гуру Махараджа и вас, вы сидите на *вьясасане*. Это Шрила Бхактисиддханта Сарасвати. Это изображение Вашей Божественной Милости, это — список ваших книг: «Амброзия в жизни предавшихся душ», «Поиск Шри Кришны, Прекрасной Реальности», «Шри Гуру и его милость», «Шикшаштака», «Према-дхама-дева-стотрам», «Прапанна-дживанамритам», Бхагавад-гита, «Бхакти-расамрита-синдху». Синдхукирта Манджуша(?) и основатель журнала «Гаудия-даршан» указаны здесь. Это вступление, в котором речь идет о *расе*: каждый ищет *расу*, *кришна-анусандхан*. Далее вы говорите о *кришна-анусандхане*, поиске Шри Кришны.
 
@@ -222,7 +213,7 @@ links:
 
 *#00:20:14#*
 
-Затем — божественное рабство; затем наука *расы* — *раса-вигьяна(?)* [или *раса* начинается (begins)(?)]: *дасья-раса*, затем Бог-друг (*сакхья-раса*), Бог-сын — (*ватсалья-раса*), *мадхура* — концепция Кришны. И вы говорите здесь: «Рупа Госвами ведет от Вайкунтхи в *мадхуру* одним прыжком, одним шагом в «Упадешамрите», тогда как Санатана делает это шаг за шагом в «Брихад-бхагаватамритам». Затем на следующей странице сказано: «Супружеская любовь», и затем доходит до положения Радхи, Радхарани — царицы *гопи*: *ра̄дха̄м а̄дха̄йа хр̣дайе татйа̄джа враджа-сундарӣх*[^_ftn10]. Затем «Радха-Кришна — встреча в разлуке», и здесь изображение Радхи и Говинды, где сказано «Господь Шри Кришна — Сам олицетворенный экстаз, воплощение экстатической любви к Богу». Затем Шри Чайтанья-аватар, намек на Его явление, Раса-Радж, Сам Экстаз, трансцендентное безумие Махапрабху. Здесь изображение Махапрабху в обществе Сварупы Дамодара и Рамананды Рая.
+Затем — божественное рабство; затем наука *расы* — *раса-вигьяна*(?) [или *раса* начинается (begins)(?)]: *дасья-раса*, затем Бог-друг (*сакхья-раса*), Бог-сын — (*ватсалья-раса*), *мадхура* — концепция Кришны. И вы говорите здесь: «Рупа Госвами ведет от Вайкунтхи в *мадхуру* одним прыжком, одним шагом в «Упадешамрите», тогда как Санатана делает это шаг за шагом в «Брихад-бхагаватамритам». Затем на следующей странице сказано: «Супружеская любовь», и затем доходит до положения Радхи, Радхарани — царицы *гопи*: *ра̄дха̄м а̄дха̄йа хр̣дайе татйа̄джа враджа-сундарӣх*[^_ftn10]. Затем «Радха-Кришна — встреча в разлуке», и здесь изображение Радхи и Говинды, где сказано «Господь Шри Кришна — Сам олицетворенный экстаз, воплощение экстатической любви к Богу». Затем Шри Чайтанья-аватар, намек на Его явление, Раса-Радж, Сам Экстаз, трансцендентное безумие Махапрабху. Здесь изображение Махапрабху в обществе Сварупы Дамодара и Рамананды Рая.
 
 *#00:21:44#*
 

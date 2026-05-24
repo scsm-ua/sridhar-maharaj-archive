@@ -1,15 +1,25 @@
 ---
 slug: 130-smysl-i-sushhnost-posvyashheniya-1983-01-31
+record_id: 1983.01.31
+title: Смысл и сущность посвящения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11941333
+  duration: 00:24:05
+  src: /wp-content/uploads/2012/08/130_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
+date: 1983-01-31
 category:
   title: (09. Посвящение)
   slug: 09-posvyaschenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/130_1983.01.31_SridharMj_Smysl_i_suwnost_posvyaweniya.mp3
     title: Скачать аудиозапись в mp3 (24 мин 5 сек, размер 11 Мб)
+legacy:
+  title: 130. Смысл и сущность посвящения. 1983.01.31
+  index: "130"
+  filename: 130-smysl-i-sushhnost-posvyashheniya-1983-01-31.md
 ---
-
-# 130. Смысл и сущность посвящения. 1983.01.31
 
 *#00:00:00#*
 

@@ -3,9 +3,13 @@ slug: kali-ghora-timire-4
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
-tags:
+  - ../../_full/1981/09/1981.09.23.A.md
+  - ../../_full/1982/05/1982.05.09.A.md
+  - ../../_full/1982/05/1982.05.09.A.md
+scriptures:
   - title: Кали-гхора тимире
     slug: kali-ghora-timire
+verses:
   - title: Кали-гхора тимире 4
     slug: kali-ghora-timire-4
 ---
@@ -17,3 +21,7 @@ tags:
 ---
 
 *веда видйа дуи кичхуи на джаната, се джади гауранга джане сара / найанананда бхане сеи то сакали джане, сарва-сиддхи каратале тара* — «Если кому-то известны два вида ведического знания, он все еще ничего не знает. Но если кто-то знает Господа Гаурангу, то обладает самым большим знанием!» Наянананда говорит: «Такой человек знает все. Он обладает всеми совершенствами!» (Шрила Найанананда Дас «Кали-гхора тимире», 4).
+
+---
+
+«Если кому-то известны два вида ведического знания, он все еще ничего не знает. Но если кто-то знает Господа Гаурангу, то обладает самым большим знанием!» Наянананда говорит: „Такой человек знает все. Он обладает всеми совершенствами!"» (Шрила Наянананда Дас «Кали-гхора тимире», 4).

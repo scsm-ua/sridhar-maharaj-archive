@@ -1,22 +1,30 @@
 ---
 slug: 441-pochemu-shri-chajtanya-otverg-uchenie-bu
+record_id: 1982.01.25.A1
+title: Почему Шри Чайтанья отверг учение Будды и Шанкары?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6640306
+  duration: 00:13:38
+  src: /wp-content/uploads/2012/08/441_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary-.mp3
+date: 1982-01-25
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Майавада
     slug: majavada
   - title: Шанкара
     slug: shankara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/441_1982.01.25.A1_SridharMj_Pochemu_Shri_Chaitanya_otverg_ucheniye_Buddy_i_Shankary-.mp3
     title: Скачать аудиозапись в mp3 (13 мин 38 сек, размер 6 Мб)
+legacy:
+  title: 441. Почему Шри Чайтанья отверг учение Будды и Шанкары? 1982.01.25.A1
+  index: "441"
+  filename: 441-pochemu-shri-chajtanya-otverg-uchenie-bu.md
 ---
-
-# 441. Почему Шри Чайтанья отверг учение Будды и Шанкары? 1982.01.25.A1
 
 *#00:00:00#*
 

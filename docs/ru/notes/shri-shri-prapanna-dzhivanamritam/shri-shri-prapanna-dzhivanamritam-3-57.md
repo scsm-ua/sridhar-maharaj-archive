@@ -3,9 +3,10 @@ slug: shri-shri-prapanna-dzhivanamritam-3-57
 refs:
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
   - ../../48-vera/761-1982-07-08-a6-predannyj-ne-schitaet-sebya-zakonnym-obladatelem-sokrovishh-mira-very.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 3.57
     slug: shri-shri-prapanna-dzhivanamritam-3-57
 ---
@@ -25,7 +26,7 @@ tags:
 
 ---
 
-гурудеве, враджа-ване, враджа-бхуми-васи джане, шуддха-бхакте, ара випра-гане
+    гурудеве, враджа-ване, враджа-бхуми-васи джане, шуддха-бхакте, ара випра-гане
     ишта-мантре, хари-наме, йугала бхаджана каме кара рати апурвва йатане
     дхари мана чаране томара- джанийачхи эбе сара, кришна-бхакти вина ара,
     нахи гхуче дживера самсара кармма, джнана, тапах, йога, сакалаи та кармма-бхога,

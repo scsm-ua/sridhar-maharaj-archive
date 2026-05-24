@@ -2,9 +2,10 @@
 slug: kalyana-kalpataru-8-5
 refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1018-1982-06-30-a-b1-usloviya-dlya-pravilnogo-vospevaniya-svyatogo-imeni-istorii-iz-zhizni-sarasvati-thakura.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 8.5
     slug: kalyana-kalpataru-8-5
 ---

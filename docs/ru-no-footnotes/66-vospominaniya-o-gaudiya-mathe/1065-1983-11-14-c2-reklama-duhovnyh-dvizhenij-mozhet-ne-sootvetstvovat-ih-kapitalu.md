@@ -1,12 +1,17 @@
 ---
-slug: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu
+slug: 1983-11-14-c2_reklama_duhovnyh_dvizheniy_mozhet_ne_sootvetstvovat_ih_kapitalu
+record_id: 1983.11.14.C2
+title: Реклама духовных движений может не соответствовать их капиталу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2827818
+  duration: 00:02:25
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3
+date: 1983-11-14
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.mp3
     title: аудиозапись в MP3 (2 мин. 24 сек., 2,7 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1065_1983.11.14.C2_SridharMj_Reklama_duhovnyh_dvizhenij_mozhet_ne_sootvetstvovat_ih_kapitalu.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 1065. 1983.11.14.C2. Реклама духовных движений может не соответствовать
+    их капиталу
+  index: "1065"
+  filename: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu.md
+  slug: 1065-1983-11-14-c2-reklama-duhovnyh-dvizhenij-mozhet-ne-sootvetstvovat-ih-kapitalu
 ---
-
-# 1065. 1983.11.14.C2. Реклама духовных движений может не соответствовать их капиталу
 
 **Преданный:** Махарадж, в Бангладеш есть множество гуру, и один гуру — его зовут Джагат-Бандху. Они говорят…
 

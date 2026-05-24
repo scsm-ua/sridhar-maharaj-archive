@@ -1,11 +1,18 @@
 ---
 slug: 318-kommentarij-na-3-i-8-stihi-shikshashtakam-1
+record_id: 1983.01.25.B2
+title: Комментарий на 3 и 8 стихи «Шикшаштакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5389552
+  duration: 00:10:50
+  src: /wp-content/uploads/2012/08/318_1983.01.25.B2_SridharMj_Kommentariy_na_3_i_8_stihi_Siksastakam.mp3
+date: 1983-01-25
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гармония
     slug: garmoniya
   - title: Смирение
@@ -14,13 +21,14 @@ tags:
     slug: terpenie
   - title: Шикшаштакам
     slug: shikshashtakam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/318_1983.01.25.B2_SridharMj_Kommentariy_na_3_i_8_stihi_Siksastakam.mp3
     title: Скачать аудиозапись в mp3 (10 мин 50 сек, размер 5 Мб)
+legacy:
+  title: 318. Комментарий на 3 и 8 стихи «Шикшаштакам». 1983.01.25.B2
+  index: "318"
+  filename: 318-kommentarij-na-3-i-8-stihi-shikshashtakam-1.md
 ---
-
-# 318. Комментарий на 3 и 8 стихи «Шикшаштакам». 1983.01.25.B2
 
 Абсолютное благо, самодержец, Кришна — самый сладкий, сладостный, наиболее сладостный. Он выше закона. Это самое прекрасное явление. Вот, что самое прекрасное в Нем. Нет ритма и нет причины. Нет заданного размера и нет причины. Даже нет места для комнаты, места для справедливости — настолько сладостен.
 

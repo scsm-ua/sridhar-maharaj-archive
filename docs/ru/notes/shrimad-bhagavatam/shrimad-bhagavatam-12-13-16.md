@@ -4,9 +4,21 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/166-1982-01-18-b1-ram-lila-i-krishna-lila.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
   - ../../73-povtory-i-variacii/3-_ierarhiya_mirozdaniya-plany_bytiya_variacii/1139-1982-01-25-b3-shrila-shridhar-maharadzh-ob-ustrojstve-vedicheskogo-planetariya.md
-tags:
+  - ../../_full/1981/11/1981.11.11.A.B.C.md
+  - ../../_full/1981/12/1981.12.21.A.B.md
+  - ../../_full/1982/01/1982.01.05.md
+  - ../../_full/1982/01/1982.01.18.md
+  - ../../_full/1982/01/1982.01.25.md
+  - ../../_full/1982/10/1982.10.25.A.md
+  - ../../_full/1982/11/1982.11.15.C.D.md
+  - ../../_full/1982/12/1982.12.14.A.md
+  - ../../_full/1983/01/1983.01.01.md
+  - ../../_full/1983/01/1983.01.26.B.C.md
+  - ../../_full/1983/02/1983.02.07.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.13.16
     slug: shrimad-bhagavatam-12-13-16
 ---
@@ -18,6 +30,10 @@ tags:
 ---
 
 «Господь Шамбху (Шива) — величайший из вайшнавов» («Шримад-Бхагаватам», 12.13.16).
+
+---
+
+«Господь Шива — лучший из *вайшнавов*» («Шримад-Бхагаватам», 12.13.16).
 
 ---
 

@@ -4,9 +4,14 @@ refs:
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/033_1983-01-12-a2_sridharmj_soznanie_krishny-koncepciya_lubvi_i_krasoty.md
   - ../../03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty/033_1983-01-12-a2_sridharmj_soznanie_krishny-koncepciya_lubvi_i_krasoty.md
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/588-1984-01-25-a2-prakriti-i-purusha-dusha-passivna-v-mire-materii.md
-tags:
+  - ../../_full/1983/01/1983.01.12.md
+  - ../../_full/1983/08/1983.08.07.A.B.md
+  - ../../_full/1983/10/1983.10.05.B.C.md
+  - ../../_full/1984/01/1984.01.25.A.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.21
     slug: bhagavad-gita-13-21
 ---

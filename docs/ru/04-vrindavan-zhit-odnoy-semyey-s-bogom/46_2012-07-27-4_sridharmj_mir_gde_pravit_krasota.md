@@ -1,18 +1,23 @@
 ---
-slug: 46_2012-07-27-4_sridharmj_mir_gde_pravit_krasota
+slug: mir_gde_pravit_krasota
+record_id: null
+title: Мир, где правит Красота
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4677768
+  duration: 00:16:53
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
   - title: гьяна-шунья бхакти
     slug: gyana-shunya-bhakti
-  - title: дата неизвестна
-    slug: data-neizvestna
   - title: сат-чит-ананда
     slug: sat-chit-ananda
   - title: три гуны
     slug: tri-guny
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
     title: аудиозапись в MP3 (16 мин. 52 сек., 32 кбит/сек, 4.5 МБ)
@@ -20,9 +25,12 @@ links:
     title: транскрипцию в RTF (141 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/046_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 046. 2012.07.27.4 Мир, где правит Красота
+  index: "046"
+  filename: 46_2012-07-27-4_sridharmj_mir_gde_pravit_krasota.md
+  slug: 46_2012-07-27-4_sridharmj_mir_gde_pravit_krasota
 ---
-
-# 046. 2012.07.27.4 Мир, где правит Красота
 
 *Виласа*, игры Господа безграничны, они включают в себя все. Необходим баланс, гармония. Например, в музыке: музыкальная концепция высочайшего порядка — это то, что может объединить гармонично самые разные инструменты, самые разные звуки, разные виды музыки. В чем ценность гармонии? В ее всеохватности, в ее всеобъемлющем характере, в ее способности привести в соответствие даже самые противоположные вещи, все, что угодно.
 

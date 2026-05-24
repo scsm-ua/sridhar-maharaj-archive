@@ -1,20 +1,28 @@
 ---
 slug: 115-guru-podobny-sisteme-linz-1985-10-05-a4
+record_id: 1985.10.05.A4
+title: Гуру подобны системе линз
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3419345
+  duration: 00:04:39
+  src: /wp-content/uploads/2012/08/115_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
+date: 1985-10-05
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1985.10"
-    slug: 1985-10
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/115_1985.10.05.A4_SridharMj_Guru_podobny_sisteme_linz.mp3
     title: Скачать аудиозапись в mp3 (4 мин 39 сек, размер 3 Мб)
+legacy:
+  title: 115. Гуру подобны системе линз. 1985.10.05.A4
+  index: "115"
+  filename: 115-guru-podobny-sisteme-linz-1985-10-05-a4.md
 ---
-
-# 115. Гуру подобны системе линз. 1985.10.05.A4
 
 **Ученик:** Гуру Махарадж, в книге «Шри Гуру и его милость» вы говорите, что… что, совершая служение преданный контактирует с деньгами, пратиштхой и тому подобными вещами, не могли бы вы объяснить как эти явления могут быть использованы в служении Кришне?
 

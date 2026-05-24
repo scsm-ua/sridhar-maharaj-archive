@@ -1,12 +1,17 @@
 ---
-slug: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya
+slug: 1981-02-28-d3_chto_znachit_vyrazhenie_subektivnaya_evolyutsiya
+record_id: 1981.02.28.D3
+title: Что значит выражение «Субъективная эволюция»?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4392768
+  duration: 00:07:12
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
+date: 1981-02-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.02"
-    slug: 1981-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.mp3
     title: аудиозапись в MP3 (7 мин. 12 сек., 4,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/617_1981.02.28.D3_SridharMj_Chto_znachit_vyrajenie_Subyektivnaya_Evolyuciya.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 617. 1981.02.28.D3. Что значит выражение «Субъективная эволюция»?
+  index: "617"
+  filename: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya.md
+  slug: 617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya
 ---
-
-# 617. 1981.02.28.D3. Что значит выражение «Субъективная эволюция»?
 
 **Шрила Шридхар Махарадж:** Веданта означает «субъективная эволюция».
 

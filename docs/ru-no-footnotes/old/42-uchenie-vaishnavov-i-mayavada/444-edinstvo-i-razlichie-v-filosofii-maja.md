@@ -1,20 +1,28 @@
 ---
 slug: 444-edinstvo-i-razlichie-v-filosofii-maja
+record_id: 1983.05.05.A
+title: Единство и различие в философии майавади и вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7223357
+  duration: 00:14:51
+  src: /wp-content/uploads/2012/08/444_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
+date: 1983-05-05
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Майавада
     slug: majavada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/444_1983.05.05.A_SridharMj_Edinstvo_i_razlichie_v_filosofii_mayavadi_i_vayshnavov.mp3
     title: Скачать аудиозапись в mp3 (14 мин 51 сек, размер 7 Мб)
+legacy:
+  title: 444. Единство и различие в философии майавади и вайшнавов. 1983.05.05.A
+  index: "444"
+  filename: 444-edinstvo-i-razlichie-v-filosofii-maja.md
 ---
-
-# 444. Единство и различие в философии майавади и вайшнавов. 1983.05.05.A
 
 *#00:00:00#*
 

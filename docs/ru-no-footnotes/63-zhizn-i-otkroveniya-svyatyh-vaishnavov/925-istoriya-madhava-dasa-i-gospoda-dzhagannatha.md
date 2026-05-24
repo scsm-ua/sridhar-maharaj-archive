@@ -1,12 +1,18 @@
 ---
-slug: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha
+slug: istoriya_madhava_dasa_i_gospoda_dzhagannatha
+title: История Мадхава даса и Господа Джаганнатха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7162253
+  duration: 00:08:55
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.mp3
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.mp3
     title: аудиозапись в MP3 (8 мин. 54 сек., 6,9 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/925_2012.07.25.2_SridharMj_Istorija_Madhava_dasa_i_Gospoda_Dzhagannatha.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 925. История Мадхава даса и Господа Джаганнатха
+  index: "925"
+  filename: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha.md
+  slug: 925-istoriya-madhava-dasa-i-gospoda-dzhagannatha
 ---
-
-# 925. История Мадхава даса и Господа Джаганнатха
 
 **Преданный:** Махарадж, роскошь, деньги… Являются ли они указанием на то, что Кришна удовлетворен или Ему должным образом служат в храме (когда храм богато украшен и так далее)?
 

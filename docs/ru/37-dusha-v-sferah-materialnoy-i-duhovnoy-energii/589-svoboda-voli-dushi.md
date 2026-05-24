@@ -1,5 +1,12 @@
 ---
-slug: 589-svoboda-voli-dushi
+slug: svoboda_voli_dushi
+title: Свобода воли души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3078257
+  duration: 00:03:52
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
@@ -8,11 +15,8 @@ tags:
     slug: dusha
   - title: без даты
     slug: bez-daty
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 5.14
     slug: bhagavad-gita-5-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.mp3
     title: аудиозапись в MP3 (3 мин. 52 сек., 3,0 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/589_2012.07.25.16_ShridharMj_Svoboda_voli_dushi.pdf
     title: транскрипцию в PDF (134 КБ)
+legacy:
+  title: 589. Свобода воли души
+  index: "589"
+  filename: 589-svoboda-voli-dushi.md
+  slug: 589-svoboda-voli-dushi
 ---
-
-# 589. Свобода воли души
 
     на картр̣твам̇ на карма̄н̣и
     локасйа ср̣джати прабхух̣

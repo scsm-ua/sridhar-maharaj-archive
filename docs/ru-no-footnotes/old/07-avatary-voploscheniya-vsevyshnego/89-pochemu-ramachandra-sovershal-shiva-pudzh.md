@@ -1,5 +1,12 @@
 ---
 slug: 89-pochemu-ramachandra-sovershal-shiva-pudzh
+title: Почему Рамачандра совершал Шива-пуджу? Мгновения прекрасной реальности 8.2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3170736
+  duration: 00:03:57
+  src: /wp-content/uploads/2012/08/089_MgnoveniyaPR_8.2_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
 category:
   title: (07. Аватары - воплощения Всевышнего)
   slug: 07-avatary-voploscheniya-vsevyshnego
@@ -8,13 +15,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Рамачандра
     slug: ramachandra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/089_MgnoveniyaPR_8.2_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
     title: Скачать аудиозапись в mp3 (3 мин 57 сек, размер 3 Мб)
+legacy:
+  title: 89. Почему Рамачандра совершал Шива-пуджу? Мгновения прекрасной
+    реальности 8.2
+  index: "89"
+  filename: 89-pochemu-ramachandra-sovershal-shiva-pudzh.md
 ---
-
-# 89. Почему Рамачандра совершал Шива-пуджу? Мгновения прекрасной реальности 8.2
 
 **Преданный:** Махарадж, а правда, что Рамачандра совершал Шива-пуджу?
 

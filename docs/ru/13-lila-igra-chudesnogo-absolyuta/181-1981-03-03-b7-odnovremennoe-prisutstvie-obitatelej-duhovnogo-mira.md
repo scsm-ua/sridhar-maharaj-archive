@@ -1,12 +1,17 @@
 ---
-slug: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira
+slug: 1981-03-03-b7_odnovremennoe_prisutstvie_obitateley_duhovnogo_mira
+record_id: 1981.03.03.B7
+title: Одновременное присутствие обитателей духовного мира
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4240698
+  duration: 00:08:02
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
+date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
     title: аудиозапись в MP3 (14 мин. 10 сек., 4,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/1181_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 181. 1981.03.03.B7. Одновременное присутствие обитателей духовного мира
+  index: "181"
+  filename: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira.md
+  slug: 181-1981-03-03-b7-odnovremennoe-prisutstvie-obitatelej-duhovnogo-mira
 ---
-
-# 181. 1981.03.03.B7. Одновременное присутствие обитателей духовного мира
 
 **Тамал Кришна Махарадж:** Одни и те же личности из *кришна-лилы* низошли в других образах в *гаура-лилу*. Мы поняли так, что Рамананда Рай является Вишакхой.
 

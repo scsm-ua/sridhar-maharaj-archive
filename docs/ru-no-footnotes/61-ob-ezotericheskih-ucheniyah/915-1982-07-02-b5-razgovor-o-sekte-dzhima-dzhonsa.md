@@ -1,12 +1,17 @@
 ---
-slug: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa
+slug: 1982-07-02-b5_razgovor_o_sekte_dzhima_dzhonsa
+record_id: 1982.07.02.B5
+title: Разговор о секте Джима Джонса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7514666
+  duration: 00:07:01
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3
+date: 1982-07-02
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.mp3
     title: аудиозапись в MP3 (7 мин. 01 сек., 7,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/915_1982.07.02.B5_SridharMj_Razgovor_o_sekte_Dzhima_Dzhonsa.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 915. 1982.07.02.B5. Разговор о секте Джима Джонса
+  index: "915"
+  filename: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa.md
+  slug: 915-1982-07-02-b5-razgovor-o-sekte-dzhima-dzhonsa
 ---
-
-# 915. 1982.07.02.B5. Разговор о секте Джима Джонса
 
 **Преданный:** Прабала Диди здесь. Она из Южноафриканской Республики. Она работает с Юдаманьей Прабху, Юдаманью Прабху должен представить ее вам, хорошо?
 

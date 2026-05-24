@@ -1,12 +1,17 @@
 ---
-slug: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne
+slug: 1982-04-14-c5_vayshnavy_vovlecheny_v_mirskie_dela_lish_vneshne
+record_id: 1982.04.14.C5
+title: Вайшнавы вовлечены в мирские дела лишь внешне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5444848
+  duration: 00:04:50
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
+date: 1982-04-14
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.mp3
     title: аудиозапись в MP3 (4 мин. 50 сек., 5,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/423_1982.04.14.C5_SridharMj_Vajshnavy_vovlecheny_v_mirskie_dela_lish_vneshne.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 423. 1982.04.14.C5. Вайшнавы вовлечены в мирские дела лишь внешне
+  index: "423"
+  filename: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne.md
+  slug: 423-1982-04-14-c5-vajshnavy-vovlecheny-v-mirskie-dela-lish-vneshne
 ---
-
-# 423. 1982.04.14.C5. Вайшнавы вовлечены в мирские дела лишь внешне
 
 **Преданный:** Могу ли я задать вопрос?
 

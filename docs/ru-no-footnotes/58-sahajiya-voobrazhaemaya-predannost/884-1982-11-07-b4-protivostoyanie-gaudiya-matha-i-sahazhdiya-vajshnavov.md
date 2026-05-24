@@ -1,12 +1,17 @@
 ---
-slug: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov
+slug: 1982-11-07-b4_protivostoyanie_gaudiya_matha_i_sahazhdiya-vayshnavov
+record_id: 1982.11.07.B4
+title: Противостояние Гаудия Матха и сахаждия-вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4095843
+  duration: 00:02:00
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3
+date: 1982-11-07
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.mp3
     title: аудиозапись в MP3 (1 мин. 59 сек., 4,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (47 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/884_1982.11.07.B4_SridharMj_Protivostojanie_Gaudija_Matha_i_sahazhdija-vajshnavov.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 884. 1982.11.07.B4. Противостояние Гаудия Матха и сахаждия-вайшнавов
+  index: "884"
+  filename: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov.md
+  slug: 884-1982-11-07-b4-protivostoyanie-gaudiya-matha-i-sahazhdiya-vajshnavov
 ---
-
-# 884. 1982.11.07.B4. Противостояние Гаудия Матха и сахаждия-вайшнавов
 
 **Преданный:** Гуру Махарадж, когда люди, которые во всяком случае на словах размахивают стягом Махапрабху, не согласны друг с другом и зачастую нападают на своих противников, то как это следует рассматривать?
 

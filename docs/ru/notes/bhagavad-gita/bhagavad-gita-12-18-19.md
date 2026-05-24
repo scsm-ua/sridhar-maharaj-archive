@@ -2,9 +2,11 @@
 slug: bhagavad-gita-12-18-19
 refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
-tags:
+  - ../../_full/1982/01/1982.01.03.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 12.18–19
     slug: bhagavad-gita-12-18-19
 ---

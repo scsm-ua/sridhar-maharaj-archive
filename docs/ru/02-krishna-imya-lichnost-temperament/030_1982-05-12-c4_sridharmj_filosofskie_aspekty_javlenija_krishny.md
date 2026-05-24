@@ -1,16 +1,22 @@
 ---
-slug: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny
+slug: 1982-05-12-c4_filosofskie_aspekty_yavleniya_krishny
+record_id: 1982.05.12.C4
+title: Философские аспекты Явления Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7648317
+  duration: 00:07:52
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.mp3
+date: 1982-05-12
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Кришна
     slug: krishna
   - title: Явление Кришны
     slug: yavlenie-krishny
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.mp3
     title: аудиозапись в MP3 (07 мин. 51 сек., 7.3 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/030_1982.05.12.C4_SridharMj_Filosofskie_aspekty_Javlenija_Krishny.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 030. 1982.05.12.С4 Философские аспекты Явления Кришны
+  index: "030"
+  filename: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny.md
+  slug: 030_1982-05-12-c4_sridharmj_filosofskie_aspekty_javlenija_krishny
 ---
-
-# 030. 1982.05.12.С4 Философские аспекты Явления Кришны
 
 **Преданный:** Шрила Шридхар Махарадж, не могли бы Вы описать явление Кришны?
 

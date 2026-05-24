@@ -1,12 +1,17 @@
 ---
-slug: 524-1981-03-08-b5-krishna-istina-kotoraya-prevyshe-zakonov
+slug: 1981-03-08-b5_krishna_istina_kotoraya_prevyshe_zakonov
+record_id: 1981.03.08.B5
+title: Кришна — истина, которая превыше законов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3498056
+  duration: 00:02:27
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.mp3
+date: 1981-03-08
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.mp3
     title: аудиозапись в MP3 (2 мин. 27 сек., 3,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в DOCX (15 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/524_1981.03.08.B5_SridharMj_Krishna--Istina_kotoraja_prevyshe_zakonov.pdf
     title: транскрипцию в PDF (118 КБ)
+legacy:
+  title: 524. 1981.03.08.B5. Кришна — истина, которая превыше законов
+  index: "524"
+  filename: 524-1981-03-08-b5-krishna-istina-kotoraya-prevyshe-zakonov.md
+  slug: 524-1981-03-08-b5-krishna-istina-kotoraya-prevyshe-zakonov
 ---
-
-# 524. 1981.03.08.B5. Кришна — истина, которая превыше законов
 
 **Госвами Махарадж:** Юдхиштхира Махарадж был вынужден увидеть ад. Он великий преданный, но он был вынужден увидеть ад.
 

@@ -1,5 +1,12 @@
 ---
-slug: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu
+slug: bez_daty_narasimha_poklonyaetsya_shri_chaytane_mahaprabhu
+title: Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3051604
+  duration: 00:05:55
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
@@ -8,9 +15,6 @@ tags:
     slug: mahaprabhu
   - title: Нарасимха
     slug: narasimha
-  - title: дата неизвестна
-    slug: data-neizvestna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.mp3
     title: аудиозапись в MP3 (5 мин. 54 сек., 2.9 МБ)
@@ -18,9 +22,12 @@ links:
     title: транскрипцию в RTF (44 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/095_2012.07.25.7_SridharMj_Narasimha_poklonyayetsya_Shri_Chaitanye_Mahaprabhu.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 095. Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху
+  index: "095"
+  filename: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu.md
+  slug: 095_2012-07-25-7_sridharmj_narasimha_poklonyayetsya_shri_chaitanye_mahaprabhu
 ---
-
-# 095. Без даты. Нарасимха поклоняется Шри Чайтанье Махапрабху
 
 **Преданный:** Гуру Махарадж, связан ли каким-либо образом Господь Нарасимхадев с Навадвипой? Существует ли какая-либо связь Нрисимха-пали с Навадвипой?
 

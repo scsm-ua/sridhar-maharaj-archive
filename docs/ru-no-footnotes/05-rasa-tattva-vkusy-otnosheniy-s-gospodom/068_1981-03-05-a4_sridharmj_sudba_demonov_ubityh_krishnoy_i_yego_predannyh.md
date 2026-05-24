@@ -1,12 +1,17 @@
 ---
-slug: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh
+slug: 1981-03-05-a4_sudba_demonov_ubityh_krishnoy_i_ego_predannyh
+record_id: 1981.03.05.A4
+title: Судьба демонов, убитых Кришной, и Его преданных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4052564
+  duration: 00:03:07
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
+date: 1981-03-05
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 64 кбит/сек, 3.9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/068_1981.03.05.A4_SridharMj_Sudba_demonov_ubityh_Krishnoy_i_Yego_predannyh.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 068. 1981.03.05.A4 Судьба демонов, убитых Кришной, и Его преданных
+  index: "068"
+  filename: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh.md
+  slug: 068_1981-03-05-a4_sridharmj_sudba_demonov_ubityh_krishnoy_i_yego_predannyh
 ---
-
-# 068. 1981.03.05.A4 Судьба демонов, убитых Кришной, и Его преданных
 
 **Шрила Госвами Махарадж:** Есть одна *шлока*, цитируемая в «Ади-лиле» «Чайтанья-чаритамриты». Она приводится в «Бхакти-расамрита-синдху» и в «Лагху-бхагаватамритам» Рупы Госвами:
 

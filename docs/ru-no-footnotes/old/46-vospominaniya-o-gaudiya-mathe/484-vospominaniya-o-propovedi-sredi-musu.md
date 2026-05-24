@@ -1,22 +1,30 @@
 ---
 slug: 484-vospominaniya-o-propovedi-sredi-musu
+record_id: 1983.01.12.B4
+title: Воспоминания о проповеди среди мусульман
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3607788
+  duration: 00:06:20
+  src: /wp-content/uploads/2012/08/484_1983.01.12.B4_SridharMj_Vospominaniya_o_propovedi_sredi_musulman.mp3
+date: 1983-01-12
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/484_1983.01.12.B4_SridharMj_Vospominaniya_o_propovedi_sredi_musulman.mp3
     title: Скачать аудиозапись в mp3 (6 мин 20 сек, размер 3 Мб)
+legacy:
+  title: 484. Воспоминания о проповеди среди мусульман. 1983.01.12.B4
+  index: "484"
+  filename: 484-vospominaniya-o-propovedi-sredi-musu.md
 ---
-
-# 484. Воспоминания о проповеди среди мусульман. 1983.01.12.B4
 
 **Преданный:** Однажды вы встречались с большими мусульманскими лидерами в Пакистане. И они были очень впечатлены вашей проповедью. Я удивляюсь, задаюсь вопросом, как вы могли проповедовать, вам удавалось проповедовать мусульманам?
 

@@ -1,14 +1,20 @@
 ---
-slug: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut
+slug: 1983-11-15-a_lyuboy_dolg_kotoryy_ne_svyazan_s_krishnoy_dolzhen_byt_otvergnut
+record_id: 1983.11.15.A
+title: Любой долг, который не связан с Кришной, должен быть отвергнут
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15507048
+  duration: 00:15:53
+  src: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3
+date: 1983-11-15
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.mp3
     title: аудиозапись в MP3 (15 мин. 53 сек., 14,8 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (115 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/545_1983.11.15.A_SridharMj_Ljuboj_dolg_kotoryj_ne_svjazan_s_Krishnoj_dolzhen_byt_otvergnut.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 545. 1983.11.15.A. Любой долг, который не связан с Кришной, должен быть
+    отвергнут
+  index: "545"
+  filename: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut.md
+  slug: 545-1983-11-15-a-lyuboj-dolg-kotoryj-ne-svyazan-s-krishnoj-dolzhen-byt-otvergnut
 ---
-
-# 545. 1983.11.15.A. Любой долг, который не связан с Кришной, должен быть отвергнут
 
 Этот аспект — всепривлекающий — преобладает в школе преданности. Всеобъемлющий, всепронизывающий аспекты — *Брахман*, *Параматма*. И *Бхагаван* — всепривлекающий. Высочайший принцип — всепривлекающий. Настолько, что все — для Него. Его сила привлекательности управляет всем и заставляет все существовать ради Него, для Него. Настолько привлекательный, что все и вся становится предназначенным для Него, стремится служить Ему — настолько чарующий, такая сила очарования. Очарование означает, что все становится покорным, подчиненным источнику очарования. Он — Цель, Он — Источник смысла существования для всех и вся.
 

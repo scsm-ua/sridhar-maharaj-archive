@@ -1,36 +1,18 @@
 ---
-slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
+slug: 1973-03-17-2_sovmestnaya_lektsiya_shrily_b_r_shridhara_maharadzha_i_a_ch_bhaktivedanty_svami_prabhupady
+record_id: 1973.03.17.2
+title: Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты
+  Свами Прабхупады.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24766463
+  duration: 00:48:19
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.mp3
+date: 1973-03-17
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1973.03"
-    slug: 1973-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.88.8
-    slug: shrimad-bhagavatam-10-88-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.218
-    slug: shri-chajtanya-charitamrita-madhya-lila-1-218
-  - title: Шримад-Бхагаватам 11.25.25
-    slug: shrimad-bhagavatam-11-25-25
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
-  - title: Шри Ишопанишад 1
-    slug: shri-ishopanishad-1
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 3
-    slug: shri-shikshashtakam-3
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 3–4
-    slug: sharanagati-3-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (48 мин. 19 сек., 23,7 МБ)
@@ -38,9 +20,28 @@ links:
     title: транскрипцию в DOCX (51 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1067_1973.03.17.2_SridharMj_Sovmestnaya_lektsiya_Shrily_B.R._Sridhara_Maharaja_i_A.Ch._Bhaktivedanty_Svami.pdf
     title: транскрипцию в PDF (244 КБ)
+legacy:
+  title: 1067. 1973.03.17.2. Совместная лекция Шрилы Б.Р. Шридхара Махараджа и
+    А.Ч. Бхактиведанты Свами Прабхупады
+  index: "1067"
+  filename: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady.md
+  slug: 1067-1973-03-17-2-sovmestnaya-lektsiya-shrily-b-r-shridhara-maharadzha-i-a-ch-bhaktivedanty-svami-prabhupady
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-54
+  - title: Шримад-Бхагаватам 10.88.8
+    slug: shrimad-bhagavatam-10-88-8
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.218
+    slug: shri-chajtanya-charitamrita-madhya-lila-1-218
+  - title: Шримад-Бхагаватам 11.25.25
+    slug: shrimad-bhagavatam-11-25-25
+  - title: Шри Ишопанишад 1
+    slug: shri-ishopanishad-1
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: Шаранагати 3–4
+    slug: sharanagati-3-4
 ---
-
-# 1067. 1973.03.17.2. Совместная лекция Шрилы Б.Р. Шридхара Махараджа и А.Ч. Бхактиведанты Свами Прабхупады
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Харе Кришна.
 

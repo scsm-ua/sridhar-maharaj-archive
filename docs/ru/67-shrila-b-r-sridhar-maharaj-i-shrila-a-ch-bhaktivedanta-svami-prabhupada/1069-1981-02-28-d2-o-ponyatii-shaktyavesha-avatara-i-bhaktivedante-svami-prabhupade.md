@@ -1,24 +1,17 @@
 ---
-slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
+slug: 1981-02-28-d2_o_ponyatii_shaktyavesha-avatara_i_bhaktivedante_svami_prabhupade
+record_id: 1981.02.28.D2
+title: О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9393924
+  duration: 00:16:18
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
+date: 1981-02-28
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1981.02"
-    slug: 1981-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.208
-    slug: shri-chajtanya-charitamrita-adi-lila-5-208
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
-    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.mp3
     title: аудиозапись в MP3 (16 мин. 17 сек., 9,0 МБ)
@@ -26,9 +19,22 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1069_1981.02.28.D2_SridharMj_O_ponyatii_shaktyavesha-avatara_i_Bhaktivedante_Svami.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 1069. 1981.02.28.D2. О понятии «шактьявеша-аватара» и Бхактиведанте Свами
+    Прабхупаде
+  index: "1069"
+  filename: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade.md
+  slug: 1069-1981-02-28-d2-o-ponyatii-shaktyavesha-avatara-i-bhaktivedante-svami-prabhupade
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.208
+    slug: shri-chajtanya-charitamrita-adi-lila-5-208
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 4.126
+    slug: shri-chajtanya-bhagavata-antya-khanda-4-126
 ---
-
-# 1069. 1981.02.28.D2. О понятии «шактьявеша-аватара» и Бхактиведанте Свами Прабхупаде
 
 **Госвами Махарадж:** Махарадж, я хотел вам задать один вопрос насчет *шакти-авеша-аватары*. Как правильно понять *шакти-авеша-аватару*? Это индивидуальная, отдельная *джива*, которая действует в положении, в роли *шакти-авеша-аватары*? То есть это *джива* нисходит из того мира, или же *шакти-авеша* нисходит в эту *дживу*?
 

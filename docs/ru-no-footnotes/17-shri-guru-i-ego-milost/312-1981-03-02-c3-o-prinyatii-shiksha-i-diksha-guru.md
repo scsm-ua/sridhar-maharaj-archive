@@ -1,14 +1,20 @@
 ---
-slug: 312-1981-03-02-c3-o-prinyatii-shiksha-i-diksha-guru
+slug: 1981-03-02-c3_o_prinyatii_shiksha_i_diksha_guru
+record_id: 1981.03.02.C3
+title: О принятии шикша и дикша гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3524304
+  duration: 00:04:34
+  src: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.mp3
+date: 1981-03-02
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.mp3
     title: аудиозапись в MP3 (4 мин. 33 сек., 3,4 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/312_1981.03.02.C3_SridharMj_O_prinjatii_shiksha_i_diksha_guru.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 312. 1981.03.02.C3. О принятии шикша и дикша гуру
+  index: "312"
+  filename: 312-1981-03-02-c3-o-prinyatii-shiksha-i-diksha-guru.md
+  slug: 312-1981-03-02-c3-o-prinyatii-shiksha-i-diksha-guru
 ---
-
-# 312. 1981.03.02.C3. О принятии шикша и дикша гуру
 
 **Госвами Махарадж:** Некоторые люди говорят… В Ади-лиле «Чайтанья-чаритамриты» говорится: «Есть один инициирующий духовный учитель, и могут быть многие наставляющие духовные учителя, *шикша-гуру*».
 

@@ -1,12 +1,17 @@
 ---
-slug: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru
+slug: 1982-01-26-b2_pranama-mantra_shrile_sarasvati_thakuru
+record_id: 1982.01.26.B2
+title: Пранама-мантра Шриле Сарасвати Тхакуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6307318
+  duration: 00:11:54
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
+date: 1982-01-26
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.mp3
     title: аудиозапись в MP3 (11 мин. 53 сек., 6,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (130 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1002_1982.01.26.B2_SridharMj_Pranam-mantra_Shrile_Saraswati_Thakuru.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 1002. 1982.01.26.B2. Пранама-мантра Шриле Сарасвати Тхакуру
+  index: "1002"
+  filename: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru.md
+  slug: 1002-1982-01-26-b2-pranama-mantra-shrile-sarasvati-thakuru
 ---
-
-# 1002. 1982.01.26.B2. Пранама-мантра Шриле Сарасвати Тхакуру
 
 **Преданный:** Махарадж, эта женщина занимается типографией?
 
@@ -47,7 +55,7 @@ links:
     пӯджала ра̄га-патха гаурава-бхан̇ге
 [^_ftn1]
 
-Путь любви был объектом его поклонения. Он поклонялся пути любви в духе роскоши, великолепия. Путь любви — любовь, простая и сладостная, Божественная любовь. Но он стремился утвердить это явление в мире, и в этих попытках его темперамент был подобен львиному. Он был подобен льву в этих попытках утвердить это явление — простую, сладостную Божественную любовь. *Пӯджала ра̄га-патха гаурава-бхан̇ге.*
+Путь любви был объектом его поклонения. Он поклонялся пути любви в духе роскоши, великолепия. Путь любви — любовь, простая и сладостная, Божественная любовь. Но он стремился утвердить это явление в мире, и в этих попытках его темперамент был подобен львиному. Он был подобен льву в этих попытках утвердить это явление — простую, сладостную Божественную любовь. *Пӯджала ра̄га-патха гаурава-бхан̇ге*.
 
 *#00:04:06#*
 
@@ -140,7 +148,7 @@ links:
 
 
 
-[^_ftn1]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn1]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn2]: [*никхила-бхувана-ма̄йа̄-чхинна-виччхинна-картрӣ, вибудха-бахула-мр̣гйа̄-мукти-моха̄нта-да̄трӣ / ш́итхилита-видхи-ра̄га̄ра̄дхйа-ра̄дхеш́а-дха̄нӣ, виласату хр̣ди нитйам̇ бхакти-сиддха̄нта-ва̄н̣ӣ*](../notes/shloka/nikhila-bhuvana-maja-chhinna-vichchhinna.md)
 

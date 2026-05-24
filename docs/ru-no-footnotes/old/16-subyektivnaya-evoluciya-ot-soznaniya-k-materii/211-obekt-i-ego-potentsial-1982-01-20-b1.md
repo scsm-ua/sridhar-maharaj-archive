@@ -1,24 +1,32 @@
 ---
 slug: 211-obekt-i-ego-potentsial-1982-01-20-b1
+record_id: 1982.01.20.B1
+title: Объект и его потенциал
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5231700
+  duration: 00:10:46
+  src: /wp-content/uploads/2012/08/211_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
+date: 1982-01-20
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Душа
     slug: dusha
   - title: Материальный мир
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/211_1982.01.20.B1_SridharMj_Obyekt_i_ego_potencial.mp3
     title: Скачать аудиозапись в mp3 (10 мин 46 сек, размер 5 Мб)
+legacy:
+  title: 211. Объект и его потенциал. 1982.01.20.B1
+  index: "211"
+  filename: 211-obekt-i-ego-potentsial-1982-01-20-b1.md
 ---
-
-# 211. Объект и его потенциал. 1982.01.20.B1
 
 *#00:00:00#*
 

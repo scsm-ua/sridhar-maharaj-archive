@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-adi-lila-1-57
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/931-1982-07-03-a2-a1-a3-istoriya-bilvamangala-duhovnyj-opyt-ne-zavisit-ot-materialnyh-organov-chuvstv.md
-tags:
+  - ../../_full/1982/07/1982.07.03.A.B1.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.57
     slug: shri-chajtanya-charitamrita-adi-lila-1-57
 ---

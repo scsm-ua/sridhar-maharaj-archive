@@ -5,9 +5,21 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../13-lila-igra-chudesnogo-absolyuta/179-1982-02-21-c2-razvitie-i-novizna-dve-harakteristiki-lily-gospoda.md
   - ../../28-molitvy-i-umonastroenie-gopi/482-1982-06-19-b6-c1-molitvy-gopi-v-razluke-raznoobraznye-smysly-stiha-tava-kathamritam.md
-tags:
+  - ../../_full/1981/11/1981.11.07.A.md
+  - ../../_full/1981/11/1981.11.07.B.md
+  - ../../_full/1981/11/1981.11.12.md
+  - ../../_full/1981/11/1981.11.13.A.B.md
+  - ../../_full/1981/12/1981.12.14.A.B.md
+  - ../../_full/1982/01/1982.01.17.md
+  - ../../_full/1982/01/1982.01.24.B.md
+  - ../../_full/1982/01/1982.01.28.md
+  - ../../_full/1982/02/1982.02.21.C.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1983/11/1983.11.23.A.B.C.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.291
     slug: shri-chajtanya-charitamrita-madhya-lila-8-291
 ---
@@ -18,8 +30,16 @@ tags:
 
 ---
 
+*а̄ми — эка ба̄тула, туми — двитӣйа ба̄тула / атаева тома̄йа а̄ма̄йа ха-и сама-тула* — Далее Чайтанья Махапрабху сказал: «Я и в самом деле безумец, так же как и ты. В этом мы похожи друг на друга» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291).
+
+---
+
 Далее Чайтанья Махапрабху сказал: «Я и в самом деле безумец, так же как и ты. В этом мы похожи друг на друга» («Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291).
 
 ---
 
 «Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291.
+
+---
+
+«Шри Чайтанья-чаритамрита», Мадхья-лила, 8.291

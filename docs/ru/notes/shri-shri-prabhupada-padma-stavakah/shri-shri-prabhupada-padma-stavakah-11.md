@@ -2,9 +2,10 @@
 slug: shri-shri-prabhupada-padma-stavakah-11
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1107-1982-05-14-d3-poeziya-shridhara-maharadzha-stala-realnostyu-blagodarya-propovedi-bhaktivedanty-svami.md
-tags:
+scriptures:
   - title: Шри Шри Прабхупада-падма Ставаках
     slug: shri-shri-prabhupada-padma-stavakah
+verses:
   - title: Шри Шри Прабхупада-падма Ставаках 11
     slug: shri-shri-prabhupada-padma-stavakah-11
 ---

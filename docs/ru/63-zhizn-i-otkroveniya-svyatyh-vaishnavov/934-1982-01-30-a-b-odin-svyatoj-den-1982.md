@@ -1,21 +1,34 @@
 ---
-slug: 934-1982-01-30-a-b-odin-svyatoj-den-1982
+slug: 1982-01-30-a-b_odin_svyatoy_den
+record_id: 1982.01.30.A.B
+title: Один святой день
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 35494033
+  duration: 01:07:56
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
+date: 1982-01-30
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
+    title: аудиозапись в MP3 (1 час 7 мин. 56 сек., 33,9 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).rtf
+    title: транскрипцию в RTF (458 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).pdf
+    title: транскрипцию в PDF (214 КБ)
+legacy:
+  title: 934. 1982.01.30.A.B. Один святой день (1982)
+  index: "934"
+  filename: 934-1982-01-30-a-b-odin-svyatoj-den-1982.md
+  slug: 934-1982-01-30-a-b-odin-svyatoj-den-1982
 tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.5.31
     slug: shrimad-bhagavatam-7-5-31
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 5.5
     slug: sharanagati-5-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.98
     slug: shri-chajtanya-charitamrita-madhya-lila-22-98
   - title: Шримад-Бхагаватам 3.2.23
@@ -24,23 +37,11 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-14-86
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.116
     slug: shri-chajtanya-charitamrita-madhya-lila-15-116
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236–237
     slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.248
     slug: shri-chajtanya-charitamrita-madhya-lila-8-248
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).mp3
-    title: аудиозапись в MP3 (1 час 7 мин. 56 сек., 33,9 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).rtf
-    title: транскрипцию в RTF (458 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/934_1982.01.30.A.B_SridharMj_Odin_svyatoy_den_(1982).pdf
-    title: транскрипцию в PDF (214 КБ)
 ---
-
-# 934. 1982.01.30.A.B. Один святой день (1982)
 
 [Харе Кришна, Харе Кришна, Гаура Харибол]
 
@@ -121,7 +122,7 @@ links:
 
 *#00:17:47#*
 
-Божественные конвульсии поразили его тело. Гададхар был в ужасе, он подумал: «Что я наделал! Такой великий вайшнав!» *Кам̇ ва̄ дайа̄лум̇ ш́аран̣ам̇ враджема.* Прошло какое-то продолжительное время, и они попытались успокоить его. Постепенно Пундарика Видьянидхи пришел в себя. Долгое время прошло, прежде чем он вернулся в этот мир.
+Божественные конвульсии поразили его тело. Гададхар был в ужасе, он подумал: «Что я наделал! Такой великий вайшнав!» *Кам̇ ва̄ дайа̄лум̇ ш́аран̣ам̇ враджема*. Прошло какое-то продолжительное время, и они попытались успокоить его. Постепенно Пундарика Видьянидхи пришел в себя. Долгое время прошло, прежде чем он вернулся в этот мир.
 
 *#00:18:41#*
 

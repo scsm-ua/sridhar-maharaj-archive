@@ -1,20 +1,28 @@
 ---
 slug: 470-potok-nishodyashhij-vajshnavu-zavisit-o
+record_id: 1981.08.30.A5
+title: Поток, нисходящий вайшнаву, зависит от аудитории
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4701424
+  duration: 00:09:19
+  src: /wp-content/uploads/2012/08/470_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3
+date: 1981-08-30
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/470_1981.08.30.A5_SridharMj_Potok_nishodyawiy_vaishnavu_zavisit_ot_auditorii.mp3
     title: Скачать аудиозапись в mp3 (9 мин 19 сек, размер 4 Мб)
+legacy:
+  title: 470. Поток, нисходящий вайшнаву, зависит от аудитории. 1981.08.30.A5
+  index: "470"
+  filename: 470-potok-nishodyashhij-vajshnavu-zavisit-o.md
 ---
-
-# 470. Поток, нисходящий вайшнаву, зависит от аудитории. 1981.08.30.A5
 
 Махапрабху говорит: «В целом смысл Бхагават-шлоки, в деталях может не приходить через меня естественным образом, но когда аудитория возбуждает меня, вдохновляет меня. Тогда это нечто высокое, глубокое приходит. Окружающая среда, собеседник, так сказать, аудитория играет очень важную роль в этом спектакле».
 

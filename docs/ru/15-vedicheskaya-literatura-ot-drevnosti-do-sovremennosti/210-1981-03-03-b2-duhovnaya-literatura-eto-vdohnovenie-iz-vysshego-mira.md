@@ -1,19 +1,36 @@
 ---
-slug: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira
+slug: 1981-03-03-b2_duhovnaya_literatura_eto_vdohnovenie_iz_vysshego_mira
+record_id: 1981.03.03.B2
+title: Духовная литература — это вдохновение из высшего мира
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7456569
+  duration: 00:14:08
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
+date: 1981-03-03
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
+links:
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
+    title: аудиозапись в MP3 (14 мин. 08 сек., 7,2 МБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.rtf
+    title: транскрипцию в RTF (174 КБ)
+  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.pdf
+    title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 210. 1981.03.03.B2. Духовная литература — это вдохновение из высшего мира
+  index: "210"
+  filename: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira.md
+  slug: 210-1981-03-03-b2-duhovnaya-literatura-eto-vdohnovenie-iz-vysshego-mira
 tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
   - title: Шримад-Бхагаватам 11.14.8
     slug: shrimad-bhagavatam-11-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.1
     slug: bhagavad-gita-4-1
   - title: Бхагавад-гита 4.2
@@ -24,17 +41,7 @@ tags:
     slug: bhagavad-gita-4-5
   - title: Бхагавад-гита 4.8
     slug: bhagavad-gita-4-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.mp3
-    title: аудиозапись в MP3 (14 мин. 08 сек., 7,2 МБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.rtf
-    title: транскрипцию в RTF (174 КБ)
-  - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/210_1981.03.03.B2_SridharMj_Duhovnaya_literatura-eto_vdohnovenie_iz_vysshego_mira.pdf
-    title: транскрипцию в PDF (163 КБ)
 ---
-
-# 210. 1981.03.03.B2. Духовная литература — это вдохновение из высшего мира
 
 **Преданный:** В конце его [Шрилы А. Ч. Бхактиведанты Свами Прабхупады] перевода «Чайтанья-чаритамриты» наш Прабхупада делает заключительные утверждения, в которых он приписывает всю заслугу за все, что он сделал, своему Гуру Махараджу, Шриле Бхактисиддханте Сарасвати Тхакуру. Я хотел бы прочитать несколько предложений оттуда. Он говорит: «Я думал, что его Божественная Милость Бхактисиддханта Сарасвати Тхакур всегда видит, наблюдает мою деятельность и направляет меня изнутри моего сердца; пребывая в моем сердце, направляет меня, руководит мною. В «Шримад Бхагаватам» говорится: «*Тене брахма хр̣да̄ йа а̄ди-кавайе*[^_ftn1] — духовное вдохновение приходит из сердца, где Верховная личность Бога в своем облике *Параматмы* всегда восседает со всеми Своими преданными и спутниками. Следует признать, что все переводы, которые я сделал, — говорит Шрила Свами Махарадж, — были плодом вдохновения, пришедшего от моего духовного учителя, поскольку сам по себе я совершенно незначителен и некомпетентен осуществлять эту с материальной точки зрения невозможную, немыслимую работу».
 

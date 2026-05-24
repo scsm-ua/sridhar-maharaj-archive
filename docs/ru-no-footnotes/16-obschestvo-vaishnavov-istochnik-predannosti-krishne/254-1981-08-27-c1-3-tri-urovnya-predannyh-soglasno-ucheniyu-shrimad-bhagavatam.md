@@ -1,12 +1,17 @@
 ---
-slug: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam
+slug: 1981-08-27-c1-3_tri_urovnya_predannyh_soglasno_ucheniyu_shrimad_bhagavatam
+record_id: 1981.08.27.C1.3
+title: Три уровня преданных согласно учению «Шримад Бхагаватам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8214580
+  duration: 00:14:45
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
+date: 1981-08-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.mp3
     title: аудиозапись в MP3 (14 мин. 45 сек., 7,9 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (129 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/254_1981.08.27.C1.3_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Bhagavatam.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 254. 1981.08.27.C1.3. Три уровня преданных согласно учению «Шримад
+    Бхагаватам»
+  index: "254"
+  filename: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam.md
+  slug: 254-1981-08-27-c1-3-tri-urovnya-predannyh-soglasno-ucheniyu-shrimad-bhagavatam
 ---
-
-# 254. 1981.08.27.C1.3. Три уровня преданных согласно учению «Шримад Бхагаватам»
 
 *Каништха-адхикари*: в этом положении человек [зачастую] не заботится о своей социально-общественной жизни. Он ходит в храм, поклоняется и строго следует правилам писаний [находясь в нем], но когда он находится за стенами храма, он поступает как его душе угодно, пренебрегая другими или не обращаясь с другими как духовный человек. Правила писаний не влияют на него в его состоянии, влияют лишь частично. Когда речь идет о его взаимоотношениях с людьми, эти отношения могут не основываться на духовных принципах.
 

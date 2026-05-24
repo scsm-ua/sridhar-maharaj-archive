@@ -1,14 +1,20 @@
 ---
-slug: 378-1981-03-10-b2-sokrovennye-temy-ne-dolzhny-byt-predmetom-vseobshhego-obsuzhdeniya
+slug: 1981-03-10-b2_sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshchego_obsuzhdeniya
+record_id: 1981.03.10.B2
+title: Сокровенные темы не должны быть предметом всеобщего обсуждения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5947297
+  duration: 00:10:37
+  src: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3
+date: 1981-03-10
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.mp3
     title: аудиозапись в MP3 (10 мин. 37 сек., 5,7 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (109 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/378_1981.03.10.B1_SridharMj_Sokrovennye_temy_ne_dolzhny_byt_predmetom_vseobshhego_obsuzhdenija.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 378. 1981.03.10.B2. Сокровенные темы не должны быть предметом всеобщего
+    обсуждения
+  index: "378"
+  filename: 378-1981-03-10-b2-sokrovennye-temy-ne-dolzhny-byt-predmetom-vseobshhego-obsuzhdeniya.md
+  slug: 378-1981-03-10-b2-sokrovennye-temy-ne-dolzhny-byt-predmetom-vseobshhego-obsuzhdeniya
 ---
-
-# 378. 1981.03.10.B2. Сокровенные темы не должны быть предметом всеобщего обсуждения
 
 **Госвами Махарадж:** Наш Гуру Махарадж рассказал о том, как он посвятил себя переводу «Бхагаватам». Временами иногда говорится, что *ачарья* должен вносить литературный вклад. Иногда Прабхупад рассказывал нам, что касается в отношении литературы, произведений Госвами Вриндавана: мы не квалифицированы слышать подобные сокровенные разговоры [буквально]. Возможно, через несколько поколений (скажем, дети *бхакт* сознают Кришну, дети детей сознают Кришну) появятся квалифицированные преданные, которые смогут читать эту литературу или переводить ее. Поэтому вопрос возникает следующий: какой должна быть точка зрения *ачарий* в нашем обществе на литературный вклад [Госвами Вриндавана]? Наш Гуру Махарадж также написал шестьдесят томов разных книг.
 

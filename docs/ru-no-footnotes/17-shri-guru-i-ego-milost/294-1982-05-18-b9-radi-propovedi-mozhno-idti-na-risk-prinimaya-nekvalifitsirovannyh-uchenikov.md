@@ -1,12 +1,17 @@
 ---
-slug: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov
+slug: 1982-05-18-b9_radi_propovedi_mozhno_idti_na_risk_prinimaya_nekvalifitsirovannyh_uchenikov
+record_id: 1982.05.18.B9
+title: Ради проповеди можно идти на риск, принимая неквалифицированных учеников
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3713014
+  duration: 00:02:29
+  src: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3
+date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.mp3
     title: аудиозапись в MP3 (2 мин. 28 сек., 3,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/294_1982.05.18.B9_SridharMj_Radi_propovedi_mozhno_idti_na_risk_prinimaja_nekvalificirovannyh_uchenikov.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 294. 1982.05.18.B9. Ради проповеди можно идти на риск, принимая
+    неквалифицированных учеников
+  index: "294"
+  filename: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov.md
+  slug: 294-1982-05-18-b9-radi-propovedi-mozhno-idti-na-risk-prinimaya-nekvalifitsirovannyh-uchenikov
 ---
-
-# 294. 1982.05.18.B9. Ради проповеди можно идти на риск, принимая неквалифицированных учеников
 
 **Преданный:** Когда мы видим, что *Ачарья* как будто бы страдает на поверхностный взгляд от неких реакций, это вина *Ачарьи* или вина *шишьи*?
 

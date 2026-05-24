@@ -1,49 +1,53 @@
 ---
-slug: 729-1981-08-28-c-iskrennost-nepobedima
+slug: 1981-08-28-c-v2_iskrennost_nepobedima
+record_id: 1981.08.28.C
+variant: 2
+title: Искренность непобедима
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 20869422
+  duration: 00:41:40
+  src: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
+date: 1981-08-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
+links:
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
+    title: аудиозапись в MP3 (41 мин. 39 сек., 20,0 МБ)
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.rtf
+    title: транскрипцию в RTF (375 КБ)
+  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.pdf
+    title: транскрипцию в PDF (204КБ)
+legacy:
+  title: 729. 1981.08.28.C. Искренность непобедима
+  index: "729"
+  filename: 729-1981-08-28-c-iskrennost-nepobedima.md
+  slug: 729-1981-08-28-c-iskrennost-nepobedima
 tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
   - title: Вайшнава ке 1
     slug: vajshnava-ke-1
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
   - title: Враджа-виласа-става 102
     slug: vradzha-vilasa-stava-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.33.31
     slug: shrimad-bhagavatam-10-33-31
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
   - title: Бхагавад-гита 6.5
     slug: bhagavad-gita-6-5
   - title: Вайшнава ке 4
     slug: vajshnava-ke-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
     slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 2.6
     slug: laghu-bhagavatamrita-2-6
-  - title: Шри рупануга-махатмья
-    slug: shri-rupanuga-mahatmya
   - title: Шри рупануга-махатмья 17.4
     slug: shri-rupanuga-mahatmya-17-4
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
     slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.12
     slug: bhakti-rasamrita-sindhu-1-1-12
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.119
@@ -54,17 +58,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-138
   - title: Шримад-Бхагаватам 11.2.37
     slug: shrimad-bhagavatam-11-2-37
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.mp3
-    title: аудиозапись в MP3 (41 мин. 39 сек., 20,0 МБ)
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.rtf
-    title: транскрипцию в RTF (375 КБ)
-  - href: /dl/45._Iskrennost_i_progress/729_1981.08.28.C_SridharMj_Iskrennost_nepobedima.pdf
-    title: транскрипцию в PDF (204КБ)
 ---
-
-# 729. 1981.08.28.C. Искренность непобедима
 
 Пратиштха. *Ашрая-виграха* — Баладев и Радхарани. *Пратиштха* — их собственность (или как это называется?), их доля. Вся *пратиштха* (слава) должна принадлежать Гурудеву, поскольку что бы я ни получил, это все — благодаря его милости. Строгой приверженностью стопам Гурудева человек может преодолеть, выйти победителем в битве с этой *пратиштхой*. Вся заслуга, любая заслуга, даже малейшая — благодаря милости моего Гурудева. *Гуру-таттва*. Он — тот, кто притязает на *пратиштху*, кому она принадлежит: только благодаря ему слава Кришны распространяется в этом мире. *Гуру-таттва*, *мулашрая-виграха*, главный источник прибежища.
 

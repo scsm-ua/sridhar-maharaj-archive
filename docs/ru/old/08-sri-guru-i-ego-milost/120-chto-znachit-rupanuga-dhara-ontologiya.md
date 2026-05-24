@@ -1,5 +1,12 @@
 ---
 slug: 120-chto-znachit-rupanuga-dhara-ontologiya
+title: Что значит «рупануга-дхара». Онтология прекрасной реальности, часть 1.9.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2080768
+  duration: 00:01:52
+  src: /wp-content/uploads/2012/08/120_OntologiyaPR_1.9_SridharMj_-Chto_znachit_rupanuga-dhara.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -8,13 +15,14 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/120_OntologiyaPR_1.9_SridharMj_-Chto_znachit_rupanuga-dhara.mp3
     title: Скачать аудиозапись в mp3 (1 мин 52 сек, размер 2 Мб)
+legacy:
+  title: 120. Что значит «рупануга-дхара». Онтология прекрасной реальности, часть 1.9
+  index: "120"
+  filename: 120-chto-znachit-rupanuga-dhara-ontologiya.md
 ---
-
-# 120. Что значит «рупануга-дхара». Онтология прекрасной реальности, часть 1.9
 
 **Ученик:** *Пури Махарадж* [из *Кауны*] сказал *Рупануга-дхара*?
 

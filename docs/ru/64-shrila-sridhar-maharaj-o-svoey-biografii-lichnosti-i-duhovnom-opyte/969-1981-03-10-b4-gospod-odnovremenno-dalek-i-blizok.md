@@ -1,22 +1,17 @@
 ---
-slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
+slug: 1981-03-10-b4_gospod_odnovremenno_dalek_i_blizok
+record_id: 1981.03.10.B4
+title: Господь одновременно далек и близок
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2434475
+  duration: 00:03:18
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3
+date: 1981-03-10
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.4
-    slug: bhagavad-gita-9-4
-  - title: Бхагавад-гита 9.5
-    slug: bhagavad-gita-9-5
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 2.9.35
-    slug: shrimad-bhagavatam-2-9-35
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.mp3
     title: аудиозапись в MP3 (3 мин. 17 сек., 2,4 МБ)
@@ -24,9 +19,19 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/969_1981.03.10.B4_SridharMj_Gospod_odnovremenno_dalek_i_blizok.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 969. 1981.03.10.B4. Господь одновременно далек и близок
+  index: "969"
+  filename: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok.md
+  slug: 969-1981-03-10-b4-gospod-odnovremenno-dalek-i-blizok
+tags:
+  - title: Бхагавад-гита 9.4
+    slug: bhagavad-gita-9-4
+  - title: Бхагавад-гита 9.5
+    slug: bhagavad-gita-9-5
+  - title: Шримад-Бхагаватам 2.9.35
+    slug: shrimad-bhagavatam-2-9-35
 ---
-
-# 969. 1981.03.10.B4. Господь одновременно далек и близок
 
     майа̄ татам идам̇ сарвам̇
     джагад авйакта-мӯртина̄

@@ -1,12 +1,17 @@
 ---
-slug: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii
+slug: 1983-01-30-a4_analiticheskiy_i_sinteticheskiy_metod_vayshnavskoy_teologii
+record_id: 1983.01.30.A4
+title: Аналитический и синтетический метод вайшнавской теологии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2870230
+  duration: 00:04:44
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1010_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
+date: 1983-01-30
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1010_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.mp3
     title: аудиозапись в MP3 (4 мин. 43 сек., 2,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1010_1983.01.30.A4_SridharMj_Analiticheskiy_i_sinteticheskiy_metod_vaishnavskoy_teologii.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 1010. 1983.01.30.A4. Аналитический и синтетический метод вайшнавской теологии
+  index: "1010"
+  filename: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii.md
+  slug: 1010-1983-01-30-a4-analiticheskij-i-sinteticheskij-metod-vajshnavskoj-teologii
 ---
-
-# 1010. 1983.01.30.A4. Аналитический и синтетический метод вайшнавской теологии
 
 **Шрила Шридхар Махарадж:** Каков скрытый смысл слова «*партха*», каков корень?
 

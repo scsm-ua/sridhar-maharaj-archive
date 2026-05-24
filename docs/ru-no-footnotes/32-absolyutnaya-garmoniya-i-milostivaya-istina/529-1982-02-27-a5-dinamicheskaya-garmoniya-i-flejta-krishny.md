@@ -1,12 +1,17 @@
 ---
-slug: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny
+slug: 1982-02-27-a5_dinamicheskaya_garmoniya_i_fleyta_krishny
+record_id: 1982.02.27.A5
+title: Динамическая гармония и флейта Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5148160
+  duration: 00:05:53
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
+date: 1982-02-27
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.mp3
     title: аудиозапись в MP3 (5 мин. 53 сек., 5,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (17 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/529_1982.02.27.A5_SridharMj_Dinamicheskaya_garmoniya_i_fleyta_Krishny.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 529. 1982.02.27.A5. Динамическая гармония и флейта Кришны
+  index: "529"
+  filename: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny.md
+  slug: 529-1982-02-27-a5-dinamicheskaya-garmoniya-i-flejta-krishny
 ---
-
-# 529. 1982.02.27.A5. Динамическая гармония и флейта Кришны
 
 *#00:33:18#*
 
@@ -24,7 +32,7 @@ links:
 
 *#00:34:14#*
 
-На поверхности это нечто – не желательно. Но если это необходимо ради дела Кришны, то мы не отступим. Соответственно нашим способностям мы должны призывать, но он должен быть ради дела он будет иметь тогда равную ценность, он будет равноценен к любви. Любовь и раздор. Всё должно быть отдано делу Кришны. Но без эгоизма всё, что делается, на его счету, в полной мере оправдано. Поскольку он есть *ниргуна.* Это явление зовется ниргуной.
+На поверхности это нечто – не желательно. Но если это необходимо ради дела Кришны, то мы не отступим. Соответственно нашим способностям мы должны призывать, но он должен быть ради дела он будет иметь тогда равную ценность, он будет равноценен к любви. Любовь и раздор. Всё должно быть отдано делу Кришны. Но без эгоизма всё, что делается, на его счету, в полной мере оправдано. Поскольку он есть *ниргуна*. Это явление зовется ниргуной.
 
 *#00:35:20#*
 

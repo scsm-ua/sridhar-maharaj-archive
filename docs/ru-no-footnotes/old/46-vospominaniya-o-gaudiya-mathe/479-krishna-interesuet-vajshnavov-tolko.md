@@ -1,5 +1,14 @@
 ---
 slug: 479-krishna-interesuet-vajshnavov-tolko
+record_id: null
+title: Кришна интересует вайшнавов только в связи с преданностью Гуру. Мгновения
+  прекрасной реальности, часть 6.7.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1787312
+  duration: 00:03:14
+  src: /wp-content/uploads/2012/08/479_MgnoveniyaPR_6.7_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
@@ -8,13 +17,15 @@ tags:
     slug: gaudiya-math
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/479_MgnoveniyaPR_6.7_SridharMj_Krishna_interesuyet_vaishnavov_tolko_v_svyazi_s_predannostyu_Guru.mp3
     title: Скачать аудиозапись в mp3 (3 мин 14 сек, размер 1 Мб)
+legacy:
+  title: 479. Кришна интересует вайшнавов только в связи с преданностью Гуру.
+    Мгновения прекрасной реальности, часть 6.7
+  index: "479"
+  filename: 479-krishna-interesuet-vajshnavov-tolko.md
 ---
-
-# 479. Кришна интересует вайшнавов только в связи с преданностью Гуру. Мгновения прекрасной реальности, часть 6.7
 
 То, что наш Гуру Махарадж говорил, все не может быть понято и принято в начале, но в последствии мы поймем все. В Мадрасе я слушал обращение на *вьяса-пуджу* профессора Санньяла, который говорил: «Я не хочу Кришну, но поскольку вы говорите, что это так, то я поклоняюсь ему, я воспеваю Его имя».
 

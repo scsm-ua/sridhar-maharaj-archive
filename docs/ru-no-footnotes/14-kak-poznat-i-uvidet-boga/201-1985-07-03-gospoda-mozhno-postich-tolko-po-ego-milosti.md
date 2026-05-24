@@ -1,12 +1,17 @@
 ---
-slug: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti
+slug: 1985-07-03_gospoda_mozhno_postich_tolko_po_ego_milosti
+record_id: 1985.07.03
+title: Господа можно постичь только по Его милости
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8980522
+  duration: 00:11:31
+  src: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
+date: 1985-07-03
 category:
   title: 14. Как познать и увидеть Бога
   slug: 14-kak-poznat-i-uvidet-boga
-tags:
-  - title: "1985.07"
-    slug: 1985-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.mp3
     title: аудиозапись в MP3 (11 мин. 30 сек., 8,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (91 КБ)
   - href: /dl/14._Kak_poznat_i_uvidet_Boga/201_1985.07.03_SridharMj_Gospoda_mojno_postich_tolko_po_Ego_milosti.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 201. 1985.07.03. Господа можно постичь только по Его милости
+  index: "201"
+  filename: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti.md
+  slug: 201-1985-07-03-gospoda-mozhno-postich-tolko-po-ego-milosti
 ---
-
-# 201. 1985.07.03. Господа можно постичь только по Его милости
 
 **Преданный:** Гуру Махарадж, как мы можем узнать, какова воля Господа? Что зависит от нас, что наша *карма*, что *майя* и в чем состоит наша свобода?
 

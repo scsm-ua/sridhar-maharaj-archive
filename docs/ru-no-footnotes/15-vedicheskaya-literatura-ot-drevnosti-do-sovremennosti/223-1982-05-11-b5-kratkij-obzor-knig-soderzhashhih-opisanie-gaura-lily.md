@@ -1,12 +1,17 @@
 ---
-slug: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily
+slug: 1982-05-11-b5_kratkiy_obzor_knig_soderzhashchih_opisanie_gaura-lily
+record_id: 1982.05.11.B5
+title: Краткий обзор книг, содержащих описание Гаура-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3787723
+  duration: 00:03:15
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/223_1982.05.11.B5_SridharMj_Kratkij_obzor_knig_soderzhashhih_opisanie_Gaura-lily.mp3
+date: 1982-05-11
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/223_1982.05.11.B5_SridharMj_Kratkij_obzor_knig_soderzhashhih_opisanie_Gaura-lily.mp3
     title: аудиозапись в MP3 (3 мин. 14 сек., 3,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/223_1982.05.11.B5_SridharMj_Kratkij_obzor_knig_soderzhashhih_opisanie_Gaura-lily.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 223. 1982.05.11.B5. Краткий обзор книг, содержащих описание Гаура-лилы
+  index: "223"
+  filename: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily.md
+  slug: 223-1982-05-11-b5-kratkij-obzor-knig-soderzhashhih-opisanie-gaura-lily
 ---
-
-# 223. 1982.05.11.B5. Краткий обзор книг, содержащих описание Гаура-лилы
 
 *Лила* Махапрабху была настолько интенсивна, что Махадев был растерян, поражен и отказался от своего ездового животного, буйвола Нанди, и взобрался на лебедя (лебедь — это птица, на которой летает Брахма), и поспешил туда, где происходила *лила* Махапрабху.
 

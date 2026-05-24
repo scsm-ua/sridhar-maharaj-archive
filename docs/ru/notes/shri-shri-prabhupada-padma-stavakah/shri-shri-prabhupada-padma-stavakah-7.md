@@ -4,9 +4,10 @@ refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/950-1982-06-17-b-nastroenie-shrily-dzhivy-gosvami-prisushhe-vsemu-gaudiya-mathu.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu.md
-tags:
+scriptures:
   - title: Шри Шри Прабхупада-падма Ставаках
     slug: shri-shri-prabhupada-padma-stavakah
+verses:
   - title: Шри Шри Прабхупада-падма Ставаках 7
     slug: shri-shri-prabhupada-padma-stavakah-7
 ---

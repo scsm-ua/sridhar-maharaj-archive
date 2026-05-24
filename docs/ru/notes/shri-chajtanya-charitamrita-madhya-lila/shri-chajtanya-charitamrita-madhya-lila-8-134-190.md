@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-8-134-190
 refs:
   - ../../09-ramananda-samvada-beseda-mahaprabhu-i-ramanandy-raya/135-1982-01-11-a-vysochajshie-otkroveniya-ramanda-samvady.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.134–190
     slug: shri-chajtanya-charitamrita-madhya-lila-8-134-190
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.191

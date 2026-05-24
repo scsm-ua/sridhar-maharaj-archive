@@ -10,9 +10,22 @@ refs:
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1114-1983-03-28-gosvami-maharadzh-prezentuet-shridharu-maharadzhu-knigu-poisk-shri-krishny.md
-tags:
+  - ../../_full/1981/08/1981.08.31.md
+  - ../../_full/1981/11/1981.11.07.A.md
+  - ../../_full/1982/02/1982.02.01.B.md
+  - ../../_full/1982/05/1982.05.01.A.B1.md
+  - ../../_full/1982/07/1982.07.27.A1.md
+  - ../../_full/1982/11/1982.11.23.A.md
+  - ../../_full/1982/12/1982.12.07.A.md
+  - ../../_full/1982/12/1982.12.31.A.md
+  - ../../_full/1982/12/1982.12.31.B.md
+  - ../../_full/1983/01/1983.01.04.md
+  - ../../_full/1983/03/1983.03.28.md
+  - ../../_full/1983/10/1983.10.25.A.md
+scriptures:
   - title: Шветашватара-упанишад
     slug: shvetashvatara-upanishad
+verses:
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
 ---

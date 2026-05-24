@@ -1,22 +1,30 @@
 ---
 slug: 4-sannyasa-mahaprabhu-chast-2-1983-01-15
+record_id: 1983.01.15
+title: Санньяса Махапрабху, часть 2
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16794549
+  duration: 00:34:41
+  src: /wp-content/uploads/2012/08/004_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
+date: 1983-01-15
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/004_1983.01.15_SridharMj_Sanyasa_Mahaprabhu_part2.mp3
     title: Скачать аудиозапись в mp3 (34 мин 41 сек, размер 16 Мб)
+legacy:
+  title: 4. Санньяса Махапрабху, часть 2. 1983.01.15
+  index: "4"
+  filename: 4-sannyasa-mahaprabhu-chast-2-1983-01-15.md
 ---
-
-# 4. Санньяса Махапрабху, часть 2. 1983.01.15
 
 *#00:00:00#*
 

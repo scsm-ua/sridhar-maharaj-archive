@@ -1,14 +1,20 @@
 ---
-slug: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti
+slug: 1981-11-12-b1_podlinnyy_vayshnav_schitaet_u_menya_net_bhakti
+record_id: 1981.11.12.B1
+title: "Подлинный вайшнав считает: «у меня нет бхакти»"
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6003859
+  duration: 00:06:47
+  src: /dl/56._Samootricanie/851_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3
+date: 1981-11-12
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Самопредание
     slug: samopredanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/851_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.mp3
     title: аудиозапись в MP3 (6 мин. 46 сек., 5,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/56._Samootricanie/851_1981.11.12.B1_SridharMj_Podlinniy_vayshnav_schitayet_u_menya_net_bhakti.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: "851. 1981.11.12.B1. Подлинный вайшнав считает: «у меня нет бхакти»"
+  index: "851"
+  filename: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti.md
+  slug: 851-1981-11-12-b1-podlinnyj-vajshnav-schitaet-u-menya-net-bhakti
 ---
-
-# 851. 1981.11.12.B1. Подлинный вайшнав считает: «у меня нет бхакти»
 
 **Шрила Шридхар Махарадж** (рассказывает о каком-то вайшнаве [возможно, профессор Ниши Канта Саньял]): Он носил белую одежду, но он занимал положение выше, чем многие *санньяси*, он был выше многих *санньяси*. Мы слышали это непосредственно от нашего Гуру Махараджа. И также своими глазами мы видели, как он живет, как он совершает *бхаджан* практическим образом в своей жизни.
 

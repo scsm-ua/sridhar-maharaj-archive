@@ -1,20 +1,28 @@
 ---
 slug: 214-povtorenie-oshhushheniya-ne-yavlyaetsya-opy
+record_id: 1983.04.16.A2
+title: Повторение ощущения не является опытом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2542968
+  duration: 00:05:10
+  src: /wp-content/uploads/2012/08/214_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
+date: 1983-04-16
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/214_1983.04.16.A2_SridharMj_Povtorenie_owuweniya_ne_yavlyaetsya_opytom.mp3
     title: Скачать аудиозапись в mp3 (5 мин 10 сек, размер 2 Мб)
+legacy:
+  title: 214. Повторение ощущения не является опытом. 1983.04.16.A2
+  index: "214"
+  filename: 214-povtorenie-oshhushheniya-ne-yavlyaetsya-opy.md
 ---
-
-# 214. Повторение ощущения не является опытом. 1983.04.16.A2
 
 Бхакти может порождать бхакти. Никогда майя не может порождать бхакти. Реальность дает реальность. А не мис-интерпритация, ложное истолкование реальности способно породить реальность. Это очень просто. Все остальное прорастет из этого понимания, этой концепции проявится. В гуще заблуждений, ложных представлений любой природы, можем ли мы получить облегчения от… избавиться от ложных представлений?
 

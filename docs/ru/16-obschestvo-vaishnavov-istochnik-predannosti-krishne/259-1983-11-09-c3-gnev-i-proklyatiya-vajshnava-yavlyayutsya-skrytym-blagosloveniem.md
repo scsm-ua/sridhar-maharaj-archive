@@ -1,20 +1,17 @@
 ---
-slug: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem
+slug: 1983-11-09-c3_gnev_i_proklyatiya_vayshnava_yavlyayutsya_skrytym_blagosloveniem
+record_id: 1983.11.09.C3
+title: Гнев и проклятия вайшнава являются скрытым благословением
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10849811
+  duration: 00:10:07
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3
+date: 1983-11-09
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.2
-    slug: shrimad-bhagavatam-1-1-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.30
-    slug: shri-chajtanya-charitamrita-adi-lila-1-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.mp3
     title: аудиозапись в MP3 (10 мин. 07 сек., 10,4 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/259_1983.11.09.C3_SridharMj_Gnev_i_prokljatija_vajshnava_javljajutsja_skrytym_blagosloveniem.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 259. 1983.11.09.C3. Гнев и проклятия вайшнава являются скрытым благословением
+  index: "259"
+  filename: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem.md
+  slug: 259-1983-11-09-c3-gnev-i-proklyatiya-vajshnava-yavlyayutsya-skrytym-blagosloveniem
+tags:
+  - title: Шримад-Бхагаватам 1.1.2
+    slug: shrimad-bhagavatam-1-1-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.30
+    slug: shri-chajtanya-charitamrita-adi-lila-1-30
 ---
-
-# 259. 1983.11.09.C3. Гнев и проклятия вайшнава являются скрытым благословением
 
     дхармах̣ проджджхита-каитаво ‘тра
     парамо нирматсара̄н̣а̄м̇ сата̄м̇

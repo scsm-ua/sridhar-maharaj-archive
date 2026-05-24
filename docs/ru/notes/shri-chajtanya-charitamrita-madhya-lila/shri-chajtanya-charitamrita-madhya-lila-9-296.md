@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-9-296
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu.md
-tags:
+  - ../../_full/1981/08/1981.08.31.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.296
     slug: shri-chajtanya-charitamrita-madhya-lila-9-296
 ---

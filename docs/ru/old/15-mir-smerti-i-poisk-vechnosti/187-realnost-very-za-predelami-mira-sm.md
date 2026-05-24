@@ -1,5 +1,14 @@
 ---
 slug: 187-realnost-very-za-predelami-mira-sm
+record_id: 1983.06.27
+title: Реальность веры за пределами мира смерти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 39473763
+  duration: 01:08:26
+  src: /wp-content/uploads/2012/08/187_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti1.mp3
+date: 1983-06-27
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
@@ -10,13 +19,14 @@ tags:
     slug: dusha
   - title: Материальный мир
     slug: materialnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/187_1983.06.27_SridharMj_Realnost_very_za_predelami_mira_smerti1.mp3
     title: Скачать аудиозапись в mp3 (1 ч 8 мин 26 сек, размер 39 Мб)
+legacy:
+  title: 187. Реальность веры за пределами мира смерти. 1983.06.27
+  index: "187"
+  filename: 187-realnost-very-za-predelami-mira-sm.md
 ---
-
-# 187. Реальность веры за пределами мира смерти. 1983.06.27
 
 *#00:00:00#*
 

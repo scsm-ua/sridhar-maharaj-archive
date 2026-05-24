@@ -1,28 +1,17 @@
 ---
-slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+slug: 1982-02-18-b3_my_ne_ateisty_ob_izuchenii_trudov_shesti_gosvami
+record_id: 1982.02.18.B3
+title: «Мы не атеисты». Об изучении трудов шести Госвами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6310336
+  duration: 00:08:36
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
+date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
-    slug: shri-chajtanya-charitamrita-adi-lila-5-53
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
-  - title: Шри Шри Прабхупада-падма Ставаках 7
-    slug: shri-shri-prabhupada-padma-stavakah-7
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
-    slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.47.61
-    slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
     title: аудиозапись в MP3 (8 мин. 35 сек., 6,1 МБ)
@@ -30,9 +19,21 @@ links:
     title: транскрипцию в RTF (96 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
+  index: "873"
+  filename: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami.md
+  slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.53
+    slug: shri-chajtanya-charitamrita-adi-lila-5-53
+  - title: Шри Шри Прабхупада-падма Ставаках 7
+    slug: shri-shri-prabhupada-padma-stavakah-7
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
+    slug: shri-chajtanya-charitamrita-antya-lila-7-47
+  - title: Шримад-Бхагаватам 10.47.61
+    slug: shrimad-bhagavatam-10-47-61
 ---
-
-# 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
 
 *«Онтология Прекрасной Реальности», (часть 1.7)*
 
@@ -75,7 +76,7 @@ links:
 
 [^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 5.53](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-5-53.md)
 
-[^_ftn2]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn2]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn3]: [Шри Шри Прабхупада-падма Ставаках 7](../notes/shri-shri-prabhupada-padma-stavakah/shri-shri-prabhupada-padma-stavakah-7.md)
 

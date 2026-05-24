@@ -1,12 +1,17 @@
 ---
-slug: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi
+slug: 1982-05-18-e4_strogoe_sledovanie_pisaniyam_prodolzhaetsya_do_stadii_ruchi_i_prapana-dashi
+record_id: 1982.05.18.E4
+title: Строгое следование Писаниям продолжается до стадии ручи и прапана-даши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3109522
+  duration: 00:02:23
+  src: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.mp3
+date: 1982-05-18
 category:
   title: 44. Обретение и развитие вкуса к духовной жизни
   slug: 44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.mp3
     title: аудиозапись в MP3 (2 мин. 23 сек., 3,0 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/44._Obretenie_i_razvitie_vkusa_k_duhovnoy_zhizni/724_1982.05.18.E4_SridharMj_Strogoe_sledovanie_Pisanijam_prodolzhaetsja_do_stadii_ruchi_i_prapana-dashi.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 724. 1982.05.18.E4. Строгое следование Писаниям продолжается до стадии
+    ручи и прапана-даши
+  index: "724"
+  filename: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi.md
+  slug: 724-1982-05-18-e4-strogoe-sledovanie-pisaniyam-prodolzhaetsya-do-stadii-ruchi-i-prapana-dashi
 ---
-
-# 724. 1982.05.18.E4. Строгое следование Писаниям продолжается до стадии ручи и прапана-даши
 
 **Преданный:** Махарадж, а какими должны быть усилия *садхаки*?
 

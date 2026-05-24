@@ -1,30 +1,32 @@
 ---
-slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
+slug: 1983-01-26-c2_molitva_lality_devi_i_shloka_rupy_gosvami
+record_id: 1983.01.26.C2
+title: Молитва Лалиты Деви и шлока Рупы Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5432235
+  duration: 00:10:15
+  src: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
+date: 1983-01-26
 category:
   title: 03. Сознание Кришны — превосходство Любви и Красоты
   slug: 03-soznanie-krishny-prevoshodstvo-lyubvi-i-krasoty
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Лалита Деви
     slug: lalita-devi
   - title: Самопожертвование
     slug: samopozhertvovanie
   - title: Святое Имя
     slug: svyatoe-imya
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
   - title: Шри Лалита-аштака 1
     slug: shri-lalita-ashtaka-1
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 7
     slug: shri-nama-mahatmya-7
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.99
     slug: shri-chajtanya-charitamrita-antya-lila-1-99
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+  - title: Видагдха-мадхава 1.15
+    slug: vidagdha-madhava-1-15
 links:
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.mp3
     title: аудиозапись в MP3 (10 мин. 14 сек., 5.2 МБ)
@@ -32,9 +34,12 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/03._Soznanie_Krishny--prevoshodstvo_Lyubvi_i_Krasoty/037_1983.01.26.C2_SridharMj_Molitva_Lality_Devi_i_shloka_Rupy_Gosvami.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
+  index: "037"
+  filename: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami.md
+  slug: 037_1983-01-26-c2_sridharmj_molitva_lality_devi_i_shloka_rupy_gosvami
 ---
-
-# 037. 1983.01.26.C2 Молитва Лалиты Деви и шлока Рупы Госвами
 
 Монополия, торговля неуместна, невозможна на этом рынке, ни один капиталист не может войти на этот рынок.
 

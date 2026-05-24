@@ -2,9 +2,10 @@
 slug: bhagavad-gita-5-2
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/421-1982-04-14-c6-d1-nekotorye-polozheniya-karma-jogi-v-gite.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 5.2
     slug: bhagavad-gita-5-2
 ---

@@ -1,14 +1,20 @@
 ---
-slug: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe
+slug: 1982-02-24-a3_gruppa_sarasvati_thakura_v_gaudiya-mathe
+record_id: 1982.02.24.A3
+title: «Группа Сарасвати Тхакура» в Гаудия-Матхе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 28803051
+  duration: 00:29:28
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
+date: 1982-02-24
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.mp3
     title: аудиозапись в MP3 (29 мин. 28 сек., 27,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (210 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1042_1982.02.24.A3_SridharMj_Gruppa_Sarasvati_Thakura_v_Gaudiya-Mathe.pdf
     title: транскрипцию в PDF (168 КБ)
+legacy:
+  title: 1042. 1982.02.24.A3. «Группа Сарасвати Тхакура» в Гаудия-Матхе
+  index: "1042"
+  filename: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe.md
+  slug: 1042-1982-02-24-a3-gruppa-sarasvati-thakura-v-gaudiya-mathe
 ---
-
-# 1042. 1982.02.24.A3. «Группа Сарасвати Тхакура» в Гаудия-Матхе
 
 *«Онтология Прекрасной Реальности» (часть 6.3)*
 

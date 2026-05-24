@@ -1,5 +1,12 @@
 ---
-slug: 840-samopozhertvovanie-i-samozabvenie
+slug: samopozhertvovanie_i_samozabvenie
+title: Самопожертвование и самозабвение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4308788
+  duration: 00:09:36
+  src: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
@@ -8,11 +15,8 @@ tags:
     slug: samopredanie
   - title: без даты
     slug: bez-daty
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 13.142
     slug: shri-chajtanya-charitamrita-madhya-lila-13-142
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.mp3
     title: аудиозапись в MP3 (9 мин. 35 сек., 4,2 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/55._Samopozhertvovanie/840_2012.07.25.9_SridharMj_Samopojertvovaniye_i_samozabveniye.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 840. Самопожертвование и самозабвение
+  index: "840"
+  filename: 840-samopozhertvovanie-i-samozabvenie.md
+  slug: 840-samopozhertvovanie-i-samozabvenie
 ---
-
-# 840. Самопожертвование и самозабвение
 
 Концепция Высочайшего Абсолюта присутствует в Кришна-концепции Бога: красота, гармония, экстаз, сладость, очарование, влечение. Речь идет о том, что все остальные явления предаются красоте, очарованию и экстазу, жертвуют собой ради этого явления. Поклонение красоте, очарованию, *сундарам*. *Сатьям*, *шивам*, *сундарам*. *Сундар* — гармония и красота. Гармония подразумевает занятие правильной позиции, и это красота. Когда все стоит на своих местах, отсутствие конфликта. Все стремятся к этим реалиям. Самозабвение в красоте мы находим — такую характеристику.
 

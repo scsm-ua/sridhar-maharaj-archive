@@ -1,12 +1,17 @@
 ---
-slug: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona
+slug: 1982-09-05-b6_o_duhovnom_poiske_professora_niksona
+record_id: 1982.09.05.B6
+title: О духовном поиске профессора Никсона
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3766878
+  duration: 00:06:47
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1061_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3
+date: 1982-09-05
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.09"
-    slug: 1982-09
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1061_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.mp3
     title: аудиозапись в MP3 (6 мин. 46 сек., 3,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1061_1982.09.05.B6_SridharMj_O_duhovnom_poiske_professora_Niksona.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 1061. 1982.09.05.B6. О духовном поиске профессора Никсона
+  index: "1061"
+  filename: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona.md
+  slug: 1061-1982-09-05-b6-o-duhovnom-poiske-professora-niksona
 ---
-
-# 1061. 1982.09.05.B6. О духовном поиске профессора Никсона
 
 [Говорят на бенгали]
 

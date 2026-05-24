@@ -1,14 +1,20 @@
 ---
-slug: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu
+slug: 1983-05-06-b4_kakim_dolzhno_byt_nastroenie_obrashcheniya_k_gospodu
+record_id: 1983.05.06.B4
+title: Каким должно быть настроение обращения к Господу?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3923362
+  duration: 00:06:59
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
+date: 1983-05-06
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
     title: аудиозапись в MP3 (6 мин. 58 сек., 3,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/826_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 826. 1983.05.06.B4. Каким должно быть настроение обращения к Господу?
+  index: "826"
+  filename: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu.md
+  slug: 826-1983-05-06-b4-kakim-dolzhno-byt-nastroenie-obrashheniya-k-gospodu
 ---
-
-# 826. 1983.05.06.B4. Каким должно быть настроение обращения к Господу?
 
 **Шрила Шридхар Махарадж:** Харе Кришна.
 

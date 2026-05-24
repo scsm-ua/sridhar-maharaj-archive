@@ -1,26 +1,17 @@
 ---
-slug: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon
+slug: 1983-11-04-a1_vayshnavy_podobny_metallu_pomeshchennomu_v_ogon
+record_id: 1983.11.04.A1
+title: Вайшнавы подобны металлу, помещенному в огонь
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4904760
+  duration: 00:03:56
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
+date: 1983-11-04
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 7.5.32
-    slug: shrimad-bhagavatam-7-5-32
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
-    slug: shri-chajtanya-charitamrita-antya-lila-4-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
-  - title: Шримад-Бхагаватам 11.29.34
-    slug: shrimad-bhagavatam-11-29-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.mp3
     title: аудиозапись в MP3 (3 мин. 55 сек., 4,7 МБ)
@@ -28,9 +19,21 @@ links:
     title: транскрипцию в RTF (74 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/235_1983.11.04.A1_SridharMj_Vajshnavy_podobny_metallu_pomeshhennomu_v_ogon.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 235. 1983.11.04.A1. Вайшнавы подобны металлу, помещенному в огонь
+  index: "235"
+  filename: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon.md
+  slug: 235-1983-11-04-a1-vajshnavy-podobny-metallu-pomeshhennomu-v-ogon
+tags:
+  - title: Шримад-Бхагаватам 7.5.32
+    slug: shrimad-bhagavatam-7-5-32
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
+    slug: shri-chajtanya-charitamrita-antya-lila-4-194
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-103
+  - title: Шримад-Бхагаватам 11.29.34
+    slug: shrimad-bhagavatam-11-29-34
 ---
-
-# 235. 1983.11.04.A1. Вайшнавы подобны металлу, помещенному в огонь
 
 **Госвами Махарадж:** Писания *гаудия-вайшнавов* — «Шримад Бхагаватам», «Шри Чайтанья-Чаритамрита» — в этих произведениях лотосные стопы чистого преданного. *Наиш̣а̄м̇ матис та̄вад урукрама̄н̇грим̇*[^_ftn1] — стихи Прахлады Махараджа, Ришабхадева, и вновь — в «Шри Чайтаньи-Чаритамрите»; мы находим также в песнях Шрилы Нароттама Даса Тхакура: всегда упоминаются лотосные стопы *вайшнавов*. А какой должна быть подлинная концепция лотосных стоп *вайшнава*?
 

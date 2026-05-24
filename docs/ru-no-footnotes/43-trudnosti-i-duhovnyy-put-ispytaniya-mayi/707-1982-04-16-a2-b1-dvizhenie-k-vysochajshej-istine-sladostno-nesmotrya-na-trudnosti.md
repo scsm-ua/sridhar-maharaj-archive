@@ -1,12 +1,17 @@
 ---
-slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
+slug: 1982-04-16-a2-b1_dvizhenie_k_vysochayshey_istine_sladostno_nesmotrya_na_trudnosti
+record_id: 1982.04.16.A2.B1
+title: Движение к Высочайшей Истине сладостно, несмотря на трудности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6191699
+  duration: 00:06:08
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3
+date: 1982-04-16
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.mp3
     title: аудиозапись в MP3 (6 мин. 07 сек., 6,0 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/707_1982.04.16.A2.B1_SridharMj_Dvizhenie_k_Vysochajshej_Istine_sladostno_nesmotrja_na_trudnosti.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 707. 1982.04.16.A2.B1. Движение к Высочайшей Истине сладостно, несмотря
+    на трудности
+  index: "707"
+  filename: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti.md
+  slug: 707-1982-04-16-a2-b1-dvizhenie-k-vysochajshej-istine-sladostno-nesmotrya-na-trudnosti
 ---
-
-# 707. 1982.04.16.A2.B1. Движение к Высочайшей Истине сладостно, несмотря на трудности
 
 Мы отправились на поиски Владыки любви, концепция, представление о котором дано в «Чайтанья-чаритамрите». Он — самодержец, но у Него есть сердце, которое полно безграничной любви. Мы отправились на поиски такого Владыки, Господина. Мы не должны думать, что путь усеян цветами, но он может быть усеян так же и шипами. Необходимо почувствовать, насколько мы искренни, насколько горячо наше стремление к этому Господу, Владыке.
 

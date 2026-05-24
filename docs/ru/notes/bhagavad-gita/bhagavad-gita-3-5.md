@@ -4,9 +4,12 @@ refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/420-1982-07-18-a2-uchenie-o-karme-vikarme-i-akarme-v-bhagavad-gite-i-shrimad-bhagavatam.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/570-1982-07-04-a7-rozhdenie-chelovekom-eto-vozmozhnost-pokinut-mir-ekspluatatsii.md
-tags:
+  - ../../_full/1982/04/1982.04.24.A.B.md
+  - ../../_full/1982/07/1982.07.18.A.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.5
     slug: bhagavad-gita-3-5
 ---

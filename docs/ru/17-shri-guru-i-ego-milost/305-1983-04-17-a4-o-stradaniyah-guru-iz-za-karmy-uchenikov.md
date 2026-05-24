@@ -1,24 +1,17 @@
 ---
-slug: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov
+slug: 1983-04-17-a4_o_stradaniyah_guru_iz-za_karmy_uchenikov
+record_id: 1983.04.17.A4
+title: О страданиях гуру из-за кармы учеников
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5652135
+  duration: 00:09:00
+  src: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
+date: 1983-04-17
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
-  - title: Шри Вилапа-кусуманджали 6
-    slug: shri-vilapa-kusumandzhali-6
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда
-    slug: shri-chajtanya-bhagavata-madhya-khanda
-  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
-    slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
-  - title: Шветашватара-упанишад 6.23
-    slug: shvetashvatara-upanishad-6-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.mp3
     title: аудиозапись в MP3 (8 мин. 59 сек., 5,4 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/305_1983.04.17.A4_SridharMj_O_stradaniyah_guru_iz-za_karmy_uchenikov.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 305. 1983.04.17.A4. О страданиях гуру из-за кармы учеников
+  index: "305"
+  filename: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov.md
+  slug: 305-1983-04-17-a4-o-stradaniyah-guru-iz-za-karmy-uchenikov
+tags:
+  - title: Шри Вилапа-кусуманджали 6
+    slug: shri-vilapa-kusumandzhali-6
+  - title: «Шри Чайтанья Бхагавата», Мадхья-кханда 1.157
+    slug: shri-chajtanya-bhagavata-madhya-khanda-1-157
+  - title: Шветашватара-упанишад 6.23
+    slug: shvetashvatara-upanishad-6-23
 ---
-
-# 305. 1983.04.17.A4. О страданиях гуру из-за кармы учеников
 
 **Преданный:** Махарадж, совершенно ясно, что некоторые люди принимают учеников, будучи, возможно, не готовыми к этому, и им даже приходится претерпевать некоторые физические страдания из-за того, что они принимают учеников. Это из-за кармы?
 

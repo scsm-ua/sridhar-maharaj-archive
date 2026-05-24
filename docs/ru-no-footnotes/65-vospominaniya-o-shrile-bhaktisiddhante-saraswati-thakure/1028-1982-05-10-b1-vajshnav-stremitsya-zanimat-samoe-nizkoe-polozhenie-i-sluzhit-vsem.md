@@ -1,12 +1,17 @@
 ---
-slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
+slug: 1982-05-10-b1_vayshnav_stremitsya_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem
+record_id: 1982.05.10.B1
+title: Вайшнав стремится занимать самое низкое положение и служить всем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8092724
+  duration: 00:07:48
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.mp3
+date: 1982-05-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 7,8 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (95 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1028_1982.05.10.B1_SridharMj_Vajshnav_stremitsja_zanimat_samoe_nizkoe_polozhenie_i_sluzhit_vsem.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 1028. 1982.05.10.B1. Вайшнав стремится занимать самое низкое положение и
+    служить всем
+  index: "1028"
+  filename: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem.md
+  slug: 1028-1982-05-10-b1-vajshnav-stremitsya-zanimat-samoe-nizkoe-polozhenie-i-sluzhit-vsem
 ---
-
-# 1028. 1982.05.10.B1. Вайшнав стремится занимать самое низкое положение и служить всем
 
 **Шрила Шридхар Махарадж:** Где он?
 
@@ -60,7 +69,7 @@ links:
     парипраш́нена севайа̄
 [^_ftn1]
 
-В противном случае невозможно соприкоснуться с этой Высшей субстанцией. Поэтому наш Гуру Махарадж делал упор, на первое место ставил служение, нежели перебирание четок. Дух служения необходим, в перебирании четок также. Это универсальный принцип. *Севонмукхе.*
+В противном случае невозможно соприкоснуться с этой Высшей субстанцией. Поэтому наш Гуру Махарадж делал упор, на первое место ставил служение, нежели перебирание четок. Дух служения необходим, в перебирании четок также. Это универсальный принцип. *Севонмукхе*.
 
 *#00:05:59#*
 

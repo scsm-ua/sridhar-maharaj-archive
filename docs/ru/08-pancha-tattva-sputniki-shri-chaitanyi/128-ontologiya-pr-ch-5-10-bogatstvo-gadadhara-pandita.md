@@ -1,5 +1,12 @@
 ---
-slug: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita
+slug: ontologiya_pr_ch_5_10_bogatstvo_gadadhara_pandita
+title: Онтология ПР. Ч. 5.10. Богатство Гададхара Пандита.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3644224
+  duration: 00:04:35
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.mp3
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -8,13 +15,10 @@ tags:
     slug: gadadhar-pandit
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.5
     slug: shri-chajtanya-charitamrita-adi-lila-1-5
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.55
     slug: shri-chajtanya-charitamrita-adi-lila-4-55
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.mp3
     title: аудиозапись в MP3 (4 мин. 34 сек., 3,5 МБ)
@@ -22,9 +26,12 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/128_OntologiyaPR_5.10_SridharMj_Bogatstvo_Gadadhara_Pandita.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 128. Онтология ПР. Ч. 5.10. Богатство Гададхара Пандита
+  index: "128"
+  filename: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita.md
+  slug: 128-ontologiya-pr-ch-5-10-bogatstvo-gadadhara-pandita
 ---
-
-# 128. Онтология ПР. Ч. 5.10. Богатство Гададхара Пандита
 
 *(«Онтология Прекрасной Реальности», часть 5.10)*
 

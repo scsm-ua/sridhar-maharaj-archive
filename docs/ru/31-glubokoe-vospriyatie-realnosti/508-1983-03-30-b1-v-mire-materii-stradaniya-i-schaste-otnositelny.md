@@ -1,20 +1,17 @@
 ---
-slug: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny
+slug: 1983-03-30-b1_v_mire_materii_stradaniya_i_schaste_otnositelny
+record_id: 1983.03.30.B1
+title: В мире материи страдания и счастье относительны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4172373
+  duration: 00:06:55
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
+date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.176
-    slug: shri-chajtanya-charitamrita-antya-lila-4-176
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.30
-    slug: bhagavad-gita-9-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.mp3
     title: аудиозапись в MP3 (6 мин. 55 сек., 4,0 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/508_1983.03.30.B1_SridharMj_V_mire_materii_stradaniya_i_schastye_ogranicheny.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 508. 1983.03.30.B1. В мире материи страдания и счастье относительны
+  index: "508"
+  filename: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny.md
+  slug: 508-1983-03-30-b1-v-mire-materii-stradaniya-i-schaste-otnositelny
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.176
+    slug: shri-chajtanya-charitamrita-antya-lila-4-176
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 ---
-
-# 508. 1983.03.30.B1. В мире материи страдания и счастье относительны
 
 **Преданный:** Махарадж, не могли бы, пожалуйста, вновь объяснить о плохом и хорошем?
 

@@ -3,9 +3,10 @@ slug: shri-chajtanya-charitamrita-madhya-lila-8-62
 refs:
   - ../../17-shri-guru-i-ego-milost/314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy.md
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/715-1982-11-03-a-b1-borba-s-majej-madhyama-adhikari-i-borba-v-lile-uttama-adhikari.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.62
     slug: shri-chajtanya-charitamrita-madhya-lila-8-62
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.264

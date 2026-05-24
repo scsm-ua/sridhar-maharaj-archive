@@ -1,20 +1,28 @@
 ---
 slug: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5
+record_id: 1983.04.25.A5
+title: Научное определение Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3113943
+  duration: 00:03:49
+  src: /wp-content/uploads/2012/08/045_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3
+date: 1983-04-25
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/045_1983.04.25.A5_SridharMj_Nauchnoe_opredelenie_Krishny.mp3
     title: Скачать аудиозапись в mp3 (3 мин 49 сек, размер 3 Мб)
+legacy:
+  title: 45. Научное определение Кришны. 1983.04.25.A5
+  index: "45"
+  filename: 45-nauchnoe-opredelenie-krishny-1983-04-25-a5.md
 ---
-
-# 45. Научное определение Кришны. 1983.04.25.A5
 
 *#00:00:00#*
 

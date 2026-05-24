@@ -1,30 +1,28 @@
 ---
-slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
+slug: 1984-01-15-b2_mgnovenie_obshcheniya_s_vayshnavom_daruet_vse_sovershenstvo
+record_id: 1984.01.15.B2
+title: «Мгновение общения с вайшнавом дарует все совершенство»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5853440
+  duration: 00:09:50
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
+date: 1984-01-15
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
     slug: shri-chajtanya-charitamrita-madhya-lila-2-45
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.2.42
     slug: shrimad-bhagavatam-11-2-42
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
     title: аудиозапись в MP3 (9 мин. 53 сек., 5,6 МБ)
@@ -32,9 +30,12 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/242_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 242. 1984.01.15.B2. «Мгновение общения с вайшнавом дарует все совершенство»
+  index: "242"
+  filename: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo.md
+  slug: 242-1984-01-15-b2-mgnovenie-obshheniya-s-vajshnavom-daruet-vse-sovershenstvo
 ---
-
-# 242. 1984.01.15.B2. «Мгновение общения с вайшнавом дарует все совершенство»
 
 **Преданный:** Махарадж, в *шастре* сказано, что одного мгновения общения с чистым преданным достаточно, чтобы достичь высочайшей стадии.
 
@@ -78,7 +79,7 @@ links:
     анйатра…
 [^_ftn3]
 
-*Вирактир* означает «отвержение», девальвация чего-то, обесценивание, и — новые ценности, ценности более высокого порядка, *пареш́а̄нубхаво*. Концепция высшего достижения перед нами. То, что мы отвергаем, остается за нашими плечами, обесценивается. Приходит понимание, что существуют более ценные вещи, и мы оставляем старое. *Пареш́а̄нубхаво.* Прогресс подразумевает определенный опыт, достижение и отсутствие статичности, новое достижение, лучшее, принятие. Отвержение и принятие. Принятие высшего и отвержение низшего. Мы сами [являемся] в качестве гарантов, свидетелей.
+*Вирактир* означает «отвержение», девальвация чего-то, обесценивание, и — новые ценности, ценности более высокого порядка, *пареш́а̄нубхаво*. Концепция высшего достижения перед нами. То, что мы отвергаем, остается за нашими плечами, обесценивается. Приходит понимание, что существуют более ценные вещи, и мы оставляем старое. *Пареш́а̄нубхаво*. Прогресс подразумевает определенный опыт, достижение и отсутствие статичности, новое достижение, лучшее, принятие. Отвержение и принятие. Принятие высшего и отвержение низшего. Мы сами [являемся] в качестве гарантов, свидетелей.
 
     хр̣дайена̄бхйану джн̃а̄то
 [^_ftn4]

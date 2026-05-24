@@ -1,22 +1,24 @@
 ---
-slug: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi
+slug: 1981-03-02-b6-c1-c5_o_soblyudenii_posta_v_ekadashi
+record_id: 1981.03.02.B6.C1.C5
+title: О соблюдении поста в экадаши
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5630464
+  duration: 00:09:52
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
+date: 1981-03-02
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Экадаши
     slug: ekadashi
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.82
     slug: shri-chajtanya-charitamrita-madhya-lila-22-82
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 5.5.2
     slug: shrimad-bhagavatam-5-5-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.mp3
     title: аудиозапись в MP3 (9 мин. 51 сек., 5,4 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (121 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/798_1981.03.02.B6.C1.C5_SridharMj_O_soblyudenii_posta_v_ekadashi.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 798. 1981.03.02.B6.C1.C5. О соблюдении поста в экадаши
+  index: "798"
+  filename: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi.md
+  slug: 798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi
 ---
-
-# 798. 1981.03.02.B6.C1.C5. О соблюдении поста в экадаши
 
 **Шрила Говинда Махарадж:** *Анукалпа*?
 

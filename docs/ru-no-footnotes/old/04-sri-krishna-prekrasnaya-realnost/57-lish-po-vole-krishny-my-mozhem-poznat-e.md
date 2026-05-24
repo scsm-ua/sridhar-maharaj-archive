@@ -1,15 +1,23 @@
 ---
 slug: 57-lish-po-vole-krishny-my-mozhem-poznat-e
+title: Лишь по воле Кришны мы можем познать Его
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2370450
+  duration: 00:03:01
+  src: /wp-content/uploads/2012/08/057_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/057_2012.07.25.14_ShridharMj_Lish_po_vole_Krishny_my_mojem_poznat_Ego.mp3
     title: Скачать аудиозапись в mp3 (3 мин 1 сек, размер 2 Мб)
+legacy:
+  title: 57. Лишь по воле Кришны мы можем познать Его
+  index: "57"
+  filename: 57-lish-po-vole-krishny-my-mozhem-poznat-e.md
 ---
-
-# 57. Лишь по воле Кришны мы можем познать Его
 
 *#00:00:14#*
 

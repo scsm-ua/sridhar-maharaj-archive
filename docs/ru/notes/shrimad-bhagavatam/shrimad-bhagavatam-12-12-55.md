@@ -4,9 +4,12 @@ refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/629-1982-02-18-a3-gyana-i-vigyana.md
   - ../../49-bhakti-velichie-predannosti-krishne/775-1982-02-18-a2-bhakti-predannost-krishne-besprichinna-i-neuderzhima.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1045-1982-02-23-a2-beskompromissnost-i-gotovnost-idti-do-kontsa-osnova-propovedi-gaudiya-matha.md
-tags:
+  - ../../_full/1983/08/1983.08.06.B.md
+  - ../../_full/1983/09/1983.09.16.A.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 12.12.55
     slug: shrimad-bhagavatam-12-12-55
 ---

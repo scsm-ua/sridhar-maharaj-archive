@@ -1,34 +1,17 @@
 ---
-slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
+slug: 1981-08-18-c2-2_znachenie_i_pravilnoe_proiznoshenie_shri_rupa-pranamy
+record_id: 1981.08.18.C2.2
+title: Значение и правильное произношение Шри Рупа-пранамы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4335136
+  duration: 00:07:47
+  src: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
+date: 1981-08-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: Шри Према-бхакти-чандрика
-    slug: shri-prema-bhakti-chandrika
-  - title: Шри Према-бхакти-чандрика 2
-    slug: shri-prema-bhakti-chandrika-2
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
-    slug: shri-chajtanya-charitamrita-adi-lila-1-4
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
-    slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
-    slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
-  - title: Видагдха-мадхава 1.2
-    slug: vidagdha-madhava-1-2
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
-  - title: Чайтанья-чандрамрита 88
-    slug: chajtanya-chandramrita-88
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
     title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
@@ -36,9 +19,25 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
+  index: "457"
+  filename: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
+  slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
+tags:
+  - title: Шри Према-бхакти-чандрика 2
+    slug: shri-prema-bhakti-chandrika-2
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
+    slug: shri-chajtanya-charitamrita-adi-lila-1-4
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
+    slug: shri-chajtanya-charitamrita-adi-lila-3-4
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
+    slug: shri-chajtanya-charitamrita-antya-lila-1-132
+  - title: Видагдха-мадхава 1.2
+    slug: vidagdha-madhava-1-2
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 ---
-
-# 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
 
 **Госвами Махарадж:** Махарадж?
 

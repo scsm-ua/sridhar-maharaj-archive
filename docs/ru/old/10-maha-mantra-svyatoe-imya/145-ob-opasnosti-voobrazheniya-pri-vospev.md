@@ -1,5 +1,13 @@
 ---
 slug: 145-ob-opasnosti-voobrazheniya-pri-vospev
+title: Об опасности воображения при воспевании Святого Имени. Онтология
+  прекрасной реальности, часть 6.6.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7175471
+  duration: 00:07:03
+  src: /wp-content/uploads/2012/08/145_OntologiyaPR_6.6_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
@@ -10,13 +18,15 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/145_OntologiyaPR_6.6_SridharMj_Ob_opasnosti_voobrajeniya_pri_vospevanii_Svyatogo_Imeni.mp3
     title: Скачать аудиозапись в mp3 (7 мин 3 сек, размер 7 Мб)
+legacy:
+  title: 145. Об опасности воображения при воспевании Святого Имени. Онтология
+    прекрасной реальности, часть 6.6
+  index: "145"
+  filename: 145-ob-opasnosti-voobrazheniya-pri-vospev.md
 ---
-
-# 145. Об опасности воображения при воспевании Святого Имени. Онтология прекрасной реальности, часть 6.6
 
 Мы должны следовать истинному методу, и тогда мы сумеем увидеть, обретем зрение, позволяющее видеть это явление, увидим форму. Не следует создавать некий ментальный образ. Мы должны попытаться избавиться от ментальных предрассудков, от самскар. И попытаться уловить, понять то, природу явления, которая независима от меня или от многих подобных нам, независима от ментальных выдумок, концепций ума.
 

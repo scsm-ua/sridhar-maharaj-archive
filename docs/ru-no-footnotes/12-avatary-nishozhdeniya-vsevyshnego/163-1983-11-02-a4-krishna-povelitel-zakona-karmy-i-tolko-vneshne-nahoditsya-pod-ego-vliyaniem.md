@@ -1,12 +1,17 @@
 ---
-slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
+slug: 1983-11-02-a4_krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsya_pod_ego_vliyaniem
+record_id: 1983.11.02.A4
+title: Кришна повелитель закона кармы и только внешне находится под его «влиянием»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6108881
+  duration: 00:05:41
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.mp3
+date: 1983-11-02
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 5,9 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/163_1983.11.02.A4_SridharMj_Krishna_povelitel_zakona_karmy_i_tolko_vneshne_nahoditsja_pod_ego_vlijaniem.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 163. 1983.11.02.A4. Кришна повелитель закона кармы и только внешне
+    находится под его «влиянием»
+  index: "163"
+  filename: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem.md
+  slug: 163-1983-11-02-a4-krishna-povelitel-zakona-karmy-i-tolko-vneshne-nahoditsya-pod-ego-vliyaniem
 ---
-
-# 163. 1983.11.02.A4. Кришна повелитель закона кармы и только внешне находится под его «влиянием»
 
 **Преданный:** Гуру Махарадж, а почему Бог берет на Себя кармические реакции? Как, скажем, Кришна был убит стрелой охотника…
 
@@ -52,7 +61,7 @@ links:
 
 **Преданные:** Да, завтракали
 
-**Шрила Шридхар Махарадж:** Бадринараян Прабху, ты читал вчера письма? *Гуна* — то, что присутствует здесь. *Йога-майя-гуна* присутствует там, на *Голоке.* Это должно быть в Первопричине. То, что мы находим в следствии, должно существовать в оригинале, принимая иную форму. То чего нет в причине, не может возникнуть в следствии, поэтому эти явления должны присутствовать в Первопричине, но в иной форме. Речь идет о Его Милости. Это постижимо, постижимо по Его Милости, только по Его Воле. Все права закреплены за Ним.
+**Шрила Шридхар Махарадж:** Бадринараян Прабху, ты читал вчера письма? *Гуна* — то, что присутствует здесь. *Йога-майя-гуна* присутствует там, на *Голоке*. Это должно быть в Первопричине. То, что мы находим в следствии, должно существовать в оригинале, принимая иную форму. То чего нет в причине, не может возникнуть в следствии, поэтому эти явления должны присутствовать в Первопричине, но в иной форме. Речь идет о Его Милости. Это постижимо, постижимо по Его Милости, только по Его Воле. Все права закреплены за Ним.
 
 *#00:04:33#*
 

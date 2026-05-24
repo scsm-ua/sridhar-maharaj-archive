@@ -1,12 +1,17 @@
 ---
-slug: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru
+slug: 1981-03-10-c6_usloviya_dlya_otverzheniya_guru
+record_id: 1981.03.10.C6
+title: Условия для отвержения гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3256717
+  duration: 00:04:01
+  src: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3
+date: 1981-03-10
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.mp3
     title: аудиозапись в MP3 (4 мин. 00 сек., 3,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/299_1981.03.10.C6_SridharMj_Uslovija_dlja_otverzhenija_guru.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 299. 1981.03.10.C6. Условия для отвержения гуру
+  index: "299"
+  filename: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru.md
+  slug: 299-1981-03-10-c6-usloviya-dlya-otverzheniya-guru
 ---
-
-# 299. 1981.03.10.C6. Условия для отвержения гуру
 
 **Госвами Махарадж:** Есть еще один вопрос. Прежде вы говорили, что возможно такое явление, как отвержение. На какой стадии возможно отвержение человека, преданного?
 

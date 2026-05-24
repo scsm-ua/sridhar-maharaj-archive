@@ -1,14 +1,20 @@
 ---
-slug: 598-1981-03-05-a3-svarupa-siddhi-i-vastu-siddhi
+slug: 1981-03-05-a3_svarupa-siddhi_i_vastu-siddhi
+record_id: 1981.03.05.A3
+title: Сварупа-сиддхи и васту-сиддхи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3131120
+  duration: 00:03:08
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/598_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
+date: 1981-03-05
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/598_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.mp3
     title: аудиозапись в MP3 (3 мин. 07 сек., 3,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/598_1981.03.05.A3_SridharMj_Svarupa-siddhi_i_vastu-siddhi.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 598. 1981.03.05.A3. Сварупа-сиддхи и васту-сиддхи
+  index: "598"
+  filename: 598-1981-03-05-a3-svarupa-siddhi-i-vastu-siddhi.md
+  slug: 598-1981-03-05-a3-svarupa-siddhi-i-vastu-siddhi
 ---
-
-# 598. 1981.03.05.A3. Сварупа-сиддхи и васту-сиддхи
 
 **Госвами Махарадж:** Прабхупада написал одну книгу под названием «Кришна». Это его изложение Десятой песни «Шримад-Бхагаватам», как синопсис, как совокупность описаний. Тот эпизод в *кришна-лиле*, когда Варуна похищает Нанду Махараджа, впоследствии Кришна явил обитателям Вриндавана Голоку… Прабхупада говорит: «Некоторые из спутников Кришны низошли с Ним, а другие впервые увидели Кришну, и Кришна впервые показал им проблеск духовного мира».
 

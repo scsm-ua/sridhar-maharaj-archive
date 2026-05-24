@@ -1,5 +1,13 @@
 ---
 slug: 135-znachenie-imeni-rama-v-maha-mantre-m
+title: Значение имени «Рама» в маха-мантре. Мгновения прекрасной реальности,
+  часть 1.5.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7510872
+  duration: 00:19:43
+  src: /wp-content/uploads/2012/08/135_MgnoveniyaPR_1.5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
@@ -10,13 +18,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/135_MgnoveniyaPR_1.5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
     title: Скачать аудиозапись в mp3 (19 мин 43 сек, размер 7 Мб)
+legacy:
+  title: 135. Значение имени «Рама» в маха-мантре. Мгновения прекрасной
+    реальности, часть 1.5
+  index: "135"
+  filename: 135-znachenie-imeni-rama-v-maha-mantre-m.md
 ---
-
-# 135. Значение имени «Рама» в маха-мантре. Мгновения прекрасной реальности, часть 1.5
 
 **Слушатель:** Махарадж, в Дургапури был один человек, который цитировал «Кали-сантаран-упанишад». Он цитировал оттуда один стих, в котором, я думаю Господь Брахма, утверждает, что в *махамантре*, «Харе Рама Харе Рама» идёт вначале, «Харе Кришна» следует за этим. Он спросил: «Как вы понимаете это в своей философии?».
 

@@ -1,11 +1,18 @@
 ---
 slug: 199-mirozdanie-razvivaetsya-ot-soznaniya
+record_id: 1981.02.28.C2
+title: Мироздание развивается от сознания к материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4219873
+  duration: 00:08:39
+  src: /wp-content/uploads/2012/08/199_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3
+date: 1981-02-28
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Душа
     slug: dusha
   - title: Знание
@@ -14,13 +21,14 @@ tags:
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/199_1981.02.28.C2_SridharMj_Mirozdanie_razvivaetsya_ot_soznaniya_k_materii.mp3
     title: Скачать аудиозапись в mp3 (8 мин 39 сек, размер 4 Мб)
+legacy:
+  title: 199. Мироздание развивается от сознания к материи. 1981.02.28.C2
+  index: "199"
+  filename: 199-mirozdanie-razvivaetsya-ot-soznaniya.md
 ---
-
-# 199. Мироздание развивается от сознания к материи. 1981.02.28.C2
 
 **Шридхар Махарадж:** Он врач? Он занимается наукой
 

@@ -1,14 +1,20 @@
 ---
-slug: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat
+slug: 1982-02-25-c2_obyasnenie_imen_bhakti_vigyan_i_bhakti_vilas_parvat
+record_id: 1982.02.25.C2
+title: Объяснение имен «Бхакти Вигьян» и «Бхакти Вилас Парват»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2936925
+  duration: 00:01:58
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.mp3
+date: 1982-02-25
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.mp3
     title: аудиозапись в MP3 (1 мин. 57 сек., 2,9 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (14 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/403_1982.02.25.C2_SridharMj_Objasnenie_imen_Bhakti_Vigjan_i_Bhakti_Vilas_Parvat.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 403. 1982.02.25.C2. Объяснение имен «Бхакти Вигьян» и «Бхакти Вилас Парват»
+  index: "403"
+  filename: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat.md
+  slug: 403-1982-02-25-c2-obyasnenie-imen-bhakti-vigyan-i-bhakti-vilas-parvat
 ---
-
-# 403. 1982.02.25.C2. Объяснение имен «Бхакти Вигьян» и «Бхакти Вилас Парват»
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 

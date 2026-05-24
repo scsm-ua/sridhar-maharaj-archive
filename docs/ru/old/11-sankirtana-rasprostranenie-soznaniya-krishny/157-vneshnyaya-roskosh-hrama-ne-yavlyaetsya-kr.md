@@ -1,18 +1,26 @@
 ---
 slug: 157-vneshnyaya-roskosh-hrama-ne-yavlyaetsya-kr
+title: Внешняя роскошь храма не является критерием духовности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6403469
+  duration: 00:08:55
+  src: /wp-content/uploads/2012/08/157_2012.07.25.2_SridharMj_Vneshnyaya_roskosh_hrama_ne_yavlyayetsya_kriteriyem_duhovnosti.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
   - title: Джаганнатх
     slug: dzhagannath
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/157_2012.07.25.2_SridharMj_Vneshnyaya_roskosh_hrama_ne_yavlyayetsya_kriteriyem_duhovnosti.mp3
     title: Скачать аудиозапись в mp3 (8 мин 55 сек, размер 6 Мб)
+legacy:
+  title: 157. Внешняя роскошь храма не является критерием духовности.
+  index: "157"
+  filename: 157-vneshnyaya-roskosh-hrama-ne-yavlyaetsya-kr.md
 ---
-
-# 157. Внешняя роскошь храма не является критерием духовности.
 
 **Преданный:** Махарадж, роскошь, деньги… Являются ли они указанием на то, что Кришна удовлетворен или ему должным образом служат в храме, когда храм богато украшен и т.д.
 

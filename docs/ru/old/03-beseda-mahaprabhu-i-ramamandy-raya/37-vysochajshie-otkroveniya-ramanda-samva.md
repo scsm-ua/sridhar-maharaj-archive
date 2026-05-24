@@ -1,24 +1,32 @@
 ---
 slug: 37-vysochajshie-otkroveniya-ramanda-samva
+record_id: 1982.01.11.A
+title: Высочайшие откровения Раманда-самвада
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5281237
+  duration: 00:09:43
+  src: /wp-content/uploads/2012/08/037_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvada.mp3
+date: 1982-01-11
 category:
   title: (03. Беседа Махапрабху и Рамананды Рая)
   slug: 03-beseda-mahaprabhu-i-ramamandy-raya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Рамананда-самвад
     slug: ramananda-samvad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/037_1982.01.11.A_SridharMj_Vysochayshie_otkroveniya_Ramananda_samvada.mp3
     title: Скачать аудиозапись в mp3 (9 мин 43 сек, размер 5 Мб)
+legacy:
+  title: 37. Высочайшие откровения Раманда-самвада. 1982.01.11.А
+  index: "37"
+  filename: 37-vysochajshie-otkroveniya-ramanda-samva.md
 ---
-
-# 37. Высочайшие откровения Раманда-самвада. 1982.01.11.А
 
 *#00:00:00#*
 

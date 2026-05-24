@@ -4,9 +4,12 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/368-1982-02-27-a2-rasprostraniteli-kapel-nektara.md
   - ../../22-sannyasa-otrechenie-ot-mira/397-1983-02-13-b-raznovidnosti-i-filosofskie-aspekty-sannyasy.md
   - ../../22-sannyasa-otrechenie-ot-mira/400-1982-01-04-b2-smysl-sannyasy-dlya-vajshnava-v-kali-yugu.md
-tags:
+  - ../../_full/1982/01/1982.01.04.md
+  - ../../_full/1983/02/1983.02.14.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.13.27
     slug: shrimad-bhagavatam-1-13-27
 ---

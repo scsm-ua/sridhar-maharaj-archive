@@ -1,14 +1,20 @@
 ---
-slug: 231-1982-02-15-b3-gaudiya-kantahara-oruzhie-propovednika
+slug: 1982-02-15-b3_gaudiya-kantahara_oruzhie_propovednika
+record_id: 1982.02.15.B3
+title: «Гаудия-Кантахара» – оружие проповедника
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3967863
+  duration: 00:03:26
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.mp3
+date: 1982-02-15
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Гаудия-Кантахара
     slug: gaudiya-kantahara
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.mp3
     title: аудиозапись в MP3 (3 мин. 25 сек., 3,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/231_1982.02.15.B3_SridharMj_Gaudija-Kantahara--oruzhie_propovednika.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 231. 1982.02.15.B3. «Гаудия-Кантахара» – оружие проповедника
+  index: "231"
+  filename: 231-1982-02-15-b3-gaudiya-kantahara-oruzhie-propovednika.md
+  slug: 231-1982-02-15-b3-gaudiya-kantahara-oruzhie-propovednika
 ---
-
-# 231. 1982.02.15.B3. «Гаудия-Кантахара» – оружие проповедника
 
 Прабхупад собрал из различных писаний «Гаудия-Кантахара» — очень важную книгу для проповедников. Он словно собирал разные виды оружия, чтобы проповедники могли использовать его в своей работе — «Гаудия-Кантахара». И классифицировал это знание: *Гаура-таттва*, *Гуру-таттва*, *Нитьянанда-таттва*, *Шишья-таттва*, *Нама-таттва*, таким образом. Он разделил, и также все необходимые цитаты из различных *шастр* были собраны воедино. Это оружие проповедника. Если человек знает эту книгу, ему известно содержание книги «Гаудия-Кантахара», то у него есть все необходимое для проповеди.
 

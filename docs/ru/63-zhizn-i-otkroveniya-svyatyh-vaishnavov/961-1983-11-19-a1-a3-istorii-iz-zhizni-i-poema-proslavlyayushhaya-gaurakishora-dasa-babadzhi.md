@@ -1,27 +1,39 @@
 ---
-slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
+slug: 1983-11-19-a1-a3_istorii_iz_zhizni_i_poema_proslavlyayushchaya_gaurakishora_dasa_babadzhi
+record_id: 1983.11.19.A1.A3
+title: Истории из жизни и поэма, прославляющая Гауракишора Даса Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 27262119
+  duration: 00:25:24
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
+date: 1983-11-19
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
+links:
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
+    title: аудиозапись в MP3 (25 мин. 23 сек., 26,0 МБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.rtf
+    title: транскрипцию в RTF (196 КБ)
+  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.pdf
+    title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 961. 1983.11.19.A1.A3. Истории из жизни и поэма, прославляющая
+    Гауракишора Даса Бабаджи
+  index: "961"
+  filename: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi.md
+  slug: 961-1983-11-19-a1-a3-istorii-iz-zhizni-i-poema-proslavlyayushhaya-gaurakishora-dasa-babadzhi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 18.142
     slug: shri-chajtanya-charitamrita-madhya-lila-18-142
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.1
     slug: bhakti-rasamrita-sindhu-1-1-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
@@ -30,18 +42,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: Мундака Упанишад
-    slug: mundaka-upanishad
   - title: Мундака Упанишад 2.2.9
     slug: mundaka-upanishad-2-2-9
   - title: Шримад-Бхагаватам 1.2.21
     slug: shrimad-bhagavatam-1-2-21
-  - title: Шри Шримад Гауракишора-намаскара Дашакам
-    slug: shri-shrimad-gaurakishora-namaskara-dashakam
   - title: Шри Шримад Гауракишора-намаскара Дашакам 1
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-1
   - title: Шри Шримад Гауракишора-намаскара Дашакам 3
@@ -54,17 +60,7 @@ tags:
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-7
   - title: Шри Шримад Гауракишора-намаскара Дашакам 9
     slug: shri-shrimad-gaurakishora-namaskara-dashakam-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.mp3
-    title: аудиозапись в MP3 (25 мин. 23 сек., 26,0 МБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.rtf
-    title: транскрипцию в RTF (196 КБ)
-  - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/961_1983.11.19.A1.A3_SridharMj_Istorii_iz_zhizni_i_pojema_proslavljajushhaja_Gaurakishora_Dasa_Babadzhi.pdf
-    title: транскрипцию в PDF (177 КБ)
 ---
-
-# 961. 1983.11.19.A1.A3. Истории из жизни и поэма, прославляющая Гауракишора Даса Бабаджи
 
 Гауракишор Дас Бабаджи Махарадж, который считается Гурудевом нашего Гуру Махараджа, Бхактисиддханты Сарасвати, день его ухода сегодня. Он был родом из округа Фаритпур Восточной Бенгалии, сейчас это Бангладеш. И приблизительно тридцать два года он провел во Вриндаване, вел уединенную жизнь (*бхаджану*). После этого он пришел в Навадвип и жил возле Барал-гхата, возле этого места омовения в *дхармашале*, в комнате, чтобы избежать дурного общения так называемых *сахаджия-вайшнавов* и других людей с мирским умонастроением.
 
@@ -94,7 +90,7 @@ links:
 
 *#00:09:11#*
 
-*Гьяна* — обретение знания, с помощью которого можно достичь спасения от материального рабства — это также не есть *бхакти,* преданность. Преданность предполагает предание себя, отдание, вручение себя Его интересам, это тест. Он для Себя. Тогда это будет преданность в подлинном смысле этого слова: сознание Кришны. Чтение «Бхагаватам» ради «Бхагаватам». Или же мы подчиняем чтение «Бхагаватам» неким мирским целям: с целью заработка или с целью достижения спасения — все это не считается преданностью. Поскольку концепция спасения, освобождения, согласно «Бхагаватам» — это возвращение к нашей позиции слуги и служения, это освобождение в подлинном смысле этого слова, освобождение от мании вечного покоя, бездеятельности. Подлинная жизнь — динамичная, и это жизнь служения. Служение — вклад в целое для Него, все для Него. Это «Бхагаватам», это преданность.
+*Гьяна* — обретение знания, с помощью которого можно достичь спасения от материального рабства — это также не есть *бхакти*, преданность. Преданность предполагает предание себя, отдание, вручение себя Его интересам, это тест. Он для Себя. Тогда это будет преданность в подлинном смысле этого слова: сознание Кришны. Чтение «Бхагаватам» ради «Бхагаватам». Или же мы подчиняем чтение «Бхагаватам» неким мирским целям: с целью заработка или с целью достижения спасения — все это не считается преданностью. Поскольку концепция спасения, освобождения, согласно «Бхагаватам» — это возвращение к нашей позиции слуги и служения, это освобождение в подлинном смысле этого слова, освобождение от мании вечного покоя, бездеятельности. Подлинная жизнь — динамичная, и это жизнь служения. Служение — вклад в целое для Него, все для Него. Это «Бхагаватам», это преданность.
 
 *#00:10:49#*
 

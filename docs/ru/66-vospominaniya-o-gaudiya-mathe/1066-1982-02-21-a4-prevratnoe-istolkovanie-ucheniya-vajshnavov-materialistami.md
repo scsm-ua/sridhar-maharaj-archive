@@ -1,12 +1,17 @@
 ---
-slug: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami
+slug: 1982-02-21-a4_prevratnoe_istolkovanie_ucheniya_vayshnavov_materialistami
+record_id: 1982.02.21.A4
+title: Превратное истолкование учения вайшнавов материалистами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2824008
+  duration: 00:06:33
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
+date: 1982-02-21
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.mp3
     title: аудиозапись в MP3 (6 мин. 32 сек., 2,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1066_1982.02.21.A4_SridharMj_Prevratnoye_istolkovaniye_ucheniya_vaishnavov_materialistami.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 1066. 1982.02.21.A4. Превратное истолкование учения вайшнавов материалистами
+  index: "1066"
+  filename: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami.md
+  slug: 1066-1982-02-21-a4-prevratnoe-istolkovanie-ucheniya-vajshnavov-materialistami
 ---
-
-# 1066. 1982.02.21.A4. Превратное истолкование учения вайшнавов материалистами
 
 *Мгновения Прекрасной Реальности (часть 1.4)*
 

@@ -1,13 +1,30 @@
 ---
-slug: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad
+slug: 1982-01-01-a2_sarasvati_thakur_i_lalit_prasad
+record_id: 1982.01.01.A2
+title: Сарасвати Тхакур и Лалит Прасад
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7627023
+  duration: 00:14:38
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3
+date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
+links:
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3
+    title: аудиозапись в MP3 (14 мин. 38 сек., 7,3 МБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.docx
+    title: транскрипцию в DOCX (27 КБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.pdf
+    title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 1035. 1982.01.01.A2. Сарасвати Тхакур и Лалит Прасад
+  index: "1035"
+  filename: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad.md
+  slug: 1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad
 tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.3
     slug: bhagavad-gita-7-3
   - title: Бхагавад-гита 7.19
@@ -16,31 +33,15 @@ tags:
     slug: bhagavad-gita-6-46
   - title: Бхагавад-гита 6.47
     slug: bhagavad-gita-6-47
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.mp3
-    title: аудиозапись в MP3 (14 мин. 38 сек., 7,3 МБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.docx
-    title: транскрипцию в DOCX (27 КБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1035_1982.01.01.A2_SridharMj_Sarasvati_Thakur_i_Lalit_Prasad.pdf
-    title: транскрипцию в PDF (162 КБ)
 ---
-
-# 1035. 1982.01.01.A2. Сарасвати Тхакур и Лалит Прасад
 
 Сразу же после ухода Гуру Махараджа генеральный секретарь пожелал, чтобы я поехал [в Калькуттский *матх*]. Я помню, что чувствовал себя инвалидом, но все же поехал в Калькутту. И когда мы прибыли на станцию Ранагхат, я увидел там Лалита Прасада[^_ftn1], он прогуливался по платформе. Кто-то сказал мне: «Лалита Бабу здесь!», и я взглянул на него, то было в первый раз, я видел его впервые. Впоследствии я видел его еще один раз, я видел его два раза в жизни. Он был холостяк, занимался правительственной службой. Затем он ушел в отставку и открыл *ашрам*.
 

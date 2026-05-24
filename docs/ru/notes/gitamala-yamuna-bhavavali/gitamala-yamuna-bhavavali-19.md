@@ -6,9 +6,16 @@ refs:
   - ../../56-samootricanie/853-1982-05-01-a1-samootritsanie-i-pokornost-predannym-metod-obrashheniya-k-gospodu.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1009-1984-01-08-b5-revolyutsionnyj-metod-propovedi-shrily-sarasvati-thakura.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1033-1983-02-27-b2-ponimanie-duhovnyh-istin-obretaetsya-na-protyazhenii-mnogih-zhiznej.md
-tags:
+  - ../../_full/1982/01/1982.01.26.md
+  - ../../_full/1982/10/1982.10.25.A.md
+  - ../../_full/1982/11/1982.11.27.B.md
+  - ../../_full/1982/12/1982.12.28.B.C.md
+  - ../../_full/1983/08/1983.08.28.B.C.md
+  - ../../_full/1984/01/1984.01.08.md
+scriptures:
   - title: «Гитамала», Ямуна-бхававали
     slug: gitamala-yamuna-bhavavali
+verses:
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
 ---
@@ -16,6 +23,10 @@ tags:
 # «Гитамала», Ямуна-бхававали 19
 
 Шрила Бхактивинод Тхакур, («Гитамала», Ямуна-бхававали, 19).
+
+---
+
+(Шрила Бхактивинод Тхакур, «Гитамала», Ямуна-бхававали, 19).
 
 ---
 

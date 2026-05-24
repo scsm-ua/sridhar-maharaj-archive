@@ -1,22 +1,30 @@
 ---
 slug: 452-shrila-shridhar-maharadzh-o-svoem-zhizne
+record_id: 1983.01.07.B2
+title: Шрила Шридхар Махарадж о своем жизненном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4973882
+  duration: 00:09:11
+  src: /wp-content/uploads/2012/08/452_1983.01.07.B2_SridharMj_O_svoyom_jiznennom_puti.mp3
+date: 1983-01-07
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Гаудия-матх
     slug: gaudiya-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/452_1983.01.07.B2_SridharMj_O_svoyom_jiznennom_puti.mp3
     title: Скачать аудиозапись в mp3 (5 мин 11 сек, размер 5 Мб)
+legacy:
+  title: 452. Шрила Шридхар Махарадж о своем жизненном пути. 1983.01.07.B2
+  index: "452"
+  filename: 452-shrila-shridhar-maharadzh-o-svoem-zhizne.md
 ---
-
-# 452. Шрила Шридхар Махарадж о своем жизненном пути. 1983.01.07.B2
 
 Махарадж, а можно я задам Вам личный вопрос? Я надеюсь, что это не слишком личный вопрос. Связанный лично с Вами. Скажите, был ли период в Вашей жизни, когда Вы находились на интеллектуальном уровне? А в последствии Вы пришли к бхакти. Или на протяжении всей жизни Вы были привержены бхакти?
 

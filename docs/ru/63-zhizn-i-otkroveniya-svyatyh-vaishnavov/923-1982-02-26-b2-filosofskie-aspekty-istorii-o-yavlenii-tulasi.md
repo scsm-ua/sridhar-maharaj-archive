@@ -1,12 +1,17 @@
 ---
-slug: 923-1982-02-26-b2-filosofskie-aspekty-istorii-o-yavlenii-tulasi
+slug: 1982-02-26-b2_filosofskie_aspekty_istorii_o_yavlenii_tulasi
+record_id: 1982.02.26.B2
+title: Философские аспекты истории о явлении Туласи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6766653
+  duration: 00:04:03
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.mp3
+date: 1982-02-26
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.mp3
     title: аудиозапись в MP3 (4 мин. 02 сек., 6,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (16 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/923_1982.02.26.B2_SridharMj_Filosofskie_aspekty_istorii_o_javlenii_Tulasi.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 923. 1982.02.26.B2. Философские аспекты истории о явлении Туласи
+  index: "923"
+  filename: 923-1982-02-26-b2-filosofskie-aspekty-istorii-o-yavlenii-tulasi.md
+  slug: 923-1982-02-26-b2-filosofskie-aspekty-istorii-o-yavlenii-tulasi
 ---
-
-# 923. 1982.02.26.B2. Философские аспекты истории о явлении Туласи
 
 **Преданный:** Махарадж, я слышал, что Туласи явилась как дева и вышла замуж за демона по имени Шанкхасура, а потом он оставил ее. Это правда?
 

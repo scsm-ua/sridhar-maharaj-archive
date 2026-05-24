@@ -1,18 +1,26 @@
 ---
 slug: 402-tolko-bhakti-mozhet-porodit-bhakti
+title: Только бхакти может породить бхакти
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1642322
+  duration: 00:04:44
+  src: /wp-content/uploads/2012/08/402_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
 category:
   title: (35. Бхакти - преданность Шри Кришне)
   slug: 35-bhakti-predannost-shri-krishne
 tags:
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/402_2012.07.25.13_ShridharMj_Tolko_bhakti_mojet_porodit_bhakti.mp3
     title: Скачать аудиозапись в mp3 (4 мин 44 сек, размер 1 Мб)
+legacy:
+  title: 402. Только бхакти может породить бхакти
+  index: "402"
+  filename: 402-tolko-bhakti-mozhet-porodit-bhakti.md
 ---
-
-# 402. Только бхакти может породить бхакти
 
 *#00:00:00#*
 

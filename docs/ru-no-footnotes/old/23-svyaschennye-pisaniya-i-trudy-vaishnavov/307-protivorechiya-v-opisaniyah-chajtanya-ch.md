@@ -1,24 +1,33 @@
 ---
 slug: 307-protivorechiya-v-opisaniyah-chajtanya-ch
+record_id: 1982.01.17.B1
+title: Противоречия в описаниях «Чайтанья-чаритамриты» и «Чайтанья-бхагаваты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7419413
+  duration: 00:14:14
+  src: /wp-content/uploads/2012/08/307_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
+date: 1982-01-17
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Священные писания
     slug: svyashhennye-pisaniya
   - title: Чайтанья-бхагавата
     slug: chajtanya-bhagavata
   - title: Чайтанья-чаритамрита
     slug: chajtanya-charitamrita
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/307_1982.01.17.B1_SridharMj_Protivorechiya_v_opisaniyah_Chaytanya-Charitamrity_i_Chaitanya-bhagavaty.mp3
     title: Скачать аудиозапись в mp3 (14 мин 14 сек, размер 7 Мб)
+legacy:
+  title: 307. Противоречия в описаниях «Чайтанья-чаритамриты» и
+    «Чайтанья-бхагаваты». 1982.01.17.B1
+  index: "307"
+  filename: 307-protivorechiya-v-opisaniyah-chajtanya-ch.md
 ---
-
-# 307. Противоречия в описаниях «Чайтанья-чаритамриты» и «Чайтанья-бхагаваты». 1982.01.17.B1
 
 На следующий день (это будет завтра утром) Шачидеви пришла в Шантипур. И на протяжении десяти дней Махапрабху жил там и удовлетворил Свою мать и остальных друзей. Затем Он отправился в Пури. И здесь мы находим различие в описаниях «Чайтанья-Бхагаваты» и «Чайтанья-чаритамриты».
 

@@ -1,12 +1,17 @@
 ---
-slug: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty
+slug: 1982-05-10-b2_evropeyskie_filosofy-materialisty_i_idealisty
+record_id: 1982.05.10.B2
+title: Европейские философы-материалисты и идеалисты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6289063
+  duration: 00:05:35
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3
+date: 1982-05-10
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 6,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/641_1982.05.10.B2_SridharMj_Evropejskie_filosofy-materialisty_i_idealisty.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 641. 1982.05.10.B2. Европейские философы-материалисты и идеалисты
+  index: "641"
+  filename: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty.md
+  slug: 641-1982-05-10-b2-evropejskie-filosofy-materialisty-i-idealisty
 ---
-
-# 641. 1982.05.10.B2. Европейские философы-материалисты и идеалисты
 
 Мы скажем: «О, я пытался изо всех сил, жизнь за жизнью, я пытался зажать Его в кулаке, но не смог. О, все это ложно. Нет Бога, Бога нет».
 

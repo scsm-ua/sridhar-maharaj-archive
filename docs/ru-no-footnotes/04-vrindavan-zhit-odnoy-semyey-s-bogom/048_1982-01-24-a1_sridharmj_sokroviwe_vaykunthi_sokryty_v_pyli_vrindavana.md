@@ -1,16 +1,22 @@
 ---
-slug: 048_1982-01-24-a1_sridharmj_sokroviwe_vaykunthi_sokryty_v_pyli_vrindavana
+slug: 1982-01-24-a1_sokrovishcha_vaykunthi_sokryty_v_pyli_vrindavana
+record_id: 1982.01.24.A1
+title: Сокровища Вайкунтхи сокрыты в пыли Вриндавана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7970973
+  duration: 00:15:18
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
+date: 1982-01-24
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вриндаван
     slug: vrindavan
   - title: Духовный мир
     slug: duhovnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.mp3
     title: аудиозапись в MP3 (15 мин. 18 сек., 64 кбит/сек, 7.6 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/048_1982.01.24.A1_SridharMj_Sokroviwe_Vaykunthi_sokryty_v_pyli_Vrindavana.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 048. 1982.01.24.A1 Сокровища Вайкунтхи сокрыты в пыли Вриндавана
+  index: "048"
+  filename: 048_1982-01-24-a1_sridharmj_sokroviwe_vaykunthi_sokryty_v_pyli_vrindavana.md
+  slug: 048_1982-01-24-a1_sridharmj_sokroviwe_vaykunthi_sokryty_v_pyli_vrindavana
 ---
-
-# 048. 1982.01.24.A1 Сокровища Вайкунтхи сокрыты в пыли Вриндавана
 
 Сознание подобного качества низошло и пленило мое сознательное существование. Я мог чувствовать, что это Высшее начало, и Оно пленило, окружило меня со всех сторон. В то время я подумал: неужели эта *пушпа-ратха* — колесница, которая отвозит благословенные души в высшую обитель, — неужели подобная колесница спустилась? Если мое тело умрет сейчас, то я пленен, все мое существование пленено этой святой атмосферой, святым и высшим сознанием, подобной атмосферой, если мое тело сейчас умре, то эта колесница отвезет меня куда угодно, я беспомощен.
 

@@ -1,22 +1,30 @@
 ---
 slug: 71-mnogomernost-uchastnikov-krishna-lil
+record_id: 1982.01.29.B2
+title: Многомерность участников кришна-лилы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7955550
+  duration: 00:15:10
+  src: /wp-content/uploads/2012/08/071_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
+date: 1982-01-29
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/071_1982.01.29.B2_SridharMj_Mnogomernost_uchastnikov_krishna-lily.mp3
     title: Скачать аудиозапись в mp3 (15 мин 10 сек, размер 8 Мб)
+legacy:
+  title: 71. Многомерность участников кришна-лилы. 1982.01.29.B2
+  index: "71"
+  filename: 71-mnogomernost-uchastnikov-krishna-lil.md
 ---
-
-# 71. Многомерность участников кришна-лилы. 1982.01.29.B2
 
 **Ученик:** Вчера я читал «Кришна-сандарбху» и там в переводе Йати Махараджа говорится, что Деваки и Васудева были амша-авишта, и они были воплощениями двух личностей – Кришни и Сутапы. Деваки и Васудева были авишта, амша-авишта, частичными проявлениями этих двух личностей, Кришни и Сутапы.
 

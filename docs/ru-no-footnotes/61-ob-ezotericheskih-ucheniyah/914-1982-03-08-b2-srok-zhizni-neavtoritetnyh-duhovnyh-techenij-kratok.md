@@ -1,12 +1,17 @@
 ---
-slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+slug: 1982-03-08-b2_srok_zhizni_neavtoritetnyh_duhovnyh_techeniy_kratok
+record_id: 1982.03.08.B2
+title: Срок жизни неавторитетных духовных течений краток
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3595043
+  duration: 00:02:56
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
+date: 1982-03-08
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
     title: аудиозапись в MP3 (2 мин. 56 сек., 3,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (19 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
+  index: "914"
+  filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
+  slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
 ---
-
-# 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
 
 Есть еще одна шлока в «Нарада-панчаратре» или в аналогичном произведении:
 

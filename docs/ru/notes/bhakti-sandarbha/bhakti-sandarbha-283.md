@@ -7,9 +7,16 @@ refs:
   - ../../51-filosofiya-i-praktika-bhakti-yogi/790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1047-1982-01-13-b3-gaudiya-vajshnavy-schitayut-bozhestvo-neotlichnym-ot-gospoda.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1117-1983-05-23-a1-obsuzhdenie-knigi-shri-guru-i-ego-milost.md
-tags:
+  - ../../_full/1982/01/1982.01.04.C.md
+  - ../../_full/1982/01/1982.01.13.B.md
+  - ../../_full/1982/02/1982.02.15.md
+  - ../../_full/1983/01/1983.01.25.md
+  - ../../_full/1983/01/1983.01.31.md
+  - ../../_full/1983/05/1983.05.23.md
+scriptures:
   - title: Бхакти-сандарбха
     slug: bhakti-sandarbha
+verses:
   - title: Бхакти-сандарбха 283
     slug: bhakti-sandarbha-283
 ---

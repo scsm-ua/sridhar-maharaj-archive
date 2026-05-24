@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-9-32
 refs:
   - ../../19-maha-mantra-svyatoe-imya/337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.32
     slug: shri-chajtanya-charitamrita-madhya-lila-9-32
 ---

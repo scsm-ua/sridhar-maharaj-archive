@@ -1,5 +1,12 @@
 ---
 slug: 241-mir-gde-pravit-krasota
+title: Мир, где правит Красота
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4067976
+  duration: 00:16:53
+  src: /wp-content/uploads/2012/08/241_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
@@ -8,13 +15,14 @@ tags:
     slug: garmoniya
   - title: Красота
     slug: krasota
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/241_2012.07.27.4_SridharMj_Mir_gde_pravit_krasota.mp3
     title: Скачать аудиозапись в mp3 (16 мин 53 сек, размер 4 Мб)
+legacy:
+  title: 241. Мир, где правит Красота
+  index: "241"
+  filename: 241-mir-gde-pravit-krasota.md
 ---
-
-# 241. Мир, где правит Красота
 
 Виласа. Игры Господа безграничны. Они включают в себя все. Необходим баланс, гармония. Например, в музыке музыкальная концепция высочайшего порядка – это то, что может объединить гармонично самые разные инструменты, самые разные звуки, разные виды музыки. В чем ценность гармонии?
 

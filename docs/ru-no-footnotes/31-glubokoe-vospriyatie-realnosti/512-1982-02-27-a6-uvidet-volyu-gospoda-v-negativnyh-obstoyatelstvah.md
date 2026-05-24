@@ -1,12 +1,17 @@
 ---
-slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
+slug: 1982-02-27-a6_uvidet_volyu_gospoda_v_negativnyh_obstoyatelstvah
+record_id: 1982.02.27.A6
+title: Увидеть волю Господа в негативных обстоятельствах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7717760
+  duration: 00:14:43
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
+date: 1982-02-27
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.mp3
     title: аудиозапись в MP3 (14 мин. 43 сек., 7,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (114 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/512_1982.02.27.A6_SridharMj_Uvidet_volyu_Gospoda_v_negativnyh_obstoyatelstvah.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
+  index: "512"
+  filename: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
+  slug: 512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah
 ---
-
-# 512. 1982.02.27.A6. Увидеть волю Господа в негативных обстоятельствах
 
 Онтология Прекрасной Реальности (часть 2.6)
 

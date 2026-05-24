@@ -1,12 +1,17 @@
 ---
-slug: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu
+slug: 1982-01-03-b2_gauridas_pandit_subal_sakha_v_gaura-lile_razlichnye_formy_bozhestv_mahaprabhu
+record_id: 1982.01.03.B2
+title: Гауридас Пандит – Субал Сакха в гаура-лиле. Различные формы Божеств Махапрабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10816680
+  duration: 00:16:32
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.mp3
+date: 1982-01-03
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.mp3
     title: аудиозапись в MP3 (16 мин. 31 сек., 10,4 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (127 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/939_1982.01.03.B2_SridharMj_Gauridas_Pandit__Subal_Sakha_v_gaura-lile_Razlichnye_formy_Bozhestv_Mahaprabhu.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 939. 1982.01.03.B2. Гауридас Пандит – Субал Сакха в гаура-лиле. Различные
+    формы  Божеств Махапрабху
+  index: "939"
+  filename: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu.md
+  slug: 939-1982-01-03-b2-gauridas-pandit-subal-sakha-v-gaura-lile-razlichnye-formy-bozhestv-mahaprabhu
 ---
-
-# 939. 1982.01.03.B2. Гауридас Пандит – Субал Сакха в гаура-лиле. Различные формы  Божеств Махапрабху
 
 **Преданный:** Игра, связанная с Гауридасом Пандитом, преданным Господа Чайтаньи: говорят, что его Божества Гаура-Нитай были сделаны в присутствии Господа Чайтаньи и Нитьянанды Прабху. Вы не могли бы рассказать об этом?
 
@@ -52,7 +61,7 @@ links:
 
 *#00:09:24#*
 
-*Бхава* в *ватсалья-расе* — ее переживает Яшода, в *сакхья-расе* — Субал, *бхава-даша*. Практически отсутствует сознание. Состояние ошеломления, растерянности — такая стадия, когда человек переполнен экстатическими чувствами, он выполняет свой долг, но не помня себя. *Бхава*, *махабхава.*
+*Бхава* в *ватсалья-расе* — ее переживает Яшода, в *сакхья-расе* — Субал, *бхава-даша*. Практически отсутствует сознание. Состояние ошеломления, растерянности — такая стадия, когда человек переполнен экстатическими чувствами, он выполняет свой долг, но не помня себя. *Бхава*, *махабхава*.
 
 [Обрыв записи]
 

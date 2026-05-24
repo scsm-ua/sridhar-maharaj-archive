@@ -1,24 +1,17 @@
 ---
-slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
+slug: 1981-11-12-a2-2-a2-4_dzhi-bi-si_vaykunthi_bhakti_rakshak_strazh_u_vrat
+record_id: 1981.11.12.A2.2.A2.4
+title: Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2547116
+  duration: 00:03:32
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3
+date: 1981-11-12
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1981.11"
-    slug: 1981-11
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 5
-    slug: shri-shikshashtakam-5
-  - title: Сарвасва томара
-    slug: sarvasva-tomara
-  - title: Сарвасва томара 2
-    slug: sarvasva-tomara-2
-  - title: Шаранагати
-    slug: sharanagati
-  - title: Шаранагати 3
-    slug: sharanagati-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.mp3
     title: аудиозапись в MP3 (3 мин. 31 сек., 2,5 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/988_1981.11.12.A2.2.A2.4_SridharMj_Dzhi-bi-si_Vajkunthi_Bhakti_Rakshak--strazh_u_vrat.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 988. 1981.11.12.A2.2.A2.4. Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат
+  index: "988"
+  filename: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat.md
+  slug: 988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat
+tags:
+  - title: Шри Шикшаштакам 5
+    slug: shri-shikshashtakam-5
+  - title: Сарвасва томара 2
+    slug: sarvasva-tomara-2
+  - title: Шаранагати 3
+    slug: sharanagati-3
 ---
-
-# 988. 1981.11.12.A2.2.A2.4. Джи-би-си Вайкунтхи. Бхакти Ракшак – страж у врат
 
 **Преданный:** Я думаю, что вот каждый из нас является Джи-би-си какой-либо зоны, но вы являетесь Джи-би-си зоны Вайкунтхи.
 

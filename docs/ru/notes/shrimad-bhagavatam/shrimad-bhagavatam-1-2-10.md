@@ -3,9 +3,12 @@ slug: shrimad-bhagavatam-1-2-10
 refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/501-1982-11-05-b2-kommentarij-k-chatur-shloke-shrimad-bhagvatam-2-9-33-36.md
   - ../../33-dharma-uchenie-o-dolge/534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
-tags:
+  - ../../_full/1981/10/1981.10.03.A.B.md
+  - ../../_full/1983/07/1983.07.08.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.2.10
     slug: shrimad-bhagavatam-1-2-10
 ---

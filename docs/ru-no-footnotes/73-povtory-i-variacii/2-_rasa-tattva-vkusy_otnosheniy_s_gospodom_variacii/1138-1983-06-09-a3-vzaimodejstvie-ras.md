@@ -1,12 +1,17 @@
 ---
-slug: 1138-1983-06-09-a3-vzaimodejstvie-ras
+slug: 1983-06-09-a3_vzaimodeystvie_ras
+record_id: 1983.06.09.A3
+title: Взаимодействие рас
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5737900
+  duration: 00:09:12
+  src: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
+date: 1983-06-09
 category:
   title: 2. Раса-таттва — вкусы отношений с Господом (вариации)
   slug: 2-_rasa-tattva-vkusy_otnosheniy_s_gospodom_variacii
-tags:
-  - title: "1983.06"
-    slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
     title: аудиозапись в MP3 (9 мин. 12 сек., 5,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/73._Povtory_i_variacii/2._Rasa-tattva--vkusy_otnosheniy_s_Gospodom_(variacii)/1138_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 1138. 1983.06.09.A3. Взаимодействие рас
+  index: "1138"
+  filename: 1138-1983-06-09-a3-vzaimodejstvie-ras.md
+  slug: 1138-1983-06-09-a3-vzaimodejstvie-ras
 ---
-
-# 1138. 1983.06.09.A3. Взаимодействие рас
 
 **Преданный:** Гуру Махарадж, если кто-то испытывает привязанность к *рама-лиле*, может ли он культивировать это настроение или должен отвергнуть его и стараться культивировать настроение к *чайтанья-лиле*, *кришна-лиле*?
 

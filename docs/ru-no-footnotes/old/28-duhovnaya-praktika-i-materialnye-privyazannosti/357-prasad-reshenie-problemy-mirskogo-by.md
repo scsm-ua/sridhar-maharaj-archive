@@ -1,20 +1,28 @@
 ---
 slug: 357-prasad-reshenie-problemy-mirskogo-by
+record_id: 1982.09.05.B2
+title: Прасад — решение проблемы мирского бытия
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2259477
+  duration: 00:02:22
+  src: /wp-content/uploads/2012/08/357_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
+date: 1982-09-05
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
-  - title: "1982.09"
-    slug: 1982-09
   - title: Прасад
     slug: prasad
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/357_1982.09.05.B2_SridharMj_Prasad-reshenie_problemy_mirskogo_bytiya.mp3
     title: Скачать аудиозапись в mp3 (2 мин 22 сек, размер 2 Мб)
+legacy:
+  title: 357. Прасад — решение проблемы мирского бытия. 1982.09.05.B2
+  index: "357"
+  filename: 357-prasad-reshenie-problemy-mirskogo-by.md
 ---
-
-# 357. Прасад — решение проблемы мирского бытия. 1982.09.05.B2
 
 **Ученик:** Слушая вас, мы наполняемся энергией, но мы боимся, что вы от общения с нами что-то теряете.
 

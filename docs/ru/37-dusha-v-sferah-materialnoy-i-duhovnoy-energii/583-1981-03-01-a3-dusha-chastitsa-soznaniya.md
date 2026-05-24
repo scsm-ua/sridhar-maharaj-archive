@@ -1,14 +1,20 @@
 ---
-slug: 583-1981-03-01-a3-dusha-chastitsa-soznaniya
+slug: 1981-03-01-a3_dusha_chastitsa_soznaniya
+record_id: 1981.03.01.A3
+title: Душа — частица сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4276746
+  duration: 00:05:31
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/583_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
+date: 1981-03-01
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/583_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.mp3
     title: аудиозапись в MP3 (5 мин. 30 сек., 4,1 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/583_1981.03.01.A3_SridharMj_Dusha_chastica_soznaniya.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 583. 1981.03.01.A3. Душа — частица сознания
+  index: "583"
+  filename: 583-1981-03-01-a3-dusha-chastitsa-soznaniya.md
+  slug: 583-1981-03-01-a3-dusha-chastitsa-soznaniya
 ---
-
-# 583. 1981.03.01.A3. Душа — частица сознания
 
 Существуют различные типы форм жизни, и процессы могут быть разными, но это не имеет значения. В целом какие именно индивидуальные особенности… *Атма* — душа, без души ничто не может быть утверждено или проявиться в бытии. *Атма*…
 

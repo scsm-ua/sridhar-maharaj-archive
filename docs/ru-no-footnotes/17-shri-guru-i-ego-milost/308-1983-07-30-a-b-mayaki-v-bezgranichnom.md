@@ -1,14 +1,20 @@
 ---
-slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
+slug: 1983-07-30-a-b_mayaki_v_bezgranichnom
+record_id: 1983.07.30.A.B
+title: Маяки в Безграничном
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23421992
+  duration: 00:46:01
+  src: /dl/17._Shri_Guru_i_ego_milost/308_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
+date: 1983-07-30
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/308_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
     title: аудиозапись в MP3 (46 мин. 01 сек., 22,4 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (296 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/308_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.pdf
     title: транскрипцию в PDF (195 КБ)
+legacy:
+  title: 308. 1983.07.30.A.B. Маяки в Безграничном
+  index: "308"
+  filename: 308-1983-07-30-a-b-mayaki-v-bezgranichnom.md
+  slug: 308-1983-07-30-a-b-mayaki-v-bezgranichnom
 ---
-
-# 308. 1983.07.30.A.B. Маяки в Безграничном
 
 **Преданный: [читает стихи на санскрите].**
 

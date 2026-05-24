@@ -1,12 +1,17 @@
 ---
-slug: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami
+slug: 1982-01-19-b2_molitva_raghunatha_dasa_gosvami
+record_id: 1982.01.19.B2
+title: Молитва Рагхунатха даса Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17481246
+  duration: 00:35:37
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
+date: 1982-01-19
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.mp3
     title: аудиозапись в MP3 (35 мин. 37 сек., 16,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/462_1982.01.19.B2_SridharMj_Molitva_Raghunatha_Dasa_Goswami.pdf
     title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 462. 1982.01.19.B2. Молитва Рагхунатха даса Госвами
+  index: "462"
+  filename: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami.md
+  slug: 462-1982-01-19-b2-molitva-raghunatha-dasa-gosvami
 ---
-
-# 462. 1982.01.19.B2. Молитва Рагхунатха даса Госвами
 
 **Акшаянанда Махарадж:** Махарадж, хотя внешне кажется, что Рагхунатх Дас [Госвами] ответственен за *садхану*, что он действует как *садхака*, тем не менее, он дает *прайоджану*. Он как будто бы действует на самом простом уровне.
 

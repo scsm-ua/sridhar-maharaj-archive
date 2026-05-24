@@ -1,14 +1,20 @@
 ---
-slug: 438-1982-05-06-b3-stat-slugoj-slugi-olitsetvorennyh-krasoty-i-lyubvi
+slug: 1982-05-06-b3_stat_slugoy_slugi_olitsetvorennyh_krasoty_i_lyubvi
+record_id: 1982.05.06.B3
+title: Стать слугой слуги олицетворенных Красоты и Любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6019855
+  duration: 00:05:37
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/438_1982.05.06.B3_SridharMj_Stat_slugoj_slugi_olicetvorennyh_Krasoty_i_Ljubvi.mp3
+date: 1982-05-06
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/438_1982.05.06.B3_SridharMj_Stat_slugoj_slugi_olicetvorennyh_Krasoty_i_Ljubvi.mp3
     title: аудиозапись в MP3 (5 мин. 36 сек., 5,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/438_1982.05.06.B3_SridharMj_Stat_slugoj_slugi_olicetvorennyh_Krasoty_i_Ljubvi.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 438. 1982.05.06.B3. Стать слугой слуги олицетворенных Красоты и Любви
+  index: "438"
+  filename: 438-1982-05-06-b3-stat-slugoj-slugi-olitsetvorennyh-krasoty-i-lyubvi.md
+  slug: 438-1982-05-06-b3-stat-slugoj-slugi-olitsetvorennyh-krasoty-i-lyubvi
 ---
-
-# 438. 1982.05.06.B3. Стать слугой слуги олицетворенных Красоты и Любви
 
 Он привлекает к Себе всех, подобно тому, как солнце привлекает планеты, небесные тела, земля привлекает множество разных объектов, и речь идет о влечении. Это универсальное качество вещей — способность привлекать к себе, влечь — это универсальное и самое изначальное первичное качество. Мы находим это в Нем — привлекательность. Физическую гравитацию мы находим здесь, в этом мире, на поверхности, но внутренняя гравитация — привлекательность — это нечто живое, это любовь, это нежность, когда физическая гравитация наделена жизнью, когда речь идет о живом влечении. Физическая гравитация — это притяжение или влечение материальных объектов: один объект привлекает другие объекты. Но когда речь идет о душе, о духовной Субстанции, которая привлекает к Себе другие духовные субстанции, то это любовь, это нежность.
 

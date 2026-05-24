@@ -2,9 +2,10 @@
 slug: shad-gosvami-ashtaka-2
 refs:
   - ../../59-uchenie-vaishnavov-mayavada-i-buddizm/891-1981-03-05-a1-istinnyj-smysl-vedanty-prabodhananda-i-prakashananda.md
-tags:
+scriptures:
   - title: Шад-Госвами-аштака
     slug: shad-gosvami-ashtaka
+verses:
   - title: Шад-Госвами-аштака 2
     slug: shad-gosvami-ashtaka-2
 ---

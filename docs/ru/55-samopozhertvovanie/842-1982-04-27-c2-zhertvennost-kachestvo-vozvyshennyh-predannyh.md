@@ -1,22 +1,24 @@
 ---
-slug: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh
+slug: 1982-04-27-c2_zhertvennost_kachestvo_vozvyshennyh_predannyh
+record_id: 1982.04.27.C2
+title: Жертвенность – качество возвышенных преданных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8244131
+  duration: 00:07:31
+  src: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3
+date: 1982-04-27
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Самопредание
     slug: samopredanie
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 8
     slug: shri-nama-mahatmya-8
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.mp3
     title: аудиозапись в MP3 (7 мин. 30 сек., 7,9 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (103 КБ)
   - href: /dl/55._Samopozhertvovanie/842_1982.04.27.C2_SridharMj_Zhertvennost--kachestvo_vozvyshennyh_predannyh.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 842. 1982.04.27.C2. Жертвенность – качество возвышенных преданных
+  index: "842"
+  filename: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh.md
+  slug: 842-1982-04-27-c2-zhertvennost-kachestvo-vozvyshennyh-predannyh
 ---
-
-# 842. 1982.04.27.C2. Жертвенность – качество возвышенных преданных
 
 **Преданный:** У нас есть множество вопросов, которые мы хотели бы вам задать, но мы не хотим вас задерживать: вы уже одарили нас великой милостью. Мы не хотим задерживать вас.
 

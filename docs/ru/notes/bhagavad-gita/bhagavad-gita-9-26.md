@@ -2,9 +2,12 @@
 slug: bhagavad-gita-9-26
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/784-1983-01-05-a1-pochemu-vajshnavy-ne-ispolzuyut-misticheskuyu-jogu.md
-tags:
+  - ../../_full/1983/01/1983.01.05.md
+  - ../../_full/1983/09/1983.09.22.C.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.26
     slug: bhagavad-gita-9-26
 ---

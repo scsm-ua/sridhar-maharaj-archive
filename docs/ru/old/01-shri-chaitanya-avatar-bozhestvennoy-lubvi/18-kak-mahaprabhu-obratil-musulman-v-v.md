@@ -1,20 +1,28 @@
 ---
 slug: 18-kak-mahaprabhu-obratil-musulman-v-v
+record_id: 1983.01.12.A1
+title: Как Махапрабху обратил мусульман в вайшнавов?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4485158
+  duration: 00:09:03
+  src: /wp-content/uploads/2012/08/018_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
+date: 1983-01-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/018_1983.01.12.A1_SridharMj_Kak_Mahaprabhu_obratil_musulman_v_vaishnavov.mp3
     title: Скачать аудиозапись в mp3 (9 мин 3 сек, размер 4 Мб)
+legacy:
+  title: 18. Как Махапрабху обратил мусульман в вайшнавов? 1983.01.12.A1
+  index: "18"
+  filename: 18-kak-mahaprabhu-obratil-musulman-v-v.md
 ---
-
-# 18. Как Махапрабху обратил мусульман в вайшнавов? 1983.01.12.A1
 
 *#00:00:00#*
 

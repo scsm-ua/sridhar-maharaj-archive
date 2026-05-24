@@ -1,29 +1,38 @@
 ---
-slug: 055_1983-02-06-b_sridharmj_ontologiya_lubvi
+slug: 1983-02-06-b_ontologiya_lyubvi
+record_id: 1983.02.06.B
+title: Онтология любви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10394048
+  duration: 00:16:20
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
+date: 1983-02-06
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
+links:
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
+    title: аудиозапись в MP3 (16 мин. 20 сек., 64 кбит/сек, 9.9 МБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.rtf
+    title: транскрипцию в RTF (125 КБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.pdf
+    title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 055. 1983.02.06.B Онтология любви
+  index: "055"
+  filename: 055_1983-02-06-b_sridharmj_ontologiya_lubvi.md
+  slug: 055_1983-02-06-b_sridharmj_ontologiya_lubvi
 tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
     slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
     slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 1.18.6
     slug: kalyana-kalpataru-1-18-6
   - title: Кальяна-калпатару 1.19.1
@@ -34,17 +43,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.mp3
-    title: аудиозапись в MP3 (16 мин. 20 сек., 64 кбит/сек, 9.9 МБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.rtf
-    title: транскрипцию в RTF (125 КБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/055_1983.02.06.B_SridharMj_Ontologiya_lubvi.pdf
-    title: транскрипцию в PDF (161 КБ)
 ---
-
-# 055. 1983.02.06.B Онтология любви
 
 «…способны компенсировать все, что угодно, поэтому мы ни о ком не заботимся. Но мы желаем знать, кто действительно самый любимый Кришны. Мы — нет, мы не относимся к этой категории». Тогда Нарада отправился к Уддхаве. «Вся слава тебе!» Нарада обратился к Уддхаве: «Даже Кришна сказал, что для Него не столь дороги, как ты, ни Брахма, ни Шива, ни даже Лакшми Деви. Даже Он сам не столь дорог Себе, так Он любит тебя. Ты, Уддхава, столь важен для Него». «Да-да, то, что ты говоришь, правда. Кришна говорил это. Но это было правдой до известной степени, пока я не увидел *враджа-гопи*. Когда Он отправил меня, чтобы спасти *гопи* во Вриндаване, то всем моим представлениям пришел конец».
 

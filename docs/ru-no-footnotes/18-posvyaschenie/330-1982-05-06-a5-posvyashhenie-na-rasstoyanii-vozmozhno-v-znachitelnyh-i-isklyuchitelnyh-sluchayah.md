@@ -1,14 +1,20 @@
 ---
-slug: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah
+slug: 1982-05-06-a5_posvyashchenie_na_rasstoyanii_vozmozhno_v_znachitelnyh_i_isklyuchitelnyh_sluchayah
+record_id: 1982.05.06.A5
+title: Посвящение на расстоянии возможно в значительных и исключительных случаях
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2035722
+  duration: 00:01:51
+  src: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.mp3
+date: 1982-05-06
 category:
   title: 18. Посвящение
   slug: 18-posvyaschenie
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.mp3
     title: аудиозапись в MP3 (1 мин. 51 сек., 2,0 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (41 КБ)
   - href: /dl/18._Posvyaschenie/330_1982.05.06.A5_SridharMj_Posvjashhenie_na_rasstojanii_vozmozhno_v_znachitelnyh_i_iskljuchitelnyh_sluchajah.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 330. 1982.05.06.A5. Посвящение на расстоянии возможно в значительных и
+    исключительных случаях
+  index: "330"
+  filename: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah.md
+  slug: 330-1982-05-06-a5-posvyashhenie-na-rasstoyanii-vozmozhno-v-znachitelnyh-i-isklyuchitelnyh-sluchayah
 ---
-
-# 330. 1982.05.06.A5. Посвящение на расстоянии возможно в значительных и исключительных случаях
 
 **Преданный:** Люди, которых я упоминал прежде в смысле *дикши*, — я не думаю, что они сумеют приехать в Индию, это невозможно для них всех.
 

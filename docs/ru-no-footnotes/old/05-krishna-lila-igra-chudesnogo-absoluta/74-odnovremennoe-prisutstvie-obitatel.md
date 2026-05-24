@@ -1,22 +1,30 @@
 ---
 slug: 74-odnovremennoe-prisutstvie-obitatel
+record_id: 1981.03.03.B7
+title: Одновременное присутствие обитателей духовного мира
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4531002
+  duration: 00:08:02
+  src: /wp-content/uploads/2012/08/074_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
+date: 1981-03-03
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Рамананда Рай
     slug: ramananda-raj
   - title: Сварупа Дамодар
     slug: svarupa-damodar
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/074_1981.03.03.B7_SridharMj_Odnovremennoye_prisutstviye_obitateley_duhovnogo_mira.mp3
     title: Скачать аудиозапись в mp3 (8 мин 02 сек, размер 4 Мб)
+legacy:
+  title: 74. Одновременное присутствие обитателей духовного мира. 1981.03.03.B7
+  index: "74"
+  filename: 74-odnovremennoe-prisutstvie-obitatel.md
 ---
-
-# 74. Одновременное присутствие обитателей духовного мира. 1981.03.03.B7
 
 **Ученик:** Одни и те же личности из Кришна-лилы пришли в других формах, образах в Гоура-лиле. Мы поняли так, что Рамананда Рай является Вишакхой.
 

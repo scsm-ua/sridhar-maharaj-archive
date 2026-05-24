@@ -1,22 +1,24 @@
 ---
-slug: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu
+slug: 1984-01-08-b2-b4_o_poklonenii_gaura-nitayu_radhe-krishne_i_mahaprabhu
+record_id: 1984.01.08.B2.B4
+title: О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6034148
+  duration: 00:10:35
+  src: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3
+date: 1984-01-08
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Арчана
     slug: archana
-  - title: Манах-шикша
-    slug: manah-shiksha
   - title: Манах-шикша 3
     slug: manah-shiksha-3
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
   - title: Чайтанья-чандрамрита 88
     slug: chajtanya-chandramrita-88
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.mp3
     title: аудиозапись в MP3 (10 мин. 35 сек., 5,8 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (118 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/818_1984.01.08.B2.B4_SridharMj_O_poklonenii_Gaura-Nitayu_Radhe-Krishne_i_Mahaprabhu.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 818. 1984.01.08.B2.B4. О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
+  index: "818"
+  filename: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu.md
+  slug: 818-1984-01-08-b2-b4-o-poklonenii-gaura-nitayu-radhe-krishne-i-mahaprabhu
 ---
-
-# 818. 1984.01.08.B2.B4. О поклонении Гаура-Нитаю, Радхе-Кришне и Махапрабху
 
 **Преданный:** Махарадж?
 

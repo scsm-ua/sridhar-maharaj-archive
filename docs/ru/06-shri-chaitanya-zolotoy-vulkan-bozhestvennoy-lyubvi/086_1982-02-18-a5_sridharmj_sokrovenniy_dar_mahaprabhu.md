@@ -1,37 +1,30 @@
 ---
-slug: 086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu
+slug: ontologiya_pr_1_5_sokrovennyy_dar_mahaprabhu
+title: Онтология ПР 1.5. Сокровенный дар Махапрабху.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11022912
+  duration: 00:21:09
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: дата неизвестна
-    slug: data-neizvestna
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 410
     slug: padyavali-410
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.4
     slug: shri-chajtanya-charitamrita-adi-lila-1-4
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.4
     slug: shri-chajtanya-charitamrita-adi-lila-3-4
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.132
     slug: shri-chajtanya-charitamrita-antya-lila-1-132
-  - title: Видагдха-мадхава
-    slug: vidagdha-madhava
   - title: Видагдха-мадхава 1.2
     slug: vidagdha-madhava-1-2
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 2.1.7
     slug: shrimad-bhagavatam-2-1-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.140
     slug: shri-chajtanya-charitamrita-madhya-lila-17-140
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.5
@@ -42,20 +35,20 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-186
   - title: Шримад-Бхагаватам 1.7.10
     slug: shrimad-bhagavatam-1-7-10
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.47
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-47
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.157
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-157
   - title: Шримад-Бхагаватам 2.1.9
     slug: shrimad-bhagavatam-2-1-9
   - title: Шримад-Бхагаватам 3.15.43
     slug: shrimad-bhagavatam-3-15-43
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 7.19
     slug: bhagavad-gita-7-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.58
     slug: shri-chajtanya-charitamrita-madhya-lila-8-58
-  - title: Вишну-пурана
-    slug: vishnu-purana
   - title: Вишну-пурана 3.8.9
     slug: vishnu-purana-3-8-9
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
@@ -90,11 +83,8 @@ tags:
     slug: shrimad-bhagavatam-9-5-16
   - title: Шримад-Бхагаватам 1.1.2
     slug: shrimad-bhagavatam-1-1-2
-  - title: Катха-упанишад
-    slug: katha-upanishad
   - title: Катха-упанишад 1.2.23
     slug: katha-upanishad-1-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.mp3
     title: аудиозапись в MP3 (21 мин. 08 сек., 24 11 МБ)
@@ -102,9 +92,12 @@ links:
     title: транскрипцию в RTF (39 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/086_1982.02.18.A5_SridharMj_Sokrovenniy_dar_Mahaprabhu.pdf
     title: транскрипцию в PDF (286 КБ)
+legacy:
+  title: 086. Онтология ПР 1.5. Сокровенный дар Махапрабху
+  index: "086"
+  filename: 086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu.md
+  slug: 086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu
 ---
-
-# 086. Онтология ПР 1.5. Сокровенный дар Махапрабху
 
 Это то, что мыслится как *нитья-лила*. *Лила* означает движение, определенную потребность, нужду, повторение, но при этом это всегда ново. *Лила* всегда обновляется. Это лишь вопрос времени. Каждый день, когда я голоден по утрам, пища кажется мне вкусной. Это происходит не всегда, но благодаря течению времени все становится «вкусным», не постылым. Так устраивает *йога-майя*. И это явление вечно. Все внутренние составляющие нашей системы там сполна удовлетворяются — каждый атом нашего существа, каждая часть нашего духовного тела.
 

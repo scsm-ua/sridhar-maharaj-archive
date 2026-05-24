@@ -1,5 +1,13 @@
 ---
 slug: 190-spastis-iz-mira-smerti-ontologiya-pr
+record_id: null
+title: Спастись из мира смерти. Онтология прекрасной реальности, часть 4.3.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4763456
+  duration: 00:07:08
+  src: /wp-content/uploads/2012/08/190_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
@@ -12,13 +20,14 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/190_OntologiyaPR_4.3_SridharMj_Spastis_iz_mira_smerti.mp3
     title: Скачать аудиозапись в mp3 (7 мин 8 сек, размер 4 Мб)
+legacy:
+  title: 190. Спастись из мира смерти. Онтология прекрасной реальности, часть 4.3
+  index: "190"
+  filename: 190-spastis-iz-mira-smerti-ontologiya-pr.md
 ---
-
-# 190. Спастись из мира смерти. Онтология прекрасной реальности, часть 4.3
 
 Истребитель. Истребитель. Да. Они устроили шоу, показали публике – у нас есть истребители. Есть санскритское стихотворение, в котором сказано: — Лягушка прыгает, змея следует за этой лягушкой, павлин следует за змеёй, охотник крадётся за павлином, желая его поймать, и тигр, тигр следит за охотником. Таким образом. И время следует за ними всеми и ждёт своего часа, чтобы сожрать их .
 

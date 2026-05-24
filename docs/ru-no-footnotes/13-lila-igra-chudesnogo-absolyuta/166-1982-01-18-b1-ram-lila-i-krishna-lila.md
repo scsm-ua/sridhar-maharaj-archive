@@ -1,16 +1,22 @@
 ---
-slug: 166-1982-01-18-b1-ram-lila-i-krishna-lila
+slug: 1982-01-18-b1_ram-lila_i_krishna-lila
+record_id: 1982.01.18.B1
+title: Рам-лила и Кришна-лила
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9665389
+  duration: 00:19:20
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.mp3
+date: 1982-01-18
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Кришна-лила
     slug: krishna-lila
   - title: Рамачандра
     slug: ramachandra
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.mp3
     title: аудиозапись в MP3 (19 мин. 20 сек., 9,3 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/166_1982.01.18.B1_SridharMj_Ram-lila_i_Krishna-lila.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 166. 1982.01.18.B1. Рам-лила и Кришна-лила
+  index: "166"
+  filename: 166-1982-01-18-b1-ram-lila-i-krishna-lila.md
+  slug: 166-1982-01-18-b1-ram-lila-i-krishna-lila
 ---
-
-# 166. 1982.01.18.B1. Рам-лила и Кришна-лила
 
 **Ученик:** У меня есть сомнения. Наш Гурудев говорил: «Когда Господь Рамачандра присутствовал в этом мире, мудрецы молили Его о тесной связи с Ним. Так в своих следующих жизнях они явились как *гопи*». Как возможно, что *гопи* в своих прошлых рождениях были мудрецами, *гьяни*?
 

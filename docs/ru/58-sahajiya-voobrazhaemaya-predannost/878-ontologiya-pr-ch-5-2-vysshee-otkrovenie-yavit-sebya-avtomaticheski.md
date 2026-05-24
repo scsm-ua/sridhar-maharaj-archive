@@ -1,22 +1,24 @@
 ---
-slug: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski
+slug: ontologiya_pr_ch_5_2_vysshee_otkrovenie_yavit_sebya_avtomaticheski
+title: Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5840128
+  duration: 00:07:37
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/878_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.152
     slug: shri-chajtanya-charitamrita-madhya-lila-19-152
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/878_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.mp3
     title: аудиозапись в MP3 (7 мин. 37 сек., 5,6 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (85 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/878_OntologiyaPR_5.2_SridharMj_Vysshee_otkroveniye_yavit_sebya_avtomaticheski.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 878. Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически
+  index: "878"
+  filename: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski.md
+  slug: 878-ontologiya-pr-ch-5-2-vysshee-otkrovenie-yavit-sebya-avtomaticheski
 ---
-
-# 878. Онтология ПР. Ч. 5.2. Высшее откровение явит себя автоматически
 
 Пундарик Видьянидхи. Его особенность была такой: он посещал Гангу по ночам, поскольку ему не нравилось, что днем очень многие люди купаются в Ганге и иногда плюют в Гангу и тому подобное, оскверняют чистую воду Ганги, оскорбляя тем самым Гангу Деви. Он не в силах был терпеть это, поэтому днем не приходил на берег Ганги. Только по ночам он обрызгивал свою голову каплями воды Ганги.
 
@@ -71,4 +76,4 @@ links:
 
 [^_ftn3]: [Бхагавад-гита 2.47](../notes/bhagavad-gita/bhagavad-gita-2-47.md)
 
-[^_ftn4]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn4]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)

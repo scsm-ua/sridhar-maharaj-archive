@@ -1,12 +1,17 @@
 ---
-slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
+slug: 1982-07-16-a2_vstrecha_krishny_i_radharani_na_kurukshetre
+record_id: 1982.07.16.A2
+title: Встреча Кришны и Радхарани на Курукшетре
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7880516
+  duration: 00:07:49
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
+date: 1982-07-16
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 7,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/468_1982.07.16.A2_SridharMj_Vstrecha_Krishny_i_Radharani_na_Kurukshetre.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
+  index: "468"
+  filename: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre.md
+  slug: 468-1982-07-16-a2-vstrecha-krishny-i-radharani-na-kurukshetre
 ---
-
-# 468. 1982.07.16.A2. Встреча Кришны и Радхарани на Курукшетре
 
     [шлока]
 

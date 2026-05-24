@@ -1,18 +1,26 @@
 ---
 slug: 40-poisk-shri-krishny-prekrasnoj-realno
+title: Поиск Шри Кришны, Прекрасной Реальности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3567436
+  duration: 00:06:29
+  src: /wp-content/uploads/2012/08/040_2012.07.25.15_ShridharMj_Poisk_Shri_Krishny_Prekrasnoy_Realnosti-.mp3
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/040_2012.07.25.15_ShridharMj_Poisk_Shri_Krishny_Prekrasnoy_Realnosti-.mp3
     title: Скачать аудиозапись в mp3 (6 мин 29 сек, размер 3 Мб)
+legacy:
+  title: 40. Поиск Шри Кришны, Прекрасной Реальности.
+  index: "40"
+  filename: 40-poisk-shri-krishny-prekrasnoj-realno.md
 ---
-
-# 40. Поиск Шри Кришны, Прекрасной Реальности.
 
 *#00:00:06#*
 

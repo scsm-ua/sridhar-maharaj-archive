@@ -1,12 +1,17 @@
 ---
-slug: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami
+slug: 1983-04-16-a5_svyaz_s_sakhya-rasoy_krishnadasa_babadzhi_i_bhaktivedanty_svami
+record_id: 1983.04.16.A5
+title: Связь с сакхья-расой Кришнадаса Бабаджи и Бхактиведанты Свами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4782603
+  duration: 00:03:58
+  src: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3
+date: 1983-04-16
 category:
   title: 63. Жизнь и откровения святых вайшнавов
   slug: 63-zhizn-i-otkroveniya-svyatyh-vaishnavov
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (3 мин. 57 сек., 4,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/63._Zhizn_i_otkroveniya_svyatyh_vaishnavov/967_1983.04.16.A5_SridharMj_Svjaz_s_sakhja-rasoj_Krishnadasa_Babadzhi_i_Bhaktivedanty_Svami.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 967. 1983.04.16.A5. Связь с сакхья-расой Кришнадаса Бабаджи и
+    Бхактиведанты Свами
+  index: "967"
+  filename: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami.md
+  slug: 967-1983-04-16-a5-svyaz-s-sakhya-rasoj-krishnadasa-babadzhi-i-bhaktivedanty-svami
 ---
-
-# 967. 1983.04.16.A5. Связь с сакхья-расой Кришнадаса Бабаджи и Бхактиведанты Свами
 
 **Преданный:** Махарадж, года три-четыре назад, возможно, я спрашивал вас: тождество моего Гуру Махараджа согласно вашей *вичаре*, вашим суждения может быть в духовном мире… Общий анализ показывает нечто… Я хотел спросить вас то же самое о Кришнадасе Бабаджи.
 

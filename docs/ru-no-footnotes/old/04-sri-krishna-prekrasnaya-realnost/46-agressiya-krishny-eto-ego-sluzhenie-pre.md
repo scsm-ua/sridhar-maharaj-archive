@@ -1,20 +1,28 @@
 ---
 slug: 46-agressiya-krishny-eto-ego-sluzhenie-pre
+record_id: 1983.06.09.A2
+title: Агрессия Кришны — это Его служение преданным
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6644861
+  duration: 00:11:10
+  src: /wp-content/uploads/2012/08/046_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
+date: 1983-06-09
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/046_1983.06.09.A2_SridharMj_Agressiya_Krishny_eto_ego_slujenie.mp3
     title: Скачать аудиозапись в mp3 (11 мин 10 сек, размер 6 Мб)
+legacy:
+  title: 46. Агрессия Кришны — это Его служение преданным. 1983.06.09.A2
+  index: "46"
+  filename: 46-agressiya-krishny-eto-ego-sluzhenie-pre.md
 ---
-
-# 46. Агрессия Кришны — это Его служение преданным. 1983.06.09.A2
 
 В случае Шрилы Бхактивиноды Тхакура говорится, что до поклонения Чайтанье Махапрабху он испытывал сильную склонность к Рамачандре. Кто? Бхактивинод Тхакур. К Рамачандре? Да, то того как читал Чайтанья Чаритамриту. Я тоже был склонен, но поскольку меня привлекала щедрая великодушная природа.
 

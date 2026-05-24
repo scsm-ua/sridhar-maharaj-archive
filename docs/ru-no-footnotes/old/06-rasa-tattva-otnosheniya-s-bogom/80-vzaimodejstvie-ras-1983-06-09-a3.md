@@ -1,18 +1,25 @@
 ---
 slug: 80-vzaimodejstvie-ras-1983-06-09-a3
+record_id: 1983.06.09.A3
+title: Взаимодействие рас
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5737900
+  duration: 00:09:12
+  src: /wp-content/uploads/2012/08/080_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
+date: 1983-06-09
 category:
   title: (06. Раса-таттва - отношения с Богом)
   slug: 06-rasa-tattva-otnosheniya-s-bogom
-tags:
-  - title: "1983.06"
-    slug: 1983-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/080_1983.06.09.A3_SridharMj_Vzaimodeystvie_ras.mp3
     title: Скачать аудиозапись в mp3 (9 мин 12 сек, размер 5 Мб)
+legacy:
+  title: 80. Взаимодействие рас. 1983.06.09.A3
+  index: "80"
+  filename: 80-vzaimodejstvie-ras-1983-06-09-a3.md
 ---
-
-# 80. Взаимодействие рас. 1983.06.09.A3
 
 Гуру Махарадж, если кто-то испытывает привязанность к Рама-лиле, может ли он культивировать это настроение или должен отвергнуть его и стараться культивировать настроение к Чайтанья-лиле, Кришна-лиле?
 

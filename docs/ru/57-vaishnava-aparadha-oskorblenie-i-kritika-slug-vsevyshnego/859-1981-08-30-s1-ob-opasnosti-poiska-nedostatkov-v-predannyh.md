@@ -1,12 +1,17 @@
 ---
-slug: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh
+slug: 1981-08-30-c1_ob_opasnosti_poiska_nedostatkov_v_predannyh
+record_id: 1981.08.30.C1
+title: Об опасности поиска недостатков в преданных
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1829698
+  duration: 00:03:13
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
+date: 1981-08-30
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.mp3
     title: аудиозапись в MP3 (3 мин. 13 сек., 1,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/859_1981.08.30.C1_SridharMj_Ob_opasnosti_poiska_nedostatkov_v_predannyh.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 859. 1981.08.30.С1. Об опасности поиска недостатков в преданных
+  index: "859"
+  filename: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh.md
+  slug: 859-1981-08-30-s1-ob-opasnosti-poiska-nedostatkov-v-predannyh
 ---
-
-# 859. 1981.08.30.С1. Об опасности поиска недостатков в преданных
 
 **Преданный:** Махарадж?
 

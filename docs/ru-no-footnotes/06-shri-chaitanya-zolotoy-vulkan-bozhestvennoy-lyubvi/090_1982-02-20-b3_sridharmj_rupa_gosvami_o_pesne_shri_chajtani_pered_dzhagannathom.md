@@ -1,16 +1,22 @@
 ---
-slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
+slug: 1982-02-20-b3_rupa_gosvami_o_pesne_shri_chaytani_pered_dzhagannathom
+record_id: 1982.02.20.B3
+title: Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15798888
+  duration: 00:15:33
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3
+date: 1982-02-20
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: история
     slug: istoriya
   - title: история о шлоке Рупы Госвами на крыше хижины
     slug: istoriya-o-shloke-rupy-gosvami-na-kryshe-h
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.mp3
     title: аудиозапись в MP3 (15 мин. 32 сек., 15 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/090_1982.02.20.B3_SridharMj_Rupa_Gosvami_o_pesne_Shri_Chajtani_pered_Dzhagannathom.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 090. 1982.02.20.В3 Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
+  index: "090"
+  filename: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom.md
+  slug: 090_1982-02-20-b3_sridharmj_rupa_gosvami_o_pesne_shri_chajtani_pered_dzhagannathom
 ---
-
-# 090. 1982.02.20.В3 Рупа Госвами о песне Шри Чайтаньи перед Джаганнатхом
 
 **Преданный:** Максимальный риск — максимальный выигрыш.
 

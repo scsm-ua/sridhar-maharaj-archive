@@ -4,9 +4,13 @@ refs:
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
-tags:
+  - ../../_full/1981/09/1981.09.11.B.C.md
+  - ../../_full/1982/04/1982.04.30.A.B.md
+  - ../../_full/1983/07/1983.07.19.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
     slug: shri-chajtanya-charitamrita-antya-lila-4-71
 ---

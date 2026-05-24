@@ -1,12 +1,17 @@
 ---
-slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
+slug: 1981-08-18-c2-2_znachenie_i_pravilnoe_proiznoshenie_shri_rupa-pranamy
+record_id: 1981.08.18.C2.2
+title: Значение и правильное произношение Шри Рупа-пранамы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4335136
+  duration: 00:07:47
+  src: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
+date: 1981-08-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.mp3
     title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/26._Rupanuga-sampradaya/457_1981.08.18.C2.2_SridharMj_Znachenie_i_pravilnoe_proiznoshenie_Shri_Rupa-pranamy.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
+  index: "457"
+  filename: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy.md
+  slug: 457-1981-08-18-c2-2-znachenie-i-pravilnoe-proiznoshenie-shri-rupa-pranamy
 ---
-
-# 457. 1981.08.18.C2.2. Значение и правильное произношение Шри Рупа-пранамы
 
 **Госвами Махарадж:** Махарадж?
 

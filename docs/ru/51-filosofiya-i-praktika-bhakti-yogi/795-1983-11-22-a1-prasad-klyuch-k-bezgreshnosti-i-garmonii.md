@@ -1,22 +1,24 @@
 ---
-slug: 795-1983-11-22-a1-prasad-klyuch-k-bezgreshnosti-i-garmonii
+slug: 1983-11-22-a1_prasad_klyuch_k_bezgreshnosti_i_garmonii
+record_id: 1983.11.22.A1
+title: Прасад – ключ к безгрешности и гармонии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7057366
+  duration: 00:06:25
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3
+date: 1983-11-22
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Прасад
     slug: prasad
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.13
     slug: bhagavad-gita-3-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.mp3
     title: аудиозапись в MP3 (6 мин. 25 сек., 6,8 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/795_1983.11.22.A1_SridharMj_Prasad--kljuch_k_bezgreshnosti_i_garmonii.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 795. 1983.11.22.A1. Прасад – ключ к безгрешности и гармонии
+  index: "795"
+  filename: 795-1983-11-22-a1-prasad-klyuch-k-bezgreshnosti-i-garmonii.md
+  slug: 795-1983-11-22-a1-prasad-klyuch-k-bezgreshnosti-i-garmonii
 ---
-
-# 795. 1983.11.22.A1. Прасад – ключ к безгрешности и гармонии
 
 …«Все это предназначено для сознания Кришны, а не для какого-то другого сознания. Все здесь, все исключительным образом предназначено для Кришны, никакого другого Бога». Тогда, конечно же, этот человек успокоился. Такова наша концепция. Мы не материалисты. Все сознательно и духовно. Все исключительным образом предназначено для его или ее Господа. Мы — такого рода, такого типа. Тогда, конечно, ему пришлось уйти. «То, что вы сказали, это так?» — «Да, это так!»
 
@@ -46,7 +51,7 @@ links:
     ма̄ гр̣дхах̣ касйа свид дханам
 [^_ftn1]
 
-Это ключ к успеху в жизни — *тена тйактена.* Предложив Ему, мы используем нечто.
+Это ключ к успеху в жизни — *тена тйактена*. Предложив Ему, мы используем нечто.
 
     йаджн̃а-ш́ишт̣а̄ш́инах̣ санто
     мучйанте сарва-килбишаих̣

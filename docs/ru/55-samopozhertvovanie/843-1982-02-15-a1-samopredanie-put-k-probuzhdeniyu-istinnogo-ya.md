@@ -1,31 +1,28 @@
 ---
-slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
+slug: 1982-02-15-a1_samopredanie_put_k_probuzhdeniyu_istinnogo_ya
+record_id: 1982.02.15.A1
+title: Самопредание – путь к пробуждению истинного «я»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24918610
+  duration: 00:24:53
+  src: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.mp3
+date: 1982-02-15
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Самопредание
     slug: samopredanie
-  - title: Хитопадеша
-    slug: hitopadesha
   - title: Хитопадеша 2.29
     slug: hitopadesha-2-29
-  - title: Шри Нама-Махатмья
-    slug: shri-nama-mahatmya
   - title: Шри Нама-Махатмья 8
     slug: shri-nama-mahatmya-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.40
     slug: bhagavad-gita-6-40
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 5
     slug: shri-ishopanishad-5
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -34,23 +31,16 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.63
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
   - title: Бхагавад-гита 9.24
     slug: bhagavad-gita-9-24
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 6.8
     slug: shvetashvatara-upanishad-6-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.mp3
     title: аудиозапись в MP3 (24 мин. 52 сек., 23,8 МБ)
@@ -58,9 +48,12 @@ links:
     title: транскрипцию в DOCX (38 КБ)
   - href: /dl/55._Samopozhertvovanie/843_1982.02.15.A1_SridharMj_Samopredanie--put_k_probuzhdeniju_istinnogo_ja.pdf
     title: транскрипцию в PDF (175 КБ)
+legacy:
+  title: 843. 1982.02.15.A1. Самопредание – путь к пробуждению истинного «я»
+  index: "843"
+  filename: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
+  slug: 843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya
 ---
-
-# 843. 1982.02.15.A1. Самопредание – путь к пробуждению истинного «я»
 
 *На ганасйаргато кашчит* — существует это моральное учение в Индии.
 
@@ -115,7 +108,7 @@ links:
 
 *#00:09:56#*
 
-Это вдохновение. Возможно это или нет? Это возможно. По воле, особой воле Господа все возможно. *Садхана-сиддха* *(?)-сиддха*: два вида *сиддх* (совершенства). Лишь благодаря исключительной милости Господа человек может достичь своего высочайшего положения, в особых случаях. В целом мы прибегаем к *садхане* — это путь для всех. Но особый дар также возможен. Существует четыре вида особых случаев, я забыл их названия, особый дар милости преданным.
+Это вдохновение. Возможно это или нет? Это возможно. По воле, особой воле Господа все возможно. *Садхана-сиддха* (?)-*сиддха*: два вида *сиддх* (совершенства). Лишь благодаря исключительной милости Господа человек может достичь своего высочайшего положения, в особых случаях. В целом мы прибегаем к *садхане* — это путь для всех. Но особый дар также возможен. Существует четыре вида особых случаев, я забыл их названия, особый дар милости преданным.
 
 *#00:11:00#*
 

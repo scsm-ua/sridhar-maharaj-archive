@@ -1,20 +1,28 @@
 ---
 slug: 419-stremlenie-byt-slugoj-slugi-nastr
+record_id: 1981.08.19.B
+title: Стремление быть слугой слуги – настроение вайшнава
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24443955
+  duration: 00:42:50
+  src: /wp-content/uploads/2012/08/419_1981.08.19.B_SridharMj_Stremlenie_byt_slugoy_slugi.mp3
+date: 1981-08-19
 category:
   title: (38. Самоотрицание)
   slug: 38-samootricanie
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Самоотрицание
     slug: samootritsanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/419_1981.08.19.B_SridharMj_Stremlenie_byt_slugoy_slugi.mp3
     title: Скачать аудиозапись в mp3 (42 мин 50 сек, размер 24 Мб)
+legacy:
+  title: 419. Стремление быть слугой слуги – настроение вайшнава. 1981.08.19.B
+  index: "419"
+  filename: 419-stremlenie-byt-slugoj-slugi-nastr.md
 ---
-
-# 419. Стремление быть слугой слуги – настроение вайшнава. 1981.08.19.B
 
 *#00:00:00#*
 

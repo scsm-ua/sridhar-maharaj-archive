@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-15-57
 refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/499-1982-04-18-a1-obyasnenie-stihov-10-11-i-10-10-chaturshloki-bhagavad-gity.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.57
     slug: shri-chajtanya-charitamrita-madhya-lila-15-57
 ---

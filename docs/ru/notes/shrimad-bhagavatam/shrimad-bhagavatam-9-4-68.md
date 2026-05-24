@@ -5,9 +5,13 @@ refs:
   - ../../49-bhakti-velichie-predannosti-krishne/765-1982-03-22-b1-istoriya-ambarisha-i-durvasy-gospod-zavisim-ot-svoih-predannyh.md
   - ../../49-bhakti-velichie-predannosti-krishne/766-1981-03-10-d1-pravo-predannyh-na-gospoda-kak-predstavitelej-svarupa-shakti.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/996-1982-01-29-a-sarasvati-thakur-olitsetvorenie-kirtana.md
-tags:
+  - ../../_full/1981/10/1981.10.28.md
+  - ../../_full/1982/01/1982.01.29.md
+  - ../../_full/1983/06/1983.06.05.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 9.4.68
     slug: shrimad-bhagavatam-9-4-68
 ---

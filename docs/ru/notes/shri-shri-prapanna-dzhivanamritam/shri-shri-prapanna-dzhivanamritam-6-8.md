@@ -2,9 +2,10 @@
 slug: shri-shri-prapanna-dzhivanamritam-6-8
 refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/362-1981-03-12-a3-propoved-bhakti-vysshaya-forma-blagotvoritelnosti.md
-tags:
+scriptures:
   - title: Шри Шри Прапанна-дживанамритам
     slug: shri-shri-prapanna-dzhivanamritam
+verses:
   - title: Шри Шри Прапанна-дживанамритам 6.8
     slug: shri-shri-prapanna-dzhivanamritam-6-8
 ---

@@ -1,22 +1,31 @@
 ---
 slug: 56-gopi-bhagavatam-gayatri-i-mantra-om-p
+record_id: 1981.08.31.B1
+title: Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9086788
+  duration: 00:16:15
+  src: /wp-content/uploads/2012/08/056_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
+date: 1981-08-31
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Кришна-лила
     slug: krishna-lila
   - title: Шримад Бхагаватам
     slug: shrimad-bhagavatam
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/056_1981.08.31.B1_SridharMj_Gopi_Bhagavatam_gayatri_i_mantra_OM_prizyvayut_k_poisku_Shri_Krishny.mp3
     title: Скачать аудиозапись в mp3 (16 мин 15 сек, размер 9 Мб)
+legacy:
+  title: 56. Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри
+    Кришны. 1981.08.31.B1
+  index: "56"
+  filename: 56-gopi-bhagavatam-gayatri-i-mantra-om-p.md
 ---
-
-# 56. Гопи, «Бхагаватам», гаятри и мантра «ОМ» призывают к поиску Шри Кришны. 1981.08.31.B1
 
 *#00:00:00#*
 

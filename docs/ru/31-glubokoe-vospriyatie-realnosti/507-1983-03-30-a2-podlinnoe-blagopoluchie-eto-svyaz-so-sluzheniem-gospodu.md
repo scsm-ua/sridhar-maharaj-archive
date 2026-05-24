@@ -1,12 +1,17 @@
 ---
-slug: 507-1983-03-30-a2-podlinnoe-blagopoluchie-eto-svyaz-so-sluzheniem-gospodu
+slug: 1983-03-30-a2_podlinnoe_blagopoluchie_eto_svyaz_so_sluzheniem_gospodu
+record_id: 1983.03.30.A2
+title: Подлинное благополучие — это связь со служением Господу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2751938
+  duration: 00:03:58
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
+date: 1983-03-30
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.mp3
     title: аудиозапись в MP3 (3 мин. 57 сек., 2,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/507_1983.03.30.A2_SridharMj_Podlinnoe_blagopoluchie_eto_svyaz_so_slujeniem_Gospodu.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 507. 1983.03.30.A2. Подлинное благополучие — это связь со служением Господу
+  index: "507"
+  filename: 507-1983-03-30-a2-podlinnoe-blagopoluchie-eto-svyaz-so-sluzheniem-gospodu.md
+  slug: 507-1983-03-30-a2-podlinnoe-blagopoluchie-eto-svyaz-so-sluzheniem-gospodu
 ---
-
-# 507. 1983.03.30.A2. Подлинное благополучие — это связь со служением Господу
 
 Наш Гуру Махарадж говорил: «Когда мы служим, у нас все хорошо». В противном случае физический комфорт — не есть «все хорошо». Харидас Тхакур был посажен в тюрьму Кази: его почитали преступником, потому что он призывал *Кришна-нам*, будучи выходцем из мусульманской среды. Его посадили в тюрьму, но когда он был выпущен на свободу, его тюремщики были обеспокоены. Они пришли в ужас от того, что среди заключенных оказался святой такого характера, призывающий Имя.
 

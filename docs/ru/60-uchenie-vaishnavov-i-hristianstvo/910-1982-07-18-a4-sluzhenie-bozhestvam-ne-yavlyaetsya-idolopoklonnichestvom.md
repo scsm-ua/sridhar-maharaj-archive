@@ -1,16 +1,17 @@
 ---
-slug: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom
+slug: 1982-07-18-a4_sluzhenie_bozhestvam_ne_yavlyaetsya_idolopoklonnichestvom
+record_id: 1982.07.18.A4
+title: Служение Божествам не является идолопоклонничеством
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10148603
+  duration: 00:08:48
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
+date: 1982-07-18
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: Падьявали
-    slug: padyavali
-  - title: Падьявали 410
-    slug: padyavali-410
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.mp3
     title: аудиозапись в MP3 (8 мин. 48 сек., 9,7 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (98 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/910_1982.07.18.A4_SridharMj_Sluzhenie_Bozhestvam_ne_javljaetsja_idolopoklonnichestvom.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 910. 1982.07.18.A4. Служение Божествам не является идолопоклонничеством
+  index: "910"
+  filename: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom.md
+  slug: 910-1982-07-18-a4-sluzhenie-bozhestvam-ne-yavlyaetsya-idolopoklonnichestvom
+tags:
+  - title: Падьявали 410
+    slug: padyavali-410
 ---
-
-# 910. 1982.07.18.A4. Служение Божествам не является идолопоклонничеством
 
 **Преданный:** Есть один вопрос, который христиане задают нам, когда мы проповедуем на Западе. Существует один затруднительный вопрос, на который нам тяжело ответить. И я думал, может быть, вы могли бы высказаться: в Библии (также в Коране) упоминается идолопоклонничество, поклонение идолам. Это — одна из жалоб, которые христиане высказывают в наш адрес.
 

@@ -1,20 +1,28 @@
 ---
 slug: 78-v-nashih-sladchajshih-pesnyah-poetsya-o-pe
+record_id: 1980.07.11.A7
+title: «В наших сладчайших песнях поется о печали….»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5916681
+  duration: 00:08:43
+  src: /wp-content/uploads/2012/08/078_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
+date: 1980-07-11
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
 tags:
-  - title: "1980.07"
-    slug: 1980-07
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/078_1980.07.11.A7_SridharMj_V_nashih_sladchayshih_pesnyah_poyotsya_o_pechali.mp3
     title: Скачать аудиозапись в mp3 (8 мин 43 сек, размер 5 Мб)
+legacy:
+  title: 78. «В наших сладчайших песнях поется о печали….» 1980.07.11.A7
+  index: "78"
+  filename: 78-v-nashih-sladchajshih-pesnyah-poetsya-o-pe.md
 ---
-
-# 78. «В наших сладчайших песнях поется о печали….» 1980.07.11.A7
 
 **Преданный:** Необходимо позитивное. Присутствует позитивное: прямое и косвенное.
 

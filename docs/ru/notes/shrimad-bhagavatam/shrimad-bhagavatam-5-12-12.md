@@ -2,13 +2,16 @@
 slug: shrimad-bhagavatam-5-12-12
 refs:
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/651-1983-03-31-b1-navadvipskij-ekspress-sleduet-bez-ostanovok.md
-tags:
+  - ../../_full/1982/10/1982.10.23.B.md
+  - ../../_full/1983/03/1983.03.31.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.52
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-52
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.52
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-52
   - title: Шримад-Бхагаватам 5.12.12
     slug: shrimad-bhagavatam-5-12-12
 ---

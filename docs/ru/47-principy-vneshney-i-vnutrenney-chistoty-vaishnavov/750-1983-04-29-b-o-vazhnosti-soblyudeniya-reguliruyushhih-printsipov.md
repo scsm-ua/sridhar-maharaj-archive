@@ -1,27 +1,40 @@
 ---
-slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
+slug: 1983-04-29-b_o_vazhnosti_soblyudeniya_reguliruyushchih_printsipov
+record_id: 1983.04.29.B
+title: О важности соблюдения регулирующих принципов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16775178
+  duration: 00:32:40
+  src: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+date: 1983-04-29
 category:
   title: 47. Принципы внешней и внутренней чистоты вайшнавов
   slug: 47-principy-vneshney-i-vnutrenney-chistoty-vaishnavov
+links:
+  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
+    title: аудиозапись в MP3 (32 мин. 40 сек., 16,0 МБ)
+  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.rtf
+    title: транскрипцию в RTF (175 КБ)
+  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.pdf
+    title: транскрипцию в PDF (221 КБ)
+legacy:
+  title: 750. 1983.04.29.B. О важности соблюдения регулирующих принципов
+  index: "750"
+  filename: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov.md
+  slug: 750-1983-04-29-b-o-vazhnosti-soblyudeniya-reguliruyushhih-printsipov
 tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.17.38
     slug: shrimad-bhagavatam-1-17-38
   - title: Шримад-Бхагаватам 1.17.39
     slug: shrimad-bhagavatam-1-17-39
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Шримад-Бхагаватам 1.2.6
@@ -34,17 +47,7 @@ tags:
     slug: bhagavad-gita-14-18
   - title: Бхагавад-гита 14.13
     slug: bhagavad-gita-14-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.mp3
-    title: аудиозапись в MP3 (32 мин. 40 сек., 16,0 МБ)
-  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.rtf
-    title: транскрипцию в RTF (175 КБ)
-  - href: /dl/47._Principy_vneshney_i_vnutrenney_chistoty_vaishnavov/750_1983.04.29.B_SridharMj_O_vajnosti_soblyudeniya_reguliruyuwih_princypov.pdf
-    title: транскрипцию в PDF (221 КБ)
 ---
-
-# 750. 1983.04.29.B. О важности соблюдения регулирующих принципов
 
 Николас, он был убит? Убит кем, каким-то человеком? Мне рассказывали, что во время войны, когда был голод, всю пищу, продовольствие поставляли армии, и штатские, рядовые граждане страдали. Он вдохновил своих последователей отправиться во дворец и умолять о пище. Они сделали это, и их пытались остановить, царь отдал приказ стрелять, в конце концов. Их пытались остановить, люди не вняли призывам, и царь отдал приказ стрелять. Они шли в сторону царского дворца, они достигли дворца, в конце концов все-таки прорвались к дворцу, и царь был убит. Николай, царь Николай. Так я слышал.
 
@@ -68,7 +71,7 @@ links:
     йатра̄дхармаш́ чатур-видхах̣
 [^_ftn1]
 
-Очарование материальным миром. *Дйӯтам̇*. Попытка дешево, не обычным, конституциональным образом, а посредством обмана доставать деньги. Затем *па̄нам̇* — то же самое: то, что достают на черном рынке, энергия, которую мы можем накопить обычным образом, не удовлетворяет меня, но черным образом: я хочу собрать некую энергию благодаря *па̄нам̇*. «*Па̄нам̇*» означает это, это также черный рынок, мы хотим получить энергию нечестными средствами. *Па̄нам̇.*
+Очарование материальным миром. *Дйӯтам̇*. Попытка дешево, не обычным, конституциональным образом, а посредством обмана доставать деньги. Затем *па̄нам̇* — то же самое: то, что достают на черном рынке, энергия, которую мы можем накопить обычным образом, не удовлетворяет меня, но черным образом: я хочу собрать некую энергию благодаря *па̄нам̇*. «*Па̄нам̇*» означает это, это также черный рынок, мы хотим получить энергию нечестными средствами. *Па̄нам̇*.
 
 *#00:06:42#*
 
@@ -225,7 +228,7 @@ links:
 
 **Шрила Шридхар Махарадж:** Душа с такими привычками. Харе Кришна.
 
-**Преданный:** Этот стих: *ӯрдхвам̇ гаччханти саттва-стха̄.*
+**Преданный:** Этот стих: *ӯрдхвам̇ гаччханти саттва-стха̄*.
 
 *#00:28:09#*
 

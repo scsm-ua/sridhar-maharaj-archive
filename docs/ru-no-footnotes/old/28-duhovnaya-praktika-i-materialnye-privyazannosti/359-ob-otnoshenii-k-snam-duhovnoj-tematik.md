@@ -1,18 +1,25 @@
 ---
 slug: 359-ob-otnoshenii-k-snam-duhovnoj-tematik
+record_id: 1981.03.03.C2
+title: Об отношении к снам духовной тематики
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2463878
+  duration: 00:02:20
+  src: /wp-content/uploads/2012/08/359_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
+date: 1981-03-03
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/359_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
     title: Скачать аудиозапись в mp3 (2 мин 20 сек, размер 2 Мб)
+legacy:
+  title: 359. Об отношении к снам духовной тематики. 1981.03.03.C2
+  index: "359"
+  filename: 359-ob-otnoshenii-k-snam-duhovnoj-tematik.md
 ---
-
-# 359. Об отношении к снам духовной тематики. 1981.03.03.C2
 
 **Ученик:** Один из нынешних ачарьев… ему приснился сон. В этом сне наш Шрила Прабхупад приходил к нему и говорил о том, что в будущем в определенное время он вновь явится в этом мире, чтобы направлять наше движение. Как мы должны воспринимать подобное? Сон или откровение – как нам это понимать?
 

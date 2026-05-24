@@ -1,22 +1,30 @@
 ---
 slug: 304-o-literaturnyh-trudah-gosvami-1982-01-29-b1-2
+record_id: 1982.01.29.B1
+title: О литературных трудах Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3753075
+  duration: 00:06:36
+  src: /wp-content/uploads/2012/08/304_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami1.mp3
+date: 1982-01-29
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Книги Госвами
     slug: knigi-gosvami
   - title: Священные писания
     slug: svyashhennye-pisaniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/304_1982.01.29.B1_SridharMj_O_literaturnyh_trudah_Gosvami1.mp3
     title: Скачать аудиозапись в mp3 (6 мин 36 сек, размер 3 Мб)
+legacy:
+  title: 304. О литературных трудах Госвами. 1982.01.29.B1
+  index: "304"
+  filename: 304-o-literaturnyh-trudah-gosvami-1982-01-29-b1-2.md
 ---
-
-# 304. О литературных трудах Госвами. 1982.01.29.B1
 
 *#00:00:00#*
 

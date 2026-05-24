@@ -1,16 +1,22 @@
 ---
-slug: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe
+slug: 1982-02-18-a1_pamyatovanie_o_stopah_krishny_razrushaet_vse_neblagopriyatnoe
+record_id: 1982.02.18.A1
+title: Памятование о стопах Кришны разрушает все неблагоприятное
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3575040
+  duration: 00:04:53
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
+date: 1982-02-18
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
   - title: Риг-веда
     slug: rig-veda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
     title: аудиозапись в MP3 (4 мин. 52 сек., 3,5 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (49 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/409_1982.02.18.A1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.pdf
     title: транскрипцию в PDF (133 КБ)
+legacy:
+  title: 409. 1982.02.18.A1. Памятование о стопах Кришны разрушает все неблагоприятное
+  index: "409"
+  filename: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe.md
+  slug: 409-1982-02-18-a1-pamyatovanie-o-stopah-krishny-razrushaet-vse-neblagopriyatnoe
 ---
-
-# 409. 1982.02.18.A1. Памятование о стопах Кришны разрушает все неблагоприятное
 
 *«Онтология Прекрасной Реальности» (Часть 1.1)*
 

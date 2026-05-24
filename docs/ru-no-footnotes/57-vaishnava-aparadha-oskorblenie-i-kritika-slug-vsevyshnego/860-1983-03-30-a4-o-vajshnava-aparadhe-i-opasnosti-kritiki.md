@@ -1,12 +1,17 @@
 ---
-slug: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki
+slug: 1983-03-30-a4_o_vayshnava_aparadhe_i_opasnosti_kritiki
+record_id: 1983.03.30.A4
+title: О вайшнава апарадхе и опасности критики
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2684552
+  duration: 00:04:36
+  src: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
+date: 1983-03-30
 category:
   title: 57. Вайшнава-апарадха - оскорбление и критика слуг Всевышнего
   slug: 57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.mp3
     title: аудиозапись в MP3 (4 мин. 35 сек., 2,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/57._Vaishnava-aparadha--oskorblenie_i_kritika_slug_Vsevyshnego/860_1983.03.30.A4_SridharMj_O_vayshnava_aparadhe_i_opasnosti_kritiki.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 860. 1983.03.30.A4. О вайшнава апарадхе и опасности критики
+  index: "860"
+  filename: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki.md
+  slug: 860-1983-03-30-a4-o-vajshnava-aparadhe-i-opasnosti-kritiki
 ---
-
-# 860. 1983.03.30.A4. О вайшнава апарадхе и опасности критики
 
 Когда речь идет обо мне — да будет так. Какое оскорбление, какое преступление в мой адрес? Не может быть и речи об этом: я преступник сам. И факт таков, что если вайшнав оскорбляем, тогда оскорбляющий сам получает эти дефекты, изъяны. Яд пьет он, яд, отрава передается. Если человек выше оскорблений и его оскорбляют, тогда тот, кто оскорбляет, принимает в себя эту скверну, а тот, кого оскорбляют, становится более чистым.
 

@@ -14,15 +14,31 @@ refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1035-1982-01-01-a2-sarasvati-thakur-i-lalit-prasad.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1041-1983-03-02-hari-katha-na-den-yavleniya-shrily-sarasvati-thakura.md
-tags:
+  - ../../_full/1981/10/1981.10.05.C.D.md
+  - ../../_full/1981/10/1981.10.07.A.B.md
+  - ../../_full/1981/11/1981.11.07.A.md
+  - ../../_full/1982/01/1982.01.12.C.md
+  - ../../_full/1982/01/1982.01.24.B.md
+  - ../../_full/1982/01/1982.01.26.md
+  - ../../_full/1982/01/1982.01.28.md
+  - ../../_full/1982/02/1982.02.14.md
+  - ../../_full/1982/02/1982.02.18.B.md
+  - ../../_full/1982/05/1982.05.11.A.B1.md
+  - ../../_full/1982/06/1982.06.05.A.B.md
+  - ../../_full/1982/09/1982.09.08.A1.md
+  - ../../_full/1982/11/1982.11.02.B.md
+  - ../../_full/1983/03/1983.03.02.md
+  - ../../_full/1983/09/1983.09.21.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+  - title: Шримад-Бхагаватам
+    slug: shrimad-bhagavatam
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.150
     slug: shri-chajtanya-charitamrita-madhya-lila-19-150
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.83
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
 ---

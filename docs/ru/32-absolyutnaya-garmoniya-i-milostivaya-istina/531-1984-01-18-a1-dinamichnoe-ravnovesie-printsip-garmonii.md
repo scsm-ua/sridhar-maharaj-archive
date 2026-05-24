@@ -1,12 +1,17 @@
 ---
-slug: 531-1984-01-18-a1-dinamichnoe-ravnovesie-printsip-garmonii
+slug: 1984-01-18-a1_dinamichnoe_ravnovesie_printsip_garmonii
+record_id: 1984.01.18.A1
+title: Динамичное равновесие — принцип гармонии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5712196
+  duration: 00:07:04
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
+date: 1984-01-18
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1984.01"
-    slug: 1984-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.mp3
     title: аудиозапись в MP3 (7 мин. 03 сек., 5,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/531_1984.01.18.A1_SridharMj_Dinamichnoye_ravnovesiye-princip_garmonii.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 531. 1984.01.18.A1. Динамичное равновесие —  принцип гармонии
+  index: "531"
+  filename: 531-1984-01-18-a1-dinamichnoe-ravnovesie-printsip-garmonii.md
+  slug: 531-1984-01-18-a1-dinamichnoe-ravnovesie-printsip-garmonii
 ---
-
-# 531. 1984.01.18.A1. Динамичное равновесие —  принцип гармонии
 
 Понимание и проявление силы происходит из сознания отделенного существования, в противном случае спонтанная деятельность присутствует там, без знания, подобно компьютеру: автоматическая деятельность присутствует там — *гьяна-шунья-бхакти*, но должным, гармоничным образом. Гармония также исходит оттуда. Скорее, это «нечто» тождественно гармонии. *Гьяна-шунья-бхакти* — преданность, автоматическая, спонтанная деятельность, самопредание, отсутствие возможности любого обмана, грабежа, любого отклонения, любого закона или справедливости. Они там не нужны. Автоматическое движение происходит гладко, должным, гармоничным образом, не причиняя беспокойства. Это совершенно здоровое, целостное, явление, движение. Конфликт, столкновение невозможны, не могут быть вызваны таким движением. Спонтанное движение, святое движение, которое не вызывает жалобы в этом измерении, совершенное движение.
 

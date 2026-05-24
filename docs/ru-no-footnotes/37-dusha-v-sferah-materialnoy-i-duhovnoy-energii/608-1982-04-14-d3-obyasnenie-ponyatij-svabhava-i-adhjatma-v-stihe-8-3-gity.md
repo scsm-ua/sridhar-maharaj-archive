@@ -1,14 +1,20 @@
 ---
-slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
+slug: 1982-04-14-d3_obyasnenie_ponyatiy_svabhava_i_adhyatma_v_stihe_8_3_gity
+record_id: 1982.04.14.D3
+title: Объяснение понятий «свабхава» и «адхйатма» в стихе 8.3 «Гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9046381
+  duration: 00:07:44
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
+date: 1982-04-14
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.mp3
     title: аудиозапись в MP3 (7 мин. 43 сек., 8,7 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/608_1982.04.14.D3_SridharMj_Objasnenie_ponjatij_svabhava_i_adhjatma_v_stihe_8.3_Gity.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 608. 1982.04.14.D3. Объяснение понятий «свабхава» и «адхйатма» в стихе
+    8.3 «Гиты»
+  index: "608"
+  filename: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity.md
+  slug: 608-1982-04-14-d3-obyasnenie-ponyatij-svabhava-i-adhjatma-v-stihe-8-3-gity
 ---
-
-# 608. 1982.04.14.D3. Объяснение понятий «свабхава» и «адхйатма» в стихе 8.3 «Гиты»
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол.
 
@@ -26,7 +36,7 @@ links:
 
 *#00:00:26#*
 
-**Шрила Шридхар Махарадж:** *Адхйатма.* *Свабха̄во ’дхйа̄тмам учйате. Акш̣арам̇ брахма парамам̇* — эта строка понятна? Смысл понятен, да? *Акш̣арам̇ брахма парамам̇.* Затем
+**Шрила Шридхар Махарадж:** *Адхйатма*. *Свабха̄во ’дхйа̄тмам учйате. Акш̣арам̇ брахма парамам̇* — эта строка понятна? Смысл понятен, да? *Акш̣арам̇ брахма парамам̇*. Затем
 
     свабха̄во ’дхйа̄тмам учйате
     бхӯта-бха̄водбхава-каро

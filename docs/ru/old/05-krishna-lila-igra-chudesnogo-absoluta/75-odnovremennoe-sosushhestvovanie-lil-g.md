@@ -1,18 +1,25 @@
 ---
 slug: 75-odnovremennoe-sosushhestvovanie-lil-g
+record_id: 1982.01.17.A3
+title: Одновременное сосуществование лил Господа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1504559
+  duration: 00:01:44
+  src: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
+date: 1982-01-17
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/075_1982.01.17.A3_SridharMj_Odnovremennoe_sosuwestvovaniye_lil_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (1 мин 44 сек, размер 1 Мб)
+legacy:
+  title: 75. Одновременное сосуществование лил Господа. 1982.01.17.A3
+  index: "75"
+  filename: 75-odnovremennoe-sosushhestvovanie-lil-g.md
 ---
-
-# 75. Одновременное сосуществование лил Господа. 1982.01.17.A3
 
 Все Его игры вечны, сосуществуют во времени и пространстве. Не только сосуществование, одновременное существование. Когда я изучал философию, мне сказали, что сосуществование — это критерий, благодаря которому мы можем почувствовать, понять идею пространства.
 

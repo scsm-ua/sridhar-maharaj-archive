@@ -1,24 +1,17 @@
 ---
-slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
+slug: 1982-01-25-a3_shanta-rasa_vo_vrindavane
+record_id: 1982.01.25.A3
+title: Шанта-раса во Вриндаване
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8715107
+  duration: 00:12:50
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.mp3
+date: 1982-01-25
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
-  - title: Чайтанья-чандрамрита 95
-    slug: chajtanya-chandramrita-95
-  - title: Враджа-виласа-става
-    slug: vradzha-vilasa-stava
-  - title: Враджа-виласа-става 102
-    slug: vradzha-vilasa-stava-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.14.13
-    slug: shrimad-bhagavatam-11-14-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (12 мин. 50 сек., 64 кбит/сек, 8.3 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/053_1982.01.25.A3_SridharMj_Shanta-rasa_vo_Vrindavane.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 053. 1982.01.25.A3 Шанта-раса во Вриндаване
+  index: "053"
+  filename: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3.md
+  slug: 053_1982-01-25-a3_sridharmj_shanta-rasa_vo_vrindavane-mp3
+tags:
+  - title: Чайтанья-чандрамрита 95
+    slug: chajtanya-chandramrita-95
+  - title: Враджа-виласа-става 102
+    slug: vradzha-vilasa-stava-102
+  - title: Шримад-Бхагаватам 11.14.13
+    slug: shrimad-bhagavatam-11-14-13
 ---
-
-# 053. 1982.01.25.A3 Шанта-раса во Вриндаване
 
 **Преданный:** То есть восемьдесят четыре *лакха* форм жизни — это всего лишь идеи?
 

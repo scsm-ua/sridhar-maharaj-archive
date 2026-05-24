@@ -4,13 +4,15 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../13-lila-igra-chudesnogo-absolyuta/164-1982-01-28-a-shukadev-shri-chajtanya-i-gaudiya-math-yavlyayut-chistotu-krishna-lily.md
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/988-1981-11-12-a2-2-a2-4-dzhi-bi-si-vajkunthi-bhakti-rakshak-strazh-u-vrat.md
-tags:
+  - ../../_full/1981/11/1981.11.12.md
+scriptures:
   - title: Сарвасва томара
     slug: sarvasva-tomara
-  - title: Сарвасва томара 2
-    slug: sarvasva-tomara-2
   - title: Шаранагати
     slug: sharanagati
+verses:
+  - title: Сарвасва томара 2
+    slug: sarvasva-tomara-2
   - title: Шаранагати 3
     slug: sharanagati-3
 ---

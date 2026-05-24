@@ -1,40 +1,17 @@
 ---
-slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
+slug: 1983-05-09-b2_meditatsiya_na_smysly_tretego_stiha_shikshashtaki_i_smezhnye_temy
+record_id: 1983.05.09.B2
+title: Медитация на смыслы третьего стиха Шикшаштаки и смежные темы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13288552
+  duration: 00:25:53
+  src: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
+date: 1983-05-09
 category:
   title: 54. Смирение и терпение
   slug: 54-smirenie-i-terpenie
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 3
-    slug: shri-shikshashtakam-3
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
-    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.234
-    slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
-    slug: shri-chajtanya-charitamrita-antya-lila-6-236
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
-    slug: shri-chajtanya-charitamrita-antya-lila-6-237
-  - title: Кабе муи вайшнава чинибо
-    slug: kabe-mui-vajshnava-chinibo
-  - title: Кабе муи вайшнава чинибо 6
-    slug: kabe-mui-vajshnava-chinibo-6
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда 17.158
-    slug: shri-chajtanya-bhagavata-adi-khanda-17-158
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда 9.225
-    slug: shri-chajtanya-bhagavata-adi-khanda-9-225
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.mp3
     title: аудиозапись в MP3 (25 мин. 53 сек., 12,7 МБ)
@@ -42,9 +19,30 @@ links:
     title: транскрипцию в RTF (227 КБ)
   - href: /dl/54._Smirenie_i_terpenie/837_1983.05.09.B2_SridharMj_Meditacija_na_smysly_tretego_stiha_Shikshashtaki_i_smezhnye_temy.pdf
     title: транскрипцию в PDF (197 КБ)
+legacy:
+  title: 837. 1983.05.09.B2. Медитация на смыслы третьего стиха Шикшаштаки и
+    смежные темы
+  index: "837"
+  filename: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
+  slug: 837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy
+tags:
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-136
+  - title: Бхакти-расамрита-синдху 1.2.234
+    slug: bhakti-rasamrita-sindhu-1-2-234
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
+    slug: shri-chajtanya-charitamrita-antya-lila-6-236
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.237
+    slug: shri-chajtanya-charitamrita-antya-lila-6-237
+  - title: Кабе муи вайшнава чинибо 6
+    slug: kabe-mui-vajshnava-chinibo-6
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 17.158
+    slug: shri-chajtanya-bhagavata-adi-khanda-17-158
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 9.225
+    slug: shri-chajtanya-bhagavata-adi-khanda-9-225
 ---
-
-# 837. 1983.05.09.B2. Медитация на смыслы третьего стиха Шикшаштаки и смежные темы
 
     тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄

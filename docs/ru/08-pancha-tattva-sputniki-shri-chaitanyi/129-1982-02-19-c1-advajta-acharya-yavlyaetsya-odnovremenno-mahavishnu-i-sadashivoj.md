@@ -1,18 +1,24 @@
 ---
-slug: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj
+slug: 1982-02-19-c1_advayta_acharya_yavlyaetsya_odnovremenno_mahavishnu_i_sadashivoy
+record_id: 1982.02.19.C1
+title: Адвайта Ачарья является одновременно Махавишну и Садашивой
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5274112
+  duration: 00:03:59
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
+date: 1982-02-19
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Адвайта Ачарья
     slug: advajta-acharya
   - title: Маха-Вишну
     slug: maha-vishnu
   - title: Садашива
     slug: sadashiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.mp3
     title: аудиозапись в MP3 (3 мин. 59 сек., 5,1 МБ)
@@ -20,9 +26,13 @@ links:
     title: транскрипцию в RTF (42 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/129_1982.02.19.C1_SridharMj_Advayta_Acharya_yavlyaetsya_odnovremenno_Mahavishnu_i_Sadashivoy.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 129. 1982.02.19.C1. Адвайта Ачарья является одновременно Махавишну и
+    Садашивой
+  index: "129"
+  filename: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj.md
+  slug: 129-1982-02-19-c1-advajta-acharya-yavlyaetsya-odnovremenno-mahavishnu-i-sadashivoj
 ---
-
-# 129. 1982.02.19.C1. Адвайта Ачарья является одновременно Махавишну и Садашивой
 
 *(«Мгновения Прекрасной Реальности», часть 8.1)*
 

@@ -3,9 +3,12 @@ slug: shrimad-bhagavatam-10-1-4
 refs:
   - ../../04-vrindavan-zhit-odnoy-semyey-s-bogom/047_1983-02-27-a-b1_sridharmj_milost_vaisnavov_vedet_v_izmerenie_prevoshodyawee_mir_dushi.md
   - ../../14-kak-poznat-i-uvidet-boga/207-1982-11-07-b5-sposobnost-postizheniya-istiny-zavisit-ot-iskrennosti-vkusa-upovaniya-na-milost-boga-i-duhovnoj-udachi.md
-tags:
+  - ../../_full/1983/02/1983.02.21-v2.md
+  - ../../_full/1983/02/1983.02.26.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.1.4
     slug: shrimad-bhagavatam-10-1-4
 ---

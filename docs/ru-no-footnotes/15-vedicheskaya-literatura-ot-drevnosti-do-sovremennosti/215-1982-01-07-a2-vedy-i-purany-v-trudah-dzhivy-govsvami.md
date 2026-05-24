@@ -1,12 +1,17 @@
 ---
-slug: 215-1982-01-07-a2-vedy-i-purany-v-trudah-dzhivy-govsvami
+slug: 1982-01-07-a2_vedy_i_purany_v_trudah_dzhivy_govsvami
+record_id: 1982.01.07.A2
+title: Веды и Пураны в трудах Дживы Говсвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2146816
+  duration: 00:03:04
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.mp3
+date: 1982-01-07
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.mp3
     title: аудиозапись в MP3 (3 мин. 04 сек., 2,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/215_1982.01.07.A2_SridharMj_Vedy_i_Purany_v_trudah_Dzhivy_Govsvami.pdf
     title: транскрипцию в PDF (120 КБ)
+legacy:
+  title: 215. 1982.01.07.A2. Веды и Пураны в трудах Дживы Говсвами
+  index: "215"
+  filename: 215-1982-01-07-a2-vedy-i-purany-v-trudah-dzhivy-govsvami.md
+  slug: 215-1982-01-07-a2-vedy-i-purany-v-trudah-dzhivy-govsvami
 ---
-
-# 215. 1982.01.07.A2. Веды и Пураны в трудах Дживы Говсвами
 
 Существует восемнадцать *пуран*. Две характеристики *пуран* Джива Госвами Прабху упоминает в своей «Бхагавата-сандарбхе». Эти произведения носят дополнительный, вспомогательный характер по отношению к Ведам, дополняют Веды — такова природа *пуран*. То, что не выражено в Ведах ясно и недвусмысленно, *пураны* [объясняют], содержа дополнительное или вспомогательное знание. [санскрит] Также знание, которое отсутствует в Ведах, присутствует в *пуранах*. *Пурана* означает «древний». Веды содержат определенные истины, и *пураны* подтверждают их.
 

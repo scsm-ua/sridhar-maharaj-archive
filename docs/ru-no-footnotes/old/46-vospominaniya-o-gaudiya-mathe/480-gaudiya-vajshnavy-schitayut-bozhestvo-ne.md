@@ -1,22 +1,30 @@
 ---
 slug: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne
+record_id: 1982.01.13.B3
+title: "Гаудия-вайшнавы считают Божество неотличным от Господа "
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7011819
+  duration: 00:13:25
+  src: /wp-content/uploads/2012/08/480_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
+date: 1982-01-13
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Божество
     slug: bozhestvo
   - title: Гаудия-матх
     slug: gaudiya-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/480_1982.01.13.B3_SridharMj_Gaudiya-vaishnavy_schitayu_Bojestvo_neotlichnym_ot_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (13 мин 25 сек, размер 7 Мб)
+legacy:
+  title: 480. Гаудия-вайшнавы считают Божество неотличным от Господа .1982.01.13.B3
+  index: "480"
+  filename: 480-gaudiya-vajshnavy-schitayut-bozhestvo-ne.md
 ---
-
-# 480. Гаудия-вайшнавы считают Божество неотличным от Господа .1982.01.13.B3
 
 Кто здесь? А где Камаласана?
 

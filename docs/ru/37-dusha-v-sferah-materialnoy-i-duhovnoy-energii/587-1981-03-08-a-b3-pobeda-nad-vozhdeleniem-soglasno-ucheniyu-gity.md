@@ -1,26 +1,28 @@
 ---
-slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
+slug: 1981-03-08-a-b3_pobeda_nad_vozhdeleniem_soglasno_ucheniyu_gity
+record_id: 1981.03.08.A.B3
+title: Победа над вожделением согласно учению «Гиты»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7694397
+  duration: 00:12:38
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
+date: 1981-03-08
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
   - title: Бхагавад-гита 3.43
     slug: bhagavad-gita-3-43
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.20.19
     slug: shrimad-bhagavatam-10-20-19
   - title: Бхагавад-гита 2.59
     slug: bhagavad-gita-2-59
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.mp3
     title: аудиозапись в MP3 (12 мин. 38 сек., 7,4 МБ)
@@ -28,9 +30,12 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/587_1981.03.08.A.B3_SridharMj_Pobeda_nad_vozhdeleniem_soglasno_ucheniju_Gity.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 587. 1981.03.08.A.B3. Победа над вожделением согласно учению «Гиты»
+  index: "587"
+  filename: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity.md
+  slug: 587-1981-03-08-a-b3-pobeda-nad-vozhdeleniem-soglasno-ucheniyu-gity
 ---
-
-# 587. 1981.03.08.A.B3. Победа над вожделением согласно учению «Гиты»
 
 **Преданный:** У меня есть один вопрос.
 
@@ -94,7 +99,7 @@ links:
     сварӯпе саба̄ра хайа голокете стхити
 [^_ftn5]
 
-С одной стороны, подобное достижение очень тяжело, с другой стороны — очень легко. А это все — искусственно и дурно. То, что мы делаем здесь — эти реалии, любые функции, любая деятельность, — все это искусственно. Мы увидим, что наше естество таково: *сварӯпе саба̄ра хайа голокете стхити.*
+С одной стороны, подобное достижение очень тяжело, с другой стороны — очень легко. А это все — искусственно и дурно. То, что мы делаем здесь — эти реалии, любые функции, любая деятельность, — все это искусственно. Мы увидим, что наше естество таково: *сварӯпе саба̄ра хайа голокете стхити*.
 
 *#00:10:02#*
 

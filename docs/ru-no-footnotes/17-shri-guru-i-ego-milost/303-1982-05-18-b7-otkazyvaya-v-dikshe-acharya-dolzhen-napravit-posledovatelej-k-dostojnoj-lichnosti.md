@@ -1,12 +1,17 @@
 ---
-slug: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti
+slug: 1982-05-18-b7_otkazyvaya_v_dikshe_acharya_dolzhen_napravit_posledovateley_k_dostoynoy_lichnosti
+record_id: 1982.05.18.B7
+title: Отказывая в дикше, ачарья должен направить последователей к достойной личности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4318218
+  duration: 00:03:07
+  src: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3
+date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.mp3
     title: аудиозапись в MP3 (3 мин. 06 сек., 4,2 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/303_1982.05.18.B7_SridharMj_Otkazyvaja_v_dikshe_acharja_dolzhen_napravit_posledovatelej_k_dostojnoj_lichnosti.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 303. 1982.05.18.B7. Отказывая в дикше, ачарья должен направить
+    последователей к достойной личности
+  index: "303"
+  filename: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti.md
+  slug: 303-1982-05-18-b7-otkazyvaya-v-dikshe-acharya-dolzhen-napravit-posledovatelej-k-dostojnoj-lichnosti
 ---
-
-# 303. 1982.05.18.B7. Отказывая в дикше, ачарья должен направить последователей к достойной личности
 
 **Преданный:** Махарадж, *Ачарья* может решить: «Я уже дал достаточно *дикш*», и приостановить…
 

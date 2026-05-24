@@ -5,9 +5,20 @@ refs:
   - ../../22-sannyasa-otrechenie-ot-mira/398-1983-01-22-c2-o-kvalifikatsii-dlya-prinyatiya-sannyasy.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
-tags:
+  - ../../_full/1981/03/1981.03.01.md
+  - ../../_full/1981/10/1981.10.05.B.md
+  - ../../_full/1981/10/1981.10.05.C.D.md
+  - ../../_full/1982/01/1982.01.21.md
+  - ../../_full/1982/09/1982.09.04.A.B.md
+  - ../../_full/1982/12/1982.12.19.B.C.md
+  - ../../_full/1983/01/1983.01.22.B.md
+  - ../../_full/1983/03/1983.03.31.md
+  - ../../_full/1983/07/1983.07.08.md
+  - ../../_full/1983/08/1983.08.08.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.5.18
     slug: shrimad-bhagavatam-1-5-18
 ---

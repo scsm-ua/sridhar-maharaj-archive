@@ -6,9 +6,15 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/922-1981-09-05-a1-velichie-lality-devi.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1101-1983-06-05-c3-obyasnenie-devyatogo-stiha-bhaktivinoda-viraha-dashakam-i-pesni-guru-parampara.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru.md
-tags:
+  - ../../_full/1981/09/1981.09.23.A.md
+  - ../../_full/1982/01/1982.01.31.md
+  - ../../_full/1982/09/1982.09.08.A.md
+  - ../../_full/1983/06/1983.06.05.md
+  - ../../_full/1983/10/1983.10.13.A.B.md
+scriptures:
   - title: Шри Гуру-парампара
     slug: shri-guru-parampara
+verses:
   - title: Шри Гуру-парампара 6
     slug: shri-guru-parampara-6
 ---

@@ -4,9 +4,11 @@ refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani.md
   - ../../40-bog-i-bogi/687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne.md
   - ../../51-filosofiya-i-praktika-bhakti-yogi/802-1982-11-06-a4-slava-mesyatsa-kartika.md
-tags:
+  - ../../_full/1982/07/1982.07.09.A.B1.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.22.4
     slug: shrimad-bhagavatam-10-22-4
 ---

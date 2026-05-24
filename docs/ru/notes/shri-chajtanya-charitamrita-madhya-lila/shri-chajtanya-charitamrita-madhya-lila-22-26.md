@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-22-26
 refs:
   - ../../33-dharma-uchenie-o-dolge/533-1981-11-29-a1-vajshnav-i-varnashrama.md
-tags:
+  - ../../_full/1981/11/1981.11.29.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.26
     slug: shri-chajtanya-charitamrita-madhya-lila-22-26
 ---

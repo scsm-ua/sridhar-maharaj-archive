@@ -1,22 +1,30 @@
 ---
 slug: 493-proslavlenie-shrily-b-s-govindy-mahar
+record_id: 1985.11.07
+title: Прославление Шрилы Б.С. Говинды Махараджа.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 66791893
+  duration: 01:06:41
+  src: /wp-content/uploads/2012/08/493_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
+date: 1985-11-07
 category:
   title: (46. Шри Чайтанья Сарасват Матх)
   slug: 46-sri-chaitanya-saraswat-math
 tags:
-  - title: "1985.11"
-    slug: 1985-11
   - title: Говинда Махарадж
     slug: govinda-maharadzh
   - title: Шри Чайтанья Сарасват Матх
     slug: shri-chajtanya-sarasvat-math
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/493_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
     title: Скачать аудиозапись в mp3 (1 ч 6 мин 41 сек, размер 66 Мб)
+legacy:
+  title: 493. Прославление Шрилы Б.С. Говинды Махараджа. 1985.11.07
+  index: "493"
+  filename: 493-proslavlenie-shrily-b-s-govindy-mahar.md
 ---
-
-# 493. Прославление Шрилы Б.С. Говинды Махараджа. 1985.11.07
 
 *#00:00:00#*
 

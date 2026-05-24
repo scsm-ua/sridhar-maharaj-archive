@@ -1,32 +1,17 @@
 ---
-slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+slug: 1982-07-27-a1_glavnyy_sovet_bhagavad-gity_karma-yoga_i_probuzhdenie_istinnogo_ego
+record_id: 1982.07.27.A1
+title: Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21146738
+  duration: 00:21:12
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
+date: 1982-07-27
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
-    slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.14.8
-    slug: shrimad-bhagavatam-10-14-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 2.47
-    slug: bhagavad-gita-2-47
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 3
-    slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.mp3
     title: аудиозапись в MP3 (21 мин. 11 сек., 20,2 МБ)
@@ -34,9 +19,24 @@ links:
     title: транскрипцию в RTF (172 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/418_1982.07.27.A1_SridharMj_Glavnyj_sovet_Bhagavad-gity__Karma-joga_i_probuzhdenie_istinnogo_jego.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и
+    пробуждение истинного эго
+  index: "418"
+  filename: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego.md
+  slug: 418-1982-07-27-a1-glavnyj-sovet-bhagavad-gity-karma-joga-i-probuzhdenie-istinnogo-ego
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
+  - title: Бхагавад-гита 2.47
+    slug: bhagavad-gita-2-47
+  - title: Шри Шикшаштакам 3
+    slug: shri-shikshashtakam-3
 ---
-
-# 418. 1982.07.27.A1. Главный совет «Бхагавад-гиты». Карма-йога и пробуждение истинного эго
 
 **Шрила Шридхар Махарадж:** Эти двое?
 
@@ -120,7 +120,7 @@ links:
 
     [шлока]
 
-*Мадху*, *мадху*, *мадху* — мед, мед, мед; сладость, сладость, сладость — все сладостно; ветер — сладостен, вода — сладостна, деревья — сладостны. Все, с чем ты соприкасаешься, все сладостно. Твое внутреннее эго является твоим врагом, и для того чтобы растворить, уничтожить это эго, необходим вышеописанный процесс: выполняй свой долг — долг, к которому (как ты думаешь) ты пригоден. Но никогда не ожидай ответа, согласно своим прихотям, своей воле — это *карма-йога.* Если ты примешь этот процесс *карма-йоги*, то очень скоро ты обнаружишь, что эго, которое ожидало каверзным, обманчивым образом каких-то плодов, — это эго уйдет, и новое эго проявится, широкое эго, не узкое, и ты окажешься в гармонии с целой вселенной, со всем мирозданием.
+*Мадху*, *мадху*, *мадху* — мед, мед, мед; сладость, сладость, сладость — все сладостно; ветер — сладостен, вода — сладостна, деревья — сладостны. Все, с чем ты соприкасаешься, все сладостно. Твое внутреннее эго является твоим врагом, и для того чтобы растворить, уничтожить это эго, необходим вышеописанный процесс: выполняй свой долг — долг, к которому (как ты думаешь) ты пригоден. Но никогда не ожидай ответа, согласно своим прихотям, своей воле — это *карма-йога*. Если ты примешь этот процесс *карма-йоги*, то очень скоро ты обнаружишь, что эго, которое ожидало каверзным, обманчивым образом каких-то плодов, — это эго уйдет, и новое эго проявится, широкое эго, не узкое, и ты окажешься в гармонии с целой вселенной, со всем мирозданием.
 
 *#00:10:14#*
 

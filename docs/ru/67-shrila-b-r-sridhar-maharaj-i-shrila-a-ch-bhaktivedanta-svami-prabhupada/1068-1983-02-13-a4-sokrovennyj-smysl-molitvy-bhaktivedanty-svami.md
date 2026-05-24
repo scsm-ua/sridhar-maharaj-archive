@@ -1,24 +1,17 @@
 ---
-slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
+slug: 1983-02-13-a4_sokrovennyy_smysl_molitvy_bhaktivedanty_svami
+record_id: 1983.02.13.A4
+title: Сокровенный смысл молитвы Бхактиведанты Свами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4670946
+  duration: 00:06:27
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
+date: 1983-02-13
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
-    slug: shri-chajtanya-charitamrita-adi-lila-1-46
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.17.27
-    slug: shrimad-bhagavatam-11-17-27
-  - title: Вайшнава ке
-    slug: vajshnava-ke
-  - title: Вайшнава ке 3
-    slug: vajshnava-ke-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
     title: аудиозапись в MP3 (6 мин. 27 сек., 4,5 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1068_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
+  index: "1068"
+  filename: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami.md
+  slug: 1068-1983-02-13-a4-sokrovennyj-smysl-molitvy-bhaktivedanty-svami
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.46
+    slug: shri-chajtanya-charitamrita-adi-lila-1-46
+  - title: Шримад-Бхагаватам 11.17.27
+    slug: shrimad-bhagavatam-11-17-27
+  - title: Вайшнава ке 3
+    slug: vajshnava-ke-3
 ---
-
-# 1068. 1983.02.13.A4. Сокровенный смысл молитвы Бхактиведанты Свами
 
 **Преданный:** Гуру Махарадж, говорится, что Свами Махарадж испытывал влечение к *сакхья-расе*.
 
@@ -46,7 +49,7 @@ links:
 
 *#00:02:05#*
 
-Он игриво упоминает там, он говорит: «После того как я завершу эту миссию, я вновь присоединюсь к Твоей *вриндаван-лиле* в качестве друга, и мы будем играть, испытывая высочайшие чувства». Таким образом. Из этого я сопоставляю, я делаю вывод, что его радость служения он черпает в *сакхья-расе.* Это предположение.
+Он игриво упоминает там, он говорит: «После того как я завершу эту миссию, я вновь присоединюсь к Твоей *вриндаван-лиле* в качестве друга, и мы будем играть, испытывая высочайшие чувства». Таким образом. Из этого я сопоставляю, я делаю вывод, что его радость служения он черпает в *сакхья-расе*. Это предположение.
 
 *#00:02:49#*
 

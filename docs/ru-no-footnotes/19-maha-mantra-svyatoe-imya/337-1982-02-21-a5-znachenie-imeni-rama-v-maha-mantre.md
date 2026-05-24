@@ -1,14 +1,20 @@
 ---
-slug: 337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre
+slug: 1982-02-21-a5_znachenie_imeni_rama_v_maha-mantre
+record_id: 1982.02.21.A5
+title: Значение имени «Рама» в маха-мантре
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7419736
+  duration: 00:19:43
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
+date: 1982-02-21
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.mp3
     title: аудиозапись в MP3 (19 мин. 42 сек., 7,1 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (208 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/337_1982.02.21.A5_SridharMj_Znacheniye_imeni_Rama_v_maha-mantre.pdf
     title: транскрипцию в PDF (169 КБ)
+legacy:
+  title: 337. 1982.02.21.A5. Значение имени «Рама» в маха-мантре
+  index: "337"
+  filename: 337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre.md
+  slug: 337-1982-02-21-a5-znachenie-imeni-rama-v-maha-mantre
 ---
-
-# 337. 1982.02.21.A5. Значение имени «Рама» в маха-мантре
 
 **Преданный:** Махарадж, в Дургапуре был один человек, который цитировал «Кали-сантарана-упанишаду». Он цитировал оттуда один стих, в котором, я думаю, Господь Брахма утверждает, что в *маха-мантре* «Харе Рама Харе Рама Рама Рама Харе Харе» идет в начале, «Харе Кришна» следует за этим. Он спросил: «Как вы понимаете это в своей философии?»
 

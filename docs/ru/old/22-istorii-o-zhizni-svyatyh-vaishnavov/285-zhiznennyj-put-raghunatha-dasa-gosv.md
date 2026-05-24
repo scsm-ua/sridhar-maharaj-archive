@@ -1,24 +1,32 @@
 ---
 slug: 285-zhiznennyj-put-raghunatha-dasa-gosv
+record_id: 1983.05.04.B1
+title: Жизненный путь Рагхунатха Даса Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10978733
+  duration: 00:22:32
+  src: /wp-content/uploads/2012/08/285_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
+date: 1983-05-04
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Кришнадас Кавирадж Госвами
     slug: krishnadas-kaviradzh-gosvami
   - title: Рагхунатх Дас Госвами
     slug: raghunath-das-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/285_1983.05.04.B1_SridharMj_Jiznenniy_put_Raghunatha_Dasa_Goswami.mp3
     title: Скачать аудиозапись в mp3 (22 мин 32 сек, размер 11 Мб)
+legacy:
+  title: 285. Жизненный путь Рагхунатха Даса Госвами. 1983.05.04.B1
+  index: "285"
+  filename: 285-zhiznennyj-put-raghunatha-dasa-gosv.md
 ---
-
-# 285. Жизненный путь Рагхунатха Даса Госвами. 1983.05.04.B1
 
 **Преданный:** Мы видим, как Рагхунатх Дас Госвами принимал руководство Махапрабху, затем Сварупы Дамодара, затем Рупы и Санатаны…
 

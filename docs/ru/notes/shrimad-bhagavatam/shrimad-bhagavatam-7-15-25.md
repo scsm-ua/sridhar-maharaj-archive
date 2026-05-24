@@ -2,9 +2,15 @@
 slug: shrimad-bhagavatam-7-15-25
 refs:
   - ../../23-pamyatovanie-o-gospode-solnce-vishnu/410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
-tags:
+  - ../../_full/1981/11/1981.11.13.A.B.md
+  - ../../_full/1981/12/1981.12.29.B.C.md
+  - ../../_full/1982/01/1982.01.27-v2.md
+  - ../../_full/1982/01/1982.01.27.md
+  - ../../_full/1982/10/1982.10.08.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 7.15.25
     slug: shrimad-bhagavatam-7-15-25
 ---

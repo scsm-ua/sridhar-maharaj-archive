@@ -11,9 +11,20 @@ refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/951-1982-04-18-b2-c-vrindavan-das-thakur-chajtanya-bhagavata-i-chajtanya-charitamrita.md
-tags:
+  - ../../_full/1981/03/1981.03.02.md
+  - ../../_full/1981/11/1981.11.15.B.md
+  - ../../_full/1981/12/1981.12.13.B.md
+  - ../../_full/1981/12/1981.12.29.B.C.md
+  - ../../_full/1982/01/1982.01.26.md
+  - ../../_full/1982/04/1982.04.27.B2.C1.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1982/10/1982.10.29.A.B.C.md
+  - ../../_full/1983/05/1983.05.04.md
+  - ../../_full/1983/08/1983.08.13.A.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.205
     slug: shri-chajtanya-charitamrita-adi-lila-5-205
 ---
@@ -21,6 +32,10 @@ tags:
 # «Шри Чайтанья-чаритамрита», Ади-лила 5.205
 
 Стих полностью: *джага̄и ма̄дха̄и хаите мун̃и се па̄пишт̣ха / пурӣш̣ера кӣт̣а хаите мун̃и се лагхишт̣ха* — «Я более грешен, чем Джагай и Мадхай, я хуже червей в испражнениях» («Шри Чайтанья-чаритамрита», Ади-лила, 5.205).
+
+---
+
+*джага̄и ма̄дха̄и хаите мун̃и се па̄пиш̣т̣ха / пурӣш̣ера кӣт̣а хаите мун̃и се лагхишт̣ха* — «Я более грешен, чем Джагай и Мадхай, я хуже червей в испражнениях» («Шри Чайтанья-чаритамрита», Ади-лила, 5.205).
 
 ---
 

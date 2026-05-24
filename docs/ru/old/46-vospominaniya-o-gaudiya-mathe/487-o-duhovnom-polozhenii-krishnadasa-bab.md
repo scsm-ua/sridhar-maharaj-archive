@@ -1,20 +1,28 @@
 ---
 slug: 487-o-duhovnom-polozhenii-krishnadasa-bab
+record_id: 1983.04.16.A5
+title: О духовном положении Кришнадаса Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2471947
+  duration: 00:03:58
+  src: /wp-content/uploads/2012/08/487_1983.04.16.A5_SridharMj_O_duhovnom_polozhenii_Krishnadasa_Babaji.mp3
+date: 1983-04-16
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Кришнадас Бабаджи
     slug: krishnadas-babadzhi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/487_1983.04.16.A5_SridharMj_O_duhovnom_polozhenii_Krishnadasa_Babaji.mp3
     title: Скачать аудиозапись в mp3 (3 мин 58 сек, размер 2 Мб)
+legacy:
+  title: 487. О духовном положении Кришнадаса Бабаджи. 1983.04.16.A5
+  index: "487"
+  filename: 487-o-duhovnom-polozhenii-krishnadasa-bab.md
 ---
-
-# 487. О духовном положении Кришнадаса Бабаджи. 1983.04.16.A5
 
 **Ученик:** Махарадж, года три-четыре назад возможно я спрашивал вас, тождество моего Гуру Махараджа согласно вашей вичаре, вашим суждения может быть в духовном мире, общий анализ показывает нечто. Я хотел спросить вас то же самое о Кришнадасе Бабаджи.
 

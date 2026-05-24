@@ -3,9 +3,12 @@ slug: bhagavad-gita-9-10
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/617-1981-02-28-d3-chto-znachit-vyrazhenie-subektivnaya-evolyutsiya.md
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
-tags:
+  - ../../_full/1981/02/1981.02.28.md
+  - ../../_full/1981/03/1981.03.06.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.10
     slug: bhagavad-gita-9-10
 ---

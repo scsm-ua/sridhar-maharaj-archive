@@ -1,22 +1,30 @@
 ---
 slug: 142-filosofskoe-obyasnenie-polozheniya-sv
+record_id: 1983.05.09.C7
+title: Философское объяснение положения Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1927367
+  duration: 00:03:10
+  src: /wp-content/uploads/2012/08/142_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
+date: 1983-05-09
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Маха-мантра
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/142_1983.05.09.C7_SridharMj_Filosofskoye_obyasnenie_polojeniya_Svyatogo_Imeni.mp3
     title: Скачать аудиозапись в mp3 (3 мин 10 сек, размер 1 Мб)
+legacy:
+  title: 142. Философское объяснение положения Святого Имени. 1983.05.09.С7
+  index: "142"
+  filename: 142-filosofskoe-obyasnenie-polozheniya-sv.md
 ---
-
-# 142. Философское объяснение положения Святого Имени. 1983.05.09.С7
 
 **Ученик:** Махарадж, некоторые люди не готовы принять воспевание святого Имени, они склонны к гьяне.
 

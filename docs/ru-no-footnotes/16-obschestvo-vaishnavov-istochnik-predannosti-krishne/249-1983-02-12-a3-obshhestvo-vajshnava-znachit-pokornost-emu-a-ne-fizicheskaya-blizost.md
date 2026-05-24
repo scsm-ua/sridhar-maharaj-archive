@@ -1,14 +1,20 @@
 ---
-slug: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost
+slug: 1983-02-12-a3_obshchestvo_vayshnava_znachit_pokornost_emu_a_ne_fizicheskaya_blizost
+record_id: 1983.02.12.A3
+title: Общество вайшнава – значит покорность ему, а не физическая близость
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2811413
+  duration: 00:03:30
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.mp3
+date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.mp3
     title: аудиозапись в MP3 (3 мин. 30 сек., 2,7 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/249_1983.02.12.A3_SridharMj_Obshhestvo_vajshnava--znachit_pokornost_emu_a_ne_fizicheskaja_blizost.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 249. 1983.02.12.A3. Общество вайшнава – значит покорность ему, а не
+    физическая близость
+  index: "249"
+  filename: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost.md
+  slug: 249-1983-02-12-a3-obshhestvo-vajshnava-znachit-pokornost-emu-a-ne-fizicheskaya-blizost
 ---
-
-# 249. 1983.02.12.A3. Общество вайшнава – значит покорность ему, а не физическая близость
 
 **Преданный:** Махарадж, у меня есть вопрос, он скорее носит личный характер. Я приехал сюда, намереваясь оставаться до Гаура Пурнимы в вашем обществе. Я хочу знать [чем мне заниматься], я не уверен, что могу остаться надолго, на этот срок.
 

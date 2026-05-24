@@ -1,13 +1,30 @@
 ---
-slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
+slug: 1982-01-09-c5_imitatsiya_ne_est_realizatsiya_obraz_mahiravany_v_ramayane
+record_id: 1982.01.09.C5
+title: Имитация не есть реализация. Образ Махираваны в Рамаяне.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9479784
+  duration: 00:15:12
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
+date: 1982-01-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
+links:
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
+    title: аудиозапись в MP3 (15 мин. 12 сек., 9,1 МБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.rtf
+    title: транскрипцию в RTF (151 КБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.pdf
+    title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 883. 1982.01.09.C5. Имитация не есть реализация. Образ Махираваны в Рамаяне
+  index: "883"
+  filename: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane.md
+  slug: 883-1982-01-09-c5-imitatsiya-ne-est-realizatsiya-obraz-mahiravany-v-ramayane
 tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
     slug: shri-chajtanya-charitamrita-madhya-lila-19-151
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.152
@@ -16,17 +33,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-154
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.mp3
-    title: аудиозапись в MP3 (15 мин. 12 сек., 9,1 МБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.rtf
-    title: транскрипцию в RTF (151 КБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/883_1982.01.09.C5_SridharMj_Imitacija_ne_est_realizacija__Obraz_Mahiravany_v_Ramajane.pdf
-    title: транскрипцию в PDF (160 КБ)
 ---
-
-# 883. 1982.01.09.C5. Имитация не есть реализация. Образ Махираваны в Рамаяне
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.
 

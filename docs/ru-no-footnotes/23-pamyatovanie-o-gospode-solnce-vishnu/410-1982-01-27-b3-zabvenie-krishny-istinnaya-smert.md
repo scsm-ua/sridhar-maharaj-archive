@@ -1,14 +1,20 @@
 ---
-slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
+slug: 1982-01-27-b3_zabvenie_krishny_istinnaya_smert
+record_id: 1982.01.27.B3
+title: Забвение Кришны — истинная смерть
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4512296
+  duration: 00:06:50
+  src: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
+date: 1982-01-27
 category:
   title: 23. Памятование о Господе — солнце Вишну
   slug: 23-pamyatovanie-o-gospode-solnce-vishnu
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Риг-веда
     slug: rig-veda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.mp3
     title: аудиозапись в MP3 (6 мин. 49 сек., 4,4 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (105 КБ)
   - href: /dl/23._Pamyatovanie_o_Gospode--solnce_Vishnu/410_1982.01.27.B3_SridhaMj_Zabvenie_Krishny-istinnaya_smert.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
+  index: "410"
+  filename: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert.md
+  slug: 410-1982-01-27-b3-zabvenie-krishny-istinnaya-smert
 ---
-
-# 410. 1982.01.27.B3. Забвение Кришны — истинная смерть
 
     ко ну ра̄джанн индрийава̄н
     мукунда-чаран̣а̄мбуджам
@@ -26,7 +35,7 @@ links:
     упа̄сйам амароттамаих̣
 [^_ftn1]
 
-«Бхагаватам» дает указание: почему ты ищешь опасность? Факторы географии и истории — все они окружены опасностью. Ты думаешь, что эти факторы важны — время, география. Нет, независимо от этого мы всегда окружены опасностью. *ко ну ра̄джанн индрийава̄н, мукунда-чаран̣а̄мбуджам, на бхаджет сарвато-мр̣тйур.*
+«Бхагаватам» дает указание: почему ты ищешь опасность? Факторы географии и истории — все они окружены опасностью. Ты думаешь, что эти факторы важны — время, география. Нет, независимо от этого мы всегда окружены опасностью. *ко ну ра̄джанн индрийава̄н, мукунда-чаран̣а̄мбуджам, на бхаджет сарвато-мр̣тйур*.
 
 *#00:00:59#*
 

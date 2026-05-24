@@ -1,20 +1,28 @@
 ---
 slug: 439-mir-mnozhestva-hristov-1983-01-02-b
+record_id: 1983.01.02.B
+title: Мир множества Христов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21348758
+  duration: 00:44:11
+  src: /wp-content/uploads/2012/08/439_1983.01.02.B_SridharMj_Mir_mnojestva_Hristov.mp3
+date: 1983-01-02
 category:
   title: (41. Учение вайшнавов и Христианство)
   slug: 41-uchenie-vaishnavov-i-hristianstvo
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Христианство
     slug: hristianstvo
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/439_1983.01.02.B_SridharMj_Mir_mnojestva_Hristov.mp3
     title: Скачать аудиозапись в mp3 (44 мин 11 сек, размер 21 Мб)
+legacy:
+  title: 439. Мир множества Христов. 1983.01.02.B
+  index: "439"
+  filename: 439-mir-mnozhestva-hristov-1983-01-02-b.md
 ---
-
-# 439. Мир множества Христов. 1983.01.02.B
 
 *#00:00:00#*
 

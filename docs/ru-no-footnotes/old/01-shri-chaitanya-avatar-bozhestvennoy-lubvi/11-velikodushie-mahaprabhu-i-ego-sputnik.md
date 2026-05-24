@@ -1,5 +1,13 @@
 ---
 slug: 11-velikodushie-mahaprabhu-i-ego-sputnik
+title: Великодушие Махапрабху и Его спутников. Мгновения прекрасной реальности,
+  часть 4.5.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2483952
+  duration: 00:06:30
+  src: /wp-content/uploads/2012/08/011_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
@@ -10,13 +18,15 @@ tags:
     slug: mahaprabhu
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/011_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
     title: Скачать аудиозапись в mp3 (6 мин 30 сек, размер 2 Мб)
+legacy:
+  title: 11. Великодушие Махапрабху и Его спутников. Мгновения прекрасной
+    реальности, часть 4.5
+  index: "11"
+  filename: 11-velikodushie-mahaprabhu-i-ego-sputnik.md
 ---
-
-# 11. Великодушие Махапрабху и Его спутников. Мгновения прекрасной реальности, часть 4.5
 
 **Слушатель:** Почему Махапрабху дал высочайшую концепцию любви к Кришне, самым низким людям? Людям кали-юги.
 

@@ -1,12 +1,18 @@
 ---
-slug: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma
+slug: 1982-11-07-c7_neobhodimo_gluboko_osoznat_vysochayshee_polozhenie_shri_rupy_i_ego_ucheniya_na_osnove_sravnitelnogo_teizma
+record_id: 1982.11.07.C7
+title: «Необходимо глубоко осознать высочайшее положение Шри Рупы и его учения
+  на основе сравнительного теизма»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4708791
+  duration: 00:04:17
+  src: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3
+date: 1982-11-07
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 4,5 МБ)
@@ -14,9 +20,13 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/26._Rupanuga-sampradaya/454_1982.11.07.C7_SridharMj_Neobhodimo_gluboko_osoznat_vysochajshee_polozhenie_Shri_Rupy_i_ego_uchenija_na_osnove_sravnitelnogo_teizma.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 454. 1982.11.07.C7. «Необходимо глубоко осознать высочайшее положение Шри
+    Рупы и его учения на основе сравнительного теизма»
+  index: "454"
+  filename: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma.md
+  slug: 454-1982-11-07-c7-neobhodimo-gluboko-osoznat-vysochajshee-polozhenie-shri-rupy-i-ego-ucheniya-na-osnove-sravnitelnogo-teizma
 ---
-
-# 454. 1982.11.07.C7. «Необходимо глубоко осознать высочайшее положение Шри Рупы и его учения на основе сравнительного теизма»
 
 **Преданный:** Махарадж, в «Гаруда-пуране» сказано, что чистый *бхакта* встречается крайне-крайне редко. И если вы говорите, что лишь горстка людей дает вам высокую оценку, то это объясняется тем, что то, что вы даете, — это крайне редкое явление и крайне специфическое, особенное.
 

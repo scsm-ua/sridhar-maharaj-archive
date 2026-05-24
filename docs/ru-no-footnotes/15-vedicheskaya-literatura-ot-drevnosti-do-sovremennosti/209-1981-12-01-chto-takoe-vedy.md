@@ -1,12 +1,17 @@
 ---
-slug: 209-1981-12-01-chto-takoe-vedy
+slug: 1981-12-01_chto_takoe_vedy
+record_id: 1981.12.01
+title: Что такое Веды?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4416333
+  duration: 00:07:48
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
+date: 1981-12-01
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1981.12"
-    slug: 1981-12
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.mp3
     title: аудиозапись в MP3 (7 мин. 48 сек., 4,3 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/209_1981.12.01_SridharMj_Chto_takoe_Vedy.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 209. 1981.12.01. Что такое Веды?
+  index: "209"
+  filename: 209-1981-12-01-chto-takoe-vedy.md
+  slug: 209-1981-12-01-chto-takoe-vedy
 ---
-
-# 209. 1981.12.01. Что такое Веды?
 
 *Гурукула* — это система образования, которая существовала в древней Индии. Основой этого образования является знание за пределами бренного существования. Это истинное знание. Мирское знание не имеет никакой ценности в абсолютном смысле, оно не останется навечно. Что касается вечного знания, мы должны обрести его где-то в другом месте. Это истинное знание, оно имеет стабильность, оно имеет прочное основание. Как же обрести это знание? Как обрести его? И ведическая система образования дает человеку именно это.
 

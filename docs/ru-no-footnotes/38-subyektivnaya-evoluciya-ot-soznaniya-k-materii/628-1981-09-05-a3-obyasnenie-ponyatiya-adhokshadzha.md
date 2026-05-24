@@ -1,12 +1,17 @@
 ---
-slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
+slug: 1981-09-05-a3_obyasnenie_ponyatiya_adhokshadzha
+record_id: 1981.09.05.A3
+title: Объяснение понятия «Адхокшаджа»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11083054
+  duration: 00:10:34
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
+date: 1981-09-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.09"
-    slug: 1981-09
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
     title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в DOCX (26 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
+  index: "628"
+  filename: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
+  slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
 ---
-
-# 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
 
 «Шримад-Бхагаватам» сплошь и рядом использует этот термин — *адхокшаджа*. Почему? «Бхагаватам» описывает *апракрита-расу*, которая очень похожа на эти мирские реалии, реалии нашего мира, поэтому это предостережение вновь и вновь повторяется на страницах «Бхагаватам»: «*Адхокшаджа, адхокшаджа*».
 
@@ -25,7 +33,8 @@ links:
 
 Не смешивай это явление с опытом твоих чувств, будь очень осторожен, очень осторожен. Не смешивай это явление с реалиями или событиями этого бренного мира. Вновь и вновь это предостережение повторяется.
 
-**Йато бхактир адхокш̣адже**[^_ftn2]
+    йато бхактир адхокш̣адже
+[^_ftn2]
 
 В полной мере осознавай: Тот, с кем ты собираешься иметь дело, никогда не может быть ограничен. Это явление обладает независимой природой.
 

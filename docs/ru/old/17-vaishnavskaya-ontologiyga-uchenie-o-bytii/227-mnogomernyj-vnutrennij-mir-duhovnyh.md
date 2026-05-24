@@ -1,20 +1,28 @@
 ---
 slug: 227-mnogomernyj-vnutrennij-mir-duhovnyh
+record_id: 1983.01.04.A4
+title: Многомерный внутренний мир духовных личностей
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2878241
+  duration: 00:05:08
+  src: /wp-content/uploads/2012/08/227_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
+date: 1983-01-04
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Юдхиштхира
     slug: yudhishthira
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/227_1983.01.04.A4_SridharMj_Mnogomerniy_vnutrenniy_mir_duhovnyh_lichnostey.mp3
     title: Скачать аудиозапись в mp3 (5 мин 8 сек, размер 2 Мб)
+legacy:
+  title: 227. Многомерный внутренний мир духовных личностей. 1983.01.04.A4
+  index: "227"
+  filename: 227-mnogomernyj-vnutrennij-mir-duhovnyh.md
 ---
-
-# 227. Многомерный внутренний мир духовных личностей. 1983.01.04.A4
 
 **Преданный:** Есть еще один вопрос. В Махабхарате говорится, что Юдхиштхира вместо Голоки отправился в рай.
 

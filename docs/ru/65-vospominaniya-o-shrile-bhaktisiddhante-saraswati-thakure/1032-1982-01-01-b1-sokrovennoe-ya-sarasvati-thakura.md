@@ -1,44 +1,17 @@
 ---
-slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
+slug: 1982-01-01-b1_sokrovennoe_ya_sarasvati_thakura
+record_id: 1982.01.01.B1
+title: Сокровенное «Я» Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17381564
+  duration: 00:34:58
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
+date: 1982-01-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шри Шри Дайита Дас Дашакам
-    slug: shri-shri-dajita-das-dashakam
-  - title: Шри Шри Дайита Дас Дашакам 1
-    slug: shri-shri-dajita-das-dashakam-1
-  - title: Шри Шри Дайита Дас Дашакам 5
-    slug: shri-shri-dajita-das-dashakam-5
-  - title: Шри Шри Дайита Дас Дашакам 4
-    slug: shri-shri-dajita-das-dashakam-4
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
-    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
-  - title: Шри Брахма-самхита 5.56
-    slug: shri-brahma-samhita-5-56
-  - title: Мукта Чаритра
-    slug: mukta-charitra
-  - title: Мукта Чаритра 4
-    slug: mukta-charitra-4
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.20.17
-    slug: shrimad-bhagavatam-11-20-17
-  - title: Манах-шикша
-    slug: manah-shiksha
-  - title: Манах-шикша 1
-    slug: manah-shiksha-1
-  - title: Чайтанья-чандрамрита
-    slug: chajtanya-chandramrita
-  - title: Чайтанья-чандрамрита 88
-    slug: chajtanya-chandramrita-88
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (34 мин. 57 сек., 16,6 МБ)
@@ -46,9 +19,31 @@ links:
     title: транскрипцию в RTF (279 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1032_1982.01.01.B1_SridharMj_Sokrovennoe_ya_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (192 КБ)
+legacy:
+  title: 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
+  index: "1032"
+  filename: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura.md
+  slug: 1032-1982-01-01-b1-sokrovennoe-ya-sarasvati-thakura
+tags:
+  - title: Шри Шри Дайита Дас Дашакам 1
+    slug: shri-shri-dajita-das-dashakam-1
+  - title: Шри Шри Дайита Дас Дашакам 5
+    slug: shri-shri-dajita-das-dashakam-5
+  - title: Шри Шри Дайита Дас Дашакам 4
+    slug: shri-shri-dajita-das-dashakam-4
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.227
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-227
+  - title: Шри Брахма-самхита 5.56
+    slug: shri-brahma-samhita-5-56
+  - title: Мукта Чаритра 4
+    slug: mukta-charitra-4
+  - title: Шримад-Бхагаватам 11.20.17
+    slug: shrimad-bhagavatam-11-20-17
+  - title: Манах-шикша 1
+    slug: manah-shiksha-1
+  - title: Чайтанья-чандрамрита 88
+    slug: chajtanya-chandramrita-88
 ---
-
-# 1032. 1982.01.01.B1. Сокровенное «Я» Сарасвати Тхакура
 
 **Шрила Шридхар Махарадж:** Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол, Нитай-Гаура Харибол,
 
@@ -172,7 +167,7 @@ links:
 
     ра̄дхика̄-ма̄дхава̄ш́а̄м̇
 
-Это надежда вопреки надежде, высочайшая надежда. Наша удача ожидает нас там, наша судьба связана с той землей. Цель утверждена, и то, каким образом достичь той земли… Другие придут ко мне на помощь в достижении этой цели. Гуру (*шикша-гуру*, *дикша-гуру*) поможет мне. Он мой Гуру, мой руководитель, он поможет мне достичь моего места назначения. Жажда моей жажды, наиболее глубокой жажды, объект моей жажды. Гаура-Харибол, *ра̄дхика̄-ма̄дхава̄ш́а̄м̇ пра̄пто йасйа пратхита-кр̣пайа ш́рӣ-гурум̇ там̇ нато ’сми.*
+Это надежда вопреки надежде, высочайшая надежда. Наша удача ожидает нас там, наша судьба связана с той землей. Цель утверждена, и то, каким образом достичь той земли… Другие придут ко мне на помощь в достижении этой цели. Гуру (*шикша-гуру*, *дикша-гуру*) поможет мне. Он мой Гуру, мой руководитель, он поможет мне достичь моего места назначения. Жажда моей жажды, наиболее глубокой жажды, объект моей жажды. Гаура-Харибол, *ра̄дхика̄-ма̄дхава̄ш́а̄м̇ пра̄пто йасйа пратхита-кр̣пайа ш́рӣ-гурум̇ там̇ нато ’сми*.
 
 *#00:25:27#*
 

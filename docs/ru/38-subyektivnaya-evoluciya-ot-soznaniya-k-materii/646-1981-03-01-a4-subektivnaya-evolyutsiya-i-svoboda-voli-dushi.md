@@ -1,20 +1,17 @@
 ---
-slug: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi
+slug: 1981-03-01-a4_subektivnaya_evolyutsiya_i_svoboda_voli_dushi
+record_id: 1981.03.01.A4
+title: Субъективная эволюция и свобода воли души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7680032
+  duration: 00:14:03
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
+date: 1981-03-01
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 15.1
-    slug: bhagavad-gita-15-1
-  - title: Бхагавад-гита 15.2
-    slug: bhagavad-gita-15-2
-  - title: Бхагавад-гита 5.14
-    slug: bhagavad-gita-5-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
     title: аудиозапись в MP3 (14 мин. 03 сек., 7,4 МБ)
@@ -22,9 +19,19 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/646_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 646. 1981.03.01.A4. Субъективная эволюция и свобода воли души
+  index: "646"
+  filename: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi.md
+  slug: 646-1981-03-01-a4-subektivnaya-evolyutsiya-i-svoboda-voli-dushi
+tags:
+  - title: Бхагавад-гита 15.1
+    slug: bhagavad-gita-15-1
+  - title: Бхагавад-гита 15.2
+    slug: bhagavad-gita-15-2
+  - title: Бхагавад-гита 5.14
+    slug: bhagavad-gita-5-14
 ---
-
-# 646. 1981.03.01.A4. Субъективная эволюция и свобода воли души
 
 **Преданный:** Махарадж, субъективная эволюция…
 

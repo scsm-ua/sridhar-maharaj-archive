@@ -1,32 +1,30 @@
 ---
-slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
+slug: 1982-02-28-a2_velikodushie_mahaprabhu_put_k_sokrovennoy_kontseptsii_bozhestvennogo
+record_id: 1982.02.28.A2
+title: Великодушие Махапрабху — путь к сокровенной концепции Божественного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2808264
+  duration: 00:05:14
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
+date: 1982-02-28
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.mp3
     title: аудиозапись в MP3 (3 мин. 13 сек., 2,7 МБ)
@@ -34,9 +32,13 @@ links:
     title: транскрипцию в RTF (78 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/105_1982.02.28.A2_SridharMj_Velikodushiye_Mahaprabhu--put_k_sokrovennoy_koncepcii_Bojestvennogo.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 105. 1982.02.28.A2 Великодушие Махапрабху — путь к сокровенной концепции
+    Божественного
+  index: "105"
+  filename: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo.md
+  slug: 105-1982-02-28-a2-velikodushie-mahaprabhu-put-k-sokrovennoj-koncepcii-bozhestvennogo
 ---
-
-# 105. 1982.02.28.A2 Великодушие Махапрабху — путь к сокровенной концепции Божественного
 
 Мы должны искать великодушия Махапрабху — того, к чему стремятся Шива и Брахма. Они молят лишь о капле этого. Махапрабху затопил потоком этого нектара всю вселенную. Даже каплю этого нектара трудно обрести. Мы должны обратиться к этому с горячим желанием. Это нечто столь великое, столь великодушное! Что это такое? Харе Кришна!
 

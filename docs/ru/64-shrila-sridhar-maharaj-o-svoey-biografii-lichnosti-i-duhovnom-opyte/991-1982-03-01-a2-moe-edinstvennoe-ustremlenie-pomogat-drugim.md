@@ -1,12 +1,17 @@
 ---
-slug: 991-1982-03-01-a2-moe-edinstvennoe-ustremlenie-pomogat-drugim
+slug: 1982-03-01-a2_moe_edinstvennoe_ustremlenie_pomogat_drugim
+record_id: 1982.03.01.A2
+title: «Мое единственное устремление – помогать другим»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2473763
+  duration: 00:03:23
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/991_1982.03.01.A2_SridharMj_Moe_edinstvennoe_ustremlenie--pomogat_drugim.mp3
+date: 1982-03-01
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/991_1982.03.01.A2_SridharMj_Moe_edinstvennoe_ustremlenie--pomogat_drugim.mp3
     title: аудиозапись в MP3 (3 мин. 22 сек., 2,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (51 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/991_1982.03.01.A2_SridharMj_Moe_edinstvennoe_ustremlenie--pomogat_drugim.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 991. 1982.03.01.A2. «Мое единственное устремление – помогать другим»
+  index: "991"
+  filename: 991-1982-03-01-a2-moe-edinstvennoe-ustremlenie-pomogat-drugim.md
+  slug: 991-1982-03-01-a2-moe-edinstvennoe-ustremlenie-pomogat-drugim
 ---
-
-# 991. 1982.03.01.A2. «Мое единственное устремление – помогать другим»
 
 Я не поехал в Америку — Америка пришла ко мне. [Все смеются] И это — божественный промысел. Я сижу праздно здесь. Я неактивный человек, я любитель комфорта. Я люблю комфорт — так охарактеризовал меня мой Гуру Махарадж. Я никуда не хожу, я — здесь, но другие приходят ко мне. И это промысел, провидение. Я не боюсь, у меня нет ни потери, ни приобретения, не потеря, не выигрыш для меня. Это Его воля, что вы все приходите. Я не приложил ни малейших усилий, ни малейших усилий к этому. Только Свами Махарадж приезжал, и я принимал его, видя великую божественную силу, как она низошла и работала от его имени.
 

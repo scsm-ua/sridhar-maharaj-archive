@@ -5,9 +5,18 @@ refs:
   - ../../17-shri-guru-i-ego-milost/280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
   - ../../18-posvyaschenie/332-1983-11-05-a2-dlya-sputnikov-gospoda-initsiatsiya-nosit-formalnyj-harakter.md
   - ../../40-bog-i-bogi/680-1982-01-13-b1-vedicheskaya-kontseptsiya-kali.md
-tags:
+  - ../../_full/1981/08/1981.08.28.A.md
+  - ../../_full/1981/09/1981.09.22.A.B.md
+  - ../../_full/1981/12/1981.12.16.B.md
+  - ../../_full/1982/01/1982.01.13.B.md
+  - ../../_full/1982/12/1982.12.14.A.md
+  - ../../_full/1982/12/1982.12.25.A.B.md
+  - ../../_full/1983/01/1983.01.07.md
+  - ../../_full/1983/11/1983.11.05.A.B.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 4.7
     slug: bhagavad-gita-4-7
 ---

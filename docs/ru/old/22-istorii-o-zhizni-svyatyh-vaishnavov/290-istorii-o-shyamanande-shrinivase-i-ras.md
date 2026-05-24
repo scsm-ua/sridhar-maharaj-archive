@@ -1,5 +1,13 @@
 ---
 slug: 290-istorii-o-shyamanande-shrinivase-i-ras
+title: Истории о Шьямананде, Шринивасе и Расикананде. Онтология прекрасной
+  реальности, часть 6.1.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19703003
+  duration: 00:20:21
+  src: /wp-content/uploads/2012/08/290_OntologiyaPR_6.1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
@@ -12,13 +20,15 @@ tags:
     slug: shrinivas-acharya
   - title: Шьямананда Прабху
     slug: shyamananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/290_OntologiyaPR_6.1_SridharMj_Istorii_o_Shyamanande_Shrinivase_i_Rasikanande.mp3
     title: Скачать аудиозапись в mp3 (20 мин 21 сек, размер 19 Мб)
+legacy:
+  title: 290. Истории о Шьямананде, Шринивасе и Расикананде. Онтология прекрасной
+    реальности, часть 6.1
+  index: "290"
+  filename: 290-istorii-o-shyamanande-shrinivase-i-ras.md
 ---
-
-# 290. Истории о Шьямананде, Шринивасе и Расикананде. Онтология прекрасной реальности, часть 6.1
 
 Расикананда Махарадж был родом из Меднапура. Он был учеником Шьямананды Прабху. История Шьямананды Прабху такова. Вначале он получил посвящение в сакхья-расе от Хридой Чайтаньи Госвами возле Калны. Так или иначе, он отправился во Вриндаван. Он происходил из небрахманской семьи. Это были крестьяне. Он пришел во Вриндаван.
 

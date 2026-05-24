@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-adi-lila-10-99
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/461-1982-07-10-a-b-vysochajshee-dostizhenie-v-shkole-gaudiya-vajshnavov.md
-tags:
+  - ../../_full/1982/07/1982.07.10.A.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.99
     slug: shri-chajtanya-charitamrita-adi-lila-10-99
 ---

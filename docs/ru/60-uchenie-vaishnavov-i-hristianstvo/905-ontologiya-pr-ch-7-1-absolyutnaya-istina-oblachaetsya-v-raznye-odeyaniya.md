@@ -1,20 +1,22 @@
 ---
-slug: 905-ontologiya-pr-ch-7-1-absolyutnaya-istina-oblachaetsya-v-raznye-odeyaniya
+slug: ontologiya_pr_ch_7_1_absolyutnaya_istina_oblachaetsya_v_raznye_odeyaniya
+title: Онтология ПР. Ч. 7.1. Абсолютная Истина облачается в разные одеяния.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6555407
+  duration: 00:05:04
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.61
     slug: bhagavad-gita-18-61
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.3.44
     slug: shrimad-bhagavatam-11-3-44
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.mp3
     title: аудиозапись в MP3 (5 мин. 03 сек., 6,3 МБ)
@@ -22,9 +24,12 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/905_OntologiyaPR_7.1_SridharMj_Absolyutnaya_Istina_oblachayetsya_v_raznye_odeyaniya.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 905. Онтология ПР. Ч. 7.1. Абсолютная Истина облачается в разные одеяния
+  index: "905"
+  filename: 905-ontologiya-pr-ch-7-1-absolyutnaya-istina-oblachaetsya-v-raznye-odeyaniya.md
+  slug: 905-ontologiya-pr-ch-7-1-absolyutnaya-istina-oblachaetsya-v-raznye-odeyaniya
 ---
-
-# 905. Онтология ПР. Ч. 7.1. Абсолютная Истина облачается в разные одеяния
 
 «Онтология Прекрасной Реальности» (часть 7.1)
 

@@ -1,22 +1,30 @@
 ---
 slug: 271-lyubov-irratsionalna-1983-02-07-a1
+record_id: 1983.02.07.A1
+title: Любовь иррациональна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4801265
+  duration: 00:09:21
+  src: /wp-content/uploads/2012/08/271_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
+date: 1983-02-07
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхакти
     slug: bhakti
   - title: Любовь
     slug: lyubov
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/271_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
     title: Скачать аудиозапись в mp3 (9 мин 21 сек, размер 4 Мб)
+legacy:
+  title: 271. Любовь иррациональна. 1983.02.07.A1
+  index: "271"
+  filename: 271-lyubov-irratsionalna-1983-02-07-a1.md
 ---
-
-# 271. Любовь иррациональна. 1983.02.07.A1
 
 — Махарадж, материальный мир рационален? — Что? — Он спрашивает: «Материальный мир рационален?». — А, материальный мир… Рациональность или рацио — это промежуточная стадия. Высшая причина — это Самодержец, сварат. Хотя мы видим смысл, логику, рацио, но в конечном счете, Он выше этого, Он свободен.
 

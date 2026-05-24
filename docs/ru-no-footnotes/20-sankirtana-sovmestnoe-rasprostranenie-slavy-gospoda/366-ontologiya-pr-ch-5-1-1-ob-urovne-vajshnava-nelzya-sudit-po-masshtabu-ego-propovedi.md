@@ -1,5 +1,13 @@
 ---
-slug: 366-ontologiya-pr-ch-5-1-1-ob-urovne-vajshnava-nelzya-sudit-po-masshtabu-ego-propovedi
+slug: ontologiya_pr_ch_5_1_1_ob_urovne_vayshnava_nelzya_sudit_po_masshtabu_ego_propovedi
+title: Онтология ПР. Ч. 5.1.1. Об уровне вайшнава нельзя судить по масштабу его
+  проповеди.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3502464
+  duration: 00:06:52
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
@@ -8,7 +16,6 @@ tags:
     slug: ontologiya-prekrasnoj-realnosti
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.mp3
     title: аудиозапись в MP3 (6 мин. 51 сек., 3,4 МБ)
@@ -16,9 +23,13 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/366_OntologiyaPR_5.1.1_SridharMj_Ob_urovne_vajshnava_nelzja_sudit_po_masshtabu_ego_propovedi.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 366. Онтология ПР. Ч. 5.1.1. Об уровне вайшнава нельзя судить по масштабу
+    его проповеди
+  index: "366"
+  filename: 366-ontologiya-pr-ch-5-1-1-ob-urovne-vajshnava-nelzya-sudit-po-masshtabu-ego-propovedi.md
+  slug: 366-ontologiya-pr-ch-5-1-1-ob-urovne-vajshnava-nelzya-sudit-po-masshtabu-ego-propovedi
 ---
-
-# 366. Онтология ПР. Ч. 5.1.1. Об уровне вайшнава нельзя судить по масштабу его проповеди
 
 *«Онтология Прекрасной Реальности» (Часть 5.1)*
 

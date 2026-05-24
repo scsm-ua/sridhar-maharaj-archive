@@ -1,20 +1,17 @@
 ---
-slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
+slug: 1981-03-10-b3_raghunath_das_gosvami_o_rupe_gosvami_kak_guru_raga-margi
+record_id: 1981.03.10.B3
+title: Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5783155
+  duration: 00:10:48
+  src: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
+date: 1981-03-10
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
-  - title: Шри Вилапа-кусуманджали 1
-    slug: shri-vilapa-kusumandzhali-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 9.4.63
-    slug: shrimad-bhagavatam-9-4-63
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.mp3
     title: аудиозапись в MP3 (10 мин. 47 сек., 5,6 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (113 КБ)
   - href: /dl/26._Rupanuga-sampradaya/456_1981.03.10.B3_SridharMj_Raghunath_Das_Gosvami_o_Rupe_Gosvami_kak_guru_raga-margi.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 456. 1981.03.10.B3. Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
+  index: "456"
+  filename: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi.md
+  slug: 456-1981-03-10-b3-raghunath-das-gosvami-o-rupe-gosvami-kak-guru-raga-margi
+tags:
+  - title: Шри Вилапа-кусуманджали 1
+    slug: shri-vilapa-kusumandzhali-1
+  - title: Шримад-Бхагаватам 9.4.63
+    slug: shrimad-bhagavatam-9-4-63
 ---
-
-# 456. 1981.03.10.B3. Рагхунатх Дас Госвами о Рупе Госвами как гуру рага-марги
 
 Однажды наш Гуру Махарадж сказал в этой связи: «Эти люди не хотят понять благородное, возвышенное положение, о котором говорит Рупа Госвами». Положение Рупы Госвами выше всех религиозных сантиментов настолько, что Гуру Махарадж привел следующий пример:
 
@@ -42,7 +47,7 @@ links:
 
 *#00:01:25#*
 
-Настроение Рагхунатхе Дасе Госвами было таким: он рассматривал Рупу Госвами как гуру в *рага-марге*. Но его утверждение о его Гуру следующее: «*Шри рупа-манджари сакхи.* (*Сакхи* означает подруга). Ты, Рупа Манджари, — дитя, то есть девочка, которая помогает Радха-Говинда-*лиле*, *манджари.* Есть *манджари*, Рупа Манджари — их лидер, а высочайшая девочка-помощница — Рати Манджари. Рагхунатх Дас Госвами есть Рати Манджари.
+Настроение Рагхунатхе Дасе Госвами было таким: он рассматривал Рупу Госвами как гуру в *рага-марге*. Но его утверждение о его Гуру следующее: «*Шри рупа-манджари сакхи*. (*Сакхи* означает подруга). Ты, Рупа Манджари, — дитя, то есть девочка, которая помогает Радха-Говинда-*лиле*, *манджари*. Есть *манджари*, Рупа Манджари — их лидер, а высочайшая девочка-помощница — Рати Манджари. Рагхунатх Дас Госвами есть Рати Манджари.
 
 *#00:02:19#*
 
@@ -86,6 +91,6 @@ links:
 
 [^_ftn1]: [Шри Вилапа-кусуманджали 1](../notes/shri-vilapa-kusumandzhali/shri-vilapa-kusumandzhali-1.md)
 
-[^_ftn2]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn2]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn3]: [Шримад-Бхагаватам 9.4.63](../notes/shrimad-bhagavatam/shrimad-bhagavatam-9-4-63.md)

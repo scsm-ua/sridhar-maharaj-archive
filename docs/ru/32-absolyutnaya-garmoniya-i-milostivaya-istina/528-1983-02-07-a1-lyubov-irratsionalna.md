@@ -1,20 +1,17 @@
 ---
-slug: 528-1983-02-07-a1-lyubov-irratsionalna
+slug: 1983-02-07-a1_lyubov_irratsionalna
+record_id: 1983.02.07.A1
+title: Любовь иррациональна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6810353
+  duration: 00:09:21
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
+date: 1983-02-07
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-  - title: Веданта-сутра
-    slug: vedanta-sutra
-  - title: Веданта-сутра 2.1.11
-    slug: vedanta-sutra-2-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.mp3
     title: аудиозапись в MP3 (9 мин. 21 сек., 6,5 МБ)
@@ -22,9 +19,19 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/528_1983.02.07.A1_SridharMj_Lubov_irracionalna.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 528. 1983.02.07.A1. Любовь иррациональна
+  index: "528"
+  filename: 528-1983-02-07-a1-lyubov-irratsionalna.md
+  slug: 528-1983-02-07-a1-lyubov-irratsionalna
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Веданта-сутра 2.1.11
+    slug: vedanta-sutra-2-1-11
 ---
-
-# 528. 1983.02.07.A1. Любовь иррациональна
 
 **Преданный:** Махарадж, материальный мир рационален?
 
@@ -70,7 +77,7 @@ links:
 
 *#00:06:29#*
 
-**Шрила Шридхар Махарадж:** Говорится: *аштакалия-сева* — служение, которое совершается в восьми *прахарах.* *Прахара* — это четвертая часть суток, дня и ночи; двадцать четыре часа в сутки — восемь *прахар*, *аштакалия*. Об этом сказано в «Арчана-кхане».
+**Шрила Шридхар Махарадж:** Говорится: *аштакалия-сева* — служение, которое совершается в восьми *прахарах*. *Прахара* — это четвертая часть суток, дня и ночи; двадцать четыре часа в сутки — восемь *прахар*, *аштакалия*. Об этом сказано в «Арчана-кхане».
 
     [шлоки]
 

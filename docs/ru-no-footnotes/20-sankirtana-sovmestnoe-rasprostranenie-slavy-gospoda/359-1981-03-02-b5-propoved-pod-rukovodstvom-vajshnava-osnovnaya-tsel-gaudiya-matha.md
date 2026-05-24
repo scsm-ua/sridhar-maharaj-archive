@@ -1,14 +1,20 @@
 ---
-slug: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha
+slug: 1981-03-02-b5_propoved_pod_rukovodstvom_vayshnava_osnovnaya_tsel_gaudiya-matha
+record_id: 1981.03.02.B5
+title: Проповедь под руководством вайшнава — основная цель Гаудия-матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7155303
+  duration: 00:14:28
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
+date: 1981-03-02
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
     title: аудиозапись в MP3 (14 мин. 28 сек., 6,9 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (151 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/359_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 359. 1981.03.02.B5. Проповедь под руководством вайшнава — основная цель
+    Гаудия-матха
+  index: "359"
+  filename: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha.md
+  slug: 359-1981-03-02-b5-propoved-pod-rukovodstvom-vajshnava-osnovnaya-tsel-gaudiya-matha
 ---
-
-# 359. 1981.03.02.B5. Проповедь под руководством вайшнава — основная цель Гаудия-матха
 
 **Госвами Махарадж:** Когда наш Гуру Махарадж во время *дикши* просил следовать четырем принципам (отсутствие незаконного секса, отсутствие интоксикаций, запрет на мясоедение и запрет играть в азартные игры), он также просил нас повторять шестнадцать кругов. Во время посвящения в Гаудия Матхе, во времена Шрилы Бхактисиддханты, о чем он просил своих учеников?
 

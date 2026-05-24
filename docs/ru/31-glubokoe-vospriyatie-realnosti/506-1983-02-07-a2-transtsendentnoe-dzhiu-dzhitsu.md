@@ -1,28 +1,17 @@
 ---
-slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
+slug: 1983-02-07-a2_transtsendentnoe_dzhiu-dzhitsu
+record_id: 1983.02.07.A2
+title: Трансцендентное джиу-джитсу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8250871
+  duration: 00:15:50
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
+date: 1983-02-07
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
-    slug: shri-chajtanya-charitamrita-adi-lila-10-120
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
-    slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.14.8
-    slug: shrimad-bhagavatam-10-14-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
     title: аудиозапись в MP3 (15 мин. 49 сек., 7,9 МБ)
@@ -30,9 +19,21 @@ links:
     title: транскрипцию в RTF (130 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/506_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 506. 1983.02.07.A2. Трансцендентное джиу-джитсу
+  index: "506"
+  filename: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu.md
+  slug: 506-1983-02-07-a2-transtsendentnoe-dzhiu-dzhitsu
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
+    slug: shri-chajtanya-charitamrita-adi-lila-10-120
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 ---
-
-# 506. 1983.02.07.A2. Трансцендентное джиу-джитсу
 
     [маха̄-кр̣па̄-па̄тра прабхура] джага̄и, ма̄дха̄и
     ‘патита-па̄вана’ на̄мера са̄кш̣ӣ дуи бха̄и
@@ -76,7 +77,7 @@ links:
 
 *#00:12:00#*
 
-Поэтому — *вайшнаванам йатха шамбху.* Шива — преданный, но он создает оппозицию Кришне и Вишну и вдохновляет демоническую силу, тем не менее — *вайшнаванам йатха шамбху*. Это прямое видение, а косвенное видение — он лидер оппозиции, он сражается с Кришной, и его последователи — *бхуты*, *преты* (демонические существа).
+Поэтому — *вайшнаванам йатха шамбху*. Шива — преданный, но он создает оппозицию Кришне и Вишну и вдохновляет демоническую силу, тем не менее — *вайшнаванам йатха шамбху*. Это прямое видение, а косвенное видение — он лидер оппозиции, он сражается с Кришной, и его последователи — *бхуты*, *преты* (демонические существа).
 
 [Гаура-Хари, Гаура-Хари, Гаура-Хари.]
 

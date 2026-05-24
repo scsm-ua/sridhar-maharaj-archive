@@ -1,24 +1,32 @@
 ---
 slug: 197-soznanie-osnova-mira-materii
+record_id: 1982.01.13.B2
+title: Сознание — основа мира материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6272053
+  duration: 00:12:55
+  src: /wp-content/uploads/2012/08/197_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
+date: 1982-01-13
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Душа
     slug: dusha
   - title: Материальный мир
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/197_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
     title: Скачать аудиозапись в mp3 (12 мин 55 сек, размер 6 Мб)
+legacy:
+  title: 197. Сознание — основа мира материи. 1982.01.13.B2
+  index: "197"
+  filename: 197-soznanie-osnova-mira-materii.md
 ---
-
-# 197. Сознание — основа мира материи. 1982.01.13.B2
 
 *#00:00:00#*
 

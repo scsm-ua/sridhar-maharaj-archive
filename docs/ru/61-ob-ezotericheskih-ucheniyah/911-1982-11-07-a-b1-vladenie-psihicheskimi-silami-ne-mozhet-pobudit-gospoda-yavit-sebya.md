@@ -1,34 +1,17 @@
 ---
-slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
+slug: 1982-11-07-a-b1_vladenie_psihicheskimi_silami_ne_mozhet_pobudit_gospoda_yavit_sebya
+record_id: 1982.11.07.A.B1
+title: Владение психическими силами не может побудить Господа явить Себя
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13671716
+  duration: 00:13:26
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3
+date: 1982-11-07
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-  - title: Веданта-сутра
-    slug: vedanta-sutra
-  - title: Веданта-сутра 2.1.11
-    slug: vedanta-sutra-2-1-11
-  - title: Катха-упанишад
-    slug: katha-upanishad
-  - title: Катха-упанишад 1.2.23
-    slug: katha-upanishad-1-2-23
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
-    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
-    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.14.4
-    slug: shrimad-bhagavatam-10-14-4
-  - title: Шримад-Бхагаватам 10.43.17
-    slug: shrimad-bhagavatam-10-43-17
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.mp3
     title: аудиозапись в MP3 (13 мин. 26 сек., 13,1 МБ)
@@ -36,9 +19,28 @@ links:
     title: транскрипцию в RTF (161 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/911_1982.11.07.A.B1_SridharMj_Vladenie_psihicheskimi_silami_ne_mozhet_pobudit_Gospoda_javit_Sebja.pdf
     title: транскрипцию в PDF (180 КБ)
+legacy:
+  title: 911. 1982.11.07.A.B1. Владение психическими силами не может побудить
+    Господа явить Себя
+  index: "911"
+  filename: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya.md
+  slug: 911-1982-11-07-a-b1-vladenie-psihicheskimi-silami-ne-mozhet-pobudit-gospoda-yavit-sebya
+tags:
+  - title: Веданта-сутра 2.1.11
+    slug: vedanta-sutra-2-1-11
+  - title: Катха-упанишад 1.2.23
+    slug: katha-upanishad-1-2-23
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.22
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-22
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.140
+    slug: shri-chajtanya-charitamrita-madhya-lila-24-140
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.131
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-131
+  - title: Шримад-Бхагаватам 10.14.4
+    slug: shrimad-bhagavatam-10-14-4
+  - title: Шримад-Бхагаватам 10.43.17
+    slug: shrimad-bhagavatam-10-43-17
 ---
-
-# 911. 1982.11.07.A.B1. Владение психическими силами не может побудить Господа явить Себя
 
 **Преданный:** Гуру Махарадж, на одном из *даршанов* вы говорили о Наполеоне: когда Наполеон находился на поле битвы, то никто не в силах был его победить, когда он присутствовал на поле боя. Мой вопрос таков: на западе людей интересует оккультное знание…
 

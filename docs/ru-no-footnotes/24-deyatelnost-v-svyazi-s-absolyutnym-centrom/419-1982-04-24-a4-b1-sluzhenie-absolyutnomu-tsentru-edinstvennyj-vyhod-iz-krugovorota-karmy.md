@@ -1,12 +1,17 @@
 ---
-slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
+slug: 1982-04-24-a4-b1_sluzhenie_absolyutnomu_tsentru_edinstvennyy_vyhod_iz_krugovorota_karmy
+record_id: 1982.04.24.A4.B1
+title: Служение Абсолютному Центру – единственный выход из круговорота кармы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7358684
+  duration: 00:06:50
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
+date: 1982-04-24
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.mp3
     title: аудиозапись в MP3 (6 мин. 49 сек., 5,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/419_1982.04.24.A4.B1_SridharMj_Sluzhenie_Absoljutnomu_Centru--edinstvennyj_vyhod_iz_krugovorota_karmy.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 419. 1982.04.24.A4.B1. Служение Абсолютному Центру – единственный выход
+    из круговорота кармы
+  index: "419"
+  filename: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy.md
+  slug: 419-1982-04-24-a4-b1-sluzhenie-absolyutnomu-tsentru-edinstvennyj-vyhod-iz-krugovorota-karmy
 ---
-
-# 419. 1982.04.24.A4.B1. Служение Абсолютному Центру – единственный выход из круговорота кармы
 
     ахаста̄ни сахаста̄на̄м
     апада̄ни чатуш̣-пада̄м

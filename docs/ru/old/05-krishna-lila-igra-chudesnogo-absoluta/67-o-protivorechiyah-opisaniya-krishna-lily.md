@@ -1,5 +1,14 @@
 ---
 slug: 67-o-protivorechiyah-opisaniya-krishna-lily
+record_id: 1987.00.00.B4
+title: О противоречиях описания кришна-лилы в трудах Госвами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5129310
+  duration: 00:09:17
+  src: /wp-content/uploads/2012/08/067_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
+date: 1987-00-00
 category:
   title: (05. Кришна-лила, игра чудесного Абсолюта)
   slug: 05-krishna-lila-igra-chudesnogo-absoluta
@@ -10,13 +19,14 @@ tags:
     slug: knigi-gosvami
   - title: Кришна-лила
     slug: krishna-lila
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/067_1987.00.00.B4_SridharMj_O_protivorechiyah_opisaniya_Krishna-lily_v_trudah_Gosvami.mp3
     title: Скачать аудиозапись в mp3 (9 мин 17 сек, размер 5 Мб)
+legacy:
+  title: 67. О противоречиях описания кришна-лилы в трудах Госвами. 1987.00.00.B4
+  index: "67"
+  filename: 67-o-protivorechiyah-opisaniya-krishna-lily.md
 ---
-
-# 67. О противоречиях описания кришна-лилы в трудах Госвами. 1987.00.00.B4
 
 Адхокшаджа. Он адхокшаджа. В Шримад Бхагаватам излюбленный термин, встречаемый на страницах Бхагаватам – «адхокшаджа». Он всегда находится в положении, превосходящем твое.
 

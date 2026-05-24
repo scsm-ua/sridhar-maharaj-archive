@@ -1,22 +1,26 @@
 ---
-slug: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane
+slug: 1983-01-26-c3_charuyushchaya_krasota_krishny_vo_vrindavane
+record_id: 1983.01.26.C3
+title: Чарующая красота Кришны во Вриндаване
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4386407
+  duration: 00:07:25
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3
+date: 1983-01-26
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Брахма
     slug: brahma
   - title: Кришна
     slug: krishna
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.21.5
     slug: shrimad-bhagavatam-10-21-5
   - title: Шримад-Бхагаватам 10.14.14
     slug: shrimad-bhagavatam-10-14-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.mp3
     title: аудиозапись в MP3 (07 мин. 25 сек., 4.2 МБ)
@@ -24,9 +28,12 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/040_1983.01.26.C3_SridharMj_Charuyuwaya_krasota_Krishny_vo_Vrindavane.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 040. 1983.01.26.C3 Чарующая красота Кришны во Вриндаване
+  index: "040"
+  filename: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane.md
+  slug: 040_1983-01-26-c3_sridharmj_charuyuwaya_krasota_krishny_vo_vrindavane
 ---
-
-# 040. 1983.01.26.C3 Чарующая красота Кришны во Вриндаване
 
     вр̣нда̄ран̣йам̇ сва-пада-раман̣ам̇ пра̄виш́ад гӣта-кӣртих̣
 

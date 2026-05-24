@@ -1,16 +1,18 @@
 ---
-slug: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam
+slug: 1982-02-01-a1_istochniki_svedeniy_dlya_stroki_chetvertogo_stiha_shri_dayita-dasa-pranati-panchakam
+record_id: 1982.02.01.A1
+title: Источники сведений для строки четвертого стиха «Шри
+  Дайита-Даса-пранати-панчакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2940394
+  duration: 00:02:51
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.mp3
+date: 1982-02-01
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шри Дайита Даса Пранати Панчакам
-    slug: shri-dajita-dasa-pranati-panchakam
-  - title: Шри Дайита Даса Пранати Панчакам 4
-    slug: shri-dajita-dasa-pranati-panchakam-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.mp3
     title: аудиозапись в MP3 (2 мин. 50 сек., 2,9 МБ)
@@ -18,9 +20,16 @@ links:
     title: транскрипцию в RTF (63 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1109_1982.02.01.A1_SridharMj_Istochniki_svedenij_dlja_stroki_chetvertogo_stiha_Shri_Dajita-Dasa-pranati-panchakam.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 1109. 1982.02.01.A1. Источники сведений для строки четвертого стиха «Шри
+    Дайита-Даса-пранати-панчакам»
+  index: "1109"
+  filename: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam.md
+  slug: 1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam
+tags:
+  - title: Шри Дайита Даса Пранати Панчакам 4
+    slug: shri-dajita-dasa-pranati-panchakam-4
 ---
-
-# 1109. 1982.02.01.A1. Источники сведений для строки четвертого стиха «Шри Дайита-Даса-пранати-панчакам»
 
 **Шрила Госвами Махарадж:** В ваших стихах вы говорите: «*камалаприйанайанам*[^_ftn1]»…
 

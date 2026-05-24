@@ -2,9 +2,11 @@
 slug: bhagavad-gita-14-4
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/631-1981-03-05-b2-proishozhdenie-ahankary-iz-mahat-tattvy.md
-tags:
+  - ../../_full/1981/03/1981.03.06.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 14.4
     slug: bhagavad-gita-14-4
 ---

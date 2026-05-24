@@ -1,20 +1,28 @@
 ---
 slug: 372-mgnovenie-obshheniya-s-vajshnavom-darue
+record_id: 1984.01.15.B2
+title: «Мгновение общения с вайшнавом дарует все совершенство»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7563008
+  duration: 00:09:50
+  src: /wp-content/uploads/2012/08/372_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
+date: 1984-01-15
 category:
   title: (30. Садху-санга - духовное общение)
   slug: 30-sadhu-sanga-duhovnoe-obschenie
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/372_1984.01.15.B2_SridharMj_Mgnoveniye_obweniya_s_vaishnavom_daruyet_vse_sovershenstvo.mp3
     title: Скачать аудиозапись в mp3 (9 мин 50 сек, размер 7 Мб)
+legacy:
+  title: 372. «Мгновение общения с вайшнавом дарует все совершенство». 1984.01.15.B2
+  index: "372"
+  filename: 372-mgnovenie-obshheniya-s-vajshnavom-darue.md
 ---
-
-# 372. «Мгновение общения с вайшнавом дарует все совершенство». 1984.01.15.B2
 
 **Ученик:** Махарадж, в шастре сказано, что одного мгновения общения с чистым преданным достаточно, чтобы достичь высочайшей стадии.
 

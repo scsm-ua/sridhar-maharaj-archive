@@ -1,22 +1,30 @@
 ---
 slug: 116-shiksha-guru-parampara-1981-08-28-a1
+record_id: 1981.08.28.A1
+title: Шикша-гуру парампара
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 21072270
+  duration: 00:41:26
+  src: /wp-content/uploads/2012/08/116_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
+date: 1981-08-28
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Гопа Кумар
     slug: gopa-kumar
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/116_1981.08.28.A1_SridharMj_Shiksha-guru_parampara.mp3
     title: Скачать аудиозапись в mp3 (41 мин 26 сек, размер 21 Мб
+legacy:
+  title: 116. Шикша-гуру парампара. 1981.08.28.A1
+  index: "116"
+  filename: 116-shiksha-guru-parampara-1981-08-28-a1.md
 ---
-
-# 116. Шикша-гуру парампара. 1981.08.28.A1
 
 *#00:00:00#*
 

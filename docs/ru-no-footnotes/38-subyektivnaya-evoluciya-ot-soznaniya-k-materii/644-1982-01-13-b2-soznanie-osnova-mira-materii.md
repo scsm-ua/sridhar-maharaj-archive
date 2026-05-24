@@ -1,12 +1,17 @@
 ---
-slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
+slug: 1982-01-13-b2_soznanie_osnova_mira_materii
+record_id: 1982.01.13.B2
+title: Сознание — основа мира материи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7138357
+  duration: 00:12:55
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
+date: 1982-01-13
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.mp3
     title: аудиозапись в MP3 (12 мин. 55 сек., 6,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (117 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/644_1982.01.13.B2_SridharMj_Soznanie_osnova_mira_materii.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 644. 1982.01.13.B2. Сознание — основа мира материи
+  index: "644"
+  filename: 644-1982-01-13-b2-soznanie-osnova-mira-materii.md
+  slug: 644-1982-01-13-b2-soznanie-osnova-mira-materii
 ---
-
-# 644. 1982.01.13.B2. Сознание — основа мира материи
 
 **Преданный:** Махарадж, а личность Кали — это *джива*? Или какая-то иная личность?
 

@@ -8,9 +8,13 @@ refs:
   - ../../31-glubokoe-vospriyatie-realnosti/512-1982-02-27-a6-uvidet-volyu-gospoda-v-negativnyh-obstoyatelstvah.md
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/516-1982-02-25-a-b1-c3-b3-c1-c4-uchenie-shridhara-maharadzha-o-garmonii-i-istine.md
   - ../../60-uchenie-vaishnavov-i-hristianstvo/904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
-tags:
+  - ../../_full/1983/06/1983.06.05.md
+  - ../../_full/1983/07/1983.07.28.md
+  - ../../_full/1983/10/1983.10.29.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
 ---

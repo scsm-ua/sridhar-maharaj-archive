@@ -1,20 +1,25 @@
 ---
-slug: 143-1983-01-25-b2-glubokoe-vospriyatie-realnosti-kommentarij-k-vosmomu-i-tretemu-stihu-shikshashtaki
+slug: 1983-01-25-b2_glubokoe_vospriyatie_realnosti_kommentariy_k_vosmomu_i_tretemu_stihu_shikshashtaki
+record_id: 1983.01.25.B2
+title: Глубокое восприятие реальности. Комментарий к восьмому и третьему стиху
+  Шикшаштаки.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5473520
+  duration: 00:10:50
+  src: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3
+date: 1983-01-25
 category:
   title: 10. Шикшаштака — восемь наставлений Шри Чайтаньи
   slug: 10-shikshashtaka-vosem-nastavleniy-shri-chaitanyi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Шикшаштакам
     slug: shikshashtakam
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 8
     slug: shri-shikshashtakam-8
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.mp3
     title: аудиозапись в MP3 (10 мин. 49 сек., 5,3 МБ)
@@ -22,9 +27,13 @@ links:
     title: транскрипцию в RTF (124 КБ)
   - href: /dl/10._Shikshashtaka--vosem_nastavleniy_Shri_Chaitanyi/143_1983.01.25.B2_SridharMj_Glubokoe_vosprijatie_realnosti___Kommentarij_k_vosmomu_i_tretemu_stihu_Shikshashtaki.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 143. 1983.01.25.B2. Глубокое восприятие реальности. Комментарий к
+    восьмому и третьему стиху Шикшаштаки
+  index: "143"
+  filename: 143-1983-01-25-b2-glubokoe-vospriyatie-realnosti-kommentarij-k-vosmomu-i-tretemu-stihu-shikshashtaki.md
+  slug: 143-1983-01-25-b2-glubokoe-vospriyatie-realnosti-kommentarij-k-vosmomu-i-tretemu-stihu-shikshashtaki
 ---
-
-# 143. 1983.01.25.B2. Глубокое восприятие реальности. Комментарий к восьмому и третьему стиху Шикшаштаки
 
 Абсолютное благо, самодержец, Кришна — самый сладкий, сладостный, наиболее сладостный. Он выше закона — это самое прекрасное явление, вот, что самое прекрасное в Нем. Нет ритма и нет причины, нет заданного размера и нет причины, даже нет места для справедливости — настолько сладостен. Измерение настолько сладостно, что не возникает вопроса о справедливости, ни малейшего намека на это явление. Как можно такое представить, как такое может быть? Самодержец, самодержавие, высочайшее самодержавие Абсолютного блага. Нет места для справедливости в этом царстве, в этой сфере. Самодержавие, но самодержавие Абсолютного блага.
 

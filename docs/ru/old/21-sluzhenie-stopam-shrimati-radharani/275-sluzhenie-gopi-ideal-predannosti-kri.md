@@ -1,20 +1,28 @@
 ---
 slug: 275-sluzhenie-gopi-ideal-predannosti-kri
+record_id: 1983.06.05.C2
+title: Служение гопи — идеал преданности Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4130114
+  duration: 00:07:58
+  src: /wp-content/uploads/2012/08/275_1983.06.05.C2_SridharMj_Slujenie_gopi-ideal_predannosti_Krishne.mp3
+date: 1983-06-05
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.06"
-    slug: 1983-06
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/275_1983.06.05.C2_SridharMj_Slujenie_gopi-ideal_predannosti_Krishne.mp3
     title: Скачать аудиозапись в mp3 (7 мин 58 сек, размер 4 Мб)
+legacy:
+  title: 275. Служение гопи — идеал преданности Кришне. 1983.06.05.C2
+  index: "275"
+  filename: 275-sluzhenie-gopi-ideal-predannosti-kri.md
 ---
-
-# 275. Служение гопи — идеал преданности Кришне. 1983.06.05.C2
 
 В конечном счете, все различные лагеря вносят вклад в дело удовлетворения Господа Кришны. Они не имеют независимого существования, связывая результаты, плоды с Кришной, они могут оставаться в своих соответствующих измерениях, сферах. Мое пребывание здесь предназначено для Него.
 

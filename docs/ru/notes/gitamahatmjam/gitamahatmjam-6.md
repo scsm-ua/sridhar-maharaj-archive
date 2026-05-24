@@ -3,9 +3,12 @@ slug: gitamahatmjam-6
 refs:
   - ../../15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti/219-1982-07-04-a3-obyasnenie-stiha-o-slave-bhagavad-gity.md
   - ../../68-shri-chaitanya-saraswat-math/1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
-tags:
+  - ../../_full/1982/07/1982.07.04.A1.md
+  - ../../_full/1985/11/1985.11.07.md
+scriptures:
   - title: Гитамахатмйам
     slug: gitamahatmjam
+verses:
   - title: Гитамахатмйам 6
     slug: gitamahatmjam-6
 ---

@@ -1,18 +1,25 @@
 ---
 slug: 177-arii-nositeli-bozhestvennoj-kultur
+record_id: 1982.01.27.A3
+title: Арии — носители божественной культуры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2964146
+  duration: 00:04:40
+  src: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
+date: 1982-01-27
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/177_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
     title: Скачать аудиозапись в mp3 (4 мин 40 сек, размер 3 Мб)
+legacy:
+  title: 177. Арии — носители божественной культуры. 1982.01.27.A3
+  index: "177"
+  filename: 177-arii-nositeli-bozhestvennoj-kultur.md
 ---
-
-# 177. Арии — носители божественной культуры. 1982.01.27.A3
 
 **Ученик:** Махарадж, какие народы являются потомками ариев? Существуют различные мнения на этот счет. Одни считают, что одна нация, раса является, представители ее являются последователями ариев. Другие придерживаются других мнений.
 

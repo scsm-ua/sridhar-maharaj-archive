@@ -5,9 +5,14 @@ refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/866-1981-03-13-a-b-gde-angely-stupit-ne-smeyut.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/875-1982-02-18-b2-uchenie-o-madhura-rase-v-trudah-rupy-gosvami.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/876-1982-02-18-b1-znakomstvo-s-udzhdzhvala-nilamani-tolko-v-obzornoj-forme.md
-tags:
+  - ../../_full/1981/03/1981.03.13.md
+  - ../../_full/1982/02/1982.02.18.B.md
+  - ../../_full/1982/07/1982.07.08.A3.B.md
+  - ../../_full/1982/12/1982.12.27.A.B.C.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.155
     slug: shri-chajtanya-charitamrita-madhya-lila-19-155
 ---

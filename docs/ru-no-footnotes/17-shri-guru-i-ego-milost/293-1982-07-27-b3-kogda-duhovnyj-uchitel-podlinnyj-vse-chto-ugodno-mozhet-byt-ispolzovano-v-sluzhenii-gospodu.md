@@ -1,14 +1,21 @@
 ---
-slug: 293-1982-07-27-b3-kogda-duhovnyj-uchitel-podlinnyj-vse-chto-ugodno-mozhet-byt-ispolzovano-v-sluzhenii-gospodu
+slug: 1982-07-27-b3_kogda_duhovnyy_uchitel_podlinnyy_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_gospodu
+record_id: 1982.07.27.B3
+title: Когда духовный учитель подлинный, все что угодно может быть использовано
+  в служении Господу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4910883
+  duration: 00:03:44
+  src: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.mp3
+date: 1982-07-27
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.mp3
     title: аудиозапись в MP3 (3 мин. 43 сек., 4,7 МБ)
@@ -16,9 +23,13 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/293_1982.07.27.B3_SridharMj_Kogda_duhovnyj_uchitel_podlinnyj_vse_chto_ugodno_mozhet_byt_ispolzovano_v_sluzhenii_Gospodu.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 293. 1982.07.27.B3. Когда духовный учитель подлинный, все что угодно
+    может быть использовано в служении Господу
+  index: "293"
+  filename: 293-1982-07-27-b3-kogda-duhovnyj-uchitel-podlinnyj-vse-chto-ugodno-mozhet-byt-ispolzovano-v-sluzhenii-gospodu.md
+  slug: 293-1982-07-27-b3-kogda-duhovnyj-uchitel-podlinnyj-vse-chto-ugodno-mozhet-byt-ispolzovano-v-sluzhenii-gospodu
 ---
-
-# 293. 1982.07.27.B3. Когда духовный учитель подлинный, все что угодно может быть использовано в служении Господу
 
 Если посредник подлинный, тогда все что угодно может быть использовано им в служении Господу. Воровство чужой собственности — также, что говорить о том, чтобы продавать что-то? Если я ворую что-то из чужого дома, отдаю это Гурудеву и Гурудев это использует это нечто в служении Господу, тогда мое воровство также оправдано, поскольку тот, чью собственность я ворую, обретет благо благодаря своему косвенному служению Кришне. Поэтому я никому не причиняю вред, ущерб, но я творю благо, я раздаю Кришну, поскольку я использую чью-то энергию ради удовлетворения Кришны. И реакция приходит к тому человеку, энергию которого я использую, и он обретает благо.
 

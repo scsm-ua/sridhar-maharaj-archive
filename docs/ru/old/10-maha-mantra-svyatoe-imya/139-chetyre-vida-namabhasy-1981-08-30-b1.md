@@ -1,24 +1,32 @@
 ---
 slug: 139-chetyre-vida-namabhasy-1981-08-30-b1
+record_id: 1981.08.30.B1
+title: Четыре вида намабхасы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15179806
+  duration: 00:30:47
+  src: /wp-content/uploads/2012/08/139_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
+date: 1981-08-30
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Маха-мантра
     slug: maha-mantra
   - title: Намабхас
     slug: namabhas
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/139_1981.08.30.B1_SridharMj_Chetyre_vida_namabhasy.mp3
     title: Скачать аудиозапись в mp3 (30 мин 47 сек, размер 15 Мб)
+legacy:
+  title: 139. Четыре вида намабхасы. 1981.08.30.B1
+  index: "139"
+  filename: 139-chetyre-vida-namabhasy-1981-08-30-b1.md
 ---
-
-# 139. Четыре вида намабхасы. 1981.08.30.B1
 
 *#00:00:00#*
 

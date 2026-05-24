@@ -1,24 +1,17 @@
 ---
-slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
+slug: 1982-05-05-a3_absolyutnoe_prevoshodstvo_i_unikalnoe_polozhenie_shrimati_radharani
+record_id: 1982.05.05.A3
+title: Абсолютное превосходство и уникальное положение Шримати Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4491797
+  duration: 00:04:17
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
+date: 1982-05-05
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Падьявали
-    slug: padyavali
-  - title: Падьявали 410
-    slug: padyavali-410
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.116
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-116
-  - title: Шри Гита-Говинда
-    slug: shri-gita-govinda
-  - title: Шри Гита-Говинда 3.1.2
-    slug: shri-gita-govinda-3-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.mp3
     title: аудиозапись в MP3 (4 мин. 16 сек., 4,3 МБ)
@@ -26,11 +19,22 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/464_1982.05.05.A3_SridharMj_Absoljutnoe_prevoshodstvo_i_unikalnoe_polozhenie_Shrimati_Radharani.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 464. 1982.05.05.A3. Абсолютное превосходство и уникальное положение
+    Шримати Радхарани
+  index: "464"
+  filename: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani.md
+  slug: 464-1982-05-05-a3-absolyutnoe-prevoshodstvo-i-unikalnoe-polozhenie-shrimati-radharani
+tags:
+  - title: Падьявали 410
+    slug: padyavali-410
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.116
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-116
+  - title: Шри Гита-Говинда 3.1.2
+    slug: shri-gita-govinda-3-1-2
 ---
 
-# 464. 1982.05.05.A3. Абсолютное превосходство и уникальное положение Шримати Радхарани
-
-Служение, *шаранагати* означает служение, и по милости Господа служение увеличивается и принимает различные формы, обличия: *сакхья, ватсалья* и так далее. А служение *мадхура расы* — это безраздельное служение, тотальное, ничем не сдерживаемое, не ограниченное. В бенгальском «Падьявали», стихотворении, эта идея выражена, представлена: *прати анга лаге канде прати анга мора*[^_ftn1]. Только Радхарани может говорить такие слова: «Каждая частица, каждый атом Моего тела отчаянно стремится к соответствующему атому тела Кришны». *Прати анга лаге канде прати анга мора.* «Все Мое существо плачет, отчаянно стремится к другой стороне». Харе Кришна.
+Служение, *шаранагати* означает служение, и по милости Господа служение увеличивается и принимает различные формы, обличия: *сакхья, ватсалья* и так далее. А служение *мадхура расы* — это безраздельное служение, тотальное, ничем не сдерживаемое, не ограниченное. В бенгальском «Падьявали», стихотворении, эта идея выражена, представлена: *прати анга лаге канде прати анга мора*[^_ftn1]. Только Радхарани может говорить такие слова: «Каждая частица, каждый атом Моего тела отчаянно стремится к соответствующему атому тела Кришны». *Прати анга лаге канде прати анга мора*. «Все Мое существо плачет, отчаянно стремится к другой стороне». Харе Кришна.
 
 *#00:01:15#*
 
@@ -66,4 +70,4 @@ links:
 
 [^_ftn3]: [Шри Гита-Говинда 3.1.2](../notes/shri-gita-govinda/shri-gita-govinda-3-1-2.md)
 
-[^_ftn4]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn4]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)

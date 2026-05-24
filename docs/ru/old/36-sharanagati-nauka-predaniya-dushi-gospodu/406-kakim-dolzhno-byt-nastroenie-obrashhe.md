@@ -1,22 +1,30 @@
 ---
 slug: 406-kakim-dolzhno-byt-nastroenie-obrashhe
+record_id: 1983.05.06.B4
+title: Каким должно быть настроение обращения к Господу?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4022178
+  duration: 00:06:59
+  src: /wp-content/uploads/2012/08/406_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
+date: 1983-05-06
 category:
   title: (36. Шаранагати - наука предания души Господу)
   slug: 36-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Самопредание
     slug: samopredanie
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/406_1983.05.06.B4_SridharMj_Kakim_doljno_byt_nastroyenie_obraweniya_k_Gospodu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 59 сек, размер 4 Мб)
+legacy:
+  title: 406. Каким должно быть настроение обращения к Господу? 1983.05.06.B4
+  index: "406"
+  filename: 406-kakim-dolzhno-byt-nastroenie-obrashhe.md
 ---
-
-# 406. Каким должно быть настроение обращения к Господу? 1983.05.06.B4
 
 Гуру Махарадж, иногда я чувствую некую апатию в отношении достижения цели жизни, поскольку я видел множество различных школ, даже люди, рождённые в Индии, знатоки шастр, способные общаться с садху, для них не так легко достичь цели. Что говорить обо мне, рожденном на западе в очень осквернённой атмосфере. Я чувствую, что цель для меня очень далека в моём случае.
 

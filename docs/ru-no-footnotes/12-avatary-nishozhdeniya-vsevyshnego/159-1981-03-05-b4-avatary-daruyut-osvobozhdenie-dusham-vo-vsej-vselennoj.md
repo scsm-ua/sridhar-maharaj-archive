@@ -1,14 +1,20 @@
 ---
-slug: 159-1981-03-05-b4-avatary-daruyut-osvobozhdenie-dusham-vo-vsej-vselennoj
+slug: 1981-03-05-b4_avatary_daruyut_osvobozhdenie_dusham_vo_vsey_vselennoy
+record_id: 1981.03.05.B4
+title: Аватары даруют освобождение душам во всей вселенной
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2035033
+  duration: 00:02:53
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.mp3
+date: 1981-03-05
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.mp3
     title: аудиозапись в MP3 (6 мин. 42 сек., 2,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/159_1981.03.05.B4_SridharMj_Avatary_daruyut_osvobojdeniye_dusham_vo_vsey_vselennoy.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 159. 1981.03.05.B4. Аватары даруют освобождение душам во всей вселенной
+  index: "159"
+  filename: 159-1981-03-05-b4-avatary-daruyut-osvobozhdenie-dusham-vo-vsej-vselennoj.md
+  slug: 159-1981-03-05-b4-avatary-daruyut-osvobozhdenie-dusham-vo-vsej-vselennoj
 ---
-
-# 159. 1981.03.05.B4. Аватары даруют освобождение душам во всей вселенной
 
 **Госвами Махарадж:** Когда Кришна был здесь, в этом мире, лично, были ли все освобождены? Это правда? Я так слышал.
 

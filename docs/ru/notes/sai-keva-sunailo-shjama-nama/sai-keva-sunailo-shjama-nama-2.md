@@ -2,9 +2,10 @@
 slug: sai-keva-sunailo-shjama-nama-2
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/478-1982-11-05-b1-imya-krishny-plenyaet-serdtse-cherez-sluh-chuvstva-radharani-v-poezii-chandidasa.md
-tags:
+scriptures:
   - title: Саи, Кева Сунаило Шйама-нама
     slug: sai-keva-sunailo-shjama-nama
+verses:
   - title: Саи, Кева Сунаило Шйама-нама 2
     slug: sai-keva-sunailo-shjama-nama-2
 ---

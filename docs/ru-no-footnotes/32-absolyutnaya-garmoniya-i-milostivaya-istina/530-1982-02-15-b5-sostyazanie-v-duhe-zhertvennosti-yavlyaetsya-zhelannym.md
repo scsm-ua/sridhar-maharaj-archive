@@ -1,12 +1,17 @@
 ---
-slug: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym
+slug: 1982-02-15-b5_sostyazanie_v_duhe_zhertvennosti_yavlyaetsya_zhelannym
+record_id: 1982.02.15.B5
+title: Состязание в духе жертвенности является желанным
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7672633
+  duration: 00:05:34
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
+date: 1982-02-15
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.mp3
     title: аудиозапись в MP3 (5 мин. 34 сек., 7,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/530_1982.02.15.B5_SridharMj_Sostjazanie_v_duhe_zhertvennosti_javljaetsja_zhelannym.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 530. 1982.02.15.B5. Состязание в духе жертвенности является желанным
+  index: "530"
+  filename: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym.md
+  slug: 530-1982-02-15-b5-sostyazanie-v-duhe-zhertvennosti-yavlyaetsya-zhelannym
 ---
-
-# 530. 1982.02.15.B5. Состязание в духе жертвенности является желанным
 
 **Преданный:** Разные группы близких слуг?
 

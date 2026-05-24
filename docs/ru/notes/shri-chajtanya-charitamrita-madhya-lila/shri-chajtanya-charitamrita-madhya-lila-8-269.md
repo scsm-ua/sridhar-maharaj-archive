@@ -2,9 +2,12 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-8-269
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/071_1981-03-10-b1_sridharmj_shri_chajtanja-olicetvorennaja_krasota_i_ljubov.md
-tags:
+  - ../../_full/1981/11/1981.11.11.A.B.C.md
+  - ../../_full/1982/11/1982.11.08.C.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.269
     slug: shri-chajtanya-charitamrita-madhya-lila-8-269
 ---

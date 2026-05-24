@@ -1,14 +1,20 @@
 ---
-slug: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny
+slug: 1982-05-15-c1_neobhodimo_prilagat_maksimalnye_usiliya_dlya_rasprostraneniya_soznaniya_krishny
+record_id: 1982.05.15.C1
+title: Необходимо прилагать максимальные усилия для распространения Сознания Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3646431
+  duration: 00:02:55
+  src: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.mp3
+date: 1982-05-15
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.mp3
     title: аудиозапись в MP3 (2 мин. 54 сек., 3,5 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (44 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/386_1982.05.15.C1_SridharMj_Neobhodimo_prilagat_maksimalnye_usilija_dlja_rasprostranenija_Soznanija_Krishny.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 386. 1982.05.15.C1. Необходимо прилагать максимальные усилия для
+    распространения Сознания Кришны
+  index: "386"
+  filename: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny.md
+  slug: 386-1982-05-15-c1-neobhodimo-prilagat-maksimalnye-usiliya-dlya-rasprostraneniya-soznaniya-krishny
 ---
-
-# 386. 1982.05.15.C1. Необходимо прилагать максимальные усилия для распространения Сознания Кришны
 
 Любая мысль… коммунистическая мысль… Коммунистическое движение не было начато с помощью денег. Но постепенно эта идея, идеология захватила мир, поскольку нашла место в сердцах многих, столь многих. Сознание Кришны не столь легко принять широким массам, но тем не менее мы будем пытаться, прилагать максимум усилий, чтобы распространять его, а результаты в Его руках. Но мы должны использовать себя самих максимально.
 

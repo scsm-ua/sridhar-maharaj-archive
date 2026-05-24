@@ -1,12 +1,17 @@
 ---
-slug: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov
+slug: 1982-05-18-b3-b5_acharya_kotoryy_polnostyu_otdal_sebya_krishne_ne_budet_zatronut_karmoy_uchenikov
+record_id: 1982.05.18.B3.B5
+title: Ачарья, который полностью отдал себя Кришне, не будет затронут кармой учеников
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2652650
+  duration: 00:01:22
+  src: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3
+date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.mp3
     title: аудиозапись в MP3 (1 мин. 22 сек., 2,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (38 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/295_1982.05.18.B3.B5_SridharMj_Acharja_kotoryj_polnostju_otdal_sebja_Krishne_ne_budet_zatronut_karmoj_uchenikov.pdf
     title: транскрипцию в PDF (114 КБ)
+legacy:
+  title: 295. 1982.05.18.B3.B5. Ачарья, который полностью отдал себя Кришне, не
+    будет затронут кармой учеников
+  index: "295"
+  filename: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov.md
+  slug: 295-1982-05-18-b3-b5-acharya-kotoryj-polnostyu-otdal-sebya-krishne-ne-budet-zatronut-karmoj-uchenikov
 ---
-
-# 295. 1982.05.18.B3.B5. Ачарья, который полностью отдал себя Кришне, не будет затронут кармой учеников
 
 **Преданный:** Еще один момент трудно понять: в какой степени *Ачарья* ответственен за карму своих *шишья*?
 

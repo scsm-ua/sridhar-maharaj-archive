@@ -1,12 +1,17 @@
 ---
-slug: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji
+slug: 1982-02-21-b1_svyaz_yoga-mayi_i_maha-mayi
+record_id: 1982.02.21.B1
+title: Связь йога-майи и маха-майи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2982168
+  duration: 00:06:29
+  src: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
+date: 1982-02-21
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.mp3
     title: аудиозапись в MP3 (6 мин. 29 сек., 2,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/40._Bog_i_bogi/681_1982.02.21.B1_SridharMj_Svyaz_yoga-mayi_i_maha-mayi.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 681. 1982.02.21.B1. Связь йога-майи и маха-майи
+  index: "681"
+  filename: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji.md
+  slug: 681-1982-02-21-b1-svyaz-joga-maji-i-maha-maji
 ---
-
-# 681. 1982.02.21.B1. Связь йога-майи и маха-майи
 
 *Мгновения Прекрасной Реальности (часть 2.1)*
 

@@ -5,9 +5,17 @@ refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/742-1982-01-03-a-sushhnost-otrecheniya-gosvami-vrindavana.md
   - ../../54-smirenie-i-terpenie/837-1983-05-09-b2-meditatsiya-na-smysly-tretego-stiha-shikshashtaki-i-smezhnye-temy.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/947-1983-05-04-b1-zhiznennyj-put-raghunatha-dasa-gosvami.md
-tags:
+  - ../../_full/1982/01/1982.01.03.md
+  - ../../_full/1982/10/1982.10.29.A.B.C.md
+  - ../../_full/1983/05/1983.05.04.md
+  - ../../_full/1983/05/1983.05.09.A.md
+  - ../../_full/1983/07/1983.07.19.md
+  - ../../_full/1983/07/1983.07.30.md
+  - ../../_full/1983/09/1983.09.22.C.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236
     slug: shri-chajtanya-charitamrita-antya-lila-6-236
 ---

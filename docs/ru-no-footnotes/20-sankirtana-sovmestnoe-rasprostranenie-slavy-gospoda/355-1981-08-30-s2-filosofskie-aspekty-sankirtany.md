@@ -1,14 +1,20 @@
 ---
-slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
+slug: 1981-08-30-c2_filosofskie_aspekty_sankirtany
+record_id: 1981.08.30.C2
+title: Философские аспекты санкиртаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2520555
+  duration: 00:04:49
+  src: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
+date: 1981-08-30
 category:
   title: 20. Санкиртана — совместное распространение славы Господа
   slug: 20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Санкиртана
     slug: sankirtana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.mp3
     title: аудиозапись в MP3 (4 мин. 49 сек., 2,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/20._Sankirtana--sovmestnoe_rasprostranenie_slavy_Gospoda/355_1981.08.30.C2_SridharMj_Filosovskie_aspekty_sankirtany.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 355. 1981.08.30.С2. Философские аспекты санкиртаны
+  index: "355"
+  filename: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany.md
+  slug: 355-1981-08-30-s2-filosofskie-aspekty-sankirtany
 ---
-
-# 355. 1981.08.30.С2. Философские аспекты санкиртаны
 
 **Преданный:** Махарадж?
 
@@ -28,7 +37,7 @@ links:
 
 *#00:00:38#*
 
-**Шрила Шридхар Махарадж:** Не только «Бхагаватам». Предположим, *бхакта-бхагаватам*, *садху-санга-нам-киртан*. *Садху-санга*. *Садху* — это живые писания. А священные писания — пассивные. *Садху-санга*, *Харинам* и *мантра-чай(?)*. *Садху-санга* — в обществе *садху*, а если *садху* недоступны, тогда, конечно же, писание, *шастра*.
+**Шрила Шридхар Махарадж:** Не только «Бхагаватам». Предположим, *бхакта-бхагаватам*, *садху-санга-нам-киртан*. *Садху-санга*. *Садху* — это живые писания. А священные писания — пассивные. *Садху-санга*, *Харинам* и *мантра-чай*(?). *Садху-санга* — в обществе *садху*, а если *садху* недоступны, тогда, конечно же, писание, *шастра*.
 
 [Гаура-Харибол, Гаура-Харибол]
 

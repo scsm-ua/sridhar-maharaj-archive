@@ -1,12 +1,17 @@
 ---
-slug: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma
+slug: 1981-03-07-b4_nepokolebimaya_predannost_idealam_gaudiya-vayshnavizma
+record_id: 1981.03.07.B4
+title: Непоколебимая преданность идеалам Гаудия-вайшнавизма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5149329
+  duration: 00:04:29
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.mp3
+date: 1981-03-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.mp3
     title: аудиозапись в MP3 (4 мин. 28 сек., 5,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/990_1981.03.07.B4_SridharMj_Nepokolebimaya_predannost_idealam_Gaudija-vajshnavizma.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 990. 1981.03.07.B4. Непоколебимая преданность идеалам Гаудия-вайшнавизма
+  index: "990"
+  filename: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma.md
+  slug: 990-1981-03-07-b4-nepokolebimaya-predannost-idealam-gaudiya-vajshnavizma
 ---
-
-# 990. 1981.03.07.B4. Непоколебимая преданность идеалам Гаудия-вайшнавизма
 
 В мои последние дни, на закате моей жизни Прабхупад дает мне шанс говорить о нем. Многие мои друзья и духовные братья говорили мне, что я могу хорошо проповедовать интеллигенции, образованным людям в целом. Но мне не был присущ подобный темперамент проповедника, поэтому они жаловались на меня.
 

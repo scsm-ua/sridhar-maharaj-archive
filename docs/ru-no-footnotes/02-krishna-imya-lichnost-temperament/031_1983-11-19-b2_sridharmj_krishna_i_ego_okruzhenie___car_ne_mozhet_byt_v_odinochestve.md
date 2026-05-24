@@ -1,14 +1,20 @@
 ---
-slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
+slug: 1983-11-19-b2_krishna_i_ego_okruzhenie_tsar_ne_mozhet_byt_v_odinochestve
+record_id: 1983.11.19.B2
+title: Кришна и Его окружение. Царь не может быть в одиночестве.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2891525
+  duration: 00:02:55
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3
+date: 1983-11-19
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Спутники
     slug: sputniki
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.mp3
     title: аудиозапись в MP3 (02 мин. 54 сек., 2.8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/031_1983.11.19.B2_SridharMj_Krishna_i_Ego_okruzhenie___Car_ne_mozhet_byt_v_odinochestve.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 031. 1983.11.19.B2 Кришна и Его окружение. Царь не может быть в одиночестве
+  index: "031"
+  filename: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve.md
+  slug: 031_1983-11-19-b2_sridharmj_krishna_i_ego_okruzhenie___car_ne_mozhet_byt_v_odinochestve
 ---
-
-# 031. 1983.11.19.B2 Кришна и Его окружение. Царь не может быть в одиночестве
 
 Столь многие вайшнавы представляют различные виды, склонности служения. Олицетворением этих склонностей являются различные вайшнавы. *Вайчитра* — этому нет конца. Таким образом.
 
@@ -36,10 +45,11 @@ links:
 
 *#00:02:33#*
 
-**ваданти тат таттва-видас**\
-**таттвам̇ йадж джн̃а̄нам адвайам**\
-[**брахмети парама̄тмети**\
-**бхагава̄н ити ш́абдйате**][^_ftn2]
+    ваданти тат таттва-видас
+    таттвам̇ йадж джн̃а̄нам адвайам
+    [брахмети парама̄тмети
+    бхагава̄н ити ш́абдйате]
+[^_ftn2]
 
 Целостная, всеобъемлющая концепция реальности, которая включает обе стороны: главную и дополнительную.
 

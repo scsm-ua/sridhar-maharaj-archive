@@ -1,20 +1,17 @@
 ---
-slug: 987-1982-02-17-b1-hranitel-predannosti
+slug: 1982-02-17-b1_hranitel_predannosti
+record_id: 1982.02.17.B1
+title: Хранитель Преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5014538
+  duration: 00:08:40
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/987_1982.02.17.B1_SridharMj_Hranitel_predannosti.mp3
+date: 1982-02-17
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
-    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.46
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-46
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/987_1982.02.17.B1_SridharMj_Hranitel_predannosti.mp3
     title: аудиозапись в MP3 (8 мин. 40 сек., 4,8 МБ)
@@ -22,9 +19,19 @@ links:
     title: транскрипцию в RTF (104 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/987_1982.02.17.B1_SridharMj_Hranitel_predannosti.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 987. 1982.02.17.B1. Хранитель Преданности
+  index: "987"
+  filename: 987-1982-02-17-b1-hranitel-predannosti.md
+  slug: 987-1982-02-17-b1-hranitel-predannosti
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.45
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-45
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.46
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-46
 ---
-
-# 987. 1982.02.17.B1. Хранитель Преданности
 
 Мой Гуру Махарадж говорил мне: «Ты любишь комфорт, ты любишь удобства». Он обвинял меня в том, что у меня такая природа, что я люблю удобства, покой. Он говорил: «Ты не хочешь брать на себя риск, ты ищешь покоя. Ты не хочешь, тебе не нравится брать на себя риск ради *кришна-киртана*, ты любишь покой. Столько душ вокруг погибает от голода, а ты сидишь в своей комнате, закрыв двери! Ты любишь покой, но я не могу сидеть праздно, без дела. Ты можешь сидеть праздно, без дела, но я не могу. Так много людей мучаются, рыдают, плачут, им не хватает пищи. Я не могу сидеть без дела».
 

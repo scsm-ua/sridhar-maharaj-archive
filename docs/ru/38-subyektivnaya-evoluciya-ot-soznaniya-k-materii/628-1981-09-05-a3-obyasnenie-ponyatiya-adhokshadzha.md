@@ -1,27 +1,38 @@
 ---
-slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
+slug: 1981-09-05-a3_obyasnenie_ponyatiya_adhokshadzha
+record_id: 1981.09.05.A3
+title: Объяснение понятия «Адхокшаджа»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11083054
+  duration: 00:10:34
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
+date: 1981-09-05
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
+links:
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
+    title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.docx
+    title: транскрипцию в DOCX (26 КБ)
+  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.pdf
+    title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
+  index: "628"
+  filename: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha.md
+  slug: 628-1981-09-05-a3-obyasnenie-ponyatiya-adhokshadzha
 tags:
-  - title: "1981.09"
-    slug: 1981-09
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.6
     slug: shrimad-bhagavatam-1-2-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.137
     slug: shri-chajtanya-charitamrita-madhya-lila-19-137
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
     slug: shri-chajtanya-charitamrita-antya-lila-15-19
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
     slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 1.1.5–6
     slug: manu-samhita-1-1-5-6
   - title: Шримад-Бхагаватам 1.13.47
@@ -30,17 +41,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-63
   - title: Шримад-Бхагаватам 4.31.14
     slug: shrimad-bhagavatam-4-31-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.mp3
-    title: аудиозапись в MP3 (10 мин. 34 сек., 10,6 МБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.docx
-    title: транскрипцию в DOCX (26 КБ)
-  - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/628_1981.09.05.A3_SridharMj_Objasnenie_ponjatija_Adhokshadzha.pdf
-    title: транскрипцию в PDF (158 КБ)
 ---
-
-# 628. 1981.09.05.A3. Объяснение понятия «Адхокшаджа»
 
 «Шримад-Бхагаватам» сплошь и рядом использует этот термин — *адхокшаджа*. Почему? «Бхагаватам» описывает *апракрита-расу*, которая очень похожа на эти мирские реалии, реалии нашего мира, поэтому это предостережение вновь и вновь повторяется на страницах «Бхагаватам»: «*Адхокшаджа, адхокшаджа*».
 
@@ -49,7 +50,8 @@ links:
 
 Не смешивай это явление с опытом твоих чувств, будь очень осторожен, очень осторожен. Не смешивай это явление с реалиями или событиями этого бренного мира. Вновь и вновь это предостережение повторяется.
 
-**Йато бхактир адхокш̣адже**[^_ftn2]
+    йато бхактир адхокш̣адже
+[^_ftn2]
 
 В полной мере осознавай: Тот, с кем ты собираешься иметь дело, никогда не может быть ограничен. Это явление обладает независимой природой.
 

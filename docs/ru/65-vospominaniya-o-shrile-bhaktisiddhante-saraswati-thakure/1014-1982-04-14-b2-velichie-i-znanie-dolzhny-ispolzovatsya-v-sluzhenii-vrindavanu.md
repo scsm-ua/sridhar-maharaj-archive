@@ -1,16 +1,17 @@
 ---
-slug: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu
+slug: 1982-04-14-b2_velichie_i_znanie_dolzhny_ispolzovatsya_v_sluzhenii_vrindavanu
+record_id: 1982.04.14.B2
+title: Величие и знание должны использоваться в служении Вриндавану
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8513515
+  duration: 00:08:15
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3
+date: 1982-04-14
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Шри Шри Прабхупада-падма Ставаках
-    slug: shri-shri-prabhupada-padma-stavakah
-  - title: Шри Шри Прабхупада-падма Ставаках 7
-    slug: shri-shri-prabhupada-padma-stavakah-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.mp3
     title: аудиозапись в MP3 (8 мин. 14 сек., 8,2 МБ)
@@ -18,9 +19,16 @@ links:
     title: транскрипцию в RTF (94 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1014_1982.04.14.B2_SridharMj_Velichie_i_znanie_dolzhny_ispol'zovat'sja_v_sluzhenii_Vrindavanu.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 1014. 1982.04.14.B2. Величие и знание должны использоваться в служении
+    Вриндавану
+  index: "1014"
+  filename: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu.md
+  slug: 1014-1982-04-14-b2-velichie-i-znanie-dolzhny-ispolzovatsya-v-sluzhenii-vrindavanu
+tags:
+  - title: Шри Шри Прабхупада-падма Ставаках 7
+    slug: shri-shri-prabhupada-padma-stavakah-7
 ---
-
-# 1014. 1982.04.14.B2. Величие и знание должны использоваться в служении Вриндавану
 
 Мы будем обращаться к *шастре* и к *садху*, особенно к тем *садху*, которые пытаются прийти к сознанию Кришны, — наша цель такова. Но если мы встречаем по дороге величие, пышность, роскошь и так далее, то мы будем пытаться использовать эти реалии. Например, если я встречаю по дороге величие, пышность, роскошь, то я буду пытаться использовать эти реалии ради простого, искреннего процесса поклонения Вриндавану — таким должен быть наш темперамент. Нитай Гаура-Харибол.
 
@@ -62,6 +70,6 @@ links:
 
 
 
-[^_ftn1]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn1]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn2]: [Шри Шри Прабхупада-падма Ставаках 7](../notes/shri-shri-prabhupada-padma-stavakah/shri-shri-prabhupada-padma-stavakah-7.md)

@@ -2,9 +2,10 @@
 slug: shri-krshnera-vimsottara-shata-nama-24
 refs:
   - ../../02-krishna-imya-lichnost-temperament/020_1985-06-09-a2_sridharmj_lyubovniy_poisk_poteryannogo_slugi.md
-tags:
+scriptures:
   - title: Ш́рӣ Кр̣ш̣н̣ера Вим̇соттара-ш́ата-на̄ма
     slug: shri-krshnera-vimsottara-shata-nama
+verses:
   - title: Ш́рӣ Кр̣ш̣н̣ера Вим̇соттара-ш́ата-на̄ма 24
     slug: shri-krshnera-vimsottara-shata-nama-24
 ---

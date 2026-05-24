@@ -1,25 +1,36 @@
 ---
-slug: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti
+slug: 1983-02-11-a1_pomoshch_vayshnavov_pomozhet_preodolet_trudnosti_puti
+record_id: 1983.02.11.A1
+title: Помощь вайшнавов поможет преодолеть трудности пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15781354
+  duration: 00:32:14
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
+date: 1983-02-11
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
+links:
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
+    title: аудиозапись в MP3 (32 мин. 13 сек., 15,1 МБ)
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.rtf
+    title: транскрипцию в RTF (242 КБ)
+  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.pdf
+    title: транскрипцию в PDF (177 КБ)
+legacy:
+  title: 713. 1983.02.11.A1. Помощь вайшнавов поможет преодолеть трудности пути
+  index: "713"
+  filename: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti.md
+  slug: 713-1983-02-11-a1-pomoshh-vajshnavov-pomozhet-preodolet-trudnosti-puti
 tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Вайшнава ке
-    slug: vajshnava-ke
   - title: Вайшнава ке 3
     slug: vajshnava-ke-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
@@ -28,21 +39,9 @@ tags:
     slug: vajshnava-ke-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.54
     slug: shri-chajtanya-charitamrita-madhya-lila-22-54
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
   - title: Шри Шри Прапанна-дживанамритам 7.21
     slug: shri-shri-prapanna-dzhivanamritam-7-21
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.mp3
-    title: аудиозапись в MP3 (32 мин. 13 сек., 15,1 МБ)
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.rtf
-    title: транскрипцию в RTF (242 КБ)
-  - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/713_1983.02.11.A1_SridharMj_Pomow_vaishnavov_pomojet_preodolet_trudnosti_puti.pdf
-    title: транскрипцию в PDF (177 КБ)
 ---
-
-# 713. 1983.02.11.A1. Помощь вайшнавов поможет преодолеть трудности пути
 
 Неблагоприятная позиция: Господь присутствует там, решение присутствует. Он не мстителен, Он не хочет наказать тебя. Наказание приходит только для того, чтобы наставить тебя, научить тебя. Наказание присутствует, но оно приходят из любящей руки только для того, чтобы научить, улучшить, исправить тебя, помочь тебе, не для того чтобы наказать тебя. Мы должны рассматривать вещи в таком свете, так советуют нам. И тогда очень быстро все уйдет — туман, грязь, и наступит кристально-ясная погода, чистая, атмосфера.
 

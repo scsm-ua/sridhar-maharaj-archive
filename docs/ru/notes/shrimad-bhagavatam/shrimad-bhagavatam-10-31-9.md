@@ -8,13 +8,21 @@ refs:
   - ../../54-smirenie-i-terpenie/833-1985-05-01-b2-smirenie-kriterij-dlya-postizheniya-bezgranichnogo.md
   - ../../56-samootricanie/857-1983-11-14-c1-poisk-bezgranichnogo-kotoryj-mozhet-byt-zakonchen-eto-maja.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1096-1981-03-12-b3-pisaniya-vysshego-urovnya-sovmeshhayut-poetichnost-i-filosofskuyu-glubinu.md
-tags:
+  - ../../_full/1981/10/1981.10.07.A.B.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1982/11/1982.11.29.A.B.md
+  - ../../_full/1983/11/1983.11.14.C.md
+  - ../../_full/1983/11/1983.11.14.D.md
+  - ../../_full/1985/05/1985.05.01.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
-    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.13
+    slug: shri-chajtanya-charitamrita-madhya-lila-14-13
   - title: Шримад-Бхагаватам 10.31.9
     slug: shrimad-bhagavatam-10-31-9
 ---
@@ -42,3 +50,7 @@ tags:
 ---
 
 *тава катха̄мр̣там̇ тапта-джӣванам̇, кавибхир ӣд̣итам̇ калмаш̣а̄пахам / ш́раван̣а-ман̇галам̇ ш́рӣмад а̄татам̇, бхуви гр̣н̣анти йе бхӯри-да̄ джана̄х̣* — «Одним лишь словом Своим ты исцеляешь раны страждущих, вселяешь надежду обреченным, смываешь грехи с грешников, даешь силы ищущим. И нет в мире большей радости, чем слышать слово о Тебе, чем петь Твою славу» («Шримад-Бхагаватам», 10.31.9).
+
+---
+
+«Одним лишь словом Своим ты исцеляешь раны страждущих, вселяешь надежду обреченным, смываешь грехи с грешников, даешь силы ищущим. И нет в мире большей радости, чем слышать слово о Тебе, чем петь Твою славу» («Шримад-Бхагаватам», 10.31.9).

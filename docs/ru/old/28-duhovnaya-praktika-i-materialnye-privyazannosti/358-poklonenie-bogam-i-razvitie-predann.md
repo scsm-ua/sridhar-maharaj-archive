@@ -1,18 +1,28 @@
 ---
 slug: 358-poklonenie-bogam-i-razvitie-predann
+title: Поклонение богам и развитие преданности Всевышнему. Мгновения прекрасной
+  реальности, часть 8.7.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2789096
+  duration: 00:06:33
+  src: /wp-content/uploads/2012/08/358_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/358_MgnoveniyaPR_8.7_SridharMj_Pokloneniye_bogam_i_razvitiye_predannosti_Vsevyshnemu.mp3
     title: Скачать аудиозапись в mp3 (6 мин 33 сек, размер 2 Мб)
+legacy:
+  title: 358. Поклонение богам и развитие преданности Всевышнему. Мгновения
+    прекрасной реальности, часть 8.7
+  index: "358"
+  filename: 358-poklonenie-bogam-i-razvitie-predann.md
 ---
-
-# 358. Поклонение богам и развитие преданности Всевышнему. Мгновения прекрасной реальности, часть 8.7
 
 **Преданный:** Ганеш-пуджа. Преданные могут совершать Ганеш-пуджу для того, чтобы устранить препятствия в служении. Можем ли мы делать это?
 

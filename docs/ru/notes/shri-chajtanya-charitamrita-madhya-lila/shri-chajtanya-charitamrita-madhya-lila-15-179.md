@@ -5,9 +5,17 @@ refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/190-1982-01-22-a1-nesovershenstva-usilivayut-krasotu-krishna-lily.md
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/604-1982-05-14-b3-bog-mozhet-prekratit-sushhestvovanie-dzhivy-ili-sovershit-samoubijstvo.md
   - ../../37-dusha-v-sferah-materialnoy-i-duhovnoy-energii/605-1980-07-11-a6-o-kontseptsii-krishna-mozhet-prekratit-sushhestvovanie-dzhivy.md
-tags:
+  - ../../_full/1980/07/1980.07.11.md
+  - ../../_full/1981/03/1981.03.06.md
+  - ../../_full/1982/01/1982.01.22.A.md
+  - ../../_full/1982/09/1982.09.04.A.B.md
+  - ../../_full/1982/10/1982.10.20.A.B.md
+  - ../../_full/1982/11/1982.11.20.A.md
+  - ../../_full/1982/12/1982.12.26.A.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.179
     slug: shri-chajtanya-charitamrita-madhya-lila-15-179
 ---

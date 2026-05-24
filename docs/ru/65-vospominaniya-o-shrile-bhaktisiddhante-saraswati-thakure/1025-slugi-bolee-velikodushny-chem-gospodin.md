@@ -1,12 +1,18 @@
 ---
-slug: 1025-slugi-bolee-velikodushny-chem-gospodin
+slug: slugi_bolee_velikodushny_chem_gospodin
+title: Слуги более великодушны, чем господин
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2885018
+  duration: 00:06:28
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1025_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1025_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.mp3
     title: аудиозапись в MP3 (6 мин. 27 сек., 2,8 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1025_2012.07.25.1_SridharMj_Slugi_bolee_velikodushny_chem_gospodin.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 1025. Слуги более великодушны, чем господин
+  index: "1025"
+  filename: 1025-slugi-bolee-velikodushny-chem-gospodin.md
+  slug: 1025-slugi-bolee-velikodushny-chem-gospodin
 ---
-
-# 1025. Слуги более великодушны, чем господин
 
 Нитьянанда Прабху обладает специфической природой: тех, кого Махапрабху отвергает, Нитьянанда Прабху оставляет при себе. Кала Кришнадас совершил что-то пред рассудительное, и ради нашего наставления… Это было на юге Индии, в Ка́наде, жители тех мест очень красивы, мужчины, женщины, их кожа, цвет их лица, тела очень привлекателен. И с Кала Кришнадасом свершилось прискорбное происшествие там, в тех местах, когда он путешествовал в обществе Махапрабху.
 

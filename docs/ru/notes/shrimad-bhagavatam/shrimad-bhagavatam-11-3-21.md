@@ -4,9 +4,16 @@ refs:
   - ../../17-shri-guru-i-ego-milost/274-1981-02-28-c1-kachestva-duhovnogo-uchitelya-i-uchenika.md
   - ../../17-shri-guru-i-ego-milost/285-1982-05-07-a2-umonastroenie-i-kachestva-achari.md
   - ../../17-shri-guru-i-ego-milost/319-1981-03-10-c1-c3-c5-c7-kvalifikatsiya-acharev-i-ih-vzaimodejstvie.md
-tags:
+  - ../../_full/1981/02/1981.02.28.md
+  - ../../_full/1981/10/1981.10.12.B.md
+  - ../../_full/1981/11/1981.11.24.A.B.C.md
+  - ../../_full/1981/12/1981.12.22.A.B.C.md
+  - ../../_full/1982/05/1982.05.07.A.md
+  - ../../_full/1983/10/1983.10.23.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.3.21
     slug: shrimad-bhagavatam-11-3-21
 ---

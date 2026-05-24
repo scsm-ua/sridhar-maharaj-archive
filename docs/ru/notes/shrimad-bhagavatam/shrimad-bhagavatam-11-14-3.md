@@ -2,9 +2,12 @@
 slug: shrimad-bhagavatam-11-14-3
 refs:
   - ../../24-deyatelnost-v-svyazi-s-absolyutnym-centrom/414-1983-07-08-a3-b1-rasshirennyj-egoizm-ili-bogotsentrizm.md
-tags:
+  - ../../_full/1981/09/1981.09.05.B.md
+  - ../../_full/1983/07/1983.07.08.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 11.14.3
     slug: shrimad-bhagavatam-11-14-3
 ---

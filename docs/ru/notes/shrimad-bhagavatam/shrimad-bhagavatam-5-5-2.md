@@ -2,13 +2,15 @@
 slug: shrimad-bhagavatam-5-5-2
 refs:
   - ../../51-filosofiya-i-praktika-bhakti-yogi/798-1981-03-02-b6-c1-c5-o-soblyudenii-posta-v-ekadashi.md
-tags:
+  - ../../_full/1981/03/1981.03.02.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.82
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-82
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.82
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-82
   - title: Шримад-Бхагаватам 5.5.2
     slug: shrimad-bhagavatam-5-5-2
 ---

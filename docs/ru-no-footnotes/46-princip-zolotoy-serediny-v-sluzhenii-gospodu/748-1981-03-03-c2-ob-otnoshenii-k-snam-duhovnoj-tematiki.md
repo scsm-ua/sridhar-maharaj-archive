@@ -1,12 +1,17 @@
 ---
-slug: 748-1981-03-03-c2-ob-otnoshenii-k-snam-duhovnoj-tematiki
+slug: 1981-03-03-c2_ob_otnoshenii_k_snam_duhovnoy_tematiki
+record_id: 1981.03.03.C2
+title: Об отношении к снам духовной тематики
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2878598
+  duration: 00:02:20
+  src: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
+date: 1981-03-03
 category:
   title: 46. Принцип «золотой середины» в служении Господу
   slug: 46-princip-zolotoy-serediny-v-sluzhenii-gospodu
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.mp3
     title: аудиозапись в MP3 (5 мин. 03 сек., 2,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/46._Princip_zolotoy_serediny_v_sluzhenii_Gospodu/748_1981.03.03.C2_SridharMj_Ob_otnoshenii_k_snam_duhovnoy_tematiki.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 748. 1981.03.03.C2. Об отношении к снам духовной тематики
+  index: "748"
+  filename: 748-1981-03-03-c2-ob-otnoshenii-k-snam-duhovnoj-tematiki.md
+  slug: 748-1981-03-03-c2-ob-otnoshenii-k-snam-duhovnoj-tematiki
 ---
-
-# 748. 1981.03.03.C2. Об отношении к снам духовной тематики
 
 **Преданный:** Одному из нынешних *ачарьев* приснился сон. В этом сне наш Шрила Прабхупада приходил к нему и говорил о том, что в будущем в определенное время он вновь явится в этом мире, чтобы направлять наше движение. Как мы должны воспринимать подобное: сон или откровение? Как нам это понимать?
 

@@ -1,24 +1,32 @@
 ---
 slug: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4
+record_id: 1981.08.30.A4
+title: Ключ к сокровищу гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6929366
+  duration: 00:11:58
+  src: /wp-content/uploads/2012/08/121_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
+date: 1981-08-30
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Вайкунтха
     slug: vajkuntha
   - title: Гуру
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/121_1981.08.30.A4_SridharMj_Kluch_k_sokroviwu_Guru.mp3
     title: Скачать аудиозапись в mp3 (11 мин 58 сек, размер 6 Мб)
+legacy:
+  title: 121. Ключ к сокровищу гуру. 1981.08.30.A4
+  index: "121"
+  filename: 121-klyuch-k-sokrovishhu-guru-1981-08-30-a4.md
 ---
-
-# 121. Ключ к сокровищу гуру. 1981.08.30.A4
 
 **Преданный:** Мадхури-рупа. Ваш даршан – это мадхури-рупа. Ваша сладостная форма или ваш сладостный образ.
 

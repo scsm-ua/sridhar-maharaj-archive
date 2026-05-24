@@ -2,9 +2,11 @@
 slug: goptritve-varana-4
 refs:
   - ../../53-sharanagati-nauka-predaniya-dushi-gospodu/823-1983-11-02-b4-prinyatie-pribezhishha-v-gospode-glavnyj-komponent-sharanagati.md
-tags:
+  - ../../_full/1983/11/1983.11.02.A2.B.md
+scriptures:
   - title: Гоптритве варана
     slug: goptritve-varana
+verses:
   - title: Гоптритве варана 4
     slug: goptritve-varana-4
 ---

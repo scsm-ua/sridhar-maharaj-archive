@@ -1,12 +1,17 @@
 ---
-slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
+slug: 1987-00-00-b5-2_posmertnaya_sudba_putany_isklyuchitelnyy_sluchay
+record_id: 1987.00.00.B5.2
+title: Посмертная судьба Путаны — исключительный случай
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6275061
+  duration: 00:07:45
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
+date: 1987-00-00
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
-tags:
-  - title: "1987.00"
-    slug: 1987-00
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
     title: аудиозапись в MP3 (7 мин. 45 сек., 64 кбит/сек, 6.0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
+  index: "069"
+  filename: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
+  slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
 ---
-
-# 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
 
 Учение Рупы Госвами. Как он дал эту *сиддханту*? Целостное, полное явление.
 
@@ -62,7 +70,7 @@ links:
     хр̣шӣкен̣а хр̣шӣкеш́а севанам̇ бхактир учйате
 [^_ftn6]
 
-Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄.*
+Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄*.
 
 *#00:02:52#*
 

@@ -1,20 +1,24 @@
 ---
-slug: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu
+slug: 1982-02-19-c3_pochemu_ramachandra_sovershal_shiva-pudzhu
+record_id: 1982.02.19.C3
+title: Почему Рамачандра совершал Шива-пуджу?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1628080
+  duration: 00:03:57
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
+date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Рамачандра
     slug: ramachandra
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.21
     slug: bhagavad-gita-3-21
   - title: Бхагавад-гита 3.24
     slug: bhagavad-gita-3-24
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.mp3
     title: аудиозапись в MP3 (3 мин. 56 сек., 1,6 МБ)
@@ -22,9 +26,12 @@ links:
     title: транскрипцию в RTF (60 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/153_1982.02.19.C3_SridharMj_Pochemu_Ramachandra_sovershal_Shiva-pudju.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 153. 1982.02.19.С3. Почему Рамачандра совершал Шива-пуджу?
+  index: "153"
+  filename: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu.md
+  slug: 153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu
 ---
-
-# 153. 1982.02.19.С3. Почему Рамачандра совершал Шива-пуджу?
 
 **Преданный:** Махарадж, правда ли, что Рамачандра совершал *шива-пуджу*?
 

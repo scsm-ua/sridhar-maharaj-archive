@@ -1,18 +1,25 @@
 ---
 slug: 361-narkotik-nikogda-ne-dast-duhovnoj-re
+record_id: 1983.01.12.C3.D
+title: Наркотик никогда не даст духовной реализации
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15585319
+  duration: 00:30:05
+  src: /wp-content/uploads/2012/08/361_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
+date: 1983-01-12
 category:
   title: (28. Духовная практика и материальные привязанности)
   slug: 28-duhovnaya-praktika-i-materialnye-privyazannosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/361_1983.01.12.C3.D_SridharMj_Narkotik_nikogda_ne_dast_dohovnoy_realizacii.mp3
     title: Скачать аудиозапись в mp3 (30 мин 5 сек, размер 15 Мб)
+legacy:
+  title: 361. Наркотик никогда не даст духовной реализации. 1983.01.12.C3.D
+  index: "361"
+  filename: 361-narkotik-nikogda-ne-dast-duhovnoj-re.md
 ---
-
-# 361. Наркотик никогда не даст духовной реализации. 1983.01.12.C3.D
 
 *#00:00:00#*
 

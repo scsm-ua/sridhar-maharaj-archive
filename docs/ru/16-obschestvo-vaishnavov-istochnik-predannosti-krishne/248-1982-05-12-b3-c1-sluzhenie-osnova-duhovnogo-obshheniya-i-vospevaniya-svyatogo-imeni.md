@@ -1,44 +1,38 @@
 ---
-slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
+slug: 1982-05-12-b3-c1_sluzhenie_osnova_duhovnogo_obshcheniya_i_vospevaniya_svyatogo_imeni
+record_id: 1982.05.12.B3.C1
+title: Служение – основа духовного общения и воспевания Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9628118
+  duration: 00:08:51
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
+date: 1982-05-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Садху-санга
     slug: sadhu-sanga
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.117
     slug: shri-chajtanya-charitamrita-adi-lila-2-117
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.71
     slug: shri-chajtanya-charitamrita-antya-lila-4-71
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
     slug: shri-chajtanya-charitamrita-madhya-lila-22-128
-  - title: Шри Упадешамрита
-    slug: shri-upadeshamrita
   - title: Шри Упадешамрита 4
     slug: shri-upadeshamrita-4
-  - title: Бхаджана-лаласа
-    slug: bhadzhana-lalasa
   - title: Бхаджана-лаласа 4.1
     slug: bhadzhana-lalasa-4-1
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.25
     slug: shri-chajtanya-charitamrita-madhya-lila-22-25
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.83
     slug: shri-chajtanya-charitamrita-madhya-lila-22-83
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (8 мин. 51 сек., 9,2 МБ)
@@ -46,9 +40,13 @@ links:
     title: транскрипцию в RTF (139 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/248_1982.05.12.B3.C1_SridharMj_Sluzhenie--osnova_duhovnogo_obshhenija_i_vospevanija_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 248. 1982.05.12.B3.C1. Служение – основа духовного общения и воспевания
+    Святого Имени
+  index: "248"
+  filename: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni.md
+  slug: 248-1982-05-12-b3-c1-sluzhenie-osnova-duhovnogo-obshheniya-i-vospevaniya-svyatogo-imeni
 ---
-
-# 248. 1982.05.12.B3.C1. Служение – основа духовного общения и воспевания Святого Имени
 
     сиддха̄нта балийа̄ читте на̄ кара аласа
     иха̄ ха-ите кр̣ш̣н̣е ла̄ге судр̣д̣ха ма̄наса
@@ -91,11 +89,11 @@ links:
     севонмукхе хи джихва̄дау свайам эва спхуратй адах̣
 [^_ftn7]
 
-Мы должны пытаться обрести умонастроение, дух служения. И это относится не только к *нам-бхаджану* — к любому *бхаджану*. Этот дух поможет нам. В нем присутствует универсальная потребность. *Севонмукхе хи джихва̄дау свайам эва спхуратй адах̣.*
+Мы должны пытаться обрести умонастроение, дух служения. И это относится не только к *нам-бхаджану* — к любому *бхаджану*. Этот дух поможет нам. В нем присутствует универсальная потребность. *Севонмукхе хи джихва̄дау свайам эва спхуратй адах̣*.
 
 *#00:06:17#*
 
-*Джихва̄дау* означает, что на языке — *на̄ма̄ди: нама, рупа, гуна, лила*. *На̄ма̄ди* означает *нама, гуна, рупа, лила*. И Имя на языке. *Джихва* — язык, *рупа* — в глазах, зрении, *гуна* — в уме Его качества. *Нама*, *рупа, гуна.* И *лила* — в сердце. Все это низойдет, и все остальные аспекты будут связаны с этим *Вайкунтха*—*намом*. *Севонмукхе хи джихва̄дау свайам эва спхуратй адах̣.*
+*Джихва̄дау* означает, что на языке — *на̄ма̄ди: нама, рупа, гуна, лила*. *На̄ма̄ди* означает *нама, гуна, рупа, лила*. И Имя на языке. *Джихва* — язык, *рупа* — в глазах, зрении, *гуна* — в уме Его качества. *Нама*, *рупа, гуна*. И *лила* — в сердце. Все это низойдет, и все остальные аспекты будут связаны с этим *Вайкунтха*—*намом*. *Севонмукхе хи джихва̄дау свайам эва спхуратй адах̣*.
 
 Поэтому речь не идет о том, чтобы увеличивать количество повторений, но качество повторений — в определенном качестве повторения, для того чтобы то была подлинная преданность, *бхакти*. *Севонмукхе*. *Сева* предполагает самопредание, вручение себя, отдание, а все это предполагает *садху-сангу*.
 

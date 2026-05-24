@@ -4,9 +4,13 @@ refs:
   - ../../05-rasa-tattva-vkusy-otnosheniy-s-gospodom/052_1981-09-05-a2_sridharmj_predstaviteli_raznyh_ras_pochitajut_drug_druga.md
   - ../../16-obschestvo-vaishnavov-istochnik-predannosti-krishne/245-1982-01-04-c-obshhenie-s-vajshnavami-daruet-podlinnoe-vospriyatie-bozhestva.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/559-1983-06-27-realnost-very-za-predelami-mira-smerti.md
-tags:
+  - ../../_full/1982/01/1982.01.04.C.md
+  - ../../_full/1982/01/1982.01.17.md
+  - ../../_full/1983/06/1983.06.27.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.21
     slug: bhagavad-gita-6-21
 ---
@@ -18,6 +22,10 @@ tags:
 ---
 
 Одухотворенный разум, недоступный материальным чувствам (См. Бхагавад-гита, 6.21).
+
+---
+
+«Недоступное материальным чувствам». См. Бхагавад-гита, 6.21.
 
 ---
 

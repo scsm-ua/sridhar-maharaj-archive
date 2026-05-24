@@ -1,22 +1,30 @@
 ---
 slug: 99-kachestva-duhovnogo-uchitelya-i-uchenika
+record_id: 1981.02.28.C1
+title: Качества духовного учителя и ученика
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11947384
+  duration: 00:22:25
+  src: /wp-content/uploads/2012/08/099_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
+date: 1981-02-28
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Гуру
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/099_1981.02.28.C1_SridharMj_Kachestva_duhovnogo_uchitelya_i_uchenika.mp3
     title: Скачать аудиозапись в mp3 (22 мин 25 сек, размер 11 Мб)
+legacy:
+  title: 99. Качества духовного учителя и ученика. 1981.02.28.C1
+  index: "99"
+  filename: 99-kachestva-duhovnogo-uchitelya-i-uchenika.md
 ---
-
-# 99. Качества духовного учителя и ученика. 1981.02.28.C1
 
 **Шридхар Махарадж:** Я хочу услышать что-то от нашего Даядхары Прабху. Что он скажет? От других я уже что-то слышал, от него еще нет. Видеть я не могу. Только через уши я могу видеть. Я хочу услышать от него что-то. Солнечный свет попадает вам на лица и беспокоит. Вы можете передвинуться сюда. Там тоже солнце. Садитесь сюда. Мои глаза тоже беспокоит солнечный свет. Закройте тканью.
 

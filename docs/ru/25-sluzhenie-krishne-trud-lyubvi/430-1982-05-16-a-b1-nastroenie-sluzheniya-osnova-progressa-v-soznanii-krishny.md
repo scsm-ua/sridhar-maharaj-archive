@@ -1,34 +1,32 @@
 ---
-slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
+slug: 1982-05-16-a-b1_nastroenie_sluzheniya_osnova_progressa_v_soznanii_krishny
+record_id: 1982.05.16.A.B1
+title: Настроение служения – основа прогресса в Сознании Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13588678
+  duration: 00:13:30
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
+date: 1982-05-16
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.136
     slug: shri-chajtanya-charitamrita-madhya-lila-17-136
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: Гоптритве варана
-    slug: goptritve-varana
   - title: Гоптритве варана 1–5
     slug: goptritve-varana-1-5
   - title: Шримад-Бхагаватам 2.1.2
     slug: shrimad-bhagavatam-2-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.mp3
     title: аудиозапись в MP3 (13 мин. 29 сек., 13,0 МБ)
@@ -36,9 +34,13 @@ links:
     title: транскрипцию в RTF (123 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/430_1982.05.16.A.B1_SridharMj_Nastroenie_sluzhenija_osnova_progressa_v_Soznanii_Krishny.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 430. 1982.05.16.A.B1. Настроение служения – основа прогресса в Сознании
+    Кришны
+  index: "430"
+  filename: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny.md
+  slug: 430-1982-05-16-a-b1-nastroenie-sluzheniya-osnova-progressa-v-soznanii-krishny
 ---
-
-# 430. 1982.05.16.A.B1. Настроение служения – основа прогресса в Сознании Кришны
 
 **Преданный:** Гурудев!
 

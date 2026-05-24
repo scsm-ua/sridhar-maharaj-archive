@@ -1,18 +1,28 @@
 ---
 slug: 515-o-rasprostranenii-lektsij-i-knig-shril
+record_id: 1983.05.09.C6
+title: О распространении лекций и книг Шрилы Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1716485
+  duration: 00:03:00
+  src: /wp-content/uploads/2012/08/515_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
+date: 1983-05-09
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
 tags:
   - title: Книги Шридхара Махараджа
     slug: knigi-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/515_1983.05.09.C6_SridharMj_O_rasprostranenii_lekciy_i_knig_Shrily_Shridhara_Maharaja.mp3
     title: Скачать аудиозапись в mp3 (3 мин 0 сек, размер 1 Мб)
+legacy:
+  title: 515. О распространении лекций и книг Шрилы Шридхара Махараджа. 1983.05.09.С6
+  index: "515"
+  filename: 515-o-rasprostranenii-lektsij-i-knig-shril.md
 ---
-
-# 515. О распространении лекций и книг Шрилы Шридхара Махараджа. 1983.05.09.С6
 
 **Преданный:** Я читал ваши беседы, слушал вашу проповедь. Как вы хотите, каково ваше желание, чтобы ваша проповедь бы доходила до масс, широких масс, или была обращена к некоему узкому кругу, поскольку вряд ли массы могут понять, оценить по достоинству.
 

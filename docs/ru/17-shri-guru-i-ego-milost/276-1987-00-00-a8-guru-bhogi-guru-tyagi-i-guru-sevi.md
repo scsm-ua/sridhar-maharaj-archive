@@ -1,18 +1,22 @@
 ---
-slug: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi
+slug: 1987-00-00-a8_guru-bhogi_guru-tyagi_i_guru-sevi
+record_id: 1987.00.00.A8
+title: Гуру-бхоги, гуру-тьяги и гуру-севи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5223006
+  duration: 00:08:06
+  src: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
+date: 1987-00-00
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1987.00"
-    slug: 1987-00
   - title: Вайшнава-апарадха
     slug: vajshnava-aparadha
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.mp3
     title: аудиозапись в MP3 (8 мин. 06 сек., 5,0 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/276_1987.00.00.A8_SridharMj_Guru-bhogi_guru-tyagi_i_guru-sevi.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 276. 1987.00.00.A8. Гуру-бхоги, гуру-тьяги и гуру-севи
+  index: "276"
+  filename: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi.md
+  slug: 276-1987-00-00-a8-guru-bhogi-guru-tyagi-i-guru-sevi
 ---
-
-# 276. 1987.00.00.A8. Гуру-бхоги, гуру-тьяги и гуру-севи
 
 **Шрила Шридхар Махарадж:** Ты понимаешь различие между лестью и прославлением?
 

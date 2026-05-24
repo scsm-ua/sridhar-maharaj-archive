@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-antya-lila-3-194
 refs:
   - ../../19-maha-mantra-svyatoe-imya/343-1981-08-30-b1-chetyre-vida-namabhasy.md
-tags:
+  - ../../_full/1981/08/1981.08.30.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 3.194
     slug: shri-chajtanya-charitamrita-antya-lila-3-194
 ---

@@ -1,16 +1,17 @@
 ---
-slug: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse
+slug: 1982-07-04-a2_edinstvennyy_sposob_obresti_pokoy_v_serdtse
+record_id: 1982.07.04.A2
+title: Единственный способ обрести покой в сердце
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2795071
+  duration: 00:02:14
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
+date: 1982-07-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1982.07"
-    slug: 1982-07
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 5.29
-    slug: bhagavad-gita-5-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.mp3
     title: аудиозапись в MP3 (2 мин. 13 сек., 2,7 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/504_1982.07.04.A2_SridharMj_Edinstvennyj_sposob_obresti_pokoj_v_serdce.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 504. 1982.07.04.A2. Единственный способ обрести покой в сердце
+  index: "504"
+  filename: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse.md
+  slug: 504-1982-07-04-a2-edinstvennyj-sposob-obresti-pokoj-v-serdtse
+tags:
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
 ---
-
-# 504. 1982.07.04.A2. Единственный способ обрести покой в сердце
 
 **Преданный:** И все сохраняет Сам Господь Кришна.
 

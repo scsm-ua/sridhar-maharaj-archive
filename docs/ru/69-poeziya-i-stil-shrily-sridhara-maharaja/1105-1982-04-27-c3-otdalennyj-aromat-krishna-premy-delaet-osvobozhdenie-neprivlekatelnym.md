@@ -1,20 +1,17 @@
 ---
-slug: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym
+slug: 1982-04-27-c3_otdalennyy_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym
+record_id: 1982.04.27.C3
+title: Отдаленный аромат кришна-премы делает освобождение непривлекательным
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3806824
+  duration: 00:03:45
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.mp3
+date: 1982-04-27
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Нитай гунамани амара
-    slug: nitaj-gunamani-amara
-  - title: Нитай гунамани амара 3
-    slug: nitaj-gunamani-amara-3
-  - title: Шриман Нитьянанда Двадашакам
-    slug: shriman-nityananda-dvadashakam
-  - title: Шриман Нитьянанда Двадашакам 5
-    slug: shriman-nityananda-dvadashakam-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.mp3
     title: аудиозапись в MP3 (3 мин. 44 сек., 3,7 МБ)
@@ -22,13 +19,22 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1105_1982.04.27.C3_SridharMj_Otdalennyj_aromat_krishna-premy_delaet_osvobozhdenie_neprivlekatelnym.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1105. 1982.04.27.C3. Отдаленный аромат кришна-премы делает освобождение
+    непривлекательным
+  index: "1105"
+  filename: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym.md
+  slug: 1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym
+tags:
+  - title: Нитай гунамани амара 3
+    slug: nitaj-gunamani-amara-3
+  - title: Шриман Нитьянанда Двадашакам 5
+    slug: shriman-nityananda-dvadashakam-5
 ---
-
-# 1105. 1982.04.27.C3. Отдаленный аромат кришна-премы делает освобождение непривлекательным
 
 **Шрила Шридхар Махарадж:** Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол.
 
-**Джаятиртха Махарадж:** Этот великодушный аспект Махапрабху — аспект милосердия — мы рассматриваем его как эквивалент *мадхурья-лилы.* Гаура-*лила* — великодушие раздачи *расы.*
+**Джаятиртха Махарадж:** Этот великодушный аспект Махапрабху — аспект милосердия — мы рассматриваем его как эквивалент *мадхурья-лилы*. Гаура-*лила* — великодушие раздачи *расы*.
 
 *#00:08:39#*
 

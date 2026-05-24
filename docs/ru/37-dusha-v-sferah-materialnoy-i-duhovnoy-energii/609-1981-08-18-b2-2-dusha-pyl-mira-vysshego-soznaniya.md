@@ -1,18 +1,22 @@
 ---
-slug: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya
+slug: 1981-08-18-b2-2_dusha_pyl_mira_vysshego_soznaniya
+record_id: 1981.08.18.B2.2
+title: Душа — пыль мира высшего сознания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2931336
+  duration: 00:02:43
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/609_1981.08.18.B2.2_SridharMj_Dusha_pyl_mira_Vysshego_Soznanija.mp3
+date: 1981-08-18
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Душа
     slug: dusha
-  - title: Бхагавад-сандарбха
-    slug: bhagavad-sandarbha
   - title: Бхагавад-сандарбха 16
     slug: bhagavad-sandarbha-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/609_1981.08.18.B2.2_SridharMj_Dusha_pyl_mira_Vysshego_Soznanija.mp3
     title: аудиозапись в MP3 (2 мин. 42 сек., 2,8 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/609_1981.08.18.B2.2_SridharMj_Dusha_pyl_mira_Vysshego_Soznanija.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 609. 1981.08.18.B2.2. Душа — пыль мира высшего сознания
+  index: "609"
+  filename: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya.md
+  slug: 609-1981-08-18-b2-2-dusha-pyl-mira-vysshego-soznaniya
 ---
-
-# 609. 1981.08.18.B2.2. Душа — пыль мира высшего сознания
 
 **Госвами Махарадж:** В «Джайва-дхарме» Бхактивинод Тхакур говорит, что *джива-шакти* есть часть *сварупа-шакти*.
 

@@ -2,9 +2,13 @@
 slug: bhagavad-gita-3-21
 refs:
   - ../../12-avatary-nishozhdeniya-vsevyshnego/153-1982-02-19-s3-pochemu-ramachandra-sovershal-shiva-pudzhu.md
-tags:
+  - ../../_full/1981/09/1981.09.20.A.B.md
+  - ../../_full/1981/12/1981.12.14.A.B.md
+  - ../../_full/1983/10/1983.10.20.A.B.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 3.21
     slug: bhagavad-gita-3-21
 ---

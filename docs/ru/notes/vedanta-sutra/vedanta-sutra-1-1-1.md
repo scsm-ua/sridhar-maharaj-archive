@@ -11,9 +11,30 @@ refs:
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/881-1982-02-19-e3-zhal-chto-on-ne-popal-na-goloku.md
   - ../../70-obsuzhdeniya-knig-na-osnove-lekciy-shrily-sridhara-maharaja/1121-1981-08-20-a2-o-kvalifikatsii-dlya-chteniya-i-napisanii-shri-shri-prapanna-dzhivanamritam.md
-tags:
+  - ../../_full/1981/08/1981.08.20.md
+  - ../../_full/1981/10/1981.10.03.A.B.md
+  - ../../_full/1981/11/1981.11.06.B.md
+  - ../../_full/1981/11/1981.11.26.A.B.C.md
+  - ../../_full/1981/11/1981.11.28.A.B.C.md
+  - ../../_full/1981/12/1981.12.22.A.B.C.md
+  - ../../_full/1982/01/1982.01.17.md
+  - ../../_full/1982/02/1982.02.19.E.md
+  - ../../_full/1982/03/1982.03.25.B1.md
+  - ../../_full/1982/06/1982.06.05.A.B.md
+  - ../../_full/1982/10/1982.10.10.A.B.C.md
+  - ../../_full/1982/11/1982.11.25.A.B.md
+  - ../../_full/1983/03/1983.03.29.md
+  - ../../_full/1983/07/1983.07.30.md
+  - ../../_full/1983/10/1983.10.05.B.C.md
+  - ../../_full/1983/10/1983.10.05.B.C.md
+  - ../../_full/1983/10/1983.10.29.C1.md
+  - ../../_full/1983/11/1983.11.19.A.B.md
+  - ../../_full/1983/11/1983.11.23.A.B.C.md
+  - ../../_full/1983/11/1983.11.26.A.B.md
+scriptures:
   - title: Веданта-сутра
     slug: vedanta-sutra
+verses:
   - title: Веданта-сутра 1.1.1
     slug: vedanta-sutra-1-1-1
 ---

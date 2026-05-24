@@ -1,18 +1,22 @@
 ---
-slug: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy
+slug: 1983-01-12-a3-b1_istoriya_otkrytiya_radha-kundy
+record_id: 1983.01.12.A3.B1
+title: История открытия Радха-кунды
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4403782
+  duration: 00:07:21
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.mp3
+date: 1983-01-12
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: with English audio
-    slug: with-english-audio
   - title: Имя Радхарани
     slug: imya-radharani
   - title: Радха-кунда
     slug: radha-kunda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.mp3
     title: аудиозапись в MP3 (7 мин. 21 сек., 4.2 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (73 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/092_1983.01.12.A3.B1_SridharMj_Istoriya_otkrytiya_Radha-kundy.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 092. 1983.01.12.A3.B1 История открытия Радха-кунды
+  index: "092"
+  filename: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy.md
+  slug: 092_1983-01-12-a3-b1_sridharmj_istoriya_otkrytiya_radha-kundy
 ---
-
-# 092. 1983.01.12.A3.B1 История открытия Радха-кунды
 
 **Преданная:** Робин. Робин — так произносится мое имя.
 

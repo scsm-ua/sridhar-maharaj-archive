@@ -1,16 +1,20 @@
 ---
-slug: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha
+slug: ob_izdanii_naslediya_shrily_shridhara_maharadzha
+title: Об издании наследия Шрилы Шридхара Махараджа
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2398912
+  duration: 00:03:52
+  src: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
 tags:
   - title: без даты
     slug: bez-daty
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (3 мин. 51 сек., 2,1 МБ)
@@ -18,9 +22,12 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/70._Obsuzhdeniya_knig_na_osnove_lekciy_Shrily_Sridhara_Maharaja/1130_2012.07.25.12_ShridharMj_Ob_izdanii_nasledija_Shrily_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 1130. Об издании наследия Шрилы Шридхара Махараджа
+  index: "1130"
+  filename: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha.md
+  slug: 1130-ob-izdanii-naslediya-shrily-shridhara-maharadzha
 ---
-
-# 1130. Об издании наследия Шрилы Шридхара Махараджа
 
 **Преданный:** Махарадж, Сатья Нараян Прабху…
 

@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-15-56
 refs:
   - ../../30-chatur-shloki-bhagavad-gity-i-srimad-bhagavatam/497-1982-06-19-b5-hari-katha-istochnik-zhizni-obyasnenie-chatur-shloki-bhagavad-gity.md
-tags:
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.56
     slug: shri-chajtanya-charitamrita-madhya-lila-15-56
 ---

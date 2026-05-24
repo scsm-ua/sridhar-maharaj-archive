@@ -2,9 +2,10 @@
 slug: shri-brahma-samhita-5-24
 refs:
   - ../../40-bog-i-bogi/684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
-tags:
+scriptures:
   - title: Шри Брахма-самхита
     slug: shri-brahma-samhita
+verses:
   - title: Шри Брахма-самхита 5.24
     slug: shri-brahma-samhita-5-24
 ---

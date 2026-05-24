@@ -1,14 +1,20 @@
 ---
-slug: 549-1983-11-24-a3-b-vysshaya-shkola-teizma
+slug: 1983-11-24-a3-b_vysshaya_shkola_teizma
+record_id: 1983.11.24.A3.B
+title: Высшая школа теизма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25122064
+  duration: 00:25:29
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3
+date: 1983-11-24
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.mp3
     title: аудиозапись в MP3 (25 мин. 28 сек., 24,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (175 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/549_1983.11.24.A3.B_SridharMj_Vysshaja_shkola_teizma.pdf
     title: транскрипцию в PDF (173 КБ)
+legacy:
+  title: 549. 1983.11.24.A3.B. Высшая школа теизма
+  index: "549"
+  filename: 549-1983-11-24-a3-b-vysshaya-shkola-teizma.md
+  slug: 549-1983-11-24-a3-b-vysshaya-shkola-teizma
 ---
-
-# 549. 1983.11.24.A3.B. Высшая школа теизма
 
 **Преданный:** Гуру Махарадж, не могли бы вы рассказать нам о превосходстве ведической культуры?
 

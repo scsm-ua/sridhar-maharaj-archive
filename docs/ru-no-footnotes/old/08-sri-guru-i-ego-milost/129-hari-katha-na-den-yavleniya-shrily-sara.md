@@ -1,24 +1,32 @@
 ---
 slug: 129-hari-katha-na-den-yavleniya-shrily-sara
+record_id: 1983.03.02
+title: Хари-катха на день явления Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 15256188
+  duration: 00:29:50
+  src: /wp-content/uploads/2012/08/129_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3
+date: 1983-03-02
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Гуру
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/129_1983.03.02_SridharMj_Hari-katha_na_den_yavleniya_Shrily_Sarasvati_Thakura.mp3
     title: Скачать аудиозапись в mp3 (29 мин 50 сек, размер 15 Мб)
+legacy:
+  title: 129. Хари-катха на день явления Шрилы Сарасвати Тхакура. 1983.03.02
+  index: "129"
+  filename: 129-hari-katha-na-den-yavleniya-shrily-sara.md
 ---
-
-# 129. Хари-катха на день явления Шрилы Сарасвати Тхакура. 1983.03.02
 
 *#00:00:00#*
 

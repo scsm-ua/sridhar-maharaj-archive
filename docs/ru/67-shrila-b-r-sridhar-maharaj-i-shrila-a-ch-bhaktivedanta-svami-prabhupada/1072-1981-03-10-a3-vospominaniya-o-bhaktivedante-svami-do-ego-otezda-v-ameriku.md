@@ -1,16 +1,17 @@
 ---
-slug: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku
+slug: 1981-03-10-a3_vospominaniya_o_bhaktivedante_svami_do_ego_otezda_v_ameriku
+record_id: 1981.03.10.A3
+title: Воспоминания о Бхактиведанте Свами до его отъезда в Америку
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5987974
+  duration: 00:09:12
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
+date: 1981-03-10
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.88.8
-    slug: shrimad-bhagavatam-10-88-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.mp3
     title: аудиозапись в MP3 (9 мин. 11 сек., 5,8 МБ)
@@ -18,9 +19,16 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1072_1981.03.10.A3_SridharMj_Vospominanija_o_Bhaktivedante_Svami_do_ego_otezda_v_Ameriku.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1072. 1981.03.10.A3. Воспоминания о Бхактиведанте Свами до его отъезда в
+    Америку
+  index: "1072"
+  filename: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku.md
+  slug: 1072-1981-03-10-a3-vospominaniya-o-bhaktivedante-svami-do-ego-otezda-v-ameriku
+tags:
+  - title: Шримад-Бхагаватам 10.88.8
+    slug: shrimad-bhagavatam-10-88-8
 ---
-
-# 1072. 1981.03.10.A3. Воспоминания о Бхактиведанте Свами до его отъезда в Америку
 
 **Шрила Шридхар Махарадж:** Нитай-Чайтанья доял, Гаура-Харибол.
 

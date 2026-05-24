@@ -6,13 +6,17 @@ refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/716-1982-05-10-b5-c1-etapy-razvitiya-predannosti-kachestva-vajshnava-dostigshego-urovnya-bhava-bhakti.md
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/721-1982-05-15-c3-probuzhdenie-i-razvitie-duhovnogo-vkusa.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
-tags:
+  - ../../_full/1982/05/1982.05.10.B.C1.md
+  - ../../_full/1982/05/1982.05.15.C3.md
+  - ../../_full/1982/07/1982.07.02.A.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
-    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху
     slug: bhakti-rasamrita-sindhu
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
 ---

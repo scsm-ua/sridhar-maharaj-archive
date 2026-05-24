@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-2-46
 refs:
   - ../../64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte/987-1982-02-17-b1-hranitel-predannosti.md
-tags:
+  - ../../_full/1982/02/1982.02.17.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.46
     slug: shri-chajtanya-charitamrita-madhya-lila-2-46
 ---

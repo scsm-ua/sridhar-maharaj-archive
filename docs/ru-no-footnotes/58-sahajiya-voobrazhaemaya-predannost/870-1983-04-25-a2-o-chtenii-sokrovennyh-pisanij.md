@@ -1,12 +1,17 @@
 ---
-slug: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij
+slug: 1983-04-25-a2_o_chtenii_sokrovennyh_pisaniy
+record_id: 1983.04.25.A2
+title: О чтении сокровенных Писаний
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4664268
+  duration: 00:05:10
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
+date: 1983-04-25
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.mp3
     title: аудиозапись в MP3 (5 мин. 10 сек., 4,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/870_1983.04.25.A2_SridharMj_O_chtenii_sokrovennyh_pisaniy.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 870. 1983.04.25.A2. О чтении сокровенных Писаний
+  index: "870"
+  filename: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij.md
+  slug: 870-1983-04-25-a2-o-chtenii-sokrovennyh-pisanij
 ---
-
-# 870. 1983.04.25.A2. О чтении сокровенных Писаний
 
 **Преданный:** Махарадж, «Харинама-чинтамани»… Похоже, эта книга широко распространялась. Бхактивинод говорит об очень высоких реалиях (*сиддха-пранали*) в последних главах «Харинама-чинтамани». Похоже, что это очень опасно давать публике такую информацию, поскольку это может подтолкнуть их в сторону *сахаджии*.
 

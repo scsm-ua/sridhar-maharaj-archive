@@ -1,20 +1,28 @@
 ---
 slug: 2-smysl-sannyasy-mahaprabhu-vernut-d
+record_id: 1984.01.15.B1
+title: Смысл санньясы Махапрабху — вернуть домой заблудшие души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6989824
+  duration: 00:14:15
+  src: /wp-content/uploads/2012/08/002_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
+date: 1984-01-15
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/002_1984.01.15.B1_SridharMj_Smysl_sannyasy_Mahaprabhu-vernut_domoy_zabludshiye_dushi.mp3
     title: Скачать аудиозапись в mp3 (14 мин 15 сек, размер 7 Мб)
+legacy:
+  title: 2. Смысл санньясы Махапрабху — вернуть домой заблудшие души. 1984.01.15.B1
+  index: "2"
+  filename: 2-smysl-sannyasy-mahaprabhu-vernut-d.md
 ---
-
-# 2. Смысл санньясы Махапрабху — вернуть домой заблудшие души. 1984.01.15.B1
 
 *#00:00:00#*
 

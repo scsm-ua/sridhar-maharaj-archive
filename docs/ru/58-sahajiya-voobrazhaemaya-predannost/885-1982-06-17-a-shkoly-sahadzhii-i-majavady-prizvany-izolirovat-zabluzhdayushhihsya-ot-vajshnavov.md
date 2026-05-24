@@ -1,31 +1,41 @@
 ---
-slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
+slug: 1982-06-17-a_shkoly_sahadzhii_i_mayavady_prizvany_izolirovat_zabluzhdayushchihsya_ot_vayshnavov
+record_id: 1982.06.17.A
+title: Школы сахаджии и майавады призваны изолировать заблуждающихся от вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22623973
+  duration: 00:21:18
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
+date: 1982-06-17
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
+links:
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
+    title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.rtf
+    title: транскрипцию в RTF (248 КБ)
+  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.pdf
+    title: транскрипцию в PDF (206 КБ)
+legacy:
+  title: 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать
+    заблуждающихся от вайшнавов
+  index: "885"
+  filename: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
+  slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
 tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.15
     slug: shrimad-bhagavatam-11-14-15
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-  - title: «Падма-пурана», Уттара-кханда
-    slug: padma-purana-uttara-khanda
   - title: «Падма-пурана», Уттара-кханда 62.31
     slug: padma-purana-uttara-khanda-62-31
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.181
     slug: shri-chajtanya-charitamrita-madhya-lila-6-181
   - title: «Падма-пурана», Уттара-кханда 25.7
@@ -34,16 +44,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-6-182
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
-  - title: Кальяна-калпатару
-    slug: kalyana-kalpataru
   - title: Кальяна-калпатару 1.18.6
     slug: kalyana-kalpataru-1-18-6
   - title: Кальяна-калпатару 1.19.1
     slug: kalyana-kalpataru-1-19-1
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 2.163
     slug: shri-chajtanya-charitamrita-antya-lila-2-163
-  - title: Ману-самхита
-    slug: manu-samhita
   - title: Ману-самхита 2.1
     slug: manu-samhita-2-1
   - title: Шримад-Бхагаватам 1.3.28
@@ -54,35 +60,19 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-25-83
   - title: Шримад-Бхагаватам 6.14.5
     slug: shrimad-bhagavatam-6-14-5
-  - title: Бхакти-сандарбха
-    slug: bhakti-sandarbha
   - title: Бхакти-сандарбха 117
     slug: bhakti-sandarbha-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.65
     slug: shri-chajtanya-charitamrita-madhya-lila-8-65
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.54
     slug: bhagavad-gita-18-54
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.4.15–16
     slug: bhakti-rasamrita-sindhu-1-4-15-16
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
     slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
   - title: Бхакти-расамрита-синдху 1.3.25–26
     slug: bhakti-rasamrita-sindhu-1-3-25-26
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
-    title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.rtf
-    title: транскрипцию в RTF (248 КБ)
-  - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.pdf
-    title: транскрипцию в PDF (206 КБ)
 ---
-
-# 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать заблуждающихся от вайшнавов
 
 Дешевый рынок, за одну ночь стать *гопи*… Каков путь?
 
@@ -297,7 +287,7 @@ links:
 
 [^_ftn6]: [Кальяна-калпатару 1.18.6](../notes/kalyana-kalpataru/kalyana-kalpataru-1-18-6.md)
 
-[^_ftn7]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn7]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)
 
 [^_ftn8]: [«Шри Чайтанья-чаритамрита», Антья-лила 2.163](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-2-163.md)
 

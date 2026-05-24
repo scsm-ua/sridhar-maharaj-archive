@@ -1,18 +1,22 @@
 ---
-slug: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya
+slug: 1983-11-28-a4_naslazhdenie_predannym_sluzheniem_dva_vida_schastya
+record_id: 1983.11.28.A4
+title: Наслаждение преданным служением. Два вида счастья.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5917456
+  duration: 00:05:30
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.mp3
+date: 1983-11-28
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.37
     slug: shri-chajtanya-charitamrita-antya-lila-20-37
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.mp3
     title: аудиозапись в MP3 (5 мин. 30 сек., 5,6 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/445_1983.11.28.A4_SridharMj_Naslazhdenie_predannym_sluzheniem__Dva_vida_schastja.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 445. 1983.11.28.A4. Наслаждение преданным служением. Два вида счастья
+  index: "445"
+  filename: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya.md
+  slug: 445-1983-11-28-a4-naslazhdenie-predannym-sluzheniem-dva-vida-schastya
 ---
-
-# 445. 1983.11.28.A4. Наслаждение преданным служением. Два вида счастья
 
 **Преданный:** Гуру Махарадж, мы часто думаем, что мы являемся наслаждающимися этого процесса преданности. Это противоположная идея, представление — очень скверное отношение: «Я хочу наслаждаться преданным служением».
 

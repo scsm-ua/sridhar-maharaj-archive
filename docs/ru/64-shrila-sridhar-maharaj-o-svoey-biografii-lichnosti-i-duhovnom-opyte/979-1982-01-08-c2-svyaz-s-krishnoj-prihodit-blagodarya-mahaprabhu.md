@@ -1,12 +1,17 @@
 ---
-slug: 979-1982-01-08-c2-svyaz-s-krishnoj-prihodit-blagodarya-mahaprabhu
+slug: 1982-01-08-c2_svyaz_s_krishnoy_prihodit_blagodarya_mahaprabhu
+record_id: 1982.01.08.C2
+title: Связь с Кришной приходит благодаря Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8237422
+  duration: 00:15:23
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/979_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
+date: 1982-01-08
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/979_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.mp3
     title: аудиозапись в MP3 (15 мин. 23 сек., 7,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (145 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/979_1982.01.08.C2_SridharMj_Svyaz_s_Krishnoy_prihodit_blagodarya_Mahaprabhu.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 979. 1982.01.08.C2. Связь с Кришной приходит благодаря Махапрабху
+  index: "979"
+  filename: 979-1982-01-08-c2-svyaz-s-krishnoj-prihodit-blagodarya-mahaprabhu.md
+  slug: 979-1982-01-08-c2-svyaz-s-krishnoj-prihodit-blagodarya-mahaprabhu
 ---
-
-# 979. 1982.01.08.C2. Связь с Кришной приходит благодаря Махапрабху
 
 **Преданный:** Махарадж, вы одариваете нас такой великий милостью. Мы испытываем великое влечение к вам, подобное тому, что мы чувствуем в отношении нашего Гуру Махараджа.
 

@@ -1,14 +1,20 @@
 ---
-slug: 286-1981-03-12-s2-proverka-iskrennosti-achari
+slug: 1981-03-12-c2_proverka_iskrennosti_achari
+record_id: 1981.03.12.C2
+title: Проверка искренности ачарьи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4212798
+  duration: 00:06:00
+  src: /dl/17._Shri_Guru_i_ego_milost/286_1981.03.12.C2_SridharMj_Proverka_iskrennosti_achari.mp3
+date: 1981-03-12
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/286_1981.03.12.C2_SridharMj_Proverka_iskrennosti_achari.mp3
     title: аудиозапись в MP3 (6 мин. 00 сек., 4,1 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (21 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/286_1981.03.12.C2_SridharMj_Proverka_iskrennosti_achari.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 286. 1981.03.12.С2. Проверка искренности ачарьи
+  index: "286"
+  filename: 286-1981-03-12-s2-proverka-iskrennosti-achari.md
+  slug: 286-1981-03-12-s2-proverka-iskrennosti-achari
 ---
-
-# 286. 1981.03.12.С2. Проверка искренности ачарьи
 
 **Преданный:** У меня есть вопрос.
 

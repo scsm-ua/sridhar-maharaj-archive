@@ -1,5 +1,13 @@
 ---
 slug: 124-pochemu-bali-maharadzh-otverg-cvoego-gu
+title: Почему Бали Махарадж отверг cвоего гуру Шукрачарью? Мгновения прекрасной
+  реальности, часть 8.8
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2301208
+  duration: 00:04:35
+  src: /wp-content/uploads/2012/08/124_MgnoveniyaPR_8.8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
@@ -10,13 +18,15 @@ tags:
     slug: kachestva-uchenika
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/124_MgnoveniyaPR_8.8_SridharMj_Pochemu_Bali_Maharaj_otverg_svoyego_guru_Shukracharyu.mp3
     title: Скачать аудиозапись в mp3 (4 мин 35 сек, размер 2 Мб)
+legacy:
+  title: 124. Почему Бали Махарадж отверг cвоего гуру Шукрачарью? Мгновения
+    прекрасной реальности, часть 8.8
+  index: "124"
+  filename: 124-pochemu-bali-maharadzh-otverg-cvoego-gu.md
 ---
-
-# 124. Почему Бали Махарадж отверг cвоего гуру Шукрачарью? Мгновения прекрасной реальности, часть 8.8
 
 **Преданный:** Махарадж, то, что Бали Махарадж отверг Шукрачарью, это событие чему учит нас?
 

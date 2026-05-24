@@ -1,12 +1,17 @@
 ---
-slug: 683-1982-02-19-c3-polozhenie-ganesha
+slug: 1982-02-19-c3_polozhenie_ganesha
+record_id: 1982.02.19.C3
+title: Положение Ганеша
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2047920
+  duration: 00:05:08
+  src: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.mp3
+date: 1982-02-19
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.mp3
     title: аудиозапись в MP3 (5 мин. 07 сек., 2,0 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/40._Bog_i_bogi/683_1982.02.19.C3_SridharMj_Polojeniye_Ganesha.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 683. 1982.02.19.C3. Положение Ганеша
+  index: "683"
+  filename: 683-1982-02-19-c3-polozhenie-ganesha.md
+  slug: 683-1982-02-19-c3-polozhenie-ganesha
 ---
-
-# 683. 1982.02.19.C3. Положение Ганеша
 
 **Преданный:** Махарадж, Хануманджи, Ганеш и Субраманья являются *амшами* или *дживами*?
 

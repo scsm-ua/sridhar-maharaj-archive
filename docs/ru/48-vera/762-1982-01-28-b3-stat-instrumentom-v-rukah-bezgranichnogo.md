@@ -1,18 +1,22 @@
 ---
-slug: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo
+slug: 1982-01-28-b3_stat_instrumentom_v_rukah_bezgranichnogo
+record_id: 1982.01.28.B3
+title: Стать инструментом в руках Безграничного
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4504221
+  duration: 00:07:07
+  src: /dl/48._Vera/762_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3
+date: 1982-01-28
 category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вера
     slug: vera
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/762_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.mp3
     title: аудиозапись в MP3 (7 мин. 06 сек., 4,3 МБ)
@@ -20,9 +24,12 @@ links:
     title: транскрипцию в RTF (84 КБ)
   - href: /dl/48._Vera/762_1982.01.28.B3_SridharMj_Stat_instrumentom_v_rukah_Bezgranichnogo.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 762. 1982.01.28.B3. Стать инструментом в руках Безграничного
+  index: "762"
+  filename: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo.md
+  slug: 762-1982-01-28-b3-stat-instrumentom-v-rukah-bezgranichnogo
 ---
-
-# 762. 1982.01.28.B3. Стать инструментом в руках Безграничного
 
 Его воля.
 

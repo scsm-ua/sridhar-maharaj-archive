@@ -4,9 +4,16 @@ refs:
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/652-1983-07-08-b2-budda-shankara-ramanudzha-i-shri-chajtanya-ob-izmereniyah-duhovnogo-bytiya.md
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/656-1982-04-24-a2-poisk-rasy-i-tri-plana-bytiya-v-bhagavad-gite.md
   - ../../60-uchenie-vaishnavov-i-hristianstvo/906-1983-04-25-a4-impersonalizm-i-lichnostnaya-kontseptsiya-boga-v-hristianstve.md
-tags:
+  - ../../_full/1982/09/1982.09.06.A.md
+  - ../../_full/1982/11/1982.11.19.C.D.md
+  - ../../_full/1983/01/1983.01.11.md
+  - ../../_full/1983/04/1983.04.25.md
+  - ../../_full/1983/07/1983.07.08.md
+  - ../../_full/1983/08/1983.08.08.B.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 14.27
     slug: bhagavad-gita-14-27
 ---

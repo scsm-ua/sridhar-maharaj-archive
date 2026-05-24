@@ -1,16 +1,17 @@
 ---
-slug: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem
+slug: 1982-02-22-b4_rozhdenie_chelovekom_klyuch_k_resheniyu_vseh_problem
+record_id: 1982.02.22.B4
+title: Рождение человеком – ключ к решению всех проблем
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6113304
+  duration: 00:08:53
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
+date: 1982-02-22
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.9.29
-    slug: shrimad-bhagavatam-11-9-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 5,9 МБ)
@@ -18,11 +19,17 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/568_1982.02.22.B4_SridharMj_Rojdeniye_chelovekom--klyuch_k_resheniyu_vseh_problem.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 568. 1982.02.22.B4. Рождение человеком – ключ к решению всех проблем
+  index: "568"
+  filename: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem.md
+  slug: 568-1982-02-22-b4-rozhdenie-chelovekom-klyuch-k-resheniyu-vseh-problem
+tags:
+  - title: Шримад-Бхагаватам 11.9.29
+    slug: shrimad-bhagavatam-11-9-29
 ---
 
-# 568. 1982.02.22.B4. Рождение человеком – ключ к решению всех проблем
-
-Мгновения Прекрасной Реальности (часть 3.4)
+## Мгновения Прекрасной Реальности (часть 3.4)
 
 **Шрила Шридхар Махарадж:** Мне рассказывали, что эти люди в Южной Африке совершили самоубийство, коллективное самоубийство.
 
@@ -46,7 +53,7 @@ links:
 
 *#00:03:51#*
 
-Джива Госвами объясняет [*бхайам́ двитӣйа̄бхинивеш́атах̣ сйа̄д?*], что жителям высших измерений материального мира трудно избавиться от очарования их мира. Они накапливают энергию, эта накопленная энергия мешает им. Поэтому здесь, в этом человеческом рождении мы можем обрести высшую цель нашей жизни — божественную любовь.
+Джива Госвами объясняет [*бхайам́ двитӣйа̄бхинивеш́атах̣ сйа̄д*?], что жителям высших измерений материального мира трудно избавиться от очарования их мира. Они накапливают энергию, эта накопленная энергия мешает им. Поэтому здесь, в этом человеческом рождении мы можем обрести высшую цель нашей жизни — божественную любовь.
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол.]
 

@@ -1,12 +1,17 @@
 ---
-slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
+slug: 1982-05-16-b2_nesposobnost_ostavit_soznanie_krishny_priznak_progressa
+record_id: 1982.05.16.B2
+title: Неспособность оставить Сознание Кришны – признак прогресса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17172574
+  duration: 00:16:59
+  src: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.mp3
+date: 1982-05-16
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.mp3
     title: аудиозапись в MP3 (16 мин. 58 сек., 16,4 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/45._Iskrennost_i_progress/737_1982.05.16.B2_SridharMj_Nesposobnost_ostavit_Soznanie_Krishny--priznak_progressa.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 737. 1982.05.16.B2. Неспособность оставить Сознание Кришны – признак
+    прогресса
+  index: "737"
+  filename: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa.md
+  slug: 737-1982-05-16-b2-nesposobnost-ostavit-soznanie-krishny-priznak-progressa
 ---
-
-# 737. 1982.05.16.B2. Неспособность оставить Сознание Кришны – признак прогресса
 
 **Преданный:** Махарадж, я очень несовершенным образом следовал этому процессу на протяжении одиннадцати лет в качестве преданного. Но я по-прежнему чувствую, что не совершаю прогресс. Прогресс отсутствует.
 

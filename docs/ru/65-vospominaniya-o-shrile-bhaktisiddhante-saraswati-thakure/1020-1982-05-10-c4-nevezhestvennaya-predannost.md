@@ -1,12 +1,17 @@
 ---
-slug: 1020-1982-05-10-c4-nevezhestvennaya-predannost
+slug: 1982-05-10-c4_nevezhestvennaya_predannost
+record_id: 1982.05.10.C4
+title: Невежественная преданность
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6636461
+  duration: 00:06:17
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1020_1982.05.10.C4_SridharMj_Nevezhestvennaja_predannost.mp3
+date: 1982-05-10
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1020_1982.05.10.C4_SridharMj_Nevezhestvennaja_predannost.mp3
     title: аудиозапись в MP3 (6 мин. 17 сек., 6,4 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1020_1982.05.10.C4_SridharMj_Nevezhestvennaja_predannost.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 1020. 1982.05.10.C4. Невежественная преданность
+  index: "1020"
+  filename: 1020-1982-05-10-c4-nevezhestvennaya-predannost.md
+  slug: 1020-1982-05-10-c4-nevezhestvennaya-predannost
 ---
-
-# 1020. 1982.05.10.C4. Невежественная преданность
 
 Когда Прабхупад проповедовал на Юге Индии, один джентльмен спросил у него о положении преданного, почитаемого на Юге Индии, по имени Канапа. Этот человек известен как величайший преданный Шивы в той части Индии. И почему он снискал подобную славу?
 

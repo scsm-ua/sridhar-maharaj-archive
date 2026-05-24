@@ -1,18 +1,25 @@
 ---
 slug: 52-transtsendentalistam-vse-okruzhayushhee
+record_id: 1983.01.25.A
+title: Трансценденталистам все окружающее напоминает о Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6313838
+  duration: 00:10:29
+  src: /wp-content/uploads/2012/08/052_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
+date: 1983-01-25
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/052_1983.01.25.A_SridharMj_Transcendentalistam_vse_okrujayuwee_napominaet_o_Krishne.mp3
     title: Скачать аудиозапись в mp3 (10 мин 29 сек, размер 6 Мб)
+legacy:
+  title: 52. Трансценденталистам все окружающее напоминает о Кришне. 1983.01.25.A
+  index: "52"
+  filename: 52-transtsendentalistam-vse-okruzhayushhee.md
 ---
-
-# 52. Трансценденталистам все окружающее напоминает о Кришне. 1983.01.25.A
 
 **Шридхар Махарадж:** Должно быть ухо такого типа, способное уловить этот нектар, сладостный звук. Ухо, соответствующего типа. Звук, сладкий для одного, может быть горьким для другого, согласно вкусу. Джива Госвами говорит: «Когда на наш язык оказывает влияние невежество, то имя (имя Господа) кажется очень горьким. Но это имя является лекарством, позволяющим устранить этот изъян (изъян нашего языка)».
 

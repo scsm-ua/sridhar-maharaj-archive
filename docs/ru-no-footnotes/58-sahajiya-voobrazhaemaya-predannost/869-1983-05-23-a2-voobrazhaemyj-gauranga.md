@@ -1,12 +1,17 @@
 ---
-slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
+slug: 1983-05-23-a2_voobrazhaemyy_gauranga
+record_id: 1983.05.23.A2
+title: Воображаемый Гауранга
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12781244
+  duration: 00:22:05
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
+date: 1983-05-23
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.05"
-    slug: 1983-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.mp3
     title: аудиозапись в MP3 (22 мин. 04 сек., 12,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (162 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/869_1983.05.23.A2_SridharMj_Voobrajaemiy_Gauranga.pdf
     title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 869. 1983.05.23.A2. Воображаемый Гауранга
+  index: "869"
+  filename: 869-1983-05-23-a2-voobrazhaemyj-gauranga.md
+  slug: 869-1983-05-23-a2-voobrazhaemyj-gauranga
 ---
-
-# 869. 1983.05.23.A2. Воображаемый Гауранга
 
 **Шрила Шридхар Махарадж:** Каковы последствия вашего путешествия в Калькутту? Результат? Принтер?
 

@@ -1,14 +1,20 @@
 ---
-slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
+slug: 1981-03-07-b2_predannyy_stremitsya_k_sluzheniyu_a_ne_k_osvobozhdeniyu
+record_id: 1981.03.07.B2
+title: Преданный стремится к служению, а не к освобождению
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4361810
+  duration: 00:07:46
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
+date: 1981-03-07
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.mp3
     title: аудиозапись в MP3 (7 мин. 46 сек., 4,2 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (24 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/442_1981.03.07.B2_SridharMj_Predannyj_stremitsja_k_sluzheniju_a_ne_k_osvobozhdeniju.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
+  index: "442"
+  filename: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu.md
+  slug: 442-1981-03-07-b2-predannyj-stremitsya-k-sluzheniyu-a-ne-k-osvobozhdeniyu
 ---
-
-# 442. 1981.03.07.B2. Преданный стремится к служению, а не к освобождению
 
 **Преданный:** Позвольте спросить еще?
 
@@ -26,7 +35,7 @@ links:
 
 **Преданный:** Махапрабху сказал: «Я хочу служить Тебе рождение за рождением». И мой вопрос: нет ли конфликта между желанием служить Ему рождение за рождением и желанием отправиться на *Кришна-локу*?
 
-**Шрила Шридхар Махарадж:** Только *Кришна-кама.* Другие желания должны быть отвергнуты, и только *Кришна-кама* должна оставаться.
+**Шрила Шридхар Махарадж:** Только *Кришна-кама*. Другие желания должны быть отвергнуты, и только *Кришна-кама* должна оставаться.
 
 **Госвами Махарадж:** Что такое *Кришна-кама*?
 

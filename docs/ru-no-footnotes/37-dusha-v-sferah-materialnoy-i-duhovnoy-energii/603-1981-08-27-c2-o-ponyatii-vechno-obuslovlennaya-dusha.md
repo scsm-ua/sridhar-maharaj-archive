@@ -1,14 +1,20 @@
 ---
-slug: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha
+slug: 1981-08-27-c2_o_ponyatii_vechno_obuslovlennaya_dusha
+record_id: 1981.08.27.C2
+title: О понятии «вечно обусловленная душа»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7589909
+  duration: 00:12:25
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
+date: 1981-08-27
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.mp3
     title: аудиозапись в MP3 (12 мин. 25 сек., 7,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (132 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/603_1981.08.27.C2_SridharMj_O_ponyatii_vechno_obuslovlennya_dusha.pdf
     title: транскрипцию в PDF (152 КБ)
+legacy:
+  title: 603. 1981.08.27.C2. О понятии «вечно обусловленная душа»
+  index: "603"
+  filename: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha.md
+  slug: 603-1981-08-27-c2-o-ponyatii-vechno-obuslovlennaya-dusha
 ---
-
-# 603. 1981.08.27.C2. О понятии «вечно обусловленная душа»
 
 **Госвами Махарадж:** *Джива* — это атомарная частица, атом *чит-шакти*, фрагмент. Когда *джива* просветлена *чит-шакти*, *хладини* (этой энергией блаженства), может ли она оставить это положение?
 

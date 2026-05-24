@@ -1,16 +1,22 @@
 ---
-slug: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva
+slug: 1982-02-19-c5_pochemu_prahlad_a_ne_lakshmi_umirotvoril_narasimhadeva
+record_id: 1982.02.19.C5
+title: Почему Прахлад, а не Лакшми умиротворил Нарасимхадева?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1356040
+  duration: 00:02:53
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3
+date: 1982-02-19
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Нарасимха
     slug: narasimha
   - title: Прахлада
     slug: prahlada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.mp3
     title: аудиозапись в MP3 (2 мин. 52 сек., 1,3 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (40 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/157_1982.02.19.C5_SridharMj_Pochemu_Prahlad_a_ne_Lakshmi_umirotvoril_Narasimhadeva.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: 157. 1982.02.19.С5. Почему Прахлад, а не Лакшми умиротворил Нарасимхадева?
+  index: "157"
+  filename: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva.md
+  slug: 157-1982-02-19-s5-pochemu-prahlad-a-ne-lakshmi-umirotvoril-narasimhadeva
 ---
-
-# 157. 1982.02.19.С5. Почему Прахлад, а не Лакшми умиротворил Нарасимхадева?
 
 **Преданный:** Махарадж, после того как [Господь] Нрисимхадев убил Хираньякашипу, Прахлада Махарадж обратился к Господу, чтобы утихомирить Его. Почему не Лакшми Деви сделала это?
 

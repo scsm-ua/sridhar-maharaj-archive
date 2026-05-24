@@ -1,24 +1,17 @@
 ---
-slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
+slug: 1981-08-30-a3_transtsendentnoe_videnie_shrily_gaurakishora_babadzhi
+record_id: 1981.08.30.A3
+title: Трансцендентное видение Шрилы Гауракишора Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4627174
+  duration: 00:04:48
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
+date: 1981-08-30
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
-    slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.14.8
-    slug: shrimad-bhagavatam-10-14-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
     title: аудиозапись в MP3 (4 мин. 48 сек., 4,5 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 525. 1981.08.30.A3. Трансцендентное видение Шрилы Гауракишора Бабаджи
+  index: "525"
+  filename: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi.md
+  slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 ---
-
-# 525. 1981.08.30.A3. Трансцендентное видение Шрилы Гауракишора Бабаджи
 
 **Шрила Шридхар Махарадж:** [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]
 

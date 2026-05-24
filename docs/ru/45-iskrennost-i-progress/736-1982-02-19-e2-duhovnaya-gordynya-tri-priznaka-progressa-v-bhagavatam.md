@@ -1,24 +1,17 @@
 ---
-slug: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam
+slug: 1982-02-19-e2_duhovnaya_gordynya_tri_priznaka_progressa_v_bhagavatam
+record_id: 1982.02.19.E2
+title: Духовная гордыня. Три признака прогресса в «Бхагаватам».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8801687
+  duration: 00:08:16
+  src: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3
+date: 1982-02-19
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
-  - title: Падьявали 14
-    slug: padyavali-14
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.2.42
-    slug: shrimad-bhagavatam-11-2-42
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.mp3
     title: аудиозапись в MP3 (8 мин. 15 сек., 8,4 МБ)
@@ -26,9 +19,19 @@ links:
     title: транскрипцию в DOCX (21 КБ)
   - href: /dl/45._Iskrennost_i_progress/736_1982.02.19.E2_SridharMj_Duhovnaja_gordynja_Tri_priznaka_progressa_v_Bhagavatam.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 736. 1982.02.19.E2. Духовная гордыня. Три признака прогресса в «Бхагаватам»
+  index: "736"
+  filename: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam.md
+  slug: 736-1982-02-19-e2-duhovnaya-gordynya-tri-priznaka-progressa-v-bhagavatam
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали 14
+    slug: padyavali-14
+  - title: Шримад-Бхагаватам 11.2.42
+    slug: shrimad-bhagavatam-11-2-42
 ---
-
-# 736. 1982.02.19.E2. Духовная гордыня. Три признака прогресса в «Бхагаватам»
 
 Когда мы впервые пришли, чтобы присоединиться к миссии (иногда происходило какое-либо обсуждение, приходящие со стороны люди атаковали Гаудия Матх, и какая-то критика звучала — все эти вещи, обсуждения внутреннего характера), новичкам не позволялось слушать подобные дискуссии. Мы спросили: «Почему так?» Но нам было сказано: «Это — *мадхьяма-адхикар*. Только те, кто принадлежат к этому уровню, могут понять любовь и раздор — все, что призвано удовлетворять Кришну.
 

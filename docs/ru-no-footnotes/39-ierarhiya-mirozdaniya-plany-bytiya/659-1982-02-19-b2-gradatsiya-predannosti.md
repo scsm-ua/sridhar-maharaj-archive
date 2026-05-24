@@ -1,12 +1,17 @@
 ---
-slug: 659-1982-02-19-b2-gradatsiya-predannosti
+slug: 1982-02-19-b2_gradatsiya_predannosti
+record_id: 1982.02.19.B2
+title: Градация преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6112704
+  duration: 00:10:17
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
+date: 1982-02-19
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.mp3
     title: аудиозапись в MP3 (10 мин. 16 сек., 5,9 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (128 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/659_1982.02.19.B2_SridharMj_Gradaciya_predannosti.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 659. 1982.02.19.B2. Градация преданности
+  index: "659"
+  filename: 659-1982-02-19-b2-gradatsiya-predannosti.md
+  slug: 659-1982-02-19-b2-gradatsiya-predannosti
 ---
-
-# 659. 1982.02.19.B2. Градация преданности
 
 *«Мгновения Прекрасной Реальности» (часть 7.2)*
 

@@ -1,11 +1,18 @@
 ---
 slug: 207-subektivnaya-evolyutsiya-i-svoboda-vol
+record_id: 1981.03.01.A4
+title: Субъективная эволюция и свобода воли души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6813216
+  duration: 00:14:03
+  src: /wp-content/uploads/2012/08/207_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
+date: 1981-03-01
 category:
   title: "(16. Субъективная эволюция: от сознания к материи)"
   slug: 16-subyektivnaya-evoluciya-ot-soznaniya-k-materii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Душа
     slug: dusha
   - title: Карма
@@ -14,13 +21,14 @@ tags:
     slug: materialnyj-mir
   - title: Сознание
     slug: soznanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/207_1981.03.01.A4_SridharMj_Subyektivnaya_evolyutsiya_i_svoboda_voli_dushi.mp3
     title: Скачать аудиозапись в mp3 (14 мин 3 сек, размер 6 Мб)
+legacy:
+  title: 207. Субъективная эволюция и свобода воли души. 1981.03.01.A4
+  index: "207"
+  filename: 207-subektivnaya-evolyutsiya-i-svoboda-vol.md
 ---
-
-# 207. Субъективная эволюция и свобода воли души. 1981.03.01.A4
 
 **Шридхар Махарадж:** Да, субъективное взаимоотношение, не объективное. Субъективная эволюция. Это *вайчитра* – многообразие, результат субъективной эволюции. От тонкого к грубому – таким образом.
 

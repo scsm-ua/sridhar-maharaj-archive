@@ -1,32 +1,17 @@
 ---
-slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
+slug: 1983-04-01-a1_gradatsiya_svyashchennyh_pisaniy_velichie_shrimad-bhagavatam
+record_id: 1983.04.01.A1
+title: Градация священных писаний. Величие «Шримад-Бхагаватам».
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9171247
+  duration: 00:17:42
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
+date: 1983-04-01
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1983.04"
-    slug: 1983-04
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.27
-    slug: bhagavad-gita-9-27
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
-    slug: shri-chajtanya-charitamrita-adi-lila-2-86
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
-    slug: shri-chajtanya-charitamrita-adi-lila-7-10
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
-    slug: shri-chajtanya-charitamrita-adi-lila-7-107
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.2.11
-    slug: shrimad-bhagavatam-1-2-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.mp3
     title: аудиозапись в MP3 (17 мин. 42 сек., 8,8 МБ)
@@ -34,9 +19,25 @@ links:
     title: транскрипцию в RTF (173 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/214_1983.04.01.A1_SridharMj_Gradacija_svjashhennyh_pisanij_Velichie_Shrimad-Bhagavatam.pdf
     title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
+  index: "214"
+  filename: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam.md
+  slug: 214-1983-04-01-a1-gradatsiya-svyashhennyh-pisanij-velichie-shrimad-bhagavatam
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-60
+  - title: Бхагавад-гита 9.27
+    slug: bhagavad-gita-9-27
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
+    slug: shri-chajtanya-charitamrita-adi-lila-2-86
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
+    slug: shri-chajtanya-charitamrita-adi-lila-7-10
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.107
+    slug: shri-chajtanya-charitamrita-adi-lila-7-107
+  - title: Шримад-Бхагаватам 1.2.11
+    slug: shrimad-bhagavatam-1-2-11
 ---
-
-# 214. 1983.04.01.A1. Градация священных писаний. Величие «Шримад-Бхагаватам»
 
 «Шримад-Бхагаватам» считается *маха-пураной*. В «Бхагаватам» присутствуют все десять симптомов *пураны*.
 

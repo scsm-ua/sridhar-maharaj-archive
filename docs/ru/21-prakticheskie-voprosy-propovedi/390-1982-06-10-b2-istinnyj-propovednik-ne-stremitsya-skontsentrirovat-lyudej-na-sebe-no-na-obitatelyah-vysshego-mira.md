@@ -1,14 +1,21 @@
 ---
-slug: 390-1982-06-10-b2-istinnyj-propovednik-ne-stremitsya-skontsentrirovat-lyudej-na-sebe-no-na-obitatelyah-vysshego-mira
+slug: 1982-06-10-b2_istinnyy_propovednik_ne_stremitsya_skontsentrirovat_lyudey_na_sebe_no_na_obitatelyah_vysshego_mira
+record_id: 1982.06.10.B2
+title: Истинный проповедник не стремится сконцентрировать людей на себе, но на
+  обитателях Высшего мира
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6895488
+  duration: 00:06:18
+  src: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.mp3
+date: 1982-06-10
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1982.06"
-    slug: 1982-06
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.mp3
     title: аудиозапись в MP3 (6 мин. 17 сек., 6,6 МБ)
@@ -16,9 +23,13 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/390_1982.06.10.B2_SridharMj_Istinnyj_propovednik_ne_stremitsja_skoncentrirovat_ljudej_na_sebe_no_na_obitateljah_Vysshego_mira.pdf
     title: транскрипцию в PDF (122 КБ)
+legacy:
+  title: 390. 1982.06.10.B2. Истинный проповедник не стремится сконцентрировать
+    людей на себе, но на обитателях Высшего мира
+  index: "390"
+  filename: 390-1982-06-10-b2-istinnyj-propovednik-ne-stremitsya-skontsentrirovat-lyudej-na-sebe-no-na-obitatelyah-vysshego-mira.md
+  slug: 390-1982-06-10-b2-istinnyj-propovednik-ne-stremitsya-skontsentrirovat-lyudej-na-sebe-no-na-obitatelyah-vysshego-mira
 ---
-
-# 390. 1982.06.10.B2. Истинный проповедник не стремится сконцентрировать людей на себе, но на обитателях Высшего мира
 
 Сегодня эта женщина, Анурадха, (мы беседовали утром) рассказала о том, что однажды Свами Махарадж выступал в Далласе на большой научной конференции, и ученые бросили ему вызов. Они все были видные собой, Свами Махарадж физически невелик. И Свами Махарадж в ходе лекции заявил: «Я буду бить вас сапогами по лицу, и тогда вы сумеете понять». Интеллектуальный удар, интеллектуальная палка. Обувь, сапоги — это крайне незначительная часть, незначительное слово для интеллектуального бамбука(?). «Я преподнесу вам урок: я буду пинать вас по лицу сапогами, тогда вы придете в чувства и поймете, что есть что». И также он сказал: «Истинный проповедник будет занимать следующую позицию, он будет считать: я не знаю многого, но мой Гурудев, Бог стоят за мной. Я не являюсь собственником, владельцем, я всего лишь посредник, а владельцы — над моей головой». С таким сознанием проповедник начнет свою работу. Безграничное стоит за мной, он над моей головой, я могу не знать, но за мной стоит мой Гурудев.
 

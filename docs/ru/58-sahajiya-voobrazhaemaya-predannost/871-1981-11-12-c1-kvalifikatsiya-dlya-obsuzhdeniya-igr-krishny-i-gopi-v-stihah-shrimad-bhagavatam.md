@@ -1,22 +1,17 @@
 ---
-slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
+slug: 1981-11-12-c1_kvalifikatsiya_dlya_obsuzhdeniya_igr_krishny_i_gopi_v_stihah_shrimad_bhagavatam
+record_id: 1981.11.12.C1
+title: Квалификация для обсуждения игр Кришны и гопи в стихах Шримад Бхагаватам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6954057
+  duration: 00:09:56
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3
+date: 1981-11-12
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1981.11"
-    slug: 1981-11
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.33.30
-    slug: shrimad-bhagavatam-10-33-30
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
-    slug: shri-chajtanya-charitamrita-antya-lila-5-48
-  - title: Шримад-Бхагаватам 10.33.39
-    slug: shrimad-bhagavatam-10-33-39
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.mp3
     title: аудиозапись в MP3 (9 мин. 56 сек., 6,7 МБ)
@@ -24,9 +19,20 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/871_1981.11.12.C1_SridharMj_Kvalifikacija_dlja_obsuzhdenija_igr_Krishny_i_gopi_v_stihah_Shrimad_Bhagavatam.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 871. 1981.11.12.C1. Квалификация для обсуждения игр Кришны и гопи в
+    стихах Шримад Бхагаватам
+  index: "871"
+  filename: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam.md
+  slug: 871-1981-11-12-c1-kvalifikatsiya-dlya-obsuzhdeniya-igr-krishny-i-gopi-v-stihah-shrimad-bhagavatam
+tags:
+  - title: Шримад-Бхагаватам 10.33.30
+    slug: shrimad-bhagavatam-10-33-30
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.48
+    slug: shri-chajtanya-charitamrita-antya-lila-5-48
+  - title: Шримад-Бхагаватам 10.33.39
+    slug: shrimad-bhagavatam-10-33-39
 ---
-
-# 871. 1981.11.12.C1. Квалификация для обсуждения игр Кришны и гопи в стихах Шримад Бхагаватам
 
 **Преданный:** Махарадж, вы знаете этих двоих *санньяси*? Они оба ученики Свами Махараджа.
 

@@ -1,12 +1,17 @@
 ---
-slug: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu
+slug: 1982-04-16-c6_odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiyu
+record_id: 1982.04.16.C6
+title: Одного мига достаточно, чтобы начать путешествие к бессмертию
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9562353
+  duration: 00:06:57
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
+date: 1982-04-16
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.mp3
     title: аудиозапись в MP3 (6 мин. 57 сек., 9,2 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/564_1982.04.16.C6_SridharMj_Odnogo_miga_dostatochno_chtoby_nachat_puteshestvie_k_bessmertiju.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 564. 1982.04.16.C6. Одного мига достаточно, чтобы начать путешествие к
+    бессмертию
+  index: "564"
+  filename: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu.md
+  slug: 564-1982-04-16-c6-odnogo-miga-dostatochno-chtoby-nachat-puteshestvie-k-bessmertiyu
 ---
-
-# 564. 1982.04.16.C6. Одного мига достаточно, чтобы начать путешествие к бессмертию
 
 Мир приходит и уходит, как и творение в целом. Творение и растворение повсюду: и в малом, и в большом — такова природа этого материального мира. Но мир может быть уничтожен, а мы можем быть не затронуты этим никоим образом. Шукадева Госвами советует Парикшиту: тебе лишь необходимо убить животное сознание — представление, согласно которому ты умираешь. Ты не есть это тело, не отождествляй себя с этим материальным телом. Ты субъект, ты смотрящий, ты видящий, наблюдатель, тот, кто чувствует эти материальные реалии, ты отдельное существо, ты душа. Когда тело умирает, то ты не умираешь.
 

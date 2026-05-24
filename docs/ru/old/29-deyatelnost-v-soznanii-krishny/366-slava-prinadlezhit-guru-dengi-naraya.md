@@ -1,20 +1,29 @@
 ---
 slug: 366-slava-prinadlezhit-guru-dengi-naraya
+record_id: 1984.01.25.A
+title: «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9266527
+  duration: 00:15:09
+  src: /wp-content/uploads/2012/08/366_1984.01.25.A_SridharMj_Slava_prinadlejit_Guru_dengi-Narayane_a_zhenwiny-Krishne.mp3
+date: 1984-01-25
 category:
   title: (29. Деятельность в Сознании Кришны)
   slug: 29-deyatelnost-v-soznanii-krishny
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/366_1984.01.25.A_SridharMj_Slava_prinadlejit_Guru_dengi-Narayane_a_zhenwiny-Krishne.mp3
     title: Скачать аудиозапись в mp3 (15 мин 9 сек, размер 9 Мб)
+legacy:
+  title: 366. «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне».
+    1984.01.25.A
+  index: "366"
+  filename: 366-slava-prinadlezhit-guru-dengi-naraya.md
 ---
-
-# 366. «Слава принадлежит Гуру, деньги — Нараяне, а женщины — Кришне». 1984.01.25.A
 
 *#00:00:00#*
 

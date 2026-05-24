@@ -3,9 +3,10 @@ slug: sharanagati-7-4
 refs:
   - ../../17-shri-guru-i-ego-milost/270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
   - ../../17-shri-guru-i-ego-milost/270-1982-05-16-b3-c-poeziya-kalidasa-guru-kak-teleskopicheskaya-sistema-linz.md
-tags:
+scriptures:
   - title: Шаранагати
     slug: sharanagati
+verses:
   - title: Шаранагати 7.4
     slug: sharanagati-7-4
 ---

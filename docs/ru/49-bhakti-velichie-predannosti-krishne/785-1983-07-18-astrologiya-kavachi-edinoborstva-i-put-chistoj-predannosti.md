@@ -1,38 +1,36 @@
 ---
-slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
+slug: 1983-07-18_astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti
+record_id: 1983.07.18
+title: Астрология, кавачи, единоборства и путь чистой преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14810273
+  duration: 00:24:10
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
+date: 1983-07-18
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Бхакти
     slug: bhakti
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.73
     slug: shri-chajtanya-charitamrita-adi-lila-7-73
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 4.7"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-4-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.100
     slug: shri-chajtanya-charitamrita-madhya-lila-22-100
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.145
     slug: shri-chajtanya-charitamrita-madhya-lila-22-145
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.146
     slug: shri-chajtanya-charitamrita-madhya-lila-22-146
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.31
     slug: shrimad-bhagavatam-11-20-31
   - title: Шримад-Бхагаватам 3.32.23
     slug: shrimad-bhagavatam-3-32-23
   - title: Шримад-Бхагаватам 11.3.31
     slug: shrimad-bhagavatam-11-3-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.mp3
     title: аудиозапись в MP3 (24 мин. 09 сек., 14,2 МБ)
@@ -40,9 +38,12 @@ links:
     title: транскрипцию в RTF (198 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/785_1983.07.18_SridharMj_Astrologiya_kavachi_edinoborstva_i_put_chistoy_predannosti.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 785. 1983.07.18. Астрология, кавачи, единоборства и путь чистой преданности
+  index: "785"
+  filename: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
+  slug: 785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti
 ---
-
-# 785. 1983.07.18. Астрология, кавачи, единоборства и путь чистой преданности
 
 **Преданный:** В «Брахма-вайварта-пуране» (в «Ганеша-кханде») одна *кавача* была дана Господом Шивой Парашураме, *кришна-кавача*. И также он слышал, что в Кали-югу только *нрисимха-кавача* действенна, поэтому практически может ли он принимать это? Это правильно или нет? Нужно ли, практично ли использовать *кавачи*?
 
@@ -122,7 +123,7 @@ links:
 
 *#00:15:22#*
 
-В противном случае обычная отрешенность, дух отречения и знание мирских реалий не могут породить истинную преданность. Знание астрологии или научное знание Эйнштейна, математика могут привлечь внимание обычных людей к проповеднику, и затем он может открыть им, что есть чистая преданность. Это тот же самый прием: раздавать сладости, а затем рассказывать о Господе Кришне. Самое сладкое — это Кришна. *А̄нукӯлйасйа сан̇калпах̣.*
+В противном случае обычная отрешенность, дух отречения и знание мирских реалий не могут породить истинную преданность. Знание астрологии или научное знание Эйнштейна, математика могут привлечь внимание обычных людей к проповеднику, и затем он может открыть им, что есть чистая преданность. Это тот же самый прием: раздавать сладости, а затем рассказывать о Господе Кришне. Самое сладкое — это Кришна. *А̄нукӯлйасйа сан̇калпах̣*.
 
 *#00:16:17#*
 

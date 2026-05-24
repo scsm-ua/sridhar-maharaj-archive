@@ -2,9 +2,10 @@
 slug: bhagavad-gita-13-3
 refs:
   - ../../38-subyektivnaya-evoluciya-ot-soznaniya-k-materii/632-ontologiya-pr-ch-7-2-bodrstvovanie-son-i-glubokij-son-v-shrimad-bhagavatam.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 13.3
     slug: bhagavad-gita-13-3
 ---

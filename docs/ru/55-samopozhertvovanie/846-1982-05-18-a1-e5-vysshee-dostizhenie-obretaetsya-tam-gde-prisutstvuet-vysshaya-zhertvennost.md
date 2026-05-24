@@ -1,32 +1,30 @@
 ---
-slug: 846-1982-05-18-a1-e5-vysshee-dostizhenie-obretaetsya-tam-gde-prisutstvuet-vysshaya-zhertvennost
+slug: 1982-05-18-a1-e5_vysshee_dostizhenie_obretaetsya_tam_gde_prisutstvuet_vysshaya_zhertvennost
+record_id: 1982.05.18.A1.E5
+title: Высшее достижение обретается там, где присутствует высшая жертвенность
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13476560
+  duration: 00:12:58
+  src: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.mp3
+date: 1982-05-18
 category:
   title: 55. Самопожертвование
   slug: 55-samopozhertvovanie
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Самопредание
     slug: samopredanie
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 4.11
     slug: bhagavad-gita-4-11
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
     slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.55
     slug: shri-chajtanya-charitamrita-antya-lila-4-55
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
     slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 14
     slug: padyavali-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.mp3
     title: аудиозапись в MP3 (12 мин. 57 сек., 1,0 МБ)
@@ -34,9 +32,13 @@ links:
     title: транскрипцию в RTF (129 КБ)
   - href: /dl/55._Samopozhertvovanie/846_1982.05.18.A1.E5_SridharMj_Vysshee_dostizhenie_obretaetsja_tam_gde_prisutstvuet_vysshaja_zhertvennost.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 846. 1982.05.18.A1.E5. Высшее достижение обретается там, где присутствует
+    высшая жертвенность
+  index: "846"
+  filename: 846-1982-05-18-a1-e5-vysshee-dostizhenie-obretaetsya-tam-gde-prisutstvuet-vysshaya-zhertvennost.md
+  slug: 846-1982-05-18-a1-e5-vysshee-dostizhenie-obretaetsya-tam-gde-prisutstvuet-vysshaya-zhertvennost
 ---
-
-# 846. 1982.05.18.A1.E5. Высшее достижение обретается там, где присутствует высшая жертвенность
 
 Высшие реалии мы можем обрести лишь посредством служения — это главный принцип. Пожертвуй — и получи. Необходимо заплатить за это явление. Заплатить не в смысле денег или тому подобных вещей, но заплатить в смысле своего «я», своего существа. Отдай себя — и ты получишь, отдай — и получи. Сколько ты способен отдать, столько ты способен получить.
 

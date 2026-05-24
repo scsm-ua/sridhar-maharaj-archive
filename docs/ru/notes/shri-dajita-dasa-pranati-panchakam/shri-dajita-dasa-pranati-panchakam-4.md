@@ -3,9 +3,10 @@ slug: shri-dajita-dasa-pranati-panchakam-4
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1095-1981-08-10-a2-b1-shridhar-maharadzh-o-stile-svoej-propovedi-i-poezii.md
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1109-1982-02-01-a1-istochniki-svedenij-dlya-stroki-chetvertogo-stiha-shri-dajita-dasa-pranati-panchakam.md
-tags:
+scriptures:
   - title: Шри Дайита Даса Пранати Панчакам
     slug: shri-dajita-dasa-pranati-panchakam
+verses:
   - title: Шри Дайита Даса Пранати Панчакам 4
     slug: shri-dajita-dasa-pranati-panchakam-4
 ---

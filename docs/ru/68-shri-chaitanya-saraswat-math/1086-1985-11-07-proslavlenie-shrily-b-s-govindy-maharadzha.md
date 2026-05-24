@@ -1,40 +1,17 @@
 ---
-slug: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha
+slug: 1985-11-07_proslavlenie_shrily_b_s_govindy_maharadzha
+record_id: 1985.11.07
+title: Прославление Шрилы Б.С. Говинды Махараджа.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 65770965
+  duration: 01:06:41
+  src: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
+date: 1985-11-07
 category:
   title: 68. Шри Чайтанья Сарасват Матх
   slug: 68-shri-chaitanya-saraswat-math
-tags:
-  - title: "1985.11"
-    slug: 1985-11
-  - title: Гитамахатмйам
-    slug: gitamahatmjam
-  - title: Гитамахатмйам 6
-    slug: gitamahatmjam-6
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-98
-  - title: Падьявали
-    slug: padyavali
-  - title: Падьявали 99
-    slug: padyavali-99
-  - title: Сарвасва томара
-    slug: sarvasva-tomara
-  - title: Сарвасва томара 1
-    slug: sarvasva-tomara-1
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
-    slug: shri-chajtanya-charitamrita-madhya-lila-11-31
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
-    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
-  - title: Лагху-бхагаватамрита 2.6
-    slug: laghu-bhagavatamrita-2-6
-  - title: Шри Шри Прапанна-дживанамритам
-    slug: shri-shri-prapanna-dzhivanamritam
-  - title: Шри Шри Прапанна-дживанамритам 3.13
-    slug: shri-shri-prapanna-dzhivanamritam-3-13
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.mp3
     title: аудиозапись в MP3 (1 час 6 мин. 41 сек., 62,8 МБ)
@@ -42,9 +19,29 @@ links:
     title: транскрипцию в RTF (337 КБ)
   - href: /dl/68._Shri_Chaitanya_Saraswat_Math/1086_1985.11.07_SridharMj_Proslavlenie_Shrily_B.S_Govindy_Maharaja.pdf
     title: транскрипцию в PDF (198 КБ)
+legacy:
+  title: 1086. 1985.11.07. Прославление Шрилы Б.С. Говинды Махараджа
+  index: "1086"
+  filename: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha.md
+  slug: 1086-1985-11-07-proslavlenie-shrily-b-s-govindy-maharadzha
+tags:
+  - title: Гитамахатмйам 6
+    slug: gitamahatmjam-6
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.98
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-98
+  - title: Падьявали 99
+    slug: padyavali-99
+  - title: Сарвасва томара 1
+    slug: sarvasva-tomara-1
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-31
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.28
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-28
+  - title: Лагху-бхагаватамрита 2.6
+    slug: laghu-bhagavatamrita-2-6
+  - title: Шри Шри Прапанна-дживанамритам 3.13
+    slug: shri-shri-prapanna-dzhivanamritam-3-13
 ---
-
-# 1086. 1985.11.07. Прославление Шрилы Б.С. Говинды Махараджа
 
 Впоследствии пришел Судхир Госвами. Он стоял во главе важного центра там [в Лос-Анджелесе(?)], и… как это называется?… все кассеты были сохранены, он сделал копии, дал высокую оценку этим речам [лекциям Шридхара Махараджа] и начал проповедовать на Западе. Таким было начало. Харе Кришна.
 

@@ -1,12 +1,17 @@
 ---
-slug: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki
+slug: 1982-11-07-b3_duhovnyy_geniy_sposoben_vyyti_pobeditelem_iz_lyuboy_shvatki
+record_id: 1982.11.07.B3
+title: Духовный гений способен выйти победителем из любой схватки
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2588286
+  duration: 00:01:18
+  src: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.mp3
+date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.mp3
     title: аудиозапись в MP3 (1 мин. 18 сек., 2,5 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (40 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/316_1982.11.07.B3_SridharMj_Duhovnyj_genij_sposoben_vyjti_pobeditelem_iz_ljuboj_shvatki.pdf
     title: транскрипцию в PDF (113 КБ)
+legacy:
+  title: 316. 1982.11.07.B3. Духовный гений способен выйти победителем из любой
+    схватки
+  index: "316"
+  filename: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki.md
+  slug: 316-1982-11-07-b3-duhovnyj-genij-sposoben-vyjti-pobeditelem-iz-lyuboj-shvatki
 ---
-
-# 316. 1982.11.07.B3. Духовный гений способен выйти победителем из любой схватки
 
 Духовный гений, избранник, за которым стоит Господь — подобный преданный, *Ачарья* — способен одержать победу над всеми и каждым. Преданный, которого поддерживает Верховный Господь, Верховный Авторитет, способен выйти победителем в любой схватке.
 

@@ -1,5 +1,12 @@
 ---
-slug: 852-samootritsanie-ne-taktika-a-iskrennee-chuvstvo
+slug: samootritsanie_ne_taktika_a_iskrennee_chuvstvo
+title: Самоотрицание — не тактика, а искреннее чувство
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4507202
+  duration: 00:05:21
+  src: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
 category:
   title: 56. Самоотрицание
   slug: 56-samootricanie
@@ -8,19 +15,12 @@ tags:
     slug: samopredanie
   - title: без даты
     slug: bez-daty
-  - title: Шаранагати
-    slug: sharanagati
   - title: Шаранагати 3–4
     slug: sharanagati-3-4
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: «Гитамала», Ямуна-бхававали
-    slug: gitamala-yamuna-bhavavali
   - title: «Гитамала», Ямуна-бхававали 19
     slug: gitamala-yamuna-bhavavali-19
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.mp3
     title: аудиозапись в MP3 (5 мин. 21 сек., 4,3 МБ)
@@ -28,9 +28,12 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/56._Samootricanie/852_2012.07.25.22_ShridharMj_Samootritsanie-ne_taktika_a_iskrennee_chuvstvo.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 852. Самоотрицание — не тактика, а искреннее чувство
+  index: "852"
+  filename: 852-samootritsanie-ne-taktika-a-iskrennee-chuvstvo.md
+  slug: 852-samootritsanie-ne-taktika-a-iskrennee-chuvstvo
 ---
-
-# 852. Самоотрицание — не тактика, а искреннее чувство
 
 *Тад даса-даса-дасанам дасатвам дехи ме прабхо* — «служение слугам слуг слуг Твоих слуг». Пожалуйста, позволь мне служить в таком качестве. Столь многие хранители придут, чтобы разбудить меня, вывести из этого сна. Я завишу исключительно от их милости, во мне нет ничего, *атма-ниведанам*, *гоптритве варанам*[^_ftn1], *тр̣н̣а̄д апи сунӣчена, тарор апи сахиш̣н̣уна̄*[^_ftn2].
 

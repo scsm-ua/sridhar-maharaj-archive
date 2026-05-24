@@ -1,14 +1,20 @@
 ---
-slug: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni
+slug: 1982-05-05-b2_nas_interesuet_kachestvo_povtoreniya_svyatogo_imeni
+record_id: 1982.05.05.B2
+title: Нас интересует качество повторения Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5651152
+  duration: 00:05:33
+  src: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.mp3
+date: 1982-05-05
 category:
   title: 19. Маха-мантра — Святое Имя
   slug: 19-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.mp3
     title: аудиозапись в MP3 (5 мин. 33 сек., 5,4 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (107 КБ)
   - href: /dl/19._Maha-mantra--Svyatoe_Imya/338_1982.05.05.B2_SridharMj_Nas_interesuet_kachestvo_povtorenija_Svjatogo_Imeni.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 338. 1982.05.05.B2. Нас интересует качество повторения Святого Имени
+  index: "338"
+  filename: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni.md
+  slug: 338-1982-05-05-b2-nas-interesuet-kachestvo-povtoreniya-svyatogo-imeni
 ---
-
-# 338. 1982.05.05.B2. Нас интересует качество повторения Святого Имени
 
 **Госвами Махарадж:** Хираньягарбха и его друзья, Надия и Панду, говорят в «Чайтанья Бхагавате»: Махапрабху утверждает, Он однажды сказал: «Я не стану есть в доме бедного человека, Я хочу есть в доме богача, владыки одного *лакха, лакхешвари*». И далее они говорят: Махапрабху утверждает здесь, если ты не повторяешь *лакх*…
 

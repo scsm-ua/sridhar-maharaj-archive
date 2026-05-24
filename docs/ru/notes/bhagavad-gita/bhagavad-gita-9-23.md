@@ -2,9 +2,10 @@
 slug: bhagavad-gita-9-23
 refs:
   - ../../40-bog-i-bogi/691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
-tags:
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 9.23
     slug: bhagavad-gita-9-23
 ---

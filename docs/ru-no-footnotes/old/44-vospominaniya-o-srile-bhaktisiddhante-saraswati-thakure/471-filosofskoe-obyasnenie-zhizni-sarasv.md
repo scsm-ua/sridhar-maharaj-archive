@@ -1,20 +1,29 @@
 ---
 slug: 471-filosofskoe-obyasnenie-zhizni-sarasv
+record_id: 1982.01.29.B3
+title: Философское объяснение жизни Сарасвати Тхакура в Джаганнатха Пури
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10261536
+  duration: 00:20:54
+  src: /wp-content/uploads/2012/08/471_1982.01.29.B3_SridharMj_Filosofskoe_obyasnenie_jizni_Sarasvati_Thakura_v_Jaganatha_Puri.mp3
+date: 1982-01-29
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/471_1982.01.29.B3_SridharMj_Filosofskoe_obyasnenie_jizni_Sarasvati_Thakura_v_Jaganatha_Puri.mp3
     title: Скачать аудиозапись в mp3 (20 мин 54 сек, размер 10 Мб)
+legacy:
+  title: 471. Философское объяснение жизни Сарасвати Тхакура в Джаганнатха Пури.
+    1982.01.29.B3
+  index: "471"
+  filename: 471-filosofskoe-obyasnenie-zhizni-sarasv.md
 ---
-
-# 471. Философское объяснение жизни Сарасвати Тхакура в Джаганнатха Пури. 1982.01.29.B3
 
 Наш Гуру Махарадж всегда учил: «мы должны служить нашей гуру-варге. И поэтому, ради этого служения мы будем приходить в высшее измерение Радха-Кунду, но не будем оставаться там. Мы не пригодны, не квалифицированы жить на Радха-Кунде. Мы будем занимать ближайший, но более низкий уровень. Мы будем жить там – в этом ближайшем, но более низком измерении, и будем приходить на Радху-Кунду ради служения».
 

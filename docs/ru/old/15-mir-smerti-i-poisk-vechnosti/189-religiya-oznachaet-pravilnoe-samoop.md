@@ -1,18 +1,28 @@
 ---
 slug: 189-religiya-oznachaet-pravilnoe-samoop
+title: Религия означает «правильное самоопределение». Мгновения прекрасной
+  реальности, часть 2.2.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4242424
+  duration: 00:08:31
+  src: /wp-content/uploads/2012/08/189_MgnoveniyaPR_2.2_SridharMj_-Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/189_MgnoveniyaPR_2.2_SridharMj_-Religiya_oznachayet_pravilnoye_samoopredeleniye.mp3
     title: Скачать аудиозапись в mp3 (8 мин 31 сек, размер 4 Мб)
+legacy:
+  title: 189. Религия означает «правильное самоопределение». Мгновения прекрасной
+    реальности, часть 2.2
+  index: "189"
+  filename: 189-religiya-oznachaet-pravilnoe-samoop.md
 ---
-
-# 189. Религия означает «правильное самоопределение». Мгновения прекрасной реальности, часть 2.2
 
 От эффекта, от следствия к причине и от причины к следствию. Мы должны понять это. Религия – означает занять верное положение. Таким было выражение нашего Гуру Махараджа. Он всегда говорил: «Религия – означает занятие верной позиции». Или правильного положения. Занять верное положение и исполнять свой долг.
 

@@ -4,13 +4,17 @@ refs:
   - ../../44-obretenie-i-razvitie-vkusa-k-duhovnoy-zhizni/717-1982-06-19-a3-b1-postepennoe-ochishhenie-serdtsa-ot-skverny-i-razvitie-predannosti.md
   - ../../57-vaishnava-aparadha-oskorblenie-i-kritika-slug-vsevyshnego/862-1982-02-20-c4-izgnanie-ili-nakazanie-ne-pomogut-shrimad-bhagavatam-11-5-42.md
   - ../../65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure/1000-1982-01-11-a2-osnovanie-gaudiya-matha-i-lichnost-kundzhi-babu.md
-tags:
+  - ../../_full/1981/09/1981.09.20.A.B.md
+  - ../../_full/1982/01/1982.01.11.A2.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.144
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-144
   - title: Шримад-Бхагаватам 11.5.42
     slug: shrimad-bhagavatam-11-5-42
 ---

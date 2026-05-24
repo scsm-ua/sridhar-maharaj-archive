@@ -1,12 +1,17 @@
 ---
-slug: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh
+slug: 1982-06-19-a2_obsuzhdenie_imen_yuga-avatarov_dlya_razlichnyh_epoh
+record_id: 1982.06.19.A2
+title: Обсуждение имен юга-аватаров для различных эпох
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2934481
+  duration: 00:02:23
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.mp3
+date: 1982-06-19
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.mp3
     title: аудиозапись в MP3 (2 мин. 22 сек., 2,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (59 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/162_1982.06.19.A2_SridharMj_Obsuzhdenie_imen_juga-avatarov_dlja_razlichnyh_jepoh.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 162. 1982.06.19.A2. Обсуждение имен юга-аватаров для различных эпох
+  index: "162"
+  filename: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh.md
+  slug: 162-1982-06-19-a2-obsuzhdenie-imen-yuga-avatarov-dlya-razlichnyh-epoh
 ---
-
-# 162. 1982.06.19.A2. Обсуждение имен юга-аватаров для различных эпох
 
 **Акхаянанда Махарадж:** Вчера мы обсуждали *юга-аватара*, и я читал в «Бхагаватам» различные имена для различных *юг* и различные цвета, описания, но я так же читал: в «Амрита-праваха-бхашье» Бхактивинод Тхакур говорит: белый, *шукла-аватар*, также является сыном Девахути, Капиладевом. Но в «Бхагаватам» в *Экадаши-скандхе* (Одиннадцатой Песне), Капиладев не упоминается. Я не понимаю.
 
@@ -34,7 +42,7 @@ links:
 
 **Акхаянанда Махарадж:** Я посмотрел в «Лагху-Бхагаватамрите», но там это явление подробно не описано.
 
-**Шрила Шридхар Махарадж:** Но в «Шримад-Бхагаватам» ясно сказано: *чатур-ба̄хур*, *кр̣те [?].*
+**Шрила Шридхар Махарадж:** Но в «Шримад-Бхагаватам» ясно сказано: *чатур-ба̄хур*, *кр̣те [?]*.
 
 И должно быть, скорее всего, Джива Госвами упоминает или Баладева [Видьябхушана]…
 

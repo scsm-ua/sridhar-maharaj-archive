@@ -1,34 +1,17 @@
 ---
-slug: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa
+slug: 1982-01-28-b1_krishna_prinimaet_chuvstva_serdtsa
+record_id: 1982.01.28.B1
+title: Кришна принимает чувства сердца
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7958455
+  duration: 00:14:46
+  src: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
+date: 1982-01-28
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
-    slug: shri-chajtanya-charitamrita-madhya-lila-22-38
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 4.11
-    slug: bhagavad-gita-4-11
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда
-    slug: shri-chajtanya-bhagavata-adi-khanda
-  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
-    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.5.11
-    slug: shrimad-bhagavatam-1-5-11
-  - title: Шримад-Бхагаватам 1.5.10
-    slug: shrimad-bhagavatam-1-5-10
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.1.11
-    slug: bhakti-rasamrita-sindhu-1-1-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.mp3
     title: аудиозапись в MP3 (14 мин. 45 сек., 7,6 МБ)
@@ -36,9 +19,25 @@ links:
     title: транскрипцию в RTF (162 КБ)
   - href: /dl/45._Iskrennost_i_progress/740_1982.01.28.B1_SridharMj_Krishna_prinimaet_chuvstva_serdca.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 740. 1982.01.28.B1. Кришна принимает чувства сердца
+  index: "740"
+  filename: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa.md
+  slug: 740-1982-01-28-b1-krishna-prinimaet-chuvstva-serdtsa
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.38
+    slug: shri-chajtanya-charitamrita-madhya-lila-22-38
+  - title: Бхагавад-гита 4.11
+    slug: bhagavad-gita-4-11
+  - title: «Шри Чайтанья Бхагавата», Ади-кханда 11.108
+    slug: shri-chajtanya-bhagavata-adi-khanda-11-108
+  - title: Шримад-Бхагаватам 1.5.11
+    slug: shrimad-bhagavatam-1-5-11
+  - title: Шримад-Бхагаватам 1.5.10
+    slug: shrimad-bhagavatam-1-5-10
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
 ---
-
-# 740. 1982.01.28.B1. Кришна принимает чувства сердца
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

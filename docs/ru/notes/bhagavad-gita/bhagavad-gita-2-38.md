@@ -3,9 +3,12 @@ slug: bhagavad-gita-2-38
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/077-1982-05-15-b4-dva-prizyva-mahaprabhu-o-kultiv.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/575-1982-01-21-b1-istinnaya-umirotvorennost-za-predelami-materialnoj-dvojstvennosti.md
-tags:
+  - ../../_full/1982/01/1982.01.21.md
+  - ../../_full/1982/05/1982.05.15.B2.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 2.38
     slug: bhagavad-gita-2-38
 ---

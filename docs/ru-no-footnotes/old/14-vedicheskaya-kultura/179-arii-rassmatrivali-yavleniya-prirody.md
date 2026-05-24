@@ -1,20 +1,28 @@
 ---
 slug: 179-arii-rassmatrivali-yavleniya-prirody
+record_id: 1982.01.17.A2
+title: Арии рассматривали явления природы как личности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5047255
+  duration: 00:09:00
+  src: /wp-content/uploads/2012/08/179_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
+date: 1982-01-17
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Рамаяна
     slug: ramayana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/179_1982.01.17.A2_SridharMj_Arii_rassmatrivali_yavleniya_prirody_kak_lichnosti.mp3
     title: Скачать аудиозапись в mp3 (9 мин 0 сек, размер 5 Мб)
+legacy:
+  title: 179. Арии рассматривали явления природы как личности. 1982.01.17.A2
+  index: "179"
+  filename: 179-arii-rassmatrivali-yavleniya-prirody.md
 ---
-
-# 179. Арии рассматривали явления природы как личности. 1982.01.17.A2
 
 В ведической культуре люди имеют обыкновение все реалии рассматривать в личностном аспекте. Вода Ганги. Тело состоит из воды, но внутри заключена личность. Ямуна наделена телом из воды, но когда Рамачандра захотел построить мост на Ланку, то стал совершать аскезы, постился, поклоняясь океану (богу моря, личности, представляющей море).
 

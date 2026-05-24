@@ -1,12 +1,18 @@
 ---
-slug: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii
+slug: podlinnaya_zhizn_vozmozhna_tolko_v_duhovnom_izmerenii
+title: Подлинная жизнь возможна только в духовном измерении
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2940639
+  duration: 00:06:01
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
 tags:
   - title: без даты
     slug: bez-daty
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.mp3
     title: аудиозапись в MP3 (6 мин. 00 сек., 2,9 МБ)
@@ -14,9 +20,12 @@ links:
     title: транскрипцию в RTF (74 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/412_2012.07.25.6_SridharMj_Podlinnaya_jizn_vozmojna_tolko_v_duhovnom_izmerenii.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 412. Подлинная жизнь возможна только в духовном измерении
+  index: "412"
+  filename: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii.md
+  slug: 412-podlinnaya-zhizn-vozmozhna-tolko-v-duhovnom-izmerenii
 ---
-
-# 412. Подлинная жизнь возможна только в духовном измерении
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]
 

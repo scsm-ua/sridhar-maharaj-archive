@@ -1,12 +1,17 @@
 ---
-slug: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr
+slug: 1982-02-20-c3_istoriya_kaly_krishna_dasa_okruzhenie_bolee_milostivo_chem_tsentr
+record_id: 1982.02.20.C3
+title: История Калы Кришна Даса — окружение более милостиво, чем центр
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7191833
+  duration: 00:06:19
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3
+date: 1982-02-20
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.mp3
     title: аудиозапись в MP3 (6 мин. 18 сек., 6,9 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в DOCX (16 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/244_1982.02.20.C3_SridharMj_Istorija_Kaly_Krishna_Dasa--okruzhenie_bolee_milostivo_chem_centr.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 244. 1982.02.20.C3. История Калы Кришна Даса — окружение более милостиво,
+    чем центр
+  index: "244"
+  filename: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr.md
+  slug: 244-1982-02-20-c3-istoriya-kaly-krishna-dasa-okruzhenie-bolee-milostivo-chem-tsentr
 ---
-
-# 244. 1982.02.20.C3. История Калы Кришна Даса — окружение более милостиво, чем центр
 
 *#01:12:59#*
 

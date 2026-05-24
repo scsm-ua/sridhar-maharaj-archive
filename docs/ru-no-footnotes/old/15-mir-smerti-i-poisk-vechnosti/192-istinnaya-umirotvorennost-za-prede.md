@@ -1,22 +1,31 @@
 ---
 slug: 192-istinnaya-umirotvorennost-za-prede
+record_id: 1982.01.21.B1
+title: Истинная умиротворенность — за пределами материальной двойственности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19098311
+  duration: 00:36:56
+  src: /wp-content/uploads/2012/08/192_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
+date: 1982-01-21
 category:
   title: (15. Мир смерти и поиск вечности)
   slug: 15-mir-smerti-i-poisk-vechnosti
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Карма
     slug: karma
   - title: Материальный мир
     slug: materialnyj-mir
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/192_1982.01.21.B1_SridharMj_Istinnaya_umirotvorennost-za_predelami_materialnoy_dvoystvennosti.mp3
     title: Скачать аудиозапись в mp3 (36 мин 56 сек, размер 19 Мб)
+legacy:
+  title: 192. Истинная умиротворенность — за пределами материальной
+    двойственности. 1982.01.21.B1
+  index: "192"
+  filename: 192-istinnaya-umirotvorennost-za-prede.md
 ---
-
-# 192. Истинная умиротворенность — за пределами материальной двойственности. 1982.01.21.B1
 
 Я хотел процитировать одну шлоку. Когда Шакунтала была взята из ашрама к царю, в то время двое брахмачари… Лидер ашрама (Карна муни) попросил их, старший ашрама сказал им: «Завтра утром вы трое вместе с Шакунталой пойдете в столицу». И когда утром они пробудились и увидели, и об этом говорится в шлоке: (сансрит). Калидас описывает, дает описание: «Солнце восходит, луна заходит».
 

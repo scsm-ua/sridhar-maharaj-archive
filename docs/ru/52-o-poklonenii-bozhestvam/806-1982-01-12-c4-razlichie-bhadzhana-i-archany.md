@@ -1,14 +1,20 @@
 ---
-slug: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany
+slug: 1982-01-12-c4_razlichie_bhadzhana_i_archany
+record_id: 1982.01.12.C4
+title: Различие бхаджана и арчаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4338490
+  duration: 00:07:03
+  src: /dl/52._O_poklonenii_Bozhestvam/806_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.mp3
+date: 1982-01-12
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/806_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.mp3
     title: аудиозапись в MP3 (7 мин. 03 сек., 4,2 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (83 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/806_1982.01.12.C4_SridharMj_Razlichie_bhadjana_i_archany.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 806. 1982.01.12.C4. Различие бхаджана и арчаны
+  index: "806"
+  filename: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany.md
+  slug: 806-1982-01-12-c4-razlichie-bhadzhana-i-archany
 ---
-
-# 806. 1982.01.12.C4. Различие бхаджана и арчаны
 
 **Преданный:** Махарадж?
 

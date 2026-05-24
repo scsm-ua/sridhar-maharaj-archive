@@ -1,18 +1,25 @@
 ---
 slug: 175-v-budushhem-myslyashhie-lyudi-otsenyat-dar-so
+record_id: 1985.05.01.B1
+title: В будущем мыслящие люди оценят дар Сознания Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8657230
+  duration: 00:13:09
+  src: /wp-content/uploads/2012/08/175_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
+date: 1985-05-01
 category:
   title: (13. О проповеди)
   slug: 13-o-propovedi
-tags:
-  - title: "1985.05"
-    slug: 1985-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/175_1985.05.01.B1_SridharMj_Myslyawiye_lyudi_ocenyat_dar_Soznaniya_Krishny.mp3
     title: Скачать аудиозапись в mp3 (13 мин 9 сек, размер 13 Мб)
+legacy:
+  title: 175. В будущем мыслящие люди оценят дар Сознания Кришны. 1985.05.01.B1
+  index: "175"
+  filename: 175-v-budushhem-myslyashhie-lyudi-otsenyat-dar-so.md
 ---
-
-# 175. В будущем мыслящие люди оценят дар Сознания Кришны. 1985.05.01.B1
 
 *#00:00:00#*
 

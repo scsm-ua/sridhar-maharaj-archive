@@ -1,22 +1,30 @@
 ---
 slug: 26-spor-o-bozhestvennoj-prirode-shri-chajt
+record_id: 1983.01.12.B3
+title: Спор о божественной природе Шри Чайтаньи Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4105850
+  duration: 00:08:16
+  src: /wp-content/uploads/2012/08/026_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
+date: 1983-01-12
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Махапрабху
     slug: mahaprabhu
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/026_1983.01.12.B3_SridharMj_Spor_o_bojestvennoy_prirode_Shri_Chaitanyi_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (8 мин 16 сек, размер 4 Мб)
+legacy:
+  title: 26. Спор о божественной природе Шри Чайтаньи Махапрабху. 1983.01.12.B3
+  index: "26"
+  filename: 26-spor-o-bozhestvennoj-prirode-shri-chajt.md
 ---
-
-# 26. Спор о божественной природе Шри Чайтаньи Махапрабху. 1983.01.12.B3
 
 **Преданный:** Когда я находился во Вриндаване, Госвами храма Радхарамана сказал, что когда ваш Гуру Махарадж прибыл во Вриндаван, он вызвал там своими речами конфликт, поскольку он проповедовал, что Шри Чайтанья Махапрабху есть Бхагаван. И он сказал, что, в конце концов, была… в Бенгалии разгорелась глобальная… разгорелся глобальный диспут в связи с этой идеей в целом, что Махапрабху – это Бог. В свое время в Бенгалии шли бурные диспуты. Не могли бы вы рассказать об этом?
 

@@ -1,22 +1,30 @@
 ---
 slug: 332-transtsendentnoe-dzhiu-dzhitsu-1983-02-07-a2
+record_id: 1983.02.07.A2
+title: Трансцендентное джиу-джитсу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10062327
+  duration: 00:15:50
+  src: /wp-content/uploads/2012/08/332_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
+date: 1983-02-07
 category:
   title: (26. Абсолютная Гармония)
   slug: 26-absolutnaya-garmoniya
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Гармония
     slug: garmoniya
   - title: Шива
     slug: shiva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/332_1983.02.07.A2_SridharMj_Transcendentnoe_Djiu_djitsu.mp3
     title: Скачать аудиозапись в mp3 (15 мин 50 сек, размер 10 Мб)
+legacy:
+  title: 332. Трансцендентное джиу-джитсу. 1983.02.07.A2
+  index: "332"
+  filename: 332-transtsendentnoe-dzhiu-dzhitsu-1983-02-07-a2.md
 ---
-
-# 332. Трансцендентное джиу-джитсу. 1983.02.07.A2
 
 Джагай-Мадхай пришли, чтобы показать миру, насколько великодушен Владыка. Началось косвенным образом. Вначале они ранили Нитьянанду, но, в конце концов, они продемонстрировали покорность, самопредание. Пришли к лотосным стопам Гауранги и показали пример, образец, показали пример, как мы обращены этим великим Господом.
 

@@ -1,12 +1,17 @@
 ---
-slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
+slug: 1981-08-30-a3_transtsendentnoe_videnie_shrily_gaurakishora_babadzhi
+record_id: 1981.08.30.A3
+title: Трансцендентное видение Шрилы Гауракишора Бабаджи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4627174
+  duration: 00:04:48
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
+date: 1981-08-30
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.mp3
     title: аудиозапись в MP3 (4 мин. 48 сек., 4,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (116 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/525_1981.08.30.A3_SridharMj_Transcendentnoe_videnie_Shrily_Gaurakishora_Babaji.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 525. 1981.08.30.A3. Трансцендентное видение Шрилы Гауракишора Бабаджи
+  index: "525"
+  filename: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi.md
+  slug: 525-1981-08-30-a3-transtsendentnoe-videnie-shrily-gaurakishora-babadzhi
 ---
-
-# 525. 1981.08.30.A3. Трансцендентное видение Шрилы Гауракишора Бабаджи
 
 **Шрила Шридхар Махарадж:** [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]
 

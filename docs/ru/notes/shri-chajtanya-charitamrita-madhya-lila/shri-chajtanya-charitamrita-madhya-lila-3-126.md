@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-3-126
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/940-1982-01-17-a4-istoriya-achyutanandy-o-synovyah-advajty-achari.md
-tags:
+  - ../../_full/1982/01/1982.01.17.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 3.126
     slug: shri-chajtanya-charitamrita-madhya-lila-3-126
 ---

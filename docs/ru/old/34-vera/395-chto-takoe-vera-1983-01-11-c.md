@@ -1,20 +1,28 @@
 ---
 slug: 395-chto-takoe-vera-1983-01-11-c
+record_id: 1983.01.11.C
+title: Что такое вера?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9151751
+  duration: 00:17:39
+  src: /wp-content/uploads/2012/08/395_1983.01.11.C_SridharMj_Chto_takoe_vera.mp3
+date: 1983-01-11
 category:
   title: (34. Вера)
   slug: 34-vera
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Вера
     slug: vera
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/395_1983.01.11.C_SridharMj_Chto_takoe_vera.mp3
     title: Скачать аудиозапись в mp3 (17 мин 39 сек, размер 9 Мб)
+legacy:
+  title: 395. Что такое вера? 1983.01.11.C
+  index: "395"
+  filename: 395-chto-takoe-vera-1983-01-11-c.md
 ---
-
-# 395. Что такое вера? 1983.01.11.C
 
 *#00:00:00#*
 

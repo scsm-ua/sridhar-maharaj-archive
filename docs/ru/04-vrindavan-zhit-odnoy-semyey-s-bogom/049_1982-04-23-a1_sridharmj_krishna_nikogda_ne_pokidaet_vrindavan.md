@@ -1,20 +1,17 @@
 ---
-slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
+slug: 1982-04-23-a1_krishna_nikogda_ne_pokidaet_vrindavan
+record_id: 1982.04.23.A1
+title: Кришна никогда не покидает Вриндаван
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3259736
+  duration: 00:02:45
+  src: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.mp3
+date: 1982-04-23
 category:
   title: 04. Вриндаван — жить одной семьей с Богом
   slug: 04-vrindavan-zhit-odnoy-semyey-s-bogom
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
-    slug: shri-chajtanya-charitamrita-antya-lila-1-67
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
-  - title: Лагху-бхагаватамрита 1.5.461
-    slug: laghu-bhagavatamrita-1-5-461
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.mp3
     title: аудиозапись в MP3 (02 мин. 44 сек., 128 кбит/сек, 3.1 МБ)
@@ -22,9 +19,17 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/04._Vrindavan--zhit_odnoy_semyey_s_Bogom/049_1982.04.23.A1_SridharMj_Krishna_nikogda_ne_pokidaet_Vrindavan.pdf
     title: транскрипцию в PDF (132 КБ)
+legacy:
+  title: 049. 1982.04.23.A1 Кришна никогда не покидает Вриндаван
+  index: "049"
+  filename: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan.md
+  slug: 049_1982-04-23-a1_sridharmj_krishna_nikogda_ne_pokidaet_vrindavan
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 1.67
+    slug: shri-chajtanya-charitamrita-antya-lila-1-67
+  - title: Лагху-бхагаватамрита 1.5.461
+    slug: laghu-bhagavatamrita-1-5-461
 ---
-
-# 049. 1982.04.23.A1 Кришна никогда не покидает Вриндаван
 
 Его уход, исчезновение было основанием для Дварака-*лилы*, уход из Вриндавана. Вриндаванская *лила* ушла [буквально] в подполье. После того как Кришна покинул Вриндаван. Гопендра-нандана.
 

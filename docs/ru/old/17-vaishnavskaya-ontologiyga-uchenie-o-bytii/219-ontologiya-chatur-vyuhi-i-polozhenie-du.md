@@ -1,5 +1,13 @@
 ---
 slug: 219-ontologiya-chatur-vyuhi-i-polozhenie-du
+title: Онтология чатур-вьюхи и положение Дурги-деви. Мгновения прекрасной
+  реальности 1.6.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3568536
+  duration: 00:09:12
+  src: /wp-content/uploads/2012/08/219_MgnoveniyaPR_1.6_SridharMj_Ontologiya_chatur-vyuhi_i_poloоeniye_Durgi-devi.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
@@ -12,13 +20,15 @@ tags:
     slug: joga-maja
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/219_MgnoveniyaPR_1.6_SridharMj_Ontologiya_chatur-vyuhi_i_poloоeniye_Durgi-devi.mp3
     title: Скачать аудиозапись в mp3 (9 мин 12 сек, размер 3 Мб)
+legacy:
+  title: 219. Онтология чатур-вьюхи и положение Дурги-деви. Мгновения прекрасной
+    реальности 1.6
+  index: "219"
+  filename: 219-ontologiya-chatur-vyuhi-i-polozhenie-du.md
 ---
-
-# 219. Онтология чатур-вьюхи и положение Дурги-деви. Мгновения прекрасной реальности 1.6
 
 **Преданный:** Махарадж, Вы описывали *чатур-сан*, *чатур-вьюху*.
 

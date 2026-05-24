@@ -1,12 +1,17 @@
 ---
-slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
+slug: 1982-06-17-a_shkoly_sahadzhii_i_mayavady_prizvany_izolirovat_zabluzhdayushchihsya_ot_vayshnavov
+record_id: 1982.06.17.A
+title: Школы сахаджии и майавады призваны изолировать заблуждающихся от вайшнавов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 22623973
+  duration: 00:21:18
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
+date: 1982-06-17
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.mp3
     title: аудиозапись в MP3 (21 мин. 17 сек., 21,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (248 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/885_1982.06.17.A_SridharMj_Shkoly_sahadzhii_i_majavady_prizvany_izolirovat_zabluzhdajushhihsja_ot_vajshnavov.pdf
     title: транскрипцию в PDF (206 КБ)
+legacy:
+  title: 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать
+    заблуждающихся от вайшнавов
+  index: "885"
+  filename: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
+  slug: 885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov
 ---
-
-# 885. 1982.06.17.A. Школы сахаджии и майавады призваны изолировать заблуждающихся от вайшнавов
 
 Дешевый рынок, за одну ночь стать *гопи*… Каков путь?
 

@@ -1,14 +1,20 @@
 ---
-slug: 290-1982-03-11-b1-b3-acharya-dolzhen-obladat-negativnym-samovospriyatiem
+slug: 1982-03-11-b1-b3_acharya_dolzhen_obladat_negativnym_samovospriyatiem
+record_id: 1982.03.11.B1.B3
+title: Ачарья должен обладать негативным самовосприятием
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9375011
+  duration: 00:08:23
+  src: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3
+date: 1982-03-11
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
 tags:
-  - title: "1982.03"
-    slug: 1982-03
   - title: Гуру-таттва
     slug: guru-tattva
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.mp3
     title: аудиозапись в MP3 (8 мин. 22 сек., 9,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (22 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/290_1982.03.11.B1.B3_SridharMj_Acharja_dolzhen_obladat_negativnym_samovosprijatiem.pdf
     title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 290. 1982.03.11.B1.B3. Ачарья должен обладать негативным самовосприятием
+  index: "290"
+  filename: 290-1982-03-11-b1-b3-acharya-dolzhen-obladat-negativnym-samovospriyatiem.md
+  slug: 290-1982-03-11-b1-b3-acharya-dolzhen-obladat-negativnym-samovospriyatiem
 ---
-
-# 290. 1982.03.11.B1.B3. Ачарья должен обладать негативным самовосприятием
 
 Подобное интенсивное и сокровенное служение — не осмеливаться обращаться к такому служению — такой должна быть позиция подлинного преданного. Они дадут высокую оценку моему служению, они скажут: «Приди и займи позицию *Ачарьи*», на что я буду отвечать: «Я опасаюсь занимать это положение, поскольку столь многие будут выражать мне почтение в качестве Гуру и Бога, и я не в силах буду [буквально] переварить это почитание, поэтому я не могу занять позицию *Ачарьи*. Очень опасно играть роль Бога. *А̄ча̄рйам̇ ма̄м̇ вӣджа̄нӣйа̄н*[^_ftn1] — ученики будут собираться, и они будут относиться ко мне так, как бы они относились к Самому Господу. Это крайне опасно. Простите меня, но я не чувствую себя достойным занять эту позицию. Существует возможность отклонения — очень опасное положение».
 
@@ -74,7 +83,7 @@ links:
 
 [Гаура-Харибол, Гаура-Харибол, Гаура-Харибол]
 
-Ступайте и примите *прасадам.*
+Ступайте и примите *прасадам*.
 
 
 

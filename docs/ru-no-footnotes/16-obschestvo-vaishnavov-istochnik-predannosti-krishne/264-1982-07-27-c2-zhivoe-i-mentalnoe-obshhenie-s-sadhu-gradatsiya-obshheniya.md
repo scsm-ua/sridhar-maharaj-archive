@@ -1,14 +1,20 @@
 ---
-slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
+slug: 1982-07-27-c2_zhivoe_i_mentalnoe_obshchenie_s_sadhu_gradatsiya_obshcheniya
+record_id: 1982.07.27.C2
+title: Живое и ментальное общение с садху. Градация общения.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7237391
+  duration: 00:06:22
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
+date: 1982-07-27
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Садху-санга
     slug: sadhu-sanga
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 7,0 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/264_1982.07.27.C2_SridharMj_Zhivoe_i_mentalnoe_obshhenie_s_sadhu__Gradacija_obshhenija.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 264. 1982.07.27.C2. Живое и ментальное общение с садху. Градация общения
+  index: "264"
+  filename: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya.md
+  slug: 264-1982-07-27-c2-zhivoe-i-mentalnoe-obshhenie-s-sadhu-gradatsiya-obshheniya
 ---
-
-# 264. 1982.07.27.C2. Живое и ментальное общение с садху. Градация общения
 
 **Преданный:** Махарадж, есть еще один вопрос. Эти юноши хотят знать: когда они вернутся в Европу… Они понимают, что должны изучать *шастры*, но не могли бы вы объяснить принцип общения с *садху*? Как им знать, с кем им общаться?
 
@@ -32,7 +41,7 @@ links:
 
 **Шрила Шридхар Махарадж:** Связь с живым источником — это абсолютная необходимость. Вначале происходит нечто вроде репетиции. Человек может делать те или иные вещи, но связь со святым, который является истинным посредником, — это абсолютная необходимость в подлинной духовной жизни. Вначале вы можете читать книги Свами Махараджа.
 
-**Преданный:** Махарадж, у меня есть вопрос. Не могли бы вы объяснить *садху-сангу*: различные аспекты (высшего и низшего) общения с *садху.* Присутствует ли градация общения с *садху*?
+**Преданный:** Махарадж, у меня есть вопрос. Не могли бы вы объяснить *садху-сангу*: различные аспекты (высшего и низшего) общения с *садху*. Присутствует ли градация общения с *садху*?
 
 *#00:02:35#*
 

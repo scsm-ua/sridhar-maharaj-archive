@@ -1,12 +1,17 @@
 ---
-slug: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty
+slug: 1983-01-04-b1-2_plohoy_rabotnik_zhaluetsya_na_svoi_instrumenty
+record_id: 1983.01.04.B1.2
+title: Плохой работник жалуется на свои инструменты
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3156905
+  duration: 00:04:49
+  src: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
+date: 1983-01-04
 category:
   title: 31. Глубокое восприятие реальности
   slug: 31-glubokoe-vospriyatie-realnosti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.mp3
     title: аудиозапись в MP3 (4 мин. 48 сек., 3,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (69 КБ)
   - href: /dl/31._Glubokoe_vospriyatie_realnosti/514_1983.01.04.B1.2_SridharMj_Plohoj_rabotnik_zhaluetsja_na_svoi_instrumenty.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 514. 1983.01.04.B1.2. Плохой работник жалуется на свои инструменты
+  index: "514"
+  filename: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty.md
+  slug: 514-1983-01-04-b1-2-plohoj-rabotnik-zhaluetsya-na-svoi-instrumenty
 ---
-
-# 514. 1983.01.04.B1.2. Плохой работник жалуется на свои инструменты
 
 **Шрила Шридхар Махарадж:** Как его зовут, кто это?
 

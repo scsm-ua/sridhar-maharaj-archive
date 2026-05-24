@@ -1,22 +1,30 @@
 ---
 slug: 270-bhakti-devi-vrinda-devi-tulasi-devi-1981-0
+record_id: 1981.03.06.B2
+title: Бхакти Деви, Вринда Деви, Туласи Деви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2475771
+  duration: 00:04:30
+  src: /wp-content/uploads/2012/08/270_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3
+date: 1981-03-06
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Бхакти
     slug: bhakti
   - title: Туласи
     slug: tulasi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/270_1981.03.06.B2_SridharMj_BhaktiDevi_VrindaDevi_TulasiDevi.mp3
     title: Скачать аудиозапись в mp3 (4 мин 30 сек, размер 2 Мб)
+legacy:
+  title: 270. Бхакти Деви, Вринда Деви, Туласи Деви. 1981.03.06.B2
+  index: "270"
+  filename: 270-bhakti-devi-vrinda-devi-tulasi-devi-1981-0.md
 ---
-
-# 270. Бхакти Деви, Вринда Деви, Туласи Деви. 1981.03.06.B2
 
 **Преданный:** Вчера, когда мы приехали сюда, то Харикеш Махарадж… Мы ехали с ним в машине, и он рассказывал о том, как Прабхупада впервые представил, ввел поклонение Туласи Деви и Шалаграма Шиле. И насколько я знаю эту историю…
 

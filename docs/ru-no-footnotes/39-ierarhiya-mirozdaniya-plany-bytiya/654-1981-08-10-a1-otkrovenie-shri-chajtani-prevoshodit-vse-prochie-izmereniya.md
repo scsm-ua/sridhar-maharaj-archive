@@ -1,12 +1,17 @@
 ---
-slug: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya
+slug: 1981-08-10-a1_otkrovenie_shri_chaytani_prevoshodit_vse_prochie_izmereniya
+record_id: 1981.08.10.A1
+title: Откровение Шри Чайтаньи превосходит все прочие измерения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10019201
+  duration: 00:09:13
+  src: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3
+date: 1981-08-10
 category:
   title: 39. Иерархия мироздания — планы бытия
   slug: 39-ierarhiya-mirozdaniya-plany-bytiya
-tags:
-  - title: "1981.08"
-    slug: 1981-08
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.mp3
     title: аудиозапись в MP3 (9 мин. 12 сек., 9,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в DOCX (27 КБ)
   - href: /dl/39._Ierarhiya_mirozdaniya--plany_bytiya/654_1981.08.10.A1_SridharMj_Otkrovenie_Shri_Chajtani_prevoshodit_vse_prochie_izmerenija.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 654. 1981.08.10.A1. Откровение Шри Чайтаньи превосходит все прочие измерения
+  index: "654"
+  filename: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya.md
+  slug: 654-1981-08-10-a1-otkrovenie-shri-chajtani-prevoshodit-vse-prochie-izmereniya
 ---
-
-# 654. 1981.08.10.A1. Откровение Шри Чайтаньи превосходит все прочие измерения
 
 Пракашананда [обратился] так Шри Чайтаньядеву: «Ты принял *санньясу* в нашей *сампрадае*. Почему ты не читаешь Веданту? Нам рассказывали, что Ты танцуешь и поешь, принимаешь *прасадам*, не соблюдая *вайрагьям*, то есть настроение безразличия к миру. Что это такое, как это понимать? Я не в силах понять Твоего подобного поведения». С их точки зрения обсуждение Веданты (*Брахман*, *Параматма*, все эти вещи) — все это стандарт религиозной жизни. Поэтому зависит от подлинной концепции, от истинности представление о том, что такое теизм и что такое реальность. Концепция *Брахмана*, концепция *Параматмы*, концепция *Бхагавана* и концепция Кришны.
 

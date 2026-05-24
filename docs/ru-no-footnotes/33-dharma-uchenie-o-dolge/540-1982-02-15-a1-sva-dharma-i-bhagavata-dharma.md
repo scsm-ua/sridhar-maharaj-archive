@@ -1,14 +1,20 @@
 ---
-slug: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma
+slug: 1982-02-15-a1_sva-dharma_i_bhagavata-dharma
+record_id: 1982.02.15.A1
+title: Сва-дхарма и бхагавата-дхарма
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2541119
+  duration: 00:04:46
+  src: /dl/33._Dharma--uchenie_o_dolge/540_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
+date: 1982-02-15
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/540_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.mp3
     title: аудиозапись в MP3 (4 мин. 45 сек., 2,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/540_1982.02.15.A1_SridharMj_Sva-dharma_i_Bhagavata-dharma.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 540. 1982.02.15.A1. Сва-дхарма и бхагавата-дхарма
+  index: "540"
+  filename: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma.md
+  slug: 540-1982-02-15-a1-sva-dharma-i-bhagavata-dharma
 ---
-
-# 540. 1982.02.15.A1. Сва-дхарма и бхагавата-дхарма
 
 **Преданный:** Гуру Махарадж, все, что мы воспринимаем здесь, является проявлением взаимодействия *гун* материальной природы. Когда преданный Господа занят какой-то деятельностью в этом мире, соприкасается с этой материальной природой, он тоже действует в различных *гунах*?
 

@@ -1,16 +1,17 @@
 ---
-slug: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi
+slug: 1982-05-18-b8_ya_hochu_umeret_v_upryazhi
+record_id: 1982.05.18.B8
+title: «Я хочу умереть в упряжи»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2504223
+  duration: 00:02:05
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
+date: 1982-05-18
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 13.14
-    slug: bhagavad-gita-13-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.mp3
     title: аудиозапись в MP3 (2 мин. 04 сек., 2,4 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1055_1982.05.18.B8_SridharMj_Ja_hochu_umeret_v_uprjazhi.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 1055. 1982.05.18.B8. «Я хочу умереть в упряжи»
+  index: "1055"
+  filename: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi.md
+  slug: 1055-1982-05-18-b8-ya-hochu-umeret-v-upryazhi
+tags:
+  - title: Бхагавад-гита 13.14
+    slug: bhagavad-gita-13-14
 ---
-
-# 1055. 1982.05.18.B8. «Я хочу умереть в упряжи»
 
 **Госвами Махарадж:** Наш Гуру Махарадж написал: «В свои последние дни духовный учитель может обратиться к *нирджана-бхаджану* и передать всю свою проповедь, ответственность, своим ученикам.
 

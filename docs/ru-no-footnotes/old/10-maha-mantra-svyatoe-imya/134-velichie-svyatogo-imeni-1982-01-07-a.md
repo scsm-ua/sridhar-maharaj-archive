@@ -1,22 +1,30 @@
 ---
 slug: 134-velichie-svyatogo-imeni-1982-01-07-a
+record_id: 1982.01.07.A
+title: Величие Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 19698781
+  duration: 00:40:11
+  src: /wp-content/uploads/2012/08/134_1982.01.07.A_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
+date: 1982-01-07
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Маха-мантра
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/134_1982.01.07.A_SridharMj_Velichie_svyatogo_imeni_Gospoda.mp3
     title: Скачать аудиозапись в mp3 (40 мин 11 сек, размер 21 Мб)
+legacy:
+  title: 134. Величие Святого Имени. 1982.01.07.A
+  index: "134"
+  filename: 134-velichie-svyatogo-imeni-1982-01-07-a.md
 ---
-
-# 134. Величие Святого Имени. 1982.01.07.A
 
 *#00:00:00#*
 

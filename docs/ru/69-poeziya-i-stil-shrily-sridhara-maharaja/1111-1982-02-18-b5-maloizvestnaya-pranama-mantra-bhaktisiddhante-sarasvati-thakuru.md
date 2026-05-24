@@ -1,28 +1,17 @@
 ---
-slug: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru
+slug: 1982-02-18-b5_maloizvestnaya_pranama-mantra_bhaktisiddhante_sarasvati_thakuru
+record_id: 1982.02.18.B5
+title: Малоизвестная пранама-мантра Бхактисиддханте Сарасвати Тхакуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7328832
+  duration: 00:14:50
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
+date: 1982-02-18
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шри Гуру-парампара
-    slug: shri-guru-parampara
-  - title: Шри Гуру-парампара 6
-    slug: shri-guru-parampara-6
-  - title: Шри Гуру-парампара 7
-    slug: shri-guru-parampara-7
-  - title: Шри Гуру-парампара 9
-    slug: shri-guru-parampara-9
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
-  - title: Падьявали
-    slug: padyavali
-  - title: Падьявали 14
-    slug: padyavali-14
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.mp3
     title: аудиозапись в MP3 (14 мин. 50 сек., 7,0 МБ)
@@ -30,11 +19,26 @@ links:
     title: транскрипцию в RTF (161 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1111_1982.02.18.B5_SridharMj_Maloizvestnaya_pranama-mantra_Bhaktisiddhante_Sarasvati_Thakuru.pdf
     title: транскрипцию в PDF (174 КБ)
+legacy:
+  title: 1111. 1982.02.18.B5. Малоизвестная пранама-мантра Бхактисиддханте
+    Сарасвати Тхакуру
+  index: "1111"
+  filename: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru.md
+  slug: 1111-1982-02-18-b5-maloizvestnaya-pranama-mantra-bhaktisiddhante-sarasvati-thakuru
+tags:
+  - title: Шри Гуру-парампара 6
+    slug: shri-guru-parampara-6
+  - title: Шри Гуру-парампара 7
+    slug: shri-guru-parampara-7
+  - title: Шри Гуру-парампара 9
+    slug: shri-guru-parampara-9
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.70
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-70
+  - title: Падьявали 14
+    slug: padyavali-14
 ---
 
-# 1111. 1982.02.18.B5. Малоизвестная пранама-мантра Бхактисиддханте Сарасвати Тхакуру
-
-*«Онтология Прекрасной Реальности» (часть 1.10)*
+## «Онтология Прекрасной Реальности» (часть 1.10)
 
 Я написал поэму о Прабхупаде, *пранама-мантру*: *гауде ганга-тате*[^_ftn1]: на земле Гауды, на Берегах Ганги…
 
@@ -55,7 +59,7 @@ links:
 
 *#00:05:21#*
 
-*Маха̄прабху ш́рӣ-чаитанйа, ра̄дха̄-кр̣ш̣н̣а нахе анйа* — Махапрабху Шри Чайтанья есть не кто иной, как объединение Радхарани и Кришны, *рӯпа̄нуга джонера джӣвана* — сама жизнь представителей этой категории — *рупануга.* *Виш́вамбхара прийан̇кара, ш́рӣ сварӯпа-да̄модара* — любимец Вишвамбхары (Махапрабху) есть Сваруп Дамодар и *ш́рӣ госва̄мӣ рӯпа-сана̄тана*. И эти Госвами (братья), известные как Рупа и Санатана. Эти имена были даны им самим Махапрабху — Рупа и Санатана.
+*Маха̄прабху ш́рӣ-чаитанйа, ра̄дха̄-кр̣ш̣н̣а нахе анйа* — Махапрабху Шри Чайтанья есть не кто иной, как объединение Радхарани и Кришны, *рӯпа̄нуга джонера джӣвана* — сама жизнь представителей этой категории — *рупануга*. *Виш́вамбхара прийан̇кара, ш́рӣ сварӯпа-да̄модара* — любимец Вишвамбхары (Махапрабху) есть Сваруп Дамодар и *ш́рӣ госва̄мӣ рӯпа-сана̄тана*. И эти Госвами (братья), известные как Рупа и Санатана. Эти имена были даны им самим Махапрабху — Рупа и Санатана.
 
 *#00:06:09#*
 

@@ -1,24 +1,32 @@
 ---
 slug: 310-podlinnoe-smirenie-1983-01-02-a2
+record_id: 1983.01.02.A2
+title: Подлинное смирение
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9714646
+  duration: 00:19:55
+  src: /wp-content/uploads/2012/08/310_1983.01.02.A2_SridharMj_Podlinnoe_smirenie.mp3
+date: 1983-01-02
 category:
   title: (24. Смирение)
   slug: 24-smirenie
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Смирение
     slug: smirenie
   - title: Терпение
     slug: terpenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/310_1983.01.02.A2_SridharMj_Podlinnoe_smirenie.mp3
     title: Скачать аудиозапись в mp3 (19 мин 55 сек, размер 9 Мб)
+legacy:
+  title: 310. Подлинное смирение. 1983.01.02.A2
+  index: "310"
+  filename: 310-podlinnoe-smirenie-1983-01-02-a2.md
 ---
-
-# 310. Подлинное смирение. 1983.01.02.A2
 
 **Ученица:** Гуру Махарадж.
 

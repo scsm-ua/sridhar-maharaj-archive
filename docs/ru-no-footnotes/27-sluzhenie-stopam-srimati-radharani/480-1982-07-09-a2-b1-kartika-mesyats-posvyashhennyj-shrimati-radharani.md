@@ -1,14 +1,20 @@
 ---
-slug: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani
+slug: 1982-07-09-a2-b1_kartika_mesyats_posvyashchennyy_shrimati_radharani
+record_id: 1982.07.09.A2.B1
+title: Картика – месяц, посвященный Шримати Радхарани
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6116309
+  duration: 00:05:58
+  src: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3
+date: 1982-07-09
 category:
   title: 27. Служение стопам Шримати Радхарани
   slug: 27-sluzhenie-stopam-srimati-radharani
 tags:
-  - title: "1982.07"
-    slug: 1982-07
   - title: Радхарани
     slug: radharani
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.mp3
     title: аудиозапись в MP3 (5 мин. 58 сек., 5,9 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (82 КБ)
   - href: /dl/27._Sluzhenie_stopam_Srimati_Radharani/480_1982.07.09.A2.B1_SridharMj_Kartika--mesjac_posvjashhennyj_Shrimati_Radharani.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 480. 1982.07.09.A2.B1. Картика – месяц, посвященный Шримати Радхарани
+  index: "480"
+  filename: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani.md
+  slug: 480-1982-07-09-a2-b1-kartika-mesyats-posvyashhennyj-shrimati-radharani
 ---
-
-# 480. 1982.07.09.A2.B1. Картика – месяц, посвященный Шримати Радхарани
 
 *#00:32:54#*
 
@@ -35,7 +44,7 @@ links:
     ма̄са̄на̄м̇ ма̄рга-ш́ӣрш̣о ’хам
 [^_ftn1]
 
-Кришна говорит: «Среди всех месяцев *ма̄рга-ш́ӣрш̣о ма̄са̄на̄м̇*, *марга-ширша-*месяц представляет Меня», говорит Он. А Картик идет перед Марга-ширшей: Марга-ширша, Картика, затем Аграхайана. Поэтому Картика — существуют причины считать, что этот месяц представляет Радхарани, а Кришну представляет Марга-ширша. Перед месяцем Марга-ширша идет месяц Картика.
+Кришна говорит: «Среди всех месяцев *ма̄рга-ш́ӣрш̣о ма̄са̄на̄м̇*, *марга-ширша*-месяц представляет Меня», говорит Он. А Картик идет перед Марга-ширшей: Марга-ширша, Картика, затем Аграхайана. Поэтому Картика — существуют причины считать, что этот месяц представляет Радхарани, а Кришну представляет Марга-ширша. Перед месяцем Марга-ширша идет месяц Картика.
 
 *#00:02:15#*
 

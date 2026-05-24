@@ -1,26 +1,26 @@
 ---
-slug: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi
+slug: 1981-08-18-c2-4_acharya_vysochayshey_madhura-rasy_vzyvaet_k_polozheniyu_slugi
+record_id: 1981.08.18.C2.4
+title: Ачарья высочайшей мадхура-расы взывает к положению слуги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2140149
+  duration: 00:03:09
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.mp3
+date: 1981-08-18
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Дух служения
     slug: duh-sluzheniya
-  - title: Шри Вилапа-кусуманджали
-    slug: shri-vilapa-kusumandzhali
   - title: Шри Вилапа-кусуманджали 16
     slug: shri-vilapa-kusumandzhali-16
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 7.47
     slug: shri-chajtanya-charitamrita-antya-lila-7-47
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.47.61
     slug: shrimad-bhagavatam-10-47-61
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.mp3
     title: аудиозапись в MP3 (3 мин. 08 сек., 2,1 МБ)
@@ -28,9 +28,13 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/440_1981.08.18.C2.4_SridharMj_Acharja_vysochajshej_madhura_rasy_vzyvaet_k_polozheniju_slugi.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 440. 1981.08.18.C2.4. Ачарья высочайшей мадхура-расы взывает к положению
+    слуги
+  index: "440"
+  filename: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi.md
+  slug: 440-1981-08-18-c2-4-acharya-vysochajshej-madhura-rasy-vzyvaet-k-polozheniyu-slugi
 ---
-
-# 440. 1981.08.18.C2.4. Ачарья высочайшей мадхура-расы взывает к положению слуги
 
 **Преданный:** Махарадж, а вот этот стих: *дасйасйа те*… Как он звучит?
 

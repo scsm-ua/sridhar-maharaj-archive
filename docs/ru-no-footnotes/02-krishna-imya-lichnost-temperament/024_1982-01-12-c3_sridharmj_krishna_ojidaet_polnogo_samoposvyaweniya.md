@@ -1,16 +1,22 @@
 ---
-slug: 024_1982-01-12-c3_sridharmj_krishna_ojidaet_polnogo_samoposvyaweniya
+slug: 1982-01-12-c3_krishna_ozhidaet_polnogo_samoposvyashcheniya
+record_id: 1982.01.12.C3
+title: Кришна ожидает полного самопосвящения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5990692
+  duration: 00:12:17
+  src: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
+date: 1982-01-12
 category:
   title: 02. Кришна — Имя, Личность, темперамент
   slug: 02-krishna-imya-lichnost-temperament
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Коннотация и денотация
     slug: konnotatsiya-i-denotatsiya
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.mp3
     title: аудиозапись в MP3 (12 мин. 16 сек., 5.7 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (92 КБ)
   - href: /dl/02._Krishna--Imya,_Lichnost,_temperament/024_1982.01.12.C3_SridharMj_Krishna_ojidaet_polnogo_samoposvyaweniya.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 024. 1982.01.12.C3 Кришна ожидает полного самопосвящения
+  index: "024"
+  filename: 024_1982-01-12-c3_sridharmj_krishna_ojidaet_polnogo_samoposvyaweniya.md
+  slug: 024_1982-01-12-c3_sridharmj_krishna_ojidaet_polnogo_samoposvyaweniya
 ---
-
-# 024. 1982.01.12.C3 Кришна ожидает полного самопосвящения
 
 «[Я раскрываюсь] последовательно, соответственно способностям тех, кому Я дарую [понимание]… Тот, кто имеет подобное утонченное понимание, способен познать [Меня], почувствовать…», — это также указание Господа, но обращенное к определенной группе. Однако люди, наделенные более возвышенным разумом, более развитым сознанием, отбросят эти правила и предписания и пойдут дальше.
 

@@ -1,18 +1,28 @@
 ---
 slug: 378-pamyatovanie-o-stopah-krishny-razrusha
+title: Памятование о стопах Кришны разрушает все неблагоприятное. Онтология
+  прекрасной реальности, часть 1.1.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2519296
+  duration: 00:04:53
+  src: /wp-content/uploads/2012/08/378_OntologiyaPR_1.1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
 category:
   title: (31. Памятование о Господе)
   slug: 31-pamyatovanie-o-gospode
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/378_OntologiyaPR_1.1_SridharMj_Pamyatovaniye_o_stopah_Krishny_razrushayet_vse_neblagopriyatnoe.mp3
     title: Скачать аудиозапись в mp3 (4 мин 53 сек, размер 2 Мб)
+legacy:
+  title: 378. Памятование о стопах Кришны разрушает все неблагоприятное. Онтология
+    прекрасной реальности, часть 1.1
+  index: "378"
+  filename: 378-pamyatovanie-o-stopah-krishny-razrusha.md
 ---
-
-# 378. Памятование о стопах Кришны разрушает все неблагоприятное. Онтология прекрасной реальности, часть 1.1
 
 **Шридхар Махарадж:** Божественные стопы *Кришны*. Не забвение, памятование *Кришны*: сознание *Кришны*, божественных стоп — Разрушит, уничтожит *абхадру*. Все что ни есть *бхадра* все не благоприятно не желательно, не благое, тот элемент, который не благ в нас – низменный.
 

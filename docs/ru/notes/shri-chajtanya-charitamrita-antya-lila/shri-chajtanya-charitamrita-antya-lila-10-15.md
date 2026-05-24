@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-antya-lila-10-15
 refs:
   - ../../17-shri-guru-i-ego-milost/314-1983-06-10-uglublennoe-vospriyatie-guru-tattvy.md
-tags:
+  - ../../_full/1983/06/1983.06.10.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 10.15
     slug: shri-chajtanya-charitamrita-antya-lila-10-15
 ---

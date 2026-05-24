@@ -7,9 +7,23 @@ refs:
   - ../../40-bog-i-bogi/685-1982-06-10-b5-b8-protivostoyanie-lakshmi-i-sarasvati-v-kontekste-gaudiya-vajshnavizma.md
   - ../../58-sahajiya-voobrazhaemaya-predannost/885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
   - ../../62-svyatye-mesta/921-1981-03-10-a1-lichnost-i-otkrovenie-shukadeva-gosvami.md
-tags:
+  - ../../_full/1981/09/1981.09.19.A.B.md
+  - ../../_full/1981/10/1981.10.30.A.md
+  - ../../_full/1981/11/1981.11.21.A.B.md
+  - ../../_full/1982/06/1982.06.10.A.B.C.md
+  - ../../_full/1982/09/1982.09.06.B.md
+  - ../../_full/1982/10/1982.10.06.A.md
+  - ../../_full/1982/10/1982.10.08.A.B.md
+  - ../../_full/1982/10/1982.10.22.A.B.md
+  - ../../_full/1982/11/1982.11.15.C.D.md
+  - ../../_full/1982/11/1982.11.17.B.C.md
+  - ../../_full/1982/12/1982.12.28.B.C.md
+  - ../../_full/1983/08/1983.08.30.A.B.md
+  - ../../_full/1983/09/1983.09.28.C.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 4.171
     slug: shri-chajtanya-charitamrita-adi-lila-4-171
 ---

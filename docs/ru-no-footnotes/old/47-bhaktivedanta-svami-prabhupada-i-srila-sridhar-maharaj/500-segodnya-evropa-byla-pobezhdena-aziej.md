@@ -1,18 +1,27 @@
 ---
 slug: 500-segodnya-evropa-byla-pobezhdena-aziej
+record_id: null
+title: «Сегодня Европа была побеждена Азией»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3678665
+  duration: 00:08:59
+  src: /wp-content/uploads/2012/08/500_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobeоdena_Aziyey.mp3
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/500_2012.07.25.10_SridharMj_Segodnya_Yevropa_byla_pobeоdena_Aziyey.mp3
     title: Скачать аудиозапись в mp3 (8 мин 59 сек, размер 3 Мб)
+legacy:
+  title: 500. «Сегодня Европа была побеждена Азией». 2012.07.25.10
+  index: "500"
+  filename: 500-segodnya-evropa-byla-pobezhdena-aziej.md
 ---
-
-# 500. «Сегодня Европа была побеждена Азией». 2012.07.25.10
 
 **Преданный:** Была найдена книга в библиотеке под названием «Неизвестная Индия». Там описывается, что во время Второй Мировой войны, когда иностранцы были помещены в концентрационные лагеря. История о том, как один человек, австриец, он описывает это в своей биографии.
 

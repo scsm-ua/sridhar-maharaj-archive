@@ -3,9 +3,11 @@ slug: kali-ghora-timire-3
 refs:
   - ../../07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov/117-1982-05-09-a6-poema-nayananandy-dasa-tot-kto-prinyal-gaurangu-ischerpal-vse-vidy-religioznyh-praktik-v-proshlyh-zhiznyah.md
   - ../../39-ierarhiya-mirozdaniya-plany-bytiya/655-1982-04-07-a3-ot-brahmana-k-radha-dasyam.md
-tags:
+  - ../../_full/1982/05/1982.05.09.A.md
+scriptures:
   - title: Кали-гхора тимире
     slug: kali-ghora-timire
+verses:
   - title: Кали-гхора тимире 3
     slug: kali-ghora-timire-3
 ---

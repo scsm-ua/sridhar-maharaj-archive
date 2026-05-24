@@ -1,14 +1,20 @@
 ---
-slug: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov
+slug: 1982-02-21-c3_svoim_tantsem_mahaprabhu_razdaet_bozhestvennuyu_lyubov
+record_id: 1982.02.21.C3
+title: Своим танцем Махапрабху раздает божественную любовь
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4403711
+  duration: 00:06:07
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.mp3
+date: 1982-02-21
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.mp3
     title: аудиозапись в MP3 (6 мин. 7 сек., 4,3 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в DOCX (19 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/113_1982.02.21.C3_SridharMj_Svoim_tancem_Mahaprabhu_razdaet_bozhestvennuju_ljubov.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 113. 1982.02.21.C3. Своим танцем Махапрабху раздает божественную любовь
+  index: "113"
+  filename: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov.md
+  slug: 113-1982-02-21-c3-svoim-tantsem-mahaprabhu-razdaet-bozhestvennuyu-lyubov
 ---
-
-# 113. 1982.02.21.C3. Своим танцем Махапрабху раздает божественную любовь
 
     гауранга сундара вара нитйам нидже намабхих
     гауранга-нагара…

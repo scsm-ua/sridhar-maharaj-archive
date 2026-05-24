@@ -1,18 +1,25 @@
 ---
-slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
+slug: 1983-01-14-v2_sannyasa_mahaprabhu_chast_1
+record_id: 1983.01.14
+variant: 2
+title: Санньяса Махапрабху, часть 1
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25334208
+  duration: 00:50:58
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
+date: 1983-01-14
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Золотой вулкан божественной любви
     slug: zolotoj-vulkan-bozhestvennoj-lyubvi
   - title: Махапрабху
     slug: mahaprabhu
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.mp3
     title: аудиозапись в MP3 (50 мин. 57 сек., 64 кбит/сек, 24 МБ)
@@ -20,9 +27,12 @@ links:
     title: транскрипцию в RTF (176 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/073_1983.01.14_SridharMj_Sanyasa_Mahaprabhu_part1.pdf
     title: транскрипцию в PDF (194 КБ)
+legacy:
+  title: 073. 1983.01.14 Санньяса Махапрабху, часть 1. (1983)
+  index: "073"
+  filename: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1.md
+  slug: 073_1983-01-14_sridharmj_sanyasa_mahaprabhu_part1
 ---
-
-# 073. 1983.01.14 Санньяса Махапрабху, часть 1. (1983)
 
 **Махапрабху уходит в Катву принять санньясу**
 

@@ -1,16 +1,17 @@
 ---
-slug: 579-1981-03-05-a2-proishozhdenie-dushi
+slug: 1981-03-05-a2_proishozhdenie_dushi
+record_id: 1981.03.05.A2
+title: Происхождение души
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7066781
+  duration: 00:12:01
+  src: /dl/36._Proishozhdenie_dushi/579_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
+date: 1981-03-05
 category:
   title: 36. Происхождение души
   slug: 36-proishozhdenie-dushi
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.117
-    slug: shri-chajtanya-charitamrita-madhya-lila-20-117
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/36._Proishozhdenie_dushi/579_1981.03.05.A2_SridharMj_Proishojdenie_dushi.mp3
     title: аудиозапись в MP3 (12 мин. 00 сек., 6,8 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/36._Proishozhdenie_dushi/579_1981.03.05.A2_SridharMj_Proishojdenie_dushi.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 579. 1981.03.05.A2. Происхождение души
+  index: "579"
+  filename: 579-1981-03-05-a2-proishozhdenie-dushi.md
+  slug: 579-1981-03-05-a2-proishozhdenie-dushi
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 20.117
+    slug: shri-chajtanya-charitamrita-madhya-lila-20-117
 ---
-
-# 579. 1981.03.05.A2. Происхождение души
 
 **Госвами Махарадж:** На днях вы говорили о потенциальном состоянии *джив* в *брахмаджйоти*, в Брахмалоке. И также вы говорили о том, как кто-то вступает в духовный мир и пробуждает свою идентичность, его сознание было словно рассеянно, разбросано.
 

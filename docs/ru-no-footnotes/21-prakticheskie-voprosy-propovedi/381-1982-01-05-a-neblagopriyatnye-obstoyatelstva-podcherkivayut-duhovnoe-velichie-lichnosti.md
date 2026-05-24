@@ -1,14 +1,20 @@
 ---
-slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
+slug: 1982-01-05-a_neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti
+record_id: 1982.01.05.A
+title: Неблагоприятные обстоятельства подчеркивают духовное величие личности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12831920
+  duration: 00:24:58
+  src: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
+date: 1982-01-05
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.mp3
     title: аудиозапись в MP3 (24 мин. 58 сек., 12,3 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (199 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/381_1982.01.05.A_SridharMj_Neblagopriyatnye_obstoyatelstva_podcherkivayut_duhovnoe_velichie_lichnosti.pdf
     title: транскрипцию в PDF (170 КБ)
+legacy:
+  title: 381. 1982.01.05.A. Неблагоприятные обстоятельства подчеркивают духовное
+    величие личности
+  index: "381"
+  filename: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti.md
+  slug: 381-1982-01-05-a-neblagopriyatnye-obstoyatelstva-podcherkivayut-duhovnoe-velichie-lichnosti
 ---
-
-# 381. 1982.01.05.A. Неблагоприятные обстоятельства подчеркивают духовное величие личности
 
 Харе Кришна.
 

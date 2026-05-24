@@ -2,9 +2,10 @@
 slug: shriman-nityananda-dvadashakam-5
 refs:
   - ../../69-poeziya-i-stil-shrily-sridhara-maharaja/1105-1982-04-27-c3-otdalennyj-aromat-krishna-premy-delaet-osvobozhdenie-neprivlekatelnym.md
-tags:
+scriptures:
   - title: Шриман Нитьянанда Двадашакам
     slug: shriman-nityananda-dvadashakam
+verses:
   - title: Шриман Нитьянанда Двадашакам 5
     slug: shriman-nityananda-dvadashakam-5
 ---

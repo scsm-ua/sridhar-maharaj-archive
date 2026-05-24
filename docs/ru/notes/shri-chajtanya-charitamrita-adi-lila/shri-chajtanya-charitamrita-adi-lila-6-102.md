@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-adi-lila-6-102
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/086_1982-02-18-a5_sridharmj_sokrovenniy_dar_mahaprabhu.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
 ---

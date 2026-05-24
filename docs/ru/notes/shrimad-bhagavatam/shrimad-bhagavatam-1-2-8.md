@@ -3,13 +3,22 @@ slug: shrimad-bhagavatam-1-2-8
 refs:
   - ../../33-dharma-uchenie-o-dolge/534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
   - ../../49-bhakti-velichie-predannosti-krishne/777-1982-06-14-a3-a6-bez-svyazi-s-predannostyu-znanie-i-otrechenie-karma-i-joga-lisheny-tsennosti.md
-tags:
+  - ../../_full/1981/11/1981.11.23.A.md
+  - ../../_full/1981/12/1981.12.29.B.C.md
+  - ../../_full/1982/06/1982.06.14.A.md
+  - ../../_full/1983/07/1983.07.08.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 1.2.8
     slug: shrimad-bhagavatam-1-2-8
 ---
 
 # Шримад-Бхагаватам 1.2.8
+
+*дхармах̣ свануш̣т̣хитах̣ пум̇са̄м̇, виш̣ваксена-катха̄су йах̣/ нотпа̄дайед йади ратим̇, ш́рама эва хи кевалам* — «Вся деятельность человека, совершаемая им в соответствии с его положением, — бесполезный труд, если она не пробуждает в нем интереса к беседам о Боге и Его посланию» («Шримад-Бхагаватам», 1.2.8).
+
+---
 
 «Вся деятельность человека, совершаемая им в соответствии с его положением, — бесполезный труд, если она не пробуждает в нем интереса к беседам о Боге и Его посланию» («Шримад-Бхагаватам», 1.2.8).

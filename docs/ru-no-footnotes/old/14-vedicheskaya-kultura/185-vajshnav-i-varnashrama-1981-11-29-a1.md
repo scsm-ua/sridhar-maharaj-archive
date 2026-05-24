@@ -1,24 +1,32 @@
 ---
 slug: 185-vajshnav-i-varnashrama-1981-11-29-a1
+record_id: 1981.11.29.A1
+title: Вайшнав и варнашрама
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7164845
+  duration: 00:13:25
+  src: /wp-content/uploads/2012/08/185_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
+date: 1981-11-29
 category:
   title: (14. Ведическая культура)
   slug: 14-vedicheskaya-kultura
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Бхакти
     slug: bhakti
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
   - title: Дхарма
     slug: dharma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/185_1981.11.29.A1_SridharMj_Vaishnav_and_Varnashrama.mp3
     title: Скачать аудиозапись в mp3 (13 мин 25 сек, размер 7 Мб)
+legacy:
+  title: 185. Вайшнав и варнашрама. 1981.11.29.A1
+  index: "185"
+  filename: 185-vajshnav-i-varnashrama-1981-11-29-a1.md
 ---
-
-# 185. Вайшнав и варнашрама. 1981.11.29.A1
 
 **Ученик:** Вопрос. Гуру Махарадж, сейчас остро стоит вопрос об отношениях индусов и мусульман. Мы не являемся хинду, но в каком-то смысле мы можем говорить от лица хинду. Это так?
 

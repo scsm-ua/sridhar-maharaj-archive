@@ -1,14 +1,20 @@
 ---
-slug: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam
+slug: 1983-11-02-a10_pogruzhenie_dushi_v_mayu_podobno_privyazannosti_k_narkotikam
+record_id: 1983.11.02.A10
+title: Погружение души в майу подобно привязанности к наркотикам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4476834
+  duration: 00:02:58
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/593_1983.11.02.A10_SridharMj_Pogruzhenie_dushi_v_maju_podobno_privjazannosti_k_narkotikam.mp3
+date: 1983-11-02
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Душа
     slug: dusha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/593_1983.11.02.A10_SridharMj_Pogruzhenie_dushi_v_maju_podobno_privjazannosti_k_narkotikam.mp3
     title: аудиозапись в MP3 (2 мин. 57 сек., 4,3 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (52 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/593_1983.11.02.A10_SridharMj_Pogruzhenie_dushi_v_maju_podobno_privjazannosti_k_narkotikam.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 593. 1983.11.02.A10. Погружение души в майу подобно привязанности к
+    наркотикам
+  index: "593"
+  filename: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam.md
+  slug: 593-1983-11-02-a10-pogruzhenie-dushi-v-maju-podobno-privyazannosti-k-narkotikam
 ---
-
-# 593. 1983.11.02.A10. Погружение души в майу подобно привязанности к наркотикам
 
 **Преданный:** Махарадж, когда *джива* становится падшей, она может прекратить свое падение?
 

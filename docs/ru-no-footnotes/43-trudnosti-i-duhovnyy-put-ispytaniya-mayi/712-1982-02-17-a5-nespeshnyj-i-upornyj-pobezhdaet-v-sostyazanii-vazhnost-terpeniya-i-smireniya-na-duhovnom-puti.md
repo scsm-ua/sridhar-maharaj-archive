@@ -1,12 +1,18 @@
 ---
-slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
+slug: 1982-02-17-a5_nespeshnyy_i_upornyy_pobezhdaet_v_sostyazanii_vazhnost_terpeniya_i_smireniya_na_duhovnom_puti
+record_id: 1982.02.17.A5
+title: Неспешный и упорный побеждает в состязании. Важность терпения и смирения
+  на духовном пути.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4558733
+  duration: 00:08:51
+  src: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
+date: 1982-02-17
 category:
   title: 43. Трудности и духовный путь — испытания майи
   slug: 43-trudnosti-i-duhovnyy-put-ispytaniya-mayi
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.mp3
     title: аудиозапись в MP3 (8 мин. 51 сек., 4,4 МБ)
@@ -14,9 +20,13 @@ links:
     title: транскрипцию в RTF (87 КБ)
   - href: /dl/43._Trudnosti_i_duhovnyy_put--ispytaniya_mayi/712_1982.02.17.A5_Nespeshnyj_i_upornyj_pobezhdaet_v_sostjazanii_Vazhnost_smirenija_i_terpenija_na_duhovnom_puti.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 712. 1982.02.17.A5. Неспешный и упорный побеждает в состязании. Важность
+    терпения и смирения на духовном пути
+  index: "712"
+  filename: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti.md
+  slug: 712-1982-02-17-a5-nespeshnyj-i-upornyj-pobezhdaet-v-sostyazanii-vazhnost-terpeniya-i-smireniya-na-duhovnom-puti
 ---
-
-# 712. 1982.02.17.A5. Неспешный и упорный побеждает в состязании. Важность терпения и смирения на духовном пути
 
     [тр̣на̄д апи сунӣчена
     тарор апи сахиш̣н̣уна̄]
@@ -52,7 +62,7 @@ links:
 
 *#00:07:33#*
 
-*Кӣрттанӣйах̣ сада̄ харих̣.* *Хари-киртан*. И также это отношение сделает нас сознающими. Несомненно, самые разные препятствия, самые разные трудности будут приходить к нам, будут нападать на нас, и поэтому нам уже сейчас дается такое наставление. Когда бы вы ни начинали выполнение своего долга, все эти трудности и препятствия обязательно придут, чтобы напасть на вас. Но вы уже знаете это наставление, и поэтому если они приходят (а они несомненно придут), вы должны вести себя по отношению к ним таким образом. *Хари-киртан*. *Хари-киртан* означает жизнь, лишенную удобств, комфорта.
+*Кӣрттанӣйах̣ сада̄ харих̣*. *Хари-киртан*. И также это отношение сделает нас сознающими. Несомненно, самые разные препятствия, самые разные трудности будут приходить к нам, будут нападать на нас, и поэтому нам уже сейчас дается такое наставление. Когда бы вы ни начинали выполнение своего долга, все эти трудности и препятствия обязательно придут, чтобы напасть на вас. Но вы уже знаете это наставление, и поэтому если они приходят (а они несомненно придут), вы должны вести себя по отношению к ним таким образом. *Хари-киртан*. *Хари-киртан* означает жизнь, лишенную удобств, комфорта.
 
 
 

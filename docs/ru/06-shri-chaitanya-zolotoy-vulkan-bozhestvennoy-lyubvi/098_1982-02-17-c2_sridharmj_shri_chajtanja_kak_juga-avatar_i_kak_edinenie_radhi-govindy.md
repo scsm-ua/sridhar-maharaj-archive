@@ -1,26 +1,26 @@
 ---
-slug: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy
+slug: 1982-02-17-c2_shri_chaytanya_kak_yuga-avatar_i_kak_edinenie_radhi-govindy
+record_id: 1982.02.17.C2
+title: Шри Чайтанья как юга-аватар и как единение Радхи-Говинды
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6805242
+  duration: 00:06:11
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3
+date: 1982-02-17
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.8
     slug: shri-chajtanya-charitamrita-antya-lila-20-8
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.154
     slug: shri-chajtanya-charitamrita-madhya-lila-9-154
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 3.52
     slug: shri-chajtanya-charitamrita-adi-lila-3-52
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.mp3
     title: аудиозапись в MP3 (6 мин. 10 сек., 6.5 МБ)
@@ -28,9 +28,12 @@ links:
     title: транскрипцию в DOCX (20 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/098_1982.02.17.C2_SridharMj_Shri_Chajtanja_kak_juga-avatar_i_kak_edinenie_Radhi-Govindy.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 098. 1982.02.17.C2 Шри Чайтанья как юга-аватар и как единение Радхи-Говинды
+  index: "098"
+  filename: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy.md
+  slug: 098_1982-02-17-c2_sridharmj_shri_chajtanja_kak_juga-avatar_i_kak_edinenie_radhi-govindy
 ---
-
-# 098. 1982.02.17.C2 Шри Чайтанья как юга-аватар и как единение Радхи-Говинды
 
 **Преданный:** Махарадж?
 
@@ -70,7 +73,7 @@ links:
 
 **Шрила Госвами Махарадж:** В каждую *Кали-югу* присутствует определенная форма, специфическая форма воплощения Махапрабху?
 
-**Шрила Шридхар Махарадж:** Да. В качестве *юга-аватара* Он, как правило, обычно приходит каждую *Кали-югу*. Кришна также приходит каждую *Двапара-югу.* Хамса и Хаягрива — в *Сатья-югу*. *Сатья, Трета, Двапара, Кали*.
+**Шрила Шридхар Махарадж:** Да. В качестве *юга-аватара* Он, как правило, обычно приходит каждую *Кали-югу*. Кришна также приходит каждую *Двапара-югу*. Хамса и Хаягрива — в *Сатья-югу*. *Сатья, Трета, Двапара, Кали*.
 
 [части разных шлок]
 

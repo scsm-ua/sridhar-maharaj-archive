@@ -1,13 +1,30 @@
 ---
-slug: 558-1981-11-12-a1-obratno-k-bogu
+slug: 1981-11-12-a1_obratno_k_bogu
+record_id: 1981.11.12.A1
+title: Обратно к Богу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 8697709
+  duration: 00:12:06
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
+date: 1981-11-12
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
+links:
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
+    title: аудиозапись в MP3 (12 мин. 06 сек., 8,3 МБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.rtf
+    title: транскрипцию в RTF (128 КБ)
+  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.pdf
+    title: транскрипцию в PDF (161 КБ)
+legacy:
+  title: 558. 1981.11.12.A1. Обратно к Богу
+  index: "558"
+  filename: 558-1981-11-12-a1-obratno-k-bogu.md
+  slug: 558-1981-11-12-a1-obratno-k-bogu
 tags:
-  - title: "1981.11"
-    slug: 1981-11
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
   - title: Бхагавад-гита 8.16
@@ -22,25 +39,11 @@ tags:
     slug: bhagavad-gita-7-23
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.16
     slug: shri-chajtanya-charitamrita-madhya-lila-22-16
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 3.2.35
     slug: bhakti-rasamrita-sindhu-3-2-35
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.mp3
-    title: аудиозапись в MP3 (12 мин. 06 сек., 8,3 МБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.rtf
-    title: транскрипцию в RTF (128 КБ)
-  - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/558_1981.11.12.A1_SridharMj_Obratno_k_Bogu.pdf
-    title: транскрипцию в PDF (161 КБ)
 ---
-
-# 558. 1981.11.12.A1. Обратно к Богу
 
 «С незапамятных времен *джива* барахтается в волнах океана материального мира, и теперь она обретает безопасное положение. Могу ли я [Шрила Бхактисиддханта Сарасвати Тхакур] толкнуть эту *дживу* обратно в бушующий океан? После такого долгого времени, проведенного в этом мире, *джива* пытается спастись, стать на путь домой, обратно к Богу. Она уже возвращается домой, обретает безопасное положение. И что, я теперь должен толкнуть ее обратно в этот океан, чтобы она барахталась там, мучилась, умирала? Я не могу быть настолько жестоким. Я не могу этого делать. Они как мои дети, они словно мои сыновья. Их, конечно, могут попытаться силой увести отсюда, но сам я не способен просить кого-либо уйти из Матха, чтобы они снова занялись служением *майе*, иллюзии, чтобы они снова страдали». С такой искренней убежденностью он (Шрила Бхактисиддханта Сарасвати Тхакур) хотел проповедовать. Таково движение Гуру Махараджа. Обратно домой, обратно к Богу.
 

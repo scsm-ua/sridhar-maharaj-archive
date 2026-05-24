@@ -1,35 +1,42 @@
 ---
-slug: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura
+slug: 1982-02-01-b_nepokolebimaya_vera_shrily_sarasvati_thakura
+record_id: 1982.02.01.B
+title: Непоколебимая вера Шрилы Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 18487274
+  duration: 00:18:38
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
+date: 1982-02-01
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
+links:
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
+    title: аудиозапись в MP3 (18 мин. 38 сек., 17,3 МБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.rtf
+    title: транскрипцию в RTF (203 КБ)
+  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.pdf
+    title: транскрипцию в PDF (204 КБ)
+legacy:
+  title: 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
+  index: "1006"
+  filename: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura.md
+  slug: 1006-1982-02-01-v-nepokolebimaya-vera-shrily-sarasvati-thakura
 tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.14.13
     slug: shrimad-bhagavatam-11-14-13
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
   - title: Шветашватара-упанишад 2.5
     slug: shvetashvatara-upanishad-2-5
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.42
     slug: bhagavad-gita-3-42
-  - title: Шримад Бхактивинода-вираха Дашакам
-    slug: shrimad-bhaktivinoda-viraha-dashakam
   - title: Шримад Бхактивинода-вираха Дашакам 7
     slug: shrimad-bhaktivinoda-viraha-dashakam-7
   - title: Шримад Бхактивинода-вираха Дашакам 6
@@ -38,17 +45,7 @@ tags:
     slug: bhagavad-gita-2-29
   - title: Шримад-Бхагаватам 11.22.34
     slug: shrimad-bhagavatam-11-22-34
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.mp3
-    title: аудиозапись в MP3 (18 мин. 38 сек., 17,3 МБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.rtf
-    title: транскрипцию в RTF (203 КБ)
-  - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1006_1982.02.01.B_SridharMj_Nepokolebimaja_vera_Shrily_Sarasvati_Thakura.pdf
-    title: транскрипцию в PDF (204 КБ)
 ---
-
-# 1006. 1982.02.01.В. Непоколебимая вера Шрилы Сарасвати Тхакура
 
 **Преданный:** Речь Шрилы Бхактисиддханты Сарасвати Тхакура, обращенная к *санньяси*, которые отправлялись на запад, в этой речи он говорит: «Чайтанья Матх — это проявление Божественности». Он просит распространить это явление повсюду.
 
@@ -136,7 +133,7 @@ links:
     а̄ш́чарйавад вадати татхаива ча̄нйах̣
 [^_ftn8]
 
-«Есть те, кто говорит о душе, об *атме*: «Она чудесна!», *а̄ш́чарйавач чаинам анйах̣ ш́р̣н̣оти*. Тот, кто рассказывает другим о душе, тоже поражен. Тот, кто слушает, поражен и тот, кто рассказывает о душе, поражен. Подобное явление существует реально. Такова моя природа. *Ш́рутва̄пй энам̇ веда на чаива каш́чит*: многие, даже услышав описание *атмы,* не в силах понять, не в силах найти никаких следов реального существования этого явления, тем не менее оно есть».
+«Есть те, кто говорит о душе, об *атме*: «Она чудесна!», *а̄ш́чарйавач чаинам анйах̣ ш́р̣н̣оти*. Тот, кто рассказывает другим о душе, тоже поражен. Тот, кто слушает, поражен и тот, кто рассказывает о душе, поражен. Подобное явление существует реально. Такова моя природа. *Ш́рутва̄пй энам̇ веда на чаива каш́чит*: многие, даже услышав описание *атмы*, не в силах понять, не в силах найти никаких следов реального существования этого явления, тем не менее оно есть».
 
 *#00:17:17#*
 

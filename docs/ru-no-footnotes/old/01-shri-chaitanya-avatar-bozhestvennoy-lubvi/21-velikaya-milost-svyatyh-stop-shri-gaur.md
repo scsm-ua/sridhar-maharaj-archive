@@ -1,20 +1,28 @@
 ---
 slug: 21-velikaya-milost-svyatyh-stop-shri-gaur
+record_id: 1982.01.24.B1
+title: Великая милость святых стоп Шри Гауранги
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16977407
+  duration: 00:41:15
+  src: /wp-content/uploads/2012/08/021_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
+date: 1982-01-24
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/021_1982.01.24.B1_SridharMj_Velikaya_milist_svyatyh_stop_Gaurangi.mp3
     title: Скачать аудиозапись в mp3 (41 мин 15 сек, размер 17 Мб)
+legacy:
+  title: 21. Великая милость святых стоп Шри Гауранги. 1982.01.24.B1
+  index: "21"
+  filename: 21-velikaya-milost-svyatyh-stop-shri-gaur.md
 ---
-
-# 21. Великая милость святых стоп Шри Гауранги. 1982.01.24.B1
 
 *#00:00:00#*
 

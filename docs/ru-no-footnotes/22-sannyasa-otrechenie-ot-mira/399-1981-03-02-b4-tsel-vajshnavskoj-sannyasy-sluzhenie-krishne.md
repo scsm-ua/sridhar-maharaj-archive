@@ -1,14 +1,20 @@
 ---
-slug: 399-1981-03-02-b4-tsel-vajshnavskoj-sannyasy-sluzhenie-krishne
+slug: 1981-03-02-b4_tsel_vayshnavskoy_sannyasy_sluzhenie_krishne
+record_id: 1981.03.02.B4
+title: Цель вайшнавской санньясы — служение Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3626140
+  duration: 00:05:22
+  src: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
+date: 1981-03-02
 category:
   title: 22. Санньяса — отречение от мира
   slug: 22-sannyasa-otrechenie-ot-mira
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.mp3
     title: аудиозапись в MP3 (5 мин. 21 сек., 3,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (66 КБ)
   - href: /dl/22._Sannyasa--otrechenie_ot_mira/399_1981.03.02.B4_SridharMj_Cel_vaishnavskoy_sannyasy-sluzheniye_Krishne.pdf
     title: транскрипцию в PDF (126 КБ)
+legacy:
+  title: 399. 1981.03.02.B4. Цель вайшнавской санньясы — служение Кришне
+  index: "399"
+  filename: 399-1981-03-02-b4-tsel-vajshnavskoj-sannyasy-sluzhenie-krishne.md
+  slug: 399-1981-03-02-b4-tsel-vajshnavskoj-sannyasy-sluzhenie-krishne
 ---
-
-# 399. 1981.03.02.B4. Цель вайшнавской санньясы — служение Кришне
 
 **Шрила Шридхар Махарадж:** Ты примешь *анукалпу* здесь? [*Анукалпа* — малое количество пищи].
 

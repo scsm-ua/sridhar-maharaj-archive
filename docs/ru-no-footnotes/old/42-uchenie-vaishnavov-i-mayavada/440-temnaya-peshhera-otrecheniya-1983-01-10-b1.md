@@ -1,20 +1,28 @@
 ---
 slug: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1
+record_id: 1983.01.10.B1
+title: Темная пещера отречения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11884399
+  duration: 00:24:34
+  src: /wp-content/uploads/2012/08/440_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
+date: 1983-01-10
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Майавада
     slug: majavada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/440_1983.01.10.B1_SridharMj_Temnaya_pewera_otrecheniya.mp3
     title: Скачать аудиозапись в mp3 (24 мин 34 сек, размер 11 Мб)
+legacy:
+  title: 440. Темная пещера отречения. 1983.01.10.B1
+  index: "440"
+  filename: 440-temnaya-peshhera-otrecheniya-1983-01-10-b1.md
 ---
-
-# 440. Темная пещера отречения. 1983.01.10.B1
 
 *#00:00:00#*
 

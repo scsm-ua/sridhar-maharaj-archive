@@ -1,20 +1,28 @@
 ---
 slug: 53-krishna-tsel-vseh-zhertvoprinoshenij-1981-02-2
+record_id: 1981.02.28.C4
+title: Кришна — цель всех жертвоприношений
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5941551
+  duration: 00:09:46
+  src: /wp-content/uploads/2012/08/053_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
+date: 1981-02-28
 category:
   title: (04. Шри Кришна, Прекрасная Реальность)
   slug: 04-sri-krishna-prekrasnaya-realnost
 tags:
-  - title: "1981.02"
-    slug: 1981-02
   - title: Кришна
     slug: krishna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/053_1981.02.28.C4_SridharMj_Krishna-cel_vseh_jertvoprinosheniy.mp3
     title: Скачать аудиозапись в mp3 (9 мин 46 сек, размер 5 Мб)
+legacy:
+  title: 53. Кришна — цель всех жертвоприношений. 1981.02.28.C4
+  index: "53"
+  filename: 53-krishna-tsel-vseh-zhertvoprinoshenij-1981-02-2.md
 ---
-
-# 53. Кришна — цель всех жертвоприношений. 1981.02.28.C4
 
 **Преданный:** В четвертой главе «Бхагавад-гиты» есть один стих. Я не помню санскрит. Перевод такой: «Те, кто совершают ягью с пониманием ее смысла, ее значения…» Вы помните эту шлоку?
 

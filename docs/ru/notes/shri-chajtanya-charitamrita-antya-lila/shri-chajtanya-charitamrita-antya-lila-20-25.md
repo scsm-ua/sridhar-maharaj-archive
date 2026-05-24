@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-20-25
 refs:
   - ../../40-bog-i-bogi/691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.25
     slug: shri-chajtanya-charitamrita-antya-lila-20-25
 ---

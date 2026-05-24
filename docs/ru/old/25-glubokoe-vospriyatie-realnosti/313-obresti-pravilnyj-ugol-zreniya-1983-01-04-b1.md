@@ -1,20 +1,28 @@
 ---
 slug: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1
+record_id: 1983.01.04.B1
+title: Обрести правильный угол зрения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10778903
+  duration: 00:21:39
+  src: /wp-content/uploads/2012/08/313_1983.01.04.B1_SridharMj_Obresti_pravilniy_ugol_zreniya.mp3
+date: 1983-01-04
 category:
   title: (25. Глубокое восприятие реальности)
   slug: 25-glubokoe-vospriyatie-realnosti
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Гармония
     slug: garmoniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/313_1983.01.04.B1_SridharMj_Obresti_pravilniy_ugol_zreniya.mp3
     title: Скачать аудиозапись в mp3 (21 мин 39 сек, размер 10 Мб)
+legacy:
+  title: 313. Обрести правильный угол зрения. 1983.01.04.B1
+  index: "313"
+  filename: 313-obresti-pravilnyj-ugol-zreniya-1983-01-04-b1.md
 ---
-
-# 313. Обрести правильный угол зрения. 1983.01.04.B1
 
 *#00:00:00#*
 

@@ -1,14 +1,20 @@
 ---
-slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
+slug: 1982-04-18-a2_molitva_raghupati_upadhyai_ukazyvaet_na_velichie_propovedi_mahaprabhu
+record_id: 1982.04.18.A2
+title: Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9268130
+  duration: 00:08:08
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
+date: 1982-04-18
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.mp3
     title: аудиозапись в MP3 (8 мин. 7 сек., 8,9 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/116_1982.04.18.A2_SridharMj_Molitva_Raghupati_Upadhjai_ukazyvaet_na_velichie_propovedi_Mahaprabhu.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 116. 1982.04.18.A2. Молитва Рагхупати Упадхьяи указывает на величие
+    проповеди Махапрабху
+  index: "116"
+  filename: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu.md
+  slug: 116-1982-04-18-a2-molitva-raghupati-upadhyai-ukazyvaet-na-velichie-propovedi-mahaprabhu
 ---
-
-# 116. 1982.04.18.A2. Молитва Рагхупати Упадхьяи указывает на величие проповеди Махапрабху
 
     кам̇ прати катхайитум ӣш́е сампрати ко ва̄ пратӣтим а̄йа̄ту
     го-пати-танайа̄-кун̃дже гопа-вадхӯт̣ӣ-вит̣ам̇ брахма
@@ -64,7 +74,7 @@ links:
 
 *#00:06:26#*
 
-Крайне трудно, крайне тяжело, настолько тяжело поверить в эти вещи, что Нарада и Вьяса (основатели этой школы) — они пришли для того, чтобы посмотреть, как Шукадев представит эти реалии в собрании ученых, как он представит такое явление как *паракия.* Бог — эксплуататор. И Ему это нравится очень, эксплуатация, Его эксплуатация того, что Ему принадлежит. Как Шукадев представит, изложит эту истину в собрании ученых?
+Крайне трудно, крайне тяжело, настолько тяжело поверить в эти вещи, что Нарада и Вьяса (основатели этой школы) — они пришли для того, чтобы посмотреть, как Шукадев представит эти реалии в собрании ученых, как он представит такое явление как *паракия*. Бог — эксплуататор. И Ему это нравится очень, эксплуатация, Его эксплуатация того, что Ему принадлежит. Как Шукадев представит, изложит эту истину в собрании ученых?
 
 *#00:07:09#*
 

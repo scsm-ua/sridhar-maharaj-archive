@@ -1,20 +1,28 @@
 ---
 slug: 1-predskazaniya-o-prihode-mahaprabhu-1983-04-16-b-2
+record_id: 1983.04.16.B2
+title: Предсказания о приходе Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7829912
+  duration: 00:16:01
+  src: /wp-content/uploads/2012/09/001_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prirode_Mahaprabhu.mp3
+date: 1983-04-16
 category:
   title: (01. Шри Чайтанья, аватар божественной любви)
   slug: 01-shri-chaitanya-avatar-bozhestvennoy-lubvi
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Махапрабху
     slug: mahaprabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/09/001_1983.04.16.B2.C_SridharMj_Predskazaniya_o_prirode_Mahaprabhu.mp3
     title: Скачать аудиозапись в mp3 (7 мин 1 сек, размер 7 Мб)
+legacy:
+  title: 1. Предсказания о приходе Махапрабху. 1983.04.16.B2
+  index: "1"
+  filename: 1-predskazaniya-o-prihode-mahaprabhu-1983-04-16-b-2.md
 ---
-
-# 1. Предсказания о приходе Махапрабху. 1983.04.16.B2
 
 **#00:00:00#** Вопрос о том, кто является инкарнацией, аватарой Кали-юги, Бхагаватам неожиданно начинает прославлять этого великого юга-аватара, утвердив, прежде кто, каковы характеристики этого юга-аватара. Хвала Бхагаватам, прославление этой великой аватары в Бхагаватам очень интенсивно. С великим пылом Бхагаватам прославляет эту великую личность, инкогнито.
 

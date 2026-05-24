@@ -1,24 +1,32 @@
 ---
 slug: 284-zhizn-rupy-sanatany-i-haridasa-thaku
+record_id: 1981.11.29.A2
+title: Жизнь Рупы, Санатаны и Харидаса Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10168309
+  duration: 00:20:51
+  src: /wp-content/uploads/2012/08/284_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
+date: 1981-11-29
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1981.11"
-    slug: 1981-11
   - title: Рупа Госвами
     slug: rupa-gosvami
   - title: Санатана Госвами
     slug: sanatana-gosvami
   - title: Харидас Тхакур
     slug: haridas-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/284_1981.11.29.A2_SridharMj_Jizn_Rupy_Sanatany_i_Haridasa_Thakura.mp3
     title: Скачать аудиозапись в mp3 (20 мин 51 сек, размер 10 Мб)
+legacy:
+  title: 284. Жизнь Рупы, Санатаны и Харидаса Тхакура. 1981.11.29.A2
+  index: "284"
+  filename: 284-zhizn-rupy-sanatany-i-haridasa-thaku.md
 ---
-
-# 284. Жизнь Рупы, Санатаны и Харидаса Тхакура. 1981.11.29.A2
 
 **Ученик:** Только что вы объяснили, как привести, индусов, хинду к высшей цели (Кришне), но что касается мусульман, мусульман мы ведь тоже хотим привести к этой высшей цели – к Кришне.
 

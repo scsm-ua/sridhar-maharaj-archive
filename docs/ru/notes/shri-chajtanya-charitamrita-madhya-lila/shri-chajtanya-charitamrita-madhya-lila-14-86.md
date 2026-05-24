@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-14-86
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/934-1982-01-30-a-b-odin-svyatoj-den-1982.md
-tags:
+  - ../../_full/1982/01/1982.01.30.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.86
     slug: shri-chajtanya-charitamrita-madhya-lila-14-86
 ---

@@ -1,14 +1,20 @@
 ---
-slug: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava
+slug: 1983-11-06-a1_individualnaya_lichnost_i_bogovdohnovennoe_nachalo_vayshnava
+record_id: 1983.11.06.A1
+title: «Индивидуальная личность» и «боговдохновенное начало» вайшнава
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6287369
+  duration: 00:05:22
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3
+date: 1983-11-06
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
 tags:
-  - title: "1983.11"
-    slug: 1983-11
   - title: Гуру
     slug: guru
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.mp3
     title: аудиозапись в MP3 (5 мин. 22 сек., 6,0 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/251_1983.11.06.A1_SridhaMj_Individualnaja_lichnost_i_bogovdohnovennoe_nachalo_vajshnava.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 251. 1983.11.06.A1. «Индивидуальная личность» и «боговдохновенное начало»
+    вайшнава
+  index: "251"
+  filename: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava.md
+  slug: 251-1983-11-06-a1-individualnaya-lichnost-i-bogovdohnovennoe-nachalo-vajshnava
 ---
-
-# 251. 1983.11.06.A1. «Индивидуальная личность» и «боговдохновенное начало» вайшнава
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Хари, Гаура-Хари.
 

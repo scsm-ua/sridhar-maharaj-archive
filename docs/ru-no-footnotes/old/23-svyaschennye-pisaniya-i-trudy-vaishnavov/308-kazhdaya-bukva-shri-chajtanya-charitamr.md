@@ -1,5 +1,13 @@
 ---
 slug: 308-kazhdaya-bukva-shri-chajtanya-charitamr
+title: Каждая буква «Шри Чайтанья-чаритамриты» священна. Мгновения прекрасной
+  реальности , часть 5.4.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1824672
+  duration: 00:03:43
+  src: /wp-content/uploads/2012/08/308_MgnoveniyaPR_5.4_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
 category:
   title: (23. Священные писания и труды вайшнавов)
   slug: 23-svyaschennye-pisaniya-i-trudy-vaishnavov
@@ -10,13 +18,15 @@ tags:
     slug: svyashhennye-pisaniya
   - title: Чайтанья-чаритамрита
     slug: chajtanya-charitamrita
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/308_MgnoveniyaPR_5.4_SridharMj_Kajdaya_bukva_Shri_Chaytanya-charitamrity_svyawenna.mp3
     title: Скачать аудиозапись в mp3 (3 мин 43 сек, размер 1 Мб)
+legacy:
+  title: 308. Каждая буква «Шри Чайтанья-чаритамриты» священна. Мгновения
+    прекрасной реальности , часть 5.4
+  index: "308"
+  filename: 308-kazhdaya-bukva-shri-chajtanya-charitamr.md
 ---
-
-# 308. Каждая буква «Шри Чайтанья-чаритамриты» священна. Мгновения прекрасной реальности , часть 5.4
 
 Прабхупад Гуру-Махарадж говорил что каждая буква Чайтанья-чаритамриты апракрита – состоит из высшей и лучшей субстанции. Ничто в этом писании не является менее ценным по сравнению с другими частями, все обладает одинаковой ценностью.
 

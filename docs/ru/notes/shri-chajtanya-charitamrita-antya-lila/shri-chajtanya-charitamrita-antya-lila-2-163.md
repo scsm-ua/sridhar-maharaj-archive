@@ -2,9 +2,10 @@
 slug: shri-chajtanya-charitamrita-antya-lila-2-163
 refs:
   - ../../58-sahajiya-voobrazhaemaya-predannost/885-1982-06-17-a-shkoly-sahadzhii-i-majavady-prizvany-izolirovat-zabluzhdayushhihsya-ot-vajshnavov.md
-tags:
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 2.163
     slug: shri-chajtanya-charitamrita-antya-lila-2-163
 ---

@@ -5,9 +5,13 @@ refs:
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/355-1981-08-30-s2-filosofskie-aspekty-sankirtany.md
   - ../../20-sankirtana-sovmestnoe-rasprostranenie-slavy-gospoda/357-1983-07-19-a2-kirtan-znachit-srazhenie-protiv-zabluzhdenij.md
   - ../../49-bhakti-velichie-predannosti-krishne/770-1982-05-10-b4-obyasnenie-shlok-opredelenij-chistoj-predannosti-narada-i-rupa-gosvami.md
-tags:
+  - ../../_full/1981/08/1981.08.30.B.md
+  - ../../_full/1981/09/1981.09.11.B.C.md
+  - ../../_full/1983/07/1983.07.19.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.128
     slug: shri-chajtanya-charitamrita-madhya-lila-22-128
 ---
@@ -19,6 +23,10 @@ tags:
 ---
 
 «Человек должен общаться с преданными, петь святое имя Господа, слушать „Шримад-Бхагаватам“, жить в Матхуре и поклоняться Божеству с верой и благоговением» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.128).
+
+---
+
+«Человек должен общаться с преданными, петь Святое Имя Господа, слушать „Шримад-Бхагаватам", жить в Матхуре и поклоняться Божеству с верой и благоговением» («Шри Чайтанья-чаритамрита», Мадхья-лила, 22.128).
 
 ---
 

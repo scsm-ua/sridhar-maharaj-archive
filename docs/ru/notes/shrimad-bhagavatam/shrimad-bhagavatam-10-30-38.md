@@ -2,9 +2,10 @@
 slug: shrimad-bhagavatam-10-30-38
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/470-1982-05-14-b6-pochemu-krishna-pokinul-radharani-sarasvati-thakur-i-bhaktivinod-thakur.md
-tags:
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 10.30.38
     slug: shrimad-bhagavatam-10-30-38
 ---

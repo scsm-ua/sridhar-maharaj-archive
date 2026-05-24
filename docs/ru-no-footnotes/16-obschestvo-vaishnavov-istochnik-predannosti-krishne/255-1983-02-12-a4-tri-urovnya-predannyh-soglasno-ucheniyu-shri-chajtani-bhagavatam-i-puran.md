@@ -1,14 +1,17 @@
 ---
-slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
+slug: 1983-02-12-a4_tri_urovnya_predannyh_soglasno_ucheniyu_shri_chaytani_bhagavatam_i_puran
+record_id: 1983.02.12.A4
+title: Три уровня преданных согласно учению Шри Чайтаньи, Бхагаватам и Пуран
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3778153
+  duration: 00:05:31
+  src: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
+date: 1983-02-12
 category:
   title: 16. Общество вайшнавов - источник преданности Кришне
   slug: 16-obschestvo-vaishnavov-istochnik-predannosti-krishne
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: 1983.02.12
-    slug: 1983-02-12
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.mp3
     title: аудиозапись в MP3 (5 мин. 30 сек., 3,7 МБ)
@@ -16,9 +19,13 @@ links:
     title: транскрипцию в RTF (97 КБ)
   - href: /dl/16._Obschestvo_vaishnavov--istochnik_predannosti_Krishne/255_1983.02.12.A4_SridharMj_Tri_urovnja_predannyh_soglasno_ucheniju_Shri_Chajtani_Bhagavatam_i_Puran.pdf
     title: транскрипцию в PDF (149 КБ)
+legacy:
+  title: 255. 1983.02.12.A4. Три уровня преданных согласно учению Шри Чайтаньи,
+    Бхагаватам и Пуран
+  index: "255"
+  filename: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran.md
+  slug: 255-1983-02-12-a4-tri-urovnya-predannyh-soglasno-ucheniyu-shri-chajtani-bhagavatam-i-puran
 ---
-
-# 255. 1983.02.12.A4. Три уровня преданных согласно учению Шри Чайтаньи, Бхагаватам и Пуран
 
 **Преданный:** Я не совсем понимаю, почему Свами Махарадж дал два разных ответа на один и тот же вопрос. Не могли бы вы объяснить?
 

@@ -1,16 +1,18 @@
 ---
-slug: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne
+slug: 1982-06-14-a1_gopi_pribegayut_k_pomoshchi_bogov_i_svyatyh_mest_isklyuchitelno_s_tselyu_sluzheniya_krishne
+record_id: 1982.06.14.A1
+title: Гопи прибегают к помощи богов и святых мест исключительно с целью
+  служения Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2578745
+  duration: 00:01:53
+  src: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3
+date: 1982-06-14
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.22.4
-    slug: shrimad-bhagavatam-10-22-4
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.mp3
     title: аудиозапись в MP3 (1 мин. 52 сек., 2,5 МБ)
@@ -18,9 +20,16 @@ links:
     title: транскрипцию в RTF (54 КБ)
   - href: /dl/40._Bog_i_bogi/687_1982.06.14.A1_SridharMj_Gopi_pribegajut_k_pomoshhi_bogov_i_svjatyh_mest_iskljuchitelno_s_celju_sluzhenija_Krishne.pdf
     title: транскрипцию в PDF (139 КБ)
+legacy:
+  title: 687. 1982.06.14.A1. Гопи прибегают к помощи богов и святых мест
+    исключительно с целью служения Кришне
+  index: "687"
+  filename: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne.md
+  slug: 687-1982-06-14-a1-gopi-pribegayut-k-pomoshhi-bogov-i-svyatyh-mest-isklyuchitelno-s-tselyu-sluzheniya-krishne
+tags:
+  - title: Шримад-Бхагаватам 10.22.4
+    slug: shrimad-bhagavatam-10-22-4
 ---
-
-# 687. 1982.06.14.A1. Гопи прибегают к помощи богов и святых мест исключительно с целью служения Кришне
 
 «Если она [Дурга] будет удовлетворена нами, тогда она исполнит наши желания, и мы обретем сына Нанды в качестве нашего возлюбленного». Такова их [*гопи*] молитва[^_ftn1]. Они уже занимают это положение, но все же, это *апракрита*, означает *пракрита-ват*, они живут в измерении *гьяна-шунья-бхакти*, они не сознают свое собственное положение. *Йога-майя* устраивает все таким образом: они считают себя совершенно беспомощными, заурядными человеческими существами, и даже стоящими ниже *варнашрамы*, считают себя простыми девушками, живущими в джунглях, в лесу — таково их понимание их собственного положения. Поэтому они поступают соответствующим образом: они прибегают к помощи богов и святых мест, но все это делается с единственной целью: все они хотят служения Кришне и только его. Это критерий.
 

@@ -1,12 +1,17 @@
 ---
-slug: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya
+slug: 1982-02-22-b1_po_vole_gospoda_dazhe_acharya_mozhet_zabluzhdatsya
+record_id: 1982.02.22.B1
+title: По воле Господа даже ачарья может заблуждаться
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3840136
+  duration: 00:06:40
+  src: /dl/17._Shri_Guru_i_ego_milost/297_1982.02.22.B1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
+date: 1982-02-22
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/297_1982.02.22.B1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.mp3
     title: аудиозапись в MP3 (6 мин. 39 сек., 3,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/297_1982.02.22.B1_SridharMj_Po_vole_Gospoda_daje_acharya_mojet_zablujdatsya.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 297. 1982.02.22.B1. По воле Господа даже ачарья может заблуждаться
+  index: "297"
+  filename: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya.md
+  slug: 297-1982-02-22-b1-po-vole-gospoda-dazhe-acharya-mozhet-zabluzhdatsya
 ---
-
-# 297. 1982.02.22.B1. По воле Господа даже ачарья может заблуждаться
 
 *«Мгновения Прекрасной Реальности», (часть 3.1)*
 
@@ -24,7 +32,7 @@ links:
 
 **Преданный:** Махарадж, вы сказали, что Мадхвачарья высказывал мнение о *гопи*, которое мы не принимаем. Мой вопрос таков: как может быть, что Мадхвачарья, столь великий *ачарья*, мог совершить такую ошибку?
 
-**Шрила Шридхар Махарадж:** Это верховная и независимая воля Господа. Есть *моха-брахма*. Вы слышали об этом? *Брахма-моха?*
+**Шрила Шридхар Махарадж:** Это верховная и независимая воля Господа. Есть *моха-брахма*. Вы слышали об этом? *Брахма-моха*?
 
 **Преданный:** *Брахма-вимохан-лила*.
 

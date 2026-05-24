@@ -1,5 +1,12 @@
 ---
 slug: 137-duh-sluzheniya-osnova-vospevaniya-svyat
+title: Дух служения — основа воспевания Святого Имени
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4979655
+  duration: 00:12:15
+  src: /wp-content/uploads/2012/08/137_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
 category:
   title: (10. Маха-мантра - Святое Имя)
   slug: 10-maha-mantra-svyatoe-imya
@@ -8,13 +15,14 @@ tags:
     slug: maha-mantra
   - title: Святое Имя
     slug: svyatoe-imya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/137_2012.07.25.4_SridharMj_Duh_slujeniya-osnova_vospevaniya_Svyatogo_Imeni.mp3
     title: Скачать аудиозапись в mp3 (12 мин 15 сек, размер 5 Мб)
+legacy:
+  title: 137. Дух служения — основа воспевания Святого Имени.
+  index: "137"
+  filename: 137-duh-sluzheniya-osnova-vospevaniya-svyat.md
 ---
-
-# 137. Дух служения — основа воспевания Святого Имени.
 
 **Преданный:** Если человек повторял только четыре круга в день, ваш Гуру Махарадж давал ему посвящение в харинам?
 

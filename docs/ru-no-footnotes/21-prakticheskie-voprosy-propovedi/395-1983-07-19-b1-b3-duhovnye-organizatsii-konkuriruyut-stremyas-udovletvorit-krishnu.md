@@ -1,14 +1,20 @@
 ---
-slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
+slug: 1983-07-19-b1-b3_duhovnye_organizatsii_konkuriruyut_stremyas_udovletvorit_krishnu
+record_id: 1983.07.19.B1.B3
+title: Духовные организации конкурируют, стремясь удовлетворить Кришну
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12376136
+  duration: 00:24:01
+  src: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
+date: 1983-07-19
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: 1983.07.19
-    slug: 1983-07-19
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
     title: аудиозапись в MP3 (24 мин. 01 сек., 5,6 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 395. 1983.07.19.B1.B3. Духовные организации конкурируют, стремясь
+    удовлетворить Кришну
+  index: "395"
+  filename: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu.md
+  slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
 ---
-
-# 395. 1983.07.19.B1.B3. Духовные организации конкурируют, стремясь удовлетворить Кришну
 
 **Преданный:** Махарадж, я вижу: чем более интенсивен человек становится в своей преданности Кришне, тем в большей степени он разочаровывается.
 

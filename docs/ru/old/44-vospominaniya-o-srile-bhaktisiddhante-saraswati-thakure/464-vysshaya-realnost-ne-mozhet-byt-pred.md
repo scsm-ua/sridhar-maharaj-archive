@@ -1,22 +1,30 @@
 ---
 slug: 464-vysshaya-realnost-ne-mozhet-byt-pred
+record_id: 1981.08.18.B3
+title: Высшая Реальность не может быть предметом опытов
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5079469
+  duration: 00:10:06
+  src: /wp-content/uploads/2012/08/464_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
+date: 1981-08-18
 category:
   title: (44. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре)
   slug: 44-vospominaniya-o-srile-bhaktisiddhante-saraswati-thakure
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/464_1981.08.18.B3_SridharMj_Vysshaya_Realnost_ne_mojet_byt_predmetom_opytov.mp3
     title: Скачать аудиозапись в mp3 (10 мин 6 сек, размер 5 Мб)
+legacy:
+  title: 464. Высшая Реальность не может быть предметом опытов. 1981.08.18.B3
+  index: "464"
+  filename: 464-vysshaya-realnost-ne-mozhet-byt-pred.md
 ---
-
-# 464. Высшая Реальность не может быть предметом опытов. 1981.08.18.B3
 
 У каждой энергии есть соответствующая функция? Да, и? Но мы должны помнить, ачинтья-бхед-абхед. Различные, но не полностью отделенные, изолированные друг от друга. Определенная зависимость от высшего начала. Да. Часть высшего начала и так же высшее начало приводит в гармонию низшие стадии. В относительном положении.
 

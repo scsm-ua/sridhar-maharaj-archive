@@ -1,30 +1,17 @@
 ---
-slug: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna
+slug: 1983-11-28-a2_chast_bezgranichnogo_takzhe_bezgranichna
+record_id: 1983.11.28.A2
+title: Часть Безграничного также безгранична
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7476485
+  duration: 00:06:49
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
+date: 1983-11-28
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
-    slug: shri-chajtanya-charitamrita-antya-lila-5-123
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
-  - title: Лагху-бхагаватамрита 1.5.342
-    slug: laghu-bhagavatamrita-1-5-342
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 10.42
-    slug: bhagavad-gita-10-42
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
-    slug: shri-chajtanya-charitamrita-antya-lila-15-19
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.mp3
     title: аудиозапись в MP3 (6 мин. 48 сек., 7,2 МБ)
@@ -32,9 +19,23 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/643_1983.11.28.A2_SridharMj_Chast_Bezgranichnogo_takzhe_bezgranichna.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 643. 1983.11.28.A2. Часть Безграничного также безгранична
+  index: "643"
+  filename: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna.md
+  slug: 643-1983-11-28-a2-chast-bezgranichnogo-takzhe-bezgranichna
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
+    slug: shri-chajtanya-charitamrita-antya-lila-5-123
+  - title: Лагху-бхагаватамрита 1.5.342
+    slug: laghu-bhagavatamrita-1-5-342
+  - title: Бхагавад-гита 10.42
+    slug: bhagavad-gita-10-42
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 15.19
+    slug: shri-chajtanya-charitamrita-antya-lila-15-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.49
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-49
 ---
-
-# 643. 1983.11.28.A2. Часть Безграничного также безгранична
 
 Имя Кришны есть Сам Кришна, Кришна-*катха* — это Сам Кришна.
 

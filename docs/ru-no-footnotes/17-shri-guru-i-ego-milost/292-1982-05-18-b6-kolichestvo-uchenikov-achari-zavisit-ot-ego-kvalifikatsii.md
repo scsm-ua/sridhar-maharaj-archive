@@ -1,12 +1,17 @@
 ---
-slug: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii
+slug: 1982-05-18-b6_kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikatsii
+record_id: 1982.05.18.B6
+title: Количество учеников ачарьи зависит от его квалификации
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3073536
+  duration: 00:01:49
+  src: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.mp3
+date: 1982-05-18
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.mp3
     title: аудиозапись в MP3 (1 мин. 48 сек., 3,0 МБ)
@@ -14,15 +19,18 @@ links:
     title: транскрипцию в RTF (42 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/292_1982.05.18.B6_SridharMj_Kolichestvo_uchenikov_achari_zavisit_ot_ego_kvalifikacii.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 292. 1982.05.18.B6. Количество учеников ачарьи зависит от его квалификации
+  index: "292"
+  filename: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii.md
+  slug: 292-1982-05-18-b6-kolichestvo-uchenikov-achari-zavisit-ot-ego-kvalifikatsii
 ---
-
-# 292. 1982.05.18.B6. Количество учеников ачарьи зависит от его квалификации
 
 **Преданный:** Как нам понять? Чайтанья Махапрабху советовал *Ачарьям* в *Кали-югу* не принимать многих учеников.
 
 **Шрила Шридхар Махарадж:** Это зависит от способности человека. «Многих» означает «насколько большую армию может возглавлять генерал зависит от способностей генерала».
 
-Наш Прабхупад говорил: «Один человек способен управлять империей и находить время для отдыха. Другой же не в состоянии управляться семьей, состоящей из шести человек, и у него не находится ни минуты свободного времени. [Санскрит.] Зависит от человека, от качеств *Ачарьи.*
+Наш Прабхупад говорил: «Один человек способен управлять империей и находить время для отдыха. Другой же не в состоянии управляться семьей, состоящей из шести человек, и у него не находится ни минуты свободного времени. [Санскрит.] Зависит от человека, от качеств *Ачарьи*.
 
 *#00:01:07#*
 

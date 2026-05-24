@@ -1,22 +1,30 @@
 ---
 slug: 485-vojny-i-stihijnye-bedstviya-kak-mater
+record_id: 1982.01.27.A5.B1
+title: Войны и стихийные бедствия как материал для проповеди
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9706308
+  duration: 00:19:02
+  src: /wp-content/uploads/2012/08/485_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
+date: 1982-01-27
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/485_1982.01.27.A5.B1_SridhaMj_Voyny_i_stihiynye_bedstviya_kak_material_dlya_propovedi.mp3
     title: Скачать аудиозапись в mp3 (19 мин 2 сек, размер 9 Мб)
+legacy:
+  title: 485. Войны и стихийные бедствия как материал для проповеди. 1982.01.27.A5.B1
+  index: "485"
+  filename: 485-vojny-i-stihijnye-bedstviya-kak-mater.md
 ---
-
-# 485. Войны и стихийные бедствия как материал для проповеди. 1982.01.27.A5.B1
 
 **Ученик:** У Сатьянанды Прабху есть вопрос…
 

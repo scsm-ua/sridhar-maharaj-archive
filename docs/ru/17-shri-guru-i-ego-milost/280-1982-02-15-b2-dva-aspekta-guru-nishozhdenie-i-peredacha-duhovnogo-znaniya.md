@@ -1,32 +1,17 @@
 ---
-slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+slug: 1982-02-15-b2_dva_aspekta_guru_nishozhdenie_i_peredacha_duhovnogo_znaniya
+record_id: 1982.02.15.B2
+title: Два аспекта гуру. Нисхождение и передача духовного знания.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 11966777
+  duration: 00:11:05
+  src: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
+date: 1982-02-15
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 4.34
-    slug: bhagavad-gita-4-34
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
-    slug: shri-chajtanya-charitamrita-antya-lila-5-131
-  - title: Чхандогья-упанишад
-    slug: chhandogya-upanishad
-  - title: Чхандогья-упанишад 6.14.2
-    slug: chhandogya-upanishad-6-14-2
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-  - title: Бхагавад-гита 4.7
-    slug: bhagavad-gita-4-7
-  - title: Бхагавад-гита 4.1–2
-    slug: bhagavad-gita-4-1-2
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.mp3
     title: аудиозапись в MP3 (11 мин. 07 сек., 11,5 МБ)
@@ -34,9 +19,27 @@ links:
     title: транскрипцию в DOCX (25 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/280_1982.02.15.B2_SridharMj_Dva_aspekta_guru__Nishozhdenie_i_peredacha_duhovnogo_znanija.pdf
     title: транскрипцию в PDF (156 КБ)
+legacy:
+  title: 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
+  index: "280"
+  filename: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya.md
+  slug: 280-1982-02-15-b2-dva-aspekta-guru-nishozhdenie-i-peredacha-duhovnogo-znaniya
+tags:
+  - title: Бхагавад-гита 4.34
+    slug: bhagavad-gita-4-34
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.131
+    slug: shri-chajtanya-charitamrita-antya-lila-5-131
+  - title: Чхандогья-упанишад 6.14.2
+    slug: chhandogya-upanishad-6-14-2
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
+  - title: Бхагавад-гита 4.7
+    slug: bhagavad-gita-4-7
+  - title: Бхагавад-гита 4.1–2
+    slug: bhagavad-gita-4-1-2
 ---
-
-# 280. 1982.02.15.B2. Два аспекта гуру. Нисхождение и передача духовного знания
 
 **Шрила Госвами Махарадж:** Духовный учитель иногда зовется *ашрая-виграха*.
 

@@ -1,22 +1,24 @@
 ---
-slug: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany
+slug: 1983-02-18-b3_kultivirovanie_duhovnogo_zvuka_prevyshe_archany
+record_id: 1983.02.18.B3
+title: Культивирование духовного звука превыше арчаны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7998308
+  duration: 00:23:29
+  src: /dl/52._O_poklonenii_Bozhestvam/812_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3
+date: 1983-02-18
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Арчана
     slug: archana
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 15.237
     slug: shri-chajtanya-charitamrita-madhya-lila-15-237
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.6.46
     slug: shrimad-bhagavatam-11-6-46
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/812_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.mp3
     title: аудиозапись в MP3 (14 мин. 40 сек., 7,7 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (126 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/812_1983.02.18.B3_SridharMj_Kultivirovanie_duhovnogo_zvuka_prevyshe_archany.pdf
     title: транскрипцию в PDF (154 КБ)
+legacy:
+  title: 812. 1983.02.18.B3. Культивирование духовного звука превыше арчаны
+  index: "812"
+  filename: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany.md
+  slug: 812-1983-02-18-b3-kultivirovanie-duhovnogo-zvuka-prevyshe-archany
 ---
-
-# 812. 1983.02.18.B3. Культивирование духовного звука превыше арчаны
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол.
 

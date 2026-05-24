@@ -1,14 +1,20 @@
 ---
-slug: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat
+slug: 1983-03-30-b3-2_konflikt_eto_nizkiy_uroven_kotoryy_nuzhno_staratsya_ignorirovat
+record_id: 1983.03.30.B3.2
+title: Конфликт – это низкий уровень, который нужно стараться игнорировать
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4020309
+  duration: 00:06:12
+  src: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.mp3
+date: 1983-03-30
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Проповедь
     slug: propoved
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.mp3
     title: аудиозапись в MP3 (6 мин. 11 сек., 3,9 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/389_1983.03.30.B3.2_SridharMj_Konflikt_jeto_nizkij_uroven_kotoryj_nuzhno_staratsja_ignorirovat.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 389. 1983.03.30.B3.2. Конфликт – это низкий уровень, который нужно
+    стараться игнорировать
+  index: "389"
+  filename: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat.md
+  slug: 389-1983-03-30-b3-2-konflikt-eto-nizkij-uroven-kotoryj-nuzhno-staratsya-ignorirovat
 ---
-
-# 389. 1983.03.30.B3.2. Конфликт – это низкий уровень, который нужно стараться игнорировать
 
 **Преданный:** За несколько последних месяцев наша проповедническая зона расширилась очень значительно, очень успешно.
 

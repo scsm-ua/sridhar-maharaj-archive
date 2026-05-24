@@ -1,14 +1,20 @@
 ---
-slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
+slug: 1983-04-15-b_molitva_o_spasenii_to_v_chem_my_nuzhdaemsya
+record_id: 1983.04.15.B
+title: Молитва о спасении – то, в чем мы нуждаемся
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2194474
+  duration: 00:03:23
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3
+date: 1983-04-15
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.mp3
     title: аудиозапись в MP3 (3 мин. 22 сек., 2,1 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (71 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/825_1983.04.15.B_SridharMj_Molitva_o_spasenii_to_v_chem_my_nuzhdaemsja.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 825. 1983.04.15.B. Молитва о спасении – то, в чем мы нуждаемся
+  index: "825"
+  filename: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya.md
+  slug: 825-1983-04-15-b-molitva-o-spasenii-to-v-chem-my-nuzhdaemsya
 ---
-
-# 825. 1983.04.15.B. Молитва о спасении – то, в чем мы нуждаемся
 
 [Гаура-Харибол, Гаура-Харибол]
 

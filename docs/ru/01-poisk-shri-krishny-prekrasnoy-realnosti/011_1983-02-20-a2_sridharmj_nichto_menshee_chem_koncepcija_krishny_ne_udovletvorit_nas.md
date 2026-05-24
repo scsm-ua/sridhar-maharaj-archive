@@ -1,21 +1,36 @@
 ---
-slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
+slug: 1983-02-20-a2_nichto_menshee_chem_kontseptsiya_krishny_ne_udovletvorit_nas
+record_id: 1983.02.20.A2
+title: Ничто меньшее, чем концепция Кришны не удовлетворит нас
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5805193
+  duration: 00:11:23
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
+date: 1983-02-20
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
+links:
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
+    title: аудиозапись в MP3 (11 мин. 22 сек., 5.5 МБ)
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.rtf
+    title: транскрипцию в RTF (139 КБ)
+  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.pdf
+    title: транскрипцию в PDF (158 КБ)
+legacy:
+  title: 011. 1983.02.20.A2 Ничто меньшее, чем концепция Кришны не удовлетворит нас
+  index: "011"
+  filename: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas.md
+  slug: 011_1983-02-20-a2_sridharmj_nichto_menshee_chem_koncepcija_krishny_ne_udovletvorit_nas
 tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
     slug: shri-chajtanya-charitamrita-madhya-lila-8-63
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.265
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
   - title: Бхагавад-гита 6.40
@@ -26,17 +41,7 @@ tags:
     slug: bhagavad-gita-6-30
   - title: Бхагавад-гита 5.29
     slug: bhagavad-gita-5-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.mp3
-    title: аудиозапись в MP3 (11 мин. 22 сек., 5.5 МБ)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.rtf
-    title: транскрипцию в RTF (139 КБ)
-  - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/011_1983.02.20.A2_SridharMj_Nichto_menshee_chem_koncepcija_Krishny_ne_udovletvorit_nas.pdf
-    title: транскрипцию в PDF (158 КБ)
 ---
-
-# 011. 1983.02.20.A2 Ничто меньшее, чем концепция Кришны не удовлетворит нас
 
 Форма и идеал. «Вы — разрушитель форм», — сказал мне Ачьютананда. Вы тоже разрушители форм, вы уже оставили некоторые формальности, традиции, в которых вы были воспитаны: христианство ли, ислам ли, иудаизм. Вы оставили эти традиции и пришли сюда. Почему, почему вы разрушили эту форму и пришли к стопам Свами Махараджа? Ради идеала. Если форма способна поддерживать, помогать достижению подлинного идеала, она приемлема. До тех пор, пока форма служит высшему идеалу, до этой степени и в этой мере приемлема. Мы не являемся поклонниками формы. Мы являемся поклонниками идеала.
 
@@ -72,7 +77,7 @@ links:
     тасйа̄хам̇ на пран̣аш́йа̄ми са ча ме на пран̣аш́йати
 [^_ftn4]
 
-«К тому, кто хочет увидеть Меня повсюду, пытается видеть Меня повсюду, Я всегда иду навстречу. В конечном счете он увидит Меня повсюду, в этой жизни или следующей он обязательно будет со Мной, в Моем прямом сознании, непосредственно, в непосредственном сознании. Меня следует искать», — говорит Он. *Кр̣ш̣н̣а-анусандха̄на.*
+«К тому, кто хочет увидеть Меня повсюду, пытается видеть Меня повсюду, Я всегда иду навстречу. В конечном счете он увидит Меня повсюду, в этой жизни или следующей он обязательно будет со Мной, в Моем прямом сознании, непосредственно, в непосредственном сознании. Меня следует искать», — говорит Он. *Кр̣ш̣н̣а-анусандха̄на*.
 
 *#00:06:09#*
 
@@ -96,7 +101,7 @@ links:
 
 *#00:10:17#*
 
-*«Сухр̣дам̇ сарва-бхӯта̄на̄м̇*[^_ftn6] — Я контролирую все сущее, но Я — Друг всем и каждому». Поэтому когда мы осознаем этот факт, тогда только мы избавимся от всяческих тревог, беспокойств. Это Его промысел. Он устраивает все. Он — мой Хранитель, мой Опекун, поэтому нет места для тревог. Только такой человек способен найти подлинное умиротворение, мир.
+«*Сухр̣дам̇ сарва-бхӯта̄на̄м̇*[^_ftn6] — Я контролирую все сущее, но Я — Друг всем и каждому». Поэтому когда мы осознаем этот факт, тогда только мы избавимся от всяческих тревог, беспокойств. Это Его промысел. Он устраивает все. Он — мой Хранитель, мой Опекун, поэтому нет места для тревог. Только такой человек способен найти подлинное умиротворение, мир.
 
 
 

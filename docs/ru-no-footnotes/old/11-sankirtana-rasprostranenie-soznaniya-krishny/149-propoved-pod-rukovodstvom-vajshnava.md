@@ -1,22 +1,31 @@
 ---
 slug: 149-propoved-pod-rukovodstvom-vajshnava
+record_id: 1981.03.02.B5
+title: Проповедь под руководством вайшнава — основная цель Гаудия-матха
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7011431
+  duration: 00:14:28
+  src: /wp-content/uploads/2012/08/149_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
+date: 1981-03-02
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/149_1981.03.02.B5_SridharMj_Propoved_pod_rukovodstvom_vaishnava-osnovnaya_cel_Gaudiya-matha.mp3
     title: Скачать аудиозапись в mp3 (14 мин 28 сек, размер 7 Мб)
+legacy:
+  title: 149. Проповедь под руководством вайшнава — основная цель Гаудия-матха.
+    1981.03.02.B5
+  index: "149"
+  filename: 149-propoved-pod-rukovodstvom-vajshnava.md
 ---
-
-# 149. Проповедь под руководством вайшнава — основная цель Гаудия-матха. 1981.03.02.B5
 
 **Госвами Махарадж:** Когда наш Гуру Махарадж во время *дикши* просил следовать четырем принципам: отсутствие незаконного секса, отсутствие интоксикаций, запрет на мясоедение и запрет играть в азартные игры. Он также просил нас повторять шестнадцать кругов. Во время посвящения в Гаудия Матхе, во времена Шрилы Бхактисиддханты, о чем он просил своих учеников?
 

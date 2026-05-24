@@ -1,12 +1,17 @@
 ---
-slug: 414-1983-07-08-a3-b1-rasshirennyj-egoizm-ili-bogotsentrizm
+slug: 1983-07-08-a3-b1_rasshirennyy_egoizm_ili_bogotsentrizm
+record_id: 1983.07.08.A3.B1
+title: Расширенный эгоизм или богоцентризм
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6804679
+  duration: 00:12:31
+  src: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
+date: 1983-07-08
 category:
   title: 24. Деятельность в связи с Абсолютным Центром
   slug: 24-deyatelnost-v-svyazi-s-absolyutnym-centrom
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.mp3
     title: аудиозапись в MP3 (12 мин. 30 сек., 6,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (152 КБ)
   - href: /dl/24._Deyatelnost_v_svyazi_s_Absolyutnym_Centrom/414_1983.07.08.A3.B1_SridharMj_Rasshirenniy_egoizm_i_bogocentrizm.pdf
     title: транскрипцию в PDF (165 КБ)
+legacy:
+  title: 414. 1983.07.08.A3.B1. Расширенный эгоизм или богоцентризм
+  index: "414"
+  filename: 414-1983-07-08-a3-b1-rasshirennyj-egoizm-ili-bogotsentrizm.md
+  slug: 414-1983-07-08-a3-b1-rasshirennyj-egoizm-ili-bogotsentrizm
 ---
-
-# 414. 1983.07.08.A3.B1. Расширенный эгоизм или богоцентризм
 
 Гегель сказал: «Реальность должна быть Сама по Себе и для Себя». Сама по Себе — потому что Он причина Самого Себя. Если кто-то является причиной этого «нечто», тогда это «нечто» не может быть Реальностью. Реальность должна быть самосущей. А другая характеристика — Реальность для Себя: Он существует ради Своего Собственного удовлетворения, не ради удовлетворения кого-то еще. Если Его существование призвано удовлетворять кого-то другого, тогда Он не занимает первостепенное, абсолютное положение. Если Он существует для удовлетворения кого-то еще, Он не может быть Абсолютом, поэтому Реальность должна быть для Себя, не может не быть для Себя. Все предназначено для Него.
 

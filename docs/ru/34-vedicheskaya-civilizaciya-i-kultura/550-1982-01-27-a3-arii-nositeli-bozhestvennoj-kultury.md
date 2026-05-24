@@ -1,14 +1,20 @@
 ---
-slug: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury
+slug: 1982-01-27-a3_arii_nositeli_bozhestvennoy_kultury
+record_id: 1982.01.27.A3
+title: Арии — носители божественной культуры
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2901682
+  duration: 00:04:40
+  src: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
+date: 1982-01-27
 category:
   title: 34. Ведическая цивилизация и культура
   slug: 34-vedicheskaya-civilizaciya-i-kultura
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Ведическая цивилизация
     slug: vedicheskaya-tsivilizatsiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.mp3
     title: аудиозапись в MP3 (4 мин. 39 сек., 2,8 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/34._Vedicheskaya_civilizaciya_i_kultura/550_1982.01.27.A3_SridharMj_Arii_nositeli_bojestvennoy_kultury.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 550. 1982.01.27.A3. Арии — носители божественной культуры
+  index: "550"
+  filename: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury.md
+  slug: 550-1982-01-27-a3-arii-nositeli-bozhestvennoj-kultury
 ---
-
-# 550. 1982.01.27.A3. Арии — носители божественной культуры
 
 **Шрила Шридхар Махарадж:** [Гаурасундар, Гаура-Хари, Гаура-Хари, Нитай-Гаура Харибол, Нитай-Гаура Харибол.]
 

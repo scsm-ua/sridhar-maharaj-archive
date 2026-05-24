@@ -1,12 +1,17 @@
 ---
-slug: 902-1983-11-22-a3-tri-klassa-ateistov-charvak-budda-shankara
+slug: 1983-11-22-a3_tri_klassa_ateistov_charvak_budda_shankara
+record_id: 1983.11.22.A3
+title: "Три класса атеистов: Чарвак, Будда, Шанкара"
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3598639
+  duration: 00:03:38
+  src: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.mp3
+date: 1983-11-22
 category:
   title: 59. Учение вайшнавов, майавада и буддизм
   slug: 59-uchenie-vaishnavov-mayavada-i-buddizm
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.mp3
     title: аудиозапись в MP3 (3 мин. 38 сек., 3,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (55 КБ)
   - href: /dl/59._Uchenie_vaishnavov,_mayavada_i_buddizm/902_1983.11.22.A3_SridharMj_Tri_klassa_ateistov_Charvak_Budda_Shankara.pdf
     title: транскрипцию в PDF (117 КБ)
+legacy:
+  title: "902. 1983.11.22.A3. Три класса атеистов: Чарвак, Будда, Шанкара"
+  index: "902"
+  filename: 902-1983-11-22-a3-tri-klassa-ateistov-charvak-budda-shankara.md
+  slug: 902-1983-11-22-a3-tri-klassa-ateistov-charvak-budda-shankara
 ---
-
-# 902. 1983.11.22.A3. Три класса атеистов: Чарвак, Будда, Шанкара
 
 Чарвак считает, что с растворением, уничтожением тела ничего не остается. Это атеизм низшего типа (или высшего типа — можно сказать и так). Буддисты — это умеренные материалисты, они говорят: благодаря тонкой комбинации различных элементов возникает ум, и согласно карме, влечениям, намерениям, ум получает физическое тело. Они верят в перерождение ума. Ум получает множество тел в физическом мире согласно карме. А с растворением тела существование продолжается, ментальная система остается. Чарвак же считает, что грубое тело — это все и вся: с уничтожением грубого тела всему приходит конец.
 

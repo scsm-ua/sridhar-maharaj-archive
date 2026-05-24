@@ -1,12 +1,17 @@
 ---
-slug: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara
+slug: 1982-02-18-b4_chto_znachit_rupanuga-dhara
+record_id: 1982.02.18.B4
+title: Что значит «рупануга-дхара»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1495040
+  duration: 00:01:52
+  src: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3
+date: 1982-02-18
 category:
   title: 26. Рупануга-сампрадая
   slug: 26-rupanuga-sampradaya
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.mp3
     title: аудиозапись в MP3 (1 мин. 51 сек., 1,5 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (46 КБ)
   - href: /dl/26._Rupanuga-sampradaya/460_1982.02.18.B4_SridharMj_Chto_znachit_rupanuga-dhara.pdf
     title: транскрипцию в PDF (115 КБ)
+legacy:
+  title: 460. 1982.02.18.B4. Что значит «рупануга-дхара»
+  index: "460"
+  filename: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara.md
+  slug: 460-1982-02-18-b4-chto-znachit-rupanuga-dhara
 ---
-
-# 460. 1982.02.18.B4. Что значит «рупануга-дхара»
 
 «Онтология Прекрасной Реальности» (часть 1.9)
 

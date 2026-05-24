@@ -1,20 +1,28 @@
 ---
 slug: 380-o-vospriyatii-i-razlichnyh-formah-bozhe
+record_id: 1982.02.17.A2
+title: О восприятии и различных формах Божеств
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2770850
+  duration: 00:05:26
+  src: /wp-content/uploads/2012/08/380_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
+date: 1982-02-17
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Божество
     slug: bozhestvo
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/380_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
     title: Скачать аудиозапись в mp3 (5 мин 26 сек, размер 2 Мб)
+legacy:
+  title: 380. О восприятии и различных формах Божеств. 1982.02.17.A2
+  index: "380"
+  filename: 380-o-vospriyatii-i-razlichnyh-formah-bozhe.md
 ---
-
-# 380. О восприятии и различных формах Божеств. 1982.02.17.A2
 
 Когда Махапрабху смотрит на Шри Мурти Джаганнатха Дева, может показаться, что Его взгляд сосредоточен на том, что мы воспринимаем как этот внешний образ, непосредственный образ Божества. Нашему видению предстает лишь это изваяние из дерева, и Махапрабху сосредотачивает Свой взгляд на этом изваянии. Но Он рыдает. Он плачет. Слезы непрестанно, сильным потоком льются из Его глаз.
 

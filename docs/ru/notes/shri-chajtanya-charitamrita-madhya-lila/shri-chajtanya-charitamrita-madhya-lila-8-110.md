@@ -2,9 +2,11 @@
 slug: shri-chajtanya-charitamrita-madhya-lila-8-110
 refs:
   - ../../27-sluzhenie-stopam-srimati-radharani/466-1982-05-18-a2-zhertvennost-shrimati-radharani-ne-imeet-sebe-ravnyh.md
-tags:
+  - ../../_full/1982/05/1982.05.18.A.B.C1.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
     slug: shri-chajtanya-charitamrita-madhya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.110
     slug: shri-chajtanya-charitamrita-madhya-lila-8-110
 ---

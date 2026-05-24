@@ -1,12 +1,17 @@
 ---
-slug: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev
+slug: 1982-04-16-b5_sinteticheskiy_i_analiticheskiy_metody_v_nasledii_acharev
+record_id: 1982.04.16.B5
+title: Синтетический и аналитический методы в наследии ачарьев
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3171577
+  duration: 00:02:41
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1011_1982.04.16.B5_SridharMj_Sinteticheskij_i_analiticheskij_metody_v_nasledii_acharev.mp3
+date: 1982-04-16
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1011_1982.04.16.B5_SridharMj_Sinteticheskij_i_analiticheskij_metody_v_nasledii_acharev.mp3
     title: аудиозапись в MP3 (2 мин. 40 сек., 3,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1011_1982.04.16.B5_SridharMj_Sinteticheskij_i_analiticheskij_metody_v_nasledii_acharev.pdf
     title: транскрипцию в PDF (116 КБ)
+legacy:
+  title: 1011. 1982.04.16.B5. Синтетический и аналитический методы в наследии ачарьев
+  index: "1011"
+  filename: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev.md
+  slug: 1011-1982-04-16-b5-sinteticheskij-i-analiticheskij-metody-v-nasledii-acharev
 ---
-
-# 1011. 1982.04.16.B5. Синтетический и аналитический методы в наследии ачарьев
 
 **Шрила Шридхар Махарадж:** Есть ли какие-то вопросы?
 

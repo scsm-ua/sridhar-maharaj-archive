@@ -2,9 +2,10 @@
 slug: chajtanya-chandramrita-130
 refs:
   - ../../13-lila-igra-chudesnogo-absolyuta/178-1982-05-14-c2-sozertsanie-lily-v-glubokom-transe.md
-tags:
+scriptures:
   - title: Чайтанья-чандрамрита
     slug: chajtanya-chandramrita
+verses:
   - title: Чайтанья-чандрамрита 130
     slug: chajtanya-chandramrita-130
 ---

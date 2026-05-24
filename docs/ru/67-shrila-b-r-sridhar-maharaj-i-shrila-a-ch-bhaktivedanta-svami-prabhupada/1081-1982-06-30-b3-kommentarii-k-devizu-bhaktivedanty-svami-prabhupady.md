@@ -1,22 +1,17 @@
 ---
-slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
+slug: 1982-06-30-b3_kommentarii_k_devizu_bhaktivedanty_svami_prabhupady
+record_id: 1982.06.30.B3
+title: Комментарии к девизу Бхактиведанты Свами Прабхупады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10107591
+  duration: 00:08:53
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
+date: 1982-06-30
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.255–256
-    slug: bhakti-rasamrita-sindhu-1-2-255-256
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
-  - title: Бхакти-расамрита-синдху 1.1.12
-    slug: bhakti-rasamrita-sindhu-1-1-12
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.mp3
     title: аудиозапись в MP3 (8 мин. 53 сек., 9,7 МБ)
@@ -24,9 +19,19 @@ links:
     title: транскрипцию в RTF (96 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1081_1982.06.30.B3_SridharMj_Kommentarii_k_devizu_Bhaktivedanty_Svami_Prabhupady.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 1081. 1982.06.30.B3. Комментарии к девизу Бхактиведанты Свами Прабхупады
+  index: "1081"
+  filename: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady.md
+  slug: 1081-1982-06-30-b3-kommentarii-k-devizu-bhaktivedanty-svami-prabhupady
+tags:
+  - title: Бхакти-расамрита-синдху 1.2.255–256
+    slug: bhakti-rasamrita-sindhu-1-2-255-256
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.170
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-170
+  - title: Бхакти-расамрита-синдху 1.1.12
+    slug: bhakti-rasamrita-sindhu-1-1-12
 ---
-
-# 1081. 1982.06.30.B3. Комментарии к девизу Бхактиведанты Свами Прабхупады
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Гаура-Харибол, Гаура-Харибол.
 

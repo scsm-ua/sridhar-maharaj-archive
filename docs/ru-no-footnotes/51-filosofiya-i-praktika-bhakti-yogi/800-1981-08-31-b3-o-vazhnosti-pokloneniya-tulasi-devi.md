@@ -1,14 +1,20 @@
 ---
-slug: 800-1981-08-31-b3-o-vazhnosti-pokloneniya-tulasi-devi
+slug: 1981-08-31-b3_o_vazhnosti_pokloneniya_tulasi-devi
+record_id: 1981.08.31.B3
+title: О важности поклонения Туласи-деви
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3274000
+  duration: 00:04:57
+  src: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
+date: 1981-08-31
 category:
   title: 51. Философия и практика бхакти-йоги
   slug: 51-filosofiya-i-praktika-bhakti-yogi
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Туласи
     slug: tulasi
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.mp3
     title: аудиозапись в MP3 (4 мин. 57 сек., 3,2 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (65 КБ)
   - href: /dl/51._Filosofiya_i_praktika_bhakti-yogi/800_1981.08.31.B3_SridharMj_O_vajnosti_pokloneniya_Tulasi-devi.pdf
     title: транскрипцию в PDF (121 КБ)
+legacy:
+  title: 800. 1981.08.31.B3. О важности поклонения Туласи-деви
+  index: "800"
+  filename: 800-1981-08-31-b3-o-vazhnosti-pokloneniya-tulasi-devi.md
+  slug: 800-1981-08-31-b3-o-vazhnosti-pokloneniya-tulasi-devi
 ---
-
-# 800. 1981.08.31.B3. О важности поклонения Туласи-деви
 
 **Преданный:** Махарадж, в «Гаудия-патрике» я прочитал одно утверждение Шрилы Бхактисиддханты Сарасвати Тхакура, там сказано: «Человек должен прибегнуть к посредничеству Туласи Деви, чтобы достичь Вриндавана».
 

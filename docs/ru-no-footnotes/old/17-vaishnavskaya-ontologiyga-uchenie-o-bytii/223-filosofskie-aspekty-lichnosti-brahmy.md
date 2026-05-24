@@ -1,20 +1,28 @@
 ---
 slug: 223-filosofskie-aspekty-lichnosti-brahmy
+record_id: 1981.03.01.B4
+title: Философские аспекты личности Брахмы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1349883
+  duration: 00:02:21
+  src: /wp-content/uploads/2012/08/223_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
+date: 1981-03-01
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Брахма
     slug: brahma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/223_1981.03.01.B4_SridharMj_Filosofskiye_aspekty_lichnosti_Brahmy.mp3
     title: Скачать аудиозапись в mp3 (2 мин 21 сек, размер 1 Мб)
+legacy:
+  title: 223. Философские аспекты личности Брахмы. 1981.03.01.B4
+  index: "223"
+  filename: 223-filosofskie-aspekty-lichnosti-brahmy.md
 ---
-
-# 223. Философские аспекты личности Брахмы. 1981.03.01.B4
 
 **Ученик:** Существует множество Брахм и вселенных. А может ли быть Брахма чистейший преданный?
 

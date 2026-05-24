@@ -1,12 +1,17 @@
 ---
-slug: 627-1983-01-15-pyat-urovnej-znaniya
+slug: 1983-01-15_pyat_urovney_znaniya
+record_id: 1983.01.15
+title: Пять уровней знания
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5407723
+  duration: 00:09:19
+  src: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/627_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
+date: 1983-01-15
 category:
   title: 38. Субъективная эволюция — от сознания к материи
   slug: 38-subyektivnaya-evoluciya-ot-soznaniya-k-materii
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/627_1983.01.15_SridharMj_Pyat_urovney_znaniya.mp3
     title: аудиозапись в MP3 (9 мин. 19 сек., 5,2 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (93 КБ)
   - href: /dl/38._Subyektivnaya_evoluciya--ot_soznaniya_k_materii/627_1983.01.15_SridharMj_Pyat_urovney_znaniya.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 627. 1983.01.15. Пять уровней знания
+  index: "627"
+  filename: 627-1983-01-15-pyat-urovnej-znaniya.md
+  slug: 627-1983-01-15-pyat-urovnej-znaniya
 ---
-
-# 627. 1983.01.15. Пять уровней знания
 
 Знания классифицируются следующим образом: существуют пять категорий. Низшее измерение, низшая категория — это собственный опыт чувств, *пратьякша*, опыт, который я получил посредством чувств, это первая стадия. Следующий более высокий уровень: я не пережил нечто своими собственными чувствами, но существует накопленный, коллективный опыт людей, опыт их чувств, опыт чувств ученых. Я опираюсь на этот опыт, на эти открытия, я использую опыт других людей. Это вторая стадия [*парокша*].
 

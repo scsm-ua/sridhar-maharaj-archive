@@ -1,28 +1,17 @@
 ---
-slug: 230-1982-02-28-a2-o-knige-rodstvennyj-mir-ili-otnositelnye-miry
+slug: 1982-02-28-a2_o_knige_rodstvennyy_mir_ili_otnositelnye_miry
+record_id: 1982.02.28.A2
+title: О книге «Родственный мир или относительные миры»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5189440
+  duration: 00:09:25
+  src: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
+date: 1982-02-28
 category:
   title: 15. Ведическая литература - от древности до современности
   slug: 15-vedicheskaya-literatura-ot-drevnosti-do-sovremennosti
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.40
-    slug: bhagavad-gita-6-40
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
-    slug: shri-chajtanya-charitamrita-antya-lila-9-77
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
-    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 10.14.8
-    slug: shrimad-bhagavatam-10-14-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.mp3
     title: аудиозапись в MP3 (9 мин. 24 сек., 5,0 МБ)
@@ -30,9 +19,21 @@ links:
     title: транскрипцию в RTF (75 КБ)
   - href: /dl/15._Vedicheskaya_literatura--ot_drevnosti_do_sovremennosti/230_1982.02.28.A2_SridharMj_O_knige_Rodstvenniy_mir_ili_otnositelnyye_miry.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 230. 1982.02.28.A2. О книге «Родственный мир или относительные миры»
+  index: "230"
+  filename: 230-1982-02-28-a2-o-knige-rodstvennyj-mir-ili-otnositelnye-miry.md
+  slug: 230-1982-02-28-a2-o-knige-rodstvennyj-mir-ili-otnositelnye-miry
+tags:
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
+    slug: shri-chajtanya-charitamrita-antya-lila-9-77
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
+    slug: shri-chajtanya-charitamrita-madhya-lila-6-261
+  - title: Шримад-Бхагаватам 10.14.8
+    slug: shrimad-bhagavatam-10-14-8
 ---
-
-# 230. 1982.02.28.A2. О книге «Родственный мир или относительные миры»
 
 *Кришна-иччха* — воля Кришны, любое желание, готовность повиноваться любому предложению с любой стороны. Мы должны стоять лицом к лицу с Безграничным, ожидая, что приходящее ко мне — это моя потребность, это наше место назначения, лицом к лицу. Индивидуально или коллективно, воспеваю ли я *Харинам* или проповедую — все может быть бренным, мирским, формальным, и все может иметь безграничные характеристики.
 

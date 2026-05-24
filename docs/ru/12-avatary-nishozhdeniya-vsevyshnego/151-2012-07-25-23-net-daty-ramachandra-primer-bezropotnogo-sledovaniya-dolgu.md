@@ -1,16 +1,20 @@
 ---
-slug: 151-2012-07-25-23-net-daty-ramachandra-primer-bezropotnogo-sledovaniya-dolgu
+slug: ramachandra_primer_bezropotnogo_sledovaniya_dolgu
+title: Рамачандра — пример безропотного следования долгу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2874466
+  duration: 00:06:42
+  src: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
 category:
   title: 12. Аватары — нисхождения Всевышнего
   slug: 12-avatary-nishozhdeniya-vsevyshnego
 tags:
   - title: Рамачандра
     slug: ramachandra
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 2.47
     slug: bhagavad-gita-2-47
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.mp3
     title: аудиозапись в MP3 (6 мин. 42 сек., 2,8 МБ)
@@ -18,9 +22,12 @@ links:
     title: транскрипцию в RTF (68 КБ)
   - href: /dl/12._Avatary--nishozhdeniya_Vsevyshnego/151_2012.07.25.23_ShridharMj_Ramachandra-primer_bezropotnogo_sledovaniya_dolgu.pdf
     title: транскрипцию в PDF (144 КБ)
+legacy:
+  title: 151. 2012.07.25.23. Рамачандра — пример безропотного следования долгу
+  index: "151"
+  filename: 151-2012-07-25-23-net-daty-ramachandra-primer-bezropotnogo-sledovaniya-dolgu.md
+  slug: 151-2012-07-25-23-net-daty-ramachandra-primer-bezropotnogo-sledovaniya-dolgu
 ---
-
-# 151. 2012.07.25.23. Рамачандра — пример безропотного следования долгу
 
 Когда Рамачандре сообщили, что Он будет коронован, что отец передаст Ему власть и престол, Рамачандра остался невозмутимым, Он сохранял спокойствие. Когда же Он услышал, что вместо коронации Он отправится в лес в изгнание на четырнадцать лет, Он остался таким же невозмутимым. Он не радовался, услышав о том, что Ему предстоит взойти на трон, и Он не печалился, когда услышал об изгнании — Он просто выполнял Свой долг. Ему сообщили о том, что Его долг изменился — «Ты должен отправиться в лес». Он не был опечален. И то и другое было для Него долгом. Он не был затронут мирской радостью, был свободен от мирской радости и мирской печали. И то и другое Он принимал как Свой долг.
 

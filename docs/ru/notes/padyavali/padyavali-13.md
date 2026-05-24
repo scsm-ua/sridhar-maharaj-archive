@@ -2,9 +2,11 @@
 slug: padyavali-13
 refs:
   - ../../06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi/091_1982-01-13-a3_sridharmj_ogon_razluki_mahaprabhu.md
-tags:
+  - ../../_full/1982/01/1982.01.13.A.md
+scriptures:
   - title: Падьявали
     slug: padyavali
+verses:
   - title: Падьявали 13
     slug: padyavali-13
 ---

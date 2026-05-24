@@ -1,12 +1,17 @@
 ---
-slug: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti
+slug: 1983-01-07-b2_shrila_shridhar_maharadzh_o_svoem_zhiznennom_puti
+record_id: 1983.01.07.B2
+title: Шрила Шридхар Махарадж о своем жизненном пути
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5260090
+  duration: 00:09:11
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.mp3
+date: 1983-01-07
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.mp3
     title: аудиозапись в MP3 (9 мин. 11 сек., 5,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (89 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/968_1983.01.07.B2_SridharMj_Sridhar_Maharaj_o_svoyom_jiznennom_puti.pdf
     title: транскрипцию в PDF (128 КБ)
+legacy:
+  title: 968. 1983.01.07.B2. Шрила Шридхар Махарадж о своем жизненном пути
+  index: "968"
+  filename: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti.md
+  slug: 968-1983-01-07-b2-shrila-shridhar-maharadzh-o-svoem-zhiznennom-puti
 ---
-
-# 968. 1983.01.07.B2. Шрила Шридхар Махарадж о своем жизненном пути
 
 **Преданный:** Махарадж, а можно я задам вам личный вопрос? Я надеюсь, что это не слишком личный вопрос. Скажите, был ли период в вашей жизни, когда вы находились на интеллектуальном уровне, а впоследствии вы пришли к *бхакти*, или на протяжении всей жизни вы были привержены *бхакти*?
 

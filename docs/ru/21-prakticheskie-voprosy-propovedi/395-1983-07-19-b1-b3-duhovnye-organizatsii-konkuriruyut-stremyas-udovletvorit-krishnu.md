@@ -1,19 +1,22 @@
 ---
-slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
+slug: 1983-07-19-b1-b3_duhovnye_organizatsii_konkuriruyut_stremyas_udovletvorit_krishnu
+record_id: 1983.07.19.B1.B3
+title: Духовные организации конкурируют, стремясь удовлетворить Кришну
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 12376136
+  duration: 00:24:01
+  src: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
+date: 1983-07-19
 category:
   title: 21. Практические вопросы проповеди
   slug: 21-prakticheskie-voprosy-propovedi
 tags:
-  - title: 1983.07.19
-    slug: 1983-07-19
   - title: Проповедь
     slug: propoved
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 3.35
     slug: bhagavad-gita-3-35
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.94
     slug: shri-chajtanya-charitamrita-madhya-lila-22-94
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.63
@@ -22,18 +25,12 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-265
   - title: Бхагавад-гита 18.66
     slug: bhagavad-gita-18-66
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 9.77
     slug: shri-chajtanya-charitamrita-antya-lila-9-77
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 6.261
     slug: shri-chajtanya-charitamrita-madhya-lila-6-261
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.8
     slug: shrimad-bhagavatam-10-14-8
-  - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана
-    slug: udzhdzhvala-nilamani-shringara-bheda-prakarana
   - title: «Уджджвала-ниламани», Шрингара-бхеда-пракарана 102
     slug: udzhdzhvala-nilamani-shringara-bheda-prakarana-102
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 14.163
@@ -46,7 +43,6 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-19-154
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 21.101
     slug: shri-chajtanya-charitamrita-madhya-lila-21-101
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.mp3
     title: аудиозапись в MP3 (24 мин. 01 сек., 5,6 МБ)
@@ -54,9 +50,13 @@ links:
     title: транскрипцию в RTF (88 КБ)
   - href: /dl/21._Prakticheskie_voprosy_propovedi/395_1983.07.19.B1.B3_SridharMj_Duhovnye_organizacii_konkuriruyut_stremyas_udovletvorit_Krishnu.pdf
     title: транскрипцию в PDF (129 КБ)
+legacy:
+  title: 395. 1983.07.19.B1.B3. Духовные организации конкурируют, стремясь
+    удовлетворить Кришну
+  index: "395"
+  filename: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu.md
+  slug: 395-1983-07-19-b1-b3-duhovnye-organizatsii-konkuriruyut-stremyas-udovletvorit-krishnu
 ---
-
-# 395. 1983.07.19.B1.B3. Духовные организации конкурируют, стремясь удовлетворить Кришну
 
 **Преданный:** Махарадж, я вижу: чем более интенсивен человек становится в своей преданности Кришне, тем в большей степени он разочаровывается.
 

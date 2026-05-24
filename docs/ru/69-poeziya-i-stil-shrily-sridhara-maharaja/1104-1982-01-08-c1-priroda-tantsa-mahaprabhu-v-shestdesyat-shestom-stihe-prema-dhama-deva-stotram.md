@@ -1,16 +1,17 @@
 ---
-slug: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram
+slug: 1982-01-08-c1_priroda_tantsa_mahaprabhu_v_shestdesyat_shestom_stihe_prema-dhama-deva-stotram
+record_id: 1982.01.08.C1
+title: Природа танца Махапрабху в шестьдесят шестом стихе «Према-дхама-дева-стотрам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3236311
+  duration: 00:06:19
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3
+date: 1982-01-08
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Према-Дхама-Дева-стотрам
-    slug: prema-dhama-deva-stotram
-  - title: Према-Дхама-Дева-стотрам 66
-    slug: prema-dhama-deva-stotram-66
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.mp3
     title: аудиозапись в MP3 (6 мин. 18 сек., 3,1 МБ)
@@ -18,9 +19,16 @@ links:
     title: транскрипцию в RTF (86 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1104_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_shestdesjat_shestom_stihe_Prema-dhama-deva-stotram.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1104. 1982.01.08.C1. Природа танца Махапрабху в шестьдесят шестом стихе
+    «Према-дхама-дева-стотрам»
+  index: "1104"
+  filename: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram.md
+  slug: 1104-1982-01-08-c1-priroda-tantsa-mahaprabhu-v-shestdesyat-shestom-stihe-prema-dhama-deva-stotram
+tags:
+  - title: Према-Дхама-Дева-стотрам 66
+    slug: prema-dhama-deva-stotram-66
 ---
-
-# 1104. 1982.01.08.C1. Природа танца Махапрабху в шестьдесят шестом стихе «Према-дхама-дева-стотрам»
 
 В моей «Према-дхама-дева-стотрам» я также написал нечто: высочайшая концепция Абсолюта не может не быть концепцией высочайшей формы *анандам*, *расам*. И это сознательная *раса*. Махапрабху танцует: это указывает на то, что Он полон *расы*. А киртан есть *раздача*, распространение этой *расы*. Его танец подразумевает, что Он достиг зенита *расы*. А Его *киртан* означает, что Он стремится раздавать это явление другим. Поэтому научно если мы станем исследовать, кто такой Махапрабху, то мы обязательно откроем, что Он есть Высшая Реальность. Он безумен, чувствуя Свой Собственный внутренний нектар, и танцует. Танец — это результат, следствие этого чувства. Он воспевает, поет и раздает это явление другим.
 

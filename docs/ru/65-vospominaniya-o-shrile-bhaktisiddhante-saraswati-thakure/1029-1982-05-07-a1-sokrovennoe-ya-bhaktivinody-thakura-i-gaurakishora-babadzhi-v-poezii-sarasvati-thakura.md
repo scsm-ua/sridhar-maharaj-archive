@@ -1,12 +1,18 @@
 ---
-slug: 1029-1982-05-07-a1-sokrovennoe-ya-bhaktivinody-thakura-i-gaurakishora-babadzhi-v-poezii-sarasvati-thakura
+slug: 1982-05-07-a1_sokrovennoe_ya_bhaktivinody_thakura_i_gaurakishora_babadzhi_v_poezii_sarasvati_thakura
+record_id: 1982.05.07.A1
+title: Сокровенное «я» Бхактивиноды Тхакура и Гауракишора Бабаджи в поэзии
+  Сарасвати Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5834072
+  duration: 00:05:27
+  src: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3
+date: 1982-05-07
 category:
   title: 65. Воспоминания о Шриле Бхактисиддханте Сарасвати Тхакуре
   slug: 65-vospominaniya-o-shrile-bhaktisiddhante-saraswati-thakure
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.mp3
     title: аудиозапись в MP3 (5 мин. 27 сек., 5,6 МБ)
@@ -14,9 +20,13 @@ links:
     title: транскрипцию в RTF (62 КБ)
   - href: /dl/65._Vospominaniya_o_Shrile_Bhaktisiddhante_Saraswati_Thakure/1029_1982.05.07.A1_SridharMj_Sokrovennoe_ja_Bhaktivinody_Thakura_i_Gaurakishora_Babadzhi_v_pojezii_Sarasvati_Thakura.pdf
     title: транскрипцию в PDF (140 КБ)
+legacy:
+  title: 1029. 1982.05.07.A1. Сокровенное «я» Бхактивиноды Тхакура и Гауракишора
+    Бабаджи в поэзии Сарасвати Тхакура
+  index: "1029"
+  filename: 1029-1982-05-07-a1-sokrovennoe-ya-bhaktivinody-thakura-i-gaurakishora-babadzhi-v-poezii-sarasvati-thakura.md
+  slug: 1029-1982-05-07-a1-sokrovennoe-ya-bhaktivinody-thakura-i-gaurakishora-babadzhi-v-poezii-sarasvati-thakura
 ---
-
-# 1029. 1982.05.07.A1. Сокровенное «я» Бхактивиноды Тхакура и Гауракишора Бабаджи в поэзии Сарасвати Тхакура
 
 Рабиндранат и его старший брат Девендра. Вначале Девендра был другом Бхактивинода Тхакура. Конечно, они были ровесниками, и Бхактивинод Тхакур был связан близкими взаимоотношениями с представителями этой группы — Брахма-самадж. Члены Брахма-самаджа, видя его ученость, пытались изо всех сил сделать его последователем Брахма-самаджа. Но в конечном счете Бхактивинод Тхакур, пообщавшись с ними какое-то время, покинул их. И в Динаджпуре в своей лекции по «Бхагаватам» (эта речь опубликована в виде брошюры) он утвердил, пояснил свои позиции, дал понять, что Брахма-самаджу не стоит рассчитывать на его участие. И в конечном счет, он привлекся вайшнавизмом.
 

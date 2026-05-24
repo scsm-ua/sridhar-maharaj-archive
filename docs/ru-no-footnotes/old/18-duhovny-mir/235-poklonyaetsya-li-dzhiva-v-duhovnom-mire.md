@@ -1,11 +1,18 @@
 ---
 slug: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire
+record_id: 1984.01.08.B3
+title: Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1586248
+  duration: 00:03:07
+  src: /wp-content/uploads/2012/08/235_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
+date: 1984-01-08
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1984.01"
-    slug: 1984-01
   - title: Гаура-лила
     slug: gaura-lila
   - title: Духовный мир
@@ -14,13 +21,15 @@ tags:
     slug: krishna-lila
   - title: Навадвип
     slug: navadvip
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/235_1984.01.08.B3_SridharMj_Poklonyayetsya_li_djiva_v_duhovnom_mire_Krishne_i_Gaurange_odnovremenno.mp3
     title: Скачать аудиозапись в mp3 (3 мин 7 сек, размер 1 Мб)
+legacy:
+  title: 235. Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно?
+    1984.01.08.B3
+  index: "235"
+  filename: 235-poklonyaetsya-li-dzhiva-v-duhovnom-mire.md
 ---
-
-# 235. Поклоняется ли джива в духовном мире Кришне и Гауранге одновременно? 1984.01.08.B3
 
 **Ученик:** Когда джива достигает совершенства в линии Рупы Госвами, поклоняясь Господу Чайтанье, живое существо в духовном мире поклоняется Господу Чайтанье и Кришне одновременно?
 

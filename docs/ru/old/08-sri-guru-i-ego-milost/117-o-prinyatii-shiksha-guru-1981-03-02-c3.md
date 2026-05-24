@@ -1,22 +1,30 @@
 ---
 slug: 117-o-prinyatii-shiksha-guru-1981-03-02-c3
+record_id: 1981.03.02.C3
+title: О принятии шикша-гуру
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2265296
+  duration: 00:04:34
+  src: /wp-content/uploads/2012/08/117_1981.03.02.C3_SridharMj_O_prinyatii_Shiksha_Guru.mp3
+date: 1981-03-02
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Гуру
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/117_1981.03.02.C3_SridharMj_O_prinyatii_Shiksha_Guru.mp3
     title: Скачать аудиозапись в mp3 (4 мин 34 сек, размер 2 Мб)
+legacy:
+  title: 117. О принятии шикша-гуру. 1981.03.02.C3
+  index: "117"
+  filename: 117-o-prinyatii-shiksha-guru-1981-03-02-c3.md
 ---
-
-# 117. О принятии шикша-гуру. 1981.03.02.C3
 
 **Госвами Махарадж:** Некоторые люди говорят: «В «Ади-лиле» «Чайтанья-чаритамриты» говорится: «Один инициирующий духовный учитель, и могут быть многие наставляющие духовные учителя, *шикша*-гуру».
 

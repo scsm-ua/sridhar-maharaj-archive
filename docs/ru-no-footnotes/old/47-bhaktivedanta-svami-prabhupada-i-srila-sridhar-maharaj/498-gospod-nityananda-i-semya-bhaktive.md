@@ -1,22 +1,30 @@
 ---
 slug: 498-gospod-nityananda-i-semya-bhaktive
+record_id: 1982.01.04.A2
+title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16615696
+  duration: 00:33:35
+  src: /wp-content/uploads/2012/08/498_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
+date: 1982-01-04
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/498_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
     title: Скачать аудиозапись в mp3 (33 мин 35 сек, размер 16 Мб)
+legacy:
+  title: 498. Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады. 1982.01.04.A2
+  index: "498"
+  filename: 498-gospod-nityananda-i-semya-bhaktive.md
 ---
-
-# 498. Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады. 1982.01.04.A2
 
 **Ученик:** В наших мандирах-храмах мы поклоняемся Гоур-Нитаю. Я вижу, в храмах Гаудия-матха, в основном, поклоняются Махапрабху. Шрила Бхактисиддханта Махарадж…
 

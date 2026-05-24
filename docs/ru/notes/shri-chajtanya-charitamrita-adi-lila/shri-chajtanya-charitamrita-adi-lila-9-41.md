@@ -4,9 +4,15 @@ refs:
   - ../../21-prakticheskie-voprosy-propovedi/392-1983-11-24-a2-chelovek-dolzhen-stremitsya-poznat-istinu-i-zatem-pomogat-obresti-drugim.md
   - ../../35-rodnoy-dom-za-predelami-mira-smerti/574-1982-02-21-b2-religiya-oznachaet-pravilnoe-samoopredelenie.md
   - ../../55-samopozhertvovanie/843-1982-02-15-a1-samopredanie-put-k-probuzhdeniyu-istinnogo-ya.md
-tags:
+  - ../../_full/1981/10/1981.10.19.A.B.md
+  - ../../_full/1981/11/1981.11.02.B.md
+  - ../../_full/1981/12/1981.12.31.B.C.md
+  - ../../_full/1982/11/1982.11.14.A.md
+  - ../../_full/1983/11/1983.11.24.A.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила
     slug: shri-chajtanya-charitamrita-adi-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 9.41
     slug: shri-chajtanya-charitamrita-adi-lila-9-41
 ---

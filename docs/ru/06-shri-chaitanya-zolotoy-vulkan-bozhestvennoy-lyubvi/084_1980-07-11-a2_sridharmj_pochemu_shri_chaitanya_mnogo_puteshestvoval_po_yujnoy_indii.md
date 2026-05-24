@@ -1,18 +1,20 @@
 ---
-slug: 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii
+slug: 1980-07-11-a2_pochemu_shri_chaytanya_mnogo_puteshestvoval_po_yuzhnoy_indii_a_ne_po_severnoy
+record_id: 1980.07.11.A2
+title: Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1990803
+  duration: 00:01:52
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
+date: 1980-07-11
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1980.07"
-    slug: 1980-07
-  - title: with English audio
-    slug: with-english-audio
-  - title: with English text
-    slug: with-english-text
   - title: школы (сампрадайи) Вайшнавизма
     slug: shkoly-sampradaji-vajshnavizma
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.mp3
     title: аудиозапись в MP3 (01 мин. 51 сек., 1.9 МБ)
@@ -20,9 +22,13 @@ links:
     title: транскрипцию в RTF (48 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/084_1980.07.11.A2_SridharMj_Pochemu_Shri_Chaitanya_mnogo_puteshestvoval_po_Yujnoy_Indii.pdf
     title: транскрипцию в PDF (135 КБ)
+legacy:
+  title: 084. 1980.07.11.A2 Почему Шри Чайтанья много путешествовал по Южной
+    Индии, а не по северной?
+  index: "084"
+  filename: 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii.md
+  slug: 084_1980-07-11-a2_sridharmj_pochemu_shri_chaitanya_mnogo_puteshestvoval_po_yujnoy_indii
 ---
-
-# 084. 1980.07.11.A2 Почему Шри Чайтанья много путешествовал по Южной Индии, а не по северной?
 
 **Преданный:** Почему Чайтанья Махапрабху много путешествовал по Южной Индии, а не по Северной?
 

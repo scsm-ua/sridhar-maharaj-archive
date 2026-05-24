@@ -1,12 +1,18 @@
 ---
-slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
+slug: 1982-11-07-c4_otverzhenie_posrednika_mezhdu_predannym_i_gospodom_vozmozhno_lish_na_vneshnem_urovne
+record_id: 1982.11.07.C4
+title: Отвержение посредника между преданным и Господом возможно лишь на внешнем
+  уровне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7039551
+  duration: 00:05:57
+  src: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
+date: 1982-11-07
 category:
   title: 17. Шри Гуру и его милость
   slug: 17-shri-guru-i-ego-milost
-tags:
-  - title: "1982.11"
-    slug: 1982-11
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.mp3
     title: аудиозапись в MP3 (5 мин. 56 сек., 6,8 МБ)
@@ -14,9 +20,13 @@ links:
     title: транскрипцию в RTF (108 КБ)
   - href: /dl/17._Shri_Guru_i_ego_milost/300_1982.11.07.C4_SridharMj_Otverzhenie_posrednika_mezhdu_predannym_i_Gospodom_vozmozhno_lish_na_vneshnem_urovne.pdf
     title: транскрипцию в PDF (151 КБ)
+legacy:
+  title: 300. 1982.11.07.C4. Отвержение посредника между преданным и Господом
+    возможно лишь на внешнем уровне
+  index: "300"
+  filename: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne.md
+  slug: 300-1982-11-07-c4-otverzhenie-posrednika-mezhdu-predannym-i-gospodom-vozmozhno-lish-na-vneshnem-urovne
 ---
-
-# 300. 1982.11.07.C4. Отвержение посредника между преданным и Господом возможно лишь на внешнем уровне
 
 **Преданный:** Гуру Махарадж, на какой стадии преданный может отказаться от авторитета, когда речь идет о его прогрессе в сознании Кришны?
 
@@ -51,7 +61,7 @@ links:
 
 **Шрила Шридхар Махарадж:** Когда возникает прямая связь с Высшим Началом, тогда естественным образом он может не зависеть от писаний, которые были даны для людей со скудным разумом, реализация которых не столь велика.
 
-[**Шрила Джаджавар Махарадж:** *Са джаха̄ти матим̇ локе, веде ча париниш̣т̣хита̄м.*]
+[**Шрила Джаджавар Махарадж:** *Са джаха̄ти матим̇ локе, веде ча париниш̣т̣хита̄м*.]
 
 Он не придает значения мнению людей, общества или даже пренебрегает мнением священных писаний.
 

@@ -2,9 +2,10 @@
 slug: shri-chajtanya-bhagavata-antya-khanda-6-123
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/966-1982-04-30-a1-b2-krishnadas-babadzhi-i-shridhar-maharadzh-velichie-sharanagati.md
-tags:
+scriptures:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда
     slug: shri-chajtanya-bhagavata-antya-khanda
+verses:
   - title: «Шри Чайтанья Бхагавата», Антья-кханда 6.123
     slug: shri-chajtanya-bhagavata-antya-khanda-6-123
 ---

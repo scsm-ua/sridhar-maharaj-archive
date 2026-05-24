@@ -1,20 +1,28 @@
 ---
 slug: 495-sokrovennyj-smysl-molitvy-bhaktived
+record_id: 1983.02.13.A4
+title: Сокровенный смысл молитвы Бхактиведанты Свами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3592674
+  duration: 00:06:27
+  src: /wp-content/uploads/2012/08/495_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
+date: 1983-02-13
 category:
   title: (47. Бхактиведанта Свами Прабхупада и Шрила Шридхар Махарадж)
   slug: 47-bhaktivedanta-svami-prabhupada-i-srila-sridhar-maharaj
 tags:
-  - title: "1983.02"
-    slug: 1983-02
   - title: Бхактиведанта Свами Прабхупада
     slug: bhaktivedanta-svami-prabhupada
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/495_1983.02.13.A4_SridharMj_Sokrovenniy_smysl_molitvy_Bhaktivedanty_Svami.mp3
     title: Скачать аудиозапись в mp3 (6 мин 27 сек, размер 3 Мб)
+legacy:
+  title: 495. Сокровенный смысл молитвы Бхактиведанты Свами. 1983.02.13.A4
+  index: "495"
+  filename: 495-sokrovennyj-smysl-molitvy-bhaktived.md
 ---
-
-# 495. Сокровенный смысл молитвы Бхактиведанты Свами. 1983.02.13.A4
 
 **Преданный:** Гуру Махарадж, говорится, что Свами Махарадж испытывал влечение к сакхье расе. Свами Махарадж, говорят, писал, описывал свою любимую лилу, как сакхья раса лила.
 

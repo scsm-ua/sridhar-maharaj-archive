@@ -1,40 +1,17 @@
 ---
-slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
+slug: 1982-03-25-a1_iskrennyaya_vera_pozvolit_preodolet_trudnosti
+record_id: 1982.03.25.A1
+title: Искренняя вера позволит преодолеть трудности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 9478780
+  duration: 00:08:58
+  src: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
+date: 1982-03-25
 category:
   title: 45. Искренность и прогресс
   slug: 45-iskrennost-i-progress
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 6.40
-    slug: bhagavad-gita-6-40
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
-  - title: Шри Шикшаштакам
-    slug: shri-shikshashtakam
-  - title: Шри Шикшаштакам 4
-    slug: shri-shikshashtakam-4
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.1.11
-    slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Махабхараты», Вана-парва
-    slug: mahabharaty-vana-parva
-  - title: «Махабхараты», Вана-парва 313.117
-    slug: mahabharaty-vana-parva-313-117
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
-    slug: shri-chajtanya-charitamrita-madhya-lila-17-186
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
-    slug: shri-chajtanya-charitamrita-madhya-lila-25-57
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 11.14.8
-    slug: shrimad-bhagavatam-11-14-8
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.mp3
     title: аудиозапись в MP3 (8 мин. 58 сек., 9,1 МБ)
@@ -42,9 +19,29 @@ links:
     title: транскрипцию в RTF (131 КБ)
   - href: /dl/45._Iskrennost_i_progress/741_1982.03.25.A1_SridharMj_Iskrennjaja_vera_pozvolit_preodolet_trudnosti.pdf
     title: транскрипцию в PDF (153 КБ)
+legacy:
+  title: 741. 1982.03.25.A1. Искренняя вера позволит преодолеть трудности
+  index: "741"
+  filename: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti.md
+  slug: 741-1982-03-25-a1-iskrennyaya-vera-pozvolit-preodolet-trudnosti
+tags:
+  - title: Бхагавад-гита 6.40
+    slug: bhagavad-gita-6-40
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.15
+    slug: shri-chajtanya-charitamrita-madhya-lila-2-15
+  - title: Шри Шикшаштакам 4
+    slug: shri-shikshashtakam-4
+  - title: Бхакти-расамрита-синдху 1.1.11
+    slug: bhakti-rasamrita-sindhu-1-1-11
+  - title: «Махабхараты», Вана-парва 313.117
+    slug: mahabharaty-vana-parva-313-117
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-186
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57
+    slug: shri-chajtanya-charitamrita-madhya-lila-25-57
+  - title: Шримад-Бхагаватам 11.14.8
+    slug: shrimad-bhagavatam-11-14-8
 ---
-
-# 741. 1982.03.25.A1. Искренняя вера позволит преодолеть трудности
 
 В то же время мы должны сознавать, что Кришна вездесущ, Он всезнающ, Он присутствует повсюду, и Он знает наше нынешнее положение. Он всевидящ, поэтому существует некая специфическая цель, которая стоит за данными обстоятельствами. Ничто не лишено смысла, происходящее также имеет смысл, глубокий смысл. Мы не должны быть обескуражены, разочарованы, мы должны пытаться сохранять нашу искренность в отношении нашей веры.
 
@@ -108,7 +105,7 @@ links:
 
 *#00:07:20#*
 
-И следовать этому пути — это есть положение *ачарьи*. Последователь *ачарьи* способен стать *ачарьей* — в этом состоит пригодность, квалификация. Кто способен понять истинного *ачарью* и следовать ему, тот является *ачарьей*, и тот способен давать указания обычным людям, оказывать руководство. Мы надеемся на то, что вайшнавы и Господь будут вести нас на нашем пути. *На хи калйа̄н̣а-кр̣т каш́чид*, *дургатим̇ та̄та гаччхати.*
+И следовать этому пути — это есть положение *ачарьи*. Последователь *ачарьи* способен стать *ачарьей* — в этом состоит пригодность, квалификация. Кто способен понять истинного *ачарью* и следовать ему, тот является *ачарьей*, и тот способен давать указания обычным людям, оказывать руководство. Мы надеемся на то, что вайшнавы и Господь будут вести нас на нашем пути. *На хи калйа̄н̣а-кр̣т каш́чид*, *дургатим̇ та̄та гаччхати*.
 
 *#00:07:58#*
 

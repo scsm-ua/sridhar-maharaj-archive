@@ -1,33 +1,43 @@
 ---
-slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
+slug: 1982-06-10-a-b1-b4-b7_sarasvati_nishodit_k_brahme_ot_narayany_no_daet_klyuch_k_postizheniyu_krishny
+record_id: 1982.06.10.A.B1.B4.B7
+title: Сарасвати нисходит к Брахме от Нараяны, но дает ключ к постижению Кришны
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 24483985
+  duration: 00:24:42
+  src: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
+date: 1982-06-10
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
+links:
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
+    title: аудиозапись в MP3 (9 мин. 54 сек., 23,4 МБ)
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.rtf
+    title: транскрипцию в RTF (240 КБ)
+  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.pdf
+    title: транскрипцию в PDF (186 КБ)
+legacy:
+  title: 684. 1982.06.10.A.B1.B4.B7. Сарасвати нисходит к Брахме от Нараяны, но
+    дает ключ к постижению Кришны
+  index: "684"
+  filename: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny.md
+  slug: 684-1982-06-10-a-b1-b4-b7-sarasvati-nishodit-k-brahme-ot-narayany-no-daet-klyuch-k-postizheniyu-krishny
 tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
   - title: Шри Брахма-самхита 5.24
     slug: shri-brahma-samhita-5-24
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.3.28
     slug: shrimad-bhagavatam-1-3-28
   - title: Шримад-Бхагаватам 10.14.14
     slug: shrimad-bhagavatam-10-14-14
   - title: Шримад-Бхагаватам 2.4.22
     slug: shrimad-bhagavatam-2-4-22
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 1.59
     slug: shri-chajtanya-charitamrita-madhya-lila-1-59
-  - title: Шри Ишопанишад
-    slug: shri-ishopanishad
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 6.102
     slug: shri-chajtanya-charitamrita-adi-lila-6-102
   - title: Шримад-Бхагаватам 11.14.15
@@ -40,21 +50,9 @@ tags:
     slug: shrimad-bhagavatam-2-1-10
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.96
     slug: shri-chajtanya-charitamrita-madhya-lila-19-96
-  - title: Падьявали
-    slug: padyavali
   - title: Падьявали 126
     slug: padyavali-126
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.mp3
-    title: аудиозапись в MP3 (9 мин. 54 сек., 23,4 МБ)
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.rtf
-    title: транскрипцию в RTF (240 КБ)
-  - href: /dl/40._Bog_i_bogi/684_1982.06.10.A.B1.B4.B7_SridharMj_Sarasvati_nishodit_k_Brahme_ot_Narajany_no_daet_kljuch_k_postizheniju_Krishny.pdf
-    title: транскрипцию в PDF (186 КБ)
 ---
-
-# 684. 1982.06.10.A.B1.B4.B7. Сарасвати нисходит к Брахме от Нараяны, но дает ключ к постижению Кришны
 
 **Преданный:** В «Брахма-самхите» есть стих:
 
@@ -88,7 +86,7 @@ links:
 
     мананат трайате ити мантрах
 
-Если ты будешь медитировать на эту мантру, то ты совершишь прогресс. Жизнь прогрессивна, жизнь есть прогресс, развитие, и это явление, эта мантра, этот ключ поможет тебе осуществить твой прогресс в жизни. Объект твоего поиска таков, твое предназначение таково. Ты можешь думать о нем. *Йена пура̄ сарасватӣ*, *прачодита̄ йена пура̄ сарасватӣ.* Где это сказано, в «Бхагаватам»? *Прачодита̄ йена пура̄ сарасватӣ*[^_ftn4].
+Если ты будешь медитировать на эту мантру, то ты совершишь прогресс. Жизнь прогрессивна, жизнь есть прогресс, развитие, и это явление, эта мантра, этот ключ поможет тебе осуществить твой прогресс в жизни. Объект твоего поиска таков, твое предназначение таково. Ты можешь думать о нем. *Йена пура̄ сарасватӣ*, *прачодита̄ йена пура̄ сарасватӣ*. Где это сказано, в «Бхагаватам»? *Прачодита̄ йена пура̄ сарасватӣ*[^_ftn4].
 
 [Харе Кришна, Харе Кришна]
 

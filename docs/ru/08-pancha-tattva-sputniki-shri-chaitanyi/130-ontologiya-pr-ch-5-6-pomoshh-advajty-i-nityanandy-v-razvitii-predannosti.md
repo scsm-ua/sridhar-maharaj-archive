@@ -1,5 +1,12 @@
 ---
-slug: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti
+slug: ontologiya_pr_ch_5_6_pomoshch_advayty_i_nityanandy_v_razvitii_predannosti
+title: Онтология ПР. Ч. 5.6. Помощь Адвайты и Нитьянанды в развитии преданности.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4608640
+  duration: 00:06:35
+  src: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/130_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
 category:
   title: 08. Панча-таттва — спутники Шри Чайтаньи
   slug: 08-pancha-tattva-sputniki-shri-chaitanyi
@@ -10,7 +17,6 @@ tags:
     slug: nityananda-prabhu
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/130_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.mp3
     title: аудиозапись в MP3 (6 мин. 35 сек., 4,4 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (50 КБ)
   - href: /dl/08._Pancha-tattva--sputniki_Shri_Chaitanyi/130_OntologiyaPR_5.6_SridharMj_Pomow_Advayty_i_Nityanandy_v_razvitii_predannosti.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 130. Онтология ПР. Ч. 5.6. Помощь Адвайты и Нитьянанды в развитии преданности
+  index: "130"
+  filename: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti.md
+  slug: 130-ontologiya-pr-ch-5-6-pomoshh-advajty-i-nityanandy-v-razvitii-predannosti
 ---
-
-# 130. Онтология ПР. Ч. 5.6. Помощь Адвайты и Нитьянанды в развитии преданности
 
 *(«Онтология Прекрасной Реальности», часть 5.6)*
 

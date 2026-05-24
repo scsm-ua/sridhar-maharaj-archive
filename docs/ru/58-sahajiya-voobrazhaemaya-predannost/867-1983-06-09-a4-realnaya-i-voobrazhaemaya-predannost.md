@@ -1,16 +1,17 @@
 ---
-slug: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost
+slug: 1983-06-09-a4_realnaya_i_voobrazhaemaya_predannost
+record_id: 1983.06.09.A4
+title: Реальная и воображаемая преданность
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6902648
+  duration: 00:09:50
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
+date: 1983-06-09
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1983.06"
-    slug: 1983-06
-  - title: Даинйа Прартхана Гити
-    slug: dainja-prarthana-giti
-  - title: Даинйа Прартхана Гити 1
-    slug: dainja-prarthana-giti-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.mp3
     title: аудиозапись в MP3 (9 мин. 49 сек., 6,6 МБ)
@@ -18,9 +19,15 @@ links:
     title: транскрипцию в RTF (77 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/867_1983.06.09.A4_SridharMj_Realnaya_i_voobrajaemaya_Predannost.pdf
     title: транскрипцию в PDF (142 КБ)
+legacy:
+  title: 867. 1983.06.09.A4. Реальная и воображаемая преданность
+  index: "867"
+  filename: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost.md
+  slug: 867-1983-06-09-a4-realnaya-i-voobrazhaemaya-predannost
+tags:
+  - title: Даинйа Прартхана Гити 1
+    slug: dainja-prarthana-giti-1
 ---
-
-# 867. 1983.06.09.A4. Реальная и воображаемая преданность
 
 **Шрила Шридхар Махарадж:** Харе Кришна, Нитай-Гаура Харибол.
 

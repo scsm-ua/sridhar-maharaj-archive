@@ -1,20 +1,18 @@
 ---
-slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
+slug: 1982-05-08-a_kakim_obrazom_sannyasi_i_grihasthi_mogut_udovletvorit_shrilu_shridhara_maharadzha
+record_id: 1982.05.08.A
+title: Каким образом санньяси и грихастхи могут удовлетворить Шрилу Шридхара
+  Махараджа?
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17742993
+  duration: 00:17:26
+  src: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
+date: 1982-05-08
 category:
   title: 71. О важности распространения учения Шрилы Шридхара Махараджа
   slug: 71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja
-tags:
-  - title: "1982.05"
-    slug: 1982-05
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
-    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
-  - title: Шри Лалита-аштака
-    slug: shri-lalita-ashtaka
-  - title: Шри Лалита-аштака 7
-    slug: shri-lalita-ashtaka-7
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (17 мин. 25 сек., 17,0 МБ)
@@ -22,9 +20,18 @@ links:
     title: транскрипцию в DOCX (23 КБ)
   - href: /dl/71._O_vazhnosti_rasprostraneniya_ucheniya_Shrily_Sridhara_Maharaja/1133_1982.05.08.A_SridharMj_Kakim_obrazom_sannjasi_i_grihasthi_mogut_udovletvorit_Shrilu_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (147 КБ)
+legacy:
+  title: 1133. 1982.05.08.A. Каким образом санньяси и грихастхи могут
+    удовлетворить Шрилу Шридхара Махараджа?
+  index: "1133"
+  filename: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha.md
+  slug: 1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 7.128
+    slug: shri-chajtanya-charitamrita-madhya-lila-7-128
+  - title: Шри Лалита-аштака 7
+    slug: shri-lalita-ashtaka-7
 ---
-
-# 1133. 1982.05.08.A. Каким образом санньяси и грихастхи могут удовлетворить Шрилу Шридхара Махараджа?
 
 **Шрила Шридхар Махарадж:** Есть какие-то вопросы? Я очень устал — я так много говорил, мне это не по силам. Только один вопрос — на один вопрос я попытаюсь ответить и отправлюсь в постель, чтобы лечь горизонтально. Харе Кришна.
 

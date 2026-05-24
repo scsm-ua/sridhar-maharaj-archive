@@ -1,14 +1,20 @@
 ---
-slug: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu
+slug: 1981-08-31-b4_sharanagati_osnova_predannosti_bogu
+record_id: 1981.08.31.B4
+title: Шаранагати — основа преданности Богу
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4807345
+  duration: 00:08:49
+  src: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
+date: 1981-08-31
 category:
   title: 53. Шаранагати - наука предания души Господу
   slug: 53-sharanagati-nauka-predaniya-dushi-gospodu
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.mp3
     title: аудиозапись в MP3 (8 мин. 49 сек., 4,6 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (143 КБ)
   - href: /dl/53._Sharanagati--nauka_predaniya_dushi_Gospodu/821_1981.08.31.B4_SridharMj_Sharanagati_osnova_predannosti_Bogu.pdf
     title: транскрипцию в PDF (159 КБ)
+legacy:
+  title: 821. 1981.08.31.B4. Шаранагати — основа преданности Богу
+  index: "821"
+  filename: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu.md
+  slug: 821-1981-08-31-b4-sharanagati-osnova-predannosti-bogu
 ---
-
-# 821. 1981.08.31.B4. Шаранагати — основа преданности Богу
 
 **Шрила Шридхар Махарадж:** Нитай, Нитай, Нитай, Нитай…
 

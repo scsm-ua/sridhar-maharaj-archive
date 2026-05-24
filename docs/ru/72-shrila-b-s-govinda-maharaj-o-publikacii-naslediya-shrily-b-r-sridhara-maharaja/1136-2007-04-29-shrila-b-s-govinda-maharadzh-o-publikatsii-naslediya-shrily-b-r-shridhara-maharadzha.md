@@ -1,13 +1,18 @@
 ---
-slug: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha
+slug: 2007-04-29_shrila_b_s_govinda_maharadzh_o_publikatsii_naslediya_shrily_b_r_shridhara_maharadzha
+title: Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
+  Махараджа.
+author: Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7601130
+  duration: 00:06:00
+  src: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.mp3
+date: 2007-04-29
 category:
   title: 72. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара
     Махараджа
   slug: 72-shrila-b-s-govinda-maharaj-o-publikacii-naslediya-shrily-b-r-sridhara-maharaja
-tags:
-  - title: "2007.04"
-    slug: 2007-04
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.mp3
     title: аудиозапись в MP3 (6 мин. 00 сек., 7,3 МБ)
@@ -15,9 +20,15 @@ links:
     title: транскрипцию в RTF (61 КБ)
   - href: /dl/72._Shrila_B.S._Govinda_Maharaj_o_publikacii_naslediya_Shrily_B.R._Sridhara_Maharaja/1136_2007.04.29_GovindaMj_Shrila_B.S_Govinda_Maharadzh_o_publikacii_nasledija_Shrily_B.R_Shridhara_Maharadzha.pdf
     title: транскрипцию в PDF (119 КБ)
+legacy:
+  title: 1136. 2007.04.29. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы
+    Б.Р. Шридхара Махараджа
+  index: "1136"
+  filename: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha.md
+  slug: 1136-2007-04-29-shrila-b-s-govinda-maharadzh-o-publikatsii-naslediya-shrily-b-r-shridhara-maharadzha
 ---
 
-# 1136. 2007.04.29. Шрила Б.С. Говинда Махарадж о публикации наследия Шрилы Б.Р. Шридхара Махараджа
+(2007.04.29)
 
 Мы опубликовали концепцию Махапрабху, представили в печатном виде. «Поиск Шри Кришны», «Гуру и Его милость» — эти две книги, опубликованные Госвами Махараджем, лекции Гуру Махараджа содержатся в этих книгах. Госвами Махарадж после этого попросил меня дать ему Божество Махапрабху. Английский язык Гуру Махараджа отчасти мне известен, его язык, но в виде книги я не могу читать. Но когда у меня в руках оказались эти две книги, я понял в полной мере, что заключено в этих книгах, потому что я на протяжении сорока лет находился в обществе Гуру Махараджа, сорок восемь лет, и его концепция проявилась в форме книги. Это высшее знание о Кришна-концепции, сознании Кришны. Я был очень счастлив. И тогда я сказал Госвами, что он дал мне два Божества («Поиск Шри Кришны» и «Шри Гуру и его милость»), а просил у меня [только] одно Божество.
 

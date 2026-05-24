@@ -1,5 +1,13 @@
 ---
 slug: 436-pochemu-vo-vrindavane-sarasvati-thak
+title: Почему во Вриндаване Сарасвати Тхакур говорил о Прахладе Махарадже?
+  Мгновения прекрасной реальности 8.5
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3793648
+  duration: 00:03:47
+  src: /wp-content/uploads/2012/08/436_MgnoveniyaPR_8.5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
 category:
   title: (40. Сахаджия - воображаемая преданность)
   slug: 40-sahajiya-voobrajaemaya-predannost
@@ -8,13 +16,15 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Сахаджия
     slug: sahadzhiya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/436_MgnoveniyaPR_8.5_SridharMj_Pochemu_vo_Vrindavane_Sarasvati_Thakur_govoril_o_Prahlade_Maharaje.mp3
     title: Скачать аудиозапись в mp3 (3 мин 47 сек, размер 3 Мб)
+legacy:
+  title: 436. Почему во Вриндаване Сарасвати Тхакур говорил о Прахладе Махарадже?
+    Мгновения прекрасной реальности 8.5
+  index: "436"
+  filename: 436-pochemu-vo-vrindavane-sarasvati-thak.md
 ---
-
-# 436. Почему во Вриндаване Сарасвати Тхакур говорил о Прахладе Махарадже? Мгновения прекрасной реальности 8.5
 
 **Преданный:** Также на Радха-кунде Шрила Бхактисиддханта Сарасвати Тхакур говорил о Прахладе Махарадже. В «Бхагаватам»…
 

@@ -1,12 +1,17 @@
 ---
-slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
+slug: 1982-02-18-b3_my_ne_ateisty_ob_izuchenii_trudov_shesti_gosvami
+record_id: 1982.02.18.B3
+title: «Мы не атеисты». Об изучении трудов шести Госвами.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6310336
+  duration: 00:08:36
+  src: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
+date: 1982-02-18
 category:
   title: 58. Сахаджия - воображаемая преданность
   slug: 58-sahajiya-voobrazhaemaya-predannost
-tags:
-  - title: "1982.02"
-    slug: 1982-02
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.mp3
     title: аудиозапись в MP3 (8 мин. 35 сек., 6,1 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (96 КБ)
   - href: /dl/58._Sahajiya--voobrazhaemaya_predannost/873_1982.02.18.B3_SridharMj_My_ne_ateisty_Ob_izuchenii_trudov_shesti_Gosvami.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
+  index: "873"
+  filename: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami.md
+  slug: 873-1982-02-18-b3-my-ne-ateisty-ob-izuchenii-trudov-shesti-gosvami
 ---
-
-# 873. 1982.02.18.B3. «Мы не атеисты». Об изучении трудов шести Госвами
 
 *«Онтология Прекрасной Реальности», (часть 1.7)*
 

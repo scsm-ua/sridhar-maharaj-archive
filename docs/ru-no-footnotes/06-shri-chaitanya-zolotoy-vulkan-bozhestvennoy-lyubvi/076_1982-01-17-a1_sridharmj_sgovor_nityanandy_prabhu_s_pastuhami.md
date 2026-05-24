@@ -1,16 +1,22 @@
 ---
-slug: 076_1982-01-17-a1_sridharmj_sgovor_nityanandy_prabhu_s_pastuhami
+slug: 1982-01-17-a1_sgovor_nityanandy_prabhu_s_pastuhami
+record_id: 1982.01.17.A1
+title: Сговор Нитьянанды Прабху с пастухами
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4643558
+  duration: 00:07:51
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
+date: 1982-01-17
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Нитьянанда Прабху
     slug: nityananda-prabhu
   - title: Санньяса
     slug: sannyasa
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.mp3
     title: аудиозапись в MP3 (07 мин. 51 сек., 4.4 МБ)
@@ -18,9 +24,12 @@ links:
     title: транскрипцию в RTF (57 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/076_1982.01.17.A1_SridharMj_Sgovor_Nityanandy_Prabhu_s_Pastuhami.pdf
     title: транскрипцию в PDF (124 КБ)
+legacy:
+  title: 076. 1982.01.17.A1. Сговор Нитьянанды Прабху с пастухами
+  index: "076"
+  filename: 076_1982-01-17-a1_sridharmj_sgovor_nityanandy_prabhu_s_pastuhami.md
+  slug: 076_1982-01-17-a1_sridharmj_sgovor_nityanandy_prabhu_s_pastuhami
 ---
-
-# 076. 1982.01.17.A1. Сговор Нитьянанды Прабху с пастухами
 
 Махапрабху блуждал по рисовым полям Радхадеша, Бурдвана — в той стороне. Примечательно и достойно удивления даже в мирском смысле следующее обстоятельство. Махапрабху был выдающимся ученым, а в то время пребывал в сознании младенца. Столь великая простота! Когда Он выходит из Своего транса, трансцендентный мир нисходит в этот мир, мир чувственного опыта.
 

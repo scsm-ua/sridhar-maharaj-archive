@@ -8,9 +8,26 @@ refs:
   - ../../50-bhakti-yoga-i-devyat-vidov-predannogo-sluzheniya/786-1982-03-31-a2-praktika-bhakti-jogi-9-vidov-predannogo-sluzheniya-i-drugie-aspekty.md
   - ../../51-filosofiya-i-praktika-bhakti-yogi/790-1982-07-18-a5-gradatsiya-v-urovnyah-sluzheniya-svyatomu-imeni-prasadu-bozhestvam-i-chtenii-pisanij.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/927-1982-04-27-a-b1-istoriya-valmiki-rishi.md
-tags:
+  - ../../_full/1981/02/1981.02.28.md
+  - ../../_full/1981/08/1981.08.30.B.md
+  - ../../_full/1981/11/1981.11.24.A.B.C.md
+  - ../../_full/1982/03/1982.03.31.A.md
+  - ../../_full/1982/04/1982.04.27.A.B1.md
+  - ../../_full/1982/05/1982.05.05.B2.md
+  - ../../_full/1982/06/1982.06.19.A.B.C.D1.md
+  - ../../_full/1982/07/1982.07.18.A.md
+  - ../../_full/1982/10/1982.10.01.A.B.md
+  - ../../_full/1982/12/1982.12.10.A.md
+  - ../../_full/1982/12/1982.12.16.A.B.C.md
+  - ../../_full/1983/10/1983.10.18.A.md
+  - ../../_full/1983/10/1983.10.28.A.B.md
+  - ../../_full/1983/10/1983.10.29.A.md
+  - ../../_full/1983/10/1983.10.29.A.md
+  - ../../_full/1983/12/1983.12.30.A.B.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 6.2.14
     slug: shrimad-bhagavatam-6-2-14
 ---

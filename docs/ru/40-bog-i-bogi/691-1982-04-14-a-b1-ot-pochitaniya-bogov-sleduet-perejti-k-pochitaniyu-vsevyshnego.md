@@ -1,30 +1,17 @@
 ---
-slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
+slug: 1982-04-14-a-b1_ot_pochitaniya_bogov_sleduet_pereyti_k_pochitaniyu_vsevyshnego
+record_id: 1982.04.14.A.B1
+title: От почитания богов следует перейти к почитанию Всевышнего
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 25773808
+  duration: 00:26:03
+  src: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
+date: 1982-04-14
 category:
   title: 40. Бог и боги
   slug: 40-bog-i-bogi
-tags:
-  - title: "1982.04"
-    slug: 1982-04
-  - title: Шри Брахма-самхита
-    slug: shri-brahma-samhita
-  - title: Шри Брахма-самхита 5.50
-    slug: shri-brahma-samhita-5-50
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.25
-    slug: shri-chajtanya-charitamrita-antya-lila-20-25
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.23
-    slug: bhagavad-gita-9-23
-  - title: Бхагавад-гита 7.20
-    slug: bhagavad-gita-7-20
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
-    slug: shri-chajtanya-charitamrita-madhya-lila-11-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.mp3
     title: аудиозапись в MP3 (26 мин. 02 сек., 24,6 МБ)
@@ -32,11 +19,26 @@ links:
     title: транскрипцию в RTF (243 КБ)
   - href: /dl/40._Bog_i_bogi/691_1982.04.14.A.B1_SridharMj_Ot_pochitanija_bogov_sleduet_perejti_k_pochitaniju_Vsevyshnego.pdf
     title: транскрипцию в PDF (182 КБ)
+legacy:
+  title: 691. 1982.04.14.A.B1. От почитания богов следует перейти к почитанию
+    Всевышнего
+  index: "691"
+  filename: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego.md
+  slug: 691-1982-04-14-a-b1-ot-pochitaniya-bogov-sleduet-perejti-k-pochitaniyu-vsevyshnego
+tags:
+  - title: Шри Брахма-самхита 5.50
+    slug: shri-brahma-samhita-5-50
+  - title: «Шри Чайтанья-чаритамрита», Антья-лила 20.25
+    slug: shri-chajtanya-charitamrita-antya-lila-20-25
+  - title: Бхагавад-гита 9.23
+    slug: bhagavad-gita-9-23
+  - title: Бхагавад-гита 7.20
+    slug: bhagavad-gita-7-20
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 11.31
+    slug: shri-chajtanya-charitamrita-madhya-lila-11-31
 ---
 
-# 691. 1982.04.14.A.B1. От почитания богов следует перейти к почитанию Всевышнего
-
-**Акхаянанда Махарадж:** [цитирует санскрит]: *Вигхнешама пуджайитва капалинам дриштва ва пуджанам.*
+**Акхаянанда Махарадж:** [цитирует санскрит]: *Вигхнешама пуджайитва капалинам дриштва ва пуджанам*.
 
 **Шрила Шридхар Махарадж:** *Капалинам*?
 
@@ -131,7 +133,7 @@ links:
 
 **Шрила Шридхар Махарадж:** А есть английский перевод?
 
-**Акхаянанда Махарадж:** Да, есть: «Я поклоняюсь изначальному Господу Говинде, чьи лотосные стопы всегда держит Ганеш на *паре тумали(?)*, на своей слоновьей голове…»
+**Акхаянанда Махарадж:** Да, есть: «Я поклоняюсь изначальному Господу Говинде, чьи лотосные стопы всегда держит Ганеш на *паре тумали*(?), на своей слоновьей голове…»
 
 **Шрила Шридхар Махарадж:** То есть на черепе?
 

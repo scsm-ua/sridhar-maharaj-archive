@@ -1,24 +1,32 @@
 ---
 slug: 97-obsuzhdenie-knigi-shri-guru-i-ego-milos
+record_id: 1983.05.23.A1
+title: "Обсуждение книги «Шри Гуру и его милость» "
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10030624
+  duration: 00:18:25
+  src: /wp-content/uploads/2012/08/097_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
+date: 1983-05-23
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.05"
-    slug: 1983-05
   - title: Гуру
     slug: guru
   - title: Качества ученика
     slug: kachestva-uchenika
   - title: Посвящение
     slug: posvyashhenie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/097_1983.05.23.A1_SridharMj_Obsujdenie_knigi_Shri_Guru_i_ego_milost.mp3
     title: Скачать аудиозапись в mp3 (18 мин 25 сек, размер 10 Мб)
+legacy:
+  title: 97. Обсуждение книги «Шри Гуру и его милость» . 1983.05.23.A1
+  index: "97"
+  filename: 97-obsuzhdenie-knigi-shri-guru-i-ego-milos.md
 ---
-
-# 97. Обсуждение книги «Шри Гуру и его милость» . 1983.05.23.A1
 
 *#00:00:00#*
 

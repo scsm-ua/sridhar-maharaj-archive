@@ -1,11 +1,18 @@
 ---
 slug: 113-mayaki-v-bezgranichnom-1983-07-30-a-b
+record_id: 1983.07.30.A.B
+title: Маяки в Безграничном
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 23276584
+  duration: 00:46:01
+  src: /wp-content/uploads/2012/08/113_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
+date: 1983-07-30
 category:
   title: (08. Шри Гуру и его милость)
   slug: 08-sri-guru-i-ego-milost
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Гуру
@@ -16,13 +23,14 @@ tags:
     slug: sarasvati-thakur
   - title: Шьямананда Прабху
     slug: shyamananda-prabhu
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/113_1983.07.30.A.B_SridharMj_Mayaki_v_Bezgranichnom.mp3
     title: Скачать аудиозапись в mp3 (46 мин 1 сек, размер 23 Мб)
+legacy:
+  title: 113. Маяки в Безграничном. 1983.07.30.A.B
+  index: "113"
+  filename: 113-mayaki-v-bezgranichnom-1983-07-30-a-b.md
 ---
-
-# 113. Маяки в Безграничном. 1983.07.30.A.B
 
 *#00:00:00#*
 

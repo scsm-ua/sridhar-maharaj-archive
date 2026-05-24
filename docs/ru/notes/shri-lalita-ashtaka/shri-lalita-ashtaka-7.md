@@ -2,9 +2,10 @@
 slug: shri-lalita-ashtaka-7
 refs:
   - ../../71-o-vazhnosti-rasprostraneniya-ucheniya-shrily-sridhara-maharaja/1133-1982-05-08-a-kakim-obrazom-sannyasi-i-grihasthi-mogut-udovletvorit-shrilu-shridhara-maharadzha.md
-tags:
+scriptures:
   - title: Шри Лалита-аштака
     slug: shri-lalita-ashtaka
+verses:
   - title: Шри Лалита-аштака 7
     slug: shri-lalita-ashtaka-7
 ---

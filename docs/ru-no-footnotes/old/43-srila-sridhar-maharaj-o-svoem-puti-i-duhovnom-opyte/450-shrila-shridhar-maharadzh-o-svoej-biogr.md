@@ -1,24 +1,32 @@
 ---
 slug: 450-shrila-shridhar-maharadzh-o-svoej-biogr
+record_id: 1983.07.25.C.D
+title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 47729560
+  duration: 01:22:09
+  src: /wp-content/uploads/2012/08/450_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe.mp3
+date: 1983-07-25
 category:
   title: (43. Шрила Шридхар Махарадж о своем пути и духовном опыте)
   slug: 43-srila-sridhar-maharaj-o-svoem-puti-i-duhovnom-opyte
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Биография Шридхара Махараджа
     slug: biografiya-shridhara-maharadzha
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Сарасвати Тхакур
     slug: sarasvati-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/450_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe.mp3
     title: Скачать аудиозапись в mp3 (1 ч 22 мин 9 сек, размер 47 Мб)
+legacy:
+  title: 450. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе. 1983.07.25.C.D
+  index: "450"
+  filename: 450-shrila-shridhar-maharadzh-o-svoej-biogr.md
 ---
-
-# 450. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе. 1983.07.25.C.D
 
 *#00:00:00#*
 

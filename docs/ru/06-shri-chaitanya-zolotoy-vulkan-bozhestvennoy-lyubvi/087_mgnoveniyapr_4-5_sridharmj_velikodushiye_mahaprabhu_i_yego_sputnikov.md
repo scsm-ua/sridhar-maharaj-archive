@@ -1,14 +1,18 @@
 ---
-slug: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov
+slug: mgnoveniya_pr_4_5_velikodushie_mahaprabhu_i_ego_sputnikov
+title: Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3215088
+  duration: 00:06:30
+  src: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
 category:
   title: 06. Шри Чайтанья, Золотой Вулкан Божественной Любви
   slug: 06-shri-chaitanya-zolotoy-vulkan-bozhestvennoy-lyubvi
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: дата неизвестна
-    slug: data-neizvestna
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.mp3
     title: аудиозапись в MP3 (6 мин. 29 сек., 3.1 МБ)
@@ -16,9 +20,12 @@ links:
     title: транскрипцию в RTF (67 КБ)
   - href: /dl/06._Shri_Chaitanya,_Zolotoy_Vulkan_Bozhestvennoy_Lyubvi/087_MgnoveniyaPR_4.5_SridharMj_Velikodushiye_Mahaprabhu_i_Yego_sputnikov.pdf
     title: транскрипцию в PDF (143КБ)
+legacy:
+  title: 087. Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников
+  index: "087"
+  filename: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov.md
+  slug: 087_mgnoveniyapr_4-5_sridharmj_velikodushiye_mahaprabhu_i_yego_sputnikov
 ---
-
-# 087. Мгновения ПР 4.5. Великодушие Махапрабху и Его спутников
 
 **Шрила Шридхар Махарадж:** У вас есть вопросы?
 

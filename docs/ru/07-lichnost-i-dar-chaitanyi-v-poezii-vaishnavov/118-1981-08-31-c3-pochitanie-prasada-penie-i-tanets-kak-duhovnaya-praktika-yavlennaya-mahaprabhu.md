@@ -1,26 +1,28 @@
 ---
-slug: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu
+slug: 1981-08-31-c3_pochitanie_prasada_penie_i_tanets_kak_duhovnaya_praktika_yavlennaya_mahaprabhu
+record_id: 1981.08.31.C3
+title: Почитание прасада, пение и танец как духовная практика, явленная Махапрабху
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6033962
+  duration: 00:09:31
+  src: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3
+date: 1981-08-31
 category:
   title: 07. Личность и дар Чайтаньи в поэзии вайшнавов
   slug: 07-lichnost-i-dar-chaitanyi-v-poezii-vaishnavov
 tags:
-  - title: "1981.08"
-    slug: 1981-08
   - title: Махапрабху
     slug: mahaprabhu
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 9.296
     slug: shri-chajtanya-charitamrita-madhya-lila-9-296
-  - title: Гитавали
-    slug: gitavali
   - title: Гитавали 3.1
     slug: gitavali-3-1
   - title: Гитавали 3.2
     slug: gitavali-3-2
   - title: Гитавали 3.3
     slug: gitavali-3-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.mp3
     title: аудиозапись в MP3 (9 мин. 31 сек., 5,8 МБ)
@@ -28,9 +30,13 @@ links:
     title: транскрипцию в RTF (79 КБ)
   - href: /dl/07._Lichnost_i_dar_Chaitanyi_v_poezii_vaishnavov/118_1981.08.31.C3_SridharMj_Pochitanie_prasada_penie_i_tanec_kak_duhovnaja_praktika_javlennaja_Mahaprabhu.pdf
     title: транскрипцию в PDF (191 КБ)
+legacy:
+  title: 118. 1981.08.31.C3. Почитание прасада, пение и танец как духовная
+    практика, явленная Махапрабху
+  index: "118"
+  filename: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu.md
+  slug: 118-1981-08-31-c3-pochitanie-prasada-penie-i-tanets-kak-duhovnaya-praktika-yavlennaya-mahaprabhu
 ---
-
-# 118. 1981.08.31.C3. Почитание прасада, пение и танец как духовная практика, явленная Махапрабху
 
 Связь с Махапрабху…
 

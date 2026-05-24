@@ -1,22 +1,30 @@
 ---
 slug: 289-zhizn-i-posvyashhenie-shrily-narottama-d
+record_id: 1983.04.17.A2
+title: Жизнь и посвящение Шрилы Нароттама Даса Тхакура
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5018728
+  duration: 00:10:07
+  src: /wp-content/uploads/2012/08/289_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Srily_Narottama_Dasa_Thakura.mp3
+date: 1983-04-17
 category:
   title: (22. Истории о жизни святых вайшнавов)
   slug: 22-istorii-o-zhizni-svyatyh-vaishnavov
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Истории о вайшнавах
     slug: istorii-o-vajshnavah
   - title: Нароттам Дас Тхакур
     slug: narottam-das-thakur
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/289_1983.04.17.A2_SridharMj_Jizn_i_posvyawenie_Srily_Narottama_Dasa_Thakura.mp3
     title: Скачать аудиозапись в mp3 (10 мин 7 сек, размер 5 Мб)
+legacy:
+  title: 289. Жизнь и посвящение Шрилы Нароттама Даса Тхакура. 1983.04.17.A2
+  index: "289"
+  filename: 289-zhizn-i-posvyashhenie-shrily-narottama-d.md
 ---
-
-# 289. Жизнь и посвящение Шрилы Нароттама Даса Тхакура. 1983.04.17.A2
 
 **Ученик:** Не могли бы рассказать нам о жизни Нароттама Даса Тхакура, Нароттамы Даса Тхакура.
 

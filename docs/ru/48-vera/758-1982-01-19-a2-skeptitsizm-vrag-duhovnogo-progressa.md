@@ -1,22 +1,24 @@
 ---
-slug: 758-1982-01-19-a2-skeptitsizm-vrag-duhovnogo-progressa
+slug: 1982-01-19-a2_skeptitsizm_vrag_duhovnogo_progressa
+record_id: 1982.01.19.A2
+title: Скептицизм — враг духовного прогресса
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5771891
+  duration: 00:09:45
+  src: /dl/48._Vera/758_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3
+date: 1982-01-19
 category:
   title: 48. Вера
   slug: 48-vera
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Вера
     slug: vera
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.67
     slug: shri-chajtanya-charitamrita-madhya-lila-8-67
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 10.14.3
     slug: shrimad-bhagavatam-10-14-3
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/48._Vera/758_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.mp3
     title: аудиозапись в MP3 (9 мин. 45 сек., 5,6 МБ)
@@ -24,9 +26,12 @@ links:
     title: транскрипцию в RTF (112 КБ)
   - href: /dl/48._Vera/758_1982.01.19.A2_SridharMj_Skepticizm-vrag_duhovnogo_progressa.pdf
     title: транскрипцию в PDF (150 КБ)
+legacy:
+  title: 758. 1982.01.19.A2. Скептицизм — враг духовного прогресса
+  index: "758"
+  filename: 758-1982-01-19-a2-skeptitsizm-vrag-duhovnogo-progressa.md
+  slug: 758-1982-01-19-a2-skeptitsizm-vrag-duhovnogo-progressa
 ---
-
-# 758. 1982.01.19.A2. Скептицизм — враг духовного прогресса
 
 Болезнь. Болезнь имеет место быть, и мы хотим лекарство. Для больного узнавать детально, подробно о том, как он заболел, — это не его дело, это прерогатива доктора, это прерогатива студента медицины, не пациента. Пациента заботит избавление от болезни, излечение. «Как избавиться от страданий?» — для него это важный вопрос. «Как я могу вылечиться?», а не «Каким образом болезнь возникла?»
 

@@ -2,9 +2,11 @@
 slug: shrimad-bhagavatam-3-32-23
 refs:
   - ../../49-bhakti-velichie-predannosti-krishne/785-1983-07-18-astrologiya-kavachi-edinoborstva-i-put-chistoj-predannosti.md
-tags:
+  - ../../_full/1983/07/1983.07.18.md
+scriptures:
   - title: Шримад-Бхагаватам
     slug: shrimad-bhagavatam
+verses:
   - title: Шримад-Бхагаватам 3.32.23
     slug: shrimad-bhagavatam-3-32-23
 ---

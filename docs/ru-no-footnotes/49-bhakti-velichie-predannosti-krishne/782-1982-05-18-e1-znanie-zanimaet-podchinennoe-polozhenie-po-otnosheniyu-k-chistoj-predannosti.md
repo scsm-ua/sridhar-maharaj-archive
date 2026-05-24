@@ -1,14 +1,20 @@
 ---
-slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
+slug: 1982-05-18-e1_znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniyu_k_chistoy_predannosti
+record_id: 1982.05.18.E1
+title: Знание занимает подчиненное положение по отношению к чистой преданности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7292530
+  duration: 00:07:02
+  src: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.mp3
+date: 1982-05-18
 category:
   title: 49. Бхакти — величие преданности Кришне
   slug: 49-bhakti-velichie-predannosti-krishne
 tags:
-  - title: "1982.05"
-    slug: 1982-05
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.mp3
     title: аудиозапись в MP3 (7 мин. 01 сек., 7,0 МБ)
@@ -16,9 +22,13 @@ links:
     title: транскрипцию в RTF (120 КБ)
   - href: /dl/49._Bhakti--velichie_predannosti_Krishne/782_1982.05.18.E1_SridharMj_Znanie_zanimaet_podchinennoe_polozhenie_po_otnosheniju_k_chistoj_predannosti.pdf
     title: транскрипцию в PDF (170 КБ)
+legacy:
+  title: 782. 1982.05.18.E1. Знание занимает подчиненное положение по отношению к
+    чистой преданности
+  index: "782"
+  filename: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti.md
+  slug: 782-1982-05-18-e1-znanie-zanimaet-podchinennoe-polozhenie-po-otnosheniyu-k-chistoj-predannosti
 ---
-
-# 782. 1982.05.18.E1. Знание занимает подчиненное положение по отношению к чистой преданности
 
 **Преданный:** Я хотел бы знать: разные люди общаются друг с другом в материальном смысле со своими симпатиями, пристрастиями, и мы видим, что когда речь заходит об общении в смысле *бхаджана*, служения, то также присутствует тенденция группироваться.
 
@@ -49,7 +59,7 @@ links:
 
 **Преданный:** Культивирование знания…
 
-**Шрила Шридхар Махарадж:** Истинная преданность — *бахӯна̄м̇ джанмана̄м анте.*
+**Шрила Шридхар Махарадж:** Истинная преданность — *бахӯна̄м̇ джанмана̄м анте*.
 
 *#00:04:59#*
 

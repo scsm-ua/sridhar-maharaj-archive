@@ -2,9 +2,10 @@
 slug: kalyana-kalpataru-2-7
 refs:
   - ../../32-absolyutnaya-garmoniya-i-milostivaya-istina/527-1983-11-13-a3-ne-sleduet-voproshat-pochemu-milost-dana-emu-a-ne-mne.md
-tags:
+scriptures:
   - title: Кальяна-калпатару
     slug: kalyana-kalpataru
+verses:
   - title: Кальяна-калпатару 2.7
     slug: kalyana-kalpataru-2-7
 ---

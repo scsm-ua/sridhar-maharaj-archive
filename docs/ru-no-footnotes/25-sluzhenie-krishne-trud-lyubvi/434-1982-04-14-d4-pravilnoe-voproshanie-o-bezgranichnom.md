@@ -1,14 +1,20 @@
 ---
-slug: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom
+slug: 1982-04-14-d4_pravilnoe_voproshanie_o_bezgranichnom
+record_id: 1982.04.14.D4
+title: Правильное вопрошание о Безграничном
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4658563
+  duration: 00:04:12
+  src: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3
+date: 1982-04-14
 category:
   title: 25. Служение Кришне — труд любви
   slug: 25-sluzhenie-krishne-trud-lyubvi
 tags:
-  - title: "1982.04"
-    slug: 1982-04
   - title: Дух служения
     slug: duh-sluzheniya
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.mp3
     title: аудиозапись в MP3 (4 мин. 11 сек., 4,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (81 КБ)
   - href: /dl/25._Sluzhenie_Krishne--trud_lyubvi/434_1982.04.14.D4_SridharMj_Pravilnoe_voproshanie_o_Bezgranichnom.pdf
     title: транскрипцию в PDF (146 КБ)
+legacy:
+  title: 434. 1982.04.14.D4. Правильное вопрошание о Безграничном
+  index: "434"
+  filename: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom.md
+  slug: 434-1982-04-14-d4-pravilnoe-voproshanie-o-bezgranichnom
 ---
-
-# 434. 1982.04.14.D4. Правильное вопрошание о Безграничном
 
 **Преданный:** Еще один вопрос, с вашего позволения: чтобы этот материальный мир функционировал должным образом, установлено множество законов, а какие законы присутствую в духовном существовании?
 

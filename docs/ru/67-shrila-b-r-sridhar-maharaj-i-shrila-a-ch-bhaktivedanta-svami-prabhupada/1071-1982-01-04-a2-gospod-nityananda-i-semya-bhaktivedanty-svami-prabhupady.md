@@ -1,22 +1,17 @@
 ---
-slug: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady
+slug: 1982-01-04-a2_gospod_nityananda_i_semya_bhaktivedanty_svami_prabhupady
+record_id: 1982.01.04.A2
+title: Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 17693968
+  duration: 00:33:35
+  src: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
+date: 1982-01-04
 category:
   title: 67. Шрила Б.Р. Шридхар Махарадж и Шрила А.Ч. Бхактиведанта Свами Прабхупада
   slug: 67-shrila-b-r-sridhar-maharaj-i-shrila-a-ch-bhaktivedanta-svami-prabhupada
-tags:
-  - title: "1982.01"
-    slug: 1982-01
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.17.39
-    slug: shrimad-bhagavatam-1-17-39
-  - title: Шримад-Бхагаватам 1.17.38
-    slug: shrimad-bhagavatam-1-17-38
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда
-    slug: shri-chajtanya-bhagavata-antya-khanda
-  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
-    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.mp3
     title: аудиозапись в MP3 (33 мин. 35 сек., 16,9 МБ)
@@ -24,9 +19,20 @@ links:
     title: транскрипцию в RTF (204 КБ)
   - href: /dl/67._Shrila_B.R._Sridhar_Maharaj_i_Shrila_A.Ch._Bhaktivedanta_Svami_Prabhupada/1071_1982.01.04.A2_SridharMj_Gospod_Nityananda_i_semya_Bhaktivedanta_Swami.pdf
     title: транскрипцию в PDF (171 КБ)
+legacy:
+  title: 1071. 1982.01.04.A2. Господь Нитьянанда и семья Бхактиведанты Свами
+    Прабхупады
+  index: "1071"
+  filename: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady.md
+  slug: 1071-1982-01-04-a2-gospod-nityananda-i-semya-bhaktivedanty-svami-prabhupady
+tags:
+  - title: Шримад-Бхагаватам 1.17.39
+    slug: shrimad-bhagavatam-1-17-39
+  - title: Шримад-Бхагаватам 1.17.38
+    slug: shrimad-bhagavatam-1-17-38
+  - title: «Шри Чайтанья Бхагавата», Антья-кханда 3.541
+    slug: shri-chajtanya-bhagavata-antya-khanda-3-541
 ---
-
-# 1071. 1982.01.04.A2. Господь Нитьянанда и семья Бхактиведанты Свами Прабхупады
 
 **Шрила Шридхар Махарадж:** Нитай-Гаура Харибол, Нитай-Гаура Харибол. Есть ли какие-то вопросы от новичков?
 

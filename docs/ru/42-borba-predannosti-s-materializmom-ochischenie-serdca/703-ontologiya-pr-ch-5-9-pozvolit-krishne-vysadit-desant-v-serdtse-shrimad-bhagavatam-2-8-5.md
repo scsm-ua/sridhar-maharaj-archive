@@ -1,20 +1,25 @@
 ---
-slug: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5
+slug: ontologiya_pr_ch_5_9_pozvolit_krishne_vysadit_desant_v_serdtse_shrimad_bhagavatam_2_8_5
+title: Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце. Шримад
+  Бхагаватам 2.8.5.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7975744
+  duration: 00:12:56
+  src: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
 category:
   title: 42. Борьба преданности с материализмом — очищение сердца
   slug: 42-borba-predannosti-s-materializmom-ochischenie-serdca
 tags:
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.20.27–28
     slug: shrimad-bhagavatam-11-20-27-28
   - title: Шримад-Бхагаватам 11.20.29
     slug: shrimad-bhagavatam-11-20-29
   - title: Шримад-Бхагаватам 2.8.5
     slug: shrimad-bhagavatam-2-8-5
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.mp3
     title: аудиозапись в MP3 (12 мин. 56 сек., 7,7 МБ)
@@ -22,11 +27,13 @@ links:
     title: транскрипцию в RTF (127 КБ)
   - href: /dl/42._Borba_predannosti_s_materializmom--ochischenie_serdca/703_OntologiyaPR_5.9_SridharMj_Pozvolit_Krishne_vysadit_desant_v_serdce_Shrimad_Bhagavatam_2.8.5.pdf
     title: транскрипцию в PDF (157 КБ)
+legacy:
+  title: 703. Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце.
+    Шримад Бхагаватам 2.8.5
+  index: "703"
+  filename: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5.md
+  slug: 703-ontologiya-pr-ch-5-9-pozvolit-krishne-vysadit-desant-v-serdtse-shrimad-bhagavatam-2-8-5
 ---
-
-# 703. Онтология ПР. Ч. 5.9. Позволить Кришне высадить десант в сердце. Шримад Бхагаватам 2.8.5
-
-*«Онтология Прекрасной Реальности» (часть 5.9)*
 
 Гуру Махарадж однажды сказал одному человеку (ученику)… Он был выходцем из уважаемой семьи в Агре. Его старший брат был видным адвокатом, второй был советником губернатора, но так или иначе эти люди были в той или иной степени преданными Махапрабху. Третий брат был связан с «Манчестер Гардиан Патрика». Двадцать лет он служил в качестве помощника главного редактора. В студенческие годы он учился в Германии во время первой мировой войны Кайзера и в то время играл роль шпиона, секретного агента (по его собственным словам).
 
@@ -40,7 +47,7 @@ links:
 
 *#00:03:09#*
 
-*Джа̄та-ш́раддхо мат-катхасу*[^_ftn1] — так или иначе, от *садху*, реального *садху*, капля, толика сознания Кришны должна будет усвоена, должна быть получена сердцем, и эта капля сделает все необходимое, сделает то, что необходимо. *Джа̄та-ш́раддхо мат-катхасу.* Так или иначе, малая толика, капелька сознания Кришны — ее достаточно. Кто обрел ее, его будущее гарантировано, сегодня или завтра.
+*Джа̄та-ш́раддхо мат-катхасу*[^_ftn1] — так или иначе, от *садху*, реального *садху*, капля, толика сознания Кришны должна будет усвоена, должна быть получена сердцем, и эта капля сделает все необходимое, сделает то, что необходимо. *Джа̄та-ш́раддхо мат-катхасу*. Так или иначе, малая толика, капелька сознания Кришны — ее достаточно. Кто обрел ее, его будущее гарантировано, сегодня или завтра.
 
 [Преданный говорит на бенгали]
 

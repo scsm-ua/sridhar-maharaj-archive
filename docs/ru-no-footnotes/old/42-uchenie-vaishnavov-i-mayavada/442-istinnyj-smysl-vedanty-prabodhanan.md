@@ -1,22 +1,30 @@
 ---
 slug: 442-istinnyj-smysl-vedanty-prabodhanan
+record_id: 1981.03.05.A1
+title: Истинный смысл Веданты. Прабодхананда и Пракашананда.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4973484
+  duration: 00:10:10
+  src: /wp-content/uploads/2012/08/442_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
+date: 1981-03-05
 category:
   title: (42. Учение вайшнавов и майавада)
   slug: 42-uchenie-vaishnavov-i-mayavada
 tags:
-  - title: "1981.03"
-    slug: 1981-03
   - title: Майавада
     slug: majavada
   - title: Прабодхананда
     slug: prabodhananda
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/442_1981.03.05.A1_SridharMj_Istinniy_smysl_Vedanty_Prabodhananda_i_Prakashananda.mp3
     title: Скачать аудиозапись в mp3 (10 мин 10 сек, размер 5 Мб)
+legacy:
+  title: 442. Истинный смысл Веданты. Прабодхананда и Пракашананда. 1981.03.05.A1
+  index: "442"
+  filename: 442-istinnyj-smysl-vedanty-prabodhanan.md
 ---
-
-# 442. Истинный смысл Веданты. Прабодхананда и Пракашананда. 1981.03.05.A1
 
 **Госвами Махарадж:** Махарадж, можем мы вам задать вопрос?
 

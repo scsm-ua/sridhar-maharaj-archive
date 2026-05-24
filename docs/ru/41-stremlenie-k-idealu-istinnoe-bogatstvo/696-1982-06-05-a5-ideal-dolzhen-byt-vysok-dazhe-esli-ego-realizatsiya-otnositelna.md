@@ -1,16 +1,17 @@
 ---
-slug: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna
+slug: 1982-06-05-a5_ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizatsiya_otnositelna
+record_id: 1982.06.05.A5
+title: Идеал должен быть высок, даже если его реализация относительна
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5688236
+  duration: 00:03:18
+  src: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3
+date: 1982-06-05
 category:
   title: 41. Стремление к идеалу — истинное богатство
   slug: 41-stremlenie-k-idealu-istinnoe-bogatstvo
-tags:
-  - title: "1982.06"
-    slug: 1982-06
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 9.30
-    slug: bhagavad-gita-9-30
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.mp3
     title: аудиозапись в MP3 (3 мин. 18 сек., 5,5 МБ)
@@ -18,9 +19,16 @@ links:
     title: транскрипцию в RTF (64 КБ)
   - href: /dl/41._Stremlenie_k_idealu--istinnoe_bogatstvo/696_1982.06.05.A5_SridharMj_Ideal_dolzhen_byt_vysok_dazhe_esli_ego_realizacija_otnositelna.pdf
     title: транскрипцию в PDF (143 КБ)
+legacy:
+  title: 696. 1982.06.05.A5. Идеал должен быть высок, даже если его реализация
+    относительна
+  index: "696"
+  filename: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna.md
+  slug: 696-1982-06-05-a5-ideal-dolzhen-byt-vysok-dazhe-esli-ego-realizatsiya-otnositelna
+tags:
+  - title: Бхагавад-гита 9.30
+    slug: bhagavad-gita-9-30
 ---
-
-# 696. 1982.06.05.A5. Идеал должен быть высок, даже если его реализация относительна
 
 Цель должна быть высокой. Реализация может быть не столь высокой, потому что речь идет о естественном росте. Цель высока, реализация относительна. *Бхаджате ма̄м ананйа-бха̄к* — [это важнее всего], *апи чет су-дура̄ча̄ро*[^_ftn1] — этим можно пренебречь. Вся эта скверна, дурное, уйдет в скором времени, но цель, идеал — это ключевой фактор. Того, кто достиг подобного высокого идеала каким-то образом, все эти изъяны, относящиеся к бренному миру, не могут связать, следует помнить об этом, об идеале. Возможность обрести высочайший идеал — это самое важное, что может быть в человеческой жизни.
 
@@ -43,4 +51,4 @@ links:
 
 [^_ftn1]: [Бхагавад-гита 9.30](../notes/bhagavad-gita/bhagavad-gita-9-30.md)
 
-[^_ftn2]: [*ма̄талахариджанакӣрттанаран̇ге / пӯджалара̄га-патхагаурава-бхан̇ге*](../notes/shloka/matalaharidzhanakjorttanarange-pudzhalaraga-pathagaurava-bhange.md)
+[^_ftn2]: [*ма̄тала хариджана кӣрттана ран̇ге / пӯджала ра̄га-патха гаурава-бхан̇ге*](../notes/shloka/matala-haridzhana-kjorttana-range.md)

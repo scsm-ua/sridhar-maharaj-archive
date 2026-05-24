@@ -3,9 +3,11 @@ slug: shri-shikshashtakam-2
 refs:
   - ../../31-glubokoe-vospriyatie-realnosti/510-1981-08-30-b3-klyuch-k-vratam-vajkunthi-nastroenie-vtorogo-stiha-shikshashtaki.md
   - ../../56-samootricanie/856-1983-11-04-c2-skorb-o-nesposobnosti-predatsya-krishne.md
-tags:
+  - ../../_full/1981/08/1981.08.30.B.md
+scriptures:
   - title: Шри Шикшаштакам
     slug: shri-shikshashtakam
+verses:
   - title: Шри Шикшаштакам 2
     slug: shri-shikshashtakam-2
 ---

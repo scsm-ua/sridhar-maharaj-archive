@@ -1,22 +1,30 @@
 ---
 slug: 481-bravada-eto-protivopolozhnost-podl
+record_id: 1982.01.17.B2
+title: Бравада — это противоположность подлинной духовности
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2533595
+  duration: 00:04:05
+  src: /wp-content/uploads/2012/08/481_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
+date: 1982-01-17
 category:
   title: (45. Воспоминания о Гаудия-матхе)
   slug: 46-vospominaniya-o-gaudiya-mathe
 tags:
-  - title: "1982.01"
-    slug: 1982-01
   - title: Гаудия-матх
     slug: gaudiya-math
   - title: Шаранагати
     slug: sharanagati
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/481_1982.01.17.B2_SridharMj_Bravada-eto_protivopolojnost_podlinnoy_duhovnosti.mp3
     title: Скачать аудиозапись в mp3 (4 мин 5 сек, размер 2 Мб)
+legacy:
+  title: 481. Бравада — это противоположность подлинной духовности. 1982.01.17.B2
+  index: "481"
+  filename: 481-bravada-eto-protivopolozhnost-podl.md
 ---
-
-# 481. Бравада — это противоположность подлинной духовности. 1982.01.17.B2
 
 Один директор школы в Пури спросил нас, когда мы направлялись в Мадрас (Бон Махарадж, ваш покорный слуга, Мадхав Махарадж в ту пору, Хаягрив Брахмачари, Госвами Махарадж). Мы устанавливали отпечатки стоп Махапрабху. Группа была послана Гуру Махараджем. И когда мы достигли Пури, то в арендованом доме Матх был утвержден. И некто Парашурам Патанаяк — человек, мировоззрение которого было близко к мировоззрению движения брахма-самадж.
 

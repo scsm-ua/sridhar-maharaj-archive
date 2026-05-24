@@ -1,12 +1,17 @@
 ---
-slug: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam
+slug: 1983-03-31-b2_dar_mahaprabhu_v_poeme_bhaktivinoda-viraha-dashakam
+record_id: 1983.03.31.B2
+title: Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3796083
+  duration: 00:07:04
+  src: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
+date: 1983-03-31
 category:
   title: 69. Поэзия и стиль Шрилы Шридхара Махараджа
   slug: 69-poeziya-i-stil-shrily-sridhara-maharaja
-tags:
-  - title: "1983.03"
-    slug: 1983-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.mp3
     title: аудиозапись в MP3 (7 мин. 04 сек., 3,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (90 КБ)
   - href: /dl/69._Poeziya_i_stil_Shrily_Sridhara_Maharaja/1099_1983.03.31.B2_SridharMj_Dar_Mahaprabhu_v_poeme_Bhaktivinoda-viraha-dashakam.pdf
     title: транскрипцию в PDF (148 КБ)
+legacy:
+  title: 1099. 1983.03.31.B2. Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
+  index: "1099"
+  filename: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam.md
+  slug: 1099-1983-03-31-b2-dar-mahaprabhu-v-poeme-bhaktivinoda-viraha-dashakam
 ---
-
-# 1099. 1983.03.31.B2. Дар Махапрабху в поэме «Бхактивинода-вираха-дашакам»
 
 В поэзии о Бхактивиноде Тхакуре в последнем стихе говорится:
 
@@ -37,7 +45,7 @@ links:
 
 *#00:03:32#*
 
-Ты [Бхактивинод Тхакур] занимаешь положение, позволяющее тебе раздать, дать нам это явление. Ты занимаешь столь высокое, благородное положение, что ты способен дать его нам навеки — *ш́рӣ-ра̄дха̄-пада-севана̄мр̣там аха тад да̄тум ӣш́о бхава̄н.* Твое положение столь благородно, что ты можешь дать нам [этот дар], и ты показал в своих произведениях, каким образом это — наиболее утонченная реализация каждой души».
+Ты [Бхактивинод Тхакур] занимаешь положение, позволяющее тебе раздать, дать нам это явление. Ты занимаешь столь высокое, благородное положение, что ты способен дать его нам навеки — *ш́рӣ-ра̄дха̄-пада-севана̄мр̣там аха тад да̄тум ӣш́о бхава̄н*. Твое положение столь благородно, что ты можешь дать нам [этот дар], и ты показал в своих произведениях, каким образом это — наиболее утонченная реализация каждой души».
 
 *#00:04:17#*
 

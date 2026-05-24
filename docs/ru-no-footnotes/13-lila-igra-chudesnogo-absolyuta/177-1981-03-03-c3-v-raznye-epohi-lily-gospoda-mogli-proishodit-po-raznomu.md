@@ -1,12 +1,17 @@
 ---
-slug: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu
+slug: 1981-03-03-c3_v_raznye_epohi_lily_gospoda_mogli_proishodit_po-raznomu
+record_id: 1981.03.03.C3
+title: В разные эпохи лилы Господа могли происходить по-разному
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 2621625
+  duration: 00:04:15
+  src: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
+date: 1981-03-03
 category:
   title: 13. Лила — игра чудесного Абсолюта
   slug: 13-lila-igra-chudesnogo-absolyuta
-tags:
-  - title: "1981.03"
-    slug: 1981-03
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.mp3
     title: аудиозапись в MP3 (4 мин. 14 сек., 2,6 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (53 КБ)
   - href: /dl/13._Lila--igra_chudesnogo_Absolyuta/177_1981.03.03.C3_SridharMj_V_raznyye_epohi_lily_Gospoda_mogli_proishodit_po-raznomu.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 177. 1981.03.03.C3. В разные эпохи лилы Господа могли происходить по-разному
+  index: "177"
+  filename: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu.md
+  slug: 177-1981-03-03-c3-v-raznye-epohi-lily-gospoda-mogli-proishodit-po-raznomu
 ---
-
-# 177. 1981.03.03.C3. В разные эпохи лилы Господа могли происходить по-разному
 
 **Преданный:** Хираньякашипу захватил планету Индры.
 

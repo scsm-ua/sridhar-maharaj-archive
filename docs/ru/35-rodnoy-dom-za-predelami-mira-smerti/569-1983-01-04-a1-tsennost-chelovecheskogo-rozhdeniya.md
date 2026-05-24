@@ -1,26 +1,17 @@
 ---
-slug: 569-1983-01-04-a1-tsennost-chelovecheskogo-rozhdeniya
+slug: 1983-01-04-a1_tsennost_chelovecheskogo_rozhdeniya
+record_id: 1983.01.04.A1
+title: Ценность человеческого рождения
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 13435253
+  duration: 00:21:34
+  src: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
+date: 1983-01-04
 category:
   title: 35. Родной дом за пределами мира смерти
   slug: 35-rodnoy-dom-za-predelami-mira-smerti
-tags:
-  - title: "1983.01"
-    slug: 1983-01
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 7.3
-    slug: bhagavad-gita-7-3
-  - title: Шветашватара-упанишад
-    slug: shvetashvatara-upanishad
-  - title: Шветашватара-упанишад 2.5
-    slug: shvetashvatara-upanishad-2-5
-  - title: Бхагавад-гита 5.29
-    slug: bhagavad-gita-5-29
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.mp3
     title: аудиозапись в MP3 (21 мин. 33 сек., 12,9 МБ)
@@ -28,9 +19,21 @@ links:
     title: транскрипцию в RTF (182 КБ)
   - href: /dl/35._Rodnoy_dom_za_predelami_mira_smerti/569_1983.01.04.A1_SridharMj_Cennost_chelovecheskogo_rojdeniya.pdf
     title: транскрипцию в PDF (167 КБ)
+legacy:
+  title: 569. 1983.01.04.A1. Ценность человеческого рождения
+  index: "569"
+  filename: 569-1983-01-04-a1-tsennost-chelovecheskogo-rozhdeniya.md
+  slug: 569-1983-01-04-a1-tsennost-chelovecheskogo-rozhdeniya
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.151
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-151
+  - title: Бхагавад-гита 7.3
+    slug: bhagavad-gita-7-3
+  - title: Шветашватара-упанишад 2.5
+    slug: shvetashvatara-upanishad-2-5
+  - title: Бхагавад-гита 5.29
+    slug: bhagavad-gita-5-29
 ---
-
-# 569. 1983.01.04.A1. Ценность человеческого рождения
 
 …Как извне, так и изнутри. Сотрудничество. Благодаря сотрудничеству мы можем совершать прогресс в любой сфере жизни. Такова ситуация, таково положение вещей. Мы должны принимать помощь от окружения, от окружающего мира. В различных сферах также: разбойник, бандит получает свое знание о разбое, о бандитизме от другого, более опытного бандита; и хороший, добродетельный человек, праведник, получает свое знание от более образованного человека, более сведущего.
 

@@ -1,5 +1,12 @@
 ---
 slug: 155-rasprostraniteli-kapel-nektara-on
+title: Распространители капель нектара. Онтология прекрасной реальности, часть 2.2.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7100608
+  duration: 00:10:22
+  src: /wp-content/uploads/2012/08/155_OntologiyaPR_2.2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
 category:
   title: (11. Санкиртана - распространение Сознания Кришны)
   slug: 11-sankirtana-rasprostranenie-soznaniya-krishny
@@ -10,13 +17,15 @@ tags:
     slug: bhaktivedanta-svami-prabhupada
   - title: Онтология прекрасной реальности
     slug: ontologiya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/155_OntologiyaPR_2.2_SridharMj_Rasprostraniteli_kapel_nektara.mp3
     title: Скачать аудиозапись в mp3 (10 мин 22 сек, размер 7 Мб)
+legacy:
+  title: 155. Распространители капель нектара. Онтология прекрасной реальности,
+    часть 2.2
+  index: "155"
+  filename: 155-rasprostraniteli-kapel-nektara-on.md
 ---
-
-# 155. Распространители капель нектара. Онтология прекрасной реальности, часть 2.2
 
 Свами Махараджи оставил большую организацию из собственности, людей, но эти люди должны будут начать, смиренно, скромно и их искренности, добродетель будут их капиталом. Не внешняя пышность, роскошь, деньги, последователи. Умеренно, скромно, с сердцем в груди и с Богом над головой. Они могут объединиться, и начать новую миссионерскую работу.
 

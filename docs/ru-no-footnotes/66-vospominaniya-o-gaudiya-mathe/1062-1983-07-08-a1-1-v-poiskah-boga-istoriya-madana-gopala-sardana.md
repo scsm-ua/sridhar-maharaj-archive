@@ -1,12 +1,17 @@
 ---
-slug: 1062-1983-07-08-a1-1-v-poiskah-boga-istoriya-madana-gopala-sardana
+slug: 1983-07-08-a1-1_v_poiskah_boga_istoriya_madana_gopala_sardana
+record_id: 1983.07.08.A1.1
+title: В поисках Бога. История Мадана Гопала Сардана.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1829010
+  duration: 00:02:45
+  src: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3
+date: 1983-07-08
 category:
   title: 66. Воспоминания о Гаудия Матхе
   slug: 66-vospominaniya-o-gaudiya-mathe
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.mp3
     title: аудиозапись в MP3 (2 мин. 44 сек., 1,8 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (45 КБ)
   - href: /dl/66._Vospominaniya_o_Gaudiya_Mathe/1062_1983.07.08.A1.1_SridharMj_V_poiskah_Boga_Istorija_Madana_Gopala_Sardana.pdf
     title: транскрипцию в PDF (116 КБ)
+legacy:
+  title: 1062. 1983.07.08.A1.1. В поисках Бога. История Мадана Гопала Сардана
+  index: "1062"
+  filename: 1062-1983-07-08-a1-1-v-poiskah-boga-istoriya-madana-gopala-sardana.md
+  slug: 1062-1983-07-08-a1-1-v-poiskah-boga-istoriya-madana-gopala-sardana
 ---
-
-# 1062. 1983.07.08.A1.1. В поисках Бога. История Мадана Гопала Сардана
 
 У него была своя история. Во время первой мировой войны он сражался на стороне Франции, был летчиком. Когда он увидел, что его самолет упадет на стороне немцев (он встречался со мной здесь, во Вриндаване, он рассказывал), он взмолился: «Если есть Бог, пусть Он спасет меня!» Затем самолет упал. Когда он очнулся, то обнаружил, что находится во французском госпитале. Они не могли ничего сказать, но сказали единственное, что самолет так или иначе, каким-то образом упал на стороне французов, и тогда он вспомнил свою последнюю молитву.
 

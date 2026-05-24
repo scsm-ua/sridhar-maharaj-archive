@@ -1,34 +1,35 @@
 ---
-slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
+slug: 1983-07-08-a1-2_bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_varnashrama_dolzhna_byt_svyazana_s_krishna-bhakti
+record_id: 1983.07.08.A1.2
+title: Бхагаватам о правильном взаимоотношении камы, артхи, дхармы и мокши.
+  Варнашрама должна быть связана с кришна-бхакти.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 7032091
+  duration: 00:14:07
+  src: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
+date: 1983-07-08
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1983.07"
-    slug: 1983-07
   - title: Варнашрама-дхарма
     slug: varnashrama-dharma
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 1.2.9
     slug: shrimad-bhagavatam-1-2-9
   - title: Шримад-Бхагаватам 1.2.10
     slug: shrimad-bhagavatam-1-2-10
   - title: Шримад-Бхагаватам 1.2.8
     slug: shrimad-bhagavatam-1-2-8
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 18.46
     slug: bhagavad-gita-18-46
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.60
     slug: shri-chajtanya-charitamrita-madhya-lila-8-60
   - title: Бхагавад-гита 9.27
     slug: bhagavad-gita-9-27
   - title: Бхагавад-гита 13.9
     slug: bhagavad-gita-13-9
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.mp3
     title: аудиозапись в MP3 (14 мин. 07 сек., 6,8 МБ)
@@ -36,9 +37,13 @@ links:
     title: транскрипцию в RTF (134 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/534_1983.07.08.A1.2_SridharMj_Bhagavatam_o_pravilnom_vzaimootnoshenii_kamy_arthi_dharmy_i_mokshi_Varnashrama_dolzhna_byt_svjazana_s_krishna-bhakti.pdf
     title: транскрипцию в PDF (164 КБ)
+legacy:
+  title: 534. 1983.07.08.A1.2. Бхагаватам о правильном взаимоотношении камы,
+    артхи, дхармы и мокши. Варнашрама должна быть связана с кришна-бхакти
+  index: "534"
+  filename: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti.md
+  slug: 534-1983-07-08-a1-2-bhagavatam-o-pravilnom-vzaimootnoshenii-kamy-arthi-dharmy-i-mokshi-varnashrama-dolzhna-byt-svyazana-s-krishna-bhakti
 ---
-
-# 534. 1983.07.08.A1.2. Бхагаватам о правильном взаимоотношении камы, артхи, дхармы и мокши. Варнашрама должна быть связана с кришна-бхакти
 
 **Шрила Шридхар Махарадж:** Нам говорили, что у вас есть вопросы.
 
@@ -68,7 +73,7 @@ links:
 
 *#00:03:29#*
 
-*Дхармасйа хй а̄паваргйасйа* — «Шримад-Бхагаватам» говорит, что *дхарма* (долг) должен осуществляться, выполняться таким образом, чтобы он приводил к освобождению. Но в настоящее время долг выполняется таким образом, чтобы заработать как можно больше денег. *На̄ртхо ‘ртха̄йопакалпате*. Деньги не есть цель выполнения нами нашего долга. *На̄ртхасйа дхармаика̄нтасйа ка̄мо ла̄бха̄йа хи смр̣тах̣.* Деньги должны использоваться таким образом, чтобы помочь осуществлению нашего долга, а не для достижения чувственного наслаждения. А чувственное наслаждение, связь с чувственным, с материальным миром — это не чувственное наслаждение как таковое, оно не для себя, но оно должно направляться таким образом, чтобы мы могли поддерживать хорошее состояние здоровья. Мы должны иметь связь с материальными реалиями настолько, чтобы у нас было хорошее, здоровое тело и ясный ум.
+*Дхармасйа хй а̄паваргйасйа* — «Шримад-Бхагаватам» говорит, что *дхарма* (долг) должен осуществляться, выполняться таким образом, чтобы он приводил к освобождению. Но в настоящее время долг выполняется таким образом, чтобы заработать как можно больше денег. *На̄ртхо ‘ртха̄йопакалпате*. Деньги не есть цель выполнения нами нашего долга. *На̄ртхасйа дхармаика̄нтасйа ка̄мо ла̄бха̄йа хи смр̣тах̣*. Деньги должны использоваться таким образом, чтобы помочь осуществлению нашего долга, а не для достижения чувственного наслаждения. А чувственное наслаждение, связь с чувственным, с материальным миром — это не чувственное наслаждение как таковое, оно не для себя, но оно должно направляться таким образом, чтобы мы могли поддерживать хорошее состояние здоровья. Мы должны иметь связь с материальными реалиями настолько, чтобы у нас было хорошее, здоровое тело и ясный ум.
 
 *#00:04:58#*
 

@@ -1,33 +1,42 @@
 ---
-slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
+slug: 1987-00-00-b5-2_posmertnaya_sudba_putany_isklyuchitelnyy_sluchay
+record_id: 1987.00.00.B5.2
+title: Посмертная судьба Путаны — исключительный случай
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6275061
+  duration: 00:07:45
+  src: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
+date: 1987-00-00
 category:
   title: 05. Раса-таттва - вкусы отношений с Господом
   slug: 05-rasa-tattva-vkusy-otnosheniy-s-gospodom
+links:
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
+    title: аудиозапись в MP3 (7 мин. 45 сек., 64 кбит/сек, 6.0 МБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.rtf
+    title: транскрипцию в RTF (134 КБ)
+  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.pdf
+    title: транскрипцию в PDF (160 КБ)
+legacy:
+  title: 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
+  index: "069"
+  filename: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl.md
+  slug: 069-1987-00-00-b5-2-posmertnaya-sudba-putany-iskl
 tags:
-  - title: "1987.00"
-    slug: 1987-00
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
   - title: Бхакти-расамрита-синдху 1.1.11
     slug: bhakti-rasamrita-sindhu-1-1-11
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.35
     slug: shri-chajtanya-charitamrita-adi-lila-5-35
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 7.1.30
     slug: shrimad-bhagavatam-7-1-30
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 5.36
     slug: shri-chajtanya-charitamrita-adi-lila-5-36
   - title: Бхакти-расамрита-синдху 1.2.278
     slug: bhakti-rasamrita-sindhu-1-2-278
-  - title: Лагху-бхагаватамрита
-    slug: laghu-bhagavatamrita
   - title: Лагху-бхагаватамрита 5.41
     slug: laghu-bhagavatamrita-5-41
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.176
     slug: shri-chajtanya-charitamrita-madhya-lila-19-176
   - title: Бхакти-расамрита-синдху 1.2.22
@@ -40,17 +49,7 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-22-98
   - title: Шримад-Бхагаватам 3.2.23
     slug: shrimad-bhagavatam-3-2-23
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.mp3
-    title: аудиозапись в MP3 (7 мин. 45 сек., 64 кбит/сек, 6.0 МБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.rtf
-    title: транскрипцию в RTF (134 КБ)
-  - href: /dl/05._Rasa-tattva--vkusy_otnosheniy_s_Gospodom/069_1987.00.00.B5.2_SridharMj_Posmertnaja_sudba_Putany_iskljuchitelnyj_sluchaj.pdf
-    title: транскрипцию в PDF (160 КБ)
 ---
-
-# 069. 1987.00.00.B5.2 Посмертная судьба Путаны — исключительный случай
 
 Учение Рупы Госвами. Как он дал эту *сиддханту*? Целостное, полное явление.
 
@@ -96,7 +95,7 @@ links:
     хр̣шӣкен̣а хр̣шӣкеш́а севанам̇ бхактир учйате
 [^_ftn6]
 
-Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄.*
+Он дает ясное, точное определение. Что такое *сарвопа̄дхи*? *Упадхи*, *мукти*, *аньябхилаша*, и *а̄нукӯлйена* (не *пратикульена*) *кр̣ш̣н̣ану-шӣланам̇ бхактир уттама̄*.
 
 *#00:02:52#*
 

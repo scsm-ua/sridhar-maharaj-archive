@@ -1,18 +1,22 @@
 ---
-slug: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne
+slug: 1982-02-26-b3_na_vysshem_urovne_vsya_deyatelnost_napravlena_na_sluzhenie_krishne
+record_id: 1982.02.26.B3
+title: На высшем уровне вся деятельность направлена на служение Кришне
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3758215
+  duration: 00:03:39
+  src: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3
+date: 1982-02-26
 category:
   title: 33. Дхарма — учение о долге
   slug: 33-dharma-uchenie-o-dolge
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Дхарма
     slug: dharma
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 6.17
     slug: bhagavad-gita-6-17
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.mp3
     title: аудиозапись в MP3 (3 мин. 38 сек., 3,6 МБ)
@@ -20,9 +24,13 @@ links:
     title: транскрипцию в DOCX (17 КБ)
   - href: /dl/33._Dharma--uchenie_o_dolge/546_1982.02.26.B3_SridharMj_Na_vysshem_urovne_vsja_dejatelnost_napravlena_na_sluzhenie_Krishne.pdf
     title: транскрипцию в PDF (135 КБ)
+legacy:
+  title: 546. 1982.02.26.B3. На высшем уровне вся деятельность направлена на
+    служение Кришне
+  index: "546"
+  filename: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne.md
+  slug: 546-1982-02-26-b3-na-vysshem-urovne-vsya-deyatelnost-napravlena-na-sluzhenie-krishne
 ---
-
-# 546. 1982.02.26.B3. На высшем уровне вся деятельность направлена на служение Кришне
 
 **Преданный:** Махарадж, а предписанные обязанности относятся только к обусловленным душам?
 

@@ -1,5 +1,12 @@
 ---
 slug: 224-polozhenie-ganesha-mgnoveniya-prekras
+title: Положение Ганеша. Мгновения прекрасной реальности, часть 8.3.
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 1498032
+  duration: 00:05:08
+  src: /wp-content/uploads/2012/08/224_MgnoveniyaPR_8.3_SridharMj_Polojeniye_Ganesha.mp3
 category:
   title: (17. Вайшнавская онтология - учение о бытии)
   slug: 17-vaishnavskaya-ontologiyga-uchenie-o-bytii
@@ -10,13 +17,14 @@ tags:
     slug: mgnoveniya-prekrasnoj-realnosti
   - title: Сварупа-шакти
     slug: svarupa-shakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/224_MgnoveniyaPR_8.3_SridharMj_Polojeniye_Ganesha.mp3
     title: Скачать аудиозапись в mp3 (5 мин 8 сек, размер 1 Мб)
+legacy:
+  title: 224. Положение Ганеша. Мгновения прекрасной реальности, часть 8.3
+  index: "224"
+  filename: 224-polozhenie-ganesha-mgnoveniya-prekras.md
 ---
-
-# 224. Положение Ганеша. Мгновения прекрасной реальности, часть 8.3
 
 **Преданный:** Махарадж, Хануманджи, Ганеш и Субрамунья — они являются аншами или дживами?
 

@@ -1,14 +1,20 @@
 ---
-slug: 807-1982-02-17-a2-o-vospriyatii-i-razlichnyh-formah-bozhestv
+slug: 1982-02-17-a2_o_vospriyatii_i_razlichnyh_formah_bozhestv
+record_id: 1982.02.17.A2
+title: О восприятии и различных формах Божеств
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3565474
+  duration: 00:05:26
+  src: /dl/52._O_poklonenii_Bozhestvam/807_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
+date: 1982-02-17
 category:
   title: 52. О поклонении Божествам
   slug: 52-o-poklonenii-bozhestvam
 tags:
-  - title: "1982.02"
-    slug: 1982-02
   - title: Арчана
     slug: archana
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/52._O_poklonenii_Bozhestvam/807_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.mp3
     title: аудиозапись в MP3 (5 мин. 26 сек., 3,5 МБ)
@@ -16,9 +22,12 @@ links:
     title: транскрипцию в RTF (58 КБ)
   - href: /dl/52._O_poklonenii_Bozhestvam/807_1982.02.17.A2_SridharMj_O_vospriyatii_i_razlichnyh_formah_Bojestv.pdf
     title: транскрипцию в PDF (123 КБ)
+legacy:
+  title: 807. 1982.02.17.A2. О восприятии и различных формах Божеств
+  index: "807"
+  filename: 807-1982-02-17-a2-o-vospriyatii-i-razlichnyh-formah-bozhestv.md
+  slug: 807-1982-02-17-a2-o-vospriyatii-i-razlichnyh-formah-bozhestv
 ---
-
-# 807. 1982.02.17.A2. О восприятии и различных формах Божеств
 
 Когда Махапрабху смотрит на Шри Мурти Джаганнатха Дева, может показаться, что Его взгляд сосредоточен на том, что мы воспринимаем как этот внешний образ, непосредственный образ Божества. Нашему видению предстает лишь это изваяние из дерева, и Махапрабху сосредотачивает Свой взгляд на этом изваянии. Но Он рыдает, Он плачет, слезы сильным потоком льются из Его глаз. С чем это связано? На что Он смотрит? Почему Он плачет? То, что мы видим как деревянное изваяние, он смотрит на это, и непрерывный поток слез течет из Его глаз. Что же Он видит? На что же устремлен Его взор?
 

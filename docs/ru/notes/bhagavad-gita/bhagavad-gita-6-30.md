@@ -9,14 +9,30 @@ refs:
   - ../../46-princip-zolotoy-serediny-v-sluzhenii-gospodu/744-1981-03-07-a3-b1-b4-sredinnyj-put-pri-obshhenii-s-protivopolozhnym-polom.md
   - ../../60-uchenie-vaishnavov-i-hristianstvo/904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
   - ../../66-vospominaniya-o-gaudiya-mathe/1049-1983-11-14-b4-smotret-skvoz-prizmu-bezgranichnogo-istoriya-o-dengah-professora-sannyala.md
-tags:
+  - ../../_full/1981/02/1981.02.28.md
+  - ../../_full/1982/05/1982.05.01.A.B1.md
+  - ../../_full/1982/09/1982.09.06.A.md
+  - ../../_full/1982/11/1982.11.18.A.B.md
+  - ../../_full/1982/12/1982.12.27.A.B.C.md
+  - ../../_full/1983/02/1983.02.19.md
+  - ../../_full/1983/07/1983.07.28.md
+  - ../../_full/1983/11/1983.11.14.B3.md
+scriptures:
   - title: Бхагавад-гита
     slug: bhagavad-gita
+verses:
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
 ---
 
 # Бхагавад-гита 6.30
+
+    йо ма̄м̇ паш́йати сарватра сарвам̇ ча майи паш́йати
+    тасйа̄хам̇ на пран̣аш́йа̄ми са ча ме на пран̣аш́йати
+
+«Для того, кто видит Меня во всем сущем и все сущее во Мне, Я никогда не буду потерян, и он никогда не будет потерян для Меня» (Бхагавад-гита, 6.30).
+
+---
 
 *йо ма̄м̇ паш́йати сарватра сарвам̇ ча майи паш́йати*\
 *тасйа̄хам̇ на пран̣аш́йа̄ми са ча ме на пран̣аш́йати* «Для того, кто видит Меня во всем сущем и все сущее во Мне, Я никогда не буду потерян, и он никогда не будет потерян для Меня» (Бхагавад-гита, 6.30).

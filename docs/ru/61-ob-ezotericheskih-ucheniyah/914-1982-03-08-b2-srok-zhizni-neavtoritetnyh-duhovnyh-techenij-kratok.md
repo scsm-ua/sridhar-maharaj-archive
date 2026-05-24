@@ -1,28 +1,17 @@
 ---
-slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+slug: 1982-03-08-b2_srok_zhizni_neavtoritetnyh_duhovnyh_techeniy_kratok
+record_id: 1982.03.08.B2
+title: Срок жизни неавторитетных духовных течений краток
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3595043
+  duration: 00:02:56
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
+date: 1982-03-08
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1982.03"
-    slug: 1982-03
-  - title: Бхакти-расамрита-синдху
-    slug: bhakti-rasamrita-sindhu
-  - title: Бхакти-расамрита-синдху 1.2.101
-    slug: bhakti-rasamrita-sindhu-1-2-101
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
-  - title: Бхагавад-гита 17.3
-    slug: bhagavad-gita-17-3
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
-    slug: shri-chajtanya-charitamrita-adi-lila-7-48
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
-    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.mp3
     title: аудиозапись в MP3 (2 мин. 56 сек., 3,5 МБ)
@@ -30,9 +19,21 @@ links:
     title: транскрипцию в RTF (19 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/914_1982.03.08.B2_SridharMj_Srok_zhizni_neavtoritetnyh_duhovnyh_techenij_kratok.pdf
     title: транскрипцию в PDF (141 КБ)
+legacy:
+  title: 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
+  index: "914"
+  filename: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok.md
+  slug: 914-1982-03-08-b2-srok-zhizni-neavtoritetnyh-duhovnyh-techenij-kratok
+tags:
+  - title: Бхакти-расамрита-синдху 1.2.101
+    slug: bhakti-rasamrita-sindhu-1-2-101
+  - title: Бхагавад-гита 17.3
+    slug: bhagavad-gita-17-3
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.48
+    slug: shri-chajtanya-charitamrita-adi-lila-7-48
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 8.83
+    slug: shri-chajtanya-charitamrita-madhya-lila-8-83
 ---
-
-# 914. 1982.03.08.B2. Срок жизни неавторитетных духовных течений краток
 
 Есть еще одна шлока в «Нарада-панчаратре» или в аналогичном произведении:
 

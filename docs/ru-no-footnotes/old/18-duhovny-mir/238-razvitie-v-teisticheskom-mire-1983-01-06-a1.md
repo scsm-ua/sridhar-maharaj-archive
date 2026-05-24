@@ -1,11 +1,18 @@
 ---
 slug: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1
+record_id: 1983.01.06.A1
+title: Развитие в теистическом мире
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4285713
+  duration: 00:08:44
+  src: /wp-content/uploads/2012/08/238_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
+date: 1983-01-06
 category:
   title: (18. Духовный мир)
   slug: 18-duhovny-mir
 tags:
-  - title: "1983.01"
-    slug: 1983-01
   - title: Духовный мир
     slug: duhovnyj-mir
   - title: Кришна
@@ -14,13 +21,14 @@ tags:
     slug: lyubov
   - title: Рупа Госвами
     slug: rupa-gosvami
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/238_1983.01.06.A1_SridharMj_Razvitie_v_teisticheskom_mire.mp3
     title: Скачать аудиозапись в mp3 (8 мин 44 сек, размер 4 Мб)
+legacy:
+  title: 238. Развитие в теистическом мире. 1983.01.06.A1
+  index: "238"
+  filename: 238-razvitie-v-teisticheskom-mire-1983-01-06-a1.md
 ---
-
-# 238. Развитие в теистическом мире. 1983.01.06.A1
 
 *#00:00:00#*
 

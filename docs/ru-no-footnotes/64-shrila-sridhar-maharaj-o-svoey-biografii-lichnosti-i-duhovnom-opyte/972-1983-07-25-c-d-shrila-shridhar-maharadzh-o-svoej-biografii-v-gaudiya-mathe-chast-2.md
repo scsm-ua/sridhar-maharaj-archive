@@ -1,12 +1,17 @@
 ---
-slug: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2
+slug: 1983-07-25-c-d_shrila_shridhar_maharadzh_o_svoey_biografii_v_gaudiya-mathe_chast_2
+record_id: 1983.07.25.C.D
+title: Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 2)
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 10045775
+  duration: 00:16:01
+  src: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.mp3
+date: 1983-07-25
 category:
   title: 64. Шрила Шридхар Махарадж о своей биографии, личности и духовном опыте
   slug: 64-shrila-sridhar-maharaj-o-svoey-biografii-lichnosti-i-duhovnom-opyte
-tags:
-  - title: "1983.07"
-    slug: 1983-07
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.mp3
     title: аудиозапись в MP3 (16 мин. 26 сек., 9,6 МБ)
@@ -14,9 +19,13 @@ links:
     title: транскрипцию в RTF (147 КБ)
   - href: /dl/64._Shrila_Sridhar_Maharaj_o_svoey_biografii,_lichnosti_i_duhovnom_opyte/972_1983.07.25.C.D_SridharMj_O_svoey_biografii_v_Gaudiya-mathe_part2.pdf
     title: транскрипцию в PDF (163 КБ)
+legacy:
+  title: 972. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в
+    Гаудия-матхе (часть 2)
+  index: "972"
+  filename: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2.md
+  slug: 972-1983-07-25-c-d-shrila-shridhar-maharadzh-o-svoej-biografii-v-gaudiya-mathe-chast-2
 ---
-
-# 972. 1983.07.25.C.D. Шрила Шридхар Махарадж о своей биографии в Гаудия-матхе (часть 2)
 
 **Преданный:** Васудев считал, что «Ананта-самхита» не есть настоящая *шастра*, подлинная, древняя?
 
@@ -40,7 +49,7 @@ links:
 
 *#00:05:55#*
 
-Концепция Высшего Существа такова. Он знает цель каждого движения, даже движения травинки. Что непонятно для нас, в высшей степени очевидно для Него. Полнота знания только у Него, призвана удовлетворять Его. Концепции различных интересов — все они ложны, фальшивы по сравнению с Абсолютной концепцией. *Ча̄ртхешв абхиджн̃ах̣.* Истинная цель, значение, прочтение каждого события в Его руках.
+Концепция Высшего Существа такова. Он знает цель каждого движения, даже движения травинки. Что непонятно для нас, в высшей степени очевидно для Него. Полнота знания только у Него, призвана удовлетворять Его. Концепции различных интересов — все они ложны, фальшивы по сравнению с Абсолютной концепцией. *Ча̄ртхешв абхиджн̃ах̣*. Истинная цель, значение, прочтение каждого события в Его руках.
 
 *#00:06:50#*
 

@@ -1,5 +1,12 @@
 ---
-slug: 1146-shriman-nitjananda-dvadashakam
+slug: shriman_nityananda_dvadashakam
+title: Шриман Нитйананда Двадашакам
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14058610
+  duration: 00:05:50
+  src: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.mp3
 category:
   title: 75. Поэзия Шрилы Б.Р. Шридхара Махараджа в исполнении Шрилы Б.С. Говинды
     Махараджа
@@ -7,7 +14,6 @@ category:
 tags:
   - title: Поэзия Шридхара Махараджа
     slug: poeziya-shridhara-maharadzha
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.mp3
     title: аудиозапись в MP3 (5 мин. 50 сек., 13,5 МБ)
@@ -15,9 +21,12 @@ links:
     title: транскрипцию в RTF (26 КБ)
   - href: /dl/75._Poeziya_Shrily_B.R._Sridhara_Maharaja_v_ispolnenii_Shrily_B.S._Govindy_Maharaja/1146_Sriman_Nityananda_Dvadasakam.pdf
     title: транскрипцию в PDF (137 КБ)
+legacy:
+  title: 1146. Шриман Нитйананда Двадашакам
+  index: "1146"
+  filename: 1146-shriman-nitjananda-dvadashakam.md
+  slug: 1146-shriman-nitjananda-dvadashakam
 ---
-
-# 1146. Шриман Нитйананда Двадашакам
 
 **(Двенадцать молитв, раскрывающих онтологическое положение и игры Господа Нитьянанды, составленных Шрилой Бхакти Ракшаком Шридхаром Дев-Госвами Махараджем)**
 

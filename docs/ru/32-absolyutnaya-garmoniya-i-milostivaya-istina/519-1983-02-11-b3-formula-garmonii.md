@@ -1,16 +1,17 @@
 ---
-slug: 519-1983-02-11-b3-formula-garmonii
+slug: 1983-02-11-b3_formula_garmonii
+record_id: 1983.02.11.B3
+title: Формула гармонии
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 4823782
+  duration: 00:05:13
+  src: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
+date: 1983-02-11
 category:
   title: 32. Абсолютная гармония и милостивая истина
   slug: 32-absolyutnaya-garmoniya-i-milostivaya-istina
-tags:
-  - title: "1983.02"
-    slug: 1983-02
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 1.1.1
-    slug: shrimad-bhagavatam-1-1-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.mp3
     title: аудиозапись в MP3 (5 мин. 12 сек., 4,7 МБ)
@@ -18,9 +19,17 @@ links:
     title: транскрипцию в RTF (70 КБ)
   - href: /dl/32._Absolyutnaya_garmoniya_i_milostivaya_istina/519_1983.02.11.B3_SridharMj_Formula_garmonii.pdf
     title: транскрипцию в PDF (138 КБ)
+legacy:
+  title: 519. 1983.02.11.B3. Формула гармонии
+  index: "519"
+  filename: 519-1983-02-11-b3-formula-garmonii.md
+  slug: 519-1983-02-11-b3-formula-garmonii
+tags:
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
+  - title: Шримад-Бхагаватам 1.1.1
+    slug: shrimad-bhagavatam-1-1-1
 ---
-
-# 519. 1983.02.11.B3. Формула гармонии
 
 Высочайшая концепция Безграничного способна привести в гармонию все вещи, реалии, которые на первый, поверхностный взгляд ограничены. Они также могут быть приведены в гармонию, гармонизированы. Воровство, ложь и другие явления, которые предстают очень предосудительными, также могут быть гармонизированы, приведены в гармонию Абсолютным благом.
 

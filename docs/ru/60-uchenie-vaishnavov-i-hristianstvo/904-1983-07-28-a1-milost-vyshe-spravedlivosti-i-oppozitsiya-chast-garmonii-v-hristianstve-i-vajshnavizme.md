@@ -1,25 +1,38 @@
 ---
-slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
+slug: 1983-07-28-a1_milost_vyshe_spravedlivosti_i_oppozitsiya_chast_garmonii_v_hristianstve_i_vayshnavizme
+record_id: 1983.07.28.A1
+title: «Милость выше справедливости» и «оппозиция – часть гармонии» в
+  христианстве и вайшнавизме
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 14520456
+  duration: 00:26:43
+  src: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
+date: 1983-07-28
 category:
   title: 60. Учение вайшнавов и Христианство
   slug: 60-uchenie-vaishnavov-i-hristianstvo
+links:
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
+    title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.rtf
+    title: транскрипцию в RTF (196 КБ)
+  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.pdf
+    title: транскрипцию в PDF (203 КБ)
+legacy:
+  title: 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть
+    гармонии» в христианстве и вайшнавизме
+  index: "904"
+  filename: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme.md
+  slug: 904-1983-07-28-a1-milost-vyshe-spravedlivosti-i-oppozitsiya-chast-garmonii-v-hristianstve-i-vajshnavizme
 tags:
-  - title: "1983.07"
-    slug: 1983-07
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 10.42
     slug: bhagavad-gita-10-42
-  - title: «Шри Чайтанья-чаритамрита», Антья-лила
-    slug: shri-chajtanya-charitamrita-antya-lila
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 4.194
     slug: shri-chajtanya-charitamrita-antya-lila-4-194
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.103
     slug: shri-chajtanya-charitamrita-madhya-lila-22-103
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
   - title: Шримад-Бхагаватам 11.23.34
     slug: shrimad-bhagavatam-11-23-34
   - title: Бхагавад-гита 18.55
@@ -34,29 +47,17 @@ tags:
     slug: shrimad-bhagavatam-11-2-45
   - title: Бхагавад-гита 6.30
     slug: bhagavad-gita-6-30
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила
-    slug: shri-chajtanya-charitamrita-adi-lila
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 10.120
     slug: shri-chajtanya-charitamrita-adi-lila-10-120
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam
   - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.6"
     slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-6
   - title: Шримад-Бхагаватам 2.9.36
     slug: shrimad-bhagavatam-2-9-36
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.80
+    slug: shri-chajtanya-charitamrita-madhya-lila-17-80
   - title: Шримад-Бхагаватам 1.1.1
     slug: shrimad-bhagavatam-1-1-1
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
-links:
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.mp3
-    title: аудиозапись в MP3 (26 мин. 42 сек., 13,9 МБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.rtf
-    title: транскрипцию в RTF (196 КБ)
-  - href: /dl/60._Uchenie_vaishnavov_i_Hristianstvo/904_1983.07.28.A1_SridharMj_Milost_vyshe_spravedlivosti_i_oppozicija--chast_garmonii_v_hristianstve_i_vajshnavizme.pdf
-    title: транскрипцию в PDF (203 КБ)
 ---
-
-# 904. 1983.07.28.A1. «Милость выше справедливости» и «оппозиция – часть гармонии» в христианстве и вайшнавизме
 
 Насколько глубокой может быть наша реализация?
 

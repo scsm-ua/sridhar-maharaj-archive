@@ -1,5 +1,14 @@
 ---
 slug: 511-priroda-tantsa-mahaprabhu-v-stihe-66-pr
+record_id: 1982.01.08.C1
+title: Природа танца Махапрабху в стихе 66 «Према-дхама-дева-стотрам»
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3309527
+  duration: 00:06:19
+  src: /wp-content/uploads/2012/08/511_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_stihe_66_Prema-dhama-deva-stotram.mp3
+date: 1982-01-08
 category:
   title: (48. Книги и поэзия Шрилы Шридхара Махараджа)
   slug: 48-knigi-i-poeziya-srily-sridhara-maharaja
@@ -10,13 +19,15 @@ tags:
     slug: poeziya-shridhara-maharadzha
   - title: Према-дхама-дева-стотрам
     slug: prema-dhama-deva-stotram
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/511_1982.01.08.C1_SridharMj_Priroda_tanca_Mahaprabhu_v_stihe_66_Prema-dhama-deva-stotram.mp3
     title: Скачать аудиозапись в mp3 (6 мин 19 сек, размер 3 Мб)
+legacy:
+  title: 511. Природа танца Махапрабху в стихе 66 «Према-дхама-дева-стотрам».
+    1982.01.08.C1
+  index: "511"
+  filename: 511-priroda-tantsa-mahaprabhu-v-stihe-66-pr.md
 ---
-
-# 511. Природа танца Махапрабху в стихе 66 «Према-дхама-дева-стотрам». 1982.01.08.C1
 
 **Шридхар Махарадж:** В моей «Према-дхама-дева-стотрам» я также написал: «Высочайшая концепция Абсолюта не может не быть концепцией высочайшей формы анандам, расам. И это сознательная раса. И Махапрабху танцует. Это указывает на то, что Он полон расы. А киртан есть раздача, распространение этой расы. Его танец подразумевает, что Он достиг зенита расы. А Его киртан означает, что Он стремится раздавать это явление другим.
 

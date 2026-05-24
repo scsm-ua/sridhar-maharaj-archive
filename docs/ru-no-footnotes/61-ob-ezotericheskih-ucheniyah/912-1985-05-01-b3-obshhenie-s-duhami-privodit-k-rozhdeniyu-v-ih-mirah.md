@@ -1,12 +1,17 @@
 ---
-slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
+slug: 1985-05-01-b3_obshchenie_s_duhami_privodit_k_rozhdeniyu_v_ih_mirah
+record_id: 1985.05.01.B3
+title: Общение с духами приводит к рождению в их мирах
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5902388
+  duration: 00:10:41
+  src: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
+date: 1985-05-01
 category:
   title: 61. Об эзотерических учениях
   slug: 61-ob-ezotericheskih-ucheniyah
-tags:
-  - title: "1985.05"
-    slug: 1985-05
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.mp3
     title: аудиозапись в MP3 (10 мин. 40 сек., 5,7 МБ)
@@ -14,9 +19,12 @@ links:
     title: транскрипцию в RTF (111 КБ)
   - href: /dl/61._Ob_ezotericheskih_ucheniyah/912_1985.05.01.B3_SridharMj_Obshcheniye_s_duhami_privodit_k_rojdeniyu_v_ih_mirah.pdf
     title: транскрипцию в PDF (162 КБ)
+legacy:
+  title: 912. 1985.05.01.B3. Общение с духами приводит к рождению в их мирах
+  index: "912"
+  filename: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah.md
+  slug: 912-1985-05-01-b3-obshhenie-s-duhami-privodit-k-rozhdeniyu-v-ih-mirah
 ---
-
-# 912. 1985.05.01.B3. Общение с духами приводит к рождению в их мирах
 
 **Деви Даси Тунгавидья:** У меня есть вопрос.
 

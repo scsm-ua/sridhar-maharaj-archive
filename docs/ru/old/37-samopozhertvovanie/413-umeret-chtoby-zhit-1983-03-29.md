@@ -1,20 +1,28 @@
 ---
 slug: 413-umeret-chtoby-zhit-1983-03-29
+record_id: 1983.03.29
+title: Умереть, чтобы жить
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 16571234
+  duration: 00:33:13
+  src: /wp-content/uploads/2012/08/413_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
+date: 1983-03-29
 category:
   title: (37. Самопожертвование)
   slug: 37-samopozhertvovanie
 tags:
-  - title: "1983.03"
-    slug: 1983-03
   - title: Самопожертвование
     slug: samopozhertvovanie
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/413_1983.03.29_SridharMj_Umeret_chtobi_jit.mp3
     title: Скачать аудиозапись в mp3 (33 мин 13 сек, размер 16 Мб)
+legacy:
+  title: 413. Умереть, чтобы жить. 1983.03.29
+  index: "413"
+  filename: 413-umeret-chtoby-zhit-1983-03-29.md
 ---
-
-# 413. Умереть, чтобы жить. 1983.03.29
 
 *#00:00:03#*
 

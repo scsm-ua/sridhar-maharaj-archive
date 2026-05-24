@@ -3,9 +3,11 @@ slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
 refs:
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/934-1982-01-30-a-b-odin-svyatoj-den-1982.md
   - ../../63-zhizn-i-otkroveniya-svyatyh-vaishnavov/948-1982-04-07-a1-nastavlenie-mahaprabhu-i-molitvy-raghunatha-k-rupe-i-sanatane.md
-tags:
+  - ../../_full/1982/01/1982.01.30.B.md
+scriptures:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила
     slug: shri-chajtanya-charitamrita-antya-lila
+verses:
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 6.236–237
     slug: shri-chajtanya-charitamrita-antya-lila-6-236-237
 ---

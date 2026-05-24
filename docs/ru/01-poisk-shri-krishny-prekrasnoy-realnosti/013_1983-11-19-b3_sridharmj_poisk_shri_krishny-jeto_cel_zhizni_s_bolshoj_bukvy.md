@@ -1,28 +1,17 @@
 ---
-slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
+slug: 1983-11-19-b3_poisk_shri_krishny_eto_tsel_zhizni_s_bolshoy_bukvy
+record_id: 1983.11.19.B3
+title: Поиск Шри Кришны — это Цель жизни с большой буквы
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6488545
+  duration: 00:06:36
+  src: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
+date: 1983-11-19
 category:
   title: 01. Поиск Шри Кришны, Прекрасной Реальности
   slug: 01-poisk-shri-krishny-prekrasnoy-realnosti
-tags:
-  - title: "1983.11"
-    slug: 1983-11
-  - title: Ману-самхита
-    slug: manu-samhita
-  - title: Ману-самхита 2.1
-    slug: manu-samhita-2-1
-  - title: Веданта-сутра
-    slug: vedanta-sutra
-  - title: Веданта-сутра 1.1.1
-    slug: vedanta-sutra-1-1-1
-  - title: Таиттирия-упанишад
-    slug: taittiriya-upanishad
-  - title: Таиттирия-упанишад 3.1.1
-    slug: taittiriya-upanishad-3-1-1
-  - title: Шримад-Бхагаватам
-    slug: shrimad-bhagavatam
-  - title: Шримад-Бхагаватам 7.5.31
-    slug: shrimad-bhagavatam-7-5-31
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.mp3
     title: аудиозапись в MP3 (06 мин. 36 сек., 6.2 МБ)
@@ -30,9 +19,23 @@ links:
     title: транскрипцию в RTF (100 КБ)
   - href: /dl/01._Poisk_Shri_Krishny,_Prekrasnoy_Realnosti/013_1983.11.19.B3_SridharMj_Poisk_Shri_Krishny--jeto_Cel_zhizni_s_bolshoj_bukvy.pdf
     title: транскрипцию в PDF (183 КБ)
+legacy:
+  title: 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
+  index: "013"
+  filename: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy.md
+  slug: 013_1983-11-19-b3_sridharmj_poisk_shri_krishny-jeto_cel_zhizni_s_bolshoj_bukvy
+editors:
+  - Транскрипция: Гандхарва Д.Д.
+tags:
+  - title: Ману-самхита 2.1
+    slug: manu-samhita-2-1
+  - title: Веданта-сутра 1.1.1
+    slug: vedanta-sutra-1-1-1
+  - title: Таиттирия-упанишад 3.1.1
+    slug: taittiriya-upanishad-3-1-1
+  - title: Шримад-Бхагаватам 7.5.31
+    slug: shrimad-bhagavatam-7-5-31
 ---
-
-# 013. 1983.11.19.B3  Поиск Шри Кришны — это Цель жизни с большой буквы
 
 Прогресс подразумевает отвержение и принятие. Таким образом нам советуют приближаться к Кришна-концепции Бога, в которой присутствует разнообразие: все виды *расы*, *ананды* — радости и счастья (можно назвать это как угодно), удовлетворение, насыщение наших внутренних чаяний, потребностей. *Хр̣дайена̄бхйану джн̃а̄то*:[^_ftn1] полнота удовлетворения чаяний, жажды наших сердец.
 
@@ -82,10 +85,6 @@ links:
 Ом Вишнупад Бхактисиддханта Сарасвати Госвами Прабхупада ки джай!
 
 **Преданный:** Ом Вишнупад Парамахамса Паривраджакачарья-варья Аштоттара-шата-шри Шримад Бхакти Ракшак Шридхар Дев-Госвами ки джай!
-
-*Транскрипцию выполнила: Гандхарва Д.Д.*
-
-
 
 [^_ftn1]: [Ману-самхита 2.1](../notes/manu-samhita/manu-samhita-2-1.md)
 

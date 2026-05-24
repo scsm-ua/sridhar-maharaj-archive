@@ -1,24 +1,26 @@
 ---
-slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
+slug: 1982-03-30-b4_v_redkih_sluchayah_sadhu_mozhet_osvobodit_dushu_iz_brahmana
+record_id: 1982.03.30.B4
+title: В редких случаях садху может освободить душу из Брахмана
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 5715987
+  duration: 00:04:15
+  src: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3
+date: 1982-03-30
 category:
   title: 37. Душа в сферах материальной и духовной энергии
   slug: 37-dusha-v-sferah-materialnoy-i-duhovnoy-energii
 tags:
-  - title: "1982.03"
-    slug: 1982-03
   - title: Душа
     slug: dusha
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила
-    slug: shri-chajtanya-charitamrita-madhya-lila
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153
     slug: shri-chajtanya-charitamrita-madhya-lila-19-153
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.154
     slug: shri-chajtanya-charitamrita-madhya-lila-19-154
-  - title: Бхагавад-гита
-    slug: bhagavad-gita
   - title: Бхагавад-гита 15.16
     slug: bhagavad-gita-15-16
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.mp3
     title: аудиозапись в MP3 (4 мин. 15 сек., 5,5 МБ)
@@ -26,9 +28,12 @@ links:
     title: транскрипцию в DOCX (21 КБ)
   - href: /dl/37._Dusha_v_sferah_materialnoy_i_duhovnoy_energii/607_1982.03.30.B4_SridharMj_V_redkih_sluchajah_sadhu_mozhet_osvobodit_dushu_iz_Brahmana.pdf
     title: транскрипцию в PDF (145 КБ)
+legacy:
+  title: 607. 1982.03.30.B4. В редких случаях садху может освободить душу из Брахмана
+  index: "607"
+  filename: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana.md
+  slug: 607-1982-03-30-b4-v-redkih-sluchayah-sadhu-mozhet-osvobodit-dushu-iz-brahmana
 ---
-
-# 607. 1982.03.30.B4. В редких случаях садху может освободить душу из Брахмана
 
 **Преданный:** Вот там, в задних рядах есть вопрос.
 

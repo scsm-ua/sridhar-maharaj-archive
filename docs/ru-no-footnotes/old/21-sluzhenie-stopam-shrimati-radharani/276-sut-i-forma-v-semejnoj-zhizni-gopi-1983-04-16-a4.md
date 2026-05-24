@@ -1,20 +1,28 @@
 ---
 slug: 276-sut-i-forma-v-semejnoj-zhizni-gopi-1983-04-16-a4
+record_id: 1983.04.16.A4
+title: Суть и форма в семейной жизни гопи
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 6720627
+  duration: 00:13:21
+  src: /wp-content/uploads/2012/08/276_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
+date: 1983-04-16
 category:
   title: (21. Служение стопам Шримати Радхарани)
   slug: 21-sluzhenie-stopam-shrimati-radharani
 tags:
-  - title: "1983.04"
-    slug: 1983-04
   - title: Бхакти
     slug: bhakti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/276_1983.04.16.A4_SridharMj_Sut_i_forma_v_semeynoy_jizni_gopi.mp3
     title: Скачать аудиозапись в mp3 (13 мин 21 сек, размер 6 Мб)
+legacy:
+  title: 276. Суть и форма в семейной жизни гопи. 1983.04.16.A4
+  index: "276"
+  filename: 276-sut-i-forma-v-semejnoj-zhizni-gopi-1983-04-16-a4.md
 ---
-
-# 276. Суть и форма в семейной жизни гопи. 1983.04.16.A4
 
 **Ученик:** Махарадж, кто-то может спросить, в Шримад Бхагаватам мы видим: гопи Вриндавана в определенном моменте были, очень хотели обрести даршан Кришны, но не могли, поскольку их мужья препятствовали им. И в это время некоторые их них оставили свои тела.
 

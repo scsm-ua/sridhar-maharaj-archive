@@ -1,5 +1,13 @@
 ---
 slug: 388-pochemu-v-nekotoryh-vajshnavskih-hram
+title: Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле?
+  Мгновения прекрасной реальности, часть 4.3
+author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
+lang: ru
+audio:
+  bytes: 3422712
+  duration: 00:09:37
+  src: /wp-content/uploads/2012/08/388_MgnoveniyaPR_4.3_SridharMj_Pochemu_v_nekotoryh_vaishnavskih_hramah_poklonyayutsya_shalagram-shile.mp3
 category:
   title: (32. О поклонении Божествам)
   slug: 32-o-poklonenii-bozhestvam
@@ -8,13 +16,15 @@ tags:
     slug: bozhestvo
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 links:
   - href: /wp-content/uploads/2012/08/388_MgnoveniyaPR_4.3_SridharMj_Pochemu_v_nekotoryh_vaishnavskih_hramah_poklonyayutsya_shalagram-shile.mp3
     title: Скачать аудиозапись в mp3 (9 мин 37 сек, размер 3 Мб)
+legacy:
+  title: 388. Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле?
+    Мгновения прекрасной реальности, часть 4.3
+  index: "388"
+  filename: 388-pochemu-v-nekotoryh-vajshnavskih-hram.md
 ---
-
-# 388. Почему в некоторых вайшнавских храмах поклоняются шалаграм-шиле? Мгновения прекрасной реальности, часть 4.3
 
 **Слушатель:** Махарадж, Вы сказали, что Махапрабху поклонялся Говардхана Шиле. Почему же мы видим, что в Гаудийа-вайшнавских храмах есть Шалаграма Шила и им поклоняются там?
 
