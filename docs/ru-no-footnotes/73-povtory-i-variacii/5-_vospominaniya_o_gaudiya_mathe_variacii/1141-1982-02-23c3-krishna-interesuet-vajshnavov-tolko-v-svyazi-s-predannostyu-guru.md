@@ -1,7 +1,7 @@
 ---
-slug: 1982-02-23_c3_krishna_interesuet_vayshnavov_tolko_v_svyazi_s_predannostyu_guru
-record_id: 1982.02.23
-title: C3. Кришна интересует вайшнавов только в связи с преданностью Гуру.
+slug: 1982-02-23-c3_krishna_interesuet_vayshnavov_tolko_v_svyazi_s_predannostyu_guru
+record_id: 1982.02.23.C3
+title: Кришна интересует вайшнавов только в связи с преданностью Гуру
 author: Шрила Бхакти Ракшак Шридхар Дев-Госвами Махарадж
 lang: ru
 audio:
