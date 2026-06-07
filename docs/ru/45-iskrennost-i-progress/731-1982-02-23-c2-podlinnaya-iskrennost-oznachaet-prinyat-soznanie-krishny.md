@@ -15,10 +15,10 @@ category:
 tags:
   - title: Мгновения прекрасной реальности
     slug: mgnoveniya-prekrasnoj-realnosti
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.1
-    slug: shri-chajtanya-charitamrita-adi-lila-1-1-1
-  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1.34
-    slug: shri-chajtanya-charitamrita-adi-lila-1-1-34
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.1
+    slug: shri-chajtanya-charitamrita-adi-lila-1-1
+  - title: «Шри Чайтанья-чаритамрита», Ади-лила 1.34
+    slug: shri-chajtanya-charitamrita-adi-lila-1-34
 links:
   - href: /dl/45._Iskrennost_i_progress/731_1982.02.23.C2_SridharMj_Podlinnaya_iskrennost_oznachayet_prinyat_Soznaniye_Krishny.mp3
     title: аудиозапись в MP3 (6 мин. 21 сек., 3,1 МБ)
@@ -80,6 +80,6 @@ legacy:
 
 
 
-[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.1.1](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-1-1.md)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Ади-лила 1.1](../notes/shri-chajtanya-charitamrita-adi-lila/shri-chajtanya-charitamrita-adi-lila-1-1.md)
 
 [^_ftn2]: [*ванде ‘хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-пада-камалам̇ ш́рӣ-гурӯн ваиш̣н̣ава̄м̇ш́ ча, ш́рӣ-рӯпам̇ са̄граджа̄там̇ саха-ган̣а-рагхуна̄тха̄нвитам̇ там̇ са-джӣвам / са̄дваитам̇ са̄вадхӯтам̇ париджана-сахитам̇ кр̣ш̣н̣а-чаитанйа-девам̇, ш́рӣ-ра̄дха̄-кр̣ш̣н̣а-па̄да̄н саха-ган̣а-лалита̄-ш́рӣ-виш́а̄кха̄нвита̄м̇ш́ ча*](../notes/shloka/vande-ham-shrjo-guroh-shrjo.md)

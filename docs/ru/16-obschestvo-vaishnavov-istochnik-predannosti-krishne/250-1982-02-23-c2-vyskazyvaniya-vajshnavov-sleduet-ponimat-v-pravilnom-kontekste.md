@@ -26,8 +26,10 @@ legacy:
   filename: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste.md
   slug: 250-1982-02-23-c2-vyskazyvaniya-vajshnavov-sleduet-ponimat-v-pravilnom-kontekste
 tags:
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19
-    slug: shri-chajtanya-charitamrita-madhya-lila-2-23-18-19
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19
+    slug: shri-chajtanya-charitamrita-madhya-lila-23-18-19
+  - title: Бхакти-расамрита-синдху 1.3.25–26
+    slug: bhakti-rasamrita-sindhu-1-3-25-26
 ---
 
 Всякий раз, когда мы имеем приблизительное представление о том, что нечто есть Истина, мы не можем понять во всей полноте это явление. Но если мы следуем этой линии, то постепенно понимание, реализация приходят к нам. Многие вещи, явления мы по-прежнему находим в *шастре*. В процессе реализации подобные явления станут ясны нам. *Бхава-бхакти*.
@@ -52,4 +54,4 @@ tags:
 
 
 
-[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-23-18-19.md)
+[^_ftn1]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 23.18–19](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-23-18-19.md)

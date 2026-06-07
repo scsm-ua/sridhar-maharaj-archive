@@ -21,8 +21,8 @@ tags:
     slug: upadeshamrita-9
   - title: ШБ 9.4.63
     slug: shb-9-4-63
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2
   - title: Шри Упадешамрита 9
     slug: shri-upadeshamrita-9
   - title: Шримад-Бхагаватам 9.4.63
@@ -145,7 +145,7 @@ legacy:
 
 
 
-[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2.md)
 
 [^_ftn2]: [Шри Упадешамрита 9](../notes/shri-upadeshamrita/shri-upadeshamrita-9.md)
 

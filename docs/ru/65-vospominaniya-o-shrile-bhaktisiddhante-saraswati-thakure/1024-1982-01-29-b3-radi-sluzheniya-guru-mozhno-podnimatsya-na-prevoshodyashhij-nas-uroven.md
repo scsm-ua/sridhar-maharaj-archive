@@ -30,8 +30,8 @@ tags:
     slug: shri-chajtanya-charitamrita-antya-lila-13-39
   - title: Шри Шикшаштакам 3
     slug: shri-shikshashtakam-3
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 10.178
     slug: shri-chajtanya-charitamrita-madhya-lila-10-178
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.133
@@ -160,6 +160,6 @@ tags:
 
 [^_ftn4]: [Шри Шикшаштакам 3](../notes/shri-shikshashtakam/shri-shikshashtakam-3.md)
 
-[^_ftn5]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn5]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 10.178](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-10-178.md)

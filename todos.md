@@ -6,3 +6,8 @@ without record id
 
 Small additional categories inside:
     docs/ru/73-povtory-i-variacii
+
+
+Search shlokas scriptures
+
+move verse from body to footnote?

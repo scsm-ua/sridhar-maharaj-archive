@@ -25,8 +25,8 @@ legacy:
   filename: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti.md
   slug: 1097-1983-11-12-b4-interes-k-ontologii-predpolagaet-stremlenie-k-realnosti
 tags:
-  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2"
-    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2
+  - title: "Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2"
+    slug: bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2
 ---
 
 **Преданный:** То, что вы говорите, ваши объяснения — где еще люди могут услышать их? Нет места, где люди могли бы услышать подобные объяснения.
@@ -45,4 +45,4 @@ tags:
 
 
 
-[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8–1.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-1-2.md)
+[^_ftn1]: [Бхактивинод Тхакур, цикл песен: Шри Шикшаштакам 8.2](../notes/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam/bhaktivinod-thakur-cikl-pesen-shri-shikshashtakam-8-2.md)

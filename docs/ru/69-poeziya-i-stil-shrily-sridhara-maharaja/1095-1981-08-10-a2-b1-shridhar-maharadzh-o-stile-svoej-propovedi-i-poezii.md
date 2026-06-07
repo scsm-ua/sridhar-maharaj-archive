@@ -29,8 +29,8 @@ tags:
     slug: shri-vilapa-kusumandzhali-6
   - title: Шримад Бхактивинода-вираха Дашакам 7
     slug: shrimad-bhaktivinoda-viraha-dashakam-7
-  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154
-    slug: shri-chajtanya-charitamrita-madhya-lila-19-153-19-154
+  - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–154
+    slug: shri-chajtanya-charitamrita-madhya-lila-19-153-154
   - title: Шримад Бхактивинода-вираха Дашакам 9
     slug: shrimad-bhaktivinoda-viraha-dashakam-9
   - title: Шри Дайита Даса Пранати Панчакам 4
@@ -265,7 +265,7 @@ tags:
 
 [^_ftn2]: [Шримад Бхактивинода-вираха Дашакам 7](../notes/shrimad-bhaktivinoda-viraha-dashakam/shrimad-bhaktivinoda-viraha-dashakam-7.md)
 
-[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–19.154](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-153-19-154.md)
+[^_ftn3]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.153–154](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-153-154.md)
 
 [^_ftn4]: [Шримад Бхактивинода-вираха Дашакам 9](../notes/shrimad-bhaktivinoda-viraha-dashakam/shrimad-bhaktivinoda-viraha-dashakam-9.md)
 
