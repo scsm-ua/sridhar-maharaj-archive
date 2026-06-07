@@ -16,8 +16,8 @@ category:
 tags:
   - title: Риг-веда
     slug: rig-veda
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 22.30
     slug: shri-chajtanya-charitamrita-madhya-lila-22-30
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 24.131
@@ -144,6 +144,6 @@ legacy:
 
 [^_ftn1]: Мантра Риг-веды, расширенная Шрилой Шридхаром Махараджем.
 
-[^_ftn2]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn2]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)
 
 [^_ftn3]: [Шримад-Бхагаватам 10.2.32](../notes/shrimad-bhagavatam/shrimad-bhagavatam-10-2-32.md)

@@ -19,8 +19,8 @@ tags:
     slug: shri-chajtanya-charitamrita-madhya-lila-9-32
   - title: Шримад-Бхагаватам 6.3.19
     slug: shrimad-bhagavatam-6-3-19
-  - title: «Махабхараты», Вана-парва 313.117
-    slug: mahabharaty-vana-parva-313-117
+  - title: «Махабхарата», Вана-парва 313.117
+    slug: mahabharata-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57

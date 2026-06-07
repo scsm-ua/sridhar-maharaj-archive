@@ -33,8 +33,8 @@ tags:
     slug: shri-shikshashtakam-3
   - title: Шри Ишопанишад 1
     slug: shri-ishopanishad-1
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 19.167
     slug: shri-chajtanya-charitamrita-madhya-lila-19-167
   - title: Бхакти-расамрита-синдху 1.1.11
@@ -189,7 +189,7 @@ tags:
 
 [^_ftn4]: [Шри Ишопанишад 1](../notes/shri-ishopanishad/shri-ishopanishad-1.md)
 
-[^_ftn5]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn5]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)
 
 [^_ftn6]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 19.167](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-19-167.md)
 

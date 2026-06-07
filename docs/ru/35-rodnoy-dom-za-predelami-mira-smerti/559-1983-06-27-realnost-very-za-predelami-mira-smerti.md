@@ -51,8 +51,8 @@ tags:
     slug: bhakti-sandarbha-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 2.50
     slug: shri-chajtanya-charitamrita-madhya-lila-2-50
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 2.86
     slug: shri-chajtanya-charitamrita-adi-lila-2-86
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 7.10
@@ -462,7 +462,7 @@ tags:
 
 [^_ftn11]: [«Шри Чайтанья-чаритамрита», Мадхья-лила 2.50](../notes/shri-chajtanya-charitamrita-madhya-lila/shri-chajtanya-charitamrita-madhya-lila-2-50.md)
 
-[^_ftn12]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn12]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)
 
 [^_ftn13]: [*андхи бхута чакшу йара вишайа дхулите кемане се пара-таттва паибе декхите*](../notes/shloka/andhi-bhuta-chakshu-jara-vishaja.md)
 

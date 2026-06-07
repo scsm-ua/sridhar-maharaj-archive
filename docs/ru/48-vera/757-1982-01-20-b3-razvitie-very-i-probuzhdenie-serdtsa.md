@@ -15,8 +15,8 @@ category:
 tags:
   - title: Вера
     slug: vera
-  - title: «Махабхараты», Бхишма-парва 5.22
-    slug: mahabharaty-bhishma-parva-5-22
+  - title: «Махабхарата», Бхишма-парва 5.22
+    slug: mahabharata-bhishma-parva-5-22
   - title: «Шри Чайтанья-чаритамрита», Ади-лила 17.308
     slug: shri-chajtanya-charitamrita-adi-lila-17-308
   - title: Бхакти-расамрита-синдху 2.5.93

@@ -15,8 +15,8 @@ category:
 tags:
   - title: Риг-веда
     slug: rig-veda
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
   - title: «Шри Чайтанья-чаритамрита», Антья-лила 5.123
     slug: shri-chajtanya-charitamrita-antya-lila-5-123
   - title: Лагху-бхагаватамрита 1.5.342
@@ -76,6 +76,6 @@ legacy:
 
 
 
-[^_ftn1]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn1]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)
 
 [^_ftn2]: [«Шри Чайтанья-чаритамрита», Антья-лила 5.123](../notes/shri-chajtanya-charitamrita-antya-lila/shri-chajtanya-charitamrita-antya-lila-5-123.md)

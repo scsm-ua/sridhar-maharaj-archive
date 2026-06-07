@@ -37,8 +37,8 @@ tags:
     slug: shri-vilapa-kusumandzhali-6
   - title: Бхакти-расамрита-синдху 1.2.234
     slug: bhakti-rasamrita-sindhu-1-2-234
-  - title: «Махабхараты», Вана-парва 313.117
-    slug: mahabharaty-vana-parva-313-117
+  - title: «Махабхарата», Вана-парва 313.117
+    slug: mahabharata-vana-parva-313-117
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 17.186
     slug: shri-chajtanya-charitamrita-madhya-lila-17-186
   - title: «Шри Чайтанья-чаритамрита», Мадхья-лила 25.57

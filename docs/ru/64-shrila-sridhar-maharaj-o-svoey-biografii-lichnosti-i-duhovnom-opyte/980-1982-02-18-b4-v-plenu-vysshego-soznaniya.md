@@ -29,8 +29,8 @@ tags:
     slug: bhagavad-gita-13-14
   - title: Бхагавад-гита 2.40
     slug: bhagavad-gita-2-40
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
 ---
 
 *«Онтология Прекрасной Реальности» (часть 1.8)*
@@ -100,4 +100,4 @@ tags:
 
 [^_ftn2]: [Бхагавад-гита 2.40](../notes/bhagavad-gita/bhagavad-gita-2-40.md)
 
-[^_ftn3]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn3]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)

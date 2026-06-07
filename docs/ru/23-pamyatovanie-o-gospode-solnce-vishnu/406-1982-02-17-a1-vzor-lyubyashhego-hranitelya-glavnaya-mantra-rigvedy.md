@@ -15,8 +15,8 @@ category:
 tags:
   - title: Риг-веда
     slug: rig-veda
-  - title: Риг-веда 1.22.20
-    slug: rig-veda-1-22-20
+  - title: Ригведа 1.22.20
+    slug: rigveda-1-22-20
   - title: Таиттирийа-упанишад 2.4.1
     slug: taittirija-upanishad-2-4-1
 links:
@@ -95,6 +95,6 @@ legacy:
 
 
 
-[^_ftn1]: [Риг-веда 1.22.20](../notes/rig-veda/rig-veda-1-22-20.md)
+[^_ftn1]: [Ригведа 1.22.20](../notes/rigveda/rigveda-1-22-20.md)
 
 [^_ftn2]: [Таиттирийа-упанишад 2.4.1](../notes/taittirija-upanishad/taittirija-upanishad-2-4-1.md)
