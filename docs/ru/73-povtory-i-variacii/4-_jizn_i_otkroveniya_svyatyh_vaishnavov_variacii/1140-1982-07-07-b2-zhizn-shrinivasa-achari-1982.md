@@ -10,7 +10,7 @@ audio:
   src: /dl/73._Povtory_i_variacii/4._Jizn_i_otkroveniya_svyatyh_vaishnavov_(variacii)/1140_1982.07.07.B2_SridharMj_Zhizn_Shrinivasa_Achari_1982.mp3
 date: 1982-07-07
 category:
-  title: 4. Жизнь и откровения святых вайшнавов (вариации)
+  title: 734. Жизнь и откровения святых вайшнавов (вариации)
   slug: 4-_jizn_i_otkroveniya_svyatyh_vaishnavov_variacii
 links:
   - href: /dl/73._Povtory_i_variacii/4._Jizn_i_otkroveniya_svyatyh_vaishnavov_(variacii)/1140_1982.07.07.B2_SridharMj_Zhizn_Shrinivasa_Achari_1982.mp3
