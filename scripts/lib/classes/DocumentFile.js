@@ -38,6 +38,9 @@ class DocumentFile {
         // if (this.filename === '../docs/ru/_full/1982/01/1982.01.09.md') {
         //     fs.writeFileSync('debug-nodes.json', JSON.stringify(this.nodes, null, 4));
         // }
+
+        this.footnotes_verses = this.getFootnoteVerses(this.nodes);
+        // console.log(JSON.stringify(this.footnotes_verses, null, 4));
         
         var footnotes_nodes = this.getFootnotesNodes(this.nodes);
         footnotes_nodes.forEach(nodes => {
@@ -116,6 +119,42 @@ class DocumentFile {
         var yml = '---\n' + stringify(this.meta) + '---\n\n';
 
         return yml + result;
+    }
+
+    getFootnoteVerses(nodes) {
+        // Collect verses blocks with footnote id after it.
+        // A verse block = one or more `code` nodes (optionally separated by `br`)
+        // terminated by a `p` node whose text is just a footnote reference `[^id]`.
+        var verses = {};
+        var current = [];
+        var footnote_ref_re = /^\[\^([^\]]+)\]$/;
+
+        nodes.forEach(node => {
+            if (node.type === 'code') {
+                current.push(node);
+            } else if (node.type === 'br') {
+                if (current.length > 0) {
+                    current.push(node);
+                }
+            } else if (node.type === 'p') {
+                var m = node.text.trim().match(footnote_ref_re);
+                if (m && current.some(n => n.type === 'code')) {
+                    // Strip trailing `br` nodes (not valid content in a verse block).
+                    if (current.length && current[current.length - 1].type === 'br') {
+                        console.warn('Trailing `br` nodes before footnote ref in verse block', this.filename, m[1]);
+                        while (current.length && current[current.length - 1].type === 'br') {
+                            current.pop();
+                        }
+                    }
+                    verses[m[1]] = current;
+                }
+                current = [];
+            } else {
+                current = [];
+            }
+        });
+
+        return verses;
     }
 
     getFootnotesNodes(nodes) {
@@ -210,6 +249,7 @@ class DocumentFile {
             }
         });
 
+        // Log lines.
         // console.log(JSON.stringify(nodes, null, 4))
 
         return nodes;

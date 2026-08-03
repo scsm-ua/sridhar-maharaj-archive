@@ -372,6 +372,7 @@ var SHLOKAS = [
     ],
     '*aндхи бхута чакшу йара вишайа дхулите кемане се пара-таттва паибе декхите*',
     [
+    "*ом бхур бхувах сваха, тат савитур вареньям / бхарго девасья дхимахи, дхийо йо нах прачодаяат*",
     '*гаятри-мантра: ом бхур бхувах свах тат савитур вареньям / бхарго девасья дхимахи дхийо йо нах прачодаят.*',
     '*ом бхур бхувах сваха*'
     ],
@@ -507,6 +508,37 @@ function setIntersection(setA, setB) {
     return intersection;
 }
 
+function trimMdEnd(md) {
+    // Strip leading newlines but preserve first-line indentation (code blocks), trim trailing whitespace
+    return md.replace(/^[\r\n]+/, '').trimEnd();
+}
+
+// First italic segment (>2 words) — the Sanskrit transliteration of the shloka.
+// Must appear at the very start of the body (only whitespace allowed before it),
+// otherwise it's just an inline italic phrase inside the translation.
+const FIRST_ITALIC_SECTION_RE = /^\s*\*([^*\n][^*]*?)\*(?=$|[\s,.;:!?)}\]])/u;
+
+const matchFirstItalicSection = (body) => {
+    const match = body.match(FIRST_ITALIC_SECTION_RE);
+    if (!match) {
+        return null;
+    }
+
+    const verse = match[1].trim();
+    const wordsCount = verse.split(/[-\s]+/u).filter(Boolean).length;
+
+    if (wordsCount <= 2) {
+        return null;
+    }
+
+    return { match, verse };
+};
+
+const extractFirstItalicSection = (body) => {
+    const result = matchFirstItalicSection(body);
+    return result ? result.verse : null;
+};
+
 class Footnote {
 
     constructor(documentFile, nodes) {
@@ -517,11 +549,13 @@ class Footnote {
 
         this.md = this.getMD();
 
+        this.footnote_vese_nodes = this.documentFile.footnotes_verses[this.id];
+
         // Lower case without punctuation to search matches position.
         var words = this.md.toLowerCase().split(/[\u00A0 \?,\.\-"\(\)\[\]\/»«\*\n‑–—]+/);
         this.words_str = words.join(' ');
 
-        // Revemo digints for words set
+        // Remove digits for words set
         this.words_set = new Set(this.words_str.split(/[ \d]+/).filter(i => !!i && i.length > 1));
 
         var scriptureNumbers = this.getScripturesNubmers();
@@ -766,6 +800,60 @@ class Footnote {
         }
     }
 
+    get id() {
+        return this.nodes[0].id;
+    }
+
+    getVerseMD() {
+        var md = '';
+
+        this.footnote_vese_nodes?.forEach(node => {
+            switch(node.type) {
+                case "code":
+                    md += '    ' + node.text  + '\n';
+                    break;
+                case "br":
+                    md += '\n';
+                    break;
+                default:
+                    // Other data not supported.
+                    break;
+            }
+        });
+
+        return trimMdEnd(md);
+    }
+
+    getVerseAndTextSplitted() {
+        const md = this.getMD();
+        const result = matchFirstItalicSection(md);
+        if (!result) {
+            // Fallback heuristic: verse likely present but missing italic markers.
+            // if (/\s[-–—]\s«/u.test(md)) {
+            //     console.warn(
+            //         'Footnote missing italic markers around verse:',
+            //         this.documentFile.filename
+            //     );
+            //     console.warn('')
+            //     console.warn(
+            //         JSON.stringify(md.slice(0, 120))
+            //     );
+            //     console.warn('')
+            //     console.warn('')
+            // }
+            return { verse: null, text: md };
+        }
+        let { match, verse } = result;
+        const text = md
+            .slice(match.index + match[0].length)
+            .replace(/^\s*[-–—]\s*/u, '')
+            .trim();
+
+        verse = verse.split(/\s*\/\s*/).map(s => '    ' + s).join('\n');
+
+        return { verse, text };
+    }
+
     getMD() {
         var md = '';
     
@@ -784,23 +872,23 @@ class Footnote {
             }
         });
     
-        return md;
+        return trimMdEnd(md);
     }
 
     renderDebug() {
-        return '# ' + this.nodes[0].id + '\n\n' + this.md;
+        return '# ' + this.id + '\n\n' + this.md;
     }
 
     renderDebugJson() {
         return {
-            name: this.nodes[0].id,
+            name: this.id,
             title: this.file?.title,
             text: this.md
         };
     }
 
     renderWithLink() {
-        var md = `[^${ this.nodes[0].id }]:`;
+        var md = `[^${ this.id }]:`;
         var first_line = true;
 
         // console.log(this.nodes)  
