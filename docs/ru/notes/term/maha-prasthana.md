@@ -15,6 +15,6 @@ Even to whom you should have obligation, the guru section, pita, mata, [indistin
 
 ….
 
----
+------
 
 *Маха-прастхана* (буквально — «великое путешествие», «великое отбытие») — смерть.

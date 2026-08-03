@@ -125,7 +125,7 @@ legacy:
 
 [^_ftn1]: [Шримад-Бхагаватам 2.10.6](../notes/shrimad-bhagavatam/shrimad-bhagavatam-2-10-6.md)
 
-[^_ftn2]: [*гаятри-мантра: ом бхур бхувах свах тат савитур вареньям / бхарго девасья дхимахи дхийо йо нах прачодаят.*](../notes/shloka/gayatri-mantra-om-bhur-bhuvah.md)
+[^_ftn2]: [*ом бхур бхувах сваха, тат савитур вареньям / бхарго девасья дхимахи, дхийо йо нах прачодаяат*](../notes/shloka/om-bhur-bhuvah-svaha-tat.md)
 
 [^_ftn3]: [Бхагавад-гита 13.34](../notes/bhagavad-gita/bhagavad-gita-13-34.md)
 
